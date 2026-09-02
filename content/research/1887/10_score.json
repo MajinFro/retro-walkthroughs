@@ -1,0 +1,15 @@
+﻿{
+  "generated_at": "2026-10-15T13:23:34.804Z",
+  "scores": {
+    "source_coverage": 81,
+    "accuracy": 100,
+    "achievement_coverage": 100,
+    "missable_coverage": 100,
+    "beginner_friendliness": 98,
+    "route_completeness": 100,
+    "true_100_coverage": 94
+  },
+  "overall": 96,
+  "verdict": "ACCEPTED",
+  "blockers": []
+}

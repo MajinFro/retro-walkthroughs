@@ -1,0 +1,1408 @@
+{
+  "nodes": [
+    {
+      "id": "SMB1_World1",
+      "label": "SMB1 World 1 (Grassland)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-6-1",
+        "ra-comments-6-2",
+        "neo1-3-1"
+      ]
+    },
+    {
+      "id": "SMB1_World2",
+      "label": "SMB1 World 2 (Underground)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-8-1",
+        "ra-comments-8-2",
+        "neo1-4-1"
+      ]
+    },
+    {
+      "id": "SMB1_World3",
+      "label": "SMB1 World 3 (Night Bridges)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-10-1",
+        "ra-comments-10-2",
+        "neo1-4-1"
+      ]
+    },
+    {
+      "id": "SMB1_World4",
+      "label": "SMB1 World 4 (Mushroom Peaks)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-12-1",
+        "ra-comments-12-2",
+        "neo1-5-1"
+      ]
+    },
+    {
+      "id": "SMB1_World5",
+      "label": "SMB1 World 5 (Snow Plains)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-14-1",
+        "ra-comments-14-2",
+        "neo1-5-1"
+      ]
+    },
+    {
+      "id": "SMB1_World6",
+      "label": "SMB1 World 6 (Night Mountain)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-16-1",
+        "ra-comments-16-2",
+        "neo1-5-1"
+      ]
+    },
+    {
+      "id": "SMB1_World7",
+      "label": "SMB1 World 7 (High Bridges)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-18-1",
+        "ra-comments-18-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "id": "SMB1_World8",
+      "label": "SMB1 World 8 (Bowser Fortress)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld1",
+      "label": "SMB1 Star World 1 (Buzzy Plains)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-22-1",
+        "ra-comments-22-2",
+        "neo2-58-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld2",
+      "label": "SMB1 Star World 2 (Subterranean)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-24-1",
+        "ra-comments-24-2",
+        "neo2-62-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld3",
+      "label": "SMB1 Star World 3 (Night Treks)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-26-1",
+        "ra-comments-26-2",
+        "neo2-65-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld4",
+      "label": "SMB1 Star World 4 (Perilous Shrooms)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-28-1",
+        "ra-comments-28-2",
+        "neo2-68-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld5",
+      "label": "SMB1 Star World 5 (Bullet Barrage)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-30-1",
+        "ra-comments-30-2",
+        "neo2-72-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld6",
+      "label": "SMB1 Star World 6 (Pipe Gauntlet)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-32-1",
+        "ra-comments-32-2",
+        "neo2-74-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld7",
+      "label": "SMB1 Star World 7 (Castle Approach)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-34-1",
+        "ra-comments-34-2",
+        "neo2-79-1"
+      ]
+    },
+    {
+      "id": "SMB1_StarWorld8",
+      "label": "SMB1 Star World 8 (Final Bastion)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-36-1",
+        "ra-comments-36-2",
+        "neo2-82-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World1",
+      "label": "SMBTLL World 1 (Intro Treachery)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-50-1",
+        "ra-comments-50-2",
+        "neo1-57-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World2",
+      "label": "SMBTLL World 2 (Wind Caverns)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-52-1",
+        "ra-comments-52-2",
+        "neo1-58-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World3",
+      "label": "SMBTLL World 3 (Snowy Treks)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-54-1",
+        "ra-comments-54-2",
+        "neo1-58-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World4",
+      "label": "SMBTLL World 4 (High Platforms)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-56-1",
+        "ra-comments-56-2",
+        "neo1-59-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World5",
+      "label": "SMBTLL World 5 (Gale Force Plains)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-58-1",
+        "ra-comments-58-2",
+        "neo1-59-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World6",
+      "label": "SMBTLL World 6 (Piranha Waters)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "neo1-60-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World7",
+      "label": "SMBTLL World 7 (Chasm Jumps)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-62-1",
+        "ra-comments-62-2",
+        "neo1-60-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World8",
+      "label": "SMBTLL World 8 (Lava Citadel)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-64-1",
+        "ra-comments-64-2",
+        "neo1-57-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_World9",
+      "label": "SMBTLL World 9 (Fantasy World)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_WorldA",
+      "label": "SMBTLL World A (Bonus World A)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-68-1",
+        "ra-comments-68-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_WorldB",
+      "label": "SMBTLL World B (Bonus World B)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-70-1",
+        "ra-comments-70-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_WorldC",
+      "label": "SMBTLL World C (Bonus World C)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-72-1",
+        "ra-comments-72-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "id": "SMBTLL_WorldD",
+      "label": "SMBTLL World D (Bonus World D)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-74-1",
+        "ra-comments-74-2",
+        "neo1-63-1"
+      ]
+    },
+    {
+      "id": "SMB2_World1",
+      "label": "SMB2 World 1 (Waterfall & Grass)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "id": "SMB2_World2",
+      "label": "SMB2 World 2 (Desert & Pyramids)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "id": "SMB2_World3",
+      "label": "SMB2 World 3 (Cloud Hills)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "id": "SMB2_World4",
+      "label": "SMB2 World 4 (Frozen Tundra)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-25-1"
+      ]
+    },
+    {
+      "id": "SMB2_World5",
+      "label": "SMB2 World 5 (Night Caverns)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-28-1"
+      ]
+    },
+    {
+      "id": "SMB2_World6",
+      "label": "SMB2 World 6 (Quicksand Waste)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "id": "SMB2_World7",
+      "label": "SMB2 World 7 (Sky Palace of Wart)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1"
+      ]
+    },
+    {
+      "id": "SMB2_SubconSpeedrun",
+      "label": "SMB2 Speedrun Route (Vase Warps)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-7-1",
+        "neo1-7-2"
+      ]
+    },
+    {
+      "id": "SMB2_CharacterTrial",
+      "label": "SMB2 Character Mastery (Single Contributor)",
+      "kind": "area",
+      "fact_ids": [
+        "neo1-11-1",
+        "neo1-11-2",
+        "neo1-13-1"
+      ]
+    },
+    {
+      "id": "SMB3_GrassLand",
+      "label": "SMB3 World 1 (Grass Land)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-154-1",
+        "ra-comments-154-2",
+        "neo1-40-1"
+      ]
+    },
+    {
+      "id": "SMB3_DesertHill",
+      "label": "SMB3 World 2 (Desert Hill)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-156-1",
+        "ra-comments-156-2",
+        "sw1-6-1"
+      ]
+    },
+    {
+      "id": "SMB3_SeaSide",
+      "label": "SMB3 World 3 (Sea Side)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-158-1",
+        "ra-comments-158-2",
+        "neo1-36-1"
+      ]
+    },
+    {
+      "id": "SMB3_WarpZone",
+      "label": "SMB3 World 9 (Warp Zone Island)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-186-1",
+        "ra-comments-186-2",
+        "neo1-35-1"
+      ]
+    },
+    {
+      "id": "SMB3_BigIsland",
+      "label": "SMB3 World 4 (Big Island)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-160-1",
+        "ra-comments-160-2",
+        "neo1-46-1"
+      ]
+    },
+    {
+      "id": "SMB3_TheSky",
+      "label": "SMB3 World 5 (The Sky)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-162-1",
+        "ra-comments-162-2",
+        "neo1-38-1"
+      ]
+    },
+    {
+      "id": "SMB3_IcedLand",
+      "label": "SMB3 World 6 (Iced Land)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-164-1",
+        "ra-comments-164-2",
+        "neo1-50-1"
+      ]
+    },
+    {
+      "id": "SMB3_PipeMaze",
+      "label": "SMB3 World 7 (Pipe Maze)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-166-1",
+        "ra-comments-166-2",
+        "neo1-35-1"
+      ]
+    },
+    {
+      "id": "SMB3_CastleOfKoopa",
+      "label": "SMB3 World 8 (Castle of Koopa)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1"
+      ]
+    },
+    {
+      "id": "Boss_BowserSMB1",
+      "label": "Bowser (SMB1 Castle)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "id": "Boss_BowserQuest2",
+      "label": "Bowser (Second Quest)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-36-1",
+        "ra-comments-36-2",
+        "neo2-82-1"
+      ]
+    },
+    {
+      "id": "Boss_BowserTLL",
+      "label": "Bowser (The Lost Levels)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-64-1",
+        "ra-comments-64-2",
+        "neo1-57-1"
+      ]
+    },
+    {
+      "id": "Boss_BowserWorldD",
+      "label": "Bowser (World D Citadel)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-74-1",
+        "ra-comments-74-2",
+        "neo1-63-1"
+      ]
+    },
+    {
+      "id": "Boss_Mouser1",
+      "label": "Mouser (World 1)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "id": "Boss_Tryclyde2",
+      "label": "Tryclyde (World 2)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "id": "Boss_Mouser3",
+      "label": "Mouser (World 3)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "id": "Boss_Fryguy4",
+      "label": "Fryguy (World 4)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-25-1"
+      ]
+    },
+    {
+      "id": "Boss_Clawgrip5",
+      "label": "Clawgrip (World 5)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-28-1"
+      ]
+    },
+    {
+      "id": "Boss_Tryclyde6",
+      "label": "Tryclyde (World 6)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "id": "Boss_MaskGate7",
+      "label": "Mask Gate (World 7)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-8-1",
+        "neo1-8-2",
+        "neo1-10-1"
+      ]
+    },
+    {
+      "id": "Boss_Wart7",
+      "label": "Wart (Subcon Tyrant)",
+      "kind": "boss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1"
+      ]
+    },
+    {
+      "id": "Boss_LarryKoopa",
+      "label": "Larry Koopa (Grass Land)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-154-1",
+        "ra-comments-154-2",
+        "neo1-40-1"
+      ]
+    },
+    {
+      "id": "Boss_MortonKoopa",
+      "label": "Morton Koopa Jr. (Desert Hill)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-156-1",
+        "ra-comments-156-2",
+        "sw1-6-1"
+      ]
+    },
+    {
+      "id": "Boss_WendyKoopa",
+      "label": "Wendy O. Koopa (Sea Side)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-158-1",
+        "ra-comments-158-2",
+        "neo1-36-1"
+      ]
+    },
+    {
+      "id": "Boss_IggyKoopa",
+      "label": "Iggy Koopa (Big Island)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-160-1",
+        "ra-comments-160-2",
+        "neo1-46-1"
+      ]
+    },
+    {
+      "id": "Boss_RoyKoopa",
+      "label": "Roy Koopa (The Sky)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-162-1",
+        "ra-comments-162-2",
+        "neo1-38-1"
+      ]
+    },
+    {
+      "id": "Boss_LemmyKoopa",
+      "label": "Lemmy Koopa (Iced Land)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-164-1",
+        "ra-comments-164-2",
+        "neo1-50-1"
+      ]
+    },
+    {
+      "id": "Boss_LudwigKoopa",
+      "label": "Ludwig von Koopa (Pipe Maze)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-166-1",
+        "ra-comments-166-2",
+        "neo1-35-1"
+      ]
+    },
+    {
+      "id": "Boss_BowserSMB3",
+      "label": "Bowser (Dark Land Throne)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1"
+      ]
+    },
+    {
+      "id": "PONR_SMB1Warp",
+      "label": "Point of No Return: SMB1 Castle Flagpoles",
+      "kind": "ponr",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "id": "PONR_SMBTLLWarpless",
+      "label": "Point of No Return: SMBTLL Warpless Requirement",
+      "kind": "ponr",
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "id": "PONR_SMB2WartDoor",
+      "label": "Point of No Return: SMB2 Wart Door",
+      "kind": "ponr",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1"
+      ]
+    },
+    {
+      "id": "PONR_SMB3Airship",
+      "label": "Point of No Return: SMB3 Airship Cleared",
+      "kind": "ponr",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "SMB1_World1",
+      "to": "SMB1_World2",
+      "kind": "leads_to",
+      "label": "Warp or Pipe",
+      "fact_ids": [
+        "ra-comments-6-1",
+        "ra-comments-6-2",
+        "neo1-3-1"
+      ]
+    },
+    {
+      "from": "SMB1_World2",
+      "to": "SMB1_World3",
+      "kind": "leads_to",
+      "label": "Overworld Path",
+      "fact_ids": [
+        "ra-comments-8-1",
+        "ra-comments-8-2",
+        "neo1-4-1"
+      ]
+    },
+    {
+      "from": "SMB1_World3",
+      "to": "SMB1_World4",
+      "kind": "leads_to",
+      "label": "Castle Flag",
+      "fact_ids": [
+        "ra-comments-10-1",
+        "ra-comments-10-2",
+        "neo1-4-1"
+      ]
+    },
+    {
+      "from": "SMB1_World4",
+      "to": "SMB1_World5",
+      "kind": "leads_to",
+      "label": "Overworld Path",
+      "fact_ids": [
+        "ra-comments-12-1",
+        "ra-comments-12-2",
+        "neo1-5-1"
+      ]
+    },
+    {
+      "from": "SMB1_World5",
+      "to": "SMB1_World6",
+      "kind": "leads_to",
+      "label": "Snow Bridge",
+      "fact_ids": [
+        "ra-comments-14-1",
+        "ra-comments-14-2",
+        "neo1-5-1"
+      ]
+    },
+    {
+      "from": "SMB1_World6",
+      "to": "SMB1_World7",
+      "kind": "leads_to",
+      "label": "Night Chasm",
+      "fact_ids": [
+        "ra-comments-16-1",
+        "ra-comments-16-2",
+        "neo1-5-1"
+      ]
+    },
+    {
+      "from": "SMB1_World7",
+      "to": "SMB1_World8",
+      "kind": "leads_to",
+      "label": "Castle Approach",
+      "fact_ids": [
+        "ra-comments-18-1",
+        "ra-comments-18-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "from": "SMB1_World8",
+      "to": "Boss_BowserSMB1",
+      "kind": "leads_to",
+      "label": "Bridge Axe",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "from": "SMB1_World8",
+      "to": "PONR_SMB1Warp",
+      "kind": "leads_to",
+      "label": "Final Bridge",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "neo1-6-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld1",
+      "to": "SMB1_StarWorld2",
+      "kind": "leads_to",
+      "label": "Next Star Course",
+      "fact_ids": [
+        "ra-comments-22-1",
+        "ra-comments-22-2",
+        "neo2-58-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld2",
+      "to": "SMB1_StarWorld3",
+      "kind": "leads_to",
+      "label": "Next Star Course",
+      "fact_ids": [
+        "ra-comments-24-1",
+        "ra-comments-24-2",
+        "neo2-62-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld3",
+      "to": "SMB1_StarWorld4",
+      "kind": "leads_to",
+      "label": "Next Star Course",
+      "fact_ids": [
+        "ra-comments-26-1",
+        "ra-comments-26-2",
+        "neo2-65-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld4",
+      "to": "SMB1_StarWorld5",
+      "kind": "leads_to",
+      "label": "Next Star Course",
+      "fact_ids": [
+        "ra-comments-28-1",
+        "ra-comments-28-2",
+        "neo2-68-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld5",
+      "to": "SMB1_StarWorld6",
+      "kind": "leads_to",
+      "label": "Next Star Course",
+      "fact_ids": [
+        "ra-comments-30-1",
+        "ra-comments-30-2",
+        "neo2-72-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld6",
+      "to": "SMB1_StarWorld7",
+      "kind": "leads_to",
+      "label": "Next Star Course",
+      "fact_ids": [
+        "ra-comments-32-1",
+        "ra-comments-32-2",
+        "neo2-74-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld7",
+      "to": "SMB1_StarWorld8",
+      "kind": "leads_to",
+      "label": "Final Star Castle",
+      "fact_ids": [
+        "ra-comments-34-1",
+        "ra-comments-34-2",
+        "neo2-79-1"
+      ]
+    },
+    {
+      "from": "SMB1_StarWorld8",
+      "to": "Boss_BowserQuest2",
+      "kind": "leads_to",
+      "label": "Second Quest Bowser",
+      "fact_ids": [
+        "ra-comments-36-1",
+        "ra-comments-36-2",
+        "neo2-82-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World1",
+      "to": "SMBTLL_World2",
+      "kind": "leads_to",
+      "label": "Windy Path",
+      "fact_ids": [
+        "ra-comments-50-1",
+        "ra-comments-50-2",
+        "neo1-57-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World2",
+      "to": "SMBTLL_World3",
+      "kind": "leads_to",
+      "label": "Winter Path",
+      "fact_ids": [
+        "ra-comments-52-1",
+        "ra-comments-52-2",
+        "neo1-58-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World3",
+      "to": "SMBTLL_World4",
+      "kind": "leads_to",
+      "label": "Castle Bridge",
+      "fact_ids": [
+        "ra-comments-54-1",
+        "ra-comments-54-2",
+        "neo1-58-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World4",
+      "to": "SMBTLL_World5",
+      "kind": "leads_to",
+      "label": "Gusty Chasm",
+      "fact_ids": [
+        "ra-comments-56-1",
+        "ra-comments-56-2",
+        "neo1-59-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World5",
+      "to": "SMBTLL_World6",
+      "kind": "leads_to",
+      "label": "Sea Approach",
+      "fact_ids": [
+        "ra-comments-58-1",
+        "ra-comments-58-2",
+        "neo1-59-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World6",
+      "to": "SMBTLL_World7",
+      "kind": "leads_to",
+      "label": "Deep Pits",
+      "fact_ids": [
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "neo1-60-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World7",
+      "to": "SMBTLL_World8",
+      "kind": "leads_to",
+      "label": "Citadel Gates",
+      "fact_ids": [
+        "ra-comments-62-1",
+        "ra-comments-62-2",
+        "neo1-60-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World8",
+      "to": "Boss_BowserTLL",
+      "kind": "leads_to",
+      "label": "Lava Boss Bridge",
+      "fact_ids": [
+        "ra-comments-64-1",
+        "ra-comments-64-2",
+        "neo1-57-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World8",
+      "to": "PONR_SMBTLLWarpless",
+      "kind": "leads_to",
+      "label": "Warpless Check",
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_World9",
+      "to": "SMBTLL_WorldA",
+      "kind": "leads_to",
+      "label": "Complete World 9",
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_WorldA",
+      "to": "SMBTLL_WorldB",
+      "kind": "leads_to",
+      "label": "Clear Stage A-4",
+      "fact_ids": [
+        "ra-comments-68-1",
+        "ra-comments-68-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_WorldB",
+      "to": "SMBTLL_WorldC",
+      "kind": "leads_to",
+      "label": "Clear Stage B-4",
+      "fact_ids": [
+        "ra-comments-70-1",
+        "ra-comments-70-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_WorldC",
+      "to": "SMBTLL_WorldD",
+      "kind": "leads_to",
+      "label": "Clear Stage C-4",
+      "fact_ids": [
+        "ra-comments-72-1",
+        "ra-comments-72-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "from": "SMBTLL_WorldD",
+      "to": "Boss_BowserWorldD",
+      "kind": "leads_to",
+      "label": "Final Bowser Battle",
+      "fact_ids": [
+        "ra-comments-74-1",
+        "ra-comments-74-2",
+        "neo1-63-1"
+      ]
+    },
+    {
+      "from": "SMB2_World1",
+      "to": "Boss_Mouser1",
+      "kind": "leads_to",
+      "label": "Bomb Battle",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "from": "SMB2_World1",
+      "to": "SMB2_World2",
+      "kind": "leads_to",
+      "label": "Hawkmouth Exit",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "from": "SMB2_World2",
+      "to": "Boss_Tryclyde2",
+      "kind": "leads_to",
+      "label": "Mushroom Block Defense",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "from": "SMB2_World2",
+      "to": "SMB2_World3",
+      "kind": "leads_to",
+      "label": "Hawkmouth Exit",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "from": "SMB2_World3",
+      "to": "Boss_Mouser3",
+      "kind": "leads_to",
+      "label": "Bomb Retoss",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1"
+      ]
+    },
+    {
+      "from": "SMB2_World3",
+      "to": "SMB2_World4",
+      "kind": "leads_to",
+      "label": "Hawkmouth Exit",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-25-1"
+      ]
+    },
+    {
+      "from": "SMB2_World4",
+      "to": "Boss_Fryguy4",
+      "kind": "leads_to",
+      "label": "Mushroom Throw",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-25-1"
+      ]
+    },
+    {
+      "from": "SMB2_World4",
+      "to": "SMB2_World5",
+      "kind": "leads_to",
+      "label": "Hawkmouth Exit",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-28-1"
+      ]
+    },
+    {
+      "from": "SMB2_World5",
+      "to": "Boss_Clawgrip5",
+      "kind": "leads_to",
+      "label": "Boulder Catch",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-28-1"
+      ]
+    },
+    {
+      "from": "SMB2_World5",
+      "to": "SMB2_World6",
+      "kind": "leads_to",
+      "label": "Hawkmouth Exit",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "from": "SMB2_World6",
+      "to": "Boss_Tryclyde6",
+      "kind": "leads_to",
+      "label": "Flame Evasion",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo2-122-1"
+      ]
+    },
+    {
+      "from": "SMB2_World6",
+      "to": "SMB2_World7",
+      "kind": "leads_to",
+      "label": "Hawkmouth Exit",
+      "fact_ids": [
+        "neo1-8-1",
+        "neo1-8-2",
+        "neo1-10-1"
+      ]
+    },
+    {
+      "from": "SMB2_World7",
+      "to": "Boss_MaskGate7",
+      "kind": "leads_to",
+      "label": "Flying Gate Battle",
+      "fact_ids": [
+        "neo1-8-1",
+        "neo1-8-2",
+        "neo1-10-1"
+      ]
+    },
+    {
+      "from": "SMB2_World7",
+      "to": "Boss_Wart7",
+      "kind": "leads_to",
+      "label": "Vegetable Cannon",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1"
+      ]
+    },
+    {
+      "from": "SMB2_World7",
+      "to": "PONR_SMB2WartDoor",
+      "kind": "leads_to",
+      "label": "Throne Room Door",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1"
+      ]
+    },
+    {
+      "from": "SMB2_SubconSpeedrun",
+      "to": "SMB2_CharacterTrial",
+      "kind": "leads_to",
+      "label": "Mastery Completion",
+      "fact_ids": [
+        "neo1-11-1",
+        "neo1-11-2",
+        "neo1-13-1"
+      ]
+    },
+    {
+      "from": "SMB3_GrassLand",
+      "to": "Boss_LarryKoopa",
+      "kind": "leads_to",
+      "label": "Airship Duel",
+      "fact_ids": [
+        "ra-comments-154-1",
+        "ra-comments-154-2",
+        "neo1-40-1"
+      ]
+    },
+    {
+      "from": "SMB3_GrassLand",
+      "to": "SMB3_DesertHill",
+      "kind": "leads_to",
+      "label": "Royal Letter",
+      "fact_ids": [
+        "ra-comments-156-1",
+        "ra-comments-156-2",
+        "sw1-6-1"
+      ]
+    },
+    {
+      "from": "SMB3_DesertHill",
+      "to": "Boss_MortonKoopa",
+      "kind": "leads_to",
+      "label": "Airship Duel",
+      "fact_ids": [
+        "ra-comments-156-1",
+        "ra-comments-156-2",
+        "sw1-6-1"
+      ]
+    },
+    {
+      "from": "SMB3_DesertHill",
+      "to": "SMB3_SeaSide",
+      "kind": "leads_to",
+      "label": "Royal Letter",
+      "fact_ids": [
+        "ra-comments-158-1",
+        "ra-comments-158-2",
+        "neo1-36-1"
+      ]
+    },
+    {
+      "from": "SMB3_SeaSide",
+      "to": "Boss_WendyKoopa",
+      "kind": "leads_to",
+      "label": "Ring Toss Airship",
+      "fact_ids": [
+        "ra-comments-158-1",
+        "ra-comments-158-2",
+        "neo1-36-1"
+      ]
+    },
+    {
+      "from": "SMB3_SeaSide",
+      "to": "SMB3_WarpZone",
+      "kind": "leads_to",
+      "label": "Warp Whistle",
+      "fact_ids": [
+        "ra-comments-186-1",
+        "ra-comments-186-2",
+        "neo1-35-1"
+      ]
+    },
+    {
+      "from": "SMB3_BigIsland",
+      "to": "Boss_IggyKoopa",
+      "kind": "leads_to",
+      "label": "Giant Airship",
+      "fact_ids": [
+        "ra-comments-160-1",
+        "ra-comments-160-2",
+        "neo1-46-1"
+      ]
+    },
+    {
+      "from": "SMB3_BigIsland",
+      "to": "SMB3_TheSky",
+      "kind": "leads_to",
+      "label": "Tower Ascent",
+      "fact_ids": [
+        "ra-comments-162-1",
+        "ra-comments-162-2",
+        "neo1-38-1"
+      ]
+    },
+    {
+      "from": "SMB3_TheSky",
+      "to": "Boss_RoyKoopa",
+      "kind": "leads_to",
+      "label": "Sky Airship",
+      "fact_ids": [
+        "ra-comments-162-1",
+        "ra-comments-162-2",
+        "neo1-38-1"
+      ]
+    },
+    {
+      "from": "SMB3_TheSky",
+      "to": "SMB3_IcedLand",
+      "kind": "leads_to",
+      "label": "Frozen Sea",
+      "fact_ids": [
+        "ra-comments-164-1",
+        "ra-comments-164-2",
+        "neo1-50-1"
+      ]
+    },
+    {
+      "from": "SMB3_IcedLand",
+      "to": "Boss_LemmyKoopa",
+      "kind": "leads_to",
+      "label": "Circus Ball Airship",
+      "fact_ids": [
+        "ra-comments-164-1",
+        "ra-comments-164-2",
+        "neo1-50-1"
+      ]
+    },
+    {
+      "from": "SMB3_IcedLand",
+      "to": "SMB3_PipeMaze",
+      "kind": "leads_to",
+      "label": "Piranha Labyrinth",
+      "fact_ids": [
+        "ra-comments-166-1",
+        "ra-comments-166-2",
+        "neo1-35-1"
+      ]
+    },
+    {
+      "from": "SMB3_PipeMaze",
+      "to": "Boss_LudwigKoopa",
+      "kind": "leads_to",
+      "label": "Earthquake Airship",
+      "fact_ids": [
+        "ra-comments-166-1",
+        "ra-comments-166-2",
+        "neo1-35-1"
+      ]
+    },
+    {
+      "from": "SMB3_PipeMaze",
+      "to": "SMB3_CastleOfKoopa",
+      "kind": "leads_to",
+      "label": "Dark Land Armada",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1"
+      ]
+    },
+    {
+      "from": "SMB3_CastleOfKoopa",
+      "to": "Boss_BowserSMB3",
+      "kind": "leads_to",
+      "label": "Pit Trap Battle",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1"
+      ]
+    },
+    {
+      "from": "SMB3_CastleOfKoopa",
+      "to": "PONR_SMB3Airship",
+      "kind": "leads_to",
+      "label": "Bowser Door",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1"
+      ]
+    }
+  ]
+}

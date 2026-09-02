@@ -1,0 +1,324 @@
+/**
+ * Stage 9a - Deterministic QA audit (runs before the strict reviewer agent).
+ *
+ *   npx tsx scripts/pipeline/qa-check.ts <gameId>
+ *
+ * Checks the chapter drafts in 08_chapters/ against the roadmap, graph and verified facts.
+ */
+import fs from "node:fs";
+import path from "node:path";
+import { chapterMermaid, type Graph, type Roadmap } from "./graph.ts";
+import {
+  ACH_RE,
+  type AchievementsFile,
+  CITE_RE,
+  type Chunk,
+  type VerifiedFact,
+  chapterFile,
+  gameIdArg,
+  paths,
+  readJson,
+  readJsonl,
+  readText,
+  requireFile,
+  words,
+  keyTerms,
+  writeJson,
+  exists,
+  type SourceEntry,
+} from "./lib.ts";
+
+const id = gameIdArg();
+const P = paths(id);
+for (const f of [P.achievements, P.verified, P.graph, P.roadmap, P.chunks]) requireFile(f, "complete earlier stages first");
+
+const ach = readJson<AchievementsFile>(P.achievements);
+const verified = readJson<{ facts: VerifiedFact[]; coverage: Record<string, any> }>(P.verified);
+const graph = readJson<Graph>(P.graph);
+const roadmap = readJson<Roadmap>(P.roadmap);
+const chunks = readJsonl<Chunk>(P.chunks);
+const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
+const mapsAvailable = sources.filter((s) => s.kind === "map").length;
+const factById = new Map(verified.facts.map((f) => [f.id, f]));
+const nodeById = new Map(graph.nodes.map((n) => [n.id, n]));
+const unverifiable = new Set(roadmap.unverifiable_achievement_ids ?? []);
+
+const errors: string[] = [];
+const warnings: string[] = [];
+const sourceLines = new Set<string>();
+for (const c of chunks) for (const l of c.text.split(/\r?\n/)) if (l.trim()) sourceLines.add(l.replace(/\s+$/, "").trim());
+
+const placements = new Map<number, string[]>();
+const m = {
+  chapters_expected: roadmap.chapters.length + 1,
+  chapters_present: 0,
+  paragraphs: 0,
+  paragraphs_cited: 0,
+  citations: 0,
+  citations_broken: 0,
+  missables: roadmap.missables.length,
+  missables_warned: 0,
+  ponr: roadmap.ponr.length,
+  ponr_warned: 0,
+  areas: 0,
+  areas_mentioned: 0,
+  code_blocks: 0,
+  code_blocks_verbatim: 0,
+  unable_to_verify: 0,
+  achievements_total: ach.achievements.length,
+  achievements_placed_correctly: 0,
+  achievements_supported: 0,
+  words: 0,
+  chapters_with_checkpoints: 0,
+  maps_available: mapsAvailable,
+  map_links_present: 0,
+  sparse_areas: 0,
+};
+
+function audit(file: string, chapterN: number | null) {
+  const p = path.join(P.chaptersDir, file);
+  const tag = chapterN ? `ch${chapterN}` : "overview";
+  if (!fs.existsSync(p)) {
+    errors.push(`${tag}: ${file} is missing`);
+    return;
+  }
+  m.chapters_present++;
+  const text = readText(p);
+  const lines = text.split(/\r?\n/);
+  m.words += words(text);
+  m.unable_to_verify += (text.match(/unable to verify from collected sources/gi) || []).length;
+
+  // placeholders / leftovers
+  if (/\b(TODO|TBD|FIXME)\b|\[INSERT|lorem ipsum/i.test(text)) errors.push(`${tag}: contains placeholder text (TODO/TBD/[INSERT…])`);
+  if (/save[\s-]?state/i.test(text)) warnings.push(`${tag}: mentions save states (not allowed in hardcore)`);
+
+  // code blocks
+  let inCode = false;
+  let lang = "";
+  let block: string[] = [];
+  let blockStart = 0;
+  const prose: { line: number; text: string }[] = [];
+  let para: string[] = [];
+  let paraStart = 0;
+  const flushPara = () => {
+    if (para.length) prose.push({ line: paraStart, text: para.join(" ") });
+    para = [];
+  };
+  lines.forEach((raw, i) => {
+    const l = raw.trimEnd();
+    const fence = l.match(/^\s*```(\w*)/);
+    if (fence) {
+      if (!inCode) {
+        flushPara();
+        inCode = true;
+        lang = fence[1];
+        block = [];
+        blockStart = i + 1;
+      } else {
+        inCode = false;
+        if (lang === "mermaid") errors.push(`${tag}:${blockStart}: hand-written mermaid block — use [MERMAID] (generated from the verified graph)`);
+        else if (block.some((b) => b.trim())) {
+          m.code_blocks++;
+          const body = block.filter((b) => b.trim());
+          const found = body.filter((b) => sourceLines.has(b.trim())).length;
+          if (found / body.length >= 0.9) m.code_blocks_verbatim++;
+          else errors.push(`${tag}:${blockStart}: code block/ASCII map is not verbatim from any source (${found}/${body.length} lines match) — never invent maps`);
+        }
+      }
+      return;
+    }
+    if (inCode) {
+      block.push(l);
+      return;
+    }
+    const t = l.trim();
+    if (!t || /^#{1,6}\s/.test(t) || /^\|?[-:| ]+\|?$/.test(t) || /^>\s*\[!/.test(t) || /^\[ACHIEVEMENT:/.test(t) || t === "[MERMAID]" || t === "---") {
+      flushPara();
+      return;
+    }
+    if (/^([-*+]|\d+\.)\s/.test(t) || /^\|/.test(t)) {
+      flushPara();
+      prose.push({ line: i + 1, text: t });
+      return;
+    }
+    if (!para.length) paraStart = i + 1;
+    para.push(t.replace(/^>\s?/, ""));
+  });
+  flushPara();
+
+  // citations
+  let uncitedShown = 0;
+  for (const pr of prose) {
+    if (words(pr.text) < 12) continue;
+    m.paragraphs++;
+    if (/\[\[[^\]]+\]\]/.test(pr.text) || /unable to verify from collected sources/i.test(pr.text)) {
+      m.paragraphs_cited++;
+      const citedFids = [...pr.text.matchAll(CITE_RE)].flatMap((mm) => mm[1].split(",").map((s) => s.trim()));
+      if (citedFids.length && words(pr.text) >= 15) {
+        const prTerms = keyTerms(pr.text);
+        if (prTerms.length >= 6) {
+          const factTerms = new Set(
+            citedFids.flatMap((fid) => {
+              const f = factById.get(fid);
+              if (!f) return [];
+              return [...keyTerms(f.text), ...keyTerms(f.subject), ...(f.evidence ?? []).flatMap((e) => keyTerms(e.quote))];
+            })
+          );
+          const overlap = prTerms.filter((w) => factTerms.has(w)).length;
+          if (overlap === 0) {
+            warnings.push(`${tag}:${pr.line}: no factual overlap with cited facts (${citedFids.join(", ")}) — check for unverified claims: "${pr.text.slice(0, 80)}…"`);
+          }
+        }
+      }
+    } else if (uncitedShown++ < 8) warnings.push(`${tag}:${pr.line}: uncited statement: "${pr.text.slice(0, 90)}…"`);
+  }
+  if (uncitedShown > 8) warnings.push(`${tag}: … ${uncitedShown - 8} more uncited statements`);
+  for (const mm of text.matchAll(CITE_RE)) {
+    for (const fid of mm[1].split(",").map((s) => s.trim())) {
+      m.citations++;
+      const f = factById.get(fid);
+      if (!f) { m.citations_broken++; errors.push(`${tag}: cites unknown fact ${fid}`); }
+      else if (f.status === "rejected") { m.citations_broken++; errors.push(`${tag}: cites REJECTED fact ${fid}`); }
+      else if (f.status === "conflict") { m.citations_broken++; errors.push(`${tag}: cites UNRESOLVED CONFLICT fact ${fid}`); }
+    }
+  }
+
+  // achievements
+  const achLines = new Map<number, number>();
+  lines.forEach((l, i) => {
+    for (const a of l.matchAll(ACH_RE)) {
+      const aid = Number(a[1]);
+      placements.set(aid, [...(placements.get(aid) ?? []), tag]);
+      achLines.set(aid, i);
+    }
+  });
+  const calloutLines = lines.map((l, i) => ({ i, l })).filter((x) => /^>\s*\[!(WARNING|CAUTION)\]/i.test(x.l.trim()));
+
+  if (!chapterN) return;
+  const ch = roadmap.chapters.find((c) => c.n === chapterN)!;
+
+  // unverifiable achievements must say so near the placeholder
+  for (const aid of ch.achievement_ids) {
+    if (!achLines.has(aid)) continue;
+    if (unverifiable.has(aid)) {
+      const near = lines.slice(achLines.get(aid)!, achLines.get(aid)! + 25).join(" ");
+      if (!/unable to verify from collected sources/i.test(near)) errors.push(`${tag}: achievement ${aid} has no evidence but the text near it does not say "Unable to verify from collected sources."`);
+    }
+  }
+
+  // missables
+  for (const ms of roadmap.missables.filter((x) => x.chapter === chapterN)) {
+    let ok = calloutLines.length > 0;
+    if (ms.achievement_id && achLines.has(Number(ms.achievement_id))) ok = calloutLines.some((c) => c.i < achLines.get(Number(ms.achievement_id))!);
+    if (ok) m.missables_warned++;
+    else errors.push(`${tag}: missable "${ms.label}" has no > [!WARNING]/[!CAUTION] callout before it`);
+  }
+  // PONR
+  const ponrCallouts = calloutLines.filter((c) => /point of no return/i.test(lines.slice(c.i, c.i + 6).join(" "))).length;
+  const ponrs = roadmap.ponr.filter((x) => x.chapter === chapterN);
+  m.ponr_warned += Math.min(ponrCallouts, ponrs.length);
+  if (ponrCallouts < ponrs.length) errors.push(`${tag}: ${ponrs.length} point(s) of no return but only ${ponrCallouts} "Point of No Return" CAUTION callout(s)`);
+
+  // item collection check
+  for (const aid of ch.achievement_ids) {
+    const aObj = ach.achievements.find((a) => a.id === aid);
+    if (!aObj) continue;
+    const isCollection = /collect every|all items/i.test(aObj.title + " " + aObj.description);
+    if (isCollection) {
+      const hasItemTableOrList = /(ITEM\s*\||\bItem\s*\d+\/\d+|\bwhere found\b|\bitem checklist\b|###\s*Chapter Items|###\s*Items to Collect)/i.test(text);
+      if (!hasItemTableOrList) {
+        errors.push(`${tag}: achievement ${aid} "${aObj.title}" requires collecting all items, but chapter lacks an item table or itemized checklist`);
+      }
+    }
+  }
+
+  // command_steps format check
+  if (roadmap.format === "command_steps") {
+    const hasCommandSteps = /^\s*\d+\.\s+\*\*([A-Z]+)\*\*/m.test(text);
+    if (!hasCommandSteps) {
+      errors.push(`${tag}: roadmap format is 'command_steps' but chapter lacks numbered **COMMAND** steps (e.g. '1. **MOVE** -> ...')`);
+    }
+  }
+
+  // True 100% Checkpoint check
+  const hasCheckpoint = /(cumulative\s*(100%|progress)\s*checkpoint|true\s*100%\s*checkpoint)/i.test(text);
+  if (hasCheckpoint) {
+    m.chapters_with_checkpoints++;
+  } else if (roadmap.true_100_criteria) {
+    warnings.push(`${tag}: missing Cumulative 100% Checkpoint block (> [!IMPORTANT] ... Checkpoint)`);
+  }
+
+  // Map links in chapter
+  const mapLinks = text.match(/(?:\[(?:view\s+)?.*?map.*?\]\(https?:\/\/[^\s)]+\)|!\[.*?map.*?\]\(https?:\/\/[^\s)]+\))/gi) || [];
+  m.map_links_present += mapLinks.length;
+
+  // check depth per area heading
+  for (let i = 0; i < lines.length; i++) {
+    const l = lines[i];
+    const hMatch = l.match(/^###\s+(.+)$/);
+    if (hMatch && !/checklist|checkpoint|items to collect|overview/i.test(hMatch[1])) {
+      const areaHeading = hMatch[1].trim();
+      let sectionWords = 0;
+      for (let j = i + 1; j < lines.length; j++) {
+        if (/^#{2,3}\s+/.test(lines[j])) break;
+        sectionWords += words(lines[j]);
+      }
+      if (sectionWords < 35 && roadmap.format !== "command_steps") {
+        m.sparse_areas++;
+        warnings.push(`${tag}: area section "${areaHeading}" is very brief (${sectionWords} words) — provide step-by-step navigation, puzzles, and chest locations`);
+      }
+    }
+  }
+
+  // areas
+  for (const a of ch.areas) {
+    m.areas++;
+    const label = nodeById.get(a)?.label ?? a;
+    if (text.toLowerCase().includes(label.toLowerCase())) m.areas_mentioned++;
+    else warnings.push(`${tag}: area "${label}" from the roadmap is never mentioned`);
+  }
+  if (chapterMermaid(graph, ch.areas) && !text.includes("[MERMAID]")) warnings.push(`${tag}: no [MERMAID] route diagram placeholder`);
+  if (!/^#{2,4}\s.*(checklist|before you (leave|move on))/im.test(text)) warnings.push(`${tag}: no end-of-chapter checklist heading`);
+}
+
+audit("00_overview.md", null);
+for (const c of roadmap.chapters) audit(chapterFile(c.n), c.n);
+
+if (roadmap.format !== "command_steps") {
+  const minWordsExpected = m.areas * 100;
+  if (m.words < minWordsExpected) {
+    warnings.push(`walkthrough word count (${m.words}) is unusually low for ${m.areas} areas (expected >= ${minWordsExpected}) — guide may be summarizing instead of providing complete room-by-room navigation`);
+  }
+}
+if (mapsAvailable > 0 && m.map_links_present === 0) {
+  warnings.push(`${mapsAvailable} visual map(s) exist in sources.json, but no map links appear in the walkthrough`);
+}
+
+// achievement placement
+for (const c of roadmap.chapters)
+  for (const aid of c.achievement_ids) {
+    const where = placements.get(aid) ?? [];
+    const title = ach.achievements.find((a) => a.id === aid)?.title;
+    if (!where.length) errors.push(`achievement ${aid} "${title}" is never placed ([ACHIEVEMENT:${aid}] missing)`);
+    else if (where.length > 1) errors.push(`achievement ${aid} "${title}" placed ${where.length} times (${where.join(", ")})`);
+    else if (where[0] !== `ch${c.n}`) errors.push(`achievement ${aid} "${title}" placed in ${where[0]} but roadmap says ch${c.n}`);
+    else {
+      m.achievements_placed_correctly++;
+      if (verified.coverage[aid]?.facts?.length) m.achievements_supported++;
+    }
+  }
+for (const aid of placements.keys()) if (!ach.achievements.some((a) => a.id === aid)) errors.push(`unknown achievement id ${aid} placed`);
+
+writeJson(P.qa, { generated_at: new Date().toISOString(), metrics: m, errors, warnings });
+const pct = (a: number, b: number) => (b ? Math.round((a / b) * 100) : 100);
+console.log(`QA for game ${id}: ${m.chapters_present}/${m.chapters_expected} files, ${m.words.toLocaleString()} words`);
+console.log(`  achievements placed correctly: ${m.achievements_placed_correctly}/${m.achievements_total}`);
+console.log(`  cited paragraphs: ${m.paragraphs_cited}/${m.paragraphs} (${pct(m.paragraphs_cited, m.paragraphs)}%), broken citations: ${m.citations_broken}/${m.citations}`);
+console.log(`  missables warned: ${m.missables_warned}/${m.missables}, PONR warned: ${m.ponr_warned}/${m.ponr}, areas mentioned: ${m.areas_mentioned}/${m.areas}`);
+console.log(`  code blocks verbatim: ${m.code_blocks_verbatim}/${m.code_blocks}, "Unable to verify": ${m.unable_to_verify}`);
+console.log(`  ${errors.length} error(s), ${warnings.length} warning(s) -> ${path.relative(P.root, P.qa)}`);
+for (const e of errors.slice(0, 40)) console.log(`  ❌ ${e}`);
+if (errors.length > 40) console.log(`  … ${errors.length - 40} more errors`);
+for (const w of warnings.slice(0, 20)) console.log(`  ⚠ ${w}`);
+if (warnings.length > 20) console.log(`  … ${warnings.length - 20} more warnings (see 09_qa.json)`);
+process.exit(errors.length ? 1 : 0);

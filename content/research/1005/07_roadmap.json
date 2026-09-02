@@ -1,0 +1,441 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Turn-Based RPG",
+    "categories": [
+      {
+        "name": "Dungeon Treasure Chests & Hidden Items",
+        "description": "Every single treasure chest opened and hidden ground tile collected across all dungeons, caves, towers, and shrines.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Capsule Monsters & Master Evolutions",
+        "description": "Recruit all 7 Capsule Monsters (Jelze, Flash, Gusto, Zeppy, Darbi, Sully, Raddian) and evolve them to Class 5 Master form.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Dragon Eggs & Wishes",
+        "description": "Collect all 8 Dragon Eggs across the world chests 4 times to claim all 4 wishes from the Egg Dragon.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Optional Dungeons & Superbosses",
+        "description": "Conquer all 99 floors of the Ancient Cave to defeat the Master, and defeat the Egg Dragon in battle.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Sidequests & Mini-Games",
+        "description": "Complete all optional sidequests, Alunze and Forfeit Island Casino prizes, and character vignettes.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "chests",
+      "capsule_monsters",
+      "dragon_eggs",
+      "sidequests",
+      "achievements"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "All 60 achievements can be earned in a single playthrough with no mutually exclusive lockouts or conflicts if following this guide carefully and fulfilling both missables before their respective deadlines.",
+  "settings_notes": "Standard SNES controls on original hardware or retro emulator. Save states are disabled in Hardcore mode. Use in-game church and save tile saves.",
+  "fact_ids": [
+    "gf1-2-2",
+    "gf3-1-1",
+    "ra-comments-2-1"
+  ],
+  "missables": [
+    {
+      "achievement_id": 17580,
+      "label": "Equip Tia with Seethru Cape",
+      "deadline": "Must obtain the Seethru Cape from Alunze mini-casino (10,000 coins) and equip Tia before entering Ancient Tower where Tia permanently leaves the party",
+      "chapter": 2,
+      "fact_ids": [
+        "ra-comments-57-1",
+        "gf1-138-1"
+      ]
+    },
+    {
+      "achievement_id": 17581,
+      "label": "Defeat Gades in Gordovan Tower",
+      "deadline": "Must reduce Gades HP to 0 during the first confrontation atop Gordovan Tower to win the Gades Blade before the story sequence advances",
+      "chapter": 2,
+      "fact_ids": [
+        "gf1-40-1",
+        "gf3-55-2"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Doom Island Airship Boarding",
+      "chapter": 5,
+      "warning": "Once you take flight to Doom Island for the final showdown against the Sinistrals, you cannot return to the world map to finish sidequests or explore the Ancient Cave.",
+      "fact_ids": [
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "gf1-5-1"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Journey Begins — Elcid to Alunze",
+      "areas": [
+        "Elcid",
+        "Sundletan",
+        "Big_Catfish",
+        "Alunze_Kingdom",
+        "Regal_Goblin"
+      ],
+      "achievement_ids": [
+        17553,
+        17554,
+        17555,
+        17556,
+        17592
+      ],
+      "fact_ids": [
+        "ra-comments-7-1",
+        "ra-comments-7-2",
+        "gf1-4-1",
+        "ra-comments-9-1",
+        "ra-comments-9-2",
+        "gf1-4-1",
+        "ra-comments-11-1",
+        "ra-comments-11-2",
+        "gf1-11-1",
+        "ra-comments-13-1",
+        "ra-comments-13-2",
+        "gf1-16-1",
+        "ra-comments-81-1",
+        "ra-comments-81-2",
+        "gf1-5-1"
+      ],
+      "notes": "Complete Training Cave, meet Iris, defeat Big Catfish, recover King Alunze crown, and reach Maxim Level 10."
+    },
+    {
+      "n": 2,
+      "title": "Tanbel to Bound Kingdom and Ancient Tower",
+      "areas": [
+        "Tanbel_Region",
+        "Camu",
+        "Ruby_Cave",
+        "Tarantula",
+        "Treasure_Sword_Shrine",
+        "Pierre_Danielle",
+        "Gordovan_Tower",
+        "Gades_Gordovan",
+        "Bound_Kingdom",
+        "Ancient_Tower"
+      ],
+      "achievement_ids": [
+        17557,
+        17558,
+        17578,
+        17559,
+        17560,
+        17580,
+        17581,
+        17561,
+        17562
+      ],
+      "fact_ids": [
+        "ra-comments-15-1",
+        "ra-comments-15-2",
+        "gf1-21-1",
+        "ra-comments-17-1",
+        "ra-comments-17-2",
+        "gf1-23-1",
+        "ra-comments-55-1",
+        "ra-comments-55-2",
+        "gf1-23-1",
+        "ra-comments-19-1",
+        "ra-comments-19-2",
+        "gf1-26-1",
+        "ra-comments-21-1",
+        "ra-comments-21-2",
+        "gf1-26-1",
+        "ra-comments-57-1",
+        "ra-comments-57-2",
+        "gf1-9-1",
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "gf1-37-1",
+        "ra-comments-23-1",
+        "ra-comments-23-2",
+        "gf1-41-1",
+        "ra-comments-25-1",
+        "ra-comments-25-2",
+        "gf1-40-1"
+      ],
+      "notes": "Rescue Hilda, obtain Jute Helm, defeat Tarantula and Pierre & Danielle, obtain Seethru Cape for Tia (MISSABLE), defeat Gades at Gordovan Tower (MISSABLE), rescue Prince Idura, and escape Ancient Tower."
+    },
+    {
+      "n": 3,
+      "title": "The High Seas and Submarine Depths",
+      "areas": [
+        "North_Lighthouse",
+        "Idura_Lighthouse",
+        "Aleyn_Region",
+        "Narcysus",
+        "Idura_Narcysus",
+        "Treadool_Region",
+        "Dankirk_Kingdom",
+        "Portravia_Lab"
+      ],
+      "achievement_ids": [
+        17582,
+        17563,
+        17564,
+        17565,
+        17566,
+        17567,
+        17568,
+        17569,
+        17570
+      ],
+      "fact_ids": [
+        "ra-comments-61-1",
+        "ra-comments-61-2",
+        "gf1-50-1",
+        "ra-comments-27-1",
+        "ra-comments-27-2",
+        "gf1-4-1",
+        "ra-comments-29-1",
+        "ra-comments-29-2",
+        "gf1-54-1",
+        "ra-comments-31-1",
+        "ra-comments-31-2",
+        "gf1-56-1",
+        "ra-comments-33-1",
+        "ra-comments-33-2",
+        "gf1-59-1",
+        "ra-comments-35-1",
+        "ra-comments-35-2",
+        "gf1-65-1",
+        "ra-comments-37-1",
+        "ra-comments-37-2",
+        "gf1-65-1",
+        "ra-comments-39-1",
+        "ra-comments-39-2",
+        "gf1-6-1",
+        "ra-comments-41-1",
+        "ra-comments-41-2",
+        "gf1-71-1"
+      ],
+      "notes": "Solve North Lighthouse spike puzzle, defeat Idura to rescue Jeros, locate Phantom Tree, solve Narcysus melody, defeat Idura for the final time, deliver Priphea to Leefa, retrieve Ruby Icon in Dankirk, recruit Artea, and convert ship to submarine."
+    },
+    {
+      "n": 4,
+      "title": "Northern Shrines, Dragon Mountain and Airship Conversion",
+      "areas": [
+        "Shrine_of_Vengeance",
+        "Venge_Ghost",
+        "Tower_of_Truth",
+        "Dragon_Mountain",
+        "Fire_Dragon",
+        "Excerion_Airship"
+      ],
+      "achievement_ids": [
+        17571,
+        17572,
+        17573,
+        17591,
+        17574
+      ],
+      "fact_ids": [
+        "ra-comments-43-1",
+        "ra-comments-43-2",
+        "gf1-76-1",
+        "ra-comments-45-1",
+        "ra-comments-45-2",
+        "gf1-79-1",
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "gf1-82-1",
+        "ra-comments-79-1",
+        "ra-comments-79-2",
+        "gf1-82-1",
+        "ra-comments-49-1",
+        "ra-comments-49-2",
+        "gf1-5-1"
+      ],
+      "notes": "Defeat Venge Ghost in Shrine of Vengeance, retrieve Magic Mirror in Tower of Truth, solve World Most Difficult Trick in Dragon Mountain, slay Fire Dragon, and upgrade ship to Excerion airship."
+    },
+    {
+      "n": 5,
+      "title": "Endgame — Sealed Towers and Doom Island",
+      "areas": [
+        "Sealed_Towers",
+        "Doom_Island",
+        "Sinistrals_Final"
+      ],
+      "achievement_ids": [
+        17575,
+        17576
+      ],
+      "fact_ids": [
+        "ra-comments-51-1",
+        "ra-comments-51-2",
+        "gf1-4-1",
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "gf1-5-1"
+      ],
+      "notes": "Claim Dual Blade, trigger Point of No Return to Doom Island, and defeat Sinistrals Gades, Amon, Erim, and Daos to bring peace."
+    },
+    {
+      "n": 6,
+      "title": "Capsule Monsters, Casino Wealth and the Egg Dragon",
+      "areas": [
+        "Capsule_Sanctuaries",
+        "Forfeit_Casino",
+        "Divine_Shrine",
+        "Egg_Dragon_Island",
+        "Egg_Dragon"
+      ],
+      "achievement_ids": [
+        17597,
+        17598,
+        17599,
+        17600,
+        17601,
+        17602,
+        17603,
+        17604,
+        17605,
+        17606,
+        17607,
+        17608,
+        17609,
+        17610,
+        17611,
+        17612,
+        17583,
+        17584,
+        17585,
+        17586,
+        17587,
+        17588,
+        17589,
+        17590
+      ],
+      "fact_ids": [
+        "ra-comments-83-1",
+        "ra-comments-83-2",
+        "gf1-21-1",
+        "ra-comments-85-1",
+        "ra-comments-85-2",
+        "gf1-26-1",
+        "ra-comments-87-1",
+        "ra-comments-87-2",
+        "gf1-15-1",
+        "ra-comments-89-1",
+        "ra-comments-89-2",
+        "gf1-59-1",
+        "ra-comments-91-1",
+        "ra-comments-91-2",
+        "gf1-124-1",
+        "ra-comments-93-1",
+        "ra-comments-93-2",
+        "gf1-78-1",
+        "ra-comments-95-1",
+        "ra-comments-95-2",
+        "gf1-78-1",
+        "ra-comments-97-1",
+        "ra-comments-97-2",
+        "gf1-15-1",
+        "ra-comments-99-1",
+        "ra-comments-99-2",
+        "gf1-21-1",
+        "ra-comments-101-1",
+        "ra-comments-101-2",
+        "gf1-26-1",
+        "ra-comments-103-1",
+        "ra-comments-103-2",
+        "gf1-15-1",
+        "ra-comments-105-1",
+        "ra-comments-105-2",
+        "gf1-59-1",
+        "ra-comments-107-1",
+        "ra-comments-107-2",
+        "gf1-124-1",
+        "ra-comments-109-1",
+        "ra-comments-109-2",
+        "gf1-78-1",
+        "ra-comments-111-1",
+        "ra-comments-111-2",
+        "gf1-78-1",
+        "ra-comments-113-1",
+        "ra-comments-113-2",
+        "gf1-15-1",
+        "ra-comments-63-1",
+        "ra-comments-63-2",
+        "gf1-109-1",
+        "ra-comments-65-1",
+        "ra-comments-65-2",
+        "gf1-119-1",
+        "ra-comments-67-1",
+        "ra-comments-67-2",
+        "gf1-16-1",
+        "ra-comments-69-1",
+        "ra-comments-69-2",
+        "gf1-16-1",
+        "ra-comments-71-1",
+        "ra-comments-71-2",
+        "gf1-73-1",
+        "ra-comments-73-1",
+        "ra-comments-73-2",
+        "gf1-16-1",
+        "ra-comments-75-1",
+        "ra-comments-75-2",
+        "gf1-16-1",
+        "ra-comments-77-1",
+        "ra-comments-77-2",
+        "gf1-16-1"
+      ],
+      "notes": "Recruit all 7 capsule monsters and raise to Class 5 Master form. Amass 1,000,000 casino coins for VIP Card and Bunny Sword. Claim Holy Whip and Dragon Blade. Gather 8 Dragon Eggs four times for all wishes, and defeat the Egg Dragon."
+    },
+    {
+      "n": 7,
+      "title": "The Ancient Cave Descent",
+      "areas": [
+        "Ancient_Cave_Upper",
+        "Ancient_Cave_Mid",
+        "Ancient_Cave_Deep",
+        "Master_Jelly"
+      ],
+      "achievement_ids": [
+        114729,
+        114730,
+        114731,
+        114732,
+        114733,
+        114734
+      ],
+      "fact_ids": [
+        "ra-comments-115-1",
+        "ra-comments-115-2",
+        "gf1-4-1",
+        "ra-comments-117-1",
+        "ra-comments-117-2",
+        "ra-comments-119-1",
+        "ra-comments-119-2",
+        "gf3-197-1",
+        "ra-comments-121-1",
+        "ra-comments-121-2",
+        "ra-comments-123-1",
+        "ra-comments-123-2",
+        "gf1-108-1",
+        "ra-comments-125-1",
+        "ra-comments-125-2",
+        "gf1-108-1"
+      ],
+      "notes": "Navigate the 99-floor procedural Ancient Cave, reaching B21, B41, B61, B81, and B99, then legitimately defeat the Master Jelly."
+    }
+  ],
+  "unverifiable_achievement_ids": []
+}

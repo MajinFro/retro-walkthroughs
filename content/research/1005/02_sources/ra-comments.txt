@@ -1,0 +1,1370 @@
+============================================================
+GAME COMMENTS
+============================================================
+[Altomar] this set is based on Lufia II - Rise of the Sinistrals (U)
+
+[HippopotamusRex] Nothing for Ancient Cave?  Or is Ancient Cave planned as a separate (game) from Lufia 2 with its own achievements?
+
+[KaasChuig] Is that even possible?
+
+[Demaeter] Probably hard to make achievements for Ancient Cave since its randomized.
+
+[Freem] @Jazzehjeff I've got the same
+
+[Altomar] i left the ancient cave out because i though it was near impossible to reach the last level (in one run without dying and saving) playing over 8 hours in a row. 
+
+[Altomar] as long as i know the id for each floor i believe it can be easy to create the achievements for ancient cave
+
+[magpie514] Something related to Iris treasures obtained would also be pretty good. Those should be trivial to check for.
+
+[Olafur] aw man, wish I saw the achievements with the rare drops before beating them. That's what I get for trying to avoid spoilers :P Do I have to beat them and get it in the first encounter or can I get it in a refight later?
+
+[MonsieurLeDan] No achv for getting all Iris Treasures and killing The Slime at the end of the Ancient Cave???
+
+[MrGauss] Added support for the Frue Lufia retranslation and bug fixing patch. Will be checking for incompatibility issues. Also, I would like to inform that a bonus set for the Ancient Cave is on it's way. More details on the official forum post.
+
+[MrGauss] The new cheevos for the Ancient Dungeon were added. Our thanks to Ryudo for the new badges!
+
+[SchmidttyGames] Great Set!  Though you should re-word the "Millionaire" achievement to simply "Have 1000000 coins", because that's all it takes.  Winning a million coins is a whole nother thing with this game.  
+
+[TheGameingChef] its finally over......FUCK the ancient cave....
+
+[jNastyWSA] I'm lvl 16 but the lvl 10 cheevo didn't pop?
+
+[Altomar] Maybe you had connection issues or the site was down by that time because these leveling achievements seems to work for everyone else
+
+[jNastyWSA] maybe, everything else was popping lastnight
+
+[SGreenwell] @ jNasty - If you don't have a save from before Level 10, you can probably try tackling it once you beat the game, and have access to "Reset" mode. That mode gives 2x or 4x to EXP gained, IIRC.
+
+[Throgg] well I started this game 2 years ago and i finally came back n mastered it, great set! still think the egg dragon should be worth at least 25 points not 10 simply from the hunt + the fight itself
+
+[Altomar] Have you tried the one linked on forum? It is hosted on github by RA staff members and it is in BPS format.
+
+[markdarkness] @Altomar, oh, so that's where I had gotten the BPS version from... let me amend what I originally said, then:
+
+IMPORTANT: The achievements will not work if you patch the game with the IPS version, which is the one that is most conventionally found on the Internet. You NEED the BPS version, which is linked in the first post of the forum. Happy gaming!
+
+[RetroSprites] Mastered! What a great game, it surpasses Lufia 1 in everything, there are no more random encounters in the dungeons, since (as in Chrono Trigger) you can decide whether to fight or not, in the overworld the enemies do not appear every 3 steps, the UI is beautiful, the color palette too, the characters are much better in my opinion, especially Dekar, what a good character, and what a good design. As for the Acient Cave... ufff, at first it's nothing special, but from the 70th floor it becomes super complicated, also, you need some luck, because if you arrive without 2 Gades Blades or without Dekar blade and adding Tweak... it is very difficult to defeat Master Jelly.
+
+[Tommy] Boy that was not easy. I did the ancient cave with the final party members from the story, so no Dekar. Really gotta strategize to pull it off. Didn't wanna do a second story playthrough to unlock Gift Mode, though it would've clearly been easier.
+
+[Altomar] I've just patched again the original rom with the Frue Lufia 6.0 and it worked fine. Maybe you did something wrong. For the record i used [Beat v1] to patch the rom
+
+[markdarkness] We revised the hashes extensively, they are fine. You just NEED the BPS version. It's not "desirable", it's NECESSARY.
+
+[FidgetyJester] It works now. Thank you. :D
+
+Romhack website was using a ips version so that's what I used, same CRC and same creator too (aka Artemis) but couldn't connect. But BPS version worked though :D
+
+I was able to find the BPS version thanks to the forum, so glad that's there. :D
+
+[markdarkness] @Boomer69 one reason for that is the completely parallel Ancient Cave bonus set that tracks other things, such as blue chests.
+
+[markdarkness] The dev Altomar is very responsive... you could try to DM them and see what they think.
+
+[HedgehogWarlord] Is there any way to get these to work with the Dutch version of Lufia 2 (just called Lufia btw since 1 never came out here). Probably doesn't matter, but a Miyoo Mini Plus is what I play on.
+
+[borisbaer] Could you please add support for the German version of the game? I’d be very grateful!
+
+Here are the hashes:
+
+Lufia (Germany).sfc
+
+MD5: 8607561b2d3175b949ebd899aa12052b
+CRC32: 8278693d
+
+Also, there is an addendum for Frue Lufia called Frue Trilogizer:
+
+Lufia II - Rise of the Sinistrals (USA) (Frue Trilogizer).sfc
+
+MD5: 6e5367ae7784806199973301405366c3
+CRC32: a13ee2c7
+
+[Altomar] Added German version. On a first look seems compatible with the set
+
+[borisbaer] Thanks, mate! I appreciate it a lot! :)
+
+[hugoshoyru] Mastery 45: This game is a childhood favorite of mine. The story makes me emotional every time. The combat is solid with quite a bit of depth with IP attacks and capsule monsters and the puzzles are quite good. It was actually one of the first games I completed on this site but due to putting off the ancient cave mastering took untill now. 
+
+The achievement set was fun. Nothing too grindy except maybe the casino items and of course the anicnet cave. I had a blast replaying this game. Thanks so much.
+
+[Tommy] Strange suggestion, but maybe you should drop support for the USA unpatched version of this game? I started playing that when I first started on RA and there's some crazy bugs that break the game's difficulty and what bothered me most is this whole glitched area you have to walk through without being able to see your surroundings.
+
+[markdarkness] I kind of agree with @TommyDeal.
+
+[Eltana] Mastered! Pretty enjoyable game--far, far better than the first. The highlight, of course, is the Ancient Cave. Puzzles aren't my thing, so I know I never would've beaten this had I grown up with it--a guide was basically mandatory.
+
+[Mageryan] The glitched area you need to go to the top of the screen, it's not directly up though.  The lowest floor of the ancient cave has this same glitch but the the boss is also at the top of the screen.  As far as I know after the boss you still have to leave using providence.  I don't really agree with all the patches though I don't remember why.  The patch was done by someone who worked on the game originally and posted it to gamefaqs.
+
+[Superdreuzel] Any chance for a Kureji Lufia subset, giving achievements per boss kill? Would love to have another excuse go finally attempt it
+
+[MestreAnds] Mastered/Platinado!🏆 A Ancient Dungeon é muito difícil. Estou muito orgulhoso de ter conseguido essa conquista. Esse jogo é excelente!
+
+[LunaticSlave] Had to stop at the 10 hrs mark. Way too many puzzles for my taste, mostly are annoying. Definetly using a faq is recomended unless you dont mind wasting a lot of time figuring out by yourself (as i was doing).
+
+I don't mind puzzles, they can be fun and a nice change of pace from the grind, but here they just went overboard! I loved the 1st game but this one, ugh!
+
+[markdarkness] The puzzles are the whole point that make the game unique.
+
+[LunaticSlave] True :)
+
+[meltdown0382] I just picked up the game after a pause and rescued Jeros from Idura, then went on to reunite with Guy and Dekar. Unfortunately, the Child Abduction achievement didn't pop up. Before raising an issue, did anyone else experience this? All the other achievements before worked like a charm.
+
+[Altomar] Retry to complete the event again in case the issue is from your side and if you still can't unlock it then i will need your save before you complete this event in order to reproduce your issue
+
+[tenchi2004] and done! my last run i wasnt sure if i would make it but got a dekar blade and myth blade in the last levels
+
+[CrymynaL] I disagree, LunaticSlave, the whole unique charm in this game are the puzzles... It has so many things very well implemented but the puzzles are very good. And you don't need a FAQ guide or Walkthrough to Finish this game at all.
+
+It is so rewarding when you finally understand and complete a puzzle.
+
+[tenchi2004] I remember being so annoyed by the puzzle the first time i played (the little cube that you had to make disappear) i was stuck there forever, now i just do it 1 shot everything,
+The only annoying one is the grass one.
+
+[meltdown0382] @Altomar: thx for your lightning fast response. Just tried again from the save point on the 5th floor of the lighthouse and the achievement popped up. End user problem indeed, i guess. ;-) Sorry for bothering you.
+
+[CrymynaL] #5 Mastered - Childhood game, One of my favorites. Best on Puzzle Solving. I love this game a lot.
+
+Marvelous set and subset.
+
+[markdarkness] Altomar just linked FrueLufia 8.1. The mod author confirmed that there were no changes that alter expected game behavior, only bug fixes.
+
+[Tommy] Looking back at this set now, there's still missing content. While ancient cave achievements were added in later to core, Iris treasures were overlooked and are also absolutely core content. I know it's not easy getting them all but that's not gonna keep it from belonging in core.
+
+[markdarkness] Eh. With multiset support coming literally right now that concern is not really a thing.
+
+[Kevinsyel] Can this be done on a Retry (NG+) playthrough?
+
+[markdarkness] @Kevinsyel Yes!
+
+[Rennyur] This was fun, thanks for the set. But i'd argue i'd have less fun if i didn't do it in retry mode right away. I can only recommend researching the any% glitched guide from Jeedunit, have been using it multiple times in the past too, when unlocking ancient cave quickly. It sounds daunting, but is actually really easy as long as you can count to 78 ( thats all i swear ) And the cutscene is kinda fun, takes 10 minutes of your time.
+
+[ShianKiri] I was really nervous about the Ancient Cave run and it took me a few tries, but I finally got it. Not a bad set, definitely felt some stress trying to kill Master Jelly.
+
+[YuriZahard] It was a pleasure replaying Lufia 2
+Only thing left is the jelly
+
+[Stephen919] I started playing this for the first time back in February, and just finished it today. What a beautiful, amazing game! This was honestly one of the best games I've ever played, and now I have to play the first one to see what happens next!
+
+[OgunArere] Mastery #5. Great game and set!
+
+[TurosKensei] Looks like they got rid of most of the level milestone achievements, makes sense, its just a grind fest and I don't really feel those are "achievements".
+
+
+============================================================
+ACHIEVEMENT 17553 - Training Day
+============================================================
+Description: Complete the training dungeon
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[Somemetaldude] I can't figure out why I haven't got the training day achievement, I finished he dungeon. Haaaaalp
+
+[Altomar] network issues most likely
+
+
+============================================================
+ACHIEVEMENT 17554 - Hero's Destiny
+============================================================
+Description: Meet Iris for the first time
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[jmcdra] The event didn't trigger until I died in Lake Cave
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17555 - Fishing Time
+============================================================
+Description: Defeat Big Catfish in Lake Cave
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[DMAS] i swear i always get my first death here
+
+feels like you should have tia for this
+
+
+============================================================
+ACHIEVEMENT 17556 - A King Without a Crown
+============================================================
+Description: Return the crown back to the king of Alunze
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[kaitri] for anyone reading this randomly, as a reward pick "nothing" and he gives you 3000 gold. the most you can get.
+for money you get 2k
+for princess 500
+and for king 1000
+
+[DrMeph] Unlocked princess shit
+
+
+============================================================
+ACHIEVEMENT 17557 - The Lost Key
+============================================================
+Description: Defeat Regal Goblin
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17558 - Looking for Hilda
+============================================================
+Description: Defeat Camu in Tanbel Southeast Tower
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[solarcell007] Anybody ever have this not unlock?
+
+[Altomar] This is a progression achievement. Unless you had any connection issues or the RA server was down at that time you should have no problem unlocking it
+
+[solarcell007] Been playing through it now on stream, and have been getting achievements since. Ah well, I guess I'll come back with a second playthrough for that one :D Do these still trigger on retry mode?
+
+[Altomar] It should. The achievement only check what screen you are on and if the event flag is triggered.
+
+[solarcell007] May I ask what exactly is the screen that is being checked? I just got back to Tanbel tower in Retry mode, and again, no unlock after beating Camu.
+
+[Altomar] I looked at my notes in rich presence and the id for this room is related to Tanbel Southeast Tower
+
+[Altomar] Send me your battery save to take a look to see if retry break something
+
+[Mudkipology] I am also having difficulty getting this to unlock, I've beaten the boss twice while confirmed connected to the server and I'm not on retry mode.
+
+[Altomar] Can you try with a different core just in case. If you still have issues i will need a save just before you defeat the boss to see what went wrong in your game
+
+[Mudkipology] Yep, different core solved the issue. Thanks!
+
+[Altomar] Glad it worked
+
+[GafgarionGaming] just had this achievement not pop while playing on a real snes, first time an achievement hasnt triggered
+got the goblin achievement right before it on the same session, and everything says its still connected properly
+
+[Altomar] A few achievement have sync issues when played in a few specific cores. This one should work fine from now on
+
+
+============================================================
+ACHIEVEMENT 17559 - Arachnophobia
+============================================================
+Description: Defeat Tarantula in Ruby Cave
+
+[DongyJammin] rest in fuckin pieces dude 
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[Narman] Worst boss so far
+
+[EthanHunterX] I hateeee this boss. It seemed like it always knew when Guy's IP was charged and I'm about to unleashed Triple damage and would paralyze him every fucking time.
+
+
+============================================================
+ACHIEVEMENT 17560 - For King and Country
+============================================================
+Description: Defeat Pierre and Danielle in Treasure Sword Shrine
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17561 - The Prince's Ego
+============================================================
+Description: Rescue the prince of Bound Kingdom from the North Labyrinth
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17562 - Happy Ending...?
+============================================================
+Description: Escape from the Ancient Tower after Gades is defeated 
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17563 - Child Abduction
+============================================================
+Description: Rescue Jeros from Idura
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Ryudo edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17564 - The Phantom Tree
+============================================================
+Description: Find the location of the Phantom Tree
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17565 - The Mysterious Melody
+============================================================
+Description: Find out about the missing women of Narcysus
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17566 - The Useless Servant
+============================================================
+Description: Defeat Idura for one last time and find your way out
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17567 - The Priphea
+============================================================
+Description: Bring a Priphea to Leefa at Treadool
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17568 - Preventing a War
+============================================================
+Description: Recover the Ruby Icon from Dankirk North Dungeon
+
+[Server] Enddox edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17569 - Artea
+============================================================
+Description: Have Artea join your group
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[PapaZombi] This set seems to be a little buggy. I have Artea in my party, and I've gotten the Holy Whip, and I'm over level 50 but I haven't gotten any of the achievements.
+
+[Altomar] Possible network issues. If there is any bug i need a save just before you complete the events in order to try and reproduce any possible issue otherwise there is no much i can do.
+
+[PapaZombi] How would I go about getting Artea to join the party again without restarting? Seems I have to start over if I want credit.
+
+[Altomar] You can request for a manual unlock 
+https://docs.retroachievements.org/general/faq.html#how-do-i-request-a-manual-unlock
+
+[PapaZombi] Thanks
+
+
+============================================================
+ACHIEVEMENT 17570 - 20,000 Leagues Under the Sea
+============================================================
+Description: Convert your ship into a submarine
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's title, description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17571 - The Cursed One
+============================================================
+Description: Defeat Venge Ghost in Shrine of Vengeance
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17572 - The Power of Love
+============================================================
+Description: Find the Magic Mirror in Tower of Truth
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17573 - Dragon Slayer
+============================================================
+Description: Defeat Fire Dragon in Dragon Mountain
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17574 - Airship
+============================================================
+Description: Convert your ship into an airship
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 17575 - Blade of the Gods
+============================================================
+Description: Obtain the Dual Blade
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar set this achievement's type to Progression.
+
+[Altomar] The set is based on  USA version, not the frue lufia patch so it should work fine. 
+If you have issues with the achievement i will need a save just before the point the achievement is supposed to trigger in order to attempt and reproduce your issue
+
+[DeanWSW] Thanks for the quick reply, Altomar.
+
+My bad, I thought you got the sword the first time you find it, after defeating the Ghost Ship, but it turns out it’s later, in the three towers.
+
+
+============================================================
+ACHIEVEMENT 17576 - Final Countdown
+============================================================
+Description: Bring peace to the world
+
+[Warpsin] Even after playing it 18 years later this is such a beautiful ending to a game.
+
+[Server] Altomar edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] MrGauss edited this achievement.
+
+[Server] Altomar set this achievement's type to Win Condition.
+
+[Tommy] Definitely a great ending. This game is outstanding.
+
+[Stephen919] The ending really got to me, man.
+
+
+============================================================
+ACHIEVEMENT 17578 - I Am Immortal
+============================================================
+Description: Obtain Jute Helm in Tanbel Southeast Tower
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[kaitri] this is really old but still
+https://i.imgur.com/nGpM3Ze.png
+this is the solution.
+
+if you cant see it, push the pillar to the top and the brown/orange block 1 space below it (so they 2 are touching)
+
+[firkinblin] To clarify, during the "clock" puzzle with the pillar and orange stone, set the time to 12:00. Pillar on the image square, stone below it. A second door will appear with this treasure.
+
+Normally, you would have to set the clock to 9:00 to complete the required part of the puzzle.
+
+
+============================================================
+ACHIEVEMENT 17580 - Hey Pretty Lady, I've Got a Weird Thing to Show You
+============================================================
+Description: Obtain Seethru Cape and equip Tia with it
+
+[Protoblubb] You must do this before going to Bound Kingdom. The item can be gotten in the mini casino in Alunze (Inn upstairs) for 10,000 coins = 100,000 gold.
+
+[Server] DanielARP edited this achievement.
+
+[origineo] I'm not sure whether Seethru Cape is obtainable in the Ancient Cave. If so, is it possible to get the cheevo there?
+
+[Server] Altomar edited this achievement's title, description.
+
+[Padddi] Is this missable, or possible in Ancient cave?
+
+[Altomar] We started using [m] to tag missable achievements a long time after this set was released. After all these years i can't remember which achievement is missable unless if it's related to a challenge which then obviously is. A lot of these old sets lack some features the new sets have. If this one or any other achievement is missable let me know and i will flag it
+
+[Server] Altomar edited this achievement's title.
+
+[RetroSprites] Thanks, Protoblubb. To add information: The name is Sheer cape.
+
+[DistantFantasy] I mean... I should be able to get this; then reload, right? I dont need it for anything else regarding flags right?
+
+[PapaZombi] I bought 100 coins at the Alunze mini casino, walked up to the machine, put a chip clip on the up button, went to bed and woke up with enough to buy two of these things.
+
+[LordBen] Hi. I just arrived at Alunze. What's the best way to obtain the 10k coins? Farm for gold or play slot machine?
+
+[Hostis] I tried the method mentionned by @PapaZombi. Took about 3-4 hours of waiting to get the coins needed.
+
+[Konamon] Took me 10 minutes of keeping the up button pressed, while fast fowarding. Horrendous achievement that should be considered removed, since there's absolutely no skill involved getting it, just keeping two buttons pressed.
+
+[Kevinsyel] seconding removal from core set and making a "casino" subset
+
+[TrogdorTheBurninator] You have until shortly after reaching Bound Kingdom to do this. Just wait until you have more money/equipment, make a save, then sell your stuff and buy the coins directly. This isn't difficult unless you want the cape early (and why would you, it's kinda garbage).
+
+[terasacis] Is this achievable in the newgame+ mode that quadruples Gold and XP Gain?
+
+[Hezkezl] @terasacis of course! I just got it in "Retry" mode myself. Had oodles of money by the time I got to Merix. Went back to Alunze and quickly bought 10k coins and the achievement popped for me
+
+
+============================================================
+ACHIEVEMENT 17581 - Beaten by Strangers
+============================================================
+Description: Defeat Gades in Gordovan Tower and obtain his sword
+
+[Server] Enddox edited this achievement.
+
+[Godeki] Can you get this one during NG+ or is it only during the default new game?
+
+[Server] DanielARP edited this achievement.
+
+[avalith] It seems the trigger for this achievement is simply equipping the Gades Blade, regardless of its drop source. I got this in the Ancient Cave from finding the blade in a blue chest in Gift mode.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[YungHotDog] Managed with a level 35 party. Multiple jet helms are your friend. You can probably do this at a lower level as there's youtube strats, but I struggled.
+
+[LadyNadia] I just got it on retry mode.  Retry mode, level 35+ and giving Selan the mind ring works well.
+
+[SapphireSuicune] Level 26, one of the most fun boss fights I've fought. I had to use 3 miracles and Tia died but I beat him.
+
+[Server] Altomar edited this achievement's points.
+
+[Tommy] I leveled enough to survive his attacks (Tia to 29), then used statues from the mini casino in Alunze, they can heal the whole team for 200. I brought 26 of them and used one every turn, had 2 left.
+
+[Hostis] I did it with a team at level 26. The main objective was to lower Gades' speed enought that my team acted before him. Once done, it was a matter of keeping everyone healed. Took me 4 Regains to get there.
+
+[Konamon] Manageable with everyone level 25/26. Buy a bunch of statues from casino (about 25), some regains to revive Tia in case of emergence, equip Tia the speedy ring, Maxim and Guy with jet helm. In battle, use sluggish 6 times from jet helm, the IP from fire dagger and cold rapier, and statue every turn with Tia. If Selam dies, oh well.
+
+[ScissormanX] I just did it with everyone at level 30 using Konamon's method. At a higher level it only took 2 uses of sluggish to slow him down enough to where Tia acted first every turn. What's funny is after so many turns I think he ran out of MP or something because he stopped casting Destructo Wave and just poked at a random party member every turn! He one-shot Selan once, but other than that it was not that bad of a fight!
+
+[Clearnote] Longest battle of my life: won.
+Gades: How irritating... Thunder!
+Bro, c'mon! So much disrespect comin' from someone whose a$$ just got beaten!
+
+[GafgarionGaming] i did this at lvl 30 with just using statues and using anger braces IP abaility battle lust to increrase ATP on guy
+didnt do any decreasing of gades speed, tia went second every time but used statue every round, use it on the first turn to
+battle should go     gades attack > tia heal > maxim use cold rapier or attack > guy use anger brace IP or attack > selan use spark or something
+all my damage came from guy hitting around 310 and maxim for around 400 with ip attack
+
+
+============================================================
+ACHIEVEMENT 17582 - Memory Games
+============================================================
+Description: Solve the puzzle at North Lighthouse with at least 1 set of spikes up
+
+[HippopotamusRex] This one seems to be miscategorized.  It triggered after solving the puzzle for the Jet Helmet in the Regal Gob cave
+
+[Kallios] yeah I solved the puzzle in the alunze cave and I received it
+
+[Protoblubb] Same as the guy above.
+
+[Altomar] i fixed it. should trigger only in lighthouse now
+
+[mdkgx] Which lighthouse?
+
+[PaddyW] The achievment triggered with all spikes down too
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Tommy] I had to get this one legitimately so I guess it was fixed. The puzzle is always the same though and can be reset at any time, so it's a rather easy achievement.
+
+[PapaZombi] Legitimately just solved this one on my own, achievement popped, but then it tells me it can't reach the servers. This set is going to be the death of me.
+
+
+============================================================
+ACHIEVEMENT 17583 - Dragon Sword
+============================================================
+Description: Obtain and equip Maxim with the Dragon Blade
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17584 - Bunny Sword
+============================================================
+Description: Obtain and equip Selan with the Bunny Sword
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17585 - Millionaire
+============================================================
+Description: Have 1,000,000 or more coins from the casino
+
+[Agrahnax] FYI although the achievment states you have to win the coins you can just buy them and the achievment will still pop. You just need to have 1.000.000 coins.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Throgg] sail the ocean left and right above narvick on fast motion with Flash level 4 as your capsule monster. L auto attacks for your fights. youll get this in no time
+
+[Server] Altomar edited this achievement's description.
+
+[Server] Altomar edited this achievement's logic.
+
+[Tommy] I got most of the coins here by gambling with fast forward at the 100 coins slot machine in the VIP room.
+
+[kaitri] https://i.imgur.com/ndoDsw3.png
+
+i think this is the one achievement that deserves to be reduced to 100k instead of 1 mil.
+i timed it, with snes9x at maximum speed up, holding down the button for 31 MINUTES!!!
+
+it isnt fun, it isnt skillful nothing.
+now i bet a person that has more braincells than me could set up a macro for this, but for me it was literally 31 minutes of sitting here holding 2 buttons. 
+and theres just nothing fun skillful or whatever about this.
+
+
+i also did the 100 coin slot machine in the vip room.
+
+[GafgarionGaming] currently doing this on hardcore mode doing the 100 spin vip slot machine, DO NOT do it this way lol
+its taken me like 10 hours to get 930k
+buddy complaining it took him 31 minutes doesnt know how good hes got it LOL
+do money grinding on retry mode or litterally any other method unless your ready to have the up arrow pressed for 10+ hours
+
+[cassettewaves] LETS GO GAMBLING!!!!!!!!!!!
+
+(im literally leaving the game run on its own on fast forward and dpad up on turbo)
+
+[cassettewaves] aw dangit
+
+
+============================================================
+ACHIEVEMENT 17586 - VIP Member
+============================================================
+Description: Obtain the VIP card for the casino
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Tommy] This one is pretty sneaky, after you finish the Ruby Icon story quest you gotta go to Auralio Kingdom and talk to the prince twice. This is pretty hard to figure out on your own.
+
+
+============================================================
+ACHIEVEMENT 17587 - Holy Whip
+============================================================
+Description: Obtain the Holy Whip at Divine Shrine
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[TurosKensei] Yeah this is silly, when you get the Dragon Egg in the Divine Shrine, hit the wall to the north with a bomb/hammer and it will break despite not showing itself as a breakable wall.
+
+[1ofAkind] I wonder if there is actually a hint for this or it's simply a mistake by the devs who put a normal looking wall...
+
+
+============================================================
+ACHIEVEMENT 17588 - The Wishmaker
+============================================================
+Description: Obtain all 8 dragon eggs and make a wish
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[kaitri] is there like a guide on where they are? i followed online maps to make sure i get every dragon. im at the end of the game and i only got 6
+
+[DeanWSW] This guide could be useful https://shrines.rpgclassics.com/snes/lufia2/dragon.shtml
+
+
+============================================================
+ACHIEVEMENT 17589 - The Wishmaker 2
+============================================================
+Description: Make all 4 wishes
+
+[Server] Enddox edited this achievement.
+
+[JohnnyEagle] Should be noted that "all 4 wishes" can mean wishing for 4 shields, or 4 sets of rings, etc.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's points.
+
+[Tommy] The second time going for all eggs was the worst for me. The third and fourth time aren't so bad, since you'll likely have opened all chests by then and can narrow down which places to explore better with the Jewel Sonar from the casino.
+
+
+============================================================
+ACHIEVEMENT 17590 - I Need More Wishes
+============================================================
+Description: Defeat the Egg Dragon
+
+[Olafur] Cheap Tip: Heal him before attacking it, since he has the highest HP the SNES memory could allow, it'll overflow it and bringing it to critically low, so one or two attacks after that will be enough to defeat it.
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Hate] Dica: use uma magia de HP no boss. Após isso, oh, ataque com o maior hit possível. Pronto! Ele é derrotado na hora, pois, na época, os desenvolvedores esqueceram de estabelecer o valor base para o chefe.
+
+[gorocz] The heal bug is fixed in the patched roms, but the fight is doable anyway the moment you reach him (~55ish). You just need 2 Bunny Swords from the casino and possibly 1-2 Gorgon Rocks as well (but I did it just with the Bunny Swords). Guy oughta have the Gades Sword too, but he'll do maybe 4k damage on his IP, whereas the Bunny Swords do 10k damage at the start of the battle.
+
+Just make sure you full heal (Valor or at least Champion) your whole party every turn, and when you get confused, try to cure it with a faster character. Othrwise focus on Selan and Artea surviving as your IP gauge resets on revive...
+
+
+============================================================
+ACHIEVEMENT 17591 - The World's Most Difficult Trick
+============================================================
+Description: Solve the world's most difficult trick in Dragon Mountain
+
+[Server] DanielARP edited this achievement.
+
+[Server] MrGauss edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Padddi] I tried it on my own and failed...this guide helped a lot: http://www.rpg-oase.de/php/index.php?direct+29+Lufia/LufiaSchwRdW.htm
+
+[RetroSprites] Thanks Padddi, that guide helped a lot.
+
+[CrymynaL] I could do it on my own ... How satisfying!
+
+[kaitri] https://www.youtube.com/watch?v=ZO91qpMtssM
+
+for anyone who just gave up. here is a short 3min solution.
+
+[PoopyDooDooBoy] Almost as hard as the ancient cave! Took me over an hour
+
+
+============================================================
+ACHIEVEMENT 17592 - Scout
+============================================================
+Description: Reach level 10 with Maxim
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+
+============================================================
+ACHIEVEMENT 17597 - Jelze
+============================================================
+Description: Obtain the Jelze capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Narman] Foomy
+
+
+============================================================
+ACHIEVEMENT 17598 - Blaze
+============================================================
+Description: Obtain the Blaze capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+[Narman] Armor dog
+
+
+============================================================
+ACHIEVEMENT 17599 - Flash
+============================================================
+Description: Obtain the Flash capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17600 - Gusto
+============================================================
+Description: Obtain the Gusto capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17601 - Sully
+============================================================
+Description: Obtain the Sully capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17602 - Darbi
+============================================================
+Description: Obtain the Darbi capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17603 - Zeppy
+============================================================
+Description: Obtain the Zeppy capsule monster
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 17604 - Capsule Monster Collector
+============================================================
+Description: Obtain all 7 capsule monsters
+
+[Server] Enddox edited this achievement.
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] MrGauss edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Belthasar] This didn't trigger for me. I have all 7 CMs at master level, but I don't have this achievement...
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[LeoODoenteDosRPG] Triggered when I saved in Chaed for some reason
+
+
+============================================================
+ACHIEVEMENT 17605 - Master Jelze
+============================================================
+Description: Upgrade Jelze to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[1ofAkind] You can get him to stage 5 by feeding him a secret fruit at stage 4.
+
+Notice the monsters want a specific item in the feeding menu, giving them that item fills 3 bars instead of 1, this can save a lot of money and help you evolve them sooner.
+
+All the monsters share the same pool of wanted items per stage, most of the stage 1 items can be bought in Sundletan shop, most of the stage 2 items can be bought in the Tanbel and Clamento shops (apple cider/taplows are bought at the bar in Sundletan), the stage 3 items are more spread out between the shops from Bound to Treadool (Plated Cloth is in Gruberik shop).
+
+if you get an item you have no access to or is a grind (like the rocks in stage 3) you can reset the request either by having a battle in the overworld or feeding them something else from the pool (preferably the cheapest thing).
+
+if you plan to do the ancient cave subset it can be more efficient to just feed them all the blue chest multiples you get.
+
+
+============================================================
+ACHIEVEMENT 17606 - Master Blaze
+============================================================
+Description: Upgrade Blaze to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[Adorableflower] Called Moist Fruit in Free Lufia.
+
+[1ofAkind] Get him to stage 4, select his 3rd stage in the CHANGE option and feed him a moist/charm fruit.
+
+
+============================================================
+ACHIEVEMENT 17607 - Master Flash
+============================================================
+Description: Upgrade Flash to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[1ofAkind] You can get to stage 5 straight from stage 2 but his achievement's logic still requires you to get him to stage 4 as well, so you should do that first in order to save on a retransformation fruit.
+
+After you get him to stage 4 select his 2nd stage in the CHANGE option and feed him a dark fruit.
+
+
+============================================================
+ACHIEVEMENT 17608 - Master Gusto
+============================================================
+Description: Upgrade Gusto to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[1ofAkind] You can get him to stage 5 by feeding him an earth fruit at stage 4.
+
+
+============================================================
+ACHIEVEMENT 17609 - Master Sully
+============================================================
+Description: Upgrade Sully to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[1ofAkind] You can get him to stage 5 by feeding him a wind fruit at stage 4.
+
+
+============================================================
+ACHIEVEMENT 17610 - Master Darbi
+============================================================
+Description: Upgrade Darbi to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[1ofAkind] You can get to stage 5 straight from stage 2 but his achievement's logic still requires you to get him to stage 4 as well, so you should do that first in order to save on a retransformation fruit.
+
+After you get him to stage 4 select his 2nd stage in the CHANGE option and feed him a holy fruit.
+
+
+============================================================
+ACHIEVEMENT 17611 - Master Zeppy
+============================================================
+Description: Upgrade Zeppy to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Server] Altomar edited this achievement's logic.
+
+[1ofAkind] Get him to stage 4, select his 3rd stage in the CHANGE option and feed him a flame fruit.
+
+
+============================================================
+ACHIEVEMENT 17612 - Power House
+============================================================
+Description: Upgrade all seven capsule monsters to class 5
+
+[Server] Enddox edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] MrGauss edited this achievement.
+
+[Server] Altomar edited this achievement.
+
+[Tommy] This one is more simple than I used to think. All capsule monsters level up the same way from class 1 to 4. You can just buy 32 (6,4k gold) battle knives and 32 (32k gold) apple cider in Sundletan, then 32 (160k gold) bronze swords in Bound Kingdom. Then just go around and get the fruit needed for the final class.
+
+[Server] Altomar edited this achievement's logic.
+
+[kaitri] can someone explain to me why some of them wont evolve? i have for example flash on level 4. i tried EVERY SINGLE FRUIT on him and he just doesnt go to master. what the f is going on??
+
+[Chaosnerd] Not every capsule monster evolves at level 4 (only a few do). After you reached level 4 with a capsule monster, you need to switch to a level where they would eat their respective fruit (they will eat it, even when they say they are not hungry anymore).
+
+Here's a list of levels and fruits for all capsule monsters (and how to change them back):
+
+ CM      Item req.      Class  Transform back
+ -----    ------------     -----   --------------
+ Jelze    Secret fruit    4      Secret fruit
+ Blaze   Charm fruit    3      Flame fruit
+ Flash   Dark fruit       2      Holy fruit
+ Gusto  Earth fruit      4      Wind fruit
+ Zeppy  Flame fruit     3     Charm fruit
+ Darbi   Holy fruit       2      Dark fruit
+ Sully    Wind fruit      4      Earth fruit
+
+[1ofAkind] Notice the monster wants a specific item in the feeding menu, giving them that item fills 3 bars instead of 1, this can save a lot of money and help you evolve them sooner.
+
+All the monsters share the same pool of wanted items per stage, most of the stage 1 items can be bought in Sundletan shop, most of the stage 2 items can be bought in the Tanbel and Clamento shops (apple cider/taplows are bought at the bar in Sundletan), the stage 3 items are more spread out between the shops from Bound to Treadool (Plated Cloth is in Gruberik shop).
+
+if you get an item you have no access to or is a grind (like the rocks in stage 3) you can reset the request either by having a battle in the overworld or feeding them something else from the pool (preferably the cheapest thing).
+
+if you plan to do the ancient cave subset it can be more efficient to just feed them all the blue chest multiples you get.
+
+
+============================================================
+ACHIEVEMENT 114729 - Beginner Explorer 
+============================================================
+Description: Reach B21 in the Ancient Dungeon
+
+[Server] MrGauss uploaded this achievement.
+
+[Server] MrGauss promoted this achievement to the Core set.
+
+[Server] Ryudo edited this achievement.
+
+
+============================================================
+ACHIEVEMENT 114730 - Spelunker
+============================================================
+Description: Reach B41 in the Ancient Dungeon
+
+[Server] MrGauss uploaded this achievement.
+
+[Server] MrGauss promoted this achievement to the Core set.
+
+
+============================================================
+ACHIEVEMENT 114731 - Advanced Hunter
+============================================================
+Description: Reach B61 in the Ancient Dungeon
+
+[Server] MrGauss uploaded this achievement.
+
+[Server] MrGauss promoted this achievement to the Core set.
+
+[Server] MrGauss edited this achievement.
+
+
+============================================================
+ACHIEVEMENT 114732 - Master Adventurer
+============================================================
+Description: Reach B81 in the Ancient Dungeon
+
+[Server] MrGauss uploaded this achievement.
+
+[Server] MrGauss promoted this achievement to the Core set.
+
+[Server] MrGauss edited this achievement.
+
+
+============================================================
+ACHIEVEMENT 114733 - Expert Explorer
+============================================================
+Description: Reach the final floor of the Ancient Dungeon
+
+[Server] MrGauss uploaded this achievement.
+
+[Server] MrGauss promoted this achievement to the Core set.
+
+[Server] MrGauss edited this achievement.
+
+[Tommy] Who's Rafael?
+
+[rafaelbanzai] It's me (?)
+
+[ShianKiri] I watched a speedrun guide on how to do this. Also found a lot of documentation on Ancient Cave. Some resources:
+https://docs.google.com/spreadsheets/d/1sz45yBONOMBdfs1yYovWCa438y_IlKJQfOcwv5_GAn0/edit?usp=sharing
+https://www.speedrun.com/lufia2/guides/68bvm
+
+General notes:
+I recommend using Guy, Dekar and Artea. 
+
+By the time you get to Floor 43, you want to be at least level 22. You can easily achieve this in the early runs. 
+
+Deadly Sword, Deadly Rod and Fatal Pick are great if you can get them early so you can blast through mobs. However, you will be spending a lot of time trying to find Curselifters so you can set up for Master Jelly. 
+
+Dekar Blade starts showing up Floor 15+ (1/2 Damage)
+Uncursed Deadly Rod does 1/8 Damage.
+Old Sword does 1/6 Damage. 
+
+You also want to open Blue Chests to find some starter gear so if you're struggling, just spam Floor 1-30 until you get a decent set of starter gear. 
+
+If you can get Gades Sword and Dekar Blade, that's basically 6000-8000 Damage.
+
+Floor 71-80 is when you start trying to finalize your equipment. 
+Floor 81-98 get to the stairs as fast as you can.
+
+Learn about some really devastating monsters and run from them at all costs. 
+
+Make sure Artea is the one with a Deadly Rod since his AGI is so high, he goes first and can kill something right away. 
+
+Don't spend too much time fighting once you're level 30. If you can wreck mobs, do so, otherwise avoid fights.
+
+[Nildison0809] Exaustivo! Ainda não consegui essa. Não notei a dica de subir do andar 81 até o 99 de maneira a evitar lutas. Mesmo numa Run boa não sabia que era importante fazer isso.
+
+
+============================================================
+ACHIEVEMENT 114734 - R. A. Legend - Lufia II
+============================================================
+Description: Legitimately defeat the Master Jelly in the Ancient Cave reducing its HP to 0
+
+[Server] MrGauss uploaded this achievement.
+
+[Server] MrGauss promoted this achievement to the Core set.
+
+[MestreAnds] Dekar Blade and Gades Blade + Spell Trick = ±7500 damage.  This makes it easy for the boss.
+
+[Mia] I did it without Dekar (used the main 4 people at end game) at around level 57-59. I didn't even have Trick either, but I had 2 power drugs which was enough to boost my Gades Blade octohit thing to do around 4000 damage total. I ended up doing the exact amount of damage needed on the final hit haha. Very stressful don't recommend doing this without Dekar, but it was fun nonetheless.
+
+[bearstormstout] Dekar makes this a joke IF you get the Dekar Blade during your run. My loadout was Dekar with Dekar Blade, Maxim with Myth Blade, Guy with Gades Blade, and Selan (equipment doesn't matter here).
+
+I didn't have Trick, but I did get two power gourds, which I dumped onto Guy. Round 1, Maxim and Dekar use their IPs to take off ~6000 HP from the front row while Guy and Selan dumped power gourds. Second turn, Guy unleashed Octo Strike and that was all she wrote.
+
+[LeoODoenteDosRPG] Another good strategy (the one that I used btw) I went with Dekar In my party In hopes to find the Dekar Blade, but It never showed up, but a second Gade's Blade appeared to be the replacement. Went In a round lvl 55, used the Old Sword IP with Maxin, Selan used Trick on everyone, Guy and Dekar atacked. Second turn, Maxim atacked, Selan used Trick a second time, Guy and Dekar atacked. Third and final turn, Maxin atacked, Selan used the Strongest spell I had, Guy and Dekar uses octo Strike... Booooom, Giant slime down.
+
+[Darlike] My group consisted of Dekar with a Dekar Blade (I found two in the same run), Maxim without a Mythic Blade (I replaced it with a Gorgon Rock), Selan with another Gorgon Rock, and Guy with a Gades Blade. All four were level 80+. I used a Class 4 Flash as a Capsule Monster and absolutely crushed it very hard.
+
+I farmed levels by using Fatal Pick on Selan, after having Curselifter saved up. I also farmed the copper, silver, and gold dragons. It was a walk in the park, I defeated every enemy that stood in my way. Fatal Pick has a high percentage chance of instantly eliminating an enemy, except for undead, which is better than using instant-kill spells.
+
+It's another strategy to use instead of simply praying that RNG doesn't send dragons to block your ladders.

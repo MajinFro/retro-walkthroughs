@@ -1,0 +1,703 @@
+{
+  "format": "prose",
+  "playthroughs": 4,
+  "playthrough_notes": "Super Mario All-Stars consists of four separate classic games: Super Mario Bros., Super Mario Bros.: The Lost Levels, Super Mario Bros. 2, and Super Mario Bros. 3. Each game features dedicated quests, speedrun challenges, and character trials.",
+  "settings_notes": "Standard SNES controls with battery-backed save files per game. Save states are disabled in Hardcore mode.",
+  "fact_ids": [
+    "ra-comments-6-1",
+    "ra-comments-6-2",
+    "neo1-3-1",
+    "neo1-3-2",
+    "ra-comments-8-1"
+  ],
+  "missables": [
+    {
+      "achievement_id": 28306,
+      "label": "World 9 Warpless Requirement (Lost Levels)",
+      "deadline": "Must reach and complete World 8-4 without using any Warp Zones in Worlds 1 through 8",
+      "chapter": 3,
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "neo1-62-1"
+      ]
+    },
+    {
+      "achievement_id": 26921,
+      "label": "SMB1 Shortest Route Speedrun",
+      "deadline": "Beat SMB1 in a single session from a fresh file using 1-2 and 4-2 warp zones",
+      "chapter": 2,
+      "fact_ids": [
+        "ra-comments-37-1",
+        "ra-comments-37-2",
+        "neo1-3-1"
+      ]
+    },
+    {
+      "achievement_id": 26922,
+      "label": "SMB1 Steadfast Platformer (Deathless)",
+      "deadline": "Beat SMB1 from a fresh file in one session without losing a single life",
+      "chapter": 2,
+      "fact_ids": [
+        "ra-comments-39-1",
+        "ra-comments-39-2",
+        "ra-comments-40-1"
+      ]
+    },
+    {
+      "achievement_id": 26938,
+      "label": "SMBTLL Shortest Route Speedrun",
+      "deadline": "Beat SMB The Lost Levels from a fresh file in one session using optimal warp routes",
+      "chapter": 3,
+      "fact_ids": [
+        "ra-comments-75-1",
+        "ra-comments-75-2",
+        "ra-comments-76-1"
+      ]
+    },
+    {
+      "achievement_id": 26966,
+      "label": "SMB2 Nightmare-Free Journey (Deathless World)",
+      "deadline": "Clear an entire world in SMB2 without losing a single life",
+      "chapter": 5,
+      "fact_ids": [
+        "neo1-8-1",
+        "neo1-8-2",
+        "neo1-10-1"
+      ]
+    },
+    {
+      "achievement_id": 26967,
+      "label": "SMB2 Mario-Only Warpless Run",
+      "deadline": "Complete all 20 stages without warps selecting only Mario for every single stage",
+      "chapter": 6,
+      "fact_ids": [
+        "neo1-11-1",
+        "neo1-11-2",
+        "neo1-13-1"
+      ]
+    },
+    {
+      "achievement_id": 26968,
+      "label": "SMB2 Princess Peach-Only Warpless Run",
+      "deadline": "Complete all 20 stages without warps selecting only Princess Peach for every single stage",
+      "chapter": 6,
+      "fact_ids": [
+        "ra-comments-146-1",
+        "ra-comments-146-2",
+        "neo1-7-1"
+      ]
+    },
+    {
+      "achievement_id": 26969,
+      "label": "SMB2 Toad-Only Warpless Run",
+      "deadline": "Complete all 20 stages without warps selecting only Toad for every single stage",
+      "chapter": 6,
+      "fact_ids": [
+        "neo1-7-1",
+        "neo1-7-2",
+        "neo1-11-1"
+      ]
+    },
+    {
+      "achievement_id": 26970,
+      "label": "SMB2 Luigi-Only Warpless Run",
+      "deadline": "Complete all 20 stages without warps selecting only Luigi for every single stage",
+      "chapter": 6,
+      "fact_ids": [
+        "neo1-7-1",
+        "neo1-7-2",
+        "neo1-11-1"
+      ]
+    },
+    {
+      "achievement_id": 26971,
+      "label": "SMB2 Super Speedrun Bros. 2 (8 Stages Max)",
+      "deadline": "Beat SMB2 clearing at most 8 stages using vase warps in 1-3 and 4-2",
+      "chapter": 6,
+      "fact_ids": [
+        "neo1-7-1",
+        "neo1-7-2"
+      ]
+    },
+    {
+      "achievement_id": 26972,
+      "label": "SMB2 Sweet Dreams (Single Session Deathless)",
+      "deadline": "Beat the entire game in a single sitting without losing a life",
+      "chapter": 6,
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1"
+      ]
+    },
+    {
+      "achievement_id": 27009,
+      "label": "SMB3 Super Speedrun Bros. 3 (Shortest Route)",
+      "deadline": "Complete SMB3 in one session using the shortest route via Warp Whistles",
+      "chapter": 7,
+      "fact_ids": [
+        "ra-comments-226-1",
+        "ra-comments-226-2",
+        "neo1-35-1"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Point of No Return: SMB1 Final Castle Bridge",
+      "chapter": 1,
+      "warning": "Once you trigger Bowser falling into the lava in World 8-4, you cannot backtrack to earlier worlds on the first quest.",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: SMB1 Star Course World 8-4 Bridge",
+      "chapter": 2,
+      "warning": "Triggering the bridge axe in Star Course World 8-4 concludes the Second Quest.",
+      "fact_ids": [
+        "ra-comments-36-1",
+        "ra-comments-36-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: Lost Levels World 8-4 Bridge",
+      "chapter": 3,
+      "warning": "Defeating Bowser in World 8-4 checks your warp history; if warps were taken, the game loops to World 1 instead of World 9.",
+      "fact_ids": [
+        "ra-comments-64-1",
+        "ra-comments-64-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: Lost Levels World D-4 Chamber",
+      "chapter": 4,
+      "warning": "Defeating the final Bowser in Stage D-4 concludes the secret worlds campaign.",
+      "fact_ids": [
+        "ra-comments-74-1",
+        "ra-comments-74-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: Wart Throne Room Door",
+      "chapter": 5,
+      "warning": "Entering the throne room in World 7-2 locks the entrance behind you for the final confrontation against Wart.",
+      "fact_ids": [
+        "neo1-10-1",
+        "neo1-10-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: SMB2 Speedrun Wart Entry",
+      "chapter": 6,
+      "warning": "Entering Wart\u2019s inner sanctum seals your run; ensure your stage clear count is 8 or fewer before entering.",
+      "fact_ids": [
+        "neo1-7-1",
+        "neo1-7-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: Sea Side Airship Departure",
+      "chapter": 7,
+      "warning": "Defeating Wendy O. Koopa on the Sea Side airship sends Mario forward to World 4, making earlier map panels inaccessible without warps.",
+      "fact_ids": [
+        "ra-comments-158-1",
+        "ra-comments-158-2"
+      ]
+    },
+    {
+      "label": "Point of No Return: Bowser Citadel Throne Room Door",
+      "chapter": 8,
+      "warning": "Entering the grand chamber in World 8 Castle of Koopa begins the final battle against Bowser.",
+      "fact_ids": [
+        "ra-comments-168-1",
+        "ra-comments-168-2"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Super Mario Bros. \u2014 First Quest (Worlds 1\u20138)",
+      "areas": [
+        "SMB1_World1",
+        "SMB1_World2",
+        "SMB1_World3",
+        "SMB1_World4",
+        "SMB1_World5",
+        "SMB1_World6",
+        "SMB1_World7",
+        "SMB1_World8"
+      ],
+      "achievement_ids": [
+        26905,
+        26906,
+        26907,
+        26908,
+        26909,
+        26910,
+        26911,
+        26912,
+        26923,
+        26924,
+        541017,
+        541026
+      ],
+      "fact_ids": [
+        "ra-comments-6-1",
+        "ra-comments-6-2",
+        "neo1-3-1",
+        "neo1-3-2",
+        "ra-comments-8-1",
+        "ra-comments-8-2",
+        "neo1-4-1",
+        "neo1-4-2",
+        "ra-comments-10-1",
+        "ra-comments-10-2",
+        "ra-comments-12-1",
+        "ra-comments-12-2",
+        "neo1-5-1",
+        "neo1-5-2",
+        "ra-comments-14-1",
+        "ra-comments-14-2",
+        "ra-comments-16-1",
+        "ra-comments-16-2",
+        "ra-comments-18-1",
+        "ra-comments-18-2",
+        "neo1-6-1",
+        "neo1-6-2",
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "ra-comments-42-1",
+        "ra-comments-42-2",
+        "ra-comments-44-1",
+        "ra-comments-44-2",
+        "neo2-24-1",
+        "neo2-24-2"
+      ],
+      "notes": "Journey through the 8 classic worlds of the Mushroom Kingdom in Super Mario Bros., finding warp zones, coin rooms, and collecting power-ups."
+    },
+    {
+      "n": 2,
+      "title": "Super Mario Bros. \u2014 Second Quest & Speedrun",
+      "areas": [
+        "SMB1_StarWorld1",
+        "SMB1_StarWorld2",
+        "SMB1_StarWorld3",
+        "SMB1_StarWorld4",
+        "SMB1_StarWorld5",
+        "SMB1_StarWorld6",
+        "SMB1_StarWorld7",
+        "SMB1_StarWorld8"
+      ],
+      "achievement_ids": [
+        26913,
+        26914,
+        26915,
+        26916,
+        26917,
+        26918,
+        26919,
+        26920,
+        26921,
+        26922
+      ],
+      "fact_ids": [
+        "ra-comments-22-1",
+        "ra-comments-22-2",
+        "neo2-58-1",
+        "neo2-58-2",
+        "ra-comments-24-1",
+        "ra-comments-24-2",
+        "neo2-62-1",
+        "neo2-62-2",
+        "ra-comments-26-1",
+        "ra-comments-26-2",
+        "neo2-65-1",
+        "neo2-65-2",
+        "ra-comments-28-1",
+        "ra-comments-28-2",
+        "neo2-68-1",
+        "neo2-68-2",
+        "ra-comments-30-1",
+        "ra-comments-30-2",
+        "neo2-72-1",
+        "neo2-72-2",
+        "ra-comments-32-1",
+        "ra-comments-32-2",
+        "neo2-74-1",
+        "neo2-74-2",
+        "ra-comments-34-1",
+        "ra-comments-34-2",
+        "neo2-79-1",
+        "neo2-79-2",
+        "ra-comments-36-1",
+        "ra-comments-36-2"
+      ],
+      "notes": "Conquer the harder Star Courses (Second Quest) where Goombas become Buzzy Beetles and platforms are shorter, plus deathless and shortest-route speedruns."
+    },
+    {
+      "n": 3,
+      "title": "Super Mario Bros.: The Lost Levels \u2014 Main Quest (Worlds 1\u20138)",
+      "areas": [
+        "SMBTLL_World1",
+        "SMBTLL_World2",
+        "SMBTLL_World3",
+        "SMBTLL_World4",
+        "SMBTLL_World5",
+        "SMBTLL_World6",
+        "SMBTLL_World7",
+        "SMBTLL_World8"
+      ],
+      "achievement_ids": [
+        26926,
+        26927,
+        26928,
+        26929,
+        26930,
+        26931,
+        26932,
+        26933,
+        26938,
+        26940,
+        541018,
+        541019,
+        541020,
+        541027
+      ],
+      "fact_ids": [
+        "ra-comments-50-1",
+        "ra-comments-50-2",
+        "neo1-57-1",
+        "neo1-57-2",
+        "ra-comments-52-1",
+        "ra-comments-52-2",
+        "neo1-58-1",
+        "neo1-58-2",
+        "ra-comments-54-1",
+        "ra-comments-54-2",
+        "ra-comments-56-1",
+        "ra-comments-56-2",
+        "neo1-59-1",
+        "neo1-59-2",
+        "ra-comments-58-1",
+        "ra-comments-58-2",
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "neo1-60-1",
+        "neo1-60-2",
+        "ra-comments-62-1",
+        "ra-comments-62-2",
+        "ra-comments-64-1",
+        "ra-comments-64-2",
+        "ra-comments-75-1",
+        "ra-comments-75-2",
+        "ra-comments-76-1",
+        "ra-comments-76-2",
+        "neo1-55-1",
+        "neo1-55-2"
+      ],
+      "notes": "Survive the punishing original Japanese sequel. Important: do not use any warps if you wish to access World 9!"
+    },
+    {
+      "n": 4,
+      "title": "Super Mario Bros.: The Lost Levels \u2014 Secret Worlds (Worlds 9 & A\u2013D)",
+      "areas": [
+        "SMBTLL_World9",
+        "SMBTLL_WorldA",
+        "SMBTLL_WorldB",
+        "SMBTLL_WorldC",
+        "SMBTLL_WorldD"
+      ],
+      "achievement_ids": [
+        28306,
+        26934,
+        26935,
+        26936,
+        26937,
+        541021,
+        541022
+      ],
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "neo1-62-1",
+        "neo1-62-2",
+        "ra-comments-68-1",
+        "ra-comments-68-2",
+        "ra-comments-70-1",
+        "ra-comments-70-2",
+        "ra-comments-72-1",
+        "ra-comments-72-2",
+        "ra-comments-74-1",
+        "ra-comments-74-2",
+        "neo1-63-1",
+        "neo1-63-2",
+        "neo4-195-1",
+        "neo4-195-2"
+      ],
+      "notes": "Explore the surreal bonus World 9 (unlocked by beating Worlds 1-8 warpless) and the post-game Worlds A through D."
+    },
+    {
+      "n": 5,
+      "title": "Super Mario Bros. 2 \u2014 Subcon Liberation (Worlds 1\u20137)",
+      "areas": [
+        "SMB2_World1",
+        "SMB2_World2",
+        "SMB2_World3",
+        "SMB2_World4",
+        "SMB2_World5",
+        "SMB2_World6",
+        "SMB2_World7"
+      ],
+      "achievement_ids": [
+        26941,
+        26942,
+        26943,
+        26944,
+        26945,
+        26946,
+        26948,
+        26949,
+        26960,
+        26951,
+        26957,
+        26950,
+        26962,
+        26952,
+        26958,
+        26953,
+        26959,
+        26954,
+        26963,
+        26955,
+        26964,
+        26956,
+        26965,
+        26961,
+        26966
+      ],
+      "fact_ids": [
+        "neo1-8-1",
+        "neo1-8-2",
+        "neo1-9-1",
+        "neo1-9-2",
+        "neo2-116-1",
+        "neo2-116-2",
+        "neo1-11-1",
+        "neo1-11-2",
+        "neo2-107-1",
+        "neo2-107-2",
+        "neo1-7-1",
+        "neo1-7-2",
+        "neo3-112-1",
+        "neo3-112-2",
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-14-1",
+        "neo1-14-2",
+        "neo2-122-1",
+        "neo2-122-2",
+        "neo1-25-1",
+        "neo1-25-2",
+        "neo1-28-1",
+        "neo1-28-2",
+        "neo1-33-1",
+        "neo1-33-2"
+      ],
+      "notes": "Pluck vegetables, enter Subspace, and defeat Wart and his 8th-in-command bosses without taking damage in the dream world of Subcon."
+    },
+    {
+      "n": 6,
+      "title": "Super Mario Bros. 2 \u2014 Character Mastery & Speedrun",
+      "areas": [
+        "SMB2_SubconSpeedrun",
+        "SMB2_CharacterTrial"
+      ],
+      "achievement_ids": [
+        26967,
+        26968,
+        26969,
+        26970,
+        26971,
+        26972
+      ],
+      "fact_ids": [
+        "neo1-11-1",
+        "neo1-11-2",
+        "neo1-13-1",
+        "neo1-13-2",
+        "ra-comments-146-1",
+        "ra-comments-146-2",
+        "neo1-7-1",
+        "neo1-7-2",
+        "neo1-10-1",
+        "neo1-10-2",
+        "neo1-33-1",
+        "neo1-33-2"
+      ],
+      "notes": "Clear the game warpless using exclusively Mario, Luigi, Toad, and Princess Peach, along with deathless and 8-stage speedrun restrictions."
+    },
+    {
+      "n": 7,
+      "title": "Super Mario Bros. 3 \u2014 Grass Land to Sea Side (Worlds 1\u20133)",
+      "areas": [
+        "SMB3_GrassLand",
+        "SMB3_DesertHill",
+        "SMB3_SeaSide",
+        "SMB3_WarpZone"
+      ],
+      "achievement_ids": [
+        26973,
+        26980,
+        26974,
+        26981,
+        26975,
+        26982,
+        26989,
+        26990,
+        26991,
+        26992,
+        26994,
+        26995,
+        26996,
+        26997,
+        26998,
+        27001,
+        27002,
+        27003,
+        27008,
+        27009
+      ],
+      "fact_ids": [
+        "ra-comments-154-1",
+        "ra-comments-154-2",
+        "neo1-40-1",
+        "neo1-40-2",
+        "ra-comments-170-1",
+        "ra-comments-170-2",
+        "ra-comments-156-1",
+        "ra-comments-156-2",
+        "sw1-6-1",
+        "sw1-6-2",
+        "ra-comments-172-1",
+        "ra-comments-172-2",
+        "ra-comments-158-1",
+        "ra-comments-158-2",
+        "neo1-36-1",
+        "neo1-36-2",
+        "ra-comments-174-1",
+        "ra-comments-174-2",
+        "ra-comments-186-1",
+        "ra-comments-186-2",
+        "neo1-35-1",
+        "neo1-35-2",
+        "ra-comments-188-1",
+        "ra-comments-188-2",
+        "ra-comments-190-1",
+        "ra-comments-190-2",
+        "neo1-39-1",
+        "neo1-39-2",
+        "ra-comments-192-1",
+        "ra-comments-192-2"
+      ],
+      "notes": "Journey through the first three kingdoms of Super Mario Bros. 3, mastering minigames, White Mushroom Houses, and Warp Whistles."
+    },
+    {
+      "n": 8,
+      "title": "Super Mario Bros. 3 \u2014 Giant Land to Dark Land (Worlds 4\u20138)",
+      "areas": [
+        "SMB3_BigIsland",
+        "SMB3_TheSky",
+        "SMB3_IcedLand",
+        "SMB3_PipeMaze",
+        "SMB3_CastleOfKoopa"
+      ],
+      "achievement_ids": [
+        26976,
+        26983,
+        26977,
+        26984,
+        26978,
+        26985,
+        26979,
+        26986,
+        26988,
+        26987,
+        26993,
+        541025,
+        27000,
+        27004,
+        27005,
+        27006,
+        27007
+      ],
+      "fact_ids": [
+        "ra-comments-160-1",
+        "ra-comments-160-2",
+        "neo1-46-1",
+        "neo1-46-2",
+        "ra-comments-176-1",
+        "ra-comments-176-2",
+        "ra-comments-162-1",
+        "ra-comments-162-2",
+        "neo1-38-1",
+        "neo1-38-2",
+        "ra-comments-178-1",
+        "ra-comments-178-2",
+        "ra-comments-164-1",
+        "ra-comments-164-2",
+        "neo1-50-1",
+        "neo1-50-2",
+        "ra-comments-180-1",
+        "ra-comments-180-2",
+        "ra-comments-166-1",
+        "ra-comments-166-2",
+        "neo1-35-1",
+        "neo1-35-2",
+        "ra-comments-182-1",
+        "ra-comments-182-2",
+        "ra-comments-168-1",
+        "ra-comments-168-2",
+        "neo1-39-1",
+        "neo1-39-2",
+        "ra-comments-184-1",
+        "ra-comments-184-2"
+      ],
+      "notes": "Conquer Worlds 4 through 8, amass inventory items, and defeat Bowser in his heavily fortified Dark Land fortress."
+    }
+  ],
+  "true_100_criteria": {
+    "genre": "Platformer / Compilation",
+    "categories": [
+      {
+        "name": "Super Mario Bros. 100% Mastery",
+        "description": "Clear all 8 worlds of First Quest and all 8 worlds of Second Quest (Star Course), discover all underground coin rooms, and master deathless and speedrun challenges."
+      },
+      {
+        "name": "The Lost Levels Complete Conquest",
+        "description": "Complete Worlds 1 through 8 warpless to unlock and beat World 9 (Fantasy World), accumulate 8 game clears to unlock Worlds A through D, and conquer all secret worlds."
+      },
+      {
+        "name": "Super Mario Bros. 2 Subcon Liberation",
+        "description": "Complete all 20 stages warpless with each individual character (Mario, Peach, Toad, Luigi), uncover Subspace mushroom health upgrades, and defeat Wart deathless."
+      },
+      {
+        "name": "Super Mario Bros. 3 Comprehensive Mastery",
+        "description": "Conquer all 8 main worlds, find all 3 Warp Whistles, trigger all White Mushroom Houses, spawn Treasure Ships, and breach Bowser Castle in Dark Land."
+      }
+    ],
+    "chapter_checkpoints": [
+      "SMB1 First Quest Completion & Secret Rooms",
+      "SMB1 Second Quest (Star Course) & Speedruns",
+      "SMBTLL Warpless Run & World 9 Fantasy World",
+      "SMBTLL Worlds A-D Mastery",
+      "SMB2 Subcon Liberation & Heart Upgrades",
+      "SMB2 Character Trials & Subspace Vases",
+      "SMB3 Worlds 1-3 Whistles & Secret Anchors",
+      "SMB3 Worlds 4-8 Dark Land & Bowser Defeat"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "retro-walkthroughs",
+  "private": true,
+  "type": "module",
+  "imports": {
+    "#/*": "./src/*"
+  },
+  "scripts": {
+    "dev": "vite dev --port 3001",
+    "generate-routes": "tsr generate",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "biome format",
+    "lint": "biome lint",
+    "check": "biome check",
+    "deploy": "npm run build && wrangler deploy",
+    "fetch-data": "npx tsx scripts/fetch-data.ts",
+    "rw:status": "tsx scripts/pipeline/status.ts",
+    "rw:fetch": "tsx scripts/fetch-data.ts",
+    "rw:collect": "python scripts/pipeline/collect_source.py",
+    "rw:chunk": "tsx scripts/pipeline/chunk-sources.ts",
+    "rw:chunks": "tsx scripts/pipeline/show-chunks.ts",
+    "rw:verify": "tsx scripts/pipeline/verify-facts.ts",
+    "rw:plan": "tsx scripts/pipeline/plan-check.ts",
+    "rw:packet": "tsx scripts/pipeline/chapter-packet.ts",
+    "rw:assemble": "tsx scripts/pipeline/assemble.ts",
+    "rw:qa": "tsx scripts/pipeline/qa-check.ts",
+    "rw:score": "tsx scripts/pipeline/score.ts",
+    "rw:clean": "tsx scripts/pipeline/cleanup.ts",
+    "rw:find-guides": "python scripts/pipeline/search_guides.py"
+  },
+  "dependencies": {
+    "@google/genai": "^2.21.0",
+    "@retroachievements/api": "^2.1.0",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.1.18",
+    "@tanstack/react-devtools": "latest",
+    "@tanstack/react-router": "latest",
+    "@tanstack/react-router-devtools": "latest",
+    "@tanstack/react-start": "latest",
+    "dotenv": "^16.6.1",
+    "mermaid": "^11.17.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.5",
+    "@cloudflare/vite-plugin": "^1.26.0",
+    "@rolldown/plugin-babel": "^0.2.3",
+    "@tanstack/devtools-vite": "latest",
+    "@tanstack/router-cli": "^1.132.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.0",
+    "wrangler": "^4.70.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "lightningcss",
+      "sharp",
+      "workerd"
+    ]
+  }
+}

@@ -1,0 +1,1800 @@
+{
+  "nodes": [
+    {
+      "id": "StartingRoad",
+      "label": "Starting Road",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-2-1",
+        "sw1-9-1"
+      ]
+    },
+    {
+      "id": "Flower",
+      "label": "Red Flower",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-2-1",
+        "sw1-9-1"
+      ]
+    },
+    {
+      "id": "CeleryForest",
+      "label": "Celery Forest",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-2-2",
+        "sw1-9-2"
+      ]
+    },
+    {
+      "id": "LakeQuench",
+      "label": "Lake Quench",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-2-3",
+        "sw1-9-3"
+      ]
+    },
+    {
+      "id": "LakeCoin",
+      "label": "Lake Gold Coin",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-2-7",
+        "sw1-9-4"
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Canteen",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-2-3",
+        "sw1-9-3"
+      ]
+    },
+    {
+      "id": "Percy",
+      "label": "Percy",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-2-4",
+        "sw1-9-5"
+      ]
+    },
+    {
+      "id": "ParsleyForestCh1",
+      "label": "Parsley Forest Bush",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-2-5",
+        "sw1-9-5"
+      ]
+    },
+    {
+      "id": "PrinceLettuce",
+      "label": "Prince Lettuce",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-2-5",
+        "sw1-9-5"
+      ]
+    },
+    {
+      "id": "MelonPatch",
+      "label": "Melon Patch",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-2-6",
+        "sw1-9-6"
+      ]
+    },
+    {
+      "id": "TownPass",
+      "label": "Town Gate Pass",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-2-6",
+        "sw1-9-6"
+      ]
+    },
+    {
+      "id": "SaladoriaGate",
+      "label": "Saladoria Town Gate",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-2-8",
+        "sw1-9-7"
+      ]
+    },
+    {
+      "id": "OrangePark",
+      "label": "Orange Park",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-1",
+        "sw1-11-1"
+      ]
+    },
+    {
+      "id": "GarlicWanderer",
+      "label": "Garlic Wanderer",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-3-1",
+        "sw1-11-1"
+      ]
+    },
+    {
+      "id": "MainStreet",
+      "label": "Main Street",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-3",
+        "sw1-11-4"
+      ]
+    },
+    {
+      "id": "Octoberry",
+      "label": "Octoberry",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-3-3",
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "id": "OctoberryCoin",
+      "label": "Octoberry Gold Coin",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-3-3",
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "id": "SaladoriaPharmacy",
+      "label": "Saladoria Pharmacy",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-7",
+        "sw1-11-7"
+      ]
+    },
+    {
+      "id": "Aspirin",
+      "label": "Aspirin",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-3-7",
+        "sw1-11-7"
+      ]
+    },
+    {
+      "id": "SaladoriaBookshop",
+      "label": "Saladoria Bookshop",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-8",
+        "sw1-11-8"
+      ]
+    },
+    {
+      "id": "BookshopKey",
+      "label": "Bookshop Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-3-9",
+        "sw1-11-8"
+      ]
+    },
+    {
+      "id": "SaladoriaRestroom",
+      "label": "Restroom",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-6",
+        "sw1-11-6"
+      ]
+    },
+    {
+      "id": "DonutMatches",
+      "label": "Donut (Matches)",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-3-6",
+        "sw1-11-6"
+      ]
+    },
+    {
+      "id": "CoffeeShop",
+      "label": "Coffee Shop",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-4",
+        "sw1-11-5"
+      ]
+    },
+    {
+      "id": "GeneralStoreCh2",
+      "label": "General Store (Ch 2)",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-4",
+        "sw1-11-3"
+      ]
+    },
+    {
+      "id": "HoldingCell",
+      "label": "Police Holding Cell",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-1",
+        "sw1-14-1"
+      ]
+    },
+    {
+      "id": "Potato",
+      "label": "Potato Inmate",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-4-1",
+        "sw1-14-1"
+      ]
+    },
+    {
+      "id": "File",
+      "label": "Metal File",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-4-1",
+        "sw1-14-1"
+      ]
+    },
+    {
+      "id": "InterrogationRoom",
+      "label": "Interrogation Room",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-2",
+        "sw1-14-2"
+      ]
+    },
+    {
+      "id": "SgtPepper",
+      "label": "Sgt. Pepper",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-4-2",
+        "sw1-14-2"
+      ]
+    },
+    {
+      "id": "TortureRoom",
+      "label": "Torture Room",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-3",
+        "sw1-14-3"
+      ]
+    },
+    {
+      "id": "PoliceHallway",
+      "label": "Police Station Hallway",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-4",
+        "sw1-14-4"
+      ]
+    },
+    {
+      "id": "AlarmButton",
+      "label": "Alarm Button",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-4-4",
+        "ra-comments-31-1"
+      ]
+    },
+    {
+      "id": "PoliceCloset",
+      "label": "Police Station Closet",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-5",
+        "sw1-14-5"
+      ]
+    },
+    {
+      "id": "Rope",
+      "label": "Rope",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-4-5",
+        "sw1-14-5"
+      ]
+    },
+    {
+      "id": "FakeGrenade",
+      "label": "Fake Soap Grenade",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-4-6",
+        "sw1-14-4"
+      ]
+    },
+    {
+      "id": "Lantern",
+      "label": "Lantern",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-4-6",
+        "sw1-14-5"
+      ]
+    },
+    {
+      "id": "SpinachHeightsCrossroads",
+      "label": "Spinach Heights Crossroads",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-8",
+        "sw1-17-1"
+      ]
+    },
+    {
+      "id": "BlueUmbrella",
+      "label": "Blue Umbrella",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-4-8",
+        "sw1-17-1"
+      ]
+    },
+    {
+      "id": "MoleHole",
+      "label": "Melon Patch Mole Hole",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-8",
+        "sw1-17-2"
+      ]
+    },
+    {
+      "id": "Mole",
+      "label": "Friendly Mole",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-4-8",
+        "sw1-17-2"
+      ]
+    },
+    {
+      "id": "MrLeek",
+      "label": "Mr. Leek",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-4-9",
+        "gf1-5-5"
+      ]
+    },
+    {
+      "id": "WaterWings",
+      "label": "Water Wings",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-4-9",
+        "sw1-17-3"
+      ]
+    },
+    {
+      "id": "ParsleyForestStream",
+      "label": "Parsley Forest Stream",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-4-10",
+        "sw1-17-3"
+      ]
+    },
+    {
+      "id": "Farmie",
+      "label": "Farmie Guard",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-5-1",
+        "sw1-17-4"
+      ]
+    },
+    {
+      "id": "ParsleyForestMaze",
+      "label": "Parsley Forest Maze",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-5-2",
+        "ra-comments-48-1"
+      ]
+    },
+    {
+      "id": "Compass",
+      "label": "Maze Compass",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-5-2",
+        "ra-comments-48-1"
+      ]
+    },
+    {
+      "id": "TinCan",
+      "label": "Tin Can",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-5-2",
+        "sw1-18-1"
+      ]
+    },
+    {
+      "id": "Shovel",
+      "label": "Shovel",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-5-2",
+        "sw1-18-2"
+      ]
+    },
+    {
+      "id": "SacredTree",
+      "label": "Sacred Tree Lair",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-5-3",
+        "sw1-18-1"
+      ]
+    },
+    {
+      "id": "Saladron",
+      "label": "Saladron",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-5-3",
+        "sw1-18-1"
+      ]
+    },
+    {
+      "id": "YamMedallion",
+      "label": "Yam Medallion",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-5-4",
+        "sw1-18-2"
+      ]
+    },
+    {
+      "id": "GrapeJuice",
+      "label": "Grape Juice",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-5-5",
+        "sw1-18-3"
+      ]
+    },
+    {
+      "id": "ResistanceBase",
+      "label": "Resistance Base",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-5-6",
+        "sw1-20-1"
+      ]
+    },
+    {
+      "id": "GeneralCantaloupe",
+      "label": "General Cantaloupe",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-5-6",
+        "sw1-20-1"
+      ]
+    },
+    {
+      "id": "ResistanceCrest",
+      "label": "Resistance Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-5-6",
+        "sw1-20-1"
+      ]
+    },
+    {
+      "id": "Grapy",
+      "label": "Grapy the Guard",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-5-7",
+        "sw1-20-2"
+      ]
+    },
+    {
+      "id": "CloverJuice",
+      "label": "Clover Juice",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-5-7",
+        "ra-comments-58-1"
+      ]
+    },
+    {
+      "id": "ResistanceArmsRoom",
+      "label": "Resistance Arms Room",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-5-8",
+        "sw1-20-3"
+      ]
+    },
+    {
+      "id": "NutBomb",
+      "label": "Nut Bomb",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-5-8",
+        "sw1-20-3"
+      ]
+    },
+    {
+      "id": "BlackBean",
+      "label": "Black Bean",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-10-1",
+        "ra-comments-60-1"
+      ]
+    },
+    {
+      "id": "PeanutVillage",
+      "label": "Peanut Village Plateau",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-2",
+        "sw1-22-2"
+      ]
+    },
+    {
+      "id": "ChiefsHouse",
+      "label": "Village Chief's House",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-4",
+        "sw1-22-3"
+      ]
+    },
+    {
+      "id": "Lamp",
+      "label": "Oil Lamp",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-6-2",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "id": "BanandaCave",
+      "label": "Bananda's Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-2",
+        "sw1-22-2"
+      ]
+    },
+    {
+      "id": "Bananda",
+      "label": "Bananda",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-6-3",
+        "sw1-22-2"
+      ]
+    },
+    {
+      "id": "CaveCoins",
+      "label": "Cave Coin Pouches (5)",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-6-5",
+        "sw1-23-1"
+      ]
+    },
+    {
+      "id": "Nutty",
+      "label": "Nutty",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-6-3",
+        "sw1-22-2"
+      ]
+    },
+    {
+      "id": "Battery",
+      "label": "Robot Battery",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-6-4",
+        "sw1-22-3"
+      ]
+    },
+    {
+      "id": "PeanutPark",
+      "label": "Peanut Park",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-1",
+        "sw1-22-1"
+      ]
+    },
+    {
+      "id": "HudsonBeeStatue",
+      "label": "Hudson Bee Statue",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-1",
+        "ra-comments-72-1"
+      ]
+    },
+    {
+      "id": "Wordbook",
+      "label": "Wordbook",
+      "kind": "item",
+      "fact_ids": [
+        "ra-comments-72-1",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "id": "HermitsHut",
+      "label": "Hermit's Hut",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-78-1",
+        "gf1-10-2"
+      ]
+    },
+    {
+      "id": "HermitMedicine",
+      "label": "Hermit Medicine",
+      "kind": "item",
+      "fact_ids": [
+        "ra-comments-78-1",
+        "gf1-10-2"
+      ]
+    },
+    {
+      "id": "GiantTreeCh6",
+      "label": "Giant Tree (Ch 6)",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-8",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "id": "ChameleonGrass",
+      "label": "Chameleon Grass",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-6-8",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "id": "DiceOMatic",
+      "label": "Dice-O-Matic Robot",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-6-6",
+        "sw1-23-2"
+      ]
+    },
+    {
+      "id": "WarMelonArmy",
+      "label": "War Melon Army",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-6-7",
+        "sw1-23-3"
+      ]
+    },
+    {
+      "id": "SopvilleTown",
+      "label": "Sopville Town",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-7-1",
+        "sw1-25-1"
+      ]
+    },
+    {
+      "id": "SopvilleStore",
+      "label": "Sopville General Store",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-7-1",
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "id": "StoreBread",
+      "label": "Fresh Bread",
+      "kind": "item",
+      "fact_ids": [
+        "ra-comments-82-1",
+        "ra-comments-85-1"
+      ]
+    },
+    {
+      "id": "StoreJuice",
+      "label": "Sweet Juice",
+      "kind": "item",
+      "fact_ids": [
+        "ra-comments-82-1",
+        "ra-comments-85-1"
+      ]
+    },
+    {
+      "id": "YamAndAsparagus",
+      "label": "Yam and Asparagus",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-7-1",
+        "sw1-25-1"
+      ]
+    },
+    {
+      "id": "SopvilleBar",
+      "label": "Sopville Bar",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-7-2",
+        "sw1-25-2"
+      ]
+    },
+    {
+      "id": "RadishRon",
+      "label": "Radish Ron",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-7-2",
+        "sw1-25-2"
+      ]
+    },
+    {
+      "id": "BarKey",
+      "label": "Ron's Underground Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-7-2",
+        "sw1-25-2"
+      ]
+    },
+    {
+      "id": "OldLadyHouse",
+      "label": "Old Lady's House",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-82-1",
+        "gf1-10-3"
+      ]
+    },
+    {
+      "id": "PeaStreet",
+      "label": "Pea Street",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-7-3",
+        "sw1-25-3"
+      ]
+    },
+    {
+      "id": "EPShovel",
+      "label": "Iron Shovel",
+      "kind": "item",
+      "fact_ids": [
+        "ra-comments-82-1",
+        "gf1-10-3"
+      ]
+    },
+    {
+      "id": "SecretPassageCh7",
+      "label": "Secret Underground Passage",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-7-3",
+        "sw1-25-3"
+      ]
+    },
+    {
+      "id": "CastleBasement",
+      "label": "Castle Basement Maze",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-9-1",
+        "sw1-29-1"
+      ]
+    },
+    {
+      "id": "BabyMonster",
+      "label": "Baby Monster",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-9-1",
+        "sw1-29-1"
+      ]
+    },
+    {
+      "id": "MamaMonster",
+      "label": "Mama Monster",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-9-2",
+        "sw1-29-2"
+      ]
+    },
+    {
+      "id": "PapaMonster",
+      "label": "Papa Monster",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-9-3",
+        "sw1-29-3"
+      ]
+    },
+    {
+      "id": "CastleStorage",
+      "label": "Castle Storage Room",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-7-4",
+        "sw1-28-1"
+      ]
+    },
+    {
+      "id": "OilPotAndChain",
+      "label": "Oil Pot and Chain",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-7-4",
+        "sw1-28-1"
+      ]
+    },
+    {
+      "id": "CastleDarkRoom",
+      "label": "Castle Dark Room",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-102-1",
+        "gf1-10-4"
+      ]
+    },
+    {
+      "id": "CastleGarden",
+      "label": "Castle Garden and Pool",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-8-1",
+        "sw1-28-2"
+      ]
+    },
+    {
+      "id": "CastleHallwayGuard",
+      "label": "Castle Hallway Guard",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-8-2",
+        "sw1-28-3"
+      ]
+    },
+    {
+      "id": "PrincessTomatoCell",
+      "label": "Princess Tomato's Cell",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-8-4",
+        "sw1-28-5"
+      ]
+    },
+    {
+      "id": "PrincessTomato",
+      "label": "Princess Tomato",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-8-4",
+        "sw1-28-5"
+      ]
+    },
+    {
+      "id": "MinistersChamber",
+      "label": "Minister's Chamber",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-9-4",
+        "sw1-29-4"
+      ]
+    },
+    {
+      "id": "MinisterPumpkin",
+      "label": "Minister Pumpkin",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-9-4",
+        "sw1-29-4"
+      ]
+    },
+    {
+      "id": "CastleCourtyard",
+      "label": "Castle Courtyard Finale",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-9-6",
+        "sw1-32-1"
+      ]
+    },
+    {
+      "id": "JuniorPumpkin",
+      "label": "Junior Pumpkin",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-9-6",
+        "sw1-32-1"
+      ]
+    },
+    {
+      "id": "SaladKingdomVictory",
+      "label": "Salad Kingdom Restored",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-9-6",
+        "ra-comments-107-1"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "StartingRoad",
+      "to": "Flower",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-2-1"
+      ]
+    },
+    {
+      "from": "StartingRoad",
+      "to": "CeleryForest",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-2-2"
+      ]
+    },
+    {
+      "from": "CeleryForest",
+      "to": "Percy",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-2-2"
+      ]
+    },
+    {
+      "from": "CeleryForest",
+      "to": "LakeQuench",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-2-3"
+      ]
+    },
+    {
+      "from": "LakeQuench",
+      "to": "Water",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-2-3"
+      ]
+    },
+    {
+      "from": "LakeQuench",
+      "to": "LakeCoin",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-2-7"
+      ]
+    },
+    {
+      "from": "CeleryForest",
+      "to": "ParsleyForestCh1",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-2-5"
+      ]
+    },
+    {
+      "from": "ParsleyForestCh1",
+      "to": "PrinceLettuce",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-2-5"
+      ]
+    },
+    {
+      "from": "ParsleyForestCh1",
+      "to": "MelonPatch",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-2-6"
+      ]
+    },
+    {
+      "from": "MelonPatch",
+      "to": "TownPass",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-2-6"
+      ]
+    },
+    {
+      "from": "MelonPatch",
+      "to": "SaladoriaGate",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-2-8"
+      ]
+    },
+    {
+      "from": "SaladoriaGate",
+      "to": "OrangePark",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-1"
+      ]
+    },
+    {
+      "from": "OrangePark",
+      "to": "GarlicWanderer",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-3-1"
+      ]
+    },
+    {
+      "from": "OrangePark",
+      "to": "MainStreet",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-3"
+      ]
+    },
+    {
+      "from": "MainStreet",
+      "to": "Octoberry",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "from": "Octoberry",
+      "to": "OctoberryCoin",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "from": "MainStreet",
+      "to": "SaladoriaPharmacy",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-7"
+      ]
+    },
+    {
+      "from": "SaladoriaPharmacy",
+      "to": "Aspirin",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-3-7"
+      ]
+    },
+    {
+      "from": "MainStreet",
+      "to": "SaladoriaRestroom",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-6"
+      ]
+    },
+    {
+      "from": "SaladoriaRestroom",
+      "to": "DonutMatches",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-3-6"
+      ]
+    },
+    {
+      "from": "MainStreet",
+      "to": "CoffeeShop",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-4"
+      ]
+    },
+    {
+      "from": "MainStreet",
+      "to": "GeneralStoreCh2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-4"
+      ]
+    },
+    {
+      "from": "MainStreet",
+      "to": "SaladoriaBookshop",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-3-8"
+      ]
+    },
+    {
+      "from": "SaladoriaBookshop",
+      "to": "BookshopKey",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-3-9"
+      ]
+    },
+    {
+      "from": "SaladoriaBookshop",
+      "to": "HoldingCell",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "HoldingCell",
+      "to": "Potato",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "Potato",
+      "to": "File",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "HoldingCell",
+      "to": "InterrogationRoom",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-2"
+      ]
+    },
+    {
+      "from": "InterrogationRoom",
+      "to": "SgtPepper",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-2"
+      ]
+    },
+    {
+      "from": "InterrogationRoom",
+      "to": "TortureRoom",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-3"
+      ]
+    },
+    {
+      "from": "TortureRoom",
+      "to": "PoliceHallway",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-4"
+      ]
+    },
+    {
+      "from": "PoliceHallway",
+      "to": "AlarmButton",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-4"
+      ]
+    },
+    {
+      "from": "PoliceHallway",
+      "to": "PoliceCloset",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-5"
+      ]
+    },
+    {
+      "from": "PoliceCloset",
+      "to": "Rope",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-5"
+      ]
+    },
+    {
+      "from": "PoliceCloset",
+      "to": "Lantern",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-6"
+      ]
+    },
+    {
+      "from": "PoliceHallway",
+      "to": "FakeGrenade",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-6"
+      ]
+    },
+    {
+      "from": "PoliceHallway",
+      "to": "SpinachHeightsCrossroads",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-8"
+      ]
+    },
+    {
+      "from": "SpinachHeightsCrossroads",
+      "to": "BlueUmbrella",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-8"
+      ]
+    },
+    {
+      "from": "SpinachHeightsCrossroads",
+      "to": "MoleHole",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-8"
+      ]
+    },
+    {
+      "from": "MoleHole",
+      "to": "Mole",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-8"
+      ]
+    },
+    {
+      "from": "MoleHole",
+      "to": "MrLeek",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-9"
+      ]
+    },
+    {
+      "from": "MrLeek",
+      "to": "WaterWings",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-4-9"
+      ]
+    },
+    {
+      "from": "SpinachHeightsCrossroads",
+      "to": "ParsleyForestStream",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-4-10"
+      ]
+    },
+    {
+      "from": "ParsleyForestStream",
+      "to": "Farmie",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-1"
+      ]
+    },
+    {
+      "from": "Farmie",
+      "to": "ParsleyForestMaze",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-5-2"
+      ]
+    },
+    {
+      "from": "ParsleyForestMaze",
+      "to": "Compass",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-2"
+      ]
+    },
+    {
+      "from": "ParsleyForestMaze",
+      "to": "TinCan",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-2"
+      ]
+    },
+    {
+      "from": "ParsleyForestMaze",
+      "to": "Shovel",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-2"
+      ]
+    },
+    {
+      "from": "ParsleyForestMaze",
+      "to": "SacredTree",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-5-3"
+      ]
+    },
+    {
+      "from": "SacredTree",
+      "to": "Saladron",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-3"
+      ]
+    },
+    {
+      "from": "Saladron",
+      "to": "YamMedallion",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-4"
+      ]
+    },
+    {
+      "from": "SacredTree",
+      "to": "GrapeJuice",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-5"
+      ]
+    },
+    {
+      "from": "SacredTree",
+      "to": "ResistanceBase",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-5-6"
+      ]
+    },
+    {
+      "from": "ResistanceBase",
+      "to": "GeneralCantaloupe",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-6"
+      ]
+    },
+    {
+      "from": "GeneralCantaloupe",
+      "to": "ResistanceCrest",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-6"
+      ]
+    },
+    {
+      "from": "ResistanceBase",
+      "to": "Grapy",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-7"
+      ]
+    },
+    {
+      "from": "Grapy",
+      "to": "CloverJuice",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-7"
+      ]
+    },
+    {
+      "from": "ResistanceBase",
+      "to": "ResistanceArmsRoom",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-5-8"
+      ]
+    },
+    {
+      "from": "ResistanceArmsRoom",
+      "to": "NutBomb",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-5-8"
+      ]
+    },
+    {
+      "from": "ResistanceArmsRoom",
+      "to": "BlackBean",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-10-1"
+      ]
+    },
+    {
+      "from": "ResistanceBase",
+      "to": "PeanutVillage",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-2"
+      ]
+    },
+    {
+      "from": "PeanutVillage",
+      "to": "ChiefsHouse",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-4"
+      ]
+    },
+    {
+      "from": "ChiefsHouse",
+      "to": "Lamp",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-2"
+      ]
+    },
+    {
+      "from": "PeanutVillage",
+      "to": "BanandaCave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-2"
+      ]
+    },
+    {
+      "from": "BanandaCave",
+      "to": "CaveCoins",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-5"
+      ]
+    },
+    {
+      "from": "BanandaCave",
+      "to": "Bananda",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-3"
+      ]
+    },
+    {
+      "from": "Bananda",
+      "to": "Nutty",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-3"
+      ]
+    },
+    {
+      "from": "Nutty",
+      "to": "Battery",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-4"
+      ]
+    },
+    {
+      "from": "PeanutVillage",
+      "to": "PeanutPark",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-1"
+      ]
+    },
+    {
+      "from": "PeanutPark",
+      "to": "HudsonBeeStatue",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-1"
+      ]
+    },
+    {
+      "from": "PeanutVillage",
+      "to": "Wordbook",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-72-1"
+      ]
+    },
+    {
+      "from": "PeanutVillage",
+      "to": "HermitsHut",
+      "kind": "leads_to",
+      "fact_ids": [
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "from": "HermitsHut",
+      "to": "HermitMedicine",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "from": "PeanutVillage",
+      "to": "GiantTreeCh6",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-8"
+      ]
+    },
+    {
+      "from": "GiantTreeCh6",
+      "to": "ChameleonGrass",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-8"
+      ]
+    },
+    {
+      "from": "GiantTreeCh6",
+      "to": "DiceOMatic",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-6"
+      ]
+    },
+    {
+      "from": "DiceOMatic",
+      "to": "WarMelonArmy",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-6-7"
+      ]
+    },
+    {
+      "from": "DiceOMatic",
+      "to": "SopvilleTown",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-1"
+      ]
+    },
+    {
+      "from": "SopvilleTown",
+      "to": "SopvilleStore",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-1"
+      ]
+    },
+    {
+      "from": "SopvilleStore",
+      "to": "StoreBread",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "from": "SopvilleStore",
+      "to": "StoreJuice",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "from": "SopvilleTown",
+      "to": "YamAndAsparagus",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-7-1"
+      ]
+    },
+    {
+      "from": "SopvilleTown",
+      "to": "SopvilleBar",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-2"
+      ]
+    },
+    {
+      "from": "SopvilleBar",
+      "to": "RadishRon",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-7-2"
+      ]
+    },
+    {
+      "from": "RadishRon",
+      "to": "BarKey",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-7-2"
+      ]
+    },
+    {
+      "from": "SopvilleTown",
+      "to": "OldLadyHouse",
+      "kind": "leads_to",
+      "fact_ids": [
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "from": "SopvilleTown",
+      "to": "PeaStreet",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-3"
+      ]
+    },
+    {
+      "from": "PeaStreet",
+      "to": "EPShovel",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "from": "SopvilleTown",
+      "to": "SecretPassageCh7",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-3"
+      ]
+    },
+    {
+      "from": "SecretPassageCh7",
+      "to": "CastleBasement",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-9-1"
+      ]
+    },
+    {
+      "from": "CastleBasement",
+      "to": "BabyMonster",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-9-1"
+      ]
+    },
+    {
+      "from": "CastleBasement",
+      "to": "MamaMonster",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-9-2"
+      ]
+    },
+    {
+      "from": "CastleBasement",
+      "to": "PapaMonster",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-9-3"
+      ]
+    },
+    {
+      "from": "CastleBasement",
+      "to": "CastleStorage",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-4"
+      ]
+    },
+    {
+      "from": "CastleStorage",
+      "to": "OilPotAndChain",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-7-4"
+      ]
+    },
+    {
+      "from": "CastleBasement",
+      "to": "CastleDarkRoom",
+      "kind": "leads_to",
+      "fact_ids": [
+        "ra-comments-102-1"
+      ]
+    },
+    {
+      "from": "CastleBasement",
+      "to": "CastleGarden",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-8-1"
+      ]
+    },
+    {
+      "from": "CastleGarden",
+      "to": "CastleHallwayGuard",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-8-2"
+      ]
+    },
+    {
+      "from": "CastleHallwayGuard",
+      "to": "PrincessTomatoCell",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-8-4"
+      ]
+    },
+    {
+      "from": "PrincessTomatoCell",
+      "to": "PrincessTomato",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-8-4"
+      ]
+    },
+    {
+      "from": "PrincessTomatoCell",
+      "to": "MinistersChamber",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-9-4"
+      ]
+    },
+    {
+      "from": "MinistersChamber",
+      "to": "MinisterPumpkin",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-9-4"
+      ]
+    },
+    {
+      "from": "MinistersChamber",
+      "to": "CastleCourtyard",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-9-6"
+      ]
+    },
+    {
+      "from": "CastleCourtyard",
+      "to": "JuniorPumpkin",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-9-6"
+      ]
+    },
+    {
+      "from": "JuniorPumpkin",
+      "to": "SaladKingdomVictory",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-9-6"
+      ]
+    }
+  ]
+}

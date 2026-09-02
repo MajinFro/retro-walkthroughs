@@ -1,0 +1,843 @@
+{
+  "nodes": [
+    {
+      "id": "Elcid",
+      "label": "Elcid and Training Cave",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-7-1",
+        "ra-comments-7-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "id": "Sundletan",
+      "label": "Sundletan and Lake Cave",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-9-1",
+        "ra-comments-9-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "id": "Big_Catfish",
+      "label": "Big Catfish",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-11-1",
+        "ra-comments-11-2",
+        "gf1-11-1"
+      ]
+    },
+    {
+      "id": "Alunze_Kingdom",
+      "label": "Alunze Kingdom and Castle Basement",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-13-1",
+        "ra-comments-13-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "id": "Regal_Goblin",
+      "label": "Regal Goblin",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-15-1",
+        "ra-comments-15-2",
+        "gf1-21-1"
+      ]
+    },
+    {
+      "id": "Tanbel_Region",
+      "label": "Tanbel and Southeast Tower",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-17-1",
+        "ra-comments-17-2",
+        "gf1-23-1"
+      ]
+    },
+    {
+      "id": "Camu",
+      "label": "Camu",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-17-1",
+        "ra-comments-17-2",
+        "gf1-23-1"
+      ]
+    },
+    {
+      "id": "Ruby_Cave",
+      "label": "Ruby Cave and Clamento",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-19-1",
+        "ra-comments-19-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "id": "Tarantula",
+      "label": "Tarantula",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-19-1",
+        "ra-comments-19-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "id": "Treasure_Sword_Shrine",
+      "label": "Treasure Sword Shrine",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-21-1",
+        "ra-comments-21-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "id": "Pierre_Danielle",
+      "label": "Pierre and Danielle",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-21-1",
+        "ra-comments-21-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "id": "Gordovan_Tower",
+      "label": "Gordovan and Gordovan Tower",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "gf1-37-1"
+      ]
+    },
+    {
+      "id": "Gades_Gordovan",
+      "label": "Gades (Gordovan Tower)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "gf1-37-1"
+      ]
+    },
+    {
+      "id": "Bound_Kingdom",
+      "label": "Bound Kingdom and North Labyrinth",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-23-1",
+        "ra-comments-23-2",
+        "gf1-41-1"
+      ]
+    },
+    {
+      "id": "Ancient_Tower",
+      "label": "Ancient Tower",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-25-1",
+        "ra-comments-25-2",
+        "gf1-40-1"
+      ]
+    },
+    {
+      "id": "North_Lighthouse",
+      "label": "North Lighthouse",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-61-1",
+        "ra-comments-61-2",
+        "gf1-50-1"
+      ]
+    },
+    {
+      "id": "Idura_Lighthouse",
+      "label": "Idura (North Lighthouse)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-27-1",
+        "ra-comments-27-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "id": "Aleyn_Region",
+      "label": "Aleyn and Phantom Tree",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-29-1",
+        "ra-comments-29-2",
+        "gf1-54-1"
+      ]
+    },
+    {
+      "id": "Narcysus",
+      "label": "Narcysus and Tower",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-31-1",
+        "ra-comments-31-2",
+        "gf1-56-1"
+      ]
+    },
+    {
+      "id": "Idura_Narcysus",
+      "label": "Idura (Narcysus Tower)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-33-1",
+        "ra-comments-33-2",
+        "gf1-59-1"
+      ]
+    },
+    {
+      "id": "Treadool_Region",
+      "label": "Treadool and Flower Mountain",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-35-1",
+        "ra-comments-35-2",
+        "gf1-65-1"
+      ]
+    },
+    {
+      "id": "Dankirk_Kingdom",
+      "label": "Dankirk and North Dungeon",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-37-1",
+        "ra-comments-37-2",
+        "gf1-65-1"
+      ]
+    },
+    {
+      "id": "Portravia_Lab",
+      "label": "Portravia and Submarine Lab",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-41-1",
+        "ra-comments-41-2",
+        "gf1-71-1"
+      ]
+    },
+    {
+      "id": "Shrine_of_Vengeance",
+      "label": "Shrine of Vengeance",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-43-1",
+        "ra-comments-43-2",
+        "gf1-76-1"
+      ]
+    },
+    {
+      "id": "Venge_Ghost",
+      "label": "Venge Ghost",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-43-1",
+        "ra-comments-43-2",
+        "gf1-76-1"
+      ]
+    },
+    {
+      "id": "Tower_of_Truth",
+      "label": "Tower of Truth",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-45-1",
+        "ra-comments-45-2",
+        "gf1-79-1"
+      ]
+    },
+    {
+      "id": "Dragon_Mountain",
+      "label": "Dragon Mountain",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "gf1-82-1"
+      ]
+    },
+    {
+      "id": "Fire_Dragon",
+      "label": "Fire Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "gf1-82-1"
+      ]
+    },
+    {
+      "id": "Excerion_Airship",
+      "label": "Excerion Airship Conversion",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-49-1",
+        "ra-comments-49-2",
+        "gf1-5-1"
+      ]
+    },
+    {
+      "id": "Sealed_Towers",
+      "label": "Sealed Towers of Shuman, Straf, Kamirno",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-51-1",
+        "ra-comments-51-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "id": "Doom_Island",
+      "label": "Doom Island (Fortress of Doom)",
+      "kind": "ponr",
+      "fact_ids": [
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "gf1-5-1"
+      ]
+    },
+    {
+      "id": "Sinistrals_Final",
+      "label": "Sinistrals: Gades, Amon, Erim, Daos",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "gf1-5-1"
+      ]
+    },
+    {
+      "id": "Capsule_Sanctuaries",
+      "label": "Capsule Monster Sanctuaries",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-97-1",
+        "ra-comments-97-2",
+        "gf1-15-1"
+      ]
+    },
+    {
+      "id": "Forfeit_Casino",
+      "label": "Forfeit Island Casino",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-67-1",
+        "ra-comments-67-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "id": "Divine_Shrine",
+      "label": "Divine Shrine",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-71-1",
+        "ra-comments-71-2",
+        "gf1-73-1"
+      ]
+    },
+    {
+      "id": "Egg_Dragon_Island",
+      "label": "Egg Dragon Island and Lair",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-77-1",
+        "ra-comments-77-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "id": "Egg_Dragon",
+      "label": "Egg Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-77-1",
+        "ra-comments-77-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "id": "Ancient_Cave_Upper",
+      "label": "Ancient Cave Upper Floors (B1-B40)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-115-1",
+        "ra-comments-115-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "id": "Ancient_Cave_Mid",
+      "label": "Ancient Cave Mid Floors (B41-B80)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-119-1",
+        "ra-comments-119-2",
+        "gf3-197-1"
+      ]
+    },
+    {
+      "id": "Ancient_Cave_Deep",
+      "label": "Ancient Cave Deep Floors (B81-B99)",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-123-1",
+        "ra-comments-123-2",
+        "gf1-108-1"
+      ]
+    },
+    {
+      "id": "Master_Jelly",
+      "label": "Master Jelly",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-comments-125-1",
+        "ra-comments-125-2",
+        "gf1-108-1"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "Elcid",
+      "to": "Sundletan",
+      "kind": "leads_to",
+      "label": "Passage Cave",
+      "fact_ids": [
+        "ra-comments-7-1",
+        "ra-comments-7-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "Sundletan",
+      "to": "Big_Catfish",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-11-1",
+        "ra-comments-11-2",
+        "gf1-11-1"
+      ]
+    },
+    {
+      "from": "Big_Catfish",
+      "to": "Alunze_Kingdom",
+      "kind": "leads_to",
+      "label": "Northwest Ferry",
+      "fact_ids": [
+        "ra-comments-13-1",
+        "ra-comments-13-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "from": "Alunze_Kingdom",
+      "to": "Regal_Goblin",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-15-1",
+        "ra-comments-15-2",
+        "gf1-21-1"
+      ]
+    },
+    {
+      "from": "Regal_Goblin",
+      "to": "Tanbel_Region",
+      "kind": "leads_to",
+      "label": "East Gate Passage",
+      "fact_ids": [
+        "ra-comments-17-1",
+        "ra-comments-17-2",
+        "gf1-23-1"
+      ]
+    },
+    {
+      "from": "Tanbel_Region",
+      "to": "Camu",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-17-1",
+        "ra-comments-17-2",
+        "gf1-23-1"
+      ]
+    },
+    {
+      "from": "Camu",
+      "to": "Ruby_Cave",
+      "kind": "leads_to",
+      "label": "Clamento Road",
+      "fact_ids": [
+        "ra-comments-19-1",
+        "ra-comments-19-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "from": "Ruby_Cave",
+      "to": "Tarantula",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-19-1",
+        "ra-comments-19-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "from": "Tarantula",
+      "to": "Treasure_Sword_Shrine",
+      "kind": "leads_to",
+      "label": "Passage of Clamento",
+      "fact_ids": [
+        "ra-comments-21-1",
+        "ra-comments-21-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "from": "Treasure_Sword_Shrine",
+      "to": "Pierre_Danielle",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-21-1",
+        "ra-comments-21-2",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "from": "Pierre_Danielle",
+      "to": "Gordovan_Tower",
+      "kind": "leads_to",
+      "label": "Highway to Gordovan",
+      "fact_ids": [
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "gf1-37-1"
+      ]
+    },
+    {
+      "from": "Gordovan_Tower",
+      "to": "Gades_Gordovan",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "gf1-37-1"
+      ]
+    },
+    {
+      "from": "Gades_Gordovan",
+      "to": "Bound_Kingdom",
+      "kind": "leads_to",
+      "label": "Merac Highway",
+      "fact_ids": [
+        "ra-comments-23-1",
+        "ra-comments-23-2",
+        "gf1-41-1"
+      ]
+    },
+    {
+      "from": "Bound_Kingdom",
+      "to": "Ancient_Tower",
+      "kind": "leads_to",
+      "label": "South Path",
+      "fact_ids": [
+        "ra-comments-25-1",
+        "ra-comments-25-2",
+        "gf1-40-1"
+      ]
+    },
+    {
+      "from": "Ancient_Tower",
+      "to": "North_Lighthouse",
+      "kind": "leads_to",
+      "label": "Parcelyte Road",
+      "fact_ids": [
+        "ra-comments-61-1",
+        "ra-comments-61-2",
+        "gf1-50-1"
+      ]
+    },
+    {
+      "from": "North_Lighthouse",
+      "to": "Idura_Lighthouse",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-27-1",
+        "ra-comments-27-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "Idura_Lighthouse",
+      "to": "Aleyn_Region",
+      "kind": "leads_to",
+      "label": "Water Shrine Warp",
+      "fact_ids": [
+        "ra-comments-29-1",
+        "ra-comments-29-2",
+        "gf1-54-1"
+      ]
+    },
+    {
+      "from": "Aleyn_Region",
+      "to": "Narcysus",
+      "kind": "leads_to",
+      "label": "Kullast Road",
+      "fact_ids": [
+        "ra-comments-31-1",
+        "ra-comments-31-2",
+        "gf1-56-1"
+      ]
+    },
+    {
+      "from": "Narcysus",
+      "to": "Idura_Narcysus",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-33-1",
+        "ra-comments-33-2",
+        "gf1-59-1"
+      ]
+    },
+    {
+      "from": "Idura_Narcysus",
+      "to": "Treadool_Region",
+      "kind": "leads_to",
+      "label": "South Sea Path",
+      "fact_ids": [
+        "ra-comments-35-1",
+        "ra-comments-35-2",
+        "gf1-65-1"
+      ]
+    },
+    {
+      "from": "Treadool_Region",
+      "to": "Dankirk_Kingdom",
+      "kind": "leads_to",
+      "label": "Eastward Continent",
+      "fact_ids": [
+        "ra-comments-37-1",
+        "ra-comments-37-2",
+        "gf1-65-1"
+      ]
+    },
+    {
+      "from": "Dankirk_Kingdom",
+      "to": "Portravia_Lab",
+      "kind": "leads_to",
+      "label": "Coastal Canal",
+      "fact_ids": [
+        "ra-comments-41-1",
+        "ra-comments-41-2",
+        "gf1-71-1"
+      ]
+    },
+    {
+      "from": "Portravia_Lab",
+      "to": "Shrine_of_Vengeance",
+      "kind": "leads_to",
+      "label": "Submarine Trench",
+      "fact_ids": [
+        "ra-comments-43-1",
+        "ra-comments-43-2",
+        "gf1-76-1"
+      ]
+    },
+    {
+      "from": "Shrine_of_Vengeance",
+      "to": "Venge_Ghost",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-43-1",
+        "ra-comments-43-2",
+        "gf1-76-1"
+      ]
+    },
+    {
+      "from": "Venge_Ghost",
+      "to": "Tower_of_Truth",
+      "kind": "leads_to",
+      "label": "Northern Waters",
+      "fact_ids": [
+        "ra-comments-45-1",
+        "ra-comments-45-2",
+        "gf1-79-1"
+      ]
+    },
+    {
+      "from": "Tower_of_Truth",
+      "to": "Dragon_Mountain",
+      "kind": "leads_to",
+      "label": "Volcanic Ridge",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "gf1-82-1"
+      ]
+    },
+    {
+      "from": "Dragon_Mountain",
+      "to": "Fire_Dragon",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "gf1-82-1"
+      ]
+    },
+    {
+      "from": "Fire_Dragon",
+      "to": "Excerion_Airship",
+      "kind": "leads_to",
+      "label": "Engine Refit at Portravia",
+      "fact_ids": [
+        "ra-comments-49-1",
+        "ra-comments-49-2",
+        "gf1-5-1"
+      ]
+    },
+    {
+      "from": "Excerion_Airship",
+      "to": "Sealed_Towers",
+      "kind": "leads_to",
+      "label": "Airship Flight to Narvick",
+      "fact_ids": [
+        "ra-comments-51-1",
+        "ra-comments-51-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "Sealed_Towers",
+      "to": "Doom_Island",
+      "kind": "leads_to",
+      "label": "Sky Ascent to Floating Fortress",
+      "fact_ids": [
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "gf1-5-1"
+      ]
+    },
+    {
+      "from": "Doom_Island",
+      "to": "Sinistrals_Final",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "gf1-5-1"
+      ]
+    },
+    {
+      "from": "Portravia_Lab",
+      "to": "Capsule_Sanctuaries",
+      "kind": "leads_to",
+      "label": "Global Shrines and Caves",
+      "fact_ids": [
+        "ra-comments-97-1",
+        "ra-comments-97-2",
+        "gf1-15-1"
+      ]
+    },
+    {
+      "from": "Portravia_Lab",
+      "to": "Forfeit_Casino",
+      "kind": "leads_to",
+      "label": "Ship Voyage to Forfeit Island",
+      "fact_ids": [
+        "ra-comments-67-1",
+        "ra-comments-67-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "from": "Excerion_Airship",
+      "to": "Divine_Shrine",
+      "kind": "leads_to",
+      "label": "Airship Landing",
+      "fact_ids": [
+        "ra-comments-71-1",
+        "ra-comments-71-2",
+        "gf1-73-1"
+      ]
+    },
+    {
+      "from": "Excerion_Airship",
+      "to": "Egg_Dragon_Island",
+      "kind": "leads_to",
+      "label": "Secret Island Volcano",
+      "fact_ids": [
+        "ra-comments-77-1",
+        "ra-comments-77-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "from": "Egg_Dragon_Island",
+      "to": "Egg_Dragon",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-77-1",
+        "ra-comments-77-2",
+        "gf1-16-1"
+      ]
+    },
+    {
+      "from": "Portravia_Lab",
+      "to": "Ancient_Cave_Upper",
+      "kind": "leads_to",
+      "label": "Submarine to Gruberik Wharf",
+      "fact_ids": [
+        "ra-comments-115-1",
+        "ra-comments-115-2",
+        "gf1-4-1"
+      ]
+    },
+    {
+      "from": "Ancient_Cave_Upper",
+      "to": "Ancient_Cave_Mid",
+      "kind": "leads_to",
+      "label": "Stairway past B40",
+      "fact_ids": [
+        "ra-comments-119-1",
+        "ra-comments-119-2",
+        "gf3-197-1"
+      ]
+    },
+    {
+      "from": "Ancient_Cave_Mid",
+      "to": "Ancient_Cave_Deep",
+      "kind": "leads_to",
+      "label": "Descent past B80",
+      "fact_ids": [
+        "ra-comments-123-1",
+        "ra-comments-123-2",
+        "gf1-108-1"
+      ]
+    },
+    {
+      "from": "Ancient_Cave_Deep",
+      "to": "Master_Jelly",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-125-1",
+        "ra-comments-125-2",
+        "gf1-108-1"
+      ]
+    }
+  ]
+}

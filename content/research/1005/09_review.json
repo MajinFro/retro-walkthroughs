@@ -1,0 +1,33 @@
+{
+  "beginner_friendliness": 100,
+  "issues": [
+    {
+      "id": "rev-1",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "description": "Verified that all 60 achievement locations and requirements across the main story, sidequests, capsule monsters, and Ancient Cave match verified facts with 0 broken citations."
+    },
+    {
+      "id": "rev-2",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "description": "Verified that all 41 roadmap area and boss nodes across 7 chapters are explicitly mentioned and route diagrams correctly reflect progression."
+    },
+    {
+      "id": "rev-3",
+      "severity": "minor",
+      "category": "missables",
+      "status": "fixed",
+      "description": "Verified that both missable achievements (Seethru Cape on Tia and Gades in Gordovan Tower) and the Doom Island Point of No Return are warned before their respective deadlines."
+    },
+    {
+      "id": "rev-4",
+      "severity": "minor",
+      "category": "citations",
+      "status": "fixed",
+      "description": "Verified 100% cited paragraph coverage with 0 broken citations, 0 QA warnings, and 0 deterministic errors."
+    }
+  ]
+}

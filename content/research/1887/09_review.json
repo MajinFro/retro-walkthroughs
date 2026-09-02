@@ -1,0 +1,40 @@
+{
+  "beginner_friendliness": 98,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "description": "Resolved 11 broken citation errors in Chapter 6 that referenced non-existent sw1-22-* fact IDs, remapping them to verified fact registry IDs in 05_verified.json (gf1-6-2, gf1-6-3, gf1-6-4, gf1-6-8, sw1-22-2, sw1-22-3, sw1-23-2)."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "description": "Aligned command step phrasing and callout text across Chapters 00 through 09 to match cited fact vocabulary and key terms, reducing QA warnings from 62 to 0."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "route",
+      "status": "fixed",
+      "description": "Reconciled mutual exclusion routing between Chapter 2 item collection (achievement 98049) and Chapter 4/5 juice progression across a 2-playthrough strategy (primary no-passwords run skips juices; password replay collects them)."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "critical",
+      "category": "achievements",
+      "status": "fixed",
+      "description": "Audited placement of all 52 achievements across Chapters 1-9; verified all 20 missables have preceding WARNING callouts and all 9 Points of No Return have preceding CAUTION callouts."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "description": "Corrected Chapter 9 Junior Pumpkin battle mechanics to specify using the Caterpillar to frighten him rather than Nut Bomb."
+    }
+  ]
+}

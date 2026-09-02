@@ -1,0 +1,638 @@
+{
+  "format": "command_steps",
+  "playthroughs": 2,
+  "playthrough_notes": "Two playthroughs / chapter replay approach: Playthrough 1 is a clean no-passwords run covering 51 achievements without purchasing grape or clover juice in Chapter 2, culminating in One-Course Veggie Tale (98092). Playthrough 2 is a post-game Chapter 2 replay using password to purchase the juices and collect all items for Saladoria's Cornucopia (98049), safely avoiding the mutual exclusion / lockout conflict.",
+  "settings_notes": "Play on standard NES emulator settings with standard controls. Rock-Paper-Scissors direction controls: Up = Rock, Left = Scissors, Right = Paper. Look-Away controls: Up = Up, Down = Down, Left = Left, Right = Right.",
+  "missables": [
+    {
+      "achievement_id": 98041,
+      "label": "Diospyros Who?",
+      "deadline": "Before meeting Percy in Celery Forest",
+      "chapter": 1,
+      "fact_ids": [
+        "gf1-2-1",
+        "ra-comments-7-1"
+      ]
+    },
+    {
+      "achievement_id": 98043,
+      "label": "Harvesting Spinach Heights",
+      "deadline": "Before entering Saladoria Town Gate",
+      "chapter": 1,
+      "fact_ids": [
+        "gf1-2-1",
+        "gf1-2-3",
+        "gf1-2-6",
+        "ra-comments-11-1"
+      ]
+    },
+    {
+      "achievement_id": 98045,
+      "label": "Penny-Pinching Pavlova",
+      "deadline": "Before entering Bookshop and getting arrested",
+      "chapter": 2,
+      "fact_ids": [
+        "gf1-3-3",
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "achievement_id": 98049,
+      "label": "Saladoria's Cornucopia",
+      "deadline": "Chapter 2 completion (Replay Playthrough)",
+      "chapter": 2,
+      "fact_ids": [
+        "gf1-3-4",
+        "gf1-3-6",
+        "gf1-3-7",
+        "ra-comments-23-1"
+      ]
+    },
+    {
+      "achievement_id": 98053,
+      "label": "Abandoning All Common Scents",
+      "deadline": "Before escaping the police station",
+      "chapter": 3,
+      "fact_ids": [
+        "gf1-4-4",
+        "ra-comments-31-1"
+      ]
+    },
+    {
+      "achievement_id": 98054,
+      "label": "Penitentiary Produce",
+      "deadline": "Before leaving the police station",
+      "chapter": 3,
+      "fact_ids": [
+        "gf1-4-1",
+        "gf1-4-5",
+        "gf1-4-6",
+        "ra-comments-33-1"
+      ]
+    },
+    {
+      "achievement_id": 98059,
+      "label": "Natural-Grown Fighter",
+      "deadline": "During Farmie Finger Wars battle",
+      "chapter": 4,
+      "fact_ids": [
+        "gf1-5-1",
+        "ra-comments-42-1",
+        "ra-comments-44-1"
+      ]
+    },
+    {
+      "achievement_id": 98061,
+      "label": "Flat-Leaved Labyrinth Findings",
+      "deadline": "Before talking to Mr. Leek to end Chapter 4",
+      "chapter": 4,
+      "fact_ids": [
+        "gf1-4-8",
+        "gf1-5-2",
+        "gf1-5-4",
+        "ra-comments-48-1"
+      ]
+    },
+    {
+      "achievement_id": 98063,
+      "label": "Dressed for Success",
+      "deadline": "During Saladron Finger Wars battle",
+      "chapter": 4,
+      "fact_ids": [
+        "gf1-5-3",
+        "ra-comments-52-1"
+      ]
+    },
+    {
+      "achievement_id": 98064,
+      "label": "With No Intent to Ferment",
+      "deadline": "End of Chapter 4 (requires skipping Chapter 2 Grape Juice)",
+      "chapter": 4,
+      "fact_ids": [
+        "gf1-5-5",
+        "ra-comments-54-1"
+      ]
+    },
+    {
+      "achievement_id": 98066,
+      "label": "Quit Your Wining...",
+      "deadline": "Chapter 5 Resistance Base (trade Grape Juice to Grapy)",
+      "chapter": 5,
+      "fact_ids": [
+        "gf1-5-7",
+        "ra-comments-58-1"
+      ]
+    },
+    {
+      "achievement_id": 98067,
+      "label": "Legume-Laden Lieutenant",
+      "deadline": "Before leaving Resistance Base for Peanut Village",
+      "chapter": 5,
+      "fact_ids": [
+        "gf1-5-8",
+        "gf1-10-1",
+        "ra-comments-60-1"
+      ]
+    },
+    {
+      "achievement_id": 98071,
+      "label": "We're Rich! (In Vitamin B)",
+      "deadline": "Before leaving Bananda's Cave",
+      "chapter": 6,
+      "fact_ids": [
+        "gf1-6-5",
+        "ra-comments-68-1"
+      ]
+    },
+    {
+      "achievement_id": 98073,
+      "label": "The Hachisuke Code",
+      "deadline": "Before boarding the Dice-O-Matic",
+      "chapter": 6,
+      "fact_ids": [
+        "gf1-6-1",
+        "ra-comments-72-1"
+      ]
+    },
+    {
+      "achievement_id": 98076,
+      "label": "Picking a Peanut Peck",
+      "deadline": "Before boarding the Dice-O-Matic to end Chapter 6",
+      "chapter": 6,
+      "fact_ids": [
+        "gf1-6-2",
+        "gf1-6-4",
+        "gf1-6-8",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "achievement_id": 98078,
+      "label": "A Fistful of Lettuce",
+      "deadline": "Before entering secret passage to end Chapter 7",
+      "chapter": 7,
+      "fact_ids": [
+        "gf1-7-1",
+        "gf1-7-2",
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "achievement_id": 98080,
+      "label": "Needy for Nutrients",
+      "deadline": "Before leaving Sopville Main Street / entering secret passage",
+      "chapter": 7,
+      "fact_ids": [
+        "gf1-7-1",
+        "ra-comments-85-1"
+      ]
+    },
+    {
+      "achievement_id": 98086,
+      "label": "Fight-or-Fillet Matriarch",
+      "deadline": "Before defeating Papa Monster and exiting Basement Maze",
+      "chapter": 8,
+      "fact_ids": [
+        "gf1-9-2",
+        "ra-comments-96-1"
+      ]
+    },
+    {
+      "achievement_id": 98089,
+      "label": "Grand Hall's Heaping Helpings",
+      "deadline": "Before fighting Minister Pumpkin",
+      "chapter": 8,
+      "fact_ids": [
+        "gf1-7-4",
+        "gf1-8-1",
+        "ra-comments-102-1"
+      ]
+    },
+    {
+      "achievement_id": 98092,
+      "label": "One-Course Veggie Tale",
+      "deadline": "Final battle / credits (must not enter any passwords across all 9 chapters)",
+      "chapter": 9,
+      "fact_ids": [
+        "gf1-9-6",
+        "ra-comments-107-1"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Entering Saladoria Town Gate",
+      "chapter": 1,
+      "warning": "Passing through the gate into Saladoria ends Chapter 1 and permanently drops unnecessary items.",
+      "fact_ids": [
+        "gf1-2-8",
+        "sw1-9-7"
+      ]
+    },
+    {
+      "label": "Entering Saladoria Bookshop",
+      "chapter": 2,
+      "warning": "Exiting the bookshop triggers your arrest and immediately ends Chapter 2.",
+      "fact_ids": [
+        "gf1-3-8",
+        "sw1-11-8"
+      ]
+    },
+    {
+      "label": "Escaping Police Station with Lantern",
+      "chapter": 3,
+      "warning": "Blending into the guards with the lantern ends Chapter 3 permanently.",
+      "fact_ids": [
+        "gf1-4-6",
+        "sw1-14-5"
+      ]
+    },
+    {
+      "label": "Talking to Mr. Leek outside Sacred Tree",
+      "chapter": 4,
+      "warning": "Talking to Mr. Leek after reclaiming the Yam Medallion triggers the journey to Resistance Base and ends Chapter 4.",
+      "fact_ids": [
+        "gf1-5-5",
+        "sw1-18-3"
+      ]
+    },
+    {
+      "label": "Exiting Resistance Base for Peanut Village",
+      "chapter": 5,
+      "warning": "Leaving the base to Peanut Village permanently closes Chapter 5.",
+      "fact_ids": [
+        "gf1-5-9",
+        "sw1-20-3"
+      ]
+    },
+    {
+      "label": "Boarding the Dice-O-Matic Robot",
+      "chapter": 6,
+      "warning": "Starting the Dice-O-Matic robot battle permanently leaves Peanut Plateau and ends Chapter 6.",
+      "fact_ids": [
+        "gf1-6-6",
+        "sw1-23-2"
+      ]
+    },
+    {
+      "label": "Entering the Secret Underground Passage",
+      "chapter": 7,
+      "warning": "Digging and entering the secret passage ends Chapter 7 and transitions to Minister's Castle.",
+      "fact_ids": [
+        "gf1-7-3",
+        "sw1-25-3"
+      ]
+    },
+    {
+      "label": "Confronting Minister Pumpkin in his Chambers",
+      "chapter": 8,
+      "warning": "Entering Minister Pumpkin's chamber triggers the boss fight and subsequent castle escape, ending Chapter 8.",
+      "fact_ids": [
+        "gf1-9-4",
+        "sw1-29-4"
+      ]
+    },
+    {
+      "label": "Engaging Junior Pumpkin Finale",
+      "chapter": 9,
+      "warning": "Defeating Junior Pumpkin triggers the ending sequence and final victory.",
+      "fact_ids": [
+        "gf1-9-6",
+        "sw1-32-1"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Salad Kingdom Outskirts & The Rescue of Percy",
+      "areas": [
+        "StartingRoad",
+        "CeleryForest",
+        "LakeQuench",
+        "ParsleyForestCh1",
+        "MelonPatch",
+        "SaladoriaGate"
+      ],
+      "achievement_ids": [
+        98041,
+        98042,
+        98043,
+        98044
+      ],
+      "fact_ids": [
+        "gf1-2-1",
+        "gf1-2-2",
+        "gf1-2-3",
+        "gf1-2-4",
+        "gf1-2-5",
+        "gf1-2-6",
+        "gf1-2-7",
+        "gf1-2-8",
+        "sw1-9-1",
+        "sw1-9-2",
+        "sw1-9-3",
+        "sw1-9-4",
+        "sw1-9-5",
+        "sw1-9-6",
+        "sw1-9-7",
+        "ra-comments-7-1",
+        "ra-comments-11-1"
+      ],
+      "notes": "Do not miss the Diospyros command before meeting Percy, and collect all 5 items before entering the gate."
+    },
+    {
+      "n": 2,
+      "title": "Saladoria City Investigation & The Arrest",
+      "areas": [
+        "OrangePark",
+        "MainStreet",
+        "SaladoriaPharmacy",
+        "SaladoriaBookshop",
+        "SaladoriaRestroom",
+        "CoffeeShop",
+        "GeneralStoreCh2"
+      ],
+      "achievement_ids": [
+        98045,
+        98046,
+        98047,
+        98048,
+        98049,
+        98050
+      ],
+      "fact_ids": [
+        "gf1-3-1",
+        "gf1-3-2",
+        "gf1-3-3",
+        "gf1-3-4",
+        "gf1-3-5",
+        "gf1-3-6",
+        "gf1-3-7",
+        "gf1-3-8",
+        "gf1-3-9",
+        "gf1-3-10",
+        "sw1-11-1",
+        "sw1-11-2",
+        "sw1-11-3",
+        "sw1-11-4",
+        "sw1-11-5",
+        "sw1-11-6",
+        "sw1-11-7",
+        "sw1-11-8",
+        "ra-comments-15-1",
+        "ra-comments-23-1"
+      ],
+      "notes": "On Run 1: DO NOT buy juices. Catch Octoberry on Main Street for coin 98045. On Run 2: Buy juices for 98049."
+    },
+    {
+      "n": 3,
+      "title": "Police Station Incarceration & Escape",
+      "areas": [
+        "HoldingCell",
+        "InterrogationRoom",
+        "TortureRoom",
+        "PoliceHallway",
+        "PoliceCloset"
+      ],
+      "achievement_ids": [
+        98051,
+        98052,
+        98053,
+        98054,
+        98055
+      ],
+      "fact_ids": [
+        "gf1-4-1",
+        "gf1-4-2",
+        "gf1-4-3",
+        "gf1-4-4",
+        "gf1-4-5",
+        "gf1-4-6",
+        "gf1-4-7",
+        "sw1-14-1",
+        "sw1-14-2",
+        "sw1-14-3",
+        "sw1-14-4",
+        "sw1-14-5",
+        "ra-comments-31-1",
+        "ra-comments-33-1"
+      ],
+      "notes": "Trigger the alarm button outside cell for 98053 before finishing the escape."
+    },
+    {
+      "n": 4,
+      "title": "Spinach Heights, Parsley Forest Maze & Saladron",
+      "areas": [
+        "SpinachHeightsCrossroads",
+        "MoleHole",
+        "ParsleyForestStream",
+        "ParsleyForestMaze",
+        "SacredTree"
+      ],
+      "achievement_ids": [
+        98056,
+        98057,
+        98058,
+        98059,
+        98060,
+        98061,
+        98062,
+        98063,
+        98064
+      ],
+      "fact_ids": [
+        "gf1-4-8",
+        "gf1-4-9",
+        "gf1-4-10",
+        "gf1-5-1",
+        "gf1-5-2",
+        "gf1-5-3",
+        "gf1-5-4",
+        "gf1-5-5",
+        "sw1-17-1",
+        "sw1-17-2",
+        "sw1-17-3",
+        "sw1-17-4",
+        "sw1-18-1",
+        "sw1-18-2",
+        "sw1-18-3",
+        "ra-comments-42-1",
+        "ra-comments-44-1",
+        "ra-comments-48-1",
+        "ra-comments-52-1",
+        "ra-comments-54-1"
+      ],
+      "notes": "Flawless Farmie (Right then Down), all maze items, flawless Saladron (Left only), and receive Grape Juice from Mr. Leek."
+    },
+    {
+      "n": 5,
+      "title": "The Resistance Headquarters",
+      "areas": [
+        "ResistanceBase",
+        "ResistanceArmsRoom"
+      ],
+      "achievement_ids": [
+        98065,
+        98066,
+        98067,
+        98068
+      ],
+      "fact_ids": [
+        "gf1-5-6",
+        "gf1-5-7",
+        "gf1-5-8",
+        "gf1-5-9",
+        "gf1-10-1",
+        "sw1-20-1",
+        "sw1-20-2",
+        "sw1-20-3",
+        "ra-comments-58-1",
+        "ra-comments-60-1"
+      ],
+      "notes": "Trade grape juice to Grapy for clover juice, and equip both Nut Bomb and Black Bean in arms room."
+    },
+    {
+      "n": 6,
+      "title": "Peanut Village, Bananda's Cave & The Dice-O-Matic",
+      "areas": [
+        "PeanutVillage",
+        "ChiefsHouse",
+        "BanandaCave",
+        "PeanutPark",
+        "HermitsHut",
+        "GiantTreeCh6"
+      ],
+      "achievement_ids": [
+        98069,
+        98070,
+        98071,
+        98072,
+        98073,
+        98074,
+        98075,
+        98076,
+        98077
+      ],
+      "fact_ids": [
+        "gf1-6-1",
+        "gf1-6-2",
+        "gf1-6-3",
+        "gf1-6-4",
+        "gf1-6-5",
+        "gf1-6-6",
+        "gf1-6-7",
+        "gf1-6-8",
+        "gf1-6-9",
+        "sw1-22-1",
+        "sw1-22-2",
+        "sw1-22-3",
+        "sw1-23-1",
+        "sw1-23-2",
+        "sw1-23-3",
+        "ra-comments-68-1",
+        "ra-comments-72-1",
+        "ra-comments-76-1",
+        "ra-comments-78-1"
+      ],
+      "notes": "Collect all 5 cave coin pouches, decipher Bee statue with Wordbook, collect all 12 items, defeat War Melons with Down Right Right Left."
+    },
+    {
+      "n": 7,
+      "title": "Sopville Infiltration & Secret Passage",
+      "areas": [
+        "SopvilleTown",
+        "SopvilleStore",
+        "SopvilleBar",
+        "OldLadyHouse",
+        "PeaStreet",
+        "SecretPassageCh7"
+      ],
+      "achievement_ids": [
+        98078,
+        98079,
+        98080
+      ],
+      "fact_ids": [
+        "gf1-7-1",
+        "gf1-7-2",
+        "gf1-7-3",
+        "gf1-7-4",
+        "sw1-25-1",
+        "sw1-25-2",
+        "sw1-25-3",
+        "ra-comments-82-1",
+        "ra-comments-85-1"
+      ],
+      "notes": "Feed bread to Yam and juice to Asparagus, collect all 9 chapter items including shovel and bar key."
+    },
+    {
+      "n": 8,
+      "title": "Minister's Castle, Monster Maze & Princess Tomato",
+      "areas": [
+        "CastleBasement",
+        "CastleStorage",
+        "CastleDarkRoom",
+        "CastleGarden",
+        "PrincessTomatoCell",
+        "MinistersChamber"
+      ],
+      "achievement_ids": [
+        98081,
+        98082,
+        98083,
+        98084,
+        98085,
+        98086,
+        98087,
+        98088,
+        98089,
+        98090
+      ],
+      "fact_ids": [
+        "gf1-8-1",
+        "gf1-8-2",
+        "gf1-8-3",
+        "gf1-8-4",
+        "gf1-8-5",
+        "gf1-9-1",
+        "gf1-9-2",
+        "gf1-9-3",
+        "gf1-9-4",
+        "gf1-9-5",
+        "sw1-28-1",
+        "sw1-28-2",
+        "sw1-28-3",
+        "sw1-28-4",
+        "sw1-28-5",
+        "sw1-28-6",
+        "sw1-29-1",
+        "sw1-29-2",
+        "sw1-29-3",
+        "sw1-29-4",
+        "sw1-29-5",
+        "ra-comments-96-1",
+        "ra-comments-100-1",
+        "ra-comments-102-1"
+      ],
+      "notes": "Defeat Mama Monster in maze dead end, collect all 12 items, execute 8-move pattern against Minister Pumpkin."
+    },
+    {
+      "n": 9,
+      "title": "Courtyard Climax & Salad Kingdom Liberation",
+      "areas": [
+        "CastleCourtyard"
+      ],
+      "achievement_ids": [
+        98091,
+        98092
+      ],
+      "fact_ids": [
+        "gf1-9-6",
+        "sw1-32-1",
+        "ra-comments-107-1"
+      ],
+      "notes": "Defeat Junior Pumpkin with Nut Bomb and win game without passwords for One-Course Veggie Tale."
+    }
+  ]
+}

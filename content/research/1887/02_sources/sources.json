@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ra-comments",
+    "site": "RetroAchievements",
+    "title": "Princess Tomato in the Salad Kingdom — RetroAchievements community comments",
+    "url": "https://retroachievements.org/game/1887",
+    "kind": "ra-comments",
+    "file": "ra-comments.txt",
+    "chars": 68085,
+    "collected_at": "2026-10-13T03:02:11.071Z"
+  },
+  {
+    "id": "gf1",
+    "site": "GameFAQs",
+    "title": "Walkthrough by Ashlar79",
+    "author": "Ashlar79",
+    "url": "https://gamefaqs.gamespot.com/nes/587528-princess-tomato-in-the-salad-kingdom/faqs/59222",
+    "kind": "guide",
+    "file": "gf1.txt",
+    "chars": 32699,
+    "collected_at": "2026-10-13T03:05:38.362196+00:00"
+  },
+  {
+    "id": "sw1",
+    "site": "StrategyWiki",
+    "title": "Princess Tomato in the Salad Kingdom StrategyWiki Guide",
+    "author": "StrategyWiki Contributors",
+    "url": [
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Prologue",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_1",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_2",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_3",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_4",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_5",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_6",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_7",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_8",
+      "https://strategywiki.org/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_9"
+    ],
+    "kind": "guide",
+    "file": "sw1.txt",
+    "chars": 97022,
+    "collected_at": "2026-10-13T03:07:29.709249+00:00"
+  },
+  {
+    "id": "cgp1",
+    "site": "ClassicGamesParadise",
+    "title": "Princess Tomato in the Salad Kingdom Walkthrough",
+    "author": "Classic Games Paradise",
+    "url": "http://www.classicgamesparadise.com/nes/Princess%20Tomato%20in%20the%20Salad%20Kingdom.html",
+    "kind": "guide",
+    "file": "cgp1.txt",
+    "chars": 2446,
+    "collected_at": "2026-10-13T03:08:27.918896+00:00"
+  }
+]

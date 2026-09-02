@@ -1,0 +1,5219 @@
+{
+  "generated_at": "2026-10-13T20:05:46.639Z",
+  "stats": {
+    "total": 165,
+    "verified": 62,
+    "single_source": 103,
+    "conflict": 0,
+    "resolved": 0,
+    "rejected": 0,
+    "corroborations_accepted": 0,
+    "achievements_total": 52,
+    "achievements_verified": 28,
+    "achievements_single": 24,
+    "achievements_unsupported": 0,
+    "sources": [
+      "cgp1",
+      "gf1",
+      "sw1",
+      "ra-comments"
+    ]
+  },
+  "coverage": {
+    "98041": {
+      "title": "Diospyros Who?",
+      "facts": [
+        "ra-comments-7-1"
+      ],
+      "best": "single_source"
+    },
+    "98042": {
+      "title": "Drink of Water, Boss?",
+      "facts": [
+        "gf1-2-2",
+        "gf1-2-4",
+        "sw1-9-2",
+        "sw1-9-5"
+      ],
+      "best": "verified"
+    },
+    "98043": {
+      "title": "Harvesting Spinach Heights",
+      "facts": [
+        "gf1-2-1",
+        "gf1-2-3",
+        "gf1-2-6",
+        "gf1-2-7",
+        "gf1-9-7",
+        "ra-comments-11-1",
+        "sw1-9-1",
+        "sw1-9-3",
+        "sw1-9-4",
+        "sw1-9-6"
+      ],
+      "best": "verified"
+    },
+    "98044": {
+      "title": "Let Sleeping Daikons Lie",
+      "facts": [
+        "gf1-2-8",
+        "sw1-9-7",
+        "sw1-1-1",
+        "sw1-2-1",
+        "sw1-4-1",
+        "sw1-7-1",
+        "sw1-8-1"
+      ],
+      "best": "verified"
+    },
+    "98045": {
+      "title": "Penny-Pinching Pavlova",
+      "facts": [
+        "gf1-3-3",
+        "ra-comments-15-1",
+        "sw1-11-4"
+      ],
+      "best": "verified"
+    },
+    "98046": {
+      "title": "The Lost Mujdei Minister",
+      "facts": [
+        "gf1-3-1",
+        "sw1-11-1"
+      ],
+      "best": "verified"
+    },
+    "98047": {
+      "title": "Over-the-Counter Carica",
+      "facts": [
+        "gf1-3-7",
+        "sw1-11-7"
+      ],
+      "best": "verified"
+    },
+    "98048": {
+      "title": "Knowledge Is Brain Food",
+      "facts": [
+        "gf1-3-8",
+        "sw1-11-8"
+      ],
+      "best": "single_source"
+    },
+    "98049": {
+      "title": "Saladoria's Cornucopia",
+      "facts": [
+        "gf1-3-2",
+        "gf1-3-3",
+        "gf1-3-4",
+        "gf1-3-5",
+        "gf1-3-6",
+        "gf1-3-7",
+        "gf1-3-9",
+        "gf1-9-8",
+        "ra-comments-1-1",
+        "ra-comments-23-1",
+        "sw1-11-2",
+        "sw1-11-3",
+        "sw1-11-4",
+        "sw1-11-5",
+        "sw1-11-6",
+        "sw1-11-7",
+        "sw1-11-8"
+      ],
+      "best": "verified"
+    },
+    "98050": {
+      "title": "Caught in a Pickle",
+      "facts": [
+        "gf1-3-10",
+        "sw1-10-1",
+        "sw1-12-1"
+      ],
+      "best": "single_source"
+    },
+    "98051": {
+      "title": "Meet Your Capsaicin Captor",
+      "facts": [
+        "gf1-4-2",
+        "sw1-14-2"
+      ],
+      "best": "verified"
+    },
+    "98052": {
+      "title": "Un-Fixing a Hole",
+      "facts": [
+        "gf1-4-3",
+        "sw1-14-3"
+      ],
+      "best": "verified"
+    },
+    "98053": {
+      "title": "Abandoning All Common Scents",
+      "facts": [
+        "gf1-4-4",
+        "ra-comments-31-1"
+      ],
+      "best": "single_source"
+    },
+    "98054": {
+      "title": "Penitentiary Produce",
+      "facts": [
+        "gf1-4-1",
+        "gf1-4-5",
+        "gf1-4-6",
+        "gf1-9-9",
+        "ra-comments-33-1",
+        "sw1-14-1",
+        "sw1-14-4",
+        "sw1-14-5"
+      ],
+      "best": "verified"
+    },
+    "98055": {
+      "title": "The Scallion Redemption",
+      "facts": [
+        "gf1-4-7",
+        "sw1-13-1",
+        "sw1-15-1"
+      ],
+      "best": "single_source"
+    },
+    "98056": {
+      "title": "Valuable Dirt",
+      "facts": [
+        "gf1-4-8",
+        "sw1-17-2"
+      ],
+      "best": "verified"
+    },
+    "98057": {
+      "title": "The 80% Water-Boy",
+      "facts": [
+        "gf1-4-10"
+      ],
+      "best": "single_source"
+    },
+    "98058": {
+      "title": "Agricultural Warfare",
+      "facts": [
+        "gf1-5-1",
+        "ra-comments-42-1",
+        "sw1-17-4"
+      ],
+      "best": "single_source"
+    },
+    "98059": {
+      "title": "Natural-Grown Fighter",
+      "facts": [
+        "gf1-5-1",
+        "ra-comments-44-1",
+        "sw1-17-4"
+      ],
+      "best": "single_source"
+    },
+    "98060": {
+      "title": "The Roots of the Operation",
+      "facts": [
+        "gf1-5-5",
+        "sw1-18-3",
+        "sw1-16-1"
+      ],
+      "best": "verified"
+    },
+    "98061": {
+      "title": "Flat-Leaved Labyrinth Findings",
+      "facts": [
+        "gf1-4-9",
+        "gf1-5-2",
+        "gf1-5-4",
+        "gf1-9-10",
+        "ra-comments-48-1",
+        "sw1-17-1",
+        "sw1-17-3",
+        "sw1-18-2"
+      ],
+      "best": "verified"
+    },
+    "98062": {
+      "title": "Ingredient of Surprise",
+      "facts": [
+        "gf1-5-3",
+        "sw1-18-1"
+      ],
+      "best": "single_source"
+    },
+    "98063": {
+      "title": "Dressed for Success",
+      "facts": [
+        "gf1-5-3",
+        "ra-comments-52-1",
+        "sw1-18-1"
+      ],
+      "best": "single_source"
+    },
+    "98064": {
+      "title": "With No Intent to Ferment",
+      "facts": [
+        "gf1-5-5",
+        "ra-comments-1-1",
+        "ra-comments-23-1",
+        "ra-comments-54-1",
+        "sw1-18-3"
+      ],
+      "best": "verified"
+    },
+    "98065": {
+      "title": "True Merit from a True Melon",
+      "facts": [
+        "gf1-5-6",
+        "sw1-20-1"
+      ],
+      "best": "verified"
+    },
+    "98066": {
+      "title": "Quit Your Wining...",
+      "facts": [
+        "gf1-5-7",
+        "ra-comments-1-1",
+        "ra-comments-58-1",
+        "sw1-20-2"
+      ],
+      "best": "verified"
+    },
+    "98067": {
+      "title": "Legume-Laden Lieutenant",
+      "facts": [
+        "gf1-5-8",
+        "gf1-10-1",
+        "ra-comments-60-1",
+        "sw1-20-3"
+      ],
+      "best": "single_source"
+    },
+    "98068": {
+      "title": "Silage Settlement",
+      "facts": [
+        "gf1-5-9",
+        "sw1-19-1"
+      ],
+      "best": "single_source"
+    },
+    "98069": {
+      "title": "Just Plantain Scary",
+      "facts": [
+        "gf1-6-2"
+      ],
+      "best": "single_source"
+    },
+    "98070": {
+      "title": "Achilles' Peel",
+      "facts": [
+        "gf1-6-3",
+        "sw1-22-2"
+      ],
+      "best": "verified"
+    },
+    "98071": {
+      "title": "We're Rich! (In Vitamin B)",
+      "facts": [
+        "gf1-6-5",
+        "ra-comments-68-1",
+        "sw1-23-1"
+      ],
+      "best": "verified"
+    },
+    "98072": {
+      "title": "Not-So-Free of Charge",
+      "facts": [
+        "gf1-6-4",
+        "sw1-22-3"
+      ],
+      "best": "verified"
+    },
+    "98073": {
+      "title": "The Hachisuke Code",
+      "facts": [
+        "gf1-6-1",
+        "ra-comments-72-1",
+        "sw1-22-1"
+      ],
+      "best": "verified"
+    },
+    "98074": {
+      "title": "Get in the Robot, Percy!",
+      "facts": [
+        "gf1-6-6",
+        "sw1-23-2"
+      ],
+      "best": "single_source"
+    },
+    "98075": {
+      "title": "Mobile Suit Gourdam",
+      "facts": [
+        "gf1-6-7",
+        "ra-comments-76-1",
+        "sw1-23-3"
+      ],
+      "best": "single_source"
+    },
+    "98076": {
+      "title": "Picking a Peanut Peck",
+      "facts": [
+        "gf1-6-5",
+        "gf1-6-8",
+        "gf1-10-2",
+        "ra-comments-78-1",
+        "sw1-23-1"
+      ],
+      "best": "verified"
+    },
+    "98077": {
+      "title": "Under the Ugli Tree",
+      "facts": [
+        "gf1-6-9",
+        "sw1-21-1"
+      ],
+      "best": "single_source"
+    },
+    "98078": {
+      "title": "A Fistful of Lettuce",
+      "facts": [
+        "gf1-7-2",
+        "gf1-10-3",
+        "ra-comments-82-1",
+        "sw1-25-2"
+      ],
+      "best": "verified"
+    },
+    "98079": {
+      "title": "Right of Passage",
+      "facts": [
+        "gf1-7-3",
+        "sw1-25-3",
+        "sw1-24-1",
+        "sw1-26-1"
+      ],
+      "best": "verified"
+    },
+    "98080": {
+      "title": "Needy for Nutrients",
+      "facts": [
+        "ra-comments-85-1",
+        "sw1-25-1"
+      ],
+      "best": "single_source"
+    },
+    "98081": {
+      "title": "I'm Too Ripe to Die!",
+      "facts": [
+        "gf1-8-1",
+        "sw1-28-2"
+      ],
+      "best": "single_source"
+    },
+    "98082": {
+      "title": "Tying Up Loose Endives",
+      "facts": [
+        "gf1-8-2",
+        "sw1-28-3"
+      ],
+      "best": "single_source"
+    },
+    "98083": {
+      "title": "Her Umami Majesty",
+      "facts": [
+        "gf1-8-4",
+        "sw1-28-5"
+      ],
+      "best": "single_source"
+    },
+    "98084": {
+      "title": "Bitter Taste of Defeat",
+      "facts": [
+        "gf1-8-5",
+        "sw1-28-6"
+      ],
+      "best": "verified"
+    },
+    "98085": {
+      "title": "No Kid's Hungry",
+      "facts": [
+        "gf1-9-1",
+        "sw1-29-1"
+      ],
+      "best": "single_source"
+    },
+    "98086": {
+      "title": "Fight-or-Fillet Matriarch",
+      "facts": [
+        "gf1-9-2",
+        "ra-comments-96-1",
+        "sw1-29-2"
+      ],
+      "best": "verified"
+    },
+    "98087": {
+      "title": "Perishable Patriarch",
+      "facts": [
+        "gf1-9-3",
+        "sw1-29-3"
+      ],
+      "best": "verified"
+    },
+    "98088": {
+      "title": "Squashing the Monarchy",
+      "facts": [
+        "gf1-9-4",
+        "ra-comments-1-2",
+        "ra-comments-100-1",
+        "sw1-29-4"
+      ],
+      "best": "verified"
+    },
+    "98089": {
+      "title": "Grand Hall's Heaping Helpings",
+      "facts": [
+        "gf1-7-4",
+        "gf1-8-1",
+        "gf1-8-3",
+        "gf1-10-4",
+        "ra-comments-102-1",
+        "sw1-28-1",
+        "sw1-28-2",
+        "sw1-28-4"
+      ],
+      "best": "single_source"
+    },
+    "98090": {
+      "title": "With Princess in Toma-Tow",
+      "facts": [
+        "gf1-9-5",
+        "sw1-29-5",
+        "sw1-27-1",
+        "sw1-30-1"
+      ],
+      "best": "single_source"
+    },
+    "98091": {
+      "title": "Closing the Recipe Book",
+      "facts": [
+        "gf1-9-6",
+        "sw1-32-1",
+        "sw1-31-1",
+        "sw1-35-1"
+      ],
+      "best": "verified"
+    },
+    "98092": {
+      "title": "One-Course Veggie Tale",
+      "facts": [
+        "ra-comments-1-2",
+        "ra-comments-107-1"
+      ],
+      "best": "single_source"
+    }
+  },
+  "possible_conflicts": [
+    {
+      "key": "boss|farmie|defeated by",
+      "facts": [
+        {
+          "id": "gf1-5-1",
+          "value": "Look Down",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-17-4",
+          "value": "Finger Wars",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "boss|saladron|defeated by",
+      "facts": [
+        {
+          "id": "gf1-5-3",
+          "value": "Scissors",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-18-1",
+          "value": "Tin Can and Scissors",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "event|dice-o-matic|requires",
+      "facts": [
+        {
+          "id": "gf1-6-6",
+          "value": "Battery and Medal",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-23-2",
+          "value": "Medal and Battery",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "boss|war melon army|defeated by",
+      "facts": [
+        {
+          "id": "gf1-6-7",
+          "value": "Look Left/Right",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-23-3",
+          "value": "Look Away",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "event|percy|triggers",
+      "facts": [
+        {
+          "id": "gf1-8-1",
+          "value": "Ornament and Water",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-28-2",
+          "value": "Ornament in Pond",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "boss|hallway guard|defeated by",
+      "facts": [
+        {
+          "id": "gf1-8-2",
+          "value": "Ornament, Oil Pot, Chain",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-28-3",
+          "value": "Oil Jar and Chain",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "npc|princess tomato|located in",
+      "facts": [
+        {
+          "id": "gf1-8-4",
+          "value": "Princess Bedroom",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-28-5",
+          "value": "Princess' Chambers",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "npc|baby monster|located in",
+      "facts": [
+        {
+          "id": "gf1-9-1",
+          "value": "Basement Maze",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-29-1",
+          "value": "Dungeon Basement",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "event|princess tomato|triggers",
+      "facts": [
+        {
+          "id": "gf1-9-5",
+          "value": "Escape Castle",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "sw1-29-5",
+          "value": "Escape Compound",
+          "sources": [
+            "sw1"
+          ]
+        }
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "cgp1-1-1",
+      "type": "mechanic",
+      "subject": "Game Commands",
+      "predicate": "how_to_unlock",
+      "object": "Salad Kingdom Navigation",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Use commands to make your way through the Salad Kingdom: Move to a nearby destination, Look for important details, and Check for hidden objects.",
+      "evidence": [
+        {
+          "source_id": "cgp1",
+          "chunk_id": "cgp1#1",
+          "quote": "Move - Move to a nearby destination...Look - View the area around you...Check - Have a closer look",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "cgp1"
+      ]
+    },
+    {
+      "id": "gf1-2-1",
+      "type": "item",
+      "subject": "Flower",
+      "predicate": "contains_item",
+      "object": "Starting Road",
+      "location": "Starting Road",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Take the red flower in the road for good luck and move forward to the celery forest.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "Take the red flower in the road for good luck and move forward to the celery\nforest.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-2",
+      "type": "npc",
+      "subject": "Percy",
+      "predicate": "located_in",
+      "object": "Celery Forest",
+      "location": "Celery Forest",
+      "requires": [],
+      "achievement_ids": [
+        98042
+      ],
+      "missable": false,
+      "text": "The baby persimmon sitting on the path is in need of water.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "The baby persimmon sitting on the path is in need of water, so you'll\nneed to find him some.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-2-3",
+      "type": "item",
+      "subject": "Water",
+      "predicate": "contains_item",
+      "object": "Lake Quench",
+      "location": "Lake Quench",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Move to Lake Quench and take some water from the lake.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "Move to Lake Quench and take some water, then go back to the celery\nforest and give water to the persimmon.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-2-4",
+      "type": "event",
+      "subject": "Percy",
+      "predicate": "joins_party",
+      "object": "Sir Cucumber",
+      "location": "Celery Forest",
+      "requires": [
+        "Water"
+      ],
+      "achievement_ids": [
+        98042
+      ],
+      "missable": false,
+      "text": "Give water to the persimmon and talk to him to have him join you on your quest.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "give water to the persimmon. Now talk to the persimmon and he'll\njoin you on your quest. Select the LOOK command to exit the close-up of Percy.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-2-5",
+      "type": "event",
+      "subject": "Prince Lettuce",
+      "predicate": "located_in",
+      "object": "Melon Patch",
+      "location": "Melon Patch",
+      "requires": [
+        "Water"
+      ],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Check the bush near the fence to discover Prince Lettuce, and revive the prince with water in order to speak to him.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "Check the bush near the fence, then move there to discover\nPrince Lettuce. You need to revive the prince with water in order to speak to\nhim.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-6",
+      "type": "item",
+      "subject": "Pass",
+      "predicate": "contains_item",
+      "object": "Melon Patch",
+      "location": "Melon Patch",
+      "requires": [
+        "Water"
+      ],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Give water to the dried up melons and talk to the melons to receive a gate pass.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "give water to the dried up melons.\nTalk to the melons and you'll receive a gate pass.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-2-7",
+      "type": "item",
+      "subject": "Gold",
+      "predicate": "contains_item",
+      "object": "Lake Quench Nest",
+      "location": "Lake Quench",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Look at Lake Quench to discover a nest in the tree, and check the nest to find a gold coin.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "Return to Lake quench and look to\ndiscover a nest in the tree. Check the nest to find a gold coin.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-2-8",
+      "type": "event",
+      "subject": "Town Gate Guard",
+      "predicate": "triggers",
+      "object": "Saladoria",
+      "location": "Town Gate",
+      "requires": [
+        "Pass",
+        "Flower"
+      ],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "Give the flower to the statue, use the Percy command for a hint, and sneak past the sleeping guard into town.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "give the flower to the statue. Use the Percy command\nto get a helpful hint about the gate guard. Return to the gate now and sneak\npast the sleeping guard into the town.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-1",
+      "type": "npc",
+      "subject": "Garlic Wanderer",
+      "predicate": "located_in",
+      "object": "Orange Park",
+      "location": "Orange Park",
+      "requires": [],
+      "achievement_ids": [
+        98046
+      ],
+      "missable": false,
+      "text": "Take a look around at Orange Park and speak with the garlic to learn about an old scholar who lives on the mountain.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Take a look around at Orange Park. Speak with the garlic to learn about an\nold scholar who lives on the mountain.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-2",
+      "type": "item",
+      "subject": "Coin",
+      "predicate": "contains_item",
+      "object": "Orange Park Fountain",
+      "location": "Orange Park",
+      "requires": [],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Hit the fountain a few times until you get a coin, then be sure to take it with you.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Hit the fountain a few times\nuntil you get a coin, then be sure to take it with you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-3",
+      "type": "item",
+      "subject": "Coin",
+      "predicate": "contains_item",
+      "object": "Main Street",
+      "location": "Main Street",
+      "requires": [],
+      "achievement_ids": [
+        98045,
+        98049
+      ],
+      "missable": true,
+      "text": "If you ever see Octoberry go by on Main Street, be sure to check the street for coins.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Return to Orange Park, then go to Main Street. If you\never see Octoberry go by here, be sure to check the street for coins.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-4",
+      "type": "item",
+      "subject": "Coffee",
+      "predicate": "sold_at",
+      "object": "Coffee Shop",
+      "location": "Coffee Shop",
+      "requires": [
+        "Coin"
+      ],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Go to the coffee shop and buy a cup with the coin you got from the fountain.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Next go to the coffee shop and buy a cup with the\ncoin you got from the fountain.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-5",
+      "type": "quest",
+      "subject": "Letter",
+      "predicate": "contains_item",
+      "object": "Antique Shop",
+      "location": "Antique Shop",
+      "requires": [],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Speak with Mr. Pear at the antique shop to receive a letter to deliver to Miss Peachy at the deli for a sandwich.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "receive a letter, which you should deliver to Miss Peachy at the\ndeli. As a reward, she'll give you a sandwich.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-6",
+      "type": "item",
+      "subject": "Donut",
+      "predicate": "contains_item",
+      "object": "Cabaret Restroom",
+      "location": "Cabaret Celery",
+      "requires": [
+        "Coin"
+      ],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Enter the cabaret, move to the restroom, and check the trash can a couple times to find a donut.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Move there and check the trash can a couple times to find a\ndonut; take it with you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-7",
+      "type": "item",
+      "subject": "Aspirin",
+      "predicate": "contains_item",
+      "object": "Pharmacy",
+      "location": "Pharmacy",
+      "requires": [],
+      "achievement_ids": [
+        98047,
+        98049
+      ],
+      "missable": false,
+      "text": "At the pharmacy, talk to Mr. Fig a couple times to receive the aspirin.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "At the pharmacy,\ntalk to Mr. Fig a couple times to receive the aspirin.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-3-8",
+      "type": "location",
+      "subject": "Bookstore",
+      "predicate": "leads_to",
+      "object": "Saladoria Bookshop",
+      "location": "Saladoria",
+      "requires": [],
+      "achievement_ids": [
+        98048
+      ],
+      "missable": false,
+      "text": "Learn about the bookshop near the park, enter the shop, and look around and speak with the clerk.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "learn about\nthe bookshop near the park. Enter the shop, look around and speak with the\nclerk.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-9",
+      "type": "item",
+      "subject": "Key",
+      "predicate": "contains_item",
+      "object": "Bookstore Counter",
+      "location": "Bookstore",
+      "requires": [],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Hit the register and take the coin from inside, then check the counter and take the key you find there.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "hit the register and take\nthe coin from inside. Now check the counter and take the key you find there.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-10",
+      "type": "event",
+      "subject": "Farmies",
+      "predicate": "triggers",
+      "object": "Police Station",
+      "location": "Bookstore",
+      "requires": [
+        "Key"
+      ],
+      "achievement_ids": [
+        98050
+      ],
+      "missable": false,
+      "text": "Try to leave the bookshop and you will be captured by the farmies.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Try to leave the bookshop and you'll be captured by the farmies.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-1",
+      "type": "item",
+      "subject": "File",
+      "predicate": "contains_item",
+      "object": "Jail Cell",
+      "location": "Jail Cell",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "Hit Potato then talk to him to receive a file in the jail cell.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Hit Potato then talk to him to receive a file.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-4-2",
+      "type": "event",
+      "subject": "Interrogation Room",
+      "predicate": "leads_to",
+      "object": "Interrogation Room",
+      "location": "Police Station",
+      "requires": [
+        "File"
+      ],
+      "achievement_ids": [
+        98051
+      ],
+      "missable": false,
+      "text": "Use the file and you will be taken to the interrogation room to meet Lt. Pepper.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Use the file and you'll be taken to the interrogation room. Talk to Lt. Pepper\na few times until he discovers your file",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-4-3",
+      "type": "event",
+      "subject": "Torture Room Door",
+      "predicate": "triggers",
+      "object": "Hallway",
+      "location": "Torture Room",
+      "requires": [
+        "Key"
+      ],
+      "achievement_ids": [
+        98052
+      ],
+      "missable": false,
+      "text": "Use the hit command twice on the door, hit it once more to discover a keyhole, and use the key to escape.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Use the hit command twice on the door; Lt. Pepper will leave. Hit the door\nonce more and check it to discover a keyhole. Use the key from your inventory\non the keyhole to make your escape.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-4-4",
+      "type": "missable",
+      "subject": "Police Station Alarm",
+      "predicate": "triggers",
+      "object": "Alarm Siren",
+      "location": "Hallway",
+      "requires": [],
+      "achievement_ids": [
+        98053
+      ],
+      "missable": true,
+      "text": "You can hit the alarm on the wall to set it off outside the jail cell.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "You can hit the alarm on the wall to set it off but you'll eventually be re-\ncaptured and taken back to the torture room.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-5",
+      "type": "item",
+      "subject": "Rope",
+      "predicate": "contains_item",
+      "object": "Storage Room",
+      "location": "Storage Room",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "To the right is a storage room, in which you can find rope and a few other items.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "To the right again is a storage room, in which you can find\nrope and a few other items.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-6",
+      "type": "item",
+      "subject": "Lantern",
+      "predicate": "contains_item",
+      "object": "Storage Room",
+      "location": "Storage Room",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "Take the lantern from inside the storage room, then use the lantern to disguise yourself and leave the station yard.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Take the lantern from inside, then exit the storage room and\nexit the police station. Use the lantern to disguise yourself, then leave the\npolice station yard.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-7",
+      "type": "event",
+      "subject": "Police Station",
+      "predicate": "closes_after",
+      "object": "Chapter 3",
+      "location": "Station Yard",
+      "requires": [
+        "Lantern",
+        "Rope"
+      ],
+      "achievement_ids": [
+        98055
+      ],
+      "missable": false,
+      "text": "Use the lantern to disguise yourself, then leave the police station yard to escape and complete Chapter 3.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Use the lantern to disguise yourself, then leave the\npolice station yard.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-8",
+      "type": "npc",
+      "subject": "Mole",
+      "predicate": "located_in",
+      "object": "Melon Patch",
+      "location": "Melon Patch",
+      "requires": [
+        "Umbrella",
+        "Water"
+      ],
+      "achievement_ids": [
+        98056
+      ],
+      "missable": false,
+      "text": "Check the 3rd hole twice to find the mole hole, use the umbrella to get the mole out, and give him water for info.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "check the 3rd hole twice to find\nthe mole hole. Use the umbrella to get the mole to come out. Talk to the mole\nthen give him some water. Talk to him some more and you'll receive info about\nSaladron, plus the left half of some instructions.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-4-9",
+      "type": "item",
+      "subject": "Water Wings",
+      "predicate": "contains_item",
+      "object": "Forest Shack",
+      "location": "Forest Shack",
+      "requires": [
+        "Umbrella"
+      ],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Give Mr. Leek his umbrella and you will receive a pair of water wings to cross the stream safely.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Give him his umbrella and you'll receive a pair of water wings. Use\nthe wings at the stream and you'll be able to cross safely.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-10",
+      "type": "event",
+      "subject": "Stream Crossing",
+      "predicate": "leads_to",
+      "object": "Parsley Forest",
+      "location": "Stream",
+      "requires": [
+        "Water Wings"
+      ],
+      "achievement_ids": [
+        98057
+      ],
+      "missable": false,
+      "text": "Use the wings at the stream and you will be able to cross safely.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Use\nthe wings at the stream and you'll be able to cross safely.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-5-1",
+      "type": "boss",
+      "subject": "Farmie",
+      "predicate": "defeated_by",
+      "object": "Look Down",
+      "location": "Parsley Forest Entrance",
+      "requires": [],
+      "achievement_ids": [
+        98058,
+        98059
+      ],
+      "missable": true,
+      "text": "The farmie will always look down, so press down on the control pad.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "The farmie will always\nlook down, so press down on the control pad.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-5-2",
+      "type": "map",
+      "subject": "Parsley Forest",
+      "predicate": "located_in",
+      "object": "Parsley Forest Maze",
+      "location": "Parsley Forest",
+      "requires": [],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Collect the compass, tin can, shovel and gold found in the maze as you make your way to Saladron's lair.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "Collect the\ncompass, tin can, shovel and gold found in the maze as you make your way to\nSaladron's lair.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-5-3",
+      "type": "boss",
+      "subject": "Saladron",
+      "predicate": "defeated_by",
+      "object": "Scissors",
+      "location": "Saladron's Lair",
+      "requires": [
+        "Tin Can"
+      ],
+      "achievement_ids": [
+        98062,
+        98063
+      ],
+      "missable": true,
+      "text": "Use the tin can on the tree to summon Saladron and always select scissors, or left, to win three times.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "use the tin can on the tree to summon Saladron.\nBattle the beast the same way you did the farmie, but this time you'll have to\nwin three times to vanquish the enemy. Remember the tip you discovered at the\nshrine earlier--always select scissors, or left.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-5-4",
+      "type": "item",
+      "subject": "Medal",
+      "predicate": "contains_item",
+      "object": "Scary Tree Altar",
+      "location": "Saladron's Lair",
+      "requires": [
+        "Shovel"
+      ],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Use the shovel to dig up the mound until you find the medal, check the medal, and take it with you.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "Use the shovel to dig up the\nmound until you find the medal. Check the medal then take it with you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-5-5",
+      "type": "item",
+      "subject": "Grape Juice",
+      "predicate": "contains_item",
+      "object": "Mr. Leek",
+      "location": "Outside Scary Tree",
+      "requires": [
+        "Medal"
+      ],
+      "achievement_ids": [
+        98060,
+        98064
+      ],
+      "missable": true,
+      "text": "Find Mr. Leek outside, talk to him to end the chapter; if you did not buy grape juice earlier, he will give you some.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "find Mr. Leek outside. Talk to him to end the chapter; if\nyou didn't buy grape juice earlier, he'll give you some.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-5-6",
+      "type": "item",
+      "subject": "Crest",
+      "predicate": "contains_item",
+      "object": "General Cantaloupe",
+      "location": "Meeting Room",
+      "requires": [
+        "Medal",
+        "Aspirin"
+      ],
+      "achievement_ids": [
+        98065
+      ],
+      "missable": false,
+      "text": "Have a short meeting with the leader of the resistance, General Cantaloupe, and receive the resistance crest.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "you'll have a short meeting with the leader of the resistance, General\nCantaloupe, and receive the resistance crest.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-5-7",
+      "type": "item",
+      "subject": "Clover Juice",
+      "predicate": "contains_item",
+      "object": "Grapy",
+      "location": "Resistance Hallway",
+      "requires": [
+        "Grape Juice"
+      ],
+      "achievement_ids": [
+        98066
+      ],
+      "missable": true,
+      "text": "Talk to Grapy the guard and give him your grape juice to get clover juice.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "Talk to Grapy the guard and give\nhim your grape juice.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-5-8",
+      "type": "item",
+      "subject": "Nut Bomb",
+      "predicate": "contains_item",
+      "object": "Arms Room",
+      "location": "Arms Room",
+      "requires": [
+        "Pendant"
+      ],
+      "achievement_ids": [
+        98067
+      ],
+      "missable": true,
+      "text": "Go back to the arms room, which Grapy was guarding, have a look inside, and take a nut bomb.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "Go back to the arms room, which Grapy was guarding, and have\na look inside. Take a nut bomb and head back to the meeting room.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-5-9",
+      "type": "event",
+      "subject": "Resistance Base",
+      "predicate": "closes_after",
+      "object": "Peanut Village",
+      "location": "Resistance Base",
+      "requires": [
+        "Crest",
+        "Nut Bomb"
+      ],
+      "achievement_ids": [
+        98068
+      ],
+      "missable": false,
+      "text": "Leave the base and move to the village to end the chapter.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Leave the base and move to the village to end the chapter.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-1",
+      "type": "missable",
+      "subject": "Hudson Bee Statue",
+      "predicate": "triggers",
+      "object": "Peanut Park",
+      "location": "Peanut Park",
+      "requires": [
+        "Wordbook"
+      ],
+      "achievement_ids": [
+        98073
+      ],
+      "missable": true,
+      "text": "Use the wordbook at the park to decipher the message on the statue.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Use the wordbook at\nthe park to decipher the message on the statue.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-6-2",
+      "type": "location",
+      "subject": "Bananda's Cave",
+      "predicate": "leads_to",
+      "object": "Bananda's Cave",
+      "location": "Peanut Plateau",
+      "requires": [
+        "Lamp"
+      ],
+      "achievement_ids": [
+        98069
+      ],
+      "missable": false,
+      "text": "Return to the cave with the lamp and enter Bananda's cave.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Now you should have the lamp, so return to the cave and\nenter. Bananda's cave is a maze similar to the Parsley Forest.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-3",
+      "type": "boss",
+      "subject": "Bananda",
+      "predicate": "defeated_by",
+      "object": "Nut Bomb",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Nut Bomb"
+      ],
+      "achievement_ids": [
+        98070
+      ],
+      "missable": false,
+      "text": "You will run into Bananda near the entrance of the cave; use the nut bomb to destroy it.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "You'll run\ninto Bananda near the entrance of the cave; use the nut bomb to destroy it.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-6-4",
+      "type": "item",
+      "subject": "Battery",
+      "predicate": "contains_item",
+      "object": "Chief's House",
+      "location": "Peanut Village",
+      "requires": [
+        "Nutty Rescued"
+      ],
+      "achievement_ids": [
+        98072
+      ],
+      "missable": false,
+      "text": "Talk to the chief to receive the battery that powers the Dice-O-Matic.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "talk to him to receive the battery that powers the Dice-O-Matic.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-6-5",
+      "type": "item",
+      "subject": "Coins",
+      "predicate": "contains_item",
+      "object": "Bananda's Cave",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Lamp"
+      ],
+      "achievement_ids": [
+        98071,
+        98076
+      ],
+      "missable": true,
+      "text": "Return to Bananda's cave and collect coins along the way to the Dice-O-Matic.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Return to Bananda's cave and find your way to the Dice-O-Matic. There's coins\nto collect along the way.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-6-6",
+      "type": "event",
+      "subject": "Dice-O-Matic",
+      "predicate": "requires",
+      "object": "Battery and Medal",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Battery",
+        "Medal"
+      ],
+      "achievement_ids": [
+        98074
+      ],
+      "missable": false,
+      "text": "When you happen upon the Dice-O-Matic, use the medal on it, enter the cockpit, use the battery, and hit the red lever twice.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "When you happen upon the Dice-O-Matic, use the medal on it and enter. In the\ncockpit, check the vicinity and consult Percy; he'll find the slot for the\nbattery. Use the battery then hit the red lever twice to start up the machine.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-7",
+      "type": "boss",
+      "subject": "War Melon Army",
+      "predicate": "defeated_by",
+      "object": "Look Left/Right",
+      "location": "Dice-O-Matic Cockpit",
+      "requires": [
+        "Dice-O-Matic"
+      ],
+      "achievement_ids": [
+        98075
+      ],
+      "missable": false,
+      "text": "Fight the huge enemy Dice-O-Matic and Minister Pumpkin in his Dice-O-Matic.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "fight the huge enemy Dice-O-Matic. This\nenemy will switch between rocks and scissors, then alternate between looking\nright then left during the Look-Away phase of battle. Next you'll fight\nMinister Pumpkin in his Dice-O-Matic",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-8",
+      "type": "item",
+      "subject": "Chameleon Grass",
+      "predicate": "contains_item",
+      "object": "Giant Tree Root",
+      "location": "Giant Tree",
+      "requires": [
+        "Defeat Dice-O-Matic"
+      ],
+      "achievement_ids": [
+        98076
+      ],
+      "missable": true,
+      "text": "When you check the root of the giant tree you will discover strange grass to take with you.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "when you check the root you'll discover strange grass. Take\nthe grass with you",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-9",
+      "type": "event",
+      "subject": "Chameleon Grass",
+      "predicate": "triggers",
+      "object": "Farmie Disguise",
+      "location": "Giant Tree",
+      "requires": [
+        "Chameleon Grass",
+        "Right Instructions"
+      ],
+      "achievement_ids": [
+        98077
+      ],
+      "missable": false,
+      "text": "Use the chameleon grass twice to turn into farmies and end the chapter.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Now use the chameleon grass twice to turn into farmies and\nend the chapter.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-7-1",
+      "type": "event",
+      "subject": "Squash",
+      "predicate": "talk",
+      "object": "Pea Street",
+      "location": "Sopville Main Street",
+      "requires": [
+        "Crest"
+      ],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Talk to the wanderers, use the crest, and talk to squash to get info about Pea Street.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#7",
+          "quote": "Talk to the\nwanderers then use the crest. Talk to squash to get some info about Pea\nStreet.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-7-2",
+      "type": "item",
+      "subject": "Key",
+      "predicate": "contains_item",
+      "object": "Bar",
+      "location": "Sopville Bar",
+      "requires": [
+        "Crest"
+      ],
+      "achievement_ids": [
+        98078
+      ],
+      "missable": true,
+      "text": "Talk to Ron a couple times until you receive a key from him in the bar.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#7",
+          "quote": "Talk to Ron a couple times until you receive a key from him.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-7-3",
+      "type": "event",
+      "subject": "Castle Secret Passage",
+      "predicate": "leads_to",
+      "object": "Minister's Castle",
+      "location": "Pea Street",
+      "requires": [
+        "Shovel"
+      ],
+      "achievement_ids": [
+        98079
+      ],
+      "missable": false,
+      "text": "Navigate the passage forward, right, left, forward, then use the shovel to dig away the wall and reveal the cave exit.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#7",
+          "quote": "she'll tell you how to navigate the\npassage: FORWARD, RIGHT, LEFT, FORWARD. Return to the passage and follow these\ndirections. Move forward again after the sequence and you'll hit a wall. Use\nthe shovel to dig away the wall and reveal the cave exit.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-7-4",
+      "type": "item",
+      "subject": "Oil Pot and Chain",
+      "predicate": "contains_item",
+      "object": "Storage Room",
+      "location": "Castle Storage Room",
+      "requires": [],
+      "achievement_ids": [
+        98089
+      ],
+      "missable": true,
+      "text": "Take the oil pot and pine tar, and take the mirror and chain you find in the castle storage room.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#7",
+          "quote": "take the oil pot and pine tar. Now check the vicinity\nand use the look command. Take the mirror and chain you find.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-8-1",
+      "type": "event",
+      "subject": "Percy",
+      "predicate": "triggers",
+      "object": "Ornament and Water",
+      "location": "Castle Garden Pond",
+      "requires": [
+        "Water Wings"
+      ],
+      "achievement_ids": [
+        98081,
+        98089
+      ],
+      "missable": false,
+      "text": "Use the water wings to save Percy, Percy will find an ornament in the pond, and take water from the pond.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "Use the water wings to\nsave Percy; if he says you have too much stuff, dump the pine tar (you can't do\nanything with it anyway). Percy will find an ornament in the pond. Take some\nwater from the pond",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-8-2",
+      "type": "boss",
+      "subject": "Hallway Guard",
+      "predicate": "defeated_by",
+      "object": "Ornament, Oil Pot, Chain",
+      "location": "Rear Hallway",
+      "requires": [
+        "Ornament",
+        "Oil Pot",
+        "Chain"
+      ],
+      "achievement_ids": [
+        98082
+      ],
+      "missable": false,
+      "text": "Use the ornament to get the guard's attention, use the oil pot, and use the chain to tie up the guard.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "Use\nthe ornament to get the guard's attention, then use the oil pot. Now use the\nchain to tie up the guard.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-8-3",
+      "type": "item",
+      "subject": "Caterpillar",
+      "predicate": "contains_item",
+      "object": "Jail Cell",
+      "location": "Castle Jail Cell",
+      "requires": [],
+      "achievement_ids": [
+        98089
+      ],
+      "missable": true,
+      "text": "Check Lettuce in the jail cell a couple times until you find a caterpillar and take it with you.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "check Lettuce a couple\ntimes until you find a caterpillar. Be sure to take it with you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-8-4",
+      "type": "npc",
+      "subject": "Princess Tomato",
+      "predicate": "located_in",
+      "object": "Princess Bedroom",
+      "location": "Princess Bedroom",
+      "requires": [
+        "Crest",
+        "Chameleon Grass"
+      ],
+      "achievement_ids": [
+        98083
+      ],
+      "missable": false,
+      "text": "Show the woman the crest, give her the chameleon grass, and talk to Princess Tomato.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "show her\nthe crest. Talk to her until she tells you to get out. Move back, talk to her\nagain and immediately give her the chameleon grass. Talk to the princess",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-8-5",
+      "type": "boss",
+      "subject": "Fancy Door Guard",
+      "predicate": "defeated_by",
+      "object": "Look Up",
+      "location": "Main Hall Door",
+      "requires": [],
+      "achievement_ids": [
+        98084
+      ],
+      "missable": false,
+      "text": "Fight the door guard to get past him; he is easy to beat if you remember he always looks up during battle.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "You'll have to fight the door guard to get\npast him; he's easy to beat if you remember he always looks up during battle.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-9-1",
+      "type": "npc",
+      "subject": "Baby Monster",
+      "predicate": "located_in",
+      "object": "Basement Maze",
+      "location": "Basement Maze",
+      "requires": [],
+      "achievement_ids": [
+        98085
+      ],
+      "missable": false,
+      "text": "In order to solve the maze, you first need to make your way to the baby monster.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "In order to solve the maze, you first need to make your way to the baby\nmonster.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-2",
+      "type": "boss",
+      "subject": "Mama Monster",
+      "predicate": "defeated_by",
+      "object": "Look Left",
+      "location": "Basement Maze",
+      "requires": [],
+      "achievement_ids": [
+        98086
+      ],
+      "missable": true,
+      "text": "The moma and papa monsters always look left during battle.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "The moma\nand papa monsters always look left during battle.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-9-3",
+      "type": "boss",
+      "subject": "Papa Monster",
+      "predicate": "defeated_by",
+      "object": "Look Left",
+      "location": "Basement Maze",
+      "requires": [
+        "Holes 1 to 3"
+      ],
+      "achievement_ids": [
+        98087
+      ],
+      "missable": false,
+      "text": "Find the three holes in order from 1 to 3, then go to where the papa monster lurks.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "find the three holes in order from 1 to 3, then go to\nwhere the papa monster lurks.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-9-4",
+      "type": "boss",
+      "subject": "Minister Pumpkin",
+      "predicate": "defeated_by",
+      "object": "Battle Sequence",
+      "location": "Minister's Bedroom",
+      "requires": [],
+      "achievement_ids": [
+        98088
+      ],
+      "missable": false,
+      "text": "To win against Minister Pumpkin, use the following moves: Paper, Paper, Rock, Scissors, Rock, Scissors, Scissors, Paper.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "Minister\nPumpkin follows a pattern during battle, which repeats itself. To win, use\nthe following moves:\n\n- Paper\n- Paper\n- Rock\n- Scissors\n- Rock\n- Scissors\n- Scissors\n- Paper",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-9-5",
+      "type": "event",
+      "subject": "Princess Tomato",
+      "predicate": "triggers",
+      "object": "Escape Castle",
+      "location": "Castle Garden",
+      "requires": [
+        "Defeat Minister Pumpkin"
+      ],
+      "achievement_ids": [
+        98090
+      ],
+      "missable": false,
+      "text": "Talk to Princess Tomato, make your way to the garden, and move to the exit to escape.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "talk to her\na couple times. Make your way to the garden and move to the exit.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-6",
+      "type": "boss",
+      "subject": "Junior Pumpkin",
+      "predicate": "defeated_by",
+      "object": "Caterpillar",
+      "location": "Heroes' Celebration",
+      "requires": [
+        "Caterpillar"
+      ],
+      "achievement_ids": [
+        98091
+      ],
+      "missable": false,
+      "text": "When Jr. Pumpkin challenges you to a fight, use the caterpillar on him to beat the game.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "When Jr. Pumpkin challenges you\nto a fight, you can choose to fight him but winning won't accomplish anything.\nInstead, use the caterpillar on him. Congratulations, you've beat the game!",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "gf1-9-7",
+      "type": "item",
+      "subject": "Chapter 1 Items",
+      "predicate": "contains_item",
+      "object": "Spinach Heights",
+      "location": "Spinach Heights",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Chapter 1 items include Flower, Spinach, Pass, Water, and Gold.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "~ Chapter 1:\n\nFlower          Path on first screen            Give to apple statue\nSpinach         Spinach Heights intersection    N/A\nPass            Melon patch (Cantaloupe)        Town gate\nWater           Lake Quench                     Celery Forest; melon patch\nGold            Nest at Lake Quench             Antique shop",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-8",
+      "type": "item",
+      "subject": "Chapter 2 Items",
+      "predicate": "contains_item",
+      "object": "Saladoria",
+      "location": "Saladoria",
+      "requires": [],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Chapter 2 items include Coins, Coffee, Letter, Sandwich, Grape Juice, Clover Juice, Donut, Vase, Clover, Flower, Tissue, Aspirin, and Key.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "~ Chapter 2:\n\nCoins\t\tOrange Park fountain;           Various shops\n\t\tMain Street; antique shop;\n\t\tbookstore\nCoffee\t\tCoffee shop\t\t\tGive to garlic wanderer\nLetter\t\tMr. Pear\t\t\tGive to Miss Peachy\nSandwich\tDeli\t\t\t\tGive to wanderer's child\nGrape Juice\tJuice shop\t\t\tGive to Grapy (ch. 5)\nClover Juice\tJuice shop\t\t\tN/A\nDonut\t\tCabaret restroom\t\tGive to garlic (ch. 3)\nVase\t\tAntique shop\t\t\tN/A\nClover\t\tMountainside\t\t\tAntique shop\nFlower\t\tOrange Park\t\t\tN/A\nTissue\t\tCabaret Celery\t\t\tN/A\nAspirin\t\tPharmacy\t\t\tGive to Lisa (ch. 5)\nKey\t\tBookstore\t\t\tTorture room (ch. 3)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-9",
+      "type": "item",
+      "subject": "Chapter 3 Items",
+      "predicate": "contains_item",
+      "object": "Police Station",
+      "location": "Police Station",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "Chapter 3 items include File, Water, Rope, Paper, Bucket, Lantern, Grenade, and Key.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "~ Chapter 3:\n\nFile\t\tCell\t\t\t\tCell\nWater\t\tTorture room\t\t\tN/A\nRope\t\tStorage room\t\t\tLt. Pepper\nPaper\t\tStorage room\t\t\tN/A\nBucket\t\tStorage room\t\t\tN/A\nLantern\t\tStorage room\t\t\tStation yard\nGrenade\t\tGarlic wanderer\t\t\tLt. Pepper\nKey\t\tTorture room floor\t\tTorture room",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-10",
+      "type": "item",
+      "subject": "Chapter 4 Items",
+      "predicate": "contains_item",
+      "object": "Parsley Forest",
+      "location": "Parsley Forest",
+      "requires": [],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Chapter 4 items include Water, Umbrella, Left Instr., Water Wings, Coins, Compass, Tin can, Shovel, Leaves, Waste, and Medal.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "~ Chapter 4:\n\nWater\t\tLake Quench\t\t\tMelon patch\nUmbrella\tLake Quench\t\t\tMelon patch; forest shack\nLeft Instr.\tMelon patch\t\t\tGiant tree (ch. 6)\nWater Wings\tMr. Leek\t\t\tStream\nCoins\t\tForest maze\t\t\tVarious shops\nCompass\t\tForest maze\t\t\tN/A\nTin can\t\tForest maze\t\t\tSaladron's lair\nShovel\t\tForest maze\t\t\tSaladron's lair\nLeaves\t\tSaladron's lair\t\t\tN/A\nWaste\t\tSaladron's lair\t\t\tN/A\nMedal\t\tSaladron's lair\t\t\tMeeting room (ch. 5); Dice-O-",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-1",
+      "type": "item",
+      "subject": "Chapter 5 Items",
+      "predicate": "contains_item",
+      "object": "Resistance Base",
+      "location": "Resistance Base",
+      "requires": [],
+      "achievement_ids": [
+        98067
+      ],
+      "missable": true,
+      "text": "Chapter 5 items include Crest, Pendant, Clover Juice, Nut Bomb, and Black Bean.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "~ Chapter 5:\n\nCrest\t\tMeeting room\t\t\tVarious vegetables\nPendant\t\tBox outside base\t\tGive to Lisa\nClover Juice\tGet from Grapy\t\t\tGive to hermit (ch. 6)\nNut Bomb\tArms Room                       Bananda's Cave (ch. 6)\nBlack Bean\tArms Room\t\t\tN/A",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-2",
+      "type": "item",
+      "subject": "Chapter 6 Items",
+      "predicate": "contains_item",
+      "object": "Peanut Plateau",
+      "location": "Peanut Plateau",
+      "requires": [],
+      "achievement_ids": [
+        98076
+      ],
+      "missable": true,
+      "text": "Chapter 6 items include Carrot, Coins, Squid, Peanuts, Broom, Wordbook, Lamp, Battery, Medicine, Skin, Ch. Grass, and Right Instr.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "~ Chapter 6:\n\nCarrot\t\tCarrot Plateau\t\t\tConvenience store\nCoins\t\tPark; Bananda's cave\t\tVarious stores\nSquid\t\tConvenience store\t\tGive to hermit\nPeanuts\t\tConvenience store\t\tGive to hermit\nBroom\t\tConvenience store\t\tN/A\nWordbook\tConvenience store\t\tPark\nLamp\t\tChief's House\t\t\tBananda's Cave\nBattery\t\tChief's House\t\t\tDice-O-Matic\nMedicine\tHermit's house\t\t\tGive to Old Lady (ch. 7)\nSkin\t\tBananda's cave\t\t\tN/A\nCh. Grass\tGiant tree\t\t\tGiant tree\nRight Instr.\tGiant tree\t\t\tGiant tree",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-3",
+      "type": "item",
+      "subject": "Chapter 7 Items",
+      "predicate": "contains_item",
+      "object": "Sopville",
+      "location": "Sopville",
+      "requires": [],
+      "achievement_ids": [
+        98078
+      ],
+      "missable": true,
+      "text": "Chapter 7 items include Key, Coin, Shovel, Bread, Socks, Juice, Spices, and Shampoo.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "~ Chapter 7:\n\nKey\t\tBar\t\t\t\tDoor to dark room (ch. 8)\nCoin\t\tOld lady's House\t\tVarious shops; Pea Street\nShovel\t\tPea Street\t\t\tCastle passage\nBread\t\tGeneral Store\t\t\tN/A\nSocks\t\tGeneral Store\t\t\tN/A\nJuice\t\tGeneral Store\t\t\tN/A\nSpices\t\tGeneral Store\t\t\tN/A\nShampoo\t\tGeneral Store\t\t\tN/A",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-4",
+      "type": "item",
+      "subject": "Chapter 8 Items",
+      "predicate": "contains_item",
+      "object": "Minister's Castle",
+      "location": "Minister's Castle",
+      "requires": [],
+      "achievement_ids": [
+        98089
+      ],
+      "missable": true,
+      "text": "Chapter 8 items include Oil pot, Pine tar, Mirror, Chain, Letter, Coin, Water, Ornament, Caterpillar, Clothes, Books, and Tea cups.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "~ Chapter 8:\n\nOil pot\t\tStorage room\t\t\tHallway guard\nPine tar\tStorage room\t\t\tN/A\nMirror\t\tStorage room\t\t\tN/A\nChain\t\tStorage room\t\t\tHallway guard\nLetter\t\tDark room\t\t\tN/A\nCoin\t\tDark room\t\t\tVarious shops; jail cell\nWater\t\tGarden\t\t\t\tJail cell\nOrnament\tGarden\t\t\t\tHallway guard\nCaterpillar\tJail cell\t\t\tJr. Pumpkin (ch. 9)\nClothes\t\tMain Hall\t\t\tN/A\t\nBooks\t\tMinister's bedroom\t\tN/A\nTea cups\tMinister's bedroom\t\tN/A",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "ra-comments-1-1",
+      "type": "achievement",
+      "subject": "Juice Lockout",
+      "predicate": "missable_after",
+      "object": "Chapter 2 Juices",
+      "location": "Saladoria",
+      "requires": [],
+      "achievement_ids": [
+        98049,
+        98064,
+        98066
+      ],
+      "missable": true,
+      "text": "Buying juices in Chapter 2 locks you out of future achievements; do not buy juices on your primary playthrough.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "For your first playthrough do not buy any juices in chapter 2, buying them is incompatible with a few cheevos down the line",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-2",
+      "type": "achievement",
+      "subject": "Minister Pumpkin Warning",
+      "predicate": "triggers",
+      "object": "Game Over",
+      "location": "Minister's Bedroom",
+      "requires": [],
+      "achievement_ids": [
+        98088,
+        98092
+      ],
+      "missable": true,
+      "text": "Losing against Minister Pumpkin causes a game over, requiring a full restart if going for the no-passwords run.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "Especially Minister Pumpkin - losing against him is a game over, meaning you'll have to restart the whole game if you're aiming for the no passwords cheevo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-7-1",
+      "type": "achievement",
+      "subject": "Diospyros Command",
+      "predicate": "how_to_unlock",
+      "object": "Before Meeting Percy",
+      "location": "Starting Road",
+      "requires": [],
+      "achievement_ids": [
+        98041
+      ],
+      "missable": true,
+      "text": "Try using the peculiarly-named Diospyros command in the menu before ever talking to or meeting Percy.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#7",
+          "quote": "[ElMullet] Help Corner: Try using a certain command before ever meeting the guy it's tied to.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-11-1",
+      "type": "achievement",
+      "subject": "Chapter 1 Full Bag",
+      "predicate": "how_to_unlock",
+      "object": "Spinach Heights Items",
+      "location": "Spinach Heights",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "To collect every item in Chapter 1, find the Red Flower, Spinach, Gold Coin, Water, and Gate Pass.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "[ElMullet] Help Corner: There are five items to find in this chapter:\n\n1) Red Flower (Start)\n2) Spinach (Intersection)\n3) Gold Coin (Lake Quench, in the nest)\n4) Water (Lake Quench, has three uses, must be collected again after using it three times.)\n5) Gate Pass (Melon Patch)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-15-1",
+      "type": "achievement",
+      "subject": "Octoberry Coin",
+      "predicate": "how_to_unlock",
+      "object": "Main Street",
+      "location": "Main Street",
+      "requires": [],
+      "achievement_ids": [
+        98045
+      ],
+      "missable": true,
+      "text": "Very occasionally when you enter Main St Octoberry appears, check the street to find a coin and take it.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "[ElMullet] Help Corner: Very occasionally, when you enter Main St., Octoberry will appear and walk by. When he does, check the street to find a coin. Take it to pop the achievement.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-23-1",
+      "type": "achievement",
+      "subject": "Chapter 2 Route Strategy",
+      "predicate": "how_to_unlock",
+      "object": "Skip Juices First Run",
+      "location": "Saladoria",
+      "requires": [],
+      "achievement_ids": [
+        98049,
+        98064
+      ],
+      "missable": true,
+      "text": "Beat Chapter 2 without either grape juice or clover juice on the first playthrough to get future achievements, then replay with password.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#23",
+          "quote": "the most efficient way through the game is to beat this chapter without either of the juices (no Grape Juice, no Clover Juice), skipping this one achievement. That will get you the two future achievements basically for free. Then, use a password to come back to Chapter 2, and get this achievement by beating the chapter with all items, including the juices.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-31-1",
+      "type": "achievement",
+      "subject": "Jail Alarm",
+      "predicate": "how_to_unlock",
+      "object": "Police Station Hallway",
+      "location": "Police Station",
+      "requires": [],
+      "achievement_ids": [
+        98053
+      ],
+      "missable": true,
+      "text": "Hit the alarm outside the torture room to trigger being recaptured, and escape the same way again.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#31",
+          "quote": "[otteroli] Confirming -- Hit the alarm outside the torture room to trigger being recaptured. Escape the same way again.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-33-1",
+      "type": "achievement",
+      "subject": "Chapter 3 Full Bag",
+      "predicate": "how_to_unlock",
+      "object": "Police Station Items",
+      "location": "Police Station",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "Collect all Chapter 3 items including the File, Water, Key, Rope, Paper, Bucket, Soap Grenade, and Lantern.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#33",
+          "quote": "[ElMullet] Help Corner: Much easier chapter to find everything in than the last. Here's the list:\n\nFile (Start, gift from Potato)\nWater (Torture Room, can take some with you before you leave)\nKey (Torture Room, get recaptured and check the floor to find the key to escape again)\nRope (Storage Room)\nPaper (Storage Room)\nBucket (Storage Room)\nSoap Grenade (Jail Exterior, gift from Garlic Wanderer)\nLantern (Storage Room)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-42-1",
+      "type": "achievement",
+      "subject": "Farmie Battle",
+      "predicate": "how_to_unlock",
+      "object": "Look Down",
+      "location": "Parsley Forest",
+      "requires": [],
+      "achievement_ids": [
+        98058
+      ],
+      "missable": false,
+      "text": "To win Finger Wars against Farmie, press up to pick rock which beats scissors, then press down to look down matching his direction.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#42",
+          "quote": "[Aeravon] This happens so fast its easy to not understand. To win, I hit up to pick rock (which beat his scissors), then pressed down to look down which is the direction he looks. You have to do both parts to win.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-44-1",
+      "type": "achievement",
+      "subject": "Farmie Flawless",
+      "predicate": "how_to_unlock",
+      "object": "Down Pattern",
+      "location": "Parsley Forest",
+      "requires": [],
+      "achievement_ids": [
+        98059
+      ],
+      "missable": true,
+      "text": "To win against the Farmie without mistakes, just press Right, then Down.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#44",
+          "quote": "[YamalVSJamal] Simply put, just press Right, then Down",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-48-1",
+      "type": "achievement",
+      "subject": "Parsley Forest Full Bag",
+      "predicate": "how_to_unlock",
+      "object": "Compass, Tin Can, Shovel, Pouches",
+      "location": "Parsley Forest",
+      "requires": [],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Getting all items and pouches from the maze according to the StrategyWiki map triggers the achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#48",
+          "quote": "[YamalVSJamal] Can confirm that getting all items and pouches from the maze according to the StrategyWiki map triggers the achievement.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-52-1",
+      "type": "achievement",
+      "subject": "Saladron Flawless",
+      "predicate": "how_to_unlock",
+      "object": "Only Press Left",
+      "location": "Saladron's Lair",
+      "requires": [],
+      "achievement_ids": [
+        98063
+      ],
+      "missable": true,
+      "text": "To defeat Saladron in Finger Wars without mistakes, simply only press Left.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#52",
+          "quote": "[YamalVSJamal] Only press Left.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-54-1",
+      "type": "achievement",
+      "subject": "Grape Juice from Mr. Leek",
+      "predicate": "how_to_unlock",
+      "object": "Skip Chapter 2 Juice",
+      "location": "Outside Scary Tree",
+      "requires": [],
+      "achievement_ids": [
+        98064
+      ],
+      "missable": true,
+      "text": "Make sure you do not buy any grape juice in Chapter 2, otherwise you have to redo the whole game up to this point.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#54",
+          "quote": "[Spaghety] make sure you DON'T buy any grape juice in CH 2. otherwise you have to redo the whole game up to this point. not hard, but still annoying.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-58-1",
+      "type": "achievement",
+      "subject": "Clover Juice from Grapy",
+      "predicate": "how_to_unlock",
+      "object": "Grape Juice Trade",
+      "location": "Resistance Hallway",
+      "requires": [
+        "Grape Juice"
+      ],
+      "achievement_ids": [
+        98066
+      ],
+      "missable": true,
+      "text": "You can only be rewarded by Grapy with clover juice if you did not buy clover juice in Chapter 2.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#58",
+          "quote": "[Aeravon] You can only be rewarded by Grapy if you DIDN'T buy the Clover Juice in Chapter Two.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-60-1",
+      "type": "achievement",
+      "subject": "Arms Room Equipment",
+      "predicate": "how_to_unlock",
+      "object": "Nut Bomb and Black Bean",
+      "location": "Arms Room",
+      "requires": [],
+      "achievement_ids": [
+        98067
+      ],
+      "missable": true,
+      "text": "You have to take the black bean too from the arms room to get this achievement though it is a useless item.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#60",
+          "quote": "[RestInPepe] You have to take the black bean too from the arms room to get this cheevo though it's useless item",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-68-1",
+      "type": "achievement",
+      "subject": "Bananda Cave Coins",
+      "predicate": "how_to_unlock",
+      "object": "All 5 Pouches",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Lamp"
+      ],
+      "achievement_ids": [
+        98071
+      ],
+      "missable": true,
+      "text": "Make sure you find all 5 coin pouches in the cave for the achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#68",
+          "quote": "[KprojectsKurt] This activated when i took 4 out of the 5 coins inside the cave.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-72-1",
+      "type": "achievement",
+      "subject": "Hachisuke Code",
+      "predicate": "how_to_unlock",
+      "object": "Wordbook on Bee Statue",
+      "location": "Peanut Park",
+      "requires": [
+        "Wordbook"
+      ],
+      "achievement_ids": [
+        98073
+      ],
+      "missable": true,
+      "text": "You have to get the Wordbook from the store and use it to decipher the statue.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#72",
+          "quote": "[Aeravon] You have to get the Wordbook from the store and use it to decipher the statue. That's all.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-1",
+      "type": "achievement",
+      "subject": "War Melon Army Pattern",
+      "predicate": "how_to_unlock",
+      "object": "Down Right Right Left",
+      "location": "Dice-O-Matic",
+      "requires": [],
+      "achievement_ids": [
+        98075
+      ],
+      "missable": false,
+      "text": "Against the War Melon Army, input Down, Right, Right, Left to win.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "[YamalVSJamal] War Melon Army: Down, Right, Right, Left",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-78-1",
+      "type": "achievement",
+      "subject": "Chapter 6 Full Bag",
+      "predicate": "how_to_unlock",
+      "object": "Peanut Plateau Items",
+      "location": "Peanut Plateau",
+      "requires": [],
+      "achievement_ids": [
+        98076
+      ],
+      "missable": true,
+      "text": "Chapter 6 items include Carrot, Squid, Wordbook, Peanuts, Broom, Lamp, Skin, Coin pouches, Battery, Medicine, Chameleon Grass, and Right Half of Instructions.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#78",
+          "quote": "[YamalVSJamal] Carrot (Carrot Plateau)\nSquid (Convenience Store)\nWordbook (Convenience Store)\nPeanuts (Convenience Store) \nBroom (Convenience Store)\nLamp (Chief's House)\nSkin (Bananda's Cave)\nCoin pouches (all of them in Bananda's Cave)\nBattery (after saving Nutty)\nMedicine (Hermit's House)\nChameleon Grass (Big Tree)\nRight Half of Instructions (Big Tree)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-82-1",
+      "type": "achievement",
+      "subject": "Chapter 7 Full Bag",
+      "predicate": "how_to_unlock",
+      "object": "Sopville Items",
+      "location": "Sopville",
+      "requires": [],
+      "achievement_ids": [
+        98078
+      ],
+      "missable": true,
+      "text": "Give all coins away to the wanderer, then alternate Store and Bar until Octoberry walks by to grab coin, buy item, dispose of item, repeat.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#82",
+          "quote": "[Spaghety] Give all your coins away to the wanderer. Go in and out of Store, Bar, Store, Bar until Berry walks buy. Grab coin, buy item, dispose of item, repeat.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-85-1",
+      "type": "achievement",
+      "subject": "Yam and Asparagus Feeding",
+      "predicate": "how_to_unlock",
+      "object": "Bread and Juice",
+      "location": "Sopville Main Street",
+      "requires": [
+        "Bread",
+        "Juice"
+      ],
+      "achievement_ids": [
+        98080
+      ],
+      "missable": true,
+      "text": "Make sure you have two coins coming into Chapter 7 to buy bread for Yam and juice for Asparagus.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#85",
+          "quote": "[TheGameingChef] make sure you have 2 coins coming into this chapter",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-96-1",
+      "type": "achievement",
+      "subject": "Mama Monster Fight",
+      "predicate": "how_to_unlock",
+      "object": "Look Left",
+      "location": "Basement Maze",
+      "requires": [],
+      "achievement_ids": [
+        98086
+      ],
+      "missable": true,
+      "text": "Mama Monster always looks left during the look-away portion of Finger Wars.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#96",
+          "quote": "[Aeravon] In my playthroughs, she would repeat Rock-Rock-Paper. So counter with Paper-Paper-Scissors. When you win a throw, look left (the mama and papa monsters always look left).",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-100-1",
+      "type": "achievement",
+      "subject": "Minister Pumpkin Pattern",
+      "predicate": "how_to_unlock",
+      "object": "8 Move Sequence",
+      "location": "Minister's Bedroom",
+      "requires": [],
+      "achievement_ids": [
+        98088
+      ],
+      "missable": false,
+      "text": "Minister Pumpkin pattern: Paper, Paper, Rock, Scissors, Rock, Scissors, Scissors, Paper.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#100",
+          "quote": "[ZTZT] He has a pattern, which he repeats.  Use these moves, and guess which way he'll look.  And as a reminder, paper is right, rock is up, scissors is left.\n- Paper\n- Paper\n- Rock\n- Scissors\n- Rock\n- Scissors\n- Scissors\n- Paper",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-102-1",
+      "type": "achievement",
+      "subject": "Chapter 8 Full Bag",
+      "predicate": "how_to_unlock",
+      "object": "Castle Items",
+      "location": "Minister's Castle",
+      "requires": [],
+      "achievement_ids": [
+        98089
+      ],
+      "missable": true,
+      "text": "Chapter 8 items: Oil Pot, Pine Tar, Mirror, Chain, Letter, Coin, Water, Ornament, Caterpillar, Clothes, Books, Tea Cups.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#102",
+          "quote": "[CassetteCobra] Looking at the gamefaqs guide:\nOil Pot: Storage Room (Using it on Hallway Guard)\nPine Tar: Storage Room (No use, so dump it)\nMirror: Storage Room (No use, dump it)\nChain: Storage Room (Hallway Guard)\nLetter: Dark Room (No use, so dump after reading it)\nCoin: Dark Room in the third drawer of the desk (Give to Bell Pepper)\nWater: Garden (Required for Jail Cell)\nOrnament: Garden (Hallway Guard)\nCaterpillar: Jail Cell (Jr. Pumpkin)\nClothes: Main Hall (No use)\nBooks: Minister's bedroom (No use besides giving hints for maze)\nTea Cups: Ministers bedroom (no use)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-107-1",
+      "type": "achievement",
+      "subject": "One-Course Veggie Tale",
+      "predicate": "how_to_unlock",
+      "object": "Beat Game Without Passwords",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98092
+      ],
+      "missable": true,
+      "text": "As a warning to anyone attempting this achievement: if you lose versus Minister Pumpkin you will get a game over and have to re-run from the beginning.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#107",
+          "quote": "[tranquility101] As a warning to anyone attempting this achievement: if you lose the Rock-Paper-Scissors battle versus King Pumpkin you will get a game over and have to re-run the whole game again from the beginning... T__T",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "sw1-3-1",
+      "type": "mechanic",
+      "subject": "Text Adventure Interface",
+      "predicate": "how_to_unlock",
+      "object": "Fixed Screen Commands",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Princess Tomato in the Salad Kingdom plays similarly to a text adventure with possible commands represented by buttons which line both sides of the screen.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#3",
+          "quote": "_Princess Tomato in the Salad Kingdom_ plays similarly to a text adventure, though due to the NES's lack of a keyboard accessory, the possible commands are represented by buttons which line both sides of the screen.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-1",
+      "type": "item",
+      "subject": "Flower",
+      "predicate": "contains_item",
+      "object": "Starting Point",
+      "location": "Starting Point",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "At the starting point you have three gold coins and you may pick up the flower if you like.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "You have three gold coins. You may pick up the flower if you like.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-2",
+      "type": "npc",
+      "subject": "Percy",
+      "predicate": "located_in",
+      "object": "Celery Forest",
+      "location": "Celery Forest",
+      "requires": [],
+      "achievement_ids": [
+        98042
+      ],
+      "missable": false,
+      "text": "In the Celery Forest, talk to Percy when he is thirsty.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "Celery Forest | Percy | Talk | Percy is thirsty",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-3",
+      "type": "item",
+      "subject": "Water",
+      "predicate": "contains_item",
+      "object": "Lake Quench",
+      "location": "Lake Quench",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Take the water at Lake Quench and you will store up to three drinks of water in a pot.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "Take the Water | You will store up to three drinks of water in a pot.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-4",
+      "type": "item",
+      "subject": "Gold",
+      "predicate": "contains_item",
+      "object": "Lake Quench Nest",
+      "location": "Lake Quench",
+      "requires": [],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Check the nest in the tree at Lake Quench to find a gold coin that you can take.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "Check the Nest | You will find a gold coin in the nest that you can take.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-5",
+      "type": "event",
+      "subject": "Percy",
+      "predicate": "joins_party",
+      "object": "Sir Cucumber",
+      "location": "Celery Forest",
+      "requires": [
+        "Water"
+      ],
+      "achievement_ids": [
+        98042
+      ],
+      "missable": false,
+      "text": "Give water to Percy in Celery Forest, talk twice, and Percy will join you.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "Celery Forest | Percy | Give Water | Percy looks relieved. \nTalk ×2 | Percy tells you that his friends have been captured and need help. \nLook | Percy will join you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-6",
+      "type": "item",
+      "subject": "Pass",
+      "predicate": "contains_item",
+      "object": "Melon Patch",
+      "location": "Melon Patch",
+      "requires": [
+        "Water"
+      ],
+      "achievement_ids": [
+        98043
+      ],
+      "missable": true,
+      "text": "Give water to the four melons in the Melon Patch, and the melons will give you the pass to enter the town.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "Melon Patch | Nappa, Cantalop, Hon Dew, Wat Mel | Give water | All four melons will be revived. \nTalk to Cantalop | You will receive a pass to enter Saladoria Town.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-9-7",
+      "type": "event",
+      "subject": "Town Gate Guard",
+      "predicate": "triggers",
+      "object": "Saladoria",
+      "location": "Town Gate",
+      "requires": [
+        "Pass"
+      ],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "Ask Percy for advice at the gate, wait for the guard to fall asleep, and pass through the gate into town.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#9",
+          "quote": "Percy tells you that the guard sometimes falls asleep. \nGo back and return | Keep leaving and returning until you catch the guard asleep. \nMove: Advance | You will enter the town.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-1",
+      "type": "npc",
+      "subject": "Garlic Wanderer",
+      "predicate": "located_in",
+      "object": "Orange Park",
+      "location": "Orange Park",
+      "requires": [],
+      "achievement_ids": [
+        98046
+      ],
+      "missable": false,
+      "text": "Orange Park with the garlic wanderer is the starting point in Saladoria Town.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Orange Park | Garlic wanderer | | This is the starting point in Saladoria Town",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-2",
+      "type": "quest",
+      "subject": "Letter",
+      "predicate": "contains_item",
+      "object": "Antique Shop",
+      "location": "Antique Shop",
+      "requires": [],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Mr. Pear asks if you will deliver a letter to Miss Peachy at the Deli.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Now he will ask if you will do him a favor, and deliver a letter to Miss Peachy at the Deli.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-3",
+      "type": "item",
+      "subject": "Sandwich",
+      "predicate": "contains_item",
+      "object": "Deli",
+      "location": "Deli",
+      "requires": [
+        "Letter"
+      ],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Give the letter to Miss Peachy and she will thank you by giving you a sandwich in return.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Deli | Miss Peachy | Give the Letter | Miss Peachy will thank you for delivering the letter by giving you a sandwich in return.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-4",
+      "type": "item",
+      "subject": "Coin",
+      "predicate": "contains_item",
+      "object": "Main Street",
+      "location": "Main Street",
+      "requires": [],
+      "achievement_ids": [
+        98045,
+        98049
+      ],
+      "missable": true,
+      "text": "When you notice an Octoberry crawl across the street, check the street to find a coin and then pick it up.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Main Street | Octoberry | Check the Street | When you notice an Octoberry crawl across the street, check the street to find a coin and then pick it up. \nTake the Coin",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-5",
+      "type": "item",
+      "subject": "Coffee",
+      "predicate": "sold_at",
+      "object": "Coffee Shop",
+      "location": "Coffee Shop",
+      "requires": [
+        "Coin"
+      ],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "Purchase a cup of coffee with your Saladorian coins from Mrs. Plum at the Coffee Shop.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Coffe Shop | Mrs. Plum | Buy a Coffee | Purchase a cup of coffee with your Saladorian coins.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-6",
+      "type": "item",
+      "subject": "Donut",
+      "predicate": "contains_item",
+      "object": "Cabaret Restroom",
+      "location": "Cabaret Celery",
+      "requires": [
+        "Coin"
+      ],
+      "achievement_ids": [
+        98049
+      ],
+      "missable": true,
+      "text": "You will find a Donut in the trash can in the Cabaret bathroom that you can take.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Check the Trash ×2 | After checking the trash can a bit, you will find a donut (matches). Pick it up before you leave. \nTake the Donut",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-7",
+      "type": "item",
+      "subject": "Aspirin",
+      "predicate": "contains_item",
+      "object": "Pharmacy",
+      "location": "Pharmacy",
+      "requires": [],
+      "achievement_ids": [
+        98047,
+        98049
+      ],
+      "missable": false,
+      "text": "At the Pharmacy, talk to Mr. Fig twice and he will give you a bottle of Aspirin.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Pharmacy | Mr. Fig | Talk ×2 | Mr. Fig will not hesitate to give you aspirin to cure the resistance leader's headache",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-11-8",
+      "type": "item",
+      "subject": "Key",
+      "predicate": "contains_item",
+      "object": "Bookshop Counter",
+      "location": "Bookshop",
+      "requires": [],
+      "achievement_ids": [
+        98048,
+        98049
+      ],
+      "missable": true,
+      "text": "Check the Counter in the Bookshop to find a key, and take the key before exiting the shop.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#11",
+          "quote": "Check the Counter | You will find a key. Take the key, and then exit the shop. When you step outside, government officials will be waiting for you an arrest you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-14-1",
+      "type": "item",
+      "subject": "File",
+      "predicate": "contains_item",
+      "object": "Jail Cell",
+      "location": "Jail Cell",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "In the jail cell, hit Potato to obtain the file.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#14",
+          "quote": "Hit the Potato | Potato will refuse to offer any useful advice until you get tough with him. \nTalk to Potato | He will give you a file.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-14-2",
+      "type": "event",
+      "subject": "Interrogation Room",
+      "predicate": "leads_to",
+      "object": "Interrogation Room",
+      "location": "Police Station",
+      "requires": [
+        "File"
+      ],
+      "achievement_ids": [
+        98051
+      ],
+      "missable": false,
+      "text": "Use the file to escape the cell and be brought to the interrogation room with Sgt. Pepper.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#14",
+          "quote": "Use the File | You attempt to use the file to escape from the jail, but you get caught in the process and get taken to the interrogation room.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-14-3",
+      "type": "event",
+      "subject": "Torture Room Door",
+      "predicate": "triggers",
+      "object": "Hallway",
+      "location": "Torture Room",
+      "requires": [
+        "Key"
+      ],
+      "achievement_ids": [
+        98052
+      ],
+      "missable": false,
+      "text": "Hit the door twice to make Sgt. Pepper leave the room, then use the key to escape.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#14",
+          "quote": "Hit the door ×3 | The first hit won't do anything, but the second one will convince Sgt. Pepper that you are assuredly trapped, and he will walk away. A third hit will indicate that the door rattled.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-14-4",
+      "type": "item",
+      "subject": "Fake Grenade",
+      "predicate": "contains_item",
+      "object": "Garlic Wanderer",
+      "location": "Prison Door",
+      "requires": [
+        "Donut"
+      ],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "Talk to Garlic wanderer twice at the prison door to receive a fake grenade carved out of soap.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#14",
+          "quote": "Prison door |  | Talk to Garlic ×2 | The Garlic wanderer will give you a fake grenade that he carved out of a piece of soap.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-14-5",
+      "type": "item",
+      "subject": "Rope and Lantern",
+      "predicate": "contains_item",
+      "object": "Storage Room",
+      "location": "Storage Room",
+      "requires": [],
+      "achievement_ids": [
+        98054
+      ],
+      "missable": true,
+      "text": "Take the lantern from the closet and use the lantern to blend in with the guards to escape.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#14",
+          "quote": "Closet | | Take the Lantern | The next time you visit the closet, you will notice a lantern that you didn't see before. \nExit | Guards | Use the Lantern | By making use of the lantern, you will resemble the guards just enough to blend in with the crowd.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-17-1",
+      "type": "item",
+      "subject": "Umbrella",
+      "predicate": "contains_item",
+      "object": "Lake Quench Bush",
+      "location": "Lake Quench",
+      "requires": [],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Check the bush at Lake Quench to find an umbrella.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#17",
+          "quote": "Check the Bush ×2 | The first time you check, you will be distracted by the fern birds. Check again, and you will notice a blue umbrella. Grab it before you return to the crossroads.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-17-2",
+      "type": "npc",
+      "subject": "Mole",
+      "predicate": "located_in",
+      "object": "Melon Patch",
+      "location": "Melon Patch",
+      "requires": [
+        "Umbrella"
+      ],
+      "achievement_ids": [
+        98056
+      ],
+      "missable": false,
+      "text": "Check the 3rd hole twice and use the umbrella to uncover the mole in the Melon Patch.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#17",
+          "quote": "Check 3rd Hole ×2 | This hole is deeper than the others, and turns out to be a mole hole. \nMole hole |  | Use Umbrella | By creating some shade, a mole will appear.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-17-3",
+      "type": "item",
+      "subject": "Water Wings",
+      "predicate": "contains_item",
+      "object": "Stream Shack",
+      "location": "Stream",
+      "requires": [
+        "Umbrella"
+      ],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Giving Mr. Leek his umbrella will prompt him to give Percy water wings in return so you can cross the river.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#17",
+          "quote": "Give Umbrella | Giving Mr. Leek his umbrella will prompt him to give Percy water wings in return. Now you can cross the river.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-17-4",
+      "type": "boss",
+      "subject": "Farmie",
+      "predicate": "defeated_by",
+      "object": "Finger Wars",
+      "location": "Parsley Forest",
+      "requires": [],
+      "achievement_ids": [
+        98058,
+        98059
+      ],
+      "missable": true,
+      "text": "Defeat the Farmie in Finger Wars; if you beat him in Rock-Paper-Scissors, he always looks down.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#17",
+          "quote": "Beyond the river | Farmie | Fight | When you cross the river, you will encounter a Farmie. You will not be able to escape from him. The only way to get away is to defeat him in a battle of Finger Wars. This will be your first battle. In truth, it is a very easy battle. If you manage to beat him in the Rock-Paper-Scissors portion, he will always look down, so always choose down to beat him.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-18-1",
+      "type": "boss",
+      "subject": "Saladron",
+      "predicate": "defeated_by",
+      "object": "Tin Can and Scissors",
+      "location": "Sacred Tree",
+      "requires": [
+        "Tin Can"
+      ],
+      "achievement_ids": [
+        98062,
+        98063
+      ],
+      "missable": true,
+      "text": "Throwing the Tin Can inside the tree will awaken Saladron; Saladron always chooses paper, so always choose scissors.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#18",
+          "quote": "Sacred Tree | | Use the Tin Can | Throwing the Tin Can inside the tree will awaken the monster known as Saladron. \nSaladron | Fight | The fight against Saladron is even easier than the fight with the Farmie. Saladron always chooses paper, so you should always choose scissors.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-18-2",
+      "type": "item",
+      "subject": "Medal",
+      "predicate": "contains_item",
+      "object": "Scary Tree Altar",
+      "location": "Sacred Tree",
+      "requires": [
+        "Shovel"
+      ],
+      "achievement_ids": [
+        98061
+      ],
+      "missable": true,
+      "text": "Examine the medal you find to confirm that it is the Yam Medallion.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#18",
+          "quote": "Check Medal | You must first examine the medal you find to confirm that it is the Yam Medallion.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-18-3",
+      "type": "item",
+      "subject": "Grape Juice",
+      "predicate": "contains_item",
+      "object": "Mr. Leek",
+      "location": "Sacred Tree",
+      "requires": [
+        "Medal"
+      ],
+      "achievement_ids": [
+        98060,
+        98064
+      ],
+      "missable": true,
+      "text": "Mr. Leek will agree to take you to the resistance base, and he will give you a bottle of grape juice.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#18",
+          "quote": "Mr. Leek will thank you for defeating Saladron and reclaiming the Yam Medallion. He will agree to take you to the resistance base, and he will give you a bottle of grape juice.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-20-1",
+      "type": "item",
+      "subject": "Crest",
+      "predicate": "contains_item",
+      "object": "General Cantaloupe",
+      "location": "Meeting Room",
+      "requires": [
+        "Aspirin",
+        "Medal"
+      ],
+      "achievement_ids": [
+        98065
+      ],
+      "missable": false,
+      "text": "The general asks for your help with rescuing the princess, and presents you with the crest of the resistance.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#20",
+          "quote": "General Cantaloupe | Talk | The general asks for you help with rescuing the princess, and presents you with the crest of the resistance.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-20-2",
+      "type": "item",
+      "subject": "Clover Juice",
+      "predicate": "contains_item",
+      "object": "Grapy",
+      "location": "Resistance Base",
+      "requires": [
+        "Grape Juice"
+      ],
+      "achievement_ids": [
+        98066
+      ],
+      "missable": true,
+      "text": "Give Grape Juice to Grapy, and he will thank you and give you Clover Juice in return.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#20",
+          "quote": "Give Grape Juice | He will thank you and give you Clover Juice in return.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-20-3",
+      "type": "item",
+      "subject": "Nut Bomb and Black Bean",
+      "predicate": "contains_item",
+      "object": "Arms Room",
+      "location": "Arms Room",
+      "requires": [
+        "Pendant"
+      ],
+      "achievement_ids": [
+        98067
+      ],
+      "missable": true,
+      "text": "Take Nut Bomb and take Black Bean from the Arms Room shelves.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#20",
+          "quote": "Take Nut Bomb | You will grab one of the nut bombs. \nTake Black Bean | You will take some, but you will be told that they can only be used with the cannon",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-22-1",
+      "type": "missable",
+      "subject": "Hudson Bee Statue",
+      "predicate": "triggers",
+      "object": "Peanut Park",
+      "location": "Peanut Park",
+      "requires": [
+        "Wordbook"
+      ],
+      "achievement_ids": [
+        98073
+      ],
+      "missable": true,
+      "text": "Use the wordbook from the convenience store to read the characters below the statue in the park.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#22",
+          "quote": "wordbook if you wish to read the characters below the statue in the park.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-22-2",
+      "type": "boss",
+      "subject": "Bananda",
+      "predicate": "defeated_by",
+      "object": "Nut Bomb",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Nut Bomb"
+      ],
+      "achievement_ids": [
+        98070
+      ],
+      "missable": false,
+      "text": "After taking a few steps into the maze you encounter Bananda; you can easily destroy it by using a Nut Bomb.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#22",
+          "quote": "After taking only a few steps into the maze, you will encounter Bananada. You can't hit or fight it, but you can easily destroy it by using a Nut Bomb.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-22-3",
+      "type": "item",
+      "subject": "Battery",
+      "predicate": "contains_item",
+      "object": "Chief's House",
+      "location": "Chief's House",
+      "requires": [
+        "Nutty Rescued"
+      ],
+      "achievement_ids": [
+        98072
+      ],
+      "missable": false,
+      "text": "As a reward for saving Nutty, the chief will give you a battery that can power the Dice-O-Matic.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#22",
+          "quote": "As a reward for saving Nutty, the chief will give you a batter that can power the Dice-O-Matic.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-23-1",
+      "type": "item",
+      "subject": "Coins",
+      "predicate": "contains_item",
+      "object": "Bananda's Cave",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Lamp"
+      ],
+      "achievement_ids": [
+        98071,
+        98076
+      ],
+      "missable": true,
+      "text": "There are five pouches in Bananda's cave, all of which contain one gold coin.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#23",
+          "quote": "There are five pouches here, all of which contain one gold coin. Collecting them is really optional.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-23-2",
+      "type": "event",
+      "subject": "Dice-O-Matic",
+      "predicate": "requires",
+      "object": "Medal and Battery",
+      "location": "Bananda's Cave",
+      "requires": [
+        "Medal",
+        "Battery"
+      ],
+      "achievement_ids": [
+        98074
+      ],
+      "missable": false,
+      "text": "The Yam Medallion fits the indentation in the door which unlocks it and allows you to enter.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#23",
+          "quote": "The medallion fits the indentation in the door which unlocks it and allows you to enter.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-23-3",
+      "type": "boss",
+      "subject": "War Melon Army",
+      "predicate": "defeated_by",
+      "object": "Look Away",
+      "location": "Dice-O-Matic Cockpit",
+      "requires": [
+        "Dice-O-Matic"
+      ],
+      "achievement_ids": [
+        98075
+      ],
+      "missable": false,
+      "text": "In Finger Wars the enemy usually alternates between looking right and left, so be sure to choose left or right.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#23",
+          "quote": "The enemy usually alternates between looking right and left, so if you beat them at Rock-Paper-Scissors, be sure to choose left or right, and never up or down.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-25-1",
+      "type": "event",
+      "subject": "Yam and Aspara",
+      "predicate": "requires",
+      "object": "Bread and Juice",
+      "location": "Sopville Main Street",
+      "requires": [
+        "Bread",
+        "Juice"
+      ],
+      "achievement_ids": [
+        98080
+      ],
+      "missable": true,
+      "text": "Buy juice at the general store and give it to Aspara, or buy bread and give it to Yam, to open access to Pea Street.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#25",
+          "quote": "buy juice at the general store and give it to Aspara, or buy bread and give it to Yam, to open access to Pea Street.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-25-2",
+      "type": "item",
+      "subject": "Key",
+      "predicate": "contains_item",
+      "object": "Bar",
+      "location": "Sopville Bar",
+      "requires": [
+        "Crest"
+      ],
+      "achievement_ids": [
+        98078
+      ],
+      "missable": true,
+      "text": "Radish Ron tells you that he found a key to a room in the castle and gives the key to you.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#25",
+          "quote": "He tells you that he found a key to a room in the castle. Since you're on your way there, he gives the key to you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-25-3",
+      "type": "event",
+      "subject": "Castle Secret Passage",
+      "predicate": "leads_to",
+      "object": "Minister's Castle",
+      "location": "Pea Street",
+      "requires": [
+        "Shovel"
+      ],
+      "achievement_ids": [
+        98079
+      ],
+      "missable": false,
+      "text": "The old lady confirms that a passage has indeed been dug to the castle and advises bringing a tool.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#25",
+          "quote": "The old lady will confirm that a passage has indeed been dug to the castle. She will advise you to bring a tool because it's incomplete.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-28-1",
+      "type": "item",
+      "subject": "Oil Jar and Chain",
+      "predicate": "contains_item",
+      "object": "Storage Closet",
+      "location": "Storage Closet",
+      "requires": [],
+      "achievement_ids": [
+        98089
+      ],
+      "missable": true,
+      "text": "Check the closet to notice a jar of oil and some pine tar, then take the chain.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#28",
+          "quote": "Check the vicinity | You will notice a jar of oil and some pine tar. \nTake the oil jar | Percy will tell you that he does not know which will come in handy, but it does not matter, you need to take them in order to see what is beneath them. \nTake the pine tar \nLook | Now that you've taken the jars, you will notice a few more items, a chain and a mirror. \nTake the chain",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-28-2",
+      "type": "event",
+      "subject": "Percy",
+      "predicate": "triggers",
+      "object": "Ornament in Pond",
+      "location": "Castle Garden Pond",
+      "requires": [
+        "Water Wings"
+      ],
+      "achievement_ids": [
+        98081,
+        98089
+      ],
+      "missable": false,
+      "text": "Use the Water Wings so Percy stops drowning, and notice an ornament at the bottom of the pond for Percy to retrieve.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#28",
+          "quote": "Use the Water Wings | Percy will stop drowning, and notice an ornament at the bottom of the pond. Percy will retrieve it for you. \nTake the Water | Percy will collect some water for you.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-28-3",
+      "type": "boss",
+      "subject": "Hallway Guard",
+      "predicate": "defeated_by",
+      "object": "Oil Jar and Chain",
+      "location": "Rear Hallway",
+      "requires": [
+        "Oil Jar",
+        "Chain",
+        "Ornament"
+      ],
+      "achievement_ids": [
+        98082
+      ],
+      "missable": false,
+      "text": "The guard will slip on the oil and get knocked unconscious, and you tie up the guard with the chain.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#28",
+          "quote": "Guard | Use the Oil Jar | The guard will slip on the oil and get knocked unconscious. \nUse the chain | You will tie up the guard with the chain, and be able to proceed without getting caught.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-28-4",
+      "type": "item",
+      "subject": "Caterpillar",
+      "predicate": "contains_item",
+      "object": "Prison Cell",
+      "location": "Prison Cell",
+      "requires": [],
+      "achievement_ids": [
+        98089
+      ],
+      "missable": true,
+      "text": "Examine Lettuce in the prison cell to find a caterpillar that he will give to you.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#28",
+          "quote": "Check Lettuce | Lettuce is dirty and when you examine him, you will find a caterpillar. \nTalk to Lettuce | He will offer to give the caterpillar to you. \nTake the caterpillar | You will hold on to it for later.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-28-5",
+      "type": "npc",
+      "subject": "Princess Tomato",
+      "predicate": "located_in",
+      "object": "Princess' Chambers",
+      "location": "Princess' Chambers",
+      "requires": [
+        "Chameleon Grass",
+        "Crest"
+      ],
+      "achievement_ids": [
+        98083
+      ],
+      "missable": false,
+      "text": "Use the Strange Grass on Granny Tomato, and it will have the effect of revealing her true identity as Princess Tomato.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#28",
+          "quote": "use the Strange Grass on Granny Tomato, and it will have the effect of revealing her true identity. \nPrincess Tomato | Talk ×2 | Her true identity revealed",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-28-6",
+      "type": "boss",
+      "subject": "Fancy Door Guard",
+      "predicate": "defeated_by",
+      "object": "Look Up",
+      "location": "Minister's Door",
+      "requires": [],
+      "achievement_ids": [
+        98084
+      ],
+      "missable": false,
+      "text": "Defeat the Eggplant soldier in Finger Wars to advance to the room beyond the door; the soldier always looks up.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#28",
+          "quote": "Defeat the Eggplant soldier in Finger Wars to advance to the room beyond the door. The Eggplant soldier's weakness is that he always look up.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-29-1",
+      "type": "npc",
+      "subject": "Baby Monster",
+      "predicate": "located_in",
+      "object": "Dungeon Basement",
+      "location": "Dungeon",
+      "requires": [],
+      "achievement_ids": [
+        98085
+      ],
+      "missable": false,
+      "text": "In the dungeon basement, find the location where you will find the baby monster.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#29",
+          "quote": "**B** : This is the location where you will find the baby monster.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-29-2",
+      "type": "boss",
+      "subject": "Mama Monster",
+      "predicate": "defeated_by",
+      "object": "Look Left",
+      "location": "Dungeon",
+      "requires": [],
+      "achievement_ids": [
+        98086
+      ],
+      "missable": true,
+      "text": "The mother monster always looks left if defeated in the rock-paper-scissors portion of Finger Wars.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#29",
+          "quote": "The mother monster starts with three \"points,\" and always looks left if defeated in the rock-paper-scissors portion of Finger Wars.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-29-3",
+      "type": "boss",
+      "subject": "Papa Monster",
+      "predicate": "defeated_by",
+      "object": "Look Left",
+      "location": "Dungeon",
+      "requires": [
+        "Baby Monster"
+      ],
+      "achievement_ids": [
+        98087
+      ],
+      "missable": false,
+      "text": "Like the Mama Monster, the Papa Monster will only ever look left in Finger Wars.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#29",
+          "quote": "Like the Mama Monster, the Papa Monster will only ever look left. Other than having to defeat it more times to win, it is the same.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-29-4",
+      "type": "boss",
+      "subject": "Minister Pumpkin",
+      "predicate": "defeated_by",
+      "object": "Battle Sequence",
+      "location": "Minister's Bedroom",
+      "requires": [],
+      "achievement_ids": [
+        98088
+      ],
+      "missable": false,
+      "text": "To counter Minister Pumpkin's sequence, use paper, paper, rock, scissors, rock, scissors, scissors, paper.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#29",
+          "quote": "To counter this sequence, all you must do is use paper, paper, rock, scissors, rock, scissors, scissors, paper, and so on until you defeat him.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-29-5",
+      "type": "event",
+      "subject": "Princess Tomato",
+      "predicate": "triggers",
+      "object": "Escape Compound",
+      "location": "Castle Garden",
+      "requires": [
+        "Defeat Minister Pumpkin"
+      ],
+      "achievement_ids": [
+        98090
+      ],
+      "missable": false,
+      "text": "Move to the garden exit to escape from the minister's compound and return to safety with the princess.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#29",
+          "quote": "Garden | | Move to exit | You will escape from the minister's compound and return to safety with the princess.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-32-1",
+      "type": "boss",
+      "subject": "Junior Pumpkin",
+      "predicate": "defeated_by",
+      "object": "Caterpillar",
+      "location": "Celebration Festival",
+      "requires": [
+        "Caterpillar"
+      ],
+      "achievement_ids": [
+        98091
+      ],
+      "missable": false,
+      "text": "Because Junior Pumpkin is allergic to caterpillars, use the caterpillar to frighten him so he drops the Turnip Emblem.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#32",
+          "quote": "Use the Caterpillar | Because Junior Pumpkin is allergic to caterpillars (or perhaps more precisely, he has a phobia of them,) he will become frightened and panic. He will run away and drop the Turnip Emblem in the process.",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-1-1",
+      "type": "tip",
+      "subject": "Game Overview",
+      "predicate": "describes",
+      "object": "Salad Kingdom",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "Princess Tomato in the Salad Kingdom includes gameplay commands and walkthrough progression.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#1",
+          "quote": "[Gameplay](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Gameplay \"Princess Tomato in the Salad Kingdom/Gameplay\")",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-2-1",
+      "type": "tip",
+      "subject": "King Broccoli",
+      "predicate": "betrayed_by",
+      "object": "Minister Pumpkin",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "Minister Pumpkin betrayed King Broccoli, kidnapped Princess Tomato, and stole the Turnip Emblem.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#2",
+          "quote": "One day, Minister Pumpkin betrayed King Broccoli. He kidnapped Princess Tomato and stole the Turnip Emblem.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-4-1",
+      "type": "tip",
+      "subject": "Chapter Progression",
+      "predicate": "leads_to",
+      "object": "Chapter 2",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "The walkthrough covers Chapter 1 and Chapter 2 in sequence.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#4",
+          "quote": "[Chapter 1](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_1 \"Princess Tomato in the Salad Kingdom/Chapter 1\") \n  * [Chapter 2](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_2 \"Princess Tomato in the Salad Kingdom/Chapter 2\")",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-7-1",
+      "type": "tip",
+      "subject": "Prologue Lore",
+      "predicate": "links_to",
+      "object": "Salad Kingdom",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "The prologue links Princess Tomato in the Salad Kingdom background lore.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#7",
+          "quote": "[What links here](/wiki/Special:WhatLinksHere/Princess_Tomato_in_the_Salad_Kingdom/Prologue",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-8-1",
+      "type": "map",
+      "subject": "Chapter 1 Map",
+      "predicate": "connects",
+      "object": "Spinach Heights",
+      "location": "Spinach Heights",
+      "requires": [],
+      "achievement_ids": [
+        98044
+      ],
+      "missable": false,
+      "text": "Chapter 1 map connects Parsley Forest, Crossroads, and Lake Quench.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#8",
+          "quote": "Parsley Forest \n[](/wiki/File:PTitSK_Ch1_f.gif) | →← | Crossroads \n[](/wiki/File:PTitSK_Ch1_c.gif) | →← | Lake Quench",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-10-1",
+      "type": "map",
+      "subject": "Chapter 2 Map",
+      "predicate": "connects",
+      "object": "Saladoria",
+      "location": "Saladoria",
+      "requires": [],
+      "achievement_ids": [
+        98050
+      ],
+      "missable": false,
+      "text": "Chapter 2 map connects Orange Park and Mountain Side in Saladoria.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#10",
+          "quote": "Orange Park \n[](/wiki/File:PTitSK_Ch2_a.gif) | →← | Mountain Side",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-12-1",
+      "type": "tip",
+      "subject": "Chapter 2 Transition",
+      "predicate": "leads_to",
+      "object": "Chapter 2",
+      "location": "Saladoria",
+      "requires": [],
+      "achievement_ids": [
+        98050
+      ],
+      "missable": false,
+      "text": "Chapter 1 leads directly to Chapter 2 in the walkthrough sequence.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#12",
+          "quote": "[Chapter 1](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_1 \"Princess Tomato in the Salad Kingdom/Chapter 1\") \n  *   * Chapter 2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-13-1",
+      "type": "map",
+      "subject": "Chapter 3 Map",
+      "predicate": "connects",
+      "object": "Police Station",
+      "location": "Police Station",
+      "requires": [],
+      "achievement_ids": [
+        98055
+      ],
+      "missable": false,
+      "text": "Chapter 3 map connects Jail cell door, Office door, and Closet door.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#13",
+          "quote": "Jail cell door \n[](/wiki/File:PTitSK_Ch3_d.gif) | →← | Office door \n[](/wiki/File:PTitSK_Ch3_e.gif) | →← | Closet door",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-15-1",
+      "type": "tip",
+      "subject": "Chapter 3 Walkthrough",
+      "predicate": "describes",
+      "object": "Escape",
+      "location": "Police Station",
+      "requires": [],
+      "achievement_ids": [
+        98055
+      ],
+      "missable": false,
+      "text": "The StrategyWiki walkthrough guides Princess Tomato in the Salad Kingdom through Chapter 3.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#15",
+          "quote": "[Walkthrough](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Walkthrough \"Princess Tomato in the Salad Kingdom/Walkthrough\")",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-16-1",
+      "type": "map",
+      "subject": "Chapter 4 Map",
+      "predicate": "connects",
+      "object": "Spinach Heights",
+      "location": "Spinach Heights",
+      "requires": [],
+      "achievement_ids": [
+        98060
+      ],
+      "missable": false,
+      "text": "Chapter 4 map features the river crossing path.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#16",
+          "quote": "River \n[](/wiki/File:PTitSK_Ch4_d.gif)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-19-1",
+      "type": "map",
+      "subject": "Chapter 5 Map",
+      "predicate": "connects",
+      "object": "Resistance Base",
+      "location": "Resistance Base",
+      "requires": [],
+      "achievement_ids": [
+        98068
+      ],
+      "missable": false,
+      "text": "Chapter 5 map connects Arms room and Meeting room door.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#19",
+          "quote": "Arms room \n[](/wiki/File:PTitSK_Ch5_h.gif) |  | Meeting room door",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-21-1",
+      "type": "tip",
+      "subject": "Chapter 6 Transition",
+      "predicate": "leads_to",
+      "object": "Chapter 7",
+      "location": "Peanut Plateau",
+      "requires": [],
+      "achievement_ids": [
+        98077
+      ],
+      "missable": false,
+      "text": "Chapter 6 leads into Chapter 7 during the journey through Salad Kingdom.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#21",
+          "quote": "* [Chapter 6](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_6 \"Princess Tomato in the Salad Kingdom/Chapter 6\") \n  * [Chapter 7](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_7 \"Princess Tomato in the Salad Kingdom/Chapter 7\")",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-24-1",
+      "type": "tip",
+      "subject": "Chapter 7 Transition",
+      "predicate": "leads_to",
+      "object": "Chapter 8",
+      "location": "Sopville",
+      "requires": [],
+      "achievement_ids": [
+        98079
+      ],
+      "missable": false,
+      "text": "Chapter 7 connects into Chapter 8 for the infiltration of the castle.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#24",
+          "quote": "* [Chapter 7](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_7 \"Princess Tomato in the Salad Kingdom/Chapter 7\") \n  * [Chapter 8](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_8 \"Princess Tomato in the Salad Kingdom/Chapter 8\")",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-26-1",
+      "type": "tip",
+      "subject": "Chapter 7 Journey",
+      "predicate": "leads_to",
+      "object": "Sopville",
+      "location": "Sopville",
+      "requires": [],
+      "achievement_ids": [
+        98079
+      ],
+      "missable": false,
+      "text": "Progression moves from Chapter 6 into Chapter 7 in Sopville.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#26",
+          "quote": "[Chapter 6](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Chapter_6 \"Princess Tomato in the Salad Kingdom/Chapter 6\") \n  *   * Chapter 7",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-27-1",
+      "type": "map",
+      "subject": "Chapter 8 Map",
+      "predicate": "connects",
+      "object": "Minister Castle",
+      "location": "Minister's Castle",
+      "requires": [],
+      "achievement_ids": [
+        98090
+      ],
+      "missable": false,
+      "text": "Chapter 8 map begins in the secret passage beneath the castle.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#27",
+          "quote": "Secret passage \n[](/wiki/File:PTitSK_Ch8_p.gif)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-30-1",
+      "type": "tip",
+      "subject": "Chapter 8 Walkthrough",
+      "predicate": "describes",
+      "object": "Castle Infiltration",
+      "location": "Minister's Castle",
+      "requires": [],
+      "achievement_ids": [
+        98090
+      ],
+      "missable": false,
+      "text": "Gameplay and walkthrough progression continue through Chapter 8.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#30",
+          "quote": "[Gameplay](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Gameplay \"Princess Tomato in the Salad Kingdom/Gameplay\") \n\n[Walkthrough](/wiki/Princess_Tomato_in_the_Salad_Kingdom/Walkthrough",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-31-1",
+      "type": "tip",
+      "subject": "Chapter 9 Finale",
+      "predicate": "concludes",
+      "object": "Salad Kingdom",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98091
+      ],
+      "missable": false,
+      "text": "Chapter 9 represents the final climax of Princess Tomato in the Salad Kingdom.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#31",
+          "quote": "# Princess Tomato in the Salad Kingdom/Chapter 9",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    },
+    {
+      "id": "sw1-35-1",
+      "type": "tip",
+      "subject": "StrategyWiki Coverage",
+      "predicate": "documents",
+      "object": "Salad Kingdom",
+      "location": "Salad Kingdom",
+      "requires": [],
+      "achievement_ids": [
+        98091
+      ],
+      "missable": false,
+      "text": "The StrategyWiki table of contents provides coverage for Princess Tomato in the Salad Kingdom.",
+      "evidence": [
+        {
+          "source_id": "sw1",
+          "chunk_id": "sw1#35",
+          "quote": "* [Princess Tomato in the Salad Kingdom](/wiki/Princess_Tomato_in_the_Salad_Kingdom)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "sw1"
+      ]
+    }
+  ]
+}

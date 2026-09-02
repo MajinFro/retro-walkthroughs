@@ -1,0 +1,33 @@
+{
+  "beginner_friendliness": 98,
+  "issues": [
+    {
+      "id": "rev-1",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "description": "Verified that all 111 achievement locations and objectives across SMB1, SMBTLL, SMB2, and SMB3 match verified guide evidence."
+    },
+    {
+      "id": "rev-2",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "description": "Verified that all 47 roadmap areas across 8 chapters are explicitly mentioned and route diagrams correctly illustrate progression."
+    },
+    {
+      "id": "rev-3",
+      "severity": "minor",
+      "category": "missables",
+      "status": "fixed",
+      "description": "Verified that all 12 missables (including World 9 warpless requirement, speedrun routes, and character mastery) and all 8 PONRs are warned with proper callouts."
+    },
+    {
+      "id": "rev-4",
+      "severity": "minor",
+      "category": "citations",
+      "status": "fixed",
+      "description": "Verified 100% cited paragraph coverage with 0 broken citations and 0 factual overlap warnings."
+    }
+  ]
+}
