@@ -1,0 +1,1360 @@
+{
+  "nodes": [
+    {
+      "id": "Boot_Screen",
+      "label": "PlayStation Boot Screen",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-2",
+        "ra-comments-9-1"
+      ]
+    },
+    {
+      "id": "Galaga_MiniGame",
+      "label": "Galaga Boot Mini-Game",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-18-2",
+        "gf3-1-2",
+        "ra-comments-11-1"
+      ]
+    },
+    {
+      "id": "Game_Options",
+      "label": "Main Menu & Game Options",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-1",
+        "ra-comments-8-1"
+      ]
+    },
+    {
+      "id": "VS_Mode",
+      "label": "Versus Mode (Combo Practice)",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-5-1",
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "id": "Arcade_Mode",
+      "label": "Arcade Mode Ladder",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-3-1",
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Kazuya_Arcade",
+      "label": "Kazuya Mishima Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-56-1"
+      ]
+    },
+    {
+      "id": "Paul_Arcade",
+      "label": "Paul Phoenix Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-59-1"
+      ]
+    },
+    {
+      "id": "Law_Arcade",
+      "label": "Marshall Law Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-60-1"
+      ]
+    },
+    {
+      "id": "Nina_Arcade",
+      "label": "Nina Williams Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-58-1"
+      ]
+    },
+    {
+      "id": "Jack_Arcade",
+      "label": "Jack Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-61-1"
+      ]
+    },
+    {
+      "id": "King_Arcade",
+      "label": "King Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-62-1"
+      ]
+    },
+    {
+      "id": "Yoshimitsu_Arcade",
+      "label": "Yoshimitsu Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-57-1"
+      ]
+    },
+    {
+      "id": "Michelle_Arcade",
+      "label": "Michelle Chang Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-5",
+        "ra-comments-63-1"
+      ]
+    },
+    {
+      "id": "Lee_Unlocked",
+      "label": "Lee Chaolan Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Kuma_Unlocked",
+      "label": "Kuma Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Wang_Unlocked",
+      "label": "Wang Jinrei Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Anna_Unlocked",
+      "label": "Anna Williams Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "PJack_Unlocked",
+      "label": "Prototype Jack Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "ArmorKing_Unlocked",
+      "label": "Armor King Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Ganryu_Unlocked",
+      "label": "Ganryu Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Kunimitsu_Unlocked",
+      "label": "Kunimitsu Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "id": "Devil_Kazuya_Unlocked",
+      "label": "Devil Kazuya Costume Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-2",
+        "gf3-1-3"
+      ]
+    },
+    {
+      "id": "Lee_Arcade",
+      "label": "Lee Chaolan Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-66-1"
+      ]
+    },
+    {
+      "id": "Kuma_Arcade",
+      "label": "Kuma Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-71-1"
+      ]
+    },
+    {
+      "id": "Wang_Arcade",
+      "label": "Wang Jinrei Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-64-1"
+      ]
+    },
+    {
+      "id": "Anna_Arcade",
+      "label": "Anna Williams Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-70-1"
+      ]
+    },
+    {
+      "id": "PJack_Arcade",
+      "label": "Prototype Jack Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-67-1"
+      ]
+    },
+    {
+      "id": "ArmorKing_Arcade",
+      "label": "Armor King Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-68-1"
+      ]
+    },
+    {
+      "id": "Ganryu_Arcade",
+      "label": "Ganryu Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-69-1"
+      ]
+    },
+    {
+      "id": "Kunimitsu_Arcade",
+      "label": "Kunimitsu Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-3",
+        "ra-comments-72-1"
+      ]
+    },
+    {
+      "id": "Full_Roster_Unlocked",
+      "label": "All Fighters Ready Milestone",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-18-3",
+        "gf1-18-4",
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "id": "Heihachi_Mishima_Boss",
+      "label": "Heihachi Mishima Final Boss",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-18-4",
+        "gf3-1-1"
+      ]
+    },
+    {
+      "id": "Heihachi_Unlocked",
+      "label": "Heihachi Mishima Unlocked",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-18-4"
+      ]
+    },
+    {
+      "id": "Heihachi_Arcade",
+      "label": "Heihachi Mishima Arcade Run",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-4",
+        "ra-comments-65-1"
+      ]
+    },
+    {
+      "id": "Ultra_Hard_Arcade",
+      "label": "Ultra Hard Mode Trial",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-74-1",
+        "ra-comments-76-1"
+      ]
+    },
+    {
+      "id": "Speedrun_Arcade",
+      "label": "Five Minute Speedrun Trial",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-77-1",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "id": "Long_Journey_Marathon",
+      "label": "Long Journey 5-Round Marathon",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-79-1",
+        "ra-comments-79-2",
+        "ra-comments-80-1"
+      ]
+    },
+    {
+      "id": "Ach_90406",
+      "label": "Master of Evasion",
+      "kind": "achievement",
+      "achievement_id": 90406
+    },
+    {
+      "id": "Ach_90355",
+      "label": "Namco Classic Challenge",
+      "kind": "achievement",
+      "achievement_id": 90355
+    },
+    {
+      "id": "Ach_90428",
+      "label": "All Fighters Ready for Combat!",
+      "kind": "achievement",
+      "achievement_id": 90428
+    },
+    {
+      "id": "Ach_90432",
+      "label": "Beginner Combo",
+      "kind": "achievement",
+      "achievement_id": 90432
+    },
+    {
+      "id": "Ach_90433",
+      "label": "Ultimate Combo",
+      "kind": "achievement",
+      "achievement_id": 90433
+    },
+    {
+      "id": "Ach_90431",
+      "label": "Iron Fist - Kazuya",
+      "kind": "achievement",
+      "achievement_id": 90431
+    },
+    {
+      "id": "Ach_90434",
+      "label": "Iron Fist - Paul",
+      "kind": "achievement",
+      "achievement_id": 90434
+    },
+    {
+      "id": "Ach_90435",
+      "label": "Iron Fist - Law",
+      "kind": "achievement",
+      "achievement_id": 90435
+    },
+    {
+      "id": "Ach_90436",
+      "label": "Iron Fist - Jack",
+      "kind": "achievement",
+      "achievement_id": 90436
+    },
+    {
+      "id": "Ach_90438",
+      "label": "Iron Fist - King",
+      "kind": "achievement",
+      "achievement_id": 90438
+    },
+    {
+      "id": "Ach_90439",
+      "label": "Iron Fist - Yoshimitsu",
+      "kind": "achievement",
+      "achievement_id": 90439
+    },
+    {
+      "id": "Ach_90437",
+      "label": "Iron Fist - Nina",
+      "kind": "achievement",
+      "achievement_id": 90437
+    },
+    {
+      "id": "Ach_90440",
+      "label": "Iron Fist - Michelle",
+      "kind": "achievement",
+      "achievement_id": 90440
+    },
+    {
+      "id": "Ach_90441",
+      "label": "Iron Fist - Heihachi",
+      "kind": "achievement",
+      "achievement_id": 90441
+    },
+    {
+      "id": "Ach_90442",
+      "label": "Iron Fist - Kunimitsu",
+      "kind": "achievement",
+      "achievement_id": 90442
+    },
+    {
+      "id": "Ach_90477",
+      "label": "Iron Fist - Lee",
+      "kind": "achievement",
+      "achievement_id": 90477
+    },
+    {
+      "id": "Ach_90478",
+      "label": "Iron Fist - P.Jack",
+      "kind": "achievement",
+      "achievement_id": 90478
+    },
+    {
+      "id": "Ach_90479",
+      "label": "Iron Fist - Armor King",
+      "kind": "achievement",
+      "achievement_id": 90479
+    },
+    {
+      "id": "Ach_90480",
+      "label": "Iron Fist - Anna",
+      "kind": "achievement",
+      "achievement_id": 90480
+    },
+    {
+      "id": "Ach_90481",
+      "label": "Iron Fist - Ganryu",
+      "kind": "achievement",
+      "achievement_id": 90481
+    },
+    {
+      "id": "Ach_90482",
+      "label": "Iron Fist - Kuma",
+      "kind": "achievement",
+      "achievement_id": 90482
+    },
+    {
+      "id": "Ach_90483",
+      "label": "Iron Fist - Wang",
+      "kind": "achievement",
+      "achievement_id": 90483
+    },
+    {
+      "id": "Ach_90395",
+      "label": "Cold-Blooded Son",
+      "kind": "achievement",
+      "achievement_id": 90395
+    },
+    {
+      "id": "Ach_90396",
+      "label": "The Inheritor of the Demon",
+      "kind": "achievement",
+      "achievement_id": 90396
+    },
+    {
+      "id": "Ach_90407",
+      "label": "Silent Assassin",
+      "kind": "achievement",
+      "achievement_id": 90407
+    },
+    {
+      "id": "Ach_90408",
+      "label": "Hot-blooded Martial Artist",
+      "kind": "achievement",
+      "achievement_id": 90408
+    },
+    {
+      "id": "Ach_90409",
+      "label": "The Legendary Dragon",
+      "kind": "achievement",
+      "achievement_id": 90409
+    },
+    {
+      "id": "Ach_90410",
+      "label": "Super Killing Machine",
+      "kind": "achievement",
+      "achievement_id": 90410
+    },
+    {
+      "id": "Ach_90411",
+      "label": "Beast Priest",
+      "kind": "achievement",
+      "achievement_id": 90411
+    },
+    {
+      "id": "Ach_90412",
+      "label": "Wandering Female Fighter",
+      "kind": "achievement",
+      "achievement_id": 90412
+    },
+    {
+      "id": "Ach_90413",
+      "label": "Fighting Sage",
+      "kind": "achievement",
+      "achievement_id": 90413
+    },
+    {
+      "id": "Ach_90414",
+      "label": "The King of Iron Fist",
+      "kind": "achievement",
+      "achievement_id": 90414
+    },
+    {
+      "id": "Ach_90415",
+      "label": "Silver Haired-Demon",
+      "kind": "achievement",
+      "achievement_id": 90415
+    },
+    {
+      "id": "Ach_90416",
+      "label": "Lost Memory Monster",
+      "kind": "achievement",
+      "achievement_id": 90416
+    },
+    {
+      "id": "Ach_90417",
+      "label": "Wicked Flower",
+      "kind": "achievement",
+      "achievement_id": 90417
+    },
+    {
+      "id": "Ach_90418",
+      "label": "Rikishi Strength",
+      "kind": "achievement",
+      "achievement_id": 90418
+    },
+    {
+      "id": "Ach_90419",
+      "label": "Scarlet Lightning",
+      "kind": "achievement",
+      "achievement_id": 90419
+    },
+    {
+      "id": "Ach_90420",
+      "label": "Mad Bear",
+      "kind": "achievement",
+      "achievement_id": 90420
+    },
+    {
+      "id": "Ach_90421",
+      "label": "Traitorous Female Ninja",
+      "kind": "achievement",
+      "achievement_id": 90421
+    },
+    {
+      "id": "Ach_90423",
+      "label": "Hand-to-Hand Veteran",
+      "kind": "achievement",
+      "achievement_id": 90423
+    },
+    {
+      "id": "Ach_90422",
+      "label": "Hand-to-Hand Expert",
+      "kind": "achievement",
+      "achievement_id": 90422
+    },
+    {
+      "id": "Ach_90427",
+      "label": "Five Minute Death Punch",
+      "kind": "achievement",
+      "achievement_id": 90427
+    },
+    {
+      "id": "Ach_90429",
+      "label": "Long Journey",
+      "kind": "achievement",
+      "achievement_id": 90429
+    }
+  ],
+  "edges": [
+    {
+      "from": "Boot_Screen",
+      "to": "Galaga_MiniGame",
+      "kind": "leads_to",
+      "label": "Loading screen",
+      "fact_ids": [
+        "gf1-18-2"
+      ]
+    },
+    {
+      "from": "Galaga_MiniGame",
+      "to": "Ach_90355",
+      "kind": "unlocks",
+      "label": "8 stages cleared",
+      "fact_ids": [
+        "ra-comments-9-1"
+      ]
+    },
+    {
+      "from": "Galaga_MiniGame",
+      "to": "Devil_Kazuya_Unlocked",
+      "kind": "unlocks",
+      "label": "Devil unlock",
+      "fact_ids": [
+        "gf3-1-3"
+      ]
+    },
+    {
+      "from": "Boot_Screen",
+      "to": "Game_Options",
+      "kind": "leads_to",
+      "label": "Boot complete",
+      "fact_ids": [
+        "gf1-3-1"
+      ]
+    },
+    {
+      "from": "Game_Options",
+      "to": "VS_Mode",
+      "kind": "leads_to",
+      "label": "Select VS Mode",
+      "fact_ids": [
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "from": "VS_Mode",
+      "to": "Ach_90432",
+      "kind": "unlocks",
+      "label": "3-hit combo",
+      "fact_ids": [
+        "ra-comments-17-1"
+      ]
+    },
+    {
+      "from": "VS_Mode",
+      "to": "Ach_90433",
+      "kind": "unlocks",
+      "label": "10-hit combo",
+      "fact_ids": [
+        "ra-comments-19-1",
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "from": "Game_Options",
+      "to": "Arcade_Mode",
+      "kind": "leads_to",
+      "label": "Select Arcade",
+      "fact_ids": [
+        "gf1-3-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Ach_90406",
+      "kind": "unlocks",
+      "label": "Perfect victory",
+      "fact_ids": [
+        "ra-comments-8-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Kazuya_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Kazuya_Arcade",
+      "to": "Lee_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Lee",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Kazuya_Arcade",
+      "to": "Ach_90395",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-56-1"
+      ]
+    },
+    {
+      "from": "Kazuya_Arcade",
+      "to": "Ach_90431",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-22-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Paul_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Paul_Arcade",
+      "to": "Kuma_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Kuma",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Paul_Arcade",
+      "to": "Ach_90408",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-59-1"
+      ]
+    },
+    {
+      "from": "Paul_Arcade",
+      "to": "Ach_90434",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-24-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Law_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Law_Arcade",
+      "to": "Wang_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Wang",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Law_Arcade",
+      "to": "Ach_90409",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-60-1"
+      ]
+    },
+    {
+      "from": "Law_Arcade",
+      "to": "Ach_90435",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-26-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Nina_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Nina_Arcade",
+      "to": "Anna_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Anna",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Nina_Arcade",
+      "to": "Ach_90407",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-58-1"
+      ]
+    },
+    {
+      "from": "Nina_Arcade",
+      "to": "Ach_90437",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-34-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Jack_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Jack_Arcade",
+      "to": "PJack_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat P.Jack",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Jack_Arcade",
+      "to": "Ach_90410",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-61-1"
+      ]
+    },
+    {
+      "from": "Jack_Arcade",
+      "to": "Ach_90436",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-28-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "King_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "King_Arcade",
+      "to": "ArmorKing_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Armor King",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "King_Arcade",
+      "to": "Ach_90411",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-62-1"
+      ]
+    },
+    {
+      "from": "King_Arcade",
+      "to": "Ach_90438",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-30-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Yoshimitsu_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Yoshimitsu_Arcade",
+      "to": "Ganryu_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Ganryu",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Yoshimitsu_Arcade",
+      "to": "Ach_90396",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-57-1"
+      ]
+    },
+    {
+      "from": "Yoshimitsu_Arcade",
+      "to": "Ach_90439",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-32-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Michelle_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Michelle_Arcade",
+      "to": "Kunimitsu_Unlocked",
+      "kind": "unlocks",
+      "label": "Defeat Kunimitsu",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Michelle_Arcade",
+      "to": "Ach_90412",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-63-1"
+      ]
+    },
+    {
+      "from": "Michelle_Arcade",
+      "to": "Ach_90440",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-36-1"
+      ]
+    },
+    {
+      "from": "Lee_Unlocked",
+      "to": "Lee_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Lee_Arcade",
+      "to": "Ach_90415",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-66-1"
+      ]
+    },
+    {
+      "from": "Lee_Arcade",
+      "to": "Ach_90477",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-43-1"
+      ]
+    },
+    {
+      "from": "Kuma_Unlocked",
+      "to": "Kuma_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Kuma_Arcade",
+      "to": "Ach_90420",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-71-1"
+      ]
+    },
+    {
+      "from": "Kuma_Arcade",
+      "to": "Ach_90482",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-53-1"
+      ]
+    },
+    {
+      "from": "Wang_Unlocked",
+      "to": "Wang_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Wang_Arcade",
+      "to": "Ach_90413",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-64-1"
+      ]
+    },
+    {
+      "from": "Wang_Arcade",
+      "to": "Ach_90483",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-55-1"
+      ]
+    },
+    {
+      "from": "Anna_Unlocked",
+      "to": "Anna_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Anna_Arcade",
+      "to": "Ach_90419",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-70-1"
+      ]
+    },
+    {
+      "from": "Anna_Arcade",
+      "to": "Ach_90480",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-49-1"
+      ]
+    },
+    {
+      "from": "PJack_Unlocked",
+      "to": "PJack_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "PJack_Arcade",
+      "to": "Ach_90416",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-67-1"
+      ]
+    },
+    {
+      "from": "PJack_Arcade",
+      "to": "Ach_90478",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-45-1"
+      ]
+    },
+    {
+      "from": "ArmorKing_Unlocked",
+      "to": "ArmorKing_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "ArmorKing_Arcade",
+      "to": "Ach_90417",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-68-1"
+      ]
+    },
+    {
+      "from": "ArmorKing_Arcade",
+      "to": "Ach_90479",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-47-1"
+      ]
+    },
+    {
+      "from": "Ganryu_Unlocked",
+      "to": "Ganryu_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Ganryu_Arcade",
+      "to": "Ach_90418",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-69-1"
+      ]
+    },
+    {
+      "from": "Ganryu_Arcade",
+      "to": "Ach_90481",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-51-1"
+      ]
+    },
+    {
+      "from": "Kunimitsu_Unlocked",
+      "to": "Kunimitsu_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Kunimitsu_Arcade",
+      "to": "Ach_90421",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-72-1"
+      ]
+    },
+    {
+      "from": "Kunimitsu_Arcade",
+      "to": "Ach_90442",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-41-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Heihachi_Mishima_Boss",
+      "kind": "leads_to",
+      "label": "Stage 9 encounter",
+      "fact_ids": [
+        "gf1-18-4"
+      ]
+    },
+    {
+      "from": "Heihachi_Mishima_Boss",
+      "to": "Heihachi_Unlocked",
+      "kind": "unlocks",
+      "label": "No continues clear",
+      "fact_ids": [
+        "gf1-18-4"
+      ]
+    },
+    {
+      "from": "Heihachi_Unlocked",
+      "to": "Heihachi_Arcade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "ra-comments-65-1"
+      ]
+    },
+    {
+      "from": "Heihachi_Arcade",
+      "to": "Ach_90414",
+      "kind": "unlocks",
+      "label": "Arcade clear",
+      "fact_ids": [
+        "ra-comments-65-1"
+      ]
+    },
+    {
+      "from": "Heihachi_Arcade",
+      "to": "Ach_90441",
+      "kind": "unlocks",
+      "label": "6-hit combo",
+      "fact_ids": [
+        "ra-comments-38-1"
+      ]
+    },
+    {
+      "from": "Lee_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Kuma_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Wang_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Anna_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "PJack_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "ArmorKing_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Ganryu_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Kunimitsu_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-3"
+      ]
+    },
+    {
+      "from": "Devil_Kazuya_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-2"
+      ]
+    },
+    {
+      "from": "Heihachi_Unlocked",
+      "to": "Full_Roster_Unlocked",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-18-4"
+      ]
+    },
+    {
+      "from": "Full_Roster_Unlocked",
+      "to": "Ach_90428",
+      "kind": "unlocks",
+      "label": "Unlock all characters",
+      "fact_ids": [
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Ultra_Hard_Arcade",
+      "kind": "leads_to",
+      "label": "Options: Ultra Hard",
+      "fact_ids": [
+        "ra-comments-76-1"
+      ]
+    },
+    {
+      "from": "Ultra_Hard_Arcade",
+      "to": "Ach_90423",
+      "kind": "unlocks",
+      "label": "Hard+ clear",
+      "fact_ids": [
+        "ra-comments-74-1"
+      ]
+    },
+    {
+      "from": "Ultra_Hard_Arcade",
+      "to": "Ach_90422",
+      "kind": "unlocks",
+      "label": "Ultra Hard clear",
+      "fact_ids": [
+        "ra-comments-76-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Speedrun_Arcade",
+      "kind": "leads_to",
+      "label": "Default settings",
+      "fact_ids": [
+        "ra-comments-77-1"
+      ]
+    },
+    {
+      "from": "Speedrun_Arcade",
+      "to": "Ach_90427",
+      "kind": "unlocks",
+      "label": "Sub-5 min clear",
+      "fact_ids": [
+        "ra-comments-77-1",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "from": "Arcade_Mode",
+      "to": "Long_Journey_Marathon",
+      "kind": "leads_to",
+      "label": "Options: 5 Rounds",
+      "fact_ids": [
+        "ra-comments-79-1"
+      ]
+    },
+    {
+      "from": "Long_Journey_Marathon",
+      "to": "Ach_90429",
+      "kind": "unlocks",
+      "label": "5 rounds no continues",
+      "fact_ids": [
+        "ra-comments-79-1",
+        "ra-comments-79-2",
+        "ra-comments-80-1"
+      ]
+    }
+  ]
+}

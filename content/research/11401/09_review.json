@@ -1,0 +1,41 @@
+{
+  "beginner_friendliness": 95,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 45,
+      "description": "Explicitly named Versus Mode (Combo Practice) area to match knowledge graph node label."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 48,
+      "description": "Clarified that Five Minute Death Punch triggers only after post-game results screen calculations finish."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 65,
+      "description": "Documented emulator trigger compatibility for Long Journey marathon recommending Beetle PSX over DuckStation based on RA comments."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 42,
+      "description": "Replaced save state wording with general console execution wording to ensure strict Hardcore mode rule compliance."
+    }
+  ]
+}

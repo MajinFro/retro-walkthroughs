@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-16T02:06:50.910Z",
+  "metrics": {
+    "chapters_expected": 6,
+    "chapters_present": 6,
+    "paragraphs": 186,
+    "paragraphs_cited": 186,
+    "citations": 712,
+    "citations_broken": 0,
+    "missables": 0,
+    "missables_warned": 0,
+    "ponr": 0,
+    "ponr_warned": 0,
+    "areas": 27,
+    "areas_mentioned": 27,
+    "code_blocks": 0,
+    "code_blocks_verbatim": 0,
+    "unable_to_verify": 0,
+    "achievements_total": 43,
+    "achievements_placed_correctly": 43,
+    "achievements_supported": 43,
+    "words": 8113,
+    "chapters_with_checkpoints": 5,
+    "maps_available": 0,
+    "map_links_present": 0,
+    "sparse_areas": 0
+  },
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,1541 @@
+,oooooooooo,  ooooooooo,  f88    od8b f88    od8b ooooooooo,   oo,       8d
+8888888888888'888888888P  888   d888" 888   d888"'888888888P   8888     d88
+"Y88888888""" 888P"""""   888  d88"   888  d88"   888P"""""    8888b    88P
+     888      Y88   _     888,d88"    888,d88"    Y88   _      88888b  ,88
+     Y88      |888888P    Y88888      Y88888      |888888P     888"88b 888
+      88       88b     __ |8  "Y88b   |8  "Y88b    88b     __  888  "8b88|
+      88       Y888888888b 8    "Y88b  8    "Y88b  Y888888888b 888    Y888
+      ""        """""""""  "      ~""  "      ~""   """""""""  """     ~""
+
+PSX TEKKEN FAQ v1.0 by loki
+
+==========================================================================
+
+Copyright 1995 by loki@linex.com. This FAQ may freely be distributed among
+the PSX Tekken community in non-altered form. This FAQ cannot be published
+in whole or in part without the author's permission (loki@linex.com) or
+sold for any profit. Any use of this FAQ (after author's consent) must
+give proper credit to the contributors. That means all you major magazine publishers out there! 
+
+==========================================================================
+
+PREFACE:
+--------
+
+ Here's the PSX Tekken FAQ for all you proud Sony Playstation owners who own
+this incredible arcade translation. Many improvements have been made over
+the original arcade version in such areas as speed, graphics, animation and
+gameplay. There are a total of 18 characters to choose from, all featuring
+creatively different costumes and special moves. This FAQ is derived from
+the the arcade Tekken FAQ published by Slycer. All moves in here have been
+verified and notated in the easiest way to pull them off. This version is to celebrate the release of Tekken in the US, hopefully this FAQ will enhance your gaming experience with Tekken.
+
+   Changes since last version:
+
+	- Inclusion of combo section (which includes ground/air):
+		- Kazuya
+		- Paul
+		- Law
+		- Yoshimitsu
+		- Heihachi
+		- Nina
+		- Anna
+		- Armor King
+
+(note that these combo moves have not been verified so please email me if 
+ you have consistent problems in executing these combos)
+
+==========================================================================
+
+STORY:
+------
+
+ Towards the end of the 20th century, a mysterious challenge went out to
+all who were deserving.  No one knows from where it originated, but its
+draw was irresistible.  The promise of power and riches beyond those
+attainable by the common man all to go to the survivor. From the depths
+of the lower earth to the far reaches of the outlands the call escaped
+no one. Many perished during the mortal street fights that were only a
+preview of the challenges that were to come. Only 8 remain, those with
+the true killer instinct, all ready to die, to gain the title of "TEKKEN",
+"Lord of the Rave War."
+
+==========================================================================
+
+
+KEYPAD/BUTTON ABBREVIATIONS:
+----------------------------
+
+	F = Forward           LP = Left Punch (square)
+	D = Down              RP = Right Punch (triangle)
+	B = Back              LK = Left Kick (cross)
+	U = Up                RK = Right Kick (circle)
+	, = denotes an individual press
+	+ = designates these must be pressed simultaneously
+	taps = designates the keypad must be lightly tapped (not pressed)
+	crouches = signifies that your character must perform the move
+	           after reaching a crouched position, the low-point of
+	           their knee bend, then releasing D and continuing with
+	           the button sequence
+	hold = designates that the last button should be held until noted
+	"()" = notates a grouping of simutaneous button presses
+	¥stuns¥ = denotes this move stuns your opponent
+
+ Note: You can set the controllers to setting where the top buttons are
+ assigned tasks, this is accessible via the Title Screen/Test Mode/ 
+ Options Mode/Key Config/. You alter the settings by moving the keypad l/r
+ until all buttons are assigned w/ the "Free Setting" selected.
+
+	L1 = pressing LP/LK simutaneously
+	R1 = pressing RP/RK simutaneously
+	L2 = pressing LK/RK simutaneously
+	R2 = pressing LP/RP simutaneously
+
+==========================================================================
+
+GENERAL MOVES:
+--------------
+
+ Basic Attacks:
+
+	Left Punch: LP
+	Right Punch: RP
+	Left Kick: LK
+	Right Kick: RK
+	Low Punch: D + LP [or RP]
+	Weak Uppercut: D(crouch), + LP [or RP]
+	Low Kick: D + LK [or RK]
+	Rising Kick: D(crouch) + LK [or RK]
+
+ Jumping Attacks: (note: U may be substituted by UB/UF)
+
+	Jump High: U
+	Jump Low: (tap)U
+	High Jumping Punch: U + LP [or RP]
+	High Jumping Kick: U + LK [or RK]
+	Low Jumping Left Punch:(tap)U + LP [or RP]
+	Low Jumping Kick:(tap)U + LK [or RK]
+	High Power Sweep: U, (almost down) LK
+	High Power Punch: U, (almost down) LP
+
+	(more to be added in future FAQ versions)
+
+ Dashing:
+
+	Forward: F, F
+	Backward: B, B
+
+ Running Attacks:  (approx. 1-2 screen lengths from opponent)
+
+	Run: F, F, F (press any keypad to interrupt run)
+	Run Tackle: F, F, F (uninterrupted)
+	Run Diving Attack: F, F, F, (LP+RP)
+	Run Slide Attack: F, F, F, RK
+		(except Jack, P Jack, Yoshimitsu, Kunimitsu, Kuma, King,
+		 Armor King, and Ganryu)
+	Run Kick Attack: F, F, F, LK
+		(except Jack, P Jack, Kuma and Ganryu)
+
+ Recovery Attacks:
+
+	(note: there are slight variations between characters. Also if
+	 your character performs a move that makes them "fall", you can
+	 perform these moves as you get up)
+
+	Striaght Up: repeatedly tap U
+	Roll Forward: repeatledly tap F
+	Roll Backward: repeatedly tap B
+	Kick Up Attack: B + (LK+RK)
+	Forward Diving Roll: F + (LP+RP) 
+	Back Roll and Forward Attack: B, F + (LP+RP)
+		(opponent must be in front of you for forward attacks)
+
+	Only for Jack, P Jack, Kuma and Ganryu
+		Kick Up Attack: B + LK + RK (Except for Ganryu)
+		Forward Roll, Arm Swing: F + LP + RP
+		(can be followed with sitting punches, except for Ganryu)
+		Arm Swing: LP + RP 
+		(can be followed with sitting punches, except for Ganryu)
+
+ Ground Attacks:
+
+	(use any combo of UB/U/UF with RP for placement of pounce,
+	 any variation of a pounce for a special character will be noted
+	 in the moves section)
+
+	Low Pounce: U + RP (anytime)
+	High Pounce: U + RP (hold both for duration of move)
+
+ 10-Attack Strings:
+
+	The 10-Attack Strings are a series of punch/kick attacks characters
+	can execute. If successfully executed, these attacks can do a
+	considerable amount of damage on your opponent. However, they can
+	be escaped, blocked, or counter-attacked (i.e.while your in a 10-
+	hitter, your opponent might be able to perform a throw move on you)
+	Variations can be performed on the attack strings, yet you must
+	follow the notated moves in this faq to achieve the full 10 hits.
+	These attacks are impressive to witness and hard to block if part
+	of the string connects as moves very from high to low attacks.
+
+ Unblockable Attacks:
+
+	These attacks generally take a while to execute, which allows your
+	opponent to knock you out of it's execution. If they do connect,
+	these attacks cannot be blocked and do considerable damage. The
+	amount of damage is variable when your playing in the 2-player mode
+	where handicaps can be adjusted.
+
+ Hard Pounces: 
+
+	Normally to execute a pounce attack, you just hit U + RP when your
+	opponent is on the ground. This causes you to automatically jump
+	into the air and land on your opponent with a pounce attack that is
+	usually different from your character's regular ground punch while
+	jumping. When normal pounces tend to "home in" on the opponent to
+	some extent, heavy pounces have a set range, which is rather short,
+	so you must aim correctly if you want to hit the them. Also, hard
+	pounces can be done any time, even if they're not on the ground.
+	If you do a hard pounce while your opponent is just standing there,
+	expect to get hit. Hard pounces are also slower than normal pounces,
+	so your opponent has more time to recover before you hit, and there
+	is a greater lag time for you after doing a heavy pounce, giving
+	your opponent more time to retaliate.
+
+ Throws:
+
+	As most games, all throws must be performed at a very close range.
+	Many people have accused Tekken of being cheap because so many throw
+	type moves are included in the game. I feel that this makes for much
+	more strategic game play and although every player has two basic
+	throw moves (LP/LK, RP/RK), the more elaberate throws are harder to
+	pull off in the heat of battle against good players. It's very easy
+	to see if someone's trying to pull a throw on you, most characters 	will be attempting to 'grab' at the air. It's very easy to hit or
+	counter- throw them at this point when their unsuccessful grab is
+	relaxing and pulling back to their body. Executing a throw move
+	while your opponent is performing a jumping attack will cause them
+	to be "bounced" back onto the ground unhurt, with their jumping
+	attack and your throw attack unsuccessful (damage-wise).
+
+==========================================================================
+
+FIGHTING MOVES:
+---------------
+
+ Kazuya Mishima:
+ ---------------
+
+   Throws:
+
+	Double Kick hold: (LP+LK)
+	Hip Toss: (RP+RK)
+	Headbutt: F, F + (LP+RP)
+
+   Moves:
+
+	Dragon Punch: F, D, DF + LP
+	Spinning Backhand: F + RP
+	Double Punch: LP, RP
+	Punch, Spinning Backhand: RP, RP
+	Double Punch Spinning Backhand: LP, RP, RP
+	Lunging Uppercut: F, D, DF + RP
+	Double Walking Uppercut: DF + LP, RP
+	Double Jab, Power Punch: LP, LP, RP
+	Somersault: UF(hold) + RK, LK
+	Axe Kicks: F, F + LK	¥stuns¥
+	           F, RK		¥stuns¥
+	Double Axe Kick: D(crouch/or hold),(release D) RK, RK	¥stuns¥
+	Jump Kick: F, F, F + LK
+	Foot Sweep: F, D, DF + RK
+	Double Foot Sweep: F, D, DF(hold) + RK, RK
+	Jumping Roundhouse/Foot Sweep: UF(tap), RK, RK
+
+   10-Attack String:
+
+	F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP
+
+   Hard Pounce: 
+
+	Hopback Punch - UB/U/UF + (RP+RK)
+
+   Combos:
+
+	Double Walking Uppercut/LP/Axe Kick : (DF + LP, RP), LP, (F + RK)
+
+  	Power Uppercut/Double Axe Kick: (F, D, DF + RP), (F, D, F + RK, RK)
+
+  	Double Power Uppercut:  (F, D, DF + RP), (F, D, DF + RP)
+
+
+ Paul Phoenix:
+ -------------
+
+   Throws:
+
+	Shoulder Throw: (LP+LK)
+	T-Flip: (RP+RK)
+	Rollback Toss: B + (LP+LK)
+	Forearm Smash: F, F + (LP+RP)
+
+   Moves:
+
+	Hammer Fist: D + LP		¥stuns¥
+	Hammer Fist/Power Punch: D + LP, F + RP
+	Elbow Rush: D(crouch), F + RP
+	Ground Punch: D + RP
+	Punch, Sweep: RP, D + LK
+	Power Punch: D,DF,F + RP
+	Punch/High Kick: RP, LK
+	Double Jump Kick: U(tap) [or UF/UB(tap)] + LK, RK
+	Lunging Jump Kick: F, F + LK
+	Lunging Double Jump Kick: F, F + LK, RK
+	Lunging Double Jump Kick/Roundhouse: F, F + LK, RK, RK
+	Lunging Double Jump Kick/Sweep: F, F + LK, D(hold) + RK, RK
+	Forward Flip: F, F + RK	¥stuns¥
+	Foot Sweep: D + LK
+	            D + RK
+	Foot Sweep/Elbow Rush: D + RK, RP
+
+   10-Attack String:
+
+	LP, RP, LK, RP, LP, RP, LP, RK, RP, LP
+
+   Combos:
+
+	Small Jumping Kick/Hammer Fist/Power Punch:
+					(UF(tap) + RK), (D + LP), (F + RP)
+
+	(note: possible with Double Jumping Kick as well [UF(tap) + LK, RK])
+
+ Marshall Law:
+ -------------
+
+   Throws:
+	
+	Death From Above: (LP+LK)
+	Face Smash: (RP+RK)
+	Knee Bash: F, F + (LK+RK)
+
+   Moves:
+
+	Punch/Backhand: RP, RP
+	Punch/Elbow/Backhand: F (hold) + RP, RP, RP
+	Punch/Punch/Elbow,/Backhand: F(hold) + LP, RP, RP, RP
+	Triple Head Kick: LK, LK, LK
+	Jump Kick: F, F, F + LK	¥stuns if blocked¥
+	Flipkick: D(crouch), U + RK
+	Power Flipkick: D(crouch), U + (LK+RK)
+	Lightening Flipkick: D(crouch), U(tap) + RK
+		(note: all flipkicks can use UB/U/UF)
+	High Kick/Lightening Flipkick: RK, U + LK
+	Triple Roundhouse: RK, LK, RK
+	Low Kick/Triple High Kick: D + LK, LK, LK, LK
+	Low Kick/Head Kick/Body Kick: D + LK, F(hold) + LK, LK
+
+   10-Attack String:
+
+        DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK
+
+   Unblockable Attack:
+
+	Dashing Fist: DB + LP + RP (tap U, U to abort attack)
+
+   Combos:
+
+	Flip kick/lotsa LP/and triple RP:
+			(D, U(tap) + RK), (LP, LP, LP, LP), (F + RP, RP, RP)
+
+	(note: a few punches will not connect but enough to do
+	 multiple damage)
+
+ Nina Williams:
+ --------------
+
+   Throws:
+
+	Arm Throw: (LP+LK)
+	Reverse Toss: (RP+RK)
+	Handstand Toss: F + (LP+LK)
+	Elbow Strike: DF, DF + LP
+	Chin Bash: D, DF, F + (LP+RP)
+		-During Chin Bash: 
+			a) Leg Scissors Arm Snap - LK, RK, LK, (LP+RP)
+			b) Sidestep Arm Snap - LP, LK, RP, LP
+		  -During Sidestep Arm Snap:
+			  a) Falling Arm Snap - RP, LP, LK, RK, (LP+RP)
+			  b) Double Arm Snap - LK, LP, RK, (LP+RP), (LP+RP)
+	
+   Moves:
+
+	Chi Release: F, F + (LP+RP)
+	Punch/Roundhouse: RP, RK
+	Punch/High Kick: RP, LK
+	Punch/Low Sweep" RP, D + LK
+	5 Punch Combo: LP, RP, LP, RP, LP
+	Flip Tumble: F, F + RK 	¥stuns¥
+	Double Punch/Roundhouse: LP, RP, RK
+	Double Punch/ High Kick: LP, RP, LK
+	Double Punch/ Low Sweep: LP, RP, D + LK
+	Flying Kick: F, F, F + LK
+	Triple Kick: DF + LK, LK, LK
+	Mid Kick/Punch: DF + LK, RP
+	Mid Kick/Punch/Punch: DF + LK, RP, LP
+	Mid Kick/Punch/Roundhouse: DF + LK, RP, RK
+	Mid Kick/Punch/High Kick: DF + LK, RP, LK
+	Mid Kick/Punch/Low Sweep: DF + LK, RP, D + LK
+	Triple Kick/Punch: DF + LK, LK, LK, RP
+	Mid Kick/Roundhouse: DF + LK, RK
+	Triple Kick/Roundhouse: DF + LK, LK, LK, RK
+	Mid Kick/Spinning Chop: DF + LK, LP
+	Triple Kick/Spinning Chop: DF + LK, LK, LK, LP
+	Kick/Spinning Chop/Double Punch: DF + LK, LP, RP, RP
+	Kick/Punch/Kick: DF + LK, RP, LK
+	Kick/Punch/Roundhouse: DF + LK, RP, RK
+	Hop Kick/Low Sweep/High Kick: UF + RK, LK, RK
+
+   10-Attack String:
+
+	LP, RP, LP, RP, LK, LK, RP, LP, RP, RP
+
+   Unblockable Attack:
+
+	Crane Chop: DB, LP + RP (tap U, U to abort attack)
+
+   Combos:
+
+	Mid punch/Punt kick: (D(Tap) + LP), (RK (released D)) 
+
+ Jack:
+ -----
+
+   Throws:
+
+	Blanket: (LP+LK)
+	Lifter: (RP+RK)
+	Backbreaker: D, DB, B + RP
+	Piledriver: DB, F + LP (or D, DF, F + LP)
+
+   Moves:
+
+	Sandwich Clap: F, F + (LP+RP)
+	Power Punch: B, DB, D, DF + RP
+	Punch/Elbow Rush: RP, LP
+	Double Hammer: DF + (LP+RP)
+	Reverse Hammer: D(crouch), B + (LP+RP)
+	Reverse Hammer/Double Hammer: D(crouch), B + (LP+RP), (LP+RP)
+	Double Slap: LP, LP
+	Double Slap/Hammer: LP, LP, LP
+	Double Uppercut: DF(crouch) + LP, RP
+	Triple Uppercut: DF(crouch) + LP, RP, LP
+	Crouch Double Slap/Uppercut: D(hold) + LP, LP, LP
+	Triple Windmill Punch: D(crouch), F + LP, RP, LP
+	Cop a Squat: D + LK + RK
+	Sitting Punches: LP, RP, LP, RP (4 max, while sitting)
+	Triple Drill Punch: DB + LP, LP, LP
+	Triple Drill Punch/Uppercut: DB + LP, LP, LP, RP (timed)
+	Mega Crouch Combo:ÊD(crouch) + LP, LP, LP, RP, LP, RP
+	Triple Drill Punch/Power Punch: DB + LP, LP, LP, (B, DB, D, DF + RP)
+
+   10-Attack String:
+ 
+	D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP
+
+   Unblockable Attack:
+	
+	Windup Punch: B, DB, D, DF, rotate controller counterclockwise
+	              until Jack reaches the count of 5, then tap LP. 
+	              - if count isn't at 5, punch can be blocked
+	              - if count reaches 5, it is an instant 1-hit kill
+
+   Hard Pounce: 
+
+	Cannonball: UF + (LK+RK) (can be followed with sitting punches) 
+
+ King:
+ -----
+
+   Throws:
+
+	Knee Bash: (LP+LK)
+	Suplex: (RP+RK)
+	Piledriver: D, DF, F + LP
+	Hopping Piledriver: DF, F + (LP+RP)
+	Whirlwind Toss: DB, F + LP
+		(note: as in my previous FAQ versions: B, DB, D, DF, F + LP
+		 can also be used)
+	Scissor Flip: DF(tap) + (LK+RK)
+	DDT - DB(tap), DB + (LP+RP)
+
+   Moves:
+        
+	Kidney Punch: DF(tap), RP
+	Hammer Elbow: DF, LP 	¥stuns¥
+	Jumping Hammer: UF + (LP+RP)
+	Forward Dive: F, F + (LP+RP)
+	Double Punch/Uppercut: LP, RP, LP
+	Bunch'a'Punches: LP, RP, LP, LP, RP
+	High Uppercut: F, F + RP
+	Low Uppercut: F, F, RP (hurts opponents on the ground)
+	Crouching Uppercut: D, F + RP
+	Double Punch/Uppercut: LP, RP, LP
+	Big Boot: F, F + RK
+	Drop Kick: F, F + (LK+RK)	¥stuns blocked¥
+	Spinning Drop Kick: F, F, F + (LK+RK)		¥stuns blocked¥
+	Spinning Drop Kick/Dive: F, F, F(hold remainder) + (LK+RK), (LP+RP)
+	Triple Slide Kick: DF(crouch) + RK, RK, RK	¥stuns¥
+
+   10-Attack String:
+
+	LP, RP, LP, LP, RP, RK, RK, RK, RK, LP, LK
+
+   Hard Pounce: 
+
+	Elbow Drop: UF [or U] + (RP+RK)
+	Knee Drop: UF + (LK+RK)
+
+ Yoshimitsu:
+ -----------
+
+   Throws:
+
+	Flying 69 Slam: (LP+LK)
+	Trip Smash: (RP+RK)
+
+   Moves:
+
+	Tornado Spin: B + LP (can be pressed up to 5x)
+	              (If done 5x, Yoshimitsu will become dizzy & colapse)
+	Tornado Sweep: DB(hold) + LK (up to 5x, dizzy on the 5th)
+		-The Tornado moves are interchangable (ex. 3spins/2sweeps)
+		 and are best pulled off if you roll from B into DB
+	Twist Hit: F + RP
+	Knee Rush: F, F + RK
+	Roundhouse/Mid Kick: LK, RK(rolled)
+	Kick/Double Roundhouse: RK, RK, RK
+	Forward Cartwheel: F, F + (LK+RK)
+	Forward Cartwheel/Diving Corkscrew: F, F(hold) + (LK+RK), (LP+RP)
+
+   10-Attack String:
+
+	LP, RP, LP, RK, RK, RK, RK, LP, LP, LP
+
+   Unblockable Attack:
+
+	Sword Slash: DB + LP
+	Sword Skewer: B, B + LP
+
+   Hard Pounce: 
+
+	Hopback Stomp: UF + (LK+RK)
+
+   Combos:
+
+	Knee hop, LP, RK, Pounce, Sword Slash:
+ 		F, F+RK, LP, RK, U+RP, DB+LP
+
+	(Quite hard if you're not used to it, but the last part is
+	 usable after any Knock Down attack, and will most often
+	 connect if done quickly)
+
+ Michelle Chan:
+ --------------
+
+   Throws:
+
+	Bridge Slammer: (LP+LK)
+	Hook Slammer: (RP+RK)
+	Reverse Checklift: RP, B (RP must hit opponent) + (LP+RP)
+	Sky Uppercut: DF + RP, LP (RP must hit opponent)
+
+   Moves:
+
+	5 Punch Attack: RP, LP(rolled), LP, LP, RP
+	Double-Fisted Body Blow: F, F + (LP+RP) ¥stuns if blocked¥
+	Uppercut: D(crouch), RP
+	Uppercut/Hammer/Uppercut: D(crouch), RP, LP, LP
+	Roundhouse: D(crouch), LK
+	Vertical Kick: DF + LK
+	Power Vertical Kick: D(crouch), RK
+	Sleep Sweep: DF(crouch), RK
+	Sleep Sweep/Flying Kick: DF(crouch), RK, LK
+	Sweep Kick: D + LK
+	            D + RK
+	Sweep Kick/Low Kick: D + RK, RK (holding D)
+	Sweep Kick/High Kick: D + RK, RK (D released) 
+	Sweep Kick/Uppercut: D +, RK, LP
+	High Kick/Sweep Kick/Uppercut: F + RK, D + RK, LP
+	High Kick/Sweep Kick/Low Kick: F + RK, D + RK, RK (holding D)
+	High Kick/Sweep Kick/High Kick: F + RK, D + RK, RK (released D)
+
+   10-Attack String:
+
+	RP, LP, LP, RP, LK, LK, LK, RK, RK, LP
+
+   Unblockable Attack:
+
+	Running Uppercut: B, B, B(hold till her left leg rises)
+	                  Tap LP as her leg is in the air to run/uppercut
+
+   Hard Pounce: 
+
+	Hopback Stomp: UF + (LK+RK)
+
+ Lee Chow Lang: (derivative of Law)
+ --------------
+
+   Throws: 
+
+	Neck Takedown: (LP+LK)
+	Face Smash: (RP+RK)
+	Knee Bash: F, F(hold) + (LK+RK)
+        
+   Moves:
+
+	Punch/Backhand: RP, RP
+	Double Punch: LP, RP
+	Double Punch/Elbow: F(hold) + LP, RP, RP
+	Double Punch/Elbow/Backhand: F(hold) + LP, RP, RP, RP
+	Double Punch/Double Backhand: F(hold) + LP, RP, RP, RP
+	Uppercut/Punch/Backhand: DF + LP, RP, RP
+	Backflip: B, B, B
+	Flipkick: D(crouch), UB/U/UF + RK
+	Power Flipkick: D(crouch), UB/U/UF + (LK+RK)
+	Lightning Flip: D(crouch), UB/U/UF(tap) (non-attack move)
+	Lightening Flipkick: D(crouch), UB/U/UF(tap) + RK
+	High Kick/Lightening Flipkick: RK, U + LK
+	Axe Kick: F, F + LK
+	Double Axe Kick: D(crouch), LK, LK
+	Low/High Kick: D + RK, RK
+	Triple Head Kick: LK, LK, LK
+	Triple Low/Mid Kick: D + RK, RK, RK, RK
+	Double Kick/Roundhouse: D + RK, RK, LK
+	Double Kick/Roundhouse/High Kick: D + RK, RK, LK, RK
+	Double Jump Kick/Roundhouse: F, F, LK, RK, RK
+	Double Jump Kick/Sweep: F, F, LK, D(hold) + RK, RK
+		(for the above two moves, the dbl jump kick may be more
+		 consistently pulled off by pressing F, F, F + LK)
+	Jump Kick: F, F, F + LK	¥stuns if blocked¥
+	High Kick/Roundhouse: RK, LK
+	High Kick/Roundhouse/High Kick: RK, LK, RK
+	Low Kick/Triple High kick: D + LK, LK, LK, LK
+	Low Kick/Head Kick/Body Kick: D + LK, F(hold) + LK, LK
+	Spinning Slide: F, F, (LK+RK)
+	Multikicks: D(crouch), LK, LK, D(tap), LK, LK... (repeat pressing)
+	            (LK, D(tap), LK,... must be performed quickly to work)
+	            The multikick will continue while you tap LK, while
+	            doing so you can press the following for variations in
+	            the move at any time while LK'ing.
+		- High Attack: hold U ( Axe kick, Mid Kick)
+		- Mid Attack: hold F [or neutral] (Mid Kick, High Kick)
+		- Low Attack: hold D (Low Kick, Mid Kick)
+
+   Unblockable Attack:
+
+	Dashing Fist: DB + (LP+RP) (tap U, U to abort attack)
+
+   10-Attack String:
+	
+	(tap)DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK
+
+ Kuma: (derivative of Jack)
+ -----
+
+   Throws:
+
+	Blanket: (LP+LK)
+	Headbutt: F + (RP+RK)
+	Bear Hug: (RP+RK) (note: will not work on another Kuma)
+
+   Moves:
+
+	Sandwich Clap: F, F + (LP+RP)
+	Punch/Elbow Rush: RP, LP
+	Double Hammer: DF + (LP+RP)
+	Reverse Hammer: D(crouch), B + (LP+RP)
+	Reverse Hammer/Double Hammer: D(crouch), B + (LP+RP), (LP+RP)
+	Double Slap/Hammer: LP, LP, LP
+	Low Double Slap/Hammer: D(hold) + LP, LP, LP
+	Double Uppercut: DF(hold) + LP, RP
+	Triple Uppercut: DF(hold) + LP, RK, LP
+	Triple Windmill Punch: D(crouch), F + LP, RP, LP
+	Cop a Squat: D + (LK+RK)
+	Sitting Punches: LP, RP, LP, RP (4 max, while sitting)
+	Power Punch: B, DB, D, DF + RP
+	Mega Crouch Combo: (crouch) + LP, LP, LP, RP, LP, RP
+
+   Hard Pounce:
+
+	Cannonball: UF + (LK+RK) (can be combined with sitting punches)
+
+   10-Attack String:
+ 
+	D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP 
+
+ Wang Gin Lei: (derivative of Michelle)
+ -------------
+
+   Throws:
+
+	Spin Toss: (LP+LK)
+	Backlash: (RP+RK)	¥stuns¥
+	Reverse Check: RP, B (RP must hit opponent), (LP+RP)
+	Sky Uppercut: DF + RP, LP (RP must hit opponent)  
+
+   Moves:
+
+	Palm Rush: F + RP
+	Hammer: DF + LP
+	Bolwer Smash: DF + (LP+RP)
+	Chi Release: F, F + (LP+RP)
+	Strong Uppercut: D(crouch), RP
+	Punch/Hammer: RP, LP
+	Punch/Hammer/Uppercut: RP, LP, LP
+	Uppercut/Hammer/Uppercut: D(crouch), RP, LP, LP
+	5 Punch Attack: RP, LP, LP, LP, RP
+	Sleep Sweep: DF(crouch), RK
+	Sleep Sweep/Flying Kick: DF(crouch), RK, LK
+	Sweeping Kick: D + RK
+	Sweep Kick/Low Kick: D + RK, RK (holding D)
+	Sweep Kick/High Kick: D + RK, RK (released D)
+	Sweep Kick/Uppercut: D + RK, LP
+	Jumping Foot Dive: F, F, F, LK (at least one B,B or F,F away)
+	Vertical Kick: DF(tap), LK
+	Power Vertical Kick: D(crouch), RK
+	High Kick/Sweep Kick/Uppercut: F + RK, D + RK, LP
+	High Kick/Sweep Kick/Low Kick: F + RK, D + RK, RK (holding D)
+	High Kick/Sweep Kick/High Kick: F + RK, D + RK, RK (released D)
+
+   10-Attack String:
+
+	RP, LP, LP, RP, LK, LK, LK, LK, RK, RK, LP
+
+   Hard Pounce: 
+
+	Hopback Stomp: UF + (LK+RK)
+
+ Anna Williams: (derivative of Nina)
+ --------------
+
+   Throws:
+
+	Arm Throw: (LP+LK)
+	Reverse Toss: (RP+RK)
+	Handstand Toss: F + (LP+LK)
+	Elbow Strike: DF, DF + LP
+	Chin Bash: D, DF, F + (LP+RP)
+		During Chin Bash: 
+			a) Leg Scissors Arm Snap - LK, RK, LK, (LP+RP)
+			b) Sidestep Arm Snap - LP, LK, RP, LP
+		  During Sidestep Arm Snap:
+			  a) Falling Arm Snap - RP, LP, LK, RK, (LP+RP)
+			  b) Double Arm Snap - LK, LP, RK, (LP+RP), (LP+RP)
+
+   Moves:
+
+	Knife Strike: D(crouch), F + LP
+	Side Knife Strike: D(crouch), F + RP
+	Flipkick: D(crouch), UB/U/UF + RK
+	Lightening Flipkick: D(crouch), UB/U/UF(tap) + RK
+	Chi Release: F, F + (LP+RP)
+	Hand Sweep: DF(crouch) + RP
+	Triple Slap: B + LP, LP, LP
+	Flip Tumble: F, F + RK	¥stuns¥
+	5 Punch Combo: LP, RP, LP, RP, LP
+	Double Punch/Roundhouse: LP, RP, RK 
+	Double Punch/ High Kick: LP, RP, LK
+	Mid Kick/Punch: DF + LK, RP
+	Mid Kick/Punch/Roundhouse: DF + LK, RP, RK
+	Mid Kick/Punch/Punch: DF + LK, RP, LP
+	Mid Kick/Punch/High Kick: DF + LK, RP, LK
+	Mid Kick/Punch/Low Sweep: DF + LK, RP, D + LK
+	Triple Kick/Punch: DF + LK, LK, LK, RP
+	Mid Kick/Roundhouse: DF + LK, RK
+	Triple Kick/Roundhouse: DF + LK, LK, LK, RK
+	Mid Kick/Spinning Chop: DF + LK, LP
+	Triple Kick/Spinning Chop: DF + LK, LK, LK, LP
+	Punch/Roundhouse: RP, RK
+	Triple Kick: DF + LK, LK, LK
+	Kick/Spinning Chop/Double Punch: DF + LK, LP, RP, RP
+	Kick/Punch/Kick: DF + LK, RP, LK
+	Kick/Punch/Roundhouse: DF + LK, RP, RK
+	Hop Kick/Low Sweep/Kick: UF + RK, LK, RK
+	Flying Kick: F, F, F + LK	¥stuns if blocked¥
+
+   10-Attack String:
+
+	LP, RP, LP, RP, LK, LK, RP, LP, RP, RP
+
+   Unblockable Attack:
+
+	Crane Chop: DB, (LP+RP) (tap U, U to abort attack)
+
+   Combos:
+
+	Mid punch/Punt kick: (D(Tap) + LP), (RK (released D)) 
+
+ P. Jack: (derivative of Jack)
+ --------
+
+   Throws:
+
+	Blanket: (LP+LK)
+	One Arm Lifter: (RP+RK)
+
+   Moves:
+
+	Punch/Elbow Rush: RP, LP
+	Lightening Hammer: D + LP
+	Lightening Hammer/Power Punch: D + LP, F + RP
+	Double Hammer: DF + (LP+RP)
+	Reverse Hammer: D(crouch), B + (LP+RP)
+	Reverse Hammer/Double Hammer: D(crouch), B + (LP+RP), (LP+RP)
+	Sandwich Clap: F, F + (LP+RP)
+	Double Slap: LP, LP
+	Double Slap/Hammer: LP, LP, LP
+	Double Uppercut: FD(hold) + LP, RP
+	Triple Uppercut: FD(hold) + LP, RK, LP
+	Lightning Hammer/Power Punch: D + LP, F + RP
+	Low Double Slap/Uppercut: D + LP, LP, LP
+	Triple Windmill Punch: D(crouch), F + LP, RP, LP
+	Cop a Squat: D + LK + RK
+	Sitting Punches: LP, RP, LP, RP (4 max, while sitting)
+	Winding Uppercut: B, DB, D, DF + LP
+	Power Punch: B, DB, D, DF + RP
+	Triple Drill Punch: DB + LP, LP, LP
+	Triple Drill Punch/Uppercut: DB + LP, LP, LP, RP(timed)
+	Triple Drill Punch/Power Punch: DB + LP, LP, LP, (B, DB, D, DF + RP)
+	Mega Crouch Combo: (Crouch) + LP, LP, LP, RP, LP, RP
+
+   10-Attack String:
+
+        D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP 
+
+   Unblockable Attack:
+
+	Windup Punch: B, DB, D, DF, rotate controller counterclockwise
+	              until Jack reaches the count of 5, then tap LP. 
+	              - if count isn't at 5, punch can be blocked
+	              - if count reaches 5, it is an instant 1-hit kill
+
+   Hard Pounce: 
+
+	Low Cannonball: UF, (LK+RK) (can be combined with sitting punches)
+
+ Armor King: (derivative of King)
+ -----------
+
+   Throws:
+
+	Knee Bash: (LP+LK)
+	Suplex: (RP+RK)
+		- Ariel Piledriver: (while Suplex is performed, no later
+		  than when your opponent is vertical) D, D, D + (LP+RP)
+	Piledriver: D, DF, F + LP
+	Hopping Piledriver: DB, F + (LP+RP)
+	Whirlwind Toss: DB, F + LP
+		(note: as in my previous FAQ versions: B, DB, D, DF, F + LP
+		 can also be used)
+	Scissor Flip: DF(tap) + (LK+RK)
+	DDT - DB(tap), DB + (LP+RP)
+
+   Moves:
+
+	Kidney Punch: DF, RP
+	Hammer Elbow: DF, LP	¥stuns if blocked¥
+	Double Punch/Uppercut: LP, RP, LP
+	Bunch'a'Punches: LP, RP, LP, LP, RP
+	Dragon Punch: F, D, DF + LP
+	High Uppercut: F, F + RP
+	Low Uppercut: F, F, RP
+	Power Uppercut: F, D, DF + RP
+	Crouching Uppercut: D, F + RP
+	Jumping Hammer: UF + (LP+RP)
+	Side Body Blow: DF(tap), RP
+	Forward Dive: F, F + (LP+RP)
+	Big Boot: F, F + RK
+	Drop Kick: F, F + (LK+RK)
+	Spinning Drop Kick: F, F, F + (LK+RK)
+	Spinning Drop Kick/Dive: F, F, F(hold) + (LK+RK), (LP+RP)
+	Triple Slide Kick: DF(crouch) + RK, RK, RK	¥stuns¥
+	Multi Slide Kicks:	¥stuns¥
+
+   10-Attack String:
+
+	LP, RP, LP(rolled), LP, RP, RK, RK, RK, LP, LK
+
+   Hard Pounce: 
+
+	Elbow Drop: UF [or U] + (RP+RK)
+	Knee Drop: UF + (LK+RK)
+
+ Ganryu: (derivative of Jack)
+ -------
+
+    Throws:
+        
+	Cresent Throw: (LP+LK)
+	Shoulder Throw: (RP+RK)
+	Reverse Toss: B + (RP+RK)
+
+   Moves:
+
+	Double Chop: LP, LP
+	Double Hammer: DF + (LP+RP)
+	Double Chop/Hammer: LP, LP, LP
+	Reverse Hammer: D(crouch), B + (LP+RP)
+	Reverse Hammer/Double Hammer: D(crouch), B + (LP+RP), (LP+RP)
+	Sandwich Clap: F, F + (LP+RP)
+	Punch/Elbow Rush: RP, LP
+	Double Slap: FD(hold) + LP, RP
+	Triple Slap: FD(hold) + LP, RP, LP
+	Crouch Double Slap/Uppercut: D(hold) + LP, LP, LP
+	Triple Windmill Punch: D(crouch), F + LP, RP, LP
+	Power Punch: B, DB, D, DF + RP
+	Sumo Palm Rush: D + RP
+	Double Palm Rush: D + RP, RP
+	Rising Palm: DF + RP
+	Hundred Hand Slap: F + LP, RP, LP, RP, LP, RP, LP, RP
+	                   (can also be started with RP)
+	Mega Crouch Combo: D(crouch) + LP, LP, LP, RP, LP, RP
+	Sumo Foot Stomp: D + RK
+
+   Hard Pounce:
+
+	Low Cannonball: UF, (LK+RK)
+
+ Kunimitsu: (derived from Yoshimitsu)
+ ----------
+
+   Throws:
+
+	Flying 69 Slam: (LP+LK)
+	Trip Smash: (RP+RK)
+
+   Moves:
+
+	Tornado Spin: B(hold) + LP (can be pressed up to 5x)
+	              (If done 5x, Yoshimitsu will become dizzy & colapse)
+	Tornado Sweep: DB(hold) + LK (up to 5x, dizzy on the 5th)
+		-The Tornado moves are interchangable (ex. 3spins/2sweeps)
+		 and are best pulled off if you roll from B to DB
+	Twist Hit: F + RP
+	Knee Rush: F, F + RK
+	Roundhouse/Mid Kick: LK, RK
+	Kick/Double Roundhouse: RK, RK, RK
+	Forward Cartwheel: F, F + (LK+RK)
+	Forward Cartwheel/Diving Corkscrew: F, F + LK + RK, F, F + (LP+RP)
+
+   7-Attack String:
+
+	LP, RP, LP, RK, RK, RK, LP
+
+   Hard Pounce: 
+
+	Hopback Stomp: UF + (LK+RK)
+
+   Combos:
+
+  	Double Power Uppercut:  (F, D, DF + RP), (F, D, DF + RP)
+
+ Heihachi Mishima: (derived from Kazuya)
+ -----------------
+
+   Throws:
+
+	Noogie Cracker: (LP+LK)
+	Piledriver: (RP+RK)
+	Headbutt: F, F + (LP+RP)
+
+   Moves:
+
+	Hammer: D(tap) + LP
+	Hammer/Power Punch: D(tap) + LP, F + RP
+	Punch/Spinning Backhand: RP, RP
+	Double Jab: LP, LP
+	Power Punch: D, DF, F + RP
+	Double Jab/Power Punch: LP, LP, RP
+	Double Punch: LP, RP
+	Double Punch/Spinning Backhand: LP, RP, RP
+	Dragon Punch: F, D, DF + LP
+	High Uppercut: DF + RP [or LP]
+	Power Uppercut: F, D, DF + RP
+	Super Uppercut: F, F + RP
+	Double Walking Uppercut: DF + LP, RP
+	Back Sidestep Jog: B, B, B (always counterclockwise)
+	Somersault: D, UF + (LK+RK)
+	Jump Kick: F, F, F + LK	¥stuns if blocked¥
+	Power Mid Kick F, D, DF + LK
+	Power Low Kick: F, D, DF(hold) + LK
+	Axe Kick: F, F + LK
+	          F + RK
+	Double Axe Kick: D(crouch), RK, RK
+	Sweep, Roundhouse: D + LK, LK (2nd LK requires timing, pressed
+	                   when the first sweep is done, and before
+	                   Heihachi starts rising from a crouch position)
+	Triple Sweep: F, D, DF(hold) + RK, RK, RK,
+	Triple Sweep/Axe Kick: F, D, DF(hold) + RK, RK, RK, (release DF) RK
+	Jumping Spin Kick/Foot Sweep: (tap) UF, RK, RK
+
+   10-Attack String:
+
+	F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP
+
+   Hard Pounce: 
+
+	Hopback Punch - UF + (RP+RK)
+
+   Combos:
+
+	Running Uppercut/Double Upper: (F, F + RP), (DF + LP, RP)
+
+  	Double Power Uppercut:  (F, D, DF + RP), (F, D, DF + RP)
+
+  	Power Uppercut/Double Axe Kick: (F, D, DF + RP), (F, D, F + RK, RK)
+
+	Power Uppercut/Power Punch: (F, D, DF + RP), (D, DF, F + RP)
+
+		(note: Power Punch MUST immediately follow Power Uppercut)
+
+	Power Uppercut:/Hammer/Power Punch: 
+				(F, D,D F + RP), (D(tap) + LP), (F + RP)
+
+		(note: after Power Uppercut, wait for opponent to fall
+		 above shoulder-level before performing Hammer/Power Punch)
+
+	Super Uppercut/Hammer/Power Punch:
+				(F, F + RP), (D(tap) + LP), (F + RP)    
+
+		(note: after Super Uppercut, wait for opponent to fall
+		 above shoulder-level before performing Hammer/Power Punch)
+
+==========================================================================
+
+GAME FEATURES:
+--------------
+
+ Galaga:
+
+     Players are welcomed with a game of Galaga while the CD is loading
+     (as Namco did with Galaxian in Ridge Racer). You will be presented
+     with a Challenge Stage in which you must shoot 40 enemies before
+     advancing to the next Bonus Stage, there are 8 total. The X button
+     is your normal fire button while the top (triangle) button functions
+     as an 'autofire'. If you miss shooting all 40, you may repeat the
+     stage by pressing Select. If you press select at the end of the 8th
+     stage, you will be returned to the 1st stage again. Once you complete
+     all 8 Challenge Stages the game will begin loading, if you have a 
+     memory card in your PSX at this stage, it will automatically load
+     your saved game at this point. Note: You will gain access to Devil 
+     Kazuya if you defeat Galaga with a minimum of one continue. This is 
+     best done if you clear the opening stage in 18.5 seconds or under, 
+     which will grant you another ship (double shooter). You still need
+     to  keep a pattern down for the next levels to be successful, and if
+     you do continue once at any point, you retain the second ship.
+
+     Additional: To automatically start with dual ships in Galaga just
+     press and hold the up(d-pad), L1, triangle, and cross buttons while
+     the PSX is powering up on the player 2 controller. You will then
+     begin Galaga with the dual ships.
+
+ CG Cinemas:
+
+     There are two basic FMV intros to the game, one introducing all the
+     characters in their native environment (Michelle running through the
+     desert, Paul riding a motorbike, King in a chapel, etc.), the other
+     being an action profile on Kazuya. Only the 8 normal characters
+     feature ending CG sequences once they defeat Heihachi Mishima.
+     (note: these will be added in the next version)
+
+ Using Bosses:
+
+     All bosses can be accessed once defeated, this is done quickly and
+     easily by turning the difficulty setting in the Options screen to
+     "Easy". Each character has his/her own mid-level boss with Heihachi
+     Mishima being the last. You will gain access to them once you defeat
+     the mid-level boss and Heihachi, weither you use continues doesn't
+     matter. The bosses will then be accessible to either the left of
+     Yoshimitsu or the right of Michelle in the Arcade mode. In the two
+     player mode, it will be displayed as a long list of names. To access
+     Heihachi, you must defeat him and all the characters before him
+     without using continues, you may use any character in doing so. The
+     opponents for Heihachi are all the mid level bosses, with his Boss
+     being Devil Kazuya. To access Devil Kazuya, you must defeat Galaga
+     (see above) and while only in 'Arcade' mode, position your selection
+     on 'Kazuya' and press 'Start' instead of a punch/kick. The following
+     are the Boss assignments:
+
+        PLAYER                  MID BOSS                FINAL BOSS
+        ------                  --------                ----------
+        Kazuya Mishima          Lee Chow Lang      -+
+        Paul Phoenix            Kuma                |
+        Marshall Law            Wang Gin Lei        |
+        Nina Williams           Anna Williams       |-- Heihachi Mishima
+        Jack                    P. Jack             |
+        King                    Armor King          |
+        Yoshimitsu              Ganryu              |
+        Michelle Chan           Kunimitsu          -+
+
+        Heihachi Mishima                                Devil Kazuya
+
+ View Options:
+     
+     There are 3 different views to choose from during play. As soon as
+     [Select View] appears, pressing 'Select' will change views from a
+     Side View to a 3/4 view, and then to an extreme overhead 3/4 view if
+     pressed again.
+
+ Optional Listed Names Feature in Arcade Mode:
+
+     If for some reason you prefer to look at a list of names to choose
+     from in the Arcade mode instead of the portraits of each character,
+     you can do so by pressing both L1 and R1 on top of the controller
+     simutaneously before and while your selecting "Arcade" from the title
+     screen.
+
+==========================================================================
+
+2-PLAYER MODE NOTES:
+--------------------
+
+     Devil Kazuya cannot be selected in this mode, only in 'Arcade' mode.
+
+     The Handicap meter that appears when you select a character can be
+     adjusted by moving your joypad left/right. Decreasing the stars to
+     the left will make your attacks more damaging, while increasing the
+     stars to the right will do the opposite, making your attacks less
+     damaging.
+
+     To exit the 2-Player mode (also Arcade mode or during any match),
+     just simutaneously press 'Start' and 'Select'. This will bring you
+     to the title screen.
+
+==========================================================================
+
+OPTIONS MODE SCREEN: (->TitleScreen/TestMode/OptionsMode/)
+--------------------
+
+ Difficulty Level:
+
+	There are five difficulty levels: Easy, Medium, Hard, Very Hard, and
+	Ultra Hard. Warning: Ultra Hard may be hazardous to your health! };>
+
+ Fight Count:
+
+	Determines the number of rounds you must win to defeat your opponent.
+	Settings allow you to choose any round from 1 to 5.
+
+	Note: With the fight count set to "1", this is considered the
+	"time-attack" mode for the game to try and beat all the bosses in
+	shortest amount of time. My personal best being 1'21"43 using Ganryu.
+
+ Round Time:
+
+	The amount of time a round lasts. Selections are from 20, 30, 40,
+	50, or 60 seconds and Infinite.
+
+ Speaker Out:
+
+	Settings for Mono (yuck) or Stereo (yea!).
+
+ BSM Select:
+
+	Allows you to choose from the 'Original' arcade music (yuck) to the
+	great PSX 'Arrange' selections. Also featured is a 'Silent' mode
+	which is especially great for those bone-cracking moves.
+
+ 2P Game Wins Shown By:
+
+	Your choice of Numbers (boring) or Fruit (ala PacMan).
+
+ Character Change At Continue:
+
+	When turned to 'Yes' this allows you to change characters when you
+	lose in 'Arcade' mode. Otherwise 'No' will only allow you to choose
+	the character you started with in 'Arcade' mode.
+
+ Key Configuration:
+
+	This allows you to modify the assignment of your controller buttons.
+	Preset 1: Square = LP / Triangle = RP / X = LK / Circle = RK
+	Preset 2: L1 = LP / R1 = RP / L2 = LK / R2 = RK
+	Preset 3: Square = LP / Triangle = RP / X = LK / Circle = RK
+	          L1 = LP = LK  / R1 = RP + RK
+	          L2 = LK + RK / R2 = LP + RP
+
+==========================================================================
+
+THE PLAYERS:
+------------
+
+ Note: All missing character stories will be added in a future versions.  
+ Costumes can be selected by pressing either the punch or kick buttons.
+
+	LP/RP = Costume 1
+	LK/RK = Costume 2
+
+ Kazuya Mishima: Japanese
+ ---------------
+
+     Kazuya is a scuffle Karate Fighter with an even temperament and a 
+   cool head. He's the legitimate heir to the Mishima financial empire,
+   he was banished by his father for a crime he did not commit. In their 
+   final battle, he was left to  die by his father and he still bears
+   the scar on his chest as a contsant reminder. He wishes to use the
+   tournament winnings to finance the overthrow of his father's forces.
+
+	Fighting Style: Mishima style Karate
+	Height/Weight: 181cm/76kg
+	Age/Blood Type: 26/AB
+	Likes: His father's disapproving face
+	Hobby: Sneaker collecting
+	Job: Interrupting his father (He's a rich man's son so he doesn't
+	                              have trouble with money)
+
+	Costume 1: Basic white/greyish karate pants with black belt, red 
+	           studded gloves and foot guards.
+	Costume 2: White tanktop shirt, bluejeans with one ripped knee,
+	           red studded gloves, and red nike shoes.
+
+ Paul Phoenix: American
+ -------------
+
+     Driven to be the best of the best, Paul travels the world in search
+   of the perfect opponent. He is a judo expert but he is skilled in many
+   forms of the Martial Arts. There is only one fighter in this tournament
+   who is ranked on an equal level to Paul. His goal is to eliminate any
+   comparisons.
+
+	Fighting Style: Judo and his own methods
+	Height/Weight: 187cm/81kg
+	Age/Blood Type: 25/O
+	Likes: Pizza
+	Hobby: Motorcycles
+	Job: Unemployed (When he needs money he makes it by being a
+	                 bodyguard or streetfighter)
+
+
+	Costume 1: Red karate type outfit with black belt, black boxing
+	           type gloves/foot guards, and tatoo on the arm.
+	Costume 2: Black leather biker outfit with hotrod flames on the
+	           the sides of the legs/arms. Jolly Roger skull with more
+	           flames on the back of the jacket, black studded gloves
+	           and biker boots.
+
+ Marshall Law: Chinese
+ -------------
+
+     Law is a martial arts master who, while his dream is to open his own
+   dojo, works in a Chinese Restaurant in San Francisco's Chinatown. He
+   is participating in the Rave War so he can use the prize money to open 
+   his dojo.
+
+	Fighting Style: Martial Arts
+	Height/Weight: 179cm/69kg
+	Age/Blood Type: 25/B
+	Likes: Money
+	Hobby: Fishing
+	Job: Works at a Chinese Restaurant and is also a substitute
+	     instructor at a martial arts dojo.
+
+	Costume 1: Jumpsuit (longsleeve charcoal grey top/yellow bottom),
+	           white shirt and tennis shoes
+	Costume 2: Black wrist cuffs, black chinese pants w/red cuffs,
+	           and black chinese shoes/slippers.
+
+ Nina Williams: British
+ --------------
+
+     Nina acquired her unusual combination of skills from her parents. Her
+   father, once an assassin for the IRA left Ireland to escape his past.
+   His marriage to a British Aikido champion created a bloodline that would
+   spawn a child with incredible talent and a killer instinct. Nina was
+   kidnapped by an underground force and drugged into believing that that
+   the Rave War sponsor must be assassinated. God help anyone who gets in
+   her way.
+
+	Fighting Style: Vital point (bone method) martial arts and Aikido
+	Height/Weight: 161cm/49kg
+	Age/Blood Type: 20/A
+	Likes: Tom from Tom and Jerry, milk tea, & scotch
+	Hobby: Travel
+	Job: Assassin
+
+	Costume 1: Blue/purple bodysuit, yellow belt, black wrist cuffs.
+	Costume 2: Black half top & elbow length gloves, black calf
+	           long pants w/3 slits along the sides, babydoll shoes.
+
+ Jack: Russian
+ -----
+
+     Jack is an android. A killing machine who only knows one thing,
+   "Don't stop until all your enemies are gone."  Made by the Soviets
+   prior to the great disarmament. He was thought to be destroyed in the
+   early 90's along with the nuclear warheads. Protected by a madman whose
+   goal is to turn Russia back into a Communist power, Jack can be very
+   difficult to stop. If he wins, international sparks will fly.
+
+	Fighting Style: Power (no brains) Fighter
+	Height/Weight: 235cm/168kg
+	Age/Blood Type: 3/none
+	Likes: Akihabara parts centre
+	Hobby: Giving himself an overhaul
+	Job: Working in a scrapyard
+
+	Costume 1: Green tanktop/camoflage pants, black studded gloves,
+	           and black army boots.
+	Costume 2: Olive tanktop/camoflage pants, black studded gloves,
+	           and olive canvas boots.
+
+ King: Mexican
+ -----
+
+	Fighting Style: Pro wrestling
+	Height/Weight: 190cm/85kg
+	Age/Blood Type: 30/A
+	Likes: Jaguar (the animal)
+	Hobby: Seeing children's smiling faces
+	Job: Pro wrestler
+
+     King was once a ruthless killer. Orphaned at birth, he was a street
+   child who only knew a life of crime. Found half dead by a Marquez Priest,
+   he was nursed back to health and joined the order. His dream of building
+   an orphanage can be realized by winning the Tournament.
+
+	Costume 1: Blue/black tights, grey knee pads, and black boots.
+	Costume 2: Blue collared shirt, white suspenders, red/white
+	           checkered tie, white pants and black shoes.
+
+ Yoshimitsu: Japanese
+ -----------
+
+     Leader of the "Manjito", an international criminal organization. The
+   "Manjito" only steal from those who profit by commiting injustices, so
+   they are a group of righteous robbers who eliminate merciless people.
+   While he serves as a decoy in the tournament, Yoshimitsu's henchmen
+   will be stealing the operating funds of the Rave War.
+
+	Fighting Style: Manjito Jujitsu
+	Height/Weight: 178cm/63kg
+	Age/Blood Type: Unknown/O
+	Likes: Video Games
+	Hobby: Watching Sumo Wrestling
+	Job: Leader of the Manjito
+
+	Costume 1: White armor with red striped accents and demon mask.
+	Costume 2: Silver armor with additional sheilding on the
+	           shoulders-elbow, chainmail waist area, and arms/legs
+	           armor has a segmented look,black shoes and demon mask.
+	Weapon:    Sword
+
+ Michelle Chan: Native American
+ --------------
+
+     The daughter of the Hong Kong man that Heihachi sent to search for
+   ancient treasure buried in Native American land and a local woman. On her
+   eighteenth birthday, Michelle's mother told her that her father had been
+   killed by Heihachi, so she has entered the Rave War in order to extract
+   revenge on "Mishima".
+
+	Fighting style: Various Chinese martial arts
+	Height/Weight: 163cm/53kg
+	Age/Blood type: 18/B
+	Likes: Buffalo
+	Hobby: Hunting
+	Job: Unemployed (Travelling the world in search of the person who
+	                 killed her father)
+
+	Costume 1: Red headband w/feather, brown suede fringed jacket,
+	           white shirt, cut-off bluejean shorts, white kneepads,
+	           brown gloves and knee calf-high moccasin boots.
+	Costume 2: Charcoal grey long-sleeve shirt, white pants, brown
+	           gloves and shoes.
+
+ Lee Chow Lang: Chinese (The Silver-haired Demon)
+ --------------
+
+     Lee is Heihachi's adopted son and Kazuya's rival. From childhood,
+   he was included in the same training (to become head of the Mishima
+   family) as Kazuya. Of course their combat skill is equal, but those
+   who know his power fear the "Silver-haired Demon".
+
+	Costume 1: Frost hair, armless blue top w/zipper up the front,
+	           boxing-type gloves, black leather pants and brown boots.
+	Costume 2: Black tuxedo, red rose in breast pocket, boxing-type
+	           gloves and black shoes.
+
+ Kuma: Bear (Today's dinner is human meat!)
+ -----
+
+     Kuma is Heihachi's pet watchdog.  Generally speaking, bears are
+   cruel animals and Kuma is the worst of the lot. What makes him even
+   more terrible is the fact that his favorite food is human flesh.
+   Before fighting Heihachi, Paul must face Kuma's overwhelming power.
+   Be careful not to get eaten.
+
+	Costume 1: Brown grizzly bear with white claws and mane.
+	Costume 2: White polar bear with red claws.
+
+ Wang Gin Lei: Chinese
+ -------------     
+
+     A brave old man who also has a kind heart. He was a close friend
+   of Kazuya's grandfather. After the death of Kazuya's grandfather,
+   he put his faith in Heihachi. However, Wang does not normally know
+   of Heihachi's actions.
+
+	Costume 1: White cap, orange chinese-type jacket with a design of
+	           a winding dragon on the back, green belt, black pants,
+	           orange lower leg coverings and black chinese slippers.
+	Costume 2: Red/blue beanie, similar green jacket with dragon, blue
+	           belt, black pants with green lower leg coverings, and
+	           black chinese slippers.
+
+ Anna Williams: British
+ --------------
+
+     Briefly (not a translation) she is the younger sister of Nina by
+   three years.
+
+	Costume 1: Red strapless dress that flows into one pants type leg
+	           garnished with an exotic bird design, and the other leg
+	           exposed in nylon. Red arm length gloves and high heels.
+	Costume 2: Blue version of the same dress.
+
+ P. (Prototype) Jack: Russian
+ --------------------
+
+     The prototype for Jack, developed by Russia. Since it was just a
+   step in the production, the skin was removed from the mecha. P. Jack
+   was built only for power, so his power capacity far surpasses that
+   of the completed Jack. Heihachi has entered him into the contest in
+   order to face him against Jack.
+
+	Costume 1: A mis-match of parts which include a rocket on the back,
+	           a contruction yellow type cone drill for a right arm/hand,
+	           a U-clamp hand and metal lower left arm, metal jointed
+	           hip, and a metal left lower leg.
+	Costume 2: A more cyborg look, all mechanical body with Jack's head
+	           sporting sunglasses. Left arm looks like a cannon, the
+	           right a spinning spiked mace.
+
+ Armor King: Mexican (Former Pro Wrestling World Champion)
+ -----------
+
+     Armor King was King's rival as a new member. Years ago, during a
+   match, King made a mistake and smashed one of Armor King's eyes. After
+   that, King bathed in the spotlight of the Pro Wrestling World while
+   Armor King went down the opposite road of a missing eye handicap.
+
+	Costume 1: Black armor costume with huge shoulder spikes, red right
+	           eye, steel forearm guards with spikes, and metal shin
+	           guards and shoes.
+	Costume 2: Blue version of the same costume.
+
+ Ganryu: Japanese
+ -------
+
+	Costume 1: Traditional sumo wear in purple, white wrist wrappings
+	           and ankle wraps.
+	Costume 2: Traditional karate-type outfit in white with a blue belt.
+
+ Kunimitsu: Japanese (Traveling the world for greed)
+ ----------
+
+     Kunimitsu was a member of the Manjito crime syndicate. But when he
+   stole for his own self-interest, he was expelled by the leader,
+   Yoshimitsu. Even after that, he continued to steal without reforming.
+   Now his reason for entering the tournament is to plunder the treasure
+   that Heihachi stole from the Native Americans.
+
+	Costume 1: Black shirt, purple/black stripped jumpsuit costume,
+	           double ponytails, grey boots/gloves and demon mask.
+	Weapon:    Double-ended 4-edge daggers
+
+	Costume 2: Black shirt, dark brown/black stripped jumpsuit costume,
+	           double ponytails, grey boots/gloves and demon mask.
+	Weapon:    Two hand sickles
+
+ Heihachi Mishima: Japanese
+ -----------------
+
+	Costume 1: Black karate-type outfit w/lion on the back, light grey
+	           hand and ankle wrappings.
+	Costume 2: Blue karate-type outfit w/lion on the back, sleeves torn
+	           off from the biceps, light grey hand and ankle wrappings.
+
+ Devil Kazuya: Japanese
+ -------------
+     
+	Costume: Blue tights, black underwear, boots and gloves.
+	         Hair twice as spiky as the normal Kazuya.
+
+==========================================================================
+
+LOCALES:
+--------
+
+ Acropolis: Roman temples/ruins and water in the background.
+ Chicago: On a rooftop overlooking Chicago city at night.
+ Monument Valley: Desert at sunset, with cliffs in the distance.
+ Fiji: In a park overlooking a beach, palm trees, and the ocean.
+ Angkor Wat: Clearing in a tropical setting with temple ruins in the BG.
+ Szechwan: Mountainous lush tropical background.
+ Kyoto: Garden with trees and the temple Heian Jingu in the background.
+ Windermere: Park setting with trees, stone oblisks, a lake and mountains.
+ Stadium: Baseball stadium with a small monitor on the scoreboard that
+          displays your fight in realtime.
+ King George Island: You fight on a floating flat glacier in artic
+                     surroundings with other glaciers, the water and snow!
+                     (note: press pause to see the rocking of the glacier)
+ Venezia: Fought overlooking water canals and Italian architecture.
+
+==========================================================================
+
+CREDITS:
+--------
+ 
+  Cool Ascii Title:
+
+        - gkomatsu@uhunix.uhcc.hawaii.edu
+
+  For Tekken Arcade FAQ:
+
+	- trashinpud@aol.com (Slycer)
+
+  For Tekken PSX FAQ:
+        
+	- gouki@pop01.ny.us.ibm.net
+	- Phil1701A@aol.com
+	- kento@twics.com (& Satsuki)
+	- hata@kappa.iis.u-tokyo.ac.jp
+	- uncrisis@umich.edu
+	- maestas@CS.Arizona.EDU
+	- tchiang@aol.com
+	- ruchets@esiee.fr
+	- leungr@hkeqss01.eq.gs.com
+	- boyer@world-net.sct.fr (KasyO/RaooL)
+	- rkuo@eniac.seas.upenn.edu
+	- beja@miage8.miage.dauphine.fr
+	- harrison@asiaonline.net
+	- beja@miage8.miage.dauphine.fr
+	- SETOM@delphi.com
+
+==========================================================================
+
+LOOKING FOR CONTRIBUTIONS:
+--------------------------
+
+Since Tekken is about to be released in the US, there will likely be new discoveries on combos and such... if you have something to contribute, please do so by listing moves using the same technique as presented in this FAQ. I also realize that there are several Tekken strategy guides in Japan, if you have access to these that features moves not found in this FAQ, or correct move names, please email me.
+
+==========================================================================
+
+GRATUITOUS BITCHING
+-------------------
+
+check out the latest Game Players for a rip-off variation of my FAQ as well as other zines that are now featuring Tekken guides (wow, it's only been available on the PSX for over half a year just as long as my FAQ's been out), but why pay for it when you can get it for free? hell, here's my plug not buy any of the outdated trash you'll find on the shelves... there's always enough time to flip at the newsstand, long live the net. ^_^
+
+==========================================================================
+Thanks for checking this FAQ out. If you have any contributions on moves,
+combos, corrections, or constructive critisism, email me at loki@linex.com
+
+                                 CHEERS!

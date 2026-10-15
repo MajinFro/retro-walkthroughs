@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="D-Pad">
+  <defs>
+    <radialGradient id="ps-dpad-bg" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#384152" />
+      <stop offset="100%" stop-color="#0f131a" />
+    </radialGradient>
+  </defs>
+  <!-- Base cross shape -->
+  <path d="M24 6 h16 v18 h18 v16 h-18 v18 h-16 v-18 h-18 v-16 h18 Z" fill="url(#ps-dpad-bg)" stroke="#475569" stroke-width="2" stroke-linejoin="round" />
+  <!-- Directional indicators -->
+  <polygon points="32,10 37,18 27,18" fill="#94a3b8" />
+  <polygon points="32,54 37,46 27,46" fill="#94a3b8" />
+  <polygon points="10,32 18,27 18,37" fill="#94a3b8" />
+  <polygon points="54,32 46,27 46,37" fill="#94a3b8" />
+  <circle cx="32" cy="32" r="5" fill="#1e2532" stroke="#475569" stroke-width="1.5" />
+</svg>

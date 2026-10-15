@@ -1,0 +1,596 @@
+====================================================================
+Tekken FAQ 2.2
+by 
+Slycer
+====================================================================
+
+Well, it's not fancy, but it'll do in a pinch. I hope to add to this in
+the future. Enjoy.
+
+=====================================================================
+
+
+Story:
+------
+
+ Towards the end of the 20th century, a mysterious challenge went out to
+all who were deserving.  No one knows from where it originated, but its draw
+was irresistible.  The promise of power and riches beyond those attainable by
+the common man all to go to the survivor.  From the depths of the lower earth 
+to the far reaches of the outlands the call escaped no one. Many perished 
+during the mortal street fights that were only a preview of the challenges 
+that were to come. Only 8 remain, those with the true killer instinct, all 
+ready to die, to gain the title of "TEKKEN", "Lord of the Rave War."
+
+==========================================================================
+ 
+ Abbreviations:
+ --------------
+
+  F = Forward           LP = Left Punch
+  D = Down              RP = Right Punch
+  B = Back              LK = Left Kick
+  U = Up                RK = RIght Kick
+  HCB = Half-circle Back
+  HCF = Half-circle Forward
+
+==========================================================================
+
+ Notes:
+ ------
+
+ Some moves that have LP + RP listed do not NEED to have both punches
+pressed, but it works just fine that way, and also, some moves can be
+done by pressing both buttons. The CPU decides which attack to throw out.
+This is very overused with King and Jack, where you keep smacking the
+punches and getting combos.
+
+ For some moves that require you to tap or hold DF or DB, the placement of
+the controller must be exact, so some moves might seem not to work all the
+time, but it just takes a little practice.
+
+Some moves, mostly the Jump Kicks, can only be done from a little bit away
+from the enemy. They won't work if you're standing right up close.
+
+ If a move has (hold) next to it, it simply means that you must hold
+the controller in that position for about 1 seconds.
+
+ If it says to "tap" a certain motion, it means you must gently tap the
+controller in that direction. Holding the controller in the specified
+direction will not produce the desired effect.
+
+==========================================================================
+ 
+ Stuns:
+ ------
+
+ If something has (stuns) next to it, it means that the move will
+stun the enemy if blocked, and leave them open for an attack. Cheap, but
+it's there.
+
+==========================================================================
+
+Moves for all characters:
+-------------------------
+
+ Dashing: Forward Dash - tap F, F
+          Backward Dash - tap B, B
+
+ Running: tap F, F (hold 2nd F) starting at least 2 screen distances away
+          from the opponent
+
+ While Running: Diving Attack - LP + RP
+                Slide Kick - RK
+                Leg Grab Takedown - B + LP + RP
+
+ Getting Up: Roll Back - repeatedly tap B
+             Roll Forward - repeatedly tap F
+             Kick - B + LK + RK (different characters do different attacks)
+             Diving Attack - F + LP + RP, F + LP + RP (different characters
+                                                      do different attacks)
+             Rollback Diving Attack - tap B until you start to roll
+                                      backward, then do Diving Attack while
+                                      rolling
+
+ While Opponent is on Ground: Pounce Hit - U + RP
+                              Hop Pounce - lightly tap U + RP
+        
+==========================================================================
+
+Individual Moves:
+-----------------
+
+ Jack:       Moves:
+ -----
+             Overhead Hammer - DF + LP + RP
+             Machine Gun Punches - tap DB + LP(x3)
+             Machine Gun Punches/Double Hammer - tap DB + LP(x3), RP(x2)?
+             Clap - F, F + LP + RP (stuns)
+             3-hit Punches - LP, LP, LP
+             Windmill Punches - D (hold), DF, F + LP, RP, LP
+             Sit - tap D + LK + RK
+             Sitting Punches - LP, RP, LP, RP (or vice versa) while sitting
+             Power Punch - B, DB, D, DF + RP
+             Windup Punch - B. DB. D. DF. then rotate controller
+                            counterclockwise to windup, then LP to punch
+                            (Jack will count to 5 if you continue to rotate
+                            controller, at which point the punch is
+                            unblockable, otherwise it just stuns if blocked)
+
+             Punch/Elbow - RP, LP
+             5-hit Low Punches - D + LP + RP, LP + RP (x4)
+
+             Throws:
+
+             Big Splash - LP + LK (counts as a throw when done up close)
+             Overhead Lift - RP + RK
+             Backbreaker - HCB + RP
+             Power Bomb - HCF + LP
+
+
+ Nina:       Moves:
+ -----
+             Triple Kick - tap DF + LK, LK (x2)
+             Triple Kick/Slap - tap DF + LK, LK (x2), LP
+             Triple Kick/Roundhouse - tap DF + LK, LK(x3), RK
+             Punch/Roundhouse - RP, RK
+             Straight Kick/Roundhouse - tap DF + LK, RK
+             Straight Kick/Spin Punch - tap DF + LK, LP
+             Straight Kick/Spin Punch/Punches - tap DF + LK, LP, RP, RP
+             Straight Kick/Punch/Straight Kick - tap DF + LK, RP, LK
+             Straight Kick/Punch/Roundhouse - tap DF + LK, RP, RK
+             Hop Kick/Low Kick/Roundhouse - tap UF + RK, LK, RK
+             2 Punches/Spin Kick - LP, RP, RK
+             2 Punches/High Kick - LP, RP, LK
+             Punch/Low Kick - RP, tap D + LK
+             2-Handed Power Thing - F, F + LP + RP
+             Flip Kick - F, F + RK (stuns)
+             Jump Kick - F, F + LK + RK (stuns)
+             5-hit  Punches - LP, RP, LP, RP, LP
+
+             Throws:
+
+             Arm Throw - LP + RP
+             Shoulder Toss - RP + RK
+             Flip Throw - F + LP + RP (have to HOLD F)
+             Chin Punch - HCF + LP + RP
+              During Chin Punch:
+               a) Leg Scissors Arm Snap - LK, RK, LK, LP + RP
+               b) Sidestep Arm Snap - LP, LK, RP, LP
+                During Sidestep Arm Snap:
+                 a) Falling Arm Snap - RP, LP, LK, RK, LP + RP
+                 b) Double Arm Snap - LK, LP, RK, LP + RP, LP + RP
+
+
+ Paul:       Moves:
+ -----
+             Forward Jump Kick - F, F + LK + RK
+             Double Jump Kick - F, F + LK, RK
+             Double Forward Jump Kick/Kick - F, F + LK, RK, RK
+             Double Forward Jump Kick/Low Kick - F, F + LK, RK, D + RK
+             Double Hop Kick - tap U or UB or UF + LK, RK
+             2 Punches/High Kick - RP, LP, LK
+             Flip Kick - F, F + RK
+             Hammer Punch - tap D + LP
+             Hammer Punch/Power Punch - tap D + LP, F + RP
+             Ground Punch - tap DF + RP or tap DB + RP
+             Sweep - tap D + RK
+             Sweep/Elbow - tap D + RK, RP
+             Elbow - hold DB, D, DF, F + LP
+             Power Punch - HCF + RP (just moves forward w/o punching if not
+                                     near enemy)
+
+             Throws:
+
+             Arm Throw - LP + LK
+             Leg-Push Throw - RP + RK
+             Rollback Throw - B + LP + LK (have to HOLD B)
+             Power Punch Throw - F, F + LP + RP
+
+
+ Kazuya:     Moves:
+ -------
+             Dragon Punch - F, D, DF + LP
+             Standing Uppercut - F, D, DF + RP
+             Double Jab Uppercut - tap DF + LP, RP
+             2 Punches/Spin Punch - LP, LP, RP
+             2 Punches/Power Punch - LP, RP, RP
+             Spin Punch - F + RP
+             Punch/Spin Punch - RP, RP
+             2 Punches - LP, RP
+             Flip Kick - ?
+             Axe Kick - F + LK or RK close to enemy
+             Double Sweep - F, D, DF + RK, RK (not sure about this)
+             Jump Kick - F, F + LK + RK (stuns)
+             Backward Jumping Spin Kick - tap UB + RK
+             Upward  Jumping Spin Kick - tap U + RK
+             Forward Jumping Spin Kick - tap UF + RK
+             Forward Jumping Spin Kick/Sweep - tap UF + RK, RK
+
+             Throws:
+
+             Double Kick Hold - LP + LK
+             Hiptoss - RP + RK
+             Headbutt - F, F + LP + RP
+
+
+ Michelle:   Moves:
+ ---------
+             3 Punches - LP, LP, LP
+             5 Punches - RP, LP, LP, LP, RP
+             Double Low Kick - tap D + RK, RK (while holding D)
+             Low Kick/High Kick - tap D + RK, RK (with controller neutral)
+             Low Kick/Uppercut - tap D + RK, LP
+             Kick/Low Kick - RK, tap D + RK
+             Kick/Double Low Kick - RK, tap D + RK, RK (while holding D)
+             Kick/Low Kick/Uppercut - RK, tap D + RK, LP (without holding D)
+             Sweep - hold DF + RK
+             Sweep/Jump Kick - hold DF + RK, LK
+             Big Boot - tap D, RK
+             Uppercut - tap D, RP
+             Uppercut/2 Punches - tap D, RP, LP, LP
+             2-Fisted Power Punch - F, F + LP + RP (stuns)
+             Jump Kick - F, F + LK + RK (stuns)
+
+             Throws:
+
+             Side Suplex - LP + LK
+             Leg-Hook Suplex - RP + RK
+             German Suplex - LP + RP (behind enemy)
+             Go-Behind - RP, B (RP MUST hit enemy)
+             Low Punch/Uppercut Throw Thing - tap DF + RP, LP (RP MUST hit)
+        
+
+ Law:        Moves:
+ ----
+             5 Punches - LP (x5)
+             4 Punches/Backhands - LP (x4), RP (x3)
+             3 High Kicks - LK (x3)
+             2 Backhands - RP (x2)
+             3 Backhands - tap F + RP, RP(x2)
+             Low Kick/High Kicks - tap D + LK, LK(up to 3x)
+             Spinning Kicks - RK, LK, RK
+             Jump Kick - F, F + LK (stuns)
+             Flip - D (hold), U
+             Flipkick - D (hold), U + RK
+             Stronger Flipkick - D (hold), U + LK + RK
+
+             Throws:
+
+             Death From Above - LP + LK
+             Face Punch - RP + RK
+             Knee Bash - F, F + LK + RK
+
+
+ Yoshimitsu: Moves:
+ -----------
+             Spin - hold B + LP (up to 5x) (if done 5x, Yoshimitsu becomes
+                                            dizzy and falls down)
+             Spinning Sweeps - tap DB + LK, LK (up to 5x) (if done 5x,
+                               Yoshimitsu becomes dizzy and falls down)
+             Backhand - F + RP
+             2 Spin Hits/2 Spinning Sweeps - B + LP, LP, DB + LK, LK
+             Knee - F, F + RK
+             Triple Kick - RK, RK, RK
+             Spinning Kick/Straight Kick - LK, RK
+             Flip Kick - F, F + LK + RK
+             Flip Kick/Corkscrew - F, F + LK + RK, F, F + LP + RP
+
+             Throws:
+
+             Flying Body Slam - LP + LK
+             Sword Bash - RP + RK
+
+
+ King:       Moves:
+ -----
+             Bunch'a'Punches - LP, RP, LP, LP, RP
+             Low Lunge - F, F + RP
+             Low Jab - tap DF + RP
+             Hammer Elbow - tap DF + LP (stuns)
+             Big Boot - F, F + RK
+             Dropkick - F, F + LK + RK (stuns)
+             Spinning Dropkick - F, F, F + LK + RK (stuns)
+             Sliding Kicks - hold DF + RK(x3)
+             Hopping Double Fist - tap UF + LP + RP
+             Dive - F, F + LP + RP (stuns)
+
+             Throws:
+
+             Knee Bash - LP + LK
+             Suplex - RP + RK
+             Power Bomb - D, DF, F + LP
+             Leg Swing - F, B, DB, D, DF, F + LP
+             Leg Grab - tap DF + LK + RK (still does damage if it hits but
+                                          doesn't grab)
+             DDT - tap DB, DB + LP + RP
+
+==========================================================================
+ 
+ Hard Pounces:
+ -------------
+
+ Normally to execute a pounce attack, you just hit U + RP when the opponent
+is on the ground. This causes you to automatically jump into the air and
+land on the enemy with a pounce attack that is usually different from your
+character's regular ground punch while jumping. However, when you hit the
+enemy with a pounce, they seem to magically fly a few feet away after being 
+"hit". However, hard pounces actually land on the enemy, and do more damage 
+than normal pounces, but also have a few drawbacks. When normal pounces tend 
+to "home in" on the enemy to some extent, heavy pounces have a set range, 
+which is rather short, so you must aim correctly if you want to hit the enemy.
+Also, hard pounces can be done any time, even if the enemy is not on the 
+ground. If you do a hard pounce while the enemy is just standing there, expect
+to get hit. Hard pounces are also slower than normal pounces, so the enemy has
+more time to recover before you hit, and there is a greater lag time for you 
+after doing a heavy pounce, giving the enemy more time to retaliate.
+
+
+ Law:        ?
+ ----
+
+ Michelle:   Hopback Stomp - UF + LK + RP
+ ---------
+
+ King:       Elbow Drop - UF (or U) + RP + RK
+ -----       Knee Drop - UF + LK + RK
+
+ Yoshimitsu: Hopback Stomp - UF + LK + RK
+ -----------
+
+ Jack:       Butt Drop - UF + LK + RK (if this misses, causes Jack to sit)
+ -----
+
+ Kazuya:     Hopback Punch - UF + RP + RK
+ -------
+
+ Nina:       ?
+ -----
+
+ Paul:       ?
+ -----
+
+==========================================================================
+ 
+ Unblockable Attacks:
+ --------------------
+
+ Like the name implies, these attacks cannot be blocked. Since they take so
+long to actually attack, it's easy to knock someone out of one. However, if
+the attack does hit, most unblockable attacks do at least 50% damage, with
+the exception of Yoshimitsu's Sword Chop. Without further ado, here is each 
+character's unblockable attack:
+
+
+ Paul:       ?
+ -----
+
+ Kazuya:     ?
+ -------
+
+ Jack:       Windup Punch - B, DB, D, DF, rotate controller counterclockwise
+ -----                      until Jack reaches the count of 5, then LP
+                            (if count isn't at 5, punch can be blocked)
+                            (at 5, this is an instant 1-hit kill)
+
+ Law:        Dashing Punch - Tap DB + LP + RP (tap U, U to abort attack)
+ ----
+
+ Nina:       Crane Chop - Tap DB + LP + RP (tap U, U to abort attack)
+ -----
+
+ Yoshimitsu: Sword Chop - Tap DB + LP (quick, but does little damage)
+ ----------- Sword Stab - Tap B, B + LP
+        
+ King:       ?
+ -----
+
+ Michelle:   Running Uppercut - Tap B, B, B (hold 3rd B, this makes her
+ ---------                                   stand on one leg)
+                                Tap LP to run and punch (while standing on 1
+                                                         leg)
+
+==========================================================================
+ 
+ 10-Attack Strings:
+ ------------------
+
+ Some people think these are combos, but they are not. These are just
+strings of 10 attacks that do lots of damage if they all hit, but are not
+combos per se. In other words, if one hit of the string hits, it does not
+mean that the rest will. The enemy still has a chance to get away, block, or
+counterattack. The good thing about the strings is that the attacks change
+from high to low throughout, which can be difficult to block. Although there
+are variations and changes that can be done to the strings, the only way to
+get the full 10 attacks is to do it exactly as listed below. Besides doing
+good damage, some of these are just plain impressive.
+
+ Yoshimitsu: LP, RP, LP, RK, RK, RK, LP, LP, LP, LP
+ -----------
+
+ Paul:       LP, RP, LK, RP, LP, RP, LP, RK, RP, LP
+ -----
+
+ King:       LP, RP, LP, LP, RP, RK, RK, RK, LP, LK
+ -----
+
+ Kazuya:     tap F, F + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP
+ -------
+
+ Nina:       LP, RP, LP, RP, LK, LK, RP, LP, RP, RP
+ -----
+
+ Law:        tap DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK
+ ----
+
+ Michelle:   RP, LP, LP, RP, LK, LK, LK, RK, RK, LP
+ ---------
+
+ Jack:       D + RP, LP, LP, LP, RP, LP, RP, RP, LP + RP, LP + RP
+ -----
+
+==========================================================================
+ 
+ Bosses:
+ -------
+
+ For the 8th match, each character fights a different boss. Here are the
+bosses for each character:
+
+
+ Paul:      Kuma - A large brown bear with the moves of Jack.
+ -----
+
+ Yoshimtsu: Ganryu - A sumo wrester with the moves of Jack, and a multi-slap
+ ----------          of his own, plus Kazuya's hiptoss.
+
+ Michelle:  Kunimitsu - A man in purple with the face of Yoshimitsu, and
+ ---------              kunai instead of swords. He has the moves of
+                        Yoshimitsu.
+
+ Nina:      Anna - A woman in a red dress with the moves of Nina and Law's
+ -----             Flipkick.
+
+ Law:       Wang - An old man in orange with Nina and Michelle's moves, and
+ ----              Kazuya's hiptoss.
+
+ King:      Armor King - A black lion-man robot with the moves of Lion, and 1
+ -----                   of Michelle's suplexes, and Kazuya's dragon punch.
+
+ Jack:      P. Jack - A robotic form of Jack, with a hook for 1 hand, and a
+ -----                drill for the other. He has the moves of Jack and Paul.
+
+ Kazuya:    Lee - A martial artist in black with the moves of Law and Paul.
+ -------
+
+ For the 9th round, all characters fight against Heihachi. Heihachi is a man
+with weird hair in a black gi with a tiger's head on the back. He has the
+moves of Kazuya and Paul.
+
+==========================================================================
+
+Character Stories:
+------------------
+
+ Kazuya Mishima: Japanese - Karate Fighter
+ ---------------
+
+        Kazuya is a scuffle Karate Fighter with an even temperament and a
+ cool head. He's the legitimate heir to the Mishima financial empire, he was
+ banished by his father for a crime he did not commit. In their final battle,
+ he was left to  die by his father and he still bears the scar on his chest as
+ a contsant reminder. He wishes to use the tournament winnings to finance the
+ overthrow of his father's forces.
+
+
+ Paul Phoenix: American - Judo Expert
+ -------------
+
+        Driven to be the best of the best, Paul travels the world in search of
+ the perfect opponent. He is a judo expert but he is skilled in many forms of
+ the Martial Arts. There is only one fighter in this tournament who is ranked
+ on an equal level to Paul. His goal is to eliminate any comparisons.
+
+
+ King: Mexican - Wrestler
+ -----
+
+        King was once a ruthless killer. Orphaned at birth, he was a street
+ child who only knew a life of crime. Found half dead by a Marquez Priest, he
+ was nursed back to health and joined the order. His dream of building an
+ orphanage can be realized by winning the Tournament.
+
+
+ Nina Williams: British - Bone Martial Arts & Aikido
+ --------------
+
+        Nina acquired her unusual combination of skills from her parents.  Her
+ father, once an assassin for the IRA left Ireland to escape his past.  His
+ marriage to a British Aikido champion created a bloodline that would spawn a
+ child with incredible talent and a killer instinct. Nina was kidnapped by an
+ underground force and drugged into believing that that the Rave War sponsor
+ must be assassinated. God help anyone who gets in her way.
+
+
+ Jack: Russian - Power fighter
+ -----
+
+        Jack is an android. A killing machine who only knows one thing,
+  "Don't stop until all your enemies are gone."  Made by the Soviets prior
+  to the great disarmament. He was thought to be destroyed in the early 90's
+  along with the nuclear warheads. Protected by a madman whose goal is to
+  turn Russia back into a Communist power, Jack can be very difficult to
+  stop. If he wins, international sparks will fly.
+
+==========================================================================
+
+Miscellaneous:
+--------------
+
+ "Fruit": Just to clear up one thing some people are confused with. Tekken
+has two different violence settings for some reason. One setting produces
+red sparks when an enemy is hit, and keeps track of wins by the word "Wins"
+with the number of wins next to it on the bottom of the screen. The other
+setting produces green sparks when a hit connects, and wins are kept track
+of by various pieces of fruit and other symbols. Not all Tekkens have this
+stupid fruit thing.
+
+ Alternate Colors: To choose the normal colors for your character, select
+your character using either punch. To get the alternate colors, select
+your character using either kick. According to Galen Komatsu, there is also
+a 3rd color scheme, for Kazuya at least, but it is unknown how to access it.
+
+ Round Extensions: I was playing on a Tekken with symbols instead of wins,
+so I am not totally sure what number win I was on when this happened.
+Usually, the symbols come in pairs, so I thought nothing of it when a symbol
+that was a yellow flag with an "S" next to it appeared where the wins appear. 
+However, the match that that symbol first appeared during was set for the best 
+3 of 5, instead of the usual 2 of 3 wins. After winning, there was not another 
+flag symbol, there were pairs from then on, and the matches
+were back to the best 2 of 3 wins. Weird.
+
+ Pac-Man: If you play on a Tekken with symbols instead of wins, if you get
+40 wins or more, as far as I know, all symbols from that point are just
+yellow Pac-Men, but then again, I've only seen up to 44 wins, but since the
+symbols usually come in pairs, and there were 4 Pac-Men, it seems logical.
+
+ "Endings": Unfortunately, Tekken has no endings after beating Heihachi.
+All you get is a series of replays showing your 2nd defeat of each CPU
+opponents, then the credits screen. I've seen 3 different backdrops for
+the credits screen, but I don't know if they're random or if you see
+a certain one for doing something special. The first is an orange skyline
+behind orange mountains. The second is the same orange tint, but with
+a picture of clouds instead of mountains. The third is a scrolling blue
+scene with bluish-white clouds, finally stopping on a large cloud with
+a ray of white light coming from it. I've only seen the blue one once.
+Nothing special, considering no one watches the credits anyway.
+
+==========================================================================
+
+Special Thanks:
+---------------
+
+ Gkomatsu@uhunix.uhec.hawaii.edu - For lots of stuff.
+
+ Sivlar@aol.com - Helped with a few moves and stun moves.
+                  (and also decided to put his name on this FAQ and removed
+                   the Special Thanks section when he uploaded it to AOL)
+
+ XxAnthony@aol.com - Helped with Law's flipkicks.
+
+ Lindsey_Be@mercer.peachnet.edu - For Michelle's Sweep/Jump Kick.
+
+ Jholmstr@violin.aix.calpoly.edu - For Yoshimitsu's Sword Chop and Spinning
+                                   Sweeps.
+
+ Ekwan@unixg.ubc.ca - For posting a few things I missed in the
+                      afforementioned newsgroup, and for a few Nina and Paul
+                      combos.
+
+ 25096@ef.gc.maricopa.edu - For the opening story.
+
+ Yu8954@nova.gmi.edu - For character stories.
+
+ Gamest Magazine: For indirectly providing me with loads of good info.
+
+==========================================================================

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Square Button">
+  <defs>
+    <radialGradient id="ps-bg" cx="38%" cy="32%" r="68%">
+      <stop offset="0%" stop-color="#384152" />
+      <stop offset="55%" stop-color="#1e2532" />
+      <stop offset="100%" stop-color="#0f131a" />
+    </radialGradient>
+    <linearGradient id="ps-bevel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.35)" />
+      <stop offset="100%" stop-color="rgba(0,0,0,0.6)" />
+    </linearGradient>
+    <filter id="glow-sq" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2.5" flood-color="#f43f5e" flood-opacity="0.65" />
+    </filter>
+  </defs>
+  <!-- Outer drop shadow -->
+  <circle cx="32" cy="34" r="29" fill="rgba(0,0,0,0.45)" />
+  <!-- Button Body -->
+  <circle cx="32" cy="32" r="29" fill="url(#ps-bg)" stroke="url(#ps-bevel)" stroke-width="2" />
+  <!-- Inner Rim -->
+  <circle cx="32" cy="32" r="25.5" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.2" />
+  <!-- Square Symbol -->
+  <rect x="20" y="20" width="24" height="24" rx="2.5" fill="none" stroke="#f43f5e" stroke-width="4.5" stroke-linejoin="round" filter="url(#glow-sq)" />
+</svg>

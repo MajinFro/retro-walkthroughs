@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import mermaid from 'mermaid';
 import { useEffect, useRef } from 'react';
+import { PlayStationButton, parsePlaystationButtons } from '../components/PlayStationButton';
 
 // Define a safe Mermaid renderer component
 function Mermaid({ chart }: { chart: string }) {
@@ -113,12 +114,38 @@ function WalkthroughPage() {
                 />
               );
             },
+            p({children, ...props}: any) {
+              return <p {...props}>{parsePlaystationButtons(children)}</p>;
+            },
+            li({children, ...props}: any) {
+              return <li {...props}>{parsePlaystationButtons(children)}</li>;
+            },
+            td({children, ...props}: any) {
+              return <td {...props}>{parsePlaystationButtons(children)}</td>;
+            },
+            th({children, ...props}: any) {
+              return <th {...props}>{parsePlaystationButtons(children)}</th>;
+            },
+            strong({children, ...props}: any) {
+              return <strong {...props}>{parsePlaystationButtons(children)}</strong>;
+            },
+            em({children, ...props}: any) {
+              return <em {...props}>{parsePlaystationButtons(children)}</em>;
+            },
             code({node, inline, className, children, ...props}: any) {
-              const match = /language-(\w+)/.exec(className || '')
+              const match = /language-(\w+)/.exec(className || '');
               if (!inline && match && match[1] === 'mermaid') {
-                return <Mermaid chart={String(children).replace(/\n$/, '')} />
+                return <Mermaid chart={String(children).replace(/\n$/, '')} />;
               }
-              return <code className={className} {...props}>{children}</code>
+              const str = typeof children === 'string' ? children : String(children ?? '');
+              if (/\[(?:Square|Triangle|Cross|Circle|X|L1|R1|L2|R2|L3|R3|Start|Select|D-Pad|Up|Down|Left|Right)\]/i.test(str)) {
+                return (
+                  <span className="inline-flex items-center gap-0.5 align-middle px-1 py-0.5 rounded bg-slate-900/90 border border-slate-700/80 shadow-sm font-mono text-sm">
+                    {parsePlaystationButtons(str)}
+                  </span>
+                );
+              }
+              return <code className={className} {...props}>{children}</code>;
             },
             // Handle GitHub alerts mapping blockquotes
             blockquote({node, children, ...props}: any) {
@@ -159,7 +186,7 @@ function WalkthroughPage() {
                     return n;
                   };
 
-                  const cleanChildren = processAchievementNodes(children);
+                  const cleanChildren = parsePlaystationButtons(processAchievementNodes(children));
 
                   return (
                     <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 bg-gradient-to-r from-amber-900/40 to-slate-900/80 border border-amber-500/30 rounded-2xl p-6 my-8 shadow-2xl shadow-amber-900/20 backdrop-blur-sm relative overflow-hidden group">
@@ -197,16 +224,16 @@ function WalkthroughPage() {
                   return n;
                 };
 
-                const cleanChildren = stripTag(children);
+                const cleanChildren = parsePlaystationButtons(stripTag(children));
 
                 return (
                   <blockquote className={`border-l-4 my-6 p-4 rounded-r-lg shadow-sm ${colorClass}`} {...props}>
                     <div className="font-bold text-sm tracking-wider mb-2 opacity-90">{type}</div>
                     {cleanChildren}
                   </blockquote>
-                )
+                );
               }
-              return <blockquote {...props}>{children}</blockquote>
+              return <blockquote {...props}>{parsePlaystationButtons(children)}</blockquote>;
             }
           }}
         >

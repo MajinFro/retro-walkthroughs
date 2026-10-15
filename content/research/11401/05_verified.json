@@ -1,0 +1,4321 @@
+{
+  "generated_at": "2026-10-16T01:59:07.222Z",
+  "stats": {
+    "total": 146,
+    "verified": 16,
+    "single_source": 130,
+    "conflict": 0,
+    "resolved": 0,
+    "rejected": 0,
+    "corroborations_accepted": 0,
+    "achievements_total": 43,
+    "achievements_verified": 9,
+    "achievements_single": 34,
+    "achievements_unsupported": 0,
+    "sources": [
+      "gf1",
+      "gf2",
+      "gf3",
+      "gf4",
+      "gf5",
+      "ra-comments"
+    ]
+  },
+  "coverage": {
+    "90355": {
+      "title": "Namco Classic Challenge",
+      "facts": [
+        "gf1-18-1",
+        "gf1-18-2",
+        "gf3-1-2",
+        "ra-comments-9-1",
+        "ra-comments-11-1"
+      ],
+      "best": "single_source"
+    },
+    "90395": {
+      "title": "Cold-Blooded Son",
+      "facts": [
+        "gf2-2-1",
+        "gf4-5-1",
+        "gf4-12-1",
+        "ra-comments-56-1"
+      ],
+      "best": "single_source"
+    },
+    "90396": {
+      "title": "The Inheritor of the Demon",
+      "facts": [
+        "gf1-24-1",
+        "gf4-7-1",
+        "ra-comments-57-1"
+      ],
+      "best": "single_source"
+    },
+    "90406": {
+      "title": "Master of Evasion",
+      "facts": [
+        "gf3-4-1",
+        "ra-comments-8-1"
+      ],
+      "best": "single_source"
+    },
+    "90407": {
+      "title": "Silent Assassin",
+      "facts": [
+        "gf4-13-1",
+        "ra-comments-58-1"
+      ],
+      "best": "single_source"
+    },
+    "90408": {
+      "title": "Hot-blooded Martial Artist",
+      "facts": [
+        "gf1-22-1",
+        "ra-comments-59-1"
+      ],
+      "best": "single_source"
+    },
+    "90409": {
+      "title": "The Legendary Dragon",
+      "facts": [
+        "gf1-23-1",
+        "ra-comments-60-1"
+      ],
+      "best": "single_source"
+    },
+    "90410": {
+      "title": "Super Killing Machine",
+      "facts": [
+        "gf4-4-1",
+        "ra-comments-61-1"
+      ],
+      "best": "single_source"
+    },
+    "90411": {
+      "title": "Beast Priest",
+      "facts": [
+        "gf2-5-1",
+        "ra-comments-62-1"
+      ],
+      "best": "single_source"
+    },
+    "90412": {
+      "title": "Wandering Female Fighter",
+      "facts": [
+        "gf1-25-1",
+        "gf2-6-1",
+        "gf4-6-1",
+        "gf4-9-1",
+        "ra-comments-63-1"
+      ],
+      "best": "single_source"
+    },
+    "90413": {
+      "title": "Fighting Sage",
+      "facts": [
+        "gf1-27-1",
+        "gf2-10-1",
+        "ra-comments-64-1"
+      ],
+      "best": "single_source"
+    },
+    "90414": {
+      "title": "The King of Iron Fist",
+      "facts": [
+        "gf1-30-1",
+        "gf2-7-1",
+        "gf3-9-1",
+        "ra-comments-65-1"
+      ],
+      "best": "single_source"
+    },
+    "90415": {
+      "title": "Silver Haired-Demon",
+      "facts": [
+        "gf1-26-1",
+        "ra-comments-66-1"
+      ],
+      "best": "single_source"
+    },
+    "90416": {
+      "title": "Lost Memory Monster",
+      "facts": [
+        "gf1-28-1",
+        "ra-comments-67-1"
+      ],
+      "best": "single_source"
+    },
+    "90417": {
+      "title": "Wicked Flower",
+      "facts": [
+        "gf1-29-1",
+        "ra-comments-68-1"
+      ],
+      "best": "single_source"
+    },
+    "90418": {
+      "title": "Rikishi Strength",
+      "facts": [
+        "ra-comments-69-1"
+      ],
+      "best": "single_source"
+    },
+    "90419": {
+      "title": "Scarlet Lightning",
+      "facts": [
+        "ra-comments-70-1"
+      ],
+      "best": "single_source"
+    },
+    "90420": {
+      "title": "Mad Bear",
+      "facts": [
+        "ra-comments-71-1"
+      ],
+      "best": "single_source"
+    },
+    "90421": {
+      "title": "Traitorous Female Ninja",
+      "facts": [
+        "ra-comments-72-1"
+      ],
+      "best": "single_source"
+    },
+    "90422": {
+      "title": "Hand-to-Hand Expert",
+      "facts": [
+        "gf1-20-1",
+        "ra-comments-76-1"
+      ],
+      "best": "single_source"
+    },
+    "90423": {
+      "title": "Hand-to-Hand Veteran",
+      "facts": [
+        "gf1-20-1",
+        "ra-comments-74-1"
+      ],
+      "best": "single_source"
+    },
+    "90427": {
+      "title": "Five Minute Death Punch",
+      "facts": [
+        "ra-comments-77-1",
+        "ra-comments-78-1"
+      ],
+      "best": "single_source"
+    },
+    "90428": {
+      "title": "All Fighters Ready for Combat!",
+      "facts": [
+        "gf1-18-2",
+        "gf1-18-3",
+        "gf1-18-4",
+        "gf1-18-5",
+        "gf3-1-1",
+        "gf3-1-2",
+        "gf3-1-3",
+        "gf4-11-1",
+        "gf4-11-2",
+        "ra-comments-15-1"
+      ],
+      "best": "single_source"
+    },
+    "90429": {
+      "title": "Long Journey",
+      "facts": [
+        "gf1-20-2",
+        "ra-comments-79-1",
+        "ra-comments-79-2",
+        "ra-comments-80-1"
+      ],
+      "best": "single_source"
+    },
+    "90431": {
+      "title": "Iron Fist - Kazuya",
+      "facts": [
+        "gf1-6-1",
+        "gf1-6-2",
+        "gf1-6-3",
+        "gf3-2-1",
+        "gf3-2-3",
+        "gf3-3-1",
+        "gf3-7-1",
+        "ra-comments-22-1"
+      ],
+      "best": "verified"
+    },
+    "90432": {
+      "title": "Beginner Combo",
+      "facts": [
+        "gf1-4-5",
+        "gf1-6-3",
+        "gf3-2-3",
+        "gf5-2-1",
+        "gf5-2-2",
+        "ra-comments-17-1"
+      ],
+      "best": "single_source"
+    },
+    "90433": {
+      "title": "Ultimate Combo",
+      "facts": [
+        "gf1-12-1",
+        "gf1-13-1",
+        "gf1-14-1",
+        "gf1-15-1",
+        "gf1-16-1",
+        "gf1-17-2",
+        "gf1-4-5",
+        "gf1-6-1",
+        "gf1-7-1",
+        "gf1-8-1",
+        "gf1-9-1",
+        "gf1-9-3",
+        "gf1-10-1",
+        "gf1-10-3",
+        "gf1-11-1",
+        "gf2-3-1",
+        "gf2-4-1",
+        "gf2-4-2",
+        "gf3-2-1",
+        "gf3-2-2",
+        "gf4-11-3",
+        "gf4-11-4",
+        "gf4-10-1",
+        "ra-comments-19-1",
+        "ra-comments-38-2"
+      ],
+      "best": "verified"
+    },
+    "90434": {
+      "title": "Iron Fist - Paul",
+      "facts": [
+        "gf1-7-1",
+        "gf1-7-2",
+        "gf2-3-1",
+        "gf2-3-2",
+        "ra-comments-24-1"
+      ],
+      "best": "verified"
+    },
+    "90435": {
+      "title": "Iron Fist - Law",
+      "facts": [
+        "gf1-8-1",
+        "gf1-8-2",
+        "gf2-4-1",
+        "ra-comments-26-1"
+      ],
+      "best": "verified"
+    },
+    "90436": {
+      "title": "Iron Fist - Jack",
+      "facts": [
+        "gf1-9-3",
+        "gf1-9-4",
+        "gf4-11-4",
+        "ra-comments-28-1"
+      ],
+      "best": "single_source"
+    },
+    "90437": {
+      "title": "Iron Fist - Nina",
+      "facts": [
+        "gf1-9-1",
+        "gf1-9-2",
+        "ra-comments-34-1"
+      ],
+      "best": "single_source"
+    },
+    "90438": {
+      "title": "Iron Fist - King",
+      "facts": [
+        "gf1-10-1",
+        "gf1-10-2",
+        "ra-comments-30-1"
+      ],
+      "best": "single_source"
+    },
+    "90439": {
+      "title": "Iron Fist - Yoshimitsu",
+      "facts": [
+        "gf1-10-3",
+        "gf1-10-4",
+        "gf2-4-2",
+        "ra-comments-32-1"
+      ],
+      "best": "verified"
+    },
+    "90440": {
+      "title": "Iron Fist - Michelle",
+      "facts": [
+        "gf1-11-1",
+        "gf1-11-2",
+        "gf4-11-3",
+        "ra-comments-36-1"
+      ],
+      "best": "verified"
+    },
+    "90441": {
+      "title": "Iron Fist - Heihachi",
+      "facts": [
+        "gf1-17-2",
+        "gf3-2-2",
+        "gf3-7-1",
+        "gf3-9-1",
+        "gf5-1-1",
+        "ra-comments-38-1"
+      ],
+      "best": "verified"
+    },
+    "90442": {
+      "title": "Iron Fist - Kunimitsu",
+      "facts": [
+        "gf1-17-1",
+        "gf2-8-2",
+        "ra-comments-41-1"
+      ],
+      "best": "verified"
+    },
+    "90477": {
+      "title": "Iron Fist - Lee",
+      "facts": [
+        "gf1-12-1",
+        "gf2-9-1",
+        "ra-comments-43-1"
+      ],
+      "best": "single_source"
+    },
+    "90478": {
+      "title": "Iron Fist - P.Jack",
+      "facts": [
+        "gf1-15-1",
+        "gf5-2-2",
+        "ra-comments-45-1"
+      ],
+      "best": "single_source"
+    },
+    "90479": {
+      "title": "Iron Fist - Armor King",
+      "facts": [
+        "gf1-16-1",
+        "ra-comments-47-1"
+      ],
+      "best": "single_source"
+    },
+    "90480": {
+      "title": "Iron Fist - Anna",
+      "facts": [
+        "gf1-14-1",
+        "gf2-8-3",
+        "ra-comments-49-1"
+      ],
+      "best": "single_source"
+    },
+    "90481": {
+      "title": "Iron Fist - Ganryu",
+      "facts": [
+        "gf1-16-2",
+        "gf2-8-1",
+        "ra-comments-51-1"
+      ],
+      "best": "verified"
+    },
+    "90482": {
+      "title": "Iron Fist - Kuma",
+      "facts": [
+        "gf1-12-2",
+        "gf5-2-1",
+        "ra-comments-53-1"
+      ],
+      "best": "single_source"
+    },
+    "90483": {
+      "title": "Iron Fist - Wang",
+      "facts": [
+        "gf1-13-1",
+        "ra-comments-55-1"
+      ],
+      "best": "single_source"
+    }
+  },
+  "possible_conflicts": [
+    {
+      "key": "event|devil kazuya|how to unlock",
+      "facts": [
+        {
+          "id": "gf1-18-2",
+          "value": "Defeat Galaga with a minimum of one continue, 18.5 seconds or under grants dual ship",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "gf3-1-2",
+          "value": "Beat all 8 stages in Galaga using one continue or less",
+          "sources": [
+            "gf3"
+          ]
+        },
+        {
+          "id": "gf3-1-3",
+          "value": "Highlight Kazuya on arcade character select screen and hit start",
+          "sources": [
+            "gf3"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "event|heihachi mishima|how to unlock",
+      "facts": [
+        {
+          "id": "gf1-18-4",
+          "value": "Defeat him and all characters without using continues",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "gf3-1-1",
+          "value": "Beat the game without losing a round",
+          "sources": [
+            "gf3"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "event|arcade rival matchups|mechanic",
+      "facts": [
+        {
+          "id": "gf1-18-5",
+          "value": "Kazuya vs Lee, Paul vs Kuma, Law vs Wang, Nina vs Anna, Jack vs P.Jack, King vs Armor King, Yoshimitsu vs Ganryu, Michelle vs Kunimitsu",
+          "sources": [
+            "gf1"
+          ]
+        },
+        {
+          "id": "gf4-11-1",
+          "value": "For the 8th match, each character fights a different boss: Paul: Kuma",
+          "sources": [
+            "gf4"
+          ]
+        }
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "gf1-12-1",
+      "type": "mechanic",
+      "subject": "Lee Chaolan",
+      "predicate": "has_10_string",
+      "object": "(tap)DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90477,
+        90433
+      ],
+      "missable": false,
+      "text": "Lee Chow Lang executes a 10-Attack String with (tap)DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#12",
+          "quote": "Lee Chow Lang: (derivative of Law)...10-Attack String:\n\t\n\t(tap)DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-12-2",
+      "type": "mechanic",
+      "subject": "Kuma",
+      "predicate": "has_throw",
+      "object": "Blanket: (LP+LK), Headbutt: F + (RP+RK), Bear Hug: (RP+RK)",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90482
+      ],
+      "missable": false,
+      "text": "Kuma throws include Blanket: (LP+LK), Headbutt: F + (RP+RK), and Bear Hug: (RP+RK).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#12",
+          "quote": "Kuma: (derivative of Jack)...Blanket: (LP+LK)...Headbutt: F + (RP+RK)...Bear Hug: (RP+RK)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-13-1",
+      "type": "mechanic",
+      "subject": "Wang Jinrei",
+      "predicate": "has_10_string",
+      "object": "RP, LP, LP, RP, LK, LK, LK, LK, RK, RK, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90483,
+        90433
+      ],
+      "missable": false,
+      "text": "Wang Gin Lei executes a 10-Attack String with RP, LP, LP, RP, LK, LK, LK, LK, RK, RK, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#13",
+          "quote": "Wang Gin Lei: (derivative of Michelle)...10-Attack String:\n\n\tRP, LP, LP, RP, LK, LK, LK, LK, RK, RK, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-14-1",
+      "type": "mechanic",
+      "subject": "Anna Williams",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LP, RP, LK, LK, RP, LP, RP, RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90480,
+        90433
+      ],
+      "missable": false,
+      "text": "Anna Williams executes a 10-Attack String with LP, RP, LP, RP, LK, LK, RP, LP, RP, RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#14",
+          "quote": "Anna Williams: (derivative of Nina)...10-Attack String:\n\n\tLP, RP, LP, RP, LK, LK, RP, LP, RP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-15-1",
+      "type": "mechanic",
+      "subject": "Prototype Jack",
+      "predicate": "has_10_string",
+      "object": "D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90478,
+        90433
+      ],
+      "missable": false,
+      "text": "P. Jack executes a 10-Attack String with D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#15",
+          "quote": "P. Jack: (derivative of Jack)...10-Attack String:\n\n        D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-16-1",
+      "type": "mechanic",
+      "subject": "Armor King",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LP(rolled), LP, RP, RK, RK, RK, LP, LK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90479,
+        90433
+      ],
+      "missable": false,
+      "text": "Armor King executes a 10-Attack String with LP, RP, LP(rolled), LP, RP, RK, RK, RK, LP, LK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#16",
+          "quote": "Armor King: (derivative of King)...10-Attack String:\n\n\tLP, RP, LP(rolled), LP, RP, RK, RK, RK, LP, LK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-16-2",
+      "type": "mechanic",
+      "subject": "Ganryu",
+      "predicate": "has_move",
+      "object": "Hundred Hand Slap: F + LP, RP, LP, RP, LP, RP, LP, RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90481
+      ],
+      "missable": false,
+      "text": "Ganryu attacks include Hundred Hand Slap: F + LP, RP, LP, RP, LP, RP, LP, RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#16",
+          "quote": "Ganryu: (derivative of Jack)...Hundred Hand Slap: F + LP, RP, LP, RP, LP, RP, LP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-17-1",
+      "type": "mechanic",
+      "subject": "Kunimitsu",
+      "predicate": "has_7_string",
+      "object": "LP, RP, LP, RK, RK, RK, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90442
+      ],
+      "missable": false,
+      "text": "Kunimitsu executes a 7-Attack String with LP, RP, LP, RK, RK, RK, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#17",
+          "quote": "Kunimitsu: (derived from Yoshimitsu)...7-Attack String:\n\n\tLP, RP, LP, RK, RK, RK, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-17-2",
+      "type": "mechanic",
+      "subject": "Heihachi Mishima",
+      "predicate": "has_10_string",
+      "object": "F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441,
+        90433
+      ],
+      "missable": false,
+      "text": "Heihachi Mishima executes a 10-Attack String with F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#17",
+          "quote": "Heihachi Mishima: (derived from Kazuya)...10-Attack String:\n\n\tF, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf1-18-1",
+      "type": "event",
+      "subject": "Galaga Challenge",
+      "predicate": "mechanic",
+      "object": "8 Challenge Stages, 40 enemies each",
+      "location": "Loading Screen",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Players are welcomed with a game of Galaga while the CD is loading presenting a Challenge Stage in which you must shoot 40 enemies before advancing to the next Bonus Stage, there are 8 total.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#18",
+          "quote": "Players are welcomed with a game of Galaga while the CD is loading...You will be presented with a Challenge Stage in which you must shoot 40 enemies before advancing to the next Bonus Stage, there are 8 total.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-18-2",
+      "type": "event",
+      "subject": "Devil Kazuya",
+      "predicate": "how_to_unlock",
+      "object": "Defeat Galaga with a minimum of one continue, 18.5 seconds or under grants dual ship",
+      "location": "Loading Screen",
+      "requires": [],
+      "achievement_ids": [
+        90355,
+        90428
+      ],
+      "missable": false,
+      "text": "You will gain access to Devil Kazuya if you defeat Galaga with a minimum of one continue, best done if you clear the opening stage in 18.5 seconds or under to grant another ship.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#18",
+          "quote": "You will gain access to Devil Kazuya if you defeat Galaga with a minimum of one continue. This is best done if you clear the opening stage in 18.5 seconds or under, which will grant you another ship (double shooter).",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-18-3",
+      "type": "event",
+      "subject": "All Characters",
+      "predicate": "how_to_unlock",
+      "object": "All bosses can be accessed once defeated in Arcade mode",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "All bosses can be accessed once defeated, each character has his/her own mid-level boss with Heihachi Mishima being the last.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#18",
+          "quote": "All bosses can be accessed once defeated...Each character has his/her own mid-level boss with Heihachi Mishima being the last.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-18-4",
+      "type": "event",
+      "subject": "Heihachi Mishima",
+      "predicate": "how_to_unlock",
+      "object": "Defeat him and all characters without using continues",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "To access Heihachi, you must defeat him and all the characters before him without using continues, you may use any character in doing so.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#18",
+          "quote": "To access Heihachi, you must defeat him and all the characters before him without using continues, you may use any character in doing so.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-18-5",
+      "type": "event",
+      "subject": "Arcade Rival Matchups",
+      "predicate": "mechanic",
+      "object": "Kazuya vs Lee, Paul vs Kuma, Law vs Wang, Nina vs Anna, Jack vs P.Jack, King vs Armor King, Yoshimitsu vs Ganryu, Michelle vs Kunimitsu",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "Boss assignments include Kazuya Mishima facing Lee Chow Lang, Paul Phoenix facing Kuma, Marshall Law facing Wang Gin Lei, and Heihachi Mishima as final boss.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#18",
+          "quote": "PLAYER                  MID BOSS                FINAL BOSS\n        ------                  --------                ----------\n        Kazuya Mishima          Lee Chow Lang      -+\n        Paul Phoenix            Kuma                |\n        Marshall Law            Wang Gin Lei        |\n        Nina Williams           Anna Williams       |-- Heihachi Mishima",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-20-1",
+      "type": "mechanic",
+      "subject": "Difficulty Settings",
+      "predicate": "mechanic",
+      "object": "Easy, Medium, Hard, Very Hard, Ultra Hard",
+      "location": "Options Mode",
+      "requires": [],
+      "achievement_ids": [
+        90423,
+        90422
+      ],
+      "missable": false,
+      "text": "Options Mode provides five difficulty levels: Easy, Medium, Hard, Very Hard, and Ultra Hard.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#20",
+          "quote": "Difficulty Level:\n\n\tThere are five difficulty levels: Easy, Medium, Hard, Very Hard, and\n\tUltra Hard.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-20-2",
+      "type": "mechanic",
+      "subject": "Fight Count",
+      "predicate": "mechanic",
+      "object": "Rounds from 1 to 5",
+      "location": "Options Mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "Fight Count determines the number of rounds you must win to defeat your opponent, allowing you to choose any round from 1 to 5.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#20",
+          "quote": "Fight Count:\n\n\tDetermines the number of rounds you must win to defeat your opponent.\n\tSettings allow you to choose any round from 1 to 5.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-20-3",
+      "type": "mechanic",
+      "subject": "Character Change At Continue",
+      "predicate": "mechanic",
+      "object": "Yes allows changing character on continue, No restricts to starting character",
+      "location": "Options Mode",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character Change At Continue when turned to 'Yes' allows you to change characters when you lose in 'Arcade' mode, while 'No' only allows your starting character.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#20",
+          "quote": "Character Change At Continue:\n\n\tWhen turned to 'Yes' this allows you to change characters when you\n\tlose in 'Arcade' mode. Otherwise 'No' will only allow you to choose\n\tthe character you started with in 'Arcade' mode.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-1",
+      "type": "mechanic",
+      "subject": "Controller Layout",
+      "predicate": "button_mapping",
+      "object": "LP Square, RP Triangle, LK Cross, RK Circle",
+      "location": "Options Mode",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The controller uses LP = Left Punch (square), RP = Right Punch (triangle), LK = Left Kick (cross), and RK = Right Kick (circle).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "LP = Left Punch (square)...RP = Right Punch (triangle)...LK = Left Kick (cross)...RK = Right Kick (circle)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-2",
+      "type": "mechanic",
+      "subject": "Key Configuration",
+      "predicate": "accessed_via",
+      "object": "Title Screen/Test Mode/ Options Mode/Key Config/",
+      "location": "Options Mode",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Setting where the top buttons are assigned tasks is accessible via the Title Screen/Test Mode/ Options Mode/Key Config/.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "You can set the controllers to setting where the top buttons are assigned tasks, this is accessible via the Title Screen/Test Mode/ Options Mode/Key Config/.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-3",
+      "type": "mechanic",
+      "subject": "Free Setting",
+      "predicate": "assigns_buttons",
+      "object": "L1=LP/LK, R1=RP/RK, L2=LK/RK, R2=LP/RP",
+      "location": "Key Config",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Under Free Setting buttons are assigned with L1 = pressing LP/LK simutaneously, R1 = pressing RP/RK simutaneously, L2 = pressing LK/RK simutaneously, and R2 = pressing LP/RP simutaneously.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#3",
+          "quote": "Free Setting selected...L1 = pressing LP/LK simutaneously...R1 = pressing RP/RK simutaneously...L2 = pressing LK/RK simutaneously...R2 = pressing LP/RP simutaneously",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-1",
+      "type": "mechanic",
+      "subject": "Dashing",
+      "predicate": "requires",
+      "object": "Forward F, F and Backward B, B",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Dashing forward requires Forward: F, F and dashing backward requires Backward: B, B.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Forward: F, F\n\tBackward: B, B",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-2",
+      "type": "mechanic",
+      "subject": "Running Attacks",
+      "predicate": "requires",
+      "object": "Run F, F, F",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Running attacks approximately 1-2 screen lengths from opponent use Run: F, F, F press any keypad to interrupt run.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Running Attacks: (approx. 1-2 screen lengths from opponent)...Run: F, F, F (press any keypad to interrupt run)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-3",
+      "type": "mechanic",
+      "subject": "Recovery Attacks",
+      "predicate": "mechanic",
+      "object": "Tap U straight up, tap F roll forward, tap B roll backward, B+(LK+RK) kick up attack",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Recovery attacks include Striaght Up: repeatedly tap U, Roll Forward: repeatledly tap F, Roll Backward: repeatedly tap B, and Kick Up Attack: B + (LK+RK).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Striaght Up: repeatedly tap U...Roll Forward: repeatledly tap F...Roll Backward: repeatedly tap B...Kick Up Attack: B + (LK+RK)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-4",
+      "type": "mechanic",
+      "subject": "Ground Attacks",
+      "predicate": "requires",
+      "object": "Low Pounce U + RP anytime, High Pounce U + RP hold both",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Ground attacks include Low Pounce: U + RP (anytime) and High Pounce: U + RP (hold both for duration of move).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "Ground Attacks:...Low Pounce: U + RP (anytime)...High Pounce: U + RP (hold both for duration of move)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-5",
+      "type": "mechanic",
+      "subject": "10-Attack Strings",
+      "predicate": "mechanic",
+      "object": "Series of punch/kick attacks doing considerable damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90432,
+        90433
+      ],
+      "missable": false,
+      "text": "The 10-Attack Strings are a series of punch/kick attacks characters can execute that do considerable amount of damage on your opponent.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "The 10-Attack Strings are a series of punch/kick attacks characters can execute. If successfully executed, these attacks can do a considerable amount of damage on your opponent.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-4-6",
+      "type": "mechanic",
+      "subject": "Unblockable Attacks",
+      "predicate": "mechanic",
+      "object": "Cannot be blocked and do considerable damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Unblockable attacks generally take a while to execute, but if they connect these attacks cannot be blocked and do considerable damage.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#4",
+          "quote": "These attacks generally take a while to execute...If they do connect, these attacks cannot be blocked and do considerable damage.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-5-1",
+      "type": "mechanic",
+      "subject": "Throws",
+      "predicate": "mechanic",
+      "object": "All throws must be performed at very close range, basic throw moves LP/LK, RP/RK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "All throws must be performed at a very close range, and every player has two basic throw moves (LP/LK, RP/RK).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#5",
+          "quote": "all throws must be performed at a very close range...every player has two basic throw moves (LP/LK, RP/RK)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-1",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_10_string",
+      "object": "F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90433
+      ],
+      "missable": false,
+      "text": "Kazuya Mishima executes a 10-Attack String with F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Kazuya Mishima:...10-Attack String:\n\n\tF, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf1-6-2",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_move",
+      "object": "Dragon Punch F, D, DF + LP and Lunging Uppercut F, D, DF + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431
+      ],
+      "missable": false,
+      "text": "Kazuya Mishima moves include Dragon Punch: F, D, DF + LP and Lunging Uppercut: F, D, DF + RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Dragon Punch: F, D, DF + LP...Lunging Uppercut: F, D, DF + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-6-3",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_combo",
+      "object": "Double Walking Uppercut/LP/Axe Kick : (DF + LP, RP), LP, (F + RK)",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90432
+      ],
+      "missable": false,
+      "text": "Kazuya Mishima combos include Double Walking Uppercut/LP/Axe Kick : (DF + LP, RP), LP, (F + RK).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#6",
+          "quote": "Double Walking Uppercut/LP/Axe Kick : (DF + LP, RP), LP, (F + RK)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-7-1",
+      "type": "mechanic",
+      "subject": "Paul Phoenix",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LK, RP, LP, RP, LP, RK, RP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90434,
+        90433
+      ],
+      "missable": false,
+      "text": "Paul Phoenix executes a 10-Attack String with LP, RP, LK, RP, LP, RP, LP, RK, RP, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#7",
+          "quote": "Paul Phoenix:...10-Attack String:\n\n\tLP, RP, LK, RP, LP, RP, LP, RK, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-7-2",
+      "type": "mechanic",
+      "subject": "Paul Phoenix",
+      "predicate": "has_move",
+      "object": "Hammer Fist: D + LP and Power Punch: D,DF,F + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90434
+      ],
+      "missable": false,
+      "text": "Paul Phoenix special attacks include Hammer Fist: D + LP and Power Punch: D,DF,F + RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#7",
+          "quote": "Hammer Fist: D + LP...Power Punch: D,DF,F + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-8-1",
+      "type": "mechanic",
+      "subject": "Marshall Law",
+      "predicate": "has_10_string",
+      "object": "DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90435,
+        90433
+      ],
+      "missable": false,
+      "text": "Marshall Law executes a 10-Attack String with DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "Marshall Law:...10-Attack String:\n\n        DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-8-2",
+      "type": "mechanic",
+      "subject": "Marshall Law",
+      "predicate": "has_move",
+      "object": "Triple Head Kick: LK, LK, LK and Flipkick: D(crouch), U + RK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90435
+      ],
+      "missable": false,
+      "text": "Marshall Law moves include Triple Head Kick: LK, LK, LK and Flipkick: D(crouch), U + RK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#8",
+          "quote": "Triple Head Kick: LK, LK, LK...Flipkick: D(crouch), U + RK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-1",
+      "type": "mechanic",
+      "subject": "Nina Williams",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LP, RP, LK, LK, RP, LP, RP, RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90437,
+        90433
+      ],
+      "missable": false,
+      "text": "Nina Williams executes a 10-Attack String with LP, RP, LP, RP, LK, LK, RP, LP, RP, RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "Nina Williams:...10-Attack String:\n\n\tLP, RP, LP, RP, LK, LK, RP, LP, RP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-2",
+      "type": "mechanic",
+      "subject": "Nina Williams",
+      "predicate": "has_move",
+      "object": "5 Punch Combo: LP, RP, LP, RP, LP and Flying Kick: F, F, F + LK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90437
+      ],
+      "missable": false,
+      "text": "Nina Williams moves include 5 Punch Combo: LP, RP, LP, RP, LP and Flying Kick: F, F, F + LK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "5 Punch Combo: LP, RP, LP, RP, LP...Flying Kick: F, F, F + LK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-3",
+      "type": "mechanic",
+      "subject": "Jack",
+      "predicate": "has_10_string",
+      "object": "D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90436,
+        90433
+      ],
+      "missable": false,
+      "text": "Jack executes a 10-Attack String with D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "Jack:\n -----\n\n   Throws:...10-Attack String:\n \n\tD + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-9-4",
+      "type": "mechanic",
+      "subject": "Jack",
+      "predicate": "has_move",
+      "object": "Mega Crouch Combo: D(crouch) + LP, LP, LP, RP, LP, RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90436
+      ],
+      "missable": false,
+      "text": "Jack can execute Mega Crouch Combo: D(crouch) + LP, LP, LP, RP, LP, RP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "Mega Crouch Combo:...LP, LP, LP, RP, LP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-1",
+      "type": "mechanic",
+      "subject": "King",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LP, LP, RP, RK, RK, RK, RK, LP, LK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90438,
+        90433
+      ],
+      "missable": false,
+      "text": "King executes a 10-Attack String with LP, RP, LP, LP, RP, RK, RK, RK, RK, LP, LK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "10-Attack String:\n\n\tLP, RP, LP, LP, RP, RK, RK, RK, RK, LP, LK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-2",
+      "type": "mechanic",
+      "subject": "King",
+      "predicate": "has_move",
+      "object": "Bunch'a'Punches: LP, RP, LP, LP, RP and Triple Slide Kick: DF(crouch) + RK, RK, RK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90438
+      ],
+      "missable": false,
+      "text": "King moves include Bunch'a'Punches: LP, RP, LP, LP, RP and Triple Slide Kick: DF(crouch) + RK, RK, RK.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#9",
+          "quote": "Bunch'a'Punches: LP, RP, LP, LP, RP...Triple Slide Kick: DF(crouch) + RK, RK, RK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-10-3",
+      "type": "mechanic",
+      "subject": "Yoshimitsu",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LP, RK, RK, RK, RK, LP, LP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90439,
+        90433
+      ],
+      "missable": false,
+      "text": "Yoshimitsu executes a 10-Attack String with LP, RP, LP, RK, RK, RK, RK, LP, LP, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "Yoshimitsu:\n -----------\n\n   Throws:...10-Attack String:\n\n\tLP, RP, LP, RK, RK, RK, RK, LP, LP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-10-4",
+      "type": "mechanic",
+      "subject": "Yoshimitsu",
+      "predicate": "has_move",
+      "object": "Tornado Spin: B + LP up to 5x and Tornado Sweep: DB(hold) + LK up to 5x",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90439
+      ],
+      "missable": false,
+      "text": "Yoshimitsu moves include Tornado Spin: B + LP up to 5x and Tornado Sweep: DB(hold) + LK up to 5x.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#10",
+          "quote": "Tornado Spin: B + LP (can be pressed up to 5x)...Tornado Sweep: DB(hold) + LK (up to 5x, dizzy on the 5th)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-11-1",
+      "type": "mechanic",
+      "subject": "Michelle Chan",
+      "predicate": "has_10_string",
+      "object": "RP, LP, LP, RP, LK, LK, LK, RK, RK, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90440,
+        90433
+      ],
+      "missable": false,
+      "text": "Michelle Chan executes a 10-Attack String with RP, LP, LP, RP, LK, LK, LK, RK, RK, LP.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#11",
+          "quote": "Michelle Chan:...10-Attack String:\n\n\tRP, LP, LP, RP, LK, LK, LK, RK, RK, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf1-11-2",
+      "type": "mechanic",
+      "subject": "Michelle Chan",
+      "predicate": "has_move",
+      "object": "5 Punch Attack: RP, LP(rolled), LP, LP, RP and Double-Fisted Body Blow: F, F + (LP+RP)",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90440
+      ],
+      "missable": false,
+      "text": "Michelle Chan moves include 5 Punch Attack: RP, LP(rolled), LP, LP, RP and Double-Fisted Body Blow: F, F + (LP+RP).",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#11",
+          "quote": "5 Punch Attack: RP, LP(rolled), LP, LP, RP...Double-Fisted Body Blow: F, F + (LP+RP)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-3-1",
+      "type": "mechanic",
+      "subject": "Paul Phoenix",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LK, RP, LP, RP, LP, RK, RP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90434,
+        90433
+      ],
+      "missable": false,
+      "text": "Paul Phoenix ten-hit combination input is 1,2,3,2,1,2,1,4,2,1.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#3",
+          "quote": "Paul Phoenix...ten-hit\n1,2,3,2,1,2,1,4,2,1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-3-2",
+      "type": "mechanic",
+      "subject": "Paul Phoenix",
+      "predicate": "has_move",
+      "object": "PonKen d,df,f,2 m 50",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90434
+      ],
+      "missable": false,
+      "text": "Paul Phoenix special move PonKen is executed with d,df,f,2 dealing 50 damage.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#3",
+          "quote": "Paul Phoenix...d,df,f,2            m          50                 PonKen",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-1",
+      "type": "mechanic",
+      "subject": "Marshall Law",
+      "predicate": "has_10_string",
+      "object": "DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90435,
+        90433
+      ],
+      "missable": false,
+      "text": "Marshall Law ten-hit combination input is df,1,2,2,1,3,3,3,4,3,4 mhhhhlhhhh 10,5,7,5,7,6,6,7,8,25.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#4",
+          "quote": "df,1,2,2,1,3,3,3,4,3,4         mhhhhlhhhh         10,5,7,5,7,6,6,7,8,25",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-2",
+      "type": "mechanic",
+      "subject": "Yoshimitsu",
+      "predicate": "has_10_string",
+      "object": "LP, RP, LP, RK, RK, RK, RK, LP, LP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90439,
+        90433
+      ],
+      "missable": false,
+      "text": "Yoshimitsu ten-hit combination input is 1,2,1,4,4,4,1,1,1,1+2 hmmhhlmXXX 10,5,3,9,9,5,5,8,8,26.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#4",
+          "quote": "1,2,1,4,4,4,1,1,1,1+2          hmmhhlmXXX         10,5,3,9,9,5,5,8,8,26",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-1",
+      "type": "mechanic",
+      "subject": "Ganryu",
+      "predicate": "has_move",
+      "object": "Hundred Hand Slap: F + LP, RP, LP, RP, LP, RP, LP, RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90481
+      ],
+      "missable": false,
+      "text": "Ganryu attacks include Enmatsuppari F,1,2,1,2,1,2,1,2 hhhhhhhh 12,10,10,10.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#8",
+          "quote": "F,1,2,1,2,1,2,1,2   hhhhhhhh   12,10,10,10",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-2",
+      "type": "mechanic",
+      "subject": "Kunimitsu",
+      "predicate": "has_7_string",
+      "object": "LP, RP, LP, RK, RK, RK, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90442
+      ],
+      "missable": false,
+      "text": "Kunimitsu attacks include Ninpoh ManjiKazura 6-hit combo B,1,1,1,1,1,1 hhhhhh 10,10,10,10,10,10.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#8",
+          "quote": "B,1,1,1,1,1,1       hhhhhh     10,10,10,10,10,10  Ninpoh ManjiKazura",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-3",
+      "type": "mechanic",
+      "subject": "Anna Williams",
+      "predicate": "has_move",
+      "object": "Kakaekomi Hijuuchi: df,df,1 throw 50",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90480
+      ],
+      "missable": false,
+      "text": "Anna Williams throw Kakaekomi Hijuuchi is executed with df,df,1 throw 50.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#8",
+          "quote": "df,df,1             throw      50                 Kakaekomi Hijuuchi",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-9-1",
+      "type": "mechanic",
+      "subject": "Lee Chaolan",
+      "predicate": "has_move",
+      "object": "Lazer's edge kick combo D,4,4,4,4",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90477
+      ],
+      "missable": false,
+      "text": "Lee Chaolan attacks include Lazer's edge kick combo D,4,4,4,4 lllm 7,5,5,15.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#9",
+          "quote": "D,4,4,4,4           lllm       7,5,5,15           Lazer's edge kick combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf3-1-1",
+      "type": "event",
+      "subject": "Heihachi Mishima",
+      "predicate": "how_to_unlock",
+      "object": "Beat the game without losing a round",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "Note that to play as Heihachi Mishima you must first beat the game without losing a round.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#1",
+          "quote": "Note that to play as Heihachi Mishima you must first beat the game\n     without losing a round.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-1-2",
+      "type": "event",
+      "subject": "Devil Kazuya",
+      "predicate": "how_to_unlock",
+      "object": "Beat all 8 stages in Galaga using one continue or less",
+      "location": "Loading Screen",
+      "requires": [],
+      "achievement_ids": [
+        90355,
+        90428
+      ],
+      "missable": false,
+      "text": "To play as Devil Kazuya you must first beat all 8 stages in Galaga using one continue or less and without using the dual ship code.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#1",
+          "quote": "To play as Devil Kazuya you must first beat\n     all 8 stages in Galaga using one continue or less and without using the\n     dual ship code.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-1-3",
+      "type": "event",
+      "subject": "Devil Kazuya",
+      "predicate": "how_to_unlock",
+      "object": "Highlight Kazuya on arcade character select screen and hit start",
+      "location": "Character Select",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "To pick Devil Kazuya, highlight Kazuya on the arcade character select screen and hit start instead of the punch or kick buttons.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#1",
+          "quote": "To pick Devil Kazuya, highlight Kazuya on the arcade\n     character select screen and hit start instead of the punch or kick\n     buttons.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-2-1",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_10_string",
+      "object": "F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90433
+      ],
+      "missable": false,
+      "text": "F,F+RP,LP,RP,RP,LK,RK,RK,LP,RP,LP:(Works for Kazuya and Heihachi).",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#2",
+          "quote": "F,F+RP,LP,RP,RP,LK,RK,RK,LP,RP,LP:(Works for Kazuya and Heihachi).",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-2-2",
+      "type": "mechanic",
+      "subject": "Heihachi Mishima",
+      "predicate": "has_10_string",
+      "object": "F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441,
+        90433
+      ],
+      "missable": false,
+      "text": "F,F+RP,LP,RP,RP,LK,RK,RK,LP,RP,LP:(Works for Kazuya and Heihachi).",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#2",
+          "quote": "F,F+RP,LP,RP,RP,LK,RK,RK,LP,RP,LP:(Works for Kazuya and Heihachi).",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-2-3",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_combo",
+      "object": "Power Uppercut, left jab/left uppercut, Axe Kick",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90432
+      ],
+      "missable": false,
+      "text": "F,D,DF+RP---LP/DF+LP---F+RK: Power Uppercut, left jab/left uppercut, Axe Kick.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#2",
+          "quote": "F,D,DF+RP---LP/DF+LP---F+RK:  Power Uppercut,  left jab/left uppercut, Axe Kick",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf4-11-1",
+      "type": "event",
+      "subject": "Arcade Rival Matchups",
+      "predicate": "mechanic",
+      "object": "For the 8th match, each character fights a different boss: Paul: Kuma",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "For the 8th match, each character fights a different boss. Here are the bosses for each character: Paul: Kuma - A large brown bear with the moves of Jack.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#11",
+          "quote": "For the 8th match, each character fights a different boss. Here are the\nbosses for each character:\n\n\n Paul:      Kuma - A large brown bear with the moves of Jack.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-11-2",
+      "type": "event",
+      "subject": "Heihachi Mishima",
+      "predicate": "boss",
+      "object": "For the 9th round, all characters fight against Heihachi",
+      "location": "Arcade Mode Stage 9",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "For the 9th round, all characters fight against Heihachi. Heihachi is a man with weird hair in a black gi with a tiger's head on the back.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#11",
+          "quote": "For the 9th round, all characters fight against Heihachi. Heihachi is a man\nwith weird hair in a black gi with a tiger's head on the back.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-11-3",
+      "type": "mechanic",
+      "subject": "Michelle Chan",
+      "predicate": "has_10_string",
+      "object": "RP, LP, LP, RP, LK, LK, LK, RK, RK, LP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90440,
+        90433
+      ],
+      "missable": false,
+      "text": "Michelle: RP, LP, LP, RP, LK, LK, LK, RK, RK, LP.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#11",
+          "quote": "Michelle:   RP, LP, LP, RP, LK, LK, LK, RK, RK, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-11-4",
+      "type": "mechanic",
+      "subject": "Jack",
+      "predicate": "has_10_string",
+      "object": "D + RP, LP, LP, LP, RP, LP, RP, RP, LP + RP, LP + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90436,
+        90433
+      ],
+      "missable": false,
+      "text": "Jack: D + RP, LP, LP, LP, RP, LP, RP, RP, LP + RP, LP + RP.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#11",
+          "quote": "Jack:       D + RP, LP, LP, LP, RP, LP, RP, RP, LP + RP, LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf5-2-1",
+      "type": "mechanic",
+      "subject": "Kuma",
+      "predicate": "has_combo",
+      "object": "DF+RP---DF+LP---DF+LP+RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90482,
+        90432
+      ],
+      "missable": false,
+      "text": "Kuma combos include DF+RP---DF+LP---DF+LP+RP.",
+      "evidence": [
+        {
+          "source_id": "gf5",
+          "chunk_id": "gf5#2",
+          "quote": "KUMA:\n\nDF+RP---DF+LP---DF+LP+RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf5"
+      ]
+    },
+    {
+      "id": "gf5-2-2",
+      "type": "mechanic",
+      "subject": "Prototype Jack",
+      "predicate": "has_combo",
+      "object": "DF+RP---DF+LP---D+LP---F+RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90478,
+        90432
+      ],
+      "missable": false,
+      "text": "P.Jack combos include DF+RP---DF+LP---D+LP---F+RP.",
+      "evidence": [
+        {
+          "source_id": "gf5",
+          "chunk_id": "gf5#2",
+          "quote": "P.JACK ONLY:\n\nDF+RP---DF+LP---D+LP---F+RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf5"
+      ]
+    },
+    {
+      "id": "gf1-19-1",
+      "type": "mechanic",
+      "subject": "View Options",
+      "predicate": "feature",
+      "object": "Select changes views from Side View to 3/4 view",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tekken provides 3 different views to choose from during play: pressing Select will change views from a Side View to a 3/4 view.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#19",
+          "quote": "There are 3 different views to choose from during play...pressing 'Select' will change views from a Side View to a 3/4 view",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-22-1",
+      "type": "npc",
+      "subject": "Paul Phoenix",
+      "predicate": "profile",
+      "object": "Travels the world in search of the perfect opponent",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90408
+      ],
+      "missable": false,
+      "text": "Driven to be the best of the best, Paul travels the world in search of the perfect opponent.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#22",
+          "quote": "Driven to be the best of the best, Paul travels the world in search\n   of the perfect opponent.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-23-1",
+      "type": "npc",
+      "subject": "Marshall Law",
+      "predicate": "profile",
+      "object": "Martial arts master working in Chinese restaurant",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90409
+      ],
+      "missable": false,
+      "text": "Law is a martial arts master who, while his dream is to open his own dojo, works in a Chinese Restaurant.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#23",
+          "quote": "Law is a martial arts master who, while his dream is to open his own\n   dojo, works in a Chinese Restaurant",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-24-1",
+      "type": "npc",
+      "subject": "Yoshimitsu",
+      "predicate": "profile",
+      "object": "Leader of the Manjito criminal organization",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90396
+      ],
+      "missable": false,
+      "text": "Yoshimitsu is the Leader of the Manjito, an international criminal organization.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#24",
+          "quote": "Leader of the \"Manjito\", an international criminal organization.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-25-1",
+      "type": "npc",
+      "subject": "Michelle Chang",
+      "predicate": "profile",
+      "object": "Daughter searching for father killed by Heihachi",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90412
+      ],
+      "missable": false,
+      "text": "Michelle Chan is the daughter of the Hong Kong man that Heihachi sent to search for ancient treasure buried in Native American land.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#25",
+          "quote": "The daughter of the Hong Kong man that Heihachi sent to search for ancient treasure buried in Native American land",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-26-1",
+      "type": "npc",
+      "subject": "Lee Chaolan",
+      "predicate": "profile",
+      "object": "Adopted son of Heihachi and rival to Kazuya",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90415
+      ],
+      "missable": false,
+      "text": "Lee is Heihachi's adopted son and Kazuya's rival, included in the same training.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#26",
+          "quote": "Lee is Heihachi's adopted son and Kazuya's rival. From childhood, he was included in the same training",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-27-1",
+      "type": "npc",
+      "subject": "Wang Jinrei",
+      "predicate": "profile",
+      "object": "Close friend of Kazuya's grandfather",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90413
+      ],
+      "missable": false,
+      "text": "Wang Gin Lei is a brave old man who also has a kind heart, and was a close friend of Kazuya's grandfather.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#27",
+          "quote": "A brave old man who also has a kind heart. He was a close friend of Kazuya's grandfather.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-28-1",
+      "type": "npc",
+      "subject": "Prototype Jack",
+      "predicate": "profile",
+      "object": "Prototype for Jack developed by Russia",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90416
+      ],
+      "missable": false,
+      "text": "Prototype Jack was developed by Russia as a step in the production of Jack.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#28",
+          "quote": "The prototype for Jack, developed by Russia. Since it was just a step in the production, the skin was removed from the mecha.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-29-1",
+      "type": "npc",
+      "subject": "Armor King",
+      "predicate": "profile",
+      "object": "Rival to King whose eye was smashed",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90417
+      ],
+      "missable": false,
+      "text": "Armor King was King's rival, and during a match King made a mistake and smashed one of Armor King's eyes.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#29",
+          "quote": "Armor King was King's rival as a new member. Years ago, during a match, King made a mistake and smashed one of Armor King's eyes.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-30-1",
+      "type": "npc",
+      "subject": "Heihachi Mishima",
+      "predicate": "profile",
+      "object": "Black karate outfit with lion on the back",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90414
+      ],
+      "missable": false,
+      "text": "Heihachi Mishima Costume 1 is a Black karate-type outfit w/lion on the back, light grey hand and ankle wrappings.",
+      "evidence": [
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#30",
+          "quote": "Costume 1: Black karate-type outfit w/lion on the back, light grey hand and ankle wrappings.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-2-1",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_throw",
+      "object": "Turning kick 1+3 deals 35 damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90395
+      ],
+      "missable": false,
+      "text": "Kazuya Mishima throw 1+3 deals 35 damage with Turning kick.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#2",
+          "quote": "1+3                 throw      35                 Turning kick",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-1",
+      "type": "mechanic",
+      "subject": "King",
+      "predicate": "has_throw",
+      "object": "Coconut crush 1+3 deals 30 damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90411
+      ],
+      "missable": false,
+      "text": "King throw 1+3 deals 30 damage with Coconut crush.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#5",
+          "quote": "1+3                 throw      30                 Coconut crush",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-6-1",
+      "type": "mechanic",
+      "subject": "Michelle Chang",
+      "predicate": "has_down_strike",
+      "object": "Homing Resshintou U,2 deals 18 damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90412
+      ],
+      "missable": false,
+      "text": "Michelle Chang down strikes include U,2 dealing 18 damage with Homing Resshintou.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#6",
+          "quote": "U,2                 d          18                 Homing Resshintou",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-7-1",
+      "type": "mechanic",
+      "subject": "Heihachi Mishima",
+      "predicate": "has_down_strike",
+      "object": "Homing Hip press U,2 deals 18 damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90414
+      ],
+      "missable": false,
+      "text": "Heihachi Mishima down strikes include U,2 dealing 18 damage with Homing Hip press.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#7",
+          "quote": "U,2                 d          18                 Homing Hip press",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-10-1",
+      "type": "mechanic",
+      "subject": "Wang Jinrei",
+      "predicate": "has_down_strike",
+      "object": "Homing silver punch U,2 deals 18 damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90413
+      ],
+      "missable": false,
+      "text": "Wang Jinrei down strikes include U,2 dealing 18 damage with Homing silver punch.",
+      "evidence": [
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#10",
+          "quote": "U,2                 d          18                 Homing silver punch",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf3-3-1",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_combo",
+      "object": "DF+LP,RP---DF+LP,RP---F,D,DF+RP Twin Pistons Power Uppercut",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431
+      ],
+      "missable": false,
+      "text": "Kazuya 5-hit combo input is DF+LP,RP---DF+LP,RP---F,D,DF+RP:  Twin Pistons, Twin Pistons, Power Uppercut.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#3",
+          "quote": "DF+LP,RP---DF+LP,RP---F,D,DF+RP:  Twin Pistons, Twin Pistons, Power Uppercut",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-4-1",
+      "type": "mechanic",
+      "subject": "Blocking System",
+      "predicate": "mechanic",
+      "object": "Hold back for high block, hold down-back for low block",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [
+        90406
+      ],
+      "missable": false,
+      "text": "The most important part of any fighting game is the blocking system: hold back to block high, and hold down-back to block low.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#4",
+          "quote": "The most important part of any fighting game is obviously the blocking system...Simply\n     hold back to block high, and hold down-back to block low.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-5-1",
+      "type": "mechanic",
+      "subject": "Running Mechanics",
+      "predicate": "mechanic",
+      "object": "Running attacks deal high damage and assist in juggle combos",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Running in Tekken is an essential feature to learn. Not only do running attacks take a good amount of damage, but learning to run can aid you in long juggle combos.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#5",
+          "quote": "Running in Tekken is an essential feature to learn.  Not only do running\n     attacks take a good amount of damage, but learning to run can aid you\n     in long juggle combos",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-6-1",
+      "type": "mechanic",
+      "subject": "Axe Kick",
+      "predicate": "mechanic",
+      "object": "Easy combo ender that hits ducking opponents",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The Axe Kick is an easy ender for short combos and does good damage, hitting a ducking opponent hard.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#6",
+          "quote": "Axe Kick:  Easy ender for short combos and does good damage.  It's a\n    little slow, but will hit a ducking opponent hard!",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-7-1",
+      "type": "mechanic",
+      "subject": "Mishima Combos",
+      "predicate": "strategy",
+      "object": "Kazuya and Heihachi moves deal high damage alone and in combos",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90441
+      ],
+      "missable": false,
+      "text": "Kazuya's and Heihachi's main strength is their powerful moves, taking a considerable amount of damage in combos.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#7",
+          "quote": "Kazuya's and Heihachi's main strength is their powerful moves.  Their\n     moves take a considerable amount of damage by themselves, let alone in\n     combos.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-8-1",
+      "type": "mechanic",
+      "subject": "Throw Escapes",
+      "predicate": "mechanic",
+      "object": "Duck under grabs to avoid being thrown",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Grabs are a very important part of Tekken gameplay; to avoid being grabbed, duck underneath the attempt.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#8",
+          "quote": "Grabbing:  Grabs are a very important part of Tekken gameplay.  I do not\n     consider them cheap because all you have to do to not be grabbed is duck.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf3-9-1",
+      "type": "mechanic",
+      "subject": "Heihachi Mishima",
+      "predicate": "strategy",
+      "object": "Combines Kazuya tactics with powerful extra moves",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [
+        90414,
+        90441
+      ],
+      "missable": false,
+      "text": "Heihachi Strategy: Take all of Kazuya's tactics and add in all of Heihachi's bonus moves.",
+      "evidence": [
+        {
+          "source_id": "gf3",
+          "chunk_id": "gf3#9",
+          "quote": "Heihachi Strategy:  Take all of the above tactics and add in all of\n     Heihachi's extras and   basically what you get are some bonus moves",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf3"
+      ]
+    },
+    {
+      "id": "gf4-3-1",
+      "type": "mechanic",
+      "subject": "Dashing",
+      "predicate": "controls",
+      "object": "Forward dash tap F,F and Backward dash tap B,B",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Dashing controls: Forward Dash is tap F, F and Backward Dash is tap B, B.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#3",
+          "quote": "Dashing: Forward Dash - tap F, F\n          Backward Dash - tap B, B",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-4-1",
+      "type": "mechanic",
+      "subject": "Jack",
+      "predicate": "has_move",
+      "object": "Overhead Hammer input DF + LP + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90410
+      ],
+      "missable": false,
+      "text": "Jack special move Overhead Hammer is executed with DF + LP + RP.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#4",
+          "quote": "Overhead Hammer - DF + LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-5-1",
+      "type": "mechanic",
+      "subject": "Kazuya Mishima",
+      "predicate": "has_move",
+      "object": "Standing Uppercut input F, D, DF + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90395
+      ],
+      "missable": false,
+      "text": "Kazuya special attack Standing Uppercut is executed with F, D, DF + RP.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#5",
+          "quote": "Standing Uppercut - F, D, DF + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-6-1",
+      "type": "mechanic",
+      "subject": "Michelle Chang",
+      "predicate": "has_move",
+      "object": "5 Punches input RP, LP, LP, LP, RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90412
+      ],
+      "missable": false,
+      "text": "Michelle special move 5 Punches is executed with RP, LP, LP, LP, RP.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#6",
+          "quote": "5 Punches - RP, LP, LP, LP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-7-1",
+      "type": "mechanic",
+      "subject": "Yoshimitsu",
+      "predicate": "has_move",
+      "object": "Spin hold B + LP up to 5x",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90396
+      ],
+      "missable": false,
+      "text": "Yoshimitsu special move Spin is hold B + LP (up to 5x); if done 5x, Yoshimitsu becomes dizzy and falls down.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#7",
+          "quote": "Spin - hold B + LP (up to 5x) (if done 5x, Yoshimitsu becomes\n                                            dizzy and falls down)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-8-1",
+      "type": "mechanic",
+      "subject": "Pounce Attacks",
+      "predicate": "mechanic",
+      "object": "U + RP when opponent is on ground executes a pounce attack",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Normally to execute a pounce attack, hit U + RP when the opponent is on the ground.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#8",
+          "quote": "Normally to execute a pounce attack, you just hit U + RP when the opponent\nis on the ground.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-9-1",
+      "type": "mechanic",
+      "subject": "Michelle Chang",
+      "predicate": "has_move",
+      "object": "Hopback Stomp input UF + LK + RP",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90412
+      ],
+      "missable": false,
+      "text": "Michelle hard pounce Hopback Stomp is executed with UF + LK + RP.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#9",
+          "quote": "Michelle:   Hopback Stomp - UF + LK + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-10-1",
+      "type": "mechanic",
+      "subject": "Ten Attack Strings",
+      "predicate": "mechanic",
+      "object": "Strings of 10 attacks deal heavy damage if all connect",
+      "location": "Combat",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Ten-attack strings are pre-programmed sequences that do lots of damage if they all hit.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#10",
+          "quote": "Some people think these are combos, but they are not. These are just\nstrings of 10 attacks that do lots of damage if they all hit",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-12-1",
+      "type": "npc",
+      "subject": "Kazuya Mishima",
+      "predicate": "profile",
+      "object": "Karate fighter and legitimate heir to Mishima financial empire",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90395
+      ],
+      "missable": false,
+      "text": "Kazuya is a scuffle Karate Fighter with a cool head and the legitimate heir to the Mishima financial empire.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#12",
+          "quote": "Kazuya is a scuffle Karate Fighter with an even temperament and a\n cool head. He's the legitimate heir to the Mishima financial empire",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-13-1",
+      "type": "npc",
+      "subject": "Nina Williams",
+      "predicate": "profile",
+      "object": "Bone Martial Arts and Aikido practitioner",
+      "location": "Character Bio",
+      "requires": [],
+      "achievement_ids": [
+        90407
+      ],
+      "missable": false,
+      "text": "Nina Williams is a British fighter specializing in Bone Martial Arts and Aikido.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#13",
+          "quote": "Nina Williams: British - Bone Martial Arts & Aikido",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf4-14-1",
+      "type": "mechanic",
+      "subject": "Violence Settings",
+      "predicate": "option",
+      "object": "Tekken offers two different violence settings",
+      "location": "Game Options",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Fruit violence settings: Tekken has two different violence settings for visual hit effects.",
+      "evidence": [
+        {
+          "source_id": "gf4",
+          "chunk_id": "gf4#14",
+          "quote": "\"Fruit\": Just to clear up one thing some people are confused with. Tekken\nhas two different violence settings for some reason.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf4"
+      ]
+    },
+    {
+      "id": "gf5-1-1",
+      "type": "mechanic",
+      "subject": "Heihachi Mishima",
+      "predicate": "has_combo",
+      "object": "F,F+RP---LP---LP---LP---D,DF,F+RP deals 100% damage",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "Heihachi 100% combo is executed with F,F+RP---LP---LP---LP---D,DF,F+RP.",
+      "evidence": [
+        {
+          "source_id": "gf5",
+          "chunk_id": "gf5#1",
+          "quote": "HEIHACHI: 100% COMBO\nF,F+RP---LP---LP---LP---D,DF,F+RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf5"
+      ]
+    },
+    {
+      "id": "ra-comments-8-1",
+      "type": "achievement",
+      "subject": "Master of Evasion",
+      "predicate": "requires",
+      "object": "Win any round with a perfect",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90406
+      ],
+      "missable": false,
+      "text": "The achievement Master of Evasion requirement is Description: Win any round with a perfect.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#8",
+          "quote": "Description: Win any round with a perfect",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-9-1",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "requires",
+      "object": "Beat all stages in Galaga with a perfect while using no more than one continue in order to unlock Devil Kazuya",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "The achievement Namco Classic Challenge requirement is Description: Beat all stages in Galaga with a perfect while using no more than one continue in order to unlock Devil Kazuya.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "Description: Beat all stages in Galaga with a perfect while using no more than one continue in order to unlock Devil Kazuya",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-15-1",
+      "type": "achievement",
+      "subject": "All Fighters Ready for Combat!",
+      "predicate": "requires",
+      "object": "Unlock all characters",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "The achievement All Fighters Ready for Combat! requirement is Description: Unlock all characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "Description: Unlock all characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-17-1",
+      "type": "achievement",
+      "subject": "Beginner Combo",
+      "predicate": "requires",
+      "object": "Perform a 3 hit combo",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90432
+      ],
+      "missable": false,
+      "text": "The achievement Beginner Combo requirement is Description: Perform a 3 hit combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#17",
+          "quote": "Description: Perform a 3 hit combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-1",
+      "type": "achievement",
+      "subject": "Ultimate Combo",
+      "predicate": "requires",
+      "object": "Perform a 10 hit combo",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "The achievement Ultimate Combo requirement is Description: Perform a 10 hit combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Description: Perform a 10 hit combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-22-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Kazuya",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Kazuya",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90431
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Kazuya requirement is Description: Perform a 6 hit combo with Kazuya.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#22",
+          "quote": "Description: Perform a 6 hit combo with Kazuya",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-24-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Paul",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Paul",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90434
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Paul requirement is Description: Perform a 6 hit combo with Paul.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#24",
+          "quote": "Description: Perform a 6 hit combo with Paul",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-26-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Law",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Law",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90435
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Law requirement is Description: Perform a 6 hit combo with Law.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#26",
+          "quote": "Description: Perform a 6 hit combo with Law",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-28-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Jack",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Jack",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90436
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Jack requirement is Description: Perform a 6 hit combo with Jack.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#28",
+          "quote": "Description: Perform a 6 hit combo with Jack",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-30-1",
+      "type": "achievement",
+      "subject": "Iron Fist - King",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with King",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90438
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - King requirement is Description: Perform a 6 hit combo with King.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#30",
+          "quote": "Description: Perform a 6 hit combo with King",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-32-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Yoshimitsu",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Yoshimitsu",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90439
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Yoshimitsu requirement is Description: Perform a 6 hit combo with Yoshimitsu.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#32",
+          "quote": "Description: Perform a 6 hit combo with Yoshimitsu",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-34-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Nina",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Nina",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90437
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Nina requirement is Description: Perform a 6 hit combo with Nina.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#34",
+          "quote": "Description: Perform a 6 hit combo with Nina",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-36-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Michelle",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Michelle",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90440
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Michelle requirement is Description: Perform a 6 hit combo with Michelle.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#36",
+          "quote": "Description: Perform a 6 hit combo with Michelle",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Heihachi",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Heihachi",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Heihachi requirement is Description: Perform a 6 hit combo with Heihachi.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "Description: Perform a 6 hit combo with Heihachi",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-41-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Kunimitsu",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Kunimitsu",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90442
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Kunimitsu requirement is Description: Perform a 6 hit combo with Kunimitsu.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#41",
+          "quote": "Description: Perform a 6 hit combo with Kunimitsu",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-43-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Lee",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Lee",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90477
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Lee requirement is Description: Perform a 6 hit combo with Lee.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#43",
+          "quote": "Description: Perform a 6 hit combo with Lee",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-45-1",
+      "type": "achievement",
+      "subject": "Iron Fist - P.Jack",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with P.Jack",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90478
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - P.Jack requirement is Description: Perform a 6 hit combo with P.Jack.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#45",
+          "quote": "Description: Perform a 6 hit combo with P.Jack",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-47-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Armor King",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Armor King",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90479
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Armor King requirement is Description: Perform a 6 hit combo with Armor King.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#47",
+          "quote": "Description: Perform a 6 hit combo with Armor King",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-49-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Anna",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Anna",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90480
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Anna requirement is Description: Perform a 6 hit combo with Anna.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#49",
+          "quote": "Description: Perform a 6 hit combo with Anna",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-51-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Ganryu",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Ganryu",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90481
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Ganryu requirement is Description: Perform a 6 hit combo with Ganryu.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#51",
+          "quote": "Description: Perform a 6 hit combo with Ganryu",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-53-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Kuma",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Kuma",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90482
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Kuma requirement is Description: Perform a 6 hit combo with Kuma.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#53",
+          "quote": "Description: Perform a 6 hit combo with Kuma",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-55-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Wang",
+      "predicate": "requires",
+      "object": "Perform a 6 hit combo with Wang",
+      "location": "Tekken",
+      "requires": [],
+      "achievement_ids": [
+        90483
+      ],
+      "missable": false,
+      "text": "The achievement Iron Fist - Wang requirement is Description: Perform a 6 hit combo with Wang.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#55",
+          "quote": "Description: Perform a 6 hit combo with Wang",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-56-1",
+      "type": "achievement",
+      "subject": "Cold-Blooded Son",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Kazuya on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90395
+      ],
+      "missable": false,
+      "text": "The achievement Cold-Blooded Son requirement is Description: Finish Arcade mode as Kazuya on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#56",
+          "quote": "Description: Finish Arcade mode as Kazuya on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-57-1",
+      "type": "achievement",
+      "subject": "The Inheritor of the Demon",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90396
+      ],
+      "missable": false,
+      "text": "The achievement The Inheritor of the Demon requirement is Description: Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#57",
+          "quote": "Description: Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-58-1",
+      "type": "achievement",
+      "subject": "Silent Assassin",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Nina on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90407
+      ],
+      "missable": false,
+      "text": "The achievement Silent Assassin requirement is Description: Finish Arcade mode as Nina on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#58",
+          "quote": "Description: Finish Arcade mode as Nina on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-59-1",
+      "type": "achievement",
+      "subject": "Hot-blooded Martial Artist",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Paul on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90408
+      ],
+      "missable": false,
+      "text": "The achievement Hot-blooded Martial Artist requirement is Description: Finish Arcade mode as Paul on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#59",
+          "quote": "Description: Finish Arcade mode as Paul on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-60-1",
+      "type": "achievement",
+      "subject": "The Legendary Dragon",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Law on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90409
+      ],
+      "missable": false,
+      "text": "The achievement The Legendary Dragon requirement is Description: Finish Arcade mode as Law on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#60",
+          "quote": "Description: Finish Arcade mode as Law on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-61-1",
+      "type": "achievement",
+      "subject": "Super Killing Machine",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Jack on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90410
+      ],
+      "missable": false,
+      "text": "The achievement Super Killing Machine requirement is Description: Finish Arcade mode as Jack on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#61",
+          "quote": "Description: Finish Arcade mode as Jack on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-62-1",
+      "type": "achievement",
+      "subject": "Beast Priest",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as King on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90411
+      ],
+      "missable": false,
+      "text": "The achievement Beast Priest requirement is Description: Finish Arcade mode as King on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#62",
+          "quote": "Description: Finish Arcade mode as King on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-63-1",
+      "type": "achievement",
+      "subject": "Wandering Female Fighter",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Michelle on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90412
+      ],
+      "missable": false,
+      "text": "The achievement Wandering Female Fighter requirement is Description: Finish Arcade mode as Michelle on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#63",
+          "quote": "Description: Finish Arcade mode as Michelle on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-64-1",
+      "type": "achievement",
+      "subject": "Fighting Sage",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Wang on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90413
+      ],
+      "missable": false,
+      "text": "The achievement Fighting Sage requirement is Description: Finish Arcade mode as Wang on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#64",
+          "quote": "Description: Finish Arcade mode as Wang on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-65-1",
+      "type": "achievement",
+      "subject": "The King of Iron Fist",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Heihachi on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90414
+      ],
+      "missable": false,
+      "text": "The achievement The King of Iron Fist requirement is Description: Finish Arcade mode as Heihachi on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#65",
+          "quote": "Description: Finish Arcade mode as Heihachi on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-66-1",
+      "type": "achievement",
+      "subject": "Silver Haired-Demon",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Lee on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90415
+      ],
+      "missable": false,
+      "text": "The achievement Silver Haired-Demon requirement is Description: Finish Arcade mode as Lee on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#66",
+          "quote": "Description: Finish Arcade mode as Lee on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-67-1",
+      "type": "achievement",
+      "subject": "Lost Memory Monster",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as P.Jack on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90416
+      ],
+      "missable": false,
+      "text": "The achievement Lost Memory Monster requirement is Description: Finish Arcade mode as P.Jack on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#67",
+          "quote": "Description: Finish Arcade mode as P.Jack on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-68-1",
+      "type": "achievement",
+      "subject": "Wicked Flower",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Armor King on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90417
+      ],
+      "missable": false,
+      "text": "The achievement Wicked Flower requirement is Description: Finish Arcade mode as Armor King on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#68",
+          "quote": "Description: Finish Arcade mode as Armor King on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-69-1",
+      "type": "achievement",
+      "subject": "Rikishi Strength",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Ganryu on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90418
+      ],
+      "missable": false,
+      "text": "The achievement Rikishi Strength requirement is Description: Finish Arcade mode as Ganryu on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#69",
+          "quote": "Description: Finish Arcade mode as Ganryu on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-70-1",
+      "type": "achievement",
+      "subject": "Scarlet Lightning",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Anna on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90419
+      ],
+      "missable": false,
+      "text": "The achievement Scarlet Lightning requirement is Description: Finish Arcade mode as Anna on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#70",
+          "quote": "Description: Finish Arcade mode as Anna on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-71-1",
+      "type": "achievement",
+      "subject": "Mad Bear",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Kuma on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90420
+      ],
+      "missable": false,
+      "text": "The achievement Mad Bear requirement is Description: Finish Arcade mode as Kuma on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#71",
+          "quote": "Description: Finish Arcade mode as Kuma on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-72-1",
+      "type": "achievement",
+      "subject": "Traitorous Female Ninja",
+      "predicate": "requires",
+      "object": "Finish Arcade mode as Kunimitsu on Medium difficulty or higher without changing characters",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90421
+      ],
+      "missable": false,
+      "text": "The achievement Traitorous Female Ninja requirement is Description: Finish Arcade mode as Kunimitsu on Medium difficulty or higher without changing characters.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#72",
+          "quote": "Description: Finish Arcade mode as Kunimitsu on Medium difficulty or higher without changing characters",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-74-1",
+      "type": "achievement",
+      "subject": "Hand-to-Hand Veteran",
+      "predicate": "requires",
+      "object": "Finish Arcade mode on Hard difficulty or higher with default settings",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90423
+      ],
+      "missable": false,
+      "text": "The achievement Hand-to-Hand Veteran requirement is Description: Finish Arcade mode on Hard difficulty or higher with default settings.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#74",
+          "quote": "Description: Finish Arcade mode on Hard difficulty or higher with default settings",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-1",
+      "type": "achievement",
+      "subject": "Hand-to-Hand Expert",
+      "predicate": "requires",
+      "object": "Finish Arcade mode on Ultra Hard difficulty with default settings",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90422
+      ],
+      "missable": false,
+      "text": "The achievement Hand-to-Hand Expert requirement is Description: Finish Arcade mode on Ultra Hard difficulty with default settings.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "Description: Finish Arcade mode on Ultra Hard difficulty with default settings",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-1",
+      "type": "achievement",
+      "subject": "Five Minute Death Punch",
+      "predicate": "requires",
+      "object": "Finish Arcade mode within 5 minutes on Medium difficulty or higher with default settings - Will trigger after the results screen",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "The achievement Five Minute Death Punch requirement is Description: Finish Arcade mode within 5 minutes on Medium difficulty or higher with default settings - Will trigger after the results screen.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Description: Finish Arcade mode within 5 minutes on Medium difficulty or higher with default settings - Will trigger after the results screen",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-79-1",
+      "type": "achievement",
+      "subject": "Long Journey",
+      "predicate": "requires",
+      "object": "Finish Arcade mode on Medium difficulty or higher without changing characters or using continues, and with default settings except for the round count set to 5",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "The achievement Long Journey requirement is Description: Finish Arcade mode on Medium difficulty or higher without changing characters or using continues, and with default settings except for the round count set to 5.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "Description: Finish Arcade mode on Medium difficulty or higher without changing characters or using continues, and with default settings except for the round count set to 5",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-11-1",
+      "type": "achievement",
+      "subject": "Galaga Challenge",
+      "predicate": "mechanic",
+      "object": "Maximum of one continue, 18.5s first stage",
+      "location": "Loading Screen",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Can confirm using multiple continues makes the achievement not work... it mentions unlocking Devil Kazuya and you can do that only if you use a maximum of one continue.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "Can confirm using multiple continues makes the achievement not work. And that's as it should be, it mentions unlocking Devil Kazuya and you can do that only if you use a maximum of one continue.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-2",
+      "type": "achievement",
+      "subject": "Ultimate Combo",
+      "predicate": "tip",
+      "object": "Can be done in VS Mode against idle 2P",
+      "location": "VS Mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "The best way to do it is in VS MODE, cause 2P won't block anything, while staying, as in the future games.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "The best way to do it is in VS MODE, cause 2P won't block anything, while staying, as in the future games.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-78-1",
+      "type": "achievement",
+      "subject": "Five Minute Death Punch",
+      "predicate": "tip",
+      "object": "Michelle 10-hitter combo: 2112333441",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "I got 4:40 with Michelle: all I did was her 10-hitter combo: 2112333441. It seems AI does not know what to do with it.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#78",
+          "quote": "I got 4:40 with Michelle: all I did was her 10-hitter combo: 2112333441. \nIt seems AI does not know what to do with it.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-79-2",
+      "type": "achievement",
+      "subject": "Long Journey",
+      "predicate": "requires",
+      "object": "No character change condition",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "You can beat the game with any character. I added \"no character change\" condition in order to avoid exploitation.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "You can beat the game with any character. I added \"no character change\" condition in order to avoid exploitation.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-80-1",
+      "type": "achievement",
+      "subject": "Long Journey",
+      "predicate": "tip",
+      "object": "Lee spam D+4,4,4",
+      "location": "Arcade Mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "Just use Lee, and spam D+4,4,4. Try and get a run where you fight King in the first 3 rounds, because King can be really mean, and a possible run killer.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#80",
+          "quote": "Just use Lee, and spam D+4,4,4. Try and get a run where you fight King in the first 3 rounds, because King can be really mean, and a possible run killer.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    }
+  ]
+}

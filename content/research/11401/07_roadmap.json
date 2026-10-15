@@ -1,0 +1,265 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Fighting / 3D Arcade Fighter",
+    "categories": [
+      {
+        "name": "Playable Character Roster",
+        "description": "Unlock all 8 mid-boss rivals, the final boss Heihachi Mishima, and alternate costume Devil Kazuya (17 characters total).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Arcade Story Campaigns",
+        "description": "Complete Arcade mode without character switching on Medium difficulty or higher across all 17 fighters.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Combos & Technical Execution",
+        "description": "Execute universal 3-hit and 10-hit combinations, along with character-specific 6-hit combos for all 17 fighters.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Difficulty & Endurance Trials",
+        "description": "Finish Arcade mode on Hard, Ultra Hard, under 5 minutes (speedrun), and a grueling 5-round marathon without continues.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "roster_unlocked",
+      "arcade_clears",
+      "combos_mastered",
+      "trials_completed"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "Tekken (PS1) is a 3D fighting game where 100% completion requires completing individual Arcade mode campaigns across all characters, practicing combos in Versus Mode or Arcade Mode, clearing the Galaga loading mini-game, and tackling specific difficulty/endurance parameters. No achievements are permanently missable or mutually exclusive, as individual Arcade runs and VS Mode matches can be attempted at any time.",
+  "settings_notes": "Default settings: Difficulty Medium, Round Count 3, Round Time 40. Individual achievements require adjusting Difficulty to Ultra Hard (for 90422/90423) or Round Count to 5 (for 90429).",
+  "fact_ids": [
+    "gf1-3-1",
+    "gf1-18-2",
+    "gf1-18-3",
+    "gf1-18-4",
+    "ra-comments-9-1",
+    "ra-comments-15-1"
+  ],
+  "missables": [],
+  "ponr": [],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Boot Challenge & Core Combat Fundamentals",
+      "areas": [
+        "Boot_Screen",
+        "Galaga_MiniGame",
+        "Game_Options",
+        "VS_Mode",
+        "Arcade_Mode"
+      ],
+      "achievement_ids": [
+        90355,
+        90406,
+        90432,
+        90433
+      ],
+      "fact_ids": [
+        "gf1-3-1",
+        "gf1-5-1",
+        "gf1-6-1",
+        "gf1-18-2",
+        "gf3-1-2",
+        "gf3-1-3",
+        "ra-comments-8-1",
+        "ra-comments-9-1",
+        "ra-comments-11-1",
+        "ra-comments-17-1",
+        "ra-comments-19-1",
+        "ra-comments-38-2"
+      ],
+      "notes": "Clear all 8 stages of Galaga with <=1 continue during loading to unlock Devil Kazuya. Establish basic controls, achieve a Perfect victory in Arcade mode, and perform 3-hit and 10-hit combos in VS Mode against an idle 2P controller."
+    },
+    {
+      "n": 2,
+      "title": "The Original Eight: Base Roster Campaigns & Sub-Boss Unlocks",
+      "areas": [
+        "Kazuya_Arcade",
+        "Paul_Arcade",
+        "Law_Arcade",
+        "Nina_Arcade",
+        "Jack_Arcade",
+        "King_Arcade",
+        "Yoshimitsu_Arcade",
+        "Michelle_Arcade"
+      ],
+      "achievement_ids": [
+        90395,
+        90431,
+        90408,
+        90434,
+        90409,
+        90435,
+        90407,
+        90437,
+        90410,
+        90436,
+        90411,
+        90438,
+        90396,
+        90439,
+        90412,
+        90440
+      ],
+      "fact_ids": [
+        "gf1-18-3",
+        "gf1-18-5",
+        "gf1-6-1",
+        "gf1-6-3",
+        "gf1-7-1",
+        "gf1-8-1",
+        "gf1-9-1",
+        "gf1-10-1",
+        "gf1-11-1",
+        "gf1-12-1",
+        "gf1-13-1",
+        "gf2-3-1",
+        "gf2-4-1",
+        "gf2-4-2",
+        "gf4-11-1",
+        "gf4-11-2",
+        "gf4-11-3",
+        "gf4-11-4",
+        "ra-comments-22-1",
+        "ra-comments-24-1",
+        "ra-comments-26-1",
+        "ra-comments-28-1",
+        "ra-comments-30-1",
+        "ra-comments-32-1",
+        "ra-comments-34-1",
+        "ra-comments-36-1",
+        "ra-comments-56-1",
+        "ra-comments-57-1",
+        "ra-comments-58-1",
+        "ra-comments-59-1",
+        "ra-comments-60-1",
+        "ra-comments-61-1",
+        "ra-comments-62-1",
+        "ra-comments-63-1"
+      ],
+      "notes": "Clear Arcade mode on Medium difficulty (default settings, no character change) with each of the 8 base fighters, defeating their Stage 8 rivals to unlock all 8 sub-bosses. Execute each character's signature 6-hit combo during their run or in VS Mode."
+    },
+    {
+      "n": 3,
+      "title": "The Sub-Boss Uprising & Full Roster Completion",
+      "areas": [
+        "Wang_Arcade",
+        "Lee_Arcade",
+        "PJack_Arcade",
+        "ArmorKing_Arcade",
+        "Ganryu_Arcade",
+        "Anna_Arcade",
+        "Kuma_Arcade",
+        "Kunimitsu_Arcade",
+        "Full_Roster_Unlocked"
+      ],
+      "achievement_ids": [
+        90413,
+        90483,
+        90415,
+        90477,
+        90416,
+        90478,
+        90417,
+        90479,
+        90418,
+        90481,
+        90419,
+        90480,
+        90420,
+        90482,
+        90421,
+        90442,
+        90428
+      ],
+      "fact_ids": [
+        "gf1-18-3",
+        "gf1-18-4",
+        "gf1-14-1",
+        "gf1-15-1",
+        "gf1-16-1",
+        "gf1-17-1",
+        "gf1-18-1",
+        "gf1-20-1",
+        "gf2-8-1",
+        "gf2-8-2",
+        "gf2-8-3",
+        "gf2-9-1",
+        "gf5-2-1",
+        "gf5-2-2",
+        "ra-comments-15-1",
+        "ra-comments-41-1",
+        "ra-comments-43-1",
+        "ra-comments-45-1",
+        "ra-comments-47-1",
+        "ra-comments-49-1",
+        "ra-comments-51-1",
+        "ra-comments-53-1",
+        "ra-comments-55-1",
+        "ra-comments-64-1",
+        "ra-comments-66-1",
+        "ra-comments-67-1",
+        "ra-comments-68-1",
+        "ra-comments-69-1",
+        "ra-comments-70-1",
+        "ra-comments-71-1",
+        "ra-comments-72-1"
+      ],
+      "notes": "Clear Arcade mode on Medium difficulty (default settings, no character change) with each of the 8 unlocked sub-bosses. Execute their respective 6-hit combos. Clearing Arcade without continues unlocks Heihachi Mishima, officially completing the entire 17-character roster."
+    },
+    {
+      "n": 4,
+      "title": "The Mishima Zaibatsu: Heihachi Campaign & Mastery",
+      "areas": [
+        "Heihachi_Mishima_Boss",
+        "Heihachi_Arcade"
+      ],
+      "achievement_ids": [
+        90414,
+        90441
+      ],
+      "fact_ids": [
+        "gf1-18-4",
+        "gf1-18-1",
+        "gf3-1-1",
+        "ra-comments-38-1",
+        "ra-comments-65-1"
+      ],
+      "notes": "Select Heihachi Mishima and conquer Arcade mode on Medium difficulty without changing characters. Perform Heihachi's 6-hit combo or 10-hit string to master the King of Iron Fist."
+    },
+    {
+      "n": 5,
+      "title": "Master of the Iron Fist: Hard, Speedrun & Marathon Trials",
+      "areas": [
+        "Ultra_Hard_Arcade",
+        "Speedrun_Arcade",
+        "Long_Journey_Marathon"
+      ],
+      "achievement_ids": [
+        90423,
+        90422,
+        90427,
+        90429
+      ],
+      "fact_ids": [
+        "gf1-3-1",
+        "ra-comments-74-1",
+        "ra-comments-76-1",
+        "ra-comments-77-1",
+        "ra-comments-78-1",
+        "ra-comments-79-1",
+        "ra-comments-79-2",
+        "ra-comments-80-1"
+      ],
+      "notes": "Complete the specialty challenge runs: defeat Arcade on Ultra Hard (also satisfies Hard), execute a sub-5 minute Arcade speedrun using Michelle (10-hit combo cheese) or Lee, and conquer the Long Journey 5-round marathon on Medium+ without continues or character switching."
+    }
+  ],
+  "unverifiable_achievement_ids": []
+}
