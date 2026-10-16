@@ -1,0 +1,57 @@
+[
+  {
+    "fact_id": "gf2-45-4",
+    "resolution": "reject",
+    "rationale": "gf2 says the Bright Card can never be re-obtained once sold. Zelikman's Secrets Guide (checklist-secrets-34-10, updated 2023) and an RA comment (ra-comments-115-10) both say the Marrymore buyer sells it back for 15 Frog Coins. Two later sources outweigh gf2."
+  },
+  {
+    "fact_id": "checklist-secrets-34-3",
+    "resolution": "accept",
+    "rationale": "Knife Guy's Bright Card win count differs by source: 13 (Secrets Guide v5.1, most recently updated), 15 (gf1, marked 'IIRC'; gf3), about 16 (gf2), 10 (one RA comment). All agree losses subtract from the counter. Write: keep winning until Knife Guy hands over the Bright Card (sources report 13 to 16 net wins); use the front/back yellow-ball tell."
+  },
+  {
+    "fact_id": "gf3-22-4",
+    "resolution": "reject",
+    "rationale": "gf3 gives the Moleville Fireworks price as 100 coins; gf1 (gf1-49-20) and an RA comment (ra-comments-33-1) both say 500 coins. Accept 500."
+  },
+  {
+    "fact_id": "gf2-45-13",
+    "resolution": "accept",
+    "rationale": "Big Finale (147260): gf2's Fireworks Finale table (5 bought = Star) is corroborated by DryIce53 (ra-comments-102-4, -102-5, -102-8): exactly 5 Fireworks purchases give the star; a 6th gives a flower. GAMERJET's '7 fireworks' (ra-comments-102-2) is a personal report, not a rule. Fireworks may be bought and sold repeatedly; the purchase count is what matters (ra-comments-102-6, -102-10)."
+  },
+  {
+    "fact_id": "ra-comments-115-2",
+    "resolution": "accept",
+    "rationale": "Frog Coin Collector (5914): commenters disagree on whether 100 Frog Coins must be held at once (GAMERJET) or counted cumulatively (Scaramanga, ra-comments-115-1). Write the safe instruction: have 100 Frog Coins in hand at the same time before spending any, and mention the cumulative report as unconfirmed."
+  },
+  {
+    "fact_id": "ra-comments-22-1",
+    "resolution": "accept",
+    "rationale": "Wiggler Frog Coin (147245): 10 consecutive jumps outside battle, per gf2 (gf2-11-16, gf2-45-5), gf3 (gf3-16-7) and the Secrets Guide (checklist-secrets-18-8). The '8 jumps' remark was an earlier guess in the same thread."
+  },
+  {
+    "fact_id": "ra-comments-70-2",
+    "resolution": "accept",
+    "rationale": "Shogun Sensei (147252): two commenters (RetroSprites, thehoove) say the 3 jumps must be consecutive; ThatGuy1414 (ra-comments-70-3) says not. Write the safe instruction: 3 consecutive jumps without touching the ground."
+  },
+  {
+    "fact_id": "ra-comments-36-3",
+    "resolution": "accept",
+    "rationale": "Promotion Boosting (372506): exiting to the World Map and re-entering between Snifit fights is the reliable reset; ra-comments-36-4 says leaving the room suffices. Write the World Map method as primary and the room-exit method as a reported shortcut. ra-comments-36-10 notes only 5 Snifit losses are actually needed."
+  },
+  {
+    "fact_id": "ra-comments-47-11",
+    "resolution": "accept",
+    "rationale": "Learn the Rhythm / Boshi race: commenters disagree on button timing (off the beat vs on the beat with release on the offbeat, ra-comments-48-5). Both are personal technique; present both as options. Note: the 'bet on Yoshi and watch him race' tip (ra-comments-48-1, -48-2) is filed under Yoshi Juiced and is about farming cookies; no source says watching a race counts as beating Boshi."
+  },
+  {
+    "fact_id": "ra-comments-41-7",
+    "resolution": "accept",
+    "rationale": "Flower Point Boosters (6708): the 'all 7 on the first run' rule is superseded; later comments (Kryle, Max207, Phantomizer) say you can re-enter Booster Hill and add 2 Flower Tabs per run. Write the re-entry method; mention that saving first is wise."
+  },
+  {
+    "fact_id": "checklist-secrets-6-17",
+    "resolution": "accept",
+    "rationale": "Hidden treasure boxes: gf1 and the Secrets Guide use the same 1-39 numbering and agree on contents. checklist-chests uses mostly the same numbering but differs on 7 boxes' contents, and gf3 uses a different numbering. Route the 39 boxes using gf1 + Secrets Guide numbering; use checklist-chests and gf3 only for extra how-to detail matched by location."
+  }
+]

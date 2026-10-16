@@ -52,7 +52,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-56-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -61,7 +63,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-59-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -70,7 +74,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-60-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -79,7 +85,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-58-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -88,7 +96,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-61-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -97,7 +107,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-62-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -106,7 +118,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-57-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -115,7 +129,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-5",
-        "ra-comments-63-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -197,7 +213,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-66-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -206,7 +224,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-71-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -215,7 +235,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-64-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -224,7 +246,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-70-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -242,7 +266,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-68-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -251,7 +277,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-69-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -260,7 +288,9 @@
       "kind": "area",
       "fact_ids": [
         "gf1-18-3",
-        "ra-comments-72-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -304,7 +334,8 @@
       "label": "Ultra Hard Mode Trial",
       "kind": "area",
       "fact_ids": [
-        "ra-comments-74-1",
+        "gf1-20-1",
+        "ra-comments-76-3",
         "ra-comments-76-1"
       ]
     },
@@ -322,7 +353,9 @@
       "label": "Long Journey 5-Round Marathon",
       "kind": "area",
       "fact_ids": [
-        "ra-comments-79-1",
+        "ra-comments-79-3",
+        "ra-comments-79-4",
+        "ra-comments-80-3",
         "ra-comments-79-2",
         "ra-comments-80-1"
       ]
@@ -638,7 +671,8 @@
       "kind": "unlocks",
       "label": "3-hit combo",
       "fact_ids": [
-        "ra-comments-17-1"
+        "gf1-4-5",
+        "gf5-2-1"
       ]
     },
     {
@@ -692,7 +726,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-56-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -727,7 +763,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-59-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -762,7 +800,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-60-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -771,7 +811,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-26-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -797,7 +839,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-58-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -806,7 +850,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-34-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -832,7 +878,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-61-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -867,7 +915,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-62-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -876,7 +926,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-30-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -902,7 +954,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-57-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -937,7 +991,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-63-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -946,7 +1002,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-36-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -963,7 +1021,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-66-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -972,7 +1032,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-43-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -989,7 +1051,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-71-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -1015,7 +1079,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-64-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -1041,7 +1107,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-70-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -1050,7 +1118,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-49-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -1076,7 +1146,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-45-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -1093,7 +1165,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-68-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -1102,7 +1176,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-47-1"
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1"
       ]
     },
     {
@@ -1119,7 +1195,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-69-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -1145,7 +1223,9 @@
       "kind": "unlocks",
       "label": "Arcade clear",
       "fact_ids": [
-        "ra-comments-72-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ]
     },
     {
@@ -1198,7 +1278,9 @@
       "kind": "unlocks",
       "label": "6-hit combo",
       "fact_ids": [
-        "ra-comments-38-1"
+        "ra-comments-38-5",
+        "ra-comments-38-7",
+        "ra-comments-38-9"
       ]
     },
     {
@@ -1305,7 +1387,8 @@
       "kind": "unlocks",
       "label": "Hard+ clear",
       "fact_ids": [
-        "ra-comments-74-1"
+        "gf1-20-1",
+        "ra-comments-76-3"
       ]
     },
     {
@@ -1342,7 +1425,9 @@
       "kind": "leads_to",
       "label": "Options: 5 Rounds",
       "fact_ids": [
-        "ra-comments-79-1"
+        "ra-comments-79-3",
+        "ra-comments-79-4",
+        "ra-comments-80-3"
       ]
     },
     {
@@ -1351,7 +1436,9 @@
       "kind": "unlocks",
       "label": "5 rounds no continues",
       "fact_ids": [
-        "ra-comments-79-1",
+        "ra-comments-79-3",
+        "ra-comments-79-4",
+        "ra-comments-80-3",
         "ra-comments-79-2",
         "ra-comments-80-1"
       ]

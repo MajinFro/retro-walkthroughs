@@ -1,0 +1,2994 @@
+{
+  "nodes": [
+    {
+      "id": "Marios_Pad",
+      "label": "Mario's Pad",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-25-1"
+      ]
+    },
+    {
+      "id": "Bowsers_Keep_Prologue",
+      "label": "Bowser's Keep (First Visit)",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-24-1"
+      ]
+    },
+    {
+      "id": "Vista_Hill",
+      "label": "Vista Hill",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-26-1"
+      ]
+    },
+    {
+      "id": "Mushroom_Way",
+      "label": "Mushroom Way",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-26-9",
+        "gf1-27-7",
+        "gf1-27-8",
+        "gf1-27-11"
+      ]
+    },
+    {
+      "id": "Mushroom_Kingdom",
+      "label": "Mushroom Kingdom",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-29-1"
+      ]
+    },
+    {
+      "id": "Bandits_Way",
+      "label": "Bandit's Way",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-30-1"
+      ]
+    },
+    {
+      "id": "Mushroom_Castle",
+      "label": "Mack's throne room",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-33-1"
+      ]
+    },
+    {
+      "id": "Kero_Sewers",
+      "label": "Kero Sewers",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-34-4"
+      ]
+    },
+    {
+      "id": "Midas_River",
+      "label": "Midas River",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-36-2"
+      ]
+    },
+    {
+      "id": "Tadpole_Pond",
+      "label": "Tadpole Pond",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-36-4",
+        "gf1-37-1",
+        "gf1-37-6"
+      ]
+    },
+    {
+      "id": "Melody_Bay",
+      "label": "Melody Bay",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-37-19",
+        "gf1-49-25"
+      ]
+    },
+    {
+      "id": "Rose_Way",
+      "label": "Rose Way",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-38-1"
+      ]
+    },
+    {
+      "id": "Rose_Town",
+      "label": "Rose Town",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-39-1",
+        "gf1-39-3"
+      ]
+    },
+    {
+      "id": "Forest_Maze",
+      "label": "Forest Maze",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-40-1"
+      ]
+    },
+    {
+      "id": "Pipe_Vault",
+      "label": "Pipe Vault",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-43-1",
+        "gf1-43-2"
+      ]
+    },
+    {
+      "id": "Yoster_Isle",
+      "label": "Yo'ster Isle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-44-1"
+      ]
+    },
+    {
+      "id": "Moleville",
+      "label": "Moleville",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-45-1",
+        "gf1-49-5",
+        "gf1-49-18"
+      ]
+    },
+    {
+      "id": "Coal_Mines",
+      "label": "Coal Mines",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-45-13",
+        "gf1-47-2",
+        "gf1-47-4",
+        "gf1-47-6"
+      ]
+    },
+    {
+      "id": "Booster_Pass",
+      "label": "Booster Pass",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-50-1",
+        "gf1-50-4",
+        "gf1-50-10",
+        "gf1-50-12"
+      ]
+    },
+    {
+      "id": "Booster_Tower",
+      "label": "Booster Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-51-1",
+        "gf1-51-10"
+      ]
+    },
+    {
+      "id": "Booster_Hill",
+      "label": "Booster Hill",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-53-1"
+      ]
+    },
+    {
+      "id": "Marrymore",
+      "label": "Marrymore",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-53-3",
+        "gf1-53-5"
+      ]
+    },
+    {
+      "id": "Star_Hill",
+      "label": "Star Hill",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-57-3",
+        "gf1-57-5",
+        "gf1-57-7",
+        "gf1-57-10"
+      ]
+    },
+    {
+      "id": "Seaside_Town",
+      "label": "Seaside Town",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-58-1",
+        "gf1-58-3"
+      ]
+    },
+    {
+      "id": "Sea",
+      "label": "Sea",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-59-1",
+        "gf1-59-2"
+      ]
+    },
+    {
+      "id": "Sunken_Ship",
+      "label": "Sunken Ship",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-60-1",
+        "gf1-60-8",
+        "gf1-60-10",
+        "gf1-60-19"
+      ]
+    },
+    {
+      "id": "Seaside_Town_Shops",
+      "label": "Seaside Town (Yaridovich)",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-66-6",
+        "gf1-67-2",
+        "gf1-68-1",
+        "gf1-68-9",
+        "gf1-69-1"
+      ]
+    },
+    {
+      "id": "Lands_End",
+      "label": "Land's End",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-70-1",
+        "gf1-71-6",
+        "gf1-71-13"
+      ]
+    },
+    {
+      "id": "Monstro_Town",
+      "label": "Monstro Town",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-74-3",
+        "gf1-74-4"
+      ]
+    },
+    {
+      "id": "Belome_Temple",
+      "label": "Belome's Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-72-1",
+        "gf1-75-3"
+      ]
+    },
+    {
+      "id": "Bean_Valley",
+      "label": "Bean Valley",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-77-1",
+        "gf1-77-7",
+        "gf1-80-4"
+      ]
+    },
+    {
+      "id": "Grate_Guys_Casino",
+      "label": "Grate Guy's Casino",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-117-5"
+      ]
+    },
+    {
+      "id": "Nimbus_Land",
+      "label": "Nimbus Land",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-81-1",
+        "gf1-81-3"
+      ]
+    },
+    {
+      "id": "Nimbus_Castle",
+      "label": "Nimbus Land castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-81-22",
+        "gf1-83-6"
+      ]
+    },
+    {
+      "id": "Barrel_Volcano",
+      "label": "Barrel Volcano",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-87-1",
+        "gf1-87-2",
+        "gf1-87-8",
+        "gf1-87-16",
+        "gf1-87-21",
+        "gf1-87-25"
+      ]
+    },
+    {
+      "id": "Barrel_Volcano_Summit",
+      "label": "Barrel Volcano summit",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-89-4"
+      ]
+    },
+    {
+      "id": "Bowsers_Keep",
+      "label": "Bowser's Keep",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-91-4",
+        "gf1-91-5",
+        "gf1-91-9",
+        "gf1-92-1",
+        "gf1-93-1",
+        "gf1-93-4"
+      ]
+    },
+    {
+      "id": "Six_Doors",
+      "label": "Six Door challenge (Bowser's Keep)",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-91-10",
+        "gf1-119-1",
+        "gf1-119-12"
+      ]
+    },
+    {
+      "id": "Gate",
+      "label": "Gate",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-95-3",
+        "gf1-96-1"
+      ]
+    },
+    {
+      "id": "Smithy_Factory",
+      "label": "Smithy Factory",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-96-2",
+        "gf1-96-3",
+        "gf1-96-4",
+        "gf1-98-2",
+        "gf1-98-4"
+      ]
+    },
+    {
+      "id": "Boss_Bowser",
+      "label": "Bowser (prologue)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-24-3",
+        "gf1-24-4",
+        "gf2-7-18"
+      ]
+    },
+    {
+      "id": "Boss_Hammer_Bros",
+      "label": "Hammer Bros.",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-28-1",
+        "gf1-28-5"
+      ]
+    },
+    {
+      "id": "Boss_Croco_1",
+      "label": "Croco (Bandit's Way)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-31-1",
+        "gf1-31-3",
+        "gf2-8-20"
+      ]
+    },
+    {
+      "id": "Boss_Mack",
+      "label": "Mack",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-33-1",
+        "gf3-12-1",
+        "gf2-9-11"
+      ]
+    },
+    {
+      "id": "Boss_Belome_1",
+      "label": "Belome (Kero Sewers)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-35-1",
+        "gf1-35-3",
+        "gf3-14-1"
+      ]
+    },
+    {
+      "id": "Boss_Bowyer",
+      "label": "Bowyer",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-41-3",
+        "gf2-12-3",
+        "gf3-17-2"
+      ]
+    },
+    {
+      "id": "Boss_Croco_2",
+      "label": "Croco (Coal Mines)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-12-20",
+        "gf3-20-1"
+      ]
+    },
+    {
+      "id": "Boss_Punchinello",
+      "label": "Punchinello",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-48-1",
+        "gf3-21-1",
+        "gf2-13-5"
+      ]
+    },
+    {
+      "id": "Boss_Knife_Grate",
+      "label": "Knife Guy & Grate Guy",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-52-11",
+        "gf2-15-3",
+        "gf3-25-1"
+      ]
+    },
+    {
+      "id": "Boss_Bundt",
+      "label": "Bundt (wedding cake)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-54-2",
+        "gf1-54-9",
+        "gf3-27-1"
+      ]
+    },
+    {
+      "id": "Boss_King_Calamari",
+      "label": "King Calamari",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-61-2",
+        "gf2-18-8"
+      ]
+    },
+    {
+      "id": "Boss_Johnny",
+      "label": "Johnny",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-63-2",
+        "gf2-18-20",
+        "gf3-33-1"
+      ]
+    },
+    {
+      "id": "Boss_Yaridovich",
+      "label": "Yaridovich",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-65-1",
+        "gf1-65-7",
+        "gf2-19-1"
+      ]
+    },
+    {
+      "id": "Boss_Belome_2",
+      "label": "Belome (temple)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-72-15",
+        "gf1-73-3",
+        "gf3-38-1"
+      ]
+    },
+    {
+      "id": "Boss_Megasmilax",
+      "label": "Megasmilax",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-79-1",
+        "gf1-79-2"
+      ]
+    },
+    {
+      "id": "Boss_Birdo",
+      "label": "Birdo",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-82-1",
+        "gf1-82-2"
+      ]
+    },
+    {
+      "id": "Boss_Valentina",
+      "label": "Valentina & Dodo",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-84-1",
+        "gf1-84-2"
+      ]
+    },
+    {
+      "id": "Boss_Czar_Dragon",
+      "label": "Czar Dragon / Zombone",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-88-1",
+        "gf1-88-2",
+        "gf2-21-23"
+      ]
+    },
+    {
+      "id": "Boss_Axem_Rangers",
+      "label": "Axem Rangers",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-89-1",
+        "gf1-89-5"
+      ]
+    },
+    {
+      "id": "Boss_Magikoopa",
+      "label": "Magikoopa",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-92-1",
+        "gf1-92-2"
+      ]
+    },
+    {
+      "id": "Boss_Exor",
+      "label": "Exor",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-94-1",
+        "gf1-94-2"
+      ]
+    },
+    {
+      "id": "Boss_Count_Down",
+      "label": "Count Down",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-97-1",
+        "gf1-97-2"
+      ]
+    },
+    {
+      "id": "Boss_Cloaker_Domino",
+      "label": "Cloaker & Domino",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-99-1",
+        "gf1-99-2"
+      ]
+    },
+    {
+      "id": "Boss_Factory_Chiefs",
+      "label": "Clerk, Manager, Director & Factory Chief",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-101-2",
+        "gf1-101-3"
+      ]
+    },
+    {
+      "id": "Boss_Smithy",
+      "label": "Smithy",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-103-1",
+        "gf1-103-2"
+      ]
+    },
+    {
+      "id": "Boss_Jinx",
+      "label": "Jinx (optional)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-114-2",
+        "gf1-114-4",
+        "checklist-secrets-26-6"
+      ]
+    },
+    {
+      "id": "Boss_Culex",
+      "label": "Culex (optional)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-115-2",
+        "gf1-115-3",
+        "checklist-secrets-27-11"
+      ]
+    },
+    {
+      "id": "Ach_5815",
+      "label": "Princess... Saved?",
+      "kind": "achievement",
+      "achievement_id": 5815
+    },
+    {
+      "id": "Ach_6576",
+      "label": "Fists Are Stronger than Hammers",
+      "kind": "achievement",
+      "achievement_id": 6576
+    },
+    {
+      "id": "Ach_5880",
+      "label": "Hidden Treasure Hunter",
+      "kind": "achievement",
+      "achievement_id": 5880
+    },
+    {
+      "id": "Missable_5880",
+      "label": "Missable: Hidden Treasure Hunter",
+      "kind": "missable",
+      "fact_ids": [
+        "checklist-chests-1-1",
+        "checklist-chests-1-2",
+        "ra-comments-7-1"
+      ]
+    },
+    {
+      "id": "Ach_53293",
+      "label": "The Unmentionable",
+      "kind": "achievement",
+      "achievement_id": 53293
+    },
+    {
+      "id": "Missable_53293",
+      "label": "Missable: The Unmentionable",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-29-16",
+        "gf3-28-11",
+        "ra-comments-8-1"
+      ]
+    },
+    {
+      "id": "Ach_5757",
+      "label": "Meet Croco",
+      "kind": "achievement",
+      "achievement_id": 5757
+    },
+    {
+      "id": "Ach_372508",
+      "label": "Returning Funds",
+      "kind": "achievement",
+      "achievement_id": 372508
+    },
+    {
+      "id": "Missable_372508",
+      "label": "Missable: Returning Funds",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-32-5",
+        "gf2-8-30",
+        "ra-comments-10-1"
+      ]
+    },
+    {
+      "id": "Ach_5811",
+      "label": "What's This Pointy Thing?",
+      "kind": "achievement",
+      "achievement_id": 5811
+    },
+    {
+      "id": "Ach_6710",
+      "label": "Pandorite's Box",
+      "kind": "achievement",
+      "achievement_id": 6710
+    },
+    {
+      "id": "Ach_147254",
+      "label": "It's Best to Turn Back Now",
+      "kind": "achievement",
+      "achievement_id": 147254
+    },
+    {
+      "id": "Missable_147254",
+      "label": "Missable: It's Best to Turn Back Now",
+      "kind": "missable",
+      "fact_ids": [
+        "ra-comments-13-1"
+      ]
+    },
+    {
+      "id": "Ach_5759",
+      "label": "Beware the Flood",
+      "kind": "achievement",
+      "achievement_id": 5759
+    },
+    {
+      "id": "Ach_145611",
+      "label": "Everything I Touch",
+      "kind": "achievement",
+      "achievement_id": 145611
+    },
+    {
+      "id": "Ach_53304",
+      "label": "Amphibious Wisdom I",
+      "kind": "achievement",
+      "achievement_id": 53304
+    },
+    {
+      "id": "Ach_53305",
+      "label": "Alto Member",
+      "kind": "achievement",
+      "achievement_id": 53305
+    },
+    {
+      "id": "Ach_147245",
+      "label": "When Are You Turning Red?",
+      "kind": "achievement",
+      "achievement_id": 147245
+    },
+    {
+      "id": "Ach_147256",
+      "label": "I Am a Work of Fiction",
+      "kind": "achievement",
+      "achievement_id": 147256
+    },
+    {
+      "id": "Ach_5882",
+      "label": "Forest Secret",
+      "kind": "achievement",
+      "achievement_id": 5882
+    },
+    {
+      "id": "Ach_5812",
+      "label": "Solve the Forest Maze",
+      "kind": "achievement",
+      "achievement_id": 5812
+    },
+    {
+      "id": "Ach_53332",
+      "label": "Sleepy Hero I",
+      "kind": "achievement",
+      "achievement_id": 53332
+    },
+    {
+      "id": "Ach_5878",
+      "label": "Goomba Thumper",
+      "kind": "achievement",
+      "achievement_id": 5878
+    },
+    {
+      "id": "Ach_53292",
+      "label": "Learn the Rhythm",
+      "kind": "achievement",
+      "achievement_id": 53292
+    },
+    {
+      "id": "Ach_5809",
+      "label": "Greet Croco",
+      "kind": "achievement",
+      "achievement_id": 5809
+    },
+    {
+      "id": "Ach_5813",
+      "label": "Liberate the Mines",
+      "kind": "achievement",
+      "achievement_id": 5813
+    },
+    {
+      "id": "Ach_6709",
+      "label": "Minecart Top Dog",
+      "kind": "achievement",
+      "achievement_id": 6709
+    },
+    {
+      "id": "Ach_147275",
+      "label": "A Hole's a Hole",
+      "kind": "achievement",
+      "achievement_id": 147275
+    },
+    {
+      "id": "Ach_5814",
+      "label": "Art of Balance",
+      "kind": "achievement",
+      "achievement_id": 5814
+    },
+    {
+      "id": "Ach_147266",
+      "label": "Booster's Little Secret",
+      "kind": "achievement",
+      "achievement_id": 147266
+    },
+    {
+      "id": "Ach_372506",
+      "label": "Promotion Boosting",
+      "kind": "achievement",
+      "achievement_id": 372506
+    },
+    {
+      "id": "Ach_5816",
+      "label": "The Mario Behind the Curtain",
+      "kind": "achievement",
+      "achievement_id": 5816
+    },
+    {
+      "id": "Ach_5817",
+      "label": "Curtain Sneak",
+      "kind": "achievement",
+      "achievement_id": 5817
+    },
+    {
+      "id": "Missable_5817",
+      "label": "Missable: Curtain Sneak",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-110-1",
+        "gf1-110-2",
+        "ra-comments-38-1"
+      ]
+    },
+    {
+      "id": "Ach_5819",
+      "label": "Locomotive Loser",
+      "kind": "achievement",
+      "achievement_id": 5819
+    },
+    {
+      "id": "Missable_5819",
+      "label": "Missable: Locomotive Loser",
+      "kind": "missable",
+      "fact_ids": [
+        "gf2-14-18",
+        "gf3-24-8",
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "id": "Ach_5820",
+      "label": "Are We Amusing?",
+      "kind": "achievement",
+      "achievement_id": 5820
+    },
+    {
+      "id": "Ach_6708",
+      "label": "Flower Point Boosters",
+      "kind": "achievement",
+      "achievement_id": 6708
+    },
+    {
+      "id": "Ach_147274",
+      "label": "Always Tip the Bellhops",
+      "kind": "achievement",
+      "achievement_id": 147274
+    },
+    {
+      "id": "Ach_53380",
+      "label": "Win Her Heart",
+      "kind": "achievement",
+      "achievement_id": 53380
+    },
+    {
+      "id": "Missable_53380",
+      "label": "Missable: Win Her Heart",
+      "kind": "missable",
+      "fact_ids": [
+        "gf2-47-7",
+        "gf2-15-13",
+        "ra-comments-43-1"
+      ]
+    },
+    {
+      "id": "Ach_5821",
+      "label": "Wedding Crasher",
+      "kind": "achievement",
+      "achievement_id": 5821
+    },
+    {
+      "id": "Ach_147273",
+      "label": "ENOUGH ALREADY",
+      "kind": "achievement",
+      "achievement_id": 147273
+    },
+    {
+      "id": "Missable_147273",
+      "label": "Missable: ENOUGH ALREADY",
+      "kind": "missable",
+      "fact_ids": [
+        "gf3-28-7",
+        "ra-comments-45-1"
+      ]
+    },
+    {
+      "id": "Ach_147247",
+      "label": "A Beetle's Heart",
+      "kind": "achievement",
+      "achievement_id": 147247
+    },
+    {
+      "id": "Ach_147271",
+      "label": "Yoshi Juiced",
+      "kind": "achievement",
+      "achievement_id": 147271
+    },
+    {
+      "id": "Ach_34964",
+      "label": "Raising Sheep",
+      "kind": "achievement",
+      "achievement_id": 34964
+    },
+    {
+      "id": "Ach_147257",
+      "label": "From One Cookie to Another",
+      "kind": "achievement",
+      "achievement_id": 147257
+    },
+    {
+      "id": "Ach_53550",
+      "label": "Invasion of Privacy!",
+      "kind": "achievement",
+      "achievement_id": 53550
+    },
+    {
+      "id": "Ach_147270",
+      "label": "O Brother Where Art Thou?",
+      "kind": "achievement",
+      "achievement_id": 147270
+    },
+    {
+      "id": "Ach_5822",
+      "label": "Wish Fulfilled",
+      "kind": "achievement",
+      "achievement_id": 5822
+    },
+    {
+      "id": "Ach_53571",
+      "label": "First-Class Pirate",
+      "kind": "achievement",
+      "achievement_id": 53571
+    },
+    {
+      "id": "Ach_5856",
+      "label": "Tentacle Terror",
+      "kind": "achievement",
+      "achievement_id": 5856
+    },
+    {
+      "id": "Ach_53572",
+      "label": "Sunken Treasure",
+      "kind": "achievement",
+      "achievement_id": 53572
+    },
+    {
+      "id": "Ach_147263",
+      "label": "Sunken Secret",
+      "kind": "achievement",
+      "achievement_id": 147263
+    },
+    {
+      "id": "Ach_6711",
+      "label": "Hidden Piranha Plant",
+      "kind": "achievement",
+      "achievement_id": 6711
+    },
+    {
+      "id": "Ach_147264",
+      "label": "Unfair Fighting",
+      "kind": "achievement",
+      "achievement_id": 147264
+    },
+    {
+      "id": "Missable_147264",
+      "label": "Missable: Unfair Fighting",
+      "kind": "missable",
+      "fact_ids": [
+        "gf3-33-3",
+        "ra-comments-59-1"
+      ]
+    },
+    {
+      "id": "Ach_5857",
+      "label": "Walk the Plank",
+      "kind": "achievement",
+      "achievement_id": 5857
+    },
+    {
+      "id": "Ach_5823",
+      "label": "Call Me Captain Mario",
+      "kind": "achievement",
+      "achievement_id": 5823
+    },
+    {
+      "id": "Ach_5859",
+      "label": "Indigo Star Piece Take Back",
+      "kind": "achievement",
+      "achievement_id": 5859
+    },
+    {
+      "id": "Ach_147265",
+      "label": "Tickle Torture",
+      "kind": "achievement",
+      "achievement_id": 147265
+    },
+    {
+      "id": "Missable_147265",
+      "label": "Missable: Tickle Torture",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-64-4",
+        "gf1-66-3",
+        "ra-comments-63-1"
+      ]
+    },
+    {
+      "id": "Ach_53573",
+      "label": "Sleepy Hero II",
+      "kind": "achievement",
+      "achievement_id": 53573
+    },
+    {
+      "id": "Missable_53573",
+      "label": "Missable: Sleepy Hero II",
+      "kind": "missable",
+      "fact_ids": [
+        "gf3-41-9",
+        "gf3-46-21",
+        "ra-comments-64-1"
+      ]
+    },
+    {
+      "id": "Ach_147261",
+      "label": "Gold to Green",
+      "kind": "achievement",
+      "achievement_id": 147261
+    },
+    {
+      "id": "Ach_147272",
+      "label": "Whooeee!",
+      "kind": "achievement",
+      "achievement_id": 147272
+    },
+    {
+      "id": "Ach_147250",
+      "label": "Is It Luck or Skill?",
+      "kind": "achievement",
+      "achievement_id": 147250
+    },
+    {
+      "id": "Ach_54150",
+      "label": "Shortcut at Land's End",
+      "kind": "achievement",
+      "achievement_id": 54150
+    },
+    {
+      "id": "Ach_147253",
+      "label": "That Was Great!",
+      "kind": "achievement",
+      "achievement_id": 147253
+    },
+    {
+      "id": "Ach_147252",
+      "label": "Shogun Sensei",
+      "kind": "achievement",
+      "achievement_id": 147252
+    },
+    {
+      "id": "Ach_6714",
+      "label": "Caught Mokura",
+      "kind": "achievement",
+      "achievement_id": 6714
+    },
+    {
+      "id": "Ach_5858",
+      "label": "Time for Dinner",
+      "kind": "achievement",
+      "achievement_id": 5858
+    },
+    {
+      "id": "Ach_147268",
+      "label": "Open Belome",
+      "kind": "achievement",
+      "achievement_id": 147268
+    },
+    {
+      "id": "Ach_54151",
+      "label": "Amphibious Wisdom II",
+      "kind": "achievement",
+      "achievement_id": 54151
+    },
+    {
+      "id": "Ach_147244",
+      "label": "Virtuoso",
+      "kind": "achievement",
+      "achievement_id": 147244
+    },
+    {
+      "id": "Ach_147248",
+      "label": "Mario Sensei",
+      "kind": "achievement",
+      "achievement_id": 147248
+    },
+    {
+      "id": "Ach_5860",
+      "label": "Culex's Challenge",
+      "kind": "achievement",
+      "achievement_id": 5860
+    },
+    {
+      "id": "Ach_147249",
+      "label": "The Musty Fears Must Fear Me Now",
+      "kind": "achievement",
+      "achievement_id": 147249
+    },
+    {
+      "id": "Ach_147246",
+      "label": "Very Commendable!",
+      "kind": "achievement",
+      "achievement_id": 147246
+    },
+    {
+      "id": "Ach_6712",
+      "label": "Box Fight",
+      "kind": "achievement",
+      "achievement_id": 6712
+    },
+    {
+      "id": "Ach_5956",
+      "label": "Please Gamble Responsibly",
+      "kind": "achievement",
+      "achievement_id": 5956
+    },
+    {
+      "id": "Ach_147262",
+      "label": "I Can Stop When I Want",
+      "kind": "achievement",
+      "achievement_id": 147262
+    },
+    {
+      "id": "Ach_147259",
+      "label": "Right Is Always Right",
+      "kind": "achievement",
+      "achievement_id": 147259
+    },
+    {
+      "id": "Missable_147259",
+      "label": "Missable: Right Is Always Right",
+      "kind": "missable",
+      "fact_ids": [
+        "checklist-secrets-34-8",
+        "checklist-secrets-40-6",
+        "ra-comments-83-1"
+      ]
+    },
+    {
+      "id": "Ach_5861",
+      "label": "Plant Derooting",
+      "kind": "achievement",
+      "achievement_id": 5861
+    },
+    {
+      "id": "Ach_147255",
+      "label": "Monster!!!",
+      "kind": "achievement",
+      "achievement_id": 147255
+    },
+    {
+      "id": "Ach_147267",
+      "label": "Polishing Pecks",
+      "kind": "achievement",
+      "achievement_id": 147267
+    },
+    {
+      "id": "Missable_147267",
+      "label": "Missable: Polishing Pecks",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-81-23",
+        "gf1-81-24",
+        "ra-comments-86-1"
+      ]
+    },
+    {
+      "id": "Ach_5862",
+      "label": "Play with Birdo",
+      "kind": "achievement",
+      "achievement_id": 5862
+    },
+    {
+      "id": "Ach_5863",
+      "label": "Correcting Nimbus Land",
+      "kind": "achievement",
+      "achievement_id": 5863
+    },
+    {
+      "id": "Ach_372507",
+      "label": "Where's My Valentina?",
+      "kind": "achievement",
+      "achievement_id": 372507
+    },
+    {
+      "id": "Ach_5864",
+      "label": "Bring a Fire Extinguisher",
+      "kind": "achievement",
+      "achievement_id": 5864
+    },
+    {
+      "id": "Ach_5824",
+      "label": "Ranger Combat",
+      "kind": "achievement",
+      "achievement_id": 5824
+    },
+    {
+      "id": "Ach_6713",
+      "label": "Gooey Monster Chest",
+      "kind": "achievement",
+      "achievement_id": 6713
+    },
+    {
+      "id": "Ach_5872",
+      "label": "Koopa vs. Koopa",
+      "kind": "achievement",
+      "achievement_id": 5872
+    },
+    {
+      "id": "Ach_147276",
+      "label": "GENOcide",
+      "kind": "achievement",
+      "achievement_id": 147276
+    },
+    {
+      "id": "Missable_147276",
+      "label": "Missable: GENOcide",
+      "kind": "missable",
+      "fact_ids": [
+        "gf3-52-12",
+        "gf3-52-13",
+        "ra-comments-94-1"
+      ]
+    },
+    {
+      "id": "Ach_5873",
+      "label": "Well, This Sucks",
+      "kind": "achievement",
+      "achievement_id": 5873
+    },
+    {
+      "id": "Ach_34965",
+      "label": "Nothing Can Stop Us Now!",
+      "kind": "achievement",
+      "achievement_id": 34965
+    },
+    {
+      "id": "Missable_34965",
+      "label": "Missable: Nothing Can Stop Us Now!",
+      "kind": "missable",
+      "fact_ids": [
+        "gf2-24-17",
+        "gf2-24-23",
+        "ra-comments-96-1"
+      ]
+    },
+    {
+      "id": "Ach_147269",
+      "label": "Cleared the Castle",
+      "kind": "achievement",
+      "achievement_id": 147269
+    },
+    {
+      "id": "Ach_5875",
+      "label": "Time to Win",
+      "kind": "achievement",
+      "achievement_id": 5875
+    },
+    {
+      "id": "Ach_5874",
+      "label": "Jesters and Snakes",
+      "kind": "achievement",
+      "achievement_id": 5874
+    },
+    {
+      "id": "Ach_5876",
+      "label": "Supervisor Clobberer",
+      "kind": "achievement",
+      "achievement_id": 5876
+    },
+    {
+      "id": "Ach_5825",
+      "label": "Closing Time",
+      "kind": "achievement",
+      "achievement_id": 5825
+    },
+    {
+      "id": "Ach_147260",
+      "label": "Big Finale",
+      "kind": "achievement",
+      "achievement_id": 147260
+    },
+    {
+      "id": "Ach_147251",
+      "label": "Jump Man",
+      "kind": "achievement",
+      "achievement_id": 147251
+    },
+    {
+      "id": "Ach_5957",
+      "label": "Super Jump Skills",
+      "kind": "achievement",
+      "achievement_id": 5957
+    },
+    {
+      "id": "Ach_120118",
+      "label": "Where's My Super Suit",
+      "kind": "achievement",
+      "achievement_id": 120118
+    },
+    {
+      "id": "Ach_5881",
+      "label": "Ready for the Worst",
+      "kind": "achievement",
+      "achievement_id": 5881
+    },
+    {
+      "id": "Ach_5915",
+      "label": "Flower Power Wizard",
+      "kind": "achievement",
+      "achievement_id": 5915
+    },
+    {
+      "id": "Ach_5914",
+      "label": "Frog Coin Collector",
+      "kind": "achievement",
+      "achievement_id": 5914
+    },
+    {
+      "id": "Ach_147258",
+      "label": "Quick to Flee",
+      "kind": "achievement",
+      "achievement_id": 147258
+    }
+  ],
+  "edges": [
+    {
+      "from": "Marios_Pad",
+      "to": "Bowsers_Keep_Prologue",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-24-1"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep_Prologue",
+      "to": "Vista_Hill",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-26-1"
+      ]
+    },
+    {
+      "from": "Vista_Hill",
+      "to": "Mushroom_Way",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-26-9"
+      ]
+    },
+    {
+      "from": "Mushroom_Way",
+      "to": "Mushroom_Kingdom",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-29-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Kingdom",
+      "to": "Bandits_Way",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-30-1"
+      ]
+    },
+    {
+      "from": "Bandits_Way",
+      "to": "Mushroom_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-33-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Castle",
+      "to": "Kero_Sewers",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-34-4"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Midas_River",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-36-2"
+      ]
+    },
+    {
+      "from": "Midas_River",
+      "to": "Tadpole_Pond",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-36-4"
+      ]
+    },
+    {
+      "from": "Tadpole_Pond",
+      "to": "Melody_Bay",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-37-19"
+      ]
+    },
+    {
+      "from": "Melody_Bay",
+      "to": "Rose_Way",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-38-1"
+      ]
+    },
+    {
+      "from": "Rose_Way",
+      "to": "Rose_Town",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-39-1"
+      ]
+    },
+    {
+      "from": "Rose_Town",
+      "to": "Forest_Maze",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-40-1"
+      ]
+    },
+    {
+      "from": "Forest_Maze",
+      "to": "Pipe_Vault",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-43-1"
+      ]
+    },
+    {
+      "from": "Pipe_Vault",
+      "to": "Yoster_Isle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-44-1"
+      ]
+    },
+    {
+      "from": "Yoster_Isle",
+      "to": "Moleville",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-45-1"
+      ]
+    },
+    {
+      "from": "Moleville",
+      "to": "Coal_Mines",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-45-13"
+      ]
+    },
+    {
+      "from": "Coal_Mines",
+      "to": "Booster_Pass",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-50-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Booster_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-51-1"
+      ]
+    },
+    {
+      "from": "Booster_Tower",
+      "to": "Booster_Hill",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-53-1"
+      ]
+    },
+    {
+      "from": "Booster_Hill",
+      "to": "Marrymore",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-53-3"
+      ]
+    },
+    {
+      "from": "Marrymore",
+      "to": "Star_Hill",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-57-3"
+      ]
+    },
+    {
+      "from": "Star_Hill",
+      "to": "Seaside_Town",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-58-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Sea",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-59-1"
+      ]
+    },
+    {
+      "from": "Sea",
+      "to": "Sunken_Ship",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-60-1"
+      ]
+    },
+    {
+      "from": "Sunken_Ship",
+      "to": "Seaside_Town_Shops",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-66-6"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Lands_End",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-70-1"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Monstro_Town",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-74-3"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Belome_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-72-1"
+      ]
+    },
+    {
+      "from": "Belome_Temple",
+      "to": "Bean_Valley",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-77-1"
+      ]
+    },
+    {
+      "from": "Bean_Valley",
+      "to": "Grate_Guys_Casino",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-117-5"
+      ]
+    },
+    {
+      "from": "Grate_Guys_Casino",
+      "to": "Nimbus_Land",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-81-1"
+      ]
+    },
+    {
+      "from": "Nimbus_Land",
+      "to": "Nimbus_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-81-22"
+      ]
+    },
+    {
+      "from": "Nimbus_Castle",
+      "to": "Barrel_Volcano",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-87-1"
+      ]
+    },
+    {
+      "from": "Barrel_Volcano",
+      "to": "Barrel_Volcano_Summit",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-89-4"
+      ]
+    },
+    {
+      "from": "Barrel_Volcano_Summit",
+      "to": "Bowsers_Keep",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-91-4"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Six_Doors",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-91-10"
+      ]
+    },
+    {
+      "from": "Six_Doors",
+      "to": "Gate",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-95-3"
+      ]
+    },
+    {
+      "from": "Gate",
+      "to": "Smithy_Factory",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-96-2"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep_Prologue",
+      "to": "Boss_Bowser",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-24-3"
+      ]
+    },
+    {
+      "from": "Mushroom_Way",
+      "to": "Boss_Hammer_Bros",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-28-1"
+      ]
+    },
+    {
+      "from": "Bandits_Way",
+      "to": "Boss_Croco_1",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-31-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Castle",
+      "to": "Boss_Mack",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-33-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Boss_Belome_1",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-35-1"
+      ]
+    },
+    {
+      "from": "Forest_Maze",
+      "to": "Boss_Bowyer",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-41-3"
+      ]
+    },
+    {
+      "from": "Coal_Mines",
+      "to": "Boss_Croco_2",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-12-20"
+      ]
+    },
+    {
+      "from": "Coal_Mines",
+      "to": "Boss_Punchinello",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-48-1"
+      ]
+    },
+    {
+      "from": "Booster_Tower",
+      "to": "Boss_Knife_Grate",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-52-11"
+      ]
+    },
+    {
+      "from": "Marrymore",
+      "to": "Boss_Bundt",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-54-2"
+      ]
+    },
+    {
+      "from": "Sunken_Ship",
+      "to": "Boss_King_Calamari",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-61-2"
+      ]
+    },
+    {
+      "from": "Sunken_Ship",
+      "to": "Boss_Johnny",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-63-2"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Boss_Yaridovich",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-65-1"
+      ]
+    },
+    {
+      "from": "Belome_Temple",
+      "to": "Boss_Belome_2",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-72-15"
+      ]
+    },
+    {
+      "from": "Bean_Valley",
+      "to": "Boss_Megasmilax",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-79-1"
+      ]
+    },
+    {
+      "from": "Nimbus_Castle",
+      "to": "Boss_Birdo",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-82-1"
+      ]
+    },
+    {
+      "from": "Nimbus_Castle",
+      "to": "Boss_Valentina",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-84-1"
+      ]
+    },
+    {
+      "from": "Barrel_Volcano",
+      "to": "Boss_Czar_Dragon",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-88-1"
+      ]
+    },
+    {
+      "from": "Barrel_Volcano_Summit",
+      "to": "Boss_Axem_Rangers",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-89-1"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Boss_Magikoopa",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-92-1"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Boss_Exor",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-94-1"
+      ]
+    },
+    {
+      "from": "Smithy_Factory",
+      "to": "Boss_Count_Down",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-97-1"
+      ]
+    },
+    {
+      "from": "Smithy_Factory",
+      "to": "Boss_Cloaker_Domino",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-99-1"
+      ]
+    },
+    {
+      "from": "Smithy_Factory",
+      "to": "Boss_Factory_Chiefs",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-101-2"
+      ]
+    },
+    {
+      "from": "Smithy_Factory",
+      "to": "Boss_Smithy",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-103-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Boss_Jinx",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-114-2"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Boss_Culex",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-115-2"
+      ]
+    },
+    {
+      "from": "Boss_Bowser",
+      "to": "Ach_5815",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-5-1"
+      ]
+    },
+    {
+      "from": "Boss_Hammer_Bros",
+      "to": "Ach_6576",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-28-1",
+        "gf1-28-2",
+        "ra-comments-6-1"
+      ]
+    },
+    {
+      "from": "Gate",
+      "to": "Ach_5880",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-chests-1-1",
+        "checklist-chests-1-2",
+        "ra-comments-7-1"
+      ]
+    },
+    {
+      "from": "Missable_5880",
+      "to": "Ach_5880",
+      "kind": "missable_before",
+      "fact_ids": [
+        "checklist-chests-1-1",
+        "checklist-chests-1-2",
+        "ra-comments-7-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Way",
+      "to": "Ach_53293",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-29-16",
+        "gf3-28-11",
+        "ra-comments-8-1"
+      ]
+    },
+    {
+      "from": "Missable_53293",
+      "to": "Ach_53293",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf1-29-16",
+        "gf3-28-11",
+        "ra-comments-8-1"
+      ]
+    },
+    {
+      "from": "Boss_Croco_1",
+      "to": "Ach_5757",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-30-3",
+        "gf2-8-18",
+        "ra-comments-9-1"
+      ]
+    },
+    {
+      "from": "Bandits_Way",
+      "to": "Ach_372508",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-32-5",
+        "gf2-8-30",
+        "ra-comments-10-1"
+      ]
+    },
+    {
+      "from": "Missable_372508",
+      "to": "Ach_372508",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf1-32-5",
+        "gf2-8-30",
+        "ra-comments-10-1"
+      ]
+    },
+    {
+      "from": "Boss_Mack",
+      "to": "Ach_5811",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-9-11",
+        "ra-comments-11-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Ach_6710",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-34-16",
+        "gf2-9-20",
+        "ra-comments-12-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Ach_147254",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-13-1"
+      ]
+    },
+    {
+      "from": "Missable_147254",
+      "to": "Ach_147254",
+      "kind": "missable_before",
+      "fact_ids": [
+        "ra-comments-13-1"
+      ]
+    },
+    {
+      "from": "Boss_Belome_1",
+      "to": "Ach_5759",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-35-3",
+        "gf1-35-5",
+        "ra-comments-14-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Ach_145611",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-104-2",
+        "gf1-104-3",
+        "ra-comments-15-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Ach_53304",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-37-25",
+        "gf2-24-18",
+        "ra-comments-20-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Ach_53305",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-42-7",
+        "checklist-secrets-42-8",
+        "ra-comments-21-1"
+      ]
+    },
+    {
+      "from": "Rose_Way",
+      "to": "Ach_147245",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-18-8",
+        "checklist-secrets-20-3",
+        "ra-comments-22-1"
+      ]
+    },
+    {
+      "from": "Rose_Way",
+      "to": "Ach_147256",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-13-10",
+        "gf1-13-11",
+        "ra-comments-23-1"
+      ]
+    },
+    {
+      "from": "Rose_Way",
+      "to": "Ach_5882",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-16-1",
+        "checklist-secrets-16-2",
+        "ra-comments-24-1"
+      ]
+    },
+    {
+      "from": "Boss_Bowyer",
+      "to": "Ach_5812",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-12-1",
+        "gf3-16-11",
+        "ra-comments-25-1"
+      ]
+    },
+    {
+      "from": "Rose_Way",
+      "to": "Ach_53332",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-44-13",
+        "gf3-18-5",
+        "ra-comments-26-1"
+      ]
+    },
+    {
+      "from": "Pipe_Vault",
+      "to": "Ach_5878",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-107-1",
+        "gf1-107-2",
+        "ra-comments-27-1"
+      ]
+    },
+    {
+      "from": "Pipe_Vault",
+      "to": "Ach_53292",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-108-1",
+        "gf1-108-2",
+        "ra-comments-28-1"
+      ]
+    },
+    {
+      "from": "Boss_Croco_2",
+      "to": "Ach_5809",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-12-20",
+        "gf3-20-1",
+        "ra-comments-29-1"
+      ]
+    },
+    {
+      "from": "Boss_Punchinello",
+      "to": "Ach_5813",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-13-5",
+        "gf3-22-1"
+      ]
+    },
+    {
+      "from": "Moleville",
+      "to": "Ach_6709",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-109-1",
+        "gf1-109-2",
+        "ra-comments-31-1"
+      ]
+    },
+    {
+      "from": "Moleville",
+      "to": "Ach_147275",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-33-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Ach_5814",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-51-13",
+        "gf2-24-12",
+        "ra-comments-34-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Ach_147266",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-50-12",
+        "gf2-14-8",
+        "ra-comments-35-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Ach_372506",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-23-11",
+        "ra-comments-36-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Ach_5816",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-46-5",
+        "gf3-23-12",
+        "ra-comments-37-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Ach_5817",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-110-1",
+        "gf1-110-2",
+        "ra-comments-38-1"
+      ]
+    },
+    {
+      "from": "Missable_5817",
+      "to": "Ach_5817",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf1-110-1",
+        "gf1-110-2",
+        "ra-comments-38-1"
+      ]
+    },
+    {
+      "from": "Booster_Pass",
+      "to": "Ach_5819",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-14-18",
+        "gf3-24-8",
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "from": "Missable_5819",
+      "to": "Ach_5819",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf2-14-18",
+        "gf3-24-8",
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "from": "Boss_Knife_Grate",
+      "to": "Ach_5820",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-52-11",
+        "gf2-14-25"
+      ]
+    },
+    {
+      "from": "Booster_Hill",
+      "to": "Ach_6708",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-112-8",
+        "gf2-15-6",
+        "ra-comments-41-1"
+      ]
+    },
+    {
+      "from": "Booster_Hill",
+      "to": "Ach_147274",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-35-3",
+        "checklist-secrets-41-2",
+        "ra-comments-42-1"
+      ]
+    },
+    {
+      "from": "Booster_Hill",
+      "to": "Ach_53380",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-47-7",
+        "gf2-15-13",
+        "ra-comments-43-1"
+      ]
+    },
+    {
+      "from": "Missable_53380",
+      "to": "Ach_53380",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf2-47-7",
+        "gf2-15-13",
+        "ra-comments-43-1"
+      ]
+    },
+    {
+      "from": "Boss_Bundt",
+      "to": "Ach_5821",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-54-9",
+        "gf3-27-1",
+        "ra-comments-44-1"
+      ]
+    },
+    {
+      "from": "Booster_Hill",
+      "to": "Ach_147273",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-28-7",
+        "ra-comments-45-1"
+      ]
+    },
+    {
+      "from": "Missable_147273",
+      "to": "Ach_147273",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf3-28-7",
+        "ra-comments-45-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Kingdom",
+      "to": "Ach_147247",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-121-7",
+        "gf2-43-9",
+        "ra-comments-46-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_147271",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-44-8",
+        "gf2-46-22",
+        "ra-comments-47-1"
+      ]
+    },
+    {
+      "from": "Moleville",
+      "to": "Ach_34964",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-23-41",
+        "gf2-48-13",
+        "ra-comments-49-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Kingdom",
+      "to": "Ach_147257",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-48-73",
+        "gf2-15-26",
+        "ra-comments-50-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Kingdom",
+      "to": "Ach_53550",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-57-15",
+        "gf2-44-5",
+        "ra-comments-51-1"
+      ]
+    },
+    {
+      "from": "Mushroom_Kingdom",
+      "to": "Ach_147270",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-57-24",
+        "gf2-44-6"
+      ]
+    },
+    {
+      "from": "Mushroom_Kingdom",
+      "to": "Ach_5822",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-15-22",
+        "gf3-28-16"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Ach_53571",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-60-7",
+        "gf1-60-9",
+        "ra-comments-54-1"
+      ]
+    },
+    {
+      "from": "Boss_King_Calamari",
+      "to": "Ach_5856",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-61-2",
+        "gf2-18-8"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Ach_53572",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-62-11",
+        "gf3-29-13",
+        "ra-comments-56-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Ach_147263",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-62-13",
+        "gf2-18-15",
+        "ra-comments-57-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Ach_6711",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-62-7",
+        "gf1-62-8"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Ach_147264",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-33-3",
+        "ra-comments-59-1"
+      ]
+    },
+    {
+      "from": "Missable_147264",
+      "to": "Ach_147264",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf3-33-3",
+        "ra-comments-59-1"
+      ]
+    },
+    {
+      "from": "Boss_Johnny",
+      "to": "Ach_5857",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-63-2",
+        "gf2-18-20",
+        "ra-comments-60-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town",
+      "to": "Ach_5823",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-18-26",
+        "gf3-33-4"
+      ]
+    },
+    {
+      "from": "Boss_Yaridovich",
+      "to": "Ach_5859",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-65-7",
+        "gf2-19-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Ach_147265",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-64-4",
+        "gf1-66-3",
+        "ra-comments-63-1"
+      ]
+    },
+    {
+      "from": "Missable_147265",
+      "to": "Ach_147265",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf1-64-4",
+        "gf1-66-3",
+        "ra-comments-63-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Ach_53573",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-41-9",
+        "gf3-46-21",
+        "ra-comments-64-1"
+      ]
+    },
+    {
+      "from": "Missable_53573",
+      "to": "Ach_53573",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf3-41-9",
+        "gf3-46-21",
+        "ra-comments-64-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Ach_147261",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-36-2",
+        "ra-comments-65-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Ach_147272",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-68-18",
+        "gf3-36-4",
+        "ra-comments-66-1"
+      ]
+    },
+    {
+      "from": "Seaside_Town_Shops",
+      "to": "Ach_147250",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-67-1"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Ach_54150",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-36-13",
+        "ra-comments-68-1"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Ach_147253",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-69-1"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Ach_147252",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-70-1"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Ach_6714",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-36-9",
+        "ra-comments-71-1"
+      ]
+    },
+    {
+      "from": "Boss_Belome_2",
+      "to": "Ach_5858",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-72-15",
+        "gf1-73-2",
+        "ra-comments-72-1"
+      ]
+    },
+    {
+      "from": "Belome_Temple",
+      "to": "Ach_147268",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-15-1",
+        "checklist-secrets-15-2",
+        "ra-comments-73-2"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_54151",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-18-1",
+        "checklist-secrets-18-2",
+        "ra-comments-74-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_147244",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-42-7",
+        "checklist-secrets-42-10",
+        "ra-comments-75-1"
+      ]
+    },
+    {
+      "from": "Boss_Jinx",
+      "to": "Ach_147248",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-26-6",
+        "checklist-secrets-29-7",
+        "ra-comments-76-1"
+      ]
+    },
+    {
+      "from": "Boss_Culex",
+      "to": "Ach_5860",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-27-11",
+        "checklist-secrets-30-11",
+        "ra-comments-77-1"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Ach_147249",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-33-5",
+        "checklist-secrets-39-5",
+        "ra-comments-78-2"
+      ]
+    },
+    {
+      "from": "Lands_End",
+      "to": "Ach_147246",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-117-2",
+        "ra-comments-79-1"
+      ]
+    },
+    {
+      "from": "Bean_Valley",
+      "to": "Ach_6712",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-78-6",
+        "gf1-78-10",
+        "ra-comments-80-2"
+      ]
+    },
+    {
+      "from": "Bean_Valley",
+      "to": "Ach_5956",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-40-5",
+        "gf1-117-5",
+        "ra-comments-81-1"
+      ]
+    },
+    {
+      "from": "Bean_Valley",
+      "to": "Ach_147262",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-82-1"
+      ]
+    },
+    {
+      "from": "Bean_Valley",
+      "to": "Ach_147259",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-34-8",
+        "checklist-secrets-40-6",
+        "ra-comments-83-1"
+      ]
+    },
+    {
+      "from": "Missable_147259",
+      "to": "Ach_147259",
+      "kind": "missable_before",
+      "fact_ids": [
+        "checklist-secrets-34-8",
+        "checklist-secrets-40-6",
+        "ra-comments-83-1"
+      ]
+    },
+    {
+      "from": "Boss_Megasmilax",
+      "to": "Ach_5861",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-79-1",
+        "gf1-79-2",
+        "ra-comments-84-1"
+      ]
+    },
+    {
+      "from": "Nimbus_Land",
+      "to": "Ach_147255",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-46-3",
+        "gf3-43-12",
+        "ra-comments-85-1"
+      ]
+    },
+    {
+      "from": "Nimbus_Land",
+      "to": "Ach_147267",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-81-23",
+        "gf1-81-24",
+        "ra-comments-86-1"
+      ]
+    },
+    {
+      "from": "Missable_147267",
+      "to": "Ach_147267",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf1-81-23",
+        "gf1-81-24",
+        "ra-comments-86-1"
+      ]
+    },
+    {
+      "from": "Boss_Birdo",
+      "to": "Ach_5862",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-82-1",
+        "gf1-82-2",
+        "ra-comments-87-1"
+      ]
+    },
+    {
+      "from": "Boss_Valentina",
+      "to": "Ach_5863",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-84-1",
+        "gf1-84-2",
+        "ra-comments-88-1"
+      ]
+    },
+    {
+      "from": "Nimbus_Land",
+      "to": "Ach_372507",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-45-14",
+        "ra-comments-89-1"
+      ]
+    },
+    {
+      "from": "Boss_Czar_Dragon",
+      "to": "Ach_5864",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-88-1",
+        "gf1-88-2",
+        "ra-comments-90-1"
+      ]
+    },
+    {
+      "from": "Boss_Axem_Rangers",
+      "to": "Ach_5824",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-89-1",
+        "gf1-89-2",
+        "ra-comments-91-1"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Ach_6713",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-92-1"
+      ]
+    },
+    {
+      "from": "Boss_Magikoopa",
+      "to": "Ach_5872",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-92-1",
+        "gf1-92-2"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Ach_147276",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-52-12",
+        "gf3-52-13",
+        "ra-comments-94-1"
+      ]
+    },
+    {
+      "from": "Missable_147276",
+      "to": "Ach_147276",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf3-52-12",
+        "gf3-52-13",
+        "ra-comments-94-1"
+      ]
+    },
+    {
+      "from": "Boss_Exor",
+      "to": "Ach_5873",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-94-1",
+        "gf1-94-2"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Ach_34965",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-24-17",
+        "gf2-24-23",
+        "ra-comments-96-1"
+      ]
+    },
+    {
+      "from": "Missable_34965",
+      "to": "Ach_34965",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf2-24-17",
+        "gf2-24-23",
+        "ra-comments-96-1"
+      ]
+    },
+    {
+      "from": "Bowsers_Keep",
+      "to": "Ach_147269",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-49-14",
+        "gf3-49-15",
+        "ra-comments-97-1"
+      ]
+    },
+    {
+      "from": "Boss_Count_Down",
+      "to": "Ach_5875",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-97-1",
+        "gf1-97-2"
+      ]
+    },
+    {
+      "from": "Boss_Cloaker_Domino",
+      "to": "Ach_5874",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-98-4",
+        "gf1-99-1"
+      ]
+    },
+    {
+      "from": "Boss_Factory_Chiefs",
+      "to": "Ach_5876",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-101-2",
+        "gf1-101-3"
+      ]
+    },
+    {
+      "from": "Boss_Smithy",
+      "to": "Ach_5825",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-103-1",
+        "gf1-103-2"
+      ]
+    },
+    {
+      "from": "Gate",
+      "to": "Ach_147260",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-45-13",
+        "ra-comments-102-1"
+      ]
+    },
+    {
+      "from": "Kero_Sewers",
+      "to": "Ach_147251",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-103-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_5957",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-21-4",
+        "checklist-secrets-21-8",
+        "ra-comments-105-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_120118",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-secrets-21-4",
+        "checklist-secrets-21-9",
+        "ra-comments-107-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_5881",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-125-1",
+        "gf1-125-2",
+        "ra-comments-113-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_5915",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-114-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_5914",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-115-1"
+      ]
+    },
+    {
+      "from": "Monstro_Town",
+      "to": "Ach_147258",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-116-1"
+      ]
+    }
+  ]
+}

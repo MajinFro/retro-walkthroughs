@@ -12,6 +12,7 @@ import {
   writeJson,
   writeText,
 } from "./pipeline/lib.ts";
+import { collectRaGuide } from "./pipeline/ra-guide.ts";
 
 dotenv.config();
 
@@ -122,7 +123,7 @@ async function main() {
     
     // 1. Write API Dump
     const apiDumpPath = path.join(apiDumpsDir, `${gameId}.md`);
-    fs.writeFileSync(apiDumpPath, md);
+    writeText(apiDumpPath, md);
     console.log(`Saved API dump to ${apiDumpPath}`);
     
     // 2. Extract Metadata for Master Registry
@@ -147,7 +148,7 @@ async function main() {
       boxArt: metadata.boxArt,
       createdAt: metadata.createdAt
     };
-    fs.writeFileSync(masterJsonPath, JSON.stringify(masterData, null, 2));
+    writeJson(masterJsonPath, masterData);
     console.log(`Updated master registry at ${masterJsonPath}`);
 
     // 4. Evidence pipeline — Stage 1 structured output (content/research/<id>/)
@@ -207,6 +208,9 @@ async function main() {
     });
     writeJson(P.sourcesManifest, manifest);
     console.log(`Stage 1: registered RA comments as source "ra-comments"`);
+
+    // The official RA achievement guide (GitHub wiki), when the game has one
+    await collectRaGuide(gameId, (game as { guideUrl?: string | null }).guideUrl, game.title);
     
   } catch (err) {
     console.error("Failed to fetch data:", err);

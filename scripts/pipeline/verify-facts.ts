@@ -24,13 +24,18 @@ import {
   type VerifiedFact,
   type AchievementsFile,
   canon,
+  checkFact,
+  factCheckContext,
+  quoteProblem,
   exists,
   flag,
   gameIdArg,
   keyTerms,
   loadAliases,
   loadChunks,
+  fingerprintFiles,
   loadFacts,
+  verifyInputFiles,
   norm,
   paths,
   readJson,
@@ -41,10 +46,6 @@ import {
   writeText,
 } from "./lib.ts";
 
-const TYPES = new Set([
-  "location", "transition", "event", "boss", "enemy", "item", "shop", "npc", "quest",
-  "mechanic", "missable", "ponr", "achievement", "map", "save_point", "tip",
-]);
 const SINGLE_VALUED = new Set(["boss", "missable", "ponr", "achievement", "npc", "quest", "event", "transition"]);
 
 interface Corroboration extends Evidence {
@@ -64,28 +65,13 @@ requireFile(P.achievements, "run rw:fetch first");
 const chunks = loadChunks(P.chunks);
 const aliases = loadAliases(P.aliases);
 const ach = readJson<AchievementsFile>(P.achievements);
-const achIds = new Set(ach.achievements.map((a) => a.id));
 const facts = loadFacts(P.factsDir);
 if (!facts.length) {
   console.error("No facts found in 04_facts/. Run the fact-extraction stage first.");
   process.exit(1);
 }
 
-function quoteOk(ev: Evidence, chunk: Chunk | undefined): string | null {
-  if (!chunk) return `chunk ${ev.chunk_id} does not exist`;
-  if (chunk.source_id !== ev.source_id) return `chunk ${ev.chunk_id} belongs to ${chunk.source_id}, not ${ev.source_id}`;
-  const q = ev.quote || "";
-  const parts = q.split(/\.\.\.|…/).map(norm).filter(Boolean);
-  if (!parts.length || norm(q).length < 12) return `quote too short: "${q}"`;
-  const hay = norm(chunk.text);
-  let pos = 0;
-  for (const p of parts) {
-    const i = hay.indexOf(p, pos);
-    if (i === -1) return `quote not found verbatim in ${ev.chunk_id}: "${q.slice(0, 80)}"`;
-    pos = i + p.length;
-  }
-  return null;
-}
+const quoteOk = quoteProblem;
 
 // ---------------------------------------------------------------------------
 // 1. Schema + evidence validation
@@ -96,45 +82,15 @@ const addProblem = (fid: string, p: string) => problems.set(fid, [...(problems.g
 const valid: Fact[] = [];
 const rejected: VerifiedFact[] = [];
 
+const ctx = factCheckContext(chunks, ach);
 for (const f of facts) {
   const fid = f.id ?? "(missing id)";
-  if (!/^[a-z0-9][a-z0-9\-]*-\d+-\d+$/.test(fid)) addProblem(fid, `bad id format (want <source>-<chunk n>-<k>)`);
-  if (seen.has(fid)) addProblem(fid, "duplicate id");
+  const dup = seen.has(fid);
   seen.add(fid);
-  if (!TYPES.has(f.type)) addProblem(fid, `unknown type "${f.type}"`);
-  if (!f.text || !f.subject || !f.predicate) addProblem(fid, "missing text/subject/predicate");
-  for (const a of f.achievement_ids ?? []) if (!achIds.has(Number(a))) addProblem(fid, `unknown achievement id ${a}`);
-
-  const achDescSet = new Set(ach.achievements.map((a) => norm(a.description)));
-  const goodEv: Evidence[] = [];
-  for (const ev of f.evidence ?? []) {
-    const err = quoteOk(ev, chunks.get(ev.chunk_id));
-    if (err) addProblem(fid, err);
-    else {
-      const qNorm = norm(ev.quote);
-      if ((qNorm.startsWith("description") || achDescSet.has(qNorm)) && f.type !== "achievement") {
-        addProblem(fid, `quote is an achievement description — gameplay facts of type '${f.type}' must cite guide text, not achievement metadata`);
-      } else {
-        goodEv.push({ ...ev, stance: ev.stance ?? "supports" });
-      }
-    }
-  }
-
-  // Quote overlap audit for gameplay facts: check if fact text introduces unverified claims
-  if (f.type !== "achievement" && goodEv.length > 0 && f.text) {
-    const quoteTerms = new Set(goodEv.flatMap((e) => keyTerms(e.quote)));
-    const textTerms = keyTerms(f.text);
-    if (textTerms.length >= 6) {
-      const overlap = textTerms.filter((w) => quoteTerms.has(w)).length;
-      const ratio = overlap / textTerms.length;
-      if (ratio < 0.2) {
-        addProblem(fid, `low quote overlap (${Math.round(ratio * 100)}%): fact text contains words not in evidence quote — ensure fact does not invent details`);
-      }
-    }
-  }
-
-  const hardFail = (problems.get(fid) ?? []).some((p) => /duplicate id|bad id|unknown type|missing text|achievement description|low quote overlap/.test(p));
-  if (!goodEv.some((e) => e.stance === "supports") || hardFail) {
+  const { problems: ps, evidence: goodEv, reject } = checkFact(f, ctx);
+  if (dup) addProblem(fid, "duplicate id");
+  for (const p of ps) addProblem(fid, p);
+  if (reject || dup) {
     rejected.push({ ...f, evidence: goodEv, status: "rejected", sources: [], problems: problems.get(fid) });
     continue;
   }
@@ -288,7 +244,8 @@ const stats = {
   achievements_unsupported: Object.values(coverage).filter((c) => c.best === "none").length,
   sources: [...new Set(out.flatMap((f) => f.sources))],
 };
-writeJson(P.verified, { generated_at: new Date().toISOString(), stats, coverage, possible_conflicts: possibleConflicts, facts: all });
+// inputs fingerprint lets rw:status tell when fact files changed after this verification run
+writeJson(P.verified, { generated_at: new Date().toISOString(), inputs: fingerprintFiles(verifyInputFiles(P)), stats, coverage, possible_conflicts: possibleConflicts, facts: all });
 
 console.log(`Stage 5 verification for game ${id}`);
 console.log(`  facts: ${stats.total}  ✅ verified ${stats.verified}  🟡 single ${stats.single_source}  ⚠️ conflict ${stats.conflict}  ✔ resolved ${stats.resolved}  ❌ rejected ${stats.rejected}`);

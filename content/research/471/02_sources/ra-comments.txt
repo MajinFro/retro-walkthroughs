@@ -1,0 +1,3922 @@
+============================================================
+GAME COMMENTS
+============================================================
+[Rhomega] Glad to see achievements going up on my favorite SNES game.
+
+[StingX2] I love that this is being worked on, any chance of some more creative names being used if we suggest some Abu?
+
+[TrainerAbu] Sure
+
+[PhilInTheBlanks] Absolutely can not wait for a full list. So happy to see this!
+
+[pedrobb7] Some achievements are very hard, as: Minecart, Midas Gold. But it is a great game!
+
+[Ueki420] I remember saving for almost a year to buy this game (the cartridge was $80 even with the N64 out) and it was worth every penny!!  Any chances that the Culix achievement is gonna get fixed?
+
+[Hitaka] The Culex achievement is now fixed.
+
+[TrainerAbu] no.
+
+[SoSa] Boshi achievement not working for me (did it twice)
+
+[HoundBlue] Yeah, Boshi achievement is not working. Can you fix it please? Anyway thanks, doing one of my favorite game under achievement!
+
+[timrtabor123] Surprised we haven't seen the last 10 points added to this game. 
+
+[JonnyRetro] I think someone demoted an achievement and it's been hanging ever since. I'm sure I saw it at 400 at some point
+
+[RodinPandarex] Yeah, good point : why only 390 points ? one achievement miss ? error ? How to declare this ?
+
+[TrainerAbu] its because I know there could be achievements for a lot more things (doing the Tadpole songs, doing good in that one handheld game you get in SMRPG, winning Grate Guys's Casino, the cameos, other minigames) so I didn't have the points equal to 400
+
+[thiagojsantos] finaly did! best snes game ever
+
+[thiagojsantos] oh wait, 2 more achievements lol
+
+[NVIDIASOLO] Mida gold is now to easy. Its not fun get this achivement anymore.
+
+[TrainerAbu] someone should do retroachievements for that Super Mario RPG revolution or w/e its actually called V. 5 romhack.  I'd do it now but I'm lazy and wanna play thru the vanilla game atm
+
+[Guiulliar] No achievements to find Link and Samus... :\
+
+[Edgarmcfly] And donkey kong too
+
+[DukeJP] Using Retroarch with Bsnes core, any Star piece collect achievement dont work for me. I am in the final stage, after defeating Exor ( i even defeat Culex), with all achievements ok. Only the Star Collects dont work for me.
+
+[LupineDream] I've got permission to fix this set up a bit.  I have a pretty relaible Boshi achievement ready I'll commit shortly, and come up with a little more robust way of checking map IDs.  Just offering some improvements here.  :)
+
+[LupineDream] Improved Boshi achievement added, A few points redacted from a few of the bosses to compensate for the full 400.  (permission obtained from:  kdecks to redact a few points from the redundancies to add to the set).
+
+[Monsheus] Nice. Why the Boshi achievement was removed in the first place?
+
+[Monsheus] Also, we need achievements for winning the Dodo mini-game and the Link and Samus easter eggs.
+
+[LupineDream] I'll be looking into those today, most definitely.  Boshi was removed because it was very problematic for some people to unlock.  Hopefully the bitfield method works a little better.
+
+[vapedroid521] we need one for defeating jinx, feeding baby yoshi, getting the cards from toadofsky and maybe one for getting the star egg
+
+[LupineDream] Added:  The Unmentionables.  Find Toadstool's '???'.  More coming soon!  Rebalanced more redundant bosses.
+
+[LupineDream] Added:  Amphibious Wisdom, more point re-balancing.  Sorry that the real goodies are taking so long.  I'm doing an actual playthrough to watch memory to find these.
+
+[Monsheus] Ouch, I'm glad I had some backup saves. Playing through the game again would be a pain. Still, it would be better if the items in question triggered the achievement, instead of one-time only events.
+
+[Monsheus] Btw, I recommend removing the chapter bosses achievements. We already get the Star Piece ones shortly afterwards.
+
+[LupineDream] I'm speaking with admin about that.  It requires admin permission to demote the duplicates from core.  Added Alto Card  :)
+
+[Monsheus] Oh, I didn't know about that. For the Alto Card achievement though, wouldn't it be better to add only the Soprano Card? We need the other 2 cards to get it anyway.
+
+[LupineDream] Yeah, true...I'll think on that.  I haven't gotten to the stage of the game where you can.  But I've updated Wisdom and Alto Card.  If you turn in cricket pie now it should pop for you, i added alts
+
+[Monsheus] Weird, I tried talking to Link many times and nothing, but it unlocked after I slept on the inn.
+
+[LupineDream] Yea, its intended to trigger after a player sleeps at the inn and sees him (how you find him).  You can use that workaround if you have a save file already near completion.
+
+[LiveFastCyYoung] Ugh. Started playing through this a couple weeks ago and now I see new achievements are being added. REALLY don't want to restart this. :(
+
+[Olafur] hmmm, will you let us know when you feel like you've added all the achieves you're gonna add?
+
+[infpgamer] I usually don't mind new cheevs added to a set but to RPG seems odd given how long they are.
+
+[Alena] An idea would be to leave to add all the achievements together after the revision, since it is a rpg and there are events that do not repeat themselves.
+
+[Monsheus] "First-Class Pirate" is broken.
+
+[LupineDream] Fixed.  Whoops!  I'd typoed the condition freezing up the cheev.  It should pop now. (did for me on my save with all the treasures collected)  Give it a shot.
+
+[Monsheus] Well, it still doesn't work for me. Can you give me a summary for what I need to do? Maybe I forgot something...
+
+[LupineDream] Its the 4 rooms (flying koopa troopa cannonball, cannonball jump, 3 dimensional maze, coin chase), and then the 5th, which is the hidden barrel you knock off the stack, push over the switch then collect the map.  Collecting the map and item sets it.
+
+[LupineDream] If you have discord, screen sharing your emulator to show exactly how you are performing it will help.  I can tell you either way, then, or if you send a video.
+
+[Monsheus] It unlocked for me now, finally. There's still a problem though, it unlocked after I got 5 maps, not 6.
+
+[LupineDream] Its been patched now.  For the rest of you, you can now obtain all 6 clues.  Thanks Lootimus Maximus for providing srm, GameDragon for a helpful tip, and Monsheus for reporting this
+
+[Raukue] Invasion of Privacy! Maybe something I don't know but thought just meant find Mallow's wish? I did that on my end game file and nothing. Is it broke or can only be done on a first visit? Or guess something I am missing. I talked to all the stars.
+
+[Olafur] Mallow's wish is that he wishes that he wouldn't be such a crybaby. You should know if you got the right one if he pops up and starts scolding you. If you did, then I'm not sure what's going on.
+
+[Raukue] Yes of course he came out and scolded me. That is why I think it's broken or for some reason doesn't work if it's on a save that is at the end or already been to Star Hill and beyond.
+
+[Monsheus] Keep trying, it took me about 5 tries to get it.
+
+[LupineDream] Shouldn't be different, just checks uniform dialogue trigger and Mario's position on-screen for it.  Its a fluky one.  If you continue to have trouble let me know.  My main PC is down(getting new parts for a GPU.  So haven't had PC to work on this.
+
+[Raukue] Yes I had to retry several times. Until I thought maybe position was a thing. I tried on upper left and it worked. Needs fixing either way I think. I left a message on the page itself.
+
+[LupineDream] Thank you kindly.  :)  I'll address it once my PC is back to full operations.
+
+[Olafur] Hope it'll come soon along with the rest of the new achieves, cant wait to play through this masterpiece again :D
+
+[LiveFastCyYoung] The Bowyer cheevo could definitely be swapped out for something else considering you get a cheevo 2 seconds later for getting the star. 
+
+[LiveFastCyYoung] Punchinello achievement could go as well since you get the orange star cheevo for that battle too. 
+
+[Aurion81] For some reason "Legend Of The Seven Stars" is not triggering for me, and I am playing the original game. Not sure what the cause of it is.
+
+[Aurion81] Whats the name of the official Rom being used for this?
+
+[Olafur] ok, so just needing a quick reminder, is this set fully done now? cause ive been thinking of playing through this again.
+
+[LupineDream] Super Mario RPG (U) [!].smc developer md5 is d0b68d68d9efc0558242f5476d1c5b81 .  You can check if your ROM matches correctly via "ROM Checksum" in the RetroAchievements menu.  Not yet, in regards to your other question.
+
+[Olafur] well it was a different person asking that one but ah, thanks, probably gonna just play it again and then go through it once more when its all ready :P
+
+[Olafur] Well, I went for it and have now completed the set! But if there is gonna be more achievements in the future, I'll gladly come back to it! Just hope I don't have to begin a new game in that case :P
+
+[Nostalgia401] for the Booster Flowers achievement does this have to be completed when you chase booster up the hill when he has Toadstool or can it be done when playing the mini game on booster hill?
+
+[Zachjay91] Leaderboards aren't popping up even in Hardcore mode, what's the deal?
+
+[ChronoGear] I'm surprised there's no 100 super jumps achievement
+
+[Olafur] if there was, it probably would be in a bonus set, cause eff that.
+
+[Kayesay] Fun to play this game again! Thanks for the set!
+
+[AbsoLootAaron] HeavensFury: MASTERED!
+
+[Nappone] Argh! Almost mastered. Don't know why Wedding Crasher didn't trigger, I think this is a sort of a bug. Otherwise I had lot of fun for other cheevos, congrats to the authors.
+
+[Ayora] Hello, could you please add the french translation of this game? MD5 is a78bde01de73d9a25cb73d8efc4afb67. Super Mario RPG - Legend of the Seven Stars (U) [T+Fre2.1_Ryusan]. Thanks
+
+[LittleBuster] If anyone has issues unlocking the following achievements using Retroarch with a bsnes core:Wedding CrasherCurtain SneakThe UnmentionablesTry SNES9X core. Worked for me. No bsnes core would unlock them.
+
+[lucaslaguiar] Excellent game and set, congratulations!
+
+[SteelCat] I feel bad, I was playing this and completely forgot about Retro Achievements, so I only turned achievements on in the very end of my savefile. What a shame! Might replay it later though, awesome game.
+
+[Enju] Mastered!
+
+[SirTay] Such a great experience.
+
+[Nyxondra] I concur, 100 jumps with over a third of it being 2 frame windows should definitely not be an achievement.
+
+[GatoBoldon] My first Mastered game. Excellent set, thank you.
+
+[AlexHylian] Mastered! Thanks for the awesome set!
+
+[woifi] this one was quite easy, just some practise for the mini game challenges.
+
+[alexbubble] Another game down. God, this one was fun. Thanks for the set!
+
+[SYKEKO] yup 100 jumps in a row, no thanks, I couldn't do 30. That was the last cheevo I needed.  
+
+[Nyxondra] Speak of the friggin' devil...
+
+[notjohn] :(
+
+[Olafur] Nooooooo... 100 jumps and Midas is the only two that I am SO not wanting. Those monstrosities should be in a bonus set.
+
+[Nyxondra] Absolute sadist whoever promoted those.
+
+[ChronoGear] Mastered! Thanks for the awesome set 
+
+[Glitchy88] Way to ruin a good set, most of the new ones are fine but the 100 jumps and 100 midas coins are trash, why even have bonus sets if they aren't utilized?
+
+[Nyxondra] ReMastered! Screw the 2 achievements everyone is complaining about.
+
+[Reversed2] Ugh. Not a fan of this re-vamp. 100 jumps is just stupid. 
+
+[ChronoGear] There's no difference with the jumps after 15. If you can get 30, you can get 100. Several people already have it, there's no gating from emulator or controller issues. There's an in-game reward for it, so it belongs in the set.
+
+[Haruda] Turn on Run-ahead and set the frames to run ahead to 2 it  should help with the timings as well cause it cuts down on the input delay.
+
+[Trephination] I've completed most of the game, but now I have to restart it to unlock achievements for points I've already passed? Like dodging Dodo pecks, defeating Johnny, and not "torturing" the toads?
+
+[rtarroyo] RPG sets should be locked after publishing, gonna have to replay the whole game again...
+
+[Alurith] They are aware. I made a suggestion in the forum about all the snifit apprentice's.
+
+[MewMew26] Mastered! I am glad that this set has received new achievements, even with that one of the 100 super jumps ... I played this game many times but it is the first time I get to do it
+
+[Nachockaxis] 100 jumps!! GTFO
+
+[metalbubble403] god doing 100 jumps is a friking nightmare unlike the midas river  no matter how much i practice i cannot get better at jumping.
+
+[grief] Achievements of this game are not working on Retroarch. :(I tried on standalone Snes9x and it worked properly.
+
+[DryIce53] the horrendous sweater strike back.
+
+
+============================================================
+ACHIEVEMENT 5815 - Princess... Saved?
+============================================================
+Description: Defeat Bowser, leader of the Koopa Army
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[BeastyXV] Nice!
+
+[jhonmaumau38] porque nao ganho essa conquista nao e salvar no começo do jogo?
+
+[wedgordo] Faz parte da história.
+
+[MoldSponge] For whatever reason, after saving the princess AND beating the koopa bros, I was not given the achievement.
+
+[Server] Layton edited this achievement's badge.
+
+[Jonblaze] Can someone tell me how to get this one to pop and some of the others didn't pop please help
+
+[BeastyXV] That's strange 🤔 it should've just popped one of the easiest to get 😔
+
+[Jonblaze] I've done it multiple times in every snes9x core bc that's the only one I can run and it doesn't pop along with some others that didn't pop
+
+[Jonblaze] Same what moldsponge said
+
+[Server] Searo set this achievement's type to Progression.
+
+[petersozzy] Need to use emulator snes9x (plain).
+Didnt work with snes9x 2005 and 2010.
+
+[Salefrok] These are broken, I just came back here after beating the game to see I missed so much achievements that didn't pop for some reasons.
+
+[Searo] Snes9x (Current) is the only recommended core for this set. If this achievement doesn't work you likely need to change your core. Older Snes9x versions and Bsnes do not work well with this games memory.
+
+[Gary312x] Searo That worked and I got the Achievement. Thanks!
+
+[danyelalejandro1980] Not unlocking on real hardware FXpak pro + Ra2snes, gonna try later as Searo said
+
+[SDan98] Se tiene que jugar en el Núcleo: Nintendo - SNES/SFC (Snes9x) para conseguir el logro en el emulador RetroArch
+
+[supersonicjc] saved the princess... but did i really???
+
+
+============================================================
+ACHIEVEMENT 6576 - Fists Are Stronger than Hammers
+============================================================
+Description: Defeat the Hammer Bros., bully blockades
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/6Cj5TMaVacg
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[Mitxel] Doesn't appear to be working along with a bunch of other 'defeat x' achievements.
+
+[Jackofblades87] Yep, main bosses are not working as for now
+
+[SergeantxDan] Depends on your way of emulation. Emudeck you have to do a reinstall for the update which got mine to work.
+
+[body] this achivement doesnit work when i use core besnes 2014 accury
+
+[danyelalejandro1980] Not working on real hardware fxpakpro + ra2snes
+
+[danyelalejandro1980] Not working on Snes9x current retroarch too. I don't know what to do
+
+[danyelalejandro1980] IMPORTANT: Only working on RASnes9x emulator
+
+[supersonicjc] super easy to beat the hammer bros, just hit 1 with a jump on 2nd move hit the other one with jump, 3rd move hit 1st one again with either jump or A attack and finish off the 2nd one next turn...
+
+
+============================================================
+ACHIEVEMENT 5880 - Hidden Treasure Hunter
+============================================================
+Description: Take the contents of every Surprise Box
+
+[StingX2] Protip: The first hidden box can only be gotten at the beginning of the game when Toad is running to see the king, you need to jump on his head then jump onto the alcove above the door.
+
+[pedrobb7] If you get all the other in one game and the first one in a new game do I get the achievement?
+
+[guddentehpwner] Don't take the contents of a box with a full inventory and accidentally throw the chest item away. Then forget to reload the save.
+
+[Server] televandalist edited this achievement.
+
+[Server] StingX2 edited this achievement.
+
+[Zaba1h] Quem tiver dificuldade, usa esse site para ajudar a encontrar:https://www.mariowiki.com/List_of_Surprise_Boxes_in_Super_Mario_RPG:_Legend_of_the_Seven_Stars
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[timenoe] Whew...A walkthrough I was following was just missing one lol
+
+[TheGameSquid] I thought I opened all of them, but it seems I'm missing one... :/
+
+[wedgordo] https://youtu.be/BXJyzOHh13Q
+
+[Server] Layton edited this achievement's badge.
+
+[DJD3] For this you only need to collect the 39 hidden chests, not every surprise box. The description is wrong.
+
+[Tusang] I have gone through every single surprise box location and unlocked them all, but the game, not retroarch, is saying I still have 1 missing. This is weird and driving me crazy, as it's the only major achievement I have remaining. I'm going to go through one last time to triple check I didn't miss any of them.
+
+[Tusang] Ok I triple checked and I unlocked all 39 hidden item boxes on both an online guide and a youtube video. Maybe I didn't unlock them in the correct order or something? I give up, but I know that I achieved this anyways. If you double checked every box and it's still not triggering, don't stress over it because you probably did unlock all 39 boxes if you went through the list.
+
+[magud] Does it have a box counter? I got the ones on mushroom kingdom, starting with the shop one.... but it doesnt show any counter on the achievements
+
+[LotteBlueJays] The description explicitly says "and collect the contents" of every box so now I'm afraid that at some point I dumped an item because I'm 99% sure that I got every hidden chest. If there's a way to fix the achievement so its "find every box" and not "collect the item from every box" it would save a few peoples' sanity in the future.
+
+[ThePixelJunkie] Yeahhh, definitely wish this had a counter to update you for this. After already having to replay the game because I found out way too late about the missable 1st treasure, I thought I was going to be screwed due to throwing a treasure item away accidentally. The chest npc in Monstro said I had one left so I went and doubled checked them all.
+
+Luckily, my last one was the box in the Nimbus shop. Was so happy to not see an empty treasure there lol
+
+[abas228] done, only thing i can say is some chests are normal but some are stupidest like in mushroom kingdoom
+(advice: use guides if u forgot where are they cause you can't jump every place in the world to find them)
+
+[Anthony64] I was following the guide on gamefaqs. I was missing the 3rd box in Booster Tower, after being launched up by the thwomp.
+
+[MoltenUnderscore] it really cracks me up that there's only one missable treasure in the game, and it's before the game even introduces invisible blocks to you. that's so messed up, lol
+
+[MauriceLePen] It can be done with multiple saves?
+
+[jeffersonbc88] Didn't work multiple saves for me. Finished the game not aware of the first hidden chest, now I need to play the game all over again
+
+[SeventhPower] The Comeon in Monstro Town will tell you how many you have left to find. The one at the very beginning of the game is the only one that's missable, so don't miss that one!
+
+[Boobina] Signal Ring is a godsend for this.
+I (thought I) thoroughly followed the above guide, until I realized I missed that hidden block in Booster Tower. That one that is hidden on top of another one!
+
+[Demerion] You CAN get the one from the Shop before the missable one on the balcony, so technically you could think "maybe there's something up there"
+
+
+============================================================
+ACHIEVEMENT 53293 - The Unmentionable
+============================================================
+Description: Find Toadstool's ???
+
+[Server] televandalist edited this achievement.
+
+[AllSensesClean] I found the ??? behind the blue chair in the beginning, but no achievement.  Is there something else I needed to do?
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[AllSensesClean] Started a fresh save file and played until this point. Still no achievement (using retroarch)
+
+[AlexHylian] Missable achievement, after toadstool join your team, this "???" can't be found
+
+[Server] Searo edited this achievement.
+
+[Flam] +1 this is MISSABLE. Fortunately I had an old save from before Peach joined my party
+
+[Server] Searo edited this achievement.
+
+[retroarc] I found that I needed to change to the SNES9X (2010) core to get achievements (like this one) to trigger.
+
+[AndersonMolina] Português: Essa conquista é perdível, portanto cuidado! 
+Segue o tutorial para essa conquista: depois de resgatar a princesa do casamento forçado, você será enviado de volta para o Mushroom Kingdom. 
+Lá a princesa dirá que irá para o quarto dela. Depois de toda a conversa com o chanceler, NÃO SAIA DO CASTELO (Se sair, a conquista não será desbloqueada)! 
+Dentro do castelo vá para o quarto da princesa. Dentro do quarto, fique entre a lareira e a cadeira azul, de frente para a parede e aperte o botão A. Pronto! A conquista será liberada :) 
+Segue um vídeo explicando: https://www.youtube.com/watch?v=m4npJNvaAlo 
+
+English: This achievement is missable. 
+Follow the tutorial for this achievement: after rescuing the princess from forced marriage, you will be sent back to the Mushroom Kingdom. 
+There the princess will say that she will go to her room. After all the talk with the Chancellor, DO NOT LEAVE THE CASTLE (If you leave, the achievement will not unlock)! 
+Inside the castle go to the princess' room. Inside the room, stand between the fireplace and the blue chair, facing the wall and press the A button. Done! The achievement will be unlocked :) 
+Here's a video explaining: https://www.youtube.com/watch?v=m4npJNvaAlo
+
+[LordSylc] Quanta baboseira, é só ir no quarto da princesa e falar com a cadeira azul '-'
+
+[wedgordo] Senhores, assim que peguei a primeira estrela (azul), fui direto para o quarto da Peach e perto da lareira encontrei esse interrogação.
+
+Bom jogo!
+
+[wedgordo] Opcional! 
+
+https://youtu.be/rcYwx2WeeE0
+
+[Zika] achou o v******* da princesa
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Layton edited this achievement's badge.
+
+[Klutzleo] Do this right off the bat. I got it even before getting Mallow.
+
+[SDan98] Puedes conseguir este logro desde el inicio cuando el Toad te lleva con el canciller, no lo sigas vete a la habitacion de la princesa y en la chimenea presiona "A" para conseguir el logro
+
+[Sheppard121] After I rescued the princess, go to the mushroom kingdom and meet with the Chancellor. Afterwards, while the princess is NOT in your party and before you leave the castle, go to her room and examine the chair.
+
+[ChiiniiTheComet] *vibrates in my hand*
+
+oh
+
+[Cawrupt] huh...
+
+[supersonicjc] o my princess is this that cake you keep promising mario???
+
+[WaveKnight] Call my therapist, tell him he's a rich man.
+
+
+============================================================
+ACHIEVEMENT 5757 - Meet Croco
+============================================================
+Description: Defeat Croco, the crocodile thief, in Bandit's Way
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/d3UOkeITeVc
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[supersonicjc] fireball works to make him waste a turn... if you do like i did and are grinding the jumps level up the jump will be your most powerful hitting attack just keep your fp(magic) up
+
+
+============================================================
+ACHIEVEMENT 372508 - Returning Funds
+============================================================
+Description: Return the Wallet to the Toad in the Mushroom Kingdom, or sell it after speaking to him and face his wrath
+
+[Server] Layton uploaded this achievement.
+
+[Server] Layton promoted this achievement to the Core set.
+
+[Jackster] Defeat Croco in Bandit's Way and he'll drop a wallet. Then just do what the description says.
+
+[SlyFoxglove] This one didn't trigger for me.
+
+[Monolate] Does this one only work if you sell it?
+
+[Monolate] oh nvm this chevo was just added
+
+[Layton] It should work if you give it to him or sell it.
+
+[KojiroS] I made a new save, beat Croco and went straight to deliver the wallet. Didn't trigger. Restarted, sold the wallet, saved the toad, didn't trigger. Tested using Retroarch on Android with SNES9X cores 2005 and 2010.
+
+[Layton] snes9x 2005 and 2010 can cause issues with many achievements in this set. snes9x (current) is what I've seen recommended.
+
+[KojiroS] Yeah, current indeed unlocked it... and threw my phone's performance into the gutter. Thanks for the pointer.
+
+[ivanchu77] worked for me, using Mesen-S
+
+[Sambyses] Confirmed this unlocked upon returning the wallet to the owner using Retroarch/Snes9x (current) on PC.  Completed this today, August 6 2025.
+
+[Salbug] Yeah, if you're playing with RetroArch, make sure you're using the 'Snes9x' (current) core when unlocking achievements for Super Mario RPG.
+
+[16bitbutt] just a heads up. this is missable if you sell the wallet before talking to him so to get the achievement talk to him and refuse to hand the wallet over THEN sell it. once you come back and talk to him he will get angry and the achievement will trigger
+
+[Server] Layton edited this achievement's description.
+
+[supersonicjc] so this is either be nice and return it for a flower tab or be a jerk and refuse to give it back, sell it, and then cave in while its too late since you sold it... not sure what he does other then tell you "your gonna get it"... honestly the flower tab is nice to increase your FP early on in the game vs being a jerk...
+
+
+============================================================
+ACHIEVEMENT 5811 - What's This Pointy Thing?
+============================================================
+Description: Collect the Blue Star Piece
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[emanuelsonic] eu derrotei o primeiro chefe e peguei a estrela azul mais não subiu a conquista pra mim
+
+
+============================================================
+ACHIEVEMENT 6710 - Pandorite's Box
+============================================================
+Description: Defeat Pandorite, the trick Treasure Box in Kero Sewers
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/swoM-XPmMg8
+
+[Server] Layton edited this achievement's badge.
+
+[Hostis] Easiest box to beat. A few Jumps is enough to defeat it. I was doing 122 a pop.
+
+[supersonicjc] so after grinding the 50 jumps for that level up i did it in 2 jumps, even easier then usual for me
+
+
+============================================================
+ACHIEVEMENT 147254 - It's Best to Turn Back Now
+============================================================
+Description: Visit Land's End coming from Kero Sewers before knocking over the barrel
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[GAMERJET] That was tricky getting the timing right!
+
+[Hyze] cool achievement
+
+[theUltimateMaster] how can i do that??
+
+[GAMERJET] Hint: Use the ghost like a stair 
+
+[DreamProject] Extra Hint - https://www.youtube.com/watch?v=xAPUU7aJRpU
+
+[rafaelts] Got down in the pipe and no achiv.
+How to trigger this?
+
+[GamesNATE] Same, down in pipe and no achiv.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/Z2xh3cD-AJI
+
+[Tealduval904] It didn't pop for me tried several times.
+
+[Server] Layton edited this achievement's badge.
+
+[tsullivan048] Went down the pipe and no achievement
+
+[Server] Searo edited this achievement's description.
+
+[SirLionTamer] i just kept floating upwards until i made it over the wall. fire achievement homie
+
+[metalninja7] Sooooooo, did all of that, got to the pipe and in the room, when does the achievement unlock?
+
+[Searo] Use Snes9x (current), bsnes2014 is not supported
+
+[Server] Searo edited this achievement's description.
+
+[omegametroid93] Is this something you do during the first visit to kero sewers or is it later? been ages since I played the game, so I dont remember
+
+[Server] Searo edited this achievement's logic.
+
+[Scrooge200] I went here after going to Marrymore and the Boo didn't spawn, this is missable after that
+
+[Angerami88] Watch out for this achievement. For some reason the icon came up but it was not showing on my profile. I had to try it 3 times and re log-in in site and emulator
+
+[toiletsandpaper] I doesn't need to be in the very first visit to Kero Sewers. I returned there just after beating the Bowie boss with Geno in the team and it unlocked.
+
+[KiddYoshi] Ah I miss when games rewarded exploration like this~
+
+[supersonicjc] that was fun, use the boos after running from a battle to get up there, once inside the shy guy should tell you its a dead end... also grabbed the chest that usually has the cricket jam but it was a flower... hope its cricket jam later on when i come back through...
+
+
+============================================================
+ACHIEVEMENT 5759 - Beware the Flood
+============================================================
+Description: Defeat Belome, the hungry beast, in Kero Sewers
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[diogomelo] bom dia minhas conquista nesse jogo estao subindo,mas nao ta computando no site
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/LD7AOYi1Qjg
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 145611 - Everything I Touch
+============================================================
+Description: Collect all 100 coins in Midas River
+
+[Server] Searo uploaded this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Skyhurricane] Over 1000 coins spent and several hours of attempts, but still haven't gotten it. Managed to become pro at the waterfall part, but got 98-99 by the end a few times because I miss some on the barrel jumping part. For the waterfall part, it takes precise tapping of the button- just right in between too slow and too fast. Also, regarding the coins despawning, it's every 9th note you have to worry about as the coins spawn in groups of 9. If you don't come down on the 9th (or 18th, 27th coin) then it will despawn as the next group of 9 coins spawn.
+
+[Skyhurricane] On the bright side, I've gotten nearly 60 frog coins, lol. Hope to get this tomorrow finally.
+
+[Skyhurricane] Finally did it! Only took around 8 or so hours for me as bad as I am at this minigame, lol
+
+[DaniloZlatan] This one is not fun -_-
+
+[DaniloZlatan] Got it -_-
+
+[CassetteCobra] Advice for yall having struggles with this achievement; When you get to the second split and get both of the bottom left coins, hold right the entire time while mashing A to swim up. You can't be moving in multiple directions or else the rocks weird Collison will stop you and ruin your run. I figured out that this strategy works very good, used it twice and got past the rock both times.
+
+[RetroSprites] Finally done this fucking achievement, for those who have problems:
+1st part: It is best to swim maximum 3 times, since when you swim 4 times, the game pulls Mario further down, it also helps to have a synchronization in the head, every time you stop swimming, count "one" in your head, so you have a perfect frame and Mario does not go so far down. Just swim 4 times when you are close to a coin that is above you.
+Part 2: Write down on a piece of paper or memorize where all the coins are, keeping in mind that on some sides only one is taken and then Mario bounces with the other barrel to take 4 on the opposite side.
+
+[Phantomizer] Haven't even tried this and I already hate It
+
+[wedgordo] https://youtu.be/0l6ffICr0go
+
+[wedgordo] Senhores, para aqueles que pegaram as 100 moedas e no final marcou 99, isso aconteceu porque durante a descida da cachoeira apareceu uma moeda verde (ela não conta como score).
+
+Vá uma segunda vez na sequência, sem resetar o game que aparecerá uma moeda normal.
+
+[PrestoJoe] Ah... FUN.
+
+[Fretzi] I was confused why I only got 99 coins at the end, but turns out frog coins don't count. Make sure to collect every frog coin in the first section first before trying this.
+
+[DrxD] My heart was pounding after having my first successful waterfall run! I cleared the barrel hopping section on the first try after finally getting all the waterfall section coins! best advice don't tap super fast kinda go with a smooth tapping even when u think you might not make it!
+
+[leonox2335] Got it! Not really fun...
+Some tips:
+Waterfall Section: As stated above, you need to tap A in a rhythm to swim faster, the best pattern I found was something like A.A.A..A, after 4 press Mario will fall really fast no matter what, so it's best to do three then let him fall a little and keep swimming with three presses.
+River Section: I found that the pattern that you need to follow is:
+Change sections in the first section
+- Stay in the line 2 times
+- Change the line 2 times
+- Repeat this 2 and 2 pattern
+Maybe it isn't 100%, but having this pattern in mind really helped me in predicting the line with the most coins, good luck!
+
+[Server] Layton edited this achievement's badge.
+
+[Mayonnai] Thank you for making me hate playing my favorite nintendo game.
+
+[Mayonnai] As if getting the Super Suit wasn't bs enough. This is an awful achievement set for such a gorgeous game
+
+[Searo] Thank Square for acknowledging both of these feats I guess
+
+[Reiyel87] I'm too old for this...
+
+[Knex4545] GOT IT. Took me maybe 2 hours. Tip for that second split, do four timed taps instead of three. It gives juuuuuust enough height to go over.
+
+[ConfluentOhm] Advice for anyone who wants to smash their head into a wall: You can reset the game by pressing L+R+SELECT+START.
+This first fucking cave and it's stupid god damn invisible barrier that keeps pushing me in..
+
+[RedrumOverdose] Normally, I see a YouTube video and I'm like "Oh, nice.  This made it look easier."  This time, I saw it and immediately knew.  I will never get this.  Props to those who did, though!
+
+[cicco] Finally got it, when I first saw this minigame I thought it would be impossible for me to get all the coins but thanks to the video wedgordo posted I was able to better understand this minigame.
+
+My first advice is to not give up on the run when you make a mistake but take this as a way to practice later parts of the course. Check your latency options, it may make timing the presses easier. Do not be afraid to take pauses, if you see that you are getting worse pause and do something else.
+
+Waterfall section: the first thing you need to do is learning how to "swim" as other people said you can't swim more than 4 times otherwise you'll lose height but it's not necessary to always swim 3 times, you can also swim 1 or 2 times without losing too much height.
+In my opinion the most difficult part of this section is getting the coins around the first cave, this is because there's little room for errors. On the right side of the cave, when going right from above DO NOT swim 3 times if you do you are going to be pushed into the cave. When you manage to get the coin to the right of the cave you have to lose as little height as possible because the last coin could despawn.
+
+River section: this is easier than it seems, you don't have to memorize everything, it's a simple pattern.
+You start on the upper lane, you immidiately switch to the lower lane, than you stay in that lane for two set of coins and switch to the upper, and then you repeat this pattern until the end. only when you are in the upper lane you have to take the coin right before switching lanes. So the pattern goes:
+-Lower (5)
+-Lower (4)
+-Lower (4)
+-Upper (4)
+with the number in brackets representing the number of coins you have to take.
+Be careful when switching lanes because you will have to immidiately jump at the right time to take the coin, it will take a bit of practice to learn the timing but it shouldn't be too difficult.
+
+[cicco] This are the things I noticed that made it easier for me, hope this helps as much as it did for me and good luck with this achievement.
+You can do it.
+
+[r0ach3d] Totally worth the 5 frog coins.
+
+[galoco92] This one sucks. The waterfall part is a absolute nightmare to do, not hard but extremely annoying and tiresome.
+
+[CainMX] https://youtu.be/c2QuEgTHte8
+
+[HarperMeows] This achievement was a living nightmare, but finally unlocking the achievement after hours and hours of learning the patterns was very rewarding.
+
+[ThePixelJunkie] Thanks Tyiiop for the video. Saved me some time with planning the route/movement. Also thanks to the person who mentioned soft reset. Had no idea that was a thing before this.
+
+I would say this is easier than I thought it would be. After an unfortunate 98 coin run, was able to close it out in the next. A couple times during the barrel section: I would get the coin but still unintentionally switch lanes, or miss the coin but still land on the barrel in front of me. Had to focus my eyes on the coins themselves I guess. 
+
+Either way, definitely feel like this cheevo is fair. The mobility of Mario in the waterfall section is actually pretty good if you don't spam.
+
+[Spagg] What helped me was to load up the game on a separate emulator (with save states enabled) to get maximum practice on the barrel section. That section is completely deterministic so it just comes down to memorizing the barrel route you have to take. The waterfall section is kinda easy in comparison when you get the hang of it.
+
+[zzzzzzz] I thought this was going to be total drag, but this was surprisingly easy for me, and I have zero experience in this mini game. It was actually fun. I learned the waterfall part in like 10 minutes. Just watch the video then practice a bit with states.
+
+For the barrels I just watched a video and wrote down what each section is, like jump then collide, or jump + jump etc etc.
+
+This took me like 20 minutes...
+
+Now if only I could beat that piece of shit super jump which I've been attempting for days.
+
+[Cassievania] Wow, the waterfall section became trivial after I learned that the most efficient way to move horizontally is 4 slow taps.
+
+For the barrel part, it's Hit 1, Jump 2, Hit 2, Jump 2, Hit 2, Jump 2. Counting the hits and jumps out loud helped me remember what to do.
+
+When you hit a barrel, MASH that jump button to get the next coin in time. You have a VERY tiny timing window sometimes. Mario always jumps the same height, so there's no need to hold the button.
+
+[SebTheSamMarten] This achievement can suck my fucking ass. Holy shit. The controls in this game and the frame pacing are NOT designed for the kind of frame-perfect repeated button presses you need to do. I couldn't count on the fingers of the entire fucking United States how many times I had the game straight up just EAT my input. SEVERAL TIMES. IN A ROW. I am a drummer. I have very good rhythm. I tap B at a 4/8 pace, 3 beats press, one beat skip, and it allows me to more or less stay level with the screen so I can move back and forth just fine, and sometimes even make a little headway back upwards. If I DARE to try to press on all 4 beats, I will be locked out of any inputs for what feels like a full second, causing me to plummet past coins which I CANNOT afford to miss. Then, the game will randomly decide to just start gobbling down my inputs like a fat pig at a syrup buffet and completely dick me over during the barrel roll section because a barrel I was supposed to jump to I end up swapping lanes on instead, of vice-versa. I am seriously fucking fuming right now, I don't think any challenge I've ever attempted in any video game EVER has gotten me this PISSED because of the BLATENT horrible fucking design of the section. Too many screen effects causing frame delay eating inputs in a section based entirely on (again) frame-perfect inputs is a recipe for disaster. I have no goddamn clue how anyone is intended to do this without save states or TAS,  or I guess an inexhaustible amount of FUCKING PATEINCE, considering there is quite literally ZERO ROOM for error. If you miss a SINGLE coin at ANY point you need to restart. Beating fucking Dark Souls II without dying for the Illusory Ring was easier than this shit.
+
+[CiriceSheis] yeah this minigame is an input eater, I'll have to come back around to it by the end of the set because this is just painful. no matter what advice I find, including the comments that say this is some easy shit, I come out only struggling more. it feels on the CUSP of being possible for me but even knowing I COULD finish it doesn't excite me because it all feels... almost luck-based, in a way. thanks Square
+
+[Cassievania] It doesn't eat inputs. You automatically fall after pressing the button 4 times. So when you need to go horizontal, tap slowly to maximize your distance.
+
+[CiriceSheis] how slowly?
+
+[Cassievania] If you see Mario's falling animation for 1 frame in between your taps, that's pretty much perfect.
+
+[CiriceSheis] I did it! You're correct, the inputs are not eaten, I just needed more patience than I had. Your contributions helped tenfold and beyond :D
+
+[Cassievania] Congrats! Happy to help. 💙
+
+[rios299] Este logro es más frustrante que el de los 100 saltos
+
+[Prominus] Felt good getting this done. Took about 3 hours.
+
+[Bliffy] still one of my favorite achievements
+
+[MedliFan] Very satisfying and fun! 
+
+I messed up a bunch with the barrels. What helped me with the timing was to jump *during* the switch between lanes. Once I started jumping during this switch, I consistently found the rhythm. Best of luck to everyone attempting this!
+
+[lividliv505] pain
+
+[Estelle] Don't do any serious runs at this until you've collected all the frog coins on the waterfall...
+
+[stagelights] this achievement has to be frame perfect or something, or at the very least its difficult to the point its neither fun nor fair. its unreasonable to expect any human being to do this, and the fact that its an achievement is an insult to anyone with a conscience. if anyone is able to do this achievement they're either secretly a TAS or they're cheating.
+
+[stagelights] I figured it out, its nowhere near as bad as I was complaining about earlier. definitely takes some practice though
+
+[Boobina] This cheevo isn't that bad, it just requires focus and knowing about arbitrary hitboxes.
+I managed to do it first try after understanding what is wrong with the first cave and a good 15 minutes of practicing the barrels part.
+
+About that first cave: There seems to be a hitbox issue, so you have to be as close as possible (3 frames above it I'd say) then quickly double tap right (Don't spam or you'll fall in the cave!) and you're fine. 
+I believe that 1st cave avoiding is the hardest part of the whole minigame, simply because there seems to be an invisible wall northeast from it for some reason.
+Rest of the "cataract" part is just easy honestly, just make yourself a route and stick to it. The only hiccup I noticed is that sometimes the coins south of the 2nd cave seem to disappear if you're too low so act accordingly and grab them from the side or above.
+
+As for the barrel part, it's just muscle memory, so practicing with savestates is recommended until you're able to do it consistently.
+Here's the pattern I noticed and noted on a piece of paper :
+
+(^) X O O X
+(^) X O O X
+(^) X O O X
+(^) X O O
+
+That's the whole sequence (seems to be 4 repeats). It's long but easy to get used to once you separate it in those 4 sections like I did.
+
+- (^) means there's a SINGULAR coin you have to grab before changing lane
+- X means changing lane
+- O means staying on the same lane
+
+[GrumpyDadTV] For anyone struggling with the rhythmic timing on the waterfall section - if you program turbo to the swim button, with the turbo period set to 17 and the duty cycle set to 10, it makes it a lot easier to follow the guide and just focus on directions. Turbo is allowed for hardcore mode so there is no downside there. The barrel section is nerve wracking but just patterned
+
+[thiago17000] JUST WANT TO SAY this achievement is one of the reason i probably wont attempt this set mastery
+
+[Moka] Thank you Tallen for the turbo tip, it really helped save my hands 
+I had some coins not spawn at all in the waterfall section a few times (not despawn), was a bit weird. Don't think I have much new insight to provide, save state practice is your best friend for this one, good luck 👍
+
+[SwissSauce] Easy achievement lets go
+
+[SwissSauce] So interesting how this has fewer completes than the Super Suit... This achievement took me like 30 minutes after some practice.
+
+[Gordikk] I completed this twice and kept getting 99 coins.  Seems from previous attempts I still left one frog coin and kept resetting to attempt again.  It finally worked when I got that frog coin, saved and then attempted with no frog coins on the board.  Finally worked, in case anyone is having the same issue.
+
+[GrandpaCed] I finally did it! At the end I had the waterfall part down to 98% sucess rate. (2% being sucked into the first hole) The turbo fire strat of "Tallen2938" works wonders, but I HAD to make one small adjustment to it: instead of setting the turbo period to 17, set it to 15, that way you can just push the button down at the last fork and coin and you will make it 100% of the time!
+
+[BlueyLewis] Getting the right rhythm on the waterfall section is not terrible. The hardest part about this tbh is navigating around the first cave entrance on the waterfall. After that it's fairly easy. Barrel section is the easiest part, just don't choke lol
+
+[Maofever] Does this all have to be done in one run or is this something you can work towards due to the branching paths?
+
+[BlueyLewis] It's 100 coins in a single run. I'd recommend watching the video by cainmx. You have to go through first and collect all the frog coins.
+
+[CaptStache] For sanity's sake I also recommend Tallen2938's turbo fire technique. There's no reason to try to do this "fairly." 
+
+Use four jumps after grabbing the coin to the left of the first cave, but use only two jumps immediately after. This should put you above the cave, but not too much to where you get knocked in. From here just use single jumps to clear the right side. 
+
+In addition I switched my turbo settings during the barrel section to a period of 2, cycle of 1 and used it to grab the first coin after switching lanes (getting hit by barrel) then manually jumping the other 3 coins. I tried holding turbo the entire time but would sometimes miss the last coin in the row.
+
+[QueenNeptunia] Just because something is *possible* does not even mean it should be an achievement.
+
+[QueenNeptunia] Ah there's something ingame for it. Sunovabitch I can't be mad at the set for that then. They really expected you to get that on OG hardware wtf.
+
+[TheSpoonyHou] Posting just to wine that this shitty ass mini-game is broken and was never playtested by the incompetent intern that programmed it.
+
+[ShianKiri] This mini game is kinda ass to do. Until you understand the timings you have to press to stall out drifting down the waterfall, it's really tough. You can swim against the current 4 times and if you try to spam a 5th, it locks you out from swimming up again so you sink even lower. For spots with the super long sideway drifts between the fork in the paths all require the 4 button press stall, so if you don't have the rhythm down for it, you're not going to get this done. 
+
+The river section was really easy:
+
+Grab the 1st coin and barrel transfer.
+Grab 12 coins
+Barrel Transfer and grab 4 coins. 
+Repeat.
+
+[TheY2AProblem] I did this before on a regular SNES years before RA was even a thing.  I did it back in like 2006/07.  I don't have the hand-eye coordination to be able to do it anymore.  I might still have the save file on my SNES.  If I'm able to provide that as evidence could RA unlock this achievement for me?
+
+[AlexanderZ640] Im gonna hold your hand when I say this pal...
+
+[JailDesigner] Can I go out of this hell and come back later?
+
+
+============================================================
+ACHIEVEMENT 53304 - Amphibious Wisdom I
+============================================================
+Description: Receive the FroggieStick from Frogfucius
+
+[Server] LupineDream edited this achievement.
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Eu consegui desbloquear esse troféu depois de salvar a Peach do Booster.
+
+Obs: se o Frogfucius estiver triste mesmo com Peach no seu grupo, volte o Reino do Cogumelo e fale com o mercante perto da saída em que Croco fugiu anteriormente.
+
+O Mercador te dará um item para o Frog, ele vai ficar de bom humor.
+
+Dará a Mallow o FroggieStick e dirá para onde eles devem ir.
+
+https://youtu.be/uSAGkkuhV3Q
+
+[Server] Layton edited this achievement's badge.
+
+[supersonicjc] remember after crocko to cash in that coin at mushroom kingdom and you will have the item needed to get this after the long story
+
+
+============================================================
+ACHIEVEMENT 53305 - Alto Member
+============================================================
+Description: Receive the Alto Card from Toadofsky
+
+[Server] LupineDream edited this achievement.
+
+[SupBigNose] I don't get it, this achievment doesn't seem to work for me, I've got the Alto Card, and the Tenor and Soprano cards, but they still haven't registered as an achievement.
+
+[Server] ikki5 edited this achievement.
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/Ml9WefnM3mA
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's description.
+
+[Ric3737] The top and bottom lines are not used. Then the bars are as follows:
+
+MI (first space)
+RE (first line)
+DO (second space)
+TI (second line)
+LA (third space)
+SO (third line)
+FA (fourth space)
+
+[hin0t0ra] Huh, never knew he actually explains the notes.
+As someone who knows nothing about music, this is really neat
+
+[supersonicjc] simple way to follow the tip above, 3rd line, 3rd space, 1st space, 1st line, 2nd space, 1st line, 2nd space, 1st line and you should get it, mole vile star is the next time to come back...
+
+[Demerion] Talk to the tadpole near the entrance to "his" screen, it will tell you the notes
+
+
+============================================================
+ACHIEVEMENT 147245 - When Are You Turning Red?
+============================================================
+Description: Jump on a Wiggler until it gives a Frog Coin
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Eggman] pretty sure yo have to jump on wiggler about 8 times little bit of a pain 
+
+[Kurochi185] It's 10 jumps.
+
+
+[wedgordo] Opcional! 
+
+https://youtu.be/WQplmbhx-ug
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's title, description.
+
+[supersonicjc] so it seems to be make sure your in the same direction as wiggler and you should auto jump on him... didnt take a lot to do it so was quite cute to get, and a free frog coin for the total needed...
+
+
+============================================================
+ACHIEVEMENT 147256 - I Am a Work of Fiction
+============================================================
+Description: Use a timed Psychopath on a Guerrilla
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Kryle] After all the years of playing this, I never knew this line of dialogue was in the game. 
+
+[Tiduz] I didn't understand, I used Mallow's psychopathic ability, but nothing happened.
+
+[wedgordo] Tiduz, eu consegui fazer aqui.
+Seguinte, quando usado o especial do Mallow vai aparecer duas luzes.
+
+Quando essas luzes sincronizar no inimigo aperte "Y".
+
+É só isso! 
+
+Boa sorte!
+
+[Tiduz] wdgordo, valeu pela ajuda mano, bom ver outros Brasileiros aqui, vou retomar as conquistas do Mario RPG, infelizmente terei que recomeçar, perdi o save, mas é um jogo que vale a pena jogar.
+
+[Estacaco] Is there a specific location this needs to be done? I did it in the volcano and he said something about it being warm. And the achievement did not unlock. Using snes current on retroarch. This is the only one up till this point that ive had not trigger properly
+
+[Searo] Yes it needs to be done on Guerilla's not Chained Kong's in the volcano
+
+[Estacaco] Yup I figured out I'm just a dummy. I hadn't seen the enemy type at all until the volcano and assumed that was the one.
+
+[Server] Layton edited this achievement's badge.
+
+[Cassievania] Found in Forest Maze, after leaving the first cave.
+
+[Server] Searo edited this achievement's title.
+
+[supersonicjc] forest maze... think the original text was gonna be much longer to make it really stick that it was donkey kong...
+
+
+============================================================
+ACHIEVEMENT 5882 - Forest Secret
+============================================================
+Description: Find the secret area in the Forest Maze
+
+[AndersonMolina] when in 4 paths, go left, left, straight, right
+
+
+[wedgordo] Opcional! 
+
+https://youtu.be/7iZWA711JSc
+
+[Server] Layton edited this achievement's badge.
+
+[ThatGuy1414] The correct path is left, left, straight, right - meaning you turn left from where you are so the second left is at the bottom etc
+
+[Scrooge200] You have to walk from Mario's perspective
+
+[supersonicjc] 1st left path, 2nd room turn left again, 3rd room go straight forward, 4th room go right if done right you will find this room, think you need to talk with the toad in rose vile to get this to work but not sure on that one... also if done right you will basically turn to the same way that you started ie the left path...
+
+[AndyYumYum] Just for clarity's sake, here's the cardinal path you take from the start of the maze:
+
+Northwest
+Southwest
+Southwest
+Northwest
+
+
+============================================================
+ACHIEVEMENT 5812 - Solve the Forest Maze
+============================================================
+Description: Collect the Green Star Piece
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[Auke1993] Alola AotW players.
+I will be playing this game blind as I've wanted to for years. This game being an AotW seems like a great excuse to do so.
+
+[RetroNinji] Lol
+
+[GreeboDoinker] Zain beat lunchbox, and Super Mario RPG is the AOTW. Today is good.
+
+[FafsTheFarias] Do I REALLY need to get the achievement again? Dude I already beat the game
+
+[Darkspirit] For real, me too. With speed up it doesn't take that long though. Just wanted to note here to use snes9x if you are using Retroarch. I used the core Bsnes Mercury and I had issues with it not unlocking
+
+[GreeboDoinker] @FafsTheFarias @Darkspirit use your Flikki to get credit for the achievement
+
+[Ursi] there’s nothing retroachievement gamers hate more than playing games
+
+[AshenWanderer] very funny timing for me on this, I just started a new playthrough a few days ago and I'm already way further than this. thank goodness for the flikki system
+
+[JustAnotherPoppet] Sweet, can double dip with the Challenge League with this
+
+[FlareGamer64] The strongest game in AOTW history maybe.
+
+[tetrpurple] not a big fan of turn based rpgs, but this one was fun
+
+[BillyGaming986] Played through this whole game on a SNES classic back then. Seems like pretty good reason to go back now.
+
+[snowy131] i already have it can i get it again??
+
+[FranzDaGamer] Yes just like Roulette
+
+If you got it, get it again
+
+Otherwise use cheono shift
+
+[supersonicjc] loved this game back in the day, once it was on wii i was hooked again, snes mini was my best friend til modding... this game is a classic, glad i decided to pick it up again for the aotw... got it and tomorrow will keep playing as the story is so much fun and not modernized like the switch remake has been...
+
+[boogiepop] I discovered this game through the Wii shop channel many many years ago
+
+[Chronon] This is why it's good to make save backups.
+Right after each progression achievement unlock you can go to the save folder and copy it to backup folder before over writing it. This way you have a save just before each progression achievement. It's good to make sub folders to tag what the save inside each folder is from.
+
+[ProfessorMoon] Held this off cause I thought the forest maze was pretty short after finishing the mushroom kingdom boss, I was wrong. last minute pop lololol
+
+[Chronon] Forest maze was a bit of a pain with the latter part.
+Had hard time following him while dodging the flying enemies efficiently.
+Then kept guessing the wrong path when he wasn't visible anymore.
+
+
+============================================================
+ACHIEVEMENT 53332 - Sleepy Hero I
+============================================================
+Description: Have a chat with Link
+
+[Altomar] He appears when you sleep in the inn of Rosetown after you beat Bowyer in the Forest Maze.
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/4Pe1tmKQ55g
+
+[Server] Layton edited this achievement's badge.
+
+[supersonicjc] think this is a safe bet to get right after bowyer... get your weapon for geno then take a rest and there is link... not sure how your talking to a silent protagonist with a silent protagonist lol
+
+[f3rns] What a cool achievement. I played the game as a young f3rns but never rememberes link. wao.
+
+
+============================================================
+ACHIEVEMENT 5878 - Goomba Thumper
+============================================================
+Description: Score 35 or more points in a game of Goomba Thumping
+
+[TheGreatMax6713] Should say "Goomba Thumping". Simple typo, but it bothers me :P
+
+[Shikamaru91] Fixed the typo
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Alurith] I love it when I get to 34, then the game sits there for the last 4 seconds, and doesnt spawn anything else.
+
+[AlexHylian] I get exactly 35 and not unlock for me
+
+[Server] siouxerskate edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/r-hLO2Wk8ZA
+
+[Server] Layton edited this achievement's badge.
+
+[ConfluentOhm] This minigame feels like having a panic attack because of how quick the goombas pop in and out of the pipes and how PRECISE you have to be to actually score points.
+
+[LotteBlueJays] These minigame achievements are kind of making me hate this game and I love SMRPG so much. This one in particular is extremely annoying because of how imprecise the hit detection actually is. If you're not in jump frames almost perfectly over the top of the Goomba then it doesn't count. Its so easy to land beside them and do nothing.
+
+[HarperMeows] Pray to RNGesus that you get good Gold Goomba spawns.
+
+[CaptainFractals] Anyone have advice for this one? Because from where I'm sitting it looks a lot like heavy RNG dependence and annoying precision to me.
+
+[Cassievania] After every 10 (?) points, the game pauses to reset every pipe, then spawns them faster. Once you get to the 30 point pause, just stand on the same pipe, hoping that you bop a goomba all 5 times.
+
+[Hunloy] Here's a bit of advice that made this one wayyyyy simpler for me. instead of going for all the different directions pick two (in my case left and right) and focus on only those pipes. the isometric view makes it hard to get precise movement, so sticking to the two cardinal directions allows you to compensate for that. using this method it only took me about 5 or so attempts. GLHF!
+
+[Hostis] I confirm sticking to 2 directions works best. You lose less time repositionning that way.
+
+[StumpBeefgnaw] I absolutely love bashing my head into this achievement waiting for rng to cooperate, thanks!
+
+[Cassievania] @stumpbeefgnaw: Air Man from Mega Man 2 would love to hang out with you.
+
+[CaptStache] I just focused on the left pipe, just jumping left/right on and off and prayed for favorable RNG and got it. It's way too difficult to land on the top/bottom pipes and I can't react/move quick enough when it speeds up to reach other pipes.
+
+[WaveKnight] If there's any achievement that needs to be nerf, this is one of them.
+
+There's no reason the score should be 35 when you have to deal with depth perception and rng.
+
+
+============================================================
+ACHIEVEMENT 53292 - Learn the Rhythm
+============================================================
+Description: Beat Boshi in the race on Yo'ster Isle
+
+[SamuraiGoroh] Press: B,B..A,A for a good pace. Use a cookie (using Y) if you're getting stuck
+
+[Munnstoppable] Is this only obtainable on the first attempt against Boshi? ...I just went back and tried to beat him and all 4 of the yoshi's were racing and I won, but it did not pop.
+
+[Server] televandalist edited this achievement.
+
+[Hellzknight666] If you're using Retroarch, setup "Run-ahead to reduce latency". That solved my issue. If you have any lag and sound issues after that, make sure that your cores are up to date. This completely eliminated input lag for me.
+
+[Goldwynn] My advice for this is use a keyboard, tried multiple times with my controller and got it the first time using the keyboard.
+
+[DaniloZlatan] SamuraiGoroh thank you
+
+[wedgordo] Opcional! 
+Obs: minutos 1:14 à 1:33.
+
+https://youtu.be/mPcrLyMsZnM
+
+[Server] Layton edited this achievement's badge.
+
+[BruceLee1255] Man, for some reason I can't get this one. I can get it easily on consoles, but this one is eluding me.
+
+[BruceLee1255] Just switched to a controller and it suddenly worked for me. Eh, whatever.
+
+[Delfire] I got it on the second try lol
+
+[CiriceSheis] Y'know what's cool about RetroAchievements dot org? The fact that these sorts of things you thought were impossible as a kid, are actually doable with more patience and perseverance. This took me roughly 12 tries, what pushed me over the edge? I used all 3 cookies in a row when I started messing up the cymbal pattern, and as long as you can do a small portion of the track legit, you should have this one in the bag. I used my laptop's keyboard, personally, but see what works best for you.
+
+[kittycatchomp] Best thing you can do is make sure you're using wired audio. I tried the practice mode 3 times and kept getting told I was doing terribly. Then, I remembered I use bluetooth headphones, so I swapped to my speaker and got it first try. You got this!
+
+[ManiacDan] For some reason the timing between the cymbals in the song and the actual input in-game was about half a beat forward, but i managed to cheese it by tapping one finger on my desk on beat and pressing the A & B buttons inbetween the next beat. Worked like a charm lol
+
+[supersonicjc] to this day i have no idea how to get it to work but i just alternate between A & B but now im seeing some say BB then AA and try that... either way this mini game is annoying but quite doable its one of the few i like completing and can actually do in this game
+
+[QueenNeptunia] Broken ass minigame, hated that.
+
+
+============================================================
+ACHIEVEMENT 5809 - Greet Croco
+============================================================
+Description: Defeat Croco in Coal Mines
+
+[Rhomega] Achieved while fighting Shysters in Mushroom Castle.
+
+[TrainerAbu] Thanks, I fixed it.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/V9W4a5KN8Nw
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[bigjohn45638] Didn't unlock for me.
+
+
+============================================================
+ACHIEVEMENT 5813 - Liberate the Mines
+============================================================
+Description: Collect the Orange Star Piece
+
+[Server] televandalist edited this achievement.
+
+[Server] siouxerskate edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 6709 - Minecart Top Dog
+============================================================
+Description: Beat the Mine Cart Race in under 2 minutes and 16 seconds
+
+[RETRORYU] Was on incorrect emulator. SNES9X 2010 did it!
+
+[Monsheus] Ugh. This achievement made me hate minecarts.
+
+[neotev] This achievement was a lesson in masochism
+
+[TekiSeiryu] Before attempting this achievement, consider killing yourself now.  
+
+[Craymeco] I pulled a lot of hair out over this. Finally got it, and at 02:12!
+
+[Server] televandalist edited this achievement.
+
+[Spaghety] 2.15.85. close enough is good enough
+
+[MastuDenton] https://www.youtube.com/watch?v=bMP5IrVPzhE
+
+[Hazyrd] ~02:11, unreal
+
+[leandrodeassis] 2:16:00 UNBELIEVABLE
+
+[Zonlan] say, what happens if someone manages a <2:00?
+
+[CassetteCobra] Anyone have a guide that's just the under two minutes? The one posted above is too long, I just want the demonstration.
+
+[DaniloZlatan] Really cool challenge
+
+[wedgordo] Opcional! 
+
+https://youtu.be/lNhEP-lm86Q
+
+[PrestoJoe] I've tried this around 200 times, but I can't seem to get below 2:25.85. At least this achievement taught me how poorly designed this minigame is, lol.
+
+[KryleX] I got 2:16:38 and it still worked! I ain't complainin' about that lol.
+
+[Server] Layton edited this achievement's badge.
+
+[ConfluentOhm] Well. This sucked.
+No in game reward for doing it. Took me around 14 attempts to fully learn the layout of the track. Made two mistakes and still got 2:11:90.
+
+[DJD3] This was a LOT easier than I thought and quite fun. Speedrunners do this regularly in under 2 minutes, so we have enough room for errors. Just watch the video by pidge that was linked above
+
+[galoco92] Yup, this one sucks.
+
+[LotteBlueJays] All of the minigame ones suck. The 100 Super Jumps sucks the most but its a real achievement. The rest of these minigame ones are basically terrible.
+
+[HarperMeows] Took me about an hour and a half to get this one. It's annoying but doable. Nowhere near as bad as the Midas River one.
+
+[Cassievania] Took me 6 tries. I didn't get it until I understood the mechanics of the minecart.
+
+Imagine the minecart has 5 speeds.
+- Your default speed is 3.
+- Tapping or holding the brakes reduces your speed by 1.
+- Surviving a hairpin turn requires speed 2.
+- A mushroom sets your speed to 5.
+- To survive a hairpin turn after using a mushroom, you need to TAP the brake button 3 times.
+- As soon as your turning, you've survived the turn and can use a mushroom again.
+
+OVERHEAD 1
+1. Jump to get the mushroom and immediately use it.
+2. Hold Right to get the next mushroom.
+3. Brake at the tight turns, then use a mushroom as you're coming out of the final turn. Start braking just before the end of the straightaway.
+4. Hold right to go onto the next mushroom path, then as you're approaching the turn before the mushrooms, use a mushroom and immediately jump twice out of the turn to get the mushrooms. Start braking at the end of the straightaway.
+5. As you enter the stretch of track with a side-mushroom, use a mushroom (skipping the side-mushroom). Start braking once you see the track touching your track.
+6. Jump to get a mushroom and use it once you land. Do it again, then brake once at the turn at the end. You should have 1 mushroom remaining and be at no more than 0:50:00.
+
+SIDESCROLLER 1
+1. You only need to press X and B here, so with one hand, mash X to constantly spend all your mushrooms to go as fast as possible.
+2. Jump as soon as you get the first mushroom.
+3. Jump as the bottom track disappears to get another mushroom.
+4. Wait through a set of 5 coins. At the end of a set of 4 coins, wait half a second and then jump up a track, and then jump as soon as you land.
+5. Fall to the bottom track and wait until you pick up 2 mushrooms.
+6. Look at the top of the screen. Jump up a track once you see a mushroom at the top. Jump again when you collect a mushroom. Stop mashing X when you have 1 mushroom left. You should finish below 1:05:00.
+
+[Cassievania] OVERHEAD 2
+1. Immediately use a mushroom, jump, brake, jump, use mushroom, then when you're nearing the hairpin turn, brake twice. (X, B, Y, B, X... Y, Y.)
+2. Wait a second to get to the track with a side-mushroom. Boost past it, then start braking near the end.
+3. Brake for tiny track, then boost. Brake at the end.
+4. Hold right to get onto the right track. Wait for the track with the mushroom and then boost. Brake at BOTH of the next 2 turns.
+5. Hold left and then jump to take the shortcut. Don't boost, just brake once at the tight left+right turn. Don't boost here either.
+6. Boost on the next turn, then start braking when you see the turn.
+7. Don't do anything except jump to grab the mushroom. Then jump and boost once you reach the pothole. At the end of the track, jump to grab the mushroom and DON'T brake.
+8. At the last of the 3 turns, boost, then brake twice well before the end of the track. If you're below 1:50:00, you've got it even if you miss a jump in the next section. If you're over 1:56:00, start over.
+
+SIDESCROLLER 2
+1. Just like Sidescroller 1, mash X to constantly spend all your mushrooms. This section is a series of hills and valleys.
+2. Jump when you're 1 support beam before the bottom of the first 3 valleys to get 2 mushrooms. (You got the right spot of you get all 3 coins in the first valley.)
+3. Jump at the coins near the top of the 3rd hill to grab the another mushroom.
+4. Mash X to the end.
+
+[Misa] i actually found this pretty fun after getting the hang of it :D
+got 2:12.86 with a crash, then a few other personal bests with a crash, and finally 2:07.75 crashless. just wanted a crashless with my own improvised route, might come back at some point after studying pro routes XD
+
+for those who are struggling, it seems to me that the lowest hanging fruit is to make sure that you are always spamming mushrooms in the sidescrollers. then, make sure that you aren't taking some terrible path in the overhead sections, don't even need to use a lot of mushrooms there :o
+
+[Hostis] Got it at 2.16.35. That was close! Thanks to the video shared by MastuDenton. It helped a lot to understand how to squeeze time.
+
+[lividliv505] just checking I've noticed that the timer doesn't stop when you pause, is pausing allowed for this achievement?
+
+[lividliv505] You can pause and the achievement still pops. I paused after every few turns to check the route.
+
+[KiddYoshi] 2:13:40 Not great, but shoot that was fun~
+
+Not like Midas River or Goomba Thumping......
+
+[bonecrusher1022] I got 2:16.13 and it still popped so I grinded it a bit more. Honestly what worked the best for me was just saved a ton of shrooms for the side scrolling section and it made it way easier than memorizing a super complicated route
+
+[MarioRPG] Indeed, the part where you "make up" the most time is the side scrollers. Memorizing those so you can pick up and use shrooms will get you within the target. I had 2.12 with this.
+
+[QueenNeptunia] These minigame achievements fucking suck holy shit.
+
+[WaveKnight] You might want to put an or under alongside with 2:16 to avoid confusion.
+
+That being said, good lord this was worse than the river one. At least that requires memorizing and mapping a turbo button to make the first part a cake walk and the game not eating your inputs to make it.
+
+It's hard to find what is the right spot to boost, sometimes it's obvious but other times it's not and you hit a curve and fall off. 
+
+I swear if they let you skip a whole part of the track if you have enough speed like how the remake did, this would have turn this achievement into a cake walk.
+
+[Thouren] Got 2:11:xx. Just dont crash and get the “good path” on overhead, eventually using mushrooms. On sidescrollers, dont stop spamming mushrooms and try to get as many as you can. Took me like 10 tries and watching the video someone shared above
+
+[TheY2AProblem] What a pain in the dick.  First The Man achievement in Chrono Trigger and now this.
+
+
+============================================================
+ACHIEVEMENT 147275 - A Hole's a Hole
+============================================================
+Description: Find and use a special Warp "Pipe" in Moleville
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+Tudo acontece em Moleville.
+1. Vá a casa atrás da loja, lá tem uma Toupeira macho "adulta" que vende "Fireworks" por 500 gold, compre;
+2. Na porta dessa mesma casa, do lado de fora tem algumas caixas próximas. Há uma Toupeira fêmea "criança" escondida ali. Fale com ela e troque seu Fireworks por uma "Shine Stone";
+3. Entre na loja e troque com a Toupeira fêmea "criança" a sua Shine Stone pelo "Carbo Cookie";
+4. Do lado de fora, no extremo canto esquerdo superior, fale com a Toupeira fêmea "criança" que parece entalada no balde de madeira. Em troca do Carbo Cookie ela saíra.
+
+Obs: se no momento em que ela sair do balde, você: sair da cidade, entrar em qualquer casa ou loja, salvar o game ou entrar na mina... Parabéns! Terá de fazer tudo de novo.
+E se for fazer isso mesmo, saia da cidade e entre novamente pra depois recomeçar. Se não fizer isso vai dar ruim, de novo.
+
+https://youtu.be/cFHNDf6LtRY
+
+[Server] Layton edited this achievement's badge.
+
+[Svnny] @wedgordo 's comment's translation:
+
+Everything happens in Moleville.
+1. Go to the house behind the shop; there's an "adult" male mole selling "Fireworks" for 500 gold. Buy it.
+2. Outside the house, there are some boxes nearby. There's a "child" female mole hiding there. Talk to her and trade your Fireworks for a "Shine Stone."
+3. Go into the shop and trade your Shine Stone with the "child" female mole for a "Carbo Cookie."
+4. Outside, in the far upper left corner, talk to the "child" female mole that seems stuck in the wooden bucket. In exchange for the Carbo Cookie, she will come out.
+
+
+============================================================
+ACHIEVEMENT 5814 - Art of Balance
+============================================================
+Description: Collect the Masher in Booster's Tower
+
+[wedgordo] Opcional! 
+
+https://youtu.be/3uKOzNhzXnc
+
+[Server] Layton edited this achievement's badge.
+
+[Scrooge200] In Booster's Tower, there's a room with a treasure chest and a ledge. If you drop off the ledge and land on the seesaw, you launch the Bob-omb into the air and it bounces you back into the chest. You might need to do this a few times because the positioning is very specific, but you can climb back up and try again.
+
+
+============================================================
+ACHIEVEMENT 147266 - Booster's Little Secret
+============================================================
+Description: Find the secret area in Booster Pass and take all of the treasure there
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[DryIce53] in case of what: press button in castle of booster and after go to bosster pass.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/NhlMHknWFo8
+
+[Server] Layton edited this achievement's badge.
+
+
+============================================================
+ACHIEVEMENT 372506 - Promotion Boosting
+============================================================
+Description: Be defeated by all 8 Snifit Apprentices in Booster Pass
+
+[Server] Layton uploaded this achievement.
+
+[Server] Layton promoted this achievement to the Core set.
+
+[Jackster] Note: The secret area in Booster Pass needs to be unlocked before doing this.
+
+Enter the secret area and you'll stumble upon a Snifit Apprentice running towards you and into a battle. Lose the battle and the Snifit will be promoted for defeating you. There are four more Snifits that you must lose to in this area, so exit to the World Map and re-enter the secret area and lose a battle to every one of them to unlock this.
+
+While not required, after doing this you can find the promoted Snifits near the top of Booster Tower.
+
+[Server] Layton edited this achievement's logic.
+
+[KojiroS] As an addendum, since their stats are quite pitiful, you may want to fight enemies with instant-death moves like Star Hill"s pulsar (the pointy crystal monster) to have Mario and two others in critical condition. Otherwise the apprentice will probably just run out of FP before being able to do any significant damage.
+
+[Nyxondra] Here's some extra info : You only need to lose your endgame level HP ONCE. Once you get a game over from the first snifit you all get revived at 1 hp (so be careful on your way out). Adding to this you don't need to exit the area, just the room in particular.
+
+So this is a lot easier to do even at endgame than it seems.
+
+[Tusang] Wow this is an ordeal of just using "defend". Even removing all equipped items takes a while.
+
+[Squaresoft4ever7] Somehow this is more rare than the 100 super jumps and the Midas river crap
+
+[Misa] we only lose to 5 apprentices, right XD
+
+[ThatGuy1414] Like others have said make sure you are already low hp with your party before attempting this. After being defeated by the snift apprentice you wont be booted to your last save like with other enemies and just "respawn" with low hp.
+
+[Boobina] Straightforward cheevo, unequip everything and get as close as possible to 1HP.
+Fast-forward and mash B :3
+
+[Reglan] Unequip everything first. Then make sure you have the Goodie Bag before fighting them and just use it constantly so you dont have to defend as waste time.
+
+[antiguess] I'm genuinely surprised this is as rare an achievement as it is. Just get your ass kicked to near-death by enemies in Star Hill, then sit back and get your asses handed to you by 5 Snifits.
+
+Also the description is a little misleading in that, while you are fighting Snifits 4 thru 8, it's only 5 dudes you gotta let beat up on you.
+
+[Layton] It was added years after most of the others so the rarity isn't accurate. I'll see about adjusting the description later if I don't forget
+
+[NOMtheNON] Note: it is not actually 8, it is just 5 of them (it starts at 4 so the achievement description is correct the 8th one kicks your butt)
+
+
+============================================================
+ACHIEVEMENT 5816 - The Mario Behind the Curtain
+============================================================
+Description: Find the magical curtain in Booster's Tower that makes you feel young again
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[williamgeesdorf] Qnd eu li o nome dessa conquista, pensei: "Mario atras do armario" kkkkkkkkkkkkkkkkk
+
+[wedgordo] Opcional! 
+
+https://youtu.be/YpvFatFKObY
+
+[Server] Layton edited this achievement's badge.
+
+[a7xlopeza7x] I used the curtain, and the achievement didn't unlock. Do I have to do something specific?
+
+[Digifiend] Nice easter egg! Earned this by accident. Was checking for hidden items.
+
+[Gregolas] SO RETRO
+
+
+============================================================
+ACHIEVEMENT 5817 - Curtain Sneak
+============================================================
+Description: Don't let Booster notice you're behind his curtains
+
+[KevinCarbonara] Can you get this achievement on the same file you get Whomp Booster?
+
+[blackwayve] it's as simple as saving before the minigame fight him then load the save to never get caught (the reward for not getting caught is better)
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] StingX2 edited this achievement.
+
+[LittleBuster] I got the amulet, but no cheevo. Is there an even better item?
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/5fw-tfCOf3s
+
+[Server] Layton edited this achievement's badge.
+
+[ThatGuy1414] Its better to do this one last since only then you can get the "Amulet" accessory which gives a decent Magic boost.
+
+[Null8568] Is it possible to do this and the fighting booster achievement on the same file by reloading your save or not?
+
+[defines] @Null8568 yes, simply save before, get caught and fight him for that achievement, then reload the save (don't save after fighting him) to avoid getting caught and unlock this achievement.
+
+
+============================================================
+ACHIEVEMENT 5819 - Locomotive Loser
+============================================================
+Description: Defeat Booster after being caught behind the curtains
+
+[DongyJammin] Is this supposed to unlock right as you defeat Booster? This one didn't pop for me  
+
+[Server] ikki5 edited this achievement.
+
+[Server] StingX2 edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Chefe opcional.
+
+https://youtu.be/Uzg1JVHiDMo
+
+[Server] Layton edited this achievement's badge.
+
+[lostleader] suprisingly easy on Lvl 3 run. Rock Candy + Mario Full Jump <3
+
+
+============================================================
+ACHIEVEMENT 5820 - Are We Amusing?
+============================================================
+Description: Defeat Grate Guy and Knife Guy, the jesters of the Tower
+
+[Rhomega] Achieved by fighting Shy Guys on Rose Way.
+
+[TrainerAbu] Thanks, I fixed it.
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/WePVWIDrZGA
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[EduardoMorbach] Estranho, não ganhei esta conquista. Vou ter que reiniciar o save.
+
+
+============================================================
+ACHIEVEMENT 6708 - Flower Point Boosters
+============================================================
+Description: Obtain 7 or more Flower Tabs on Booster Hill
+
+[KevinCarbonara] Is this only on your first trip? Or can this be done after collecting the beetle box?
+
+[SoSa] I dont know too :(
+
+[Luvs2Spooge] I can confirm you need all 7 in the Booster Race, so make sure you save before fighting Knife Guy and Grate Guy
+
+[p4] Just to add on, it does not count if you only get five flowers and run up the hill again to pick up two more. You have to get at least seven the first time around.
+
+[Nostalgia401] ah man good thing I saved it before hand
+
+[Craymeco] So far, this is the hardest achievement I've ever unlocked on RA.
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Kayesay] I got 6 flower tabs on the first time through. I immediately went back in, picked up a 7th, and got the achievement. So, at least, if you go right back in, you should still be able to add to your total from the first go around.
+
+[Server] StingX2 edited this achievement.
+
+[pranvictor] I take 4 flower tabs in the first time, i went 2 times again in Booster Hill and take more 3 and works!
+
+[Kryle] CONFIRMED. You DO NOT have to get all 7 on the very first attempt. However, you must immediately go back to Booster Hill after the first attempt. There will be two flower tabs near the top of the hill after all the barrels have rolled down.
+
+[Kryle] You can repeat this until you have all 7 that you need for this achievement.
+
+[Craymeco] It's nice that the achievement was updated to work this way. Took a lot of work before.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[DaniloZlatan] Missed this -_-
+
+[Server] Searo edited this achievement's wording.
+
+[Iniquitatum] this should def be flagged with an [m]
+
+[xtagnado] Yeah.. i think its must to be flagged [m] 'll to replay to get that chivo
+
+[Phantomizer] You can return to Booster Hill after Marrymore, I just went back after returning to the Mushroom Kingdom and got It by replaying the course twice and getting the 2 flowers near the end.
+
+[wedgordo] Opcional! 
+Obs: minutos 1:26 à 2:39.
+
+https://youtu.be/SANO28TAiA4
+
+[MugiwaraJF86] It's missable right? If you go further you can't reattempt.
+
+[Server] Layton edited this achievement's badge.
+
+[Max207] I know all the comments here are old but maybe someone should clarify:
+
+This isn't missable.
+
+If you enter Booster Hill without a beetle box a Toad will warn you that you can't collect beetles without a box and ask you if you want leave.
+
+Just say no. 
+
+Then you'll go through the level with just a bunch of barrels falling down, and at the end there'll be 2 flower tabs for you to collect.
+
+Just enter the level multiple times, and when you get the flowers 7 times you'll get this achievement.
+
+[petersozzy] Thanks for the info
+
+[NOMtheNON] Managed to get it first try so guess I am very good at this game ha ha
+
+[Chazly] If you have the beetle box already you can still do this, just do the beetle mini game once then with your beetle box 'full' go to booster hill to prompt toad, then say 'no'
+
+
+============================================================
+ACHIEVEMENT 147274 - Always Tip the Bellhops
+============================================================
+Description: Get tipped a Flower Box by working at the Marrymore Inn
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[theUltimateMaster] flower box?
+
+[theUltimateMaster] it isn't flower jar?
+
+[DryIce53] https://youtu.be/Fj5JCDjAfXI ,first goes broken xd
+
+[wedgordo] I received 30 gold.  What do I do to unlock?
+
+[DryIce53] an box flower, just get broken(no coins to paid) until get the box flower xd
+
+[wedgordo] Opcional! 
+
+1. Em Merrymore salve o jogo e depois vá para o inn, lá haverá a opção de quarto de luxo.
+Gaste seu dinheiro até ficar com uns 200 e poucos gold.
+2. Pague os 200 golds pela noite.
+3. Assim que acordar, apague a luz novamente pra dormir.
+4. No térreo o proprietário vai cobrar essa noite extra, como não há gold suficiente o Mario terá de trabalhar pra pagar.
+
+Obs: o cliente para o troféu aparece sozinho. Se vier um casal, chora!
+
+IMPORTANTE: mesmo que venha o cliente solo, não é garantia de que ele dará o item (Box Flower), é completamente aleatório.
+
+Outra coisa, no quarto, o cliente da três tipos de itens diferente em forma de gorjeta:
+1. Mushroom;
+2. Mid Mushroom;
+3. 30 golds.
+O item que queremos é a Box Flower que será entregue na SAÍDA da loja pelo cliente, e não no quarto.
+
+https://youtu.be/Fj5JCDjAfXI
+
+[Server] Layton edited this achievement's badge.
+
+[raulblz] Don't forget: talk to them as they're leaving. Sometimes they tip only at the end
+I spent about 22 nights straight for not restart
+You have to serve the amount of customers corresponding to the nights you spent before you can leave
+
+[ConfluentOhm] If you would like to save during being a bellhop:
+Jump on the head of the yellow toad and right before you fall off of her head, jump as far as you can into the corner and you should land on the save block.
+
+[Anthony64] I got extremely lucky and got the flower box from my first client!
+
+[DaviPx] Got from and old guy, also got the 99 max FP cheevo
+
+[Server] Searo edited this achievement's title, description.
+
+[Scrooge200] Got it from an old guy when I talked to him when he was leaving. Liked this achievement, I actually didn't know I could do this and it didn't take too long once I figured it out.
+
+[Tiduz] To add to Wedgordo's tip: at first, I didn't fully understand how it worked, so I was only farming the items by talking to the solo guest, assuming the Flower Box was one of the random items he could give you in the room. However, the Flower Box is actually given by the solo guest while he's walking down the stairs.
+
+So, after talking to the guest in the room, head downstairs, speak to the manager behind the counter, and immediately run to the staircase to talk to the guest while he's going down the stairs. This is the moment when he can give you a Flower Box as a thank-you for his stay.
+
+
+============================================================
+ACHIEVEMENT 53380 - Win Her Heart
+============================================================
+Description: Receive a kiss from Toadstool in Marrymore
+
+[Server] LupineDream edited this achievement.
+
+[Craymeco] Do this by collecting her lost items as quickly as possible!
+
+[Server] televandalist edited this achievement.
+
+[Server] StingX2 edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+Obs: seja rápido na coleta dos itens, se demorar terá que resetar e fazer de novo.
+
+https://youtu.be/P5sFUkMKCkI
+
+[Server] Layton edited this achievement's badge.
+
+[SlyFoxglove] Yikes! this one is actually harder than I was expecting. you have to be pretty fast and the Snifits are hard to catch.
+
+[RedrumOverdose] This is TOUGH, can't believe I managed to get this one.
+
+[Cassievania] Immediately talk to the first Snifit, then go up and left into the aisle that the next Snifit is as. If you time it right, both of the remaining Snifits will sandwich themselves between Mario and you can talk to them both without moving.
+
+Jump to touch the crown on Booster's head, then talk to Peach and you've got it!
+
+[DaviPx] I actually tried to talk with peach, but it's actually booster
+
+[ThatGuy1414] If you aren't fast enough the cutscene will play with either bowser or booster and you need to reset
+
+[Jayvee] getting this on mobile touchscreen was nuts
+
+[SirNotMalg] Got at my 6th try. I hate it, but at least i got kissed by Bowser so i'm ok with it
+
+[antiguess] Always hated this one. Grateful it only took 2 attempts.
+
+[mysticalalexis] Minor note: you must talk to Booster, not Toadstool, when you have all four items.
+
+
+============================================================
+ACHIEVEMENT 5821 - Wedding Crasher
+============================================================
+Description: Defeat the cake, a living recipe
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Nappone] What you have to do in order to obtain this achievement? I killed the cake. 
+
+[pranvictor] I defeat this cake 2 times and didnt pop for me, what deception
+
+[pranvictor] On retropie didnt work this cheev, i play on RASnes9x for windows and finally came
+
+[Lancerlott] This didn't pop for me either and have to start a New Game now... sweet.
+
+[Parolini] Didn't work for me either.
+
+[gmbgustavo] No unlocking here
+
+[Server] Searo edited this achievement.
+
+[retroarc] Anbernic RG351V running ArkOS (Retroarch) - Found that I had to change SNES9X cores to get achievements to work.  SNES9X (2010) works for almost all but had to switch to (2002) for this particular achievement.
+
+[Server] Searo edited this achievement.
+
+[albertosalazar] USE SNES9X(2002) CORE FOR IT TO WORK Y'ALL!
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/wJ7CKSDSQ0Y
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 147273 - ENOUGH ALREADY
+============================================================
+Description: Refuse to take Princess Toadstool back to the Mushroom Kingdom
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[GAMERJET] Any hints or tips for this one?
+
+[Searo] If you leave Marrymore after rescuing Peach then you missed it. Recommend saving after the cake boss and then searching.
+
+[RodrigoJD] after getting toadstool in merrymore try to leave through the exit near the church (not the one that you entered) and say no 4 times
+
+[TeacherGus] Didnt trigger for me
+
+[wedgordo] Opcional!
+
+Depois de salvar a Peach, vá para a saída norte mais próxima da igreja.
+Em todas ad opção coloque não (sempre a segunda).
+
+[Server] Layton edited this achievement's badge.
+
+[MinTJ] just say no 4 times before leaving marrymore
+
+[Server] Searo edited this achievement's description.
+
+[Lirazod] Alright, that was funny lol.
+
+[Sheppard121] After the cake boss, leave the church, but use the exit closest to the church facing northwest. Not the exit where you entered Marrymore. The dialog will start before you leave.
+
+
+============================================================
+ACHIEVEMENT 147247 - A Beetle's Heart
+============================================================
+Description: Collect a heart in the Beetle Mania game
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional!
+
+O minigame é liberado depois de salvar Peach do casamento com Booster.
+No Reino do Cogumelo, na loja do save point estará o personagem GameBoy.
+Fique interrompendo ele até que o mesmo dê a opção de comprar o console por 500 golds (o Switch tá mais barato).
+Feito a aquisição, no menu será adicionado o título "Game".
+No game é preciso bater 10.000 pontos para dropar o coração.
+
+Obs: minutos 0:02 às 0:19.
+
+https://youtu.be/a4i1INtbUSc
+
+[Server] Searo edited this achievement's logic, description.
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Searo edited this achievement's logic, description.
+
+[Server] Searo edited this achievement's logic, description.
+
+[Server] Searo edited this achievement's logic, description.
+
+[Server] Layton edited this achievement's badge.
+
+[galoco92] Stupid ass achievement, doesn't work on retroarch I had to use RASnes9x.
+
+[Tusang] Definitely didn't play this in slow motion to get the heart. Promise. 0_o
+
+[StumpBeefgnaw] This has nothing to do with the booster hill beetles, you need to buy the game from the inn at the mushroom kingdom after merrymore. The heart spawns at 10k points
+
+[Salbug] @galoco92, worked for me on RetroArch using the Snes9x (current) core.
+
+[amunetsokhti] The video link above is no longer available
+
+[TheHy1ianGuy] "Bro, I didn't use Turbo and cheat." I say as I quote myself :P.
+
+
+============================================================
+ACHIEVEMENT 147271 - Yoshi Juiced
+============================================================
+Description: Feed Baby Fat until he gives you a Yoshi-Ade
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[ChronoGear] This one seems odd. I had to keep retrying and ended up getting the Yoshi Ade a few times before the achievement unlocked
+
+[Searo] I put in a fix some hours after it went live so that it should be more consistent.
+
+[DryIce53] the meme legends was born here: the fat yoshi xd
+
+[timenoe] him big
+
+[KojiroS] Does the thicc yoshi give the yoshi-ade at fixed intervals or is it a random prize? Asking because I've only gotten two frog coins so far.
+
+[DryIce53] use cookie bug: if you win boshi,use pink yoshi to more cookie and use the road 2: betting without ride him xd 
+
+[wedgordo] Opcional!
+
+Esse é um troféu canalha! 
+Vamo lá! 
+
+Local: Yo'ster Isle
+
+Antes de começar, eu recomendo que o Yoshi deve está pequeno.
+Se não estiver, tudo bem, faça o teste com ele obeso.
+
+1. Dê 15 cookies primeiro (Yoshi pequeno), depois mais 15 e saia pela saída sul, onde o Boshi está.
+2. Volte salve o game na saída norte (onde o nosso Yoshi está), depois dê mais cookies ao Yoshi obeso, 18 agora, tudo de uma vez.
+
+Ele pode dar três:
+
+• Energizers;
+• Crystallines;
+• Bracers.
+
+Se ele entregar qualquer um desses itens, da loading e dê o 18 cookies novamente.
+O "Yoshi Ade" vai vir de forma aleatória.
+Eu consegui na segunda vez, sendo um Bracers a primeira.
+
+Obs: com esse método a "Frog coin" não tem possibilidade de vir.
+Se o seu Yoshi já está grande, tente dar 18 cookies 2×, acho que na segunda pode dar certo.
+
+Pra conseguir cookies rapidamente é preciso vencer as corridas.
+Não da pra confiar no Yoshi, então o esquema é esse.
+
+1. Pegue 3 cookies com o Yoshi rosa;
+2. Salve o game, depois fale com Boshi e escolha correr com o Yoshi.
+Eu sei, é o inferno esse desafio mas você vai pegar o jeito e não vai perdeu mais nenhuma.
+3. Ainda com Boshi, aposte 2 dos 3 cookies.
+4. Na corrida, aperte os botões no CONTRATEMPO e NÃO NO RITMO da música.
+5. Perto da linha de chegada use o cookie.
+
+Depois de vencer, salve e volte a fazer tudo de novo, porém, sempre apostando os cookies mais alto do que antes, isso faz triplicar os ganhos.
+
+https://youtu.be/mk2SaioAEVA
+
+[ChoccyMilk] 1. Feed the baby yoshi 30 cookies (the pink Yoshi nearby gives 3 for free), then go to a different area and come back. He should be fat now.
+
+2. Bet 3 cookies with Boshi until you have at least 10.
+
+3. Save the game at the save box to the right of this area.
+
+4. Feed the beeg yoshi 10+ cookies at a time, reloading until he gives you the right item.
+
+Surprisingly annoying for only being worth 2 points. Yeehaw.
+
+[Server] Layton edited this achievement's badge.
+
+[Sitkaah] Tive muita sorte, deixei o Yoshi correr solo em uma corrida com ODD 10:1
+
+
+https://imgur.com/a/BdnRpVu
+
+[zzzzzzz] Yeaaa, points should probably be buffed to 5 for this. Takes awhile.
+
+[Server] Searo edited this achievement's points.
+
+[Searo] I got you fam
+
+[Server] Searo edited this achievement's description.
+
+[williamgeesdorf] 16+ cookies only got me Bracers and Energizers. Exactly 10 cookies gave me the Yoshi Ade.
+
+[KirbyKing186] Note: Baby Fat will only be available after defeating the Cake in Marrymore. If you go to Yo’ster Isle before this, Baby Fat will be egg.
+
+[Saxis] This is pain to get...
+
+[thehoove] You don't need to actually race Yoshi yourself; just bet on him until he wins. Of course, worse odds result in fewer wins, but that's betting on Yoshi races for you. Posting for anyone else who didn't realise you could hit 'hop off and watch him race' means you can play the odds and skip this terrible minigame.
+
+[Boobina] Very easy achievement, but kinda grindy. 
+I ended up giving fat Yoshi 10 cookies all at once and he finally gave me... ENERGIZER LOL. Good thing I saved beforehand and scummed it!
+Make sure you do the same before giving him his treats because the rewards seem random.
+
+[Chazly] To expand on this re: mini game timings, I've found neither holding note just tapping the buttons works perfectly 
+
+The rhythm is 4/4, so you can count 4 beats per bar
+
+So each bar has 4 beats that are button pressed, and 4 offbeats in-between. I've found the most success pressing the button on the beat, and releasing on the offbeat, also helps me keep to the rhythm
+
+
+============================================================
+ACHIEVEMENT 34964 - Raising Sheep
+============================================================
+Description: Obtain the Sheep Attack item
+
+[macacocareca] This achievement only trigger after use "Lamb's Lure" 48 times.
+
+[SamuraiGoroh] Didn't triggered
+
+[SamuraiGoroh] I see why it couldn't trigger. It checked for an specific slot on your inventory (18th). Made a quick patch to check every item on your inventory so it can trigger even if you did it before the achievement was created...
+
+[RETRORYU] I am unable to have this trigger as well.I have tried placing the item in the 18th item spot, before the Lamb's Lure changes into the Sheep Attack. I still cannot get it to trigger. Thank you.
+
+[EvertonSSJ4] I just release the achievement, so the achievement is unlocked you must use the attack (and this has to work, turning the enemy into a sheep) until the message "the flock is full" after this conquest is released.
+
+[RETRORYU] Are you saying to continue using the "Sheep Attack" after the Lamb's Lure changes into the Sheep Attack- until the achievement is unlocked?
+
+[luispatinho] Yes, EvertonSSJ4 is correct. I just got the achievement, and only after the message that was described by him.
+
+[rbfamorim] it worked
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional!
+
+1. É preciso comprar o item "Mystery Egg" na cidade de Moleville.
+Obs: o vendedor é um Toad azul que vende itens raros. O primeiro que ele vende é o "Lucky Jewel". Sim, é obrigatório comprar na ordem.
+2. Em Merrymore, vá a loja/inn e compre o item "B'tub Ring" e equipe na Peach.
+3. Entre em qualquer batalha e use o Mystery Egg (com a Peach) até que o ovo choque (aleatório).
+4. Quando o ovo chocar, o nome vai mudar de "Mystery Egg" para "Lamb's Lure".
+5. Use o Lamb's Lure 40 à 50 vezes (todos os personagens podem usar).
+Obs: existes uma taxa de acerto, então, são 40 à 50 vezes do uso com sucesso.
+5. Após isso, o nome muda novamente de "Lamb's Lure" para o definitivo "Sheep Attack".
+
+https://youtu.be/IEviVICHupQ
+
+[Server] Layton edited this achievement's badge.
+
+[RevJohn] The plural of "sheep" is also "sheep" (and not "sheeps")..
+
+[ThatGuy1414] To get this you need to use the "Mystery Egg" with Peach while equipped with the "B'tub Ring" after that it will transform to the "Lamb's Lure" which any character can use. 
+
+A fast way to get this for me was using fighting a Dry Bones enemy with fast forward since they just keep respawning, then you can repeatedly spam the item without looking for enemies.
+
+[CaptStache] The Mystery Egg became available in Moleville after fighting Yaridovich. Slightly out of order of the achievement listing.
+
+[Sudai] This probably needs the missable tag. If you buy the egg and sell it or the lamb's lure before it transforms, you won't be able to get another.
+
+
+============================================================
+ACHIEVEMENT 147257 - From One Cookie to Another
+============================================================
+Description: Use a Yoshi Cookie to transform a Mukumuku into a Muku Cookie
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[PaleEyeZ] Got the Muku-Cookie from using a Yoshi-Cookie in battle with a Mukumuku. Have it in my inventory, but it didn't trigger after several tries. Anything I'm doing wrong here?
+
+[LuyKeltic] No entiendo por que no funciona, me estoy comiendo al monstruo con el Yoshi y obteniendo la galleta pero aun asi el logro no se activa. o acaso se supone que hay que matar al monstruo hasta que te lo de por drop normal?
+
+[Server] Searo edited this achievement.
+
+[Searo] There was an issue with this achievement which would cause it to not trigger for some inventory setups. It should be more reliable now.
+
+[wedgordo] Opcional! 
+
+1. Precisa do item Yoshi Coockie que é obtido após vencer Boshi na Ilha do Yoshi.
+
+2. Em Star Hill encontrará o Mukumuku.
+
+3. Na batalha use o Yoshi Coockie no Mukumuku.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's title, description.
+
+[ThatGuy1414] The enemy is found at star hill
+
+
+============================================================
+ACHIEVEMENT 53550 - Invasion of Privacy!
+============================================================
+Description: Find Mallow's wish on Star Hill
+
+[Raukue] Seems broken. Took a few reloading my save till it took. Being sure the cutscene happens as I am sure it does not count after. Also I was at the upper left of it when it worked if position matters.
+
+[FabricioKaz] I think this achievement is "broken", you have to be in a certain position for achievement if released.
+
+[p4] I just unlocked it by triggering the cutscene while standing to the top left of the star.
+
+[tenshi290] achievement borken
+
+[Server] LupineDream edited this achievement.
+
+[LupineDream] The achievement has been issued a bugfix and tested under all four save files. It should now be a consistent pop for everyone. Let me know if ya'll can get it first try now. You need to see Mallow's textbox shouting at you for spying on him.
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Phantomizer] Where Is this achievement obtained at? I just went through Star Hill and didn't see anywhere that this could be earned at In that area.
+
+[wedgordo] Opcional! 
+Obs: minutos 8:33 à 9:40.
+
+https://youtu.be/vT2ctKHn5rM
+
+[Server] Layton edited this achievement's badge.
+
+
+============================================================
+ACHIEVEMENT 147270 - O Brother Where Art Thou?
+============================================================
+Description: Find Luigi's wish on Star Hill
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/x04g1M0UOvw
+
+[Server] Layton edited this achievement's badge.
+
+
+============================================================
+ACHIEVEMENT 5822 - Wish Fulfilled
+============================================================
+Description: Collect the Purple Star Piece
+
+[Server] televandalist edited this achievement.
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 53571 - First-Class Pirate
+============================================================
+Description: Find all of the clues to the word in Sunken Ship
+
+[ChaosStar0] This popped for me when I got 5 of the 6 hints.
+
+[Server] televandalist edited this achievement.
+
+[aceone] this achievement does not work
+
+[pranvictor] This popped for me when I got 5 of the 6 hints. (The same with me)
+
+[GAMERJET] You need to get them all in a single visit.
+
+[SnowPin] https://i.imgur.com/gBUubQd.png just adding screenshot of old logic.
+
+[Server] SnowPin edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Jayvee] Didn’t pop at first when I did them with the squid battle in between. Had to do them all again
+
+
+============================================================
+ACHIEVEMENT 5856 - Tentacle Terror
+============================================================
+Description: Defeat King Calamari, the sinker of the ship
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/dajmvMWN-Qs
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 53572 - Sunken Treasure
+============================================================
+Description: Find the secret Frog Coin in Sunken Ship
+
+[Server] televandalist edited this achievement.
+
+[PKRadash] No working.
+
+[DryIce53] basement 4 in wall of J have an hidden door to catch that treasure xddd
+
+[Antics] For those wondering where its at, right after the 'Doppleganger Mario' area, in the next room with three Dry Bones walked around, one of which walks behind a wall of "J" blocks. Go behind the blocks and hug the wall.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/HI0pyFp76Q0
+
+[Server] Layton edited this achievement's badge.
+
+
+============================================================
+ACHIEVEMENT 147263 - Sunken Secret
+============================================================
+Description: Find the hidden room and get the Safety Ring in the Sunken Ship
+
+[Server] Searo uploaded this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+Obs: mintos 6:10 à 6:30.
+
+https://youtu.be/3E5UPadELDk
+
+[Zika] esse está correto https://www.youtube.com/watch?v=Hm6uY47TKLU
+
+[Jenkys] Colaca no vídeo os minutos 6:10 até 6:30
+
+[Server] Layton edited this achievement's badge.
+
+[Tusang] It said I got the achievement, but it's not showing up on here as a completed one.
+
+[Yamaman] The room  can be found after fighting Calamari. Check behind the barrels in the big water room with the Bloober that has the little baby Bloobers behind them.
+
+
+============================================================
+ACHIEVEMENT 6711 - Hidden Piranha Plant
+============================================================
+Description: Defeat Hidon, the trick Treasure Box in the Sunken Ship
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/tBOxsqirs0A
+
+[Server] Layton edited this achievement's badge.
+
+
+============================================================
+ACHIEVEMENT 147264 - Unfair Fighting
+============================================================
+Description: Defeat Johnny without engaging in a 1v1 fight with him
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Lipe33] the description should be more accurate, I just beat him without 1v1ing him by not beating his underlings, and it didn't trigger (unless that was a bug)
+
+[Lipe33] triggered after trying it out a couple more times, odd
+
+[Server] Searo edited this achievement.
+
+[Searo] Thanks for letting me know, I've made the pause lock a little more precise and hopefully it won't falsely lock the player out now.
+
+[wedgordo] Opcional! 
+
+Dos 4 capangas deixe apenas 1 na batalha e depois o ignore até o final mudando o foco para o boss.
+
+Se todos os capangas o boss vai eliminar propor uma luta 1x1 e lá se vai o troféu.
+
+[Server] Layton edited this achievement's badge.
+
+[Fretzi] What exactly does this entail? The phase where Mario fights him alone seems forced and not optional
+
+[gorocz] He only fights Mario alone to even the odds in his favor, but what if he doesn't have to?
+
+[Fretzi] So deal enough damage before the phase happens or what?
+
+[gorocz] I guess since the solution is already twice here in the comments, there's no point in being secretive - - he starts with 3 adds, just don't kill all 3 of them and he won't duel you...
+
+[Fretzi] Oh okay, thanks
+One comment sounded like there may have been a bug involved and the other one is in a language I don't speak, hence I prefer a clear-cut "Do exactly this and this"
+
+[Server] Searo edited this achievement's logic.
+
+[Salbug] I'd recommend killing all but one of his underlings so they aren't as much of a pain. As long as even one is alive, the fight won't turn into a 1v1.
+
+
+============================================================
+ACHIEVEMENT 5857 - Walk the Plank
+============================================================
+Description: Defeat Johnny, the captain of the pirates
+
+[wedgordo] Faz parte da história.
+Obs: tem outro troféu relacionado a essa luta. Procura aí entre as conquistas.
+Da pra ganhar os dois juntos.
+O vídeo que vou colocar aqui, só vai mostrar a luta contra o boss, portanto, pode ser perdido o outro troféu:
+
+https://youtu.be/dajmvMWN-Qs
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 5823 - Call Me Captain Mario
+============================================================
+Description: Collect the Indigo Star Piece?
+
+[Server] wilhitewarrior edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 5859 - Indigo Star Piece Take Back
+============================================================
+Description: Get the Indigo Star Piece back
+
+[Server] wilhitewarrior edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 147265 - Tickle Torture
+============================================================
+Description: Receive a reward for not torturing the citizens of Seaside Town
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+1. Assim que vencer o boss Jhon no navio submerso vá para Seaside.
+
+2. Bem na porta da cidade haverá uma cena com diálogos.
+
+3. Escolha a primeira opção.
+
+4. Siga os fugitivos.
+
+5. Dê um pau no boss.
+
+6. Volte e entre na casa mais próximo de onde está.
+
+[Server] Layton edited this achievement's badge.
+
+[entelechy] did anyone else only get this after dying to yaridovich and trying to get back to the fight as quickly as possible
+
+[SirLionTamer] As an American I don't negotiate with terrorists. Needless to say...I did not get this cheevo
+
+[Bliffy] Translation of @wedgordo's comment: All you gotta do is go to seaside town after beating johnny and pick okay instead of get serious when talking to the fake elder. After they leave with the star piece, go to the top left exit of the town and beat the boss. Once you beat him go ahead and take the key and open the door which was locked before
+
+[Kinglink] I chose the wrong option.  I'm glad SirLionTamer was here to remind me, I made the right choice.
+
+[xkmart] SirLionTamer WE ARE THE TERRORISTS LOL
+
+
+============================================================
+ACHIEVEMENT 53573 - Sleepy Hero II
+============================================================
+Description: Have a chat with Samus
+
+[Altomar] You can find him in castle of Mushroom Kingdom after defeating the Yaridovich in Seaside Town.
+
+[Olafur] You mean "her"?
+
+[Server] televandalist edited this achievement.
+
+[SpaceRaton] You only have a limited window to visit Samus. She appears in Mushroom Kingdom after you beat Yaridovich, but disappears after you climb the cliff at Land's End and unlock Bean Valley. After that, she's gone for good!
+
+[Alurith] Please mark this as missable. I just missed it because I didnt know my time was limited.
+
+[Ryan914] Yeah, it's missable
+
+[Server] SnowPin edited this achievement.
+
+[Alurith] Hallelujah!
+
+[Server] DanielARP edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+Obs: depois de vencer o chefe Yaridovich a Samus vai aparecer no Reino do Cogumelo.
+Esse troféu pode ser perdido, faça-o logo! 
+
+https://youtu.be/FqD-j_vyiho
+
+[Server] Layton edited this achievement's badge.
+
+[Sheppard121] After defeating Yaridovich in Seaside town, head back to the mushroom kingdom and enter the bedroom across from the treasure room. Speak to Samus.
+
+
+============================================================
+ACHIEVEMENT 147261 - Gold to Green
+============================================================
+Description: Turn in a Gold Beetle at Beetles Are Us
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional!
+
+Obs: minutos 0:09 à 0:25.
+Vai aparecer apenas 1 besouro dourado.
+Boa sorte! 
+
+https://youtu.be/Q0Pemr2pM-o
+
+[Server] Layton edited this achievement's badge.
+
+[Misa] wow this is by far my worst minigame. i don't even understand how is it possible for someone to be this bad, jumping on the barrels is SO hard and of course i feel absolutely unable to do any snifit jumps whatsoever.
+
+so what i'm getting at is.. believe in yourself? :D
+or, at least, believe in your potential to get lucky eventually :o
+
+[Server] Searo edited this achievement's description.
+
+[Splain] I hate this minigame. There's only one gold beetle per run, so buy the beetle box, save your game, and reset immediately if you miss the gold beetle.
+
+[ShianKiri] This minigame is absolute garbage. I was just lucky enough that I just so happened to jump on a Sniffit's head as a gold beetle spawned in front of me. I rather do the Midas River or 100 Jumps again over this bullshit.
+
+[Thouren] 5 tries. I got lucky I guess
+
+[TheHy1ianGuy] took me like 5 tries to pop this. what I did was get the golden beetle at the end of race as it is only sniffits' and not barrels.
+
+
+============================================================
+ACHIEVEMENT 147272 - Whooeee!
+============================================================
+Description: Give Mushroom Boy a rare Mushroom for a reward
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[DryIce53] in case of what; https://youtu.be/dBgKG_3GMZQ
+
+[DryIce53] you must give flower tab xd,aslo have an infinity money if you want the another chevos of marymore xd
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+Em Seaside, depois de derrotar  o boss Yaridovich haverá uma loja com um cara que prova Cogumelos. Se ele julgar ser de boa qualidade (aleatório), te premiará com itens.
+
+O item para o troféu é a Flower tab.
+
+https://youtu.be/GCPcc6mhy4U
+
+[Server] Layton edited this achievement's badge.
+
+[Cassievania] You don't need to grab any special mushroom. Just buy from the shop next door in Seaside Town.
+
+[Server] Searo edited this achievement's description.
+
+[patrocinioluisf] I bought a bunch of regular mushrooms and just kept giving them to him until the achievement unlocked (he gives us a flower tab).
+
+
+============================================================
+ACHIEVEMENT 147250 - Is It Luck or Skill?
+============================================================
+Description: Obtain a Lucky Bonus Flower using a lucky weapon
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[DryIce53] lucky hammer of seaside+ lucky item = this chevo xd
+
+[RetroSprites] Thanks DryIce53
+
+[DryIce53] no problem bud, test your might on games XD
+
+[Skyhurricane] This isn't working for me. I used the Lucky hammer, then the Lucky Jewel, and vice versa in the other order and still haven't gotten the achievement. Unless the Lucky Item referred to is not the Lucky Jewel.
+
+[Skyhurricane] I don't see any other lucky item though. I've used them on different enemies and the same enemy and it just isn't working. 
+
+[DryIce53] just create critical hit with those items xd
+
+[DryIce53] or use a singular guide about the lucky hammer xd
+
+[Skyhurricane] Nevermind, I got it. Turns out, I was using the other old hammer from the hammer bros which had the exact same name (equipped it by accident 
+after buying the lucky one from Seaside Town).
+
+[DryIce53] get it? good and good luck finding another chevos xd
+
+[Skyhurricane] Thank you! Same to you as well :)
+
+[wedgordo] Opcional! 
+
+1. Compre e equipe o Lucky Hammer na cidade Seaside.
+2. Compre o item Lucky Jewel em Moleville.
+3. Dentro de qualquer batalha use o Lucky Jewel primeiro e depois ataque com o Lucky Hammer equipado.
+
+[Server] Layton edited this achievement's badge.
+
+[Bliffy] I think i might have gotten rid of the lucky jewel sometime after i got it because i thought it was useless... shit
+
+[Searo] This isn't related to the lucky jewel and isn't missable so don't worry.
+
+[StumpBeefgnaw] No lucky jewel required
+
+Equip hammer from seaside town, make sure  the "lucky hammer" gets equipped (it shares the name with the first hammer you get if you haven't discarded it yet)
+
+Do a timed hit with Mario when he has the hammer equipped, sometimes it will say "lucky" and insta kill the enemy, that's all you gotta do
+
+[Server] Searo edited this achievement's title, description.
+
+[Boobina] Literally first hit with the lucky hammer gave a flower, amazing! Thanks for the tip DryIce53 :3
+
+[Gregolas] Don't spend 10 minutes trying to find "Lucky Hammer" in the shop, it is called "Hammer" and the description calls it lucky, I feel like an idiot lol.
+
+
+============================================================
+ACHIEVEMENT 54150 - Shortcut at Land's End
+============================================================
+Description: Find the hidden shortcut in Land's End to Kero Sewers
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional! 
+Obs: minutos 2:27 à 2:32.
+
+https://youtu.be/J2JNW0MX9ZE
+
+[Server] Layton edited this achievement's badge.
+
+[Scrooge200] You can also get this later in the game! Jump into the cave with smoke coming out of it when you get to the Sky Bridge
+
+
+============================================================
+ACHIEVEMENT 147253 - That Was Great!
+============================================================
+Description: Get the maximum reward of 4 Frog Coins on the Expert Sky Bridge Course
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional! 
+Obs: minutos 0:19 até o fim.
+
+https://youtu.be/emBf7hSp5fY
+
+[Server] Layton edited this achievement's badge.
+
+[Marshaman] There is a way to cheese this achievement, but I don’t know if it is due to imperfect emulation on my device: you have to stand on the northern edge of the platforms, you won’t be affected by the bullet bills, and will still be able to jump from platform to platform. Easy way to get 100 frog coins as well!
+
+[Hostis] That was harder than I thought. Made me remember why I didn't agree to replay the course when I was young. Tried for about 30 minutes on my Retroid Pocket 4 and barely made it to round 3. After that, I tried a few times on my computer and aced it!
+
+[Server] Searo edited this achievement's description.
+
+[Saxis] Holy, had to rush at the end there
+
+[Scrooge200] You can still stand on Bullet Bills, you just move along with them
+
+[FigNewton] Can confirm that you can cheese this minigame as Marshaman stated. You can test it on the first platform and wait for the Bullet Bill to come closer. If it simply passes without pushing you, can then just hold upleft/northwest and just jump forward without worry for all three runs.
+
+
+============================================================
+ACHIEVEMENT 147252 - Shogun Sensei
+============================================================
+Description: Jump on a Shogun until it gives a Frog Coin
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[RetroSprites] Just jump 3 times in a row on him
+
+[wedgordo] Opcional! 
+
+Em Land's End dentro do redemoinho de areia estará o maldito.
+Pule três vezes em sua cabeça.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's description.
+
+[ThatGuy1414] They can be found in the "Lands End" desert area in the quicksand swirls. The jumps don't have to be consecutive.
+
+[thehoove] The jumps DO have to be consecutive, but it only takes three for the frog coin to pop. Not difficult.
+
+[Boobina] Well that was definitely easily than Wigglers, first try :3
+
+
+============================================================
+ACHIEVEMENT 6714 - Caught Mokura
+============================================================
+Description: Defeat Mokura, the fearful gas cloud
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional! 
+Obs: aparece de forma aleatória em Land's End.
+
+https://youtu.be/svwWYfTTZl4
+
+[MugiwaraJF86] If the achievement doesnt show on the page because of a network issues, I can try battle again right?
+
+[Server] Layton edited this achievement's badge.
+
+[Scrooge200] This shows up in Land's End as an enemy called Formless. Hit it with a magic attack then you can attack it.
+
+
+============================================================
+ACHIEVEMENT 5858 - Time for Dinner
+============================================================
+Description: Defeat Belome in his temple
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/Cix3jcXgfHo
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 147268 - Open Belome
+============================================================
+Description: Give Belome the key to his temple
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+
+Obs: assista os dois vídeos na ordem.
+
+1: https://youtu.be/9D8eC3VBzXs
+
+2: https://youtu.be/GYh1mqbYb60
+
+[Server] Layton edited this achievement's badge.
+
+[vite] I think this badge is wrong
+the dodo is in it instead of the belome
+
+[vite] I think this badge is wrong
+the dodo is in it instead of the belome
+
+[Server] Layton edited this achievement's badge.
+
+[Patapapier] It's missable, i have not the key... I've discard
+
+[Server] Searo edited this achievement's description.
+
+[Scrooge200] Talk to the Thwomp in Monstro Town a couple times, he'll hit the ground and shake a key loose outside his house. Then go back to the temple, wait until you get the fortune that says he's sleeping, enter the room, and give the key to the statue.
+
+
+============================================================
+ACHIEVEMENT 54151 - Amphibious Wisdom II
+============================================================
+Description: Give the Cricket Jam to Frogfucius and get some allowance
+
+[Server] televandalist edited this achievement.
+
+[Server] DanielARP edited this achievement.
+
+[wedgordo] Opcional!
+
+Depois de pegar um "Cricket Jam", vai entregar ao Frogfucius.
+Local: Land's End.
+
+https://youtu.be/dZjrc-hObO8
+
+[Server] Layton edited this achievement's badge.
+
+[Patapapier] This achievement must be missable (I've trashed my "Cricket Jam"...)
+
+[Rolen47] It's not possible trash cricket jam, it's not a normal item. The cricket jam is only possible to get after go to the lands end the proper way. If you try to get the chest early by climbing onto a Boo it will be a flower. Even if you do get the flower chest it's still not missable, the chest will be replaced at the proper time.
+
+
+============================================================
+ACHIEVEMENT 147244 - Virtuoso
+============================================================
+Description: Receive the Soprano Card from Toadofsky
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/O9cx2XtliLA
+
+[Server] Layton edited this achievement's badge.
+
+[Misa] la ti do re so do re mi
+
+[Server] Searo edited this achievement's description.
+
+[Boobina] You need to acquire the Alto & Tenor cards before unlocking the Soprano card.
+
+
+============================================================
+ACHIEVEMENT 147248 - Mario Sensei
+============================================================
+Description: Defeat Jinx three times and take over the Dojo
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional!
+
+Local: Monstro Town.
+
+https://youtu.be/33NJYoGts1k
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 5860 - Culex's Challenge
+============================================================
+Description: Defeat Culex, Dark Knight of Vanda
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional!
+
+Local: Monstro Town.
+Assim que chegar na cidade já é possível enfrenta-lo.
+Ele está dentro da única porta trancada.
+Para abri-la, vá para:
+
+1. Moleville e compre o "Fireworks" com a Toupeira macho "adulta" dentro da casa, atrás da loja;
+2. Troque por uma "Shine Stone" com a Toupeira fêmea "criança" perto das caixas do lado de fora;
+3. Em Monstro Town, abra a porta com a Shine Stone e que Deus te abençoe!
+
+https://youtu.be/Ee98DL4iRV0
+
+[Server] Layton edited this achievement's badge.
+
+[HITPS1] ele ficou sem mp no final da luta ,cómico no mínimo
+
+[TheDukeOfDoritos] No se si es por golpe de suerte o un glicht del juego, bowser solo recivia 1, 0 o directamente fallaba el ataque y solo me quede a esperar a que se le acabe los pf a culex, literal grite de la alegria
+
+[DeltaSomnium] ELE É O DIABO!
+
+[SeventhPower] This is arguably one of the coolest boss battles ever. "Battle 2" from Final Fantasy IV is such an awesome boss battle theme.
+
+[TheHy1ianGuy] I am matter...
+
+I am antimatter...
+
+I can see your past...
+
+I can see your future...
+
+I consume time...
+
+And I will consume you!
+
+Coolest lines in this game. ez with rock candy and red essences.
+
+
+============================================================
+ACHIEVEMENT 147249 - The Musty Fears Must Fear Me Now
+============================================================
+Description: Find the 3 Musty Fears' flags and claim your reward
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional! 
+
+https://youtu.be/vwSEUI74MSA
+
+[Server] Layton edited this achievement's badge.
+
+[Newfieboy94] Not one of them is where it's supposed to be someone explain please
+
+[Seik666] Under Mario's bed, behind the wooden welcome sign of Rosetown and between the O and A on Yoshi's Island.
+
+[Server] Searo edited this achievement's title, description.
+
+[ThatGuy1414] The flags can only be found after resting in "Monstro Town", the ghosts will approach you and tell you to find their flags.
+
+
+============================================================
+ACHIEVEMENT 147246 - Very Commendable!
+============================================================
+Description: Complete the climb in Land's End in under 12 seconds to become a Troopa
+
+[Server] Searo uploaded this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[FFaddic] Can't seem to get this to pop. Does it have to be done after a certain point in the story?
+
+[Searo] Anytime after the first time you do the minigame. It should give you a final time and a reward the first time you get under 12 seconds.
+
+[FFaddic] Yeah, tried that. Are there any special map ID triggers?I have a save in Nimbus. Moved to Lands End. Run back a map and then back to the cliff to start the game. Get under 12 seconds and earn the Troopa Pin, and still no pop.
+
+[Searo] Are you using bsnes by any chance? For whatever reason it doesn't play nice with this game.
+
+[FFaddic] Nope, but I am using a pi. Tried regular Snes9x, 2005, and 2010. Ill probably move my save over to PC and try it there just to see.
+
+[FFaddic] Tried multiple emulators and no go. Messed around in RASnes9x and I can see its due to 0x23043. This never changes to a value of 80 for me. Is there something specific that needs to be done to get this to change?
+
+[Searo] Interesting, I'll send you a site message later tonight so we can troubleshoot it a bit and I'll try to come up with a fix.
+
+[FFaddic] I just got it. I just kept doing different combinations of exciting to the world map, going to different places, and then trying it. It eventually triggered. 
+
+[Server] Searo edited this achievement's wording, logic.
+
+[Searo] Oh man you were right, 0x23043 bits are for each turtle so you had to finish a specific (yet common) way to trigger it. I've made it now depend on just talking to the turtle at the end which should be more consistent. Thanks for bringing that up
+
+[wedgordo] Opcional! 
+
+https://youtu.be/7kkBqMKLCGo
+
+[Server] Layton edited this achievement's badge.
+
+[Misa] a few attempts of mine for the leaderboard, with a best of 9.25 :o
+https://www.youtube.com/watch?v=slLoSRlU5q8
+maybe useful to see what i do right and what i do wrong, maybe not XD
+
+[Server] Searo edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 6712 - Box Fight
+============================================================
+Description: Defeat Box Boy, the trick Treasure Box in Bean Valley
+
+[Server] televandalist edited this achievement.
+
+[Lipe33] idk how to close tickets but I made an unfounded report cause the achievement didn't pop up for me, but I still got it, so don't mind me 
+
+[wedgordo] Opcional! 
+
+https://youtu.be/svwWYfTTZl4
+
+[Server] Layton edited this achievement's badge.
+
+[Scrooge200] When you see the five Piranha Plants coming out of pipes, wait for the Shy Away to grow the one on the far right. Then defeat the Piranha Plant, go down the pipe, and hit the chest.
+
+
+============================================================
+ACHIEVEMENT 5956 - Please Gamble Responsibly
+============================================================
+Description: Enter Grate Guy's Casino
+
+[Zyx15] como se ganha essa conquista?
+
+[ShadowVictor75] Primeiro tu precisa da Bright Card,que vc consegue do Knife Guy na torre do Booster,vc tem que adivinhar em qual das maos ele tem a bola amarela,faz isso ate ganhar a Bright Card.Depois que tu conseguir a Bright Card,vai la no final da Bean Valley,aquela area que tem varios canos.Vai no cano de cima,bem ao lado do Chomp amarelo,da um pulo que ira aparecer um bloco secreto que vai te levar ao Casino
+
+[ShadowVictor75] T Pose 
+
+[wedgordo] Opcional!
+
+É necessário ter chegado em Bean Valley primeiro.
+1. Na Booster Tower, pegue o item "Bright Card" com o Knife Guy. Antes, ele vai propor um desafio; encontrar em qual de suas mãos está a bola amarela (não entendo como cabe tanta bola na mão dele, sem malícia, hein). O número de acertos são 10.
+2. Vá para Bean Valley, e quando encontrar o local com 5 canos, entre no cano ao norte. Dentro, vença o Mandíbula Dourada "Chomp Chomp".
+3. Após a luta, vá para o canto (extrema esquerda) e pula 3 vezes. Pule na plataforma e saia.
+4. Entre em Grate Guy's Casino. Adentre a casa, mostre o dedo e o Bright Card pros seguranças e já era.
+
+https://youtu.be/b9HNh1UP24I
+
+[Server] Layton edited this achievement's badge.
+
+[mirawit] well to give a translation to what wedgordo said (with the help of google translate) here it is:Optional!
+
+You must have arrived in Bean Valley first.
+
+1. In the Booster Tower, get the "Bright Card" item from the Knife Guy. First, he will propose a challenge; find which of his hands has the yellow ball (I don't understand how he can fit so many balls in his hand, no malice, huh). The number of hits is 10.
+
+2. Go to Bean Valley, and when you find the place with 5 pipes, enter the pipe to the north. Inside, beat the Golden Jaw "Chomp Chomp".
+
+3. After the fight, go to the corner (far left) and jump 3 times. Jump onto the platform and exit.
+
+4. Enter Grate Guy's Casino. Enter the house, show the finger and the Bright Card to the security guards and that's it.
+
+[EduardoPaiva] If the Shiny Card item is discarded or sold, you lose this achievement.
+You could add it as a missable item.
+
+[EduardoPaiva] And also as a missable achievement.
+
+
+============================================================
+ACHIEVEMENT 147262 - I Can Stop When I Want
+============================================================
+Description: Win a game of Slots and Blackjack in a single session
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional!
+
+É só ganhar uma vez cada jogo: Blackjack e Slot Machine.
+Não precisa ser consecutivos.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's title, description.
+
+[EduardoPaiva] If the Shiny Card item is discarded or sold, you lose this achievement.
+You could add it as a missable item.
+
+[EduardoPaiva] And also as a missable achievement.
+
+[NOMtheNON] Yeah I waited to get the Grate Guy achievements before selling it off, should be marked missable
+
+
+============================================================
+ACHIEVEMENT 147259 - Right Is Always Right
+============================================================
+Description: Win the Star Egg from Grate Guy in the Casino
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[DryIce53] 100 times or nothing of rotten mushrooms.
+
+[CassetteCobra] I have no idea how Square expected anyone to find this item back in the day without a guide lmao
+
+[DryIce53] magazine nintendo era, spoke the truth and send later on our site,many secret of game still hidden of us
+
+[wedgordo] Opcional!
+
+Acerte até receber o item "Star Egg".
+
+https://youtu.be/iIMJThQWXnw
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Layton edited this achievement's badge.
+
+[ConfluentOhm] I literally held autofire left and sped up the game x7 and it still took me like 8 minutes to get the egg. Even after I got it I ended up throwing it away, lmao.
+
+[treeofmight69] Does this have to be in a row?
+
+[Searo] Nope just total times
+
+[Server] Searo edited this achievement's title.
+
+[fbit] Tedium!
+
+[EduardoPaiva] If the Shiny Card item is discarded or sold, you lose this achievement.
+You could add it as a missable item.
+
+[EduardoPaiva] And also as a missable achievement.
+
+[EduardoPaiva] Thanks, I just found out and sent a message; I'll have to start a new save.
+
+
+============================================================
+ACHIEVEMENT 5861 - Plant Derooting
+============================================================
+Description: Defeat Megasmilax, the multiplying plant
+
+[wedgordo] Faz parte da história.
+
+https://youtu.be/IniioA4V3RI
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 147255 - Monster!!!
+============================================================
+Description: Have a nightmare at the Nimbus Inn and receive some drinks to blow the bad guys away
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[wedgordo] Opcional! 
+Obs: é uma cena aleatória. Salva e vá tentando até conseguir.
+
+https://youtu.be/UfzIGYkh4aU
+
+[Server] Layton edited this achievement's badge.
+
+[ThatGuy1414] Just keep resting in the Nimbus Inn with the "Dream Cushion" until you get the dream with Toad where he transforms into a ghost.
+
+[LeMarritoDS] This achievement is so XD
+
+
+============================================================
+ACHIEVEMENT 147267 - Polishing Pecks
+============================================================
+Description: Don't let Dodo notice you and obtain the Feather
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional!
+
+Apenas pule no ritmo da música.
+Se pular antes e o Dodo ver, ele vai sair da sala e falar com Valentine.
+Terá de reiniciar.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 5862 - Play with Birdo
+============================================================
+Description: Defeat Birdo, the newborn of the castle
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 5863 - Correcting Nimbus Land
+============================================================
+Description: Defeat Valentina, the "Queen" of Nimbus Land
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[AkayuJP] I corrected
+
+
+============================================================
+ACHIEVEMENT 372507 - Where's My Valentina?
+============================================================
+Description: Spy on Valentina and Booster atop Booster's Tower
+
+[Server] Layton uploaded this achievement.
+
+[Server] Layton promoted this achievement to the Core set.
+
+[Jackster] After defeating Valentina, make it to the top of Booster Tower and watch the cutscene.
+
+[Server] Layton edited this achievement's logic.
+
+[Server] Layton edited this achievement's logic.
+
+
+============================================================
+ACHIEVEMENT 5864 - Bring a Fire Extinguisher
+============================================================
+Description: Defeat Czar Dragon, the keeper of the volcano
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[Janex06] Grzegorz Braun
+
+
+============================================================
+ACHIEVEMENT 5824 - Ranger Combat
+============================================================
+Description: Collect the Red Star Piece
+
+[Server] televandalist edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[SeventhPower] Be sure to save after you defeat the Czar Dragon! If you lose against the Axem Rangers, you’ll have the fight the dragon again.
+
+
+============================================================
+ACHIEVEMENT 6713 - Gooey Monster Chest
+============================================================
+Description: Defeat Chester, the trick Treasure Box in Bowser's Keep
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional!
+
+Local: Bowser's Keep
+
+https://youtu.be/ZKIexCUioc0
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo edited this achievement's description.
+
+
+============================================================
+ACHIEVEMENT 5872 - Koopa vs. Koopa
+============================================================
+Description: Defeat Magikoopa, a brainwashed ally
+
+[Server] ikki5 edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 147276 - GENOcide
+============================================================
+Description: Deal 9,999 damage to Exor in a single attack
+
+[Server] Searo uploaded this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Lipe33] geno whirl + right timing if anyone's wondering
+
+[DryIce53] hit the skull face than another part of face with geno whirl.
+
+[RetroSprites] After the whirl dissapears, use Y again
+
+[wedgordo] Opcional!
+
+Local: Bowser's Keep
+
+https://youtu.be/gy2eWAOiMAI
+
+[Server] Layton edited this achievement's badge.
+
+[Dazja] knock out one of the eyes to disable protection and then geno whirl Exor with correct timing, the timing is quite generous with 16 frames starting when the first disk has left the screen
+https://pidgezero.one/timings/index.html#Geno_Whirl
+
+[abas228] my game lagged for a second when it happened lol
+
+[Hostis] When I was young, I knew there was something with Geno Whirl, but without Internet, it was impossible to know exactly how to do it to get it to work. And now, 25 years later, I looked it online, practiced it once, got it, then used it once on Exor and got it. Fascinating trip!
+
+[SeventhPower] Why is Exor's mouth even named "Neosquid", anyway?
+
+[TheHy1ianGuy] human, i remember your GENOcides.
+
+
+============================================================
+ACHIEVEMENT 5873 - Well, This Sucks
+============================================================
+Description: Defeat Exor, the weapon from another world
+
+[Server] televandalist edited this achievement.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 34965 - Nothing Can Stop Us Now!
+============================================================
+Description: Have the best weapon for each character
+
+[Server] televandalist edited this achievement.
+
+[DryIce53] lazy shell in rose town,frying pan in molevilles shop afert to squash axem rangers,in case of problem xd
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional!
+
+Mario: Lazy Shell
+Local: Rose Town.
+https://youtu.be/I0kpMKviBKk
+
+Peach: Frying Pan
+Local: Moleville
+https://youtu.be/mGVAaBSr7rQ
+
+Geno: Star Gun
+Local: Bowser's Keep
+https://youtu.be/pBMl0l1RHCw
+
+Mallow: Sonic Cymbal
+Local: Bowser's Keep
+https://youtu.be/eUFV2pzDwhc
+
+Bowser: Drill Claw
+Local: Bowser's Keep
+https://youtu.be/ZKIexCUioc0
+
+[Server] Delmaru edited this achievement's logic.
+
+[Server] Layton edited this achievement's badge.
+
+[Loemon] should be marked as [m] because you can sell or throw away the "seed" or "fertilizer" for mario´s lazy shell
+
+[RedrumOverdose] I got the achievement without equipping them all.  It was awarded upon opening the fifth chest.
+
+[Server] Delmaru edited this achievement's title, description, type.
+
+[KiddYoshi] @leomon you can also well the weapons before getting the others
+
+
+============================================================
+ACHIEVEMENT 147269 - Cleared the Castle
+============================================================
+Description: Clear every numbered door in Bowser's Castle and obtain the reward
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[Server] Searo edited this achievement.
+
+[RetroSprites] Finish the first 4, after defeating Exor, go back and do the other 2
+
+[wedgordo] Opcional!
+
+Depois de fazer os quatro primeiros desafios (não importa a ordem) o game procede sem nem perguntar se você quer voltar.
+
+Siga normalmente até vencer Exor.
+Depois disso haverá a opção de andar pelo mapa.
+Volte e termine os outros dois que restaram.
+
+Obs: todos os desafios reiniciam, então, se perceber que já concluiu algum, perca e escolha outro.
+As portas são aleatórias.
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Layton edited this achievement's badge.
+
+[SteveBF18] Oh god, so glad I came to read the comments, I thought I had finished the final one by mistake before completing all of them and left doors incomplete forever.
+
+
+============================================================
+ACHIEVEMENT 5875 - Time to Win
+============================================================
+Description: Defeat Count Down and its Ding-A-Lings
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+[alegoicoe] missed that one, very frustrating
+
+
+============================================================
+ACHIEVEMENT 5874 - Jesters and Snakes
+============================================================
+Description: Defeat Cloaker and Domino, the jesters of the Weapon World
+
+[Server] ikki5 edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 5876 - Supervisor Clobberer
+============================================================
+Description: Defeat the Clerk, Manager, Director, and the Factory Chief
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Progression.
+
+
+============================================================
+ACHIEVEMENT 5825 - Closing Time
+============================================================
+Description: Collect the Yellow Star Piece and shut down Smithy's Factory for good
+
+[Server] televandalist edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Faz parte da história.
+
+[Server] Layton edited this achievement's badge.
+
+[Server] Searo set this achievement's type to Win Condition.
+
+
+============================================================
+ACHIEVEMENT 147260 - Big Finale
+============================================================
+Description: Witness a Star-shaped firework during the ending
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[ChronoGear] Is this just for getting the star in the fireworks at the end? It didn't unlock for me
+
+[Server] Searo edited this achievement.
+
+[GAMERJET] Having now unlocked this, I'm curious what exactly counts toward this? I found all Hidden chests, purchased 7 fireworks, everyone had the best weapon/armor, all characters were level 24/25.
+
+[DryIce53] i dunno...
+
+[DryIce53] Fireworks FinaleWhen you get the ending, the mole from Moleville shoots some fireworks. The more you bought from, a different shape appears. Here is what you can get:
+
+[DryIce53] 0:mushroom,3: flower, 5:star
+
+[DryIce53] confirmed, 5 star not 7 star or anything,be carefull in that part. one is for culex and 4 is 2000 coin to drop.
+
+[gmbgustavo] How can I buy more than two? He does not sell me more.
+
+[DryIce53] buy&sell my buddy,4 sell those fireworks and 1 to monstro town to talk culex xd
+
+[DryIce53] you have 200 coin buy one firework,and sell that firework,repeat the process to mark 5 fireworks xd
+
+[gmbgustavo] Thanks. I thought I had to have them at the same time in my inventory. 
+
+[DryIce53] is per shot that firework,try beat smith for see that star,remember if you have 6 firework...you are done,show a fireflower not a star,be careful is a chevos with (m) in equations...
+
+[wedgordo] Opcional!
+
+1. Em Moleville compre e depois venda "Fireworks" 4 vezes.
+2. Vença Smith.
+
+Obs; se ainda assim não funcionar, leve uma Fireworks junto e depois vença o Smith.
+
+https://youtu.be/R7rSrlSwuI0
+
+[Server] Layton edited this achievement's badge.
+
+[body] it was mistaken ticket
+
+[Server] Searo edited this achievement's description.
+
+[Demerion] So how exactly does this work?
+Do I just buy atleast 5 items/fireworks? Or do I have to be careful to not overbuy because that results in a different shape? And can I save right before the mole in order to try again if I miss it, without having to go through have the game?
+
+[DryIce53] is a chevos with (m) in equations...
+to aware must wait the launch firework in the credits if was star was trigger the chevos but if was flower...dude you will regret to trying return monstro town at this point must be wise creature about save bank...focus when you already reached bowser castle mk2
+
+
+============================================================
+ACHIEVEMENT 147251 - Jump Man
+============================================================
+Description: Power up your Jump skill to 50 power
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[gmbgustavo] No idea on how to get this
+
+[Flam] Keep using Mario's basic Jump skill. I never knew this, but it gets stronger the more you use it. This achievement wants you to use it in 50 battles, which powers it up quite nicely.
+
+[DryIce53] squash 50 gombas with special atack jump,you thanks later about this.
+
+[wedgordo] Opcional! 
+
+Usar o especial de salto comum de Mario várias vezes.
+Eu consegui no número 70.
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Searo edited this achievement's logic.
+
+[Flifliperando] Precisa estar solo para fazer essa conquista?? Estou em Bean Valey usando Jump em todas as lutas e até agora nada.
+
+[Server] Layton edited this achievement's badge.
+
+[Jenkys] Não precisa estar solo Flifliperando.
+Só mantenha o ritmo que eventualmente conseguirá.
+
+É demorado!
+
+[PLATINADOR71] não funciona, ja usei umas 300x e nao ganho a conquista. ME AJUDEMMMMMMMM
+
+[PLATINADOR71] É Talvez seja o emulador, ja pulei tanto que o dano não aumenta mais, não esta demorado, esta impossivel!!!
+
+[DryIce53] if dont want this chevos wont get the another chevos the heist swater of 100 jumps
+
+[RedrumOverdose] There's no achievement tracker on this, how do I know where I'm currently sitting? I was doing like 20 damage against Goombas with it at first and now I'm doing around 170. How much damage do I need to be for the skill to be at "50"? How do I find what my current value is? Am I just supposed to max it out?
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Searo edited this achievement's logic.
+
+[OtrTrash] Jump starts at 25 power. Every two jumps it gains +1 power so after 50 jumps you'll get this achievement... However... Jump's power cap is at 150 power after jumping a total of 250 times. Forget the achievement. A base 150 attack for 3FP that deals 50% more if properly timed? This is cheap enough and powerful enough to replace your basic attack. For comparison, Mallow's Shocker has 60 power and deals 50% more if properly timed... And costs 8FP. JUMP CAN BE 2.5x more powerful for 37.5% of the cost!! These boots were made for jumping!!
+
+[Scrooge200] I grinded this in Kero Sewers in the midgame. Ghost enemies take 0 damage from jump, the enemies are weak enough that you don't need to worry about your health, you can defend to pass other party members' turns, and you get Pure Water which can be sold for a lot of money.
+
+[amunetsokhti] My advice: On the first screen of Booster Pass, right after getting back to Moleville after beating Punchinello, there's a Lakitu dropping Spikesters. The fight can have Spikesters, Carroboscis, and Artichokers. Practice Mario's Jumps here while having Geno take out Spikesters and Mallow heal with HP Rain as necessary. It's a great place to level grind for Booster Pass/Tower, earn the gold to buy a 2nd Fireworks/Shiny Stone after getting the Moleville secret exit achievement, and its relatively save with Moleville's Inn a screen away. After Lakitu stops dropping Spikesters, just exit (heal in Moleville if needed) and return.
+
+[amunetsokhti] If you want to use @Scrooge200's method just remember to take Jump Shoes off if you have them
+
+[supersonicjc] so all the years playing this awesome game i never knew this was a mechanic of the game... quite simple enough to get before the 1st star with little grinding involved... quite a cute but shouldnt be a suprise gimic of our jump man lol
+
+[Demerion] The tracker is weird here. I'm at 7/50, which means the power should be at 33 (since it starts at 25). Shouldn't it count to 25? Because once the counter reaches 25, I did 50 jumps and increased the power by 25 to a total of 50. That's what the achievement description wants.
+Or is it worded poorly and I have to increase it by 50?
+
+Also I wish the game would tell you the real power instead of always saying 25.
+
+[Demerion] Just unlocked it. I did it by just using it along the way; my last jump was in the Forest Maze.
+
+I want to reiterate that this achievement should be reworked. The achievement counted to 50, which means I used "Jump" 100 times (since it counts up by 1 for every second "Jump").
+This also means the power of "Jump" now is 75, if what OtrTrash says is correct.
+The text should either say "Power up your Jump skill to 75 power" or "Power up your Jump skill by 50 power", if we keep the logic the same. In that case, the latter one seems better because it fits with the way the achievement counts.
+Or you change how the achievement counts and let it only go to 25 (or increase it by 1 on every "Jump", but that would change the logic I think).
+
+[Demerion] By the way, does anyone know if all Magic Skills can be enhanced this way?
+
+[hugettehikari] no, this only works for jump specifically, no other special move in the game can have its base power increased
+
+
+============================================================
+ACHIEVEMENT 5957 - Super Jump Skills
+============================================================
+Description: Perform 30 consecutive Super Jumps to deserve a nice reward
+
+[TekiSeiryu] Having the same problem as the user above. Trying this now - https://gamefaqs.gamespot.com/snes/588739-super-mario-rpg-legend-of-the-seven-stars/faqs/5661Hopefully, this link has the solution to our problem. 
+
+[SupBigNose] This feels impossible, I cant even get past 16. Haha
+
+[TekiSeiryu] No worries, bro. You keep working at it, and you'll get it. This took me a couple of seconds too. 
+
+[Xymjak] 3 hours of attempts. -_-
+
+[Craymeco] When I finally got this, it was because I was watching Mario go up, instead of watching Mario come down. Make sense?
+
+[DanielKingOfHell] I can't get this I tried 257 times  can anyone help me? I'm used retro arch on an android tablet highest I get is 19 or 20
+
+[Server] televandalist edited this achievement.
+
+[DryIce53] later put this achievement:horrendous sweaters(get 100 jumps and get an singular sweater in monstro town)
+
+[LittleBuster] How the hell do you do this without a CRT? Talk about HARD.
+
+[DryIce53] is a mystery xddd
+
+[Kryle] As Tecryujin said in his comment, follow that guide he gave a link to. I was able to accomplish this on the Spineys in Bandit's Way since they take no damage from jump attacks. Took about an hour to accomplish. Timing is KEY!
+
+[AlexHylian] I have count 31 hits and not unlock, more two days for nothing, omg thank you very much  I'll record next time to manual unlock.
+
+[Server] Searo edited this achievement's logic.
+
+[Server] Layton edited this achievement's badge.
+
+[shortguy04] How are people doing this on RetroArch? I have practiced to the point of absolutely HATING this game now, and have not gotten more than 16. Achievements like this that require PERFECT timing should not exist when input lag is a factor.
+
+[shortguy04] ...and naturally, as soon as I comment on it I got this and the 100 jumps...turns out my input lag was not as much as I expected! If you happen to be a guitarist and have a metronome handy, I HIGHLY recommend using it for this and just muting your game sound. Also helps to send the wife/husband/kids/pets away and do this with as little distractions as humanly possible!
+
+[GoldenAchievement] I will say right now that this is 100% humanly possible. You just need a ludicrous amount of practice to get good. I did this in Mushroom Way with Goombas. When Mario's foot intersects with the Goombas head, I pressed the button as quick as possible.
+
+[BEXUS] holy shit i never thought i'd get this one LOL. The trick to "pretend you're controlling mario jumps" in the gamefaq link that @Tecseiryu posted helped IMMENSELY. I heavily recommend giving this one a read if you've been struggling on it. now onto 100 jumps.....
+
+[CiriceSheis] I. I was not expecting to be able to get this. Ever. It shocked me so bad that I immediately messed up as soon as the cheevo popped up. I think I can get 100 super jumps someday.
+
+Yes, the gamefaq link is actually legit. Just don't expect to become a guru and take it at your own pace. I was able to get this achievement within a handful of tries after months of staying away, in fear
+
+[Boobina] Getting to 30 super jumps was harder than 100 for me, which I got in the same exact session.
+
+It probably has to do with the fact that somewhere around 13 jumps the frame window really decreases significantly, so it's harder to get used to than the consistency that's required to continue to 100.
+
+What helped me getting to 30 is focusing my eyes as if I'm staring at a point behind the screen, and pressing the same button everytime Mario came in my narrow field of view, like a twitch-reflex.
+
+[Zylosian] I got this one with pure luck, frustration, determination and hatred. No guide helped me much... All I know from doing my own crazy research is that the window between jumps is between 717- 850ish milliseconds. I got this time from recording my game footage and analyzing the time between jumps. You must push the button EXACTLY at the bottom most frame of the jump and you have about 3 frames to time it, every single press. 
+Dunno if input lag is causing issues or if it's my own setup with my display. Most of the times my tries fall flat between 7-10 jumps. Getting the perfect timing is so precise it's maddening. If I could get the exact BPM I'd use a bloody metronome, which is around 73ish BMP but even that feels off. I feel like I'm going crazy trying to aim for the 100 jumps. Least I got the 30 though... Ha ha... ha...
+
+[SteelCat] The trick I found is that before 14 jumps, the "extra frames" on the timing window are from the START of the window, not the end. So while on jumps 1-13 it is way more forgiving of early hits, it is still just as unforgiving of late hits as 14+, so to find the window for 14+ you need to try and be as late as possible on jumps 1-13 and find out exactly the point where it registers as an obvious late input (easier to see during 1-13 because the early window is more forgiving). On earlier jumps, you will FEEL when you are late, try to hone in on exactly when that happens.
+
+Then make a note of where Mario's sprite is exactly just before that point, and time your hits to that sprite placement. Online guides that show visuals for this timing are not useful, as they're either using original hardware or an emulation setup that is different than yours, you gotta find your own timing AND a cue to make it consistent.
+
+
+============================================================
+ACHIEVEMENT 120118 - Where's My Super Suit
+============================================================
+Description: Perform 100 consecutive Super Jumps to deserve a super reward
+
+[Server] Searo uploaded this achievement.
+
+[notjohn] I hate this
+
+[Nyxondra] I hope it stays here in purgatory forever.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[notjohn] Nooooo
+
+[LilCutieSophia] :gitgud:
+
+[ChronoGear] I finally did it :D
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Reversed2] Why?
+
+[cavsfan2313] Wow, glad I didn't start this playthrough yet.
+
+[woifi] FINALLY! :)
+
+[LeislonJose] If I remember correctly, after the 13th jump, every jump has a 3-frame-window to press the A button. That means you need to hit 87 really precise inputs in a row. Fantastic.
+
+[Lilpaulo3232] This looks like something youd find in a bonus set lol
+
+[Lipe33] this looks like bonus set material yeah, just cause the game gives you a reward for it doesn't mean it has to be an achievement
+
+[cavsfan2313] It's easier said then done of course, but I measured the BPM of his jumps in a video, and it looked to be exactly 80, so if a metronome can be started at the precise time, it should help.
+
+[Glitchy88] I second the notion that just because something is rewarded in game an achievement doesn't need to exist for it, at least not in the bonus set.
+
+[ceettou] After the "Jump the rope 1000 time" in FF IX, this one seem to be just a warm up xD
+
+[metalbubble403] did i ever told you what the definition of insanity is?
+
+[DryIce53] the insanity dont have limits xd
+
+[Kryle] Using RASnes9x, I muted out all audio channels aside from channel 8. You will still hear slight music but you will be able to hear the jump sound effect more clearly. The input delay and me blinking is what kills it for me! xD I'll get it soon!
+
+[Server] Xymjak edited this achievement.
+
+[Daxan] ****! ****! DAMN! ****! FINALLY
+
+[Godzilla22455] Damn oh hell no my worst fear came true they made this a achievement 
+
+[DryIce53] the horrendous sweater strike back xd
+
+[timenoe] Slowly getting better every day...I will get this!
+
+[timenoe] FINALLY! I probably attemped this over 1000 times. To anyone struggling with this, just keep at it. Determination can take you a long way
+
+[bcrew1375] God Almighty, after like 20 hours of practice later, I finally got the damn thing.
+
+[DryIce53] dont give up xd
+
+[supersebbl] I finally did it! I am so happy and although I rage quitted one hundred times I finally did it! It's just a mental thing. Everybody: Keep on! Eventually you'll do it!
+
+[Blankult] Terrible achievement, almost ruined the set. Boring and annoying.
+
+[Spamtec] 2 days of practice, conquered within 30 minutes of starting my attempts for the day. doesn't ruin the set at all. :)
+
+[Spamtec] so many new people getting this who save state ALL of their achievements, stop ruining the white points for people who do it legit :) thanks
+
+[DryIce53] no thanks, i helping those deployers with his chevos using my favorite stuff savestate XD, hardcore doesn't matter xd
+
+[Nyxondra] Who cares if people savestate, it doesn't devalue the true points (hardcore), white points don't matter.
+
+[DryIce53] also enjoy the game is first target of retroarch :D
+
+[Spamtec] Bruh savestating hard achieves is such a hollow victory, whos going to go tell their friends "i got 100 super jumps in smrpg omg!! Oh but i savestated after every jump" nobody. White points also matter for RR and some people like going for those hard achievements. If everyone cared aboug site rank and regular points and nothing but then they would just farm easy achievements in mass amounts, if i got rank 1 like that i would have a super low RR and again thats a hollow victory and not a true example of skill. Wheres the sense of accomplishment?Save stating should not lower white points because the challenge is doing hard stuff legit and the reward is a massive RR increase and plenty of us care about that. Savestates are fine for testing, and casual play, but when there are leader boards its super lame to the people who are here for that competitive element.
+
+[DryIce53] my reason stay on retroarch is: to report missed chevos while I give concrete help to many users,also in sometimes the savestate may cause bug to get chevos,first practique and yet the chevos to progress,also in this chevos...i dont remember who to get this xd,also my target is on nightamare chevos on simple game xd
+
+[Blankult] People can't have fun anymore apparently
+
+[DryIce53] be competitive inst my reason xd i send help in sometimes xd
+
+[Blankult] It's fine dude. As long as you're not breaking any rules or being a jerk it's all good, play however you want.
+
+[DryIce53] thanks my buddy, i hope reached your wish...well i gonna play ps1 mysteries XD, see ya *epic disappeared*
+
+[Spamtec] Not everyone is here for the same reasons. Sorry some people have differing opinions or play games for other reasons like they find fun in competition
+
+[DryIce53] games are games,enjoy without problem if you enjoy this game you are happy xd, competition is pseudo-not-healhy,just be careful in your route :D 
+
+[DryIce53] chill buddy, have many roads to choice,the important stuff is playing many game and help who none know to get the chevos...also being nice too Xd
+
+[Spamtec] Lol digging our heels in, typical. Just cuz you dont care doesnt mean "no one cares" you dont speak for everyone because i know plenty of people who do. But clearly you're the type whos always right huh 
+
+[Spamtec] Yes the ultimate point was that save scumming should not lower white points, as its not a clear indicator of an achieves difficulty. im not going to argue anymore with people who dont get it
+
+[Blankult] Maybe you should complain about how it's implemented to the people responsible for it instead of asking people to not get the cheevo on softcore then proceed to get butthurt because you can't tell your friends how cool you are because the white points got a little bit lower.
+
+[Spamtec] I didnt tell anyone not to do it lol and that was a figure of speech you are too stupid to understand, you seem like the butthurt one at this point. this discussion ended, take care kiddo
+
+[Blankult] Sure dude, you're too cool for me
+
+[Nyxondra] This whole stupid argument got started by someone whining that "too many non hardcore people" are getting the achievement and thus "deflating" the white point amounts by lowering the RR of the achievement, just throwing that out there.
+
+[Nyxondra] Also, the blue point amount is WHAT determines the difficulty of an achievement, not how many people obtained it, jesus christ...
+
+[supersebbl] Yall need to chill down, the "Watch the opening demo movie" achievement is way harder anyway.
+
+[RAdmin] Since a few days people share a video how to slowdown RetroArch to get this achievement easier. We want to point out that this is an emulator exploit and therefore counts as earning achievements on unintended ways aka cheating. Using this method results in getting Untracked and sharing the link breaks the user rule to not share cheating methods.
+
+[DaniloZlatan] Very difficult and very challenging, I'm a veteran in RPG sets, even so I'm surprised by the challenge, it's very questionable if this cheevo shouldn't be part of a bonus set, anyway I see that the dev put a lot of love into it.
+
+
+[bcrew1375] As absolutely grueling as it was, I'd say it's justified as part of the official set because it is recognized in the game and you DO get a reward for it. One of the most painful achievements I ever got.
+
+[DryIce53] and the super horrendous sweater you get on monstro town,have nice stats but heh hard to get the item and chevos xd
+
+[dragonskull1057] So just curious, haven't started this set yet but is this one awarded as soon as you get 100 jumps or once you turn it in for the reward?
+
+[bcrew1375] It'll pop the second you get 100.
+
+[Nyxondra] Obviously it wouldn't be the "turn in for the reward" part since that would open it up to exploitation.
+
+[dragonskull1057] Alright, thanks bcrew for the answer. Andrevus no it isn't obvious otherwise I wouldn't ask since some other games have challenges like this where it IS upon turn in for reward.
+
+[Nyxondra] Most of the time (unless it's mistakenly ommited) the achievement will state whether it is turn in or not. As i said if it were otherwise it would open it up for exploitation, like gaining 100 jumps with softcore, saving, restarting in hardcore and popping the achievement at the NPC. Obviously the devs want to avoid that.
+
+[dragonskull1057] That's fine. The only reason why I asked though is because it mentioned the reward in the description. Had it just said "Perform 100 consecutive Super Jumps." then I wouldn't ask but since it mentioned the reward it left it available as a possibility. Just wanted to make sure what point I should be looking for it to pop when I did get around to the game
+
+[Searo] Sorry for the confusion, I added the last part more as a way to let people know there is a reward in-game for doing 100 jumps but I can see how it would be confusing. Also as a side note for the above comment about softcore RR, I updated the site to no longer count softcore earns in the calculation so that isn't an issue anymore.
+
+[RetroSprites] Adding my opinion to this discussion: I think the achievement does deserve to be in the set, as bcrew1375 said above: "I'd say it's justified as part of the official set because it is recognized in the game and you do get a reward for it". With all that said, I think the best thing to do with the achievement is (if it costs too much) is to use saves or slow down the game BUT, the player must do this only to get a better idea of how to do the achievement. in "Hardcore". If the player has input lag... then, I totally defend the idea that he use saves, since it would not be his fault, but rather it would be the fault of his keyboard, controller, pc, etc. So this can ruin the "Mastered" of the game, so if the player can't do it because of those problems, it's best to complete it until the player have another keyboard, control or pc, after that the player will be able to master the game.
+
+[RetroSprites] Gracias por el apoyo, bro.
+
+[CD701] Essa conquista é desumana mas não impossivel
+antes de conseguir 100 saltos eu fiz 98 e depois disso demorei mais de 5 dias pra chegar a 100
+
+[CD701] But the feeling of doing something that very few people have done is rewarding, but this achievement is not worth platinum but for those who have the pleasure of
+platinum a game is worth it
+
+[Kryle] Went from 68 to 85 after a day or two. My heart started beating rapidly and I lost concentration. Ooof! Edit - Now 92 tops! AGHH!!
+
+[Spamtec] Searo the real MVP even if it doesn't matter anymore
+
+[Tabbysas] Never before have I held a deep concentration for as long as during the winning try. After a certain point Super Jump just turns into meditation.
+
+also god bless run-ahead for making this achievement actually doable for me :p
+
+[bcrew1375] It's intense. At 60 frames per second and 3 frames for the input after 13 jumps, you essentially have to react within 1/20th of a second 87 TIMES IN A ROW.
+
+[TindalosKeeper] Holy crap... When I felt bad doing 65 jumps, I come and do the 100 jump one next morning in a fit of rage, like something snapped inside of me, lmao.
+You need to time your jumps every 80 BPS or so (Beats per second).
+With the help of a metronome, you can train yourself in the art of getting perfect jumps this way!
+A speedrunner gave me the timing and I managed to pull it off.
+Wow!
+Just be warned, it's at around 80 BPM... Might be a tad little bit earlier or later, but you should be trained enough to do it in-game.
+If you need any more info, don't hesitate in PM'ing me.
+I'll be happy to help you out.
+Good luck! :)
+
+[TindalosKeeper] Also, for the newcomers, the moment you level up to 10, you can start attempts right away. But I'd suggest waiting until you can do 3 attempts per reload or so.
+
+[Meatbro] I used to play  kaizo mario maker a lot and doing a lot of shell tricks which usually has a 2-3 frames windows too. I was extremely concistant at it after a year. So the hard part for me here was to find where the frames window was and than i got it dyring the next hour.
+
+[supersebbl] Just continue trying, eventually you can get it. If you can get to 30 Jumps you can get 100 jumps! The Timing is always the same :D I am so proud that I finally did it after 20 years of playing this game. Thanks Achievement!
+
+[sulpemago] Depois De Quase 1 Ano Eu Finalmente Consengui é Muito Complicado E Eu Só Consegui Agora Por Causa Da Opção de mudar A Região do Console se não eu não iria conseguir
+
+[sulpemago] Para aqueles que se perguntam como a região do console que o toya acima tá falando funciona seguinte no retroarch existe uma opção chamada region console NTSC vem para jogos americanos e japoneses e dentro dessa opção os jogos rodam a 60hz que podemos chamar de 60 fps
+E PAL que é para jogos europeus e rodam a 50hz ou 50 fps
+Mudando para PAL fazer os 100 pulos fica mais fácil mais não totalmente fácil
+
+[Mia] Just chiming in here to reinforce that if you can regularly get past the 13th jump then you CAN get this achievement. It will most likely take a bit of grinding and a lot of focus, but you can do it. 
+
+I tried practicing on multiple enemies (goomba, spikey, artichoker)and what worked best for me is getting a group of 3 goombas in Mushroom Way and super jumping on the middle goomba because it is the lowest on the screen. I watched for Mario's right foot and when it was in the goomba's face thats when I pressed the button. Goombas were easiest for me because of this tell. Enemies that don't move are supposedly best but things like Artichoker have a hard tell of when Mario is actually landing on them.
+
+Recommend getting the EarlierTimes item in Seaside Town via frog coins to make this grind a lot more bearable. What it does is reset the fight including any enemies you killed and FP you used, so it really helps on not having to find another trio of goombas or going back to heal FP. Also having a party where Mario goes first (Mario, Bowser, Mallow) to save you having to defend with an ally is really nice. All these little things add up in saving a lot of time in the long grind.
+
+Worth noting that I got it 3rd try on a fresh morning, so if you're feeling burnt out on grinding maybe it's best to take a break and come back later. Good luck!!!
+
+[Server] Layton edited this achievement's badge.
+
+[leonox2335] Got it yesterday.
+
+Some tips from the "100 Super Jumps Guide" on GameFAQs that really helped me:
+
+Green Piranha Plant in Bean Valley: In the section where the Shy Fairy waters the plants, you can get a encounter with two Green Piranha Plants, the leftmost is really low on the screen that Mario doesn't fully leaves the screen after each jump.
+
+Pressing the button pretending that I was manually controlling Mario's jump (holding the button to make him ascend) helped me into getting the timing, just tapping the button most likely will make you push it earlier and fail 90% of the time.
+
+Counting: I'm counted the jumps like 35-35-30, I knew if I did 30-30-30-10 jumps like the guide recommended I would choke on the last 10 jumps :p
+
+Good luck!
+
+[Searo] I'm excited to do this again for the remake when it comes out :)
+
+[bcrew1375] @Searo I think you might be a masochist.
+
+[Loemon] 3h training and I did it. Nice !
+
+[Tabbysas] One tip I can give which really helped me personally is to try doing this against a Machine Made; since they use a more quiet battle theme, you can more easily use the constant 1-up sounds as a metronome of sorts.
+
+[AlexanderZ640] Yeah as much as a love this game, I ain doing this 🧑‍🦯
+
+[starlite] Took forever to do, but finally got it. Never have to do that again.
+My strategy was to do it on the bottom-right Tentacle in the first phase of the King Calamari boss fight. It barely moves in its animation, and it’s low enough that mario’s body is onscreen for the entire jump.
+
+[HydroBobOmb] I just got it. Thanks to TindalosKeeper who said the rhythm of the jumps is at 80 BPM, I used a metronome and I noticed one thing : the jumps are indeed around this beat, but the time Mario spend to starting the super jump seems to be around one beat AND A HALF. The problem is how to start from a good point.
+
+So, I used a metronome of 160 BPM and I tried to start the super jump on this beat. If did correctly, Mario will be pretty much aligned on the beat when bouncing on the enemy and reaching the peak of his jump.
+It was very helpful for me. To have an audio cue is good instead of focusing purely on a visual cue, which is pretty tiring (just blinking my eyes screwed me a lot). 
+
+Maybe using a 160 BPM metronome can help you too. The thing is to have a good cue of when you are at the middle frame of the 3 frames window. There is no strict setup to align the beat on this specific frame, but if you got it, it can carry you and save your energy (like avoiding to stare at one point of the screen).
+
+[cicco] Finally did it after a week of grinding, don't give up you can do it.
+If you can't do more than 13 jump try checking your latency settings, this helped me immensely.
+
+It took me a lot of practice to do this so what I did to minimize the time loss was to grab a bunch of royal syrup and jump on a spikey without jump shoes equiped so that I would do 0 damage and i could stay in battle as long as I wanted. You don't need to count how many jumps you do since the game will prevent you from doing more than 100 so you just need to go for as long as you can focusing on the timing only. If you can do more than 13 jumps it means you are on the right path and you just need to grind more. The longer you grind the more you get used to the timing and you will start to feel the weight of each jump less and less, today's 40 jumps will feel like yesterday's 30 jumps and tomorrow's 50 jumps will feel like today's 40.
+
+I used both a visual and an audio cue that worked for me, now this might not work for you but I'll explain so you can test if it works.
+-As a visual cue I looked below the spikey's right eye, that area is where you will see mario's left foot at its lowest, what worked for me was pressing the button when i saw mario's foot.
+-As an audio cue when the 1-up sound plays you have to press the button just after the first note, this is what worked for me, it took me a long time to get used to this but after you get used to it you can use it as a sort of metronome.
+
+You will get tired grinding for this so you need to take pauses for as long as you need, what I noticed is that I was more performing in the first few attempts than the later.
+
+Good luck with these achievement, keep on grinding and don't give up, you can do it.
+
+[linkerx14] What latency settings are people using for this?  I'm on RetroArch and I've had the most success with most things at 0 and no run-ahead.  My score so far is still pretty abysmal at 37.  Seems like I have a long road ahead.
+
+[linkerx14] I got the god run and my PB jumped from 43 to 100.  I set the audio latency to 0 and I aimed for right between the first two notes of the 1-Up jingle.  Good luck to everyone going for this!  It seems the biggest buff you can give yourself is coming back after a good night's sleep
+
+[CainMX] https://youtu.be/unfvVzv-DWY
+
+[CharlessV] This is really hard, when I pass the 40 jumps, I become aware that I need to blink and breathe, and it messes up my timing jajaja
+But thanks to the guy who recommended the metronome, my record is 62, I will get it soon
+
+[bcrew1375] @CharlessV I literally went into a trance and let my eyes go out of focus getting this. It probably took me as long as everything else in the game.
+
+[KrowCatiel] (edit) Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+
+This might not be of any use, but in order for me to get this, I had to change a setting in my Nvidia control panel. I noticed, using retroarch FPS counter that my fps wasn't consistent at 60, it would go from 60 to 62 and I understand the math behind it, but I found it weird that when I would get into my "rhythm" I had inconsistent results.  Dropping jumps at 30, 55,78,etc.
+
+I loaded up Nvidia control panel, went to application management, and set the refresh rate to be forced at "60". After restarting retroarch, the FPS counter was showing a static 60fps with the occasional 60.01. 
+
+From there I was able to get 95 super jumps and then my next attempt I was able to get the 100 required.
+
+I'm unsure if this was just placebo effect and I needed to vent at something, but after that change I was able to get it.
+
+(Also, I tried locking the FPS using retroarch video settings, but it wouldn't stick to 60 the same way the Nvidia control panel was making it stick)
+
+Happy hunting!
+
+[cosa123] I can't do it anymore I've gotten this on og hardware and on switch remake but I can't do it the frame rate kills my run every time.  I get close it skips a frame 85 90 who cares it gets me sooner or later.
+
+It's not even consistent if it decides to dip or speed up a bit.
+
+[cosa123] Omg it happened stable frame rate. Big thanks to krow Nvidia kept it stable
+
+
+============================================================
+ACHIEVEMENT 5881 - Ready for the Worst
+============================================================
+Description: Have every character reach level 30
+
+[Server] televandalist edited this achievement.
+
+[wedgordo] Opcional!
+
+Local: Land's End.
+
+https://youtu.be/YTLQgjUSmEA
+
+[Server] Layton edited this achievement's badge.
+
+[tontogoldstein] If you've already used up all the stars in the game like I had, just stand under the falling Yaridovich clones near the end of the game. They give 60 exp and die in 2-3 turns.
+
+[Hostis] With Yaridovich, the grind wasn't too bad indeed. The Exp. Booster is a must, though. I bought it as soon as I could
+
+
+============================================================
+ACHIEVEMENT 5915 - Flower Power Wizard
+============================================================
+Description: Max out your FP at 99
+
+[Server] televandalist edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional!
+
+Local: Rose Town.
+
+https://youtu.be/dBgKG_3GMZQ
+
+[StingX2] Seaside town after its saved
+Buy regular mushrooms in bulk
+Then go next door to the mushroom hippie dude he will then take your donation of shrooms
+He will usually give nothing but he will occasionally give you Rock Candy (great for breaking the game) and flower tabs. You can do this to get to 99 within an hour with the power of fast forward
+
+[Server] Layton edited this achievement's badge.
+
+[Spagg] Followed StingX2's advice but I also sold my entire inventory beforehand (after making a save) to be able to carry 29 mushrooms on each go. Then after getting the achievement I reloaded the save to get my original inventory back (having 99 FP isn't that meaningful so it was a fine compromise). 
+Doing it this way took less than 20 minutes, starting from roughly ~80 FP.
+
+
+============================================================
+ACHIEVEMENT 5914 - Frog Coin Collector
+============================================================
+Description: Acquire 100 Frog Coins
+
+[thiagojsantos] pode gastar ou tem que chegar a 100?
+
+[Misa] scale the cliff
+
+[Scaramanga] Voce tem que coletar as 100 moedas primeiro, antes de comecar a gastar. / You have to collect the 100 coins first, before you start spending.
+
+[blackwayve] you can get most of these with the bridge crossing minigame then get what your missing with treasure chest/ finding them randomly to make this easy as jam
+
+[Meatbro] jumping on the weedle on forest Maze 10 times isnt that hard when you understand the trick
+
+[JohnnyEagle] This mean having 100 at once, or having collected 100 over the course of the game?
+
+[Scaramanga] It does not have to be at once, it may be throughout the game, however you have to collect the total of 100 to achieve the achievement. Once you get it, then you can spend it. That's because you do not count the ones you took and spent.
+
+[Server] televandalist edited this achievement.
+
+[SpaceRaton] If you complete the "scale the cliff" minigame in under 11 seconds, the prize is 5 frog coins, can be repeated.
+
+[lucaslaguiar] Crossing the bridge for me was very easy, you get 4 coins for every 3 times you cross it on "Extreme". You just have to jump on the right side of the board and jump forward, the bullets won't hit you. 
+
+[GAMERJET] You have to have 100 frog coins on the menu screen in one single instance to unlock this. 
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[Server] Searo edited this achievement.
+
+[wedgordo] Opcional! 
+Eu fiz esse troféu repetindo o minigame da Sky Bridge. Ao termina-lo será premiado com 4 frog coins.
+
+https://youtu.be/emBf7hSp5fY
+
+[Server] Layton edited this achievement's badge.
+
+[raulblz] I bet slot game on Grate Guy's Casino (I already have 94 playing the game and doing other achievements)
+
+[rockman4140] I earned 25some frog coins via the bridge game. Just go for 1 to 1 if you can't pull off the right side lineup, you'll pretty much be able to clear level 1 reflexively after 10 or so. The "double or nothing" is a trap; while you can theoretically save yourself 6 course attempts, at maximum you could only screw up twice at level 3 and then you'd be in the same attemps as 1 to 1 earners.
+
+[Cassievania] A quick way to grab frog coins with no skill whatsoever is in Belome's Temple at Land's End.
+
+When you get to the fortune faces, hit them RIGHT, LEFT, CENTER to get a frog coin most of the time at the chest down the pipe. Backtrack and repeat the process.
+
+If you're low on regular coins, hit them RIGHT, CENTER, LEFT to get 100 coins.
+
+Each run takes about 20 seconds if you're fast-forwarding.
+
+[Bouchart] There's a guy in the Marrymore Hotel who will give you 10 frog coins in exchange for the Bright Card.  You can use this to get your last 10 coins, then either buy the card back from him for 15 frog coins, or reset the game.
+
+
+============================================================
+ACHIEVEMENT 147258 - Quick to Flee
+============================================================
+Description: Defeat an elusive Shy Ranger
+
+[Server] Searo uploaded this achievement.
+
+[Server] "Searo" promoted this achievement to the Core set.
+
+[DryIce53] locations: pipe vault,if have problems.
+
+[wedgordo] Is this trophy part of history?
+
+[DryIce53] submission of history, you want now or lately anyways is a target.
+
+[wedgordo] Thanks, DryIce53!  I'm just on the alert about trophies that can be lost.  Do you have any tips on what they are?
+
+[Searo] Search for [m] in the achievement list they are all marked
+
+[wedgordo] What valuable information. Thanks, Searo!
+
+[DryIce53] well go for it and good luck to find the terrible weapons: big shield, super suit and medallion of the knight of vanda...really is a terrible task fit in yo skill xd
+
+[wedgordo] Thanks gentlemen!  Is it just me or are you also unable to send a message?  I tried to talk to Searo and it doesn't send.
+
+[DryIce53] dont worry send message on me and you have a radar to get the chevos :D,just put the name of chevos and I send the locations, well i gonna sleep for another day, remember if you stuck i gonna help you with hints xdd
+
+[wedgordo] I managed to follow them both but the messages are not sent.  
+I got your message Searo, I've been trying to reply for a while haha.  
+I use the site on my smartphone, I didn't understand the issue of the duplicated browser tab.
+
+[DryIce53] i dunno but push my frog face and press message and done :D
+but is ok in your road shape,go for it and keep it up xdd
+
+[wedgordo] Opcional!
+
+Em Pipe Vault enfrente a primeira flor do cano (Piranha Plant) que ver.
+Obs: minutos 4:15 à 4:24
+
+https://youtu.be/O_48UjJU3Ak
+
+[vincinoman] Use the "feather" accessory you get from Dodo in NimbusLand to make the ranger stay.
+
+The only way I was able to get him was to give Geno the Feather and use regular attack with the Star Gun. You need to kill him on the first hit or he runs. Speed stat is what makes him stay, so Geno with the Feather gets the job done. I was unable to kill him without the Star Gun from Bowser's Castle, though, to do enough damage in one hit to finish it.
+
+[DrxD] Here's a trick to get this one early on without out speeding the shy ranger if you are low level the shy ranger will fight you, not sure what lvl it starts running away at, you can use a yoshi cookie on the shy ranger to eat him at about a 25% chance and it does trigger the achievement. I myself just got this one using the ol yoshi cookie, it did take about 8 tries, the trick is with the encounter is if you fail run away and then refight instantly it will spawn him again if he is NOT there u can take the pipe to the next area warp back and it will change the fight RNG and you'll have a chance to encounter him again. I hope this helped someone!
+
+[Server] Layton edited this achievement's badge.
+
+[raulblz] I beat him with Mario lv 17: Lazy Shell, Fuzzy Shirt and Attak Scarf (with normal attack)
+Attack Scarf is pretty good, but you able to do 30 super jumps to gain
+Also I have Geno lv 16 with: Hand Cannon, Fuzzy Cape and Feather, but him missed attack.
+
+[miwa] I killed it with Geno level 23 with Star Gun, Star Cape and Troopa Pin
+
+[Hostis] Princess Peach with Pan and Feather. One shot, done. Much easier than with Geno
+
+[mirawit] The Shy Ranger wont run away if its inflicted with a status effect. So if you get Geno (with feather equipped) to use a bad mushroom on him and he gets poisoned he wont run away which will allow you to kill it easily you can get one from using a Yoshi cookie on an amanita (the spinning mushroom with cartoon hands) or chewy (a piranha plant with different colors)
+
+[SeventhPower] Sleepy Bomb also works well, too.
+
+[Server] Searo edited this achievement's title.
+
+[ThatGuy1414] They can spawn with the Piranha Plants in the "Pipe Vault"

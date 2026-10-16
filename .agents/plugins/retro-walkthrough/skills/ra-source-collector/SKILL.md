@@ -9,6 +9,7 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
 
 ## Steps
 
+0. **RetroAchievements guide:** `rw:fetch` (Stage 1) already registers the official RA achievement guide as source `ra-guide` when the game has one on the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) (from the RA API's `guideUrl`, else a wiki page that links the game). Check its output line: if it lists *similarly named wiki pages* instead, open them and, if one is this game's guide, register it with `npm run rw:ra-guide -- <id> --url <page url>`; if it reports a guide outside the wiki, collect that URL with `rw:collect`. The RA guide is short and achievement-focused, so it does not replace the full walkthroughs below.
 1. Read `01_achievements.json` for the exact title, console, and genre.
 2. Discover available guides, visual maps, and checklists using the discovery helper:
    ```powershell
@@ -16,7 +17,7 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
    # Or directly inspect a GameFAQs /faqs page (lists text guides AND maps):
    npm run rw:find-guides -- --url "https://gamefaqs.gamespot.com/.../faqs"
    ```
-   Search (use `search_web` or `rw:find-guides`) for complete walkthroughs. Target **at least 3 independent substantive sources (>=10k chars)** when they exist, in this priority:
+   Search (use your web search tool or `rw:find-guides`) for complete walkthroughs. Target **at least 3 independent substantive sources (>=10k chars)** when they exist, in this priority:
    1. GameFAQs full walkthroughs (prefer "Complete"/high-rated, plain-text, 100% / "Walkthrough" in title). Two different GameFAQs authors count as independent.
    2. Neoseeker walkthroughs, StrategyWiki, game-specific Fandom wikis (walkthrough pages, not just item lists).
    3. Steam guides (if the game is on Steam), RetroAchievements forum topics for the set.
@@ -33,7 +34,7 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
    - **Tier 4 (Fallback Search):** If Tiers 1–3 yield no maps, run targeted web queries:
      `"<Game Title>" <platform> ("dungeon map" OR "world map" OR "level map") (png OR jpg OR atlas)`
      or check **The Spriters/Maps Resource** (`vg-resource.com`).
-   Register all discovered maps using:
+   Browse these atlases and wikis with `npm run rw:browse -- "<url>" --links --grep "<game>"` (headless browser, works where fetch tools are blocked). Register all discovered maps using:
    ```powershell
    npm run rw:collect -- <id> "<map_url_or_page>" --id map-<area> --site "<site_name>" --title "<Area> Map" --author "<author>" --kind map
    ```
@@ -43,10 +44,32 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
    ```
    - GameFAQs: pass the guide URL (or the game's `/faqs` page to auto-pick the best text guide).
    - Multi-page guides (Neoseeker, wikis): first page normally, then each additional page with `--id <same> --append`.
-   - If a site blocks the script, fetch the page with `read_url_content`, save the **unaltered** text to `scratch/`, then register it with `--file <path>`. Never retype, summarize, or "clean up" source text.
+   - `rw:collect` always downloads through a real headless Chrome browser (Playwright), never through the agent's own fetch tool. See **Blocked Sites** below.
+   - Never retype, summarize, or "clean up" source text.
    - Id convention: `gf1, gf2, neo1, sw1, wiki1, steam1, raforum1, map-<area>, checklist-<topic>`.
 5. Open the start of each downloaded file to confirm it is the real guide (not a cookie wall, TOC-only, or wrong game). Delete and re-collect if not.
 6. Run `npm run rw:chunk -- <id>` and report the source table it prints.
+
+## Blocked Sites (Headless Browser Required)
+
+Many guide and map sites (GameFAQs above all, but also wikis, map atlases, and fan sites) block AI agents and their fetch tools (`read_url_content` in Antigravity, `WebFetch` in Claude Code). They do not block a real browser. The pipeline scripts drive a headless Chrome browser for exactly this reason, on **any** site:
+
+| Need | Use (headless browser) |
+|---|---|
+| Download a guide, wiki page, or checklist (any site) | `npm run rw:collect -- <id> "<url>" --id … --site … --title …` (GameFAQs URLs use the GameFAQs downloader; all other sites use the generic browser extractor) |
+| Read any page to find guides, map pages, or checklists (non-GameFAQs sites: VGMaps, StrategyWiki, Mario Universe, Fandom, Neoseeker, franchise archives …) | `npm run rw:browse -- "<url>"` (page text) |
+| List a page's links, e.g. a VGMaps atlas or a wiki map category | `npm run rw:browse -- "<url>" --links --grep "<game or area>"` |
+| List a game's GameFAQs guides and maps | `npm run rw:find-guides -- --url "https://gamefaqs.gamespot.com/<platform>/<game>/faqs"` |
+| Find a game's GameFAQs page | `npm run rw:find-guides -- "<game title>"` |
+
+`rw:browse` prints only; it never saves. Download the pages you choose with `rw:collect`, and register map image URLs it lists with `rw:collect … --kind map`.
+
+Rules:
+1. **Always download source text with `rw:collect`.** Never use an agent fetch tool to obtain the text of a guide, even when it appears to work: fetch tools may summarize or reformat pages, which breaks verbatim quote verification in Stage 5.
+2. **If a fetch tool is blocked or returns an error, captcha, "access denied", or a summary on any site,** switch to the headless-browser commands above (`rw:browse` for reading/discovery, `rw:collect` for downloading). Do not treat the site as unavailable until the headless-browser command has also failed.
+3. **If `rw:collect` itself fails** (timeout, Cloudflare challenge, "suspiciously short" error), retry it once. If it still fails, open the start of any saved output to see what came back, report the site and the error to the user, and move on to another source. Do not substitute fetch-tool output.
+4. Agent web search and fetch tools remain fine for **discovery only** (finding candidate URLs, authors, and titles on sites that allow them); the content itself still comes through `rw:collect`. Web search itself is not site-blocked; if a result page is blocked, open it with `rw:browse`.
+5. Map sources (`--kind map`) are registered by URL without downloading text, so they work on any site.
 
 ## Rules
 

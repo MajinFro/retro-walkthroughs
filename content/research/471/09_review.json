@@ -1,0 +1,112 @@
+{
+  "reviewed_at": "2026-10-16",
+  "scope": "Adversarial review of all 21 files (overview + 20 chapters) against 05_verified.json, 05_resolutions.json, raw guides and ra-comments.txt; deterministic QA re-run after each fix round.",
+  "beginner_friendliness": 86,
+  "notes": "Room-by-room routing with map links in every area, all 39 hidden boxes routed in the chapter where they occur, every missable warned before its trigger, and exact puzzle solutions (Sunken Ship PEARLS password, Booster portraits 4-5-3-6-2-1, Forest Maze left-left-straight-right, curtain chart, Six Door rooms). Friendliness is held back by 81 'Unable to verify' notes and many honestly reported source disagreements (box contents, HP figures, Bright Card win count) that a first-time player must weigh.",
+  "issues": [
+    {
+      "id": "R1-1",
+      "severity": "critical",
+      "category": "achievement placement",
+      "status": "fixed",
+      "file": "08_chapters/20.md",
+      "description": "Hidden Treasure Hunter (5880) and Big Finale (147260) were tagged twice in chapter 20 (inline tags inside WARNING/CAUTION callouts). Removed the inline tags; each is now placed once."
+    },
+    {
+      "id": "R1-2",
+      "severity": "critical",
+      "category": "achievement placement",
+      "status": "fixed",
+      "file": "07_roadmap.json",
+      "description": "Hidden Treasure Hunter was planned for chapter 18, but box #39 is in the Gate (chapter 20). Moved the achievement to chapter 20 before chapters 18-20 were written."
+    },
+    {
+      "id": "R1-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "description": "16 statements were marked '(passage only)' with no fact citation (Mack tactics, Shyster rewards, Cricket Pie errand). Packet rebuilt with location aliases; every statement now cites a verified fact, and three unsupported asides were removed."
+    },
+    {
+      "id": "R1-4",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "description": "Overview hedged that the Bright Card might never be recoverable. Per 05_resolutions.json (gf2-45-4 rejected), it now states the Marrymore buyer sells it back for 15 Frog Coins (checklist-secrets-34-10, ra-comments-115-10), while still advising to keep it until the casino achievements are done."
+    },
+    {
+      "id": "R1-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/18.md",
+      "description": "Culex prerequisite said the Fireworks price was unverifiable; now cites the 500-coin price (gf1-49-20, ra-comments-33-1) per the resolutions file."
+    },
+    {
+      "id": "R1-6",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "description": "Mushroom Way left-plateau Flower and ? Box refill cited a neighbouring fact (gf1-27-8). Now cite gf1-27-9 and gf1-27-10, which state them."
+    },
+    {
+      "id": "R1-7",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/12.md",
+      "description": "Chapter 10 tells the player to retry the Beetle Mania Game Boy purchase in chapter 12 if the Inn kid will not sell yet, but chapter 12 never mentioned it. Added a TIP in the chapter 12 Mushroom Kingdom detour (gf1-95-4, gf2-43-6, ra-comments-46-3)."
+    },
+    {
+      "id": "R1-8",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "05_resolutions.json",
+      "description": "Resolution for Learn the Rhythm claimed 'bet on Yoshi and watch' avoids the race; that comment is filed under Yoshi Juiced and is about farming cookies. Corrected the resolution. Chapter 6 already (correctly) says watching is not confirmed to count."
+    },
+    {
+      "id": "R1-9",
+      "severity": "minor",
+      "category": "hardcore",
+      "status": "fixed",
+      "file": "08_chapters/04.md, 08_chapters/18.md, 08_chapters/00_overview.md",
+      "description": "Removed a community tip to practise Midas River with save states (not allowed in Hardcore) and reworded two Hardcore notes."
+    },
+    {
+      "id": "R1-10",
+      "severity": "minor",
+      "category": "route",
+      "status": "fixed",
+      "file": "08_chapters/03.md, 08_chapters/19.md",
+      "description": "Roadmap areas 'Mack's throne room' and 'Six Door challenge (Bowser's Keep)' were not named; headings updated so the route maps 1:1 to the roadmap."
+    },
+    {
+      "id": "R1-11",
+      "severity": "minor",
+      "category": "depth",
+      "status": "fixed",
+      "file": "08_chapters/06.md, 08_chapters/08.md",
+      "description": "Two one-step sections ('The mailbox', 'The Switch') were flagged as sparse; merged into the surrounding step lists."
+    },
+    {
+      "id": "R1-12",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/09.md, 08_chapters/19.md",
+      "description": "Verified the two extra Point of No Return callouts the writers added: leaving Marrymore (gf1-56-1, ra-comments-45-1) and entering the Gate after Exor (gf1-95-2, gf1-95-3, gf1-96-1). Both are source-backed; kept."
+    },
+    {
+      "id": "R1-13",
+      "severity": "minor",
+      "category": "checkpoint",
+      "status": "fixed",
+      "file": "08_chapters/02.md-17.md, 19.md",
+      "description": "Cumulative checkpoints contained drafting notes (\"Chapter 8's file was not available\", \"assumes ...\"). Rewrote every checkpoint with the canonical running totals (1/99 ... 99/99 achievements, 779/779 points, 39/39 hidden boxes) and kept a citation in each."
+    }
+  ]
+}

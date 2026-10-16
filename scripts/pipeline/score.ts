@@ -8,7 +8,23 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { type Chunk, type SourceEntry, type VerifiedFact, gameIdArg, paths, readJson, readJsonl, requireFile, writeJson } from "./lib.ts";
+import {
+  type Chunk,
+  type SourceEntry,
+  type VerifiedFact,
+  chapterInputFiles,
+  chunkProgress,
+  compressRanges,
+  fingerprintFiles,
+  gameIdArg,
+  loadFacts,
+  loadSkipped,
+  paths,
+  readJson,
+  readJsonl,
+  requireFile,
+  writeJson,
+} from "./lib.ts";
 import { type Roadmap } from "./graph.ts";
 
 interface Review {
@@ -82,10 +98,24 @@ const blockers: string[] = [];
 if (overall < 90) blockers.push(`overall ${overall}% < 90%`);
 for (const [k, v] of Object.entries(scores)) if (v < 80) blockers.push(`${k} ${v}% < 80%`);
 if (qa.errors.length) blockers.push(`${qa.errors.length} deterministic QA error(s)`);
+// Stage 4 completeness across every source, including ra-comments (which source_coverage above ignores)
+const { bySource, unprocessed } = chunkProgress(readJsonl<Chunk>(P.chunks), loadFacts(P.factsDir), loadSkipped(P.factsDir));
+if (unprocessed.length)
+  blockers.push(
+    `${unprocessed.length} unprocessed chunk(s) (${[...bySource].filter(([, v]) => v.todo.length).map(([s, v]) => `${s}: ${compressRanges(v.todo)}`).join("; ")}) — finish Stage 4`,
+  );
 const crit = open.filter((i) => i.severity === "critical");
 if (crit.length) blockers.push(`${crit.length} open critical review issue(s)`);
 
-const result = { generated_at: new Date().toISOString(), scores, overall, verdict: blockers.length ? "REJECTED" : "ACCEPTED", blockers };
+// fingerprints of what this score was computed from, so rw:status can flag a stale score or review
+const chapterNs = roadmap.chapters.map((c) => c.n);
+const inputs = {
+  qa: fingerprintFiles([P.qa]),
+  review: fingerprintFiles([P.review]),
+  verified: fingerprintFiles([P.verified]),
+  chapters: fingerprintFiles(chapterInputFiles(P, chapterNs)),
+};
+const result = { generated_at: new Date().toISOString(), inputs, scores, overall, verdict: blockers.length ? "REJECTED" : "ACCEPTED", blockers };
 writeJson(P.score, result);
 console.log(`Final score for game ${id}`);
 for (const [k, v] of Object.entries(scores)) console.log(`  ${k.padEnd(22)} ${String(v).padStart(3)}%`);

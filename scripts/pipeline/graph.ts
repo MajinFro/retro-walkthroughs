@@ -41,8 +41,29 @@ export interface Roadmap {
   fact_ids?: string[];
   missables: { achievement_id?: number; label: string; deadline: string; chapter: number; fact_ids: string[] }[];
   ponr: { label: string; chapter: number; warning: string; fact_ids: string[] }[];
-  chapters: { n: number; title: string; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string }[];
+  /** chapter.counters: how many of each tracked collectible the chapter collects; totals here (e.g. {"Hidden Treasure Boxes": 39}) */
+  counter_totals?: Record<string, number>;
+  chapters: { n: number; title: string; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number> }[];
   unverifiable_achievement_ids?: number[];
+}
+
+/** Running totals for a chapter's Cumulative 100% Checkpoint, computed from the roadmap (writers must not count by hand). */
+export function checkpointTotals(r: Roadmap, n: number, achs: { id: number; points: number }[]) {
+  const upTo = r.chapters.filter((c) => c.n <= n);
+  const pts = new Map(achs.map((a) => [a.id, a.points]));
+  const achIds = upTo.flatMap((c) => c.achievement_ids);
+  const counters = Object.entries(r.counter_totals ?? {}).map(([name, total]) => ({
+    name,
+    done: upTo.reduce((s, c) => s + (c.counters?.[name] ?? 0), 0),
+    total,
+  }));
+  return {
+    achievements: achIds.length,
+    achievements_total: achs.length,
+    points: achIds.reduce((s, a) => s + (pts.get(a) ?? 0), 0),
+    points_total: achs.reduce((s, a) => s + a.points, 0),
+    counters,
+  };
 }
 
 const NODE_KINDS = new Set(["area", "boss", "npc", "item", "key_item", "quest", "achievement", "missable", "ponr", "save_point"]);
@@ -117,6 +138,13 @@ export function validateRoadmap(r: Roadmap, g: Graph, usable: Set<string>, achs:
     if (p.chapter < 1 || p.chapter > maxCh) errors.push(`PONR "${p.label}": bad chapter ${p.chapter}`);
     if (!p.fact_ids?.length) errors.push(`PONR "${p.label}": needs fact_ids`);
     for (const f of p.fact_ids ?? []) if (!usable.has(f)) errors.push(`PONR "${p.label}": fact ${f} unusable`);
+  }
+  const totals = r.counter_totals ?? {};
+  for (const c of r.chapters)
+    for (const k of Object.keys(c.counters ?? {})) if (!(k in totals)) errors.push(`chapter ${c.n}: counter "${k}" is not in counter_totals`);
+  for (const [k, total] of Object.entries(totals)) {
+    const sum = r.chapters.reduce((s, c) => s + (c.counters?.[k] ?? 0), 0);
+    if (sum !== total) errors.push(`counter "${k}": chapters add up to ${sum} but counter_totals says ${total}`);
   }
   for (const a of achs.filter((x) => x.type === "missable"))
     if (!r.missables.some((m) => Number(m.achievement_id) === a.id))

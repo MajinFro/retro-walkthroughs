@@ -7,7 +7,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { chapterMermaid, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMermaid, checkpointTotals, type Graph, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -25,6 +25,8 @@ import {
   keyTerms,
   writeJson,
   exists,
+  fingerprintFiles,
+  qaInputFiles,
   type SourceEntry,
 } from "./lib.ts";
 
@@ -49,6 +51,10 @@ const sourceLines = new Set<string>();
 for (const c of chunks) for (const l of c.text.split(/\r?\n/)) if (l.trim()) sourceLines.add(l.replace(/\s+$/, "").trim());
 
 const placements = new Map<number, string[]>();
+const texts = new Map<string, string>(); // tag -> chapter text, for cross-chapter checks
+const DRAFTING_RE =
+  /\b(?:was(?:n't| not) (?:available|provided)|(?:the|this|my) (?:writer )?packet|chapter \d+'s file|I (?:will|would|assume|don't have|do not have|cannot see)|as an AI|assum(?:e|ing) (?:that )?(?:the )?(?:previous|earlier|prior) chapter)\b/i;
+const CHECKPOINT_RE = /(cumulative\s*(100%|progress)\s*checkpoint|true\s*100%\s*checkpoint)/i;
 const m = {
   chapters_expected: roadmap.chapters.length + 1,
   chapters_present: 0,
@@ -91,6 +97,12 @@ function audit(file: string, chapterN: number | null) {
   // placeholders / leftovers
   if (/\b(TODO|TBD|FIXME)\b|\[INSERT|lorem ipsum/i.test(text)) errors.push(`${tag}: contains placeholder text (TODO/TBD/[INSERT…])`);
   if (/save[\s-]?state/i.test(text)) warnings.push(`${tag}: mentions save states (not allowed in hardcore)`);
+  // writer drafting notes and uncited markers that leak into the published guide
+  const drafting = text.match(DRAFTING_RE);
+  if (drafting) errors.push(`${tag}: contains a drafting note ("${drafting[0]}") — the walkthrough must not talk about files, packets or other chapters' drafts`);
+  const passageOnly = (text.match(/\(passage only\)/gi) || []).length;
+  if (passageOnly) errors.push(`${tag}: ${passageOnly} "(passage only)" marker(s) — every statement must cite a fact id (add the fact to 04_facts/ first)`);
+  texts.set(tag, text);
 
   // code blocks
   let inCode = false;
@@ -241,9 +253,20 @@ function audit(file: string, chapterN: number | null) {
   }
 
   // True 100% Checkpoint check
-  const hasCheckpoint = /(cumulative\s*(100%|progress)\s*checkpoint|true\s*100%\s*checkpoint)/i.test(text);
+  const hasCheckpoint = CHECKPOINT_RE.test(text);
   if (hasCheckpoint) {
     m.chapters_with_checkpoints++;
+    // running totals must match the roadmap (the packet gives the exact numbers)
+    const cpAt = lines.findIndex((l) => CHECKPOINT_RE.test(l));
+    const cp = lines.slice(cpAt, cpAt + 30);
+    const t = checkpointTotals(roadmap, chapterN, ach.achievements);
+    const am = cp.find((l) => /retroachievements|achievements unlocked/i.test(l))?.match(/(\d+)\s*\/\s*(\d+)/);
+    if (am && (Number(am[1]) !== t.achievements || Number(am[2]) !== t.achievements_total))
+      errors.push(`${tag}: checkpoint says ${am[1]} / ${am[2]} achievements but the roadmap gives ${t.achievements} / ${t.achievements_total} after this chapter`);
+    for (const c of t.counters) {
+      const cm = cp.find((l) => l.toLowerCase().includes(c.name.toLowerCase()))?.match(/(\d+)\s*\/\s*(\d+)/);
+      if (cm && (Number(cm[1]) !== c.done || Number(cm[2]) !== c.total)) errors.push(`${tag}: checkpoint says ${cm[1]} / ${cm[2]} ${c.name} but the roadmap gives ${c.done} / ${c.total}`);
+    }
   } else if (roadmap.true_100_criteria) {
     warnings.push(`${tag}: missing Cumulative 100% Checkpoint block (> [!IMPORTANT] ... Checkpoint)`);
   }
@@ -284,6 +307,24 @@ function audit(file: string, chapterN: number | null) {
 audit("00_overview.md", null);
 for (const c of roadmap.chapters) audit(chapterFile(c.n), c.n);
 
+// cross-chapter promises: "come back in Chapter 12 for the Game Boy" must be honoured by chapter 12
+const COMMON = /^(Chapter|Point|Return|Unable|Warning|Caution|Important|Tip|Note|Missable|Achievement|Hardcore|Before|After|When|Then|Once|This|That|There|Your|Make|Come|Back|Talk|Keep|Save|Head|Return|Leave|Enter|Continue)$/i;
+for (const [tag, text] of texts) {
+  const own = tag === "overview" ? 0 : Number(tag.slice(2));
+  for (const s of text.split(/(?<=[.!?])\s+|\r?\n/)) {
+    if (CHECKPOINT_RE.test(s) || /^\s*(#|\|)/.test(s)) continue;
+    for (const ref of s.matchAll(/\bchapter\s+(\d+)\b/gi)) {
+      const n = Number(ref[1]);
+      if (n === own || !texts.has(`ch${n}`)) continue;
+      const names = [...new Set(s.replace(/\[\[[^\]]*\]\]|\[ACHIEVEMENT:\d+\]/g, "").match(/\b[A-Z][a-zA-Z'-]{3,}(?:\s+[A-Z][a-zA-Z'-]{2,})*/g) || [])].filter((w) => !COMMON.test(w));
+      if (!names.length) continue;
+      const target = texts.get(`ch${n}`)!.toLowerCase();
+      if (!names.some((w) => target.includes(w.toLowerCase())))
+        warnings.push(`${tag}: refers to chapter ${n} about ${names.slice(0, 3).join(", ")}, but chapter ${n} never mentions it — "${s.trim().slice(0, 90)}…"`);
+    }
+  }
+}
+
 if (roadmap.format !== "command_steps") {
   const minWordsExpected = m.areas * 100;
   if (m.words < minWordsExpected) {
@@ -309,7 +350,9 @@ for (const c of roadmap.chapters)
   }
 for (const aid of placements.keys()) if (!ach.achievements.some((a) => a.id === aid)) errors.push(`unknown achievement id ${aid} placed`);
 
-writeJson(P.qa, { generated_at: new Date().toISOString(), metrics: m, errors, warnings });
+// inputs fingerprint lets rw:status tell when facts, graph, roadmap or chapters changed after this QA run
+const inputs = fingerprintFiles(qaInputFiles(P, roadmap.chapters.map((c) => c.n)));
+writeJson(P.qa, { generated_at: new Date().toISOString(), inputs, metrics: m, errors, warnings });
 const pct = (a: number, b: number) => (b ? Math.round((a / b) * 100) : 100);
 console.log(`QA for game ${id}: ${m.chapters_present}/${m.chapters_expected} files, ${m.words.toLocaleString()} words`);
 console.log(`  achievements placed correctly: ${m.achievements_placed_correctly}/${m.achievements_total}`);

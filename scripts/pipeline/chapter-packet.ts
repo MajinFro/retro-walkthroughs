@@ -10,7 +10,7 @@
  * The writer must not use anything outside the packet.
  */
 import path from "node:path";
-import { chapterMermaid, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMermaid, checkpointTotals, type Graph, type Roadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -124,6 +124,12 @@ if (which === "overview") {
   if (ponrs.length) lines.push("## ⛔ Points of no return in this chapter (each needs a `> [!CAUTION]` containing the words \"Point of No Return\")", "", ...ponrs.map((p) => `- ${p.label}: ${p.warning} [${p.fact_ids.join(", ")}]`), "");
   const mm = chapterMermaid(graph, ch.areas);
   if (mm) lines.push("## Route diagram (inserted automatically where you write `[MERMAID]`)", "", "```mermaid", mm, "```", "");
+  const t = checkpointTotals(roadmap, n, ach.achievements);
+  lines.push(
+    "## Cumulative checkpoint totals (use EXACTLY these numbers in this chapter's `> [!IMPORTANT]` checkpoint; never write notes about other chapters' files)", "",
+    `- RetroAchievements Unlocked: ${t.achievements} / ${t.achievements_total} (${t.points} / ${t.points_total} points)`,
+    ...t.counters.map((c) => `- ${c.name}: ${c.done} / ${c.total}`), "",
+  );
 }
 
 // ---------------------------------------------------------------------------
@@ -174,4 +180,6 @@ writeText(out, lines.filter((l) => l !== undefined).join("\n"));
 console.log(`Packet: ${title}`);
 console.log(`  ${facts.length} facts, ${chosen.length} source chunks (${MAX_PASSAGE_CHARS - budget} chars)${dropped ? `, ${dropped} chunks omitted for size` : ""}`);
 if (chapterAch.length) console.log(`  ${chapterAch.length} achievements to place`);
+// thin packets mean the writer has nothing to route with (usually graph labels that match no fact location — fix 05_aliases.json)
+if (which !== "overview" && facts.length < 40) console.log(`  ⚠ only ${facts.length} facts — check that the chapter's area labels match fact locations (npm run rw:plan -- ${id} lists unmatched areas)`);
 console.log(`  -> ${path.relative(P.root, out)}`);

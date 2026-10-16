@@ -1,41 +1,88 @@
 {
-  "beginner_friendliness": 95,
+  "reviewed_at": "2026-10-16",
+  "scope": "Full rebuild review after Stage 4 RA-comment re-extraction: all 6 chapter files, cross-checked against cited facts and ra-comments.txt",
+  "beginner_friendliness": 88,
+  "notes": "Clear structure, numbered steps and a full 10-attack string table. Friendliness is held back by 20 'Unable to verify' notes and by several honestly reported community conflicts (6-hit in Arcade vs 2P, 10-hit trigger reliability, emulator differences), which a first-time player must weigh themselves.",
   "issues": [
     {
-      "id": "ISS-1",
+      "id": "R2-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md, 08_chapters/05.md",
+      "description": "Previous build recommended SwanStation, which no source mentions. Removed; emulator notes now cite DuckStation/Beetle PSX/PCSX ReArmed reports from ra-comments."
+    },
+    {
+      "id": "R2-2",
       "severity": "major",
-      "category": "navigation",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "description": "Previous build claimed an Ultra Hard run also satisfies Hand-to-Hand Veteran; ra-comments-76-4 reports doing both at once did not unlock. Now two separate runs."
+    },
+    {
+      "id": "R2-3",
+      "severity": "major",
+      "category": "accuracy",
       "status": "fixed",
       "file": "08_chapters/01.md",
-      "line": 45,
-      "description": "Explicitly named Versus Mode (Combo Practice) area to match knowledge graph node label."
+      "description": "Galaga rule updated: one continue for the entire run after the logic change (older unlimited-continue tips flagged as outdated), double ship only via the 18.5 s stage 1 clear, controller-2 trick does not count."
     },
     {
-      "id": "ISS-2",
+      "id": "R2-4",
       "severity": "major",
       "category": "accuracy",
       "status": "fixed",
-      "file": "08_chapters/05.md",
-      "line": 48,
-      "description": "Clarified that Five Minute Death Punch triggers only after post-game results screen calculations finish."
+      "file": "08_chapters/02.md, 08_chapters/03.md",
+      "description": "Previous build said 6-hit combos could be done in VS Mode and that character Arcade runs need default settings; corrected to Arcade mode (with conflicting 2P reports noted) and Medium-or-higher without character change (Hard, 1 round recommended)."
     },
     {
-      "id": "ISS-3",
+      "id": "R2-5",
       "severity": "major",
       "category": "accuracy",
       "status": "fixed",
-      "file": "08_chapters/05.md",
-      "line": 65,
-      "description": "Documented emulator trigger compatibility for Long Journey marathon recommending Beetle PSX over DuckStation based on RA comments."
+      "file": "08_chapters/00_overview.md, 08_chapters/03.md",
+      "description": "'Defeat Galaga with a minimum of one continue' (gf1 wording) contradicted the at-most-one rule; reworded with gf3-1-2. Removed unsupported claim that All Fighters Ready for Combat! requires Devil Kazuya (ra-comments-12-3 says he is not needed for any other achievement)."
     },
     {
-      "id": "ISS-4",
+      "id": "R2-6",
+      "severity": "major",
+      "category": "checkpoint",
+      "status": "fixed",
+      "file": "08_chapters/01-05.md",
+      "description": "Checkpoints used inconsistent categories, a 470-point total (set is 585), double-counted Heihachi, and showed 1/4 trials before Chapter 5. Standardized on the roadmap's roster / arcade clears / combos / trials with correct cumulative values."
+    },
+    {
+      "id": "R2-7",
       "severity": "minor",
-      "category": "formatting",
+      "category": "accuracy",
       "status": "fixed",
-      "file": "08_chapters/00_overview.md",
-      "line": 42,
-      "description": "Replaced save state wording with general console execution wording to ensure strict Hardcore mode rule compliance."
+      "file": "08_chapters/00_overview.md, 08_chapters/05.md",
+      "description": "Removed unsourced 1995 release year; split a Long Journey sentence that attributed two different players' reports to one person."
+    },
+    {
+      "id": "R2-8",
+      "severity": "minor",
+      "category": "depth",
+      "status": "open",
+      "file": "08_chapters/03.md",
+      "description": "Wang, Lee, Anna and Armor King Arcade sections are thin: collected sources have few character-specific tactics for them beyond their 10-attack strings and general tips."
+    },
+    {
+      "id": "R2-9",
+      "severity": "minor",
+      "category": "depth",
+      "status": "open",
+      "file": "08_chapters/04.md",
+      "description": "No collected source gives Heihachi's Arcade ladder order or boss tactics; the chapter says so rather than inventing them."
+    },
+    {
+      "id": "R2-10",
+      "severity": "minor",
+      "category": "conflict",
+      "status": "open",
+      "file": "08_chapters/03.md",
+      "description": "Heihachi unlock requirements genuinely conflict across sources (no continues / no lost round / under 5:30 / normal character); presented as a list with a 'safest plan'. Cannot be resolved from collected sources."
     }
   ]
 }

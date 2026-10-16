@@ -27,8 +27,12 @@ This verifies:
 - No placeholder tokens (`TODO`, `TBD`, `[INSERT]`) remain.
 - **Item Manifest Requirement:** Every chapter with an item collection achievement has an explicit Item Manifest Table or item checklist.
 - **Format Requirement:** If `roadmap.format === "command_steps"`, every chapter includes numbered `**COMMAND**` steps.
+- **Checkpoint totals** match the running totals computed from the roadmap; no writer drafting notes ("Chapter 8's file was not available", "the packet…") and no "(passage only)" markers.
+- **Cross-chapter promises:** a sentence that sends the player to another chapter ("retry this in Chapter 12") is flagged when that chapter never mentions the subject (warning).
 
-If `rw:qa` reports any errors or warnings, resolve them in `08_chapters/` before proceeding.
+If `rw:qa` reports errors or score-affecting warnings, run `npm run rw:write -- <gameId> --fix`: it revises only the affected chapters with a model call each (draft + findings + packet) and re-runs QA. Do not fix chapters by hand in your own context except for one-line edits; that is the most expensive way to fix them.
+
+The review below is for what the scripts cannot see. Do not re-check what `rw:qa` already checks. When you find a problem, log it in `09_review.json`, then fix it with `rw:write -- <gameId> <N> --fix` (it reads the QA findings) or, for a targeted change the QA does not flag, a short `Edit` of the chapter.
 
 ---
 

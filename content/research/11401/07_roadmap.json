@@ -32,8 +32,8 @@
     ]
   },
   "playthroughs": 1,
-  "playthrough_notes": "Tekken (PS1) is a 3D fighting game where 100% completion requires completing individual Arcade mode campaigns across all characters, practicing combos in Versus Mode or Arcade Mode, clearing the Galaga loading mini-game, and tackling specific difficulty/endurance parameters. No achievements are permanently missable or mutually exclusive, as individual Arcade runs and VS Mode matches can be attempted at any time.",
-  "settings_notes": "Default settings: Difficulty Medium, Round Count 3, Round Time 40. Individual achievements require adjusting Difficulty to Ultra Hard (for 90422/90423) or Round Count to 5 (for 90429).",
+  "playthrough_notes": "Tekken (PS1) is a 3D fighting game where 100% completion requires completing individual Arcade mode campaigns across all characters, practicing combos in Versus Mode or Arcade Mode, clearing the Galaga loading mini-game, and tackling specific difficulty/endurance parameters. No achievements are permanently missable or mutually exclusive, as individual Arcade runs and VS Mode matches can be attempted at any time. Emulator caveats reported by players: Long Journey and some combo achievements may fail to trigger on DuckStation; RetroArch with Beetle PSX or PCSX ReArmed worked (ra-comments-80-3, ra-comments-4-4).",
+  "settings_notes": "Default settings: Difficulty Medium, Round Count 3, Round Time 40. The per-character Arcade achievements only require Medium or higher without changing characters, so Hard with 1 round is allowed and recommended (ra-comments-3-4, ra-comments-4-9). Hand-to-Hand Veteran (90423, Hard or higher) and Hand-to-Hand Expert (90422, Ultra Hard) require default settings; check the round timer is 40, not infinite (ra-comments-76-3). Do a separate Hard run for 90423: one player reports an Ultra Hard run did not award both (ra-comments-76-4). Long Journey (90429) needs Round Count 5 and otherwise default settings (ra-comments-79-3).",
   "fact_ids": [
     "gf1-3-1",
     "gf1-18-2",
@@ -71,11 +71,12 @@
         "ra-comments-8-1",
         "ra-comments-9-1",
         "ra-comments-11-1",
-        "ra-comments-17-1",
+        "gf1-4-5",
+        "gf5-2-1",
         "ra-comments-19-1",
         "ra-comments-38-2"
       ],
-      "notes": "Clear all 8 stages of Galaga with <=1 continue during loading to unlock Devil Kazuya. Establish basic controls, achieve a Perfect victory in Arcade mode, and perform 3-hit and 10-hit combos in VS Mode against an idle 2P controller."
+      "notes": "Clear all 8 Galaga stages with a perfect using at most ONE continue for the entire run (the old unlimited-continue tip is outdated after a logic change); earn the double ship by clearing stage 1 in under 18.5 seconds (the controller-2 trick does not count). Then establish basic controls, earn a Perfect round, and perform the 3-hit and 10-hit combos; the 10-hit is unreliable and character/emulator dependent (Michelle in 2P mode is the most reported working method)."
     },
     {
       "n": 2,
@@ -129,22 +130,16 @@
         "gf4-11-4",
         "ra-comments-22-1",
         "ra-comments-24-1",
-        "ra-comments-26-1",
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1",
         "ra-comments-28-1",
-        "ra-comments-30-1",
         "ra-comments-32-1",
-        "ra-comments-34-1",
-        "ra-comments-36-1",
-        "ra-comments-56-1",
-        "ra-comments-57-1",
-        "ra-comments-58-1",
-        "ra-comments-59-1",
-        "ra-comments-60-1",
-        "ra-comments-61-1",
-        "ra-comments-62-1",
-        "ra-comments-63-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
-      "notes": "Clear Arcade mode on Medium difficulty (default settings, no character change) with each of the 8 base fighters, defeating their Stage 8 rivals to unlock all 8 sub-bosses. Execute each character's signature 6-hit combo during their run or in VS Mode."
+      "notes": "Clear Arcade mode with each of the 8 base fighters on Medium or higher without changing characters (Hard with 1 round recommended), defeating their Stage 8 rivals to unlock the sub-bosses. Earn each character's 6-hit combo achievement IN ARCADE MODE (players report 6-hit achievements do not unlock in 2P/VS mode); for most characters pressing the same punch button 6 times works, otherwise use the 10-attack string."
     },
     {
       "n": 3,
@@ -196,23 +191,18 @@
         "gf5-2-2",
         "ra-comments-15-1",
         "ra-comments-41-1",
-        "ra-comments-43-1",
-        "ra-comments-45-1",
-        "ra-comments-47-1",
-        "ra-comments-49-1",
+        "ra-comments-4-8",
+        "ra-comments-3-6",
+        "ra-comments-5-1",
         "ra-comments-51-1",
         "ra-comments-53-1",
         "ra-comments-55-1",
-        "ra-comments-64-1",
-        "ra-comments-66-1",
-        "ra-comments-67-1",
-        "ra-comments-68-1",
-        "ra-comments-69-1",
-        "ra-comments-70-1",
-        "ra-comments-71-1",
-        "ra-comments-72-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1",
+        "ra-comments-67-1"
       ],
-      "notes": "Clear Arcade mode on Medium difficulty (default settings, no character change) with each of the 8 unlocked sub-bosses. Execute their respective 6-hit combos. Clearing Arcade without continues unlocks Heihachi Mishima, officially completing the entire 17-character roster."
+      "notes": "Clear Arcade mode with each of the 8 unlocked sub-bosses on Medium or higher without changing characters (Hard, 1 round recommended) and earn their 6-hit combos in Arcade mode (Kunimitsu has no 10 string: use the Yoshimitsu-style 7-hit string). Unlock Heihachi to complete the roster: players report he unlocks after a no-continue Arcade clear with one of the 8 starting characters (one report: under 5:30)."
     },
     {
       "n": 4,
@@ -229,10 +219,12 @@
         "gf1-18-4",
         "gf1-18-1",
         "gf3-1-1",
-        "ra-comments-38-1",
+        "ra-comments-38-5",
+        "ra-comments-38-7",
+        "ra-comments-38-9",
         "ra-comments-65-1"
       ],
-      "notes": "Select Heihachi Mishima and conquer Arcade mode on Medium difficulty without changing characters. Perform Heihachi's 6-hit combo or 10-hit string to master the King of Iron Fist."
+      "notes": "Select Heihachi and clear Arcade mode on Medium or higher without changing characters (may need a second clear before it pops). Heihachi's 6-hit: dash, hold the second forward ~1-1.5s, then Triangle and the 10-attack string; to avoid the aggressive AI, lose on purpose with another character and switch to Heihachi via character select on lose."
     },
     {
       "n": 5,
@@ -250,15 +242,18 @@
       ],
       "fact_ids": [
         "gf1-3-1",
-        "ra-comments-74-1",
+        "gf1-20-1",
+        "ra-comments-76-3",
         "ra-comments-76-1",
         "ra-comments-77-1",
         "ra-comments-78-1",
-        "ra-comments-79-1",
+        "ra-comments-79-3",
+        "ra-comments-79-4",
+        "ra-comments-80-3",
         "ra-comments-79-2",
         "ra-comments-80-1"
       ],
-      "notes": "Complete the specialty challenge runs: defeat Arcade on Ultra Hard (also satisfies Hard), execute a sub-5 minute Arcade speedrun using Michelle (10-hit combo cheese) or Lee, and conquer the Long Journey 5-round marathon on Medium+ without continues or character switching."
+      "notes": "Specialty runs with default settings: Hard (90423) and Ultra Hard (90422) as separate runs (Ultra Hard is reported easier than Medium; continues are allowed), the sub-5-minute run (90427; Lee d+4,4,4, Michelle or King 10-hit, Ganryu throw-stomp), and Long Journey (90429; Round Count 5, no continues, no character change; prefer RetroArch over DuckStation)."
     }
   ],
   "unverifiable_achievement_ids": []

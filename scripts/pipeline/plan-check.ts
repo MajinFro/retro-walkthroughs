@@ -5,7 +5,27 @@
  */
 import path from "node:path";
 import { achievementMermaid, chapterMermaid, type Graph, progressionMermaid, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
-import { type AchievementsFile, type VerifiedFact, exists, gameIdArg, paths, readJson, readText, requireFile, writeText } from "./lib.ts";
+import {
+  type AchievementsFile,
+  type Chunk,
+  type VerifiedFact,
+  canon,
+  chunkProgress,
+  keyTerms,
+  loadAliases,
+  compressRanges,
+  exists,
+  gameIdArg,
+  loadFacts,
+  loadSkipped,
+  nextBatch,
+  paths,
+  readJson,
+  readJsonl,
+  readText,
+  requireFile,
+  writeText,
+} from "./lib.ts";
 
 const id = gameIdArg();
 const P = paths(id);
@@ -16,6 +36,14 @@ const ach = readJson<AchievementsFile>(P.achievements);
 const verified = readJson<{ stats: any; facts: VerifiedFact[] }>(P.verified);
 if (verified.stats.conflict > 0) {
   console.error(`⛔ ${verified.stats.conflict} unresolved conflicts in 05_verified.json — resolve before planning.`);
+  process.exit(2);
+}
+// Stage 4 gate: every chunk of every source (including ra-comments) must be processed before planning.
+const { bySource, unprocessed } = chunkProgress(readJsonl<Chunk>(P.chunks), loadFacts(P.factsDir), loadSkipped(P.factsDir));
+if (unprocessed.length) {
+  console.error(`⛔ ${unprocessed.length} chunk(s) have not been processed (no fact cites them and they are not in 04_facts/_skipped.txt):`);
+  for (const [s, v] of bySource) if (v.todo.length) console.error(`   ${s}: ${compressRanges(v.todo)}`);
+  console.error(`Finish Stage 4 first (ra-fact-extractor skill). Next batch: ${nextBatch(id, bySource)}`);
   process.exit(2);
 }
 const usable = usableFactIds(verified.facts);
@@ -34,6 +62,42 @@ if (exists(P.roadmap)) {
   const declared = new Set(roadmap.unverifiable_achievement_ids ?? []);
   for (const a of unsupported)
     if (!declared.has(a)) rErrs.push(`achievement ${a} has no supporting facts — add facts or list it in unverifiable_achievement_ids`);
+
+  // Packet richness: chapter packets pull facts whose location matches an area label (via 05_aliases.json).
+  // An area label no fact location matches gives the writer a thin packet, so catch it here, before writing.
+  const aliases = loadAliases(P.aliases);
+  const usableFacts = verified.facts.filter((f) => usable.has(f.id));
+  const byLoc = new Map<string, number>();
+  for (const f of usableFacts) if (f.location) byLoc.set(canon(aliases, f.location), (byLoc.get(canon(aliases, f.location)) ?? 0) + 1);
+  const nodeById = new Map(graph.nodes.map((n) => [n.id, n]));
+  const locLabels = [...new Set(usableFacts.map((f) => f.location).filter(Boolean) as string[])];
+  for (const c of roadmap.chapters) {
+    const unmatched: string[] = [];
+    for (const a of c.areas) {
+      const node = nodeById.get(a);
+      if (!node || node.kind !== "area" || byLoc.get(canon(aliases, node.label))) continue;
+      const terms = keyTerms(node.label);
+      const near = locLabels
+        .map((l) => ({ l, n: byLoc.get(canon(aliases, l)) ?? 0, hit: keyTerms(l).filter((w) => terms.includes(w)).length }))
+        .filter((x) => x.hit > 0)
+        .sort((x, y) => y.hit - x.hit || y.n - x.n)
+        .slice(0, 3);
+      unmatched.push(`"${node.label}"${near.length ? ` (similar: ${near.map((x) => `"${x.l}" ×${x.n}`).join(", ")})` : ""}`);
+    }
+    if (unmatched.length)
+      rWarn.push(`chapter ${c.n}: ${unmatched.length} area label(s) match no fact location, so the packet misses those areas' facts — use the guides' location name as the label or add aliases to 05_aliases.json: ${unmatched.join("; ")}`);
+  }
+
+  // Achievement placement: an achievement whose supporting facts all sit in areas of OTHER chapters is probably in the wrong chapter
+  const chapterOfLabel = new Map<string, number>();
+  for (const c of roadmap.chapters) for (const a of c.areas) { const l = nodeById.get(a)?.label; if (l && !chapterOfLabel.has(canon(aliases, l))) chapterOfLabel.set(canon(aliases, l), c.n); }
+  const cov = (readJson<any>(P.verified)).coverage as Record<string, { facts: string[] }>;
+  const factById = new Map(usableFacts.map((f) => [f.id, f]));
+  for (const c of roadmap.chapters)
+    for (const aid of c.achievement_ids) {
+      const chs = (cov[aid]?.facts ?? []).map((fid) => chapterOfLabel.get(canon(aliases, factById.get(fid)?.location))).filter((x): x is number => x !== undefined);
+      if (chs.length && !chs.includes(c.n)) rWarn.push(`achievement ${aid} is planned in chapter ${c.n}, but its facts are located in chapter(s) ${[...new Set(chs)].join(", ")} — check the placement`);
+    }
 
   // Mutual-exclusion and lockout check against ra-comments
   const raCommentsFile = path.join(P.sourcesDir, "ra-comments.txt");

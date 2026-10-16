@@ -43,7 +43,7 @@ logger = logging.getLogger(__name__)
 # Constants
 # ---------------------------------------------------------------------------
 RE_URL = re.compile(
-    r"^https?://(www\.)?gamefaqs\.gamespot\.com/.+/faqs/[0-9]{3,8}/?$",
+    r"^https?://(www\.)?gamefaqs\.gamespot\.com/.+/faqs/[0-9]{3,8}(/[\w-]+)?/?$",
     re.IGNORECASE,
 )
 
@@ -89,7 +89,7 @@ _CF_CHALLENGE_INDICATORS = (
 )
 
 # Content selectors, in priority order.
-_CONTENT_SELECTORS = '[id^="faqspan-"], .faqtext, #content, pre'
+_CONTENT_SELECTORS = '[id^="faqspan-"], .faqtext, .ffaq, #content, pre'
 
 
 # ---------------------------------------------------------------------------
@@ -220,6 +220,15 @@ def _extract_content(page: Page) -> FetchResult | None:
             return FetchResult(content=loc.inner_text(), is_html=False)
         logger.info("Found .faqtext (HTML) — extracting outer HTML.")
         return FetchResult(content=loc.outer_html(), is_html=True)
+
+    # 2b. .ffaq — rich-HTML (multi-page) guides. The print view puts every
+    #     page of the guide into one .ffaq block; take the largest.
+    blocks = page.locator(".ffaq").all()
+    if blocks:
+        best = max(blocks, key=lambda el: len(el.inner_text()))
+        if len(best.inner_text().strip()) >= 500:
+            logger.info("Found %d .ffaq block(s) (HTML guide) — extracting the largest.", len(blocks))
+            return FetchResult(content=best.inner_html(), is_html=True)
 
     # 3. Largest <pre> on the page.
     pres = page.locator("pre").all()
@@ -388,7 +397,7 @@ class FAQDownloader:
                         raise FAQDownloadError(f"Search failed: {e}")
                 
                 # If target_url is a base URL (no specific guide ID), find the best text guide
-                if not re.search(r'/faqs/\d+$', target_url.split('?')[0]):
+                if not re.search(r'/faqs/\d+(/[\w-]+)?/?$', target_url.split('?')[0]):
                     if not target_url.endswith("/faqs"):
                         target_url = target_url.rstrip("/") + "/faqs"
                     logger.info("Navigating to FAQ list: %s", target_url)

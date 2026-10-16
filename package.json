@@ -18,16 +18,22 @@
     "rw:status": "tsx scripts/pipeline/status.ts",
     "rw:fetch": "tsx scripts/fetch-data.ts",
     "rw:collect": "python scripts/pipeline/collect_source.py",
+    "rw:ra-guide": "tsx scripts/pipeline/ra-guide.ts",
     "rw:chunk": "tsx scripts/pipeline/chunk-sources.ts",
     "rw:chunks": "tsx scripts/pipeline/show-chunks.ts",
+    "rw:extract": "tsx scripts/pipeline/extract-facts.ts",
     "rw:verify": "tsx scripts/pipeline/verify-facts.ts",
     "rw:plan": "tsx scripts/pipeline/plan-check.ts",
     "rw:packet": "tsx scripts/pipeline/chapter-packet.ts",
+    "rw:write": "tsx scripts/pipeline/write-chapters.ts",
     "rw:assemble": "tsx scripts/pipeline/assemble.ts",
     "rw:qa": "tsx scripts/pipeline/qa-check.ts",
     "rw:score": "tsx scripts/pipeline/score.ts",
     "rw:clean": "tsx scripts/pipeline/cleanup.ts",
-    "rw:find-guides": "python scripts/pipeline/search_guides.py"
+    "rw:find-guides": "python scripts/pipeline/search_guides.py",
+    "rw:browse": "python scripts/pipeline/browse_page.py",
+    "rw:sync-skills": "node scripts/sync-claude-skills.mjs",
+    "rw:crlf": "node scripts/to-crlf.mjs"
   },
   "dependencies": {
     "@google/genai": "^2.21.0",

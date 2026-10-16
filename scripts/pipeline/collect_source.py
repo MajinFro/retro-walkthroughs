@@ -17,7 +17,7 @@ Usage:
     # Multi-page guides: call once per page with --append to build one source
     python scripts/pipeline/collect_source.py <gameId> <page2-url> --id neo1 --append
 
-    # Register text you already saved (e.g. via read_url_content)
+    # Register text you already saved by hand (never agent fetch-tool output; see ra-source-collector "Blocked Sites")
     python scripts/pipeline/collect_source.py <gameId> --file path/to/text.txt --id wiki1 --site Fandom --title "..."
 """
 from __future__ import annotations

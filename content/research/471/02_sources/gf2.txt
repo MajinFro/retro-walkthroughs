@@ -1,0 +1,2834 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-            Super Mario RPG: Legend of the Seven Stars (SNES)          -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+                    Written By: Ryan "MetroidMoo" Ammerman
+
+             GUIDE TYPE ......................... FAQ/Walkthrough
+             FILE SIZE ................................... 134 KB
+             FIRST RELEASED ...................... August 9, 1999
+             LAST UPDATED .................... September 26, 2004
+             LATEST VERSION ................................ 2.16
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<                            TABLE OF CONTENTS                           >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ 1) Version History
+ 2) Story
+ 3) Controls
+ 4) Characters
+ 5) Walkthrough
+ 6) Items
+       [6.1] Expendables
+       [6.2] Weapons
+       [6.3] Armor
+       [6.4] Accessories
+ 7) Shops
+ 8) Enemy/Psychopath List
+ 9) Mini-Games
+10) Secrets
+11) Credits
+12) Contact/Legal Information
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   1)   VERSION HISTORY                                                -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+VERSION 2.16 - SEPTEMBER 26, 2004
+  Updated e-mail address.
+
+VERSION 2.15 - DECEMBER 23, 2003
+  Revised the file's format, and adjusted the number of characters per line.
+
+VERSION 2.05 - OCTOBER 15, 2002
+  Updated contact information and made a few other changes.
+
+VERSION 2.01 - JULY 25, 2001
+  Changed posting notice.
+
+VERSION 2.0 - JUNE 26, 2001
+  Improved the layout of the FAQ and corrected a few errors.
+
+VERSION 1.75 - JANUARY 17, 2001
+  Made some minor changes.
+
+VERSION 1.7 - UNKNOWN
+  Updated legal information and made some small changes.
+
+VERSION 1.68 - UNKNOWN
+  Changed the look of the FAQ a bit.
+
+VERSION 1.67 - UNKNOWN
+  Corrected two mistakes and made some minor layout changes.
+
+VERSION 1.66 - UNKNOWN
+  Changed copyright/legal info.
+
+VERSION 1.65 - UNKNOWN
+  Fixed grammar/spelling errors and updated parts of the guide.
+
+VERSION 1.6 - UNKNOWN
+  Revamped the layout, ran the FAQ through a spell-checker, added "Author's 
+Note" and a "Shops" section.
+
+VERSION 1.4 - UNKNOWN
+  Added "Enemy/Psychopath List" Section and fixed Layout.
+
+VERSION 1.0 - AUGUST 9, 1999
+  First version of the guide.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   2)   STORY                                                          -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Super Mario RPG's story, from the instruction manual...
+
+  One day, while visiting Mario, Princess Toadstool was picking flowers in his
+garden...
+
+  Suddenly, out if nowhere, Bowser appeared and grabbed the Princess again!
+(Like you'd expect anyone else to?)
+
+  Mario hearing Toadstool's scream for help, sped off alone towards Bowser's
+Keep.
+
+  After Mario trounced Bowser for the millionth time (this time they fought on
+one of Bowser's chandeliers), everyone felt Bowser's Keep beginning to shake!
+
+  A HUGE sword crashed into Bowser's Keep! What's gonna happen now?
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   3)   CONTROLS                                                       -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section lists the game's controls.
+
+D-Pad   ->  Move Mario
+
+A       ->  Talk
+            Confirm selection
+            Select Attack in battle
+
+B       ->  Jump
+            Cancel selection
+            Select Etc. in battle
+
+X       ->  Open menu
+            Select Item in battle
+
+Y       ->  (Hold) Run
+            Select Special in battle
+
+L       ->  Switch between Mono/Stereo in file selection screen
+
+R       ->  Same as L
+
+Start   ->  Start game
+
+Select  ->  Same as L
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   4)   CHARACTERS                                                     -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section contains info on the characters and their abilities.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MARIO                                                                >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  The main character and hero of the game. You must always have him in your
+party throughout the entire game. Mario is a fairly good fighter, armed with
+his Lazy Shell, he can cause some major damage! Also his Jump specials are
+very effective if you can time it right. So, he's basically balanced in attack
+and specials.
+
+-----------------------
+Weapons with Timed Hits
+-----------------------
+Punch - Press A before you hit the enemy for another punch.
+Hammer - Before he swings the hammer, hit A for another hit.
+Shell - Just before the shell hits his foot, press A.
+
+--------
+Specials
+--------
+Jump
+Cost: 3 FP
+Description: Jump on an enemy. Hit Y before hitting for more damage.
+
+Fire Orb
+Cost: 5 FP
+Description: Throw fireballs at an enemy. Press Y rapidly to throw more.
+
+Super Jump
+Cost: 7 FP
+Description: Jump multiple times on an enemy. Press Y before landing to
+             execute another jump. If you can keep timing this correctly, you
+             can practically jump forever!
+
+Super Flame
+Cost: 9 FP
+Description: Throw larger fireballs at an enemy. Press Y rapidly to throw more
+             of them.
+
+Ultra Jump
+Cost: 11 FP
+Description: Just like Super Jump, but it jumps on a random enemy.
+
+Ultra Flame
+Cost: 14 FP
+Description: Just like Super Flame, but it has larger fireballs and randomly
+             hits an enemy.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MALLOW                                                               >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Supposedly a "frog," Mallow was raised by Frogfucius. Later on, he learns a
+terrifying secret about his past. His weather-related Specials are very useful
+throughout most of the game. And he can read an enemy's current HP, which can
+help you decide which attack you should use next. Mallow isn't really much of
+a fighter, but he really shines with his special attacks!
+
+-----------------------
+Weapons with Timed Hits
+-----------------------
+Punch - Like Mario, hit A before hitting for another punch.
+Stick - Press A before swinging the stick for another hit.
+Cymbal - Just before they come together for some more 'music'!
+
+--------
+Specials
+--------
+Thunderbolt 
+Cost: 2 FP
+Description: Hit all enemies with thunder. Hit Y before ending to cause more
+             damage.
+
+HP Rain
+Cost: 2 FP
+Description: Restore HP of an ally. Press Y before ending to recover more Hit
+             Points.
+
+Psychopath
+Cost: 1 FP
+Description: Read an enemy's current HP and what they are thinking. Press Y
+             when the cloud appears to read their thoughts.
+
+Shocker
+Cost: 8 FP
+Description: Big bolt of lightning hits an enemy. Press Y when it hits to
+             cause more damage.
+
+Snowy
+Cost: 12 FP
+Description: A big snowman lands on all of the enemies. Rotate the Control Pad
+             to create more damage.
+
+Star Rain
+Cost: 14 FP
+Description: A giant star hits all enemies. Press Y before it hits so the star
+             bounces on the enemy again.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   GENO                                                                 >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Coming from above, Geno takes control of Gaz's doll. He is helping Mario
+collect the Star Pieces so he can repair the Star Road. His base strength is
+pretty high, and a few of his specials are quite useful.
+
+-----------------------
+Weapons with Timed Hits
+-----------------------
+Punch - Like the others, hit A before punching.
+Gun - Press A before firing for more damage.
+
+--------
+Specials
+--------
+Geno Beam
+Cost: 3 FP
+Description: Fire a beam of energy at an enemy. Hold Y until 3 stars appear 
+             for more damage.
+
+Geno Boost
+Cost: 4 FP
+Description: Very useful! Boosts attack power of an ally, hit Y after the
+             arrows disappear to boost defense.
+
+Geno Whirl
+Cost: 8 FP
+Description: Time it right and normal enemies take 9,999 HP damage! Of course,
+             it doesn't work against bosses.
+
+Geno Blast
+Cost: 12 FP
+Description: This attack works well against undead baddies. Hold Y until 3
+             stars appear to cause more damage.
+
+Geno Flash
+Cost: 16 FP
+Description: Another cool attack with a light show! Do the 3 stars thing again
+             for more damage.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOWSER                                                               >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Can it be!? Bowser is fighting with Mario! Bowser lets the team "join" his
+Koopa Troop so he can get his keep back from Smithy. Bowser is a strong
+fighter, but he has the lowest magic power, so you don't use his Specials very
+much. Equipping him with the Jinx Belt makes him an even better because it
+boosts attack power.
+
+-----------------------
+Weapons with Timed Hits
+-----------------------
+Claw - Hit A before swiping at an enemy for another hit.
+Chomp - Just before throwing it, hit A.
+Hurly Glove - Press A before picking up the doll.
+
+--------
+Specials
+--------
+Terrorize
+Cost: 6 FP
+Description: Big Boo comes and can cause Fear to some enemies. Rotate the pad
+             for higher chance of success.
+
+Poison Gas
+Cost: 10 FP
+Description: Toxic gas appears on the enemies and can cause Poison. Rotate the
+             Control Pad for a higher chance.
+
+Crusher
+Cost: 12 FP
+Description: A sharp piece of rock appears under an enemy. Press Y before it 
+             appears for more damage.
+
+Bowser Crush
+Cost: 16 FP
+Description: A giant Mecha Koopa stomps on all enemies. Hit Y rapidly for more
+             damage.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   TOADSTOOL                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  The princess from the Mushroom Kingdom decides to join Mario on his quest. 
+She is very good to have in battle because of her healing specials. Her attack
+power is pretty low, so I would recommend giving her the Lazy Shell armor to
+boost her defense.
+
+-----------------------
+Weapons with Timed Hits
+-----------------------
+Glove - Press A before slapping for another hit.
+War Fan/Parasol - Press A before swinging for another hit.
+Pan - Before swinging, press A for ANOTHER hit! (What a surprise... =P)
+
+--------
+Specials
+--------
+Therapy
+Cost: 2 FP
+Description: Restores HP and Status of an ally. Press Y before it ends for
+             more HP.
+
+Group Hug
+Cost: 4 FP
+Description: Same as Therapy but on all allies! The healing amount is slightly
+             lower than Therapy though.
+
+Sleepy Time
+Cost: 4 FP
+Description: Puts some enemies to sleep. Rotate the pad for a higher chance.
+
+Come Back
+Cost: 2 FP
+Description: Revives and restores 1/2 HP of fallen ally. Press Y when the star
+             hits the character for full HP.
+
+Mute
+Cost: 3 FP
+Description: Can Mute enemies. Rotate the Control Pad for a longer effect.
+
+Pysch Bomb
+Cost: 15 FP
+Description: Press Y rapidly to drops tons of bombs on all enemies!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   5)   WALKTHROUGH                                                    -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section guides you through the game.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOWSER'S KEEP                                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Make your way through the keep until you reach the room filled with
+Terrapins. Jump and dodge you way through them and at the door you fight four
+of them. One punch is enough to take one out, so you shouldn't have much of a
+problem. In the room with the chandeliers, you can find Bowser and the
+Princess tied up. When you fight him, aim for the chain called Kinklink. Hit
+it a few times, and it will lose grip of the chandelier. Just when Mario is
+about to get the Princess, a giant sword appears and lands in the keep! This
+sends Bowser and Toadstool in different directions. Mario ends up back at his
+house...
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MARIO'S PAD                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Talk to Toad and save your game before revisiting Bowser's Keep. The giant
+sword that landed in the keep destroys the bridge! Now what will Mario do? Go
+back to his house and talk to Toad. He mentions that you should visit the
+Chancellor at Mushroom Kingdom. Go to the exit and Mario bumps into Toad. He
+teaches you about Items and Timed Hits and he gives you 4 Mushrooms. Exit the
+area and head to Mushroom Way.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MUSHROOM WAY                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  This is a good area to practice your skills in battle. Along the way, you
+can find Toad trapped by an enemy. Free him by fighting the enemy and doing 
+so gets you a reward. If you need to rest, visit Mario's house. At the end of 
+the area, Toad is trapped by the Hammer Bros. Before fighting them, build your
+levels to 2 or 3 and then take them on!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Hammer Bros.                                                     HP: 50
+
+  You face two of them. Two Jump specials can take one out, so use it on one
+of 'em. The remaining Brother will use "Valor Up" which increases his defense.
+Use any FP leftover on the Jump attack, then bash him with normal ones. If
+your HP gets low, use a Mushroom.
+
+EXP: 6                       Coins: 20                      Items: Flower Jar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Once you defeat them, a Hammer is left on the ground. Equip it to boost
+Mario's attack by 10, then head into the kingdom.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MUSHROOM KINGDOM                                                     >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you enter here, go to the Item Shop for some things and talk to the
+people. Then go to the castle where Toad is waiting for you and follow him to
+the Chancellor. The Chancellor gives you a Map and tells you to go to the
+vault. Talk to the guard and he teaches you about Coins, Flower Points, and
+Mushrooms found in treasure boxes. 
+
+  Exit the castle, and a crocodile steals a coin from someone. Talk to the 
+person he stole it from to find out that it's Mallow from Tadpole Pond. Mario
+joins him to get the coin back from Croco. Go to the shop and get the armor
+for Mallow. Then talk to the guard who keeps jumping. He says he saw the
+person who stole the coin, and then Croco runs out of the kingdom. Go and
+follow him to Bandit's Way.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BANDIT'S WAY                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  You chase Croco throughout this area. This is the first area where you use
+this level up trick! Go where there is a star in a treasure box but don't use 
+it. Save before using it, then you can open the box and get the star. Once 
+you are done using the star, die in battle. Then you appear back where you 
+saved but with all your levels and EXP! Also the star will still be in the
+box. So you can do this as much as you like. Use the trick here until your
+levels are at least 4. In the last area, Croco goes into hiding. Sneak up
+behind him three times and you fight him.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Croco                                                           HP: 320
+
+  He has a weakness to fire, so use Mario's Fire Orb to cause some damage.
+When you hit him with fire, he doesn't attack for a turn or two. Have Mallow
+stay in Defend and have him heal, and use items when needed. His bomb attacks
+cause 10+ damage, so watch out! When his HP is low, he uses "Weird Mushroom"
+which recovers 60 HP. Eventually, Mallow punches Croco and gets the coin back.
+
+EXP: 8                        Coins: 10                     Items: Flower Tab
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Mallow now has his Frog Coins back! You also find a Wallet left behind by
+Croco. Hop on the Warp Trampoline and go to Mushroom Kingdom.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MUSHROOM KINGDOM                                                     >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you get back, a dark cloud has appeared in the area and Shysters are
+scaring everybody! Defeat the Shyster chasing the man near where you came in
+and give him his Wallet. He gives a Flower Tab in return. For another Tab,
+enter the house to the far left from where you came in and beat the Shysters
+inside. The family gives you the item. 
+
+  After eliminating the Shysters, go into the castle. Save Toad and he goes 
+into the next room. Beat the enemies there and next room after that. Then you
+get another Flower Tab and he tells you that the Chancellor is still in the
+throne room! Go back to the Vault and take the items there. Go into the nearby
+room and talk to the person there. He gives you a Wake Up Pin. Now, build your
+levels to about 5 or 6 and then head to the throne room. There you meet Mack
+which is the person causing the havoc around here. Since he doesn't want you
+to stop him, you have to deal with him!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Mack / Bodyguard                                           HP: 480 / 30
+
+  This guy isn't that hard. Use Mallow's Thunderbolt to get rid of his minions
+for a little while, then have Mario use Super Jump on him once if you have it.
+Have Mario do regular attacks while Mallow heals/uses items. His Bodyguards
+come back eventually, but now as soon you get rid of them, they come back so
+just ignore them.
+
+EXP: 12                       Coins: 20                           Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Once you beat him, you get a Star Piece, which you learn more about later.
+Mallow suggests going to his Grandpa in Tadpole Pond, but first head back to
+the Item Shop to get the item Mallow wanted earlier with his Frog Coin. Then
+leave and head to Kero Sewers.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   KERO SEWERS                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  This area introduces swimming and using pipes. Enter the pipe and save your
+game. This area is confusing, so listen carefully. From the Save Block, go
+into the nearby pipe in that room. From that one, go down and enter the pipe
+there. From there, go right and jump over the Rat Funk that's on the ledge and
+enter that pipe. In that room, hit the "!" Switch to drain the water. Go back
+through the pipe you came and enter the pipe that was underwater. Now you
+should be in the area that was above the "!" Switch. Enter that pipe and you
+land right in front of Belome. Before fighting him, build your levels to
+about 7. 
+
+  If you search the pipe near the underwater one, you can find a treasure box 
+with an enemy in it called Pandorite. Beating him will get you a Trueform Pin, 
+which will help against Belome. Equip the pin with Mario, and go fight Belome.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Belome                                                  HP: 500
+
+  Beat him like the other bosses. He's weak to Thunder, so use as much as you
+can. At one point in battle, he uses the "S'crow Funk" attack which turns
+Mario into a scarecrow if you don't have the Trueform Pin equipped! Then he
+swallows Mallow, turning the battle into a one-on-one fight. Use Mario's
+normal and special attacks and use a Mushroom if his HP is low. Eventually,
+he spits Mallow back out, ending the battle.
+
+EXP: 15                   Coins: 40                       Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  When you beat him, water comes gushing out...sending the team into the Midas
+River mini-game. Two caves on the waterfall contain a Flower in them. After
+completing the waterfall, you go the barrel jumping event. You don't need to
+collect a lot of coins for now, but you can if you want. For more info on this
+mini-game, check out the "Mini-Games" section. After beating that, the guy
+there gives you a Noknok Shell, so equip it now and head to Tadpole Pond.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   TADPOLE POND                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Go straight ahead and step on the stone block to talk to the tadpole. Then
+Frogfucius comes. Go across the pond to his sanctuary and talk to him. He
+explains about what happened at the keep earlier and about someone named
+Smithy who causing the trouble around the world. Then he says that Mallow
+isn't a tadpole and now he must search for his real parents. Afterwards, talk
+to him again and hand over the Cricket Pie from the Mushroom Kingdom. He gives
+you Mallow's first weapon, the Froggie Stick. Before you go, head over to
+right to visit Melody Bay. Toadofsky needs your help with his music, so play
+this tune:
+
+
+                 ------------------------------------------
+                          (3)
+                 ----------------(4)---------(6)-------(8)-
+                                      (5)       (7)
+                 ------(2)---------------------------------
+
+                 -(1)--------------------------------------
+
+                 ------------------------------------------
+
+
+  Playing this melody will get an Alto Card, which can get you more items in
+the Juice Bar in this area. Now leave and go to Rose Way!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   ROSE WAY                                                             >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  In the first area you use the yellow tiles to move around. Going to the
+upper-left area, you can get a Frog Coin in a Treasure Box. Use the tiles to
+go to the upper-right area. After passing through there, use these tiles to
+get to the lower-right section. Here you can find Shyguys on top of Treasure
+Boxes. Four of them contain 5 coins while the other one has a mushroom in it.
+If you exit and come back to this section, the chests are refilled! In the
+next area, you find Bowser and his Koopa Troop. Bowser can't get back into his
+castle, but he's trying to find a way. Continue on and enter Rose Town.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   ROSE TOWN                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Looks like someone is busy shooting arrows at the townspeople. But these 
+arrows freeze the person they hit! Enter the Inn to find a kid playing with
+his toy Mario, Bowser and Toadstool dolls. Mario decides to play with him. Gaz
+ends up shooting Mario with the gun from the Geno doll, causing Mario to
+collapse and waking up in bed. Meanwhile, a spirit takes control of the Geno
+doll and leaves the town. Gaz says he saw Geno go into Forest Maze!
+
+  Before you go, visit the shops and buy some supplies. In the corner of the
+town, a man is left out of his house. Jump on his head and go in the house 
+and hit the "!" Switch. If you want, you can take the 2 Flowers in the boxes.
+The man tells to go Left, Left, Straight, Right in the "maze" area of the
+forest. Now exit and go to Forest Maze.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   FOREST MAZE                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Throughout this area are Mushrooms, you can pick up some to use in upcoming
+battles. But some come to life and attack you! Here's another neat trick. When
+you enter here, go to the first Wiggler. If you can jump on him 10 times (not
+in battle), you get one Frog Coin along with 10 coins! Keep going through the
+forest until you reach an area with a bunch of tree trunks. Enter the one at
+the far end and jump on the sleeping Wiggler. Now you have access to another
+area. Keep going until you reach a Save Block. Now save your game and enter
+the maze area. If you follow the directions you were told at Rose Town, you
+can find a hidden entrance to a treasure room. BUT follow the directions from
+Mario's perspective! For more info on it, check the "Secrets" section. Follow
+Geno through this area. 
+
+  After following him, you should be where the guy shooting the arrows is.
+Before you go in there, build your levels to least 8. When you enter, one of
+Bowyer's Flunkies finds a Star and Geno comes in. They fight and Mario and
+Mallow decide to help Geno out.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Bowyer                                                          HP: 720
+
+  Use Geno's special attack for now while Mario should use normal attacks and
+Mallow does the usual. Then Bowyer has trick up his sleeve...when an arrow
+hits Y, X or A, you can't use that command! Geno is pretty weak at this point,
+so watch his HP level.
+
+EXP: 20                        Coins: 50                     Item: Flower Box
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Now, Geno explains about the Star Pieces and Star Road. He joins you to get
+all the stars back so he can repair Star Road. Before spending 50 coins on a
+weapon for Geno, go to Rose Town and talk to Gaz. He gives the Finger Shot for
+him. Now head to Pipe Vault.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   PIPE VAULT & YO'STER ISLAND                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Going through this area allows you to reach Yo'ster Isle, home of the
+Yoshis! Here, you can play a Goomba Thumping game. You can play if you want a
+Flower Tab or Jar. Beware of Chompweeds in the area, you lose 2 coins each
+time you are hit! Once get through here, you get to the island. Mario meets
+his old pal, Yoshi. Talk to him and hop on. Now, you need to race Boshi. Talk
+to the pink Yoshi near where you came in and he gives you some Yoshi Cookies.
+Talk to Boshi so you can race him. To gain speed in the Mushroom Derby, you
+need to alternate A and B to the beat of the music. 
+
+  After beating him, all the Yoshis are able to race together, and Yoshi gives
+you 3 Yoshi Cookies. Time to move onto Moleville.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MOLEVILLE                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  As usual, hit the shops and buy supplies. Go to the mountain to see Bowser
+and his very small Koopa Troop. Then talk to the moles at the mountain. They
+say that a star crashed into the mountain and trapped two kids! Go inside and
+enter the coal mines. Hop on the trampoline inside and Mario faints. Croco
+then steals all your coins! Chase him through the area. Before fighting him,
+fight his minions and after each battle you get a Flower Tab. When you are
+ready, keep chasing him and run into him.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+MINI-BOSS: Croco                                              HP: 750
+
+  He isn't that difficult. Mario and Geno should use normal attacks while
+Mallow goes into Defense and heals. Geno's and Mario's normal attacks usually
+inflict about 50 HP, so this battle shouldn't take long. Croco's bomb attacks
+can cause a fair amount damage, so watch what you do. After sustaining about
+340 HP damage, Croco steals your items! When he does that, have all 3
+characters attack him.
+
+EXP: 10                    Coins: 50                      Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  After the battle, you get back your items and coins. He leaves behind a
+Bambino Bomb. Go deeper into the mine and talk to the mole. Mario gives him
+the bomb, and it blows up the wall. You can find another star here, so use the
+trick to build your levels to 10. Save your game at the block and enter the
+room. Here is where you find Punchinello. To fight him, jump on him or
+approach from the side, otherwise he knocks you back.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Punchinello                                            HP: 1200
+
+  Have all characters attack him with normal attacks. When the bombs come in,
+just ignore them and concentrate your attacks on Punchinello. Each time he
+takes a certain amount of damage, he increases the sizes of bombs which causes
+more damage when they hit you. After you beat him, he makes a big bomb fall
+that ends up landing on him!
+
+EXP: 0                     Coins: 0                        Item: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  After the battle, you find another Star Piece. Go through the hole in the
+wall and you find Dyna trying to push a trolley car. Mario gets it going and
+you start the mini-game. Just complete it for now. For more info on this
+mini-game, check out the "Mini-Games" section. The cart drops through the roof
+of the home of Dyna. Exit the house and the Snifits mention of "The princess
+from the sky". That might be Toadstool... Exit Moleville and go to Booster
+Pass. Also, if you want the Tenor Card at Tadpole Pond, go to Melody Bay and
+play this:
+
+
+                   ----------------------------------------
+                    (1)
+                   ---------------------(5)----------------
+                         (2)       (4)                 (8)
+                   ----------------------------------------
+                                             (6)  (7)
+                   -----------(3)--------------------------
+
+                   ----------------------------------------
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOOSTER PASS & BOOSTER TOWER                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you enter here, examine the second bush for a Frog Coin. In the second
+area of Booster Pass, you can find a Flower in the corner. There is a hidden
+switch in the second area if you want to eliminate the enemies in the holes.
+At Booster Tower, you find Bowser there. And Toadstool is at the top of the
+tower! When Bowser leaves, try to open the door and leave. Then he comes back
+and knocks down the door. He lets you "join" his Koopa Troop. Enter the tower.
+
+  The tower isn't very difficult to navigate, but there are some goodies that
+can be missed. If you go straight ahead into the room from the start you can
+find a teeter-toter with a Bob-omb on it. If you jump on it from high above,
+the Bob-omb sends Mario into the air and you can get the Masher weapon. When
+you find the "!" switch, hit it and a cave appears at Booster Pass. In there,
+you find three boxes containing a Flower, Frog Coin, and a Kerokero Cola. Some
+point in the tower, you run into a room with the pictures of the Booster
+generations, but they are mixed up. Flip the pictures in this order: 4-5-3-6-
+2-1. Doing so gets you the Elder Key, which unlocks the nearby door. In that
+room, you get a weapon for Bowser, the Chomp. In the room with the coins on
+the floor, there is the Room Key. Be careful where you walk because you can
+run into a battle with an enemy called Fireball. Get the key and unlock the
+door. Inside is a treasure box with the Zoom Shoes. 
+
+  Once you reach the final room, try to open the door to rescue the Princess. 
+Mario can't open it and Booster is coming, so he hides behind the curtains. 
+Booster wants his Mario doll and he can't find it, so he makes the Snifits 
+search behind the curtains.
+
+  If you don't get caught, jump up to get the doll back to him. He then gives
+you an Amulet as a reward. If you get caught three times you must fight him!
+Try not to get caught because this is a very hard battle.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Booster / Snifits (Optional Boss)                         HP: 800 / 200
+
+  When you start the battle, to damage Booster you have to take out the 3
+Snifits. Stick to normal attacks on the Snifits because they usually Silence
+your party. Booster has a weakness to jump attacks, so have Mario use Super
+Jump on him when you can. His Loco Express attack can cause 70+ HP damage to
+an ally, and his Spritz Bomb can cause 45+ HP damage to one ally!
+
+EXP: 22                       Coins: 145                       Item: Mushroom
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Afterwards, head the balcony and you run into Knife Guy and Grate Guy.
+Here's another boss!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Knife Guy / Grate Guy                                     HP: 700 / 900
+
+  Each of them a weakness. Grate Guy is weak to thunder, while Knife Guy is
+weak to fire. So focus your attacks on one of them and keep doing that. Then
+they stand on each other. Still do the same and one of them should disappear
+soon. Then finish off the other one.
+
+EXP: 30                        Coins: 25                     Item: Flower Jar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Now Mario runs to Booster Hill.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOOSTER HILL & MARRYMORE                                             >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  On Booster Hill, you chase Booster and Princess to Marrymore. Each time you
+reach the Princess, she gives you a Flower so try to get a many as you can.
+When you reach Marrymore, go to the shops as usual. At the Hotel, if you spend
+a certain amount of times at the Suite, you can get some good items. The catch
+is that each time you stay there, it costs 200 coins! Talk to someone near the
+chapel, and Raz and Raini come flying out! It turns out that Booster is inside
+ready to marry Toadstool. 
+
+  Enter the chapel from the back and go through the room to the Snifit. He's 
+going to warn Booster, but he can't knock the door down. Run at the same time 
+with him at the door to open it. In the next room, run at the same time with 
+Bowser to open the door. When you get inside, Toadstool's wedding gear lands
+in different spots around the room. Get the shoes, ring and brooch from the 
+Snifits, and the crown is found on Booster's head. While you do this, candles 
+light up. If you collect everything and talk to Booster when there two pairs 
+of candles, the Princess will kiss Mario. Otherwise, Bowser and Booster will 
+kiss Mario! The chefs aren't too happy that you are taking away the bride 
+after making that big cake. So it's another fight...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Bundt / Raspberry                                         HP: 800 / 600
+
+  Ignore Torte and attack the cake. The cake moves and after it moves a few
+times, Torte gets scared and runs off. This when the cake attacks the party.
+Bundt is weak to jump attacks, so you know what to do. Have Mario use his Jump
+attacks, while the other two use normal ones. After a while, the top of the
+cake vanishes and you must fight Raspberry. He is no different from Bundt
+besides attacks. Then the Snifits come in and Booster eats the cake.
+
+EXP: 25                        Coins: 0                            Item: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  With the Princess rescued, head back to Mushroom Kingdom. When you get back,
+go talk to the Chancellor. Exit the castle and Toadstool comes floating down
+with her umbrella. She now joins the group! Mallow suggests you visit
+Frogfucius for where to go next. Talk to him and he says a large star has been
+sighted at Star Hill. So head on over!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   STAR HILL                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  In this area, you can find a Star Piece lying around on the ground. From the
+start, go left and "talk" to the flower to open the star door. To pass through
+each area, you must talk to all the flowers. Also talk to the stars with a
+face on them to see what someone has wished. Two of them involve Mallow and
+there's even one with Luigi! In the fourth section you can find the star in
+the upper-right corner. Also if you use a Yoshi Cookie on Mukumuku, you get a
+Muku Cookie! Then go through the star door and go to Seaside Town.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   SEASIDE TOWN & SEA                                                   >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  The townspeople sure are acting weird... Talk to the town elder at the other
+end and he says he wants to get a star that fell into the sea. Now head to the
+Sea! A Shaman is selling some things there, so buy what you need. Here's
+another time to use the star trick! Use it to build your levels to 13 or
+higher. Once you get out of the cave, jump into the water and use the whirl-
+pool to go underwater. Go to the sunken ship's mast and go down the top like a
+pipe. Now you should be in the Sunken Ship.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   SUNKEN SHIP                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Most of the enemies are undead, so bring Pure Water and use Mallow's
+Thunderbolt against Dry Bones. Just keep going until you reach an area with a
+bunch of doors with a Greaper in front of it. In each room is a puzzle and if
+you solve the puzzle, you get a clue to the ship's password. You need to know
+the password to continue on.
+
+--------
+1st Room
+--------
+  You must make the Paratroopa hit the cannonball so it hits the switch. Lure
+him to the back and make him go forward.
+
+--------
+2nd Room
+--------
+  Hit the switch to stop the Trampoline. When you stop all three, a cannonball
+comes and bounces on them. You may need to do this a few times to see where
+you should stop the trampoline so the ball lands on it.
+
+--------
+3rd Room
+--------
+  The hardest puzzle! You must make your way through a 3-D Maze. Just jump and
+walk inside to get around.
+
+--------
+4th Room
+--------
+  Chase and collect the coins! If you touch the coin that is laying other
+coins out, you lose.
+
+--------
+5th Room
+--------
+  Hit the switch to fire a cannonball. When it is under the next switch, hit
+the ball so it bumps the switch. Keep repeating.
+
+--------
+6th Room
+--------
+  Jump on the barrel whose color is different from the others. Jump on it
+again to roll it. Roll it onto the switch and then hit the other one.
+
+  With all the clues, you should get the password: PEARLS. In the next room,
+you hit the switch until the letter you want is highlighted. The order of the
+switches a U shape, so remember that when entering letters. Then speak the
+password to the pipe near the door. Before you go, you can fight Dry Bones in
+the room between the puzzles so you can build your levels to 16+. Mallow can
+usually wipe out the entire group with his Thunderbolt. Make sure you have
+Mario, Princess and another character in your party before you enter the door.
+When you go through, you face a boss...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: King Calamari / Tentacles                           HP: 800 / 200 / 260
+
+  Before you fight King Calamari, you must fight two groups of three
+tentacles. All of their weak points is fire. Have Mario use fire attacks while
+Toadstool heals and the other attacks. The tentacles can throw a character out
+of battle, causing Fear to that person when they come back--even if they are
+wearing a Fearless Pin! When you finally reach the squid, destroy the
+tentacles and attack him. He is also weak to fire. Mario's Super Flame can
+cause 250+ to him, which makes this a very easy battle.
+
+EXP: 34                        Coins: 100                         Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Near the Save Block in this area of the ship, there is another treasure box
+with an enemy inside called Hidon. Beating him gets you a Safety Badge. In the
+water room with the Bloobers, there is a hidden door behind the barrels.
+Inside is a box with a Safety Ring in it. After that room, you encounter some
+pirates. Use Thunderbolt to beat them. Head to the upper deck to meet Jonathan
+Jones. If you want the Star from him, you have to fight him...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Jonathan Jones / Bandana Blue                             HP: 820 / 150
+
+  Use Mallow's Thunderbolt to wipe out the minions and then use regular
+attacks on Johnny. Once he uses "Get Tough!", the battle changes to a one-on-
+one fight. Mario's Specials don't cause much damage, so stick to regular. When
+his HP gets lows, use a Mid Mushroom.
+
+EXP: 44                         Coins: 50                         Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Once you beat him, you get the Star Piece. Now head back to Seaside Town.
+When you get back, the townspeople are waiting there. But it turns out they
+work for Smithy! Head over the star the first time he asks, so the real Elder
+gives you a Flower Box. Follow them and make sure you have Toadstool in your
+party for the next boss.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Yaridovich                                                     HP: 1500
+
+  Here's another hard boss! Mallow's Shocker works very well against him, it
+can cause 100+! Have Toadstool heal and Mario use regular attacks. When he
+uses the "Mirage" attack, have Mallow use Thunderbolt. The one who takes more
+damage than the other is the fake one. His Water Blast attack can inflict 30+
+to each character, so be cautious.
+
+EXP: 40                        Coins: 50                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  When you win, you get the Star Piece back and a key is on the ground. Pick
+up the Shed Key and unlock the shed. Inside are the real townspeople. The
+Elder gives a reward for saving them. If you kept refusing to give up the
+Star, you won't get a good item for your reward. Talk to the Elder at his
+house, and he says that a mouse mentioned a star at Monstro Town and you have
+to get through Land's End to reach it. So exit and head to Land's End!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   LAND'S END                                                           >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  In this area, you get to use cannons. Once you reach the Donut Bridge, jump
+through the hole in the wall when the cloud comes up. Go through the cave to
+find the Cricket Jam at Kero Sewers, which you can give to Frogfucius later.
+Exit the cave and go across the Donut Bridge to a desert. Before you go there, 
+you can play the mini-game. 
+
+  At the desert, talk to the mouse for a clue to get to Monstro Town. Go to 
+one of the two areas, and fight the Shogun in the whirlpool. Then enter the 
+whirlpool. Keep doing this until you get to underground. Once there, you can 
+find 2 stars here, so use the trick to build your levels to 18+. One you can 
+find in a box while the other one you must pay 400 coins. When you are done, 
+go through the hole in the wall in room with the Geckits to get to Belome's 
+Temple. At the fortune game, pay 50 and hit them in any order. If you want 100
+coins, hit RIGHT, CENTER, and then LEFT. At the next fortune thing, make sure
+it reads that Belome is hungry and go down the elevator. Then you have a
+rematch with Belome! Have Mallow and Toadstool in your party before the fight.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Belome                                                         HP: 1200
+
+  This time around, Belome can clone your characters! If you put Mallow and
+Toadstool in, the clones are much easier to defeat than the other characters'.
+Your regular attacks can cause 100+ damage, so just use them. Once you get rid
+of Belome, finish off the clones.
+
+EXP: 34                         Coins: 20                         Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Hit the "!" Switch and enter Monstro Town.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MONSTRO TOWN                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you enter here, go through the first door and talk to Monstermama. Go
+upstairs and talk to the star, it plays a tune, which you can use later. Talk
+to Monstermama again and she calls the Sky Troopas to help you scale the cliff
+at Land's End. There is a key above on a high ledge here. To get it, keep
+talking to the Thwomp until it falls on the ground. Now go back to the temple
+and go to the second fortune thingy. Make sure it says that Belome isn't
+accepting visitors and go down the elevator. Give the key to the Gold Belome,
+and you can get the following from this vault: 4 Flowers, 8 Frog Coins, Fire
+Bomb, Royal Syrup and a Max Mushroom. 
+
+  Visit Goomba's Shop before you go to upgrade Bowser's equipment. Now go to 
+the cliff, it's near the entrance to the underground area. Scale the cliff to 
+reach Bean Valley. Before you go to Bean Valley, visit Tadpole Pond and play 
+this tune at Melody Bay:
+
+                   ----------------------------------------
+                                                       (8)
+                   ----------------(4)------------(7)------
+                              (3)            (6)
+                   ------(2)-------------------------------
+                    (1)
+                   ---------------------(5)----------------
+
+                   ----------------------------------------
+
+  Then you get the Soprano Card. While you are there, give the Cricket Jam to
+Frogfucius for 10 Frog Coins!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BEAN VALLEY                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Nothing much to do here. When you reach the area with the Smilaxes, defeat
+the upper one and go down the pipe. Go in the corner near the Chomp Chomp and
+defeat it. Then jump in the corner there. You should activate a hidden
+passage, which leads to Grate Guy's Casino! When you are ready, put Mallow and
+Toadstool in your party and go to the next area. In that area is another
+plant, but this one is a boss!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Megasmilax / Smilax                                      HP: 1000 / 200
+
+  When the battle starts, defeat the Smilax. Then Shy Away comes and waters
+the plant, now there are 2 Smilaxes. Beat them and he comes in and waters them
+again. Now beat three of them. Now when he waters them, a Megasmilax appears
+with 2 Smilaxes. They are weak to snow, so use Mallow's Snowy special. With
+the smaller plants gone, use regular attacks on Megasmilax. When he uses Petal
+Blast, have Toadstool cure the Mushroom status with Therapy or Group Hug.
+
+EXP: 40                        Coins: 0                           Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Once you win the battle, a piece of paper with a Seed on it floats down. You
+can get later, but for now go down the pipe. Then hit the block and climb the
+magical beanstalk. Now you have to climb vines. In the section with a Flower
+in a treasure box, climb the orange vine at the top. Climb the vines in the
+next area, and you can get a Frog Coin, Rare Scarf and two Flowers. Now go
+back to the area with the Flower and climb the green vine. Climb the vines
+there and jump on the Trampoline to reach Nimbus Land. 
+
+  When you get there, Valentina has found the lost prince Mallow. A prince
+with the same as a character in your party...sounds weird... Go to the shops
+and buy the usual. Now pay a visit to Garro the Sculptor. He has a statue that
+looks exactly like Mallow! And it turns out Mallow is the real prince! Talk to
+Garro and he makes Mario look like a statue. So now you can enter the castle
+and discover the truth. Dodo then puts Mario on a pedestal. Go through the
+door and open the next one. Dodo now has to polish the statues, but instead he
+pecks them. When he tries to peck you, jump. If you don't get pecked, you get
+a Feather in the next room! 
+
+  In the room after that, some Birdos peck at Mario. Now go through the castle
+until you reach a room with three doors. Enter the left and keep going until
+you get the room with some people. One person gives you a Castle Key and
+another one gives you a Flower Jar. Now go back to the three doors and beat
+the Heavy Troopa guarding the middle one. Unlock the door and a egg is in the
+next room. Talk to the egg and agree to "play" with it. Another boss!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Birdo                                                           HP: 777
+
+  Remember this classic Super Mario 2 boss? Keep attacking Shelly until Birdo
+pops out. Just attack Birdo with regular attacks and you shouldn't have any
+problems. When she fires eggs at you, have Toadstool heal. When you deplete
+enough HP from Birdo, her eggs cause more damage!
+
+EXP: 20                        Coins: 30                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Once you win, she gives you another Castle Key. Unlock the door and
+continue. Go into the next room and defeat the Heavy Troopa. Then enter the
+next one. Now chase Dodo and Valentina and Mario lands near the hot springs.
+Make your way back to town. Here's another boss...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Dodo / Valentina                                        HP: 1000 / 2000
+
+  When the battle starts, Dodo picks up the middle character and that person
+must fight him solo. His Multistrike can really do some damage to character,
+so try to defend often. Once he takes enough damage, the scene shifts back to
+other characters fighting Valentina. After a while, Dodo comes back. Now, just
+concentrate your attacks on one of them. Once that person's HP is gone, the
+battle is over. They aren't very difficult, just keep Toadstool healing
+everyone.
+
+EXP: 54                       Coins: 200                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Mallow gets hit by the key and now he can see his parents. His parents say
+that a large star fell into the volcano, but the Czar Dragon lives there!
+Before you go, visit the room you couldn't open before, and the guard there
+gives you a Flower Jar. You can also get the Lazy Shell Armor and Weapon if
+you want. To know how to get it, check the "Secrets" section. Here another
+thing to do, check the house to the far right to find Croco. He drops a Signal
+Ring, so pick it up. Equip this, and it rings when you are in the area of a
+hidden treasure box! Go to the hot springs and when you fall off, Mario lands
+in the volcano.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BARREL VOLCANO                                                       >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  This area has a good bit of Flowers, so make sure you get them. Most of the
+enemies here are weak to snow, so bring Mallow along. When you meet Hinopio,
+go and buy some armor and items. Build you levels to about 23. Then continue
+through the next few rooms to find the Czar Dragon.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Czar Dragon / Zombone                                   HP: 1400 / 1800
+
+  He's weak to snow, so use Snowy when you can. Have Mario use regular attacks
+and Toadstool heal. When summons four Heilos, have at least two characters
+each defeat one. You can usually get a "Attack Up!" Flower from them. Once you
+defeat the Czar Dragon, he changes into Zombone. If you have any Pure Water,
+use it now. Just have your characters use normal attacks and you shouldn't
+have any problems.
+
+EXP: 50                         Coins: 0                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Once you win, head into the next room for the star. But then the Axem
+Rangers take it from you. Chase them and at the end, you fight them.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Axem Red / Axem Black / Axem Yellow                 HP: 800 / 550 / 600
+      Axem Pink / Axem Green / Axem Rangers                   400 / 450 / 999
+
+  Looks like someone finally made fun of the Power Rangers! ;) First attack
+Axem Pink because she heals the others. Then fight the others in this order:
+Green, Yellow, Black, Red. Most of their normal attacks can cause 30+, so make
+sure you heal a lot. Once you defeat them, they use the Blade's cannon. It
+fires the Breaker Beam which causes 100+ to each character! Use normal attacks
+and heal each round.
+
+EXP: 17                         Coins: 0                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  After beating them, you get the sixth Star Piece. Go back to Nimbus Land and
+talk to King and Queen Nimbus. You can now use the Royal Bus to reach Bowser's
+Keep. Now go the section near Garro's house and get on the bus.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOWSER'S KEEP                                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  If you bring Bowser here, most of the enemies run away from battle, or they
+become confused! You may want to fight some Gu Goombas for a Max Mushroom.
+When you meet up with Croco, buy supplies and save your game. In the next
+room, there are six doors. You must complete 4 of them to move on, and you can
+choose Action, Battle, or Puzzle. I would choose Action and Battle because you
+can get some goodies along the way and weapons at the end. 
+
+  After completing the door puzzle, you run into Magikoopa in the next room.
+He isn't that hard. After winning, he helps by creating a box with unlimited
+coins and healing you of all damage. Enter the door on the left to find Croco.
+He sells the best armor for your characters, but each one costs 100 coins! Now
+enter the other door and go past the next room to a chandelier fight with
+Boomer. Before you fight, bring Geno and Toadstool along.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Boomer                                                         HP: 2000
+
+  Just do the usual, Mario and Geno attack and Toadstool heals. He changes
+color to replenish his HP, but he lowers his defense. Keep attacking him and
+you shouldn't have any problems.
+
+EXP: 19                         Coins: 9                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Then the Chandeli-Ho takes you up to the sword...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS : Exor / Right Eye / Left Eye /                     HP: 1800 / 500 / 300
+       Neosquid                                               800
+
+  Your target is Exor, but to do any damage you must get rid of his
+protection. So attack the Eyes and Neosquid until they are "knocked" out. Now
+attack Exor. After a while, they return to normal, so keep attacking them. You
+don't need to knock out everything, but you can cause more damage to Exor if
+you do. Have Geno use Geno Boost to make the fight easier. Toadstool's healing
+is very helpful for this battle. Once Exor's eyes start to flash, the team
+gets sucked into Gate.
+
+EXP: 34                           Coins: 0                        Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   GATE                                                                 >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  This the last area of the game. You can find an Ultra Hammer for Mario, but
+it lowers his attack by 10 if you have the Lazy Shell equipped. Make your way
+through the area until you reach a boss called Countdown. You can build your
+levels to about 25 or higher if you want, then fight him.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Countdown / Ding-A-Ling                                 HP: 2400 / 1200
+
+  Focus your attacks on Countdown so you won't have to put up with his magic.
+Do the usual, have the two characters attack and Toadstool heals. The attack
+you need to worry about is the Fear Roulette from Ding-A-Ling, which can
+instantly kill an ally! Once the clock is done, go after the Ding-A-Lings.
+
+EXP: 20                          Coins: 0                         Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  As you continue through the factory, you can find the "Machine-Made"
+versions of some bosses. They sometimes drop a good item after beating them in
+battle, and they are a great way to earn EXP! Once you reach the room with the
+machine-made Yaridovich, fight him. After you win, the block he was on
+disappears. When you jump down the hole you face another boss.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS: Cloaker / Domino                                         HP: 1200 / 900
+
+  Each of them is strong in an area. Cloaker is strong with regular attacks 
+while Domino is strong in magic. For now, keep attacking Domino and then
+Cloaker runs to Earth Link. Focus your attacks on the snake instead of
+Cloaker. Do the same thing for the past bosses. Both of their attacks can
+cause 50+ to someone, so watch what you do. You should really worry about the
+snake's Carni-Kiss, which causes 150+ to an ally! Once you defeat Earth Link,
+Cloaker goes down with him.
+
+EXP: 40                         Coins: 0                          Items: None
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  Now you can head into the Factory. Now is a good time to build your levels
+to 30 because the Yaridoviches give you 60 EXP and 50 Coins. I'll let you do
+the rest of the game because it's just a series of bosses. In the Factory,
+you'll fight the Clerk, Manager, Director, Factory Director and Gunyolk. Then
+to the final battle with Smithy. Use everything you know against the bosses
+and good luck!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   6)   ITEMS                                                          -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section tells you what items there are and what they do.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   [6.1]   EXPENDABLES                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
++--------------------+-------------------------------------------------------+
+|        NAME        |                    DESCRIPTION                        |
++--------------------+-------------------------------------------------------+
+| Able Juice         | Cures any abnormal status.                            |
+| Bad Mushroom       | Causes damage and Poison to an enemy.                 |
+| Bracer             | Defense increases by 100% on 1 ally.                  |
+| Bright Card        | Used to get into Grate Guy's Casino.                  |
+| Carbo Cookie       | Give to the mole in Moleville.                        |
+| Crystalline        | Defense increases by 100% on all allies.              |
+| Earlier Times      | Starts a battle over.                                 |
+| Elixir             | All allies recover 80 HP.                             |
+| Energizer          | Attack increases by 100% on 1 ally.                   |
+| Fire Bomb          | Causes fire damage to all enemies.                    |
+| Fireworks          | Trade for Shiny Stone.                                |
+| Flower Box         | Increases max FP by 5.                                |
+| Flower Jar         | Increases max FP by 3.                                |
+| Flower Tab         | Increases max FP by 1.                                |
+| Freshen Up         | Cures any abnormal status for all allies.             |
+| Fright Bomb        | Causes damage and Fear on all enemies.                |
+| Froggie Drink      | Party recovers 30 HP.                                 |
+| Goodie Bag         | Sell immediately!                                     |
+| Honey Syrup        | Recover 10 FP.                                        |
+| Ice Bomb           | Causes ice damage to all enemies.                     |
+| Kerokero Cola      | Recover HP/FP for all.                                |
+| Lamb's Lure        | Lures enemy away, use 48 times to get Sheep Attack.   |
+| Lucky Jewel        | Get "Lucky!" when used, disappears after 10 times.    |
+| Maple Syrup        | Recover 40 FP.                                        |
+| Max Mushroom       | Ally recovers all HP.                                 |
+| Megalixir          | Party recovers 150 HP.                                |
+| Mid Mushroom       | Ally recovers 80 HP.                                  |
+| Moldy Mush         | Ally recovers 1 HP.                                   |
+| Muku Cookie        | Party recovers 69 HP.                                 |
+| Mushroom           | Ally recovers 30 HP.                                  |
+| Mushroom (#2)      | Ally recovers 30 HP, but turns into a Mushroom.       |
+| Mystery Egg        | Changes into Lamb's Lure when used 10 times.          |
+| Pick Me Up         | Revives fallen ally.                                  |
+| Power Blast        | Increases Attack by 100% for all allies.              |
+| Pure Water         | Kills an undead enemy instantly, won in battle.       |
+| Red Essence        | Ally doesn't get attacked for many turns.             |
+| Rock Candy         | Causes 200 HP damage to all enemies.                  |
+| Rotten Mush        | Ally recovers 5 HP.                                   |
+| Royal Syrup        | Recover all FP.                                       |
+| See Ya             | Run away from a battle.                               |
+| Sheep Attack       | Change enemies into sheep, get no EXP/Coins.          |
+| Shiny Stone        | Opens locked door in Monstro Town.                    |
+| Sleepy Bomb        | Puts all enemies to sleep.                            |
+| Star Egg           | Causes 100+ HP damage to all enemies.                 |
+| Wallet             | Trade it for a Flower Tab in Mushroom Kingdom.        |
+| Wilt Shroom        | Ally recovers 10 HP.                                  |
+| Yoshi-Ade          | Increases defense and attack by 100% for ally.        |
+| Yoshi Candy        | Ally recovers 100 HP.                                 |
+| Yoshi Cookie       | Makes Yoshi change an enemy into an item.             |
++--------------------+-------------------------------------------------------+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   [6.2]   WEAPONS                                                      >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
++-----------------+-----------+--------+-------+-----------------------------+
+|      NAME       |  USED BY  | ATTACK | PRICE |            NOTES            |
++-----------------+-----------+--------+-------+-----------------------------+
+| Hammer (#1)     |   Mario   |     10 |     0 | Defeat Hammer Brothers.     |
+| Hammer (#2)     |   Mario   |      0 |   123 | "Lucky!" can appear.        |
+| Noknok Shell    |   Mario   |     20 |    20 | Get from Midas River.       |
+| Punch Glove     |   Mario   |     30 |    36 |                             |
+| Masher          |   Mario   |     50 |     0 | Get it in Booster Tower.    |
+| Super Hammer    |   Mario   |     40 |    70 |                             |
+| Troopa Shell    |   Mario   |     50 |    90 |                             |
+| Mega Glove      |   Mario   |     60 |   102 |                             |
+| Ultra Hammer    |   Mario   |     70 |     0 | Found in Factory.           |
+| Lazy Shell      |   Mario   |     90 |     0 | Found in Rose Town.         |
++-----------------+-----------+--------+-------+-----------------------------+
+| Froggie Stick   |  Mallow   |     20 |     0 | Get from Frogfucius.        |
+| Cymbals         |  Mallow   |     30 |    42 |                             |
+| Whomp Glove     |  Mallow   |     40 |    72 |                             |
+| Ribbit Stick    |  Mallow   |     50 |    86 |                             |
+| Sticky Glove    |  Mallow   |     60 |    98 |                             |
+| Sonic Cymbals   |  Mallow   |     70 |     0 | Get from Bowser's Keep.     |
++-----------------+-----------+--------+-------+-----------------------------+
+| Finger Shot     |   Geno    |     12 |    50 | Get from Gaz or Moleville.  |
+| Hand Gun        |   Geno    |     24 |    75 |                             |
+| Double Punch    |   Geno    |     35 |    88 |                             |
+| Hand Cannon     |   Geno    |     45 |   105 |                             |
+| Star Gun        |   Geno    |     57 |     0 | Get from Bowser's Keep.     |
++-----------------+-----------+--------+-------+-----------------------------+
+| Chomp           |  Bowser   |     10 |     0 | Get it in Booster Tower.    |
+| Chomp Shell     |  Bowser   |      9 |    60 |                             |
+| Hurly Gloves    |  Bowser   |     20 |    92 |                             |
+| Spiked Shell    |  Bowser   |     30 |    94 |                             |
+| Drill Claw      |  Bowser   |     40 |     0 | Get from Bowser's Keep.     |
++-----------------+-----------+--------+-------+-----------------------------+
+| Slap Glove      | Toadstool |     40 |     0 |                             |
+| Parasol         | Toadstool |     50 |    84 |                             |
+| War Fan         | Toadstool |     60 |   100 |                             |
+| Super Slap      | Toadstool |     70 |     0 | Get from Bowser's Keep.     |
+| Frying Pan      | Toadstool |     90 |   300 | Buy from Rare Item Shop.    |
++-----------------+-----------+--------+-------+-----------------------------+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   [6.3]   ARMOR                                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
++-----------------+-----------+------+-----------+-------+
+|      NAME       |  USED BY  | DEF. | MAG. DEF. | PRICE |
++-----------------+-----------+------+-----------+-------+
+| Shirt           |   Mario   |    6 |         6 |     7 |
+| Thick Shirt     |   Mario   |   12 |         8 |    14 |
+| Mega Shirt      |   Mario   |   18 |        10 |    22 |
+| Happy Shirt     |   Mario   |   24 |        12 |    38 |
+| Sailor Shirt    |   Mario   |   30 |        15 |    50 |
+| Fuzzy Shirt     |   Mario   |   36 |        18 |    70 |
+| Fire Shirt      |   Mario   |   42 |        21 |    90 |
+| Hero Shirt      |   Mario   |   48 |        24 |   100 |
++-----------------+-----------+------+-----------+-------+
+| Pants           |  Mallow   |    6 |         3 |     7 |
+| Thick Pants     |  Mallow   |   12 |         6 |    14 |
+| Mega Pants      |  Mallow   |   18 |         9 |    22 |
+| Happy Pants     |  Mallow   |   24 |        12 |    38 |
+| Sailor Pants    |  Mallow   |   30 |        15 |    50 |
+| Fuzzy Pants     |  Mallow   |   36 |        18 |    70 |
+| Fire Pants      |  Mallow   |   42 |        21 |    90 |
+| Prince Pants    |  Mallow   |   48 |        24 |   100 |
++-----------------+-----------+------+-----------+-------+
+| Mega Cape       |   Geno    |    6 |         3 |    22 |
+| Happy Cape      |   Geno    |   12 |         6 |    38 |
+| Sailor Cape     |   Geno    |   18 |         9 |    50 |
+| Fuzzy Cape      |   Geno    |   24 |        12 |    70 |
+| Fire Cape       |   Geno    |   30 |        15 |    90 |
+| Star Cape       |   Geno    |   36 |        18 |   100 |
++-----------------+-----------+------+-----------+-------+
+| Happy Shell     |  Bowser   |    6 |         3 |    38 |
+| Courage Shell   |  Bowser   |   12 |         6 |    60 |
+| Fire Shell      |  Bowser   |   18 |         9 |    90 |
+| Heal Shell      |  Bowser   |   24 |        12 |   100 |
++-----------------+-----------+------+-----------+-------+
+| Polka Dress     | Toadstool |   24 |        12 |     0 |
+| Nautica Dress   | Toadstool |   30 |        15 |    50 |
+| Fuzzy Dress     | Toadstool |   36 |        18 |    70 |
+| Fire Dress      | Toadstool |   42 |        21 |    90 |
+| Royal Dress     | Toadstool |   48 |        24 |   100 |
++-----------------+-----------+------+-----------+-------+
+
++----------------+-----------+------+-----------+-------+--------+-----------+
+|      NAME      |  USED BY  | DEF. | MAG. DEF. | SPEED | ATTACK | MAG. ATK. |
++----------------+-----------+------+-----------+-------+--------+-----------+
+| Work Pants     |    All    |   15 |         5 |     5 |     10 |         5 |
+| Super Jacket   |    All    |   50 |        50 |    30 |     50 |        50 |
+| Lazy Shell     |    All    |  127 |       127 |   -50 |    -50 |       -50 |
++----------------+-----------+------+-----------+-------+--------+-----------+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   [6.4]   ACCESSORIES                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
++----------------+-------+--------+---------+-----------+-----------+-------+
+|      NAME      | SPEED | ATTACK | DEFENSE | MAG. ATK. | MAG. DEF. | NOTES |
++----------------+-------+--------+---------+-----------+-----------+-------+
+| Amulet         |    -5 |      7 |       7 |         7 |         7 |     1 |
+| Antidote Pin   |     0 |      0 |       2 |         0 |         2 |     2 |
+| Attack Scarf   |    30 |     30 |      30 |        30 |        30 |     3 |
+| B'Tub Ring     |     0 |      0 |       0 |         0 |         0 |     4 |
+| Coin Trick     |     0 |      0 |       0 |         0 |         0 |     5 |
+| Exp. Booster   |     0 |      0 |       0 |         0 |         0 |     6 |
+| Fearless Pin   |     0 |      0 |       5 |         0 |         5 |     7 |
+| Feather        |    20 |      0 |       5 |         0 |         5 |     8 |
+| Ghost Medal    |     0 |      0 |       0 |         0 |         0 |     9 |
+| Jinx Belt      |    12 |     27 |      27 |         0 |         0 |    10 |
+| Jump Shoes     |     2 |      0 |       1 |         5 |         1 |    11 |
+| Quartz Charm   |     0 |      0 |       0 |         0 |         0 |       |
+| Rare Scarf     |     0 |      0 |      15 |         0 |        15 |       |
+| Safety Badge   |     0 |      0 |       5 |         0 |         5 |    12 |
+| Safety Ring    |     5 |      0 |       5 |         0 |         5 |    13 |
+| Scrooge Ring   |     0 |      0 |       0 |         0 |         0 |    14 |
+| Signal Ring    |     0 |      0 |       0 |         0 |         0 |    15 |
+| Troopa Pin     |    20 |      0 |       0 |         0 |         0 |    16 |
+| Trueform Pin   |     0 |      0 |       4 |         0 |         4 |    17 |
+| Wake-Up Pin    |     0 |      0 |       3 |         0 |         3 |    18 |
+| Zoom Shoes     |    10 |      0 |       5 |         0 |         5 |       |
++----------------+-------+--------+---------+-----------+-----------+-------+
+
+-----
+Notes
+-----
+ 1 - Get from the Curtain Game.
+ 2 - Prevents Poison.
+ 3 - Jump 30 times to get it (via Super Jump).
+ 4 - Only Princess can wear it.
+ 5 - Get 2x the amount of coins.
+ 6 - Ally gets 2x the amount of EXP.
+ 7 - Prevents Fear.
+ 8 - Found in Nimbus Land.
+ 9 - Def, M Def increases by two each round in battle.
+10 - Prevents Instant Death.
+11 - 'Use' jump attacks on any foe.
+12 - Prevents Mute and Poison.
+13 - Protects against magic attacks.
+14 - FP cost down by 1/2 for an ally.
+15 - Rings when near a hidden box.
+16 - Atk, M Atk increases by 50%.
+17 - Protects against transformations.
+18 - Protects against Sleep.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   7)   SHOPS                                                          -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section tells you what shops sell what and how much it is.
+
+NOTE: C stands for Coins and FC stands for Frog Coins.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MUSHROOM KINGDOM                                                     >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------
+Item Shop
+------------------------
+NAME                COST
+------------------------
+Honey Syrup..........10C
+Pick Me Up............5C
+Able Juice............4C
+Shirt.................7C
+Pants.................7C
+Jump Shoes...........30C
+Antidote Pin.........28C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   TADPOLE POND                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------
+Juice Bar
+------------------------
+NAME                COST
+------------------------
+Froggie Drink.....Varies
+Elixir............Varies
+Megalixir.........Varies
+Kerokero Cola.......200C
+
+------------------
+Frog Coin Emporium
+------------------------
+NAME                COST
+------------------------
+Sleepy Bomb..........1FC
+Bracer...............2FC
+Energizer............2FC
+Crystalline..........5FC
+Power Blast..........5FC
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   ROSE TOWN                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------
+Item Shop
+------------------------
+NAME                COST
+------------------------
+Mushroom..............4C
+Honey Syrup..........10C
+Pick Me Up............5C
+Able Juice............4C
+
+--------------
+Accessory Shop
+------------------------
+NAME                COST
+------------------------
+Thick Shirt..........14C
+Thick Pants..........14C
+Jump Shoes...........30C
+Antidote Pin.........28C
+Wake-Up Pin..........32C
+Trueform Pin.........60C
+Fearless Pin........130C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MOLEVILLE                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------
+Item Shop
+------------------------
+NAME                COST
+------------------------
+Punch Glove..........36C
+Finger Shot..........50C
+Cymbals..............42C
+Mega Shirt...........22C
+Mega Cape............22C
+Mega Pants...........22C
+Work Pants...........22C
+Mid Mushroom.........20C
+Maple Syrup..........30C
+
+--------------
+Rare Item Shop
+--------------
+------------------------
+NAME                COST
+------------------------
+Lucky Jewel.........100C
+Mystery Egg.........200C
+Metal Plate.........300C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MARRYMORE                                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------
+Item Shop
+------------------------
+NAME                COST
+------------------------
+Super Hammer.........70C
+Hand Gun.............75C
+Whomp Glove..........72C
+Chomp Shell..........60C
+Happy Shirt..........38C
+Happy Pants..........38C
+Happy Cape...........38C
+Happy Shell..........38C
+B'Tub Ring..........145C
+Mid Mushroom.........20C
+Maple Syrup..........30C
+
+------------
+Room Service
+------------------------
+NAME                COST
+------------------------
+Pick Me Up...........10C
+Kerokero Cola.......150C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   SEASIDE TOWN                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-----------------
+Weapon/Armor Shop
+------------------------
+NAME                COST
+------------------------
+Troopa Shell.........90C
+Parasol..............84C
+Hurly Gloves.........92C
+Double Punch.........88C
+Ribbit Stick.........86C
+Noknok Shell.........20C
+Punch Glove..........36C
+Finger Shot..........50C
+Cymbals..............42C
+Chomp Shell..........60C
+Super Hammer.........70C
+Hand Gun.............75C
+Whomp Glove..........72C
+Slap  Glove.........100C
+Hammer..............123C
+Sailor Shirt.........50C
+Sailor Pants.........50C
+Sailor Cape..........50C
+Nautica Dress........50C
+Shirt.................7C
+Pants.................7C
+Thick Shirt..........14C
+Thick Pants..........14C
+Mega Shirt...........22C
+Mega Pants...........22C
+Mega Cape............22C
+Happy Shirt..........38C
+Happy Pants..........38C
+Happy Cape...........38C
+Happy Shell..........38C
+
+--------------
+Frog Coin Shop
+------------------------
+NAME                COST
+------------------------
+See Ya..............10FC
+Earlier Times.......15FC
+EXP. Booster........22FC
+Coin Trick..........36FC
+Scrooge Ring........50FC
+
+--------------
+Accessory Shop
+--------------
+------------------------
+NAME                COST
+------------------------
+Jump Shoes...........30C
+Antidote Pin.........28C
+Wake-Up Pin..........42C
+Fearless Pin........130C
+Trueform Pin.........60C
+Zoom Shoes..........100C
+
+---------------------------------------
+Item Shop (Before defeating Yaridovich)
+------------------------
+NAME                COST
+------------------------
+Bad Mushroom.........30C
+Muku Cookie..........69C
+Fright Bomb.........100C
+Fire Bomb...........200C
+Ice Bomb............250C
+----------------
+Health Food Shop
+------------------------
+NAME                COST
+------------------------
+Mushroom..............4C
+Mid Mushroom.........20C
+Honey Syrup..........10C
+Maple Syrup..........30C
+Pick Me Up............5C
+Able Juice............4C
+Freshen Up...........50C
+
+---------
+Item Shop
+------------------------
+NAME                COST
+------------------------
+Hurly Gloves.........92C
+Super Hammer.........70C
+Hand Gun.............75C
+Whomp Glove..........72C
+Sailor Shirt.........50C
+Sailor Pants.........50C
+Sailor Cape..........50C
+Nautica Dress........50C
+Mid Mushroom.........20C
+Maple Syrup..........30C
+Pick Me Up............5C
+Able Juice............4C
+Freshen Up...........50C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MONSTRO TOWN                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-----------------
+Weapon/Armor Shop
+------------------------
+NAME                COST
+------------------------
+Spiked Link..........94C
+Courage Shell........60C
+Mushroom..............4C
+Mid Mushroom.........20C
+Maple Syrup..........30C
+Pick Me Up............5C
+Able Juice............4C
+Freshen Up...........50C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   NIMBUS LAND                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------
+Item Shop
+------------------------
+NAME                COST
+------------------------
+Mid Mushroom.........20C
+Maple Syrup..........30C
+Pick Me Up............5C
+Able Juice............4C
+Freshen Up...........50C
+Mega Glove..........102C
+War Fan.............100C
+Hand Cannon.........105C
+Sticky Glove.........98C
+Fuzzy Shirt..........70C
+Fuzzy Pants..........70C
+Fuzzy Cape...........70C
+Fuzzy Dress..........70C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BARREL VOLCANO                                                       >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+--------------
+Hinopio's Shop
+------------------------
+NAME                COST
+------------------------
+Mid Mushroom.........20C
+Maple Syrup..........30C
+Pick Me Up............5C
+Able Juice............4C
+Freshen Up...........50C
+Fire Shirt...........90C
+Fire Pants...........90C
+Fire Cape............90C
+Fire Shell...........90C
+Fire Dress...........90C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOWSER'S KEEP                                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---------------
+Croco's Shop #1
+------------------------
+NAME                COST
+------------------------
+Mid Mushroom.........20C
+Maple Syrup..........30C
+Pick Me Up............5C
+Freshen Up...........50C
+Fire Shirt...........90C
+Fire Pants...........90C
+Fire Cape............90C
+Fire Shell...........90C
+Fire Dress...........90C
+
+---------------
+Croco's Shop #2
+------------------------
+NAME                COST
+------------------------
+Mid Mushroom.........20C
+Maple Syrup..........30C
+Pick Me Up............5C
+Freshen Up...........50C
+Hero Shirt..........100C
+Prince Pants........100C
+Star Cape...........100C
+Heal Shell..........100C
+Royal Dress.........100C
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   GATE                                                                 >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-----------
+Toad's Shop
+------------------------
+NAME                COST
+------------------------
+Mid Mushroom.........20C
+Max Mushroom.........39C
+Maple Syrup..........30C
+Pick Me Up............5C
+Able Juice............4C
+Freshen Up...........50C
+Froggie Drink........16C
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   8)   ENEMY / PSYCHOPATH LIST                                        -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section lists the enemies, their HP, and their thoughts.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *A*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Alley Rat               105         "Don't pity me, Mario!"
+Amantia                  52         "Gotta work on my tan!"
+Ameboid                 220         "Get outta my face."
+Arachne                  82         "[musical note] Day-o..."
+Armored Ant             230         "Do one good turn a day!"
+Artichoker              200         "Relax a little, okay?"
+Axem Black              550         "You're timing stinks!"
+Axem Green              450         "Are we done here?"
+Axem Pink               400         "Red, WRONG POSITION!"
+Axem Rangers            999         "It's a melee!"
+Axem Red                800         "I'm all thumbs today!"
+Axem Yellow             600         "We're lookin' GOOD!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *B*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Bahamutt                 500        "Give me a chance, here."
+Bandana Blue             150        "Color me Blue, mates!!"
+Bandana Red              120        "I love the color RED!"
+Belome (1st batl.)       500        "I just... wanna sleep."
+Belome (2nd batl.)      1200        "Gotta yummy in my tummy!"
+Big Bertha               350        "Adabing, ADABANG!"
+Birdo                    777        "I just love life!"
+Birdy                    150        "I HATE Valentina."
+Blaster                  120        "Wanna join me?"
+Bluebird                 200        "You are...magnificent"
+Bloober                  130        "I love floating around."
+Bob-Omb                   90        "Ouch, HEY! Watch it!"
+Body                     300        "......"
+Bodyguard                 30        "Boing, boing, boing."
+Boomer                  2000        "It's all over now..."
+Bowser Clone             300(?)     "Grr... my castle..."
+Bowyer                   720        "What's with these folks?"
+Box Boy                  900        "Been waitin' 100 years!"
+Bundt                    800(?)     "Congratulations."
+Buzzer                    43        "Buzzzzz..."
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *C*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Carroboscis               90        "I ALWAYS eat my vegetables!"
+Chained Kong             355        "A tad warm, isn't it?!"
+Chester                 1200        "I love my job![heart]"
+Chewy                     90        "I'm just a fresh flower."
+Chomp                    100        "Workin' on a chain gang."
+Chomp Chomp              150        "Hey, let's PLAY!"
+Chow                      80        "Hey, I fought you already!"
+Clerk                    500        "10 years I've been here!"
+Cloaker                 1200        "I love cold hard steel!"
+Cluster                   60        "I'll psyche you out!"
+Corkpedite               200        "Off! FORGET IT!"
+Countdown               2400        "We're into overtime!"
+Croco (1st batl.)        320        "Gosh, I'm good!"
+Croco (2nd batl.)        750        "Ooh! I'm good!"
+Crook                     30        "You can't run away! Ha!"
+Crusty                    80        "Look at THIS!"
+Culex                   4096        "A little off, eh?"
+Czar Dragon             1400        "Flamin' hot, right at ya!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *D*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Ding-A-Ling             1200        "Wake up sleepy heads!"
+Director                1000        "I just lost EVERYTHING."
+Dodo (1st batl.)         800        "I'm STARVED!"
+Dodo (2nd batl.)        1000        "I'm starved...later!"
+Dodo (batl.w/Vlnt)     Varies       "I'm starved...later!"
+Domino                   900        "MAGIC! DEAL with it!"
+Domino (w/Mad Adder)   Varies       "Sh... sho... shocked!"
+Doppel                   333        "This has been a bad year!"
+Dry Bones                  0        "I'm sick of gettin' hit!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *E*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Earth Crystal           3200        "I hate being awakened!"
+Exor                    1800        "Gotta mow the lawn soon."
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *F*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Factory Chief           1000        "Who DARES to fight ME?!"
+Fautso                   420        "Thanks to you I'm free!"
+Fink Flower              200        "Gimme your best shot!"
+Fireball                  10        "Blurb blurb blurb..."
+Fire Crystal            2500        "I gotta vacuum tonight!"
+Forkies                  350        "Shikashikashika~~!"
+Formless                  10        "I have a secret!"
+Frogog                    80        "This bright sunlight better
+                                     not fry me!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *G*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Geckit                100           "Geck... Geck... GOCK?"
+Gecko                  92           "Red? What about Green?"
+Geno Clone            250           "Star Pieces... Star..."
+Glum Reaper           180           "Comin' through..."
+Goby                   40           "Blub blub blub..."
+Goomba                 16           "Goomba gumba... phew!"
+Goombette             100           "Me speak soft, BIG STICK!"
+Gorgon                140           "I just wanna go home."
+Grate Guy             900           "Peace is just a dream."
+Greaper               148           "Any reaping to be done?"
+Guerilla              135           "Don't confuse me with someone else"
+Gu Goomba             132           "Hey, maybe I CAN win!"
+Gunyolk              1500           "If we're beaten, the boss is alone"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *H*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Heavy Troopa            250         "I'll make ya beautiful!"
+Helio                    10         "I'm burnin' up inside!"
+Hidon                   600         "You wanna run, huh?!"
+Hippopo                 400         "This is a drag..."
+Hobgoblin                50         "Havin' a blast today!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *J*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Jabit                    150        "This is the pits!"
+Jagger                   600        "Oh! I'm so excited!"
+Jawful                   278        "Huh?"
+Jester                   151        "I've failed my King..."
+Jinx (1st battle)        600        "You're just a beginner!"
+Jinx (2nd battle)        800        "Sympathy!? Not from me!"
+Jinx (3rd battle)       1000        "Ooh! I'm gonna hurt ya!"
+Jinx Clone               320        "I'm the REAL thing!"
+Johnathan Jones          820        "Whoa! It's all over."
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *K*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+K-9                      30         "May I take a BITE?"
+King Bomb               500         "I LIVE to explode!"
+King Calamari           800         "The ship's MINE! SCRAM!"
+Knife Guy               700         "Happiness is hip!"
+Kriffid                 320         "Aloe~ there!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *L*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Lakitu                  124         "Why do people hate me?"
+Left Eye                300         "I can't see a thing!"
+Leuko                   220         "Floating's a bad habit."
+Li'l Boo                 66         "Beep pa doodle dee![music note]"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *M*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Machine Made (Axem Black)     120        "Will I make the team?"
+Machine Made (Axem Green)      80        "Whew! Vertigo!"
+Machine Made (Axem Pink)      100        "Oh! My makeup!"
+Machine Made (Axem Red)       180        "Gotta fight for evil!"
+Machine Made (Axem Yellow)    200        "I'm STARVED!"
+Machine Made (Bodyguard)      100        "Boing, boing, boing."
+Machine Made (Bowyer)        1000        "Nya! I'll SNUFF ya! NYA!"
+Machine Made (Mack)           300        "Mario! I'm BAAAAAAAACK!"
+Machine Made (Multiplier)     180        "Look out, LOSERS!"
+Machine Made (Yaridovich)     800        "My promotion's at stake!"
+Mack                          480        "Boing, boing, boing."
+Mad Adder                    1500        "I'm alive and kicking."
+Mad Mallet                    200        "Work, work, work..."
+Magikoopa                    1600        "That's... my child?"
+Magmite                        26        "Got a thorn in my foot."
+Magmus                         50        "Clobber me for good life!"
+Malakoopa                      95        "Just call me "General!""
+Mallow Clone                  150        "Ma? Pa? Where are ya?"
+Manager                       800        "25 years of working, sigh."
+Mario Clone                   200        "......"
+Mastadoom                     180        "Phew, I'm FREEZING..."
+Megasmilax                   1000        "I was a water baby!"
+Mezzo Bomb                    150        "Look out!"
+Microbomb                      30        "Small is as small does."
+Mokura                        620        "Mwa ha ha..."
+Mr. Kipper                    133        "I'm a fresh little fish."
+Muckle                        320        "Gotta know your limits."
+Mukumuku                      108        "Ya trying to bug me?!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *N*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Neosquid                800         "I'm so utterly alone..."
+Ninja                   235         "Wooo HOOO! I'm a FOO!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *O*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Octovader               250         "I'm a part-time typist!"
+Oerlikon                 85         "I live to eat."
+Orbison                  30         "Don't jump on me!"
+Orb User                  8         "I hate Kinklinks!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *P*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Pandorite               300         "I'm trying to sleep, OK?"
+Pinwheel                 99         "What a day it's been..."
+Pounder                 180         "Wham bam SLAM!"
+Poundette               150         "Love conquers ALL."
+Pulsar                   69         "I'm a mini-pulsar."
+Punchinello            1200         "Yeeha! I see we're already famous!"
+Puppox                  300         "What does it all MEAN?"
+Pyrosphere              167         "Vroom, VROOM!!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *R*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Raspberry               500         "Congratulations!"
+Rat Funk                 32         "Squeek, squeek..."
+Reacher                 184         "Hope you'll stay close."
+Remo Con                 88         "The world is history."
+Right Eye               500         "I've got an astigmatism!"
+Rob-omb                  42         "Disappear? Maybe later!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *S*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Sackit                   152        "This is just how I am."
+Shadow                    85        "You're a model, right?"
+Shaman                   150        "I'm losing this fight!"
+Shelly                   500        "Slow down!"
+Shogun                   150        "Do as you like."
+Shy Away                 140        "La Dee Dah~ Ha Ha."
+Shy Guy                   78        "Hold still, okay?!"
+Shyster                   30        "Boing, boing, boing."
+Shyper                   400        "Ooh! This'll be fun!"
+Sky Troopa                10        "What a gorgeous day!"
+Sling Shy                120        "Hear my song."
+Smelter                 1500        "I brush after each meal!"
+Smilax                   200        "Turn your eyes!"
+Smithy                  2000        "Eh?! Not bad!"
+Smithy (body)           1000        "What a heavy head!"
+Smithy (furnace head)   8000        "Nothin' can hurt me!"
+Smithy (tank head)      8000        "Don't shock me! DON'T!"
+Smithy (toaster head)   8000        "This isn't good at all!"
+Smithy (treasure head)  8000        "What's hidden inside?!"
+Smithy (wizard head)    8000        "Good magic, bad defense."
+Snapdragon                90        "I did a lot in my youth."
+Snifit                   200        "Minimum wage for THIS?!"
+Sparky                   120        "Fire EVERYWHERE!"
+Spikester                 50        "Why, you're AFRAID of me!"
+Spikey                    20        "Just try and jump on me!"
+Spinthra                 230        "Oh! I'm gonna poison ya!"
+Spookum                   98        "Que pasa?"
+Springer                 122        "What's going on here?"
+Star Cruster              72        "I'M NOT A CRAB!!"
+Starslap                  62        "They think I'm goofy..."
+Stinger                   65        "Strike the pose!"
+Straw Head               131        "Gotta press this shirt!"
+Stumpet                  500        "Express yourself!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *T*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Tentacles               200         "You wouldn't... EAT me?!"
+Terra Cotta             180         "Oh, Mr.Bowser~~"
+Toadstool Clone         120         "It's tough to be pretty!"
+Torte                   100         "Cake! Vatch zee CAKE."
+The Big Boo              43         "Stop staring at me!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *V*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Valentina               2000        "I tell ya, he's NOTHING!"
+Vomer                      0        "Nobody, NOBODY likes me."
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *W*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Water Crystal           1800        "Get me back underground!"
+Wiggler                  120        "I'm just a helpless wiggler..."
+Wind Crystal             800        "Whhhhhhooooo..."
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *Y*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Yaridovich              1500        "My promotion's at stake!"
+Yaridovich(mirage)      1500        "I'm not the real McCoy!"
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   *Z*                                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Zeostar                   90        "Oh, I can't stand him!"
+Zombone                 1800        "Hey! We're not done yet!"
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   9)   MINI-GAMES                                                     -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section contains information on the mini-games.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MIDAS WATERFALL & BARREL JUMPING                                     >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Midas River
+
+  Your objective is to collect as many coins as you can on the waterfall and
+the barrel jumping event. The coins you grab are used to get Frog Coins. The
+more you get, the lower the price becomes. If you can get 100 coins, the 
+price becomes 50 and you get 5 Frog Coins as a bonus. The downside is...the 
+coins you get, you don't get to keep! BUT you can keep the coins by doing 
+this: Go to Moleville and buy Fireworks. Trade Fireworks for a Shiny Stone, 
+then talk to one little mole in the house to trade for a Carbo Cookie. Give 
+the cookie to the mole on the bucket. Go down the bucket and into Midas River!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   GOOMBA THUMPING                                                      >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Pipe Vault
+
+  For 10 Coins, you must jump on as many Goombas as possible. Here is how the
+scoring works:
+
+Goomba - 1 Point
+Gold Goomba - 3 Points
+Spikey - Lose 1 Point
+
+  The strategy I use would is, stand in the middle and jump on the Goombas
+that appear on the pipes to the left and right of Mario. If you get a certain
+number of points, the mole gives you a prize.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   DERBY                                                                >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Yo'ster Isle
+
+  You can play this game whenever you want once you help Yoshi. When you want
+to race, talk to Boshi and make sure you have some Yoshi Cookies. You wager
+some cookies and you get some more if you win. At the race, alternate A and B
+to the beat of the music playing. If you have any cookies left over from
+wagering, press Y and Yoshi gets a short burst of speed. The more you win, the
+harder the race becomes.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   TROLLEY RIDE                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Moleville
+
+  In this mini-game, you can earn some extra coins if you break your record
+time. You can bet 10 to 30 coins, and you get more coins if you win. On the
+ride, use the brakes to get past sharp turns so you won't go off the track.
+You can find Mushrooms on the tracks which are used as a speed boost. To make
+this much easier, go very slow on the first time so breaking the record won't
+be difficult.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOOSTER HILL RUN & BEETLE RUN                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Booster Hill
+
+  On the 1st time, you can get lots of FP. Use the barrels and Snifits to move
+ahead to touch the Princess, doing so gets you one Flower Point. Make sure you
+do your best because this the only time when you can do this! Once you get the
+Beetle Box from "Beetles Are Us" in Seaside Town, you can revisit Booster Hill
+to earn some extra cash. Again, use the barrels and Snifits to move ahead and
+collect the Beetles. 
+
+  Here is what you can get:
+
+Female Beetle -> 1 Coin
+Male Beetle   -> 50 Coins
+Gold Beetle   -> 1 Frog Coin
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MUSHROOM BOY'S SHOP                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Seaside Town
+
+  If you can bring him some Mushrooms that grow in the Forest Maze, you can
+collect some goodies. Go to the forest and collect as many as you can. Give
+them to Mushroom Boy and you can get some of the following:
+
+Regular Mushroom -> Nothing
+Berry Mushroom   -> Maple Syrup
+Rippin' Mushroom -> Rock Candy
+Flower Mushroom  -> Flower Tab
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   DONUT BRIDGE                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Land's End
+
+  You can also earn some more coins and Frog Coins here. You cross the Donut
+Bridge while dodging the Bullet Bills. The higher the difficulty, you face
+more challenges, but the bigger the payoff. If you select "Special", you can
+earn a Frog Coin but it's much harder than the other difficulties. For Normal
+and Expert, you can earn coins.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   TROOPA SHELL CLIFF SCALING                                           >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Land's End
+
+  Here, you jump shell to shell to scale the cliff. This the easiest way to
+earn Frog Coins and it's free! The first time you get under about 11.50,
+Sargent Flutter gives you a Troopa Pin, but each time afterwards you get one
+Frog Coin. If you get under 11 seconds, you get 5 Frog Coins! You can get tons
+of Frog Coins if you are willing to take the time to do so.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   GRATE GUY'S CASINO                                                   >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Entrance found in Bean Valley
+
+Here you can play 3 different games!
+
+---------
+Blackjack
+---------
+  You wager 1 Frog Coin for this game. The objective is to get closest to 21
+without going over. The dealer will give you and himself 2 cards. You can get
+more cards, but try not to go over 21! If the dealer wins, you lose the Frog
+Coin, you win...you get 2 Frog Coins.
+
+------------
+Slot Machine
+------------
+  Not a hard game to learn. You use 10 coins, and if you get 3 of the same
+symbols, you win a Frog Coin. If you lose, you get nothing.
+
+------------------
+Look The Other Way
+------------------
+  Keep talking to Grate Guy and he'll play this game with you. Press <- or ->
+on the pad, and if you look the other way where his finger is, you get an
+item. If you lose, you don't gain or lose anything. Sometimes he gives you
+some good items, but you usually get junk like Moldy Mush and Wilt Shrooms.
+Play this game 100 times to get the best item in the game, the Star Egg!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BEETLE MANIA                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Location: Boy from Mushroom Kingdom
+
+  You can purchase this Game Boy game from the kid at the Inn if you are
+willing to spend a mere 500 coins. You can buy this once you defeat
+Yaridovich. You control a little brown beetle that can shoot stars at the
+incoming Troopa Shells. When you hit a shell with a star, the star explodes
+and little stars fly to a certain distance. This usually hits your beetle, 
+and when you get hit, press A rapidly to revive him. If you can grab a Heart,
+your beetle's life is restored. 
+
+To get a high score, try the following technique:
+
+  Let a bunch of shells come on screen, then fire some stars. The explosions
+will hit other shells and do the same thing. You can wipe out mostly all the
+shells with a few stars! You can usually earn 500+ points after doing this.
+You don't anything for beating the high score, but it's a fun game to try.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   10)   SECRETS                                                       -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section contains secrets and other things about the game.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BUILD LEVELS EASILY                                                  >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  I mentioned this trick in the beginning of the walkthrough. First, go to an
+area with a star in a treasure box. Make sure you save somewhere close to the
+area. Now, get the star and hit as many enemies as you can. Then, die in
+battle and you return to where you saved with all your EXP! You can repeat the
+trick until you get your levels to where you want them.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   DIZZY MARIO                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  At Mushroom Kingdom, you can find a girl running in a circle. If you can
+manage to jump on her head, Mario will jump off and faint after a while. Not
+much, but it's sorta funny.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   FOREST BOOTY                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Remember those directions, Left, Left, Straight, Right from the guy in Rose
+Town? If you are lost on what he is saying, listen up. At the "maze" area of
+Forest Maze, follow those direction from Mario's perspective, not from where
+you are. If you do so, you can find a tree trunk in the room. Go down to find
+the following in Treasure Boxes: 1 Flower, 1 Mushroom, 1 Frog Coin, and two
+other boxes containing Coins.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   RARE ITEM SHOP                                                       >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  After you save Dyna & Mite, the man from the mine opens an item shop. At
+different points in the game, he finds new items. He can sell you a Lucky
+Jewel, Mystery Egg, and Frying Pan. The Frying Pan may sound useless, but it's
+actually Toadstool's best weapon, Metal Plate.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   STAR WISHES                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  On Star Hill, you can find some stars with a face on them. If you talk to
+them, you read someone's wish. Most of them come from characters in the game
+like Mallow, Croco, and Belome. There is also one with Mario's brother, Luigi!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   PIPE PEEPING                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Once you beat Jonathan Jones, return to the Sunken Ship. Look into the pipe
+in the room with Jonathan Jones in it. Now you can look into other areas of
+the ship.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   LAZY SHELL WEAPON & ARMOR                                            >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  The gardener in Rose Town is looking for the legendary Seed and Fertilizer.
+You can get the Fertilizer once you beat Valentina. Go to the far right of the
+town, and you can walk off the ground to a hidden place. Talk to the Shy Away
+and he gives you the item. You can get the Seed once you beat Megasmilax. Read
+the piece of paper that floated down and take the Seed. Now go to Rose Town,
+and go past the Item Shop to the gardener's house. Give him the items and he
+grows a beanstalk. Climb up to get the Lazy Shell weapon for Mario and the
+Lazy Shell armor for anybody!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   LINK CATCHING ZOME Z'S                                               >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Sleep at the Inn at Rose Town. When Mario wakes up, Link is there sleeping!
+He doesn't talk to you, but if you try, the game plays a familiar Zelda sound.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   THE THREE MUSTY FEARS                                                >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you rest in the bed at Monstro Town, they play a game with you called
+"Find the Flag". Each of them hides a flag somewhere. And here are the
+locations...
+
+#1: Find it under Mario's bed at Mario's Pad.
+#2: This one is behind the wooden flower at Rose Town.
+#3: Find it between the O and A in the word GOAL at Yo'ster Isle.
+
+  Rest again at the bed and the Three Musty Fears give you a Ghost Medal.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   RAZ & RAINI'S YOSHI HONEYMOON                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you first reach Yo'ster Isle, look in the mailbox to find a honeymoon
+reservation at the island. Return there later to find Raz and Raini on their
+honeymoon!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   THE BRIGHT CARD                                                      >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  To get into Grate Guy's Casino, you need a Bright Card. To get it, return to
+Booster Tower to find Knife Guy inside. Talk to him to play a game. You guess
+which hand the yellow ball is. Win this game about 16 times, each loss
+decreases your win by 1, to get the Bright Card. Don't sell it because you can
+NEVER get another one!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   WIGGLER'S TREASURE                                                   >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  In Forest Maze, if you can jump on a Wiggler 10 times (Not in battle,
+though), you get one Frog Coin. You can keep on doing this for more Coins and
+Frog Coins.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   FIREWORKS FINALE                                                     >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you get the ending, the mole from Moleville shoots some fireworks. The
+more you bought from, a different shape appears. Here is what you can get.
+
+0: Mushroom
+1: Mushroom
+2: Mushroom
+3: Flower
+4: Flower
+5: Star
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BOOSTER'S BRIDE SEARCH                                               >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you go to Booster Tower after beating Valentina, you can find her at
+the balcony with Booster! Will history repeat itself?
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   CULEX, THE DARK NIGHT OF VANDA                                       >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Remember that sealed door in Monstro Town? Well, this is when you can open 
+it. To open it, you must get a Shiny Stone. Go to Moleville and purchase a
+Fireworks. Now trade the Fireworks at the little mole's Pur-Tend Store for 
+the Shiny Stone. Use the stone to open the door. Before you go in, make sure 
+your levels are 25+ and bring plenty of Max Mushrooms, Royal Syrup, Pick Me 
+Ups, a Crystalline, a Power Blast, Rock Candy, Kerokero Colas and a Star Egg 
+if you got it. Also, put Toadstool in your party equipped with the Lazy Shell 
+Armor and a Safety Ring to protect her from most magic attacks. Then enter 
+the door and fight Culex...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+BOSS : Culex / Fire Crystal / Earth Crystal     HP: 4096 / 2500 /
+Water Crystal / Wind Crystal                        3200 / 1800 / 800
+
+  Final Fantasy fans should recognize the battle music here! Anyway, as you
+can see from HP levels, these guys are very hard. Use the Crystalline and
+Power Blast to make the battle somewhat easier. If you have the Star Egg, keep
+using that and heal when needed. With that item, you can cause 100+ damage to
+ALL of them! If you don't have the Star Egg, use Rock Candy or any bombs you
+might have. You have some choices to complete this battle: You can use all of
+your attacks on Culex and the Crystals disappear when you beat him, but you
+have to put up the attacks from the Crystals. Or you can get rid of the
+Crystals and then attack Culex, but this way you may use a lot of time and
+items. Some of the attacks can inflict 100+ to all characters, so be very
+careful! Each of the Crystals have their own "element" to them. For example,
+the Fire Crystal attacks with fire.
+
+EXP: 600               Coins: 0                   Items: Quartz Charm
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+  When you win, he gives you a Quartz Charm. Exit the door and it vanishes
+forever!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   DREAM CUSHION GIFT                                                   >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you rest at Nimbus Land a few times, use the Dream Cushion. Sometime or
+later, Mario dreams that Toad turned into a monster! When he wakes up, he sees
+Toad and gets scared. Toad gives him a Red Essence to make him feel better.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   8-BIT MARIO                                                          >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Remember what Mario looked like in Mario Bros. for the NES? Now you can be
+him! Go to Booster Tower and go to the room with the curtains in front of a
+corner. Go behind the curtains and when you come out, he becomes the 8-Bit
+Mario! The game also plays some slightly changed music from Mario Bros. But
+when you leave the room, he goes back to normal and you can't do this again...
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   JUMPING CONTEST                                                      >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Talk to the Chow at Monstro Town and he says he will give you a prize for
+jumping 30 times using the Super Jump. The key to getting those jumps is the
+timing. When you jump a certain number of times, the timing changes. If you
+jump 30 times, he gives you an Attack Scarf. Jump 100 times and he gives you
+a Super Jacket.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   LOOK THE OTHER WAY PRIZE                                             >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  At Grate Guy's Casino, keep talking to Grate Guy to play this game. Play it
+100 times, just playing, NOT winning, to get the best item in the game, the
+Star Egg! It causes damage to all enemies and it can never be used up!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   JINX & JAGGER                                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  At Monstro Town, go through the door that has a "J" sign beside it. Inside
+is an old friend of Bowser's, Jagger. Fight him and Jinx appears. If you can
+beat him in the three rounds, he gives you a Jinx Belt. Make sure your
+character's levels are at least 25. Equip Toadstool with the Lazy Shell and
+the Safety Ring to protect her. After each round, Jinx is stronger, and he has
+more attacks. A couple of his attacks can cause Instant Death, so use a Pick
+Me Up or Come Back.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   BABY YOSHI                                                           >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Return to Yo'ster Island later in the game to find one of the eggs hatched.
+Talk to the Yoshi nearby if you don't have any Cookies and he gives you three
+of them. Find them to the baby and keep repeating. The baby gives you an item
+such as Yoshi-Ade for feeding him!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   UNLIMITED COINS                                                      >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Once you beat Magikoopa, he creates a Gold Treasure Box. Now you can keep
+hitting it to get 999 coins and it never runs out!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   SUITE SWEETS                                                         >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Resting at the Suite at the Marrymore Hotel can get you some valuable items.
+But each stay costs 200 coins. Here is what you can get.
+
+1 Stay  -> Flower Tab
+3 Stays -> Flower Jar
+5 Stays -> 1 Frog Coin
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   MARRIAGE MANIA                                                       >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  When you collect the wedding gear for Toadstool at Marrymore, the reward
+changes. If you collect them and talk to Booster when two pairs of candles 
+are lighted, Toadstool kisses Mario. If get them with more candles lighted,
+Booster and Bowser kiss Mario.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   DAMAGE DEDUCTION                                                     >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Did you know you can decrease damage by 3/4? First, have the character
+defend. Then when he/she is attacked, do the timed defend (press B before 
+hit). The damage is decreased by 3/4 instead of 1/2! This doesn't work all of
+the time, though.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   THE ULTIMATE TEAM                                                    >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  If you are not sure what team to use on the last few bosses of the game,
+here is a party that I would recommend:
+
+-----
+Mario
+-----
+Weapon    -> Lazy Shell
+Armor     -> Hero Shirt
+Accessory -> Safety Badge
+
+---------
+Toadstool
+---------
+Weapon    -> Frying Pan
+Armor     -> Lazy Shell
+Accessory -> Safety Ring
+
+------
+Bowser
+------
+Weapon    -> Drill Claw
+Armor     -> Heal Shell
+Accessory -> Jinx Belt
+
+  If you want, Geno is another great pick instead of Bowser!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   TREASURE BOX HUNT                                                    >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  In Monstro Town, a Pandorite tells you about hidden treasure boxes. To find
+one, you have to jump in a certain area. If you want to get them, equipping
+the Signal Ring can really help. The downside to this is that the Pandorite
+doesn't give you anything for finding them.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   THE MYSTERY OF THE B'TUB RING                                        >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Ever wondered what that accessory was for? Here is what is does...
+
+  First, get the ring and the Mystery Egg from the Rare Item Shop. Now, equip
+Toadstool with the ring. Go into battle and have the princess use the egg 10
+times. Then it changes into Lamb's Lure. In the next battle, have anyone use
+the item about 48 times. Now it changes into Sheep Attack. When you use this
+weird item in battle, it can change most enemies into sheep and they run away.
+It can never be used up, but if all enemies change, you get no EXP and Coins.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   UNLIMITED YOSHI COOKIES                                              >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Later in the game at Yo'ster Isle when the baby appears, you can get all the
+cookies you want! Talk to the Yoshi near the baby for three cookies. When you
+run out, talk to him and you get three more. Now you can you get some free
+items!
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<   YOSHI COOKIE LIST                                                    >>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Probably the most overlooked item is the Yoshi Cookie. This is a great
+secret! With some of these cookies, you can transform enemies into great
+items...for free! This list doesn't have every enemy, but it has a good bit of
+them.
+
+NOTE: When you use a Yoshi Cookie and Yoshi fails to transform, he drops a
+      Yoshi Candy. On some enemies you may need to use it a few times to
+      transform the enemy.
+
++---------------------+-----------------+
+|         NAME        |      ITEM       |
++---------------------+-----------------+
+| Alley Rat           | Able Juice      |
+| Ameboid             | Max Mushroom    |
+| Apprentice          | Nothing         |
+| Arachne             | Energizer       |
+| Armored Ant         | Power Blast     |
+| Artichoker          | Mid Mushroom    |
+| Big Boo             | Fright Bomb     |
+| Bloober             | Elixir          |
+| Bob-omb             | Nothing         |
+| Body                | Mushroom        |
+| Bodyguard (Machine) | Mushroom        |
+| Buzzer              | Mushroom        |
+| Carroboscis         | Honey Syrup     |
+| Chained Kong        | Pick Me Up      |
+| Chewy               | Bad Mushroom    |
+| Chomp               | Bracer          |
+| Chomp Chomp         | Nothing         |
+| Chow                | Fright Bomb     |
+| Cluster             | Pick Me Up      |
+| Corkpedite          | Nothing         |
+| Crook               | Mid Mushroom    |
+| Crusty              | Bracer          |
+| Doppel              | Pick Me Up      |
+| Dry Bones           | Mushroom        |
+| Enigma              | Energizer       |
+| Fink Flower         | Max Mushroom    |
+| Fireball            | Nothing         |
+| Forkies             | Royal Syrup     |
+| Frogog              | Able Juice      |
+| Geckit              | Energizer       |
+| Gecko               | Froggie Drink   |
+| Glum Reaper         | Pure Water      |
+| Goomba              | Mushroom        |
+| Gobi                | Mushroom        |
+| Gorgon              | Maple Syrup     |
+| Greaper             | Honey Syrup     |
+| Guerilla            | Able Juice      |
+| Gu Goomba           | Froggie Drink   |
+| Hippopo             | Nothing         |
+| Hobgoblin           | Pure Water      |
+| Jabit               | Bracer          |
+| Jester              | Honey Syrup     |
+| K-9                 | Energizer       |
+| Kriffid             | Nothing         |
+| Lakitu              | Maple Syrup     |
+| Leuko               | Nothing         |
+| Li'l Boo            | Freshen Up      |
+| Mad Mallet          | Energizer       |
+| Magmus              | Bracer          |
+| Malakoopa           | Maple Syrup     |
+| Mastadoom           | Crystalline     |
+| Mokura              | Nothing         |
+| Mr. Kipper          | Mushroom        |
+| Mukumuku            | Muku Cookie     |
+| Ninja               | Power Blast     |
+| Octovader           | Froggie Drink   |
+| Oerlikon            | Energizer       |
+| Orb User            | Maple Syrup     |
+| Piranha Plant       | Sleepy Bomb     |
+| Pounder             | Energizer       |
+| Poundette           | Energizer       |
+| Puppox              | Nothing         |
+| Pyrosphere          | Nothing         |
+| Rat Funk            | Mushroom        |
+| Reacher             | Pick Me Up      |
+| Remo Con            | Pick Me Up      |
+| Rob-omb             | Pick Me Up      |
+| Sackit              | Max Mushroom    |
+| Shadow              | Honey Syrup     |
+| Shogun              | Royal Syrup     |
+| Shy Away            | Maple Syrup     |
+| Shy Guy             | Honey Syrup     |
+| Sky Troopa          | Mushroom        |
+| Snap Dragon         | Sleepy Bomb     |
+| Sparky              | Fire Bomb       |
+| Spikey              | Bracer          |
+| Spikester           | Bracer          |
+| Spinthra            | Nothing         |
+| Spookum             | Sleepy Bomb     |
+| Springer            | Elixir          |
+| Star Custer         | Nothing         |
+| Starslap            | Mushroom        |
+| Stinger             | Able Juice      |
+| Straw Head          | Pure Water      |
+| Stumpet             | Royal Syrup     |
+| Terra Cotta         | Mid Mushroom    |
+| Tub-O-Troopa        | Elixir          |
+| Vomer               | Pure Water      |
+| Wiggler             | Able Juice      |
+| Zeostar             | Sleepy Bomb     |
++---------------------+-----------------+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   11)   CREDITS                                                       -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section is here to recognize those who have contributed to this FAQ.
+
+Shrubbery9 - HUGE thanks for the psychopath list.
+
+Nintendo Player's Guide - For the shop info.
+
+chris buchner - For a correction.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   12)   CONTACT / LEGAL INFORMATION                                   -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+---------------------
+Copyright Information
+---------------------
+(c) Copyright 1999-2004 Ryan "MetroidMoo" Ammerman
+
+  This FAQ cannot be distributed in books, magazines, etc. or in any other
+form of printed or electronic media (CDs, etc.) in any way. It may not be
+given away as some sort of prize or bonus with a purchase, and it may not be
+used for promotional or profitable purposes.
+
+  Any characters, names, or other objects are copyright their respective
+companies. This document and its author are in no way affiliated with any
+company involved with this game.
+
+------------------
+E-mail Information
+------------------
+E-mail Address: ryanammerman[at]gmail[dot]com
+
+  Before you e-mail me a question, make sure you've looked through the FAQ to
+see if your question is answered. If you send me a question that is answered
+in the FAQ, it WILL be ignored.
+
+--------------
+Posting Notice
+--------------
+  If you wish to use this guide on your site, you may post it without my
+permission as long as this document is **NOT** changed in any way, shape, or
+form. The latest version of this guide can always be found at GameFAQs
+(http://www.gamefaqs.com).
+
+
+                                                         --End of Transmission

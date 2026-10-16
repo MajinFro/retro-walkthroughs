@@ -58,20 +58,22 @@ graph TD
 
 ## 3. The 10-Stage Agent & Pipeline Lifecycle
 
-The walkthrough creation lifecycle is governed by automated CLI scripts (`scripts/pipeline/`) and specialized AI agents defined in `.agents/plugins/retro-walkthrough/skills/`.
+The walkthrough creation lifecycle is governed by automated CLI scripts (`scripts/pipeline/`) and specialized AI agent skills defined in `.agents/plugins/retro-walkthrough/skills/`. Script stages run as plain `npm run` commands. The two bulk stages (4 extraction, 8 writing) are scripts that call a model directly, one call per batch or chapter, with the stage skill as the instructions (see [Model backends](#model-backends-for-rwextract-and-rwwrite)). The judgment stages (source discovery, conflict resolution, planning, adversarial review) are performed by the coding agent following the stage skill. See [AI Agent Setup](#9-ai-agent-setup-antigravity--claude-code) for running the skills in Antigravity or Claude Code.
+
+Run `npm run rw:status -- <gameId>` at any time to see which stages are complete and the exact next action.
 
 | Stage | Command | Primary Module / Skill | Output Artifact | Description |
 |:---:|:---|:---|:---|:---|
-| **1** | `npm run rw:fetch`<br>`npm run rw:collect` | `ra-source-collector`<br>`collect_source.py` | `01_targets/`<br>`02_sources/` | Queries the RetroAchievements API for badge data and conditions, scrapes candidate guides from GameFAQs, and runs multi-tier visual map discovery. |
-| **2** | `npm run rw:chunk` | `chunk-sources.ts` | `03_chunks/chunks.jsonl` | Slices ingested text into deterministic 1,000–3,000 character chunks with preserved line numbers and source provenance. |
-| **3** | `npm run rw:facts` | `ra-fact-extractor` | `04_facts/*.jsonl` | Extracts atomic facts: subject, statement, exact quote, chunk ID, and categorization (chests, missables, maps, strategies). |
-| **4** | `npm run rw:verify` | `verify-facts.ts`<br>`ra-fact-verifier` | `05_verified.json` | Cross-verifies facts against source chunks, flags contradictions, and validates achievement condition coverage. |
-| **5** | `npm run rw:plan` | `graph.ts`<br>`ra-route-planner` | `06_roadmap.json`<br>`07_graph.json` | Constructs a directed topological graph of game areas, sequences achievements, tags missables and points of no return, and sets cumulative checkpoints. |
-| **6** | `npm run rw:packet` | `chapter-packet.ts` | `08_packets/ch*.json` | Bundles facts, area nodes, achievements, visual map links, and missable warnings required for authoring each chapter. |
-| **7** | `npm run rw:write` | `ra-walkthrough-writer` | `08_chapters/*.md` | Generates chapter prose with room-by-room directions, verbatim ASCII/code blocks, achievement anchors, and warning callouts. |
-| **8** | `npm run rw:assemble` | `assemble.ts` | `content/walkthroughs/<id>.md` | Compiles chapters, injects frontmatter, builds dynamic table of contents, renders Mermaid flowcharts, and updates `master.json`. |
-| **9** | `npm run rw:qa` | `qa-check.ts` | `09_qa.json` | Runs strict deterministic QA: 0-error requirement on citations, verbatim code matches, achievement placements, and map links. |
-| **10** | `npm run rw:score` | `score.ts` | `score.json` | Computes the multi-dimensional True 100% score; outputs `ACCEPTED` (>=90%) or `REJECTED`. |
+| **1** | `npm run rw:fetch -- <id>`<br>`npm run rw:ra-guide -- <id>` | `fetch-data.ts`, `ra-guide.ts` | `01_achievements.json`<br>`02_sources/ra-comments.txt`<br>`02_sources/ra-guide.txt`<br>`content/api-dumps/<id>.md` | Queries the RetroAchievements API for game metadata, achievements, badges and community comments, registers the game in `content/master.json`, and downloads the official achievement guide from the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) when the game has one (the API's `guideUrl`, else a wiki page linking the game). |
+| **2** | `npm run rw:find-guides`<br>`npm run rw:browse -- <url>`<br>`npm run rw:collect -- <id> <url> ...` | `ra-source-collector`<br>`search_guides.py`, `browse_page.py`, `collect_source.py` | `02_sources/*.txt`<br>`02_sources/sources.json` | Discovers and downloads full-text guides, checklists and visual maps (multi-tier map discovery) with author attribution. All page access goes through headless Chrome, so sites that block AI fetch tools still work. |
+| **3** | `npm run rw:chunk -- <id>` | `chunk-sources.ts` | `03_chunks.jsonl` | Slices ingested text into deterministic 1,000–3,000 character chunks with preserved line numbers and source provenance. |
+| **4** | `npm run rw:extract -- <id>`<br>`npm run rw:chunks -- <id> --progress` | `extract-facts.ts`, `llm.ts`<br>`ra-fact-extractor` | `04_facts/*.jsonl` | One model call per batch of chunks extracts atomic facts (subject, statement, verbatim quote, chunk ID, category). Every fact is checked with the `rw:verify` rules before it is written; failures get one repair call. Secondary full walkthroughs are extracted in focused mode. |
+| **5** | `npm run rw:verify -- <id>` | `verify-facts.ts`<br>`ra-fact-verifier` | `05_verified.json`<br>`05_aliases.json` | Cross-verifies quotes against source chunks, corroborates facts across sources, flags contradictions, and validates achievement coverage. |
+| **6–7** | `npm run rw:plan -- <id>` | `ra-route-planner`<br>`plan-check.ts`, `graph.ts` | `06_graph.json`<br>`07_roadmap.json`<br>`06_graph.md` | Agent builds the knowledge graph and roadmap (chapters, missables, points of no return, True 100% criteria); the script validates them and renders Mermaid flowcharts. |
+| **8** | `npm run rw:write -- <id>`<br>`npm run rw:packet -- <id> <overview\|N>` | `write-chapters.ts`, `chapter-packet.ts`<br>`ra-walkthrough-writer` | `08_packets/*.md`<br>`08_chapters/*.md` | Builds each chapter's packet (facts, source passages, achievements, maps, warnings, checkpoint totals) and writes the chapter with one model call; `--fix` revises chapters with QA findings. |
+| **9** | `npm run rw:assemble -- <id>`<br>`npm run rw:qa -- <id>` | `assemble.ts`, `qa-check.ts`<br>`ra-qa-auditor` | `08_cited.md`<br>`content/walkthroughs/<id>.md`<br>`09_qa.json`, `09_review.json` | Compiles the overview, roadmap, missables/PONR summaries, Mermaid diagrams and chapters, runs deterministic QA, then the agent performs an adversarial review. |
+| **10** | `npm run rw:score -- <id>` | `score.ts` | `10_score.json` | Computes the multi-dimensional True 100% score; outputs `ACCEPTED` (>=90%) or `REJECTED`. |
+| **11** | `npm run rw:clean -- <id>` | `cleanup.ts` | — | After acceptance and review, purges intermediate `08_packets/` and game scratch files while keeping all research artifacts. |
 
 ---
 
@@ -135,15 +137,29 @@ retro-walkthroughs/
 │   │   ├── index.tsx                  # Showcase catalog grid with metadata cards
 │   │   └── walkthroughs.$gameId.tsx   # Dynamic guide loader with custom ReactMarkdown
 │   ├── components/
-│   │   └── Header.tsx                 # Navigation header with system indicators
+│   │   ├── Header.tsx                 # Navigation header with system indicators
+│   │   └── PlayStationButton.tsx      # Renders PlayStation button tokens as inline icons
+│   ├── router.tsx / client.tsx / ssr.tsx  # TanStack Start router & entry points
 │   ├── styles.css                     # Tailwind CSS 4 configuration
 │   └── routeTree.gen.ts               # Auto-generated TanStack type-safe routes
+├── public/buttons/                    # Controller button SVGs (cross, circle, dpad, l1, ...)
 ├── content/
-│   ├── master.json                    # Registry of published walkthroughs & metadata
+│   ├── master.json                    # Registry of walkthroughs & metadata (written by rw:fetch)
+│   ├── api-dumps/<gameId>.md          # Human-readable RetroAchievements API dump per game
 │   ├── research/<gameId>/             # Complete verifiable research pipeline artifact tree
 │   └── walkthroughs/<gameId>.md       # Assembled production markdown guides
-└── scripts/
-    └── pipeline/                      # TypeScript pipeline execution scripts
+├── scripts/
+│   ├── fetch-data.ts                  # Stage 1: RetroAchievements API fetch
+│   └── pipeline/                      # Pipeline stage scripts (TypeScript + Python)
+├── .agents/
+│   ├── plugins/retro-walkthrough/skills/  # Stage skills (source of truth for Antigravity & Claude Code)
+│   └── rules/                         # Always-on agent rules (CRLF, no shortcuts)
+├── .claude/skills/                    # Claude Code entry points that load the .agents skills
+├── .claude/agents/rw-stage.md         # Opus subagent: one judgment stage (2, 5, 6–7, 9) per fresh context
+├── .claude/agents/rw-worker.md        # Fallback Sonnet subagent for Stages 4/8 when no model backend runs
+├── CLAUDE.md                          # Claude Code project instructions
+├── archive/                           # Retired pipeline scripts & skills (reference only)
+└── scratch/                           # Temporary files (purged by rw:clean)
 ```
 
 ### Key Web Features
@@ -166,26 +182,32 @@ For every game, all intermediate data is preserved in `content/research/<gameId>
 
 ```
 content/research/<gameId>/
-├── 01_targets/
-│   └── achievements.json       # Clean RetroAchievements metadata, badges, and logic
+├── 01_achievements.json        # RetroAchievements metadata, badges, types & descriptions
 ├── 02_sources/
-│   ├── sources.json            # Manifest of all ingested guides, FAQs, and maps
-│   └── *.txt                   # Raw downloaded text and map coordinates
-├── 03_chunks/
-│   └── chunks.jsonl            # Deterministic text chunks with character offsets
+│   ├── sources.json            # Manifest of all ingested guides, FAQs, and maps (with attribution)
+│   ├── ra-comments.txt         # RetroAchievements community comments
+│   └── *.txt                   # Raw downloaded guide text and map pages
+├── 03_chunks.jsonl             # Deterministic text chunks with line numbers & provenance
 ├── 04_facts/
-│   ├── maps.jsonl              # Facts mapping game areas to visual URLs
-│   └── walkthrough.jsonl       # Atomic facts with verbatim quotes & chunk IDs
-├── 05_verified.json            # Verified fact database & coverage audit
-├── 06_roadmap.json             # Topological route, chapter boundaries, missables
-├── 07_graph.json               # Directed acyclic graph of game areas & edges
+│   ├── <source>_<from>-<to>.jsonl  # Atomic facts with verbatim quotes & chunk IDs (one file per batch)
+│   └── _skipped.txt            # Non-game chunks (TOC, legal, credits) with a reason
+├── 05_aliases.json             # Optional: canonical names ↔ alternate spellings/translations
+├── 05_resolutions.json         # Optional: agent rulings on conflicting facts
+├── 05_verified.json            # Verified fact database & coverage audit (script-generated)
+├── 06_graph.json               # Knowledge graph of areas, bosses, items & achievements
+├── 06_graph.md                 # Mermaid flowcharts rendered by rw:plan
+├── 07_roadmap.json             # Chapters, achievement placement, missables, PONRs, True 100% criteria
+├── 08_packets/                 # Per-chapter writing packets (purged by rw:clean)
 ├── 08_chapters/
-│   ├── 00_overview.md          # Mechanics, True 100% criteria, missables overview
-│   └── 01.md ... 08.md         # Full step-by-step room navigation chapters
-├── 09_qa.json                  # Deterministic QA metrics, errors, and warnings
-├── 09_review.json              # Strict human/reviewer agent findings & issues
-└── score.json                  # Final mathematical scoring result & verdict
+│   ├── 00_overview.md          # Mechanics, battle system, hardcore rules
+│   └── 01.md ... NN.md         # Full step-by-step chapters with [[fact-id]] citations
+├── 08_cited.md                 # Assembled guide with citations kept, for audit
+├── 09_qa.json                  # Deterministic QA metrics, errors, and warnings (script-generated)
+├── 09_review.json              # Adversarial reviewer agent findings & issues
+└── 10_score.json               # Final scoring result & verdict (script-generated)
 ```
+
+Never hand-edit the script-generated files (`05_verified.json`, `09_qa.json`, `10_score.json`); fix the upstream artifact and re-run the stage.
 
 ---
 
@@ -193,18 +215,20 @@ content/research/<gameId>/
 
 ### Prerequisites
 - Node.js >= 20.x
-- Python >= 3.10
-- RetroAchievements API credentials in `.env`:
+- Python >= 3.10 with `html2text` and `playwright` (headless Chrome for the source collector, guide finder and page browser)
+- RetroAchievements API credentials in `.env` (get your Web API key from your RetroAchievements settings page):
   ```bash
-  RETROACHIEVEMENTS_USER="YourUsername"
-  RETROACHIEVEMENTS_API_KEY="YourApiKey"
+  RA_USERNAME="YourUsername"
+  RA_API_KEY="YourWebApiKey"
   ```
 
 ### Installation
 ```bash
-git clone https://github.com/Kneig/RetroAchievements.git
-cd RetroAchievements/retro-walkthroughs
+git clone https://github.com/MajinFro/retro-walkthroughs.git
+cd retro-walkthroughs
 npm install
+pip install html2text playwright
+python -m playwright install chromium
 ```
 
 ### Running the Web Platform
@@ -220,39 +244,100 @@ npm run preview
 ```
 
 ### Running the Pipeline for a Game
-```bash
-# 1. Fetch RetroAchievements data
-npx tsx scripts/fetch-data.ts --game <gameId>
+The game ID is the number in the game's RetroAchievements URL (`retroachievements.org/game/<gameId>`). Stages marked *(agent)* are performed by the AI agent following the matching skill; the easiest path is to ask the agent to run the `generate-walkthrough` skill for the game ID and let `rw:status` drive it.
 
-# 2. Chunk ingested sources
+```bash
+# Where am I? Prints completed stages and the exact NEXT action
+npm run rw:status -- <gameId>
+
+# 1. Fetch RetroAchievements data (achievements, comments, RA guides-wiki guide, master.json entry)
+npm run rw:fetch -- <gameId>
+npm run rw:ra-guide -- <gameId> [--url <wiki page>]   # (re)collect only the RA guide
+
+# 2. Find and collect guides & maps (agent: ra-source-collector)
+npm run rw:find-guides -- "<game title>"
+npm run rw:browse -- "<any url>" --links --grep "<game>"   # read non-GameFAQs sites/atlases
+npm run rw:collect -- <gameId> "<url>" --id gf1 --site GameFAQs --title "<guide title>" --author "<author>"
+
+# 3. Chunk ingested sources
 npm run rw:chunk -- <gameId>
 
-# 3. Verify extracted facts
+# 4. Extract facts (model calls; rules: ra-fact-extractor). Re-run until every chunk is processed
+npm run rw:extract -- <gameId>            # --dry-run, --source gf1, --max-batches N, --full, --batch
+npm run rw:chunks -- <gameId> --progress
+
+# 5. Verify extracted facts (agent resolves conflicts: ra-fact-verifier)
 npm run rw:verify -- <gameId>
 
-# 4. Assemble final walkthrough
-npm run rw:assemble -- <gameId>
+# 6-7. Validate graph & roadmap written by the agent (ra-route-planner)
+npm run rw:plan -- <gameId>
 
-# 5. Run deterministic QA audit
+# 8. Write every missing chapter (model calls; rules: ra-walkthrough-writer), then assemble + QA
+npm run rw:write -- <gameId>              # name chapters to limit; --force rewrites
+npm run rw:write -- <gameId> --fix        # revise chapters with QA findings (--note "<finding>" for review findings)
+npm run rw:packet -- <gameId> 1           # inspect a packet
+
+# 9. Assemble and run deterministic QA (agent then reviews: ra-qa-auditor)
+npm run rw:assemble -- <gameId>
 npm run rw:qa -- <gameId>
 
-# 6. Calculate True 100% Score
+# 10. Calculate True 100% score
 npm run rw:score -- <gameId>
+
+# 11. After acceptance and your review, purge intermediate packets/scratch
+npm run rw:clean -- <gameId>
 ```
 
 ---
 
-## 9. Showcase Guides
+## 9. AI Agent Setup (Antigravity & Claude Code)
+
+The agent stages are defined once, in `.agents/plugins/retro-walkthrough/skills/`, and work in both agents:
+
+| | Antigravity | Claude Code |
+|:---|:---|:---|
+| **Skills** | Loaded from `.agents/plugins/retro-walkthrough/skills/` | `.claude/skills/<name>/SKILL.md` entry points load the same `.agents` skill files |
+| **Always-on rules** | `.agents/rules/*.md` | Imported by `CLAUDE.md` |
+| **Start a game** | Ask: "generate a walkthrough for game 1234" | Ask the same, or type `/generate-walkthrough 1234` |
+| **Judgment stages (2, 5, 6–7, 9)** | `invoke_subagent` per stage (or a new conversation) | `rw-stage` agent per stage (`.claude/agents/rw-stage.md`, Opus, fresh context) |
+| **Bulk stages (4, 8)** | `npm run rw:extract` / `rw:write` (`RW_LLM=gemini` without the claude CLI) | `npm run rw:extract` / `rw:write` |
+| **Fallback subagents** | `invoke_subagent` (or inline) | `rw-worker` agent (`.claude/agents/rw-worker.md`, Sonnet), only when no model backend runs |
+
+**Cost control.** The Super Mario RPG build (game 471), done with one agent per batch and chapter and orchestrated from one long Opus session, used about 114M tokens: 70M in the main session re-reading its own growing context and 44M in 70 subagents. Three changes cut that:
+
+1. **Bulk stages are scripts.** `rw:extract` and `rw:write` make one model call per batch or chapter (no agent loop, no re-reading the skill every turn), check the reply deterministically, and repair once. In testing on game 471, an 8-chunk extraction batch cost about 50–85k tokens on Haiku and a chapter about 115k on Sonnet.
+2. **Fresh context per judgment stage.** The session you talk to is a thin coordinator: it runs the command stages and hands each judgment stage (source collection, conflict resolution, planning, review) to a fresh `rw-stage` agent (`.claude/agents/rw-stage.md`, Opus), which reads its inputs from disk and reports back in a few lines. `rw:status` prints a `WHO:` line saying which applies. No manual `/clear` is needed. See "Coordinator mode" in the `generate-walkthrough` skill.
+3. **Fewer repair rounds.** Packets carry exact checkpoint totals; `rw:plan` warns about area labels that match no fact location (the cause of thin packets) and about achievements planned away from their facts; `rw:qa` catches drafting notes, wrong checkpoint totals and broken cross-chapter promises; `rw:write --fix` repairs chapters with a model call instead of in the orchestrator's context.
+
+Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl`; `rw:status` prints the total.
+
+### Model backends for rw:extract and rw:write
+
+| `RW_LLM` | Needs | Default models (extract / write) | Notes |
+|:---|:---|:---|:---|
+| `claude-cli` (default when installed) | the `claude` CLI, logged in | `haiku` / `sonnet` | Runs `claude -p` with tools disabled and the system prompt replaced, from a temp directory (no CLAUDE.md). Uses the Claude Code login. |
+| `anthropic` | `ANTHROPIC_API_KEY` | `claude-haiku-5-5` / `claude-sonnet-5-5` | Prompt caching on the system prompt; `rw:extract --batch` uses the Message Batches API (half price, results within 24h). |
+| `gemini` | `GEMINI_API_KEY` | `gemini-flash-latest` / `gemini-pro-latest` | For Antigravity, or machines without the claude CLI. |
+
+Override models with `--model` or `RW_MODEL_EXTRACT` / `RW_MODEL_WRITE`, and concurrency with `--concurrency` (default 4 for the CLI, 8 for the APIs).
+
+The shared rule `.agents/rules/agent-tools.md` maps the generic actions used in the skills (read a file, fetch a page, web search, run a command, spawn a subagent) to the tool names of each agent. A Claude Code hook (`.claude/settings.json`) converts files written by `Write`/`Edit` to CRLF. When editing a skill, edit the file under `.agents/`; if you add, rename, or re-describe a skill, run `npm run rw:sync-skills` to regenerate the Claude Code entry points.
+
+---
+
+## 10. Showcase Guides
 
 | Game ID | Title | System | Words | Maps Linked | Achievements | QA Errors | Final Score | Status |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **253** | *Super Mario All-Stars* | SNES/Super Famicom | 12,647 | 229 / 229 (100%) | 111 / 111 (100%) | 0 | **98%** | **ACCEPTED** |
 | **1005** | *Lufia II: Rise of the Sinistrals* | SNES/Super Famicom | 10,873 | 31 / 30 (100%) | 60 / 60 (100%) | 0 | **99%** | **ACCEPTED** |
 | **1887** | *Princess Tomato in the Salad Kingdom* | NES/Famicom | 6,677 | N/A (44 Scenes) | 52 / 52 (100%) | 0 | **96%** | **ACCEPTED** |
+| **11401** | *Tekken* | PlayStation | 9,267 | N/A (Fighting Game) | 43 / 43 (100%) | 0 | **97%** | **ACCEPTED** |
 
 ---
 
-## 10. Standards & Contributing Guidelines
+## 11. Standards & Contributing Guidelines
 - **CRLF Line Endings**: All markdown, scripts, and code in this repository strictly use `\r\n` line endings.
+- **No Shortcuts**: Pipelines always run against real sources and real tools. Never mock data, simulate stage output, or fill gaps from memory.
 - **Verbatim ASCII / Code Blocks**: Maps, tables, and equipment matrices must match source text verbatim. Never invent layout drawings.
-- **Callout Standard**: Use `> [!ACHIEVEMENT]`, `> [!WARNING]` (missables), `> [!CAUTION]` (points of no return), and `> ### Cumulative 100% Checkpoint` to maintain audit compatibility.
+- **Callout Standard**: Use `> [!ACHIEVEMENT]`, `> [!WARNING]` (missables), `> [!CAUTION]` (points of no return, containing the phrase "Point of No Return"), and a `> [!IMPORTANT]` callout headed `### Chapter N Cumulative 100% Checkpoint` at the end of every chapter to maintain audit compatibility.

@@ -4,6 +4,7 @@
  * Every stage reads/writes files under content/research/<gameId>/ so that
  * each stage can be run (or re-run) independently, in any conversation.
  */
+import { createHash } from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -44,7 +45,7 @@ export interface SourceEntry {
   author?: string;
   url: string | string[];
   image_url?: string;
-  kind: "guide" | "wiki" | "forum" | "ra-comments" | "map" | "checklist" | "other";
+  kind: "guide" | "wiki" | "forum" | "ra-comments" | "ra-guide" | "map" | "checklist" | "other";
   file: string; // relative to 02_sources/
   chars?: number;
   collected_at?: string;
@@ -69,6 +70,7 @@ export interface Evidence {
   source_id: string;
   chunk_id: string;
   quote: string;
+  translation?: string; // English translation when the verbatim quote is not in English
   stance?: "supports" | "contradicts";
   note?: string;
 }
@@ -286,6 +288,115 @@ export function loadFacts(factsDir: string): Fact[] {
   return files.flatMap((f) => readJsonl<Fact>(path.join(factsDir, f)));
 }
 
+/** 04_facts/_skipped.txt: "<chunk_id> <reason>" per line -> chunk_id => reason */
+export function loadSkipped(factsDir: string): Map<string, string> {
+  const m = new Map<string, string>();
+  const f = path.join(factsDir, "_skipped.txt");
+  if (!exists(f)) return m;
+  for (const line of readText(f).split(/\r?\n/)) {
+    const t = line.trim();
+    if (!t) continue;
+    const [chunkId, ...reason] = t.split(/\s+/);
+    m.set(chunkId, reason.join(" "));
+  }
+  return m;
+}
+
+export interface SourceProgress {
+  total: number;
+  done: number;
+  todo: number[]; // chunk numbers neither cited by a fact nor listed in _skipped.txt
+}
+
+/**
+ * Stage 4 completeness: a chunk is processed only when a fact cites it or
+ * _skipped.txt lists it with a reason. Every source counts, including ra-comments.
+ */
+export function chunkProgress(chunks: Chunk[], facts: Fact[], skipped: Map<string, string>) {
+  // quoting only the "Description:" line rw:fetch writes into ra-comments does not count as reading the chunk
+  const isAchMetadata = (e: Evidence) => e.source_id === "ra-comments" && /^\s*description\s*:/i.test(e.quote ?? "");
+  const cited = new Set(facts.flatMap((f) => (f.evidence ?? []).filter((e) => !isAchMetadata(e)).map((e) => e.chunk_id)));
+  const bySource = new Map<string, SourceProgress>();
+  const unprocessed: Chunk[] = [];
+  for (const c of chunks) {
+    const s = bySource.get(c.source_id) ?? { total: 0, done: 0, todo: [] };
+    s.total++;
+    if (cited.has(c.chunk_id) || skipped.has(c.chunk_id)) s.done++;
+    else {
+      s.todo.push(c.n);
+      unprocessed.push(c);
+    }
+    bySource.set(c.source_id, s);
+  }
+  return { bySource, unprocessed };
+}
+
+/** The next extraction batch: up to `max` unprocessed chunks of the first unfinished source, within a span of 10. */
+export function nextBatch(gameId: string, bySource: Map<string, SourceProgress>, max = 8): string | null {
+  for (const [src, s] of bySource) {
+    if (!s.todo.length) continue;
+    const from = s.todo[0];
+    const within = s.todo.filter((n) => n - from < 10).slice(0, max);
+    return `npm run rw:chunks -- ${gameId} --source ${src} --from ${from} --to ${within[within.length - 1]}`;
+  }
+  return null;
+}
+
+/** [1,2,3,5,7,8] -> "1-3, 5, 7-8" */
+export function compressRanges(ns: number[]): string {
+  if (!ns.length) return "";
+  const out: string[] = [];
+  let a = ns[0];
+  let b = ns[0];
+  for (let i = 1; i <= ns.length; i++) {
+    if (ns[i] === b + 1) b = ns[i];
+    else {
+      out.push(a === b ? `${a}` : `${a}-${b}`);
+      a = b = ns[i];
+    }
+  }
+  return out.join(", ");
+}
+
+// ---------------------------------------------------------------------------
+// Fingerprints: detect stale downstream artifacts by content, not mtimes
+// (git checkouts and clones reset mtimes).
+// ---------------------------------------------------------------------------
+export function fingerprint(value: unknown): string {
+  const text = typeof value === "string" ? value : JSON.stringify(value);
+  return createHash("sha1").update(text.replace(/\r\n/g, "\n")).digest("hex").slice(0, 16);
+}
+
+/** Content of a file for fingerprinting; JSON outputs drop their generated_at timestamp. */
+function fpContent(p: string): string {
+  if (!exists(p)) return "";
+  const text = readText(p);
+  if (!p.endsWith(".json")) return text;
+  const { generated_at: _ignored, ...rest } = JSON.parse(text);
+  return JSON.stringify(rest);
+}
+
+export function fingerprintFiles(files: string[]): string {
+  return fingerprint(files.map((f) => `${path.basename(f)}\n${fpContent(f)}`).join("\n\u0000\n"));
+}
+
+/** What rw:verify reads: every fact file, the chunks, aliases, corroborations and resolutions. */
+export function verifyInputFiles(P: ReturnType<typeof paths>): string[] {
+  const factFiles = exists(P.factsDir)
+    ? fs.readdirSync(P.factsDir).filter((f) => f.endsWith(".jsonl")).sort().map((f) => path.join(P.factsDir, f))
+    : [];
+  return [...factFiles, P.chunks, P.aliases, P.corroborations, P.resolutions, P.achievements];
+}
+
+/** What rw:qa reads: verified facts, graph, roadmap and every chapter draft. */
+export function qaInputFiles(P: ReturnType<typeof paths>, chapterNs: number[]): string[] {
+  return [P.verified, P.graph, P.roadmap, path.join(P.chaptersDir, "00_overview.md"), ...chapterNs.map((n) => path.join(P.chaptersDir, chapterFile(n)))];
+}
+
+export function chapterInputFiles(P: ReturnType<typeof paths>, chapterNs: number[]): string[] {
+  return [path.join(P.chaptersDir, "00_overview.md"), ...chapterNs.map((n) => path.join(P.chaptersDir, chapterFile(n)))];
+}
+
 export function loadChunks(p: string): Map<string, Chunk> {
   const m = new Map<string, Chunk>();
   for (const c of readJsonl<Chunk>(p)) m.set(c.chunk_id, c);
@@ -298,4 +409,96 @@ export const MERMAID_RE = /\[MERMAID\]/g;
 
 export function chapterFile(n: number | string) {
   return typeof n === "number" ? `${String(n).padStart(2, "0")}.md` : `${n}.md`;
+}
+
+// ---------------------------------------------------------------------------
+// Per-fact checks shared by rw:verify and rw:extract (deterministic, no model judgement)
+// ---------------------------------------------------------------------------
+export const FACT_TYPES = new Set<string>([
+  "location", "transition", "event", "boss", "enemy", "item", "shop", "npc", "quest",
+  "mechanic", "missable", "ponr", "achievement", "map", "save_point", "tip",
+]);
+
+/** null when the quote appears verbatim (normalized) in the chunk; "..." may join two verbatim parts in order. */
+export function quoteProblem(ev: Evidence, chunk: Chunk | undefined): string | null {
+  if (!chunk) return `chunk ${ev.chunk_id} does not exist`;
+  if (chunk.source_id !== ev.source_id) return `chunk ${ev.chunk_id} belongs to ${chunk.source_id}, not ${ev.source_id}`;
+  const q = ev.quote || "";
+  const parts = q.split(/\.\.\.|…/).map(norm).filter(Boolean);
+  if (!parts.length || norm(q).length < 12) return `quote too short: "${q}"`;
+  const hay = norm(chunk.text);
+  let pos = 0;
+  for (const p of parts) {
+    const i = hay.indexOf(p, pos);
+    if (i === -1) return `quote not found verbatim in ${ev.chunk_id}: "${q.slice(0, 80)}"`;
+    pos = i + p.length;
+  }
+  return null;
+}
+
+export interface FactCheckContext {
+  chunks: Map<string, Chunk>;
+  achIds: Set<number>;
+  achDescs: Set<string>; // norm(description) of every achievement
+}
+
+export function factCheckContext(chunks: Map<string, Chunk>, ach: AchievementsFile): FactCheckContext {
+  return { chunks, achIds: new Set(ach.achievements.map((a) => a.id)), achDescs: new Set(ach.achievements.map((a) => norm(a.description))) };
+}
+
+const HARD_FAIL_RE = /bad id|unknown type|missing text|achievement description|low quote overlap|unquoted number/;
+
+/**
+ * Schema + evidence checks for one fact (everything except duplicate ids, which need the whole set).
+ * Returns the problems, the evidence that survived, and whether the fact must be rejected.
+ */
+export function checkFact(f: Fact, ctx: FactCheckContext): { problems: string[]; evidence: Evidence[]; reject: boolean } {
+  const problems: string[] = [];
+  const fid = f.id ?? "";
+  if (!/^[a-z0-9][a-z0-9\-]*-\d+-\d+$/.test(fid)) problems.push(`bad id format (want <source>-<chunk n>-<k>)`);
+  if (!FACT_TYPES.has(f.type)) problems.push(`unknown type "${f.type}"`);
+  if (!f.text || !f.subject || !f.predicate) problems.push("missing text/subject/predicate");
+  for (const a of f.achievement_ids ?? []) if (!ctx.achIds.has(Number(a))) problems.push(`unknown achievement id ${a}`);
+
+  const goodEv: Evidence[] = [];
+  for (const ev of f.evidence ?? []) {
+    const err = quoteProblem(ev, ctx.chunks.get(ev.chunk_id));
+    if (err) problems.push(err);
+    else {
+      const qNorm = norm(ev.quote);
+      // achievement metadata: the "Description:" line rw:fetch writes into ra-comments, or any quote identical to a description
+      const isAchMetadata = ctx.achDescs.has(qNorm) || (ev.source_id === "ra-comments" && qNorm.startsWith("description"));
+      if (isAchMetadata || (qNorm.startsWith("description") && f.type !== "achievement")) {
+        problems.push(`quote is an achievement description — facts must cite guide text or RA comments, not achievement metadata`);
+      } else {
+        goodEv.push({ ...ev, stance: ev.stance ?? "supports" });
+      }
+    }
+  }
+
+  // Quote overlap audit for gameplay facts: check if fact text introduces unverified claims
+  if (f.type !== "achievement" && goodEv.length > 0 && f.text) {
+    // a non-English quote carries an English `translation`; compare the fact text against that
+    const quoteTerms = new Set(goodEv.flatMap((e) => keyTerms(e.translation ? `${e.quote} ${e.translation}` : e.quote)));
+    const textTerms = keyTerms(f.text);
+    if (textTerms.length >= 6) {
+      const overlap = textTerms.filter((w) => quoteTerms.has(w)).length;
+      const ratio = overlap / textTerms.length;
+      if (ratio < 0.2) {
+        problems.push(`low quote overlap (${Math.round(ratio * 100)}%): fact text contains words not in evidence quote — ensure fact does not invent details`);
+      }
+    }
+  }
+
+  // Number audit: HP, prices, counts, and other multi-digit numbers in the fact text must appear in its quotes
+  // (single digits are tolerated: room/floor ordinals often come from a section heading).
+  if (goodEv.length > 0 && f.text) {
+    const digits = (s: string) => s.replace(/(\d),(?=\d{3})/g, "$1");
+    const quoteNums = new Set(goodEv.flatMap((e) => digits(`${e.quote} ${e.translation ?? ""}`).match(/\d+/g) ?? []));
+    const missing = [...new Set(digits(f.text).match(/\b\d{2,}\b/g) ?? [])].filter((n) => !quoteNums.has(n));
+    if (missing.length) problems.push(`unquoted number(s) ${missing.join(", ")}: every multi-digit number in the fact text must appear in an evidence quote`);
+  }
+
+  const reject = !goodEv.some((e) => e.stance === "supports") || problems.some((p) => HARD_FAIL_RE.test(p));
+  return { problems, evidence: goodEv, reject };
 }

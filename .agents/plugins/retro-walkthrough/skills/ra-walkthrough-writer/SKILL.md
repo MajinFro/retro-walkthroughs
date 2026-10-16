@@ -18,7 +18,9 @@ description: Stage 8 of the walkthrough pipeline. Writes exhaustive, idiot-proof
 
 ## Workflow: Chapter by Chapter
 
-Do NOT attempt to write the entire walkthrough at once. Generate one chapter per turn:
+**Default: run the script.** `npm run rw:write -- <gameId>` builds each missing chapter's packet, sends it to a model with these rules as its instructions (one call per chapter), checks the draft (citations, achievement tags, callouts, checkpoint totals, drafting notes), repairs it once if needed, writes `08_chapters/`, and runs `rw:assemble` + `rw:qa`. `npm run rw:write -- <gameId> --fix` revises the chapters that have QA errors or score-affecting warnings. Name chapters to limit a run (`rw:write -- <gameId> overview 3`); `--force` rewrites existing files.
+
+**Fallback (no model backend available): write by hand.** Do NOT attempt to write the entire walkthrough at once. Generate one chapter per turn:
 
 ### 1. Build the Chapter Packet
 Run the packet generator:
@@ -32,7 +34,7 @@ npm run rw:packet -- <gameId> 1
 This generates `content/research/<gameId>/08_packets/<00_overview.md | 01.md ...>`.
 
 ### 2. Read the Packet
-Use `view_file` to read the packet. Notice that it contains:
+Read the packet file (`view_file` in Antigravity, `Read` in Claude Code). Packets are large, so read them in line-range slices. Notice that it contains:
 - **Assigned Achievements:** List of exact IDs to place.
 - **Missables & PONR Warnings:** Explicit deadlines that require callouts.
 - **Verified Facts:** Usable atomic statements with supporting quotes.
@@ -42,10 +44,6 @@ Use `view_file` to read the packet. Notice that it contains:
 Save your draft to `content/research/<gameId>/08_chapters/<00_overview.md | 01.md ...>`.
 
 ---
-
-## Required Chapter Structure
-
-Each chapter file (e.g. `01.md`) MUST include:
 
 ## Required Chapter Structure
 
@@ -121,7 +119,7 @@ Each chapter file (e.g. `01.md`) MUST include:
    - For RPG bosses: HP, elemental weaknesses/resistances, dangerous attacks, recommended level/equipment, and turn-by-turn counter strategies.
 
 9. **Cumulative 100% Progress Checkpoint (MANDATORY):**
-   Conclude every chapter with an explicit cumulative numerical tracking block:
+   Conclude every chapter with an explicit cumulative numerical tracking block. Use exactly the running totals in the packet's "Cumulative checkpoint totals" section (computed from the roadmap; `rw:qa` rejects other numbers), cite a fact for the chapter's collectibles, and never write notes about other chapters' drafts or files:
    ```markdown
    > [!IMPORTANT]
    > ### Chapter 1 Cumulative 100% Checkpoint

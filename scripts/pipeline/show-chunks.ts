@@ -7,9 +7,7 @@
  *   npx tsx scripts/pipeline/show-chunks.ts <gameId> --grep "silver sword" [--source gf2]
  *   npx tsx scripts/pipeline/show-chunks.ts <gameId> --progress     (which chunks have facts)
  */
-import fs from "node:fs";
-import path from "node:path";
-import { type Chunk, flag, gameIdArg, loadFacts, norm, paths, readJsonl, requireFile } from "./lib.ts";
+import { type Chunk, chunkProgress, compressRanges, flag, gameIdArg, loadFacts, loadSkipped, nextBatch, norm, paths, readJsonl, requireFile } from "./lib.ts";
 
 const id = gameIdArg();
 const P = paths(id);
@@ -21,40 +19,19 @@ if (source) chunks = chunks.filter((c) => c.source_id === source);
 
 if (flag("progress")) {
   const facts = loadFacts(P.factsDir);
-  const done = new Set(facts.flatMap((f) => f.evidence.map((e) => e.chunk_id)));
-  const skipped = new Set<string>();
-  const skipFile = path.join(P.factsDir, "_skipped.txt");
-  if (fs.existsSync(skipFile))
-    fs.readFileSync(skipFile, "utf-8").split(/\r?\n/).forEach((l) => l.trim() && skipped.add(l.trim().split(/\s/)[0]));
-  const bySrc = new Map<string, { total: number; done: number; todo: string[] }>();
-  for (const c of chunks) {
-    const s = bySrc.get(c.source_id) ?? { total: 0, done: 0, todo: [] };
-    s.total++;
-    if (done.has(c.chunk_id) || skipped.has(c.chunk_id)) s.done++;
-    else s.todo.push(String(c.n));
-    bySrc.set(c.source_id, s);
-  }
-  for (const [s, v] of bySrc) {
-    const pct = Math.round((v.done / v.total) * 100);
+  const { bySource, unprocessed } = chunkProgress(chunks, facts, loadSkipped(P.factsDir));
+  for (const [s, v] of bySource) {
+    const pct = Math.floor((v.done / v.total) * 100);
     console.log(`${s.padEnd(12)} ${v.done}/${v.total} chunks processed (${pct}%)`);
-    if (v.todo.length) console.log(`   unprocessed: ${compress(v.todo.map(Number))}`);
+    if (v.todo.length) console.log(`   unprocessed: ${compressRanges(v.todo)}`);
   }
   console.log(`\nTotal facts: ${facts.length}`);
+  const next = nextBatch(id, bySource);
+  if (next) {
+    console.log(`\n${unprocessed.length} chunk(s) left. Stage 4 is complete only at 100% of every source (including ra-comments).`);
+    console.log(`NEXT BATCH: ${next}`);
+  } else console.log("\n✅ Every chunk is cited by a fact or listed in _skipped.txt. Stage 4 complete.");
   process.exit(0);
-}
-
-function compress(ns: number[]): string {
-  const out: string[] = [];
-  let a = ns[0];
-  let b = ns[0];
-  for (let i = 1; i <= ns.length; i++) {
-    if (ns[i] === b + 1) b = ns[i];
-    else {
-      out.push(a === b ? `${a}` : `${a}-${b}`);
-      a = b = ns[i];
-    }
-  }
-  return out.join(", ");
 }
 
 if (flag("list")) {

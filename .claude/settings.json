@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run rw:clean:*)",
+      "PowerShell(npm run rw:clean:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/to-crlf.mjs\" --hook",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

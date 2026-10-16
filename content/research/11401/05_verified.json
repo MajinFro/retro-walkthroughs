@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-10-16T01:59:07.222Z",
+  "generated_at": "2026-10-16T12:12:22.582Z",
+  "inputs": "74c75beb926cac83",
   "stats": {
-    "total": 146,
+    "total": 226,
     "verified": 16,
-    "single_source": 130,
+    "single_source": 210,
     "conflict": 0,
     "resolved": 0,
     "rejected": 0,
@@ -28,8 +29,28 @@
         "gf1-18-1",
         "gf1-18-2",
         "gf3-1-2",
+        "ra-comments-11-1",
+        "ra-comments-3-1",
+        "ra-comments-4-5",
+        "ra-comments-4-6",
+        "ra-comments-4-10",
+        "ra-comments-10-1",
+        "ra-comments-10-2",
+        "ra-comments-10-3",
+        "ra-comments-10-4",
+        "ra-comments-11-2",
+        "ra-comments-11-3",
+        "ra-comments-11-4",
+        "ra-comments-11-5",
+        "ra-comments-12-1",
+        "ra-comments-12-2",
+        "ra-comments-12-3",
+        "ra-comments-13-1",
         "ra-comments-9-1",
-        "ra-comments-11-1"
+        "ra-comments-9-2",
+        "ra-comments-9-3",
+        "ra-comments-9-4",
+        "ra-comments-9-5"
       ],
       "best": "single_source"
     },
@@ -39,7 +60,9 @@
         "gf2-2-1",
         "gf4-5-1",
         "gf4-12-1",
-        "ra-comments-56-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -48,7 +71,9 @@
       "facts": [
         "gf1-24-1",
         "gf4-7-1",
-        "ra-comments-57-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -64,7 +89,9 @@
       "title": "Silent Assassin",
       "facts": [
         "gf4-13-1",
-        "ra-comments-58-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -72,7 +99,9 @@
       "title": "Hot-blooded Martial Artist",
       "facts": [
         "gf1-22-1",
-        "ra-comments-59-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -80,7 +109,9 @@
       "title": "The Legendary Dragon",
       "facts": [
         "gf1-23-1",
-        "ra-comments-60-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -88,7 +119,9 @@
       "title": "Super Killing Machine",
       "facts": [
         "gf4-4-1",
-        "ra-comments-61-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -96,7 +129,9 @@
       "title": "Beast Priest",
       "facts": [
         "gf2-5-1",
-        "ra-comments-62-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -107,7 +142,9 @@
         "gf2-6-1",
         "gf4-6-1",
         "gf4-9-1",
-        "ra-comments-63-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -116,7 +153,9 @@
       "facts": [
         "gf1-27-1",
         "gf2-10-1",
-        "ra-comments-64-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -126,6 +165,9 @@
         "gf1-30-1",
         "gf2-7-1",
         "gf3-9-1",
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1",
         "ra-comments-65-1"
       ],
       "best": "single_source"
@@ -134,7 +176,9 @@
       "title": "Silver Haired-Demon",
       "facts": [
         "gf1-26-1",
-        "ra-comments-66-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -142,6 +186,9 @@
       "title": "Lost Memory Monster",
       "facts": [
         "gf1-28-1",
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1",
         "ra-comments-67-1"
       ],
       "best": "single_source"
@@ -150,35 +197,46 @@
       "title": "Wicked Flower",
       "facts": [
         "gf1-29-1",
-        "ra-comments-68-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
     "90418": {
       "title": "Rikishi Strength",
       "facts": [
-        "ra-comments-69-1"
+        "ra-comments-2-2",
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
     "90419": {
       "title": "Scarlet Lightning",
       "facts": [
-        "ra-comments-70-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
     "90420": {
       "title": "Mad Bear",
       "facts": [
-        "ra-comments-71-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
     "90421": {
       "title": "Traitorous Female Ninja",
       "facts": [
-        "ra-comments-72-1"
+        "ra-comments-3-4",
+        "ra-comments-4-9",
+        "ra-comments-6-1"
       ],
       "best": "single_source"
     },
@@ -186,7 +244,14 @@
       "title": "Hand-to-Hand Expert",
       "facts": [
         "gf1-20-1",
-        "ra-comments-76-1"
+        "ra-comments-2-2",
+        "ra-comments-76-1",
+        "ra-comments-76-2",
+        "ra-comments-76-3",
+        "ra-comments-76-4",
+        "ra-comments-76-5",
+        "ra-comments-76-6",
+        "ra-comments-76-7"
       ],
       "best": "single_source"
     },
@@ -194,15 +259,26 @@
       "title": "Hand-to-Hand Veteran",
       "facts": [
         "gf1-20-1",
-        "ra-comments-74-1"
+        "ra-comments-76-3",
+        "ra-comments-76-4"
       ],
       "best": "single_source"
     },
     "90427": {
       "title": "Five Minute Death Punch",
       "facts": [
+        "ra-comments-78-1",
+        "ra-comments-1-5",
+        "ra-comments-3-5",
+        "ra-comments-76-3",
+        "ra-comments-76-5",
         "ra-comments-77-1",
-        "ra-comments-78-1"
+        "ra-comments-77-2",
+        "ra-comments-77-3",
+        "ra-comments-77-4",
+        "ra-comments-77-5",
+        "ra-comments-77-7",
+        "ra-comments-78-2"
       ],
       "best": "single_source"
     },
@@ -218,6 +294,9 @@
         "gf3-1-3",
         "gf4-11-1",
         "gf4-11-2",
+        "ra-comments-1-4",
+        "ra-comments-38-6",
+        "ra-comments-77-6",
         "ra-comments-15-1"
       ],
       "best": "single_source"
@@ -226,9 +305,15 @@
       "title": "Long Journey",
       "facts": [
         "gf1-20-2",
-        "ra-comments-79-1",
         "ra-comments-79-2",
-        "ra-comments-80-1"
+        "ra-comments-80-1",
+        "ra-comments-1-5",
+        "ra-comments-79-3",
+        "ra-comments-79-4",
+        "ra-comments-79-5",
+        "ra-comments-79-6",
+        "ra-comments-80-2",
+        "ra-comments-80-3"
       ],
       "best": "single_source"
     },
@@ -242,7 +327,12 @@
         "gf3-2-3",
         "gf3-3-1",
         "gf3-7-1",
-        "ra-comments-22-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
+        "ra-comments-22-1",
+        "ra-comments-22-2"
       ],
       "best": "verified"
     },
@@ -253,8 +343,7 @@
         "gf1-6-3",
         "gf3-2-3",
         "gf5-2-1",
-        "gf5-2-2",
-        "ra-comments-17-1"
+        "gf5-2-2"
       ],
       "best": "single_source"
     },
@@ -284,8 +373,45 @@
         "gf4-11-3",
         "gf4-11-4",
         "gf4-10-1",
-        "ra-comments-19-1",
-        "ra-comments-38-2"
+        "ra-comments-38-2",
+        "ra-comments-1-3",
+        "ra-comments-2-3",
+        "ra-comments-2-4",
+        "ra-comments-3-3",
+        "ra-comments-4-2",
+        "ra-comments-4-4",
+        "ra-comments-4-7",
+        "ra-comments-5-1",
+        "ra-comments-5-2",
+        "ra-comments-5-4",
+        "ra-comments-19-2",
+        "ra-comments-19-3",
+        "ra-comments-19-4",
+        "ra-comments-19-5",
+        "ra-comments-19-6",
+        "ra-comments-19-7",
+        "ra-comments-19-8",
+        "ra-comments-19-9",
+        "ra-comments-19-10",
+        "ra-comments-19-11",
+        "ra-comments-19-12",
+        "ra-comments-19-13",
+        "ra-comments-19-14",
+        "ra-comments-19-15",
+        "ra-comments-19-16",
+        "ra-comments-19-17",
+        "ra-comments-19-18",
+        "ra-comments-19-19",
+        "ra-comments-19-20",
+        "ra-comments-19-21",
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "ra-comments-20-3",
+        "ra-comments-20-4",
+        "ra-comments-20-5",
+        "ra-comments-20-6",
+        "ra-comments-20-7",
+        "ra-comments-20-8"
       ],
       "best": "verified"
     },
@@ -296,6 +422,10 @@
         "gf1-7-2",
         "gf2-3-1",
         "gf2-3-2",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
         "ra-comments-24-1"
       ],
       "best": "verified"
@@ -306,7 +436,10 @@
         "gf1-8-1",
         "gf1-8-2",
         "gf2-4-1",
-        "ra-comments-26-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "verified"
     },
@@ -316,6 +449,10 @@
         "gf1-9-3",
         "gf1-9-4",
         "gf4-11-4",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
         "ra-comments-28-1"
       ],
       "best": "single_source"
@@ -325,7 +462,10 @@
       "facts": [
         "gf1-9-1",
         "gf1-9-2",
-        "ra-comments-34-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "single_source"
     },
@@ -334,7 +474,10 @@
       "facts": [
         "gf1-10-1",
         "gf1-10-2",
-        "ra-comments-30-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "single_source"
     },
@@ -344,7 +487,14 @@
         "gf1-10-3",
         "gf1-10-4",
         "gf2-4-2",
-        "ra-comments-32-1"
+        "ra-comments-1-6",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-3",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
+        "ra-comments-32-1",
+        "ra-comments-32-2"
       ],
       "best": "verified"
     },
@@ -354,7 +504,10 @@
         "gf1-11-1",
         "gf1-11-2",
         "gf4-11-3",
-        "ra-comments-36-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "verified"
     },
@@ -366,7 +519,22 @@
         "gf3-7-1",
         "gf3-9-1",
         "gf5-1-1",
-        "ra-comments-38-1"
+        "ra-comments-2-4",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-2",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
+        "ra-comments-5-2",
+        "ra-comments-5-5",
+        "ra-comments-38-3",
+        "ra-comments-38-4",
+        "ra-comments-38-5",
+        "ra-comments-38-7",
+        "ra-comments-38-8",
+        "ra-comments-38-9",
+        "ra-comments-38-10",
+        "ra-comments-39-1"
       ],
       "best": "verified"
     },
@@ -375,6 +543,12 @@
       "facts": [
         "gf1-17-1",
         "gf2-8-2",
+        "ra-comments-1-6",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-3",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
         "ra-comments-41-1"
       ],
       "best": "verified"
@@ -384,7 +558,10 @@
       "facts": [
         "gf1-12-1",
         "gf2-9-1",
-        "ra-comments-43-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "single_source"
     },
@@ -393,7 +570,10 @@
       "facts": [
         "gf1-15-1",
         "gf5-2-2",
-        "ra-comments-45-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "single_source"
     },
@@ -401,7 +581,10 @@
       "title": "Iron Fist - Armor King",
       "facts": [
         "gf1-16-1",
-        "ra-comments-47-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "single_source"
     },
@@ -410,7 +593,10 @@
       "facts": [
         "gf1-14-1",
         "gf2-8-3",
-        "ra-comments-49-1"
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1"
       ],
       "best": "single_source"
     },
@@ -419,6 +605,10 @@
       "facts": [
         "gf1-16-2",
         "gf2-8-1",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
         "ra-comments-51-1"
       ],
       "best": "verified"
@@ -428,6 +618,10 @@
       "facts": [
         "gf1-12-2",
         "gf5-2-1",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
         "ra-comments-53-1"
       ],
       "best": "single_source"
@@ -436,6 +630,10 @@
       "title": "Iron Fist - Wang",
       "facts": [
         "gf1-13-1",
+        "ra-comments-3-6",
+        "ra-comments-4-1",
+        "ra-comments-4-8",
+        "ra-comments-5-1",
         "ra-comments-55-1"
       ],
       "best": "single_source"
@@ -3070,1124 +3268,6 @@
       ]
     },
     {
-      "id": "ra-comments-8-1",
-      "type": "achievement",
-      "subject": "Master of Evasion",
-      "predicate": "requires",
-      "object": "Win any round with a perfect",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90406
-      ],
-      "missable": false,
-      "text": "The achievement Master of Evasion requirement is Description: Win any round with a perfect.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#8",
-          "quote": "Description: Win any round with a perfect",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-9-1",
-      "type": "achievement",
-      "subject": "Namco Classic Challenge",
-      "predicate": "requires",
-      "object": "Beat all stages in Galaga with a perfect while using no more than one continue in order to unlock Devil Kazuya",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90355
-      ],
-      "missable": false,
-      "text": "The achievement Namco Classic Challenge requirement is Description: Beat all stages in Galaga with a perfect while using no more than one continue in order to unlock Devil Kazuya.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#9",
-          "quote": "Description: Beat all stages in Galaga with a perfect while using no more than one continue in order to unlock Devil Kazuya",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-15-1",
-      "type": "achievement",
-      "subject": "All Fighters Ready for Combat!",
-      "predicate": "requires",
-      "object": "Unlock all characters",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90428
-      ],
-      "missable": false,
-      "text": "The achievement All Fighters Ready for Combat! requirement is Description: Unlock all characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#15",
-          "quote": "Description: Unlock all characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-17-1",
-      "type": "achievement",
-      "subject": "Beginner Combo",
-      "predicate": "requires",
-      "object": "Perform a 3 hit combo",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90432
-      ],
-      "missable": false,
-      "text": "The achievement Beginner Combo requirement is Description: Perform a 3 hit combo.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#17",
-          "quote": "Description: Perform a 3 hit combo",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-19-1",
-      "type": "achievement",
-      "subject": "Ultimate Combo",
-      "predicate": "requires",
-      "object": "Perform a 10 hit combo",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90433
-      ],
-      "missable": false,
-      "text": "The achievement Ultimate Combo requirement is Description: Perform a 10 hit combo.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#19",
-          "quote": "Description: Perform a 10 hit combo",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-22-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Kazuya",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Kazuya",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90431
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Kazuya requirement is Description: Perform a 6 hit combo with Kazuya.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#22",
-          "quote": "Description: Perform a 6 hit combo with Kazuya",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-24-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Paul",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Paul",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90434
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Paul requirement is Description: Perform a 6 hit combo with Paul.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#24",
-          "quote": "Description: Perform a 6 hit combo with Paul",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-26-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Law",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Law",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90435
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Law requirement is Description: Perform a 6 hit combo with Law.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#26",
-          "quote": "Description: Perform a 6 hit combo with Law",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-28-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Jack",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Jack",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90436
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Jack requirement is Description: Perform a 6 hit combo with Jack.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#28",
-          "quote": "Description: Perform a 6 hit combo with Jack",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-30-1",
-      "type": "achievement",
-      "subject": "Iron Fist - King",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with King",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90438
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - King requirement is Description: Perform a 6 hit combo with King.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#30",
-          "quote": "Description: Perform a 6 hit combo with King",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-32-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Yoshimitsu",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Yoshimitsu",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90439
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Yoshimitsu requirement is Description: Perform a 6 hit combo with Yoshimitsu.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#32",
-          "quote": "Description: Perform a 6 hit combo with Yoshimitsu",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-34-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Nina",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Nina",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90437
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Nina requirement is Description: Perform a 6 hit combo with Nina.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#34",
-          "quote": "Description: Perform a 6 hit combo with Nina",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-36-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Michelle",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Michelle",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90440
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Michelle requirement is Description: Perform a 6 hit combo with Michelle.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#36",
-          "quote": "Description: Perform a 6 hit combo with Michelle",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-38-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Heihachi",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Heihachi",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90441
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Heihachi requirement is Description: Perform a 6 hit combo with Heihachi.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#38",
-          "quote": "Description: Perform a 6 hit combo with Heihachi",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-41-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Kunimitsu",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Kunimitsu",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90442
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Kunimitsu requirement is Description: Perform a 6 hit combo with Kunimitsu.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#41",
-          "quote": "Description: Perform a 6 hit combo with Kunimitsu",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-43-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Lee",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Lee",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90477
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Lee requirement is Description: Perform a 6 hit combo with Lee.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#43",
-          "quote": "Description: Perform a 6 hit combo with Lee",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-45-1",
-      "type": "achievement",
-      "subject": "Iron Fist - P.Jack",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with P.Jack",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90478
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - P.Jack requirement is Description: Perform a 6 hit combo with P.Jack.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#45",
-          "quote": "Description: Perform a 6 hit combo with P.Jack",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-47-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Armor King",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Armor King",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90479
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Armor King requirement is Description: Perform a 6 hit combo with Armor King.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#47",
-          "quote": "Description: Perform a 6 hit combo with Armor King",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-49-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Anna",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Anna",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90480
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Anna requirement is Description: Perform a 6 hit combo with Anna.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#49",
-          "quote": "Description: Perform a 6 hit combo with Anna",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-51-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Ganryu",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Ganryu",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90481
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Ganryu requirement is Description: Perform a 6 hit combo with Ganryu.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#51",
-          "quote": "Description: Perform a 6 hit combo with Ganryu",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-53-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Kuma",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Kuma",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90482
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Kuma requirement is Description: Perform a 6 hit combo with Kuma.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#53",
-          "quote": "Description: Perform a 6 hit combo with Kuma",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-55-1",
-      "type": "achievement",
-      "subject": "Iron Fist - Wang",
-      "predicate": "requires",
-      "object": "Perform a 6 hit combo with Wang",
-      "location": "Tekken",
-      "requires": [],
-      "achievement_ids": [
-        90483
-      ],
-      "missable": false,
-      "text": "The achievement Iron Fist - Wang requirement is Description: Perform a 6 hit combo with Wang.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#55",
-          "quote": "Description: Perform a 6 hit combo with Wang",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-56-1",
-      "type": "achievement",
-      "subject": "Cold-Blooded Son",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Kazuya on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90395
-      ],
-      "missable": false,
-      "text": "The achievement Cold-Blooded Son requirement is Description: Finish Arcade mode as Kazuya on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#56",
-          "quote": "Description: Finish Arcade mode as Kazuya on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-57-1",
-      "type": "achievement",
-      "subject": "The Inheritor of the Demon",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90396
-      ],
-      "missable": false,
-      "text": "The achievement The Inheritor of the Demon requirement is Description: Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#57",
-          "quote": "Description: Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-58-1",
-      "type": "achievement",
-      "subject": "Silent Assassin",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Nina on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90407
-      ],
-      "missable": false,
-      "text": "The achievement Silent Assassin requirement is Description: Finish Arcade mode as Nina on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#58",
-          "quote": "Description: Finish Arcade mode as Nina on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-59-1",
-      "type": "achievement",
-      "subject": "Hot-blooded Martial Artist",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Paul on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90408
-      ],
-      "missable": false,
-      "text": "The achievement Hot-blooded Martial Artist requirement is Description: Finish Arcade mode as Paul on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#59",
-          "quote": "Description: Finish Arcade mode as Paul on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-60-1",
-      "type": "achievement",
-      "subject": "The Legendary Dragon",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Law on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90409
-      ],
-      "missable": false,
-      "text": "The achievement The Legendary Dragon requirement is Description: Finish Arcade mode as Law on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#60",
-          "quote": "Description: Finish Arcade mode as Law on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-61-1",
-      "type": "achievement",
-      "subject": "Super Killing Machine",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Jack on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90410
-      ],
-      "missable": false,
-      "text": "The achievement Super Killing Machine requirement is Description: Finish Arcade mode as Jack on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#61",
-          "quote": "Description: Finish Arcade mode as Jack on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-62-1",
-      "type": "achievement",
-      "subject": "Beast Priest",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as King on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90411
-      ],
-      "missable": false,
-      "text": "The achievement Beast Priest requirement is Description: Finish Arcade mode as King on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#62",
-          "quote": "Description: Finish Arcade mode as King on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-63-1",
-      "type": "achievement",
-      "subject": "Wandering Female Fighter",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Michelle on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90412
-      ],
-      "missable": false,
-      "text": "The achievement Wandering Female Fighter requirement is Description: Finish Arcade mode as Michelle on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#63",
-          "quote": "Description: Finish Arcade mode as Michelle on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-64-1",
-      "type": "achievement",
-      "subject": "Fighting Sage",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Wang on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90413
-      ],
-      "missable": false,
-      "text": "The achievement Fighting Sage requirement is Description: Finish Arcade mode as Wang on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#64",
-          "quote": "Description: Finish Arcade mode as Wang on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-65-1",
-      "type": "achievement",
-      "subject": "The King of Iron Fist",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Heihachi on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90414
-      ],
-      "missable": false,
-      "text": "The achievement The King of Iron Fist requirement is Description: Finish Arcade mode as Heihachi on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#65",
-          "quote": "Description: Finish Arcade mode as Heihachi on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-66-1",
-      "type": "achievement",
-      "subject": "Silver Haired-Demon",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Lee on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90415
-      ],
-      "missable": false,
-      "text": "The achievement Silver Haired-Demon requirement is Description: Finish Arcade mode as Lee on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#66",
-          "quote": "Description: Finish Arcade mode as Lee on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-67-1",
-      "type": "achievement",
-      "subject": "Lost Memory Monster",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as P.Jack on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90416
-      ],
-      "missable": false,
-      "text": "The achievement Lost Memory Monster requirement is Description: Finish Arcade mode as P.Jack on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#67",
-          "quote": "Description: Finish Arcade mode as P.Jack on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-68-1",
-      "type": "achievement",
-      "subject": "Wicked Flower",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Armor King on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90417
-      ],
-      "missable": false,
-      "text": "The achievement Wicked Flower requirement is Description: Finish Arcade mode as Armor King on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#68",
-          "quote": "Description: Finish Arcade mode as Armor King on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-69-1",
-      "type": "achievement",
-      "subject": "Rikishi Strength",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Ganryu on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90418
-      ],
-      "missable": false,
-      "text": "The achievement Rikishi Strength requirement is Description: Finish Arcade mode as Ganryu on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#69",
-          "quote": "Description: Finish Arcade mode as Ganryu on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-70-1",
-      "type": "achievement",
-      "subject": "Scarlet Lightning",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Anna on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90419
-      ],
-      "missable": false,
-      "text": "The achievement Scarlet Lightning requirement is Description: Finish Arcade mode as Anna on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#70",
-          "quote": "Description: Finish Arcade mode as Anna on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-71-1",
-      "type": "achievement",
-      "subject": "Mad Bear",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Kuma on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90420
-      ],
-      "missable": false,
-      "text": "The achievement Mad Bear requirement is Description: Finish Arcade mode as Kuma on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#71",
-          "quote": "Description: Finish Arcade mode as Kuma on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-72-1",
-      "type": "achievement",
-      "subject": "Traitorous Female Ninja",
-      "predicate": "requires",
-      "object": "Finish Arcade mode as Kunimitsu on Medium difficulty or higher without changing characters",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90421
-      ],
-      "missable": false,
-      "text": "The achievement Traitorous Female Ninja requirement is Description: Finish Arcade mode as Kunimitsu on Medium difficulty or higher without changing characters.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#72",
-          "quote": "Description: Finish Arcade mode as Kunimitsu on Medium difficulty or higher without changing characters",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-74-1",
-      "type": "achievement",
-      "subject": "Hand-to-Hand Veteran",
-      "predicate": "requires",
-      "object": "Finish Arcade mode on Hard difficulty or higher with default settings",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90423
-      ],
-      "missable": false,
-      "text": "The achievement Hand-to-Hand Veteran requirement is Description: Finish Arcade mode on Hard difficulty or higher with default settings.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#74",
-          "quote": "Description: Finish Arcade mode on Hard difficulty or higher with default settings",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-76-1",
-      "type": "achievement",
-      "subject": "Hand-to-Hand Expert",
-      "predicate": "requires",
-      "object": "Finish Arcade mode on Ultra Hard difficulty with default settings",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90422
-      ],
-      "missable": false,
-      "text": "The achievement Hand-to-Hand Expert requirement is Description: Finish Arcade mode on Ultra Hard difficulty with default settings.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#76",
-          "quote": "Description: Finish Arcade mode on Ultra Hard difficulty with default settings",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-77-1",
-      "type": "achievement",
-      "subject": "Five Minute Death Punch",
-      "predicate": "requires",
-      "object": "Finish Arcade mode within 5 minutes on Medium difficulty or higher with default settings - Will trigger after the results screen",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90427
-      ],
-      "missable": false,
-      "text": "The achievement Five Minute Death Punch requirement is Description: Finish Arcade mode within 5 minutes on Medium difficulty or higher with default settings - Will trigger after the results screen.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#77",
-          "quote": "Description: Finish Arcade mode within 5 minutes on Medium difficulty or higher with default settings - Will trigger after the results screen",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
-      "id": "ra-comments-79-1",
-      "type": "achievement",
-      "subject": "Long Journey",
-      "predicate": "requires",
-      "object": "Finish Arcade mode on Medium difficulty or higher without changing characters or using continues, and with default settings except for the round count set to 5",
-      "location": "Arcade Mode",
-      "requires": [],
-      "achievement_ids": [
-        90429
-      ],
-      "missable": false,
-      "text": "The achievement Long Journey requirement is Description: Finish Arcade mode on Medium difficulty or higher without changing characters or using continues, and with default settings except for the round count set to 5.",
-      "evidence": [
-        {
-          "source_id": "ra-comments",
-          "chunk_id": "ra-comments#79",
-          "quote": "Description: Finish Arcade mode on Medium difficulty or higher without changing characters or using continues, and with default settings except for the round count set to 5",
-          "stance": "supports"
-        }
-      ],
-      "status": "single_source",
-      "sources": [
-        "ra-comments"
-      ]
-    },
-    {
       "id": "ra-comments-11-1",
       "type": "achievement",
       "subject": "Galaga Challenge",
@@ -4309,6 +3389,3792 @@
           "source_id": "ra-comments",
           "chunk_id": "ra-comments#80",
           "quote": "Just use Lee, and spam D+4,4,4. Try and get a run where you fight King in the first 3 rounds, because King can be really mean, and a possible run killer.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-1",
+      "type": "mechanic",
+      "subject": "Supported game version",
+      "predicate": "requires",
+      "object": "Tekken (USA) [SLUS-00006]",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The set developer lists the supported disc as Tekken (USA) [SLUS-00006].",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "[jplima] Tekken (USA) [SLUS-00006]",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-2",
+      "type": "tip",
+      "subject": "Paul",
+      "predicate": "how_to_unlock",
+      "object": "4 hit combo",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "A commenter gives Paul's 4 hit combo as LP, RP, LK, RP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "Does anyone know how to do Paul's 4 hit combo?...[DUT] LP, RP, LK, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-3",
+      "type": "achievement",
+      "subject": "Ultimate Combo",
+      "predicate": "triggers",
+      "object": "bugged trigger",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "One player reports the Ultimate Combo achievement unlocked with Kazuya without actually reaching 10 hits.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "achievement is bugged, I got it with Kazuya even though I didn't reach 10 hits",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-4",
+      "type": "achievement",
+      "subject": "Heihachi",
+      "predicate": "how_to_unlock",
+      "object": "beat Arcade mode with a normal character",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "Heihachi only unlocks when Arcade mode is beaten with a normal (not unlocked) character; beating it under 3 minutes did not unlock him otherwise.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "I beat arcade mode on medium in just under 3 minutes, without continues. Why didn't Heihachi unlock?",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "Seems you need to beat it with a normal (not unlocked) character to get Heihachi.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-5",
+      "type": "tip",
+      "subject": "King",
+      "predicate": "countered_by",
+      "object": "df1 spam",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427,
+        90429
+      ],
+      "missable": false,
+      "text": "King's df1 spam is the easiest way to cheese the five-round no-loss and under-5-minute Arcade achievements, because df1 is very plus on block and leaves the AI in block stun, but it must be spaced properly.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "King's df1 spam is the easiest way to cheese those achievements, though the under 5 minutes may still take you a few tries",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "df1 with King has insane plus frame on block and will leave the AI in massive block stun. But you're still going to have to space it properly not to get caught napping",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-6",
+      "type": "achievement",
+      "subject": "Yoshimitsu and Kunimitsu 6 hit combos",
+      "predicate": "triggers",
+      "object": "reported not unlocking",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90439,
+        90442
+      ],
+      "missable": false,
+      "text": "Players report trouble getting the Yoshimitsu and Kunimitsu 6 hit combo achievements to unlock.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "Yoshi's and Kuni's Combo archivement doesn't work",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#1",
+          "quote": "does anyone know why my 6-hit combo doesn't pop with Yoshi and Kunimitsu?",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-2-1",
+      "type": "mechanic",
+      "subject": "Memory card saving",
+      "predicate": "requires",
+      "object": "manual save",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "One commenter warns the game does not save to the memory card automatically and must be told to save, while another reports it saved automatically after finishing the game.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "Make sure you tell the game to save onto your memory card...it doesn't do so automatically!",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "For me it saved auto after I finished the game hm",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-2-2",
+      "type": "tip",
+      "subject": "Ganryu",
+      "predicate": "countered_by",
+      "object": "throw then stomp",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90418,
+        90422
+      ],
+      "missable": false,
+      "text": "A player who mastered the set calls Ganryu's throw followed by a stomp extremely strong and found Ultra Hard easier than Medium.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "Ganryu throw and then stomp is god tier, and Ultra Hard is easier than Medium",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-2-3",
+      "type": "tip",
+      "subject": "10 hit combos",
+      "predicate": "how_to_unlock",
+      "object": "spam 1+2",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Spamming 1+2 produces strings like 1,2,1,2, and learning 10 hit combos with basic spacing and defense is enough to master the game.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "you can spam 1+2 to do stuff like 1,2,1,2). Learning those and doing some basic spacing/defense, you can master the game without much trouble.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-2-4",
+      "type": "tip",
+      "subject": "Heihachi combos",
+      "predicate": "requires",
+      "object": "practice",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441,
+        90433
+      ],
+      "missable": false,
+      "text": "A player found the combo achievements long to complete, with Heihachi the hardest, and relied on a video explaining the 10 hit combos.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "For combos, it was pretty long, fortunately there is a very good video explaining how to do 10 combos... The hardest was with Heihachi.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-2-5",
+      "type": "tip",
+      "subject": "Character strength",
+      "predicate": "recommended_level",
+      "object": "King, Kazuya/Heihachi, Lee strongest",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "One player rates Yoshimitsu and Kunimitsu as unreliable characters and King, Kazuya/Heihachi and Lee as absurdly strong, and reports the AI reading inputs and ducking throws.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "some characters being total crapshoots (Yoshi/Kuni) while others are absurdly broken (King, Kazuya/Heihachi, Lee)",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#2",
+          "quote": "ducks throws in 1 frame then throws you back, reads your inputs and attacks first",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-3-1",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "memorize spawn patterns",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "For the Galaga challenge the first stage is the worst; every stage has a fixed pattern of ship spawns and timings that can be learned.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "Honestly what makes it bearable is that its the first stage that's the worst. Once you have it down and knowing that theres a pattern to each stage of how the ships spawn in and their timings it can be done by anyone.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-3-2",
+      "type": "mechanic",
+      "subject": "DuckStation",
+      "predicate": "requires",
+      "object": "emulator compatibility",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "A commenter reports the set works fine in DuckStation as of 2025.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "Also the set works fine in Duckstation in 2025",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-3-3",
+      "type": "tip",
+      "subject": "10 hit combos",
+      "predicate": "countered_by",
+      "object": "high-low mixup strings",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Learning each character's 10 hit combo is recommended: it deals 50%-75% of the opponent's life, strings with a high-to-low mixup like King's often hit the AI, and the same combos are needed for the 6 hit achievements.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "just learn their 10 hit combo, it does 50%-75% of the enemies lifebar and if it has a mixup from a high to a low mid-string like King's for example the ai will usually just get hit by the low",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "you need to learn these anyway for the 6 hit combo achievement",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-3-4",
+      "type": "tip",
+      "subject": "Character Arcade achievements",
+      "predicate": "recommended_level",
+      "object": "Hard difficulty, 1 round",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90395,
+        90396,
+        90407,
+        90408,
+        90409,
+        90410,
+        90411,
+        90412,
+        90413,
+        90414,
+        90415,
+        90416,
+        90417,
+        90418,
+        90419,
+        90420,
+        90421
+      ],
+      "missable": false,
+      "text": "For the beat-Arcade-with-a-character achievements, set the game to Hard and 1 round: the Hard AI is more aggressive and leaves openings, while the Medium AI hangs back, blocks and retaliates.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "Do those on Hard mode. I swear the game is easier on Hard mode, because the AI is a bit more aggressive and leaves itself open for more attacks. On Medium the AI tends to stay back, and block anything you do, and immediately retaliate.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "So set game to Hard, and 1 round.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-3-5",
+      "type": "tip",
+      "subject": "Five Minute Death Punch",
+      "predicate": "countered_by",
+      "object": "Lee down kick spam",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "One player could only beat the 5-minute Arcade achievement by spamming Lee's down kicks.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "just spamming lee's down kicks weren't that fun. But I genuinely tried many times and I couldn't get even close to beating 5 minutes otherwise.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-3-6",
+      "type": "achievement",
+      "subject": "6 hit combo achievements",
+      "predicate": "requires",
+      "object": "Arcade mode",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90434,
+        90435,
+        90436,
+        90438,
+        90439,
+        90437,
+        90440,
+        90441,
+        90442,
+        90477,
+        90478,
+        90479,
+        90480,
+        90481,
+        90482,
+        90483
+      ],
+      "missable": false,
+      "text": "A player could only unlock the 6 hit combo achievements in Arcade mode.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#3",
+          "quote": "I could only unlock 6 hit combos via arcade mode.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-1",
+      "type": "achievement",
+      "subject": "6 hit combo achievements",
+      "predicate": "requires",
+      "object": "Arcade mode",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90434,
+        90435,
+        90436,
+        90438,
+        90439,
+        90437,
+        90440,
+        90441,
+        90442,
+        90477,
+        90478,
+        90479,
+        90480,
+        90481,
+        90482,
+        90483
+      ],
+      "missable": false,
+      "text": "Players report the 6 hit combo achievements only unlock in Arcade mode, not in practice.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "it seems that 6 hits achievements only worked on Arcade mode.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "You can't have them in practice",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-2",
+      "type": "tip",
+      "subject": "Heihachi",
+      "predicate": "how_to_unlock",
+      "object": "combo starter timing",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441,
+        90433
+      ],
+      "missable": false,
+      "text": "For Heihachi's combo starter, dash and hold forward and wait until his animation returns to normal position, otherwise he performs his uppercut instead.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "Heihachi is finicky since for the starter you need to dash and hold forward while waiting until his animation goes to normal position or else he'll do his uppercut instead.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-3",
+      "type": "tip",
+      "subject": "Kunimitsu and Yoshimitsu",
+      "predicate": "how_to_unlock",
+      "object": "miss the first starter hit",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90442,
+        90439
+      ],
+      "missable": false,
+      "text": "Kunimitsu's string only has 7 hits and the 2 of her 121 starter usually misses (same for Yoshimitsu), so deliberately whiff the starting 1 and hit the opponent first with the 2.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "Kunimitsu only have 7 hits and her 121 starter you usually miss the 2 (same as Yoshi) so basically you need to purposely miss the starter 1 and then first hit the opponent with the 2.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-4",
+      "type": "mechanic",
+      "subject": "Ultimate Combo",
+      "predicate": "requires",
+      "object": "emulator-dependent 2P mode",
+      "location": "2P mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "The 10 hit combo achievement can be earned in 2P mode on PCSX ReArmed, but that did not work on DuckStation.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "for the actual 10 hits combo, on PCSX ReArmed you can get it through 2P mode but it doesnt worked on Duckstation.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-5",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "unlocks",
+      "object": "second ship",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Galaga's first stage is the most difficult; finishing it in 18.5 seconds or less unlocks a second ship, and the later two-ship stages are much easier.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "The first stage is the most difficult, and you can unlock the second ship by finishing the first stage in 18.5 seconds or less. The other stages with two ships are much easier.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-6",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "recommended_level",
+      "object": "do it first",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "A player recommends doing the Galaga achievement first because it is probably the hardest or most tedious in the set.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "I recommend getting the Galaga minigame first, even though it's not related to Tekken, because it's probably the hardest, or at least the most tedious.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-7",
+      "type": "tip",
+      "subject": "Ultimate Combo",
+      "predicate": "recommended_level",
+      "object": "Wang, King, Law or Michelle",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "The 10 hit combo achievement was easy with Wang, and is also easy with King, Law or Michelle.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "Getting the 10-hit combo achievement was quite easy with Wang, but it's also easy with King, Law, or Michelle.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-8",
+      "type": "tip",
+      "subject": "6 hit combo achievements",
+      "predicate": "how_to_unlock",
+      "object": "press RP or LP six times",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90434,
+        90435,
+        90436,
+        90438,
+        90439,
+        90437,
+        90440,
+        90441,
+        90442,
+        90477,
+        90478,
+        90479,
+        90480,
+        90481,
+        90482,
+        90483
+      ],
+      "missable": false,
+      "text": "Pressing the same RP or LP button (Square or Triangle) six times in a row earns most 6 hit combo achievements; Jack, P-Jack and Puma needed a real combo because their attacks are slow.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "Simply pressing the same RP or LP button (square or triangle) six times in a row will get you the achievement but with Jack, P-Jack, and Puma, I was forced to use a combo because their attacks are very slow.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-9",
+      "type": "tip",
+      "subject": "Character Arcade achievements",
+      "predicate": "recommended_level",
+      "object": "1 round, Hard difficulty",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90395,
+        90396,
+        90407,
+        90408,
+        90409,
+        90410,
+        90411,
+        90412,
+        90413,
+        90414,
+        90415,
+        90416,
+        90417,
+        90418,
+        90419,
+        90420,
+        90421
+      ],
+      "missable": false,
+      "text": "To unlock the per-character Arcade achievements quickly, reduce the round count to 1 and raise the difficulty to Hard, where the opponent blocks less.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "Another tip for quickly unlocking the arcade mode achievements for each character is to reduce the number of rounds to 1, and even change the difficulty to hard since the opponent won't block as many attacks.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-4-10",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "hold Triangle for auto-fire",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "For Galaga, hold Triangle for auto-fire and study a video of the 8 stages to learn which wave comes next.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "I'd advise making use of holding Triangle for auto-fire and consult a video showing off the stages",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#4",
+          "quote": "it's 8 stages in total so it's better to just check the video after you do a wave",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-5-1",
+      "type": "tip",
+      "subject": "6 hit combo achievements",
+      "predicate": "countered_by",
+      "object": "10 string combos",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431,
+        90434,
+        90435,
+        90436,
+        90438,
+        90439,
+        90437,
+        90440,
+        90441,
+        90442,
+        90477,
+        90478,
+        90479,
+        90480,
+        90481,
+        90482,
+        90483,
+        90433
+      ],
+      "missable": false,
+      "text": "Juggles make 6 hit combos hard in this game, so use each character's 10 string combo, which also covers the 10 hit combo achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "the way juggling works in this game makes it pretty difficult to get 6 hit combos, you can't just launch someone and do some jabs, I'd recommend using characters 10 string combos, which will also help with the 10 hit combo achievement as well",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-5-2",
+      "type": "tip",
+      "subject": "Heihachi",
+      "predicate": "how_to_unlock",
+      "object": "10 hit combo starter input",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441,
+        90433
+      ],
+      "missable": false,
+      "text": "Heihachi's 10 hit combo starts by dashing (forward twice, holding forward on the second press) and pressing Triangle (2) not too quickly, or he does an uppercut; the AI is also more aggressive against him.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "is to dash by pressing forward twice and hold the forward button on the 2nd press and press Triangle (or 2) but not too fast otherwise he'll do an uppercut",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "also the AI seems to be even more aggressive with him",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-5-3",
+      "type": "mechanic",
+      "subject": "Move list notation",
+      "predicate": "requires",
+      "object": "button numbering",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Tekken move-list notation 1 = Square, 2 = Triangle, 3 = Cross, 4 = Circle, f = forward, and + means pressing two buttons together; move lists are not shown in-game.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "1 = Square, 2 = Triangle, 3 = Cross, 4 = Circle, f = forward, + = pressing 2 buttons at the same time.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "use this website to see the move list because you can't see them in game",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-5-4",
+      "type": "tip",
+      "subject": "Michelle",
+      "predicate": "recommended_level",
+      "object": "best 10 hit combo",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Michelle's 10 hit combo is reported as the best one for challenges that allow any character.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "Michelle's 10 hit combo seems to be the best one in the game for the challenges that allow any character.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-5-5",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "countered_by",
+      "object": "practice in 2P versus",
+      "location": "2P mode",
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "For Heihachi's hard 6 hit combo timing, a player suggests practising in 1 vs 1 against a second player, since there is no practice mode and the CPU fights back.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "if there was a practice mode so the CPU isn't actively fighting against your combo attempts",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#5",
+          "quote": "Why don't you do 1 vs 1 with a player 2 and practice ?",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-6-1",
+      "type": "tip",
+      "subject": "Arcade mode difficulty",
+      "predicate": "recommended_level",
+      "object": "Hard over Medium",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90395,
+        90396,
+        90407,
+        90408,
+        90409,
+        90410,
+        90411,
+        90412,
+        90413,
+        90414,
+        90415,
+        90416,
+        90417,
+        90418,
+        90419,
+        90420,
+        90421
+      ],
+      "missable": false,
+      "text": "In Arcade mode choose Hard over Medium because the AI blocks less often; Galaga and Heihachi's combo are the hardest achievements.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#6",
+          "quote": "In Arcade mode, choose Hard mode over Medium because the AI blocks your moves less often. Galaga and Heihachi's combo are by far the hardest achievements in the game.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-10-1",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "triggers",
+      "object": "all hits on the final Galaga stage",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "After a logic update the achievement no longer checks the Devil Kazuya unlock flag; it checks for getting all hits on the final Galaga stage.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "Added save protection. Now it does not check for the unlock flag, it checks for getting all hits on the final Galaga stage.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-10-2",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "requires",
+      "object": "no more than one continue",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Older comments said unlimited continues were allowed, but after later logic edits players report the achievement no longer triggers with multiple continues and only unlocks when using one.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "[Server] RyCuLe edited this achievement's logic.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "Huh, the comments said unlimited continues, but I still didn't get it",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "It seems like it doesn't trigger when using multiple continues anymore. I finally got it using only one.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-10-3",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "unlocks",
+      "object": "double ship",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Beating Galaga's first stage in under 18.5 seconds unlocks the double spaceship with twice the firepower; stage 1 is by far the hardest and the later stages are easy with double ships.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "Beat the first stage in under 18.5sec to unlock the double spaceship for twice the fire power",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "Stage 1 was easily the hardest. Once you get Stage 1 down and can get the second ship, the rest is honestly extremely easy",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-10-4",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "memorize stage 1 positions",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Stage 1 takes most of the effort: memorize the perfect positions from a video and repeat them, and restart if the stage took longer than 18.5 seconds; once you have two ships you keep them for the following stages.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "you need to remember the perfect position just like the video and do the same",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#10",
+          "quote": "if you have two ships, you will keep them for other levels",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-11-2",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "requires",
+      "object": "one continue in the entire run",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Players confirm multiple continues stop the achievement from working; it can only be earned using at most one retry in the entire run, not one per stage (tested on RetroArch 1.22.2 with Beetle PSX HW).",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "Can confirm using multiple continues makes the achievement not work.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "I can confirm that it can only be achieved by using 1 retry in the entire RUN and not 1 per round.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "(RetroArch 1.22.2 with the Beetle PSX HW core)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-11-3",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "requires",
+      "object": "double ship earned by the 18.5 second stage 1",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "(Translated from Spanish) The achievement will not work if the two ships are obtained with the controller-2 trick; it only works when the double ship is earned by clearing stage 1 within 18.5 seconds.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "Ell logro no funcionará si se usan 2 naves con el truco del control 2. Solo funciona si se obtiene las 2 naves con el tiempo 18.5 seg. En la 1 etapa.",
+          "translation": "The achievement will not work if you use 2 ships with the controller 2 trick. It only works if you get the 2 ships with the 18.5 sec time in stage 1.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-11-4",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "fire-button repeater",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "(Translated from Spanish) If possible, enable a repeater for the X button in your emulator so you do not have to keep pressing fire; memorizing all 8 stages took one player about 7 to 8 hours.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "trata de activar un repetidor del boton X en tu emulador, creeme que ayuda mucho a no estar apretando el boton muchas veces para disparar",
+          "translation": "try to enable a repeater for the X button in your emulator, believe me it helps a lot so you are not pressing the button many times to fire",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "memorizar los 8 niveles me llevo aproximadamente 7 a 8 horas",
+          "translation": "memorizing the 8 stages took me about 7 to 8 hours",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-11-5",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "pause between stages",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Lock down stage 1 ship positions by memory to make the 18.5 second time, then pause between stages to refresh your memory of the next formation; the final stage can still produce many 39/40 near-misses.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "Master the first stage, really lock down the positions of the ship by memory. After you got that you can get 18.5s 1st Stage without much of a hassle. Once you do take pauses between each stage to have refreshed memory on what is ahead",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#11",
+          "quote": "until the last stage, which gave me a bunch of 39/40 attempts before I finally did it",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-1",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "mark ship entry points on the screen",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Mark the two points where enemy ships enter from the top of the screen and study the tutorial video's ship movement patterns; the second-to-last stage, with fast ships from the corners, is the other difficult one.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#12",
+          "quote": "mark on your monitor the two points where the ships enter from the top, and watch the tutorial video that was posted above",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#12",
+          "quote": "the second-to-last part, the one with the ships coming from the corners, because they are very fast",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-2",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "requires",
+      "object": "current logic, not older tips",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "The set creator changed the achievement's logic, so older tips saying you could continue more than once no longer apply; stage 1 remains the hardest part.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#12",
+          "quote": "there is clearly a message showing that the creator of the set changed the logic for the achievement...meaning the achievement did not originally work like it was intended (ie. you could continue more than once).",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#12",
+          "quote": "Stage 1 is still the hardest part of this achievement and all of the additional tips provided still apply",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-3",
+      "type": "tip",
+      "subject": "Devil Kazuya",
+      "predicate": "requires",
+      "object": "not needed for other achievements",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Devil Kazuya is not needed for any other achievement in the set.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#12",
+          "quote": "you literally don't need devil Kazuya for ANY other achievement in the entire game",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-13-1",
+      "type": "tip",
+      "subject": "Galaga stage 8",
+      "predicate": "countered_by",
+      "object": "enemies that need two hits",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Stage 8 contains enemies that must be hit twice, which caused repeated 39/40 failures; one successful run used its single extra chance on stage 8.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#13",
+          "quote": "Had 4 runs end at stage 8 with 39/40 (Those things you need to hit twice, all the exact same line..)",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#13",
+          "quote": "In my final run messed up once in stage 8 but used my next and final chance on the stage to do it.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-3",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "countered_by",
+      "object": "Kuma as opponent",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "The best opponent for Heihachi's 6 hit combo is Kuma: when he tries to fall on you, hit him after his animation lifts.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "The best opponent to do this is with Kuma, when he tries to fall on you, after his animation lifts, just hit him.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-4",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "versus mode input",
+      "location": "2P mode",
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "One player finally got Heihachi's 6 hit combo in versus mode (1P vs 2P) with forward, (forward) Triangle, Square, Triangle, Triangle, Cross and Circle.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "I finally got it in versus mode 1p vs 2p, -> (->) triangle, square, triangle, triangle, cross and circle",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-5",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "Kazuya's 10-hit with a delayed first punch",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "Use the same 10-hit combo as Kazuya, but wait a tiny bit before throwing the first punch, otherwise Heihachi does a huge launching uppercut instead.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "you can use the same 10-hit combo as Kazuya BUT you need to wait a tiny bit before throwing the first punch otherwise Heihachi will do a huge launching uppercut instead.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "Same as Kazuya except delay:",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "→→+RP (Slight delay) LP, RP, RP, LK, RK, RK, LP, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-6",
+      "type": "achievement",
+      "subject": "Heihachi",
+      "predicate": "how_to_unlock",
+      "object": "clear the game in under 5:30 with a starting character",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "Heihachi unlocks by clearing the game in under 5 minutes 30 seconds with one of the 8 starting characters; rounds can be set to 1 and difficulty to Easy, though harder settings might actually be easier.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "unlock Heihachi by clearing the game in under 5min 30sec with one of the 8 starting characters. You can set the rounds to 1 and difficulty to easy, though harder ones might actually be easier.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-7",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "hold the second forward about 1-1.5 seconds",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "Start Heihachi's combo by pressing forward and holding the second forward for about 1 to 1.5 seconds, otherwise he performs Demon Uppercut; then press Triangle and continue the 10-hit combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "press forward and on the second forward you should HOLD it for about a second or 1,5. You should wait a bit, while holding the forward direction button, or Heihachi will perform Demon Uppercut",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "After holding the right time press triangle and start 10-hit combo, it should work okay.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-8",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "countered_by",
+      "object": "punish Kunimitsu 444",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "One method: backdash until Kunimitsu does 444, then attempt the 10-hit after the last hit because Yoshimitsu/Kunimitsu 444 has huge recovery (on Easy, 5 rounds).",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "I did this by backdashing until kunimitsu did 444 after reacting to the last hit coming out you can attempt the 10 hit because yoshi/kuni 444 has insane amounts of recovery frames (easy, 5 rounds)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-9",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "countered_by",
+      "object": "switch to Heihachi after losing",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "Workaround for the aggressive AI faced as Heihachi: enable character select on lose, play as another character (preferably Easy, 5 rounds), lose on purpose, then switch to Heihachi and attempt the combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "1. Enable Character select on lose\n2. Play as any character other than Heihachi (preferrably on Easy with 5 rounds)\n3. Purposely lose\n4. Switch to Heihachi",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "an easy workaround for the crazy AI that seems exclusive to playing as Heihachi",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-38-10",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "release forward after the first input",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "Stop holding Forward after the first input; holding it kept the combo from continuing past the first 2-3 punches.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "make sure you stop holding \"Forward\" after the first input.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#38",
+          "quote": "I was consistently wondering why I couldn't get the inputs to go past the first 2-3 punches. Once I worked on letting go of holding \"Forward\" I was more consistently getting into the combos later parts.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-39-1",
+      "type": "tip",
+      "subject": "Heihachi 6 hit combo",
+      "predicate": "countered_by",
+      "object": "dash-to-punch delay timing",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90441
+      ],
+      "missable": false,
+      "text": "The main difficulty of Heihachi's combo is timing the delay between the dash and the punch so you do not launch the opponent; with the switch-character workaround on Easy and 5 rounds it is doable.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#39",
+          "quote": "Get used to the delay in between the dash and the punch as to not launch them, learn the timing off the buttons and from there on out it should come close to automatic.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#39",
+          "quote": "with easy and 5 rounds you should be able to do it!",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-41-1",
+      "type": "tip",
+      "subject": "Kunimitsu 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "Yoshimitsu's string, 7 hits",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90442
+      ],
+      "missable": false,
+      "text": "Kunimitsu has no 10 string combo, so use Yoshimitsu's string, which only goes to 7 hits; its second hitbox often drops out of the combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#41",
+          "quote": "This one sucks only because Kunimitsu doesn’t have a 10 string combo, so you just gotta used Yoshimitsu’s, which only goes up to 7 hits.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#41",
+          "quote": "That second hitbox during the combo loves to fall out of combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-51-1",
+      "type": "tip",
+      "subject": "Ganryu 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "F2,1,2,1,2,1",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90481
+      ],
+      "missable": false,
+      "text": "A commenter gives Ganryu's 6 hit combo as F2,1,2,1,2,1.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#51",
+          "quote": "[DaRo0917] F2,1,2,1,2,1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-53-1",
+      "type": "tip",
+      "subject": "Kuma 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "d+2, 1, 1, 1, 2, 1",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90482
+      ],
+      "missable": false,
+      "text": "A commenter gives Kuma's 6 hit combo as d+2, 1, 1, 1, 2, 1.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#53",
+          "quote": "[Darren1337] d+2, 1, 1, 1, 2, 1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-55-1",
+      "type": "tip",
+      "subject": "Wang 6 hit combo",
+      "predicate": "how_to_unlock",
+      "object": "Michelle-style 10-hit combo",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90483
+      ],
+      "missable": false,
+      "text": "A combo from a video would not trigger Wang's 6 hit achievement; you have to do the specific combo similar to Michelle's 10-hit combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#55",
+          "quote": "it won't trigger for some reason. You have to do that specific similar combo to Michelle if u know what I mean.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#55",
+          "quote": "you should do Michelle's 10-hit combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-65-1",
+      "type": "achievement",
+      "subject": "The King of Iron Fist",
+      "predicate": "triggers",
+      "object": "may need a second completion",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90414
+      ],
+      "missable": false,
+      "text": "Two players report the Heihachi Arcade achievement only unlocked after a second separate completion; one also saw 6 hit combo achievements not unlock even past 8 hits.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#65",
+          "quote": "had to complete 2 separate runs for the achievement to unlock. Noticing similar issues with some of the 6 hit combo achievements not unlocking even after going well into 8 hits.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#65",
+          "quote": "Yep, took 2 completions before it unlocked",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-67-1",
+      "type": "tip",
+      "subject": "P.Jack",
+      "predicate": "countered_by",
+      "object": "D1 poke and DB1",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90416
+      ],
+      "missable": false,
+      "text": "P.Jack has Heihachi's D1 (without the D1,2 extension): his longest-range poke and whiff punisher, low risk, block-punishes most moves and even hits opponents lying down; one player beat Heihachi mostly spamming it or DB1. Another reports P.Jack's grabs connect but do nothing.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#67",
+          "quote": "P. Jack has Heihachi's D1. It doesn't have the extension (D1,2) that Hei has but its the longest range poke and whiff punisher Jack in this game has.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#67",
+          "quote": "It doesn't do much damage BUT its low risk",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#67",
+          "quote": "even hits laying down opponents. I beat Hei doing pretty much nothing but spamming this or DB1.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#67",
+          "quote": "grabbing doesn't work at all (I mean he grabs but nothing happens)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-1",
+      "type": "tip",
+      "subject": "Hand-to-Hand Expert",
+      "predicate": "recommended_level",
+      "object": "Ultra Hard is easier than normal",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422
+      ],
+      "missable": false,
+      "text": "Several players found Ultra Hard easier than normal because the CPU takes risks instead of standing still and input-reading; one recommends Law as the best character.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "Ultra Hard on Tekken 1 is easier than normal, because CPU actually take risks instead of standing still and input reading your actions perfectly",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "Law is the best hero to use in Tekken 1.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-2",
+      "type": "tip",
+      "subject": "King and Heihachi",
+      "predicate": "countered_by",
+      "object": "King df+1, Heihachi wgf",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422
+      ],
+      "missable": false,
+      "text": "King's df+1 is extremely plus on block, and Heihachi can spam wind god fist with good spacing (wgf,1,wgf).",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "King df+1 is broken in this game, on block is +90 or something like that, or you can just spam Heihachi wgf with good spacing and do (wgf,1,wgf).",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-3",
+      "type": "mechanic",
+      "subject": "Default settings",
+      "predicate": "requires",
+      "object": "40 second timer",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422,
+        90423,
+        90427
+      ],
+      "missable": false,
+      "text": "A player realized at the Heihachi fight that the timer was set to infinite and not 40.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "I realized the timer was set to infinite and not 40.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-4",
+      "type": "achievement",
+      "subject": "Hand-to-Hand Veteran and Expert",
+      "predicate": "triggers",
+      "object": "one Ultra Hard run did not award both",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422,
+        90423
+      ],
+      "missable": false,
+      "text": "One player tried to get the Hard and Ultra Hard achievements at the same time and it did not unlock.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "Tried getting hard and ultra hard at same time but didn't seem to unlock for some reason",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-5",
+      "type": "tip",
+      "subject": "Lee",
+      "predicate": "countered_by",
+      "object": "d4444",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422,
+        90427
+      ],
+      "missable": false,
+      "text": "Lee's d4444 trivializes the Arcade ladder on any difficulty: if blocked to the end, wait for the punish, block, and repeat; if the opponent rolls back, let the first kick hit and keep mashing 4 so the last kick hits on their way up. It also works for the 5 minute achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "Lee's d4444 makes this a cinch. If the opponent blocks the string until the end, wait for their punish, block, and try again.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "If they attempt to roll backwards, let the first kick hit them, keep mashing 4, and the last kick will hit them on the way up. This trivializes the arcade ladder run on any difficulty, including this one.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "You can also do this for the 5 minute speedrun cheevo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-6",
+      "type": "mechanic",
+      "subject": "Hand-to-Hand Expert",
+      "predicate": "requires",
+      "object": "continues allowed",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422
+      ],
+      "missable": false,
+      "text": "Ultra Hard with default settings allows continuing; one player got it without needing a continue by spamming King's 10 hit combo, whose last 5 hits connect even if the first 5 are blocked.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "on this difficulty, the CPU is constantly attacking and we can easily counterattack, plus it allows continuing.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "I just picked King and spammed the 10 hit combo cause even if the enemy blocks the first 5 hits, the last 5 always connect",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "That's how I obtained this achievement without even need to use a continue.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-76-7",
+      "type": "tip",
+      "subject": "Paul",
+      "predicate": "countered_by",
+      "object": "Death Fist",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90422
+      ],
+      "missable": false,
+      "text": "Paul's Death Fist does huge damage (half a bar on counter hit), mixed with d4,2 to fish for lows; Law in Stage 6 with his jab combo was the hardest opponent for one player.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "there's always a chance that the CPU for some reason will let itself get hit with the Death Fist [which for this game does MAD damage - if you hit it on counter hit it does HALF a bar]",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "occasional d4,2 to fish for lows",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#76",
+          "quote": "Law in Stage 6 and his high tendency to throw his jab combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-1",
+      "type": "tip",
+      "subject": "Armor King",
+      "predicate": "countered_by",
+      "object": "df1, then 1,2 into wind god fist",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "For the 5 minute achievement, use Armor King and spam df 1; if they block it, go for 1,2 into wind god fist.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "use armor king and spam df 1, then if they block it, go for 1,2 into wind god fist",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-2",
+      "type": "tip",
+      "subject": "Ganryu",
+      "predicate": "countered_by",
+      "object": "throw then stomp",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "Ganryu can win 7 second rounds by throwing and then stomping (Circle+Triangle grab, then the down + Circle stomp), giving a 4:28.53 clear for a beginner; the stomp can miss if the opponent gets up first.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Ganryu can get 7 second rounds on the first two fights easily by throwing and then stomping",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "I got a 4:28.53 with this strategy after picking the game up for the first time ever two days ago.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "his Circle+Triangle grab followed by Forward, Down Circle stomp attack",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "I tried Ganryu's stomp, but they get up before I can hit it",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-3",
+      "type": "tip",
+      "subject": "Lee",
+      "predicate": "countered_by",
+      "object": "down + 4,4,4",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "Players did it by spamming down + 4,4,4 with Lee; Lee's spam worked.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Did it by spammin down + 4,4,4 with Lee",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Lees spam worked thnx",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-4",
+      "type": "tip",
+      "subject": "Michelle and King",
+      "predicate": "countered_by",
+      "object": "10 hit combo",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "Michelle's 10 hit combo is called perfect for the 5 minute achievement, and King's 10 hit combo also works with aggressive play.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Michelle's 10 hit combo is perfect for this",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "I found King's 10 hit combo pretty good for this.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-5",
+      "type": "tip",
+      "subject": "Paul",
+      "predicate": "countered_by",
+      "object": "Death Fist and Bone Breaker",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "Paul works for the 5 minute run using Death Fist [d,df,f+2], Bone Breaker [d+4,2] and ff2 after knockdowns; two or three Death Fists win a round, and one player got 3'30.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Paul is fairly good if you can make use of his Death Fist [d,df,f+2] but also mixing in sometimes his Bone Breaker [d+4,2] and following knockdowns with his ff2",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "landing two to three of those is enough to win a round",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "then got 3'30 when aiming to get a sub 5 min",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-6",
+      "type": "achievement",
+      "subject": "Heihachi",
+      "predicate": "unlocks",
+      "object": "near-5-minute King clear",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "A King clear of 5:33 missed the 5 minute achievement but still unlocked Heihachi.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "Closest I got was using King and I got to 5:33. Still unlocked Heihachi at least",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-77-7",
+      "type": "tip",
+      "subject": "King",
+      "predicate": "countered_by",
+      "object": "crouching down-forward kicks",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "King's crouching down-forward triple kick also worked for the 5 minute achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#77",
+          "quote": "King: While crouching + ⇘ 🔴🔴🔴 and Good Luck",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#78",
+          "quote": "King with the triple down kick immediately did the trick for me.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-78-2",
+      "type": "tip",
+      "subject": "Five Minute Death Punch",
+      "predicate": "countered_by",
+      "object": "favorable early opponents",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90427
+      ],
+      "missable": false,
+      "text": "Practice whiff punishing; King, Nina and Paul become brutal later in the ladder, so a run that faces at least two of them in the first fights is far easier. Lee's kick spam can stop working when the AI starts crouch-blocking.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#78",
+          "quote": "really gotta practice your whiff punishing and which moves are punishable or not. Also got lucky with King and Nina being the first 2 enemies to fight",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#78",
+          "quote": "later AI for all of Paul, King, and Nina is absolutely brutal so I think having at least 2 of the 3 in your first couple fights is all but necessary.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#78",
+          "quote": "I tried Lee's kick spam without success: after few rounds AI just crouches and blocks it completely.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-79-3",
+      "type": "mechanic",
+      "subject": "Long Journey",
+      "predicate": "requires",
+      "object": "save the round setting and restart",
+      "location": "Options",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "One commenter's setup: open options and change rounds to 5, save the game data, then exit the game and open it again.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "1. Open options, and changing round to 5.\n2. Save your game data\n3. Exit the game, and open it.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-79-4",
+      "type": "mechanic",
+      "subject": "Long Journey",
+      "predicate": "triggers",
+      "object": "frequently fails to unlock",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "Long Journey has failed to unlock for many players (Paul, Lee, Heihachi, Kazuya runs); updating RetroArch helped one player and a later King run triggered for another. Check that the challenge indicator appears in the bottom right corner.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "I have accomplished this twice on hardcore and have not gotten the achievement. Both times with Paul.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "I guess you just need the latest version of Retroarch. At least an update helped in my case.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "did another run with Lee and it didn't trigger again",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "Did a run with King after and it finally triggered for me.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "Just make sure that symbol is in the bottom right corner so you know the cheevo is registering",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-79-5",
+      "type": "tip",
+      "subject": "Long Journey",
+      "predicate": "countered_by",
+      "object": "block-stun moves and spacing",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "Moves with huge block recovery give unavoidable damage: King's df1 is the easiest, or Nina/Anna's ff4 for range and safety (roll back immediately if it hits). For the sister fight (fight 8), get the health lead early.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "King's df1 is the most infamous and probably easiest to do, I went with Nina/Anna's ff4 because of its range and relative safety.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "If it gets blocked, you get your free hit in. If it hits (you don't want this), you can just roll back instantly.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "For the sister fight (fight 8), get the health advantage as early as possible",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-79-6",
+      "type": "tip",
+      "subject": "King",
+      "predicate": "countered_by",
+      "object": "10 hit combo spam",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "Translated in the thread: one player got Long Journey with King by constantly spamming the 10 hit combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#79",
+          "quote": "How I got it: I chose King as a fighter and constantly spammed 10 combo hits",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-80-2",
+      "type": "tip",
+      "subject": "Long Journey opponents",
+      "predicate": "countered_by",
+      "object": "Lee D+4,4,4 spacing",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "With Lee's D+4,4,4 spam, King is a run killer (keeps you grounded, low attacks, Frankensteiner) and Nina is dangerous, so keep distance when she blocks and let her come to you; Kazuya and Heihachi are easy prey for the low kick combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#80",
+          "quote": "He loves not letting you off the ground, spamming low attacks, and his Frankinsteiner move. Also, Nina can be a problem as well.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#80",
+          "quote": "keep some distance if she starts blocking too much, and let her come to you. Both Kazuya, and Heihachi are easy prey for the low kick combo",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-80-3",
+      "type": "mechanic",
+      "subject": "Long Journey",
+      "predicate": "requires",
+      "object": "RetroArch core instead of DuckStation",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90429
+      ],
+      "missable": false,
+      "text": "Several players report Long Journey not popping on DuckStation even when the challenge indicator showed; use Beetle PSX or PCSX ReArmed on RetroArch instead, where Armor King runs finally triggered it.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#80",
+          "quote": "Don't use Duckstation for this one, use BeetlePSX on Retroarch",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#80",
+          "quote": "Did this on Duckstation first, as many have mentioned it didn't pop even if it did indicate the challenge had started.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#80",
+          "quote": "for whatever reason it decided to work with Armor King.  pcsx-rearmed core on retroarch.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-8-1",
+      "type": "achievement",
+      "subject": "Master of Evasion",
+      "predicate": "triggers",
+      "object": "unexpected unlock",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90406
+      ],
+      "missable": false,
+      "text": "One player reports Master of Evasion unlocked after losing the first round without landing a hit.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#8",
+          "quote": "I somehow lost my first round playing this without getting a hit in and this unlocked.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-9-1",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "unlocks",
+      "object": "second ship",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "You need to earn the second ship by completing the first stage fast; after that it is memorization and reflexes.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "You really need to get that second ship after completing the first run fast. But after that, it's just a matter of memorization and reflexes.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-9-2",
+      "type": "achievement",
+      "subject": "Namco Classic Challenge",
+      "predicate": "requires",
+      "object": "one continue for the whole playthrough",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "The continue trick blocks the Devil Kazuya unlock; only one continue is allowed for one whole playthrough.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "Does the continue trick block out the Devil character unlock?",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "yeah it does, you can only use one continue for one whole playthrough",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-9-3",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "know every wave by heart",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "Know every wave by heart and master every shooting position; the double-hit ships are the main obstacle and a video helps.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "The key is to know every wave by heart. Then master every shooting position. The video really helped.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "those double hit ships were the bane of my existence",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-9-4",
+      "type": "tip",
+      "subject": "Galaga",
+      "predicate": "countered_by",
+      "object": "second ship gives margin for error",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "The first stage is hardest because you only have one ship; once you consistently earn the second ship there is a larger margin for error, and the whole achievement took one player about 3 hours.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "The first stage is the hardest to get right because you only have 1 ship, once you can consistently get a 2nd one there's a larger margin for error.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "~3 hours from start to finish",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-9-5",
+      "type": "tip",
+      "subject": "Galaga stages",
+      "predicate": "located_in",
+      "object": "original Galaga bonus stages",
+      "location": "Galaga boot mini-game",
+      "requires": [],
+      "achievement_ids": [
+        90355
+      ],
+      "missable": false,
+      "text": "The eight stages of the Tekken Galaga mini-game are the bonus stages of the original Galaga.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#9",
+          "quote": "the eight stages of the galaga mini game in this tekken, in the original game, are the bonus stages",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-15-1",
+      "type": "achievement",
+      "subject": "Heihachi",
+      "predicate": "how_to_unlock",
+      "object": "no-continue Arcade run with a main character",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90428
+      ],
+      "missable": false,
+      "text": "To unlock Heihachi, finish Arcade mode without continuing (restart from the beginning if you lose) using one of the main characters: Yoshimitsu, Nina, Law, Kazuya, Paul, Jack-1, King or Michelle; one commenter used Easy, 2 rounds, time 40, and another confirms 1 round also works.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "To unlock Heihachi, you must playing a game without continue. If you're losing, you must playing again from the beginning",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "You must using main character.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "- Yoshimitsu\n- Nina\n- Law\n- Kazuya\n- Paul\n- Jack-1\n- King, and\n- Michelle",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "Difficulty:\nEasy\n\nRounds:\n2\n\nTimes:\n40",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#15",
+          "quote": "No need for 2 rounds. 1 also works.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-1",
+      "type": "mechanic",
+      "subject": "Move notation",
+      "predicate": "requires",
+      "object": "button mapping",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Commenter's notation: F/D/B/U = Forward/Down/Back/Up; LP = Left Punch (Square), RP = Right Punch (Triangle), LK = Left Kick (Cross), RK = Right Kick (Circle).",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "F = Forward  LP = Left Punch (square, X)\nD = Down     RP = Right Punch (triangle, Y)\nB = Back       LK = Left Kick (cross, A)\nU = Up          RK = Right Kick (circle, B)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-2",
+      "type": "tip",
+      "subject": "Kazuya",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Kazuya's 10-attack string is F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Kazuya \n10-Attack String: F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-3",
+      "type": "tip",
+      "subject": "Paul",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Paul's 10-attack string is LP, RP, LK, RP, LP, RP, LP, RK, RP, LP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Paul \n10-Attack String: LP, RP, LK, RP, LP, RP, LP, RK, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-4",
+      "type": "tip",
+      "subject": "Law",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Law's 10-attack string is DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Law\n10-Attack String: DF(tap) + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-5",
+      "type": "tip",
+      "subject": "Nina",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Nina's 10-attack string is LP, RP, LP, RP, LK, LK, RP, LP, RP, RP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Nina \n10-Attack String: LP, RP, LP, RP, LK, LK, RP, LP, RP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-6",
+      "type": "tip",
+      "subject": "Jack",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Jack's 10-attack string is D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Jack\n10-Attack String: D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-7",
+      "type": "tip",
+      "subject": "King",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "King's 10-attack string is LP, RP, LP, LP, RP, RK, RK, RK, RK, LP, LK.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "King \n10-Attack String: LP, RP, LP, LP, RP, RK, RK, RK, RK, LP, LK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-8",
+      "type": "tip",
+      "subject": "Yoshimitsu",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Yoshimitsu's 10-attack string is LP, RP, LP, RK, RK, RK, RK, LP, LP, LP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Yoshimitsu\n10-Attack String: LP, RP, LP, RK, RK, RK, RK, LP, LP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-9",
+      "type": "tip",
+      "subject": "Michelle",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Michelle's 10-attack string is RP, LP, LP, RP, LK, LK, LK, RK, RK, LP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Michelle \n10-Attack String: RP, LP, LP, RP, LK, LK, LK, RK, RK, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-10",
+      "type": "tip",
+      "subject": "Lee",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Lee's 10-attack string is (tap)DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Lee Chow Lang\n10-Attack String: (tap)DF + LP, RP, RP, LP, LK, LK, LK, RK, LK, RK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-11",
+      "type": "tip",
+      "subject": "Kuma",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Kuma's 10-attack string is D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Kuma\n10-Attack String: D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-12",
+      "type": "tip",
+      "subject": "Wang",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Wang's 10-attack string is RP, LP, LP, RP, LK, LK, LK, LK, RK, RK, LP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Wang Gin Lei\n10-Attack String: RP, LP, LP, RP, LK, LK, LK, LK, RK, RK, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-13",
+      "type": "tip",
+      "subject": "Anna",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Anna's 10-attack string is LP, RP, LP, RP, LK, LK, RP, LP, RP, RP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Anna \n10-Attack String: LP, RP, LP, RP, LK, LK, RP, LP, RP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-14",
+      "type": "tip",
+      "subject": "P.Jack",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "P.Jack's 10-attack string is D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "P. Jack\n10-Attack String: D + RP, LP, LP, LP, RP, LP, RP, LP, LP + RP, LP + RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-15",
+      "type": "tip",
+      "subject": "Armor King",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Armor King's 10-attack string is LP, RP, LP(rolled), LP, RP, RK, RK, RK, LP, LK.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Armor King\n10-Attack String: LP, RP, LP(rolled), LP, RP, RK, RK, RK, LP, LK",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-16",
+      "type": "tip",
+      "subject": "Heihachi",
+      "predicate": "how_to_unlock",
+      "object": "10-attack string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Heihachi's 10-attack string is F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Heihachi\n10-Attack String: F, F(Hold) + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-17",
+      "type": "tip",
+      "subject": "Ultimate Combo",
+      "predicate": "recommended_level",
+      "object": "Anna or Nina",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Anna and Nina were reported as the easiest characters for the 10 hit combo.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Anna, and Nina was the easiest characters to complete it.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-18",
+      "type": "mechanic",
+      "subject": "Ultimate Combo",
+      "predicate": "requires",
+      "object": "RALibretro instead of RetroArch",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "One player could not trigger the 10 hit combo on RetroArch with the PCSX ReArmed core but got it on RALibretro with the same core.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "I've tried to get achievement on RetroArch (Core - PCSX Rearmed) and it won't triggered. So, i've tried on RALibretro with same core and i've got it.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-19",
+      "type": "tip",
+      "subject": "P.Jack",
+      "predicate": "how_to_unlock",
+      "object": "Mega Crouch Combo",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "A player earned the 10 hit combo with P.Jack's Mega Crouch Combo: (Crouch) + LP, LP, LP, RP, LP, RP, mashing.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "I got this using P.Jack and smashing--Mega Crouch Combo: (Crouch) + LP, LP, LP, RP, LP, RP",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-20",
+      "type": "mechanic",
+      "subject": "Ultimate Combo",
+      "predicate": "requires",
+      "object": "every hit must connect",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "The 10 hit combo failed for many characters but worked with Michelle on DuckStation, and every single hit must land; a blocked or whiffed hit does not count.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "Did not work for a bunch of characters for me - but on Michelle it worked. Duckstation being used. And yes, every single hit needs to hit, blocking or whiffing a single hit does not count.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-19-21",
+      "type": "tip",
+      "subject": "Ultimate Combo",
+      "predicate": "recommended_level",
+      "object": "King over Law",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "One player could not trigger the 10 hit combo as Law but did it as King.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#19",
+          "quote": "I was trying this one as Law and it won't trigger but I did it as King.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-1",
+      "type": "tip",
+      "subject": "Ultimate Combo",
+      "predicate": "how_to_unlock",
+      "object": "versus match, all hits must connect",
+      "location": "2P mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "(Translated from Spanish) Start a versus match and perform the combo there; the challenge only counts when every hit of the combo lands.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "les recomiendo iniciar una partida de contrincante, y ahí aplicar el combo. El reto sólo es válido cuando le pega todos los golpes del HIT COMBO.",
+          "translation": "I recommend starting a versus match and doing the combo there. The challenge is only valid when every hit of the HIT COMBO lands.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-2",
+      "type": "tip",
+      "subject": "P.Jack",
+      "predicate": "how_to_unlock",
+      "object": "hold down and spam LP",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "P.Jack is the simplest for the 10 hit combo: hold down and spam LP until enough hits connect, done in the first stage on normal settings.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "p-jack is the most simple. All I did was hold down and spam LP until enough hits connected in a row. 1st stage on normal settings.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-3",
+      "type": "tip",
+      "subject": "Michelle",
+      "predicate": "how_to_unlock",
+      "object": "2, 1, 1, 2, 3, 3, 3, 4, 4, 1 in 2P mode",
+      "location": "2P mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "As of February 19, 2026, one player's 10-hit combos with Nina, King, Jack and P.Jack did not trigger in Arcade or 2P mode, but Michelle in 2P mode worked first try with 2, 1, 1, 2, 3, 3, 3, 4, 4, 1.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "For reference, I am writing this on February 19, 2026.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "I tried with Nina, King, Jack, and P. Jack, but none of them worked",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "The only character I managed to unlock the achievement with on my first try was Michelle in 2P mode.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "The combo is this: 2, 1, 1, 2, 3, 3, 3, 4, 4, 1.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-4",
+      "type": "mechanic",
+      "subject": "Ultimate Combo",
+      "predicate": "requires",
+      "object": "restart the emulator",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "On DuckStation the 10 hit combo would not trigger with any character until the player restarted the emulator and followed the Michelle 2P method.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "Trying to do this in duckstation and ain't working with any character",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "Restarted the emulator and did it just like ps1lover said and worked",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-5",
+      "type": "mechanic",
+      "subject": "Ultimate Combo",
+      "predicate": "triggers",
+      "object": "inconsistent conditions",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "One player only got the Michelle 10 hit combo to count after about ten tries, at full HP and after a time-up win on Medium in Arcade mode, suggesting the trigger is unreliable.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "Can confirm worked with Michelle, but only after like 10th time, and only with full hp and only after time up win.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "I did it on Medium difficulty in Arcade Mode.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-6",
+      "type": "mechanic",
+      "subject": "Ultimate Combo",
+      "predicate": "triggers",
+      "object": "counter-hit start",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Starting Kuma's 10 string with a counter hit landed every hit but only popped the 6 hit achievement; Kazuya's 10 string started with a counter hit on Ultra Hard did trigger the 10 hit achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "Started Kuma's 10 string with a counterhit vs Kazuya in round one of fight one on ultra hard.  Landed every hit, popped the 6-hit combo cheevo but not the ten.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "Started Kaz's 10 string with a CH against Jack on ultra hard.  That time it worked.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-7",
+      "type": "tip",
+      "subject": "Yoshimitsu",
+      "predicate": "how_to_unlock",
+      "object": "10 hit string",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "Yoshimitsu's 10 hit combo is reported as easy: Square, Triangle, Square, Circle, Circle, Circle, Square, Square, Square, Square.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "10 hits combo with YOSHIMITSU is super easy (square, triangle, square, circle, circle, circle, square, square, square, square)",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-20-8",
+      "type": "achievement",
+      "subject": "Ultimate Combo",
+      "predicate": "triggers",
+      "object": "Kazuya light punch spam",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90433
+      ],
+      "missable": false,
+      "text": "One player got the 10 hit combo achievement by spamming Kazuya's light punch.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#20",
+          "quote": "I somehow got this whilst spamming Kazuya's light punch",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-22-1",
+      "type": "tip",
+      "subject": "Kazuya",
+      "predicate": "how_to_unlock",
+      "object": "6 hit combo input",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90431
+      ],
+      "missable": false,
+      "text": "For Kazuya's 6 hit combo a commenter gives Forward, Forward+2, 1, 2, 2, 3, 4, 4, 1, 2, 1 (forward, forward + RP, LP, RP, RP, LK, RK, RK, LP, RP, LP); another reports it popped from mashing light punch during the first fight.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#22",
+          "quote": "Foward Foward+2, 1, 2, 2, 3, 4, 4, 1, 2, 1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#22",
+          "quote": "i just kept mashing light punch during the first fight and this popped",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-22-2",
+      "type": "achievement",
+      "subject": "6 hit combo achievements",
+      "predicate": "requires",
+      "object": "Arcade mode",
+      "location": "Arcade mode",
+      "requires": [],
+      "achievement_ids": [
+        90431
+      ],
+      "missable": false,
+      "text": "A player who did the Kazuya 6 hit combo in 2-player mode reports it did not unlock there.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#22",
+          "quote": "Did this on 2-player and is not unlocking, those achivements can only be earned on arcade",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-24-1",
+      "type": "tip",
+      "subject": "Paul",
+      "predicate": "how_to_unlock",
+      "object": "10 hit combo",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90434
+      ],
+      "missable": false,
+      "text": "The Paul 6 hits achievement was got by using the 10 hit combo with Paul; another player did it and it did not pop, asking if it is broken.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#24",
+          "quote": "it says 6 hits, But you got it by using 10 hit combo with paul",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#24",
+          "quote": "I did it and it don't pop... Is it broken ?",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-28-1",
+      "type": "tip",
+      "subject": "6 hit combo achievements",
+      "predicate": "how_to_unlock",
+      "object": "six hits in a row, df+Square",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90436
+      ],
+      "missable": false,
+      "text": "On the Jack achievement page a player says all combo achievements can be done by landing 6 hits in a row without a real combo, with down-forward Square as the win button.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#28",
+          "quote": "all combo achievements can be done by just hitting 6 times in a row without combo. down forward Square is the win button.",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-32-1",
+      "type": "achievement",
+      "subject": "Iron Fist - Yoshimitsu",
+      "predicate": "triggers",
+      "object": "10 hit combo does not count",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90439
+      ],
+      "missable": false,
+      "text": "Yoshimitsu's 10 hit combo does not seem to trigger his 6 hit achievement.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#32",
+          "quote": "I've done his 10 hit combo even and it still refuses to pop for me",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#32",
+          "quote": "Can confirm 10 hit combo doesn't seem to trigger this at all",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-32-2",
+      "type": "tip",
+      "subject": "Yoshimitsu",
+      "predicate": "how_to_unlock",
+      "object": "6 hit alternatives",
+      "location": null,
+      "requires": [],
+      "achievement_ids": [
+        90439
+      ],
+      "missable": false,
+      "text": "Methods reported for Yoshimitsu's 6 hit achievement: mash back + crouching left kick; spam down-forward Triangle on block (reported as a bug); or b+1 (his spin) into 4-4-4.",
+      "evidence": [
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#32",
+          "quote": "Just mash back crouching left kick",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#32",
+          "quote": "I got this to pop by spamming down forward Triangle on block. just reporting as a bug.",
+          "stance": "supports"
+        },
+        {
+          "source_id": "ra-comments",
+          "chunk_id": "ra-comments#32",
+          "quote": "Did his b+1 (Where he spins) into 4-4-4, that got me 6 hits.",
           "stance": "supports"
         }
       ],

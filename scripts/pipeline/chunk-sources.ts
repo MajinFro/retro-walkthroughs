@@ -4,16 +4,21 @@
  * Splits every registered source into provenance-preserving chunks.
  * No summarizing, no interpretation: chunk text is the verbatim source text.
  *
- *   npx tsx scripts/pipeline/chunk-sources.ts <gameId>
+ *   npx tsx scripts/pipeline/chunk-sources.ts <gameId> [--rechunk <source_id|all>]
  */
 import fs from "node:fs";
 import path from "node:path";
 import {
   type Chunk,
   type SourceEntry,
+  exists,
+  flag,
   gameIdArg,
+  loadFacts,
+  loadSkipped,
   paths,
   readJson,
+  readJsonl,
   readText,
   requireFile,
   writeJsonl,
@@ -92,6 +97,8 @@ function chunkSource(src: SourceEntry, text: string): Chunk[] {
       bufStart = i + 1 - carry.length;
     }
     if (header) section = cleanHeader(line);
+    // a buffer holding only a carried separator belongs to the header that follows it
+    if (header && buf.every((l) => isSep(l) || !l.trim())) bufSection = section;
     if (buf.length === 0) {
       bufStart = i + 1;
       bufSection = section;
@@ -117,10 +124,83 @@ function chunkSource(src: SourceEntry, text: string): Chunk[] {
   return chunks;
 }
 
+/**
+ * ra-comments.txt (written by rw:fetch) is a list of blocks:
+ *   ====
+ *   GAME COMMENTS | ACHIEVEMENT <id> - <title>
+ *   ====
+ *   Description: ...
+ *   [user] comment ...
+ * One chunk per block, so a header never ends up alone in its own chunk. Blocks
+ * longer than TARGET split only between comments and keep the block's section.
+ */
+function chunkRaComments(src: SourceEntry, text: string): Chunk[] {
+  const lines = text.split(/\r?\n/);
+  const isBlockHeader = (i: number) =>
+    i > 0 && isSep(lines[i - 1]) && /^(GAME COMMENTS|ACHIEVEMENT \d+ - .+)$/.test(lines[i].trim());
+  const starts: number[] = [];
+  for (let i = 0; i < lines.length; i++) if (isBlockHeader(i)) starts.push(i - 1);
+  if (!starts.length || starts[0] !== 0) starts.unshift(0);
+
+  const chunks: Chunk[] = [];
+  const push = (from: number, to: number, section: string) => {
+    const body = lines.slice(from, to).join("\n").replace(/^\s+|\s+$/g, "");
+    if (!body || lines.slice(from, to).every((l) => isSep(l) || !l.trim())) return;
+    const n = chunks.length + 1;
+    chunks.push({
+      chunk_id: `${src.id}#${n}`,
+      n,
+      source_id: src.id,
+      site: src.site,
+      source_title: src.title,
+      section,
+      line_start: from + 1,
+      line_end: to,
+      has_ascii_map: false,
+      prev: null,
+      next: null,
+      text: body,
+    });
+  };
+
+  for (let b = 0; b < starts.length; b++) {
+    const from = starts[b];
+    const to = b + 1 < starts.length ? starts[b + 1] : lines.length;
+    const section = (isBlockHeader(from + 1) ? lines[from + 1].trim() : "(start)") || "(start)";
+    // split long blocks between comments: before a "[user]" line that follows a blank line,
+    // unless what remains of the block is too short to stand alone
+    let remaining = lines.slice(from, to).reduce((n, l) => n + l.length + 1, 0);
+    let pieceStart = from;
+    let size = 0;
+    for (let i = from; i < to; i++) {
+      const commentStart = /^\[[^\]]+\]/.test(lines[i]) && i > from && !lines[i - 1].trim();
+      if (commentStart && size >= TARGET && remaining >= MIN_BEFORE_HEADER) {
+        push(pieceStart, i, section);
+        pieceStart = i;
+        size = 0;
+      }
+      size += lines[i].length + 1;
+      remaining -= lines[i].length + 1;
+    }
+    push(pieceStart, to, section);
+  }
+  return chunks;
+}
+
 const id = gameIdArg();
 const P = paths(id);
 requireFile(P.sourcesManifest, "run Stage 1 (npm run rw:fetch) and Stage 2 (rw:collect) first");
 const manifest = readJson<SourceEntry[]>(P.sourcesManifest);
+
+// Re-chunking a source renumbers its chunks and breaks every fact that cites them.
+// Keep the existing chunks of any source that facts or _skipped.txt already reference,
+// unless --rechunk <source_id|all> is given.
+const rechunk = flag("rechunk");
+const previous = exists(P.chunks) ? readJsonl<Chunk>(P.chunks) : [];
+const referenced = new Set<string>([
+  ...loadFacts(P.factsDir).flatMap((f) => (f.evidence ?? []).map((e) => e.chunk_id.split("#")[0])),
+  ...[...loadSkipped(P.factsDir).keys()].map((k) => k.split("#")[0]),
+]);
 
 const all: Chunk[] = [];
 for (const src of manifest) {
@@ -129,7 +209,13 @@ for (const src of manifest) {
     console.warn(`! source file missing for ${src.id}: ${src.file}`);
     continue;
   }
-  const c = chunkSource(src, readText(f));
+  const kept = previous.filter((c) => c.source_id === src.id);
+  if (kept.length && referenced.has(src.id) && rechunk !== src.id && rechunk !== "all") {
+    console.log(`${src.id.padEnd(12)} ${String(kept.length).padStart(4)} chunks  (kept: facts reference these chunk ids; --rechunk ${src.id} re-splits and invalidates them)`);
+    all.push(...kept);
+    continue;
+  }
+  const c = src.kind === "ra-comments" ? chunkRaComments(src, readText(f)) : chunkSource(src, readText(f));
   const maps = c.filter((x) => x.has_ascii_map).length;
   const sections = new Set(c.map((x) => x.section)).size;
   console.log(`${src.id.padEnd(12)} ${String(c.length).padStart(4)} chunks  ${String(sections).padStart(4)} sections  ${String(maps).padStart(3)} w/ ASCII maps  (${src.site}: ${src.title})`);

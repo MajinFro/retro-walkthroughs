@@ -8,8 +8,8 @@ When asked to run a pipeline, subagent, or test, you must **NEVER** take shortcu
 
 The primary purpose of running these pipelines is to test the integration and uncover real-world issues, edge cases, and formatting bugs in the actual execution environment.
 
-1. **Always invoke the actual subagents and tools** (e.g., `invoke_subagent`, `run_command` for full scripts) instead of simulating their behavior.
-2. **Always perform real data retrieval** (e.g., using `read_url_content` or `search_web`) rather than injecting static URLs or hallucinating facts from pre-training memory.
+1. **Always invoke the actual subagents and tools** (e.g., `invoke_subagent` / `run_command` in Antigravity, `Agent` / `PowerShell` / `Bash` in Claude Code, for full scripts) instead of simulating their behavior.
+2. **Always perform real data retrieval** (e.g., using `read_url_content` / `search_web` in Antigravity, `WebFetch` / `WebSearch` in Claude Code) rather than injecting static URLs or hallucinating facts from pre-training memory.
 3. If a pipeline takes a long time to run due to heavy web scraping or processing, you must let it run naturally rather than writing a mock script to bypass the wait. 
 
 Taking shortcuts defeats the purpose of iterative debugging. You must run all tasks clean and raw every time.

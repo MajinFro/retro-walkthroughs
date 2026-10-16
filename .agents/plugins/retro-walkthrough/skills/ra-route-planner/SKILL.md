@@ -92,6 +92,7 @@ Construct `content/research/<gameId>/07_roadmap.json`.
   "playthrough_notes": "100% completion requires a single comprehensive playthrough with no missed missables.",
   "settings_notes": "Hardcore Mode enabled. Normal difficulty or higher required for Achievement 5678.",
   "fact_ids": ["gf1-5-1", "ra-comments-1-1"],
+  "counter_totals": { "Dungeon Chests": 142, "Capsule Monsters": 7 },
   "missables": [
     {
       "achievement_id": 1234,
@@ -116,6 +117,7 @@ Construct `content/research/<gameId>/07_roadmap.json`.
       "areas": ["Narshe", "Narshe_Mines", "Whelk"],
       "achievement_ids": [1234, 1235],
       "fact_ids": ["gf1-10-1", "gf1-15-1", "gf1-15-2"],
+      "counters": { "Dungeon Chests": 14, "Capsule Monsters": 1 },
       "notes": "Ensure player does not attack Whelk while in shell."
     }
   ],
@@ -137,6 +139,9 @@ Construct `content/research/<gameId>/07_roadmap.json`.
 6. **Sequential Numbering:** Chapters must be numbered `1..N` in chronological story order.
 7. **Missables Coverage:** Any achievement flagged as `missable` by RetroAchievements must appear in `missables[]` with explicit deadline and warning facts.
 8. **Point of No Return (PONR):** Document all irreversible world state transitions based strictly on source evidence.
+9. **Checkpoint counters:** For every countable `true_100_criteria` category (hidden boxes, chests, heart pieces…), put its total in `counter_totals` and each chapter's share in `chapters[].counters`; the shares must add up to the total. The packet then gives each writer exact running totals ("Hidden Boxes: 12 / 39"), achievements and points included, and `rw:qa` rejects checkpoints with other numbers. Writers never count by hand.
+10. **Area labels match fact locations:** Packets pull facts whose `location` matches a chapter area's label (through `05_aliases.json`). Label area nodes with the location name the guides use ("Coal Mines", not "Moleville Mines Expedition"), and add aliases for the variants. `rw:plan` warns about every area label that matches no fact location and lists similar location names; fix every one before writing, or that chapter's writer gets a thin packet.
+11. **Achievement placement:** `rw:plan` warns when an achievement's supporting facts are all located in another chapter's areas. Check each warning: move the achievement, or keep it when the sources say it is earned later (for example, an item bought early but used later).
 
 ---
 
@@ -151,4 +156,4 @@ This script validates node/edge relationships, chapter completeness, achievement
 - Achievement dependency graph (`flowchart LR`)
 - Per-chapter routing diagrams
 
-If `rw:plan` reports any errors, fix `06_graph.json` or `07_roadmap.json` until it passes with exit code 0.
+If `rw:plan` reports any errors, fix `06_graph.json` or `07_roadmap.json` until it passes with exit code 0. Then resolve its area-label and placement warnings (requirements 10 and 11) before Stage 8.
