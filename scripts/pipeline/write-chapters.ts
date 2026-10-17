@@ -133,7 +133,10 @@ function problems(t: string, text: string): string[] {
   const ponr = roadmap.ponr.filter((p) => p.chapter === n).length;
   const ponrCallouts = lines.filter((l, i) => /^>\s*\[!CAUTION\]/i.test(l.trim()) && /point of no return/i.test(lines.slice(i, i + 6).join(" "))).length;
   if (ponrCallouts < ponr) out.push(`${ponr} point(s) of no return but ${ponrCallouts} "> [!CAUTION]" callout(s) containing "Point of No Return"`);
-  const cpAt = lines.findIndex((l) => /cumulative\s*(100%|progress)\s*checkpoint/i.test(l));
+  // the callout's own heading first: prose may mention "Cumulative 100% Checkpoint" earlier
+  const cpRe = /cumulative\s*(100%|progress)\s*checkpoint/i;
+  const inCallout = lines.findIndex((l) => l.trim().startsWith(">") && cpRe.test(l));
+  const cpAt = inCallout > -1 ? inCallout : lines.findIndex((l) => cpRe.test(l));
   if (cpAt === -1) out.push("missing the > [!IMPORTANT] Cumulative 100% Checkpoint block");
   else {
     const tot = checkpointTotals(roadmap, n, ach.achievements);
@@ -182,7 +185,7 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
     const ps = problems(r.key, text);
     drafts.set(r.key, { text, problems: ps });
     writeText(path.join(P.chaptersDir, fileOf(r.key)), text);
-    console.log(`  ${fileOf(r.key)}: ${text.split(/\s+/).length} words${ps.length ? `, ${ps.length} problem(s) → repair` : " ✅"}`);
+    console.log(`  ${fileOf(r.key)}: ${text.split(/\s+/).length} words${ps.length ? `, ${ps.length} problem(s) → repair: ${ps.join(" | ").slice(0, 300)}` : " ✅"}`);
     if (ps.length) repairs.push(r.key);
   },
 });

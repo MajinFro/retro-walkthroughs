@@ -26,7 +26,9 @@ import {
   writeText,
 } from "./lib.ts";
 
-const MAX_PASSAGE_CHARS = 160_000;
+// 80k cut the first writing call ~18% on Spyro, but 4/4 test chapters then needed a repair call
+// (vs 6/13 at 160k), so it saved nothing overall. RW_PASSAGE_CHARS overrides.
+const MAX_PASSAGE_CHARS = Number(process.env.RW_PASSAGE_CHARS) || 160_000;
 
 const id = gameIdArg();
 const which = process.argv[3];

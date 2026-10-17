@@ -107,7 +107,9 @@ for (const b of batches) {
 }
 const maxBatches = Number(flag("max-batches") ?? Infinity);
 const run = batches.slice(0, maxBatches);
-const effort = (flag("effort") ?? process.env.RW_EFFORT_EXTRACT) as LlmRequest["effort"]; // unset = the model default; "low" cut output ~30% but extracted ~30% fewer facts in testing
+// medium: same facts as the model default on a 3-batch Spyro test, 13% less output (7% fewer tokens);
+// "low" cut output ~30% but extracted ~30% fewer facts. RW_EFFORT_EXTRACT or --effort overrides.
+const effort = (flag("effort") ?? process.env.RW_EFFORT_EXTRACT ?? "medium") as LlmRequest["effort"];
 
 // ---------------------------------------------------------------------------
 // Prompts
