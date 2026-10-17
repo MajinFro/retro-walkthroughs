@@ -27,7 +27,7 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
    Execute a multi-tier search for visual maps and floor plans:
    - **Tier 1 (GameFAQs):** Check GameFAQs `/map/` endpoints.
    - **Tier 2 (Dedicated Atlases):** Check curated retro repositories:
-     - **VGMaps.com:** The Video Game Atlas (massive archive covering NES, SNES, Genesis, GB, GBA, PS1, etc.).
+     - **VGMaps.com:** The Video Game Atlas (massive archive covering NES, SNES, Genesis, GB, GBA, PS1, etc.). **Run `npm run rw:maps -- <gameId> --dry-run` first**: it finds the game's maps on its console's atlas page and lists them; run it again without `--dry-run` to register them all (no hand registration). It skips "(Unmarked)" duplicates and maps already registered. If it finds none, it prints similar file-name prefixes; re-run with `--prefix <Prefix>` when one is this game. Drop cutscene stills (opening, ending) only if they show nothing playable.
      - **MarioUniverse.com:** Comprehensive level maps for Mario franchise titles (NES, SNES, N64, GBA).
      - **NESMaps.com / SNESMaps:** Dedicated platform map archives.
    - **Tier 3 (Wikis):** Check StrategyWiki (e.g. `Category:<Game>_maps` or embedded level maps) and franchise Fandom wikis (e.g. Zelda Wiki, Metroid Recon, Caves of Narshe).
@@ -59,6 +59,7 @@ Many guide and map sites (GameFAQs above all, but also wikis, map atlases, and f
 | Download a guide, wiki page, or checklist (any site) | `npm run rw:collect -- <id> "<url>" --id … --site … --title …` (GameFAQs URLs use the GameFAQs downloader; all other sites use the generic browser extractor) |
 | Read any page to find guides, map pages, or checklists (non-GameFAQs sites: VGMaps, StrategyWiki, Mario Universe, Fandom, Neoseeker, franchise archives …) | `npm run rw:browse -- "<url>"` (page text) |
 | List a page's links, e.g. a VGMaps atlas or a wiki map category | `npm run rw:browse -- "<url>" --links --grep "<game or area>"` |
+| Find and register all of a game's VGMaps maps | `npm run rw:maps -- <id> --dry-run`, then without `--dry-run` |
 | List a game's GameFAQs guides and maps | `npm run rw:find-guides -- --url "https://gamefaqs.gamespot.com/<platform>/<game>/faqs"` |
 | Find a game's GameFAQs page | Web search `site:gamefaqs.gamespot.com <title> <console>` (`rw:find-guides -- "<game title>"` usually finds nothing: GameFAQs search is blank to headless browsers) |
 

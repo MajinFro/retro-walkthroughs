@@ -18,6 +18,7 @@
     "rw:status": "tsx scripts/pipeline/status.ts",
     "rw:fetch": "tsx scripts/fetch-data.ts",
     "rw:collect": "python scripts/pipeline/collect_source.py",
+    "rw:maps": "python scripts/pipeline/collect_maps.py",
     "rw:ra-guide": "tsx scripts/pipeline/ra-guide.ts",
     "rw:chunk": "tsx scripts/pipeline/chunk-sources.ts",
     "rw:chunks": "tsx scripts/pipeline/show-chunks.ts",

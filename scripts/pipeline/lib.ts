@@ -260,7 +260,8 @@ export function gameIdArg(): string {
  */
 function checkSwallowedFlag(name: string) {
   if (!process.env.npm_lifecycle_event) return;
-  if (process.env[`npm_config_${name.replace(/-/g, "_")}`] === undefined) return;
+  // a swallowed flag always arrives as "true"; npm's own settings (npm_config_prefix=<path>, ...) never do
+  if (process.env[`npm_config_${name.replace(/-/g, "_")}`] !== "true") return;
   console.error(
     `--${name} was taken by npm, not passed to this script (PowerShell removes the "--" before npm.ps1 sees it).\n` +
       `Re-run with npm.cmd instead of npm, e.g.  npm.cmd run ${process.env.npm_lifecycle_event} -- <gameId> --${name} ...  (or run it from Bash).`,

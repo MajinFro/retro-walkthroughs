@@ -29,6 +29,7 @@ import {
 // 80k cut the first writing call ~18% on Spyro, but 4/4 test chapters then needed a repair call
 // (vs 6/13 at 160k), so it saved nothing overall. RW_PASSAGE_CHARS overrides.
 const MAX_PASSAGE_CHARS = Number(process.env.RW_PASSAGE_CHARS) || 160_000;
+const OVERVIEW_PASSAGE_CHARS = 40_000;
 
 const id = gameIdArg();
 const which = process.argv[3];
@@ -163,7 +164,9 @@ for (const cid of primary) {
 const order = (a: Chunk, b: Chunk) => a.source_id.localeCompare(b.source_id) || a.n - b.n;
 const prim = [...primary].map((c) => chunks.get(c)).filter(Boolean) as Chunk[];
 const neigh = [...neighbours].map((c) => chunks.get(c)).filter(Boolean) as Chunk[];
-let budget = MAX_PASSAGE_CHARS;
+// the overview is a ~2,000-word summary (the assembler builds its tables), so it gets far fewer passages
+const passageCap = which === "overview" ? Math.min(MAX_PASSAGE_CHARS, OVERVIEW_PASSAGE_CHARS) : MAX_PASSAGE_CHARS;
+let budget = passageCap;
 const chosen: { c: Chunk; neighbour: boolean }[] = [];
 for (const c of prim.sort(order)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: false }); budget -= c.text.length; }
 for (const c of neigh.sort(order)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: true }); budget -= c.text.length; }
@@ -181,7 +184,7 @@ for (const { c, neighbour } of chosen) {
 const out = path.join(P.packetsDir, outName);
 writeText(out, lines.filter((l) => l !== undefined).join("\n"));
 console.log(`Packet: ${title}`);
-console.log(`  ${facts.length} facts, ${chosen.length} source chunks (${MAX_PASSAGE_CHARS - budget} chars)${dropped ? `, ${dropped} chunks omitted for size` : ""}`);
+console.log(`  ${facts.length} facts, ${chosen.length} source chunks (${passageCap - budget} chars)${dropped ? `, ${dropped} chunks omitted for size` : ""}`);
 if (chapterAch.length) console.log(`  ${chapterAch.length} achievements to place`);
 // thin packets mean the writer has nothing to route with (usually graph labels that match no fact location — fix 05_aliases.json)
 if (which !== "overview" && facts.length < 40) console.log(`  ⚠ only ${facts.length} facts — check that the chapter's area labels match fact locations (npm run rw:plan -- ${id} lists unmatched areas)`);

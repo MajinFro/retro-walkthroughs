@@ -65,7 +65,7 @@ Run `npm run rw:status -- <gameId>` at any time to see which stages are complete
 | Stage | Command | Primary Module / Skill | Output Artifact | Description |
 |:---:|:---|:---|:---|:---|
 | **1** | `npm run rw:fetch -- <id>`<br>`npm run rw:ra-guide -- <id>` | `fetch-data.ts`, `ra-guide.ts` | `01_achievements.json`<br>`02_sources/ra-comments.txt`<br>`02_sources/ra-guide.txt`<br>`content/api-dumps/<id>.md` | Queries the RetroAchievements API for game metadata, achievements, badges and community comments, registers the game in `content/master.json`, and downloads the official achievement guide from the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) when the game has one (the API's `guideUrl`, else a wiki page linking the game). |
-| **2** | `npm run rw:find-guides`<br>`npm run rw:browse -- <url>`<br>`npm run rw:collect -- <id> <url> ...` | `ra-source-collector`<br>`search_guides.py`, `browse_page.py`, `collect_source.py` | `02_sources/*.txt`<br>`02_sources/sources.json` | Discovers and downloads full-text guides, checklists and visual maps (multi-tier map discovery) with author attribution. All page access goes through headless Chrome, so sites that block AI fetch tools still work. |
+| **2** | `npm run rw:find-guides`<br>`npm run rw:browse -- <url>`<br>`npm run rw:maps -- <id>`<br>`npm run rw:collect -- <id> <url> ...` | `ra-source-collector` (Sonnet)<br>`search_guides.py`, `browse_page.py`, `collect_maps.py`, `collect_source.py` | `02_sources/*.txt`<br>`02_sources/sources.json` | Discovers and downloads full-text guides, checklists and visual maps (multi-tier map discovery) with author attribution. All page access goes through headless Chrome, so sites that block AI fetch tools still work. |
 | **3** | `npm run rw:chunk -- <id>` | `chunk-sources.ts` | `03_chunks.jsonl` | Slices ingested text into deterministic 1,000–3,000 character chunks with preserved line numbers and source provenance. |
 | **4** | `npm run rw:extract -- <id>`<br>`npm run rw:chunks -- <id> --progress` | `extract-facts.ts`, `llm.ts`<br>`ra-fact-extractor` | `04_facts/*.jsonl` | One model call per batch of chunks extracts atomic facts (subject, statement, verbatim quote, chunk ID, category). Every fact is checked with the `rw:verify` rules before it is written; failures get one repair call. Secondary full walkthroughs are extracted in focused mode. |
 | **5** | `npm run rw:verify -- <id>` | `verify-facts.ts`<br>`ra-fact-verifier` | `05_verified.json`<br>`05_aliases.json` | Cross-verifies quotes against source chunks, corroborates facts across sources, flags contradictions, and validates achievement coverage. |
@@ -257,6 +257,7 @@ npm run rw:ra-guide -- <gameId> [--url <wiki page>]   # (re)collect only the RA 
 # 2. Find and collect guides & maps (agent: ra-source-collector)
 npm run rw:find-guides -- "<game title>"
 npm run rw:browse -- "<any url>" --links --grep "<game>"   # read non-GameFAQs sites/atlases
+npm run rw:maps -- <gameId> --dry-run   # list the game's VGMaps maps; drop --dry-run to register them
 npm run rw:collect -- <gameId> "<url>" --id gf1 --site GameFAQs --title "<guide title>" --author "<author>"
 
 # 3. Chunk ingested sources

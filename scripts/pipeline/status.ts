@@ -160,10 +160,14 @@ console.log(`\nNEXT: ${next || "Done 🎉 — content/walkthroughs/" + id + ".md
 // command stages the coordinator runs itself.
 if (next) {
   const judgment = /source-collector|resolve conflicts|route-planner|qa-auditor|score blockers/i.test(next);
+  // source collection is mostly scripted (rw:find-guides, rw:maps, rw:collect); its choices fit Sonnet
+  const sonnet = /source-collector/i.test(next);
   console.log(
-    judgment
-      ? "WHO: rw-stage — judgment stage: spawn a fresh rw-stage agent (.claude/agents/rw-stage.md, Opus) for this one stage"
-      : "WHO: coordinator — command stage: run it yourself and read only the summary lines",
+    !judgment
+      ? "WHO: coordinator — command stage: run it yourself and read only the summary lines"
+      : sonnet
+        ? "WHO: rw-stage (Sonnet) — spawn a fresh rw-stage agent (.claude/agents/rw-stage.md) with model: sonnet for this one stage"
+        : "WHO: rw-stage — judgment stage: spawn a fresh rw-stage agent (.claude/agents/rw-stage.md, Opus) for this one stage",
   );
 }
 // model usage recorded by rw:extract / rw:write

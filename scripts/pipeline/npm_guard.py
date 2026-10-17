@@ -14,7 +14,8 @@ def check(parser):
     for opt in parser._option_string_actions:
         if not opt.startswith("--") or opt in ("--help",) or opt in sys.argv:
             continue
-        if f"npm_config_{opt[2:].replace('-', '_')}" in os.environ:
+        # a swallowed flag always arrives as "true"; npm's own settings (npm_config_prefix=<path>, ...) never do
+        if os.environ.get(f"npm_config_{opt[2:].replace('-', '_')}") == "true":
             sys.exit(
                 f'{opt} was taken by npm, not passed to this script (PowerShell removes the "--" before npm.ps1 sees it).\n'
                 f"Re-run with npm.cmd instead of npm, e.g.  npm.cmd run {event} -- ... {opt} ...  (or run it from Bash)."

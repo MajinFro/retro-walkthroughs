@@ -150,6 +150,8 @@ function audit(file: string, chapterN: number | null) {
     }
     if (/^([-*+]|\d+\.)\s/.test(t) || /^\|/.test(t)) {
       flushPara();
+      // a table header row (the row above a |---| separator) names columns, it makes no claim
+      if (/^\|/.test(t) && /^\|?\s*:?-{2,}/.test((lines[i + 1] ?? "").trim())) return;
       prose.push({ line: i + 1, text: t });
       return;
     }

@@ -160,9 +160,20 @@ console.log(`  backend ${backend()}, model ${modelFor("write", flag("model"))}, 
 const packets = new Map(targets.map((t) => [t, packet(t)]));
 const effort = (flag("effort") ?? process.env.RW_EFFORT_WRITE) as LlmRequest["effort"];
 const req = (t: string, user: string): LlmRequest => ({ key: t, tier: "write", system, user, maxTokens: 32000, effort });
+
+// The raw source passages are the last packet section and ~65% of it. Revising a draft for
+// citations, tags, callouts or checkpoint numbers only needs the facts, so those calls skip them.
+// Findings about missing or thin content keep the full packet.
+const NEEDS_PASSAGES = /sparse|brief|word count|unusually low|never mentioned|REVIEW:/i;
+function factsOnly(p: string): string {
+  const i = p.indexOf("\n## Source passages");
+  if (i < 0) return p;
+  return `${p.slice(0, i)}\n\n## Source passages\n\nNot included for this revision: fix the findings using the usable facts above, and keep the sourced detail already in the draft.\n`;
+}
 const firstMessage = (t: string) => {
-  const p = packets.get(t)!;
-  if (!fixMode) return p;
+  const full = packets.get(t)!;
+  if (!fixMode) return full;
+  const p = qaFindings.get(t)!.some((f) => NEEDS_PASSAGES.test(f)) ? full : factsOnly(full);
   const draft = readText(path.join(P.chaptersDir, fileOf(t)));
   return `${p}\n\n---\n\n# Current draft of ${fileOf(t)}\n\n${draft}\n\n---\n\n# Revise the draft\n\nrw:qa reported:\n${qaFindings.get(t)!.map((f) => `- ${f}`).join("\n")}\n\nReply with the complete revised chapter. Keep everything that is correct; fix every finding (cite a packet fact for each uncited statement or remove it; expand brief area sections with the packet's facts).`;
 };
@@ -194,7 +205,8 @@ if (repairs.length) {
   console.log(`\nRepair pass: ${repairs.map(fileOf).join(", ")}`);
   await runAll(
     repairs.map((t) =>
-      req(t, `${packets.get(t)}\n\n---\n\n# Your draft of ${fileOf(t)}\n\n${drafts.get(t)!.text}\n\n---\n\n# Fix these problems\n\n${drafts.get(t)!.problems.map((p) => `- ${p}`).join("\n")}\n\nReply with the complete corrected chapter.`),
+      // repair problems are structural (tags, callouts, checkpoint, citation ids): facts are enough
+      req(t, `${factsOnly(packets.get(t)!)}\n\n---\n\n# Your draft of ${fileOf(t)}\n\n${drafts.get(t)!.text}\n\n---\n\n# Fix these problems\n\n${drafts.get(t)!.problems.map((p) => `- ${p}`).join("\n")}\n\nReply with the complete corrected chapter.`),
     ),
     {
       ...opts,

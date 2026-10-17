@@ -56,6 +56,7 @@ Every turn of a long conversation re-reads the whole conversation, so a stage th
 - **`WHO: coordinator`** (command stages: 1 fetch, 3 chunk, 4 `rw:extract`, 5 `rw:verify` when it passes, 8 `rw:write` / `rw:write --fix`, 9 assemble + qa, 10 score): run the command yourself. Read only its summary lines; never open the facts, packets or chapters it wrote.
 - **`WHO: rw-stage`** (judgment stages: 2 source collection, 5 conflict resolution, 6–7 graph & roadmap, 9 adversarial review, score blockers): spawn the **`rw-stage`** agent (`.claude/agents/rw-stage.md`, Opus, fresh context) with the Agent tool, one stage per agent, and wait for its report. Prompt template:
   `Game <id>. Stage <N> (<name>): <the NEXT line from rw:status>. Follow .claude/agents/rw-stage.md.` Add anything the user told you that the stage needs (e.g. "the user wants the Japanese guide included").
+  Stage 2 (source collection) runs on **Sonnet**: `rw:status` prints `WHO: rw-stage (Sonnet)`, so pass `model: "sonnet"` to the Agent tool. Its lookups and downloads are scripts (`rw:find-guides --url`, `rw:maps`, `rw:collect`) and the stage gate checks the result; keep Opus for stages 5, 6–7 and 9.
 
 The loop:
 1. `npm run rw:status -- <id>`.
