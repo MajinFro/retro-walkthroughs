@@ -84,3 +84,5 @@ Confirm:
 - Unresolved conflicts count is 0.
 - All achievements have either verified or single-source supporting facts (or are clearly noted as unverifiable).
 - Exit code is 0.
+
+Before calling an achievement unverifiable, search for a source yourself (collected chunks with `rw:chunks --grep`, then the web with the `ra-source-collector` tools) and extract anything you find. Report only what is still unsupported after that search, so the user is asked once.

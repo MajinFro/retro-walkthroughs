@@ -12,7 +12,7 @@ Before starting, read:
 2. The skill for your stage, in `.agents/plugins/retro-walkthrough/skills/<name>/SKILL.md`:
    - Stage 2 source collection: `ra-source-collector`
    - Stage 5 conflict resolution: `ra-fact-verifier`
-   - Stages 6-7 graph and roadmap: `ra-route-planner`
+   - Stages 6-7 graph and roadmap: `ra-route-planner` (its "Step 0" also does the Stage 5 alias and corroboration cleanup)
    - Stage 9 adversarial review: `ra-qa-auditor`
 
 Then do the stage completely, following the skill exactly. Rules:

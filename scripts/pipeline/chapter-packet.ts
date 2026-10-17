@@ -141,16 +141,9 @@ if (which === "overview") {
 // ---------------------------------------------------------------------------
 const facts = [...factIds].map((f) => factById.get(f)).filter(Boolean) as VerifiedFact[];
 facts.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
-lines.push(`## Usable facts (${facts.length}) — cite as [[fact-id]]`, "", "Legend: ✅ verified (2+ sources) · ✔ conflict resolved · 🟡 single source", "");
-for (const f of facts) {
-  const ev = f.evidence.filter((e) => e.stance !== "contradicts").map((e) => `${e.chunk_id}: "${e.quote}"`).join(" | ");
-  const extra = [f.location ? `@${f.location}` : "", f.requires?.length ? `requires: ${f.requires.join("; ")}` : "", f.achievement_ids?.length ? `ach: ${f.achievement_ids.join(",")}` : "", f.missable ? "MISSABLE" : ""].filter(Boolean).join(" · ");
-  lines.push(`- ${badge(f.status)} **${f.id}** (${f.type}) ${f.text}${extra ? ` — ${extra}` : ""}  \n  evidence: ${ev}`);
-}
-lines.push("");
 
 // ---------------------------------------------------------------------------
-// Source passages (the detail-preserving part)
+// Source passages (the detail-preserving part) — chosen first, so fact lines can point to them
 // ---------------------------------------------------------------------------
 const primary = new Set<string>();
 for (const f of facts) for (const e of f.evidence) primary.add(e.chunk_id);
@@ -172,6 +165,19 @@ for (const c of prim.sort(order)) if (budget - c.text.length > 0) { chosen.push(
 for (const c of neigh.sort(order)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: true }); budget -= c.text.length; }
 const dropped = prim.length + neigh.length - chosen.length;
 chosen.sort((a, b) => order(a.c, b.c));
+
+// Opt-in (RW_PACKET_DEDUPE=1): a quote whose chunk is printed below is replaced by a pointer to it.
+// Off by default: on Spyro it cut first writing calls 7-10%, but chapter 5 then used 11% fewer facts
+// (308 vs 348; chapter 8 unchanged), and a 0.15M-token saving per game is not worth that risk.
+const dedupe = process.env.RW_PACKET_DEDUPE === "1" && process.env.RW_PACKET_QUOTES !== "1";
+const inPassages = new Set(dedupe ? chosen.map((x) => x.c.chunk_id) : []);
+lines.push(`## Usable facts (${facts.length}) — cite as [[fact-id]]`, "", `Legend: ✅ verified (2+ sources) · ✔ conflict resolved · 🟡 single source${dedupe ? ". `evidence: gf1#9 ↓` = the supporting quote is in that source passage below." : ""}`, "");
+for (const f of facts) {
+  const ev = f.evidence.filter((e) => e.stance !== "contradicts").map((e) => (inPassages.has(e.chunk_id) ? `${e.chunk_id} ↓` : `${e.chunk_id}: "${e.quote}"`)).join(" | ");
+  const extra = [f.location ? `@${f.location}` : "", f.requires?.length ? `requires: ${f.requires.join("; ")}` : "", f.achievement_ids?.length ? `ach: ${f.achievement_ids.join(",")}` : "", f.missable ? "MISSABLE" : ""].filter(Boolean).join(" · ");
+  lines.push(`- ${badge(f.status)} **${f.id}** (${f.type}) ${f.text}${extra ? ` — ${extra}` : ""}  \n  evidence: ${ev}`);
+}
+lines.push("");
 
 lines.push(
   `## Source passages (${chosen.length} chunks${dropped ? `, ${dropped} omitted for size — use \`npm run rw:chunks -- ${id} --id <chunk>\`` : ""})`, "",

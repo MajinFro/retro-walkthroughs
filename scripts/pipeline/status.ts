@@ -10,7 +10,9 @@ import path from "node:path";
 import { type Graph, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
 import {
   CITE_RE,
+  type AchievementsFile,
   type Chunk,
+  lateAdditions,
   type SourceEntry,
   type VerifiedFact,
   chapterFile,
@@ -47,6 +49,10 @@ const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesMan
 const guides = sources.filter((s) => s.kind !== "ra-comments");
 rows.push(["2 Sources", guides.length >= 3 ? "✅" : guides.length ? "🟡" : "⬜", `${guides.length} guide source(s): ${guides.map((s) => s.id).join(", ") || "—"}${guides.length < 3 ? " (aim for 3+)" : ""}`]);
 if (!guides.length) setNext("Collect sources (ra-source-collector skill): npm run rw:collect -- " + id + " <url> --id gf1 --site GameFAQs --title \"...\"");
+// achievements added after the original set: say so up front, so Stage 2 searches for them and any
+// "no source exists" decision reaches the user once, early, instead of after verification
+const late = exists(P.achievements) ? lateAdditions(readJson<AchievementsFile>(P.achievements).achievements) : null;
+const lateNote = late ? `${late.ids.length} achievement(s) added in a later set revision (from ${late.since}): ${late.ids.join(", ")} — guides for the original set may not cover them; Stage 2 should look for sources on them specifically` : "";
 
 // 3
 const chunks = exists(P.chunks) ? readJsonl<Chunk>(P.chunks) : [];
@@ -156,6 +162,7 @@ if (score) {
 console.log(`Pipeline status — game ${id}\n`);
 for (const [s, i, d] of rows) console.log(`${i}  ${s.padEnd(15)} ${d}`);
 console.log(`\nNEXT: ${next || "Done 🎉 — content/walkthroughs/" + id + ".md is accepted."}`);
+if (lateNote && /source-collector/i.test(next)) console.log(`NOTE: ${lateNote}`);
 // Coordinator mode: judgment stages go to a fresh rw-stage agent (Opus) so the coordinator's context stays small;
 // command stages the coordinator runs itself.
 if (next) {

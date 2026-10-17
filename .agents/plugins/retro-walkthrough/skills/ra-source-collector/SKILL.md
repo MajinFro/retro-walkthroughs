@@ -10,7 +10,7 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
 ## Steps
 
 0. **RetroAchievements guide:** `rw:fetch` (Stage 1) already registers the official RA achievement guide as source `ra-guide` when the game has one on the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) (from the RA API's `guideUrl`, else a wiki page that links the game). Check its output line: if it lists *similarly named wiki pages* instead, open them and, if one is this game's guide, register it with `npm run rw:ra-guide -- <id> --url <page url>`; if it reports a guide outside the wiki, collect that URL with `rw:collect`. The RA guide is short and achievement-focused, so it does not replace the full walkthroughs below.
-1. Read `01_achievements.json` for the exact title, console, and genre.
+1. Read `01_achievements.json` for the exact title, console, and genre. If `rw:status` prints a `NOTE:` about achievements added in a later set revision, guides written for the original set will not cover them: search for each by title and description (RA forum topic for the game, RA guides wiki, wikis, achievement-guide sites, video descriptions that state locations) and collect any written source now. Record in your report which of them still have no source, so the user is asked about them once, early.
 2. Discover available guides, visual maps, and checklists. First find the game's GameFAQs page (`https://gamefaqs.gamespot.com/<platform>/<id>-<slug>`) with your web search tool (`site:gamefaqs.gamespot.com <title> <console>`), then list its guides and maps:
    ```powershell
    npm.cmd run rw:find-guides -- --url "https://gamefaqs.gamespot.com/<platform>/<id>-<slug>/faqs"

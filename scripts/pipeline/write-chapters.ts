@@ -90,8 +90,11 @@ The reply is published as-is. Never mention packets, files, other chapters' draf
 Roadmap format for this game: ${roadmap.format ?? "prose"}.`;
 const system = [HEADER, skillText("ra-walkthrough-writer", ["Workflow: Chapter by Chapter"])].join("\n\n");
 
-function packet(t: string): string {
-  const r = run(`npx tsx scripts/pipeline/chapter-packet.ts ${id} ${t}`);
+function packet(t: string, inlineQuotes = false): string {
+  // inlineQuotes: keep every fact's quote on its line (for facts-only packets, which drop the passages)
+  const r = inlineQuotes
+    ? spawnSync(`npx tsx scripts/pipeline/chapter-packet.ts ${id} ${t}`, { shell: true, encoding: "utf8", cwd: P.root, env: { ...process.env, RW_PACKET_QUOTES: "1" } })
+    : run(`npx tsx scripts/pipeline/chapter-packet.ts ${id} ${t}`);
   if (r.status !== 0) throw new Error(`rw:packet ${t} failed: ${r.stderr || r.stdout}`);
   const warn = (r.stdout.match(/⚠.*/g) ?? []).join(" ");
   if (warn) console.log(`  ${fileOf(t)}: ${warn}`);
@@ -165,15 +168,20 @@ const req = (t: string, user: string): LlmRequest => ({ key: t, tier: "write", s
 // citations, tags, callouts or checkpoint numbers only needs the facts, so those calls skip them.
 // Findings about missing or thin content keep the full packet.
 const NEEDS_PASSAGES = /sparse|brief|word count|unusually low|never mentioned|REVIEW:/i;
-function factsOnly(p: string): string {
-  const i = p.indexOf("\n## Source passages");
-  if (i < 0) return p;
-  return `${p.slice(0, i)}\n\n## Source passages\n\nNot included for this revision: fix the findings using the usable facts above, and keep the sourced detail already in the draft.\n`;
+const lightCache = new Map<string, string>();
+function factsOnly(t: string): string {
+  // rebuilt with quotes inline: the full packet points facts at passages ("gf1#9 ↓") that this one drops
+  if (!lightCache.has(t)) {
+    const p = packet(t, true);
+    const i = p.indexOf("\n## Source passages");
+    lightCache.set(t, i < 0 ? p : `${p.slice(0, i)}\n\n## Source passages\n\nNot included for this revision: fix the findings using the usable facts above, and keep the sourced detail already in the draft.\n`);
+  }
+  return lightCache.get(t)!;
 }
 const firstMessage = (t: string) => {
   const full = packets.get(t)!;
   if (!fixMode) return full;
-  const p = qaFindings.get(t)!.some((f) => NEEDS_PASSAGES.test(f)) ? full : factsOnly(full);
+  const p = qaFindings.get(t)!.some((f) => NEEDS_PASSAGES.test(f)) ? full : factsOnly(t);
   const draft = readText(path.join(P.chaptersDir, fileOf(t)));
   return `${p}\n\n---\n\n# Current draft of ${fileOf(t)}\n\n${draft}\n\n---\n\n# Revise the draft\n\nrw:qa reported:\n${qaFindings.get(t)!.map((f) => `- ${f}`).join("\n")}\n\nReply with the complete revised chapter. Keep everything that is correct; fix every finding (cite a packet fact for each uncited statement or remove it; expand brief area sections with the packet's facts).`;
 };
@@ -206,7 +214,7 @@ if (repairs.length) {
   await runAll(
     repairs.map((t) =>
       // repair problems are structural (tags, callouts, checkpoint, citation ids): facts are enough
-      req(t, `${factsOnly(packets.get(t)!)}\n\n---\n\n# Your draft of ${fileOf(t)}\n\n${drafts.get(t)!.text}\n\n---\n\n# Fix these problems\n\n${drafts.get(t)!.problems.map((p) => `- ${p}`).join("\n")}\n\nReply with the complete corrected chapter.`),
+      req(t, `${factsOnly(t)}\n\n---\n\n# Your draft of ${fileOf(t)}\n\n${drafts.get(t)!.text}\n\n---\n\n# Fix these problems\n\n${drafts.get(t)!.problems.map((p) => `- ${p}`).join("\n")}\n\nReply with the complete corrected chapter.`),
     ),
     {
       ...opts,

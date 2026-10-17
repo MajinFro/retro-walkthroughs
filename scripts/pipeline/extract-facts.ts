@@ -80,6 +80,9 @@ interface Batch {
 }
 
 const onlySource = flag("source");
+// No heading-based auto-skip of "boilerplate" chunks: chunk section titles are inherited and unreliable
+// (tested 2026-10-17: Spyro gf2's whole walkthrough is titled "Table of Contents:", 1005's "Credits"
+// chunks hold cheat codes, 253's "Contents" chunk holds the controls). The model decides what to skip.
 const { unprocessed } = chunkProgress(chunkList, loadFacts(P.factsDir), loadSkipped(P.factsDir));
 const todo = unprocessed
   .filter((c) => !onlySource || c.source_id === onlySource)

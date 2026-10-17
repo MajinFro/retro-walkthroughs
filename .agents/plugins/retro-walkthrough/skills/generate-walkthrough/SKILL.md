@@ -29,7 +29,7 @@ It prints what is done, the exact **NEXT** action, and a **WHO** line: run it yo
 | 2 | Guide collection | `rw-stage` agent + script | skill **ra-source-collector** → `npm run rw:collect -- …` | `02_sources/*.txt`, `sources.json` |
 | 3 | Source parsing | script | `npm run rw:chunk -- <id>` | `03_chunks.jsonl` |
 | 4 | Fact extraction | **script (model calls)** | `npm run rw:extract -- <id>` (rules: **ra-fact-extractor**) | `04_facts/*.jsonl` |
-| 5 | Verification | script; conflicts: `rw-stage` agent | `npm run rw:verify -- <id>`, skill **ra-fact-verifier** | `05_verified.json` |
+| 5 | Verification | script; real conflicts only: `rw-stage` agent (alias cleanup happens in Stages 6–7) | `npm run rw:verify -- <id>`, skill **ra-fact-verifier** | `05_verified.json` |
 | 6 | Knowledge graph | `rw-stage` agent | skill **ra-route-planner** | `06_graph.json` |
 | 7 | Roadmap | `rw-stage` agent + script | skill **ra-route-planner**, `npm run rw:plan -- <id>` | `07_roadmap.json`, `06_graph.md` |
 | 8 | Writing | **script (model calls)** | `npm run rw:write -- <id>` (rules: **ra-walkthrough-writer**) | `08_chapters/*.md` |
@@ -60,9 +60,14 @@ Every turn of a long conversation re-reads the whole conversation, so a stage th
 
 The loop:
 1. `npm run rw:status -- <id>`.
-2. Do what NEXT says, yourself or via `rw-stage` as `WHO:` says.
+2. Do what NEXT says, yourself or via `rw-stage` as `WHO:` says. For command stages, run **`npm run rw:auto -- <id>`** (in the background; it can take a while) instead of each command by hand: it runs every command stage in a row (fetch, chunk, extract, verify, plan, write, `--fix`, assemble + qa, score) and stops at the first stage that needs judgment, a usage limit, or a step that makes no progress, then prints NEXT/WHO. It never runs `rw:clean`. Full output is in `_auto.log`; read only its summary.
 3. Re-run status and trust it over any report. If a stage agent's gate did not pass, spawn a fresh `rw-stage` for the same stage with its report's open problems in the prompt; do not fix the stage in your own context.
 4. After each stage, give the user a 2–3 line update (stage, result, model usage from status), then continue. Stop and ask only when a stage agent reports a decision that belongs to the user, or when the score is ACCEPTED (the user reviews the walkthrough before `rw:clean`).
+
+Fewer agents, fewer questions:
+- When `rw:verify` passes (exit 0), go straight to Stages 6–7: that agent does the alias, corroboration and possible-conflict cleanup first (route-planner skill, "Step 0"). Spawn a separate Stage 5 agent only for real conflicts (exit 2).
+- Unsupported achievements: the agent that finds them searches for a source itself before reporting. Ask the user once, with everything that is still unsupported, and keep going on other work while they decide.
+- If `rw:status` prints a `NOTE:` about achievements from a recent set revision, pass it to the Stage 2 agent so it searches for them during collection.
 
 Rules: run one `rw-stage` agent at a time (stages depend on each other); never paste file contents into a stage prompt (the agent reads from disk); never do judgment work yourself "because it is small" — that is how the coordinator's context grows. If the `rw-stage` agent type is not available in this session, use `general-purpose` with `model: "opus"` and tell it to read and follow `.claude/agents/rw-stage.md`.
 

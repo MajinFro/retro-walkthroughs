@@ -16,6 +16,7 @@
     "deploy": "npm run build && wrangler deploy",
     "fetch-data": "npx tsx scripts/fetch-data.ts",
     "rw:status": "tsx scripts/pipeline/status.ts",
+    "rw:auto": "tsx scripts/pipeline/auto.ts",
     "rw:fetch": "tsx scripts/fetch-data.ts",
     "rw:collect": "python scripts/pipeline/collect_source.py",
     "rw:maps": "python scripts/pipeline/collect_maps.py",

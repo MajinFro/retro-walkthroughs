@@ -166,6 +166,7 @@ async function main() {
         type: a.type ?? null,
         displayOrder: a.displayOrder,
         numAwarded: a.numAwarded,
+        dateCreated: a.dateCreated,
       };
     }).sort((x, y) => (x.displayOrder ?? 0) - (y.displayOrder ?? 0) || x.id - y.id);
 

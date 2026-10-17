@@ -8,6 +8,13 @@ description: Stages 6 & 7 of the walkthrough pipeline. Builds the verified knowl
 **Purpose:** Construct the authoritative game progression graph and optimal 100% RetroAchievements completion roadmap.
 **Rule:** You may NOT invent progression nodes, boss connections, or route shortcuts. Every node and edge in the graph must link to usable verified fact IDs (`fact_ids`).
 
+## Step 0: Verification cleanup (folded in from Stage 5)
+
+The coordinator no longer runs a separate Stage 5 agent when `rw:verify` passes (exit 0); this stage does that cleanup first, in the same context, because the graph's area labels and `05_aliases.json` are one job:
+1. Follow sections 2–4 of the `ra-fact-verifier` skill: extend `05_aliases.json` for naming differences between sources (areas, bosses, items, spellings), add `05_corroborations.jsonl` entries where the same fact is filed differently, and triage `possible_conflicts` in `05_verified.json` into `05_resolutions.json`. Re-run `npm run rw:verify -- <id>` (must still exit 0).
+2. If `rw:verify` lists achievements with no supporting fact, look for a source before giving up: search the collected chunks (`npm run rw:chunks -- <id> --grep "<term>"`), then the web (RA forum topic, wikis, achievement guides) with the `ra-source-collector` tools (`rw:browse`, `rw:collect`), and extract any new source (`rw:chunk`, `rw:extract`, `rw:verify`). Only when that finds nothing, mark them `unverifiable_achievement_ids` and report them to the coordinator, so the user is asked once.
+A real conflict (`rw:verify` exit 2) still goes to a separate Stage 5 agent before this stage.
+
 ## Stage 6: Knowledge Graph (`06_graph.json`)
 
 Construct `content/research/<gameId>/06_graph.json`.

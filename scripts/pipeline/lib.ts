@@ -24,6 +24,24 @@ export interface Achievement {
   type?: string | null; // "progression" | "win_condition" | "missable" | null
   displayOrder?: number;
   numAwarded?: number;
+  dateCreated?: string; // RA API, e.g. "2026-09-24 18:02:11"; spots achievements added after the guides were written
+}
+
+/**
+ * The newest set revision, when it is recent: achievements created within 30 days of the newest one,
+ * if that batch is under a year old and came 180+ days after the set's first achievement. Nobody has
+ * written those up yet (Spyro's Sept 2026 revision), so source collection should look for them early.
+ * Older revisions are left out: by then guides, comments or videos usually cover them.
+ */
+export function lateAdditions(achs: Achievement[], now = Date.now()): { since: string; ids: number[] } | null {
+  const day = 864e5;
+  const dated = achs.filter((a) => a.dateCreated).map((a) => ({ a, t: Date.parse(a.dateCreated!.replace(" ", "T")) })).filter((x) => !Number.isNaN(x.t));
+  if (dated.length < 2) return null;
+  const first = Math.min(...dated.map((x) => x.t));
+  const newest = Math.max(...dated.map((x) => x.t));
+  if (now - newest > 365 * day || newest - first < 180 * day) return null;
+  const late = dated.filter((x) => newest - x.t <= 30 * day && x.t - first >= 180 * day).sort((x, y) => x.t - y.t);
+  return late.length ? { since: late[0].a.dateCreated!.slice(0, 10), ids: late.map((x) => x.a.id) } : null;
 }
 
 export interface AchievementsFile {
