@@ -1,0 +1,46 @@
+gf1#1 ASCII title art and author tag line only; no gameplay information
+gf1#2 author header and table-of-contents codes only; no gameplay information
+gf1#3 guide info and author note about the walkthrough format; no gameplay information
+gf1#4 version history; no gameplay information
+gf1#5 copyright and permission terms; non-game text
+gf1#26 guide layout legend only: formatting for level entries, no game information
+gf1#148 credits, acknowledgments, hosting list, and copyright notice: non-game text
+gf1#144 suggestions section header and boilerplate only; no gameplay information
+gf1#145 suggestion about console setup and backwards compatibility; no gameplay information
+gf1#146 closing message and empty accepted/declined lists; no gameplay information
+gf1#147 postponed guides list, author remarks and ASCII art banner; no gameplay information
+ra-comments#6 Server log lines only (upload, promotion, logic edits, type change); no gameplay info
+ra-comments#17 chatter only: no gameplay info (server edit log, unexplained video link, joke comment)
+ra-comments#18 chatter only: no gameplay info (server edit log, video link with no stated content, joke comment)
+ra-comments#19 chatter only: no gameplay info (server edit log, video link, one-word comment)
+ra-comments#20 chatter only: no gameplay info (server edit log, video link, joke comment)
+ra-comments#21 chatter only: no gameplay info (nostalgia remark with no concrete tip)
+ra-comments#24 chatter only: no gameplay info (server edit log and unexplained video link)
+ra-comments#25 server edit log and a bare video link with no description of gameplay
+ra-comments#26 server edit log and a bare video link with no description of gameplay
+ra-comments#28 server edit log and a bare video link with no description of gameplay
+ra-comments#30 chatter only ('LMAO') plus server log and bare video link: no gameplay info
+ra-comments#31 server edit log and a bare video link with no description of gameplay
+ra-comments#32 chatter only ('why this shit look like cruelty squad') plus server log and bare video link: no gameplay info
+ra-comments#41 only server edit logs and a bare video link with no description; no gameplay info
+ra-comments#43 only server edit logs and a bare video link with no description; no gameplay info
+ra-comments#46 chatter only ('What a fun level') plus a bare video link; no gameplay info
+ra-comments#48 only server edit logs and a bare video link with no description; no gameplay info
+ra-comments#9 server upload, promotion, logic and type log lines plus '[ZettaHunterz] First' only: no gameplay info
+ra-comments#10 server edit log lines and '[ZettaHunterz] Always wondered why this game barley had any eggs.' only: no gameplay info
+ra-comments#12 server upload, promotion, logic and type log lines only: no gameplay info
+ra-comments#33 Server edit logs and a bare video link with no description of what it shows; no gameplay info
+ra-comments#39 Server edit logs and a bare video link with no description of what it shows; no gameplay info
+ra-comments#40 Server edit logs and a bare video link with no description of what it shows; no gameplay info
+ra-comments#58 chatter only: no gameplay info (comment on achievement title only)
+ra-comments#91 achievement header and Description line only; no gameplay information beyond the description
+gf2#1 secondary source: introduction, legal disclaimer and table of contents only, no gameplay information
+gf3#1 table of contents and ASCII title art: no gameplay information
+gf3#2 secondary source: introduction and story text only; no chest, boss, puzzle, missable, number, or achievement content
+gf3#3 secondary source: booklet text and cutscene dialogue only; story, no mechanics, numbers, or achievement content
+gf4#1 table of contents only
+gf4#2 secondary source: intro/story only, no chests, bosses, puzzles, or numbers
+gf4#3 version history/updates only, no gameplay information
+gf4#35 credits and legal text: no gameplay info
+gf4#36 decorative separator lines only: no gameplay info
+checklist-eggs#4 fragment of the guide's legal disclaimer, no gameplay info

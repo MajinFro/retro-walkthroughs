@@ -1,0 +1,638 @@
+{
+  "Artisans Home": [
+    "Artisans Home World",
+    "Artisans Homeworld",
+    "Artisan Homeworld",
+    "Artisan's Home",
+    "Artisan's Home World",
+    "Artisans Home Level",
+    "Artisans' Home",
+    "Artisans' Home World",
+    "Artisans Home World starting area",
+    "Artisans Home World towers",
+    "Artisans Home World waterfall",
+    "Artisans Home bushy area",
+    "Artisans Home ground level",
+    "Artisans Home hidden area",
+    "Artisans Home hilltop",
+    "Artisans Home, Stone Hill gate",
+    "Artisans Home, Town Square door",
+    "Artisans Home, Town Square platform",
+    "Artisans Home, near Delbin",
+    "Artisans bridge",
+    "Artisans waterfall",
+    "Garden maze, Artisans Home",
+    "Stone Hill gate",
+    "foot of the incline near Stone Hill gate"
+  ],
+  "Peace Keepers Home": [
+    "Peace Keepers Home World",
+    "Peace Keepers Homeworld",
+    "Peacekeepers Home",
+    "Peacekeepers Home World",
+    "Peace Keepers' Home",
+    "Peace Keepers' Home World",
+    "Peace Keeper's Home",
+    "Peace Keepers Home entrance",
+    "Peace Keepers Home outdoor area",
+    "Peace Keepers Home walkway",
+    "Peace Keepers Home, by cannon",
+    "Peace Keepers Home, far tunnel",
+    "Peace Keepers Home, near Gosnold",
+    "Peace Keepers Home, past the pillar",
+    "Peace Keepers Home, right",
+    "Peace Keepers Ice Cavern path",
+    "gate to Doctor Shemp"
+  ],
+  "Magic Crafters Home": [
+    "Magic Crafters Home World",
+    "Magic Crafters Homeworld",
+    "Magic Crafters Home Area",
+    "Magic Crafters Home Base",
+    "Magiccrafters Home",
+    "Magic Crafters' Home",
+    "Magic Crafters' Home World",
+    "Wizard Peak portal",
+    "area near High Caves gate",
+    "in front of the Crystal Flight portal",
+    "lake behind the Wizard Peak gate",
+    "room with the Crystal Flight portal",
+    "tiny path outside the water near the Wizard Peak portal hill"
+  ],
+  "Beast Makers Home": [
+    "Beast Makers Home World",
+    "Beast Makers Homeworld",
+    "Beastmakers Home",
+    "Beast Makers' Home",
+    "Beast Makers' Home World",
+    "Beast Makers Home World, past Gnorc Technician fields",
+    "Beast Makers Home balloonist",
+    "Beast Makers Home island",
+    "Beast Makers Home island with 2nd Dragon's pedestal",
+    "Beast Makers Home log path",
+    "Beast Makers Home, tree in front of Tree Tops portal",
+    "Metalhead portal",
+    "Metalhead portal area",
+    "behind Terrace Village portal",
+    "land below the Metalhead portal",
+    "near Metalhead portal"
+  ],
+  "Dream Weavers Home": [
+    "Dream Weavers Home World",
+    "Dream Weavers Homeworld",
+    "Dreamweavers Home",
+    "Dream Weavers' Home",
+    "Dream Weavers' Home World",
+    "Dream Weavers Home, after the explosive chest island",
+    "Dream Weavers Home, after the stream",
+    "Dream Weavers Home, biggest island steps",
+    "Dream Weavers Home, corner left of the defeated Small Winged Guy",
+    "Dream Weavers Home, last island",
+    "Dream Weavers Home, ledge of the island",
+    "Dream Weavers Home, left of start",
+    "Dream Weavers Home, next area after explosive chest",
+    "Dream Weavers Home, past the stream",
+    "Dream Weavers Home, red gem-topped steps",
+    "Dream Weavers Home, water platform",
+    "Haunted Towers portal",
+    "before Icy Flight, near the two clock fools",
+    "near Haunted Towers portal",
+    "platform in Dream Weavers Home World",
+    "staircase to Icy Flight"
+  ],
+  "Gnorc Gnexus": [
+    "Gnorc Gnexus Homeworld",
+    "Gnorc Gnexus Home World",
+    "Gnasty's World Home",
+    "Gnorc Gnexus Part 1",
+    "Gnorc Gnexus Part 2",
+    "Gnorc Gnexus Part 3",
+    "Gnorc Gnexus Part 4",
+    "foot of the gate to Gnasty Gnorc",
+    "foot of the gate to Twilight Harbor"
+  ],
+  "Artisans World": [
+    "Artisans",
+    "Artisan World",
+    "Artisans' World"
+  ],
+  "Peace Keepers World": [
+    "Peace Keepers",
+    "Peacekeepers",
+    "Peacekeepers World",
+    "Peace Keepers' World"
+  ],
+  "Magic Crafters World": [
+    "Magic Crafters",
+    "Magiccrafters",
+    "Magic Crafters' World"
+  ],
+  "Beast Makers World": [
+    "Beast Makers",
+    "Beastmakers",
+    "Beast Makers' World"
+  ],
+  "Dream Weavers World": [
+    "Dream Weavers",
+    "Dreamweavers",
+    "Dream Weavers' World"
+  ],
+  "Gnasty's World": [
+    "Gnastys World",
+    "Gnasty World"
+  ],
+  "Twilight Harbor": [
+    "Twilight Harbour",
+    "Twilight Harbor outside path",
+    "Twilight Harbor purple room",
+    "bridge in Twilight Harbor",
+    "end of the building ahead in Twilight Harbor",
+    "next room in Twilight Harbor",
+    "plateau in the hidden area of Twilight Harbor",
+    "raised bridge in Twilight Harbor",
+    "room at the beginning of Twilight Harbor, reached by turning right",
+    "top of the area in Twilight Harbor"
+  ],
+  "Tree Tops": [
+    "Treetops",
+    "Tree Tops Level",
+    "Stonehenge area in Tree Tops",
+    "island on the right in Tree Tops",
+    "left up from the fork in Tree Tops"
+  ],
+  "Cliff Town": [
+    "Clifftown",
+    "Cliff Town bridge",
+    "Cliff Town cliffs",
+    "Cliff Town starting room",
+    "Cliff Town structure area",
+    "Cliff Town summit",
+    "Cliff Town, around second building",
+    "Cliff Town, second building"
+  ],
+  "Stone Hill": [
+    "Stonehill",
+    "Stone Hill beach cave",
+    "Stone Hill cliff",
+    "Stone Hill landing area",
+    "Stone Hill middle hill",
+    "Stone Hill open field",
+    "Stone Hill open field well",
+    "Stone Hill opening area",
+    "Stone Hill starting area well",
+    "Stone Hill tower",
+    "Stone Hill, around the bend",
+    "Stone Hill, behind a tree",
+    "Stone Hill, behind the wall",
+    "Stone Hill, big stone",
+    "Stone Hill, cave across the beach",
+    "Stone Hill, hole room",
+    "Stone Hill, left passage room",
+    "Stone Hill, past the big stone",
+    "Stone Hill, right of the first Ram",
+    "Stone Hill, room on the right of the passage",
+    "Stone Hill, route to Astor door",
+    "Stone Hill, wooden chest",
+    "area with the shepherds, Stone Hill",
+    "raised area and castle roof, Stone Hill",
+    "starting area by the well, Stone Hill",
+    "upper area between the starting area and the shepherd area, Stone Hill"
+  ],
+  "Night Flight": [
+    "Nightflight"
+  ],
+  "Wild Flight": [
+    "Wildflight",
+    "entrance of other tunnel in Wild Flight"
+  ],
+  "Lofty Castle": [
+    "Lofty Castle Level",
+    "High in Lofty Castle 2",
+    "Lofty Castle 2",
+    "Lofty Castle 2 approach",
+    "Lofty Castle 2 exterior",
+    "Lofty Castle 2 pool",
+    "Lofty Castle arch",
+    "Lofty Castle bridge",
+    "Lofty Castle corner",
+    "Lofty Castle edge",
+    "Lofty Castle entrance",
+    "Lofty Castle locked chest",
+    "Lofty Castle wall",
+    "Lofty Castle, start of Mudada area"
+  ],
+  "Toasty": [
+    "Toasty Level",
+    "Toasty Boss",
+    "Toasty arena",
+    "Toasty first area",
+    "Toasty second area",
+    "Toasty third area",
+    "Toasty, Return Home portal",
+    "Toasty, outer area through left door"
+  ],
+  "Doctor Shemp": [
+    "Dr. Shemp",
+    "Dr Shemp",
+    "Doctor Shemp Level",
+    "Doctor Shemp Fight",
+    "Doctor Shemp Boss",
+    "Doctor Shemp, just before the boss",
+    "left of start, Doctor Shemp",
+    "start of the Doctor Shemp fight"
+  ],
+  "Blowhard": [
+    "Blowhard Level",
+    "Blowhard Boss",
+    "Blowhard Boss Fight",
+    "Blowhard boss room",
+    "Blowhard cave",
+    "Blowhard start",
+    "end of Blowhard path",
+    "left branch of fork, Blowhard level",
+    "small room right of the fork, Blowhard level"
+  ],
+  "Metalhead": [
+    "Metalhead Level",
+    "Metalhead Boss",
+    "Metalhead Arena",
+    "MetalHead stage 2",
+    "Metalhead arena doorway",
+    "Metalhead first arena",
+    "Metalhead outside",
+    "Metalhead outside moat",
+    "Metalhead second arena",
+    "Metalhead second arena entrance, behind the acidfall",
+    "Metalhead second arena, behind the acidfall",
+    "Metalhead tunnel",
+    "over the gap, Metalhead level",
+    "wall past the arch, Metalhead level"
+  ],
+  "Jacques": [
+    "Jacques Level",
+    "Jacques World",
+    "Jacques Arena",
+    "Jacques Battle",
+    "Jacques Fight",
+    "Jacques Boss",
+    "Jacques left path",
+    "Jacques level start",
+    "fork at start of Jacques level",
+    "top of the tower in Jacques"
+  ],
+  "Gnasty Gnorc": [
+    "Gnasty Gnorc Level",
+    "Gnasty Gnorc Boss",
+    "Gnasty Gnorc Arena",
+    "Gnasty",
+    "Gnasty Gnorc entrance",
+    "Gnasty Gnorc final ledge",
+    "Gnasty Gnorc junkyard",
+    "Gnasty Gnorc portrait",
+    "final room of Gnasty's World",
+    "middle of the arena in Gnasty's World"
+  ],
+  "Yellow Gem": [
+    "Gold Gem",
+    "Golden Gem",
+    "Yellow Jewel",
+    "Gold Jewel",
+    "Golden Jewel",
+    "Yellow Ten-Spot Gem",
+    "10-Spot Gem",
+    "Ten-Spot Gem"
+  ],
+  "Blue Gem": [
+    "Blue Sapphire Gem",
+    "Blue Sapphire",
+    "Blue Jewel"
+  ],
+  "Pink Gem": [
+    "Magenta Gem",
+    "Pink Jewel",
+    "Magenta Jewel"
+  ],
+  "Red Gem": [
+    "Red Jewel"
+  ],
+  "Green Gem": [
+    "Green Jewel"
+  ],
+  "Extra Life": [
+    "1-Up",
+    "1-Up Life",
+    "1Up",
+    "Extra Lives",
+    "Life"
+  ],
+  "Dragon Egg": [
+    "Dragon Eggs",
+    "Egg"
+  ],
+  "Egg Thief": [
+    "Dragon Egg Thief",
+    "Egg Thieves"
+  ],
+  "Key": [
+    "Keys",
+    "Chest Key",
+    "Key for Locked Chest"
+  ],
+  "Locked Chest": [
+    "Treasure Chest (Locked)",
+    "Locked Treasure Chest"
+  ],
+  "Return Home Vortex": [
+    "Return Home Portal",
+    "Return Home Whirlwind",
+    "Return Home"
+  ],
+  "Supercharge": [
+    "Super Charge",
+    "Super-Charge",
+    "Supercharge Jump"
+  ],
+  "Supercharge Ramp": [
+    "Supercharge Ramps",
+    "Supercharge Slope",
+    "Supercharge Hill"
+  ],
+  "Superflame": [
+    "Super Flame",
+    "Super-Flame",
+    "Superflame Powerup"
+  ],
+  "Sparx": [
+    "Sparx the Dragonfly"
+  ],
+  "Balloonist": [
+    "Balloonists",
+    "Balloon Ride"
+  ],
+  "Charge": [
+    "Charge Attack",
+    "Charging"
+  ],
+  "Flame": [
+    "Flaming",
+    "Flame Breath",
+    "Fire Breath"
+  ],
+  "Iron Chest": [
+    "Iron Chests"
+  ],
+  "Metal Chest": [
+    "Metal Chests"
+  ],
+  "1 dragon egg": [
+    "1 egg"
+  ],
+  "1 dragon": [
+    "one dragon"
+  ],
+  "10 gems": [
+    "10 gems total"
+  ],
+  "100 gems": [
+    "100 gems collected"
+  ],
+  "12 dragon eggs": [
+    "twelve dragon eggs"
+  ],
+  "2 dragon eggs": [
+    "2 eggs"
+  ],
+  "2 green gems": [
+    "two green gems"
+  ],
+  "2 red gems": [
+    "two red gems",
+    "two red jewels"
+  ],
+  "200 gems": [
+    "200 gems collected"
+  ],
+  "3 extra lives": [
+    "three extra lives",
+    "three lives"
+  ],
+  "3 green gems": [
+    "three green gems"
+  ],
+  "3 red gems": [
+    "three red gems"
+  ],
+  "300 gems": [
+    "300 gems collected",
+    "300 gems total",
+    "all 300 gems"
+  ],
+  "4 red gems": [
+    "four red gems"
+  ],
+  "400 gems": [
+    "400 gems collected"
+  ],
+  "5 extra lives": [
+    "5 lives"
+  ],
+  "5 gems": [
+    "five gems"
+  ],
+  "5 red gems": [
+    "five red gems"
+  ],
+  "500 gems": [
+    "500 jewels"
+  ],
+  "7 dragon eggs": [
+    "seven eggs"
+  ],
+  "7 red gems": [
+    "seven red gems"
+  ],
+  "8 green gems": [
+    "eight green gems"
+  ],
+  "950 gems": [
+    "950 gems collected"
+  ],
+  "Alpine Ridge": [
+    "Alpine Ridge cave",
+    "Alpine Ridge entrance",
+    "Alpine Ridge ledges",
+    "Alpine Ridge near Return Home portal",
+    "Alpine Ridge past Return Home portal",
+    "Alpine Ridge pit",
+    "Alpine Ridge stairs",
+    "Alpine Ridge trio room",
+    "Alpine Ridge wall",
+    "Kelvin's Tunnel"
+  ],
+  "High Caves": [
+    "Ajax, High Caves",
+    "High Caves Cedric area",
+    "High Caves bridge",
+    "High Caves bug cave",
+    "High Caves cave",
+    "High Caves circle path",
+    "High Caves exit",
+    "High Caves grassy area past spider cave",
+    "High Caves mountain path",
+    "High Caves past bridge",
+    "High Caves rooftop",
+    "High Caves room past elevated floor",
+    "High Caves side caves",
+    "High Caves spider cave",
+    "High Caves spider path",
+    "High Caves start",
+    "High Caves top of mountain",
+    "High Caves treasure room",
+    "High Caves treasure room approach",
+    "Return Home Vortex tunnel, High Caves",
+    "biggest room High Caves",
+    "hill past far land patch, High Caves",
+    "isolated cliffs in High Caves",
+    "last area High Caves",
+    "last two rooms of High Caves cave",
+    "near High Caves supercharge ramp",
+    "outside High Caves cave",
+    "third cave, biggest of the three rooms, High Caves",
+    "tiny room High Caves",
+    "tunnel right of Ajax, High Caves"
+  ],
+  "Misty Bog": [
+    "Misty Bog Cave of Doom",
+    "Misty Bog hub",
+    "Misty Bog hub, right fork near a tree",
+    "Misty Bog start platform",
+    "center of Misty Bog hub",
+    "stairs near the start of Misty Bog",
+    "top bridge in Misty Bog",
+    "tree in Misty Bog hub"
+  ],
+  "Gnorc Cove": [
+    "Gnorc Cove barrel area",
+    "Gnorc Cove blue tunnel",
+    "Gnorc Cove bridge",
+    "Gnorc Cove central area",
+    "Gnorc Cove dragon head",
+    "Gnorc Cove first area",
+    "Gnorc Cove green tunnel",
+    "Gnorc Cove high plateau",
+    "Gnorc Cove hole island",
+    "Gnorc Cove landing",
+    "Gnorc Cove long bridge",
+    "Gnorc Cove pit",
+    "Gnorc Cove purple room",
+    "Gnorc Cove purple tunnel",
+    "Gnorc Cove ship",
+    "downstairs area in Gnorc Cove",
+    "exit of the next ship in Gnorc Cove",
+    "purple hallway in Gnorc Cove",
+    "ship reached over the bridge in Gnorc Cove",
+    "upper tier of Gnorc Cove"
+  ],
+  "Town Square": [
+    "High Tunnel",
+    "Town Square lower ledge",
+    "Town Square near Alvar",
+    "Town Square near Devlin",
+    "Town Square next ledge",
+    "Town Square platform with bull and dragon",
+    "Town Square steps",
+    "Town Square upper ledge"
+  ],
+  "Dark Hollow": [
+    "Dark Hollow entrance",
+    "Dark Hollow final room",
+    "Dark Hollow final room pond platform",
+    "Dark Hollow final step",
+    "Dark Hollow glide area",
+    "Dark Hollow hallways",
+    "Dark Hollow hidden tunnel",
+    "Dark Hollow highest platform",
+    "Dark Hollow near stairs",
+    "Dark Hollow outside tunnel",
+    "Dark Hollow pit",
+    "Dark Hollow start",
+    "Dark Hollow step",
+    "Dark Hollow steps",
+    "Dark Hollow sunken pit",
+    "Dark Hollow tunnel",
+    "Dark Hollow, around vortex",
+    "Dark Hollow, behind Big Daddy Gnorc",
+    "Dark Hollow, behind player",
+    "Dark Hollow, by the lamp",
+    "Dark Hollow, glide around wall",
+    "Dark Hollow, left of staircase",
+    "Dark Hollow, smaller platform",
+    "Dark Hollow, top of stairs",
+    "Dark Hollow, top of steps past club Gnorc",
+    "Dark Hollow, top platform of starting platforms"
+  ],
+  "Dry Canyon": [
+    "Dry Canyon corridor",
+    "building behind the yellow Gnorc, Dry Canyon",
+    "higher plateau, Dry Canyon"
+  ],
+  "Dark Passage": [
+    "Dark Passage cave",
+    "Dark Passage corner",
+    "Dark Passage enemy area",
+    "Dark Passage main level path",
+    "Dark Passage platform",
+    "Dark Passage steps"
+  ],
+  "Wizard Peak": [
+    "Wizard Peak behind wall",
+    "Wizard Peak entrance",
+    "Wizard Peak isolated column",
+    "Wizard Peak ledge",
+    "Wizard Peak next room",
+    "Wizard Peak path",
+    "Wizard Peak ramp across from landing",
+    "Wizard Peak turbine",
+    "area around Wizard Peak supercharge ramps",
+    "first room at the Wizard Peak entrance"
+  ],
+  "Crystal Flight": [
+    "Crystal Flight arches",
+    "Crystal Flight chests",
+    "Crystal Flight final chest",
+    "Crystal Flight rings"
+  ],
+  "Terrace Village": [
+    "Terrace Village entrance",
+    "Terrace Village factory",
+    "Terrace Village junkyard",
+    "Terrace Village junkyard fields",
+    "Terrace Village near Cypris",
+    "past the electric green floors in Terrace Village"
+  ],
+  "Haunted Towers": [
+    "bottom of Haunted Towers stairs",
+    "room on the left at top of Haunted Towers"
+  ],
+  "Ice Cavern": [
+    "Ice Cavern cave",
+    "Ice Cavern near cave",
+    "Ice Cavern room",
+    "Ice Cavern, back of area",
+    "Ice Cavern, left stairs",
+    "Ice Cavern, near vortex"
+  ],
+  "Sunny Flight": [
+    "Sunny Flight airplanes",
+    "Sunny Flight cave",
+    "Sunny Flight circular area",
+    "Sunny Flight railroad",
+    "Sunny Flight, cave",
+    "cave right of the start, Sunny Flight"
+  ],
+  "Icy Flight": [
+    "Icy Flight last area",
+    "Icy Flight last room",
+    "Icy Flight start"
+  ]
+}

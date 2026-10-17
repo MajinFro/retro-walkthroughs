@@ -1,0 +1,131 @@
+{
+  "beginner_friendliness": 86,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/02.md, 06.md, 07.md, 10.md, 11.md, 12.md, 13.md, 01.md",
+      "line": 210,
+      "description": "Invented 'Point of No Return' CAUTION callouts before balloons, Gnasty's World, the final boss and the Gnasty's Loot exit (and a 'soft' one in Stone Hill). Sources say balloonists take you back to earlier worlds (gf1-44-21, gf1-115-11), so none of these are real cutoffs. Changed them to TIP/NOTE 'before you leave' advice. The Metalhead arena lock (ch8, gf1-94-11) is real and was kept."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 9,
+      "description": "Stone Hill map said 'link not provided in the collected sources' although sources.json has the VGMaps URL. Added the link."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 32,
+      "description": "Chapter 13 repeated a short version of Gnorc Gnexus, Gnorc Cove, Twilight Harbour, Gnasty Gnorc and Magnus (already covered in Chapters 11-12) and wrongly said there were no maps or routing for those levels. It also had a broken stacked WARNING/NOTE callout. Rewrote it with rw:write --fix --note into a pointer to Chapters 11-12, and fixed the callout."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "item_manifest",
+      "status": "fixed",
+      "file": "08_chapters/12.md",
+      "line": 172,
+      "description": "The 'Dragon Roll for The Gang's All Here' left out dragon 9, dragon 16 and every Peace Keepers dragon (17-31), then said 'Dragons not listed above: Unable to verify', although gf3 numbers the dragons 1-80. Replaced the incomplete list with a pointer to the per-chapter item tables and checkpoints, and named Magnus as the usual 80th dragon."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/12.md",
+      "line": 37,
+      "description": "Magnus was placed in the 'middle of the arena' (a player could read this as the boss arena) and cited gf3-38-2, a fact about flaming rockets, four times. Moved him to the centre of Gnorc Gnexus where Delbin is (gf1-118-4, gf2-40-14) and changed the citations to the Magnus facts (gf1-142-34, gf1-138-14, gf3-12-4)."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "unsupported_claim",
+      "status": "fixed",
+      "file": "08_chapters/01.md, 08_chapters/07.md",
+      "line": 124,
+      "description": "The user-approved 'Unable to verify' sections for 637069 (tulips) and 637082 (bushes) told players to 'watch the achievement's progress counter'. No source says these achievements show progress. Changed it to 'until the achievement unlocks'. Both sections now contain only the gf2 flower line, generic advice and the PINGG longplay link."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/11.md",
+      "line": 49,
+      "description": "Gnorc Gnexus first-visit gems said 'Unable to verify' although gf1-115-2..6 list the groups (20, 8, 15 in wooden chests, 7 on the bridge, 15 in metal chests). Listed them as steps, with a note that they add up to 65 while the checklists say 75."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "missables",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 92,
+      "description": "The roadmap lists 0 missables. That is defensible: the only graph missable is Icy Flight lights and chests past the train tracks (gf2-40-3), which only affects the current run because you can restart the level. Chapter 10 already warns about it three times. Added an overview bullet for this, for Magnus appearing only after Gnasty (ra-comments-45-1, gf2-40-13), and for balloons working both ways."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 91,
+      "description": "The overview gave only the comment saying Gnorc Cove might lock out Keeping My Inner Dragon in Check (ra-comments-109-5). Added the later reports that it worked on a 100% save (109-2, 109-3), as Chapter 11 already does."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "citation",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 123,
+      "description": "The Dark Passage entry step cited gf1-97-14. Changed it to gf1-97-15, the matching fact."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "citation",
+      "status": "open",
+      "file": "08_chapters/12.md, 08_chapters/03.md",
+      "line": 66,
+      "description": "Three steps (ch12:66 gf1-125-1, ch3:73 gf1-44-1, ch3:266 gf4-13-10) say things the raw guide text supports, but the cited fact is a neighbouring one. These are the QA no-overlap warnings worth fixing in a later pass."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/07.md, 08_chapters/04.md",
+      "line": 21,
+      "description": "Purple gem value: gf1 says purple = 5 and gf2 says purple = 25. Chapters 1 and 3 explain the disagreement and say to trust the counter. Chapter 7 line 21 lists 'purple 25' first and then mentions the gf1 value. Chapter 4 line 203 gives a gf2 'purple worth 25'. No chapter presents a single merged value, but a beginner could be confused."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "layout",
+      "status": "open",
+      "file": "08_chapters/05.md, 07.md, 09.md",
+      "line": 277,
+      "description": "Checkpoint template rows 'Dungeon Chests Opened / Sidequests Completed: Unable to verify' do not apply to Spyro and could be removed."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "qa_warnings",
+      "status": "open",
+      "file": "09_qa.json",
+      "line": 0,
+      "description": "Remaining rw:qa warnings: most are table headers, checklist lines or intro sentences flagged as uncited, or area-label mismatches. The label mismatches come from graph labels such as 'Toasty (boss fight)' and 'Icy Flight: lights and chests missable...'; the chapters cover each area under its plain name. None of these need fixing. Only the no-overlap citation warnings in ISS-11 are worth fixing."
+    }
+  ]
+}

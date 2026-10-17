@@ -1,0 +1,77 @@
+[
+  {
+    "fact_id": "gf1-29-5",
+    "resolution": "accept",
+    "rationale": "Gem colour naming differs between guides. gf1#9 lists 'Purple/Blue = 5 Gems' and 'Pink = 25 Gems'; gf2#3 calls the 25-value gem purple ('the rare purples worth 25'); gf3#4 (Pink 25), gf4#6 (Blue 5, Magenta 25) agree with gf1's values. Same game gems, different colour words: in gf1 facts 'purple gem' means the 5-value blue gem. Writers must give values, e.g. 'blue gem (5)' and 'pink gem (25)'. 'Purple gem' is deliberately not aliased in 05_aliases.json."
+  },
+  {
+    "fact_id": "gf2-3-5",
+    "resolution": "accept",
+    "rationale": "gf2 calls the 25-value gem 'purple'; gf1 (Pink = 25), gf3 (Pink 25) and gf4 (Magenta 25) call it pink/magenta. Same gem, different colour word; value 25 agrees across all four guides. In gf2 facts 'purple gem' means the 25-value gem."
+  },
+  {
+    "fact_id": "gf1-9-9",
+    "resolution": "accept",
+    "rationale": "gf1's 'purple/blue = 5' is the blue gem (gf2 'blue sapphires worth 5', gf3 Blue 5, gf4 Blue 5). Values agree; only gf1's extra colour word 'purple' differs from gf2's use of 'purple' for the 25-value gem."
+  },
+  {
+    "fact_id": "gf1-132-6",
+    "resolution": "accept",
+    "rationale": "Gnasty Gnorc takes two flames in total. gf2#44: flaming him on the platform makes him 'run away into the room on the right', then on the final ledge 'you can simply flame him and he'll die off'; checklist-enemies#14: 'Then flame him again and YOU BEAT THE GAME!'. gf3-37-12 and gf4-30-18 ('flame him once') describe only the final, finishing flame after the chase, so they do not contradict gf1's 'Flame twice'."
+  },
+  {
+    "fact_id": "gf3-37-12",
+    "resolution": "accept",
+    "rationale": "Describes the finishing flame once Spyro reaches Gnasty at the end of the chase; the earlier platform flame (gf2-44-2) makes him flee. Consistent with gf1-132-6 (two flames total)."
+  },
+  {
+    "fact_id": "gf4-30-18",
+    "resolution": "accept",
+    "rationale": "'Flame him once to knock him out' refers to the final cornered flame in the last room; consistent with gf1-132-6 and gf2-44-2/gf2-44-13 (one flame on the platform, one to finish)."
+  },
+  {
+    "fact_id": "gf1-136-4",
+    "resolution": "accept",
+    "rationale": "Toasty takes three flames: checklist-enemies#1 'Toasty takes 3 hits to kill'; gf2#8 first flame makes him run, second burns away the outfit, a final quick flame finishes him; gf3#11 sheep revealed after the second flame. 'Quick flame' / 'walk up while flaming' facts describe individual hits, not a different total."
+  },
+  {
+    "fact_id": "gf1-131-2",
+    "resolution": "accept",
+    "rationale": "Blowhard takes three flames: gf3-23-2/23-3/23-4 (flamed once he moves on, flamed again he flies off, third flame kills him). gf2-23-11 and checklist-enemies-6-28 describe the final hit only."
+  },
+  {
+    "fact_id": "gf1-131-14",
+    "resolution": "accept",
+    "rationale": "Doctor Shemp: three back flames (gf1) matches checklist-enemies#3 'Dr. Shemp takes 3 hits' and gf3/gf4's three-platform/three-ledge sequence. The 'drops purple gem' (gf1, 5-value in gf1's colour naming) / 'golden gem' / 'yellow jewel' facts are per-hit drops, not competing claims."
+  },
+  {
+    "fact_id": "gf1-143-2",
+    "resolution": "accept",
+    "rationale": "Not a conflict: Gnasty's World dragons reuse names of earlier dragons. gf2#40: 'all the dragons here are rebels from the five dragon homes'; gf1#120 heads the Gnorc Cove entry 'LATEEF (AGAIN)'. Lateef is freed in both Dream Weavers Home (gf1-141-22) and Gnorc Cove (gf1-143-2, gf3-35-4 'Dragon 76/80 Lateef')."
+  },
+  {
+    "fact_id": "gf1-143-3",
+    "resolution": "accept",
+    "rationale": "Repeated dragon name: Tomas is freed in Artisans Home (gf2-4-1, cave near the Town Square portal) and again in Gnorc Cove (gf1#120 'You'll re-find Tomas just after the second ship'; gf3-35-5 'Dragon 77/80 Tomas')."
+  },
+  {
+    "fact_id": "gf1-142-34",
+    "resolution": "accept",
+    "rationale": "Repeated dragon name: Magnus appears in Peace Keepers Home (gf1-44-18 by the balloonist, gf4-11-29 near Gosnold) and again as the last Gnorc Gnexus dragon, freed after Gnasty Gnorc is beaten (gf1-118-4, gf2#40 'beat Gnasty Gnorc ... and after that, free Magnus')."
+  },
+  {
+    "fact_id": "gf1-142-33",
+    "resolution": "accept",
+    "rationale": "Repeated dragon name: Delbin is freed in Artisans Home (gf2-4-4, by the pond with six pads) and again at the Gnorc Gnexus entrance (gf2#40 'You might remember him from the Artisan home'; gf3-34-2 'Dragon 75/80 Delbin')."
+  },
+  {
+    "fact_id": "gf1-143-8",
+    "resolution": "accept",
+    "rationale": "Repeated dragon name: Cleetus is freed in Beast Makers Home (gf1-140-25, gf2-25-15, gf4-20-8) and again in Twilight Harbor (gf1-143-8, gf3-36-4 'Dragon 79/80 Cleetus')."
+  },
+  {
+    "fact_id": "gf1-143-7",
+    "resolution": "accept",
+    "rationale": "Repeated dragon name: Cosmos is freed in Magic Crafters Home (gf2-17-4, gf3-18-2 'dragon 33 of 80') and again in Twilight Harbor (gf1-143-7, gf3-36-3 'Dragon 78/80 Cosmos')."
+  }
+]

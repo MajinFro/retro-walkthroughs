@@ -1,0 +1,2435 @@
+
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   SPYRO THE DRAGON (PlayStation)
+   FAQ/Walkthrough v1.5
+   Written by Snow Dragon © 2005.
+   All rights reserved.
+   Contact at round the wheel [at] gmail [dot] com
+     (all one word, no spaces, proper symbols)
+   _______________________________________________
+
+   
+
+   = | =================
+   = | TABLE OF CONTENTS
+   = | =================
+
+   1  Intro
+   2  Updates
+   3  How to Use This FAQ **READ FIRST**
+   4  Controls
+   5  Items
+     5.1  Objects
+     5.2  Types of Chests
+     5.3  Friends of Spyro
+   6  Walkthrough
+     6.1  Artisans
+         6.1.1  Home
+         6.1.2  Dark Hollow
+         6.1.3  Stone Hill
+         6.1.4  Town Square
+         6.1.5  Sunny Flight
+         6.1.6  Toasty
+     6.2  Peace Keepers
+         6.2.1  Home
+         6.2.2  Dry Canyon
+         6.2.3  Cliff Town
+         6.2.4  Ice Cavern
+         6.2.5  Night Flight
+         6.2.6  Doctor Shemp
+     6.3  Magic Crafters
+         6.3.1  Home
+         6.3.2  Alpine Ridge
+         6.3.3  High Caves
+         6.3.4  Wizard Peak
+         6.3.5  Crystal Flight
+         6.3.6  Blowhard
+     6.4  Beast Makers
+         6.4.1  Home
+         6.4.2  Terrace Village
+         6.4.3  Misty Bog
+         6.4.4  Tree Tops
+         6.4.5  Wild Flight
+         6.4.6  Metalhead
+     6.5  Dream Weavers
+         6.5.1  Home
+         6.5.2  Dark Passage
+         6.5.3  Lofty Castle
+         6.5.4  Haunted Towers
+         6.5.5  Icy Flight
+         6.5.6  Jacques
+     6.6  Gnasty's World
+         6.6.1  Gnorc Gnexus
+         6.6.2  Gnorc Cove
+         6.6.3  Twilight Harbor 
+         6.6.4  Gnasty Gnorc
+         6.6.5  Epilogue
+         6.6.6  Gnasty's Loot
+   7  Credits and Legal Stuff
+
+
+You can get to any section of this FAQ instantly by copying the section number
+you need into the Find dialog box in your browser (usually located under the
+Edit header) and choosing the option that searches down through the page.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | =====
+   1 | INTRO
+   = | =====
+
+Hello, and welcome to this FAQ for Spyro the Dragon for PlayStation. This is my
+first complete FAQ for a PlayStation game - I know I'm quite behind the times,
+but it's been a fun one to write all the same!
+
+If you're not familiar with the Spyro series, this is the game that launched a
+dozen crappy sequels. However, the original - the one I'm covering here - is
+quite good, and is one of the premier examples of tight platforming and fun
+gameplay that the original PS1 had to offer.
+
+In this game, Spyro is the only dragon in the Dragon Kingdom who is not frozen
+in crystal when Gnasty Gnorc launches a surprise attack on the kingdom.
+Although young and not yet knowledgeable in the ways of dragons, Spyro must
+take it upon himself to free the crystallized dragons, take down Gnasty Gnorc,
+find all the missing treasure, and restore order to the Dragon Kingdom.
+
+What this walkthrough will do for you is detail step-by-step how to get every
+single item and save every single captive dragon, so that ultimately you can
+reach the maximum completion goal of 120%. Hopefully the steps I've laid out in
+the walkthrough are specific enough to get the job done, but if there's any
+trouble, hit me up at [round the wheel at gmail dot com] - all one word, no
+spaces, insert the proper symbols, etc. If I have time, I will be happy to
+clarify any section with muddy wording or answer other questions.
+
+With all that behind us, let's get on with it!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | =======
+   2 | UPDATES
+   = | =======
+
+12-28-05: (v1.5) Caught a few minor mistakes myself:
+          ** Filled in a few headers in the walkthrough where I left in the
+             placeholders by accident.
+          ** Added a tag in the Table of Contents telling the reader to look at
+             the How to Use This FAQ section first.
+          ** Fixed some sloppy formatting on the chart in section 6.6.5.
+          ** Since I forgot that in-FAQ search engines are all the rage these
+             days, I added one under the Table of Contents just for grins.
+          ** Finally, adjusted section numbers accordingly.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ===================
+   3 | HOW TO USE THIS FAQ
+   = | ===================
+
+As you may have noticed if you took a slight peek at the walkthrough portion of
+the guide already, it is arranged differently from some other Spyro FAQs you
+may have seen.
+
+Spyro is not like other platform games, even those that are 3D just like it. In
+most platformers, the primary object of each level is to get from Point A to
+Point B intact. Item collection is second in priority to completion. Not so in
+Spyro. Although most levels have an "ending point" in the form of the portals
+marked "Return Home", they are not the primary focus. Spyro is first and fore-
+most about collecting gems, saving dragons, retrieving dragon eggs, and working
+toward that completion goal of 120%.
+
+Since gem collecting is the main point of Spyro, this FAQ is tailored to that
+specific aspect of the game. The walkthrough is designed so that, from the
+beginning of any given level, you can follow the walkthrough to the letter and
+come out with all the gems in every level.
+
+Each level has its own numbered steps, which detail exactly how many gems you
+should have at the end of every step. Followed correctly, there is no chance of
+missing any gems, dragons, or dragon eggs. Each step is followed by a
+parenthetical aside containing two numbers separated by commas, like so:
+
+
+   (aaa/bbb, x/y)
+
+
+where "aaa" represents the number of gems you will have at the end of the step;
+"bbb" represents the total amount of gems in the level; "x" represents the
+number of dragons you currently have under your belt at the time of that step
+in a level; and "y" is the total number of dragons in a level.
+
+This system should be fairly easy to put to use while playing the game. If
+there are any inconsistencies or errors, gladly point them out to me at my
+e-mail address, listed in the above two sections.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ========
+   4 | CONTROLS
+   = | ========
+
+D-pad: Move in the desired direction. You can also use the left analog stick to
+          walk if you have analog turned on on a Dual Shock controller.
+
+X: Jump. Press X again while jumping to glide slowly through the air.
+
+Square: Charge. This attack is useful against metallic enemies and objects that
+           cannot be taken out with flame.
+
+Triangle: While on the ground, it will bring the camera up close behind Spyro.
+             Hold it down, then use the D-pad to look around.
+          While in the air, it will cut Spyro's glide off immediately and drop
+             him where he is.
+
+Circle: Blow flames.
+
+Start: Start the game.
+       Confirm menu choices.
+       Bring up the pause menu.
+
+Select: Brings up your Inventory screen instantly without having to go through
+           the Pause menu. You can get to the regular pause menu from this
+           screen by pressing Start, and vice versa.
+
+R1/L1: Roll to the side. Kind of a strafing maneuver. Not especially useful in
+          the heat of a moment, but fun to do.
+
+R2/L2: Move the camera left and right.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | =====
+   5 | ITEMS
+   = | =====
+
+
+   --- | -------
+   5.1 | Objects
+   --- | -------
+
+*in alphabetical order
+
+
+Butterflies: These creatures are what keep your sidekick Sparx in good health.
+             Every level has some kind of small harmless creature that, when
+             torched, will turn into a butterfly. If Sparx is any color other
+             than yellow (maximum health), he will automatically chase after
+             and eat a butterfly when he gets near one.
+
+
+Clear Jewels: If Spyro has already gotten a gem from an enemy and he kills that
+              enemy again, the enemy will usually yield one of these. The
+              amount of these you have will be shown in a ring around the
+              amount of lives you have in the upper right-hand corner of the
+              screen. When you complete a full ring, you will get an extra
+              life.
+
+
+Dragon Eggs: Throughout the first three worlds, you will encounter some sneaky
+             thieves in cyan robes carrying dragon eggs. When you see one of
+             these guys, start chasing after him. They usually run in circles,
+             but occasionally you will find one that, if not caught in enough
+             time, will elude your grasp (not permanently, of course). To get
+             the dragon egg, either charge into the thief or burn him when you
+             are close enough.
+
+
+Firecrackers: Sometimes you will find a firecracker positioned at the edge of a
+              ledge. Light it on fire and watch it whiz through the air. It
+              will break a box off in the distance - always one that Spyro
+              can't break by flaming or charging - and release jewels.
+
+
+Gems: The main focus of the game. There are 14000 gems scattered throughout the
+      Dragon Kingdom, and it is your main objective, after sending Gnasty Gnorc
+      packing, of course, to find and retrieve every last one of them. Some of
+      them are lying out in the open, while others can be found in chests. The
+      different types of treasure chests are detailed below in 4.2, Types of
+      Chests.
+         Depending on the color of the gem, it will be worth a different amount
+      as detailed below:
+
+      Red - 1
+      Green - 2
+      Blue - 5
+      Yellow - 10
+      Magenta - 25
+
+
+Keys: Every so often you will find a key in a level. Keys go to locked chests,
+      which will then yield several gems. Much later in the game, they can also
+      open large locked doors.
+
+
+Silver Spyro Statuette: Usually hidden in purple baskets with eyes peeking out
+                        of them. Sometimes, if an enemy has already yielded a
+                        gem, they will drop one of these. But not often.
+
+
+   --- | ---------------
+   5.2 | Types of Chests
+   --- | ---------------
+
+*in relative order of appearance
+
+
+Regular Chest: Adorned with red and yellow directions. Can be charged or
+               torched.
+
+
+Iron Chest: Impervious to flame. Can only be charged. (Note: If you have been
+            kissed by a fairy, the enhanced flame will work on these.)
+
+
+Locked Chest: Requires a key to open. The key can always be found elsewhere in
+              the stage.
+
+
+Turbine Box: To open this one, blow fire at it rapidly until it spins faster
+             and faster. Once it spins fast enough, it will break open and
+             reveal the jewels inside. Three flames in succession is usually
+             enough to do the trick.
+
+
+Gem-Topped Chest: This chest has a particular color of gem in the top. When you
+                  charge it or blow fire at it, the same color gem will pop out
+                  of the top. Jump and catch the gem when it comes out to smash
+                  the chest.
+
+
+Unbreakable Chest: These cannot be opened by regular charging or flaming. You
+                   must use unconventional means to open them. Fortunately,
+                   there are several ways you can open them, such as
+                   firecrackers, supercharging, cannonballs, etc.
+
+
+   --- | ----------------
+   5.3 | Friends of Spyro
+   --- | ----------------
+
+*in relative order
+
+
+Sparx: Sparx is your little dragonfly sidekick who tags along with you. He is
+       indicative of your current health. Yellow means maximum health, blue
+       is good, green is cause for worry, and if you get hit while he's green,
+       he will disappear, meaning you can only take one more hit. To replenish
+       his (and by extension, your) health, feed him butterflies.
+
+
+Dragons: Throughout the Dragon Kingdom are 80 dragons trapped in crystal. When
+         you free one, he may give you helpful advice, or he may simply express
+         gratitude for his rescue.
+
+
+Balloonists: Each world has a balloonist who will take you to the next world
+             when you have met a certain requirement, such as finding a certain
+             amount of gems or saving so many dragons. You can also use them to
+             backtrack to previous worlds.
+
+
+Red Fairy: Red fairies inhabit the spots where frozen dragons used to be. When
+           you step on the circular pad, you can choose to save your game or
+           replay the message from the dragon that used to be there.
+
+
+Fairy Trio: Found only in the High Caves, these fairies will lift Spyro to
+            safety if he falls into a pit that they inhabit.
+
+
+Purple Fairy: When you go near the Purple Fairy, she will kiss you, thus
+              temporarily enhancing the power of your flame. With this super-
+              flame, you can break chests that must normally be charged, flame
+              down metallic enemies, and break open metal doors.
+
+
+Orange Fairy: Gives the same kiss as the Purple Fairy, but her powers last
+              substantially longer. Found only in the Haunted Towers.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ===========
+   6 | WALKTHROUGH
+   = | ===========
+
+
+   --- | --------
+   6.1 | Artisans
+   --- | --------
+
+
+   ----- | ----------
+   6.1.1 | Home
+         | Gems: 100
+         | Dragons: 4
+   ----- | ----------
+   
+1. Walk forward and free Nestor. (0/100, 1/4)
+
+2. Save the game and jump forward to the ground below. In front of you you'll
+   see three red gems. A Gnorc will also be running around; flame him or charge
+   him for a green gem, worth two. (5/100, 1/4)
+
+3. Go to the top of the hill and look around until you find a raised area with
+   some red and green gems and a treasure chest. Float over to it and collect.
+   (13/100, 1/4)
+
+4. Go into the large palace and get all the gems leading up to Marco the
+   Balloonist. (29/100, 1/4)
+
+5. Explore the hedge maze leading to the Dark Hollow world. (40/100, 1/4)
+
+6. Torch the two Gnorcs standing in front of the gate to Stone Hill. (44/100,
+   1/4)
+
+7. Near the Stone Hill gate is a series of rising columns. Jump to each one and
+   collect the jewels. There are also two red ones nearby, at the foot of the
+   incline that leads to where you started. (53/100, 1/4)
+
+8. Turn the camera until you see another dragon and a Gnorc holding a bag. Find
+   him and blow fire at him three times. He will release a total of five gems.
+   Also, get any red gems you see around you. (64/100, 1/4)
+
+9. Rescue Delbin, who will discuss the importance of Sparx, your dragonfly
+   sidekick. (64/100, 2/4)
+
+10. Behind the Stone Hill gate is a narrow passageway which leads to the
+    Artisan world boss level. Get all the gems and free the dragon here, Argus.
+    You need to beat one of the other Artisan world levels before you can
+    access Toasty's level. (74/100, 3/4)
+
+11. Go through the corridor leading to the Town Square level and rescue Tomas,
+    who will teach you how to glide. (79/100, 4/4)
+
+12. Kill the Gnorc with the bag and get all the gems on the ground level.
+    (91/100, 4/4)
+
+13. Walk into the door where you see the swirling sparklies. Anytime you see
+    these, you will be caught up in their drift and taken to an area you can't
+    normally reach by jumping or gliding. Once at the top, get the jewels in
+    front of the Town Square gate. (94/100, 4/4)
+
+14. On the platform in front of the Town Square entrance are two ledges that
+    branch off to the left and right. From each of these, you can reach the top
+    of some raised columns where the last jewels of this world are found. Jump
+    to one or the other, then use the sparklies to return to the top and reach
+    the other one. (100/100, 4/4 **COMPLETE**)
+
+Now that you've gotten all the jewels in the Artisan home base, go to one of
+the levels.
+
+
+   ----- | -----------
+   6.1.2 | Dark Hollow
+         | Gems: 100
+         | Dragons: 3
+   ----- | -----------
+
+1. Defeat the two Gnorcs ahead who have shields by charging. (3/100, 0/3)
+
+2. Jump up the columns to the treasure chest. You don't have the key for that
+   yet, so ignore the chest and glide over to the area to the left. (7/100,
+   0/3)
+
+3. At the edge of the area you're gliding to is a big fat Gnorc with a club. Be
+   prepared to blow fire at him as soon as you get in front of him - because of
+   his size, charging will not work here. Advance up the steps and rescue the
+   dragon Alban. (15/100, 1/3)
+
+4. Go back to the original area. Kill another Gnorc with a shield, then move
+   ahead and take the detour to the right. (17/100, 1/3)
+
+5. The hallways will be blocked by big fat Gnorcs with armor on their
+   frontsides. Dispose of them by shooting flames at them as they are walking
+   away. Do this until you reach the room at the end. (35/100, 1/3)
+
+6. Once you enter the room, get all the gems on the ground and glide over the
+   pond to the platform with two red gems and a key. Be careful not to land in
+   the water, as Spyro cannot swim and that will cause damage. (42/100, 1/3)
+
+7. Hop to the highest platform and glide across to where the dragon Oswin is.
+   (49/100, 2/3)
+
+8. Return to the beginning of the stage and unlock the treasure chest. (59/100,
+   2/3)
+
+9. Proceed to where you see the three shield Gnorcs plus a big fat one. Kill
+   everybody and get any other gems lying on the ground you see before going up
+   the stairs. (68/100, 2/3)
+
+10. Jump up the stairs, kill the Gnorcs you see, and move around and rescue the
+    final dragon of this stage, Darius. Get the gems around the Return Home
+    portal, but don't leave yet; there are still a few more to get. (82/100,
+    3/3)
+
+11. Walk down the steps into a sunken pit where you will find a fat Gnorc and
+    two treasure chests. Flame the Gnorc and charge the chests. (91/100, 3/3)
+
+12. Go back up the steps and find a red gem. Across from the red jewel is a
+    green one sitting all by itself on a raised platform. Glide to it. (94/100,
+    3/3)
+
+13. Go back up the staircase, but this time head left. Turn the camera and you
+    will see a yellow platform you can glide to. The rest of the gems, as well
+    as an extra life, are here. (100/100, 3/3 **COMPLETE**)
+
+
+   ----- | --------------
+   6.1.3 | Stone Hill
+         | Gems: 200
+         | Dragons: 4
+         | Dragon Eggs: 1
+   ----- | --------------
+
+1. Grab all the gems in the opening area, including the ones yielded by the
+   mountain goat enemies. Do this before going through any doors you see.
+   (40/200, 0/4)
+
+2. Go through the door that leads to the dragon Astor and the Return Home
+   portal. You will find a 1-up on the way there. Collect everything you see.
+   (61/200, 1/4)
+
+3. Behind the wall you will see some of those swirling sparklies that lift you
+   up to higher places. Get next to it - not in front of it - and drop down.
+   You will land on a beach area. Follow the trail of green gems to a cave,
+   where you will find a key and four iron chests. Iron chests cannot be opened
+   with fire; you have to charge them. Collect the bounty within them, then go
+   to the swirling sparklies and return to where you found Astor, where you
+   should then save just to be safe. (80/200, 1/4)
+
+4. Go back to the open field you started in. There is a well here that you can
+   drop down into. Get the gems in the open and in the treasure chest and free
+   Gavin from his crystallized state, then float back out using the sparklies.
+   (93/200, 2/4)
+
+5. Go through the door to the left of the one that took you to Astor. There are
+   several gems, chests, and a dragon in here. (129/200, 3/4)
+
+6. Go through the door that takes you to another open field. (132/200, 3/4)
+
+7. Grab all the gems lying out in the open that you can find before moving on.
+   (169/200, 3/4)
+
+8. Enter the tower with the sparkly vortex that will take you up. The last
+   dragon of the stage, Gildas, is up here, with more tips about gliding.
+   (175/200, 4/4)
+
+9. From here, choose a point and glide over to the raised area surrounding this
+   field, which you can walk on top of. The remainder of the level's jewels are
+   hidden up here, so be sure to explore every inch of the area, including the
+   castle roof, for jewels. (200/200, 4/4 **COMPLETE**)
+      Here, you will also encounter your first dragon egg thief. Any time you
+   see a mysterious little man in a blue robe holding an egg, chase him. He
+   will run away, and only by catching up to him and charging or flaming him
+   can you retrieve the dragon egg. There are twelve dragon eggs total in the
+   entire game, the collection of which will be documented separately from the
+   jewels and dragons in this walkthrough, like so: (1/12)
+
+
+   ----- | --------------
+   6.1.4 | Town Square
+         | Gems: 200
+         | Dragons: 4
+         | Dragon Eggs: 1
+   ----- | --------------
+
+1. Grab the gems on the ground and on the steps and rescue the first dragon,
+   Nils. (18/200, 1/4)
+
+2. Glide over where Nils tells you to and kill the bulls by blowing fire as
+   they charge at you. (27/200, 1/4)
+
+3. Hop up the steps until you see a chest with a blue top. When you blow fire
+   at one of these chests, a jewel of the corresponding color will pop out.
+   When it does, jump and collect the jewel to receive credit for it. (35/200,
+   1/4)
+
+4. Glide to the next ledge, with three red gems and an extra life, and then
+   over the water to where you'll find the second dragon, Devlin. (42/200, 2/4)
+
+5. Get the treasure chest next to where you found Devlin, then kill both the
+   bull and the matador Gnorc accompanying the bull. Smash the iron chests as
+   well by charging. (60/200, 2/4)
+
+6. Go up the steps and then hop on the green ledge. Turn the camera to where
+   you face the fountain, then jump and glide, keeping to the right. If you do
+   it right, you should land on a ledge with a few gems, and you should hear a
+   dragon egg thief doing his silly little taunt. Grab the gems first. (67/100,
+   2/4)
+
+7. Get to where you can see the dragon egg thief from the lower ledge, then
+   jump and immediately begin charging. When you are close enough, flame him.
+   (2/12)
+
+8. Get any gems in the surrounding area, and walk through the corridor you find
+   up here, then fly over to the next ledge to find even more gems and chests.
+   (117/200, 2/4)
+
+9. At the end of the final ledge, you should be able to glide over to a
+   platform where you'll find a bull and a dragon. Kill the bull and save the
+   dragon. There is also a turbine-like device over here. To open these types
+   of chests, blow fire at them to make them spin. You must make it spin very
+   fast, at which point it will smash open. (155/200, 3/4)
+
+10. Jump down and rescue Alvar. (155/200, 4/4)
+
+11. The rest of the gems are in Alvar's general vicinity. Kill all the enemies
+    and smash open all the chests, then return home via the portal with the
+    name to that effect. (200/200, 4/4 **COMPLETE**)
+
+
+   ----- | ------------
+   6.1.5 | Sunny Flight
+         | Gems: 300
+   ----- | ------------
+
+To find the Sunny Flight level, go to the part of the Artisan home base where
+you rescued Delbin. Near his spot is a pond with five stones in it. Jump to
+each one without falling in the water or repeating any stones to open up the
+entrance to Sunny Flight.
+
+The flight levels are a tad different than the other levels in the game. In
+these stages, you collect gems by successfully completing obstacles that are
+arranged in groups of eight. And there's no gliding either - it's full-on
+flying. There's no need to land, and in fact, on the few occasions when you can
+do so, it's ill-advised. If you run into something and it stops your flying,
+press X to get back in the air. You have 30 seconds to destroy all the objects,
+and each one you destroy will give you a small time boost to help you out.
+
+In Sunny Flight, there are four types of objects to be destroyed: barrels,
+arches, airplanes, and chests. Start with the chests by steering right and
+moving down. You will find a cave wherein all eight chests are hidden. Go in
+and take out the first three, then the fourth one in the middle, and finally
+the other four, which are arranged in a circle around the wall.
+
+After finding all eight chests, leave the cave and turn left. Go through each
+green arch you see. Once you get six arches, you'll come upon the airplanes.
+Take a break from the arches and fly around, using your flame to take down the
+Gnorc pilots. When you have all eight airplanes, go through the other two
+arches.
+
+As soon as you have the eight arches, turn around and look for the railroad
+tracks. Fly in the opposite direction that the trains are moving in. When you
+are about to run into a train, blow a flame at it to take out two barrels at
+once. Continue in this fashion until you have destroyed all eight barrels. At
+this point, you should also have completed the stage - if you're good enough,
+with a good 20 seconds to spare.
+
+You'll get 60 gems for each group of eight objects you destroy, plus an
+additional 60 for getting all 32 individual objects in a single turn, which in
+the end adds up to 300.
+
+
+   ----- | ----------
+   6.1.6 | Toasty
+         | Gems: 100
+         | Dragons: 1
+   ----- | ----------
+
+1. Get all the gems around here, both in the open and from enemies. Flame the
+   tall, lanky, robed dudes from a distance. As for the dogs, flame them once
+   and immediately run away, as they will try to pounce you. After the second
+   flame, they will die. (24/100, 0/1)
+
+2. Jump up the steps to reach another room with the same set of enemies.
+   Collect what you can, then search for a door to the left. (43/100, 0/1)
+
+3. The door will lead to an outer area where you must walk the perimeter of the
+   cliffs, kill a couple of enemies, and smash some iron chests. (54/100, 0/1)
+
+4. Return to the room you came from and move ahead to this level's only dragon,
+   Nevin. (56/100, 1/1)
+
+5. The first time you see Toasty, he is guarded by one dog. Torch the dog, then
+   torch Toasty to get a blue gem out of him. (63/100, 1/1)
+
+6. In the second area, he is guarded by two dogs. Torch them both, then set
+   Toasty aflame to reveal the goon behind the disguise. (72/100, 1/1)
+
+7. In the third area, kill the three dogs and then flame Toasty one last time
+   for a modest jewel payout. (96/100, 1/1)
+
+8. Get the jewels by the Return Home portal. (100/100, 1/1 **COMPLETE**)
+
+
+Talk to Marco the Balloonists to go to the Peace Keepers world.
+
+
+   --- | -------------
+   6.2 | Peace Keepers
+   --- | -------------
+
+
+   ----- | --------------
+   6.2.1 | Home
+         | Gems: 200
+         | Dragons: 3
+         | Dragon Eggs: 1
+   ----- | --------------
+
+1. Rescue the dragon Titan. (0/200, 1/3)
+
+2. Kill the infantry Gnorc with the spear to the right. (5/200, 1/3)
+
+3. When you reach the outdoor area, infantry Gnorcs will start marching toward
+   you, and some Gnorcs will move to a cannon post where they can shoot
+   cannonballs at you. Retrieve all the gems you see and kill every Gnorc up to
+   the entrance to Dry Canyon. This should put you at (38/200, 1/3)
+
+4. Ahead you will find groups of Gnorcs who, when sighted, will retreat to the
+   tents behind them. Torch the group of four that comes first, then the group
+   of three, and collect any gems lying on the ground. (62/200, 1/3)
+
+5. Find Gosnold the Balloonist and get the two chests and extra life around his
+   station. (69/200, 1/3)
+
+6. Near Gosnold is the dragon Magnus; rescue him. (69/200, 2/3)
+
+7. Behind Magnus is a path leading down to the Ice Cavern level. Grab all the
+   jewels leading up to that gate. (76/200, 2/3)
+
+8. Nearby you will find two Gnorcs who run away to their tents and a Gnorc
+   operating a cannon. Kill them for their gems. (88/200, 2/3)
+
+9. Before using the cannon, get any nearby gems possible. There are three
+   chests in front of the gate to Doctor Shemp (the Peace Keepers boss), some
+   open-air red gems, and two color chests. (110/200, 2/3)
+
+10. By now you should have found a rock with a bull's-eye painted on it. Across
+    from this rock is a cannon. Go to the end of the cannon touching the ground
+    and stand beside it. The camera view will change to show you beside the
+    cannon. Push it left or right to turn it around and aim it at the rock with
+    the bull's-eye, then use your flame on the cannon to make it shoot a
+    cannonball. This will break the rock, allowing you access to other parts of
+    the Peace Keepers home base.
+       You can also use the cannon to break open two chests that you may have 
+    found cannot be opened by any techniques Spyro has. Point the cannon at 
+    those chests and use your flame to shoot cannonballs. If pointed at the
+    chests, the cannonball will automatically know where to go in order to open
+    them. (120/200, 2/3)
+
+11. From the newly formed plateau, jump to where you find the Night Flight gate
+    and get all the gems here. (144/200, 2/3)
+
+12. Go back to the new plateau and turn right. Jump over to the ledge there,
+    and then to another rock with three green gems on it. (150/200, 2/3)
+
+13. Jump back to the previous ledge and turn until you see a dragon off in the
+    distance. This is Gunnar. Go to him and free him, then collect the various
+    gems, the key, and the dragon egg from the blue robed guy you see. This
+    guy is easy to catch, as he only runs in circles around the pool of water
+    located here. (173/200, 3/3) (3/12)
+
+14. Go back and find the rock arch situated over the lake of hazardous purple
+    goop. Walk to the top of it and turn the camera until you see a door to
+    glide to. Glide over to it and get the remaining treasures. (200/200, 3/3
+    **COMPLETE**)
+
+
+   ----- | --------------
+   6.2.2 | Dry Canyon
+         | Gems: 400
+         | Dragons: 4
+         | Dragon Eggs: 1
+   ----- | --------------
+
+1. Make the nearby turbine spin until it breaks and yields a gem. (10/400, 0/4)
+
+2. Grab the stuff from the chests ahead and kill the yellow Gnorc who shoots
+   bullets at you if you get too close. (47/400, 0/4)
+
+3. Get the red and green jewels on the ground ahead, then charge the two Gnorcs
+   when they put up their shields. (61/400, 0/4)
+
+4. If you look to the left, there is a very narrow strip of land leading off in
+   a different direction. Go over there to find a dragon egg thief. Chase him
+   down and headbutt him. (4/12)
+
+5. Retrieve any treasures you missed in that area while chasing down the dragon
+   egg. (80/400, 0/4)
+
+6. Continue forward and get the green gems from the three colored chests.
+   (86/400, 0/4)
+
+7. Kill the yellow Gnorc and rescue the sniveling Conan. (88/400, 1/4)
+
+8. Kill the next yellow Gnorc, then go up the nearby steps and get everything
+   up there. (104/400, 1/4)
+
+9. Return to ground level and get everything leading up to the next set of
+   stairs ahead. (138/400, 1/4)
+
+10. Climb the stairs to find a yellow Gnorc with a metal shield. Charge him,
+    then jump up the steps to the left and rescue Boris. (148/400, 2/4)
+
+11. Boris says that Dry Canyon rewards good gliders, so use his tip at the end
+    of the platform you're currently on. If you turn the camera, you will see a
+    door. Glide over to it and get all the jewels in this small corridor.
+    (162/400, 2/4)
+
+12. When you reach the other end of that corridor and collect the group of red
+    gems, stand near that edge. Jump and glide to the left around the wall. If
+    you are successful, you will land on a step leading up to a winding road
+    lined with red gems. Also here are a key to a locked chest and another
+    dragon, Maximos. (166/400, 3/4)
+
+13. Glide over to the Return Home portal and get all the jewels in the area
+    surrounding it. Don't forget about the turbine over on top of the nearby
+    column, either. (200/400, 3/4)
+
+14. Find the path lined with green gems. Follow it and kill any enemies you see
+    until you end up back at where you saved Conan the dragon. (247/400, 3/4)
+
+15. From where you saved Conan, go up the steps and glide over to an area where
+    the steps lead down into a long twisting corridor. At the end of it are two
+    vultures and a large yellow Gnorc swinging a vulture. When you kill the
+    yellow Gnorc, you should be able to see a dragon statue in the building
+    behind him. (283/400, 3/4)
+
+16. Go into the building and save Ivor. (288/400, 4/4)
+
+17. Head around to the left side of the building and get rid of the enemies
+    over there. (308/400, 4/4)
+
+18. Go around to the right side, kill the enemies, and go up the steps to the
+    roof of the building where you saved Ivor. Collect all the gems up there.
+    (335/400, 4/4)
+
+19. Glide over to the ledge with a red jewel, a green jewel, and an extra life.
+    (338/400, 4/4)
+
+20. Return to the roof and look for a plateau with a box full of firecrackers.
+    Glide over there, set the box on fire, and then retreat - the resulting
+    explosion can hurt Spyro. Get the other one on the higher plateau, then
+    smash the three iron boxes off to the side. (359/400, 4/4)
+
+21. Return to where the second box of firecrackers was. In the distance you
+    should see an isolated plateau that you need to glide over to. Do so and
+    collect all the treasures you find over there. (400/400, 4/4 **COMPLETE**)
+
+
+   ----- | --------------
+   6.2.3 | Cliff Town
+         | Gems: 400
+         | Dragons: 3
+         | Dragon Eggs: 1
+   ----- | --------------
+
+1. Charge the shielded foe in front of you, then turn around and grab the
+   treasure chest in the room you start in. (4/400, 0/3)
+
+2. Before crossing the bridge, go right and left and get the gems along the
+   perimeter. (8/400, 0/3)
+
+3. Explore the area before the second bridge in full. You will find some rather
+   large lady Gnorcs stirring cauldrons. Flame the lady Gnorcs to kill them,
+   and then blow fire on their cauldrons to coax an extra gem out of them. You
+   can also access one rooftop in this area, so be sure to cover that. All
+   told, this mini-section should bring your totals up to (48/400, 0/3)
+
+4. Charge the two Gnorcs guarding the bridge, then go over and rescue Halvor.
+   (56/400, 1/3)
+
+5. Explore the entire ground area here before moving up. Kill all enemies and
+   open all chests that you find. There is also a dragon egg thief here who is
+   rather easy to catch. Before moving on, your totals should be at (113/400,
+   1/3) (5/12)
+
+6. Begin moving upward along the buildings and bridges situated against the
+   cliffs at the back end of the level. At the top level, take the detour to
+   the right, where you find the Return Home portal, and get everything there
+   before returning to the main path and rescuing the dragon Enzo at the end
+   of the line. Remember to shoot the cauldrons with flame as well as the big
+   ladies standing near them. (238/400, 2/3)
+
+7. From where you saved Enzo, glide to the left across the river as he
+   suggests. Explore the premises in full. (295/400, 2/3)
+
+8. Rescue Marco. Where he rests is the highest point of Cliff Town. From here,
+   you can glide to just about any point in the level. A sparkly whirlwind will
+   also open up, granting you easy access to this peak at any time. (295/400,
+   3/3)
+
+9. Glide to each previously inaccessible rooftop that has treasure chests on
+   it. There are three such rooftops. (342/400, 3/3)
+
+10. Among the buildings situated up against the cliff is another sparkling
+    whirlwind. When you take it, it will take you to the third tier of the
+    cliffside buildings. Turn immediately around and glide to a rooftop with a
+    lone red firecracker on it. Light the firecracker and watch its path. It
+    will destroy the indestructible box on the second tier of those buildings.
+    Go retrieve the gems. (367/400, 3/3)
+
+11. Return to Marco's peak and go to the right, close to the boundary that
+    keeps you from going anywhere. Face the building you started out in in this
+    level and glide to the raised area between the wall and the tower with the
+    red flag on it. Land on the raised part by pressing Triangle, then drop
+    down and collect the gems behind the building. (400/400, 3/3 **COMPLETE**)
+
+
+   ----- | ----------
+   6.2.4 | Ice Cavern
+         | Gems: 400
+         | Dragons: 5
+   ----- | ----------
+
+1. Explore behind the tower you start the level in, then walk the red gem-lined
+   path to the blue chest. (14/400, 0/5)
+
+2. Walk forward, flaming the large purple Gnorcs. There are also some green
+   Gnorcs that throw snowballs at you; dispose of them as soon as possible.
+   Keep going forward until you rescue Ulric. (32/400, 1/5)
+
+3. Proceed forward. Get all gems up to and around Todor. Don't take any detours
+   just yet. (110/400, 2/5)
+
+4. Behind Todor, you should see some red gems up on lampposts. Charge the posts
+   to knock them down. (112/400, 2/5)
+
+5. From the lampposts, turn until you see an isolated ice column with two red
+   jewels and a key on it. Float over there and obtain them. (114/400, 2/5)
+
+6. Float over to the safe ground and move forward, getting any gems you can
+   find. Again, don't take any detours just yet. Rescue Asher and get every-
+   thing around him and the Return Home portal. (178/400, 3/5)
+
+7. Just before Asher's spot, you will find a brick on the edge of the circular
+   platform that is a little lower than the others. Jump on top of it, then
+   make the jumps around until you reach a cave. Explore this cave thoroughly.
+   Don't forget about charging the lampposts with gems on top of them. Upon
+   coming out, you'll see an ice plateau above you with three extra lives on
+   it; at this point, your totals should be (304/400, 4/5)
+
+8. Go back from here and find a door to the left which leads to where you
+   found and rescued Asher. Backtrack until you find a cave with a trapezoidal
+   entrance. Just inside is the final dragon, Andor. (306/400, 5/5)
+
+9. When you exit the other end of this cave, your totals should be (362/400,
+   5/5)
+
+10. You will end up near where you found Todor. Find the steps in this room
+    that take you to the upper half and glide across ledges until you can see
+    outside to a treasure chest with red gems leading up to it. Open the chest,
+    grab the gems, and get the single green gem up on the balcony. (400/400,
+    5/5 **COMPLETE**)
+
+
+   ----- | ------------
+   6.2.5 | Night Flight
+         | Gems: 300
+   ----- | ------------
+
+Fly through the eight rings, then after the eighth ring, make a left and start
+going after the chests. The chests are more or less arranged in a straight-
+forward manner, and after that you'll be right at the arches. Dip low to get
+to the first arch, then fly straight ahead. Don't get any of the lighthouses
+just yet. When you get through the eighth arch, you will be right at the first
+lighthouse. Stay the course for the first four, then when you turn, stay near
+the wall and get the next two, then get the final outer two once you have the
+first six.
+
+
+   ----- | ------------
+   6.2.6 | Doctor Shemp
+         | Gems: 300
+         | Dragons: 1
+   ----- | ------------
+
+1. Smash the two iron chests to your left. (10/300, 0/1)
+
+2. The big fat mama Gnorc will send an armored minion after you. Charge him and
+   flame the lady Gnorc, then get the gems on the small ledge to the left.
+   (34/300, 0/1)
+
+3. Don't take any detours and just move forward, plowing through screaming
+   armored men and fat mama Gnorcs. Avoid all whirlwinds for now. (130/300,
+   0/1)
+
+4. Go to the whirlwind at the very very end to be taken up to a platform with
+   green and blue gems. From here you can glide over to a rock with a single
+   magenta gem, and from there, to a plateau with a few green gems and a key to
+   a locked chest. (176/300, 0/1)
+
+5. Backtrack a little and get the two blue gems in the chest with the same
+   color top. You can also kill a mama Gnorc on top of a raised plateau, but
+   you can't reach the blue gem she yields just yet. (186/300, 0/1)
+
+6. Go up the swirling sparkles you didn't take earlier. This will lead to the
+   only dragon in this stage, located just before the boss. Get all nearby
+   jewels. (199/300, 1/1)
+
+7. Before facing Doctor Shemp, float across to where you see two iron chests.
+   This path will lead you to the blue gem you couldn't get earlier as well.
+   (211/300, 1/1)
+
+8. Return to face Doctor Shemp. Stay on the step below the ledge he is on.
+   When he comes forward, he will whack the ground with his stick a few times,
+   then turn around and return to his original spot. When he has his back to
+   you, jump up and flame him. He will move to the next ledge. (216/300, 1/1)
+
+9. This time, you will actually have to go up on the ledge to get him. Flame
+   his armor. He will dance around in a circle, at which time he will briefly
+   show you his backside. When his backside faces you, torch it. If you let
+   him turn all the way around, he will smack you with his big stick. This time
+   when you flame him, he will drop a yellow jewel. (226/300, 1/1)
+
+10. At the third ledge, face him and flame his armor. He will put his stick to
+    the ground and spin around in an attempt to hit you. Jump over the stick
+    and set him aflame when he shows you his back. This hit will do him in for
+    good, and he'll leave behind a pile of blue gems as a reward. (251/300,
+    1/1)
+
+11. Get all the gems surrounding the Return Home portal, then drop down beyond
+    that to find a locked chest containing a single magenta jewel. (300/300,
+    1/1 **COMPLETE**)
+
+
+Now talk to Gosnold the Balloonist to travel to the Magic Crafters world.
+
+
+   --- | --------------
+   6.3 | Magic Crafters
+   --- | --------------
+
+
+   ----- | --------------
+   6.3.1 | Home
+         | Gems: 300
+         | Dragons: 3
+         | Dragon Eggs: 2
+   ----- | --------------
+
+1. The first enemy you will encounter is a dragon egg thief. To catch him,
+   start running to his left as you approach him, then make your corners very
+   sharp. If he eludes your grasp, he will be unreachable. Go off and do some
+   other stuff, then come back to this spot to find him in his original
+   position. (6/12)
+
+2. Rescue Cosmos the dragon. Grab all gems before and at this point. (10/300,
+   1/3)
+
+3. You will encounter four armored voodoo men in a straight line. Charge
+   through them all and get the jewels in here before moving on. (29/300, 1/3)
+
+4. Go to the right and get the blue and yellow gems in the like-colored boxes.
+   You will notice that some of the enemies can create walls to protect them-
+   selves from Spyro when they approach. The one to the right cannot be killed
+   just yet, but the one to the left standing next to him can. Charge at him to
+   catch him off guard. Get all the jewels up to and around the Alpine Ridge
+   gate. (83/300, 1/3)
+
+5. Go up the hill past Alpine Ridge and charge the two armored voodoo men.
+   (90/300, 1/3)
+
+6. Up here is the second dragon egg thief. Catch him before getting anything
+   else. He runs in a circle and is easy to flame. (7/12)
+
+7. Get the gems in the area and rescue the dragon Zantor. The gems included in
+   this step include the green ones near the High Caves gate and the ones on
+   top of the wall the magic enemy from earlier formed (there is a gate that
+   leads directly to him, and you can now strike him from behind). (122/300,
+   2/3)
+
+8. Use the supercharge ramp as Zantor instructed you. When you run down one of
+   these ramps with the lighted arrows in the direction that they face, you
+   will start running really fast. This allows you, in this world, to charge
+   directly at enemies who would normally raise walls against you. You can also
+   charge into certain types of chests that normally require other methods to
+   be opened when supercharging. Use the supercharge ramp and run through the
+   cave ahead. You will run straight into Boldar, the third and final dragon of
+   the Magic Crafters home base. Get all the jewels around him when he's done
+   yammering. (162/300, 3/3)
+
+9. From the gate to Crystal Flight, go back and left. Charge the armored voodoo
+   man and go around the pond, killing the magic weather enemy who shoots
+   lightning. Kill all surrounding enemies, then walk up the hill to the Wizard
+   Peak gate. Carefully walk around the lake behind it, then get the chest and
+   jump into the tower in the lake to find a key. (216/300, 3/3)
+
+10. Walk down the hill to find two iron chests and a voodoo armored man. Charge
+    them all, then wait for the wizard to lower the platform in the water
+    before jumping on it. Once you have the jewels, flame the wizard. (240/300,
+    3/3)
+
+11. Get the two gems in front of Blowhard's gate and kill the two lightning
+    wizards. (265/300, 3/3)
+
+12. Go to the supercharge ramp near High Caves and start down it. Right before
+    you're about to charge into the Crystal Flight room, make a hard right and
+    run into the unopenable box near the water. This will open it just the same
+    as a firecracker would. (290/300, 3/3)
+
+13. If you face Alpine Ridge and turn right, you will see a cave in the
+    mountain over there. To get to that cave, go to the supercharge ramp by
+    High Caves. Run down the ramp. As soon as you reach the bottom, turn right
+    and run in the opposite direction. You're aiming for the cliff just to the
+    left of the Arabian-style arch. When you reach that ledge, shift to the
+    right a little and jump at the end of it. If done correctly, you should
+    reach the cave, which contains an extra life and a chest full of green
+    jewels. (300/300, 3/3 **COMPLETE**)
+
+
+   ----- | --------------
+   6.3.2 | Alpine Ridge
+         | Gems: 500
+         | Dragons: 4
+         | Dragon Eggs: 1
+   ----- | --------------
+
+1. Move forward until you reach the stairs with the wizard at the top, who is
+   making them turn from stairs to a sharp incline and back again. Flame the
+   large four-legged creatures to stop them in their tracks. Collect all gems
+   as you go. (56/500, 0/4)
+
+2. Jump to the stairs as soon as the wizard turns them into a hill. They will
+   turn into stairs again under your feet. Hop to the top and flame him, then
+   get all the jewels here before passing through the door. (91/500, 0/4)
+
+3. Pass through the door and rescue Zane. There are a couple of jewels behind
+   you and to your left; don't miss those. (98/500, 1/4)
+
+4. As you glide to the next platform, flame the large beast there while still
+   gliding, then collect the gems. (126/500, 1/4)
+
+5. Study the wizard's timing as he raises and lowers the wall, then glide in
+   and charge him at an appropriate moment. (155/500, 1/4)
+
+6. Pass through the corridor and float to the next ledge, collecting all the
+   gems once you're there. (184/500, 1/4)
+
+7. Look for a wizard raising a ledge up and down. Behind the ledge he is
+   messing with is another dragon. Wait for the right time, then move forward,
+   flame the wizard while gliding, and rescue the dragon. (201/500, 2/4)
+
+8. Move forward until you reach the three green jewels on the hill, then
+   backtrack a little. (241/500, 2/4)
+
+9. Go aside from that hill to an area with a pit wherein two large four-legged
+   beasts lie. Get everything around the pit, then drop in and flame the big
+   guys. (272/500, 2/4)
+
+10. Go back up the hill. Don't enter the cave at the top, but rather, turn
+    right until you get to the third dragon and the Return Home portal.
+    (318/500, 3/4)
+
+11. Get the three chests in the corridor near where you rescued Zander, but
+    don't glide to the ledge ahead. That's where you started the level. Go back
+    to the cave nearby and enter. (333/500, 3/4)
+
+12. Go in the cave and get the jewels guarded by the two beasts. (394/500, 3/4)
+
+13. Go to the jutting ledge past the Return Home portal and bring the camera
+    behind Spyro. You should see a purple door in the distance. Glide over to
+    it, get the gems in the chest, and rescue Kelvin. (400/500, 4/4)
+
+14. Turn around and get the gems from the firecracker boxes. There is not
+    enough space on each ledge to stand away from the blast, so after lighting
+    each box, you will have to jump to the ledge before it to get away from the
+    blast successfully, then go back and get the gem. (420/500, 4/4)
+
+15. Chase down the dragon egg thief, then go back through the circle and pick
+    up anything you missed while pursuing him. (453/500, 4/4) (8/12)
+
+16. Go back to the start, back to where you saved Zane. Hop up to the wall
+    where you got the jewels behind him and turn until you see a skinny green
+    wizard and a fat blue one off in the distance. Glide over there and collect
+    gems by killing the wizards. When you reach the steps that go in and out of
+    the wall, jump to the first one when the third one pops out, and then on
+    up. (500/500, 4/4 **COMPLETE**)
+
+
+   ----- | --------------
+   6.3.3 | High Caves
+         | Gems: 500
+         | Dragons: 3
+         | Dragon Eggs: 2
+   ----- | --------------
+
+1. Enter the cave to the right. (5/500, 0/3)
+
+2. Go straight through the cave, avoiding the metal spiders. For now, neither
+   regular flaming nor charging will work against them. Go until you exit the
+   cave and rescue the dragon Ajax. (47/500, 1/3)
+
+3. Just to your right and behind you after you save Ajax is a supercharge ramp.
+   Run down it, turn around, and backtrack through the cave, killing all the
+   metal spiders with your supercharge. (72/500, 1/3)
+
+4. In the final room of the cave, just before Ajax, is a set of stairs. Go up
+   it and go through both rooms, killing the wizards, until you get outside.
+   Here you will find a fairy in a purple dress. When she kisses Spyro, the
+   power of his flame will increase. Go back through and flame the metal
+   spiders from the last two rooms. (126/500, 1/3)
+
+5. Go to where you rescued Ajax and turn left. Glide over to the iron chests
+   and grab treasure as you follow the path. (138/500, 1/3)
+
+6. At the end of that path, glide across to the cave you find, collect the
+   treasure, and save Cedric, who advises you to combine supercharging with
+   jumping to "really explore the High Caves". (228/500, 2/3)
+
+7. Leave the cave and turn the camera left. You will see an entrance to another
+   cave that you can easily glide over to. When you get there, the path will be
+   lined with red and green jewels and goes in a circle that ends with an iron
+   chest. (246/500, 2/3)
+
+8. Leave this cave the way you came in and jump into the pit. A trio of fairies
+   will save you and carry you to the top of the supercharge ramp near where
+   Ajax was. Go down it, but don't supercharge. Go to the right and get the
+   yellow gems from the two chests. (256/500, 2/3)
+
+9. Cross the bridge and get all the jewels in the room with the firecracker
+   boxes. (310/500, 2/3)
+
+10. Go back out to the bridge and jump on its left rail. If you turn the camera
+    you will see two doors, one of which houses much treasure and one of which
+    a dragon egg thief is taunting you from. Go after the treasure first.
+    (344/500, 2/3)
+
+11. From the treasure room, glide over to the other side and chase after the
+    dragon egg thief. The path will just be one huge circle, so you can
+    eventually catch up to him no matter how far ahead of you he gets. Get any
+    treasure you missed after catching him, then fall in the pit and let the
+    fairies take you back to the supercharge ramp. (379/500, 2/3) (9/12)
+
+12. Charge down the supercharge ramp and take a right. When you get to the
+    bridge, hang a left and jump off the edge. Hold the jump button to get huge
+    air, then glide over to the isolated cliffs. Get all the jewels, then get
+    the dragon egg thief by the pool by jumping just a little bit to his left
+    or right, gliding across, and flaming a spot as he runs into it. (411/500,
+    2/3) (10/12)
+
+13. Go back to the start of the level and head up the path with all the weather
+    wizards. Proceed slowly so as not to get hit, and stay to the side of the
+    tornadoes that the small ones shoot at you. Go up until you reach the
+    dragon. (461/500, 3/3)
+
+14. Turn the camera to find a rooftop with a red jewel and some gem-topped
+    chests on it. Go over there and collect, then return to the dragon spot.
+    (474/500, 3/3)
+
+15. Turn to find some wizards using their magic to tilt the columns they are
+    standing on back and forth. Glide to the first one when the column is going
+    to the left to give yourself a lower point to make it to, then flame him as
+    you approach. Do the same with the second one, then jump into the treasure
+    room ahead and break the chests. (500/500, 3/3 **COMPLETE**)
+
+
+   ----- | --------------
+   6.3.4 | Wizard Peak
+         | Gems: 500
+         | Dragons: 3
+         | Dragon Eggs: 2
+   ----- | --------------
+
+1. Instead of going into the room ahead of you at the beginning, turn left and
+   follow the path winding around the mountain. You'll find a sparkly whirlwind
+   to take you up; take it and go along that path to the circular ledge at the
+   end. Then, turn the camera until you are looking at the side of the
+   mountain. You should just barely see a ledge that you can float down to. Go
+   to it, kill the blue wizard, and get the chests around him. (46/500, 0/3)
+
+2. Drop down into the room, collect the treasures, then go into the next room
+   and rescue Jarvis. (89/500, 1/3)
+
+3. Head back into the previous room and backtrack to the beginning of the
+   level. (154/500, 1/3)
+
+4. Take the winding path again. This time, when you take the sparkly swirlies
+   up, go to the rooftop across from the one you land on (the one that has red
+   gems on it). Walk the perimeter until you get to the third circular ledge,
+   then look down using Triangle. You should see two chests. Drop down and
+   continue following the path until you come upon a fat blue wizard. Torch
+   him, then head back to Jarvis. (182/500, 1/3)
+
+5. Walk - don't run - down the supercharge ramp and flame the three blue
+   wizards, and get the gems in the turbine nearby. (222/500, 1/3)
+
+6. You are surrounded by three supercharge ramps. Run up the one across from
+   the one you just came down to find some red jewels and an extra life.
+   (225/500, 1/3)
+
+7. Before attempting any "extreme" jumps, explore the area around the super-
+   charge ramps in full. You'll find two more dragons and a dragon egg, not to
+   mention hundreds of gems. When are you through exploring these parts, your
+   totals will be (385/500, 3/3) (11/12)
+
+8. Now it's time to start doing the extreme jumps. Go to where you saved Jarvis
+   and align yourself with the supercharge ramp. Run down and then turn left
+   down the next one. Keep running; you will run up a supercharge ramp that is
+   pointing against you. When you get near the end of this ramp, jump. As you
+   are jumping, let go of Square and hold X to get maximum air. If you hold
+   Square, you will only succeed in supercharging to your death. You have to
+   let go of Square and hold X at the beginning of your jump. If you do it
+   right, you will make it up to the high isolated column and charge into the
+   wall. Get the jewels you see, then walk  S L O W L Y  around the back wall.
+   You will hear a dragon egg thief taunting. Get as close as you can without
+   him running away, then blow a flame. It should hit him, and you should get
+   the twelfth and final dragon egg. (444/500, 3/3) (12/12 **COMPLETE**)
+
+9. Again, return to where Jarvis was and run down the ramp, then take a left.
+   This time, when you are out of the second supercharge tunnel, go right. Take
+   another right into the tunnel, and at the very end of the ramp you hit once
+   you're outside, jump the same way as before to reach the column. Grab all
+   the treasure on it. (481/500, 3/3)
+
+10. Glide to the other nearby columns as well. (500/500, 3/3 **COMPLETE**)
+
+
+   ----- | --------------
+   6.3.5 | Crystal Flight
+         | Gems: 300
+   ----- | --------------
+
+Do the rings first. When you come out of the eighth ring, you will be right at
+the first arch. Don't take any detours from the arches, and when you go through
+the eighth one, you will just be catching up to the airplanes. They move in a
+straight line, but you will have to move up and down alternately to catch them.
+Make sure you get all the airplanes on the first try, because if you don't, it
+is kind of hard to loop back around and catch one that gets away from you. If
+performed correctly, you will be getting to the treasure chests just as you
+finish off the airplanes. Flame all eight for the win.
+
+
+   ----- | ----------
+   6.3.6 | Blowhard
+         | Gems: 400
+         | Dragons: 1
+   ----- | ----------
+
+1. Grab the gems around you in the chests at the start. (15/400, 0/1)
+
+2. Move forward until you reach a wizard floating on a cyclone high up in the
+   air. (121/400, 0/1)
+
+3. This wizard is Blowhard. Wait for him to come down to the ground, then jump
+   up to his ledge and flame him. He will retreat through a wooden door behind
+   you. Go after him. (131/400, 0/1)
+
+4. In this room, jump to the rising/descending columns as they are being
+   lowered, then flame the wizard when you are at his level. Take the detour to
+   the right to find this stage's only dragon. (206/400, 1/1)
+
+5. Return to the main path. Jump on the columns when the wizards tilt them over
+   to you, then flame them when they bring them back. Get all the gems on the
+   wooden bridge outside. (307/400, 1/1)
+
+6. Jump up to Blowhard's turf. Wait for him to come down to the ground, then go
+   up and torch him. (317/400, 1/1)
+
+7. Glide over to the next series of ledges and get all the chests, then torch
+   Blowhard one last time. Drop all the jewels he leaves, then get the green
+   one in the chest by the Return Home portal. (400/400, 1/1 **COMPLETE**)
+
+
+Now talk to Tuco the Balloonist to go to the Beast Makers world.
+
+
+   --- | ------------
+   6.4 | Beast Makers
+   --- | ------------
+
+
+   ----- | ----------
+   6.4.1 | Home
+         | Gems: 300
+         | Dragons: 2
+   ----- | ----------
+
+1. Head over to the right and grab the treasure at the edge. (10/300, 0/2)
+
+2. Go to the left and smash the three iron chests, and also grab the gems
+   around the electric panel. (22/300, 0/2)
+
+3. The Gnorcs here have electrical equipment which allows them to electrify the
+   tiles they stand on. Wait for the buzz to die down, then charge these two
+   Gnorcs ahead. (29/300, 0/2)
+
+4. Rescue Bruno, who is standing in front of Terrace Village. (29/300, 1/2)
+
+5. Get the chests behind the Terrace Village gate. (41/300, 1/2)
+
+6. Go to the log to the left and light the firecracker boxes. (56/300, 1/2)
+
+7. Past the log are three islands, each of which contains a large boar which
+   will charge at you. Get all the jewels on the three islands, then go to the
+   one with the giant tree on it. (82/300, 1/2)
+
+8. Get the gems around the base of the giant tree. (99/300, 1/2)
+
+9. Cross the bridge near the tree and explore the ground area for an extra life
+   and five iron chests. When you've found those, go up to the raised electric
+   floors. (109/300, 1/2)
+
+10. Kill the first electric Gnorc, then glide over to the second one. Charge
+    the third one, then go back and get the blue and green gems over on the
+    tree stumps in the swamp. Don't worry about the one with the key on it; you
+    can't get it just yet. (140/300, 1/2)
+
+11. Grab all the jewels on the ground around the entrance to Metalhead's stage.
+    (160/300, 1/2)
+
+12. Get any gems on the edges of the pyramid behind Metalhead's gate, then
+    glide over to the lone tree stump with the jewels, chest, and key on it.
+    (175/300, 1/2)
+
+13. Return to the locked chest you found when you came across the bridge near
+    the giant tree and unlock it. (220/300, 1/2)
+
+14. There is a lone red gem sitting in front of Cray the Balloonist. Grab it.
+    (221/300, 1/2)
+
+15. Go around to the back of the pyramid and jump off. You will be back near
+    the entrance to Terrace Village. Return to the three islands where you
+    found the boars, but this time, go to the right and rescue Cleetus.
+    (221/300, 2/2)
+
+16. Explore in and around the hut nearby (watch out for the boar in the back).
+    (259/300, 2/2)
+
+17. Get the jewels from the two turbines. (269/300, 2/2)
+
+18. You will also see a well nearby that you can drop down into, where you will
+    find the entrance to the Wild Flight flying level. (300/300, 2/2
+    **COMPLETE**)
+
+
+   ----- | ---------------
+   6.4.2 | Terrace Village
+         | Gems: 400
+         | Dragons: 2
+   ----- | ---------------
+
+1. Flame the Gnorc with the electric gun before he can point and shoot it.
+   (5/400, 0/2)
+
+2. Explore as much ground area as you can here. Instead of going up the ramp to
+   where you see the Gnorc in the metal turret though, go around the building
+   and behind it. (74/400, 0/2)
+
+3. Collect all the gems around the side, then strike the metal turret Gnorcs
+   from the back entrance. Remember to get them by charging; flames won't work
+   on them. (111/400, 0/2)
+
+4. Leave the way you came and get the two chests to the right before hopping up
+   the steps to save Claude. (118/400, 1/2)
+
+5. Get the Gnorc on the first electric floor, then turn left and kill the
+   enemies over that way before circling back and getting those on the second
+   one. (137/400, 1/2)
+
+6. Go back to the first panel and look around until you find a firecracker.
+   Light it, then watch where it goes and get the jewels it frees from the
+   unbreakable chest. (147/400, 1/2)
+
+7. Go back to where you found the firecracker, charge the metal turret Gnorc,
+   and get the chests behind him. (163/400, 1/2)
+
+8. Make your way across three more electric panels. There are more enemies on
+   these, and they all have projectiles, so watch yourself. Always focus on
+   getting the guy who electrifies the floor first, though. Past all these
+   panels is the stage's other dragon. (187/400, 2/2)
+
+9. Turn right after saving Cyprin and get all the jewels you can find in the
+   ground area before going up the steps. (226/400, 2/2)
+
+10. Hop up to the first electric panel, kill the enemies, then drop down and
+    get the two blue gem-topped chests. (253/400, 2/2)
+
+11. Return to the first now-dead panel. While the electricity is still going on
+    the second one, hop and glide to it, then charge without stopping until you
+    hit the guy lighting it up. (262/400, 2/2)
+
+12. Kill both enemies on the third one, then go up the whirlwind. (266/400,
+    2/2)
+
+13. Glide over to the rooftop with the turbine and the single jewel. Hop up the
+    red steps and obtain the treasures up on the rooftop, then turn until you
+    see the Return Home portal. Go over there and take what that area has to
+    offer as well. (330/400, 2/2)
+
+14. Return to the high rooftop and go to the far end where the ledge juts out
+    to the left. From there, glide to the right, but keep to the left. If you
+    float in the right direction, you will land on the first of a series of
+    rooftops. Explore these in full, grabbing all jewels out in the open.
+    (369/400, 2/2)
+
+15. Light the two firecrackers you see and get the jewels from the broken
+    chests. (400/400, 2/2 **COMPLETE**)
+
+
+   ----- | ----------
+   6.4.3 | Misty Bog
+         | Gems: 500
+         | Dragons: 4
+   ----- | ----------
+
+1. Go behind the wall behind you and charge the Gnorc who has trapped the
+   chicken-thing in a cage. (15/500, 0/4)
+
+2. Ahead are four crazed tree-like enemies who will charge you and try to eat
+   you if you get too close. Torch them as they come at you. (40/500, 0/4)
+
+3. Glide to the next island. Retrieve all chests you see, and torch the blue
+   frogs before they are able to tongue-slap you. Don't forget to check behind
+   the wall over to the left, where you'll find an extra life along with gems.
+   (103/500, 0/4)
+
+4. Proceed forward to more tree enemies. Flame them, then hop up to the log
+   plateau to rescue Rosco. (121/500, 1/4)
+
+5. Jump to the high log, then float over to the island where the boar is
+   chasing the armored Gnorc. (148/500, 1/4)
+
+6. Return to where you saved Rosco and glide over to the covered bridge. Charge
+   into all the Gnorcs and get the chests on the bridge. (184/500, 1/4)
+
+7. Hop up the logs with the red gems on them and drop down into the log that
+   the fairy is pointing at. Clear out all the chests and baddies in this room.
+   (231/500, 1/4)
+
+8. Jump up the steps and save the dragon Zeke. (231/500, 2/4)
+
+9. Follow the path ahead and get as many gems on the ground here as you can
+   find, then hop up the steps to where the Return Home portal is and rescue
+   Bubba. (315/500, 3/4)
+
+10. Jump up on the trapezoidal block near the Return Home portal. Glide over to
+    the jagged wall to the right, and then to the steps leading up to the top
+    of the large building nearby. Collect all the gems at the top of the steps.
+    (344/500, 3/4)
+
+11. From the roof you will see a series of tree stumps in a bog above the
+    Return Home portal. Glide across to those, then hop up to the bridge and
+    ram into all the armored Gnorcs in a line. (363/500, 3/4)
+
+12. Get all the jewels on the top log. (408/500, 3/4)
+
+13. Go back to the covered bridge past where you rescued Rosco. As you walk
+    along that bridge, you should see nearby a Gnorc preparing to catch one of
+    those chicken-like things. Flame them, then glide across the ascending logs
+    nearby. (416/500, 3/4)
+
+14. Three blue frogs are guarding the room ahead. Torch them, then go in the
+    room and take care of all the enemies against the wall. (481/500, 3/4)
+
+15. When all of them are dead, hop up and save Damon. (481/500, 4/4)
+
+16. Go outside from where you find Damon and get the jewels along the
+    perimeter. (500/500, 4/4 **COMPLETE**)
+
+
+   ----- | ----------
+   6.4.4 | Tree Tops
+         | Gems: 500
+         | Dragons: 3
+   ----- | ----------
+
+1. Right at the beginning of the stage, you will see a green-robed man much
+   like the one who stole the dragon eggs. He doesn't have a dragon egg,
+   though - he's just a common jewel thief. Don't worry about him right now,
+   though. Move slowly forward, flaming all enemies you see. Go as far forward
+   as you can without taking any detours, kill the two banana-flinging baddies
+   you see, then go back and find the bridge outside the window. Keep going
+   until the path forks right and left. To the left you'll find two iron chests
+   at the top of some tree-trunk stairs. Go that way. (68/500, 0/3)
+
+2. Glide across to where you see the dragon encased in crystal. Free him and
+   get all the jewels on this ledge. Remember this spot; you'll be coming back
+   to it a few times. (93/500, 1/3)
+
+3. Use the supercharge ramp and go straight across to the tree island with the
+   many columns. After collecting everything, go over to the supercharge ramp
+   that wraps around the tree to the right. (127/500, 1/3)
+
+4. Supercharge over to the tree with the unbreakable box on it. Make sure you
+   run into it, then get the other chests and kill the big guy at the edge
+   there. (153/500, 1/3)
+
+5. Float over to the Return Home portal and grab all the gems, then let the
+   sparkling whirlwind take you over to a bridge off in another direction.
+   (208/500, 1/3)
+
+6. Walk up the supercharge ramp and through the room ahead, collecting what you
+   can. (243/500, 1/3)
+
+7. When you walk outside, float to the bridge to your left. The whirlwind you
+   find will take you back to where you started. Follow the same path as in
+   step 1, except this time, at the left/right fork, go right. Get the enemies
+   and the turbines around the edge. (265/500, 1/3)
+
+8. Go to the ledge where you glided from to save Lyle and look around. You
+   should see a faraway platform with a red-robed man and a large enemy, of the
+   type that kicks you in the face when you get too close, that you can glide
+   over to. Over there is a locked chest, for which you have the key, and
+   another dragon. Ignore the guy in the red robe; we'll deal with him later.
+   (315/500, 2/3)
+
+9. Take the supercharge ramp nearby, and when you jump off, move over to the
+   right until you see a bridge with a wall in front of it. Keep charging and
+   you will hit the bridge. Run through the tunnel, then when you jump off the
+   ramp at the end, move to the right a little more until you line up with
+   another supercharge ramp. This charge will add itself to the other one,
+   giving you EVEN MORE air at the end of the ramp. At the end of this ramp,
+   leap through the air, then about halfway to the tall cliff, tap X to glide
+   over to it slowly. Get the jewels and the red thief, who will yield a
+   magenta jewel. (400/500, 2/3)
+
+10. Go to where you saved Isaak, take the supercharge ramp and go straight into
+    the unbreakable box. (410/500, 2/3)
+
+11. To find the green-robed man, start from Lyle's base. Go down the super-
+    charge ramp and go straight ahead. When you hit the ramp ahead of you, veer
+    to the right and hit the supercharge ramp over that way. After jumping off
+    that one, curve WAY to the right to another one. You'll be running up this
+    one, in the opposite direction of the arrows. At the end of it, jump over
+    to the ramp that leads right. This is the final ramp in the process. When
+    you clear it, glide over to the isolated island and collect, then use the
+    whirlwind to get back. (If you're having trouble with this one, restart the
+    stage and follow the green man closely by charging where you can and
+    blowing fire at enemies as you come up on them.) (500/500, 3/3
+    **COMPLETE**)
+
+
+   ----- | -----------
+   6.4.5 | Wild Flight
+         | Gems: 300
+   ----- | -----------
+
+Dip down and get the boats first. Two will come into your little starting area.
+Fly into the tunnel that the second boat comes out of and torch boats as they
+come at you. After the fourth boat, you'll be in an open area with both boats
+and arches. Handle both at once, going around the one in the middle. Once you
+have gotten rid of enough boats, loop back around and hit the arch in the
+middle. When you come out, the eighth and final boat should be pulling into
+your area. Torch it and go through the arches.
+
+After the arches, get right on the chests. You will come into an area where the
+chests are mixed with planes, but get all eight chests first before going after
+any planes. For best results with the planes, fly into them instead of chasing
+after them.
+
+
+   ----- | ----------
+   6.4.6 | Metalhead
+         | Gems: 500
+         | Dragons: 1
+   ----- | ----------
+
+1. Be careful when entering the stage. There are banana-tossing baddies with
+   armor now, so charge them on sight. Also charge into any that the big guys
+   above send rolling at you.
+      After getting rid of them, go up the stairs to the left. (17/500, 0/1)
+
+2. Walk all around the ledge getting treasure, then cross the wooden bridge.
+   (58/500, 0/1)
+
+3. Charge the bad guys that roll at you, then get all the jewels along the
+   ground. (125/500, 0/1)
+
+4. Walk back to the wooden bridge and turn left. You should see an opening in a
+   gate down by the river. Walk to the previous ledge from step 2, then drop
+   down and glide into the opening. There is a ledge just inside to land on.
+   Explore the entire area and get the key inside, then leave via the
+   whirlwind. (175/500, 0/1)
+
+5. You'll be taken to a roof with many gems on it. Get those, then glide over
+   to the roof across the way with more. (200/500, 0/1)
+
+6. Cross the wooden bridge again. There are two sets of stairs you can take -
+   one directly ahead of you and one to the right. Get the enemies at the one
+   straight ahead of you first, then go right. (239/500, 0/1)
+
+7. When you get to the single metal man throwing bananas, kill him and turn
+   left to find a downward incline leading to the dragon. (239/500, 1/1)
+
+8. Now you face Metalhead. He will throw enemies at you. The object is to
+   destroy the metal poles that give him his power, so stand in front of those
+   whenever you see that he is about to throw someone. When an enemy dies, the
+   gems will come straight to you. Wait for him to clear out his entire stock
+   of enemies, then move in front of the power poles as he shoots his electric
+   beams at you. When all the poles are destroyed, he will move into the next
+   room. (314/500, 1/1)
+
+9. Go through the corridor to the next room. (317/500, 1/1)
+
+10. Before dropping down, look to your left. Follow the platforms against the
+    wall to find a room hidden behind a waterfall of goop. (363/500, 1/1)
+
+11. Repeat the same process for the second group of poles. After this group, he
+    will be destroyed. (446/500, 1/1)
+
+12. Collect the jewels around the Return Home gateway. (458/500, 1/1)
+
+13. Use the swirling sparklies to go up to the upper level. Get everything up
+    here. (500/500, 1/1 **COMPLETE**)
+
+
+Now talk to Cray the Balloonist to go to the Dream Weavers world.
+
+
+   --- | -------------
+   6.5 | Dream Weavers
+   --- | -------------
+
+
+   ----- | ----------
+   6.5.1 | Home
+         | Gems: 300
+         | Dragons: 3
+   ----- | ----------
+
+1. Scattered about the Dream Weavers home base are enemies who man a set of
+   shrink/grow rays. They will point them around the level at some of the
+   enemies. Always attack when the enemies are small, as they are much less
+   threatening then. Anyhow, get all the gems on this first ledge. (17/300,
+   0/3)
+
+2. Float over to the ledge with the Dark Passage gate and get those gems.
+   (48/300, 0/3)
+
+3. Use the sparkling whirlwind on this ledge to go over to the next ledge.
+   You will see two large armored enemies guarding a staircase. We'll deal with
+   them later. Don't cross the river just yet either. Kill what enemies and
+   grab what jewels you can, then go through the door to the right of the two
+   armored enemies. (57/300, 0/3)
+
+4. Get the three red gems at the edge to the right, then turn around and go
+   over to the firecracker chest to the far left. Then, rescue Lateef. (77/300,
+   1/3)
+
+5. Get the remainder of the treasures around the Lofty Castle gate, then return
+   to the area described in step 3. (90/300, 1/3)
+
+6. Glide over the river to the right. Charge the three armored baddies when
+   they are small, then walk the path to Amos the Balloonist. Don't go to
+   Gnasty's World yet if given the option. (125/300, 1/3)
+
+7. From where you charged the three small enemies in step 6, glide over to a
+   ledge with several jewels of many colors on the ground. There are three
+   unarmored enemies here. Get what's here, then jump on the whirlwind
+   transporter. (153/300, 1/3)
+
+8. You will be taken to the enemy who is manning the shrink ray. Take it and
+   point it at the two armored enemies guarding the staircase. Use your flame
+   to activate it. (178/300, 1/3)
+
+9. When they are shrunk down, go over to them and charge them, then climb the
+   stairs. (198/300, 1/3)
+
+10. Get the gems along the lining of the roof and in the open area you come to.
+    (204/300, 1/3)
+
+11. You will see two "fools" (as the game calls them) prancing around making
+    stupid noises. When you torch one, he will turn into a clock, and a ledge
+    nearby will rise temporarily. Listen to the ticking of the clock; when the
+    alarm goes off, the ledge will go back down. Ideally, you would want to get
+    the two fools here together so that the ledges rise at the same time, but
+    you are given ample time to activate them both and glide to the proper
+    ledge, which has a yellow gem on it. (214/300, 1/3)
+
+12. Advance to the other ledges getting gems. After getting these, return to
+    the shrink ray. Use it on the armored guy off in the distance. (254/300,
+    1/3)
+
+13. From there, float over to Zikomo the dragon and rescue him. (254/300, 2/3)
+
+14. Float to the next ledge and kill the tiny unarmored man and his newly
+    shrunken cohort, then pass through the corridor behind you. (276/300, 2/3)
+
+15. Get all jewels on the ground around the Haunted Towers gate and over to the
+    left. (295/300, 2/3)
+
+16. Free Mazi, then torch the fool and get the blue gem and extra life on the
+    ledge that descends nearby. (300/300, 3/3 **COMPLETE**)
+
+
+   ----- | ------------
+   6.5.2 | Dark Passage
+         | Gems: 500
+         | Dragons: 5
+   ----- | ------------
+
+1. Get the blue gems in the chests to your left. (10/500, 0/5)
+
+2. The small cute puppies in the room ahead turn into big scary dogs when the
+   lights go out. Torch the fool to leave the lights on long enough to kill
+   any enemies, then grab the gems and go forward to the two puppies sitting
+   directly in the light. (25/500, 0/5)
+
+3. Get all the gems in the next room, then go up the whirlwind. (47/500, 0/5)
+
+4. You'll be taken right to a dragon who will give you advice on dealing with
+   the fools. (51/500, 1/5)
+
+5. Jump over the arrows that the devil ahead shoots at you, then torch him and
+   get the gems behind him. (76/500, 1/5)
+
+6. Proceed, flaming fools and destroying enemies until you reach the second
+   dragon. (107/500, 2/5)
+
+7. As soon as you save the second dragon, Azizi, turn left. You will see a
+   green-lit tunnel off in the distance. Glide over to it and follow the path
+   all the way to its end. (164/500, 2/5)
+
+8. Way down below you'll see more gems and enemies. Float down there and follow
+   the path - there are no detours - all the way to the whirlwind. (200/500,
+   2/5)
+
+9. Explore the platform you are taken up to in full before going through the
+   door. (243/500, 2/5)
+
+10. Go through the door and free Apara, then charge the metal turtle enemy.
+    (248/500, 3/5)
+
+11. Glide over to the steps to your right. Travel up them and glide to the
+    ledge with three puppies on it. (292/500, 3/5)
+
+12. Glide over to the iron chests and rescue Obasi, then glide over to the low
+    ledge you see off in the distance. (299/500, 4/5)
+
+13. Pass through the corridor to the next whirlwind. (361/500, 4/5)
+
+14. Hop up the steps and light the firecracker. (368/500, 4/5)
+
+15. Turn left and jump down to the two devils. Dispose of them, then take the
+    twisty road to the right to find the last dragon and the Return Home
+    portal. (416/500, 5/5)
+
+16. Glide to where the firecracker destroyed the box. (461/500, 5/5)
+
+17. Turn to the left and get the enemies in the cave with the fool with the
+    lantern. (469/500, 5/5)
+
+18. Return to the spot in step 16, but go right this time. (500/500, 5/5
+    **COMPLETE**)
+
+
+   ----- | ------------
+   6.5.3 | Lofty Castle
+         | Gems: 400
+         | Dragons: 3
+   ----- | ------------
+
+1. Get what gems you can before taking the sparkly whirlwind to the left.
+   (12/400, 0/3)
+
+2. Pop the armored Gnorc's balloon to get his gem. (26/400, 0/3)
+
+3. Go to the ledge behind and kill the two circling birds. (35/400, 0/3)
+
+4. Two islands ahead of that, you will find a fairy in a cage. Charge into it
+   to free her. To get the whirlwind transport on this floating island to work,
+   you will have to find two other fairies and free them. For now, concentrate
+   on getting the goods on this one island. (Don't worry about the Gnorc with
+   the balloon here either - he's just barely out of comfortable reach.)
+   (73/400, 0/3)
+
+5. Jump up and free the second fairy, then pop the Gnorc's balloon on the way
+   over to the third one. (75/400, 0/3)
+
+6. Once all three fairies are free from their prisons, use the transport to fly
+   over to the first dragon of this world, Mudada. (78/400, 1/3)
+
+7. Get the gems around the pool and over on the ledge ahead, but don't go that
+   way yet. Return to the bridge in front of the backwards-C pool and drop off
+   to the left side. (98/400, 1/3)
+
+8. Go around and free all the fairies, then hit up their whirlwind. (125/400,
+   1/3)
+
+9. Walk forward past the backwards-C pool and into the next area. You can go
+   either left or right from here. Go left to the castle, and explore the
+   outer rim before entering. (151/400, 1/3)
+
+10. Go into the castle, but first, go behind the whirlwind and get the gems
+    tucked away back there. (171/400, 1/3)
+
+11. Go up the whirlwind. You will have to free the fairies here as you are
+    gliding down from the ledge that the first whirlwind takes you to. This may
+    take several tries, so take your time. Once you have freed all three, float
+    to the top and rescue Useni. There is also a key to get here. (194/400,
+    2/3)
+
+12. When you turn around, you will see a ledge you can float across to. Outside
+    is a supercharge ramp. Run down it, then at the first jump, veer to the
+    right. When you hit the next runway, you'll be running counterclockwise.
+    At the final jump, go straight ahead. Time your jump properly and you will
+    reach a ledge covered in gems with a firecracker box as well. (235/400,
+    2/3)
+
+13. Drop down and get the chest from earlier that required the key that you now
+    have. (260/400, 2/3)
+
+14. Go back to the area described in step 9, but this time, go right. Proceed
+    until you reach the dragon. (278/400, 3/3)
+
+15. Hop across the river and free the first fairy. You will see two whirlwinds
+    nearby. Jump in the one on the right and free the second fairy, then pop
+    the nearby Gnorc's balloon. (288/400, 3/3)
+
+16. Return to the whirlwinds, this time going in the left one. Glide over and
+    free the third fairy, then make your way over to their whirlwind pad.
+    (300/400, 3/3)
+
+17. Walk along the castle's twisting pathway. (332/400, 3/3)
+
+18. Glide over to the next ledge. Free the first fairy and kill all enemies
+    beside the ledge and around the pond, then use the working whirlwind.
+    (359/400, 3/3)
+
+19. Free the second and third fairies, then use the teleporter and get the last
+    two chests in front of the Return Home portal. (400/400, 3/3 **COMPLETE**)
+
+
+   ----- | --------------
+   6.5.4 | Haunted Towers
+         | Gems: 500
+         | Dragons: 3
+   ----- | --------------
+
+1. Advance in no direction but forward. Use your flame breath to knock open the
+   wooden doors. Move forward until you reach the fairy whose kiss enhances
+   your flame's power. (29/500, 0/3)
+
+2. Backtrack all the way to the start with the super-flame, destroying anything
+   metal and getting any previously inaccessible treasures. (93/500, 0/3)
+
+3. Get another flame kiss, then take the detour to the left. Kill the haunted
+   suit of armor and the wizard and break open the iron chest, then take the
+   whirlwind. (109/500, 0/3)
+
+4. Move forward, avoiding the knights until you reach the first dragon.
+   (128/500, 1/3)
+
+5. Keep going forward until you reach the castle that houses the next super-
+   flame fairy. Explore the perimeter before going in. (147/500, 1/3)
+
+6. Get a kiss from the fairy, then go back and destroy as many haunted suits of
+   armor as you can before your super-flame runs out. This will take multiple
+   tries. You also have a metal door to open and a normally unbreakable box to
+   torch. (238/500, 1/3)
+
+7. Go through the metal door you busted open, torch the wizard, and go up the
+   steps behind you. (240/500, 1/3)
+
+8. Inside the palace is a supercharge ramp. Bust open the first two steel doors
+   and then burst open the wooden doors with your regular flames. Rescue the
+   dragon, then go get a kiss from the fairy. (240/500, 2/3)
+
+9. Knock down the remaining doors and kill the remaining enemies, then get all
+   the gems in all the doors that you can get without doing any kind of extreme
+   stunt. (332/500, 2/3)
+
+10. Get a kiss from the kissing fairy, then go up the stairs in the door
+    immediately across from her room. Proceed as far as you can, then find the
+    other kissing fairy and kill all enemies leading all the way to the Return
+    Home portal. At this point, your totals should be (373/500, 2/3)
+
+11. Go back to the supercharge tunnel. Go down through the winding corridor,
+    then take the second door on the right to the outdoors. As soon as you get
+    outside, hang a hard left and jump to the ledge over there. Go through the
+    metal door from step 6 and up the ramp. At the end of that ramp, jump and
+    glide around the wall on your left. If successful, you will reach a piece
+    of land with several mushrooms (in case you need a health boost) and a
+    whirlwind off to the side. Go up the whirlwind and into the castle, then
+    left to the dragon who compliments on your masterful supercharge. (373/500,
+    3/3)
+
+12. Go to the right. Get all the treasure on the ground. (394/500, 3/3)
+
+13. Hop up the stairs, moving past the suits of armor before the wizard can
+    bring them to life. If they get in your way, backtrack to where you saved
+    the last dragon, then come back and try again. When you make it past them
+    all, kill the wizard, then bust the door down with your flame, collect the
+    treasure, and get a kiss from the orange fairy, which lasts substantially
+    longer than one from the purple fairy. Destroy all the haunted suits of
+    armor. (454/500, 3/3)
+
+14. Go outside from where you saved the dragon and flame open the box sitting
+    there. (500/500, 3/3 **COMPLETE**)
+
+
+   ----- | ----------
+   6.5.5 | Icy Flight
+         | Gems: 300
+   ----- | ----------
+
+Work on lighthouses and chests at the same time. At the second lighthouse, go
+to the left of it as you flame it and hit the treasure chest. At the third
+lighthouse, take a short left and get the chest on the platform, then turn left
+as you torch the fourth lighthouse to find four of the chests in a circle. From
+there, take the lighthouses and chests as they come.
+
+When you've completed both of those octets, head to the railroad ahead and
+enter the tunnel through the left so that the trains are coming directly at
+you, and stay the course. When you've smoked the seventh and eighth barrels,
+you'll be in an area with five Gnorcs going up and down with the help of some
+helicopter blades. Once you snuff all of them out, go through the lower of the
+two tunnels to find the other three.
+
+
+   ----- | ----------
+   6.5.6 | Jacques
+         | Gems: 500
+         | Dragons: 2
+   ----- | ----------
+
+1. Get the gems scattered around, then stand on the circular platform while
+   torching the fool. (11/500, 0/2)
+
+2. Get all the gems on the next ledge as well. (42/500, 0/2)
+
+3. Torch both fools, then run around to the left side, jump up to the cliff
+   from the first circular platform, then jump to the next one before it rises
+   again. From there, look left and float over to the dragon. (52/500, 1/2)
+
+4. Move forward to the fool. Burn him, then jump from the plateau that emerges
+   from the wall to the whirlwind before the clock runs out. Get the gems on
+   the ledge you're taken to. (82/500, 1/2)
+
+5. Jump on top of the high plateau where the lone blue gem was and glide over
+   to the whirlwind. Grab the gems there, then take the whirlwind to go back.
+   (97/500, 1/2)
+
+6. When you get back to the ledge where you rescued the first dragon, look to
+   the right near where the fool is bouncing around to find a room off to the
+   side. Go in and get everything you can. (126/500, 1/2)
+
+7. Head back to where you saved the dragon and backtrack to the area you came
+   here from. Get the gems and knock the armored long-armed enemies off their
+   ledges by jumping and charging. (144/500, 1/2)
+
+8. Jump over the wall and head around to the right side, where ahead you will
+   find a Gnorc in a skirt with a flower standing on a floating ledge. Torch
+   her while gliding, then drop down and get the treasures here. Stand on the
+   circular platform when you burn the fool to ensure that you have plenty of
+   time to get up there. (164/500, 1/2)
+
+9. Proceed until you reach a locked chest, then turn left. (203/500, 1/2)
+
+10. Charge into the armored guys on the small ledges. At the end of the road,
+    glide over to the airborne island to the left and grab those jewels.
+    (253/500, 1/2)
+
+11. Burn both fools and hop to the top of the tower to find a key to the locked
+    chest you just passed. When the tower runs out, torch them again so you can
+    get back to that chest. (318/500, 1/2)
+
+12. Go down each individual step, making sure to get the red gems before you
+    reach the dragon. (325/500, 2/2)
+
+13. All you have to do to defeat Jacques is pursue him relentlessly, flaming
+    him when you get the chance so that he'll move to his next retreating spot.
+    Jump over the boxes he throws at you, and when you finally corner him at
+    the big box and flame him, he'll release a multitude of magenta gems.
+    (425/500, 2/2)
+
+14. Use his box to get up to the whirlwind, which will take you to the Return
+    Home portal and the final gems. (500/500, 2/2 **COMPLETE**)
+
+
+Now talk to Amos the Balloonist to go to Gnasty's World.
+
+
+   --- | --------------
+   6.6 | Gnasty's World
+   --- | --------------
+
+
+   ----- | ------------
+   6.6.1 | Gnorc Gnexus
+         | Gems: 200
+         | Dragons: 2
+   ----- | ------------
+
+1. Talk to the dragon just ahead. You can't see the other one, and won't until
+   you've beaten the game at least once. (0/200, 1/2)
+
+2. Get all the jewels you can, then go into Gnorc Cove. (75/200, 1/2)
+
+3. After beating Gnorc Cove, get the jewels at the foot of the gate to Twilight
+   Harbor. (125/200, 1/2)
+
+4. After beating Twilight Harbor, get the jewels at the foot of the gate to
+   Gnasty Gnorc. (200/200, 1/2)
+
+5. After you beat Gnasty Gnorc, free the dragon in the middle of the arena
+   following the epilogue. (200/200, 2/2 **COMPLETE**)
+
+
+   ----- | ----------
+   6.6.2 | Gnorc Cove
+         | Gems: 400
+         | Dragons: 2
+   ----- | ----------
+
+1. Glide over to the next ledge. Get the gems in the alcove to the right, then
+   charge into one of the barrels as it rolls at you to send it back in the
+   enemy's face. (16/400, 0/2)
+
+2. Turn right and ram a barrel at the Gnorc standing on top of one, then ram
+   the next guy as well. Jump on the crates behind him and turn right. (23/400,
+   0/2)
+
+3. Get the chests on the high plateau, then blow fire at the TNT barrel beside
+   the unopenable chest and back off quickly. The explosion will open the box,
+   allowing you to get the jewels inside. (40/400, 0/2)
+
+4. Glide over to the red gems lining the path. For this next enemy, you will
+   have to knock two barrels his way - one to stun him, one to kill him. Do him
+   in and then get the red gems behind him. (57/400, 0/2)
+
+5. Get back up on the ledge where the enemy just was and turn until you see a
+   dragon statue in the distance. Glide over to the iron chests, then get all
+   gems around him before rescuing him. (80/400, 1/2)
+
+6. Glide over to where the barrel is aligned with the unbreakable box and chunk
+   a steel barrel at it. (90/400, 1/2)
+
+7. Drop down and kill the two Gnorcs down there, then return to where you
+   rescued Lateef. (96/400, 1/2)
+
+8. Jump over to the bridge leading into the ship. Travel through the ship and
+   collect all treasure inside. (120/400, 1/2)
+
+9. Carefully go through past the rolling TNT barrels and kill the Gnorcs in the
+   next area. Ignore the unopenable box for now. (131/400, 1/2)
+
+10. Use three steel barrels to take out the enemies ahead, then get the gems at
+    the end between rolling barrels. (160/400, 1/2)
+
+11. Wait for an opening, then jump up to the next ledge and jump over rolling
+    TNT barrels until you're within flame's reach of the Gnorc. Tag him, then
+    go up another level and charge all the iron chests. Turn right, hop up yet
+    another tier, and bounce a barrel at the unbreakable box from earlier.
+    Backtrack and collect the spoils. (191/400, 1/2)
+
+12. Return to the main path and enter the next ship. At the exit, you'll notice
+    that the doorway is too small for you to kick a barrel through it and kill
+    the Gnorcs standing on barrels. So, just ram them directly. (219/400, 1/2)
+
+13. Ram the next guy directly (you'll take a hit, but you gotta take one for
+    the team every now and then, don't you?), then ram the chests and save the
+    second dragon. (239/400, 2/2)
+
+14. Ram the next several Gnorcs on barrels head-on. (261/400, 2/2)
+
+15. When going into the downstairs area ahead, light the first TNT barrel, then
+    back away. The explosion will offset a chain reaction. (279/400, 2/2)
+
+16. Once down there, kick steel barrels at both Gnorcs and an unbreakable box.
+    (298/400, 2/2)
+
+17. There are three hallways to travel down, each lit a different color. Start
+    with green. (321/400, 2/2)
+
+18. Return to the hub and go down the blue hall. Get the key and go back to
+    the green hall and unlock the chest. (352/400, 2/2)
+
+19. Return to the hub and go down the purple hallway. Knock the barrels at the
+    enemies, then glide across the pits to get the jewels. (390/400, 2/2)
+
+20. The whirlwind will put you right at the Return Home portal. (400/400, 2/2
+    **COMPLETE**)
+
+
+   ----- | ---------------
+   6.6.3 | Twilight Harbor
+         | Gems: 400
+         | Dragons: 2
+   ----- | ---------------
+
+1. Go in the room at the beginning and make a right to find an early extra life
+   and a hidden Gnorc. Get the other gems in the room as well. (24/400, 0/2)
+
+2. Wait for an opening from the guy ahead tossing grenades, then flame him and
+   go into the whirlwind. (31/400, 0/2)
+
+3. As soon as you reach the top, look to your left. Carefully walk the
+   perimeter in search of gems, then return to the main course. (40/400, 0/2)
+
+4. Move forward, carefully avoiding and jump over Gnorc gunfire until you reach
+   the first dragon. (75/400, 1/2)
+
+5. Proceed forward and into the building ahead. At the end, make a quick left
+   to find two iron chests, then leave and keep moving. (133/400, 1/2)
+
+6. Turn the crank at the bridge by blowing your flame at it, then glide over
+   the raised drawbridge and save Cleetus up ahead. (133/400, 2/2)
+
+7. Go to the top of the supercharge ramp to your right, then run down it and
+   hang a left. When you get to the raised bridge, use a supercharge jump to
+   reach a higher hidden area. Go across it, then glide to the plateau with the
+   yellow gems on it. Use another supercharge jump to break the unopenable box
+   from earlier as well. (248/400, 2/2)
+
+8. Get everything in the next room, then take a right. (275/400, 2/2)
+
+9. Plough through the remainder of the Gnorc troops until you reach the exit.
+   (400/400, 2/2 **COMPLETE**)
+
+
+   ----- | ------------
+   6.6.4 | Gnasty Gnorc
+         | Gems: 500
+   ----- | ------------
+
+1. Get all the gems in the center of the arena. Be sure to avoid Gnasty Gnorc's
+   shots. (82/500)
+
+2. After you have all the gems, start chasing after the dude in the green robe.
+   Do not stop until you have the key he holds. Be sure to get all the gems
+   along the path as well. (124/500)
+
+3. Use the key to open the locked door next to where you found the first green-
+   robed guy. Immediately you will begin pursuit of another one. Once you get
+   the second key, Gnasty will start retreating. Unlock the ledge he was stand-
+   ing on to make it a step that you can leap up to. (179/500)
+
+4. Begin chasing Gnasty Gnorc. You can take your time getting treasure. He'll
+   wait for you. Run a full circle before seriously going after him just to
+   pick up all the loose jewels. (375/500)
+
+5. Run a full circle until he stops on his pedestal. When you catch up to him,
+   quickly jump and flame him. He will run into a nearby door. (400/500)
+
+6. In this room you will have to be very quick. You will have to jump across
+   the platforms as they slowly go back into the wall. Do not stop for any
+   reason. Simply jump along them until you reach Gnasty Gnorc. He will now be
+   cornered. Flame him once to knock him out and end the game. (500/500
+   **COMPLETE**)
+
+
+   ----- | --------
+   6.6.5 | Epilogue
+   ----- | --------
+
+So order is once again restored to the Dragon Kingdom. Spyro gets a quick
+interview detailing all his adventures, and mentions in passing that there's
+still some treasure to be found. Afterward, sit through the credits and watch
+the sweeping camera shots of various places you've already been to.
+
+After the credits, the screen will say "Returning Home..." You will be back in
+the Gnorc Gnexus. A dragon statue will be there. Go up to it. Magnus will tell
+you about the secret level that can only be accessed once you've collected 100%
+of the treasures in the game. 100% is of course not necessary to beat the game,
+but it is necessary if you want to access Gnasty's private treasure horde.
+
+To access the treasure trove, you will need to find every gem in the game and
+save every dragon. In total, that's 12000 gems, 80 dragons, and twelve dragon
+eggs. Here are the stats for each world condensed into a single chart so that
+you can see how the totals add up.
+
+
+                          Gems       Dragons       Dragon Eggs
+                          ¯¯¯¯       ¯¯¯¯¯¯¯       ¯¯¯¯¯¯¯¯¯¯¯
+        Artisans
+        ¯¯¯¯¯¯¯¯
+        Home               100             4
+        Stone Hill         200             4                 1
+        Dark Hollow        100             3
+        Town Square        200             4                 1
+        Toasty             100             1
+        Sunny Flight       300
+
+        ______________________________________________________
+
+                          1000            16                 2
+        ______________________________________________________
+
+
+        Peace Keepers
+        ¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Home               200             3                 1
+        Dry Canyon         400             4                 1
+        Cliff Town         400             3                 1
+        Ice Cavern         400             5
+        Doctor Shemp       300             1
+        Night Flight       300
+
+        ______________________________________________________
+
+                          3000            32                 5
+        ______________________________________________________
+
+
+        Magic Crafters
+        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Home               300             3                 2
+        Alpine Ridge       500             4                 1
+        High Caves         500             3                 2
+        Wizard Peak        500             3                 2
+        Blowhard           400             1
+        Crystal Flight     300
+
+        ______________________________________________________
+
+                          5500            46                12
+        ______________________________________________________
+
+
+        Beast Makers
+        ¯¯¯¯¯¯¯¯¯¯¯¯
+        Home               300             2
+        Terrace Village    400             2
+        Misty Bog          500             4
+        Tree Tops          500             3
+        Metalhead          500             1
+        Wild Flight        300
+
+        ______________________________________________________
+
+                          8000            58                12
+        ______________________________________________________
+
+
+        Dream Weavers
+        ¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Home               300             3
+        Dark Passage       500             5
+        Lofty Castle       400             3
+        Haunted Towers     500             3
+        Jacques            500             2
+        Icy Flight         300
+
+        ______________________________________________________
+
+                         10500            74                12
+        ______________________________________________________
+
+
+        Gnasty's World
+        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+        Home               200             2
+        Gnorc Cove         400             2
+        Twilight Harbor    400             2
+        Gnasty Gnorc       500
+
+        ______________________________________________________
+
+        GRAND TOTALS     12000            80                12
+        ______________________________________________________
+
+
+
+Once you've gotten everything in every world, Gnasty's private treasure horde,
+a vast zone free of enemies (minus those annoying little buggers in robes, but
+they're not really enemies so much as nuisances) containing a whopping 2000
+gems.
+
+
+   ----- | -------------
+   6.6.6 | Gnasty's Loot
+         | Gems: 2000
+   ----- | -------------
+
+If you have not beaten 100% of the game before reading this section, I suggest
+you read no further. This part of the game is definitely a sight to behold, and
+it is best to encounter it with virgin eyes.
+
+That said, let's move on.
+
+
+1. One thing you'll notice from the very start is that instead of gliding, you
+   can fly here, just as you would in any of the flight levels, only here the
+   maximum altitude you can fly at is not much higher than where you are
+   currently standing. Bearing that in mind, take off and head over to the
+   ledge to the right. As you will with every part of this stage, explore it
+   fully. You will find a locked door; we'll get to that in a second. Stop when
+   you can see a guy in a dark blue robe across from you. (170/2000)
+
+2. Chase the dark blue guy around until you're within flame's reach, then burn
+   him and get the key and all surrounding gems. (315/2000)
+
+3. Go back and unlock the door you found earlier. You will quickly find another
+   one. Jump off the ledge and fly to the right to the area near where you saw
+   the first blue-robed dude. Hang a left and you'll find another one. Get all
+   the jewels, retrieve the key, and return to the second locked door.
+   (520/2000)
+
+4. When you unlock the door, an airplane will fly out of it. Go through the
+   winding tunnel to the new higher area. Don't worry about the plane just yet.
+   You can now reach a couple of firecrackers sitting on rooftops. Find them
+   and light them, then go to the piles of jewels that come from the boxes they
+   open. Also at this time, look for two iron chests surrounding a single
+   magenta gem. (745/2000)
+
+5. Now go after the airplane. When you catch up to it, flame it to get the key.
+   Look for the third locked door. When you open that door, collect the yellow
+   jewels lining the path, then start pursuing the next airplane. (795/2000)
+
+6. While pursuing this plane, you can reach two more firecrackers that will
+   open two more boxes. (940/2000)
+
+7. Once you catch up to the other plane and get the key, go back to the very
+   same place where you found this plane and hop up the steps to the locked
+   door. Inside is a single yellow gem. (950/2000)
+
+8. From inside this room, fly over to the Return Home portal and go in the door
+   near it. Get all the gems down the hallway, then set fire to the first of
+   the firecracker boxes in the new chamber. The explosion will set off a chain
+   reaction which will result in a veritable jewelgasm. These multitudinous
+   magenta gems comprise the remainder of the treasure horde's gems. Your total
+   is now 2000/2000, and your completion rate for the entire game will be at
+   the maximum 120% - 14000 gems, 80 dragons, and twelve eggs.
+
+
+When you enter the Return Home portal, you'll get another interview and a
+different ending, as well as different camera shots throughout the credits.
+After the credits, you will be taken back to the Artisan homeworld. Walk
+forward and save the game to secure your progress.
+
+
+Congratulations on beating Spyro the Dragon!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | =======================
+   7 | CREDITS AND LEGAL STUFF
+   = | =======================
+
+Thanks in part and in whole to the following:
+
+
+>> My parents, who gave me the skills to enjoy this hobby as I do.
+
+>> Brian Sulpher and David McCutcheon, my two best writing peers.
+   do u guys luv me? plz circle 1     yes     no     maybe
+
+>> Insomniac and Universal for making such a fun game. This was the game that
+   came with my PlayStation, and it was an absolute blast.
+
+>> CJayC and Jason Venter for the great websites that I am posting this guide
+   to.
+
+>> Neal Lundberg for letting me use his computer and PS2 to work uninterrupted.
+
+>> Anyone else who deserves credit that I am forgetting about at the moment.
+
+
+Please direct all questions, requests, suggestions, complaints, praise mail,
+hate mail, exhortations to "have your babies", marriage propositions, money,
+and gifts to [round the wheel at gmail dot com]. All one word, no spaces,
+insert proper symbols where necessary. 
+
+This guide was originally posted to GameFAQs (http://www.gamefaqs.com) and
+Honest Gamers (http://www.honestgamers.com). You are free to use this guide on
+your website as long as you do not change what the text says in any way. You
+are allowed to make format changes such as converting it to HTML or adding
+screenshots. Do not plagiarize or sell the guide for profit. I wrote the guide
+for the benefit of others and would appreciate credit where it is due.
+
+This version of this FAQ (1.5) is © December 28, 2005 by Snow Dragon, all
+rights reserved. The latest version of this guide can be found first at
+GameFAQs and Honest Gamers.
+
+Thanks for using my FAQ, and have a great day!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯

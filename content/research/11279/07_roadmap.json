@@ -1,0 +1,581 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "3D Platformer",
+    "categories": [
+      {
+        "name": "Dragons Freed",
+        "description": "Free all 80 crystal dragons across the six worlds.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Dragon Eggs",
+        "description": "Catch the egg thieves and rescue all 12 dragon eggs.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Gems",
+        "description": "Collect every gem in every level, 12000 for 100% plus the 2000 in Gnasty's Loot for 14000 and 120%.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Challenges & 1-Up Chests",
+        "description": "Every RetroAchievements challenge (no-damage runs, flight-level time trials, boss conditions) and every homeworld set of 1-Up chests.",
+        "tracked_per_chapter": false
+      }
+    ],
+    "chapter_checkpoints": [
+      "Dragons Freed",
+      "Dragon Eggs",
+      "Gems"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough on a brand-new save. Achievements do not pop from a 100% save, and broken 1-Up chests never return, so an old save is locked out of the 1-Up sets (players who mastered the game earlier can request a manual unlock). No achievements are mutually exclusive: every challenge can be retried by re-entering its level, so there is no lockout between them. The one exception to watch is Keeping My Inner Dragon in Check in Gnorc Cove, which commenters say may be locked out once Gnorc Cove is completed, so do it on the first visit. Do not use the level-select cheat.",
+  "settings_notes": "Use RetroArch with the Beetle PSX core or standalone DuckStation; reports say PSX achievements only unlock on Beetle in RetroArch, and DuckStation worked for one player. Hardcore mode recommended. Turn off DuckStation's 60 FPS patch for the flight-level time trials.",
+  "fact_ids": [
+    "ra-comments-1-1",
+    "ra-comments-3-5",
+    "ra-comments-3-7",
+    "ra-comments-51-5",
+    "ra-comments-51-6",
+    "ra-comments-51-8",
+    "ra-comments-51-9",
+    "ra-comments-65-4",
+    "ra-comments-109-5",
+    "gf3-38-4",
+    "gf1-21-2",
+    "gf1-126-6",
+    "gf4-7-7"
+  ],
+  "counter_totals": {
+    "Dragons Freed": 80,
+    "Dragon Eggs": 12,
+    "Gems": 14000
+  },
+  "missables": [],
+  "ponr": [],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Artisans Home, Stone Hill and Dark Hollow",
+      "areas": [
+        "TitleScreen",
+        "ArtisansWorld",
+        "ArtisansHome",
+        "StoneHill",
+        "DarkHollow"
+      ],
+      "achievement_ids": [
+        637092,
+        82296,
+        82298,
+        284540,
+        637069,
+        82300,
+        284538,
+        637070,
+        82302,
+        637071,
+        284533
+      ],
+      "fact_ids": [
+        "ra-comments-3-5",
+        "ra-comments-51-5",
+        "ra-comments-51-6",
+        "gf3-38-5",
+        "ra-comments-118-1",
+        "gf1-14-10",
+        "gf1-38-1",
+        "ra-comments-57-2",
+        "ra-comments-57-5",
+        "ra-comments-59-5",
+        "ra-comments-60-1",
+        "ra-comments-51-1",
+        "ra-comments-51-2",
+        "ra-comments-51-4",
+        "gf2-3-14",
+        "gf1-9-9",
+        "gf1-9-11",
+        "gf2-3-5",
+        "gf4-6-6",
+        "gf1-42-6"
+      ],
+      "counters": {
+        "Dragons Freed": 11,
+        "Dragon Eggs": 1,
+        "Gems": 400
+      },
+      "notes": "Start on a brand-new save: achievements do not pop from a 100% save [ra-comments-3-5], and 1-Up chests never come back once broken [ra-comments-51-5, ra-comments-51-6]. Dragons Love New Experiences: at the title screen hold L1 and press Triangle, then reset the console to return to Spyro [gf3-38-5, ra-comments-118-1]. Get a Life (20 Life Spheres) pops naturally while playing; gf1 says 20 silver orbs, gf3 says 40, so quote the RA description (20) and do not resolve the guides' number [gf1-14-10]. Suspicious Stepping Stones: jump on the 5 stepping stones by the waterfall in a row; this also opens the Sunny Flight portal, used in chapter 2 [gf1-38-1, ra-comments-57-2]. Reports say it can fail to pop on repeats [ra-comments-57-5]. A Dark Day for the Herd (Stone Hill): touching a dragon statue may reset progress, so defeat all 14 sheep before freeing more dragons [ra-comments-59-5]. Gotta Make 'Em Shine Somehow (Dark Hollow): progress resets when you speak to a crystal dragon, so do all 6 lamps and both campfires in one go [ra-comments-60-1]. Artisans 1-Up chests (A Dragon's Life, 4 chests world-wide): this chapter has the Home maze chest in front of Dark Hollow, the Stone Hill building by the exit portal, and the Dark Hollow upper alcove [ra-comments-51-1, ra-comments-51-2, ra-comments-51-4]. The 4th is in Town Square, so the achievement is placed in chapter 2. Where's Gnasty Gnorc? (10 dragons) pops during Dark Hollow; by the end of this chapter 11 of 80 dragons are free. Gem colours: the guides disagree on names (gf1: purple = 5, pink = 25 [gf1-9-9, gf1-9-11]; gf2: purple = 25 [gf2-3-5]; gf4: magenta = 25 [gf4-6-6]). Always give a gem colour together with the value from the guide you cite; never treat 'purple gem' as one value across guides. Flowers Burning, and Birds Singing... (637069): Unable to verify for locations. No written source gives the tulip locations (added in the Sept 24, 2026 set revision). Give ONLY: the RA description (Burn all 20 tulips in the Artisans Home World); the gf2 line that you can flame the gnorcs on the hill just past Nestor and burn the flowers there (source passage gf2#3, cite [gf2-3-14]); generic advice to sweep the whole Artisans Home with flame and watch the achievement's progress counter; and the YouTube longplay https://www.youtube.com/watch?v=Aw7zttGrDpc by PINGG, chapter \"Flowers Burning…\" at 6:27. Mark the section 'Unable to verify'. Do not invent tulip spots."
+    },
+    {
+      "n": 2,
+      "title": "Town Square, Toasty and Sunny Flight",
+      "areas": [
+        "ArtisansWorld",
+        "TownSquare",
+        "Toasty",
+        "Boss_Toasty",
+        "SunnyFlight"
+      ],
+      "achievement_ids": [
+        82303,
+        637072,
+        637063,
+        82304,
+        82375,
+        82328,
+        82301
+      ],
+      "fact_ids": [
+        "ra-comments-61-3",
+        "ra-comments-61-4",
+        "ra-comments-51-3",
+        "gf1-40-3",
+        "ra-comments-62-1",
+        "ra-comments-62-2",
+        "gf1-39-17",
+        "ra-comments-65-4",
+        "gf1-42-6",
+        "gf2-4-5"
+      ],
+      "counters": {
+        "Dragons Freed": 5,
+        "Dragon Eggs": 1,
+        "Gems": 600
+      },
+      "notes": "Head-On Collision (Town Square): an early report said freeing a dragon reset the bull count, but a later comment confirms that is fixed; still, headbutting all bulls between dragon rescues is easy [ra-comments-61-3, ra-comments-61-4]. The 4th Artisans 1-Up chest is in the open along the Town Square main path, so A Dragon's Life pops here [ra-comments-51-3]. Toasty opens after you leave any regular level through its Return Home vortex [gf1-40-3]. Solid Spyro: keep a couple of feet from the dogs and circle tightly in the last area so no wolf wakes [ra-comments-62-1, ra-comments-62-2]. Sunny Flight (portal opened by the stepping stones in chapter 1): collect all 300 gems, then choose No on Try Again [gf1-39-17]. Do the under-1:40 run (Faster Than Light) as a separate attempt; DuckStation's 60 FPS patch makes the planes faster, so turn it off [ra-comments-65-4]. End of chapter: all 16 Artisans dragons, 2 eggs and 1000 gems. The balloonist to the Peace Keepers needs 10 dragons [gf1-42-6, gf2-4-5]."
+    },
+    {
+      "n": 3,
+      "title": "Peace Keepers Home, Dry Canyon and Cliff Town",
+      "areas": [
+        "PeaceKeepersWorld",
+        "PeaceKeepersHome",
+        "DryCanyon",
+        "CliffTown"
+      ],
+      "achievement_ids": [
+        82305,
+        637073,
+        82307,
+        637074,
+        284541,
+        82306,
+        637075,
+        284539,
+        284536
+      ],
+      "fact_ids": [
+        "gf1-44-23",
+        "ra-comments-67-1",
+        "ra-comments-67-2",
+        "ra-comments-67-3",
+        "ra-comments-117-1",
+        "ra-comments-117-5",
+        "ra-comments-117-8",
+        "ra-comments-69-1",
+        "ra-comments-69-2",
+        "ra-comments-69-4",
+        "ra-comments-52-1",
+        "ra-comments-52-2",
+        "ra-comments-52-3",
+        "ra-comments-52-4",
+        "gf1-44-22",
+        "gf1-49-5",
+        "gf2-14-6"
+      ],
+      "counters": {
+        "Dragons Freed": 10,
+        "Dragon Eggs": 3,
+        "Gems": 1000
+      },
+      "notes": "Arrival needs 10 freed dragons [gf1-44-23]. There Is No Escaping Spyro the Dragon! (Peace Keepers Home): the cannon is allowed; only the leftmost of the three tents near the balloonist is out of cannon reach; checkpointing and jumping off a ledge makes remaining enemies respawn from their tents [ra-comments-67-1, ra-comments-67-3, ra-comments-67-2]. Wind Through Your... Hair? (glide 5 seconds): flight levels break it; the ramp behind the Dry Canyon dragon who asks if Spyro is a good glider works, as does the top of Cliff Town near the exit portal [ra-comments-117-1, ra-comments-117-8, ra-comments-117-5]. Cliffs Pose No Fear (Cliff Town): the target is behind the starting building, reached only from the bird area; oma spoon hits do not count as damage, hag hits do [ra-comments-69-4, ra-comments-69-1, ra-comments-69-2]. Eggs in Peace Keepers Home, Dry Canyon and Cliff Town bring the total to 5: the Cliff Town egg thief gives the fifth egg (Practice for the Third Game) [gf1-49-5, gf2-14-6]. Gem total passes 1,200 here (Pocket Change); the Magic Crafters balloonist needs 1200 gems [gf1-44-22]. Peace Keepers 1-Up chests (9 world-wide): Home behind the balloonist, two in Dry Canyon, one in Cliff Town [ra-comments-52-1, ra-comments-52-2, ra-comments-52-3, ra-comments-52-4]; the other 5 are in Ice Cavern (chapter 4)."
+    },
+    {
+      "n": 4,
+      "title": "Ice Cavern, Doctor Shemp and Night Flight",
+      "areas": [
+        "PeaceKeepersWorld",
+        "IceCavern",
+        "DoctorShemp",
+        "Boss_DoctorShemp",
+        "NightFlight"
+      ],
+      "achievement_ids": [
+        82308,
+        637076,
+        637064,
+        82309,
+        637077,
+        82329,
+        82356
+      ],
+      "fact_ids": [
+        "ra-comments-52-5",
+        "ra-comments-52-6",
+        "ra-comments-52-7",
+        "ra-comments-52-8",
+        "ra-comments-71-1",
+        "ra-comments-71-2",
+        "gf1-45-5",
+        "gf1-44-22",
+        "gf2-9-11"
+      ],
+      "counters": {
+        "Dragons Freed": 6,
+        "Dragon Eggs": 0,
+        "Gems": 1000
+      },
+      "notes": "Ice Cavern holds 5 of the 9 Peace Keepers 1-Up chests: one in a cave near Andor, one in the building past the exit, three on an island reached from the start by flying right around the ice wall [ra-comments-52-5, ra-comments-52-6, ra-comments-52-7, ra-comments-52-8]. A Peaceful Life pops with the last one. Doctor Shemp's portal is on the middle island of Peace Keepers Home [gf1-45-5]. Medically Mandated Rest: jumping onto the boss platforms is allowed, jumping while standing on them is not [ra-comments-71-1, ra-comments-71-2]. Night Flight: collect all 300 gems first, then do the under-1:15 run as a separate attempt. End of chapter: 32 dragons, 5 eggs, 3000 gems. Take the balloonist to the Magic Crafters (1200 gems) [gf1-44-22, gf2-9-11]."
+    },
+    {
+      "n": 5,
+      "title": "Magic Crafters Home, Alpine Ridge and High Caves",
+      "areas": [
+        "MagicCraftersWorld",
+        "MagicCraftersHome",
+        "AlpineRidge",
+        "HighCaves"
+      ],
+      "achievement_ids": [
+        82310,
+        637078,
+        82311,
+        637079,
+        637065,
+        82312,
+        637080
+      ],
+      "fact_ids": [
+        "gf1-60-1",
+        "ra-comments-75-3",
+        "ra-comments-75-4",
+        "ra-comments-73-2",
+        "ra-comments-79-2",
+        "ra-comments-53-1",
+        "ra-comments-53-2",
+        "ra-comments-53-4",
+        "ra-comments-53-6",
+        "ra-comments-53-8",
+        "ra-comments-81-1",
+        "ra-comments-81-4",
+        "ra-comments-81-10",
+        "ra-comments-82-5",
+        "ra-comments-82-6"
+      ],
+      "counters": {
+        "Dragons Freed": 10,
+        "Dragon Eggs": 5,
+        "Gems": 1300
+      },
+      "notes": "Magical Feet: the waterfall that counts is the one with the rock in it, next to the locked-chest cave; get speed, jump to that cave, then up to the waterfall [ra-comments-75-3, ra-comments-75-4]. The nearer waterfall off the Alpine Ridge bridge did not count for one player [ra-comments-73-2]. Nimble as a Goat (Alpine Ridge): Spyro may not damage any enemy and may not take damage [ra-comments-79-2]; do it as its own run, not during the 100% clear. Magical Life Extension: although it says 3 chests, it tracks only the Home chest (cave reached by flying around the mountain corner from the High Caves portal) and the Alpine Ridge chest (cave near the exit that forks in two), and pops with 2 [ra-comments-53-1, ra-comments-53-2, ra-comments-53-4, ra-comments-53-6]. Get the Alpine Ridge chest before the Wizard Peak chest; one player's did not trigger in the other order [ra-comments-53-8]. I Hate Those Bugs! (High Caves): do it BEFORE killing spiders on that visit. Kill the green druids/wizards first (once dead they stay dead after respawning) [ra-comments-81-1, ra-comments-81-10, ra-comments-82-5]. Spiders killed before saving do not respawn [ra-comments-82-6], and touching a dragon after killing enemies removes them for good if you die [ra-comments-81-4]. Eggs: Magic Crafters Home 2, Alpine Ridge 1, High Caves 2 (10 of 12)."
+    },
+    {
+      "n": 6,
+      "title": "Wizard Peak, Blowhard and Crystal Flight",
+      "areas": [
+        "MagicCraftersWorld",
+        "WizardPeak",
+        "Blowhard",
+        "Boss_Blowhard",
+        "CrystalFlight"
+      ],
+      "achievement_ids": [
+        82313,
+        637081,
+        82295,
+        82314,
+        82694,
+        82330,
+        82372
+      ],
+      "fact_ids": [
+        "ra-comments-53-5",
+        "ra-comments-85-5",
+        "ra-comments-86-2",
+        "ra-comments-86-13",
+        "ra-comments-86-14",
+        "ra-comments-87-10",
+        "ra-comments-85-6",
+        "ra-comments-90-4",
+        "gf1-77-1"
+      ],
+      "counters": {
+        "Dragons Freed": 4,
+        "Dragon Eggs": 2,
+        "Gems": 1200
+      },
+      "notes": "Wizard Peak: its 1-Up chest (top of a supercharge ramp in the grass area where the path forks) is not needed for Magical Life Extension [ra-comments-53-5]. The 2 Wizard Peak eggs complete all 12 (Happy Easter). I Blow Harder (top of Blowhard in under 30 s): collect 100% of Blowhard first; attempts before that did not work [ra-comments-85-5]. Then suicide-jump at the end to respawn, skipping the intro, and race the timer [ra-comments-86-13, ra-comments-86-2, ra-comments-86-14]. A PAL-E report says it popped on entry [ra-comments-85-6]. Crystal Flight: get all 300 gems, then the under-1:15 run; do not finish on the last arch over the water, which bugs the achievement [ra-comments-90-4]. End of chapter: 46 dragons, 12 eggs, 5500 gems. The Beast Makers balloonist needs 5 dragon eggs [gf1-77-1]."
+    },
+    {
+      "n": 7,
+      "title": "Beast Makers Home, Terrace Village and Misty Bog",
+      "areas": [
+        "BeastMakersWorld",
+        "BeastMakersHome",
+        "TerraceVillage",
+        "MistyBog"
+      ],
+      "achievement_ids": [
+        82315,
+        637082,
+        82316,
+        284543,
+        82317,
+        637083,
+        284534,
+        284537
+      ],
+      "fact_ids": [
+        "gf1-78-2",
+        "ra-comments-92-9",
+        "ra-comments-93-2",
+        "ra-comments-94-7",
+        "ra-comments-94-8",
+        "ra-comments-54-1",
+        "ra-comments-54-2",
+        "ra-comments-54-3",
+        "ra-comments-54-4",
+        "ra-comments-54-5",
+        "gf2-24-15"
+      ],
+      "counters": {
+        "Dragons Freed": 8,
+        "Dragon Eggs": 0,
+        "Gems": 1200
+      },
+      "notes": "Arrival needs 5 dragon eggs [gf1-78-2]. Swamp Gardening (637082): Unable to verify for locations. No written source covers the small bushes (added in the Sept 24, 2026 set revision). Give ONLY: the RA description (Burn every small bush without taking damage in the Beast Makers Home World); generic advice to sweep the whole home world with flame without taking damage and watch the achievement's progress counter; and the YouTube longplay https://www.youtube.com/watch?v=Aw7zttGrDpc by PINGG, chapter \"Swamp Gardening\" at 1:41:58. Mark the section 'Unable to verify'. Do not invent bush spots. Dragon Gumbo Jamboree (Terrace Village, no damage): the last shock-pad gnorc's body can block the final purple gnorc and zap you [ra-comments-92-9]. Spread Your Wings, Spyro! (Misty Bog): both floating huts in one session; it holds unless you quit or go back to the main menu, and a game over between the two still counted [ra-comments-94-7, ra-comments-94-8]. The second hut is left of the tree stump you jump into to reach the end [ra-comments-93-2]. Beast Makers 1-Up chests (11 world-wide): Home next to the Metalhead portal, Terrace Village 2, Misty Bog 2 [ra-comments-54-1, ra-comments-54-2, ra-comments-54-3, ra-comments-54-4, ra-comments-54-5]; the rest are in Tree Tops and Metalhead (chapter 8). Nifty Fifty (50 dragons) and Thicc Wallet (6,000 gems) both pop in this chapter. Leaving Beast Makers needs 50 dragons [gf2-24-15]."
+    },
+    {
+      "n": 8,
+      "title": "Tree Tops, Metalhead and Wild Flight",
+      "areas": [
+        "BeastMakersWorld",
+        "TreeTops",
+        "Metalhead",
+        "Boss_Metalhead",
+        "WildFlight"
+      ],
+      "achievement_ids": [
+        82318,
+        637084,
+        637066,
+        82319,
+        637085,
+        82331,
+        82373
+      ],
+      "fact_ids": [
+        "ra-comments-96-1",
+        "ra-comments-96-4",
+        "ra-comments-96-5",
+        "ra-comments-54-6",
+        "ra-comments-54-8",
+        "ra-comments-54-9",
+        "ra-comments-54-16",
+        "ra-comments-54-17",
+        "ra-comments-98-2",
+        "ra-comments-98-7",
+        "ra-comments-35-4",
+        "gf1-91-3",
+        "gf1-96-16"
+      ],
+      "counters": {
+        "Dragons Freed": 4,
+        "Dragon Eggs": 0,
+        "Gems": 1300
+      },
+      "notes": "I'm Feeling a Bit Lazy Today (Tree Tops without supercharging): no charging is needed on the supercharge ramps; drop left from the start to the ramp and glide to the jutting log [ra-comments-96-5, ra-comments-96-1, ra-comments-96-4]. If the Tree Tops thieves are already ahead of you, exit and re-enter to reset them [ra-comments-35-4]. Tree Tops has 4 of the Beast Makers 1-Up chests and Metalhead has the last ones, one in a corner along the wall near the start [ra-comments-54-17, ra-comments-54-6, ra-comments-54-8, ra-comments-54-9, ra-comments-54-16]; Heart of an Ox, er... Dragon pops with the 11th. Construct, Self-Destruct: make Metalhead hit every pole in both arenas; finishing without him damaging a pole does not count [ra-comments-98-2, ra-comments-98-7]. Wild Flight: destroy the 32 targets and collect all 300 gems [gf1-91-3], then the under-1:10 run separately. End of chapter: 58 dragons, 8000 gems. Dream Weavers needs 50 dragons [gf1-96-16]."
+    },
+    {
+      "n": 9,
+      "title": "Dream Weavers Home, Dark Passage and Lofty Castle",
+      "areas": [
+        "DreamWeaversWorld",
+        "DreamWeaversHome",
+        "DarkPassage",
+        "LoftyCastle"
+      ],
+      "achievement_ids": [
+        82320,
+        637086,
+        82321,
+        637087,
+        82322,
+        637088
+      ],
+      "fact_ids": [
+        "gf1-96-16",
+        "ra-comments-101-3",
+        "ra-comments-101-4",
+        "ra-comments-101-5",
+        "ra-comments-101-6",
+        "ra-comments-102-15",
+        "ra-comments-102-18",
+        "ra-comments-104-2",
+        "ra-comments-104-3",
+        "ra-comments-104-5",
+        "ra-comments-55-1",
+        "ra-comments-55-2",
+        "ra-comments-55-3",
+        "ra-comments-55-4",
+        "ra-comments-55-5",
+        "ra-comments-55-6"
+      ],
+      "counters": {
+        "Dragons Freed": 11,
+        "Dragon Eggs": 0,
+        "Gems": 1200
+      },
+      "notes": "Big Problems Require Small Solutions (Dream Weavers Home): defeat no enemies except tiny jumping mushrooms; route right through the whirlwinds to the cannon, defeat the cannon enemy (it does not count) and shoot every visible large enemy [ra-comments-101-4, ra-comments-101-5, ra-comments-101-3, ra-comments-101-6]. Do it before clearing the home world. Devil Defying Stunts (Dark Passage lamps, no damage): commenters disagree on when the lamp count resets [ra-comments-102-15, ra-comments-102-18]; do all lamps in one clean run. Lofty Perch: loop the supercharge several times to build speed, jump at the very edge; the right side of the archway is easier to land on [ra-comments-104-2, ra-comments-104-3, ra-comments-104-5]. Dream Weavers 1-Up chests (10 world-wide): Home 2, Dark Passage 2, Lofty Castle 2 here [ra-comments-55-1, ra-comments-55-2, ra-comments-55-3, ra-comments-55-4, ra-comments-55-5, ra-comments-55-6]; the rest are in Haunted Towers and Jacques (chapter 10)."
+    },
+    {
+      "n": 10,
+      "title": "Haunted Towers, Jacques and Icy Flight",
+      "areas": [
+        "DreamWeaversWorld",
+        "HauntedTowers",
+        "Jacques",
+        "Boss_Jacques",
+        "IcyFlight",
+        "IcyFlight_Missable"
+      ],
+      "achievement_ids": [
+        82323,
+        637089,
+        637067,
+        82324,
+        82729,
+        82332,
+        82374
+      ],
+      "fact_ids": [
+        "ra-comments-105-3",
+        "ra-comments-105-4",
+        "ra-comments-55-7",
+        "ra-comments-55-8",
+        "ra-comments-55-9",
+        "ra-comments-55-10",
+        "ra-comments-106-7",
+        "ra-comments-106-15",
+        "gf2-40-3",
+        "gf1-113-6"
+      ],
+      "counters": {
+        "Dragons Freed": 5,
+        "Dragon Eggs": 0,
+        "Gems": 1300
+      },
+      "notes": "Calm Down Fairies (Haunted Towers, at most 2 kisses): jump from the first little bridge after the blue mage into the whirlwind to skip the first fairy [ra-comments-105-3, ra-comments-105-4]. Last Dream Weavers 1-Up chests: Haunted Towers 2 and Jacques 2 [ra-comments-55-7, ra-comments-55-8, ra-comments-55-9, ra-comments-55-10]; Living the Weavers Dream pops with the 10th. Wow, What a Joke...: beat Jacques with no more than 3 fire breaths [ra-comments-106-7]; several reports say it is bugged on DuckStation and works on RetroArch PCSX-ReARMed [ra-comments-106-15]. Icy Flight: the lights and chests are missable once you pass the train tracks within a run, so restart the level if you miss any [gf2-40-3]. Do the under-1:10 run separately. End of chapter: 74 dragons, 10500 gems. The balloonist to Gnasty's World needs 6000 gems [gf1-113-6]."
+    },
+    {
+      "n": 11,
+      "title": "Gnorc Gnexus, Gnorc Cove and Twilight Harbor",
+      "areas": [
+        "GnastysWorld",
+        "GnorcGnexus",
+        "GnorcCove",
+        "TwilightHarbor"
+      ],
+      "achievement_ids": [
+        637090,
+        82326,
+        637068,
+        637099,
+        284542,
+        82327
+      ],
+      "fact_ids": [
+        "gf1-114-6",
+        "gf1-115-13",
+        "gf1-115-14",
+        "gf2-40-13",
+        "ra-comments-109-1",
+        "ra-comments-109-2",
+        "ra-comments-109-5",
+        "ra-comments-109-8",
+        "ra-comments-56-1",
+        "ra-comments-56-2",
+        "ra-comments-56-3",
+        "ra-comments-56-4",
+        "ra-comments-56-5",
+        "gf1-124-3"
+      ],
+      "counters": {
+        "Dragons Freed": 5,
+        "Dragon Eggs": 0,
+        "Gems": 1000
+      },
+      "notes": "Gnorc Gnexus opens in parts: beat Gnorc Cove to open the next dragon head, and so on [gf1-115-13, gf1-115-14]. Magnus, the second Gnexus dragon, cannot be freed yet [gf2-40-13]. Keeping My Inner Dragon in Check (Gnorc Cove without defeating a Gnorc or dying): commenters disagree whether it needs a fresh save or works after completion [ra-comments-109-1, ra-comments-109-2], and one suggests completing Gnorc Cove first may lock it out [ra-comments-109-5]. To be safe, do it on the FIRST visit before clearing the level. Killing rats is fine [ra-comments-109-8]. Gnasty's World 1-Up chests (5): two on the Gnorc Cove boats, three in Twilight Harbor [ra-comments-56-1, ra-comments-56-2, ra-comments-56-3, ra-comments-56-4, ra-comments-56-5]; A Life Worth Living pops here. Twilight Harbor: Dragonpocalypse Now (no damage) and Oh My God... Literally (walk on water) can be done in separate runs. Gnasty Gnorc's portal needs Gnorc Gnexus part 3 [gf1-124-3]. End of chapter: 79 dragons, 11500 gems."
+    },
+    {
+      "n": 12,
+      "title": "Gnasty Gnorc and the Return of Magnus",
+      "areas": [
+        "GnastysWorld",
+        "GnastyGnorc",
+        "Boss_GnastyGnorc",
+        "Magnus_Return"
+      ],
+      "achievement_ids": [
+        82333,
+        82730,
+        284545,
+        82325,
+        284535
+      ],
+      "fact_ids": [
+        "checklist-enemies-14-2",
+        "checklist-enemies-14-3",
+        "ra-comments-49-2",
+        "ra-comments-115-3",
+        "ra-comments-114-1",
+        "ra-comments-114-4",
+        "gf4-28-17",
+        "ra-comments-45-1",
+        "gf1-118-2",
+        "gf1-118-5",
+        "gf1-126-5"
+      ],
+      "counters": {
+        "Dragons Freed": 1,
+        "Dragon Eggs": 0,
+        "Gems": 500
+      },
+      "notes": "Gnasty Gnorc: catch the key thieves first, then lower his platform so he runs; once he runs, gems can be collected without him attacking [checklist-enemies-14-2, checklist-enemies-14-3]. Missing the first thief does not need a reset [ra-comments-115-3]; dying just before the last gems near the portrait forces a full repeat [ra-comments-49-2]. Gnasty Gnorc? He's TOAST!: under 1:55 with no damage; the limit leaves spare time [ra-comments-114-1]. Do it as a separate run after the 500-gem clear. After the ending, Magnus appears in the middle of the arena [gf4-28-17, ra-comments-45-1]; freeing him completes Gnasty Home You Have Here and The Gang's All Here (80 dragons). Beating Gnasty does not open the final dragon head; 100% does [gf1-118-2, gf1-118-5]. End of chapter: 80 dragons, 12 eggs, 12000 gems (100%) [gf1-126-5]."
+    },
+    {
+      "n": 13,
+      "title": "Gnasty's Loot and 120%",
+      "areas": [
+        "GnastysWorld",
+        "GnastysLoot"
+      ],
+      "achievement_ids": [
+        637091,
+        82299
+      ],
+      "fact_ids": [
+        "gf1-126-6",
+        "gf2-40-15",
+        "gf4-34-1",
+        "ra-comments-116-1",
+        "ra-comments-116-2",
+        "gf3-38-4",
+        "gf1-130-2",
+        "gf4-34-16"
+      ],
+      "counters": {
+        "Dragons Freed": 0,
+        "Dragon Eggs": 0,
+        "Gems": 2000
+      },
+      "notes": "Gnasty's Loot opens only at 100% (12000 gems, 80 dragons, 12 eggs) [gf1-126-6, gf2-40-15]; it has no enemies and 2000 gems [gf4-34-1]. Lava Bath: from the top, keep gliding until you reach the top of the lavafall; touching the lava kills you and you must redo the thieves [ra-comments-116-1, ra-comments-116-2]. The Loot of Thirty-Four Worlds: 120% = 14000 gems, 80 dragons, 12 eggs [gf3-38-4, gf1-130-2]. The Return Home portal plays a different ending [gf4-34-16]."
+    }
+  ],
+  "unverifiable_achievement_ids": [
+    637069,
+    637082
+  ]
+}

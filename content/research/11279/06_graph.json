@@ -1,0 +1,2209 @@
+{
+  "nodes": [
+    {
+      "id": "TitleScreen",
+      "label": "Title screen",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-118-1",
+        "gf3-38-5"
+      ]
+    },
+    {
+      "id": "ArtisansWorld",
+      "label": "Artisans World",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-137-1",
+        "gf1-23-2",
+        "gf1-23-3"
+      ]
+    },
+    {
+      "id": "ArtisansHome",
+      "label": "Artisans Home",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-28-9",
+        "gf1-137-2",
+        "gf2-3-14"
+      ]
+    },
+    {
+      "id": "StoneHill",
+      "label": "Stone Hill",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-4-6",
+        "gf2-4-7",
+        "gf1-137-5"
+      ]
+    },
+    {
+      "id": "DarkHollow",
+      "label": "Dark Hollow",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-6-5",
+        "gf2-6-2"
+      ]
+    },
+    {
+      "id": "TownSquare",
+      "label": "Town Square",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-36-3",
+        "gf2-5-3"
+      ]
+    },
+    {
+      "id": "Toasty",
+      "label": "Toasty",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-40-4",
+        "gf1-40-7"
+      ]
+    },
+    {
+      "id": "SunnyFlight",
+      "label": "Sunny Flight",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-38-3",
+        "gf2-8-9"
+      ]
+    },
+    {
+      "id": "PeaceKeepersWorld",
+      "label": "Peace Keepers World",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-138-12",
+        "gf1-23-9"
+      ]
+    },
+    {
+      "id": "PeaceKeepersHome",
+      "label": "Peace Keepers Home",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-44-2",
+        "gf1-44-3",
+        "gf1-44-4"
+      ]
+    },
+    {
+      "id": "DryCanyon",
+      "label": "Dry Canyon",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-46-7",
+        "gf1-46-8",
+        "gf1-46-9"
+      ]
+    },
+    {
+      "id": "CliffTown",
+      "label": "Cliff Town",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-13-9",
+        "gf3-13-10",
+        "gf1-49-4"
+      ]
+    },
+    {
+      "id": "IceCavern",
+      "label": "Ice Cavern",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-14-8",
+        "gf1-52-4",
+        "gf1-52-5"
+      ]
+    },
+    {
+      "id": "DoctorShemp",
+      "label": "Doctor Shemp",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-16-7",
+        "gf4-15-2"
+      ]
+    },
+    {
+      "id": "NightFlight",
+      "label": "Night Flight",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-14-14"
+      ]
+    },
+    {
+      "id": "MagicCraftersWorld",
+      "label": "Magic Crafters World",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-139-14",
+        "gf1-24-5"
+      ]
+    },
+    {
+      "id": "MagicCraftersHome",
+      "label": "Magic Crafters Home",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-15-19",
+        "gf1-60-3",
+        "gf1-60-4"
+      ]
+    },
+    {
+      "id": "AlpineRidge",
+      "label": "Alpine Ridge",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-63-6",
+        "gf1-63-7"
+      ]
+    },
+    {
+      "id": "HighCaves",
+      "label": "High Caves",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-17-16",
+        "gf4-17-17",
+        "gf4-18-13"
+      ]
+    },
+    {
+      "id": "WizardPeak",
+      "label": "Wizard Peak",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-18-14",
+        "gf4-18-15"
+      ]
+    },
+    {
+      "id": "Blowhard",
+      "label": "Blowhard",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-19-18",
+        "gf1-140-22"
+      ]
+    },
+    {
+      "id": "CrystalFlight",
+      "label": "Crystal Flight",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-19-12"
+      ]
+    },
+    {
+      "id": "BeastMakersWorld",
+      "label": "Beast Makers World",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-24-7",
+        "gf1-24-8",
+        "gf1-24-10"
+      ]
+    },
+    {
+      "id": "BeastMakersHome",
+      "label": "Beast Makers Home",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-24-9",
+        "gf4-20-18"
+      ]
+    },
+    {
+      "id": "TerraceVillage",
+      "label": "Terrace Village",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-21-12"
+      ]
+    },
+    {
+      "id": "MistyBog",
+      "label": "Misty Bog",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-22-11"
+      ]
+    },
+    {
+      "id": "TreeTops",
+      "label": "Tree Tops",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-23-17",
+        "gf3-44-14"
+      ]
+    },
+    {
+      "id": "Metalhead",
+      "label": "Metalhead",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-30-6",
+        "gf1-92-3"
+      ]
+    },
+    {
+      "id": "WildFlight",
+      "label": "Wild Flight",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-141-15",
+        "gf1-91-3"
+      ]
+    },
+    {
+      "id": "DreamWeaversWorld",
+      "label": "Dream Weavers World",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-25-1",
+        "gf1-25-2",
+        "gf1-25-6"
+      ]
+    },
+    {
+      "id": "DreamWeaversHome",
+      "label": "Dream Weavers Home",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-24-11"
+      ]
+    },
+    {
+      "id": "DarkPassage",
+      "label": "Dark Passage",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-33-1",
+        "gf1-98-3"
+      ]
+    },
+    {
+      "id": "LoftyCastle",
+      "label": "Lofty Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-35-1",
+        "gf1-101-4"
+      ]
+    },
+    {
+      "id": "HauntedTowers",
+      "label": "Haunted Towers",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-36-9",
+        "gf4-26-12"
+      ]
+    },
+    {
+      "id": "Jacques",
+      "label": "Jacques",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-38-14",
+        "gf1-142-19",
+        "gf1-142-20"
+      ]
+    },
+    {
+      "id": "IcyFlight",
+      "label": "Icy Flight",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-40-1",
+        "gf4-27-19"
+      ]
+    },
+    {
+      "id": "GnastysWorld",
+      "label": "Gnasty's World",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-114-1",
+        "gf1-25-9"
+      ]
+    },
+    {
+      "id": "GnorcGnexus",
+      "label": "Gnorc Gnexus",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-40-5",
+        "gf1-142-29",
+        "gf4-28-11"
+      ]
+    },
+    {
+      "id": "GnorcCove",
+      "label": "Gnorc Cove",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-119-2",
+        "gf4-33-7"
+      ]
+    },
+    {
+      "id": "TwilightHarbor",
+      "label": "Twilight Harbor",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-33-8",
+        "gf1-122-2"
+      ]
+    },
+    {
+      "id": "GnastyGnorc",
+      "label": "Gnasty Gnorc",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-33-9",
+        "gf1-124-4"
+      ]
+    },
+    {
+      "id": "GnastysLoot",
+      "label": "Gnasty's Loot",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-34-1",
+        "gf1-126-6"
+      ]
+    },
+    {
+      "id": "Boss_Toasty",
+      "label": "Toasty (boss fight)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-138-11",
+        "gf3-11-4",
+        "gf1-41-17"
+      ]
+    },
+    {
+      "id": "Boss_DoctorShemp",
+      "label": "Doctor Shemp (boss fight)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-139-13",
+        "gf3-17-5"
+      ]
+    },
+    {
+      "id": "Boss_Blowhard",
+      "label": "Blowhard (boss fight)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-131-1",
+        "gf1-76-2"
+      ]
+    },
+    {
+      "id": "Boss_Metalhead",
+      "label": "Metalhead (boss fight)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-141-20",
+        "gf1-94-10"
+      ]
+    },
+    {
+      "id": "Boss_Jacques",
+      "label": "Jacques (boss fight)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-142-23",
+        "gf1-133-4"
+      ]
+    },
+    {
+      "id": "Boss_GnastyGnorc",
+      "label": "Gnasty Gnorc (final boss)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf3-37-1",
+        "checklist-enemies-14-2",
+        "checklist-enemies-14-9"
+      ]
+    },
+    {
+      "id": "Magnus_Return",
+      "label": "Magnus, second Gnorc Gnexus dragon (after the ending)",
+      "kind": "npc",
+      "fact_ids": [
+        "gf4-28-17",
+        "ra-comments-45-1",
+        "gf2-40-13"
+      ]
+    },
+    {
+      "id": "IcyFlight_Missable",
+      "label": "Icy Flight: lights and chests missable past the train tracks",
+      "kind": "missable",
+      "fact_ids": [
+        "gf2-40-3"
+      ]
+    },
+    {
+      "id": "Ach_284533",
+      "label": "Where's Gnasty Gnorc? I'll Torch Him!",
+      "kind": "achievement",
+      "achievement_id": 284533
+    },
+    {
+      "id": "Ach_284534",
+      "label": "Nifty Fifty",
+      "kind": "achievement",
+      "achievement_id": 284534
+    },
+    {
+      "id": "Ach_284535",
+      "label": "The Gang's All Here",
+      "kind": "achievement",
+      "achievement_id": 284535
+    },
+    {
+      "id": "Ach_284538",
+      "label": "Handle with Care",
+      "kind": "achievement",
+      "achievement_id": 284538
+    },
+    {
+      "id": "Ach_284539",
+      "label": "Practice for the Third Game",
+      "kind": "achievement",
+      "achievement_id": 284539
+    },
+    {
+      "id": "Ach_82295",
+      "label": "Happy Easter",
+      "kind": "achievement",
+      "achievement_id": 82295
+    },
+    {
+      "id": "Ach_284536",
+      "label": "Pocket Change",
+      "kind": "achievement",
+      "achievement_id": 284536
+    },
+    {
+      "id": "Ach_284537",
+      "label": "Thicc Wallet",
+      "kind": "achievement",
+      "achievement_id": 284537
+    },
+    {
+      "id": "Ach_284545",
+      "label": "Simple, No Threat, AND Ugly!",
+      "kind": "achievement",
+      "achievement_id": 284545
+    },
+    {
+      "id": "Ach_82298",
+      "label": "Learning from Home",
+      "kind": "achievement",
+      "achievement_id": 82298
+    },
+    {
+      "id": "Ach_82300",
+      "label": "A Dragon's Heart Is Made of Stone",
+      "kind": "achievement",
+      "achievement_id": 82300
+    },
+    {
+      "id": "Ach_82302",
+      "label": "Hollowing Out the Uglies",
+      "kind": "achievement",
+      "achievement_id": 82302
+    },
+    {
+      "id": "Ach_82303",
+      "label": "This Town Ain't Big Enough for the Lot of Us...",
+      "kind": "achievement",
+      "achievement_id": 82303
+    },
+    {
+      "id": "Ach_82304",
+      "label": "Reaping the Sheep",
+      "kind": "achievement",
+      "achievement_id": 82304
+    },
+    {
+      "id": "Ach_82328",
+      "label": "Sunny-Side-Up",
+      "kind": "achievement",
+      "achievement_id": 82328
+    },
+    {
+      "id": "Ach_82305",
+      "label": "Keeping the Peace",
+      "kind": "achievement",
+      "achievement_id": 82305
+    },
+    {
+      "id": "Ach_82307",
+      "label": "Birds and Pits",
+      "kind": "achievement",
+      "achievement_id": 82307
+    },
+    {
+      "id": "Ach_82306",
+      "label": "A Broad Expanse",
+      "kind": "achievement",
+      "achievement_id": 82306
+    },
+    {
+      "id": "Ach_82308",
+      "label": "Slippery Slopes",
+      "kind": "achievement",
+      "achievement_id": 82308
+    },
+    {
+      "id": "Ach_82309",
+      "label": "He Should Watch His Back",
+      "kind": "achievement",
+      "achievement_id": 82309
+    },
+    {
+      "id": "Ach_82329",
+      "label": "Though Darkness, I Fly",
+      "kind": "achievement",
+      "achievement_id": 82329
+    },
+    {
+      "id": "Ach_82310",
+      "label": "Magical Mischiveous Mages",
+      "kind": "achievement",
+      "achievement_id": 82310
+    },
+    {
+      "id": "Ach_82311",
+      "label": "High Altitude Antics",
+      "kind": "achievement",
+      "achievement_id": 82311
+    },
+    {
+      "id": "Ach_82312",
+      "label": "Caves Among the Clouds",
+      "kind": "achievement",
+      "achievement_id": 82312
+    },
+    {
+      "id": "Ach_82313",
+      "label": "Peak Wizardry",
+      "kind": "achievement",
+      "achievement_id": 82313
+    },
+    {
+      "id": "Ach_82314",
+      "label": "Leave Him Wheezing",
+      "kind": "achievement",
+      "achievement_id": 82314
+    },
+    {
+      "id": "Ach_82330",
+      "label": "Among the Singing Stones",
+      "kind": "achievement",
+      "achievement_id": 82330
+    },
+    {
+      "id": "Ach_82315",
+      "label": "A Pinch of This, a Dash of That",
+      "kind": "achievement",
+      "achievement_id": 82315
+    },
+    {
+      "id": "Ach_82316",
+      "label": "An Electrifying Experience",
+      "kind": "achievement",
+      "achievement_id": 82316
+    },
+    {
+      "id": "Ach_82317",
+      "label": "Metal Meets Mire",
+      "kind": "achievement",
+      "achievement_id": 82317
+    },
+    {
+      "id": "Ach_82318",
+      "label": "Charging Makes the World Go Round",
+      "kind": "achievement",
+      "achievement_id": 82318
+    },
+    {
+      "id": "Ach_82319",
+      "label": "Topple the Tin Man",
+      "kind": "achievement",
+      "achievement_id": 82319
+    },
+    {
+      "id": "Ach_82331",
+      "label": "Wild Flying Dude!",
+      "kind": "achievement",
+      "achievement_id": 82331
+    },
+    {
+      "id": "Ach_82320",
+      "label": "Life is a Dream, Dragon",
+      "kind": "achievement",
+      "achievement_id": 82320
+    },
+    {
+      "id": "Ach_82321",
+      "label": "Lightbringer",
+      "kind": "achievement",
+      "achievement_id": 82321
+    },
+    {
+      "id": "Ach_82322",
+      "label": "Sir Spyro the Brave",
+      "kind": "achievement",
+      "achievement_id": 82322
+    },
+    {
+      "id": "Ach_82323",
+      "label": "Spooky Scary",
+      "kind": "achievement",
+      "achievement_id": 82323
+    },
+    {
+      "id": "Ach_82324",
+      "label": "Spyro the Fool",
+      "kind": "achievement",
+      "achievement_id": 82324
+    },
+    {
+      "id": "Ach_82332",
+      "label": "Sky Sliding",
+      "kind": "achievement",
+      "achievement_id": 82332
+    },
+    {
+      "id": "Ach_82325",
+      "label": "Gnasty Home You Have Here",
+      "kind": "achievement",
+      "achievement_id": 82325
+    },
+    {
+      "id": "Ach_82326",
+      "label": "The Gnastiest Cove",
+      "kind": "achievement",
+      "achievement_id": 82326
+    },
+    {
+      "id": "Ach_82327",
+      "label": "A Harbor Full of Gnorcs",
+      "kind": "achievement",
+      "achievement_id": 82327
+    },
+    {
+      "id": "Ach_82333",
+      "label": "Gnastys Gnoing, Gnoing, Gnone!",
+      "kind": "achievement",
+      "achievement_id": 82333
+    },
+    {
+      "id": "Ach_82299",
+      "label": "The Loot of Thirty-Four Worlds",
+      "kind": "achievement",
+      "achievement_id": 82299
+    },
+    {
+      "id": "Ach_82296",
+      "label": "Get a Life",
+      "kind": "achievement",
+      "achievement_id": 82296
+    },
+    {
+      "id": "Ach_637063",
+      "label": "A Dragon's Life",
+      "kind": "achievement",
+      "achievement_id": 637063
+    },
+    {
+      "id": "Ach_637064",
+      "label": "A Peaceful Life",
+      "kind": "achievement",
+      "achievement_id": 637064
+    },
+    {
+      "id": "Ach_637065",
+      "label": "Magical Life Extension",
+      "kind": "achievement",
+      "achievement_id": 637065
+    },
+    {
+      "id": "Ach_637066",
+      "label": "Heart of an Ox, er... Dragon",
+      "kind": "achievement",
+      "achievement_id": 637066
+    },
+    {
+      "id": "Ach_637067",
+      "label": "Living the Weavers Dream",
+      "kind": "achievement",
+      "achievement_id": 637067
+    },
+    {
+      "id": "Ach_637068",
+      "label": "A Life Worth Living",
+      "kind": "achievement",
+      "achievement_id": 637068
+    },
+    {
+      "id": "Ach_284540",
+      "label": "Suspicious Stepping Stones",
+      "kind": "achievement",
+      "achievement_id": 284540
+    },
+    {
+      "id": "Ach_637069",
+      "label": "Flowers Burning, and Birds Singing...",
+      "kind": "achievement",
+      "achievement_id": 637069
+    },
+    {
+      "id": "Ach_637070",
+      "label": "A Dark Day for the Herd",
+      "kind": "achievement",
+      "achievement_id": 637070
+    },
+    {
+      "id": "Ach_637071",
+      "label": "Gotta Make 'Em Shine Somehow",
+      "kind": "achievement",
+      "achievement_id": 637071
+    },
+    {
+      "id": "Ach_637072",
+      "label": "Head-On Collision",
+      "kind": "achievement",
+      "achievement_id": 637072
+    },
+    {
+      "id": "Ach_82375",
+      "label": "Solid Spyro",
+      "kind": "achievement",
+      "achievement_id": 82375
+    },
+    {
+      "id": "Ach_82301",
+      "label": "Faster Than Light",
+      "kind": "achievement",
+      "achievement_id": 82301
+    },
+    {
+      "id": "Ach_637073",
+      "label": "There Is No Escaping Spyro the Dragon!",
+      "kind": "achievement",
+      "achievement_id": 637073
+    },
+    {
+      "id": "Ach_637074",
+      "label": "Scale Hardening",
+      "kind": "achievement",
+      "achievement_id": 637074
+    },
+    {
+      "id": "Ach_637075",
+      "label": "Cliffs Pose No Fear",
+      "kind": "achievement",
+      "achievement_id": 637075
+    },
+    {
+      "id": "Ach_637076",
+      "label": "Causing a Flap",
+      "kind": "achievement",
+      "achievement_id": 637076
+    },
+    {
+      "id": "Ach_637077",
+      "label": "Medically Mandated Rest",
+      "kind": "achievement",
+      "achievement_id": 637077
+    },
+    {
+      "id": "Ach_82356",
+      "label": "Soaring Under the Moonlight!",
+      "kind": "achievement",
+      "achievement_id": 82356
+    },
+    {
+      "id": "Ach_637078",
+      "label": "Magical Feet",
+      "kind": "achievement",
+      "achievement_id": 637078
+    },
+    {
+      "id": "Ach_637079",
+      "label": "Nimble as a Goat",
+      "kind": "achievement",
+      "achievement_id": 637079
+    },
+    {
+      "id": "Ach_637080",
+      "label": "I Hate Those Bugs!",
+      "kind": "achievement",
+      "achievement_id": 637080
+    },
+    {
+      "id": "Ach_637081",
+      "label": "Hyperspeed Roundabout",
+      "kind": "achievement",
+      "achievement_id": 637081
+    },
+    {
+      "id": "Ach_82694",
+      "label": "I Blow Harder",
+      "kind": "achievement",
+      "achievement_id": 82694
+    },
+    {
+      "id": "Ach_82372",
+      "label": "Zooming On Past",
+      "kind": "achievement",
+      "achievement_id": 82372
+    },
+    {
+      "id": "Ach_637082",
+      "label": "Swamp Gardening",
+      "kind": "achievement",
+      "achievement_id": 637082
+    },
+    {
+      "id": "Ach_284543",
+      "label": "Dragon Gumbo Jamboree",
+      "kind": "achievement",
+      "achievement_id": 284543
+    },
+    {
+      "id": "Ach_637083",
+      "label": "Spread Your Wings, Spyro!",
+      "kind": "achievement",
+      "achievement_id": 637083
+    },
+    {
+      "id": "Ach_637084",
+      "label": "I'm Feeling a Bit Lazy Today",
+      "kind": "achievement",
+      "achievement_id": 637084
+    },
+    {
+      "id": "Ach_637085",
+      "label": "Construct, Self-Destruct",
+      "kind": "achievement",
+      "achievement_id": 637085
+    },
+    {
+      "id": "Ach_82373",
+      "label": "Woah, You're Crazy Fast!",
+      "kind": "achievement",
+      "achievement_id": 82373
+    },
+    {
+      "id": "Ach_637086",
+      "label": "Big Problems Require Small Solutions",
+      "kind": "achievement",
+      "achievement_id": 637086
+    },
+    {
+      "id": "Ach_637087",
+      "label": "Devil Defying Stunts",
+      "kind": "achievement",
+      "achievement_id": 637087
+    },
+    {
+      "id": "Ach_637088",
+      "label": "Lofty Perch",
+      "kind": "achievement",
+      "achievement_id": 637088
+    },
+    {
+      "id": "Ach_637089",
+      "label": "Calm Down Fairies",
+      "kind": "achievement",
+      "achievement_id": 637089
+    },
+    {
+      "id": "Ach_82729",
+      "label": "Wow, What a Joke...",
+      "kind": "achievement",
+      "achievement_id": 82729
+    },
+    {
+      "id": "Ach_82374",
+      "label": "The Frozen Flutter",
+      "kind": "achievement",
+      "achievement_id": 82374
+    },
+    {
+      "id": "Ach_637090",
+      "label": "Keeping My Inner Dragon in Check",
+      "kind": "achievement",
+      "achievement_id": 637090
+    },
+    {
+      "id": "Ach_637099",
+      "label": "Oh My God... Literally",
+      "kind": "achievement",
+      "achievement_id": 637099
+    },
+    {
+      "id": "Ach_284542",
+      "label": "Dragonpocalypse Now",
+      "kind": "achievement",
+      "achievement_id": 284542
+    },
+    {
+      "id": "Ach_82730",
+      "label": "Gnasty Gnorc? He's TOAST!",
+      "kind": "achievement",
+      "achievement_id": 82730
+    },
+    {
+      "id": "Ach_637091",
+      "label": "Lava Bath",
+      "kind": "achievement",
+      "achievement_id": 637091
+    },
+    {
+      "id": "Ach_284541",
+      "label": "Wind Through Your... Hair?",
+      "kind": "achievement",
+      "achievement_id": 284541
+    },
+    {
+      "id": "Ach_637092",
+      "label": "Dragons Love New Experiences",
+      "kind": "achievement",
+      "achievement_id": 637092
+    }
+  ],
+  "edges": [
+    {
+      "from": "ArtisansWorld",
+      "to": "ArtisansHome",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-137-1"
+      ]
+    },
+    {
+      "from": "PeaceKeepersWorld",
+      "to": "PeaceKeepersHome",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-43-2"
+      ]
+    },
+    {
+      "from": "MagicCraftersWorld",
+      "to": "MagicCraftersHome",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-139-14"
+      ]
+    },
+    {
+      "from": "BeastMakersWorld",
+      "to": "BeastMakersHome",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-24-7"
+      ]
+    },
+    {
+      "from": "DreamWeaversWorld",
+      "to": "DreamWeaversHome",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-25-2"
+      ]
+    },
+    {
+      "from": "GnastysWorld",
+      "to": "GnorcGnexus",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-25-9",
+        "gf1-114-10"
+      ]
+    },
+    {
+      "from": "TitleScreen",
+      "to": "ArtisansHome",
+      "kind": "leads_to",
+      "label": "New game",
+      "fact_ids": [
+        "gf3-38-5"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "StoneHill",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-31-1",
+        "gf1-30-23"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "DarkHollow",
+      "kind": "leads_to",
+      "label": "Portal in the bushy area",
+      "fact_ids": [
+        "gf1-34-3",
+        "gf1-29-19"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "TownSquare",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-36-1"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "SunnyFlight",
+      "kind": "requires",
+      "label": "Step on the 5 stepping stones",
+      "fact_ids": [
+        "gf1-38-1",
+        "gf1-38-2"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "Toasty",
+      "kind": "requires",
+      "label": "After any Return Home vortex",
+      "fact_ids": [
+        "gf1-40-3"
+      ]
+    },
+    {
+      "from": "Toasty",
+      "to": "Boss_Toasty",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-40-7"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "PeaceKeepersHome",
+      "kind": "requires",
+      "label": "Balloonist: 10 dragons",
+      "fact_ids": [
+        "gf1-42-6",
+        "gf2-4-5",
+        "gf1-30-11"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "DryCanyon",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-46-6"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "CliffTown",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-49-3"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "IceCavern",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-52-3",
+        "gf1-52-2"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "NightFlight",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-56-3"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "DoctorShemp",
+      "kind": "leads_to",
+      "label": "Portal on the middle island",
+      "fact_ids": [
+        "gf1-45-5"
+      ]
+    },
+    {
+      "from": "DoctorShemp",
+      "to": "Boss_DoctorShemp",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-131-13"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "MagicCraftersHome",
+      "kind": "requires",
+      "label": "Balloonist: 1200 gems",
+      "fact_ids": [
+        "gf1-44-22",
+        "gf2-9-11"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "AlpineRidge",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-63-5"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "HighCaves",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-66-5"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "WizardPeak",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-70-1",
+        "gf1-61-20"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "Blowhard",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-75-1"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "CrystalFlight",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-74-1"
+      ]
+    },
+    {
+      "from": "Blowhard",
+      "to": "Boss_Blowhard",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-75-2"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "BeastMakersHome",
+      "kind": "requires",
+      "label": "Balloonist: 5 dragon eggs",
+      "fact_ids": [
+        "gf1-77-1",
+        "gf1-78-2"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "TerraceVillage",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-81-2"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "MistyBog",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-84-1",
+        "gf1-83-8"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "TreeTops",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-87-6"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "WildFlight",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-91-2"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "Metalhead",
+      "kind": "leads_to",
+      "label": "Bridge and whirlwind near Tree Tops",
+      "fact_ids": [
+        "gf1-92-2"
+      ]
+    },
+    {
+      "from": "Metalhead",
+      "to": "Boss_Metalhead",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-92-6"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "DreamWeaversHome",
+      "kind": "requires",
+      "label": "Balloonist: 50 dragons",
+      "fact_ids": [
+        "gf1-96-16",
+        "gf2-24-15"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "DarkPassage",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-98-2"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "LoftyCastle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-101-3",
+        "gf1-96-11"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "HauntedTowers",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-105-7"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "IcyFlight",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-109-1",
+        "gf1-97-11"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "Jacques",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-32-12",
+        "gf1-110-3"
+      ]
+    },
+    {
+      "from": "Jacques",
+      "to": "Boss_Jacques",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-133-3"
+      ]
+    },
+    {
+      "from": "IcyFlight",
+      "to": "IcyFlight_Missable",
+      "kind": "missable_before",
+      "label": "Train tracks",
+      "fact_ids": [
+        "gf2-40-3"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "GnorcGnexus",
+      "kind": "requires",
+      "label": "Balloonist: 6000 gems",
+      "fact_ids": [
+        "gf1-113-6",
+        "gf1-114-6"
+      ]
+    },
+    {
+      "from": "GnorcGnexus",
+      "to": "GnorcCove",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-119-1",
+        "gf1-115-13"
+      ]
+    },
+    {
+      "from": "GnorcCove",
+      "to": "TwilightHarbor",
+      "kind": "leads_to",
+      "label": "Next dragon head",
+      "fact_ids": [
+        "gf1-116-4",
+        "gf1-122-1"
+      ]
+    },
+    {
+      "from": "TwilightHarbor",
+      "to": "GnastyGnorc",
+      "kind": "leads_to",
+      "label": "Middle dragon head",
+      "fact_ids": [
+        "gf1-117-6",
+        "gf1-124-3"
+      ]
+    },
+    {
+      "from": "GnastyGnorc",
+      "to": "Boss_GnastyGnorc",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-124-4"
+      ]
+    },
+    {
+      "from": "Boss_GnastyGnorc",
+      "to": "Magnus_Return",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-28-17",
+        "ra-comments-45-1"
+      ]
+    },
+    {
+      "from": "Magnus_Return",
+      "to": "GnastysLoot",
+      "kind": "requires",
+      "label": "100%: 12000 gems, 80 dragons, 12 eggs",
+      "fact_ids": [
+        "gf1-118-5",
+        "gf1-126-6",
+        "gf2-40-15"
+      ]
+    },
+    {
+      "from": "Ach_284533",
+      "to": "PeaceKeepersHome",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-42-6",
+        "gf1-30-11"
+      ]
+    },
+    {
+      "from": "Ach_284534",
+      "to": "DreamWeaversHome",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-96-16",
+        "gf2-24-15"
+      ]
+    },
+    {
+      "from": "Ach_284535",
+      "to": "GnastysLoot",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-126-6",
+        "gf1-118-6"
+      ]
+    },
+    {
+      "from": "StoneHill",
+      "to": "Ach_284538",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-31-4",
+        "gf1-32-27"
+      ]
+    },
+    {
+      "from": "Ach_284539",
+      "to": "BeastMakersHome",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-77-1",
+        "gf1-78-2"
+      ]
+    },
+    {
+      "from": "Ach_82295",
+      "to": "GnastysLoot",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-126-6",
+        "gf2-40-15"
+      ]
+    },
+    {
+      "from": "Ach_284536",
+      "to": "MagicCraftersHome",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-44-22",
+        "gf1-60-1"
+      ]
+    },
+    {
+      "from": "Ach_284537",
+      "to": "GnorcGnexus",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-113-6",
+        "gf1-114-6"
+      ]
+    },
+    {
+      "from": "Boss_GnastyGnorc",
+      "to": "Ach_284545",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-37-8",
+        "gf4-30-18"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "Ach_82298",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-137-3",
+        "gf1-137-4"
+      ]
+    },
+    {
+      "from": "StoneHill",
+      "to": "Ach_82300",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-4",
+        "gf1-137-6"
+      ]
+    },
+    {
+      "from": "DarkHollow",
+      "to": "Ach_82302",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-138-1",
+        "gf1-138-2"
+      ]
+    },
+    {
+      "from": "TownSquare",
+      "to": "Ach_82303",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-27",
+        "gf1-138-5"
+      ]
+    },
+    {
+      "from": "Toasty",
+      "to": "Ach_82304",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-138-9",
+        "gf1-138-10"
+      ]
+    },
+    {
+      "from": "SunnyFlight",
+      "to": "Ach_82328",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-138-8",
+        "gf1-38-3"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "Ach_82305",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-12",
+        "gf1-138-13"
+      ]
+    },
+    {
+      "from": "DryCanyon",
+      "to": "Ach_82307",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-15",
+        "gf1-138-18"
+      ]
+    },
+    {
+      "from": "CliffTown",
+      "to": "Ach_82306",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-13",
+        "gf1-139-1"
+      ]
+    },
+    {
+      "from": "IceCavern",
+      "to": "Ach_82308",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-139-4",
+        "gf1-139-5"
+      ]
+    },
+    {
+      "from": "DoctorShemp",
+      "to": "Ach_82309",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-139-9",
+        "gf1-139-10"
+      ]
+    },
+    {
+      "from": "NightFlight",
+      "to": "Ach_82329",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-139-8",
+        "gf2-16-11"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "Ach_82310",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-16",
+        "checklist-eggs-2-19"
+      ]
+    },
+    {
+      "from": "AlpineRidge",
+      "to": "Ach_82311",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-3-7",
+        "checklist-eggs-3-8"
+      ]
+    },
+    {
+      "from": "HighCaves",
+      "to": "Ach_82312",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-2-22",
+        "checklist-eggs-2-25"
+      ]
+    },
+    {
+      "from": "WizardPeak",
+      "to": "Ach_82313",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-eggs-3-2",
+        "checklist-eggs-3-4"
+      ]
+    },
+    {
+      "from": "Blowhard",
+      "to": "Ach_82314",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-140-20",
+        "gf1-140-21"
+      ]
+    },
+    {
+      "from": "CrystalFlight",
+      "to": "Ach_82330",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-140-19",
+        "gf1-74-2"
+      ]
+    },
+    {
+      "from": "BeastMakersHome",
+      "to": "Ach_82315",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-140-23",
+        "gf1-140-24"
+      ]
+    },
+    {
+      "from": "TerraceVillage",
+      "to": "Ach_82316",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-141-1",
+        "gf1-141-2"
+      ]
+    },
+    {
+      "from": "MistyBog",
+      "to": "Ach_82317",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-141-4",
+        "gf1-141-5"
+      ]
+    },
+    {
+      "from": "TreeTops",
+      "to": "Ach_82318",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-141-9",
+        "gf1-141-10"
+      ]
+    },
+    {
+      "from": "Metalhead",
+      "to": "Ach_82319",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-141-16",
+        "gf1-141-17"
+      ]
+    },
+    {
+      "from": "WildFlight",
+      "to": "Ach_82331",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-141-15",
+        "gf1-91-10"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "Ach_82320",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-141-21",
+        "gf1-141-22"
+      ]
+    },
+    {
+      "from": "DarkPassage",
+      "to": "Ach_82321",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-142-1",
+        "gf1-142-2"
+      ]
+    },
+    {
+      "from": "LoftyCastle",
+      "to": "Ach_82322",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-142-7",
+        "gf1-142-8"
+      ]
+    },
+    {
+      "from": "HauntedTowers",
+      "to": "Ach_82323",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-105-8",
+        "gf1-142-13"
+      ]
+    },
+    {
+      "from": "Jacques",
+      "to": "Ach_82324",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-142-18",
+        "gf1-142-19"
+      ]
+    },
+    {
+      "from": "IcyFlight",
+      "to": "Ach_82332",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-109-2",
+        "gf1-142-17"
+      ]
+    },
+    {
+      "from": "Magnus_Return",
+      "to": "Ach_82325",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-142-29",
+        "gf1-142-30"
+      ]
+    },
+    {
+      "from": "GnorcCove",
+      "to": "Ach_82326",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-143-1",
+        "gf1-143-2"
+      ]
+    },
+    {
+      "from": "TwilightHarbor",
+      "to": "Ach_82327",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-122-3",
+        "gf1-122-4"
+      ]
+    },
+    {
+      "from": "GnastyGnorc",
+      "to": "Ach_82333",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-126-1",
+        "gf1-126-4"
+      ]
+    },
+    {
+      "from": "GnastysLoot",
+      "to": "Ach_82299",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-46-2"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "Ach_82296",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-14-10",
+        "gf3-4-7"
+      ]
+    },
+    {
+      "from": "ArtisansWorld",
+      "to": "Ach_637063",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-51-1",
+        "ra-comments-51-2"
+      ]
+    },
+    {
+      "from": "PeaceKeepersWorld",
+      "to": "Ach_637064",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-52-1",
+        "ra-comments-52-2"
+      ]
+    },
+    {
+      "from": "MagicCraftersWorld",
+      "to": "Ach_637065",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-106-16",
+        "ra-comments-53-1"
+      ]
+    },
+    {
+      "from": "BeastMakersWorld",
+      "to": "Ach_637066",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-54-1",
+        "ra-comments-54-2"
+      ]
+    },
+    {
+      "from": "DreamWeaversWorld",
+      "to": "Ach_637067",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-55-1",
+        "ra-comments-55-2"
+      ]
+    },
+    {
+      "from": "GnastysWorld",
+      "to": "Ach_637068",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-56-1",
+        "ra-comments-56-2"
+      ]
+    },
+    {
+      "from": "ArtisansHome",
+      "to": "Ach_284540",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-8-8",
+        "ra-comments-57-1"
+      ]
+    },
+    {
+      "from": "StoneHill",
+      "to": "Ach_637070",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-31-11",
+        "gf3-7-7"
+      ]
+    },
+    {
+      "from": "DarkHollow",
+      "to": "Ach_637071",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-60-1",
+        "ra-comments-60-2"
+      ]
+    },
+    {
+      "from": "TownSquare",
+      "to": "Ach_637072",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-5-7",
+        "gf3-40-2"
+      ]
+    },
+    {
+      "from": "Boss_Toasty",
+      "to": "Ach_82375",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-11-4",
+        "gf3-11-5"
+      ]
+    },
+    {
+      "from": "SunnyFlight",
+      "to": "Ach_82301",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-10-2",
+        "gf4-11-8"
+      ]
+    },
+    {
+      "from": "PeaceKeepersHome",
+      "to": "Ach_637073",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-12-3",
+        "gf4-11-27"
+      ]
+    },
+    {
+      "from": "DryCanyon",
+      "to": "Ach_637074",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-68-1",
+        "ra-comments-68-2"
+      ]
+    },
+    {
+      "from": "CliffTown",
+      "to": "Ach_637075",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-69-1",
+        "ra-comments-69-2"
+      ]
+    },
+    {
+      "from": "IceCavern",
+      "to": "Ach_637076",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-70-1",
+        "ra-comments-70-2"
+      ]
+    },
+    {
+      "from": "Boss_DoctorShemp",
+      "to": "Ach_637077",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-16-1",
+        "gf2-16-2"
+      ]
+    },
+    {
+      "from": "NightFlight",
+      "to": "Ach_82356",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-16-2",
+        "gf3-16-3"
+      ]
+    },
+    {
+      "from": "MagicCraftersHome",
+      "to": "Ach_637078",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-73-1",
+        "ra-comments-73-2"
+      ]
+    },
+    {
+      "from": "AlpineRidge",
+      "to": "Ach_637079",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-76-1",
+        "ra-comments-76-2"
+      ]
+    },
+    {
+      "from": "HighCaves",
+      "to": "Ach_637080",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-66-8",
+        "gf1-67-2"
+      ]
+    },
+    {
+      "from": "WizardPeak",
+      "to": "Ach_637081",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-84-1",
+        "ra-comments-84-2"
+      ]
+    },
+    {
+      "from": "Blowhard",
+      "to": "Ach_82694",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-2-1",
+        "ra-comments-85-1"
+      ]
+    },
+    {
+      "from": "CrystalFlight",
+      "to": "Ach_82372",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-74-3",
+        "gf1-74-4"
+      ]
+    },
+    {
+      "from": "TerraceVillage",
+      "to": "Ach_284543",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-40-10",
+        "ra-comments-92-1"
+      ]
+    },
+    {
+      "from": "MistyBog",
+      "to": "Ach_637083",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-3-2",
+        "ra-comments-93-1"
+      ]
+    },
+    {
+      "from": "TreeTops",
+      "to": "Ach_637084",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-96-1",
+        "ra-comments-96-2"
+      ]
+    },
+    {
+      "from": "Boss_Metalhead",
+      "to": "Ach_637085",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-98-1",
+        "ra-comments-98-2"
+      ]
+    },
+    {
+      "from": "WildFlight",
+      "to": "Ach_82373",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-91-3",
+        "gf1-91-4"
+      ]
+    },
+    {
+      "from": "DreamWeaversHome",
+      "to": "Ach_637086",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-96-13",
+        "gf2-32-5"
+      ]
+    },
+    {
+      "from": "DarkPassage",
+      "to": "Ach_637087",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-102-1",
+        "ra-comments-102-2"
+      ]
+    },
+    {
+      "from": "LoftyCastle",
+      "to": "Ach_637088",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-104-1",
+        "ra-comments-104-2"
+      ]
+    },
+    {
+      "from": "HauntedTowers",
+      "to": "Ach_637089",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-36-15",
+        "gf2-38-4"
+      ]
+    },
+    {
+      "from": "Boss_Jacques",
+      "to": "Ach_82729",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-33-8",
+        "gf4-28-2"
+      ]
+    },
+    {
+      "from": "IcyFlight",
+      "to": "Ach_82374",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-1-3",
+        "ra-comments-107-1"
+      ]
+    },
+    {
+      "from": "GnorcCove",
+      "to": "Ach_637090",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-41-9",
+        "gf4-29-6"
+      ]
+    },
+    {
+      "from": "TwilightHarbor",
+      "to": "Ach_637099",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-110-2",
+        "ra-comments-110-3"
+      ]
+    },
+    {
+      "from": "TwilightHarbor",
+      "to": "Ach_284542",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-42-6",
+        "ra-comments-111-1"
+      ]
+    },
+    {
+      "from": "Boss_GnastyGnorc",
+      "to": "Ach_82730",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-124-4",
+        "gf1-125-12"
+      ]
+    },
+    {
+      "from": "GnastysLoot",
+      "to": "Ach_637091",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-116-1",
+        "ra-comments-116-2"
+      ]
+    },
+    {
+      "from": "DryCanyon",
+      "to": "Ach_284541",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-117-8"
+      ]
+    },
+    {
+      "from": "TitleScreen",
+      "to": "Ach_637092",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-118-1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2906 @@
+"With flames from the dragon of darkness...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               SPYRO THE DRAGON
+                              An FAQ/Walkthrough
+                           For the Sony PlayStation
+                       Copyright 2005-2006 Richard Beast
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+...the sunlight blinds his eyes." - Led Zeppelin
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
+-!NOTE!-
+This guide, as you will soon see, is a fair size. Seeing as how this takes
+effect, you will most likely be lost in trying to find out what you want to
+read. There is one way to get to it, instantly. Press Ctrl + F, and then look
+for whatever you want. Let's say you want to go to the Basics section. Type in
+"4. Basics", and then you'll go to the basics section, instantly! Pretty neat,
+eh?
+
+1. Introduction
+2. Legal Disclaimer
+3. Contact Rules
+4. Basics
+5. Walkthrough
+   5a. Artisans Home
+   5b. Stone Hill
+   5c. Town Square
+   5d. Dark Hollow
+   5e. Toasty
+   5f. Sunny Flight
+   5g. Peace Keepers Home
+   5h. Ice Cavern
+   5i. Dry Canyon
+   5j. Cliff Town
+   5k. Doctor Shemp
+   5l. Night Flight
+   5m. Magic Crafters Home
+   5n. Wizard Peak
+   5o. Alpine Ridge
+   5p. High Caves
+   5q. Blowhard
+   5r. Crystal Flight
+   5s. Beast Makers Home
+   5t. Terrace Village
+   5u. Misty Bog
+   5v. Tree Tops
+   5w. Metalhead
+   5x. Wild Flight
+   5y. Dream Weavers Home
+   5z. Dark Passage
+  5aa. Lofty Castle
+  5bb. Haunted Towers
+  5cc. Jacques
+  5dd. Icy Flight
+  5ee. Gnorc Gnexus
+  5ff. Gnorc Cove
+  5gg. Twilight Harbor
+  5hh. Gnasty Gnorc
+  5ii. Gnasty's Loot
+6. Credits
+
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+   ~+{X STD X}+ --- {  +~+  {    1. INTRODUCTION  }  +~+  } --- +{X STD X}+~
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+
+Well... I suppose you remember my very mediocre Dragon FAQ and Boss FAQ? Having
+played this gem once again, I decided that I'd add a bit to both of them, and
+make a walkthrough too. Call it something to do to pass a boring Saturday
+during an equally boring summer. Anyway, I'm your host Richard Beast, and this
+is perhaps the thirtieth time that you've opened up a game and seen my name
+next to it. Call that sad, shocking, strange, whatever ya want, I don't care
+much either way. =P
+
+This guide is probably one of my more straight forward ones, but you've gotta
+read this introduction first (you know it), then the legal disclaimer and
+contact rules, and then the basics and walkthrough, which will take you through
+all six worlds, and at the end of each level, I'll list the dragons found there
+for easy reference, if you're not one who likes to read much. Of course,
+they'll be covered in the walkthrough too, but that's just so that you can
+explore the guide easily. Then just an outro and credits... dig it. Anyway, no
+rambling here. Let's get it onnn.
+
+- Richard "Gbness" Beast
+
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+  ~+{X STD X}+ -- {  +~+  {    2. LEGAL DISCLAIMER  }  +~+  } -- +{X STD X}+~
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+
+You are NOT permitted to put this FAQ on your site without my permission first.
+All you have to do is email me or IM me saying you want this FAQ on your site,
+then you can tell me your site and the chance is high that I'll let you. But if
+you put this FAQ on your site without my permission I swear you will regret it.
+If I let you, not ONE word should be changed from this FAQ! NOT ONE! Got it?
+Good. Also, make sure that no money is involved. If you want this FAQ to be sold
+on eBay, then just forget about it, man. And don't sell this guide either, or
+pay people to use it, or you'll be in such big trouble you don't want to think.
+
+Another little note is that I will not have this guide hosted on many other web
+sites besides GameNotOver, GameFAQs, IGN, and Neoseeker. You need full-on
+permission if it's not one of the four above sites. I am sick of people ripping
+me off (I have been ripped off three times in the past), so if I don't like
+your site, I won't let my guide be posted on it. I am sorry, but this is how it
+has to be. If you ask politely and I like your site, you will definitely have
+the luck of getting it up there. Thank you very much.
+
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+   ~+{X STD X}+ --- {  +~+  {   3. CONTACT RULES  }  +~+  } --- +{X STD X}+~
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+
+You can e-mail me if there is a question you wish to ask that hasn't been
+answered in the guide, but I REALLY don't want to bother answering questions
+that have already been done, answered, and done again in the guide, if it isn't
+too much trouble. Feel free to tell me if there's something I've forgotten,
+however.
+
+My e-mail address is richard_power1000 [at] yahoo [dot] com. Except, replace
+the [at] and spaces with a "@" symbol and the [dot] and spaces with a period; I
+have to write like that so I don't get a dozen spam bots e-mailing me and
+getting me viruses. Just be polite in the e-mail, don't talk like "omg wtf rich
+ur gides r t3h su><0rz & how du i beat peace of toste", and don't ask something
+that's already been answered in the guide, and I'll respond.
+
+And don't bother sending things like:
+
+"You friggin' idiot. Your guides suck, you suck, and everything about you
+sucks. DIE DIE DIE!"
+
+"BURN IN THE FLAMES OF HELL, YOU STUPID RETARD!!!"
+
+"What the hell did you think you were doing writing all that garbage, you piece
+of crap?
+
+"I hope you fall down the stairs and break every bone in your body!"
+
+"u su><0rz, eVrYtInG BoUt u sUx, dIe ass!!!!!!1"
+
+I will laugh at such e-mails and delete them. So... if you're not just playing
+a friendly joke on me or something, don't bother with that crap cos I've been
+through with it too much.
+
+Okay, that's enough for that. My AIM name is rbeast288; sorry, I don't have MSN
+or YIM. The list is closed, but I'll add you if you ask politely via e-mail. I
+like chatting with people, but try not to overdo it on AIM if I add you to my
+list. Since I am busy a majority of the time and all.
+
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+      ~+{X STD X}+ --- {  +~+  {    4. BASICS  }  +~+  } --- +{X STD X}+~
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+
+Spyro the Dragon isn't the most complicated of games, even if its initials is...
+alright, sorry about that. Seriously, you take the role of Spyro, a small
+purple dragon who's really an underling to the rest of the Dragon Kingdom. A
+villain named Gnasty Gnorc has turned the rest of the dragons into crystal and
+turned their treasure into monsters, so it's up to Spyro to collect 12,000 gems
+and free 80 dragons. Not the greatest of plots, but it isn't really intended to
+be. We take place across five worlds:
+
+The Artisans (a lively world of plains and a whole lot of dragons)
+The Peace Keepers (a darker world across the deserts, with annoying vultures
+The Magic Crafters (a lighter world through the mountains, full of druids who
+have an obsession with moving things)
+The Beast Makers (a world through swampy terrain, with a bunch of weird things
+and fewer dragons)
+The Dream Weavers (a world through medieval territory, full of mages who control
+light and time, and knights)
+Gnasty's World (nothing more than a junkyard, but Gnasty's adopted base)
+
+Each of the first five worlds consists of the following: a "home" stage which is
+generally lighter than the other levels, three normal levels, one level that
+consists of a normal level and a boss at the end, and a secret "flight" level
+which is really kind of a bonus, but allows for lots of gem collection. As for
+gems, you've got five kinds: the rather useless reds, which are worth 1, the
+ugly greens which are worth 2, the beautiful blue sapphires which are worth 5,
+the purdy yellows which are worth 10, and of course, the rare purples worth 25.
+
+To complete a level, you've gotta free all the dragons and collect all the gems,
+which is never really that tough (with my help, that is) except in some nasty
+spots which make their heads shown at least once a world. As for finding gems,
+you can get them from killing enemies with your trusty horn charge or dragon
+flame, or by collecting 'em from chests. You've got the normal gold/red chests
+which can be opened in any way, metal chests which have to be charged, gold
+chests in which you have to flame then grab the gem, "propeller" chests which
+have to be flamed thrice; and "fireworks" chests which require backing off.
+
+Other than that, there's really little you need to know before starting... just
+jump in and have fun.
+
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+    ~+{X STD X}+ --- {  +~+  {    5. WALKTHROUGH  }  +~+  } --- +{X STD X}+~
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+
+Here we are, at the meat and bones of the guide. Shouldn't be too hard from here
+on, so... enjoy.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 4
+<- \ /  ++ ++  5a. Artisans Home  ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 100
+
+Probably the easiest place in the whole game; you merely have to walk a few
+steps from the entrance to free a dragon named Nestor there. Just in case you're
+too lazy to read the basics, you just have to stand on the platform a dragon is
+held on to free it, so it shouldn't be too hard for you from here. After he's
+freed, jump off the path that you're on, and move on to the hill to charge the
+gnorcs there. Or if you want to be a bit cruel, flame them and burn the flowers
+here.
+
+After the gnorcs are gone, glide from that hill to the small platform up ahead,
+which has a bit of treasure on it. Once you've got that, hop back down to the
+ground and walk around to the left, and into the garden maze. There are some
+gems scattered about here, but above all is an extra life, and at the end there,
+a portal to Dark Hollow. Don't take that yet, though. Instead, return to the
+left of that path where you found Nestor. If you can't remember, it's near a
+waterfall with five lily pads in the water.
+
+Delbin is held here, so might as well rescue him. As for the gnorc here, it'll
+take three flames to defeat him, but for each time you flame him, he drops gems,
+so make sure you pick them up. From here, head a bit to the right of that
+platform and that hill, and head through the little path there to find another
+garden full of gems, and a dragon named Argus to the right. That's not to
+mention a large dragon shaped head portal, which won't open until you've cleared
+out one of three worlds here: Stone Hill, Town Square, or Dark Hollow.
+
+Speaking of the former, head back a little bit from there to find some gnorcs
+and the portal to Stone Hill, but don't take that yet. Take care of the gnorcs,
+then climb the little platforms here, one by one, collecting the red gems as you
+go. From there, you'll see a path to the left, so you might as well follow it to
+reach a dragon named Tomas at the end. Before going down the path here, you may
+want to take a left and right to find a few individual gems scattered there, but
+you can't get up that tower yet, bugger.
+
+Jump down from here to find another gem wielding gnorc that needs to be flamed
+three times, and then enter the central tower to find a whirlwind... you'll find
+a whole lot of these in this game, so might as well get used to them. At the
+top, you'll find a portal to Town Square, and you can jump to reach the two
+towers on the left and right, although you'll have to climb back up for each
+one. By now, you should have four dragons and ALMOST a hundred gems... let's get
+the rest of them.
+
+Return to the large area at the beginning, near the garden maze, and go through
+the passage near its entrance. Collect the gems as you go, and then take a right
+to reach a balloonist, who will carry you to the Peace Keepers' home if you can
+free ten dragons. Four out of ten, that's not bad. By now you should have 100
+gems, so to continue, you can go to Stone Hill, Town Square, or Dark Hollow. My
+personal favorite and the easiest is Stone Hill... you know the way.
+
+Nestor
+=-=-=-=
+If you can't find Nestor, turn off the game right now. He's right in front of
+you. You just cannot miss him. Believe me, you CANNOT MISS HIM. He'll inform
+you to find ten dragons and then get to the balloonist to get to Peace Keepers.
+
+Delbin
+=-=-=-=
+Easy. From where Nestor is, glide to the ground and you'll see him right on the
+left of the screen. He's by the pond with the six pads in it. He'll tell you
+what Sparx is doing.
+
+Argus
+=-=-=-
+You'll see Argus around Stone Hill, north of there, next to the dragon skull.
+He'll tell you how to get into Toasty, that you have to complete a level to get
+inside.
+
+Tomas
+=-=-=-
+I'm honored, that's my brother's name. =P Well, in that little cave to where
+Town Square is, you'll find Tomas. The cave is on the upper-right side of this
+place. He's not easy to miss, if you're exploring. He'll teach you how to glide.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 4
+<- \ /  ++ ++  5b. Stone Hill  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 200
+
+Stone Hill, hardly any tougher than the Artisan home, starts immediately in a
+large grassy plain with some rams running about. Either charging them or flaming
+them works just fine. From here, anyway, there are three passages and a hole in
+the ground, but let's save the latter for later (indeed!). Start by entering the
+passage to the left, and inside, you'll find a dragon to free there, and that's
+not to mention a LOT of treasure chests. To quickly get them all, just charge
+in a clockwise manner around the room.
+
+After you've cleared that room out, enter the next one that was on the right of
+that passage, flaming the ram and getting all the loot inside, not to mention a
+dragon there. Once this old guy is freed, there's a Return Home Vortex there...
+but why take that yet? Jump off the cliff here, and yes, you heard me right, the
+beach is right there! We've no time to take a swim, though... head across the
+beach and into the cave on the other side, where you'll find some more chests
+and a key. What's that key for?
+
+You're soon to find out. Head back to the opposite side of the beach, where a
+whirlwind will take you back up the cliff. You'll find lots of these, let me
+tell ya. With that, now it's time to return to the area right at the beginning,
+and jump into that hole. Once inside, make sure you claim the loot, and rescue
+another dragon. But the first thing you'll probably notice is a chest with a
+keyhole? How do you open those? GIVE 'EM SOMETHING TO PLAY WITH! This one's
+favorite toy is the key, got milk?
+
+Get all the gems in here and then whirlwind it back up to the main area, and now
+it's time to go through that one last passage, to the largest area yet. It's to
+the far right side of the wall, in case you're looking. Once inside, start by
+going to the left and charging open the treasure chest, and taking care of the
+shepherds and rams around here. Funny how the shepherds are like old geezers and
+hit you with sticks instead of pieing you in the face. And they don't even bring
+German dogs, boohoo.
+
+Just make sure you've scouted the whole area out to find all the gems, and then
+enter the tower and whirlwind up to the top to find a dragon and some more gems,
+not to mention a cliff over yonder. From where you can immediately see, glide
+over there and start heading to the right until you find a creature in blue,
+laughing like a hyena and carrying an egg. That's a perfect candidate for the
+insane asylum, but meanwhile, charge after him until you're near him, and then
+flame him. You need all of these eggs that you can find.
+
+With that egg in your possession, you need to finish up on the cliff and at the
+ship on the other side of it, finding gems. Take note that you can't go beyond
+where the statues stand, since there's an invisible barrier of sorts there. It
+isn't hard to miss gems around the top of this cliff, but it seems a lot of them
+are closer to the barriers if you're just looking for those last few. Anyway,
+from here just exit the level or use the Return Home Vortex, and from Home,
+enter Town Square.
+
+Lindar
+=-=-=-=
+He's at the end of the leftmost tunnel, the one with the multitude of gems and
+chests in it. He'll tell you how to save your progress throughout the level. Boo
+to you.
+
+Astor
+=-=-=-
+Astor is at the end of the second tunnel, next to the beach. The tunnel is very
+short. He'll teach you how to instantly go right back to Home. Oh, and he'll
+offer Spyro a story too, like any other old geezer.
+
+Carvin
+=-=-=-=
+Carvin is in that hole that you can see at the beginning of this level. He'll
+inform you to eat butterflies, because then Spyro will be just as strong as he
+is. But I admit he is a big dragon.
+
+Gildas
+=-=-=-=
+Gildas is at the other end of Stone Hill, through the rightmost tunnel. To make
+it exact, he's at the top of the tower in the center of the grassy area. Get to
+the top with the whirlwind. He'll give Spyro some hints on gliding.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 4
+<- \ /  ++ ++  5c. Town Square  ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 200
+
+This place is probably a tad easier than Stone Hill as far as collecting gems is
+concerned. While Stone Hill was bigger and more spread out, Town Square is a
+little smaller and less spaced out. Right at the entrance is a huge flock of
+chickens, waiting to be flamed if Sparx isn't doing too well. Once at full
+health or whatnot, climb up the stairs and rescue a dragon there, then do what
+he says and glide over to the left to remember the Alamo. Actually, to go fight
+some bulls.
+
+It's probably better to flame them, since they don't die immediately if you
+charge them. Climb up the stairs on the left after they're done with, where you
+will see a gold chest with a blue gem on it. How do you open this? Flame it, and
+then a gem pops out. If you grab the gem as it comes out before it lands back in
+the box, the gem is yours and the box explodes. I would make a joke here, but
+being the nature I am, I'll refrain. Whatever. Just glide across another gap
+here and rescue a dragon.
+
+Once you're in the town itself, flame through, getting rid of the citizen gnorc
+and bulls. Just ignore the cliff on the opposite side for now, though, since
+that comes for a bit later. Climb up the stairs on the right instead, for some
+more chickens, gnorc wusses, bulls, and a huge crop of sweet gems, ripe for the
+taking. Clearing everything out, make good use of the yellow gem, which makes
+its first appearance known here. Make sure you free the dragon too, who is one
+step behind you.
+
+With that... what do you do now? Return home? There's still a dragon up there,
+though, and that's where the real stuff comes in. Return a bit back, up to where
+you climbed the stairs, and jump to the little grassy step to the right. Make
+one of your biggest glides yet, by jumping off from here and once past that
+wall, making a sharp turn to the right. And from here, make your first priority
+to CATCH THE THIEF. The gems can wait, but the thief will be time consuming.
+Remember that he'll go down so long as you flame him, and if you keep the charge
+up, you can easily do that.
+
+Now that you've got the egg in your possession, collect any and all remaining
+gems, and go through the tunnel, taking a small right on the other side to get
+some more loot. This next glide may be a bit tough, but just get a walking start
+first, and you're okay. From here, simply traverse to the other side to find a
+dragon trapped there, and another new type of chest, with a propeller on its
+top. To open it, flame it thrice to make it explode for some more yellow stuff
+(no, not that, perverts), and go back on the nearby Return Home Vortex. One more
+large world to go to from here, and that's the garden maze's Dark Hollow.
+
+Nils
+=-=-=
+Nils is at the top of the steps at the entrance. He'll tell you to glide to
+where the bulls are and to use the L2 and R2 buttons to look around properly.
+Thanks, captain obvious.
+
+Devlin
+=-=-=-=
+Devlin is across the water, at the other side of Town Square. Basically from
+Nils, glide and climb up the stairs then glide across the land and you'll see
+him. He'll scratch his wing and tell Spyro to press X at the very top of his
+jump to get the best glide. Be glad, everyone, that's the final hint on
+gliding. BE GLAD, I SAY!
+
+Alvar
+=-=-=-
+He's just ahead of Devlin, right near the Return Home Vortex. After Devlin,
+turn right and head up the stairs, then charge through the bulls and you find
+Alvar. He'll tell Spyro that a man in blue has snuck into Town Square and
+stolen the dragon egg.
+
+Thor
+=-=-=
+The hardest dragon to find in Town Square, by far... from the top area around
+where Alvar is, you have to glide across to the area in the distance. Forward
+you may go, through the tunnel and across the long glide through these two
+pieces of land and there you'll eventually find Thor. He'll thank you for
+releasing him.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++  5d. Dark Hollow  ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 100
+
+As you can tell by the figures above, Dark Hollow is a shorter level... three
+dragons and a hundred gems to find. There's another locked chest to open,
+though, but that won't be a problem. At the very entrance, charge through the
+frogs with shields (very interesting), and then climb up the nearby steps to
+find a locked chest. Speak of the devil. But that's not it; glide over to the
+left wing America (in a sense, but rather gliding to the left), to find three
+shielded frogs and a large frog with a club.
+
+In the case of the latter, use flame, for the others, use horns. Got it? With
+them safely out of the way, rescue the dragon there and return to the ground.
+Just a little bit ahead from that locked chest is another large frog with a
+club, and more shielded frogs, but don't start there yet. Instead, go down the
+stairs nearby, and enter the narrow passage within, to meet your toughest enemy
+yet... a large, SHIELDED frog! Enjoy seeing it belch, though; that must be a
+stupid moment for it.
+
+To get rid of it, flame it when its back is turned to you, and enjoy the blue
+gem it drops. Repeat with the next one, and in that room right up ahead, climb
+the platforms and claim the dragon, but please do not fall into the water, or
+it'll drink you. In cold blood. The key is in here too, know what that means?
+Return to the platforms and open that chest, and it explodes in your face with a
+large bundle of gems. Yee-haw. Now, back to three shielded frogs and large one
+with a club... handle 'em like you know how to.
+
+Ignore the campfire, as it's really quite pointless, and head up the stairs.
+There are two large frogs here, not to mention the small ones, so after taking
+those, return to where you just climbed up those stairs, and from here, you'll
+have to make two glides through the archways on the left and right, where you'll
+find platforms containing a single gem, and an extra life and some gems,
+respectively. Gotta love the world. But anyways, with that, climb up the stairs
+at the opposite end of the upper area, free the dragon there, and you can just
+hop back home...
+
+Short place, eh? I suppose that means you're ready for your first (no, NOT IN
+THAT WAY) boss level? Anyway, in the Artisan home, head back to where you freed
+Argus, where the dragon skull stands. Argus told you that it would open once
+you finished one level, and look ho, we've finished three. So it'll obviously be
+open and ready to be tackled.
+
+Alban
+=-=-=-
+On top of the platforms in the center of the first room in Dark Hollow, glide
+over to the distance where the big gnorcs are. Flame them, and you'll see
+Alban. He'll tell you to charge small enemies because they have some
+protective shields. Good color to this dragon, anyhows.
+
+Oswin
+=-=-=-
+From where Alban is, jump down, and you'll see a set of stairs a little ahead,
+and on the right. A tough enemy is there. You have to flame his back because
+he's a big, shielded gnorc. Fight off two of these, and you'll be in a large
+water room. Jump across the platforms here, and you'll see Oswin. He'll you to
+use Triangle to look around.
+
+Darius
+=-=-=-=
+Darius is at the end of the level. It's just straight from the entrance, past
+the platforms, up the stairs and flaming the gnorcs in the way, up the stairs
+and around, there's Darius. He'll tell you to flame large enemies because they
+are too big to be charged.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 1
+<- \ /   ++ ++ ++  5e. Toasty  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 100
+
+Toasty is the first boss level in the game, and probably the easiest of them,
+even if it isn't exactly the easiest level yet. You'll start out on a large
+cliff about some large orange void (scaaary), and some of the shepherds from
+Stone Hill here, and they even brought German Shepherd dogs with them! I'm dead
+serious on this, that the place is full of shepherds and dogs, likely German
+Shepherds. They're decently tough enemies, as they take two hits to go down.
+Flame them, then roll out of the way, then give 'em an extra flame.
+
+Roam through the first area, getting the gems around here and then heading to
+the left for some more shepherds and fluffy, adorable doggies. With that, head
+down and to the passage at the upper side, to meet TWO German Shepherds, but
+handle them one at a time, or you'll get pounded real quick. Once they and the
+shepherds are gone, enter the room behind them, heading around the pillars here
+for some more gems. At the upper side of the room is a left and up fork, but
+take a left here after handling the shepherd.
+
+Follow the small path there over the void, handling some more German Shepherds,
+and getting a few gems. Yeah, that was it. Disappointing, eh? The real action is
+going to begin real soon. Head back to that fork and head upward, freeing a
+dragon there, and then head forward to meet this place's boss... the half sheep,
+half pumpkin man Toasty. How lame is that?
+
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+*         BOSS: TOASTY         *
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+
+Our first boss, the rather toasty Toasty, isn't hard. At all. The fight will
+start with him standing there, swinging a staff around, in a rather pathetic
+imitation of trying to hit you. Before he can do anything, jump flame him, and
+he'll run away, guarded by two German Shepherds. With these, you can flame them
+both at once since they're so close to each other, but then run back, since they
+can and will jump you. When they come back, as black furry doggies (much love),
+give 'em another flame, and now we can REALLY finish up with Toasty.
+
+He's not much different now; the only noticeable different is that a sheep on
+sticks is showing through his pumpkin outfit. Torch him with another quick
+flame, and then his outfit burns away and reveals the REAL Toasty. Yep, that's
+him alright, guarded by three more German Shepherds. The same method used before
+should work well, handling two at a time and then running back and finishing up.
+If you get too close to Toasty, he'll kick you, and he does a lot of running
+away, but a jump/glide with a quick flame should finish him off.
+
+And with that, Toasty explodes into a mass of blue gems. I love that color, I
+say. As well as that, a nearby wall opens up for some more gems, so this short
+level should be complete with that one dragon and 100 gems by now. ^_^ At this
+point, the Artisans world is almost complete, but there's just one secret place.
+Remember the lily pads right at the waterfall? To unlock this secret, hop on all
+of them, one at a time. The order doesn't matter; just the moment that you've
+stepped on all five of them once, the wall there goes down to reveal a portal.
+Might as well.
+
+Nevin
+=-=-=-
+You'll find Nevin just a little bit before finding Toasty. Fight off the dogs,
+and cross through the tunnel while taking out the huge number of shepherds and
+dogs that you'll find through there and you'll see Nevin. He'll warn you about
+Toasty's power (which is rather non-existant).
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++ 5f. Sunny Flight ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+Sunny Flight? Just what the Michael Moore with wings is that? It's different
+from any other level we've yet seen, in that Spyro will play the whole thing out
+while flying. Flying is a simple enough concept; Spyro will naturally go
+straight, you can "steer" him left or right normally, but up will take you down
+and down will take you up, in a plane style. Besides that, easy enough. You can
+still flame, a near necessity for this place. The overall objective, is to go
+through or destroy 32 objects.
+
+These are four trains containing two barrels apiece, eight chests to flame,
+eight arches to fly through, and eight planes to burn down. You have, first of
+all, thirty seconds to do all this, but for everything you go through/burn
+down, you get some extra time. Hell, you even get a whoopin' six seconds from
+burning a train down. But anyway, you should go for the chests first, and right
+in front of you are the train tracks to the left, a tunnel in the center with
+the treasure chests, and a way to fly on the right. Opt for the tunnel.
+
+In here, burn the first few chests you find down, then proceed in a clockwise
+fashion around the area, ending with the chest in the center, until eight chests
+are found, and you get an extra 60 gems out of it... whoo, that's nice. Exit the
+tunnel from the way you came and take a sharp left, cutting through those arches
+as you pass. Oh yeah, and the extra seconds are purdy too. Just fly through them
+in the order you see them, likely to be interrupted by a few planes. If this
+happens, flame 'em down; it'll just make our next step easier.
+
+Now fly towards the planes, so that they'll be flying right towards you, ready
+to get burned down. Track all of 'em down; they're not easy to miss. With all of
+them taken care of, swoop down, feel the swoon and all that, to the train
+tracks, and once again, fly so that the barrels go right to your face, and for
+every barrel you flame, the one next to it will blow (not that way, pervs). With
+that, you should manage to get a good time and completion to this area. At this
+point, you should have 16 dragons procured and 1000 gems collected. Head to the
+balloonist at the bridge, and depart for the Peace Keepers world...
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ 5g. Peace Keepers Home ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 200
+
+The Peace Keepers world is a truly perilous one compared to that of the
+Artisans, but it's not THAT bad, especially compared to the Beast Makers or
+Dream Weavers yet to come. You start on a bridge over a large river, quite like
+the end of the Artisans world, just take out the grass and replace it with a
+temple. A dragon with an appropriately stonelike dub can be rescued right at the
+entrance, and then you can deal with Gnorc Soldiers, which are rather easy
+things to deal with.
+
+So with that done, step outside to meet up with a desert. Yeah, that's basically
+what four out of the five real levels in the Peace Keepers world are, desert.
+There are some Gnorc Soldiers outside, with cannons that you can use yourself,
+but really aren't necessary yet. Anyhow, charge behind the cannons and take them
+out, because a blow from one of those cannon balls hurts pretty bad. Take out
+the one on the right first, then move on over to the left, where a portal to Dry
+Canyon lies... nah, that can wait.
+
+Head further into the desert, where a hoge bundle of cabanas lie. Pull a Guy
+Montag on this one, taking my way of life and going BURN IT ALL! BURN
+EVERYTHING, because Gnorc Soldiers tend to hide under them, and without them,
+you ain't got no gems, and that makes me a sad beast. Over to the right side,
+you can find a portal to Cliff Town, as well as some gems behind it which are
+rather easy to miss. And right at the end, you've got a Gnorc Soldier with a
+cannon. This is the only important cannon, so take that bad boy out.
+
+Go on over to the left, where you get a balloonist and a path that leads down to
+the Ice Cavern, which is a somewhat relaxing world compared to the desert
+atmosphere that the Peace Keepers world adopts. There's also a balloonist there,
+who will take you to the Magic Crafters world if you get 1200 gems. Actually, if
+you totally finish the Peace Keepers and Magic Crafters worlds, you'll have the
+criteria to go up to the Beast Makers world, but the criteria for that place is
+insane... oh, sorry about that. Get the dragon near the balloonist at the same
+time.
+
+So anyways, gather the gems around him, and head on over to that cannon. With
+your very own nose, nudge it over to the red bulls-eye mark in front of it,
+where a large pillar stands, and blast that to oblivion. Yep, just like that.
+And at the same time, blast down the sealed chests for some more extra gems.
+There's the Doctor Shemp portal there, who isn't as good as The Who, but it all
+evens out. And near that pillar you blasted down, you can climb up the stairs
+there to meet more Gnorc Soldiers, and the portal to Night Flight, the perfect
+brother to the Artisan world's Sunny Flight.
+
+Alright, moving on from there, hop across that pillar and head forward, taking a
+left to find a dragon, a circular walkway scattered with gems and a key, and a
+rather effortless egg thief which can be taken out just like his friends from
+Stone Hill and Town Square, with a simple glide and then quick torch. With him
+gone and the egg collected, return just a little bit, over to where you jumped
+from the pillar to this here area, and climb up the little path in front of
+you, making sure you've got all the gems in sight.
+
+From here, make a long glide over to the tunnel in the far off distance,
+wavering over a tad to the left, but you can't miss it. Inside, collect a
+foursome of chests, not including a locked chest with all the more colorful
+jewelry pleasure. With 200 more gems in your possession, to total 1200, it's
+time to start from one of the levels given to us. I personally like the Ice
+Cavern first, but hey, your choice. Dry Canyon and Cliff Town follow up on that,
+putting uniqueness to the Peace Keepers in general aside.
+
+Titan
+=-=-=-
+Titan is right ahead of you, similar to Nestor. Just jump up that step and a
+little bit further you will find him. He'll tell Spyro to collect treasure
+because Gnasty Gnorc turned most of it into gnorc soldiers. Yessir.
+
+Magnus
+=-=-=-=
+Go forward, past the cannons while killing the enemies at the cannons and then
+head to the right. You'll then see Magnus there. He's right next to the Ice
+Cavern portal. He'll give more advice on keeping Spyro healthy. We get the
+point already, man.
+
+Gunnar
+=-=-=-=
+Gunnar is the hardest of these, minimally. From where Magnus is, go back and
+then finish off the gnorcs by the cannon, and then use it to hit the bulls-eye
+right ahead of it. Jump up, then turn left and chase down the thief. You'll see
+Gunnar there. So, yeah, destiny is good stuff.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 5
+<- \ /  ++ ++  5h. Ice Cavern  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+Easily the toughest level yet, while still not a very hard level, you may notice
+that there are a whooping 400 gems here, putting a shame to the previous record
+of 200 on a non flight level. So with the start, you start inside an ice pillar;
+what a glorifying place to begin. Step out and then charge around it for some
+bootah, then walk up the path right in front of the entrance. Slippery ice, yo.
+Get the stuff here, and now I must make a note. From here, you can glide across
+the mountains and to the right, to find a platform with three extra lives.
+
+HOWEVER, this shouldn't be done until you've completely finished this place, as
+just charging forward to that platform can be done any other time and would
+disrupt the normal flow. So just take the path to the left, to be greeted by
+some bats and a large blue gnorc. The bats are fodder for Sparx, unlike the
+Keese from Zelda, which they remind me of. As for the gnorc, he can go down with
+a nice flame. Right beyond him is a green gnorc which tosses snowballs. Slightly
+more annoying, but still a piece of cake.
+
+Head on a bit to the left from there and rescue a dragon lying about, then enter
+the passage, making sure you collect the odd yellow gem here and there, which
+blend in fairly well with this passage's color. From there, just move on the
+room inside, with some more annoying gnorcs, a ledge to climb revealing gems,
+and if you glide over to the upper right, you can find yet more gems and a
+locked treasure chest. Ah, we can save that later. Instead, hop down and charge
+to the back side of the room to find a dragon ripe for the save.
+
+Odd looking Peace Keeper, but whatever. See the two poles in front of you, with
+gems on top of them? To get 'em down, just give 'em a good charge and they'll
+drop like flies, only in a different way. From here, you can see that you can
+glide over to a platform with a key, but you won't be able to make it back for
+awhile. Oh well, you might as well, since it's pretty straightforward from
+there. Just be sure to drop down when you can, or you may go a little bit too
+far.
+
+When on this platform, grab holda dat key, man, and then glide over to the next
+walkway there. Or if you want to play it in a more organized fashion, you can
+drop down and start from where you saved Todor, but I'd rather not. Regardless,
+once you land on the walkway, collect a few gems to the left, and then you're
+faced with a decision. Head into the cave straightforward, or take a right for
+some other stuff. The cave is the better choice, since it's really all that was
+between that glide to that key and this place. Plus, a new dragon's right in.
+
+Once inside the cave, flame some odd gnorcs here and there, collect gems as
+usual, and then enter the meat and bones of the real ice cave, where you'll meet
+yellow gnorcs wearing armor. To beat these guys, just like Todor said, you'll
+have to charge into them. One quick charge will do them in, so long as they're
+facing the void (obviously). With them all gone, proceed to the back side of
+the area, with the long stairs, and make sure you take the other small path at
+the top of the stairs... don't wanna miss them few gems.
+
+Having all this now in your possession, take a left and you're right back where
+you saved Todor, hip-hip hooray. By now, you can simply glide to that platform
+again and then back to that walkway; it's certainly a lot quicker than going
+all the way back through that cave. =P So anyway, now back on the walkway, head
+over to the right, only to be immediately ambushed by some easy green snowball
+throwing gnorcs. Oh noes. With them then all dreadfully underfoot, follow the
+narrow path to the other side, and step near the vortex to find Asher. Fourth
+dragon yet.
+
+The room right next to him holds some juicy content... more gnorcs, but lots of
+gems. To the left, you get a view of a dragon WAY up in the air, where you
+obviously can't reach, and to the right you get a view of three lives on a large
+pillar. Gah, I hate this room already. Just leave it and return to where you met
+Asher, now pay attention to the small little steps outside, with gems sprinkled
+across them. Jump across them, one at a time, until you reach a whole new area
+on the other side... nice.
+
+Inside, immediately charge forward to give the yellow armored gnorc a good
+nudge, only to take a right and find more, as well as a blue snowball throwing
+gnorc on skis introduced, but he's easily taken care of with a simple flame.
+That taken care of, take a right to find some more poles with gems on top of
+them, and a bunch more gnorcs. You know how that works by now. Just take care
+not to try and glide to the right, over to that dragon... that's just plain
+foolish.
+
+With that, head to the back side of this room and climb up the stairs, and then
+follow a small path and take a right to find some scattered treasure, and the
+Ice Cavern's fifth and final dragon, Ragnar. Whoo... the Ice Cavern is only
+matched by one other level in the whole game for number of dragons. But now,
+it's time to handle the two best things... that treasure chest, and those three
+extra lives. Start from the cave from whence you saved Todor, head to the part
+from where you entered, and climb up.
+
+And now, you can easily glide over to the right for a further number of gems
+added to your collection... yum. As for those extra lives, they're easy enough.
+From the very entrance, inside that ice tower, charge onto the path and glide
+across the mountains and to the right, and snag 'em all. With Ice Cavern
+completely whored out by now, it's time to step into Dry Canyon. Read the Home
+section if you're too lazy to find it yourself. =P
+
+Ulrik
+=-=-=-
+Just up ahead. Fight off the large purple enemy and the green snowball throwing
+gnorc and free Ulrik. Be careful not to move too fast and fall down. He'll tell
+you only to flame big enemies, and not to charge them. We know that already...
+
+Todor
+=-=-=-
+He's just ahead of Ulrik in the cave, by those poles with gems on top. From
+Ulrik, enter the cave and collect all the gems in sight, then just turn to your
+right and you'll see him. He'll inform Spyro that some huge gnorcs wear armor,
+and their backs are inaccessible, but in the Ice Cavern, you start slippin' and
+fallin', do ya not?
+
+Andor
+=-=-=-
+He's just ahead of Todor. From where he is, climb down the stairs on the left
+and you'll find a slippery gnorc. Charge him a few times and he'll fall off the
+ice into the void. Right forward, you will find Andor and he'll give you some
+small praise.
+
+Asher
+=-=-=-
+Right ahead from where Andor was. Get past the paths through here and the
+snowball throwing gnorcs and eventually you'll see him near the cave viewing
+the three extra lives. He's like more yet to come with the useless thanks.
+
+Ragnar
+=-=-=-=
+The very first area with five dragons is the Ice Cavern. Ragnar's the final
+one. Start off where Acher is. You could just go in the cave, and look up
+there, see Ragnar WAY up there, totally inaccessible. So, go back from there
+and jump up those blocks, one by one, and you'll be high up. As for the
+blocks... you shouldn't have much trouble. Each one will get higher, so don't
+just don't jump high enough or slip. Be sure not to make accidents, as the
+gnorcs here are strong. Beat off the slippery gnorcs with armor and pass
+through there, and we'll find Ragnar there. He'll tell Spyro that he's ready,
+but the question is for what.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 4
+<- \ /  ++ ++  5i. Dry Canyon  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+Dry Canyon is, quite literally, a barren desert wasteland. It doesn't help its
+cause any better by having cacti everywhere, or a thief running around not too
+far from here. Grab an odd gem a bit behind your entrance, then moving on a bit,
+you'll notice an egg thief. This one's a little harder to catch than the other
+three, but that doesn't say much. With a tad bit of "galloping", you'll nail him
+and flail him. And yes, I am aware that my rhymes are incredibly bad. Move on,
+right?
+
+Follow the path ahead of there, cleaning this area of gems as you go, until you
+reach another dragon short of ideas, Conan. With him rescued, there are really
+two ways to go from here. You can glide over to the left and enter that tunnel
+there, or you can take the path to the right. Personally, I recommend taking the
+path to the right, as it'll be faster as far as keys and keyholes go. So yeah,
+move on to meet the most putrid enemies in the whole game.
+
+What you have here are two vultures, who are incredibly annoying buggers whom
+you need to flame extra quick before being beaked out, and a yellow goof who
+wields a vulture as his weapon. Yeah, he attacks with a live bird, isn't that
+sad? Oh well, a flame will torch all of them, even the vulture in the yellow
+goof's hand. (...) Quickly go up those steps and climb up to the left to free
+a quick dragon who really drops a good hint, and take out those damn vultures.
+The yellow goof may even be dead already for some reason.
+
+Either way, the game's first purple gem is in place of that worthless sponge
+bob. You can go on from there to find the Return Home Vortex, but don't go
+through that any time soon. Just tidy up those gems, then return to where you
+freed the second dragon thus far, Boris. From there, glide over to the little
+tunnel on the left. If you can't see it, move your camera around a little bit,
+as the tunnel is in the wall. Inside, there are a couple easy gnorcs, and a
+featureless cliff. Where do we go from here?
+
+This is one of the game's small secrets, but just glide over to the left. Trust
+me; just do that while hugging the wall, and you're right on top of a walkway
+you can view from the Return Home Vortex, as well as a rather intelligent dragon
+in terms of comments, Maximos. You can't forget the key to a certain chest.
+With him out of the way, the first part of Dry Canyon is clear; might as well
+head on to the other part. Return to where you saved Conan, and glide over to
+the ledge on the left.
+
+Inside the tunnel is another stupid bird wielding oaf. Torch him, and beyond,
+you get one vulture wielding maniac in front of you (two vultures with him of
+course), and one to both the left and right, each accompanied by two extra
+vultures. How can one stand being around the wastes of feathers? Oh well, turn
+them all into leftover feathers, moving from the front to the left, as it's a
+shorter path of the two. And you can't forget in the small room in front of the
+entrance, the fourth and final dragon here.
+
+So, yeah, once the path on the left has been cleared of enemies and leftover
+gems, take the one on the right, bashing up the enemies and climbing up to the
+large structure. From here, glide to the next one to the upper left, climb up,
+and blast up some... fireworks chests? Hmmm, those are original. Climb all da
+way up to da left, brudda, and ya see dat 'dere platform way off yonder? Yer
+gonna hafta do some glidin' to get y'all rounded rump over there, yanno? *snaps
+out of it*. Alright, so anyway, glide to that platform in the distance.
+
+Over here, you're treated to a platform with some chests worth a few gems
+apiece, and above all, the locked chest. With all that loot there, you should by
+now have 400 gems. It's fairly easy to miss a few scattered about here, and
+especially around this area. But once you do have quad-hundred, drop into that
+Return Home Vortex or Exit Level, and haul over to Cliff Town, in the middle of
+the Peace Keepers home.
+
+Conan
+=-=-=-
+Go ahead, chase down the thief at the left side while collecting treasure and
+go to the right, then you'll find Conan just up the step. He's another "thank
+you for releasing me" dragon. Running out of ideas, insomniacs?
+
+Boris
+=-=-=-
+Alrighty, from where Conan was. Then, go up the stairs that you will find ahead
+of you and fight everything off, then you'll see Boris, to the left and up the
+other set of stairs you'll find. He awards good gliders, and he does drop a bit
+of a hint to glide across this cliff.
+
+Maximos
+=-=-=-=-
+This is something that'll really piss people. They just go ahead of where Boris
+is, go to that platform, and see Maximos up there. How to get there? Well,
+backtrack to Boris. Go up that little hill, and glide across to the left side.
+Go through the small chamber to see yourself at the top of a big cliff. Glide
+to the left, and you'll see yourself where Maximos is, as well as the key.
+He'll make some comments on those birds that are always around here.
+
+Ivor
+=-=-=
+After Conan, go up the stairs right across the water and get to the end of
+that, glide across, and fight off the yellow gnorcs and the nasty buzzards in
+front of you with your fire. Then, go into the cave, and get Ivor and the
+treasure. Impressed, old man?
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++  5j. Cliff Town  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+The town of cliffs... quite original. The only problem with this level is that
+it brings vultures back; otherwise it's all good. You'll start inside a small
+fort which will face you with a path inward... so only one way. What I call a
+Mama Gnorc is right up ahead, stirring a cauldron. Make sure that all the
+enemies here are burnt toast, then make sure you flame the cauldron as well as
+any and all other cauldrons that you find. They all procure gems, and gems are
+good, ya know.
+
+Move further up, torching any cauldron or any gnorc that you meet, any around
+one structure, you'll meet a thief that can't do much more than run around in a
+circle. Give him the burn, to get no less than the fifth dragon egg. You're
+well on your way to getting all of them. But anyways, around the western part
+of this area, you'll find a dragon named Halvor, so make sure he's rescued, and
+then head to the top area to find two chests. They're easy to miss, so make
+sure you have them both.
+
+With that, head a bit outside and climb up the step that is, from this
+perspective, to the left. It's not hard to find anyhow. Climb up and run along
+the bridge there, following it up to meet some more gnorcs and another cauldron.
+Let them all feel it, for gems more than anything. At the top of this bridge,
+you will meet two more gnorcs, two more cauldrons, a dragon named Enzo, and the
+Return Home Vortex. Like we're going to use that. But make sure you sniff out
+the gems around the RHV, and rescue Enzo.
+
+Despite rescuing him, Enzo's really mean and encourages you to glide to the
+other side of the desert. Bah, that place really sucks. But you might as well
+do it, since there are 400 gems in this area, plus one more dragon. On the other
+side is those stupid vultures that we all loved so much from Dry Canyon. So
+anyway, if they fly at you, give them the wrath of the inferno. Pick up the gems
+at all the far corners of this desert, and continue up the hill. There are about
+seven of the vultures, so put them all in the ashtray.
+
+At the very top of the mountain, you'll find a dragon named Marco, but more
+importantly, this is the highest point of Cliff Town. You can go anywhere in
+the whole place from here, almost. Start by looking around for the castle (or
+whatever it was) that you were dropped into when this place began, and glide
+BEHIND it. There, you can just follow a trail of gems which end which a burgundy
+worth 25 gems. Awesome. From there, drop back to the entrance, and head over to
+the bottom of the mountain.
+
+And no, you do not have to traverse all the way up to the mountain; at the
+bottom of it there's just a whirlwind you can take up. But anyway, there are
+several forts around this place in which you need to fly over to get the maximum
+number of gems, but in particular, glide straight from in front of the mountain
+to find a fort with a rocket on top of it. It's a tough glide, but a possible
+one. Flame the rocket, then jump up the step and cross the bridge to find the
+steel chest that opened.
+
+Collect all the gems that drop out, and from here you can just use the whirlwind
+over and over to reach all the forts and pick up all the remaining gems. It's
+tough to get everything collected here, but just make sure you get everything.
+Once you have all 400 gems, use the Return Home Vortex or Exit Level or
+whatever, and head to Doctor Shemp.
+
+Halvor
+=-=-=-=
+Halvor's around the middle of the desert, by the platforms. Just go ahead from
+the entrance, charge the gnorcs (flaming them does no good because a lot of
+them wear armor). He'll tell you to charge armor. More of that again, eh?
+
+Enzo
+=-=-=
+Climb up the huge cliff straight ahead of Halvor fighting enemies like the
+pot-bellied lady and her little boys, and you'll come to the top. Enzo is here,
+next to the vortex. He'll advise Spyro to glide to the other side. Jackass.
+
+Marco
+=-=-=-
+This does not have anything in the slightest to do with Marco Polo, believe me.
+Enough babble, just glide across like Enzo told you to. Fight off the stupid
+damn vultures, and you'll see Marco at the top. Also, just ignore the electric
+fences and try to get past them, because they might distract you a little.
+He'll advise you that you're on the highest point of Cliff Town, and you should
+use this place to glide to other areas, and to use the whirlwind below. Yep.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 1
+<- \ /  ++ ++ 5k. Doctor Shemp ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+Another desert level, what else is new? But anyways, this place is filled with
+the big mama gnorcs from Cliff Town, along with... son gnorcs in armor. They
+will just charge at you and then kill themselves though... don't ask me why.
+But anyway, just head on a little bit and a mama gnorc will send a son gnorc at
+you, but just charge him for some gems. It's quicker that way, after all. Head
+beyond the mama gnorc, picking up anything shiny that you see (hint, hint), and
+just continue to follow the path.
+
+It's a lot of mama gnorcs and son gnorcs, but eventually you'll find a large
+structure in front of you, and a whirlwind to the left. Start with the structure
+and head behind it, to find a whirlwind there. What is this, Cliff Town? Take
+the whirlwind and from there, look to another structure that stands along to the
+left, with a single purple gem on it. It's worth 25, and they're quite rare in
+this game, so pick up every one that you see. Especially this one. Once that's
+done, glide to the raised portion of land below, directly in front of you.
+
+Here you'll find two sole emeralds, and the key to a chest. Sweet stuff there.
+Once back on the ground, take the whirlwind in front of you, and then drop down
+to meet a dragon named Trondo there. As you can guess, this is the second boss
+level, and this one will meet you as soon as you climb the steps. Enter the
+mighty...
+
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+*      BOSS: DOCTOR SHEMP      *
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+
+Doctor Shemp is similar to Toasty, in that the fight is easily divided into
+three parts, but even if the fight is fairly easy, it's a lot harder than
+Toasty. As soon as this starts, Shemp will try and hit you with that... weird
+thingy that he carries, but after he misses you (HOPEFULLY), he won't really
+take you seriously, and will just walk away, revealing his bare back. Might as
+well flame it. And after that's done, a bridge opens, and while his body's on
+fire, he'll run away.
+
+Follow behind him, collecting the gems that he drops, and climb the steps to the
+next platform. This time, needless to say, he'll actually take you a bit more
+seriously. He'll smash, then turn around for a second, giving you an opportunity
+to give him a torching. Same process... he drops some gems and a drawbridge
+opens. Head to the third platform, and this time he's really serious. He'll
+swing his doohickey, while spinning in a circle. Just jump over that thingamajig
+and burn him to a crisp while he swings and reveals his back. It's not a very
+hard battle.
+
+With that little problem taken care of, jump to the platform ahead and below
+(do not use the Return Home Vortex yet), to get a perfect 25 gems from inside.
+From there, if you don't have 300 gems you can hop further down and take the
+path from there, which leads outside, but otherwise just exit the level, and in
+the Peace Keepers home, jump into Night Flight.
+
+Trondo
+=-=-=-=
+Trondo is ahead, just go ahead toasting everything: the fat gnorcs and their
+"children" and then you'll go up a whirlwind near the tower and then you can
+glide across, then jump down and see Trondo. He'll complain about Shemp, and
+inform you he should watch his back... interesting.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++ 5l. Night Flight ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+This place is even easier than Sunny Flight, believe it or not. There's really
+only one where to go from here, and that's forward. Start by flying through the
+rings, which are all lined up nicely, and once you're out of that passage, fly
+down and breathe through all the chests you see. They shouldn't be too hard,
+although they tend to accelerate back and forth, up and down, left and right,
+etc.
+
+With those out of the way, you can just fly through the arches. They're exactly
+the same as rings, really, except just very slightly tougher to go there since
+there's limited space. Once you've flown through the last arch, there comes the
+only part of this place that's even remotely hard: the light. You have to find
+the eight light towers and flame the upper part, which is huge, but if you miss
+one of them then that will be very annoying.
+
+Fly from left to right, flaming them as you go, and watching out for that one
+last turn at the end, and you won't have any problem finishing this place up
+with 300 extra gems. With that all wrapped up, return to the Peace Keepers Home
+and speak with the balloonist. Let him take you away, far away... *snaps out of
+it*, or in other words to the Magic Crafters Home.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ 5m. Magic Crafters Home ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+The Magic Crafters world, which takes place almost entirely in the mountains, is
+the most numerous yet as far as gems go, and even tied with the next two. But
+anyways, fitting in with the mountains theme, the entrance to this place is set
+on a cliff. Do NOT try to glide to the other side, because it can NOT be done,
+and you will just waste time and lives trying. Instead, turn behind you and go
+into that room, careful not to fall in the water as you go, as in this game,
+water is bad. Grrr at you, Insomniac, you pro-dehydration serial killers.
+
+Take a left and you're immediately faced with an egg thief. This one's really
+easy to catch, just charge straight at him and gallop through to the left, and
+give him the torch. Note that the Magic Crafters world has no less than seven
+eggs in it, and the next three worlds have none. So once you have that, return
+to the fork where you found the thief, and take a right to find five shielded,
+pitchfork-wielding octopi. Mutants or something, I guess. Charge through the lot
+of them.
+
+Make sure you rescue Cosmos and pick up the gems in the chests nearby, or it'll
+be fairly tough getting 100% completion. With that, head to the next area, and
+don't bother taking a right, as the green druid there will just raise the wall.
+Take a left, quickly charging through the druids and octopi as you go. You'll
+pass Alpine Ridge along the way, but there's no reason to go in there. Just go
+up the hill, and at the top of it, you'll find another egg thief, this one who
+just runs around in a circle.
+
+With him dead and the egg yours, charge down the arch up front, and right
+through the druid that blocked your way earlier. =) That's correct, the whole
+thing is circular. Head back up, and up the next hill on the left, with flashing
+arrows. You'll see a LOT of these flashing arrows in the future, and they're
+very useful. But anyway, at the top of the hill, free Zantor, and check around
+the High Caves portal for some gems. But anyway, these flashing arrows allow
+for Supercharge.
+
+If you charge down arrows like these, a Supercharge will initiate. So here, for
+example, you can just charge down through the druids and the octopi, which are
+quite numerous, before the druid can bring the wall up. Quite convenient. Stop
+the Supercharge once you enter the room, and free Boldar, the dragon in front of
+the Crystal Flight portal. This is quite possibly the first Flight portal you
+have found yet (it shouldn't be, though, if you've been following this guide),
+so it's a good place to get the hang of flying.
+
+Now if you still have the Supercharge going, that's great; charge through the
+path to the right, and through the heavy chest for some gem beauty. If you
+don't, just go back and get it, then go through that heavy chest. With that,
+head up the hill to find the portal to Wizard Peak, which was my choice for
+first destination after this place, but before that, follow along the tiny
+little path outside the water, to reach the other side. The small room there
+contains a key. Didn't think there was a chest here, eh?
+
+Jump down, and head on to the water across from the way you came in. A druid
+is moving a platform there up and down, so jump on it when it's down, and once
+on the other side, run through the druid. There's a portal to the boss, Blowhard
+here, which is the last one, plus the balloonist. But anyway, as for business
+with the key. Return to the hill below the Supercharge (the one in which you had
+to take a left to get to, at the fork), and glide over across the mountain wall
+to the left.
+
+Once you get into that small room there, you probably automatically broke the
+locked chest, and that's good, cuz it has some gems in it. But now, anyways,
+with that perfect 300 gems, find the portal to Wizard Peak, and just jump right
+in.
+
+Cosmos
+=-=-=-=
+Cosmos is just past the octopi in the tunnel straight behind you. NOTE: Right
+ahead at the start of the place, you cannot glide across, no matter how hard
+you try. It is impossible. Anyway, go into there and to the left and then the
+right, then straight and you'll find him. He'll tell you he wants you to get
+the gems, dragons, and thieves.
+
+Zantor
+=-=-=-=
+Go past Cosmos, past the hills and Alpine Ridge, charging through all of the
+armored octopi and to the top of the hill there, around the arrows Zantor
+awaits. He'll tell you that the arrows are really a super charge.
+
+Boldar
+=-=-=-=
+Start using Supercharge by charging across the arrows. Go through the gnorcs
+(especially the wizard because it has a purple gem and controls the wall) and
+find Boldar, right in front of the Crystal Flight portal. He'll show you to a
+portal to learn to fly.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++  5n. Wizard Peak  ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+500 gems. That's the most we've seen yet, and the majority of levels that are to
+come will have exactly that many. But anyway, Wizard Peak is quite a large level
+compared to some we've seen, and it'll take a lot longer to clear this place
+than to clear perhaps any of the others we've yet entered. But anyways, upon
+entrance, do not go through the passage in front of you. Take a left and walk
+along the path there, following the trail of gems as you go. There's a gap along
+the way, but it's not like that's a problem.
+
+At the end there's a whirlwind, so take that up and follow the path there, and
+there are two paths. Told you, this place isn't exactly linear. Glide across
+the huge gap in the middle and to the other side of the area, which is like, on
+the roof or something. Now follow that path and drop down at the end of it,
+and gliding across the mountain at the end of there, and you'll be inside the
+passage we saw earlier. Told you... flame everything that you see. Now from
+here, work your way back to the entrance, it's not very long at all.
+
+You'll see the entrance soon enough, as it's an outside area. Now head all the
+way back to where I told you there were two paths. Yeah, it's right up the
+whirlwind. Follow the path you start on to its end, and do NOT glide to the
+other side. Instead, get to the end of the path and glide to the little part
+that's sticking out way down below. When you land there, flame the wizard that's
+immediately in front of you, and claim all the shiny treasure. I believe you
+were told growing up that shiny treasure is good. Remember your lessons.
+
+Drop down to the floor, and follow the path to the right, charging through the
+small green wizards, whom I affectionally dub the Storm Wizards. The whole place
+is filled with Storm Wizards and those big blue gnorcs, but whatever it is, take
+it out and claim the gems that they drop. Now take the bridge in front of you,
+and in the next room, clear the room of any opposition, and free the dragon
+there, whose name is Jarvis. The Supercharge here is very useful, as you can use
+it down this tunnel and smash through all the Elder Wizards (yes, I am aware my
+names are incredibly original).
+
+With all the Elder Wizards downed, immediately turn back and up that Supercharge
+path. Not before getting all the gems in here, but just head back up. And from
+there, use the Supercharge again, to reach the area where the Elder Wizards once
+were, and take a left. It's another Supercharge, but one that must be used in
+conjunction with the other one. With all that Supercharge power, follow along
+this straight path, ignoring the right, and at the very end of this path, JUMP
+as far as you can. And with a bit of gliding help, you'll land on a platform
+there.
+
+There's quite a bit of treasure here, but you may also hear a thief giggling.
+Turn around to the very edge of this platform, and walk along the very short,
+narrow path at the back, and at the far back side you'll find an egg thief.
+He won't even run away from you, since, well... this isn't the best place to
+try and run, since it's over a cliff. Torch him, and that's your eighth egg
+thus far. Now head back to the side of the platform from where you landed on,
+and glide over to the grassy area on the left.
+
+From where you land, an Elder Wizard will try and conjure up more gnorcs, and
+upon his death, he'll drop a burgundy gem. Awesome. Head back, in the direction
+that the Elder Wizard came from, and you'll find a dragon named Hexas there,
+who certainly deserves freedom. Ignore the tunnel on the left, as it's quite
+useless right now. Instead, collect any gems you're missing, and head back,
+in the direction that the Elder Wizard was running up. Follow up the steps
+there, charging and flaming all you see.
+
+At the top of this mountain, you'll find George Lucas; just take out the first
+part. But anyway, after you free Lucas here, you can go back to the Artisan
+home, and if you already haven't (and if you haven't, major shame on you), you
+can jump on the stones there and they'll all turn yellow. And from there you
+can easily access Sunny Flight, but you should have already got finished with
+that place a long time ago, so you should be able to blissfully ignore that
+message.
+
+There's an egg thief here, who will basically run around in a circle. Just
+glide at where he's going, and he'll run right in there and let you flame him.
+Easy as that. Now there's a Return Home Vortex here, but don't use it yet. Go
+back to the first Supercharge, which was near Jarvis. Start using it, then take
+a left into the tunnel there, to use a second Supercharge. And from there, take
+a right and enter the tunnel there, get to the very tip of the path, and glide
+to the uppermost platform there. NOT to the two smaller ones on the left, but
+to the large one.
+
+You may notice this one looks a bit like the one with the egg thief, but there
+is treasure aplenty on this one. Now carefully glide to the other two, making
+sure you don't glide too far, and clear all the treasure on all of them. At this
+point, you should have all 500 gems, but if you're missing some, it's probably
+in that first room at the entrance. Scout that out to make sure you're not
+missing anything, and now let's leave for Alpine Ridge.
+
+Jarvis
+=-=-=-=
+Quite an easy one. Just go ahead, through the gnorcs and enemies, past the
+paths, and you'll see a supercharge spot, Jarvis next to it. He'll tell you to
+bash wizards with the supercharge. Amen, brother.
+
+Hexas
+=-=-=-
+Why couldn't dragons be harder to find? Ah well, just supercharge forward from
+where Jarvis was and go to the right, while you take out all the wizards on the
+way and you'll see Hexas. He'll thank you for releasing him, like the other shy
+dragons here...
+
+Lucas
+=-=-=-
+Lucas is an important dragon to find. After Hexas, just go up, fighting gnorcs,
+and you'll see Lucas. The wizards and other enemies provide no real challenges.
+He'll tell you an important bit of advice, at the Artisans Home, jump on the
+stones, and then something may open up. For your information, reader, this is
+Sunny Flight. Originally, you could just hop on all the stones, but now it's
+easier because when you jump on them, they turn yellow so you will know which
+ones that you've stepped on. A good wake up call, I must say.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 4
+<- \ /  ++ ++ 5o. Alpine Ridge ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+Compared to Wizard Peak, Alpine Ridge is relatively easy. The music here is
+good stuff, in my opinion, and really suits this atmosphere, but anyway, the
+level is relatively straightforward. So anyway, right at the entrance, a large
+Mammoth Beast, as I like to call them, will await you with the usual shielded
+octopi. Flame the Mammoth Beast and charge the octopi, you know how it works.
+Follow the rather linear path in front of you, to meet another octopi, another
+Mammoth Beast, and a druid moving blocks. 
+
+Charge through the blocks to make sure you don't get hit, and let the Mammoth
+Beast taste flame. Right after them, you get treated to a druid turning a
+staircase into a ramp, back and forth, back and forth. To get up here, jump on
+it when it's a ramp, and keep jumped over and over until it becomes a staircase.
+From there, it's an easy climb up and an easy charge or flame to the helpless
+druid. With that done, head forward and free Zane there. Right, like you're
+afraid of those Mammoth Beasts.
+
+There's a platform to glide to on the right with a lone Mammoth Beast, but do
+NOT glide over there. Instead, take a left and walk up the steps there, and
+glide to the ledge on the other side, where you'll meet an Elder Wizard and a
+druid playing with each other. Take them both to the inferno, and take a right.
+More Elder Wizards which challenge you to press the circle button. That was
+sure tough. So anyway, above you are three druids possessing the stairs there.
+Here's where timing comes in.
+
+The stairs there will head in and out, in a pattern. When the first stair comes
+out, immediately jump on it, then the others will come out. Quickly head up
+those, and fast, or they'll drop. At the top (BOW IN AWE AT MY MAGNIFICENT
+RHYMES), down the three druids there, and now glide to the right, where you'll
+get to that same platform with that lone Mammoth Beast. Now end him being alone,
+by making him join others in death. And here's where more timing comes in, as a
+druid is manipulating a wall.
+
+This druid will make the wall go up and down, so when the wall has been up for
+a few seconds (three or so), glide over there and it'll go down right before
+you manage to glide in. :) So once inside, charge through the druid and glide
+to the second part of this area, where there's the usual druid making a platform
+you need to glide to go up and down. Same thing with the wall; when it's been
+up for a while, it'll come down and you'll already be there. Flame the druid,
+and treat yourself to the rescue of a dragon named Eldrid.
+
+Now head up the path there, and take a left to enter a Mammoth Beast pit. Two
+of them, two easy flames. Drop what they leave, then head up the steps and
+collect whatever you see, now start heading up the path. From there, a druid
+will appear and raise a Mammoth Beast. Geez, that's creative. Let them both
+burn to ashes, then enter the cave on the left. Collect everything you see from
+inside, and note that it's two paths, so don't carelessly miss anything. With
+that, head back up.
+
+Climb up the stairs there and at the top, free ol' Zander there to learn how
+skilled you are with the Magic Crafters world. Right, really. The Return Home
+Vortex is there, but it's not time to use THAT yet, obviously. Instead, head to
+the end of this ledge and glide over to the three platforms way over in the
+distance. There are fireworks chests on all of them, so to get the gems inside,
+we have to do one of the easiest puzzles ever known to man. Start by flaming the
+chest in front of you.
+
+Glide to the next platform, and flame that chest as well. Now head to the last
+platform, flame that one, then head back and grab the gem that the second chest
+dropped, then glide over to the last one and grab the third gem, and return to
+the first platform and collect the first gem. That taken care of, glide to the
+cavern at the front, where you'll meet up with Kelvin. Science time! Or not.
+Well anyway, it's the fourth dragon, and another egg thief to chase. You know
+the drill.
+
+The egg thief will run you through a long path, so just make sure that you don't
+suddenly lose yourself or something, and you'll have him nailed in no time. With
+the tenth egg in your possession, hopefully you have 500 gems and four dragons,
+and you can use the Return Home Vortex or Exit Level and go to the final level
+of the Magic Crafters world... the land of caves on drugs.
+
+Zane
+=-=-=
+Talk about gigantic beasts. :) Flame all of them as well while getting past the
+druids around here, and then with enough effort, climb up the stairs that those
+druids are bringing up and down and find Zane. He'll ask Spyro if he's afraid
+of those big, noisy, gigantic, awful beasts. I think you very well know what
+Spyro's answer is, don't you?
+
+Eldrid
+=-=-=-=
+Eldrid is just past Zane. Go past there and turn to the right, get past the
+druid door trap by gliding when it's been closed for a while so it'll open when
+you're close and charge the druid as a reward, then get past the moving
+platforms. When the platform has spent a long time up, glide so that you'll
+land on it when it's down. ^_^ Eldrid can be found there. He just thanks you.
+
+Zander
+=-=-=-=
+Zander is near the Return Home Vortex. From where Eldrid is, go forward, up,
+then right past the huge yellow beasts and steps, and you'll see the crystal.
+He'll say that Spyro is on his way to learning all of the secrets of the world.
+
+Kelvin
+=-=-=-=
+Past Zander, just glide across to the platforms. Do that little puzzle with the
+fireworks boxes (jump on the first platform, flame the fireworks chest, jump to
+the second fireworks chest, jump back to the first one to get the gems, then
+back to the second to get its fireworks chest's gems, and finally to the third
+platform, where you can flame its chest, jump back to the second and wait for
+it to explode, and then return to it to collect all of the treasure) and then
+we'll see Kelvin. He'll tell you that the thieves haven't only stolen eggs in
+the Magic Crafters world.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++  5p. High Caves  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+As soon as you enter you're faced with two paths; one into a cave filled with
+spiders (face it, you knew that would occur at some point), and one going up
+the mountains. As much as the latter is superior, let's delve into the cave of
+spiders first. As for the spiders themselves, they're very heavily armored, and
+they're surprisingly fast, so do NOT touch them, they're just deadly. Grab the
+odd gem that you can find, and if you can, use high ground where they can't get
+you.
+
+Head to the next room after the first cave, which is much larger. There are a
+few corners with gems, but if the spider here is too much of a pain, just ignore
+them as we'll be clearing the spiders out very quickly. Just dash on to the
+left, and in there, you'll find yet another spider. This one's easy to dodge,
+though, just proceed into the light and grassy area and free the dragon that
+immediately awaits there, his name being Ajax, and now it's time to rid the
+caves of those spiders.
+
+Go into the tunnel to the right of Ajax, and start the Supercharge there. Once
+you've got it, immediately take a left back into the spider cave, and direct it
+right into a spider to get FRIED SPIDER! Yum. And with it taken care of, might
+as well take the stairs up there. Head right on in to find another druid (they
+seem to be notorious in the Magic Crafters world) and a rather harmless spider
+which will only really bother you if you stick around for too long. Take out the
+druid and dash through the door, using the high ground to help dodge the spider.
+Not hard.
+
+The next room is similar; just immediately glide to the elevated part of the
+floor on the right, where the druid is blocking the wall off, and once he's
+gone, quickly glide outside, where you'll meet a fairy who kisses you (don't
+tell me you didn't think that would happen), and now you get Superflame. These
+things are all over the sequel, Ripto's Rage, but for now, head back into the
+caves and use this to blast down the two spiders in these two recents caves.
+And with that done, return to the Supercharge. Time to scout the caves out and
+finish the last spiders!
+
+Use it, and run through the spiders to make them toast, until you're way back at
+the beginning of the place. The two spiders in the two caves between there are,
+at this point, dead, so make sure you get any leftover gems if you're missing
+them. But anyway, now it's time to trek up the mountains, which are full of the
+new Tornado Wizards (enhanced Storm Wizards, it seems), Elder Wizards, and
+druids. Geez, this place has too much magic. But in any case, just follow up
+the path.
+
+Flame the wizards you see, along with the Tornado Wizards. Tornadoes themselves
+will come down the path as you head up (...what?), so make sure you avoid them,
+as they sting quite a bit. Just continue up, careful around that narrow part at
+the end, and once you reach the top of the mountain, free Cyrus. He should've
+been a valiant swordsman or something, but eh well, he's a wuss. So anyways,
+there are two floating platforms in front of you, courtesy of the green druids.
+Know what to do?
+
+Wait for the platforms to get closer to your side (that is, to the right), then
+glide over and fry them. Do this to both, and glide to the other side. Claim
+all the treasure in that room, hop out, and then you can just follow a path and
+you'll be back to where you freed Ajax, which is really why I asked you to use
+the Supercharge earlier. Speaking of which, return to that Supercharge. And
+with that, glide to any of the tunnels on that mountain. One of them is just a
+small tunnel with some gems lined up on it, and the other two are the same one,
+with a dragon, lots of gems, and the Return Home Vortex.
+
+In the case of the latter, free Cedric there and marvel at the abundance of
+yellow and purple gems inside that room. And I thought there'd be only 400 gems
+here... ah, lost track. You may or may not have noticed, but you can actually
+fall off the cliff here, due to how this place is designed. And then the fairies
+will pick you up and transport you back to the Supercharge. Very convenient,
+being the glides here are insane. But anyways, there's one more thing that we
+have to do, starting with using that Supercharge.
+
+Use it to the fullest extent possible, and at the end of the path, glide way
+over the land patch on the very, very far side. With a little Supercharging
+skill, you'll land. Since, as Cedric said, jumping and gliding with
+Supercharging is good. From here, head up the hill and claim all the beautiful
+treasure here, as well as an egg thief. He's really no different from the one
+from Wizard Peak, as he runs around in a circle, so he shouldn't pose too much
+of a problem. Eleventh egg now.
+
+Now fall off the cliff and return to the Supercharge room. Eh well, we don't
+need to use it anymore. Exit the Supercharge cave and take a right, to find yet
+three MORE rooms in a mountain. The first one, anyway, holds some treasure, so
+clear it all out and then don't bother with falling in the cliff, just glide in
+there from where you are. It's some more treasure, perhaps a little more
+numerous as it's in fireworks chests, but nothing to marvel over. Glide to the
+third cave, which is the biggest and most rewarding.
+
+Inside is the twelfth and final egg thief. Wow, I see the Magic Crafters are
+really gonna have a lot of children. Follow the egg thief, picking up any
+treasure that you see, and at the end of the tunnel, you'll have him nailed and
+the egg picked up. I guess the Beast Makers and Dream Weavers don't breed much.
+But anyhow, that should be three dragons, two eggs, and 500 gems. With that,
+we can go to the boss level, with a boss that happens to blow hard... Blowhard!
+
+Ajax
+=-=-=
+Go forward, past those big, stupid spiders. Bleh, ick, ugh. Just dodge them.
+Flaming them does no good, just when they look away, just run past them. At the
+end of that nightmare, you'll see Ajax. Spyro will feel just the same way you
+do... but Ajax informs you that supercharge will make you invincible... heh...
+
+Cyrus
+=-=-=-
+Cyrus is the one we'll want to find. Get some supercharge from where Ajax is,
+and then go to the cave with the bugs and SUPERCHARGE THE BUGS!! Ha ha ha...
+kill them all! Wipe them out! Get revenge! Then fight off the wizards and
+druids. In fact, you can even do this with supercharge if you want to, because
+this will make it faster, but more difficult. It's really up to you. Cyrus is
+there to inform you to do just what you did about those awful green druids. Who
+would like things that could move everything in such a way anyway?
+
+Cedric
+=-=-=-=
+Use supercharge, and go FAR away to the largest tunnel in the distance. Cedric
+is there, along with the Return Home Vortex. He will tell you to use charging
+and gliding to combine with supercharge, to really explore the High Caves.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 1
+<- \ /   ++ ++  5q. Blowhard  ++ ++   / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+For reference, while writing for this level, I listened to three different
+versions of No Quarter, originally done by Led Zeppelin. Oh wait, that had
+absolutely nothing to do with this place. So anyways, Blowhard is a very easy,
+short level, and the boss is a pushover. As well as that, close to all 400 gems
+here are in yellow gems with the occasional blue here and there. So let's get
+this part-ah started. Claim the treasure right in front of you, and progress
+onward.
+
+Get rid of the Storm Wizards that are in front of you, and keep following the
+path while claiming the treasure. And at last when you find a strange monster
+at the end of the path (that's Blowhard), flame him and he'll run away like a
+coward, opening a door behind you. Might as well take advantage of that. Head
+in there, while two druids are moving platforms. Geez, what else is new. It's
+not hard to miss the small walkway down below, where there are a few odd gems,
+so get those and head back up.
+
+Glide over to the druids when it calls for it, and get them in the ashtray. With
+that, glide over to the other side and take a right into the small room there,
+freeing a dragon named Altair though, who's an old geezer. And what else other
+than two more druids moving platforms? Oh well, remove them both and glide to
+the exit past them, and then you have a fork of left and right. Start by taking
+a left, to find five straight chests containing yellow gems. I get the feeling
+Insomniac was trying too hard.
+
+Don't jump down here, as that'll just take you right back to the entrance.
+Instead, follow along the main path to the right, and then you'll find Blowhard
+there. Pick up the gems that are lying around, and now, I guess you can say the
+fight with Blowhard has begun.
+
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+*        BOSS: BLOWHARD        *
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+
+I can't really say in words how easy Blowhard is, but this fight shouldn't pose
+any trouble at all. Start by, from where you are, flaming Blowhard and picking
+up the fireworks chests and stuff. All that Blowhard does is make thunder boom
+above you, and while that lightning is annoying, it shouldn't be any threat at
+all. Glide over to the other side after you've flamed him, and then just follow
+the path, collecting gems, until at the end, you find Blowhard again. Burn him
+once more with your flame, and then he's gone. Collect all the yellow gems that
+just flow out (right), and you're treated to a Return Home Vortex. Whoop de do.
+
+Altair
+=-=-=-=
+Get past Blowhard's minions and collect all of the gems here, then flame
+Blowhard and he'll open a door and run inside. Go through the cave, chasing
+Blowhard. Get past that and be very watchful of the druids as they make the
+platforms move and the water below isn't exactly nice. You'll finally see
+Altair, who is a particularly forgetful old man.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++ 5r. Crystal Flight ++   / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+Similar to Blowhard, the Magic Crafters flight level is even easier than the
+Peace Keepers one, just like bosses. But anyway, 25 seconds to go through eight
+rings and eight arches, and flame eight planes and eight chests is more than
+enough. Start with the rings, each giving you an extra 1 second. So like, that's
+33 seconds right there. Just follow the rainbow colored things until you have
+60 gems in the pocket, and from there, fly through the arches in the flight
+path there is.
+
+When the fairy shows an arrow pointing to the right, take a sharp right turn
+and finish up with the arches. Once they're all done, fly around the mountain
+there, and you'll find the planes going in the same direction as you. It'd be
+quicker if they were flying in the same direction, but anyway, flame them all.
+This place is really made so that you can easily flame the all of them. And with
+them gone, you're really on a simple flight path through the chests.
+
+Swoop down after you've burned down the last plane, and grab that last chest.
+While time may be running low, the chance that it'll run out is quite slim. All
+the chests are quite easy to spot, so burn them down and collect the contents,
+and you'll have five 60s to make a perfect 300 gems. So with Crystal Flight
+taken care of, head over to Tuco the Balloonist, and go on to the swampy,
+electric wasteland known as the Beast Makers world.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 2
+<- \ /  ++  5s. Beast Makers Home  ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+The Beast Makers world is by far the hardest yet, in my opinion, even if it has
+the same amount of gems as the Magic Crafters world, and far less dragons. There
+are only 12 dragons in the whole world, unbelievably, but the enemies are the
+hardest in the entire game, plus there are lots of tough glides and odd gems
+that you'll have to make and collect. Not to mention the criteria for getting
+out of here is very harsh... 50 dragons. Being that once you've finished this
+place you can only have 58, that's pretty hard.
+
+But anyway, I'm babbling. Start by heading to the left, avoiding all the mud
+pits here. You'll find a lot of them, and they're worth avoiding. You'll find
+what I call Gnorc Technicians here, in which are quite numerous in this level
+and the next one. They're standing on large fields which should NOT be stepped
+on unless they've already been electrocuted, otherwise you'll be electrocuted.
+That's a key element with them, timing. So anyway, these two shouldn't be too
+hard.
+
+After those fields, you'll find a dragon named Bruno, as well as the portal to
+Terrace Village. Don't go through there, though; just glide across the mud and
+on through the paths, picking up the gems there. A Wild Boar, notorious in this
+level and the one after the next, meets you on the other side. To take them out,
+flame them right before they charge you, since they're quite fast for their
+size. And on the other side you'll find the portal to Misty Bog. Once again,
+ignore.
+
+You've got a fork here of left and right. Start by taking a right, where there
+are two metal chests near a tree. Flame the both of them thrice for the
+contents, then enter the hut over to the right. There's a lot of gems inside,
+consisting entirely of green gems, so with those all in your possession, head
+outside and then walk BEHIND the area, slowly collecting gems but being ready,
+as there is a Wild Boar behind, and it can and WILL attack you. Flame once you
+start getting to the blue gems, and you're okay.
+
+With that done, return to the tree, and free Cleetus there if you haven't
+already. After he's safe, jump into the pit there. Yes, I'm serious, it's NOT a
+mud pit, there's actually something inside. When you land at the bottom, you'll
+find a good collection of gems, as well as the portal to Wild Flight. That's,
+again, something that should be ignored for now. Use the whirlwind to return to
+the top when you get a chance, then return to the Misty Bog portal and take a
+left.
+
+A huge tree is in the center, and alongside its branches you'll find some gems
+that are quite easy to miss, as well as the portal to Tree Tops. Wow, these
+levels sure have apparent themes: terrace, bog, trees, wild. Told you this place
+was swampy. Anyway, there's a path to take near the Tree Tops portal, so take
+that and inside, you've got a locked chest, a mud pit, an area above in which
+you can't reach, and electric fields to the right. Tough, but let's head to the
+right first.
+
+Once above, rid the world of the gnorcs there, then glide to the other side and
+take the same timing there. And from there, just follow the path to find a
+portal to Metalhead (yes, that IS the boss, and it's a robot), and the
+balloonist. Of course, you can't even be ready to leave yet since we only have
+48 out of 50 dragons (well, YOU should, at least), so let's wrap other stuff up
+here. Climb up the fortress or whatever it is that's across from Metalhead,
+gnabbing the gems that line it.
+
+At the side of it, look at the small tree tops (literally) in the swamp itself,
+and glide over to the top one. There's a key on it, which is necessary for the
+locked chest below the Metalhead portal, and the smaller ones have some gems
+on them. Glide over to the land, find the locked chest, and get the rather
+numerous content inside. With 300 gems hopefully in your hands, let's head on to
+Terrace Village.
+
+Bruno
+=-=-=-
+Bruno is right past all the enemies. He's in the center; you can't miss him.
+The swamp is totally straightforward. He'll say how Gnasty Gnorc changed the
+swamp into an electrical junkyard or something like that.
+
+Cleetus
+=-=-=-=-
+From where Bruno is, go a little further, and you can glide to the right and
+see Cleetus. He's off to get Gnasty Gnorc and has no time to talk. I like this
+guy.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 2
+<- \ /  ++ ++ 5t. Terrace Village ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+Terrace Village is a fairly long winded but straightforward place, and it's not
+very long. Definitely the easiest of the three main levels of the Beast Makers
+world. So anyways, a large purple gnorc awaits at the entrance, with a weapon
+that has the power of electricity. Just flame him and there's no need to bother
+with that. Immediately up ahead, there are two paths, but just take the one in
+front of you first, where you're greeted by what I call Gnorc Gunners, and more
+big purple gnorcs. You know the drill.
+
+Collect all the odd gems that litter this place, and enter the hut in front of
+you. Beat off any gnorcs in sight, and on the other side of the hut, it's just
+the standard. Another room, another opportunity to collect gems and burn some
+gnorc. You can go behind the huts (or whatever they are) to the left, and follow
+the rather linear path there to meet the entrance, so make sure you've scouted
+out the entrance to this place, and the paths at the back, and then head up the
+stairs at the furthest area we've reached. Not hard to find.
+
+At the top of these stairs is Claude, another dragon. I'm starting to see a
+pattern in these names. But anyway, the rest of this place is an electric
+junkyard, full of electric fields courtesy of the Gnorc Technicians. There's one
+right at the entrance, as well as a three way fork. To the right is a rocket
+that will blow up a heavy chest, to the left is an odd gem here and there and a
+heavy chest (speak of the devil), and straight ahead is, well, straight ahead.
+Your choice.
+
+Continue along the fields, making sure you don't go to a new field randomly,
+because you WILL get electrocuted if you do so. Take out all the large purple
+gnorcs and Gnorc Technicians, until around the end you'll find a Gnorc Gunner,
+followed by a Gnorc Technician right behind, as well as a large purple gnorc.
+You may want to finish the gunner off, turn back, and then take out the purple
+gnorc and technician, because it's quickly easy for the large purple boy to
+whip his weapon out.
+
+On the other side, there are a few gems below the steps, but once on the steps,
+you immediately have to deal with purple gnorcs and Gnorc Technicians. Hmph,
+typical. Around the end, though, you'll be able to jump down, run through some
+Gnorc Gunners, collect some chests, and head back up, though. So anyway, with
+everything you can find in your possession, take the whirlwind after the fields,
+up onto the factory nearby, and then glide over to the roof across from you.
+Climb up from there, claiming gems, and there you'll find a room that you can
+glide to, on the left with the Return Home Vortex. Do NOT glide in there.
+
+That's right, don't. Instead, glide around the thingy near it, and land on the
+factory roof there. Make your way up and collect some gems, and at the top,
+flame the two rockets there. With them crashlanding on some poor innocent heavy
+chests, glide over and down to claim everything you see, and with that, make
+your way all the way back to the factory roof, and glide over to that room with
+the Return Home Vortex. Charge around it for the remaining gems, and enjoy a
+short level finished. Ready for the horror known as Misty Bog?
+
+Claude
+=-=-=-=
+None of the enemies in Terrace Village are a real threat. You will encounter
+large purple enemies that can shock you and electric gnorcs, but none of them
+are just dangerous. Just go up the stairs and further ahead, then you'll find
+Claude. He'll warn you about the electricity.
+
+Cypris
+=-=-=-=
+He's not hard, even with these traps. Get past the gnorc electricity, while
+killing all the enemies on the way and using all your noggin, then you'll see
+Cypris. Nothing here is dangerous, but the gnorcs sometimes set the green
+floors on electricity. Don't walk on it and that point, just get those nasty
+gnorcs. After making your way past all of them, you'll get your reward: Cypris.
+He'll tell Spyro that sometime he can tell the dragons all about his journey...
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 4
+<- \ /  ++ ++ ++  5u. Misty Bog ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+In my opinion this is the single hardest level in the entire game. It's not
+that difficult to find anything, the only difficulty is getting to it in the
+first place. It features the hardest and most enemies in the whole game, and
+it's quite a parallel and forbidding place. But anyway, supposing you dare to
+stand up to it, you'll start on a platform across a vast swamp. Head behind the
+wall on this platform to meet a gnorc in a cage... hah, for a reason. It's a
+couple gems, though, so don't miss it.
+
+Now glide to the stairs nearby, where you'll find four Tree Beasts, as I call
+them. Do NOT just charge at them, as they'll just eat you up quickly and
+immediately. Instead, wait for them to twitch and charge themselves, and give
+them a flame. After all, trees are quite flammable. Repeat this with all four
+of them, then glide over to the other side, where you'll meet a few Frog Lizards
+as I call them. They're not easy enemies to deal with in numbers, but one or
+two are easy to charge.
+
+Check the odd corner and look behind whatever there is with L1 and R1, though,
+since there is the occasional thing lying about. But at the end here, we have
+three more Tree Beasts. Start by heading forward to the first one and waiting
+for it to charge at you, then going over to one side and taking care of that
+one, and finishing up with the last Tree Beast like you would normally. It's
+only good to be careful of such absurd beasts, right? I'm serious when I say
+they're ANNOYING AS HELL.
+
+Your reward for that freakshow is Rosco, right on the tree stump. Release him
+from his crystal prison, and then glide over to the island on the right which
+stands in swampland. Flame and charge the Wild Boar and gnorc there
+respectively, then return over to the bridge, which is completely littered with
+gnorcs. Charge all of them for the gems they drop, and climb the tree stumps
+there if you want, but don't jump into the tree at the top. We have things to do
+first.
+
+Return to the center of the bridge, and glide over to the platform on the left,
+where a lone gnorc awaits. Let him taste blood, then glide across the tree
+stumps there to get to a cave inside a tree with three Frog Lizards guarding it,
+go figure. These Frog Lizards are very formidable opponents, so take them out
+slowly and cautiously, preferably from a distance with your flame. After they've
+been turned into ash, enter this cave within the tree, where inside is about
+twenty Frog Lizards and gnorcs.
+
+I'm serious, this room is FILLED with enemies. All of them are weak against the
+charge, but the Frog Lizards are so dangerous that this is not a recommendation
+unless Sparx is at yellow. You may be able to get out of it then, but what I'd
+say is that you should perhaps take one or two out, run back and avoid getting
+hit, finish some more off, and repeat this process safely until everything in
+here is cleared and you've collected all the dropped, shiny contents, and you
+can rescue Damon from behind. That was hard enough.
+
+Exit through the right, following the tree trunk there for some gems, then
+glide to the land below, in which we've already traversed a little earlier
+(remember, it was with the three Tree Beasts), so it's not too far back. Glide
+to the bridge and cross it to reach the tree I mentioned earlier, and then just
+jump into it. It's just like the room where we freed Damon; it has two Tree
+Beasts and some gnorcs. Let them all have it, but handle the Tree Beasts very
+carefully.
+
+With everything in here taken care of and the gems at the back in your
+inventory, head up and rescue ol' Zeke there, and head into the warm, peaceful
+outdoors... not on the first two adjectives. But anyway, it's filled with Frog
+Lizards, gnorcs, and two Wild Boars, so don't just charge everything. Watch if
+you see a Wild Boar coming, and then flame them. This place is filled with
+treasure, so make sure you can collect all of it. And with that, climb the
+stairs there and rescue Bubba. As much as I'd like to use the Return Home
+Vortex, let's stray for now.
+
+Instead, glide to the little fort looking thing sticking up (I have no clue
+what it is), and over to the elevated ground to reach the steps above, to reach
+the roof of the cave that we were making our way through earlier. Clear the
+gems at the top, then glide to the tree stump across the upper bog. Wow, this
+swamp is made like a waterfall or something, it's really creepy. Make your way
+up the tree stumps and onto the bridge there, charging through each and every
+gnorc that you see. And at that point, it should be 500 gems. That was hard
+enough, so let's head on to the equally frustrating Tree Tops.
+
+Rosco
+=-=-=-
+Enter, then glide over. Get past those GOD-ANNOYING TREES by flaming them. If
+you don't flame them in time, they'll eat you. After getting past that, we'll
+see some frogs. Kill them, and we'll see more STUPID TREES. Flame them like
+crazy, and then get Rosco. He'll inform you that the frogs are cold-blooded
+killers. NO, THE TREES ARE, MORON.
+
+Damon
+=-=-=-
+Now this is the hardest dragon to find yet, hardly any contest with Maximos or
+Ragnar. Don't go back, glide across everywhere, fighting off every single
+enemy on the way, and then you'll see a cave. Kill the frogs, and then we face
+our ultimate challenge: there are frogs and gnorcs EVERYWHERE! You can hardly
+move around in here without being slaughtered by knives and tongues. At least
+there aren't any trees here so there's no reason to flame. Use your charge, and
+by all means BE CAREFUL! You wouldn't want anything bad to happen. Go through
+all of this by giving them a good hit from the horns and we'll see Damon. He's
+similar to Altair, he can hardly remember anything and feels like he's been
+trapped ever since he was just as young and small as Spyro was. Thank god, that
+was quite a challenge!
+
+Zeke
+=-=-=
+After getting Rosco, charge right ahead on this wooden path until you get to a
+hole in the floor. Jump inside. Not more of those stupid trees? Well they're
+here, so just burn them, and then use your charge to take care of everything
+else. Then go up the steps and we'll see Zeke, another thank-you dragon.
+
+Bubba
+=-=-=-
+Bubba's annoying to get, but we need him to get 100%. So what we do: go through
+all the gnorcs, hogs and everything, and climb up the steps to find Bubba.
+He'll tell you what to do with the frogs: smash them and squash them and
+squeeze them and squish them and stamp them. Spyro will inform Bubba that
+dragons ARE dragons, after all...
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++ ++  5v. Tree Tops ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+A devastatingly frustrating level, Tree Tops is probably the longest and most
+confusing one in the entire game, and there is no harder level to collect 500
+gems in. You're treated immediately to seeing a thief run away... carrying an
+egg? Nope, a purple gem. Near him are two Witch Doctors, as I like to call
+them. Anyways, flame the Witch Doctors, big and small, and take a left up into
+a room with a fork. Doesn't look like it, but there are two windows and one
+path to follow, and a path to the right. Head up first.
+
+Here, charge through the Witch Doctor, then take a left up to find a key and
+two large Witch Doctors. A key already? Oh well, burn the Witch Doctors and head
+up the stairs and take a right to find a Stonehenge, or whatever. An extra life
+is there, along with some more Witch Doctors and gems. Collect everything you
+see, then use the path and glide over to the island on the right, where you can
+free Lyle. There's also a Supercharge there, which isn't altogether appropriate
+for a place like this.
+
+But anyway, take the Supercharge and glide to the Stonehenge in front of you,
+which is a standard platform. You may notice another platform way off in the
+distance, but don't even ATTEMPT to glide there, because you will fail and it's
+much easier to get there later. Grab all the stuff on this Stonehenge, flaming
+all the Witch Doctors and stuff, then glide to the Supercharge on the right.
+Take it to its full power, and at the end of it, leap over to the heavy chest
+that's like, right below you.
+
+With that chest broken and the contents hopefully yours, collect anything here
+and then glide over to the platform with the Return Home Vortex there. There are
+some gems there, as well as a tree stump WAY up above with lots of stuff, but
+you cannot jump up there, so don't bother trying. There's a whirlwind nearby,
+though, which takes you to a bridge. Not the stump above, but a bridge. Oh well,
+just take it and follow it inside the room there, which has the usual Witch
+Doctor, and a heavy chest inside. Ignore the latter for now.
+
+Return to the bridge, and glide over to another bridge to the right, which is
+right below where we started. That's okay, it's time to take the right that we
+saw at the entrance. When you get to that fork, take a right and get rid of any
+enemies you left, and you'll see a purple thief run forward. Wow, strange colors
+and stuff. Glide to the room across there, and flame the Witch Doctor there.
+Land on the floor, and use the key to open the chest there, which is full of
+lotsa purdy colors. Yum.
+
+Take the stairs there, after you've collected everything, and free Isaak there.
+Now it's time to really get started Supercharging, as Isaak hints to. Start
+with this Supercharge, and then you'll be able to use it to leap to that heavy
+chest I mentioned earlier. Heh, not bad. Head back to the bridge, take the
+whirlwind up, and follow all the way back to the Supercharge, and now we start
+major gliding. Follow up to what I say here, otherwise it may be extremely
+confusing.
+
+Start with this Supercharge, and at the end of it, jump over to the right, so
+you'll be going up a backwards Supercharge. From there, jump over to the ramp on
+the other side, and shoot up there with all of your mighty Supercharge, and then
+do the longest glide you possibly can, across from there. With enough length,
+you'll be able to land on the platform we saw earlier that we couldn't hope to
+Supercharge to. There is a lot of treasure there, including a few purple gems,
+not to mention the gem thief and a dragon named Jed. Needless to say, you're
+congratulated for this effort.
+
+With that done, glide over to the first Supercharge that we came across, from
+where we freed Lyle. Take the Supercharge, land on the Stonehenge, and then
+jump over to the bridge on the right. But from there, don't take the bridge
+normally, instead, once it ends, jump way over to the right, with the
+Supercharge still intact. Now you should be on the lower bridge, able to go
+through the tree, and then at the end, you can jump over to that high tree stump
+way above the Return Home Vortex.
+
+From there, you can flame the purple thief and collect all the remaining gems.
+With that you should have 500 gems, but it's quite easy to have a few missing.
+If there are, just start from the beginning, and look at any room there is.
+There's nothing on the bridges, so don't bother looking at there; look in the
+tight corners of rooms such as the one with the locked chest. Having finished
+this incredibly painful place, let's finish up with the boss of the crop here,
+Metalhead.
+
+Lyle
+=-=-=
+Wow, that's my father's middle name. :) Return to the beginning, and then go
+the way the green thief went to arrive at a Stonehenge. This isn't too much of
+a hurry, so you can take out the enemies at the first Stonehenge beforehand.
+Take care of business there, then go to the left and find Lyle.
+
+Isaak
+=-=-=-
+It's hard to explain things in Tree Tops, but eh, I'll go on. Go at top speed,
+leave the gnorcs for later. Show that thief no mercy, unless you want Isaak
+first. Take a turn around here and you'll see a purple thief in the distance.
+Glide over to him, killing the gnorcs, and you'll find Isaak up there. He'll
+tell you to jump at the end of a supercharge, and then Spyro could really go
+far...
+
+Jed
+=-=-
+Jed isn't hard, he's just tricky. You may be thinking, use the supercharge to
+get him, right? Wrong. You have about a 1 in 30 chance of accomplishing this.
+What you have to do is go to the right instead of Jed, continue the supercharge
+wherever you may, and then do quite a ride from one area to Jed, getting the
+thief and Jed. Jed will compliment Spyro on his skills.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 1
+<- \ /  ++ ++ ++  5w. Metalhead ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+Metalhead, unlike the last three levels, is a full fledged level. There's only
+one dragon (no surprise), but there are actually 500 gems, as well as a hidden
+overlook that we'll have to take advantage of. But it's MUCH easier than the
+last two levels, so it's welcome relief. Start by heading up the stairs in front
+of you, and a Witch Doctor will immediately hurl a smaller one at you. As you
+can see, this place has a rather fast pace to it. Charge the Witch Doctor and
+stuff, and clear the gems around you.
+
+Climb up the stairs and finish up with the Witch Doctor, and from here we can
+take advantage of the secret. Look below to find a large river of swampy mud,
+a path below, and an entrance in the bars. Alright, might as well take that.
+Jump to the path below and enter through the bars, and inside, CLAIM THE
+TREASURE! You deserve it for discovering this little overlook. Head up the
+stairs, collecting treasure, and sniffing out the rooms. There are two rooms,
+above and below, one with an extra life and one with a whirlwind. You know what
+to do.
+
+With the whirlwind, you'll be gliding out of a tower and onto the roof of
+another building. Get whatever there is there, then glide over to the roof of
+another building that's in the distance, for another extra life, and some
+treasure. Then you can just drop below, get whatever you missed earlier, then
+climb the stairs. It's some standard Witch Doctor action, as well as dropping
+some smaller bogie men to get you. You know the drill, it's easy stuff. Just
+grab the gems in the corners.
+
+Climb up the stairs wherever you see, until you have two Witch Doctors. Charge
+their spawn and then finish them off, and take the path to the left to meet
+Sadiki, who will introduce you to Metalhead. Much harder than Blowhard, but
+then again, anything else is. Enter, and the fight begins.
+
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+*        BOSS: METALHEAD       *
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+
+Metalhead is a worthy opponent, but to damage the robot itself, you can't just
+flame or charge it. Instead, Metalhead runs on a set power, courtesy of the
+power rods here. When they're charged with electricity (i.e. flashing red),
+AVOID THEM, as they will damage you. Don't even bother if they're flashing,
+since they're just going to turn on. The best strategy here is to charge through
+the place, avoiding the charged bolts, and charging (right) the uncharged ones
+(yeah, seriously).
+
+Meanwhile, Metalhead will attack by shooting out a beam of electricity which
+should be easy enough to dodge. With all the bolts down, Metalhead will break
+the door down and run away, so you can chase him if you want. But don't forget
+the stairs in between the rooms here, as there are some gems at the top of the
+stairs. In the second room, there are more bolts, plus Metalhead will have a
+more rapid rate of electric fire, but it won't be enough to save him. Just
+repeat the bolt charging process.
+
+Metalhead will break down, and you can claim all the treasure that he drops.
+Don't enter the building behind him, though, instead head to the entrance of
+this area (before the room with the stairs), and climb these steps that line the
+wall, which go behind the mud waterfall (wow, that's sick). Climb up and at the
+top, you'll find a locked chest in which you SHOULD have the key for, from back
+in that secret overlook. Open it, claim the treasure, and then return to land
+and enter that building.
+
+The Return Home Vortex can be found by following the path inside, but there's
+stuff to do first. Follow the path up the whirlwind at the end, collecting
+treasure, then glide over to the ledge above for a bit of treasure. Return to
+the path above, then head outside and collect the gems on the roof. Follow the
+trail of gems, and at the end, you'll finish with a perfect 500 gems. Take the
+Return Home Vortex, and you can just go into Wild Flight.
+
+Sadiki
+=-=-=-=
+Sadiki ain't hard either. From the entrance, go up and some monster will throw
+a rolling gnorc at you. Charge into this gnorc or just plain run away, it
+doesn't matter. Go straight forward from there while keeping a close watch on
+those enemies from Tree Tops, and when you get to the end, look over to the
+left to see another path, where you can find Sadiki. He'll tell you Metalhead
+is charged up to meet Spyro, but his power pool will disrupt him.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++  5x. Wild Flight  ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+Wild Flight puts both Night Flight and Crystal Flight to shame; it's more than
+twice as difficult, and you may not even want to do it in an organized fashion,
+because of the way it's put together. But anyway, from where you begin, swoop
+down and flame the boat and the chest, then fly around in a circle flaming any
+other little thing that lies around, and after that little 360, fly into the
+tunnel there, the one with boats coming out of it. If you see them, flame them,
+and the arches as well need to be gone through.
+
+In that "room" (no better word for it) surrounded by the mountains here, flame
+the boats and fly through the arches... really nothing better to do. Make sure
+the boats are finished with first, though, since they're hard to deal with.
+With that done, start from the beginning of the tunnel, where the arches started
+to appear, and fly through the each of them, following through a new tunnel so
+that you can end up with 8 and be back at the entrance. Now for chests and
+planes.
+
+Take the other tunnel, which has some chests at the entrance. Go through there
+flaming the chests as you go, and follow them all around that room until they're
+all cleared out. And with all of those, find the planes and start going in the
+opposite direction of them, so that they'll fly right toward you, and you can
+flame them. You may end with just a few seconds left, but that's Wild Flight.
+Supposing you got finished with that, you SHOULD have 58 dragons by now, so you
+meet the criteria to leave the swamps and go to the Dream Weavers world. Yay.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ 5y. Dream Weavers Home ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+The Dream Weavers world is filled with things that can change, but surprisingly,
+it's not as hard as the Beast Makers world. In fact, it's quite level with the
+Magic Crafters world, but all the same, it's a very enjoyable final world before
+Gnasty's World. So anyways, a cannon manipulates all the enemies here. Enemies
+are constantly blasted, to be made big or small. I'm going to assume that
+enemies are small, because if they're large, just wait on them. Or if they're
+not shielded, then flame them. Easy as cake.
+
+Charge through the two enemies at the entrance, then glide over to the next
+platform, flaming and charging as you go. Awaiting you here is the portal to
+Dark Passage, which will be our first level we go to, but not now. Take the
+whirlwind in front of you, and on the platform there, flame the little imp right
+there, and you can either charge forward, try and get past the two large,
+shielding imps in which the cannon will NOT hit, or take a right. I go with the
+third option, as the second is trying to do something impossible.
+
+Head under the gate to the right, and once there, rescue ol' Lateef there, who
+will prepare you for the light of the Dream Weavers world. Heh... run around
+flaming the chests, not yet heading into the Lofty Castle portal, then return
+to find three shielded imps on the path up ahead, just waiting to be charged.
+Follow to the end of the path, but when it ends, don't yet glide to the platform
+in the distance. Instead, head up the stairs on the right to find a portal to
+Jacques (yeah some name, it is the boss), and take a left to see the balloonist.
+Yeah, it's tempting, but don't go to Gnasty's World yet.
+
+Return to the end of the path from earlier, and glide over to the platform with
+the three small imps. Let 'em all taste it, then jump into the... chain of
+whirlwinds. At the top, you will find an imp with a cannon there, and one that
+happens to manipulate the size of the enemies here. To start things off, charge
+that little squirt (why doesn't he use the cannon to make himself grow?), and
+then YOU take over the cannon. Start with those two large, shielded imps that
+blocked the stairs off. ;)
+
+Allow them to shrink in size, and then glide over to the platform over there to 
+meet Zikomo, who has a very distinct sounding name. I like it very much, so...
+yeah, whatever. Glide to the platform with the passage over to the right, flame
+and collect everything, and from there you can see the portal to Haunted Towers.
+Oooh... creepy... the third dragon, Mazi, also resides there, and he gives some
+very interesting info. Might as well take advantage of it and flame the clock
+guy.
+
+A platform in the water will lower itself, allowing you to claim some stuff on
+top of it. So jump down, take the whirlwind nearby, and... it's another chain,
+which will end with you gliding back to the entrance. This is as good a time as
+any to go over to where the two large, shielded imps were blocking off the
+stairs leading above. Charge them with vengeance, and once above, you'll find
+yourself above the Lofty Castle portal. Glide over to the narrow little path
+on the wall, and follow it to the right.
+
+From here, there are two clock guys, and two lowered platforms. What do you do
+now? Yep, FLAME THE CLOCK DUUUDES. Let them both swallow some ash down, then
+climb up the platforms and glide over to the Icy Flight portal, just don't enter
+that yet. Anyway, that should wrap the Dream Weavers home up. Now just return to
+the entrance and enter Dark Passage.
+
+Lateef
+=-=-=-=
+Glide over to Dark Passage, kill enemies before they grow (the cannon above
+makes them grow, just charge enemies when they are small), glide over to the
+next island and enter the passage right ahead of you and then see Lateef there.
+I'll say right now that his words are useful.
+
+Zikomo
+=-=-=-=
+Now this is interesting. ^_^ Get out of Lateef's passage, then charge those
+imps. Glide over to the island over there and charge the imps before they grow,
+then let the three whirlwinds take you to the cannon. Use the cannon to shrink
+everything. Then glide over to where Zikomo is. If you can't see him, he's just
+to the left. Rightful congratulations.
+
+Mazi
+=-=-=
+From where Zikomo was, glide to where those two big imps were guarding the
+passage. If you haven't used the cannon yet, use it and fire at those two and
+they will become small. Glide to where they are and charge them both. But
+anyways, just mentioning that. From Zikomo, enter the passage below and you'll
+find Mazi just near the Haunted Towers portal. He'll tell you that even though
+the clock jesters are invincible, charging or flaming them could still do
+something...
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 5
+<- \ /  ++ ++ 5z. Dark Passage ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+Right at the entrance, you'll find the usual jester carrying a light (yes, a
+light, not a clock), and a cute golden puppy! Ah, my dreams are coming true and
+they're being weaved! WHOO! Unfortunately, fantasies are limited as the puppy
+is an enemy in which the light guy will turn from a puppy to a huge red monster
+to a puppy and back and forth. Flame it either way to collect whatever it drops,
+because ahead there are shielded turtles who are a bit tougher. Charge them when
+they're small, as if they're big, they're nasty.
+
+Make sure you keep everything small by flaming the light jester, then take the
+whirlwind at the end of the passage to head up the wall, where you'll meet
+Kasiya. Get him out of his trap, and then up ahead is a demon carrying a bow.
+Geez, Satan would use a sword that would bring down the fires of hell upon the
+universe, but this guy can just be flamed. From right behind him, flame the
+jester with the light again to get rid of the puppies (exterminating dogs is
+pure blasphemy though), and head up the stairs.
+
+Two more puppies and one more demon later, and you'll find some more stairs,
+with the second dragon, Azizi, on top. Yeah, that may be used to describe me,
+but whatever. Just follow the path after that, gliding over to a heavy chest
+which you need a rocket to blast up. And that rocket is nowhere to be found, so
+just glide across the gap here and immediately flame the light jester, as there
+are a lot of enemies in here which will grow larger and hurt you. With that
+done, charge through the passage, taking everything out as you go.
+
+Outside of there, follow the path up to meet the third dragon so far, his name
+being Bakari, as well as the Return Home Vortex. Not like we're gonna use that,
+though. From here, look near the heavy chest to find a green passage underneath;
+hence why this place is called Dark Passage. But anyway, glide to that passage,
+making sure that you're not too high in either way, then after you get out of
+there, you're in an entirely new area, with demons, dogs, and whatnot. No light
+jesters here, though, so just take EVERYTHING out.
+
+Make sure you don't miss any gems here, as there are a few tricky corners. With
+all the gems here collected, glide across the huge gap here, and land on the
+very narrow passage on the other side (preferably to the far right side), where
+five puppies wait to howl for your death, as the dogs of doom. No light jester
+to sing for their growth though, so horn them all and in the next room, there's
+a light jester guarded by two huge turtles. And he's NOT going to change the
+light.
+
+Glide in between the turtles, careful not to get snapped, and flame the light
+jester. Now head to the walls and quickly charge the turtles before the light
+kicks back on, then take the whirlwind there to arrive on the roof. Well, not
+really the roof, since there are a lot of stairs here, but anyway, there's yet
+another passage, with the fourth dragon here, Apari, in front of it. Just get
+him freed, and get the gems at the far ends of this place, and enter that
+passage behind Apari.
+
+Jump over to the right and climb the stairs, where you'll find an area with a
+purple floor right below. Since there's absolutely nothing there, and no point
+whatsoever of jumping down, don't bother. Instead, climb the stairs further up,
+and glide over to the other side of the gap, jumping from ledge to ledge, and
+at the end of this is Obasi, yet another dragon. That makes the fifth and final
+dragon so far, so yeah, this place is fairly populated, I guess. But anyway,
+it seems the passages here are built on a mountain, cuz that's where you are.
+
+Set into flight and glide over to the other side of this cliff, and in this
+cavern, just charge the pups (poor doggies), and use the whirlwind at the end,
+to find a rocket. It's science, right? Just what we were looking for... give it
+some fire, then glide over to the Return Home Vortex platform, and to the heavy
+chest, to claim your treasure. And with that, you should have 500 gems, and be
+ready to advance into Lofty Castle.
+
+Kasiya
+=-=-=-=
+From the entrance, continue through the barrage of enemies here. Remember the
+clock jesters from Home? Well, they're basically the same, but they focus on
+light instead of time. If it's dark, the enemies here are dangerous. The golden
+puppies here become red killing dogs with huge mouths, and the green
+turtle-like things with the armored shells become gigantic armored green
+creatures that cannot be killed. Obviously, you will want to let those light
+jesters have it so it'll be light and the enemies will just be small like
+creatures. Now that you know this, go ahead to find Kasiya. He'll tell you to
+watch the jesters.
+
+Azizi
+=-=-=-
+Just go ahead flaming everything and you'll see Azizi in two seconds. He'll
+thank you. But all the same, there are those big green monsters and the
+overgrown puppies to look out for.
+
+Bakari
+=-=-=-=
+Bakari is akin to Azizi, just continue killing stuff and you'll find Bakari.
+However, you'll have to do a bit more gliding than before to get to him, and
+right before him you'll have to glide across a cliff, and on the other side
+there are killing monsters right near the end, and usually the light will be
+off. This might be a bit tricky. Anyway, take him out by attacking the light
+jester and then go right ahead. Bakari will await you there. He'll tell you
+that you are just might be the dragon to kill Gnasty Gnorc.
+
+Apari
+=-=-=-
+From where Bakari is, do a bit of searching. See the green cave on the other
+side? Glide down and across, then you'll land there. Continue forward killing
+the enemies you will see (don't worry, no jesters) and then glide to the area
+in the distance. Charge right through the four puppies, then destroy the two
+huge shielded devils by flaming the light clown and then charging these
+creatures. After that, go up the whirlwind and take a right and find Apari.
+He'll tell you that he'd help you, but he doesn't want to be trapped again, but
+Spyro will say that Gnasty will be the trapped one.
+
+Obasi
+=-=-=-
+From Apari, just continue. Don't worry, those blue floors are not water, no
+matter what they look like. You'll have to do a lot of glides and jumps around
+here, and a lot of the time a puppy or a turtle will be guarding it. Anyway,
+just continue gliding and then use a whirlwind, then you'll find Obasi. He'll
+thank you. Azizi all around.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++ 5aa. Lofty Castle ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+As this place opens, circle around the entrance to collect any odd gems here,
+jumping onto platforms for the more hidden ones, and charging through all the
+flying pigs. Wow, this is just getting way too colorful for me, now it's all
+about flying pigs. Right. A platform over to the left has one of those frogs
+from Dark Hollow flying on a balloon. What do you do to make him lose his
+balance and drift into the endless void below? Right, flame him. Meanwhile you
+can just glide to the island across.
+
+In here, there's a locked chest to the left and some flyin' bacon to the right.
+Also, keep a good eye out for fairies in cages. Free all three of them and you
+get a whirlwind, which is always good. There's one right at the entrance here,
+and you can charge through the narrow path there to find two more. Also, a
+strange note to make is that there's one of those gold chests with a red gem in
+it. I'm ripped off! But anyhow, return to the beginning of the path, and take
+the whirlwind that the fairies are surrounding.
+
+Mudada (wow, his name doesn't end with the letter "i"), is at the top, so make
+sure you be a good soul and free him. But anyways, there's an island across
+from here, but don't go over there yet. Instead, take the path behind you,
+following it across the fountain and to the other side. You're faced with a fork
+after that; right goes to a large collection of islands, and the left goes to
+Lofty Castle itself. I'll go with the left for now, if only because there's a
+long line of flying pigs, and bacon is tasty.
+
+Line the pigs all up in the meat grinder (or rather, your horns), and follow
+the path to the left to get into the castle itself. Head up on the whirlwind
+right at the entrance, and then immediately glide to the left, where you're
+faced with a lot of balloon-wielding frogs and fairies in cages. I don't care,
+let them all taste death to your flame (the cages, that is!). If you miss
+anything, just return to the entrance and start it again, since it's not easy
+to pick everything up at once. Just make sure all the frogs are dead and the
+fairies are freed.
+
+Once the glide stops, drop down at the end of the castle path, and pick up the
+two treasure chests there. Those are easy to miss if you're going through here
+for a second time, looking for the rare thing or two that you missed. And with
+that done, head to the platform that was right in front of the whirlwind, as
+that too is a whirlwind now. Just take it up, and at the top you'll free Useni.
+Ah yeah, this place has Dark Passage syndrom all over it now. Make sure you
+pick up the key too, as keys are generally good in video games.
+
+With that, glide into the passage at front, and then charge down the ramp
+there... Supercharge time! Get all the power you can, and at the very end,
+get the most jumping power you can, and glide all the way over to the platform
+in the far distance over to the right, somewhat around the castle. It's a blue
+one with treasure on it, so it's hard to miss in eyesight, easy to miss in
+Supercharge. But supposing you can manage that, there's lots of treasure to
+claim on this platform.
+
+What with all the treasure collected on that platform, jump to the ground below,
+and you're right back near the entrance, able to collect that grand locked
+chest. Of course. Now head back to the whirlwind, and up to the path above. Now
+it's time to head to the area in front of where Mudada was. Glide in front of
+where you are, to the large island in the distance, freeing the nearby fairy(es)
+and collecting gems. Same old, same old. Then climb up the platform, get the
+last fairy, and that wraps that up.
+
+Head to the foot of this platform and glide over to the blue platforms on the
+left. Mmmm... fresh meat. Yeah. From here, glide over to where the locked chest
+was yet again, taking the whirlwind up, and turning around to face the fork
+where the left went to the very lofty castle, and the right went onward. Opt
+for the latter this time. From here, there are quite a few frogs with balloons
+above platforms, so take the existing whirlwinds to get to the distant
+platforms, where fairies are caged, and frogs fly in the air.
+
+All the three fairies here are fairly out in the open, so you shouldn't have
+any problem finding them. With all of them collected, jump back down to find a
+whirlwind, and there's another castle passage to go through. Head through it,
+and once on the other side, you have several flying pigs circling around a
+fountain. Like that was ever imaginable. Charge through the lot of them, and
+take last glances at the fountain too, since you never know what might be left.
+I speak from experience.
+
+Anyway, this area is pretty much the same as the last one. Circle the area,
+taking whirlwinds and freeing fairies, until you have three of them freed. From
+there, take the whirlwind surrounded by fairies, and we lift up to the great gig
+in the sky... guess that means death. Four more gems later, there's a Return
+Home Vortex there, and we can take off against the medieval towers haunted by
+darkness itself.
+
+Mudada
+=-=-=-=
+From the beginning, flame the monster on the balloon (he looks like the
+monsters in Dark Hollow but he barely attacks), then use the whirlwind and
+glide over, get the booties, then free all the fairies. One's down on the
+ground, and two are just straight ahead. Use the whirlwind that appears and
+free Mudada at the top. He'll say that fairies are always on Spyro's side.
+
+Useni
+=-=-=-
+Go ahead across the whirlwinds and enemies, and you'll be at a large area. Go
+ahead, and cross the path, then go right and go through killing enemies if you
+want, and then use the whirlwind to get to Useni. He'll tell you that
+supercharge is useful here for taking you to new places.
+
+Baruti
+=-=-=-=
+Use supercharge and do amazing glides! Solve this little puzzle here with the
+enemies, and then you'll arrive at this path. Go ahead and see Baruti.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 3
+<- \ /  ++ ++ 5bb. Haunted Towers ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+This is my single favorite level in the entire game. It's unique, long, tough,
+and it has every good element of previous great levels put together into one
+completely awesome level. So anyway, the level starts with a wooden door in
+front of you, which is both flammable and "chargable". So take any appropriate
+action to it, and in that room, you'll meet Storm Wizards (yeah, they're back),
+and Gnorc Knights. Together with that, there are Armored Knights (as I call
+them), but ignore them as they're invincible.
+
+Charge both the Gnorc Knights and Storm Wizards, then cross the bridge to find
+a metal door to the left (which is impervious to flame or charge), and an
+Armored Knight to the right. Yeah, marvel at my incredibly unique rhymes. But
+anyhow, you can't get past either, so might as well follow the bridge to get
+kissed by a fairy, just after getting rid of the Gnorc Knight, and that proves
+my point that Spyro is a lady's dragon. But anyways, don't waste a second of
+this effect, as it gives you Superflame, just like in High Caves.
+
+Follow back through the last bridge, and flame the Armored Knight on the left
+immediately. But don't head through there; head to the right wall and flame the
+metal door, and while the treasure there is very tempting, don't bother with it.
+Take the next bridge, closer and closer to the entrance, and use the last
+seconds of the Superflame to breathe on the Armored Knight in here, and the
+downed one at the very entrance. If you can't do it first try, just return to
+the fairy and get more breath. Amen.
+
+Head to that metal door we burned down, and collect everything there is behind
+it. It's a lot, I'll let ya know. With everything else collected, let's move on.
+So anyway, it'd be nice if in going forward, you had some Superflame still, but
+it's not a big deal. Head back to where the Armored Knight was blocking the way
+onward, and at the end there, just use the whirlwind to head up to the fields
+above. There are some Armored Knights there, both downed and up, but either way,
+if you have Superflame, send them to the inferno, as well as anything else
+here.
+
+At the end of the field here is the first dragon, Kosoko. From right behind him,
+follow the bridge to some kind of fort. Or whatever it is, I'm terrible with
+medieval history. Surf the sides of it to get some gems, and then enter it to
+find a single fairy who will give you the kiss of death. Or rather, your enemy's
+death. Use your newfound Superflame to burn down the metal door, heavy chest,
+and any single other Armored Knight that's in the field. With everything here
+completely dead, head forward beyond the metal door of the past.
+
+Take out the Storm Wizard here, and take the whirlwind up to the stairs into the
+castle itself. Hehehe, just knew that in a medieval world, there had to be a
+castle other than Lofty Castle, right? Too bad this one's superior. Jump up the
+stairs here and find the arrows to a Supercharge within the gate. This one is
+very important, but it's not that vital yet. Use it to get through the door
+right ahead, and then crash it anywhere. You are now in the foyer of the castle,
+with five doors, all blocked.
+
+The three doors on the right all have wooden doors on them, while the two doors
+on the left (which are more important) have metal. Start with the upper wooden
+door, and charge through it to meet a fairy inside. Yeah, you know what the
+result of that is. Immediately go to the room on your left (which is blocked
+with a wooden door), and you'll find an Armored Knight inside right away. Send
+him to the burning haven, and claim all the treasure inside, because trust me
+when I say it's a lot.
+
+Leaving that room, charge into the room on the left of there, which is the third
+wooden door, and inside is the second dragon, Lutalo. And no, this is not going
+to become another Dark Passage. With whatever you need to do in there done (as
+in, running back and forth), return to the room with the fairy, and get some
+more Superflame. From here, find the metal door on the right, and burn it down
+to claim the death of an Armored Knight right behind. :) There are stairs there,
+but don't use them yet.
+
+Instead, head to the other metal door, and make a wild dash to the end of the
+field there, where a heavy chest lies. Collect every single thing inside, and
+finish up with any enemies here. Now it is time to do the single most insane
+thing the game will demand... after this, nothing else will seem crazy. First of
+all, return to the Supercharge. It's time to do the unthinkable since Tree
+Tops. Get it going to full power, and then go through the first door on the
+left, which was the lower metal door, which leads to the fields.
+
+Keep the Supercharge going, and jump down to the left. Take the arch through,
+and at the end of the ramp, jump over to the distance, where you'll land on a
+quite distant platform. Collect whatever odds and ends lie here, then take the
+whirlwind up to the true haunted tower, which is actually the second floor of
+the castle we were in earlier. To the immediate left is a dragon named Copano,
+who will congratulate you on that leap of faith you just took. But now we have
+precious little time to spare.
+
+Enter the room on the right, and before doing ANYTHING, climb the stairs and
+glide over. Climb to the top as quickly as you possibly can, because the Armored
+Knights can and will come alive when a Storm Wizard sends some sparks down.
+Immediately get to the very top, and once there, give that Storm Wizard a good
+facelift into death. Then charge into the room on the left, and get a kiss from
+the fairy, which will give you eternal Superflame. That's right, for as long as
+you remain in Haunted Towers, you have Superflame. Awesome.
+
+Return to the last room, and head down the staircase Superflaming every single
+Armored Knight you see. Then jump to the bottom, claim some easy treasure, and
+then return to where you found Copano. Just head outside to find a heavy chest
+which should definitely be flamed to gain what lies inside. From here, go back
+into the tower, and find a hole in the floor. Jump in there, and we're right
+back in the room with the six passages at the first floor of the castle. So
+with that, take the stairs which were formerly blocked with metal.
+
+Take a right and flame everything you see; there's nothing that Superflame
+can't destroy. Including Armored Knights, which are now just sissies waiting to
+be sent. Claim everything within this court (notice there's a fairy here, but
+you don't need them anymore), and then you can just take the Return Home
+Vortex back to the Dream Weavers home. Too bad Superflame will be gone as we go
+to Jacques and beyond, but wouldn't it be cool if otherwise?
+
+Kosoko
+=-=-=-=
+Get past the knights, charge through everything, and eliminate it all. All of
+the gnorcs are in knight armor and some have magic so they have all taken a
+step up on the difficulty scale. You'll come to a room with a fairy. She'll
+kiss you and your breath is ultra strong! Flame the steel door right behind you
+and then use the whirlwind, and meet Kosoko. He'll inform you about the fairy's
+kiss.
+
+Lutalo
+=-=-=-=
+From Kosoko, go forward flaming the enemies here and perhaps get to the end of
+this area and reach the fairy, then get her power and head up the path a little
+before her. Inside, just use supercharge in here, and go into the red room.
+Lutalo is here. He'll speak about Gnasty Gnorc.
+
+Copano
+=-=-=-=
+Besides Jed and Damon, Copano is probably the hardest dragon you have yet to
+find. Return to the entrance of this passage and use the supercharge. Exit
+through the second left door. Once you get outside, go to the left and when you
+reach the end of the island, do a gigantic supercharge-glide. This will be hard
+but it is indeed possible. Use the whirlwind and get to the top, then you'll
+see Copano. He'll mention Spyro's supercharge ability.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 2
+<- \ /   ++ ++   5cc. Jacques  ++ ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+Jacques's level isn't too bad, but it's a world of fire, clock jesters (no more
+light jesters), and boxes coming from out of nowhere (seriously). But with that,
+the enemies at the entrance aren't too bad, and a charge and flame are much
+greater than they are. Flame the clock jester at the entrance, then jump on to
+the platform in front of you. Yeah, basically, the whole world plays out like
+this. Just move up a bit from there, and you're immediately faced with a fork of
+left and right.
+
+To the right is a straight and narrow path, while to the left is a bunch of
+platforms. The right is overall more appealing, but we'll only be there for a
+second. There's a clock jester somewhere right there, so give him a good flame,
+and then immediately HEAD BACK! Yeah, to that left path. Take out any
+surrounding enemies, then flame the clock jester that's near the platform there.
+With the platform there raised, jump up to the ledge and drop down below, to
+the lowered platform there. You heard me, stand on the lowered platform on the
+other side, and STAY THERE.
+
+Eventually, that clock jester you flamed a minute ago (the one right into the
+right path), directly relates to this. That platform will raise, and you can
+glide over to the distance, and free a dragon by the name of Unico. Yeah,
+Jacques is the only boss level that has two dragons. But with Unico freed, you
+have two paths to take once again; one has a whirlwind and four platforms in
+the air, and one has a ledge way off in the distance for you to glide off to.
+Take the latter first, and get over to that ledge to find a few odd gems.
+
+Take the whirlwind there to go back to the fork, and in the other path, just
+use the whirlwind there and move over to the left. All the platforms here are
+mounted by monsters, and you want 'em all dead. Dead as doornails. If you fail,
+just head back to the whirlwind and do it again, just don't land in the lava
+below, since it burns. And also, don't forget the gems on the walkway below,
+since you're more likely to concern yourself with the gems above. So with that,
+return up and to where you freed Unico.
+
+Glide back to below the platform which is now risen, and glide over to the very
+small island on the left, and to the large island in which a very large platform
+centers around. It goes hand in hand. That being done, let the jesters around
+the platform burn (yes, there are two of them), and then glide to the little
+cave in the wall, where you can pick up a key. Yeah, there's a locked chest
+here. From there, jump back to that platform, and you can just continue to the
+next island, where it's just one more jester and one more platform.
+
+Above there, you'll find that locked chest, which has a LOT of gems in it, trust
+me. Here you can head to the right, or down the stairs there, but start with
+going to the right. Just head down there, take all the enemies out, and you'll
+end right where you got to that left-right fork with the left going to Unico
+and stuff. So once you get back there, head all the way back to the locked
+chest, and go down the stairs to free Revilo. From there, Jacques is right up
+ahead. Boss time.
+
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+*         BOSS: JACQUES        *
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+
+Jacques is really easy; in fact, as you charge at him, he'll just immediately
+turn and run away. His one and ONLY attack is throwing boxes at you, and so long
+as you can walk or roll away, they will not make contact with you. So just
+avoid that fate, and continue up, following him. Eventually, he'll stop on the
+one platform and you'll have to flame him, but just do that, glide from island
+to island, and at that last platform, flame him and he'll drop a whole LOT of
+gems. All purple, yay. From there, take the whirlwind for no less than 75 more
+gems, and the whole place is finished. Time for the flight of ice.
+
+Unico
+=-=-=-
+At the beginning, just flame the monsters around here (they prove no real
+challenge) and charge into the clock jester, then jump up. Flame the clock
+jester on the right, then get flame the one on the middle. You now have a VERY
+SMALL TIME to jump up and get to Unico. Don't expect to do this on your first
+try. It's more than possible to do this though. He'll thank you... right.
+
+Revilo
+=-=-=-=
+Get past everything, and go down the stairs. The enemies are not harmful, but
+the glides are. It's basically just straightforward, but some of the huge
+glides here could prove a small challenge. Revilo has a unique message from a
+wise dragon of the past to aim high in life but avoid flying boxes. Cool.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++  5dd. Icy Flight  ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 300
+
+Icy Flight is the second toughest flight level, but it's still not really that
+bad. Nothing next to Wild Flight, in my opinion. There are some lights in front
+of you, as well as some chests, so when the chests really begin, you might want
+to divert from the lights and focus on the chests. Or you can finish up with
+all the lights and then return to the chests, your choice. But anyway, just make
+sure that before you reach the train tracks, you've got all of the lights and
+chests, because we're done with those from here on.
+
+The copters here are divided into two rooms; one has five of them and one has
+three of them. Fly in the opposite direction as the trains, and as they come at
+you, take them all out. Depending on the speed of doing this, you'll end in
+either of the rooms, so whichever one you're in, swoop into the air and flame
+down everything you see. And yeah, that's it. It ended pretty quickly. With all
+of the Dream Weavers world done, we can advance onto the junkyard maintained by
+Nasty Nork himself. Time to finish it all up.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 2
+<- \ /  ++ ++ 5ee. Gnorc Gnexus ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 200
+
+Gnorc Gnexus beats the Artisan home or Toasty; it's the single easiest level in
+the whole game, but since it can't all be finished in one go, just come back to
+here after you finish up with the levels here. To get to Gnorc Cove, Twilight
+Harbor, or Gnasty Gnorc, you have to reach the end of the level before it.
+Well, we can get into Gnorc Cove now, but the latter two are an exception. After
+that, to get into the very LAST level, you have to have 12,000 (that is, all of
+'em) gems, 80 (again, each and every one) dragons, and 12 eggs. Have fun.
+
+But at the entrance, anyway, is Delbin. You might remember him from the Artisan
+home, but yes, all the dragons here are rebels from the five dragon homes.
+Circle around the place to find all 75 gems accessible now, and then hop into
+Gnorc Cove, as there's nothing left. When you finish Gnorc Cove, return and pick
+the next 50 gens up and enter Twilight Harbor, then with that done, beat Gnasty
+Gnorc after claiming the final 75 gems, and after that, free Magnus. And by then
+you should be able to enter the FINAL level. Hehehe... before then, Gnorc Cove.
+
+Delbin
+=-=-=-=
+Yep, Delbin. He's right in the center. He'll tell you to reach the exit in
+Gnasty's lands. You may have remembered that you freed Delbin a long time ago.
+Some dragons have stood up to Gnasty Gnorc, only to be trapped again. Only
+Spyro will be able to defeat Gnasty Gnorc, so it's up to you...
+
+Magnus
+=-=-=-=
+Magnus is where Delbin is, after you kill Gnasty Gnorc. If you didn't read back
+there for some reason, he's just in the center of the room. And no, you CAN NOT
+GET HIM THE FIRST TIME THROUGH GNORC GNEXUS. You have to beat Gnasty Gnorc
+first, so go out and do it.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 2
+<- \ /  ++ ++  5ff. Gnorc Cove  ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+Gnorc Cove is a surprisingly docile level compared to what you might expect.
+You'd expect gnorcs at every corner, shooting shooting shooting, but no such
+thing exists in Gnorc Cove. But anyway, glide over to the path in front of you,
+where a gnorc will be rolling barrels at you. To avoid this, just jump over 'em
+and give 'em a torchlight. Easy as that. With that, take a right and head up
+that path, taking out the Gnorc Cooper (wow, I make stupid names), and then
+taking a further right from there.
+
+Climb up to the ledge above, and after that, once again glide to the ledge above
+the huge platform in the sea. It's a large walkway, and on top is Lateef, the
+76th dragon, who was also from the Dream Weavers world. From here, glide over
+to the other side of the upper ledge, where a Gnorc Cooper is hurling TNTs down
+to the ramp behind him. Bahaha, classic. Head down this ramp, and in the area
+below, just make sure that you get every single gem and enemy that's lying
+around, since they can be quite tricky.
+
+Having done, return up to the ledge above, going to the far left in case there's
+anything there. And with that, take the bridge in the center of this long
+ledge, over to the other side. From there you even get to claim an extra life,
+you little cat, you. Take a right from there, and glide over to the ship on the
+other side, where you'll find a lot of enemies (no, you can not hurl a TNT at
+the heavy chest in here) and of course, a heavy chest. No, you cannot hurl a
+TNT at it.
+
+Glide over to the platform to the upper-left, taking out the row of enemies as
+you land, then head up to the right jumping over the barrels that the Gnorc
+Cooper hurls, and finishing him up at the top. After he's dead and gone, walk
+up a little bit, where you'll find yourself peering over that ship from earlier,
+and a barrel in front of you. What do you do? HURL THE BARREL AT THE CHEST AT
+FIFTY MILES PER HOUR AND BLOW THAT SONUVA TO SMITHEREENS! YAAAARGH!
+
+Ooops, sorry 'bout that. You have to go back to the ship, sadly, plus the chest
+has like 8 gems in it, but oh well, at least we're closer to 400 gems. Return
+all the way back to where you hurled the barrel, and then step by step glide
+over to the next ship, which is in front of you. And in there, take out the
+Gnorc Coopers and other likewise enemies, and cross the bridge there to reach
+Tomas, who is our 77th dragon (wow, lucky), and also from the Artisans world.
+And he has my brother's name. Boo.
+
+Cross the bridge from here, taking out the line of gnorcs on it, then jump from
+the platforms into the structure below. No, do NOT try to glide over to the
+Return Home Vortex across the sea, that's just a terrible idea. Reach the floor
+below, and use the opportunity to charge the rats as fodder for Sparx, since you
+may be running low on health at this point. But anyways, there are three rooms
+here, one green, one blue, and one purple. And there are also some Gnorc Coopers
+in here as well, so take those out FIRST.
+
+Yeah, so three rooms. The blue has a key in it and nothing more, so let's go in
+there first. It's just a small little room with a key and nothing else, so that
+will be taken care of quickly. Head into the green room next, which is filled
+with Gnorc Coopers everywhere. Well, what do you do? Chuck barrels at their
+head? Yeeeep. Take out every single enemy in the entire room, and claim that
+locked chest in here. Now that only leaves one room to enter, and that is the
+purple room.
+
+From in here, use the barrel to get rid of the armor that the Barrel Coopers
+are wearing, then simply glide over and burn them to death. The same process
+will repeat again, and you'll be on the other side of the passage, and near a
+whirlwind, in little time. And the whirlwind will take you to that distant
+platform with the Return Home Vortex. :) Let's hope you have 400 gems, so you
+can safely have this place finished, collect 50 more gems from Gnorc Gnexus,
+and enter Twilight Harbor.
+
+Lateef
+=-=-=-=
+Lateef again, cool. Ignore my incredibly nostalgic state of mind, and forgive
+me if this strategy isn't great. Just go straight ahead, flame all those big
+gnorcs twice apiece, then go straight ahead and up, flaming TNT barrels and
+jumping over normal barrels. Get up high and do some nice glides and you'll
+reach Lateef. It's just some good luck messages.
+
+Tomas
+=-=-=-
+He's really straight ahead from Lateef. Head forward and left, through there,
+up, forward, right across the path with the barrels, farther right and across,
+then you'll find Tomas pretty straight from there. Just destroy things
+carefully, and you'll see him. He'll tell you he never expected to be freed and
+he always believed in Spyro. Took a while, huh.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 2
+<- \ /  ++  5gg. Twilight Harbor  ++  / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 400
+
+Twilight Harbor is right behind Haunted Towers as my second favorite level, and
+right behind Misty Bog as the second hardest level. It's a hella fun place,
+even if it's this late in the game. You'll start on a fairly linear path, with
+some Gnorc Gunners on it. The whole place is filled with Gnorc Gunners, and all
+the enemies here have projectiles. Charge through this one, and then jump up to
+the area above, where you get an up or a right. Up will take you to a
+crossdressing gnorc and the way beyond. The right is an extra life.
+
+Start with the latter, pick up that extra life, and take out the occasional
+enemy there. And from there, head up and past the Gnorc Axeman (I can't find a
+creative name for him), and then take a right. You can jump off the bridge down
+below, or you can head along the ledge on the left. There's a fair bit of stuff
+on the left, so don't miss it. After doing that, glide to the path below, and
+follow over to the left. Here's a Gnorc Commando, a stronger version of a Gnorc
+Gunner. Easy stuff still, though.
+
+Collect everything there is in this small purple room (wow, romantic), and then
+follow the outside path to reach a heavy chest and Cosmos from the Magic
+Crafters world. Then it's another simple path forward, past some more gnorcs.
+Just glide past the bullets they will shoot at you, though, since you're bound
+to get hit. Don't try and take them both out at once; just dominate them, and
+move on past the Gnorc Axeman. I'm starting to think they should've called this
+place "Gnorc Factory".
+
+Inside the room up ahead, head a little bit in (not with the courtesy of several
+Gnorc Gunners), and take a left up the stairs. The gems there are a bit tough to
+miss... the Gnorc Axeman isn't, though. Collect any gem that isn't yet nailed
+down, and move on to find a bridge held by two levers. IGNORE both levers for
+now; we'll come back to that. Up ahead is Cleetus from the Beast Makers world.
+Yeah, we know about Gnorc Commandos by now; just head up the path on the upper
+right. It's a Supercharge!
+
+Charge down the Supercharge (it works), and then take a left at the end of the
+path. Dash across the bridge, into that green room, and outside to where Cosmos
+and the heavy chest were. Use the last of the Supercharge's power, and let the
+heavy chest taste oblivion. With everything inside it in your possession, head
+back to the bridge supported by the two levers, and flame the second one. To
+avoid difficulties, just make sure it's the second one, and then go back to the
+Supercharge.
+
+Use it to head up the now elevated bridge, and sky rocket into the passage above
+the green room below. This room has the occasional treasure, but you'll want to
+return all the way back to the Supercharge after you've cleared it all out.
+Using the Supercharge, dash on that bridge ramp, and don't stop when you enter
+the room above, just keep using it and glide to the platform in the distance,
+where you'll find three yellow gems. Not much for a feat like that *ahem*, but
+not that bad either. Now it's back to where you found Cleetus, and advancing.
+
+The room up ahead holds one Gnorc Commando and two Gnorc Gunners. Go from left
+to right and take them out, or you may get a faceful of bullets. Once you have
+them take out, take the right on the right and in the next purple room, it's all
+three enemies in Twilight Harbor... a Gnorc Gunner, a Gnorc Commando, and a
+Gnorc Axeman. Take them out one by one, but go for the Gnorc Axeman last. This
+room is quite menacing, and you're yet to see what's up ahead. Carry on through
+the upper left.
+
+And that one last path there holds four gnorcs, with two being gunners and two
+being commandos. Take them out one at a time, jumping to avoid the bullets, and
+going slowly. You don't want to die right before reaching the Return Home
+Vortex, do you? So just slowly proceed, and when you reach the end, glide over
+to the other side and claim the last few scraps of treasure (let's hope you have
+400 gems now), and the Return Home Vortex. Time for some nasty Gnasty hunting.
+
+Cosmos
+=-=-=-=
+Destroy the gnorcs, then go ahead straight and you'll see Cosmos there. These
+gnorcs are really tough. All of them wield machine guns and this is not good at
+all. They can get you by a long range and they're very agile, especially the
+big yellow ones. Sometimes you'll have to wait for them to reload. Get past all
+of that mess and a little more, then you will find Cosmos for some quick and
+brief thanks.
+
+Cleetus
+=-=-=-=-
+Do some serious charging to get to him. You'll have to kill a lot of stuff but
+he's straight ahead. Most of the maching gun gnorcs get much easier when you
+get used to them. He'll tell you to keep a look out for gnorc commandos. Spyro
+is correct on this one.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++ 5hh. Gnasty Gnorc ++ ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 500
+
+The world of Gnasty Gnorc... ahhh yes, the time has come. Time for the small
+purple dragon named Spyro to face off against the simple, "no threat", ugly
+Gnasty Gnorc. But anyway, Gnasty Gnorc is WAY above, firing green light all over
+the arena. Just quickly run through the arena if you want to avoid that, since
+there is some treasure littered around here and there, through the arena. And
+quite a bit of it, at that. But when you're finished collecting stuff, might as
+well take the sole available path.
+
+A thief will meet you very shortly at the entrance, and will immediately run
+away. Hah, catch the little thieving squirt, cuz he happens to have a key. When
+you reach him, flame him, and make sure that you have all the treasure here,
+since Gnasty Gnorc's level largely revolves around treasure. With that, get to
+the end of the passage, where you'll drop back out of the arena. Take a left,
+where a door has a large keyhole in it. DUN DUN DUN. Just head in there, and
+we're already chasing a key thief.
+
+You'll catch up to him quickly, but just make sure you don't fall in the purple
+ooze below (yes, this is a junkyard), or you'll never make it back up. Since the
+path is very straightforward, you can probably chase the thief and get all the
+gems at the same time. But anyhow, with that all finished and the key in your
+possession, the path will end and drop you back to the arena, where you can find
+the ledge where Gnasty Gnorc is, and as you lower it with the key, he runs away!
+The epic chase, take 1. Boss time.
+
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+*      BOSS: GNASTY GNORC      *
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+
+Gnasty himself isn't nasty. At all. In fact, like I said earlier, he'll just run
+away immediately after you see him. So you have to run after him, of course, but
+we have plenty of opportunities to run after him. My recommendation is that for
+now, you pick up every spare bit of treasure that you find, and just follow this
+path collecting what there is. When you finally reach the end of the path,
+Gnasty will run away, but that could obviously only be expected. So you'll have
+to drop down and continue all the way back on this path. Boo.
+
+Oh well. Take the path again, perhaps collecting any spare treasure that you
+miss, and when the path ends and Gnasty has barely gotten to that one platform,
+flame him and he'll run away into the room on the right like a coward. Now what
+you have to worry about here is just getting to the other side. Glide from
+platform to platform here CAREFULLY and QUICKLY, as they get smaller and
+smaller, and the last three are already tiny enough to begin with. So eventually
+you'll reach the final ledge.
+
+Gnasty is here, and will furiously try to fire green light at you. But it's too
+late; you can simply flame him and he'll die off, dropping purple gems behind
+with him, and allowing Spyro to laugh at him. Well deserved. With that done,
+you'll see the credits (?) and then be back at Gnorc Gnexus. You have 12,000
+gems, 79 dragons, and 12 eggs... free Magnus from the Peace Keepers world, who
+is right there, and the portal to the final world will open. It is time to
+conquer Gnasty's treasure vault, and the absolute final level.
+
+ /-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-\           Dragon Number: 0
+<- \ /  ++ ++  5ii. Gnasty's Loot  ++ / \ ->~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ \-+-+<>~~~~~~~~~~~~~~~~~~~~~~~~~~~~<>+-+-/            Gem Count: 2000
+
+The ultimate level of levels. I was originally going to allow you to go through
+this entire level by yourself, but I decided against it. So nyah. Anyway, the
+whole place will allow you to fly, so start by gliding to the ledge across the
+acidic water here. As another note, all 2000 (!) of the gems here consist of
+purples and yellows, but no surprise there. The first dose, which is across the
+acid, has a few. You're only just getting started.
+
+Fly over to the next ledge, where you're treated to a few extras. Now jump down
+and climb the nearby stairs, where you'll find a key thief. Gnasty Gnorc's world
+is notoriously filled with these guys, I see. He's easy to catch, though, since
+he'll just run around in a circle. Pay more attention to the treasure that
+surrounds this arena, though, since it's much easier to miss. After you have the
+key, fly up to the ledge above, and unlock the door. It's some stairs, and
+another locked door. Some eventful door.
+
+But there's a bonus in this. The whole place revolves around the idea that the
+higher ground you get to, the higher you can fly. There's no way that you could
+fly up here earlier, but since you're taking flight from here, you can now fly
+to areas above where your limits were earlier. Start by going to the arena where
+you chased the key thief. There's a large grassy area above that, where some
+more treasure and a key thief lie. This one's a bit harder to chase than the
+other one, but glide in front of him and you're sure to get that key.
+
+Having done that, return to where you unlocked that last door, and head up the
+stairs to use the key in that door. And right as you unlock it, a key thief in
+an airplane zooms by. I would chase it, but you don't have the altitude yet.
+Head up the stairs in that door there, and at the top is... nothing. Absolutely
+nothing. Just fly out from there, and find the plane. It really just circles
+around the area, so it's not that difficult to find. When you're on its tail,
+start taking advantage of it.
+
+The plane will go under the pipes here, so make sure you do NOT do that, as
+that will just slow you down and increase your chances of falling. Instead, go
+on the outside of the pipes, and you'll just catch up. When you're right behind
+it, flame it to get that key, and look for a ledge with a heavy chest on it, and
+a locked door. It's not easy to get to, but you'll manage. At the top, unlock
+the door with that key, and take a left. AGAIN, time to chase a key thief! Don't
+worry, though, this is the LAST one. :)
+
+Jump down and fly into the tunnel on the right. Be very cautious while going
+through this place, because if you fall into this lava, it'll hurt. Chase the
+thief through the lava tunnel, and outside back through the passage. You may
+need to go through there 3-4 times to catch the thief, but you'll catch him
+eventually. When you do that, return to the entrance of the door we opened
+earlier, and climb up the stairs to find the FINAL locked door. Inside is none
+other than...
+
+...one yellow gem. But the key is that you have altitude now, and as much as you
+can get. Set off from here, and start roaming the area outside, looking for
+rockets. There are three or four in total, and just as many heavy chests. But
+either way, make sure you have everything there is to get, then look for a tower
+that has a Return Home Vortex on it. But DON'T use it! Inside, just set off the
+fireworks chests, where about 950 gems worth of burgundies drop down. With 2000
+total gems, now go through the Return Home Vortex for the final ending... and
+the game is now over, sadly. Hope you enjoyed it.
+
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+     ~+{X STD X}+ --- {  +~+  {    6. CREDITS  }  +~+  } --- +{X STD X}+~
+\\----\\----+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+~~~~~+----//----//
+
+You, obviously, deserve something for actually taking the time to find the URL
+to this guide, actually say "eh, let's see how bad this is", "He's back again?
+Let's read this!", or "Hopefully this can help me in my quest through the game",
+because you deserve something for that. But with that, here are some shout-outs
+to whatever and whomever helped me.
+
+- Jeff "CJayC" Veasey: For running the whole site of GameFAQs, the main site
+that I work for. It's an awesome site, and I must commend CJayC for running
+this great site for 6 whole years and posting this guide.
+
+- Stephen Ng: For being the FAQ editor for IGN, which is the other site that I
+write for. I am honored to write for IGN, since it is a great site. I was also
+very glad to do an exclusive for IGN.
+
+- All the guys who first got me started writing from GameFAQs and all of my
+best friends like SinirothX, Psycho Penguin, Meowthnum1, CVXFREAK, Karpah,
+ZoopSoul, Crazyreyn, Gobicamel, asa2377 (OH EM GEE YOU TROLL), Warhawk, Cyril,
+supernova54321, Minesweeper, AlaskaFox, me frog, RHarrison, masterzero99, Tom
+Hayes, wayalla, djg40, MTincher, NickBush24, BurningFox, AquaBlast, and
+definitely more that I'm forgetting: you are some of the best friends that
+anyone can have, and I may have quit FAQing/left FCB forever without all of
+you. Thank you for everything and for motivating me to get my ass in gear.
