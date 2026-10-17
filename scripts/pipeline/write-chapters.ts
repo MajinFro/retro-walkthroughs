@@ -28,6 +28,7 @@ import {
   gameIdArg,
   paths,
   readJson,
+  guardFlags,
   readText,
   requireFile,
   writeText,
@@ -50,6 +51,7 @@ const all = ["overview", ...roadmap.chapters.map((c) => String(c.n))];
 // ---------------------------------------------------------------------------
 // Targets
 // ---------------------------------------------------------------------------
+guardFlags("fix", "force", "note", "model", "concurrency", "effort"); // before stray values look like chapter names
 const named = process.argv.slice(3).filter((a, i, arr) => !a.startsWith("--") && !(arr[i - 1] ?? "").match(/^--(concurrency|model|effort|note)$/));
 for (const t of named) if (!all.includes(t)) {
   console.error(`Unknown chapter "${t}" (use overview or 1..${roadmap.chapters.length})`);
@@ -62,7 +64,7 @@ if (fixMode) {
   run(`npx tsx scripts/pipeline/qa-check.ts ${id}`);
   const qa = readJson<{ errors: string[]; warnings: string[] }>(P.qa);
   // warnings that lower the score (see score.ts beginner_friendliness) are worth a revision too
-  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state/i;
+  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return/i;
   for (const [kind, list] of [["ERROR", qa.errors], ["WARNING", qa.warnings.filter((w) => scored.test(w))]] as const)
     for (const msg of list) {
       const m = msg.match(/^(overview|ch(\d+))\b/) ?? msg.match(/placed in (ch(\d+))|roadmap says (ch(\d+))/);

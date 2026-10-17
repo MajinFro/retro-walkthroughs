@@ -11,11 +11,11 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
 
 0. **RetroAchievements guide:** `rw:fetch` (Stage 1) already registers the official RA achievement guide as source `ra-guide` when the game has one on the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) (from the RA API's `guideUrl`, else a wiki page that links the game). Check its output line: if it lists *similarly named wiki pages* instead, open them and, if one is this game's guide, register it with `npm run rw:ra-guide -- <id> --url <page url>`; if it reports a guide outside the wiki, collect that URL with `rw:collect`. The RA guide is short and achievement-focused, so it does not replace the full walkthroughs below.
 1. Read `01_achievements.json` for the exact title, console, and genre.
-2. Discover available guides, visual maps, and checklists using the discovery helper:
+2. Discover available guides, visual maps, and checklists. First find the game's GameFAQs page (`https://gamefaqs.gamespot.com/<platform>/<id>-<slug>`) with your web search tool (`site:gamefaqs.gamespot.com <title> <console>`), then list its guides and maps:
    ```powershell
+   npm.cmd run rw:find-guides -- --url "https://gamefaqs.gamespot.com/<platform>/<id>-<slug>/faqs"
+   # Title search also exists, but GameFAQs search usually returns nothing to the headless browser (exit code 2):
    npm run rw:find-guides -- "<game title>"
-   # Or directly inspect a GameFAQs /faqs page (lists text guides AND maps):
-   npm run rw:find-guides -- --url "https://gamefaqs.gamespot.com/.../faqs"
    ```
    Search (use your web search tool or `rw:find-guides`) for complete walkthroughs. Target **at least 3 independent substantive sources (>=10k chars)** when they exist, in this priority:
    1. GameFAQs full walkthroughs (prefer "Complete"/high-rated, plain-text, 100% / "Walkthrough" in title). Two different GameFAQs authors count as independent.
@@ -60,7 +60,7 @@ Many guide and map sites (GameFAQs above all, but also wikis, map atlases, and f
 | Read any page to find guides, map pages, or checklists (non-GameFAQs sites: VGMaps, StrategyWiki, Mario Universe, Fandom, Neoseeker, franchise archives …) | `npm run rw:browse -- "<url>"` (page text) |
 | List a page's links, e.g. a VGMaps atlas or a wiki map category | `npm run rw:browse -- "<url>" --links --grep "<game or area>"` |
 | List a game's GameFAQs guides and maps | `npm run rw:find-guides -- --url "https://gamefaqs.gamespot.com/<platform>/<game>/faqs"` |
-| Find a game's GameFAQs page | `npm run rw:find-guides -- "<game title>"` |
+| Find a game's GameFAQs page | Web search `site:gamefaqs.gamespot.com <title> <console>` (`rw:find-guides -- "<game title>"` usually finds nothing: GameFAQs search is blank to headless browsers) |
 
 `rw:browse` prints only; it never saves. Download the pages you choose with `rw:collect`, and register map image URLs it lists with `rw:collect … --kind map`.
 

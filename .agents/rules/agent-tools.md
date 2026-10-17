@@ -20,7 +20,7 @@ The skills in `.agents/plugins/retro-walkthrough/skills/` are shared by **Antigr
 
 ## Notes
 
-- **Commands:** All `npm run rw:*` commands are run from the repository root. In PowerShell, pass script arguments after `--` exactly as written in the skills.
+- **Commands:** All `npm run rw:*` commands are run from the repository root. Pass script arguments after `--` exactly as written in the skills. **In PowerShell, type `npm.cmd run` instead of `npm run`** whenever the command has a `--flag` (`npm.cmd run rw:write -- 471 --fix`): plain `npm` there is `npm.ps1`, PowerShell strips the `--`, and npm takes the flags as its own. The scripts stop with an error when that happens. Bash needs no change.
 - **Sites that block AI:** GameFAQs and many guide sites block agent fetch tools (`read_url_content`, `WebFetch`) but not a real browser. Download all guide text with `npm run rw:collect`, read or list links on any other site with `npm run rw:browse`, and discover GameFAQs guides with `npm run rw:find-guides`; all three drive a headless Chrome browser (Playwright). Agent fetch/search tools are for discovering URLs only, never for source text. See "Blocked Sites" in the `ra-source-collector` skill.
 - **Long runs:** Pipeline state lives on disk, so any stage resumes with `npm run rw:status -- <gameId>`. Antigravity: suggest a new conversation or the `/goal` command for long unattended runs. Claude Code: context is compacted automatically, so keep working; write to disk after every batch so nothing is lost.
 - **Line endings:** Whatever tool writes a file, the result must use CRLF (see `formatting.md`). The `rw:*` scripts already write CRLF.

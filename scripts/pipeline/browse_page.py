@@ -81,6 +81,9 @@ def main() -> None:
     ap.add_argument("--links", action="store_true", help="List the page's links instead of its text")
     ap.add_argument("--grep", help="Case-insensitive regex; keep only matching links (or text lines)")
     ap.add_argument("--max", type=int, default=8000, help="Max characters of text to print (default 8000)")
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import npm_guard
+    npm_guard.check(ap)
     args = ap.parse_args()
 
     text, links = browse(args.url)

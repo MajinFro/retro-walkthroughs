@@ -100,7 +100,7 @@ Each chapter file (e.g. `01.md`) MUST include:
    ```
 
 6. **Point of No Return Warnings:**
-   Any permanent transition must include:
+   Write one for each point of no return the packet lists, and no others. Leaving a level, world or area is not a point of no return unless a source says the player cannot come back (rw:qa warns about extra ones). When the packet lists none, remind the player to finish an area with a `> [!TIP]` ("Before you leave …") instead. Each listed one must include:
    ```markdown
    > [!CAUTION]
    > **Point of No Return:** Leaving Spinach Heights permanently locks all uncollected Chapter 1 items [[gf1-2-3]]. Complete all items before proceeding.

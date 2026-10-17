@@ -213,7 +213,14 @@ function audit(file: string, chapterN: number | null) {
   for (const aid of ch.achievement_ids) {
     if (!achLines.has(aid)) continue;
     if (unverifiable.has(aid)) {
-      const near = lines.slice(achLines.get(aid)!, achLines.get(aid)! + 25).join(" ");
+      // the note may come before or after the tag: check the whole section around it
+      const at = achLines.get(aid)!;
+      const isHeading = (l: string) => /^#{1,6}\s/.test(l);
+      let start = at;
+      while (start > 0 && !isHeading(lines[start])) start--;
+      let end = at + 1;
+      while (end < lines.length && !isHeading(lines[end])) end++;
+      const near = lines.slice(start, Math.max(end, at + 25)).join(" ");
       if (!/unable to verify from collected sources/i.test(near)) errors.push(`${tag}: achievement ${aid} has no evidence but the text near it does not say "Unable to verify from collected sources."`);
     }
   }
@@ -230,6 +237,9 @@ function audit(file: string, chapterN: number | null) {
   const ponrs = roadmap.ponr.filter((x) => x.chapter === chapterN);
   m.ponr_warned += Math.min(ponrCallouts, ponrs.length);
   if (ponrCallouts < ponrs.length) errors.push(`${tag}: ${ponrs.length} point(s) of no return but only ${ponrCallouts} "Point of No Return" CAUTION callout(s)`);
+  // writers tend to invent them at every level exit; only the roadmap's PONRs are sourced
+  if (ponrCallouts > ponrs.length)
+    warnings.push(`${tag}: ${ponrCallouts} "Point of No Return" callout(s) but the roadmap lists ${ponrs.length} for this chapter — remove the extra ones (use a "before you leave" tip) or add the sourced PONR to 07_roadmap.json`);
 
   // item collection check
   for (const aid of ch.achievement_ids) {
@@ -257,14 +267,24 @@ function audit(file: string, chapterN: number | null) {
   if (hasCheckpoint) {
     m.chapters_with_checkpoints++;
     // running totals must match the roadmap (the packet gives the exact numbers)
-    const cpAt = lines.findIndex((l) => CHECKPOINT_RE.test(l));
-    const cp = lines.slice(cpAt, cpAt + 30);
+    // the callout's own heading, not a sentence that mentions "Cumulative 100% Checkpoint"
+    const inCallout = lines.findIndex((l) => l.trim().startsWith(">") && CHECKPOINT_RE.test(l));
+    const cpAt = inCallout > -1 ? inCallout : lines.findIndex((l) => CHECKPOINT_RE.test(l));
+    // the checkpoint callout block: its "> " lines (at most 30), not the checklist after it
+    let cpEnd = cpAt + 1;
+    while (cpEnd < lines.length && cpEnd < cpAt + 30 && lines[cpEnd].trim().startsWith(">")) cpEnd++;
+    const cp = lines.slice(cpAt, cpEnd);
+    // match a counter by its bold label ("- **Gems:** 12000 / 14000"), so a per-level line
+    // such as "**Gnasty Gnorc level:** 500/500 gems" is not read as the running total
+    const label = (l: string) => l.match(/\*\*([^*]+)\*\*/)?.[1].toLowerCase() ?? "";
+    const counterLine = (name: string) =>
+      cp.find((l) => label(l).includes(name.toLowerCase())) ?? cp.find((l) => !label(l) && l.toLowerCase().includes(name.toLowerCase()));
     const t = checkpointTotals(roadmap, chapterN, ach.achievements);
     const am = cp.find((l) => /retroachievements|achievements unlocked/i.test(l))?.match(/(\d+)\s*\/\s*(\d+)/);
     if (am && (Number(am[1]) !== t.achievements || Number(am[2]) !== t.achievements_total))
       errors.push(`${tag}: checkpoint says ${am[1]} / ${am[2]} achievements but the roadmap gives ${t.achievements} / ${t.achievements_total} after this chapter`);
     for (const c of t.counters) {
-      const cm = cp.find((l) => l.toLowerCase().includes(c.name.toLowerCase()))?.match(/(\d+)\s*\/\s*(\d+)/);
+      const cm = counterLine(c.name)?.match(/(\d+)\s*\/\s*(\d+)/);
       if (cm && (Number(cm[1]) !== c.done || Number(cm[2]) !== c.total)) errors.push(`${tag}: checkpoint says ${cm[1]} / ${cm[2]} ${c.name} but the roadmap gives ${c.done} / ${c.total}`);
     }
   } else if (roadmap.true_100_criteria) {

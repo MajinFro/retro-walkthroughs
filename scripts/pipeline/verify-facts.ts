@@ -10,7 +10,7 @@
  *    in the cited chunk. "..." may be used to join two verbatim parts. Bad evidence is dropped.
  *  - A fact with no valid evidence is REJECTED.
  *  - Facts with the same (type, subject, predicate, object/location) after alias
- *    normalization are merged for source counting.
+ *    normalization are merged for source counting, unless both name different locations.
  *  - >= 2 distinct sources        -> VERIFIED
  *  - exactly 1 source             -> SINGLE_SOURCE (usable, flagged 🟡)
  *  - any valid "contradicts" evidence -> CONFLICT (blocks writing until resolved in 05_resolutions.json)
@@ -125,13 +125,18 @@ const keyOf = (f: Fact) =>
   [f.type, canon(aliases, f.subject), norm(f.predicate), canon(aliases, f.object || f.location || "")].join("|");
 const groups = new Map<string, Fact[]>();
 for (const f of valid) groups.set(keyOf(f), [...(groups.get(keyOf(f)) ?? []), f]);
+// When an object is set, two facts that both name a location must name the same one:
+// "key | contains | key" in two different levels is two facts, not one confirmed twice.
+// A fact without a location still matches (e.g. an HP list that omits where the enemy is).
+const locOf = (f: Fact) => (f.object && f.location ? canon(aliases, f.location) : "");
+const sameFact = (f: Fact) => (g: Fact) => !locOf(f) || !locOf(g) || locOf(f) === locOf(g);
 
 const resolutions = readJsonOr<Resolution[]>(P.resolutions, []);
 const resById = new Map(resolutions.map((r) => [r.fact_id, r]));
 
 const out: VerifiedFact[] = [];
 for (const f of valid) {
-  const group = groups.get(keyOf(f)) ?? [f];
+  const group = (groups.get(keyOf(f)) ?? [f]).filter(sameFact(f));
   const supportSources = new Set(group.flatMap((g) => g.evidence.filter((e) => e.stance !== "contradicts").map((e) => e.source_id)));
   const contradicted = group.some((g) => g.evidence.some((e) => e.stance === "contradicts"));
   let status: FactStatus = contradicted ? "conflict" : supportSources.size >= 2 ? "verified" : "single_source";

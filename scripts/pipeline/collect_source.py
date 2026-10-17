@@ -123,6 +123,9 @@ def main() -> None:
     ap.add_argument("--kind", default="guide", choices=["guide", "wiki", "forum", "map", "checklist", "other"])
     ap.add_argument("--file", help="Register an already-saved text file instead of downloading")
     ap.add_argument("--append", action="store_true", help="Append a page to an existing source")
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import npm_guard
+    npm_guard.check(ap)
     args = ap.parse_args()
 
     if not re.fullmatch(r"[a-z0-9][a-z0-9\-]{1,40}", args.id):

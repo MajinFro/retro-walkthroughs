@@ -13,9 +13,14 @@ import { exists, paths, readJson } from "./lib.ts";
 
 const root = process.cwd();
 const scratchDir = path.join(root, "scratch");
-const isAll = process.argv.some((a) => /^(all|--all)$/i.test(a));
-const isScratchOnly = process.argv.some((a) => /^(scratch|--scratch)$/i.test(a));
-const force = process.argv.some((a) => /^(force|--force)$/i.test(a));
+// Bare words work too. The env check covers PowerShell, where npm.ps1 loses the "--"
+// and npm keeps `--all` etc. as its own config (npm_config_all=true).
+const has = (name: string) =>
+  process.argv.some((a) => new RegExp(`^(${name}|--${name})$`, "i").test(a)) ||
+  (Boolean(process.env.npm_lifecycle_event) && process.env[`npm_config_${name}`] === "true");
+const isAll = has("all");
+const isScratchOnly = has("scratch");
+const force = has("force");
 const gameId = process.argv.slice(2).find((a) => /^\d+$/.test(a));
 
 function cleanScratch(gameFilter?: string) {

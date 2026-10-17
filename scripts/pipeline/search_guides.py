@@ -24,6 +24,8 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 sys.path.insert(0, os.path.join(ROOT, "scripts", "pipeline"))
 import dns_helper
 
+GAME_PAGE = re.compile(r"^(https://gamefaqs\.gamespot\.com/[a-z0-9-]+/\d+-[a-z0-9-]+)(?:/faqs)?/?(?:[?#].*)?$")
+
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
 
@@ -54,8 +56,11 @@ def search_gamefaqs(query: str) -> list[dict[str, str]]:
                 href = item["href"]
                 if not href.startswith("http"):
                     href = f"https://gamefaqs.gamespot.com{href}"
-                if "/faqs" not in href:
-                    href = href.rstrip("/") + "/faqs"
+                # Only game pages (/<platform>/<id>-<slug>), not site links such as /sitemap or /careers.
+                m = GAME_PAGE.match(href)
+                if not m:
+                    continue
+                href = m.group(1) + "/faqs"
                 if href not in seen and item["title"]:
                     seen.add(href)
                     results.append({"title": item["title"], "url": href})
@@ -132,6 +137,8 @@ def main() -> None:
     parser.add_argument("query", nargs="?", help="Game title to search for")
     parser.add_argument("--url", help="Direct GameFAQs game /faqs URL")
     parser.add_argument("--json", action="store_true", help="Output results in JSON")
+    import npm_guard
+    npm_guard.check(parser)
     args = parser.parse_args()
 
     if args.url:
@@ -164,8 +171,14 @@ def main() -> None:
     print(f"Searching GameFAQs for: '{args.query}' ...")
     games = search_gamefaqs(args.query)
     if not games:
-        print("No matching games found.")
-        return
+        # GameFAQs' search returns an empty page to headless browsers (checked 2026-10-17),
+        # so this usually means "search unavailable", not "no such game".
+        print(
+            "No GameFAQs game pages found. GameFAQs search often shows nothing to a headless browser.\n"
+            "Find the game's page with your web search tool (e.g. 'site:gamefaqs.gamespot.com <title> <platform>'),\n"
+            "then list its guides and maps with:  npm run rw:find-guides -- --url \"https://gamefaqs.gamespot.com/<platform>/<id>-<slug>/faqs\""
+        )
+        sys.exit(2)
 
     if args.json:
         print(json.dumps(games, indent=2))

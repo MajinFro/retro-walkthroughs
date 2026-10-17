@@ -252,9 +252,33 @@ export function gameIdArg(): string {
   return id;
 }
 
+/**
+ * PowerShell runs `npm` as npm.ps1 and strips the `--` before npm sees it, so npm
+ * takes `--fix` / `--note x` as its own config: the flag reaches us only as an
+ * `npm_config_<name>` env var and its value turns into a stray positional argument.
+ * Stop instead of silently running without the flag.
+ */
+function checkSwallowedFlag(name: string) {
+  if (!process.env.npm_lifecycle_event) return;
+  if (process.env[`npm_config_${name.replace(/-/g, "_")}`] === undefined) return;
+  console.error(
+    `--${name} was taken by npm, not passed to this script (PowerShell removes the "--" before npm.ps1 sees it).\n` +
+      `Re-run with npm.cmd instead of npm, e.g.  npm.cmd run ${process.env.npm_lifecycle_event} -- <gameId> --${name} ...  (or run it from Bash).`,
+  );
+  process.exit(1);
+}
+
+/** Check flags up front, for scripts that parse positional arguments before reading them. */
+export function guardFlags(...names: string[]) {
+  for (const n of names) if (!process.argv.includes(`--${n}`)) checkSwallowedFlag(n);
+}
+
 export function flag(name: string): string | undefined {
   const i = process.argv.indexOf(`--${name}`);
-  if (i === -1) return undefined;
+  if (i === -1) {
+    checkSwallowedFlag(name);
+    return undefined;
+  }
   const v = process.argv[i + 1];
   return v && !v.startsWith("--") ? v : "true";
 }
