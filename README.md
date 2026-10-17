@@ -319,7 +319,7 @@ Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>
 | `anthropic` | `ANTHROPIC_API_KEY` | `claude-haiku-5-5` / `claude-sonnet-5-5` | Prompt caching on the system prompt; `rw:extract --batch` uses the Message Batches API (half price, results within 24h). |
 | `gemini` | `GEMINI_API_KEY` | `gemini-flash-latest` / `gemini-pro-latest` | For Antigravity, or machines without the claude CLI. |
 
-Override models with `--model` or `RW_MODEL_EXTRACT` / `RW_MODEL_WRITE`, and concurrency with `--concurrency` (default 4 for the CLI, 8 for the APIs).
+Override models with `--model` or `RW_MODEL_EXTRACT` / `RW_MODEL_WRITE`, and concurrency with `--concurrency` or `RW_CONCURRENCY` (default 12 parallel calls; the token cost is the same at any level, lower it if calls fail on rate limits).
 
 The shared rule `.agents/rules/agent-tools.md` maps the generic actions used in the skills (read a file, fetch a page, web search, run a command, spawn a subagent) to the tool names of each agent. A Claude Code hook (`.claude/settings.json`) converts files written by `Write`/`Edit` to CRLF. When editing a skill, edit the file under `.agents/`; if you add, rename, or re-describe a skill, run `npm run rw:sync-skills` to regenerate the Claude Code entry points.
 

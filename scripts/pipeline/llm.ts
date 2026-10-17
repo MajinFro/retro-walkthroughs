@@ -205,8 +205,10 @@ export interface RunOptions {
   onResult?: (r: LlmResult) => void | Promise<void>;
 }
 
+/** Parallel model calls. Same tokens at any level; higher only finishes sooner (RW_CONCURRENCY overrides). */
 export function defaultConcurrency(): number {
-  return backend() === "claude-cli" ? 4 : 8;
+  const env = Number(process.env.RW_CONCURRENCY);
+  return env > 0 ? env : 12;
 }
 
 const RETRYABLE = /rate|overload|429|529|500|502|503|timeout|ECONNRESET|exited null/i;
