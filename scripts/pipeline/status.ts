@@ -126,7 +126,7 @@ if (rm) {
   if (!complete) {
     const f = chapterFiles.find((x) => !have.includes(x))!;
     setNext(`npm run rw:write -- ${id}  (writes every missing chapter, then runs assemble + qa; next missing: ${f})`);
-  } else if (badCites) setNext(`Revise 08_chapters/ (ra-walkthrough-writer skill): ${badCites} citation(s) point to facts that no longer exist or were rejected; rebuild packets with npm run rw:packet -- ${id} <overview|N>`);
+  } else if (badCites) setNext(`npm run rw:write -- ${id} --fix  (${badCites} citation(s) point to facts that no longer exist or were rejected; rw:qa flags them, --fix revises those chapters)`);
 } else rows.push(["8 Writing", "⬜", ""]);
 
 // 9-10: stale when the fingerprints recorded by rw:qa / rw:score no longer match their inputs

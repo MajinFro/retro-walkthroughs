@@ -195,12 +195,24 @@ function expand(f: Partial<Fact>): Fact {
 }
 
 /**
- * "Unquoted number" is the rule a model most often trips: its quote stops short of the number it states.
- * When the number is in the same sentence of the chunk, widen the quote to that verbatim sentence
- * instead of spending a repair call. The fact is then re-checked with the normal rules.
+ * "Unquoted number" and "low quote overlap" are the rules a model most often trips: its quote is a fragment
+ * that stops short of the number or words it states. Instead of spending a repair call:
+ *  1. widen the quote to its verbatim sentence (guides are hard-wrapped, so a sentence spans lines; it stops
+ *     at sentence punctuation or a blank line), and
+ *  2. if a multi-digit number is still missing, prepend the nearest heading line above that holds it
+ *     ("ROOM #02:"), joined with "..." as the quote rules allow.
+ * The fact is then re-checked with the normal rules, so nothing that fails them gets through.
  */
-function widenForNumbers(f: Fact): Fact | null {
+const MAX_WIDE_QUOTE = 400;
+const numbersIn = (s: string) => s.replace(/(\d),(?=\d{3})/g, "$1").match(/\b\d+\b/g) ?? [];
+function lastEnd(s: string, re: RegExp): number {
+  let end = 0;
+  for (const m of s.matchAll(re)) end = m.index! + m[0].length;
+  return end;
+}
+function widenQuote(f: Fact): Fact | null {
   let changed = false;
+  const want = [...new Set(numbersIn(f.text ?? "").filter((n) => n.length >= 2))];
   const evidence = f.evidence.map((e) => {
     const c = chunks.get(e.chunk_id);
     const first = (e.quote ?? "").split(/\.\.\.|…/)[0];
@@ -209,13 +221,21 @@ function widenForNumbers(f: Fact): Fact | null {
     const m = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9']+"), "i").exec(c.text);
     if (!m) return e;
     const before = c.text.slice(0, m.index);
-    const start = Math.max(before.search(/(?:[.!?]\s+|\n\s*\n)(?=[^.!?\n]*$)/) + 1, 0);
-    const afterEnd = c.text.slice(m.index + m[0].length).search(/[.!?](\s|$)|\n\s*\n/);
+    const start = Math.max(lastEnd(before, /[.!?]["')\]]*\s+/g), lastEnd(before, /\n[ \t]*\n/g));
+    const afterEnd = c.text.slice(m.index + m[0].length).search(/[.!?](\s|$)|\n[ \t]*\n/);
     const end = afterEnd < 0 ? c.text.length : m.index + m[0].length + afterEnd + 1;
-    const sentence = c.text.slice(start, end).trim();
-    if (sentence.length > 400 || sentence.length <= first.length) return e;
+    let quote = c.text.slice(start, end).replace(/\s+/g, " ").trim();
+    if (quote.length > MAX_WIDE_QUOTE || quote.length <= first.trim().length) quote = first.trim();
+    // a number still missing: take it from the nearest short heading-like line above, within the same section
+    const have = new Set(numbersIn(quote));
+    const lines = c.text.slice(Math.max(0, start - 3000), start).split(/\r?\n/).reverse();
+    for (const n of want.filter((x) => !have.has(x))) {
+      const head = lines.map((l) => l.trim()).find((l) => l.length <= 60 && new RegExp(`\\b${n}\\b`).test(l) && !/[.!?]\s+\S/.test(l));
+      if (head && head.length + quote.length + 5 <= MAX_WIDE_QUOTE) quote = `${head} ... ${quote}`;
+    }
+    if (quote === (e.quote ?? "").trim()) return e;
     changed = true;
-    return { ...e, quote: sentence };
+    return { ...e, quote };
   });
   return changed ? { ...f, evidence } : null;
 }
@@ -236,8 +256,8 @@ function check(b: Batch, r: LlmResult, prior?: Checked): Checked {
     let f = expand(raw);
     const outside = f.evidence.filter((e) => !inBatch.has(e.chunk_id)).map((e) => e.chunk_id);
     let { problems, evidence, reject } = checkFact(f, ctx);
-    if (reject && !outside.length && problems.length && problems.every((p) => /^unquoted number/.test(p))) {
-      const wide = widenForNumbers(f);
+    if (reject && !outside.length && problems.length && problems.every((p) => /^(unquoted number|low quote overlap)/.test(p))) {
+      const wide = widenQuote(f);
       const again = wide && checkFact(wide, ctx);
       if (again && !again.reject) {
         f = wide!;
@@ -338,7 +358,8 @@ const rejectKinds = new Map<string, number>();
 let widenedTotal = 0;
 function logRejects(b: Batch, c: Checked, round: 1 | 2) {
   widenedTotal += c.widened;
-  const rows = c.bad.map((x) => ({ at: new Date().toISOString(), round, batch: b.name, problems: x.problems, text: x.fact.text }));
+  // the whole fact is kept so rule changes can be replayed offline against it
+  const rows = c.bad.map((x) => ({ at: new Date().toISOString(), round, batch: b.name, problems: x.problems, text: x.fact.text, fact: x.fact }));
   for (const r of rows) for (const p of r.problems) {
     const k = p.replace(/[:(].*$/, "").trim();
     rejectKinds.set(k, (rejectKinds.get(k) ?? 0) + 1);

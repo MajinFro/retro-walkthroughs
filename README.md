@@ -67,7 +67,7 @@ Run `npm run rw:status -- <gameId>` at any time to see which stages are complete
 | **1** | `npm run rw:fetch -- <id>`<br>`npm run rw:ra-guide -- <id>` | `fetch-data.ts`, `ra-guide.ts` | `01_achievements.json`<br>`02_sources/ra-comments.txt`<br>`02_sources/ra-guide.txt`<br>`content/api-dumps/<id>.md` | Queries the RetroAchievements API for game metadata, achievements, badges and community comments, registers the game in `content/master.json`, and downloads the official achievement guide from the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) when the game has one (the API's `guideUrl`, else a wiki page linking the game). |
 | **2** | `npm run rw:find-guides`<br>`npm run rw:browse -- <url>`<br>`npm run rw:maps -- <id>`<br>`npm run rw:collect -- <id> <url> ...` | `ra-source-collector` (Sonnet)<br>`search_guides.py`, `browse_page.py`, `collect_maps.py`, `collect_source.py` | `02_sources/*.txt`<br>`02_sources/sources.json` | Discovers and downloads full-text guides, checklists and visual maps (multi-tier map discovery) with author attribution. All page access goes through headless Chrome, so sites that block AI fetch tools still work. |
 | **3** | `npm run rw:chunk -- <id>` | `chunk-sources.ts` | `03_chunks.jsonl` | Slices ingested text into deterministic 1,000–3,000 character chunks with preserved line numbers and source provenance. |
-| **4** | `npm run rw:extract -- <id>`<br>`npm run rw:chunks -- <id> --progress` | `extract-facts.ts`, `llm.ts`<br>`ra-fact-extractor` | `04_facts/*.jsonl` | One model call per batch of chunks extracts atomic facts (subject, statement, verbatim quote, chunk ID, category). Every fact is checked with the `rw:verify` rules before it is written; failures get one repair call. Secondary full walkthroughs are extracted in focused mode. |
+| **4** | `npm run rw:extract -- <id>`<br>`npm run rw:chunks -- <id> --progress` | `extract-facts.ts`, `llm.ts`<br>`ra-fact-extractor` | `04_facts/*.jsonl` | One model call per batch of chunks extracts atomic facts (subject, statement, verbatim quote, chunk ID, category). Every fact is checked with the `rw:verify` rules before it is written. A fact whose quote is only a fragment (a number or words it states are missing) first gets its quote widened to the verbatim sentence, with the heading that holds a missing number put in front ("ROOM #02: ... text"), and is checked again; what still fails gets one repair call. Secondary full walkthroughs are extracted in focused mode. |
 | **5** | `npm run rw:verify -- <id>` | `verify-facts.ts`<br>`ra-fact-verifier` | `05_verified.json`<br>`05_aliases.json` | Cross-verifies quotes against source chunks, corroborates facts across sources, flags contradictions, and validates achievement coverage. |
 | **6–7** | `npm run rw:plan -- <id>` | `ra-route-planner`<br>`plan-check.ts`, `graph.ts` | `06_graph.json`<br>`07_roadmap.json`<br>`06_graph.md` | Agent builds the knowledge graph and roadmap (chapters, missables, points of no return, True 100% criteria); the script validates them and renders Mermaid flowcharts. |
 | **8** | `npm run rw:write -- <id>`<br>`npm run rw:packet -- <id> <overview\|N>` | `write-chapters.ts`, `chapter-packet.ts`<br>`ra-walkthrough-writer` | `08_packets/*.md`<br>`08_chapters/*.md` | Builds each chapter's packet (facts, source passages, achievements, maps, warnings, checkpoint totals) and writes the chapter with one model call; `--fix` revises chapters with QA findings. |
@@ -204,7 +204,11 @@ content/research/<gameId>/
 ├── 08_cited.md                 # Assembled guide with citations kept, for audit
 ├── 09_qa.json                  # Deterministic QA metrics, errors, and warnings (script-generated)
 ├── 09_review.json              # Adversarial reviewer agent findings & issues
-└── 10_score.json               # Final scoring result & verdict (script-generated)
+├── 10_score.json               # Final scoring result & verdict (script-generated)
+├── _usage.jsonl                # Tokens of every rw:extract / rw:write model call (rw:status totals it)
+├── _extract_rejects.jsonl      # Facts that failed a check and why (round 1 = repaired, 2 = dropped), for tuning the rules
+├── _fix_tried.json             # Warning kinds rw:write --fix already tried per chapter
+└── _auto.log                   # Full output of rw:auto runs
 ```
 
 Never hand-edit the script-generated files (`05_verified.json`, `09_qa.json`, `10_score.json`); fix the upstream artifact and re-run the stage.
@@ -250,6 +254,10 @@ The game ID is the number in the game's RetroAchievements URL (`retroachievement
 # Where am I? Prints completed stages and the exact NEXT action
 npm run rw:status -- <gameId>
 
+# Run every command stage in a row (fetch, chunk, extract, verify, plan, write, --fix, qa, score) until a
+# stage needs the agent, the usage limit is hit, or a step makes no progress. Never runs rw:clean.
+npm run rw:auto -- <gameId>
+
 # 1. Fetch RetroAchievements data (achievements, comments, RA guides-wiki guide, master.json entry)
 npm run rw:fetch -- <gameId>
 npm run rw:ra-guide -- <gameId> [--url <wiki page>]   # (re)collect only the RA guide
@@ -276,6 +284,7 @@ npm run rw:plan -- <gameId>
 # 8. Write every missing chapter (model calls; rules: ra-walkthrough-writer), then assemble + QA
 npm run rw:write -- <gameId>              # name chapters to limit; --force rewrites
 npm run rw:write -- <gameId> --fix        # revise chapters with QA findings (--note "<finding>" for review findings)
+                                          # errors every pass; each kind of warning once per chapter (--force retries)
 npm run rw:packet -- <gameId> 1           # inspect a packet
 
 # 9. Assemble and run deterministic QA (agent then reviews: ra-qa-auditor)
@@ -308,7 +317,7 @@ The agent stages are defined once, in `.agents/plugins/retro-walkthrough/skills/
 
 1. **Bulk stages are scripts.** `rw:extract` and `rw:write` make one model call per batch or chapter (no agent loop, no re-reading the skill every turn), check the reply deterministically, and repair once. In testing on game 471, an 8-chunk extraction batch cost about 50–85k tokens on Haiku and a chapter about 115k on Sonnet.
 2. **Fresh context per judgment stage.** The session you talk to is a thin coordinator: it runs the command stages and hands each judgment stage (source collection, conflict resolution, planning, review) to a fresh `rw-stage` agent (`.claude/agents/rw-stage.md`, Opus), which reads its inputs from disk and reports back in a few lines. `rw:status` prints a `WHO:` line saying which applies. No manual `/clear` is needed. See "Coordinator mode" in the `generate-walkthrough` skill.
-3. **Fewer repair rounds.** Packets carry exact checkpoint totals; `rw:plan` warns about area labels that match no fact location (the cause of thin packets) and about achievements planned away from their facts; `rw:qa` catches drafting notes, wrong checkpoint totals and broken cross-chapter promises; `rw:write --fix` repairs chapters with a model call instead of in the orchestrator's context.
+3. **Fewer repair rounds.** Packets carry exact checkpoint totals; `rw:plan` warns about area labels that match no fact location (the cause of thin packets) and about achievements planned away from their facts; `rw:qa` catches drafting notes, wrong checkpoint totals and broken cross-chapter promises; `rw:write --fix` repairs chapters with a model call instead of in the orchestrator's context, and tries each kind of warning only once per chapter (on StarTropics, 1985, a repeat pass spent about 500k tokens and cleared none). `rw:extract` widens fragment quotes itself before asking for a repair: on StarTropics' six worst batches that cut rejected facts from 211 to 34 and repair tokens by 69%.
 
 Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl`; `rw:status` prints the total.
 

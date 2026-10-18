@@ -59,6 +59,13 @@ for (const t of named) if (!all.includes(t)) {
 }
 const fixMode = Boolean(flag("fix"));
 const qaFindings = new Map<string, string[]>(); // target -> QA findings to address
+// kinds of warning a --fix pass already tried per chapter. The key drops the quoted line, fact ids and numbers,
+// which all change when the chapter is rewritten: "WARNING: ch#:#: no factual overlap with cited facts".
+const fixTriedPath = path.join(P.dir, "_fix_tried.json");
+const fixTried: Record<string, string[]> = fs.existsSync(fixTriedPath) ? readJson(fixTriedPath) : {};
+const warningKey = (f: string) =>
+  f.replace(/"[^"]*"?|“[^”]*”?|\([^)]*\)?/g, '""').replace(/\s+—.*$/, "").replace(/\d+/g, "#").trim();
+let skippedWarnings = 0;
 if (fixMode) {
   run(`npx tsx scripts/pipeline/assemble.ts ${id}`);
   run(`npx tsx scripts/pipeline/qa-check.ts ${id}`);
@@ -70,6 +77,17 @@ if (fixMode) {
       const m = msg.match(/^(overview|ch(\d+))\b/) ?? msg.match(/placed in (ch(\d+))|roadmap says (ch(\d+))/);
       const t = !m ? null : m[1] === "overview" ? "overview" : (m[2] ?? m[4] ?? null);
       if (t && all.includes(t)) qaFindings.set(t, [...(qaFindings.get(t) ?? []), `${kind}: ${msg}`]);
+    }
+  // A warning gets one revision attempt per chapter: retrying the same warnings rewrites whole chapters and
+  // rarely clears them (1985: a second pass rewrote 5 chapters, 15 warnings -> 15). Errors always get revised;
+  // --force retries warnings too.
+  if (!flag("force"))
+    for (const [t, list] of qaFindings) {
+      const tried = new Set(fixTried[t] ?? []);
+      const keep = list.filter((f) => !f.startsWith("WARNING:") || !tried.has(warningKey(f)));
+      if (keep.length) qaFindings.set(t, keep);
+      else qaFindings.delete(t);
+      if (keep.length < list.length) skippedWarnings += list.length - keep.length;
     }
 }
 // --note "<review finding>": an adversarial-review finding QA cannot detect, applied to the named chapters
@@ -154,8 +172,9 @@ function problems(t: string, text: string): string[] {
 // Run
 // ---------------------------------------------------------------------------
 console.log(`Stage 8 writing for game ${id}: ${targets.length ? targets.map(fileOf).join(", ") : "nothing to do"}`);
+if (skippedWarnings) console.log(`  ${skippedWarnings} warning(s) skipped: an earlier --fix pass already tried them (add --force to retry)`);
 if (!targets.length) {
-  console.log(fixMode ? "✅ No chapter has QA errors or score-affecting warnings." : "All chapter files exist (use --force or name chapters to rewrite).");
+  console.log(fixMode ? "✅ No chapter has QA errors or untried score-affecting warnings." : "All chapter files exist (use --force or name chapters to rewrite).");
   process.exit(0);
 }
 console.log(`  backend ${backend()}, model ${modelFor("write", flag("model"))}, ${Number(flag("concurrency") ?? defaultConcurrency())} at a time`);
@@ -204,6 +223,11 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
     const ps = problems(r.key, text);
     drafts.set(r.key, { text, problems: ps });
     writeText(path.join(P.chaptersDir, fileOf(r.key)), text);
+    if (fixMode) {
+      const sent = qaFindings.get(r.key)!.filter((f) => f.startsWith("WARNING:")).map(warningKey);
+      fixTried[r.key] = [...new Set([...(fixTried[r.key] ?? []), ...sent])];
+      writeText(fixTriedPath, JSON.stringify(fixTried, null, 2));
+    }
     console.log(`  ${fileOf(r.key)}: ${text.split(/\s+/).length} words${ps.length ? `, ${ps.length} problem(s) → repair: ${ps.join(" | ").slice(0, 300)}` : " ✅"}`);
     if (ps.length) repairs.push(r.key);
   },

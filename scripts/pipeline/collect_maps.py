@@ -94,6 +94,30 @@ def slug(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
+MAX_ID = 41  # collect_source.py accepts [a-z0-9][a-z0-9-]{1,40}
+
+
+def fit_id(part_slug: str, taken: set[str]) -> str:
+    """map-<slug> within MAX_ID chars and not in `taken`. Long slugs shorten "chapter" to "ch", then
+    drop middle words, keeping the first word and the most specific trailing ones."""
+    words = part_slug.replace("chapter", "ch").split("-")
+    base = "map-" + "-".join(words)
+    if len(base) > MAX_ID:
+        tail: list[str] = []
+        for w in reversed(words[1:]):
+            if len("map-" + "-".join([words[0], w, *tail])) > MAX_ID:
+                break
+            tail.insert(0, w)
+        base = ("map-" + "-".join([words[0], *tail]))[:MAX_ID].rstrip("-")
+    out, n = base, 2
+    while out in taken:
+        room = MAX_ID - len(str(n)) - 1
+        stem = base if len(base) <= room else base[: room + 1].rsplit("-", 1)[0]  # cut at a word boundary
+        out = f"{stem}-{n}"
+        n += 1
+    return out
+
+
 def humanize(s: str) -> str:
     s = re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", s.replace("-", " ").replace("_", " "))
     return re.sub(r"\s+", " ", s).strip()
@@ -161,6 +185,15 @@ def main() -> None:
         sys.exit(2)
 
     names = {f for _, f in mine}
+    manifest_path = os.path.join(research, "02_sources", "sources.json")
+    manifest = []
+    if os.path.exists(manifest_path):
+        with open(manifest_path, encoding="utf-8-sig") as fh:
+            manifest = json.load(fh)
+    have = {s["id"] for s in manifest}
+    have_urls = {s.get("url") for s in manifest}
+    url_id = {s.get("url"): s["id"] for s in manifest}
+    taken = set(have)
     maps = []
     for r, f in mine:
         stem = re.sub(r"\.(png|gif|jpe?g|webp)$", "", f, flags=re.I)
@@ -169,21 +202,18 @@ def main() -> None:
             continue
         part = stem[len(prefix):].lstrip("-") or "Full"
         author = r["cells"][-1] if r["cells"] else ""
-        maps.append({"id": f"map-{slug(part)}", "title": f"{humanize(part)} Map", "author": author, "url": r["href"]})
+        # a map already registered keeps its id; a new one gets a unique id that fits the limit
+        mid = url_id.get(r["href"]) or fit_id(slug(part), taken)
+        taken.add(mid)
+        maps.append({"id": mid, "title": f"{humanize(part)} Map", "author": author, "url": r["href"]})
 
-    manifest_path = os.path.join(research, "02_sources", "sources.json")
-    manifest = []
-    if os.path.exists(manifest_path):
-        with open(manifest_path, encoding="utf-8-sig") as fh:
-            manifest = json.load(fh)
-    have = {s["id"] for s in manifest}
-    have_urls = {s.get("url") for s in manifest}
-    new = [m for m in maps if m["id"] not in have and m["url"] not in have_urls]
+    new = [m for m in maps if m["url"] not in have_urls]
     print(f"VGMaps Atlas/{folder}, prefix {prefix}: {len(maps)} map(s), {len(maps) - len(new)} already registered, {len(new)} to add")
     for m in maps:
         print(f"  {'+' if m in new else '='} {m['id']:<40} {m['title']:<40} {m['author']}")
     if args.dry_run or not new:
         return
+    failed = 0
     for m in new:
         cmd = [sys.executable, os.path.join(HERE, "collect_source.py"), args.game_id, m["url"], "--id", m["id"], "--site", "VGMaps",
                "--title", m["title"], "--kind", "map", "--image-url", m["url"]]
@@ -192,8 +222,11 @@ def main() -> None:
         env = {k: v for k, v in os.environ.items() if not k.startswith("npm_")}  # the npm guard is for this script only
         r = subprocess.run(cmd, cwd=ROOT, env=env, capture_output=True, text=True)
         if r.returncode != 0:
+            failed += 1
             print(f"  ❌ {m['id']}: {(r.stderr or r.stdout).strip()[-200:]}")
-    print(f"Registered {len(new)} map source(s). Re-run npm run rw:chunk -- {args.game_id} afterwards.")
+    print(f"Registered {len(new) - failed} map source(s){f', {failed} failed' if failed else ''}. Re-run npm run rw:chunk -- {args.game_id} afterwards.")
+    if failed:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
