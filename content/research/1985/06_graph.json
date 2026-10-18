@@ -1,0 +1,1872 @@
+{
+  "nodes": [
+    {
+      "id": "C_Island",
+      "label": "C-Island",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-10-1",
+        "gf1-10-2",
+        "gf1-10-3",
+        "gf1-10-4",
+        "gf1-10-5",
+        "gf1-10-6",
+        "gf1-10-7",
+        "gf1-11-3"
+      ]
+    },
+    {
+      "id": "Coralcola_Village",
+      "label": "Coralcola Village",
+      "kind": "area",
+      "fact_ids": [
+        "gf-items-3-1",
+        "gf1-7-3",
+        "gf1-7-4",
+        "gf1-7-5",
+        "gf1-7-6",
+        "gf1-7-7",
+        "gf1-7-8",
+        "gf1-57-3"
+      ]
+    },
+    {
+      "id": "Island_Tunnel",
+      "label": "Island Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-63-3",
+        "gf2-8-5",
+        "gf2-7-6",
+        "gf3-27-6",
+        "gf4-1-27",
+        "gf5-2-4",
+        "gf5-2-8",
+        "gf1-3-3",
+        "gf1-8-9",
+        "gf1-8-11",
+        "gf1-8-12",
+        "gf1-8-14",
+        "gf1-8-16",
+        "gf1-8-17",
+        "gf1-8-20",
+        "gf1-8-21",
+        "gf1-8-22",
+        "gf1-8-23",
+        "gf1-8-26",
+        "gf1-8-27",
+        "gf1-8-28",
+        "gf1-8-29",
+        "gf1-8-30",
+        "gf1-8-31",
+        "gf1-8-32",
+        "gf1-9-1",
+        "gf1-9-2",
+        "gf1-9-3",
+        "gf1-9-4",
+        "gf1-9-5",
+        "gf1-9-6",
+        "gf1-9-7",
+        "gf1-9-8",
+        "gf1-9-9",
+        "gf1-9-10",
+        "gf1-9-11",
+        "gf1-9-12",
+        "gf1-9-13",
+        "gf1-9-14",
+        "gf1-9-15",
+        "gf1-9-16",
+        "gf1-9-17",
+        "gf1-9-18"
+      ]
+    },
+    {
+      "id": "Dolphin_Island",
+      "label": "Dolphin Island",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-60-4",
+        "gf1-11-2",
+        "gf1-11-4",
+        "gf1-11-5",
+        "gf1-11-6",
+        "gf1-11-7",
+        "gf1-11-8",
+        "gf1-11-9",
+        "gf1-11-1",
+        "gf1-11-2",
+        "gf1-11-3",
+        "gf1-11-4",
+        "gf1-11-5",
+        "gf1-11-6",
+        "gf1-11-7",
+        "gf1-11-8",
+        "gf1-11-9",
+        "gf1-14-1",
+        "gf1-14-2",
+        "gf1-14-3",
+        "gf1-14-4",
+        "gf1-14-5",
+        "gf5-4-1",
+        "gf5-4-4",
+        "gf5-4-5",
+        "gf5-4-11",
+        "gf5-4-12",
+        "gf5-4-13"
+      ]
+    },
+    {
+      "id": "Octos_Lair",
+      "label": "Octo's Lair",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-63-7",
+        "gf1-13-5",
+        "gf1-13-6",
+        "gf1-12-10",
+        "gf1-13-9",
+        "gf1-13-16",
+        "gf2-42-6",
+        "gf2-42-7"
+      ]
+    },
+    {
+      "id": "Tunnel_to_Miracola",
+      "label": "Tunnel to Miracola",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-16-6",
+        "gf1-16-12",
+        "gf1-16-14",
+        "gf3-29-6",
+        "gf3-29-9",
+        "gf5-7-5",
+        "gf1-16-2",
+        "gf1-16-3",
+        "gf4-3-1",
+        "gf4-3-2",
+        "gf4-3-3",
+        "gf4-3-6",
+        "gf4-3-7",
+        "gf4-3-8",
+        "gf4-3-9",
+        "gf4-3-10",
+        "gf4-3-11",
+        "gf4-3-12",
+        "gf4-3-13",
+        "gf4-3-15",
+        "gf4-3-16",
+        "gf4-3-17",
+        "gf4-3-23",
+        "gf4-3-24",
+        "gf4-3-25",
+        "gf4-3-27",
+        "gf4-3-28",
+        "gf4-3-29",
+        "gf4-3-36"
+      ]
+    },
+    {
+      "id": "Miracola_Village",
+      "label": "Miracola Village",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-15-2",
+        "gf1-17-3",
+        "gf1-17-4",
+        "gf1-17-5",
+        "gf1-17-6",
+        "gf1-17-7",
+        "gf1-17-8",
+        "gf1-17-9"
+      ]
+    },
+    {
+      "id": "Magmas_Molten_Tunnel",
+      "label": "Magma's Molten Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-18-8",
+        "gf1-18-12",
+        "gf1-18-15",
+        "gf1-19-8",
+        "gf1-19-16",
+        "gf1-19-17",
+        "gf1-19-21",
+        "gf1-19-23"
+      ]
+    },
+    {
+      "id": "Shecola_Castle",
+      "label": "Shecola Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-20-9",
+        "gf5-9-5",
+        "gf-items-8-6",
+        "gf-items-8-7",
+        "gf1-25-7",
+        "gf1-25-8",
+        "gf1-25-9",
+        "gf1-25-10",
+        "gf1-20-3",
+        "gf1-20-4",
+        "gf1-20-5",
+        "gf1-20-7",
+        "gf1-20-9",
+        "gf1-20-14"
+      ]
+    },
+    {
+      "id": "Ghost_Village",
+      "label": "Ghost Village",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-40-6",
+        "gf5-11-6",
+        "gf1-25-5",
+        "gf2-15-11",
+        "gf2-15-12",
+        "gf4-5-40",
+        "gf5-9-8",
+        "gf5-11-5",
+        "gf1-25-1",
+        "gf1-25-2",
+        "gf1-25-3",
+        "gf1-25-4",
+        "gf1-25-6",
+        "gf1-25-11",
+        "gf1-25-12",
+        "gf1-25-13"
+      ]
+    },
+    {
+      "id": "Ghost_Tunnel",
+      "label": "Ghost Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-22-18",
+        "gf1-23-1",
+        "gf1-23-4",
+        "gf1-23-15",
+        "gf1-23-17",
+        "gf1-23-21",
+        "gf1-24-7",
+        "gf2-16-3",
+        "gf1-24-1",
+        "gf1-24-2",
+        "gf1-24-3",
+        "gf1-24-4",
+        "gf1-24-5",
+        "gf1-24-6",
+        "gf1-24-7",
+        "gf1-24-8",
+        "gf1-24-9",
+        "gf1-24-10",
+        "gf1-24-11",
+        "gf1-24-12",
+        "gf1-24-13",
+        "gf1-24-14",
+        "gf1-24-15",
+        "gf1-24-16",
+        "gf1-24-17",
+        "gf1-24-18",
+        "gf1-24-19",
+        "gf1-24-20",
+        "gf1-24-21",
+        "gf1-24-22",
+        "gf1-24-23",
+        "gf1-24-24",
+        "gf1-24-25"
+      ]
+    },
+    {
+      "id": "West_Tunnel",
+      "label": "West Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-26-1",
+        "gf1-26-2",
+        "gf1-26-5",
+        "gf1-26-6",
+        "gf1-26-7",
+        "gf1-26-8",
+        "gf1-26-9",
+        "gf1-26-10",
+        "gf1-26-1",
+        "gf1-26-2",
+        "gf1-26-3",
+        "gf1-26-4",
+        "gf1-26-5",
+        "gf1-26-6",
+        "gf1-26-7",
+        "gf1-26-8",
+        "gf1-26-9",
+        "gf1-26-10",
+        "gf1-26-11",
+        "gf1-26-12",
+        "gf1-26-13",
+        "gf1-26-14",
+        "gf1-26-15",
+        "gf1-26-16"
+      ]
+    },
+    {
+      "id": "Hermits_Mountain",
+      "label": "Hermit's Mountain",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-27-1",
+        "gf1-27-2",
+        "gf1-27-3",
+        "gf1-27-4",
+        "gf1-27-5",
+        "gf1-27-6",
+        "gf1-27-7",
+        "gf1-27-8",
+        "gf1-28-1",
+        "gf1-28-2",
+        "gf1-28-3",
+        "gf1-28-4",
+        "gf1-28-5",
+        "gf1-28-6",
+        "gf1-28-7",
+        "gf1-28-8",
+        "gf1-28-9",
+        "gf1-28-10",
+        "gf1-28-11",
+        "gf1-28-12",
+        "gf1-28-13",
+        "gf1-28-14",
+        "gf1-28-15",
+        "gf1-28-16",
+        "gf1-28-17",
+        "gf1-28-18",
+        "gf1-28-19",
+        "gf1-28-20",
+        "gf1-28-21",
+        "gf1-28-22",
+        "gf1-28-23",
+        "gf1-28-24",
+        "gf1-28-25",
+        "gf1-28-26",
+        "gf1-28-27",
+        "gf1-28-28",
+        "gf1-29-1",
+        "gf1-29-2",
+        "gf1-29-3",
+        "gf1-29-4",
+        "gf1-29-5",
+        "gf1-29-6",
+        "gf1-29-7",
+        "gf1-29-8",
+        "gf1-29-9",
+        "gf1-29-10",
+        "gf1-29-11",
+        "gf1-29-12",
+        "gf1-29-13",
+        "gf1-29-14",
+        "gf1-29-15",
+        "gf1-29-16",
+        "gf1-29-20",
+        "gf1-29-21",
+        "gf1-28-29",
+        "gf1-28-30",
+        "gf1-28-31"
+      ]
+    },
+    {
+      "id": "Tunacola_Village",
+      "label": "Tunacola Village",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-30-3",
+        "gf2-21-1",
+        "gf5-14-3",
+        "gf1-30-1",
+        "gf1-30-2",
+        "gf1-30-4"
+      ]
+    },
+    {
+      "id": "Inside_the_Whale",
+      "label": "Inside the Whale",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-31-2",
+        "gf3-34-3",
+        "gf5-14-11",
+        "gf-items-8-4",
+        "gf1-31-1",
+        "gf1-31-3",
+        "gf1-31-4",
+        "gf1-31-5",
+        "gf1-31-1",
+        "gf1-31-24",
+        "gf1-31-30",
+        "gf1-31-31",
+        "gf1-31-32",
+        "gf1-31-35"
+      ]
+    },
+    {
+      "id": "Bellcola_Village",
+      "label": "Bellcola Village",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-24-3",
+        "gf5-15-4",
+        "gf1-32-2",
+        "gf1-32-3",
+        "gf1-32-4",
+        "gf1-32-5",
+        "gf2-24-2",
+        "gf2-24-4",
+        "gf1-32-1",
+        "gf1-32-10",
+        "gf1-32-11"
+      ]
+    },
+    {
+      "id": "Captain_Bells_Memorial",
+      "label": "Captain Bell's Memorial",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-33-1",
+        "gf1-33-2",
+        "gf1-33-3",
+        "gf1-33-4",
+        "gf1-33-5",
+        "gf1-33-7",
+        "gf1-33-11",
+        "gf1-33-12",
+        "gf3-35-1",
+        "gf3-35-3",
+        "gf3-35-4"
+      ]
+    },
+    {
+      "id": "Captain_Bells_Cave",
+      "label": "Captain Bell's Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-34-7",
+        "gf1-34-21",
+        "gf1-35-20",
+        "gf1-34-29",
+        "gf1-36-17",
+        "gf1-36-20",
+        "gf1-37-2",
+        "gf3-35-4",
+        "gf1-37-1",
+        "gf1-37-2",
+        "gf1-37-3",
+        "gf1-37-4",
+        "gf1-37-5",
+        "gf1-37-6",
+        "gf1-37-7",
+        "gf1-37-8",
+        "gf1-37-9",
+        "gf1-37-10",
+        "gf1-37-12",
+        "gf1-37-14",
+        "gf4-7-1",
+        "gf4-7-2",
+        "gf4-7-3",
+        "gf4-7-4",
+        "gf4-7-5",
+        "gf4-7-6",
+        "gf4-7-7",
+        "gf4-7-8",
+        "gf4-7-9",
+        "gf4-7-10",
+        "gf4-7-11",
+        "gf4-7-12",
+        "gf4-7-13",
+        "gf4-7-14",
+        "gf4-7-15",
+        "gf4-7-16",
+        "gf4-7-17",
+        "gf4-7-18",
+        "gf4-7-19",
+        "gf4-7-20",
+        "gf4-7-21",
+        "gf4-7-22",
+        "gf4-7-23",
+        "gf4-7-24",
+        "gf4-7-25",
+        "gf4-7-26",
+        "gf4-7-27",
+        "gf4-7-28",
+        "gf4-7-29",
+        "gf4-7-30",
+        "gf4-7-31",
+        "gf4-7-32",
+        "gf4-7-33",
+        "gf4-7-34",
+        "gf4-7-35",
+        "gf4-7-36"
+      ]
+    },
+    {
+      "id": "Chapter_6_Islands",
+      "label": "Chapter 6 Islands",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-38-5",
+        "gf1-38-4",
+        "gf1-38-16",
+        "gf1-38-17",
+        "gf1-60-9",
+        "gf2-27-1",
+        "gf2-27-2",
+        "gf2-27-3",
+        "gf1-38-1",
+        "gf1-38-2",
+        "gf1-38-3",
+        "gf1-38-4",
+        "gf1-38-5",
+        "gf1-38-6",
+        "gf1-38-7",
+        "gf1-38-8",
+        "gf1-38-9",
+        "gf1-38-10",
+        "gf1-38-11",
+        "gf1-38-12",
+        "gf1-38-13",
+        "gf1-38-14",
+        "gf1-38-15",
+        "gf1-38-16",
+        "gf1-38-17",
+        "gf1-38-18",
+        "gf1-38-19",
+        "gf1-38-20",
+        "gf1-38-21",
+        "gf3-36-8",
+        "gf3-36-9",
+        "gf3-36-10",
+        "gf3-36-11",
+        "gf3-36-12",
+        "gf3-36-13",
+        "gf3-36-14"
+      ]
+    },
+    {
+      "id": "Sanctuary",
+      "label": "Sanctuary",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-39-5",
+        "gf1-39-6",
+        "gf1-39-1",
+        "gf1-39-2",
+        "gf1-39-3",
+        "gf1-39-4",
+        "gf1-39-5",
+        "gf1-39-6",
+        "gf1-39-7",
+        "gf1-39-8",
+        "gf1-39-9",
+        "gf1-39-10",
+        "gf1-39-11",
+        "gf1-39-12",
+        "gf1-39-13",
+        "gf1-39-14",
+        "gf1-39-15",
+        "gf1-39-16",
+        "gf1-39-17",
+        "gf1-39-18",
+        "gf1-39-19",
+        "gf1-39-20",
+        "gf1-39-21",
+        "gf1-39-22",
+        "gf1-39-23",
+        "gf1-39-24",
+        "gf1-39-25"
+      ]
+    },
+    {
+      "id": "Lost_Ruins",
+      "label": "Lost Ruins",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-39-7",
+        "gf1-39-11",
+        "gf1-63-19",
+        "gf1-64-2",
+        "gf2-28-4",
+        "gf2-28-6",
+        "gf2-43-12",
+        "gf3-37-12"
+      ]
+    },
+    {
+      "id": "Underground_Ruins",
+      "label": "Underground Ruins",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-29-1",
+        "gf3-38-1",
+        "gf1-31-24",
+        "gf1-31-30",
+        "gf1-31-31",
+        "gf1-41-10",
+        "gf1-41-11",
+        "gf1-41-12"
+      ]
+    },
+    {
+      "id": "Big_Rock_Tunnel",
+      "label": "Big Rock Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-64-13",
+        "gf2-30-2",
+        "gf2-31-10",
+        "gf2-43-14",
+        "gf3-38-3",
+        "gf3-38-14",
+        "gf3-38-20",
+        "gf5-21-23"
+      ]
+    },
+    {
+      "id": "Alien_Spaceship_1",
+      "label": "Alien Spaceship 1",
+      "kind": "area",
+      "fact_ids": [
+        "gf-items-3-6",
+        "gf1-64-17",
+        "gf2-32-5",
+        "gf2-32-6",
+        "gf2-43-19",
+        "gf3-39-3",
+        "gf3-39-4",
+        "gf3-39-5"
+      ]
+    },
+    {
+      "id": "Alien_Spaceship_2",
+      "label": "Alien Spaceship 2",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-33-4",
+        "gf2-34-2",
+        "gf3-39-10",
+        "gf3-39-11",
+        "gf3-39-12",
+        "gf3-39-14",
+        "gf3-40-3",
+        "gf3-39-16",
+        "gf1-50-1",
+        "gf1-50-2",
+        "gf1-50-3",
+        "gf1-51-1",
+        "gf1-51-2",
+        "gf1-51-3",
+        "gf1-51-4",
+        "gf1-51-5",
+        "gf1-50-4",
+        "gf1-50-5",
+        "gf1-50-6",
+        "gf1-50-7",
+        "gf1-50-8",
+        "gf1-50-9",
+        "gf1-50-10",
+        "gf1-50-11",
+        "gf1-50-12",
+        "gf1-50-13",
+        "gf1-50-14",
+        "gf1-50-15",
+        "gf1-50-16",
+        "gf1-50-17",
+        "gf1-50-18",
+        "gf1-51-6",
+        "gf1-51-7"
+      ]
+    },
+    {
+      "id": "Final_Battle",
+      "label": "Final Battle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-44-7",
+        "gf2-44-13",
+        "gf3-40-4",
+        "gf3-40-5",
+        "gf3-40-7",
+        "gf3-40-12",
+        "gf5-28-9",
+        "gf5-28-20",
+        "gf4-11-1",
+        "gf4-11-2",
+        "gf4-11-3",
+        "gf4-11-5",
+        "gf4-11-6",
+        "gf4-11-7",
+        "gf4-11-8",
+        "gf4-11-9",
+        "gf4-11-10",
+        "gf4-11-11",
+        "gf4-11-12",
+        "gf4-11-13",
+        "gf4-11-14",
+        "gf4-11-15",
+        "gf4-11-16",
+        "gf4-11-17",
+        "gf4-11-18",
+        "gf4-11-19",
+        "gf4-11-29",
+        "gf4-11-30",
+        "gf4-11-31"
+      ]
+    },
+    {
+      "id": "C_Serpent",
+      "label": "C-Serpent",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-63-3",
+        "gf2-8-5",
+        "gf1-3-3",
+        "gf1-63-4",
+        "gf1-63-5",
+        "gf1-63-6"
+      ]
+    },
+    {
+      "id": "Octo",
+      "label": "Octo",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-63-7",
+        "gf1-63-8",
+        "gf1-63-9",
+        "gf1-13-5",
+        "gf1-13-6",
+        "gf2-42-7"
+      ]
+    },
+    {
+      "id": "Magma",
+      "label": "Magma the Fierce",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-19-21",
+        "gf1-19-23",
+        "gf1-63-10",
+        "gf2-14-9",
+        "gf2-15-2",
+        "gf2-42-11"
+      ]
+    },
+    {
+      "id": "Maxie",
+      "label": "Maxie",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-24-7",
+        "gf1-63-16",
+        "gf2-43-4",
+        "gf2-43-5",
+        "gf2-43-6",
+        "gf3-32-9"
+      ]
+    },
+    {
+      "id": "Giant_Turboss",
+      "label": "Giant Turboss",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-39-7",
+        "gf1-63-19",
+        "gf2-28-4",
+        "gf2-28-6",
+        "gf5-18-8",
+        "gf1-40-3"
+      ]
+    },
+    {
+      "id": "Broken_Joe",
+      "label": "Broken Joe",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-64-2",
+        "gf2-37-6",
+        "gf2-43-12",
+        "gf3-37-12",
+        "gf4-8-25",
+        "gf5-20-3"
+      ]
+    },
+    {
+      "id": "Hoodoo_Dolls",
+      "label": "Hoodoo Dolls",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-43-5",
+        "gf1-43-6",
+        "gf1-43-7",
+        "gf1-43-8",
+        "gf1-44-15",
+        "gf1-44-16"
+      ]
+    },
+    {
+      "id": "Twin_Sumocho",
+      "label": "Statues of Twin Sumocho",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-64-13",
+        "gf2-43-14",
+        "gf1-45-1",
+        "gf1-45-2",
+        "gf1-45-3",
+        "gf1-64-12"
+      ]
+    },
+    {
+      "id": "Jet_Pack_Jumpers",
+      "label": "Two Jet-Pack Jumpers",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-64-17",
+        "gf2-43-19",
+        "gf1-47-24",
+        "gf1-47-25",
+        "gf1-47-26",
+        "gf1-47-28"
+      ]
+    },
+    {
+      "id": "Brown_Jet_Jumper",
+      "label": "Brown Jet Jumper",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-64-21",
+        "gf1-64-22",
+        "gf1-64-23",
+        "gf1-64-24",
+        "gf1-64-25",
+        "gf2-33-9"
+      ]
+    },
+    {
+      "id": "Ostroid",
+      "label": "Ostroid",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-64-26",
+        "gf1-64-27",
+        "gf1-64-31",
+        "gf2-33-11",
+        "gf2-44-1",
+        "gf2-44-2"
+      ]
+    },
+    {
+      "id": "Zoda",
+      "label": "Zoda",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-44-7",
+        "gf3-40-4",
+        "gf1-54-2",
+        "gf1-55-3",
+        "gf1-55-4",
+        "gf1-55-5"
+      ]
+    },
+    {
+      "id": "Zodas_Revenge",
+      "label": "Zoda's Revenge",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-44-13",
+        "gf3-40-12",
+        "gf1-56-5",
+        "gf1-56-6",
+        "gf1-56-9",
+        "gf1-56-23"
+      ]
+    },
+    {
+      "id": "Yo_Yo",
+      "label": "Yo-Yo",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-items-3-1",
+        "gf1-7-7"
+      ]
+    },
+    {
+      "id": "Crystal_Ball",
+      "label": "Crystal Ball",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-40-6",
+        "gf5-11-6",
+        "gf4-5-40"
+      ]
+    },
+    {
+      "id": "Shooting_Star",
+      "label": "Shooting Star",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-25-7",
+        "gf2-17-13",
+        "gf-items-3-4"
+      ]
+    },
+    {
+      "id": "Scroll_of_Obob",
+      "label": "Scroll of Obob",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-40-8",
+        "gf4-6-1",
+        "gf-items-8-3"
+      ]
+    },
+    {
+      "id": "Lighter",
+      "label": "Lighter",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-items-8-4",
+        "gf3-34-3"
+      ]
+    },
+    {
+      "id": "Worm",
+      "label": "Worm",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-items-8-5",
+        "gf1-32-11"
+      ]
+    },
+    {
+      "id": "Apple",
+      "label": "Apple",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-38-5",
+        "ra-comments-19-1"
+      ]
+    },
+    {
+      "id": "Magic_Cube_1",
+      "label": "First Magic Cube (Super Nova)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-items-3-7",
+        "gf2-32-8"
+      ]
+    },
+    {
+      "id": "Magic_Cube_2",
+      "label": "Second Magic Cube",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-53-1",
+        "gf2-34-2",
+        "gf5-27-8"
+      ]
+    },
+    {
+      "id": "Ach_5826",
+      "label": "You're Kidding, Right?",
+      "kind": "achievement",
+      "achievement_id": 5826
+    },
+    {
+      "id": "Ach_5829",
+      "label": "Let the Search Begin",
+      "kind": "achievement",
+      "achievement_id": 5829
+    },
+    {
+      "id": "Ach_5836",
+      "label": "Cobra Commander",
+      "kind": "achievement",
+      "achievement_id": 5836
+    },
+    {
+      "id": "Ach_5830",
+      "label": "Dolphin Rescue",
+      "kind": "achievement",
+      "achievement_id": 5830
+    },
+    {
+      "id": "Ach_5841",
+      "label": "8-Legged Pushover",
+      "kind": "achievement",
+      "achievement_id": 5841
+    },
+    {
+      "id": "Ach_5842",
+      "label": "Hot Head",
+      "kind": "achievement",
+      "achievement_id": 5842
+    },
+    {
+      "id": "Ach_5831",
+      "label": "You've Got Balls",
+      "kind": "achievement",
+      "achievement_id": 5831
+    },
+    {
+      "id": "Ach_5844",
+      "label": "Search and Destroy",
+      "kind": "achievement",
+      "achievement_id": 5844
+    },
+    {
+      "id": "Ach_5843",
+      "label": "I Ain't Afraid of No Ghost",
+      "kind": "achievement",
+      "achievement_id": 5843
+    },
+    {
+      "id": "Ach_5827",
+      "label": "Reach for the Stars",
+      "kind": "achievement",
+      "achievement_id": 5827
+    },
+    {
+      "id": "Ach_5832",
+      "label": "Yaaawn, What'd I Miss?",
+      "kind": "achievement",
+      "achievement_id": 5832
+    },
+    {
+      "id": "Ach_5833",
+      "label": "Into the Belly of the Beast",
+      "kind": "achievement",
+      "achievement_id": 5833
+    },
+    {
+      "id": "Ach_5834",
+      "label": "Hope You Kept the Manual",
+      "kind": "achievement",
+      "achievement_id": 5834
+    },
+    {
+      "id": "Ach_5837",
+      "label": "No Gift, No Chat!",
+      "kind": "achievement",
+      "achievement_id": 5837
+    },
+    {
+      "id": "Ach_5854",
+      "label": "Looky Here!",
+      "kind": "achievement",
+      "achievement_id": 5854
+    },
+    {
+      "id": "Ach_5835",
+      "label": "Down with the Ship",
+      "kind": "achievement",
+      "achievement_id": 5835
+    },
+    {
+      "id": "Ach_5851",
+      "label": "It's Delicious!",
+      "kind": "achievement",
+      "achievement_id": 5851
+    },
+    {
+      "id": "Ach_5838",
+      "label": "Marco...?",
+      "kind": "achievement",
+      "achievement_id": 5838
+    },
+    {
+      "id": "Ach_5845",
+      "label": "Easter Island Reject",
+      "kind": "achievement",
+      "achievement_id": 5845
+    },
+    {
+      "id": "Ach_5853",
+      "label": "Looky Here Again!",
+      "kind": "achievement",
+      "achievement_id": 5853
+    },
+    {
+      "id": "Ach_5846",
+      "label": "Off With Their Heads",
+      "kind": "achievement",
+      "achievement_id": 5846
+    },
+    {
+      "id": "Ach_5840",
+      "label": "Polo!",
+      "kind": "achievement",
+      "achievement_id": 5840
+    },
+    {
+      "id": "Ach_5847",
+      "label": "Air Acrobatics",
+      "kind": "achievement",
+      "achievement_id": 5847
+    },
+    {
+      "id": "Ach_5828",
+      "label": "Phenomenal Cosmic Powers",
+      "kind": "achievement",
+      "achievement_id": 5828
+    },
+    {
+      "id": "Ach_5848",
+      "label": "Watch Your Step",
+      "kind": "achievement",
+      "achievement_id": 5848
+    },
+    {
+      "id": "Ach_5849",
+      "label": "The Final Battle!",
+      "kind": "achievement",
+      "achievement_id": 5849
+    },
+    {
+      "id": "Ach_5850",
+      "label": "Galactic Domination",
+      "kind": "achievement",
+      "achievement_id": 5850
+    },
+    {
+      "id": "Ach_5839",
+      "label": "The End",
+      "kind": "achievement",
+      "achievement_id": 5839
+    }
+  ],
+  "edges": [
+    {
+      "from": "C_Island",
+      "to": "Coralcola_Village",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-1-1"
+      ]
+    },
+    {
+      "from": "Coralcola_Village",
+      "to": "Yo_Yo",
+      "kind": "contains",
+      "fact_ids": [
+        "gf-items-3-1"
+      ]
+    },
+    {
+      "from": "Coralcola_Village",
+      "to": "Island_Tunnel",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-7-8"
+      ]
+    },
+    {
+      "from": "Island_Tunnel",
+      "to": "C_Serpent",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-8-5",
+        "gf1-63-3"
+      ]
+    },
+    {
+      "from": "C_Serpent",
+      "to": "Dolphin_Island",
+      "kind": "leads_to",
+      "label": "Dr. J's lab, Sub-C departs",
+      "fact_ids": [
+        "gf1-3-4",
+        "gf1-10-4"
+      ]
+    },
+    {
+      "from": "Dolphin_Island",
+      "to": "Octos_Lair",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-2-29",
+        "gf1-11-6"
+      ]
+    },
+    {
+      "from": "Octos_Lair",
+      "to": "Octo",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-63-7",
+        "gf5-5-17"
+      ]
+    },
+    {
+      "from": "Octo",
+      "to": "Tunnel_to_Miracola",
+      "kind": "leads_to",
+      "label": "dolphins lead through the coral; storm",
+      "fact_ids": [
+        "gf4-3-3",
+        "gf4-3-4",
+        "gf5-7-3"
+      ]
+    },
+    {
+      "from": "Tunnel_to_Miracola",
+      "to": "Miracola_Village",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-12-2"
+      ]
+    },
+    {
+      "from": "Miracola_Village",
+      "to": "Magmas_Molten_Tunnel",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-17-11"
+      ]
+    },
+    {
+      "from": "Magmas_Molten_Tunnel",
+      "to": "Magma",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-14-9",
+        "gf1-63-10"
+      ]
+    },
+    {
+      "from": "Magma",
+      "to": "Shecola_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-15-13",
+        "gf1-20-8",
+        "gf4-4-60"
+      ]
+    },
+    {
+      "from": "Shecola_Castle",
+      "to": "Ghost_Village",
+      "kind": "leads_to",
+      "label": "Fortune Teller's lost Crystal Ball",
+      "fact_ids": [
+        "gf1-20-9",
+        "gf5-9-5"
+      ]
+    },
+    {
+      "from": "Ghost_Village",
+      "to": "Ghost_Tunnel",
+      "kind": "leads_to",
+      "label": "odd-coloured tombstone",
+      "fact_ids": [
+        "gf2-15-11",
+        "gf5-9-8"
+      ]
+    },
+    {
+      "from": "Ghost_Tunnel",
+      "to": "Maxie",
+      "kind": "contains",
+      "fact_ids": [
+        "gf5-10-15"
+      ]
+    },
+    {
+      "from": "Maxie",
+      "to": "Crystal_Ball",
+      "kind": "unlocks",
+      "label": "drain the lake",
+      "fact_ids": [
+        "gf2-16-15",
+        "gf5-11-6"
+      ]
+    },
+    {
+      "from": "Crystal_Ball",
+      "to": "Shooting_Star",
+      "kind": "unlocks",
+      "label": "Fortune Teller disguise, Queen SheCola",
+      "fact_ids": [
+        "gf3-8-2",
+        "gf1-25-7"
+      ]
+    },
+    {
+      "from": "Shooting_Star",
+      "to": "West_Tunnel",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-25-11"
+      ]
+    },
+    {
+      "from": "West_Tunnel",
+      "to": "Hermits_Mountain",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-26-16"
+      ]
+    },
+    {
+      "from": "Hermits_Mountain",
+      "to": "Scroll_of_Obob",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-40-8",
+        "gf4-6-1"
+      ]
+    },
+    {
+      "from": "Scroll_of_Obob",
+      "to": "Miracola_Village",
+      "kind": "unlocks",
+      "label": "wake Bananette; Sub-C repaired",
+      "fact_ids": [
+        "gf-items-8-3",
+        "gf5-13-22"
+      ]
+    },
+    {
+      "from": "Miracola_Village",
+      "to": "Tunacola_Village",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-13-24"
+      ]
+    },
+    {
+      "from": "Tunacola_Village",
+      "to": "Inside_the_Whale",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-21-1",
+        "gf3-34-1"
+      ]
+    },
+    {
+      "from": "Inside_the_Whale",
+      "to": "Lighter",
+      "kind": "contains",
+      "fact_ids": [
+        "gf-items-8-4"
+      ]
+    },
+    {
+      "from": "Lighter",
+      "to": "Bellcola_Village",
+      "kind": "unlocks",
+      "label": "whale sneezes; frequency 747",
+      "fact_ids": [
+        "gf1-31-31",
+        "gf1-31-34"
+      ]
+    },
+    {
+      "from": "Bellcola_Village",
+      "to": "Worm",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-32-11"
+      ]
+    },
+    {
+      "from": "Worm",
+      "to": "Captain_Bells_Memorial",
+      "kind": "unlocks",
+      "label": "Peter's song",
+      "fact_ids": [
+        "gf2-24-5",
+        "gf5-15-6"
+      ]
+    },
+    {
+      "from": "Captain_Bells_Memorial",
+      "to": "Captain_Bells_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-35-3"
+      ]
+    },
+    {
+      "from": "Captain_Bells_Cave",
+      "to": "Chapter_6_Islands",
+      "kind": "leads_to",
+      "label": "ship sinks, strait opens",
+      "fact_ids": [
+        "gf2-26-20",
+        "gf4-7-33"
+      ]
+    },
+    {
+      "from": "Chapter_6_Islands",
+      "to": "Apple",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-38-5",
+        "gf5-17-6"
+      ]
+    },
+    {
+      "from": "Chapter_6_Islands",
+      "to": "Sanctuary",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-39-3",
+        "gf5-17-8"
+      ]
+    },
+    {
+      "from": "Sanctuary",
+      "to": "Lost_Ruins",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-39-5"
+      ]
+    },
+    {
+      "from": "Lost_Ruins",
+      "to": "Giant_Turboss",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-28-4",
+        "gf1-39-7"
+      ]
+    },
+    {
+      "from": "Lost_Ruins",
+      "to": "Broken_Joe",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-28-19"
+      ]
+    },
+    {
+      "from": "Broken_Joe",
+      "to": "Underground_Ruins",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-41-10",
+        "gf3-38-1"
+      ]
+    },
+    {
+      "from": "Underground_Ruins",
+      "to": "Big_Rock_Tunnel",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-41-19"
+      ]
+    },
+    {
+      "from": "Big_Rock_Tunnel",
+      "to": "Hoodoo_Dolls",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-42-8",
+        "gf1-43-5"
+      ]
+    },
+    {
+      "from": "Big_Rock_Tunnel",
+      "to": "Twin_Sumocho",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-30-5",
+        "gf1-45-1"
+      ]
+    },
+    {
+      "from": "Twin_Sumocho",
+      "to": "Underground_Ruins",
+      "kind": "leads_to",
+      "label": "reunion with Dr. J",
+      "fact_ids": [
+        "gf1-45-11",
+        "gf5-22-5"
+      ]
+    },
+    {
+      "from": "Underground_Ruins",
+      "to": "Alien_Spaceship_1",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-22-8",
+        "gf5-23-1"
+      ]
+    },
+    {
+      "from": "Alien_Spaceship_1",
+      "to": "Jet_Pack_Jumpers",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-32-7",
+        "gf1-47-24"
+      ]
+    },
+    {
+      "from": "Jet_Pack_Jumpers",
+      "to": "Magic_Cube_1",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-32-8",
+        "gf-items-3-7"
+      ]
+    },
+    {
+      "from": "Magic_Cube_1",
+      "to": "Alien_Spaceship_2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-25-1",
+        "gf1-48-11"
+      ]
+    },
+    {
+      "from": "Alien_Spaceship_2",
+      "to": "Brown_Jet_Jumper",
+      "kind": "contains",
+      "fact_ids": [
+        "gf5-25-10"
+      ]
+    },
+    {
+      "from": "Brown_Jet_Jumper",
+      "to": "Ostroid",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-26-8"
+      ]
+    },
+    {
+      "from": "Ostroid",
+      "to": "Magic_Cube_2",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-34-2",
+        "gf5-27-8"
+      ]
+    },
+    {
+      "from": "Magic_Cube_2",
+      "to": "Final_Battle",
+      "kind": "leads_to",
+      "label": "spaceship takes off",
+      "fact_ids": [
+        "gf1-53-6",
+        "gf4-11-3"
+      ]
+    },
+    {
+      "from": "Final_Battle",
+      "to": "Zoda",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-54-2",
+        "gf2-35-1"
+      ]
+    },
+    {
+      "from": "Zoda",
+      "to": "Zodas_Revenge",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-35-7",
+        "gf4-11-20"
+      ]
+    },
+    {
+      "from": "Yo_Yo",
+      "to": "Ach_5826",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-3-1",
+        "gf1-3-2",
+        "gf1-7-7"
+      ]
+    },
+    {
+      "from": "C_Serpent",
+      "to": "Ach_5829",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-3-3",
+        "gf1-9-3",
+        "gf1-9-4"
+      ]
+    },
+    {
+      "from": "C_Serpent",
+      "to": "Ach_5836",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-42-3",
+        "gf2-42-4",
+        "gf3-27-10"
+      ]
+    },
+    {
+      "from": "Octo",
+      "to": "Ach_5830",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-13-4",
+        "gf1-13-5",
+        "gf1-13-6"
+      ]
+    },
+    {
+      "from": "Octo",
+      "to": "Ach_5841",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-42-9",
+        "gf2-42-10",
+        "gf3-28-11"
+      ]
+    },
+    {
+      "from": "Magma",
+      "to": "Ach_5842",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-19-23",
+        "gf1-19-24",
+        "gf1-19-25"
+      ]
+    },
+    {
+      "from": "Crystal_Ball",
+      "to": "Ach_5831",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-24-9",
+        "gf2-16-15",
+        "gf2-40-6"
+      ]
+    },
+    {
+      "from": "Ghost_Tunnel",
+      "to": "Ach_5844",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-1-3",
+        "ra-comments-2-2",
+        "ra-comments-2-3"
+      ]
+    },
+    {
+      "from": "Maxie",
+      "to": "Ach_5843",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-43-5",
+        "gf3-32-9",
+        "gf3-32-10"
+      ]
+    },
+    {
+      "from": "Shooting_Star",
+      "to": "Ach_5827",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-3-4",
+        "gf-items-3-5",
+        "gf1-25-7"
+      ]
+    },
+    {
+      "from": "Scroll_of_Obob",
+      "to": "Ach_5832",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-8-3",
+        "gf1-29-15",
+        "gf1-29-17"
+      ]
+    },
+    {
+      "from": "Inside_the_Whale",
+      "to": "Ach_5833",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-30-4",
+        "gf4-6-6",
+        "gf5-14-3"
+      ]
+    },
+    {
+      "from": "Lighter",
+      "to": "Ach_5834",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-6-16",
+        "gf4-6-17",
+        "gf4-6-18"
+      ]
+    },
+    {
+      "from": "Worm",
+      "to": "Ach_5837",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-8-5",
+        "gf1-60-8",
+        "gf2-24-3"
+      ]
+    },
+    {
+      "from": "Captain_Bells_Cave",
+      "to": "Ach_5854",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-34-3",
+        "gf1-34-29",
+        "gf3-35-4"
+      ]
+    },
+    {
+      "from": "Captain_Bells_Cave",
+      "to": "Ach_5835",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-26-19",
+        "gf2-26-20",
+        "gf5-17-1"
+      ]
+    },
+    {
+      "from": "Apple",
+      "to": "Ach_5851",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-38-5",
+        "gf1-60-9",
+        "gf2-40-11"
+      ]
+    },
+    {
+      "from": "Sanctuary",
+      "to": "Ach_5838",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf5-17-8"
+      ]
+    },
+    {
+      "from": "Broken_Joe",
+      "to": "Ach_5845",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-43-11",
+        "gf3-37-11",
+        "gf3-37-12"
+      ]
+    },
+    {
+      "from": "Big_Rock_Tunnel",
+      "to": "Ach_5853",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-22-1",
+        "ra-comments-22-2",
+        "ra-comments-22-3"
+      ]
+    },
+    {
+      "from": "Twin_Sumocho",
+      "to": "Ach_5846",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-45-2",
+        "gf1-45-4",
+        "gf2-43-16"
+      ]
+    },
+    {
+      "from": "Twin_Sumocho",
+      "to": "Ach_5840",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-45-11"
+      ]
+    },
+    {
+      "from": "Jet_Pack_Jumpers",
+      "to": "Ach_5847",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-47-27",
+        "gf1-47-28",
+        "gf2-43-19"
+      ]
+    },
+    {
+      "from": "Magic_Cube_1",
+      "to": "Ach_5828",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-3-6",
+        "gf-items-3-7",
+        "gf-items-3-8"
+      ]
+    },
+    {
+      "from": "Ostroid",
+      "to": "Ach_5848",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-44-2",
+        "gf2-44-3",
+        "gf2-44-4"
+      ]
+    },
+    {
+      "from": "Magic_Cube_2",
+      "to": "Ach_5849",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-8-10",
+        "gf1-53-1",
+        "gf2-34-1"
+      ]
+    },
+    {
+      "from": "Zodas_Revenge",
+      "to": "Ach_5850",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-44-13",
+        "gf2-44-14",
+        "gf2-44-15"
+      ]
+    },
+    {
+      "from": "Zodas_Revenge",
+      "to": "Ach_5839",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-items-8-12",
+        "gf1-57-7",
+        "gf2-35-6"
+      ]
+    },
+    {
+      "from": "Ach_5844",
+      "to": "Ghost_Village",
+      "kind": "missable_before",
+      "fact_ids": [
+        "ra-comments-10-1",
+        "ra-comments-10-5"
+      ]
+    }
+  ]
+}

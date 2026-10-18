@@ -1,0 +1,27 @@
+[
+  {
+    "fact_id": "gf4-6-37",
+    "resolution": "reject",
+    "rationale": "gf4#6 places this false-wall secret room and Big Heart below Captain Bell's Memorial (after the organ puzzle, before 'the requisite cave'), matching gf1 (Memorial basement Big Heart), gf3#35 and gf5#15. The fact's claim that the room is in Captain Bell's Cave is an extraction error. The Looky Here! (5854) secret room is the shadow wall in the cave's starting room (gf1-34-29, corroborated by gf2, gf4, gf5 and ra-comments-17-1)."
+  },
+  {
+    "fact_id": "gf1-19-23",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (magma the fierce | defeated by): gf1's 'destroy the two orbs' is done by stepping on two hidden switches, the same method gf2, gf4 and gf5 describe as sinking Magma's platform with two switches. Not a contradiction."
+  },
+  {
+    "fact_id": "gf2-37-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (broken joe | defeated by): gf2's 'Wonder Horse Hide' is its name for the Baseballs (gf2 line 1642: 'Wonder Horse Hides (Baseballs)'), which gf1, gf3, gf4 and gf5 also use. Not a contradiction; alias added."
+  },
+  {
+    "fact_id": "gf2-43-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (maxie | defeated by): gf2's 18 Bola hits and gf3's 'not many hits' are compatible descriptions; all sources agree Bolas are the weapon."
+  },
+  {
+    "fact_id": "gf4-11-21",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (zoda's revenge | defeated by / weak to): sources name different usable weapons (Laser/Ray Gun, Lightning Blaster, Super Nova). These are alternative strategies, not contradictions. The remaining possible conflicts (transitions, triggers, counters) list different steps or tactics for multi-valued predicates and were reviewed as complementary."
+  }
+]

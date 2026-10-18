@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-10-18T02:28:22.171Z",
+  "inputs": "416d1fbc4929f496",
+  "metrics": {
+    "chapters_expected": 9,
+    "chapters_present": 9,
+    "paragraphs": 680,
+    "paragraphs_cited": 677,
+    "citations": 1882,
+    "citations_broken": 0,
+    "missables": 4,
+    "missables_warned": 4,
+    "ponr": 2,
+    "ponr_warned": 2,
+    "areas": 48,
+    "areas_mentioned": 48,
+    "code_blocks": 4,
+    "code_blocks_verbatim": 4,
+    "unable_to_verify": 2,
+    "achievements_total": 28,
+    "achievements_placed_correctly": 28,
+    "achievements_supported": 28,
+    "words": 21562,
+    "chapters_with_checkpoints": 8,
+    "maps_available": 19,
+    "map_links_present": 19,
+    "sparse_areas": 0
+  },
+  "errors": [],
+  "warnings": [
+    "overview:65: uncited statement: \"- **One playthrough is enough.** Nothing in the set is mutually exclusive, and a single ru…\"",
+    "overview:79: uncited statement: \"1. **Play the chapters in order, once.** There are eight chapters, and a single playthroug…\"",
+    "overview:83: uncited statement: \"5. **Check the progress block at the end of each chapter** before moving on. It gives runn…\"",
+    "ch1:150: no factual overlap with cited facts (gf1-8-22, gf1-9-2) — check for unverified claims: \"### Chapter 1 Cumulative 100% Checkpoint - **Big Hearts:** 0 / 5 - **Torch chest…\"",
+    "ch2:121: no factual overlap with cited facts (gf2-11-6) — check for unverified claims: \"8. Destroy the Octots and go up to the last room before the boss [[gf2-11-6]].…\"",
+    "ch5:49: no factual overlap with cited facts (gf5-15-4, gf3-34-7, gf1-32-10) — check for unverified claims: \"1. Take Sub-C and follow the edge of the island to the right and down until you …\"",
+    "ch8:108: no factual overlap with cited facts (gf1-56-23, gf2-35-7) — check for unverified claims: \"The guides give differing advice on this fight, so the general facts come first,…\""
+  ]
+}

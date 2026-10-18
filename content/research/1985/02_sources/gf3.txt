@@ -1,0 +1,1920 @@
+--------------------------------------------------------------
+| StarTropics (NES) FAQ/Walkthrough v1.00                    |
+| By: Psycho Penguin Steve McFadden (penguin_faqs@yahoo.com) |
+| First Started: November 6, 2005                            |
+| Finished On: November 14, 2005                             |
+| Last Updated: November 14, 2005                            |
+--------------------------------------------------------------
+
+All questions about the game may be sent to me at penguin_faqs@yahoo.com . 
+Questions or additions sent to the wrong address might be lost or deleted.  So 
+please choose your destination wisely.
+
+I do respond to all emails, so please be patient.  If you sent it to the right 
+place, you'll get a reply.  Also, please read my guide before asking any 
+questions. Only questions and tips not already in my guide will be posted. 
+
+All game related emails sent to another of my email addresses will be ignored.
+
+I do enjoy receiving instant messages with questions and praise about my 
+guides.  If you would like to contact me, my AIM screen name is JuanDixonFor3.  
+If I do not respond immediately, this probably means I am busy.  I am always 
+talking with my girl and with friends, so sometimes I don't get to instant 
+messages from people I do not know right away.  Be nice and I will talk to 
+you.  But if you are rude and abusive either because I don't respond quickly 
+enough or about my guide, I will probably block you.  All emails sent to the 
+correct destination will be answered though.
+
+Thanks!
+
+(Yes, StarTropics is really only one word. Please don't email me about that.)
+
+
+(**************************) / TABLE OF CONTENTS / (*************************)
+
+---- 1.0 ---- INTRODUCTION
+
+---- 2.0 ---- GAME BASICS
+     2.1      Storyline
+     2.2      Controls
+     2.3      Characters
+     2.4      Helpful Tips
+
+---- 3.0 ---- LISTS
+     3.1      Items
+     3.2      Weapons
+
+---- 4.0 ---- WALKTHROUGH
+
+---- 5.0 ---- MISC. INFO
+     5.1      Frequently Asked Questions
+     5.2      Boss Guide
+
+---- 6.0 ---- CONCLUSION
+     6.1      Credits
+     6.2      Revision History
+     6.3      Author Information
+     6.4      Conclusion
+
+(*************************) / SONG RECOMMENDATION / (************************)
+
+When you are reading my FAQs, I usually like to recommend a song or two for 
+you to check out in the process of reading. Lately, I have been loving the 
+songs "10,000 Fists" by Disturbed and "Enemy" by Fozzy, and I highly recommend 
+you check them out if you get a chance.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+----------------------------- [ 1.0 INTRODUCTION ] ---------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Lately, I have been slowly trying to get back into FAQ writing, since I 
+finally got some sort of motivation back. Trying to figure out a game that I 
+wanted to write for was the major thing holding me back, however, as it took 
+me a while to make a list of three games I wanted to write for: Sweet Home, 
+Soul Blazer, and Silent Hill. Of course, I finally decided on one, and it 
+turned out to be another S-lettered game, StarTropics. I completely randomly 
+decided on this game out of nowhere.
+
+It is a true classic NES game, as it has a ton of fun factor and some of the 
+best NES music ever. It is often unfairly compared to Zelda, even though the 
+games share very few common characteristics. They both have life meters and 
+overhead gameplay.. and that's about it. StarTropics is a ton of fun, and 
+since it's not the kind of game I normally write for, and shorter than Soul 
+Blazer, I decided to try it out. Expect a Soul Blazer FAQ in the near future, 
+though. ;)
+
+I hope you find this FAQ to be of some use to you. It's neither the most 
+popular game, or the most challenging, but I hope the guide gets a decent 
+amount of hits and provides help to some people out there. I know most of my 
+FAQs get hits and emails, so I am hoping to continue that tradition now. Enjoy 
+the FAQ!
+
+- Psycho Penguin
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+----------------------------- [ 2.0 GAME BASICS ] ----------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Of all the sections of my FAQs, the game basics is always the most annoying 
+for me to write, as it's hard to properly convey exactly what I want to 
+include. This one wasn't so bad, though, I am just going to give some controls 
+and storyline and then some helpful information to help you out. This game is 
+not as complicated as the average game I write for, which definitely helps.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- /2.1 STORYLINE /=-=-=-=-=-=-=
+
+The storyline is not the most complicated of all time, that's for sure. It's 
+basically one of those typical "save the loved one from the evil empire" types 
+storylines, only this time you're a young guy trying to rescue your uncle, a 
+famous archeologist, from the evil.. aliens. Yes, aliens are in this game. 
+It's really not a bad storyline for a change. Here's what the manual has to 
+say about the storyline in this game:
+
+Hi. My name is Michael Jones, but my friends call me Mike. I'm fifteen years 
+old and I live in Seattle Washington. Have you heard of my Uncle Steve? Well, 
+most people don't call him that, they call him Dr. Jones. He is a very famous 
+archeologist who is looking for some lost ruins in the Coral Seas. I've never 
+actually met him, but last week I received a letter from him inviting me to 
+stay with him at his laboratory on C-Island. I leave tomorrow on a helicopter! 
+I bet I won't be able to sleep at all tonight. Well, goodnight.
+
+Hehe, if only he knew. If only he knew. ;) The storyline barely gets any more 
+complicated, as you'd expect for a NES title, but there are some minor 
+character and plot developments as you progress through the game.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- /2.2 CONTROLS /=-=-=-=-=-=-=-
+
+Taken directly from the instruction manual:
+
+Controls in Overhead Mode:
+--------------------------
+  Directional Buttons: Move Mike or Sub-C around the area.
+  A Button: Talk to villagers or inspect objects.
+  B Button: Submerge Sub-C (Must have ID Code).
+  Select: Checks Health, Chapter, and current Weapon.
+  Start: Nothing.
+
+Controls in Dungeon Mode:
+-------------------------
+  Directional Buttons: Move Mike around the area. While Paused, moves  
+                       selection cursor.
+  A Button: Jump.
+  B Button: Attack with Selected Weapon.
+  Select: Changes Current Main Weapon.
+  Start: Pauses game (By pressing Down while Paused, You can select
+                      Magic and Items found in the Dungeon. Press the B Button  
+                      to use the selected Magic or Item).
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- /2.3 CHARACTERS /=-=-=-=-=-=-
+
+This section is just where I list all the characters, of course. There are 
+only a few that are relevant to the game, so I included them here.
+
+Mike Jones 
+-----------------------------
+Who? Mike Jones! He's the main character of the game. He is sent by the chief 
+of C-Island to find his lost uncle, and is armed only with a yoyo. Mike is a 
+tough kid and you control him for the entire game.
+
+Dr. Steve Jones
+-----------------------------
+Besides having the best first name in the entire world, Dr. Jones is relevant 
+to the plot because he is the one that foolishly got kidnapped by aliens, and 
+your goal is to find him.
+
+The Shaman of CoralCola
+-----------------------------
+She will guide you along in your quest, giving you hints and making sure you 
+never give up.
+
+Baboo
+-----------------------------
+This is Dr. Jones's main assistant. He will help you very little for some 
+reason, and also appears to know more than he is letting on.
+
+Nav-Com
+-----------------------------
+LOL, this robot looks just a tad familiar, don't you think? He is the computer 
+of Sub-C, the submarine you get.
+
+Fortune Teller of SheCola
+-----------------------------
+She helps you get into SheCola, after you get her crystal ball back.
+
+Queen of SheCola
+-----------------------------
+Not only does she give you an offer you most certainly CAN refuse, she hooks 
+you up with the shooting star weapon. What a nice lady!
+
+Peter
+-----------------------------
+A parrot that gives you a major hint on solving a tricky piano puzzle.
+
+Zoda
+-----------------------------
+The main villain of the game. He is the leader of the alien invaders that 
+kidnapped Dr. Jones.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- /2.4 HELPFUL TIPS /=-=-=-=-=-
+
+I don't have too many helpful hints to give you, since the game is mostly the 
+type that just takes effort and practice, but there's always room for SOME 
+basic tips.
+
+- It takes Mike about half a second to turn when you push the button. It's not 
+a huge deal, but keep that in mind when you have to make those split second 
+turns.
+
+- Save the weapons and special items for when you need them. You don't get an 
+unlimited amount of them, so don't waste them on easy enemies or bosses.
+
+- Remember that Mike can only jump one space at a time, so don't make those 
+two tile jumps, unless you have the special item that allows you to.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-------------------------------- [ 3.0 LISTS ] -------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+This won't be overly complex like I usually would do in my FAQs, because this 
+is a pretty basic game with weapons that don't have statistics. Therefore, 
+I'll just list the basic description of each item and weapon.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 3.1 ITEMS /=-=-=-=-=-=-=-=-
+
+The listing here is pretty simple. I list the items in alphabetical order, and 
+I then list the type of item and its description.
+
+TYPES
+-----
+Automatic: You use it automatically.
+Storage: You can save it for later usage.
+Story: Used to drive the story along.
+
+------------------------------------------------------------------------------
+| Name | BIG APPLE                                                           |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | I don't think this is used for anything.                            |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | BIG HEART CONTAINER                                                 |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | Gives you an extra heart container of health, increasing your total.|
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | BLUE CUBE                                                           |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | Needed towards the end of the game.                                 |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | CODE 1492                                                           |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | This code is used to start up the Sub-C submarine.                  |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | CODE 1776                                                           |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | This code unlocks the Sub-C's submarine submerge feature.           |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | CRYSTAL BALL                                                        |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | Give it to the Shaman of SheCola to get access to the town.         |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | GREEN CUBE                                                          |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | Needed towards the end of the game.                                 |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | LANTERN                                                             |
+------------------------------------------------------------------------------
+| Type | Storage                                                             |
+| Desc | Lights up a dark room, allowing you to see. You can use this five   |
+|      | times.                                                              |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | LIGHTER                                                             |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | Used to start a fire inside of the whale.                           |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | MAGIC BRACELET                                                      |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | Allows you to jump two spaces instead of one for the entire screen. |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | MAGIC WATCH                                                         |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | Stops or slows down enemies, depending on how it affects them.      |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | ORANGE CUBE                                                         |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | Needed towards the end of the game.                                 |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | PILLS                                                               |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | Fully restores all of your health.                                  |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | POTION                                                              |
+------------------------------------------------------------------------------
+| Type | Storage                                                             |
+| Desc | Restores several heart containers of health.                        |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | ROD OF SIGHT                                                        |
+------------------------------------------------------------------------------
+| Type | Storage                                                             |
+| Desc | Lets you see things you normally couldn't see. You can use this     |
+|      | four times.                                                         |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SCROLL OF OBOB                                                      |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | It is used to awaken Princess Bannanette.                           |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SIGN                                                                |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | This is the oddest item in the game. It randomly takes away or adds |
+|      | lives to your total.                                                |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SMALL HEART CONTAINER                                               |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | They are rarely dropped by minor enemies. They restore one heart    |
+|      | container to your health.                                           |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SNOWMAN                                                             |
+------------------------------------------------------------------------------
+| Type | Storage                                                             |
+| Desc | You can freeze all of the enemies in a room, making them much       |
+|      | easier to hit. You can use this twice.                              |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | STARS                                                               |
+------------------------------------------------------------------------------
+| Type | Automatic                                                           |
+| Desc | They are rarely dropped by minor enemies. If you collect five of    |
+|      | them, one heart container is restored to your health.               |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | WORM                                                                |
+------------------------------------------------------------------------------
+| Type | Story                                                               |
+| Desc | Give it to Peter the Parrot to get a hint about a puzzle.           |
+------------------------------------------------------------------------------
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 3.2 WEAPONS /=-=-=-=-=-=-=-
+
+This is the section where I list the weapons. I listed them by alphabetical 
+order, followed by their type, and then their description. Just like the 
+items!
+
+TYPE
+----
+Main: These are given to you and have unlimited uses.
+Secondary: These are found and have limited uses.
+
+------------------------------------------------------------------------------
+| Name | BASEBALL BAT                                                        |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | Not one of the better secondary weapons. It has limited range and   |
+|      | is only a little stronger than the Shooting Star. Only use it when  |
+|      | you are under six heart containers.                                 |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | BASEBALLS                                                           |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | These are only used on one boss, and can be thrown all the way      |
+|      | across the screen.                                                  |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | BOLAS                                                               |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | They are not strong at all, but can fly across the screen.          |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | LASER GUN                                                           |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | One of the better weapons in the game, as the range is awesome. It  |
+|      | does about as much damage as the Shooting Star does.                |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | MAGIC MIRROR                                                        |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | This is one of the more unique weapons in the game. You use this to |
+|      | send projectiles back at the enemies that shoot them.               |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SHOOTING STAR                                                       |
+------------------------------------------------------------------------------
+| Type | Main                                                                |
+| Desc | You get this from the Queen of SheCola in chapter 3. It can only be |
+|      | used if you have six heart containers filled or more. Otherwise, it |
+|      | turns back into a yoyo. The attack power is better, but the main    |
+|      | improvement is the range, which really increases for the better!    |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SHOOTING STARS                                                      |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | If you push B after you throw them, they split into two. Good for   |
+|      | attacking multiple enemies at once.                                 |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SLINGSHOT                                                           |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | They are super strong, but only have the limited range of the YoYo. |
+|      | Pretty awesome weapon if you can handle that, though.               |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SPIKE SHOES                                                         |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | Probably my favorite weapon in the entire game, as this attacks     |
+|      | every enemy on the screen for decent damage. You only get 10 uses   |
+|      | though, so use them wisely.                                         |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SUPER NOVA                                                          |
+------------------------------------------------------------------------------
+| Type | Main                                                                |
+| Desc | You get this weapon in the alien spaceship towards the end of the   |
+|      | game. It can only be used if you have 11 heart containers filled or |
+|      | more. Its attack power is strong, and the range is truly remarkable.|
+|      | This weapon is as great as you'd expect!                            |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | SUPER LASER GUN                                                     |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | It has less range than the laser gun, but is stronger and moves     |
+|      | around, so it can sometime attack two enemies at once.              |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | TORCH                                                               |
+------------------------------------------------------------------------------
+| Type | Secondary                                                           |
+| Desc | This acts sort of like the yoyo, but it has a much wider range.     |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+| Name | YOYO                                                                |
+------------------------------------------------------------------------------
+| Type | Main                                                                |
+| Desc | This is the first weapon you get in the game. It has limited range, |
+|      | but has decent attack power for the earlier portion of the game.    |
+------------------------------------------------------------------------------
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+----------------------------- [ 4.0 WALKTHROUGH ] ----------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Here we go, the main portion of this entire guide, and I hope I won't 
+disappoint. I will provide you with the best and easiest way to get through 
+this game, but some of it still takes practice and effort, so be patient if 
+things don't go your way right away! You will eventually get it. I am here to 
+make sure you can do all the things that don't require patience and skill... 
+like knowing codes and knowing which way to go through a dungeon.
+
+Name your dude and then the quest begins. CHAPTER 1!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 1: PRELUDE!
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+One day in summer,
+you land at C-Island
+where Dr. Jones has
+his laboratory
+
+:::::::::::::::::::::::::
+CORALCOLA
+:::::::::::::::::::::::::
+
+Scoot over to the left, it's not really hard since there's only one path to 
+go! After finishing the winding path, you'll be in CoralCola, the first town 
+of the game. Make sure to talk to everyone. Now, I know people will usually 
+want you to waste your time in RPGs by telling you to talk to everyone to get 
+minor hints, but this time you really DO have to talk to everyone, to get the 
+storyline rolling. Sucks, huh?
+
+Now, go to the hut on the left hand side to talk to the chief of the town. The 
+view switches to a 1st person view of the chief, as he tells you about the 
+disappearance of your uncle, Dr. Jones. Sucks, but wouldn't be much of a game 
+if he wasn't kidnapped. He'll hook you up with a wussy yo-yo for some reason, 
+and you'll be on your way. Couldn't he have at least given you a rifle or 
+something?
+
+Oh well, time to get going to the first dungeon of the game. Move right and 
+talk to the dude protecting the hut. Provided you talked to everyone, he'll 
+recognize you and let you pass into the test of island courage. The island 
+shaman will first tell you to be careful and that the southern cross will 
+always be there for you.
+
+:::::::::::::::::::::::::
+TEST OF ISLAND COURAGE
+:::::::::::::::::::::::::
+
+Listen to that wonderful music! Doesn't this song just totally kick ass? It's 
+no wonder almost everyone considers this to be one of the stronger soundtracks 
+on NES, huh? Anyways, move up a screen and kill the three snails to unlock a 
+door. Usually, if you see a locked door and can't find a switch, killing all 
+the enemies is the key to moving on to the next room. Keep that in mind as the 
+game progresses.
+
+The next room has even more enemies to dispose of, so kill all of them and 
+you'll get to move onto the next room. In here, you'll see some blue moving 
+enemies, but they are not that challenging either. They just move faster. Step 
+on the switch that you can find in this room to unlock the door, then proceed 
+to the following room. Here, move right and kill some more blue enemies, then 
+move up and start jumping from tile to tile, eventually hitting a switch that 
+will let you proceed to the following room.
+
+This room has two snails and some moving blue enemies, so kill all of them to 
+unlock the door to the next room. This room has switches that allow you to 
+move left or right, but don't go there, as you'll just end up in a room with 
+some flying bat enemies. Instead, jump on the leftmost tile in the upper 
+corner to unlock a secret passage, then go up to the next room. This room has 
+two flying bats and two moving blue enemies. Kill the blue enemies to unlock 
+the door to the next room.
+
+In this room, unlock the chest first to get 25 chests, then unlock the door to 
+the next room. Oh, booo, the music changed. Kill the snail and then two 
+snakes, which basically slide towards you as soon as you get in their line of 
+sight. Jump on the tiles to reveal three switches. Jump on them to unlock two 
+doors and a chest. Take the 25 torches from the chest, then go to the right 
+through that skinny passageway to go to a room with a medicine. You can unlock 
+a room which leads to a medicine, but that's as far as you can go. The next 
+room kills you. Trust me.
+
+Go back to the previous room with the snakes and kill them again, then go up 
+through the door to the next room. Kill all the enemies in here to get to the 
+first boss in the game, C-Serpent. Switch to the torches now.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | C-SERPENT             |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+This is a pretty easy boss fight, as you may expect. The pattern for this boss 
+is really simple. There are three tiles, and you can only stand in the center 
+one and throw torches in the snake's mouth when it's open. However, he shoots 
+out fire from his mouth 80% or so of the time, so you have to jump left or 
+right to the tiles to avoid this fire. Just repeat this pattern over and over 
+until the serpent is defeated.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Go upwards to exit this level.
+
+:::::::::::::::::::::::::
+C-ISLAND
+:::::::::::::::::::::::::
+
+Now, you are free to go to the rest of C-Island! Go to the laboratory, and 
+meet Dr. Jones's assistant, Baboo. He will give you the code for the submarine 
+Sub-C, 1492. Hmm, something important happened that year, didn't it? He 
+refuses to say any more, because he is scared to. Weird. Anyways, go to the 
+lab and talk to the ROB-looking thing. The code will automatically be given, 
+and you are free to sail away to the next chapter, as this one is OVA!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 2: DOLPHINS
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+After a few hours voyage,
+Sub-C is still cruising
+on the ocean....
+
+:::::::::::::::::::::::::
+SUB-C
+:::::::::::::::::::::::::
+
+You will still be cruising along, until a dolphin approaches the submarine. 
+Nav-Com translates, saying that the dolphin has lost her son. Agree to help 
+the dolphin find her son. Go right and dock at the lighthouse, then go inside 
+of it. The man doesn't have any idea about the dolphin, but he says his wife 
+might, so it would be wise to see her. Go back to the Sub-C and you will start 
+to see a tunnel bubbling.
+
+Push against the wall and you will go through the tunnel. Keep doing this 
+until you can dock at the little house. Inside, talk to the wife and she will 
+say that she saw a bottle near the beach, so let's go to the beach now. Just 
+circle around the house and go to the beach, you can easily see it from where 
+you are. Unless you're blind. Then you can't see SHIT! Go to the mountain 
+range and push left at the top square to push through to a path, where 
+eventually you'll get to the bottle.
+
+This bottle contains a letter from.. Dr. J himself! Wow. He says he has been 
+abducted by evil aliens (no shit, care to tell us again?) and that he wants us 
+to use the ID Code 1776. Well, this doesn't make any sense, but whatever. It's 
+just a game, right? ;) Go back to Sub-C and give it the code you were just 
+helpfully provided. Now, you can dive underwater. You needed an obscure code 
+to be able to do that? This game needs to help a brother out more!
+
+Anyways, go back to near the woman's house, and you'll see some squiggly lines 
+in the water. Push B at these lines to submerge underwater. Follow the path 
+and get the Heart Container before going into the cave.
+
+:::::::::::::::::::::::::
+OCTO'S CAVE
+:::::::::::::::::::::::::
+
+This dungeon is designed just a tad differently, and also introduces new and 
+fun challenges to overcome. Go up to the next screen, then follow the path of 
+grass. A enemy will jump out of nowhere, so kill it easily and then collect 
+the baseball bat special weapon before moving onto the next room. Be careful 
+in this room, as it has the first sinking tile of the game. The tile randomly 
+sinks then comes back up, so wait til it comes back up then quickly jump 
+across it. Kill the snake, then continue on to the next room.
+
+In this room, you'll do the Macarena. IF YOU'RE LUCKY! You probably won't, 
+though, since I have an ultra rare copy of the game. Instead, you are forced 
+to follow a long path and kill some fish along the way. Suckers. Follow the 
+path to the next room, then kill the 3 bats. It opens a door, so go through 
+that door into the next room. Here, carefully watch these enemies move and 
+kill them when you can. This next room has a series of sinking tiles with 
+octopi randomly jumping up. Kill them and proceed slowly. Push the switch to 
+get to the next room.
+
+In this room, kill the three snakes, then go left and view the wall carefully. 
+You'll see a small portion of it that is shaded differently, so push left 
+against it and you'll go through the wall into a separate room. Coooool. Kill 
+the bat, then collect the hearts and baseball bat before pushing the switch. 
+Go through this room, through a secret passage to a next room containing yet 
+another switch, which you should definitely push if you're as smart as me. 
+Which is rare, I'd be the first to admit.
+
+Quickly kill all the enemies in this room, then go through the door. Kill the 
+four octrots in this room, while avoiding the enemies that shoot at you. The 
+next room has a switch, as well as two hearts. Kill the Bat to your left, then 
+go through the door. Kill the enemies in here, then find the part of the wall 
+that is dark, and push through it to get to a switch and a Snowman Doll. Whoo 
+hoo! Destroy the octrots in here, then move up to find the baby dolphin! Buut 
+he's in a cage, as you may expect. Grr. Kill the enemy then move up to get to 
+the 2nd boss of the game, Octo.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | OCTO                  |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+He's a little bit harder than the C-Serpent, but still not too challenging. He 
+will start off the fight by shooting ink at you. Avoid the ink shots, and when 
+Octo charges at you, quickly attack him a few times, as this is the only time 
+you are able to. If you want to make the battle quicker, use the snowman when 
+he's first down in your area, so you can attack him more times before he moves 
+back up. Just repeat the pattern until he is PWNED like Oklahoma in a bowl 
+game.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Go back to the dock and enter Sub-C to meet the baby dolphin and his mother. 
+She thanks you and then shows you the way past the rock, so now we can be in 
+chapter 3!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 3: STORM AND CALM
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Suddenly it gets dark
+and stormy on the ocean.
+The sea tosses Sub-C....
+
+This is one of the longest chapters in the entire game, but I will help you 
+through it. The next one is shorter to make up for it, anyways. The ship will 
+be hit by a storm, and you'll end up on a beach. The submarine will now be out 
+of service, so go around and then up the stairs. Go right and enter the hut. 
+Talk to the old man, who will refill all your health. Now, exit the hut and go 
+right to get to the cave.
+
+:::::::::::::::::::::::::
+CAVE TO MIRACOLA
+:::::::::::::::::::::::::
+
+The enemies in the first room look like dodo birds, and are a little tricky to 
+defeat. Once you do so, the door will open to the next room. The next room has 
+a chest in the middle platform of the room, and the switch to the chest is in 
+the upper right hand corner. This reveals some a bola, so take it and then 
+kill the dodo bird enemies to unlock the door to the next room. This next room 
+has a bunch of weird monkeys, so kill all of them to open the door to the next 
+room. This room has more monkeys, in strips of land that go north and south 
+this time. Kill them all to get to the next room.
+
+In the next room, do a little dance. Make a little love. Get down tonight. 
+Then, jump on the platform to the left to open up a button. Jump on the button 
+to open the chest for another bola. Whoo hoo. Watch out for the snakes as you 
+progress, let them come to you before you attack them. Kill all the snakes to 
+open the door. The next room has proven to be tricky, but you can do it. I'd 
+make a freeze file here if you're playing on an emulator. The room here has 
+sinking tiles. Jump on the bottom one as it comes up, then the middle one, 
+then jump to the left to reveal two hearts. Get the hearts while jumping 
+carefully to the top sinking tile, then out to the next room.
+
+This room has some more dodos as well as a skullish bird thing. Kill the 
+dodos, and the birdcs will chase you. Switch to bolas and throw them quickly 
+as they approach near you. Switch back to the yo yo, then go to the room on 
+the left. It'll get dark in here. The room on the left has a staircase, but it 
+will take you to the beginning if you choose it. Yes, this game cheats 
+hardcore. From the beginning of this room, go two steps left, then jump up. 
+The room will now be lit up. Jump on the platform above to reveal a crystal. 
+Grab it and go to the next room, and the exit will appear. Onto Miracola!
+
+:::::::::::::::::::::::::
+MIRACOLA
+:::::::::::::::::::::::::
+
+Talk to everyone first, then talk to the woman to the northeast of the chief's 
+hut. She is Miss CoralCola 1990, and she will ask you who is prettier. Of 
+course, you have to choose her for the story to continue. I personally think 
+they're both skanky 8 bit whores, but I have to do what's right to proceed in 
+the game! Now, proceed to the chief's hut by going through the left side of 
+the small hut to the far right. Exit the hut and walk around to the chief's 
+hut. 
+
+Talk to the chief, and he will tell you what happened to his daughter. If you 
+can help save his daughter, he will fix your ship. Whoo hoo. Talk to the man 
+on the top right of the village, and he will tell you to talk to Bananette, so 
+go back to the chief's hut and take the secret passage in the backside of it. 
+Go to the left to get to another hut, then line up with her door and head 
+straight down to get to Bananette's room. The guard will let you by, then walk 
+up to her bed and talk to her. Exit the hut and talk to the guard to the top 
+right of the village. Time to enter another cave. Oh, joy, and the fun is just 
+beginning in this long ass chapter..
+
+:::::::::::::::::::::::::
+MAGMA'S MOLTEN TUNNEL
+:::::::::::::::::::::::::
+
+Go through the door, then kill the two groups of snakes. This takes a little 
+bit of timing, but shouldn't be too rough overall. The next room has some 
+flying skulls, and this time you have to kill them with a yo yo. What I do is 
+hit them a few times as they get close, then move away again until they get 
+close again, then repeat until they die. Killing all of them will reveal the 
+next room, so go in there and the lights will go out. Quickly kill the snake, 
+then proceed as far north as you can. Once you can't go up any more, you will 
+see four snakes lined up. Line up with the second one from the bottom. Kill it 
+when you can, then jump on the land it was on. 
+
+Now, lure the snakes to come to you, and attack them, while you stand on the 
+current platform, so you don't lose track of where you are. You will see aqn 
+octot jump on a platform occasionally, so make a mental note of where this is, 
+because you will need to remember soon. Go to the right of the platform it 
+lands on, then kill it when it comes up. This will open the path to the left. 
+Jump left on the platform and then up to light up the room. Now, jump on the 
+land and grab the bat and slingshot. Jump on the tile at the bottom and then 
+down to another room. The room here has a small chest in the middle, so jump 
+on the tile to the left to get the button, which reveals a medicine in the 
+chest.
+
+Go back to the previous room, then go left to the next room. Use the slingshot 
+to kill the annoying flies in here, then jump on the tile to the lower left 
+bring the button to the right up, then hit the button to unlock the door to 
+the next room. This is so thrilling, honestly. This next room has sinking 
+tiles that move VERY fast, so immediately jump on all 3 as they come up. As 
+soon as the 1st one comes up, jump, then jump, then jump, then jump again to 
+make it to safe ground. You can hit the tiles on the left and right to reveal 
+hearts, but you don't have to and it's possible to screw up your timing doing 
+that. Walk down two flights of stairs, and the music will change to somehting 
+a little more menacing. Cool!
+
+Go to the right and into the next room. The try your luck sign is in here, and 
+if you're feeling risky then try it. I usually get +1 anyways. The top left 
+tile has the button, so jump on it then hit the button to open the door. The 
+next room has some flies, but they're easier than normal to kill. Why is that? 
+You can get a stopwatch from the second to left tile on the bottom row, which 
+stops them temporarily. Kill the flies to open the door to the next room. The 
+next room has a mud-like enemy that shoots things out at you slowly. Go right, 
+then jump on the tile and jump again to the land. Jump to the far right to 
+unveil the button, then hit it to open the door to the next room.
+
+In here, there's another shooting mud enemy. Jump up the right line of tiles, 
+and grab the bola along the way. Keep jumping until you get to the sinking 
+tile room. Jump across the tiles very quickly again, like you did before. No 
+need to deviate from the path, since there's no hearts to be found here. The 
+next room is empty, and the room after this contains the boss for this lair, 
+Magma the Fierce.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | MAGMA THE FIERCE      |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+This boss is a little tricky, for the simple fact that it takes an unique way 
+to actually beat him. Weapons don't phase him, and he loves to shoot fireballs 
+at you. There are two red crystals on the side of him, so avoid his shots and 
+head to the platform at the upper left hand corner to reveal a button. Jump on 
+the button and the first crystal will disappear. Now, jump to the upper left 
+hand corner and step on that switch to reveal a button. Hit the button and he 
+will fall to the water. Figures he makes his home over the one thing that 
+hurts him, what a smart guy. The boss is only tricky due to having to avoid 
+the fireballs, but once you figure out the pattern, you shouldn't have any 
+more difficulties.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Walk through the door to the right and climb all the staircases. You'll exit 
+here, but the chapter is not even close to being done yet. :( Instead, walk 
+north and follow the gap in the middle of the mountain range, which leads to a 
+path, leading to a big heart. Walk right to get to SheCola.
+
+:::::::::::::::::::::::::
+SHECOLA
+:::::::::::::::::::::::::
+
+As you might surmise, you cannot get in here, because SheCola is a place for 
+all women, and Mike Jones is hardly a woman. Damn. Instead, walk down the path 
+on the right and head upwards then left, then enter the staircase. The fortune 
+teller here will turn you into a girl if you recover the crystal ball in the 
+pond near the Ghost Village. Oh, great, another freaking dungeon. Leave 
+SheCola now, then go back through the path in the mountains, and head west to 
+get to the Ghost Village.
+
+:::::::::::::::::::::::::
+GHOST VILLAGE
+:::::::::::::::::::::::::
+
+Go left, and you will see a bunch of graves, but the one you need to worry 
+about is the blue one. Enter this one and you'll be in the next dungeon. 
+Jesus.
+
+:::::::::::::::::::::::::
+GHOST TUNNEL
+:::::::::::::::::::::::::
+
+This chapter is really starting to piss me off. And we still have one more big 
+ass dungeon to go. :( The first room contains some bonedogs, so kill them to 
+open the path to the next room. Head left and kill the bonedogs at the end of 
+the room, and jump on the lone tile in the water to unveil a button, then jump 
+on the button to open the door at the bottom of the room. Go through this 
+door, and now enemies will start to be invisible. Wonderful.
+
+I guess they actually took that Ghost thing literally. Jump on the tile to the 
+right, then jump on the button to reveal the door to exit the room. Kill the 
+three enemies in here, and jump on the tile to the right. This breaks open the 
+chest, containing a Rod of Sight. Now, you can see these invisible enemies! I 
+assure you that will help tremendously in this God forsaken place. Go to the 
+next room and use the Rod of Sight to reveal some enemies, then kill them and 
+jump on the tile to reveal the button. You know what to do.
+
+In the next room, kill all the skulls, or avoid them the best you can, as you 
+make your way to the far right side of the room. Jump on the tile above this 
+platform to reveal a button, then jump on the button to lead to the room on 
+the right. DON'T GO DOWN. Use a Rod of Sight in the next room to reveal some 
+more enemies. Kill all of them to open the path on the right, which contains 
+two hearts. Go back left, and down now. You don't have to worry about killing 
+them again. Lucky you, I'm sure you had such a tough time with the creepy 
+little bastards, too! ;)
+
+Kill the slime on the right and walk through the wall to the right. Use a Rod 
+of Sight to reveal some more enemies, so kill them and jump on the tile to the 
+top left to reveal a button. Push the button to open the door to the next 
+room. Go through it, then you'll be in a room with a mini volcano and one 
+tile. You know what to do, it reveals a button and yadda yadda. The next room 
+is DARK, SPOOKY, AND MYSTERIOUS! OH NOES! Fortunately, you have me to lead you 
+though such a horrifying experience!
+
+Kill the bats if they get too close, and run right until you are stopped. Jump 
+right, and it will unveil a button. This button will open the door to the next 
+room. In this room, kill all the enemies to open a door to the next room. Use 
+a Rod of Sight and kill all the enemies in here, then jump on the tile at the 
+very bottom of the far left row to get some Magic Lanterns, which light up 
+those dark rooms. These will definitely come in handy, don't you think? Go 
+right to get a medicine and two hearts, then return to the dark room with the 
+bats.
+
+Jump to the platform in the middle, then jump right and you can walk through 
+the wall. Use a magic lantern, then go down to get a Rod of Sight again. Jump 
+right onto the land, then walk through the wall. In here, jump around until 
+you bring up a button, which opens the door. Jump around, being careful for 
+sinking tiles, until you get to the south piece of land. Jump around to the 
+door, then follow the path to the next room. Wait for these guys to finish 
+shooting, then attack them quickly until they are defeated. Beating both opens 
+the path to the next room.
+
+Boss music, but no boss. Weird. Go straight to the top, then jump out of the 
+screen. Kill the bonedogs, then go to the next room. Jump on the far left tile 
+to make a stopwatch appear, which makes killing the enemies in here easier. 
+Once they are defeated, the door opens, so go through it now. This room is 
+easier than your mom. Run to the top group of platforms and jump on the bottom 
+right one to reveal the switch, which opens the door. That's right, no enemies 
+or nothing. Where's that boss anyways?!?
+
+Use a Rod of Sight in this room, and then kill the enemies to open the path to 
+the right, so go through there. Use a Rod of Sight, then kill the enemies that 
+appear to open the door to the next room. Kill the bonedogs in here by jumping 
+on a tile and letting them approach you. Simple yet very effective strategy 
+indeed. The door will open. Jump on the top left tile in the right hand side 
+to get some Magic Mirrors. Go through the door to the next room. Equip the 
+mirrors now, and reflect their shots back at them to kill them. Once they're 
+all dead, the room opens.
+
+Go to the next room, and slowly take out one enemy at a time. There's six of 
+them, so be patient and keep moving to avoid unnecessary damage. The game 
+isn't timed or anything, you know. Head down to the next room, and use the Rod 
+of Sight. Grab the bola and then kill the mini enemy. This opens a path to the 
+left, so get the four hearts and head back right. Jump on the tile and this 
+leads to a button, leading you to the next room. Go down and kill the skulls. 
+In the next room, equip the Magic Mirrors and reflect their shots back at them 
+again. Head left and use a Rod of Sight to reveal the next boss, a giant 
+ghost.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | MAXIE                 |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+I'm glad to at least see a boss after hearing the damn boss music for the 
+entire second portion of the cave. Equip the bolas, since that's the only 
+weapon effective against the giant ghost, and go to work. Avoid the fireballs 
+being shot out by the mini volcanoes, as well as avoiding the damage floors 
+that keep popping up throughout the floor. Time your shots well and he will 
+start to speed up, so just repeat the pattern of avoiding and occasionally 
+firing bolas to eventually beat him. He doesn't take too many hits, which is 
+nice.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Go right, then jump on the tile to open the door. Go up and jump on the middle 
+tile several times to go outside. Get the crystal ball and return to SheCola 
+now.
+
+:::::::::::::::::::::::::
+SHECOLA
+:::::::::::::::::::::::::
+
+Back in SheCola, return to the fortune teller and hand her the Crystal Ball. 
+You are now a girl. This game is so wrong. You'll now be in the front of 
+SheCola. Talk to the guard, and you'll be let in. Go to the upper left hand 
+corner of the screen and enter the room, and then climb the staircase. You 
+will talk to the queen. She'll give you the shooting star weapon, then tell 
+you to talk to the head warrior. Talk to her on the upper left hand corner, 
+and she will tell you how to get through the west cave. Talk to the fortune 
+teller to turn back to Mike, then leave SheCola and head west to get to the 
+West Cave. What, I thought you had to go northeast!
+
+:::::::::::::::::::::::::
+WEST CAVE
+:::::::::::::::::::::::::
+
+Slowly getting done here, folks. Only one more to go after this, I promise! 
+Enter the first room and jump on the button 10 times and a bridge will appear. 
+In the next room, head left and kill the enemies to open the door. Go down 
+through the door, and kill the enemies, then go left through the door. Jump 
+from tile to tile, killing mud enemies along the way. Follow the path left to 
+get to the next room. Kill the enemies in here, and it will open a path to the 
+exit! You are already out of here!
+
+Back on the overworld, go straight down until you are against the mountains. 
+Go left, and you will go through the mountains. Walk into the house on the 
+left and talk to the guy to have a poem read to you. Exit the house and go 
+south into the cave.
+
+:::::::::::::::::::::::::
+HERMIT'S MOUNTAIN
+:::::::::::::::::::::::::
+
+Finally, we are at the last dungeon in this ridiculously long chapter! I 
+warned you it was going to be a long one. The first room has four snakes, but 
+you only have to kill the one on the lower right to unlock the path to the 
+next room, which is to the right. In the next room, kill the skulls to open 
+the door to the right. Kill the two boneheads in here, and the door to the 
+next room will open. 
+
+The white platforms in here will fall down as soon as you jump on them, so 
+QUICKLY jump from one to the next, until you are on the tiles on the other 
+side. Jump on the first tile to the right, which opens a button. Step on the 
+button to open the path to the right. Here, jump on the tile to the right and 
+it will unveil a button next to the chest. Step on the button and the chest 
+will open for a bola. Jump on the platform to the top of the group, and a 
+button will appear above it. The button, shockingly enough, does nothing. Just 
+kidding, it opens the door. AFTER IT KILLS YOU. (Just kidding again.)
+
+In the next room, go down the stairs, then go right and jump on the white 
+platforms quickly to get to the land. Jump to the middle portion of land. Jump 
+on the sinking tile quickly, then jump on the tile above it to reveal a 
+button. Jump on the button and go through the door to the next room. The next 
+room has a fly and mud enemy, so kill them and a door will open. Go through 
+the door, then jump on the sinking white platforms quickly to get to the next 
+room. 
+
+Here, you have to do a lot of precision jumping and timing. Jump on the white 
+tile to the middle, then to the left. Jump on the regular sinker to the left, 
+then jump to the far left tile and hit the button. Jump on the button and the 
+next room will be revealed. Get the hearts and medicine, then go back to the 
+previous room and jump on the white tile to the middle, then the right, then 
+go to the far right and hit the button which takes you to the next room for 
+real now.
+
+Jump on the tiles until some frogs appear. Kill the right one and the path to 
+the right will open. Kill the three enemies in here, watching for them as they 
+charge at you, then go through the door to the next room. In here, climb up 
+the stairs to the next room. Go through the door at the top, and in the next 
+room, jump on the tile to do the typical button pressing stuff. I know this is 
+just thrilling stuff, I am really having a ball typing "push the button to 
+open the door" 500,000 times in a row.
+
+In this room, jump on the tile to open the door at the top. Go through the 
+door, then kill the enemy to open a path o the next room. Kill the enemy in 
+the next room to open up the path, then jump on the tile to the left to reveal 
+a button. Take the path to the right to the next room. Kill the enemy in here, 
+then go down. In the middle portion of the left room, you can walk through the 
+wall. Jump on the geyser to take you out of the dungeon, finally.
+
+Talk to the hermit at the top. He will give you a scroll which will break the 
+curse on Bananette! Yay! You will automatically be back in MiraCola. Bananette 
+will be awoken, and the chief will be so happy, he will fix the Sub-C. Go 
+outside and the freaking chapter will FINALLY BE OVER!
+
+WE DID IT! CHAPTER 3 IS OVER! *DANCES*
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 4: CONFESSION
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Sub-C is cruising
+on the ocean....
+A small island appears
+on the horizon....
+
+:::::::::::::::::::::::::
+TUNACOLA
+:::::::::::::::::::::::::
+
+The good news about the long ass chapter 3 is that there's a short chapter 4, 
+with no dungeons whatsoever. Whoo hoo. Go right and you will get to an island. 
+Get off at the dock and walk to Tunacola. In here, talk to all of the people 
+and then leave after the event. Go back to Sub-C, then go to the right of the 
+island. You will be swallowed by a whale!
+
+:::::::::::::::::::::::::
+INSIDE THE WHALE
+:::::::::::::::::::::::::
+
+Now, we are inside of the whale! Fortunately, it's just an overhead maze and 
+not an actual dungeon. Go left and dock near Baboo. He says he needs a lighter 
+to make the whale sneeze, so time to find it. Go back to Sub-C, then go right 
+to the tunnel. Go up and then right. Follow the path for the next few screens, 
+until you get to the one with the piece of land in the middle of it. Go up to 
+the next screen, then submerge at the square and you will be in another area.
+
+Go up to the next screen, then go left. The next screen is just a straight 
+path, and in the following one, go down to the next screen. Submerge in the 
+area close to land, and then go up to the next screen. Go up then left at the 
+intersection, then follow the path for two screens. Don't submerge here, 
+instead, go down. Go through the secret passage, above the stairs to the right 
+hand side. Go through it, then head down to the next screen. Here, land near 
+the fish and walk down to reach the lighter. 
+
+Go back to the place I told you not to submerge at, and submerge there now. Go 
+down and land at Baboo, then talk to him. This part of the game is lame, since 
+it requires you to dip a letter in water that came with the game, to get a 
+special code. Since I know 99% of you don't have this letter, the code is 747. 
+Enter Sub-C and enter 747, and he will let you go to the next chapter. Stupid 
+freaking idea, Nintendo. You bastards.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 5: CAPTAIN BELL
+=-=-=-=-=-=-=-=-=-=-=-=-=
+Sub-C is searching for
+Dr. Jones' location....
+But the strait is
+blocked!
+
+This chapter isn't so bad. It's just one town and a super long dungeon. 
+Nothing we can't handle, right? M I RITE?!?
+
+:::::::::::::::::::::::::
+BELLCOLA
+:::::::::::::::::::::::::
+
+Go left and enter the village of Bellcola. Talk to everyone, then talk to the 
+guard in front of the hut. Then, talk to the Chief, who will give you the 
+secret of the strait. The passage is not easy to open, so we should get 
+Peter's help. Leave the village and go left through the little passage. Here's 
+Peter, but he won't help you without getting something in return. What a 
+greedy little bastard. Then again, I'd probably be doing the same thing to be 
+honest!
+
+:::::::::::::::::::::::::
+GETTING THE WORM
+:::::::::::::::::::::::::
+
+Leave now, and follow the edge of the island to the right and then down until 
+you can submerge in the water. When you come up above water, go up and 
+submerge again. Go up and find the splashing water and go through the passage 
+here. Dock and go into the hut. Talk to the fisherman and he will give you a 
+worm, and give this worm to Peter. Now, he will give you the code: Do Mi So Fa 
+Do Mi. 
+
+Go back to where you got the worm, and go south to the dead end in the rocks. 
+To the left is a secret passage, and at the end of this is Captain Bell's 
+Memorial. Why would they hide it in the middle of nowhere? Doesn't seem like a 
+very logical place to put a memorial. Most of us, including me, suck at pianos 
+and wouldn't know the keys, so fortunately I'll tell you which ones to push.
+
+To solve this puzzle, step on the 1st key, then the 3rd, then the 5th, then 
+the 4th, then the 1st, and finally the 3rd. The passage will now open, so go 
+down the stairs and then head south. Go down the first stairs to the right, 
+and take the secret passage in the lower left of the room. On the other side 
+of this room is a Big Heart, then exit this room and head south and out to the 
+beach. Go left and up to get to the dungeon.
+
+:::::::::::::::::::::::::
+CAPTAIN BELL'S CAVE
+:::::::::::::::::::::::::
+
+This is a long and challenging dungeon, so I hope you are ready. I'll put my 
+game face on and try to keep the humor to a bare minimum. Go down to the area 
+you came in, and go right to find a pair of two hearts. Go back up into the 
+next room, and kill the red bats to unlock the door to the next room. Go left 
+to the next room, and these blocks will fall as you jump on them, so be very 
+careful! Quickly jump on the block at the end to trigger a switch, then jump 
+down and hop on it to open the door. Follow the path quickly to the door.
+
+In this room, just simply run as fast as you can to avoid the spears that come 
+out of the wall. Run and jump on the block to the left, then run left and 
+stand between the blocks of spikes. Run again, then jump on the switch. Go to 
+the next room and hit the first block. Stand next to the black ball, then hit 
+it and it will start moving back and forth. Jump over it and then jump on the 
+switch. In the next room, go down and defeat the snakes and bats. Pick up the 
+try your luck sign, then go to the left room to get two hearts.
+
+Jump across the platforms to avoid the spears, then jump on the far left tile. 
+Now, go back right to hop on the switch, then exit the room and go up this 
+time. Here, take care of the rat enemy, then go straight up to fall down a 
+hidden hole. Go up the lower right stairs, then walk up next to the wall. Go 
+through the secret passage in the left wall, then go left one, down one, and 
+left one through another secret passageway. Kill the enemies in here to unveil 
+the passageway to the next room.
+
+Go through the door in the next room, and in the following room, jump all the 
+way to the left, and jump on the lower left hand tile to unveil the switch. 
+Jump on the switch, then head left. This room has a boulder, which will 
+instantly kill you if you touch it. The key is to hide in the little openings 
+to prevent it from coming after you. The bottom tile at the end has a Magic 
+Mirror, and the top tile has a switch to open the door.
+
+In the following room, use the Magic Mirror to reflect the Pirate Skeleton 
+shots back at them, then kill the snake to unveil the way to the next room. 
+Hit the first ball, take the Rod of Sight, and jump over it when it comes back 
+at you. Go down, then hit the bottom ball and jump over it. Jump on the left 
+tile and you will unlock the switch. Trigger the switch to open the door to 
+the next room. Kill the bat and snake in here, then open the passage to the 
+next room.
+
+Here, kill the dodo bird enemies, and in the following room, avoid the boulder 
+by quickly jumping on the tile below you to trigger a switch. Dodge the 
+boulder, then go left to jump on the switch. The following room has a tile 
+which you can jump on to trigger a switch. The room after this has a bunch of 
+enemies you need to kill while making timed precision jumps. Be careful. In 
+this room, jump on the block to the right and hit the switch to trigger a new 
+passageway.
+
+Get the baseball bat from this room by hitting the upper left hand corner 
+tile. The bottom right hand tile has the switch that goes to the next room. Go 
+through this passage and you'll soon be in a room with four more balls. Hit 
+the one next to you and get a Rod of Sight, then jump over the ball as it 
+comes by you and go up. Hit the top one and jump over it as well, then jump on 
+the tile to the left and trigger the switch. Go up and quickly jump on the 
+tile and then to land before it sinks. Hit the switch that appears, then use 
+the sinking tiles to land on green stagnant tiles, getting a pair of double 
+hearts. 
+
+Go back to the room with purple monsters and use a Rod of Sight to make a 
+ghost appear. Take care of it, then go through the newly created passageway. 
+Hit the two balls so you can jump over them, and jump on the upper left block 
+to trigger a switch. Go left and jump on the tiles while avoiding sticks that 
+come out of the ground. Jump on the switch, get the double heart, and move 
+onto the next room. Run left to avoid the stake, then jump on the sinking tile 
+quickly and keep running through the path, then jump on the tile to make a 
+switch appear. Jump on the switch and run to the next room.
+
+Get to the end of this room and jump on the tiles. Hit the boulder to freeze 
+it for a second, then hit the switch, then go up and get the Mirrors. Hit the 
+boulder again to prevent it from moving again, then move left. Equip the 
+mirrors and defeat the Pirate Skeletons, then switch back to your normal 
+weapon and kill the snakes to open the door. Go right to move through a secret 
+passage, then go all the way up and left. Jump on the tile three times.
+
+The water will drain, the tunnel will be finished, and we're moving on. 
+CHAPTER OVER!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 6: REUNION
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Sub-C is searching for
+Dr. Jones' location....
+Will Nav-Com catch his
+signal on time?
+
+While not as long and annoying as chapter 3, this chapter is one of the longer 
+ones, with three bosses and two large dungeons to complete. Whoo hoo, let's 
+get this party rolling!
+
+:::::::::::::::::::::::::
+OVERWORLD
+:::::::::::::::::::::::::
+
+Go right and through the secret passage. Dock the boat and enter the hut to 
+get to Howduyadu-Cola. I can't make these town names up if I wanted to, 
+people! You don't have to do much here, just get back on the boat and you will 
+discover that Dr. J is by here. Go northwest and submerge at the wave. When 
+you are back over water, go to the right submerge area. Go down and dock, then 
+go down the stairs to get a Big Heart.
+
+Leave here now, then go right to find another island. Dock, then enter the 
+hut. In here, you will see a skeleton. Go down and look for a secret passage 
+at the bottom of the island to the right, and then use the second submerge 
+wave from the left. Go south and then use the bottom submerge wave. Go down, 
+left, and then submerge again. When you resurface, go up and left. Go through 
+the secret passage and follow Nav-Com's signal until it stops. Submerge now, 
+then follow the path until it's dark. Go up three screens, then go all the way 
+right and up.
+
+:::::::::::::::::::::::::
+TURBOSS CAVERNS
+:::::::::::::::::::::::::
+
+Yay, another dungeon to complete, although this one isn't as long as previous 
+ones were. Go up one screen and kill the enemies, then get the item which 
+allows you to jump two spots instead of one. Jump to the tiles, then jump on 
+the switches to get a pair of double hearts, if you need them. Otherwise, go 
+in the next room and kill all the enemies in here to unlock the doorway to the 
+left. Go down and jump left, over all the tiles, to get the double jump item.
+
+This is a freaking ridiculous jumping puzzle and it took me a good 20 minutes 
+to figure out when I first played this game. Jump back two tiles, then up. 
+Kill the enemy to the left, then jump right twice. Now, jump up and kill 
+another enemy. Jump left, down, and left. Kill the enemy here, then jump 
+right, up, right, and down. Jump left three times, then up. Go left twice, 
+then kill the enemy here. Jump back right, then jump down to the enemy. Kill 
+the enemy, then jump left, up, left, left, and kill the enemy. Then, jump 
+down, and go to the room to the left.
+
+These tiles here occasionally decide to fall into the water, so be careful. 
+When they first start coming up, jump on them quickly, and land on the hole 
+between the enemies. Walk between them until you can hit the switch, then open 
+the chest. Defeat the enemies and the room will open up. Jump across the tile 
+here, being careful because it also randomly decides to sink into the water, 
+and then kill another enemy to get to the first of two bosses in this dungeon.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | TURBOSS               |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+I just realized we haven't faced a boss in forever, and why is the cave named 
+after the 1st boss and not the 2nd? Oh well. This boss moves back and forth 
+across the screen, occasionally shooting stuff out. How original. Just avoid 
+the shots at first, and then the double jump item will appear from seemingly 
+nowhere. I believe in magic now! Get it, and now you can jump to the tiles and 
+hit this guy with the shooting star weapon until he dies. He's not hard at 
+all!
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Well, now I definitely can't see why this dungeon is named after him! Go left 
+and then jump on the tile. Hit the switch that appears, then proceed to the 
+next room.  Kill the enemies in here to open up the next room, which has a 
+secret passage in the left hand corner that you should take. Go left until you 
+stop, then jump left to make a switch appear. Hit it and a door will open. Go 
+back through the passage and you will be back in the room you started in a few 
+screens ago.
+
+Okay, now go to the next room, north, and go through the secret passage in the 
+upper left hand corner this time. Get the double jumped item, then move left 
+until it's no longer possible to do so. Jump left and a switch will appear. 
+Jump right, then jump down to turn the lights on. Jump left, then down, and 
+left twice to trigger the switch. Get the Baseballs, then go through the north 
+door to get to the next room.
+
+Get the Spiked Shoes here, and use them to kill the enemies. Use them on the 
+enemies in the next room, as well. Go around to the top and jump on the far 
+left tile to get a double jump item at the bottom. Jump across the middle 
+after getting the item, then grab the double hearts. Kill both the enemies 
+here to open up the door to the next room. Jump around and kill the enemies in 
+the next two rooms to get to a boss.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | BROKEN JOE           |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Just wait patiently for him to break off the wall. If you try to attack him 
+while he is still part of the wall, you're dead. When he comes out of the 
+wall, jump over the shots that he fires at you, and throw baseballs into his 
+mouth. Repeat the pattern over and over and he will soon die.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Huh, this hasn't exactly been the most challenging chapter in terms of bosses. 
+Go up two screens and you'll be out of this tunnel, but the danger is not over 
+yet! Walk two screens to the right and take the second pathway north. Go left 
+through the lake and then down the stairs to get a Big Heart. Go back to the 
+first screen, and go up this time. Go right at the first intersection, then go 
+up to the next dungeon.
+
+:::::::::::::::::::::::::
+ROCK TUNNEL
+:::::::::::::::::::::::::
+
+This is the last traditional dungeon of the game, so I hope you'll enjoy it. 
+Go right at the entrance and walk through the wall. Jump on the third block 
+from the bottom, then jump on the switch. This opens up the door to the next 
+room, so go through it. Kill the enemies then get the hearts if you need them. 
+Kill the enemies in the next room while avoiding the spears that randomly come 
+out of the floor. They cause some decent damage. Go north to the next room.
+
+Jump to the center of this room and get the asterisks, then use them to kill 
+the enemies. Go north and use the asterisks to kill the bats. Hit the spiky 
+ball with your normal weapon, then jump over it. Go the next room and kill the 
+enemies, then go left and get the pair of double hearts. Go back and jump on 
+the second tile from the left to make a switch appear. Jump on it, then go 
+north. Kill all the bats in here, then go north. Kill the little purple 
+monsters, then go left to the next room.
+
+Go straight up, then jump up to the next screen. Go left, then jump back down 
+to the previous screen. Get the double heart, then go back to the previous 
+screen and go right and down. Line yourself up with where the double hearts 
+were on the other side, then jump on the block and then on the switch to open 
+the door to the next room. Use the asterisks to kill the enemies in here. 
+Defeating it unveils a tile, which holds a try your luck sign. Go north to the 
+next screen.
+
+The switches on the bottom right have items, and the third one from the bottom 
+has a switch that leads you to the next room. In this room, hit the snakes 
+without hitting the spiky ball, then hit it and then kill the snakes. Jump 
+over the spiky ball and go up to the next room. The enemies in here are 
+invisible, so wait for them to walk so you can see them a little. Defeat them 
+to open the door, and kill all the enemies in the next room. Jump on the tiles 
+to the far left and far right to get some items before proceeding up to the 
+next room.
+
+Kill the four invisible monsters, then go up and beat the pink rock monster. 
+Go north and go through the middle of the left wall. Walk to the bottom of the 
+next room and jump down. Grab the medicine, then jump on the tiles. Get the 
+asterisks then jump on the switch to open the door. There's mini bosses in the 
+next room. Use your yo yo to hit them, avoiding the projectiles that they 
+shoot out in the process. Jump on the tile in the next room to make a switch 
+appear.
+
+The following room is dark. Go four steps up, then go left into a secret 
+passage. Go down, then jump down one tile and then left two tiles to make a 
+switch appear. Get the asterisks from the chest, then go north to face the 
+final traditional boss of the game!
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | TWIN SUMOCHO          |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Again, they are not the most challenging bosses in the world. There's two of 
+them, one in each corner of the top part of the room. They shoot fire out, 
+which is easily avoided. Shoot an asterisk out and split it at the right time 
+to hit both of them for the price of one! How cool is that? If you run out of 
+them, use some hit and run tactics to carefully dodge their fire and get in 
+some well timed hits.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Whew. Follow the path to get to Dr. J, who asks you to get three magic cubes 
+back to save an alien race from the evil aliens that kidnapped Dr. J. This is 
+where the Star part of the game name comes into the play. Agree to help out 
+(like you have a choice..), then go up to the stairs. Go up the stairs, then 
+follow the path north to end this chapter.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 7: ALIEN SPACESHIP
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+At last, you have arrived
+at the spaceship....
+Find the 3 Magic Cubes!
+
+:::::::::::::::::::::::::
+ALIEN SPACESHIP 1
+:::::::::::::::::::::::::
+
+Now it's time to get the three magic cubes and save the world or whatever. In 
+the first room, get the four hearts. Go up and avoid the enemy. Shoot the 
+north wall and get the Spikes, then go back down and get the Vitamin-X now. Go 
+to the right, then down. Go through the warp tile, then take the top warp and 
+grab the medicine. Go back to the room with four warps and take the right warp 
+tile now.
+
+Here, kill the enemy then go down two screens. Follow the path to the left, 
+avoiding the annoying enemy gun fire that randomly comes out at you. Damn 
+Gunners! On the next screen, jump to the left and kill the enemies. Get the 
+Ray Gun, then jump onto the warp and follow it to the next warp. Go left and 
+you'll be up to the first boss in here.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | JET PACK JUMPERS      |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Get the double jump item that appears right away, as it will prove to be 
+invaluable during this fight. Now, equip the Spikes and start attacking these 
+guys with them. They fly around the room, shooting bullets out. Once you're 
+done with the Spikes, switch to the Ray Gun and finish them off with some 
+shots from the gun.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Go up one room, then exit. Here, there will be a room with three staircases. 
+Take the lower right hand corner staircase, then follow the path to get the 
+Magic Cube. You'll now get the Super Nova, the strongest weapon in the entire 
+game! You need a full row of hearts to be able to use it, though. Go up to get 
+to the next spaceship.
+
+:::::::::::::::::::::::::
+ALIEN SPACESHIP 2
+:::::::::::::::::::::::::
+
+We're almost done. This is less of a maze and more a straightforward path, so 
+it shouldn't be too challenging to get through. Grab some hearts in this room, 
+then go right a couple of screens to get the Ray Gun. In the next room, kill 
+the enemy, then shoot through the northern wall. This room here contains a 
+valuable Medicine. Go back to the main path and go right now, standing on the 
+tile and killing the Gunner. Step on the warp tile to get into a room with 
+four moving turrets. Kill them and a door will open.
+
+Go through the door that opened to the right, then break through the northern 
+wall to get the super strong Wave Gun. Go right and defeat the enemies here, 
+then grab the Vitamin-X. Go through the door to the next screen, then avoid 
+the enemies and move on. Defeat all the Gunners in the following room, then 
+grab the Wave Gun and Hearts. Defeat all the enemies in here, then go right 
+and through the secret passage to the top that has a Wave Gun.
+
+Go right and avoid all the enemies here, then jump across the platforms. In 
+the last room, jump across the three platforms while avoiding the tiles that 
+heat up in the floor. The next room has the second boss in here.
+
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | OSTROID               |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+This is one of the easier bosses in the game, believe it or not. You can't 
+physically harm this creature, but you can shoot at it over and over until you 
+can step on the switch. This will open up a pit behind Ostroid, so keep 
+attacking it and he'll eventually fall into the pit. Done!
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Hey, we're getting really close to beating this game now. You'll be in another 
+maze after leaving this dungeon. Go down, past the first fork, then go right 
+at the second intersection. Go down the stairs, then go down one step and 
+follow the path along to eventually get the 2nd Magic Cube! You'll now have 22 
+hearts, but the aliens will be pissed that you have the cubes and will lift 
+off with you still on the ship!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=
+CHAPTER 8: FINAL BATTLE
+=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The Alien Spaceship is
+circling the Earth....
+Hurry up and find the
+last Magic Cube!
+
+Now, we're up to the final chapter of the game, and this is when it starts to 
+really get interesting! Go north and the infamous Zoda will appear for the 
+first time and challenge you. Walk north to enter the final dungeon! Here we 
+go!
+
+:::::::::::::::::::::::::
+THE FINAL DUNGEON
+:::::::::::::::::::::::::
+
+After all this hard work, we're almost done! The first room contains a boss 
+battle right away.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | ZODA'S IMAGE          |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Grab the Ray Gun from the corner of the room, then stand in the center of the 
+room and wait for Zoda's attack. He will either shoot eyeballs at you, or 
+reach out with his hand and try to slap you with it. If he tries to shoot 
+eyeballs at you, avoid them and shoot him fast with the Ray Gun. You can only 
+attack his head. If his hand comes out, quickly run to the side to avoid it.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+After defeating this boss, go left and grab the Vitamin-X, then follow the 
+path along until you get to the second boss.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | ZODA'S CORE           |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+It takes a lot of hits to beat this boss, so be wary. Kill the two Gunners at 
+the bottom right away to get flying stars, which you can use to shoot at 
+Zoda's Core. The problem with this boss is that it heals itself for 25% of its 
+health occasionally, which really ticks me off every time. He'll do it for 
+sure once or twice, so be ready for a long, drawn out battle. I recommend 
+occasionally attacking from the tiles with the flying stars, then jumping away 
+when they fall, and switching to the Ray Gun to continue the attack. Repeat 
+this pattern until you win.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+After beating the crap out of the core, we're almost done for real now. 
+Continue along the path, collecting hearts and a Ray Gun along the way. Make 
+sure you have full health before entering the final room, containing the final 
+boss of the game...
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | ZODA'S FINAL FORM     |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Here we go. The final boss of the game, and he's not easy in the least. He has 
+a ton of life and a few devastating attacks. He will jump from one tile to 
+another, shooting off fireballs. If you jump into him, you will die 
+automatically. Just follow his pattern and always stay one step in front of 
+him, shooting him with your Ray Gun or Super Nova as he jumps from tile to 
+tile. As long as he follows you around, you shouldn't have too much trouble 
+disposing of this alien freak.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^
+
+
+Now, you can get the Magic Cube, and you have completed one of the tougher NES 
+games out there! Congratulations!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-------------------------- [ 5.0 MISC. INFORMATION ] -------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+This is a section where I include some answers to questions I know people will 
+have about the game, as well as a section for helpful boss information.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 5.1 FAQ'S /=-=-=-=-=-=-=-=-
+
+You can always email me if you have anything you want to add.
+
+-----------------------------
+Try penguin_faqs@yahoo.com
+subject: FAQ for StarTropics
+-----------------------------
+
+These are the best I could come up with.
+
+------------------------------------------------------------------------------
+1. How are we supposed to know that 747 code?!?
+------------------------------------------------------------------------------
+A: The game came with a manual and letter. If you dip the letter in water, the 
+code 747 would be revealed.
+
+------------------------------------------------------------------------------
+2. Why the hell would Nintendo do that? Talk about lack of foresight..
+------------------------------------------------------------------------------
+A: Yes, looking back it was a stupid mistake, since about 1% of people still 
+have the letter, but at the time, they wanted everyone to buy the game, and 
+not rent it.
+
+------------------------------------------------------------------------------
+3. How do we figure out that piano puzzle?
+------------------------------------------------------------------------------
+A: The hint Pete gives you corresponds with the keys that you need to push on 
+the piano. So, if you didn't know the piano key buttons, you'd just have to 
+guess the best you could, or do some research. To solve this puzzle, step on 
+the 1st key, then the 3rd, then the 5th, then the 4th, then the 1st, and 
+finally the 3rd.
+
+------------------------------------------------------------------------------
+4. There's a sequel to this game. Is it any good?
+------------------------------------------------------------------------------
+A: I personally love it, although there's been some difference of opinion from 
+people that have played it. It's way different than the first, for the most 
+part. The sequel has you going back in time, and the tile based gameplay is 
+gone. You also get more variety of weapons. I really enjoyed it, maybe even 
+more than this one.
+
+------------------------------------------------------------------------------
+5. Why hasn't Nintendo made any more StarTropics games?
+------------------------------------------------------------------------------
+A: They wanted to focus on the several major series they have, as well as 
+develop new ones. StarTropics 2 sold especially disappointing, so they figured 
+keeping the series alive wasn't worth it. That's why we haven't even seen a 
+port of StarTropics for the NES Classics line.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 5.2 BOSS GUIDE /=-=-=-=-=-=
+
+This is just a quick section where I repost the boss strategies, in case you 
+need quick help with any specific one.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | C-SERPENT             |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+This is a pretty easy boss fight, as you may expect. The pattern for this boss 
+is really simple. There are three tiles, and you can only stand in the center 
+one and throw torches in the snake's mouth when it's open. However, he shoots 
+out fire from his mouth 80% or so of the time, so you have to jump left or 
+right to the tiles to avoid this fire. Just repeat this pattern over and over 
+until the serpent is defeated.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | OCTO                  |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+He's a little bit harder than the C-Serpent, but still not too challenging. He 
+will start off the fight by shooting ink at you. Avoid the ink shots, and when 
+Octo charges at you, quickly attack him a few times, as this is the only time 
+you are able to. If you want to make the battle quicker, use the snowman when 
+he's first down in your area, so you can attack him more times before he moves 
+back up. Just repeat the pattern until he is PWNED like Oklahoma in a bowl 
+game.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | MAGMA THE FIERCE      |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+This boss is a little tricky, for the simple fact that it takes an unique way 
+to actually beat him. Weapons don't phase him, and he loves to shoot fireballs 
+at you. There are two red crystals on the side of him, so avoid his shots and 
+head to the platform at the upper left hand corner to reveal a button. Jump on 
+the button and the first crystal will disappear. Now, jump to the upper left 
+hand corner and step on that switch to reveal a button. Hit the button and he 
+will fall to the water. Figures he makes his home over the one thing that 
+hurts him, what a smart guy. The boss is only tricky due to having to avoid 
+the fireballs, but once you figure out the pattern, you shouldn't have any 
+more difficulties.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | MAXIE                 |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+I'm glad to at least see a boss after hearing the damn boss music for the 
+entire second portion of the cave. Equip the bolas, since that's the only 
+weapon effective against the giant ghost, and go to work. Avoid the fireballs 
+being shot out by the mini volcanoes, as well as avoiding the damage floors 
+that keep popping up throughout the floor. Time your shots well and he will 
+start to speed up, so just repeat the pattern of avoiding and occasionally 
+firing bolas to eventually beat him. He doesn't take too many hits, which is 
+nice.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | TURBOSS               |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+I just realized we haven't faced a boss in forever, and why is the cave named 
+after the 1st boss and not the 2nd? Oh well. This boss moves back and forth 
+across the screen, occasionally shooting stuff out. How original. Just avoid 
+the shots at first, and then the double jump item will appear from seemingly 
+nowhere. I believe in magic now! Get it, and now you can jump to the tiles and 
+hit this guy with the shooting star weapon until he dies. He's not hard at 
+all!
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | BROKEN JOE           |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Just wait patiently for him to break off the wall. If you try to attack him 
+while he is still part of the wall, you're dead. When he comes out of the 
+wall, jump over the shots that he fires at you, and throw baseballs into his 
+mouth. Repeat the pattern over and over and he will soon die.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | TWIN SUMOCHO          |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Again, they are not the most challenging bosses in the world. There's two of 
+them, one in each corner of the top part of the room. They shoot fire out, 
+which is easily avoided. Shoot an asterisk out and split it at the right time 
+to hit both of them for the price of one! How cool is that? If you run out of 
+them, use some hit and run tactics to carefully dodge their fire and get in 
+some well timed hits.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | JET PACK JUMPERS      |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Get the double jump item that appears right away, as it will prove to be 
+invaluable during this fight. Now, equip the Spikes and start attacking these 
+guys with them. They fly around the room, shooting bullets out. Once you're 
+done with the Spikes, switch to the Ray Gun and finish them off with some 
+shots from the gun.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | OSTROID               |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+This is one of the easier bosses in the game, believe it or not. You can't 
+physically harm this creature, but you can shoot at it over and over until you 
+can step on the switch. This will open up a pit behind Ostroid, so keep 
+attacking it and he'll eventually fall into the pit. Done!
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | ZODA'S IMAGE          |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Grab the Ray Gun from the corner of the room, then stand in the center of the 
+room and wait for Zoda's attack. He will either shoot eyeballs at you, or 
+reach out with his hand and try to slap you with it. If he tries to shoot 
+eyeballs at you, avoid them and shoot him fast with the Ray Gun. You can only 
+attack his head. If his hand comes out, quickly run to the side to avoid it.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | ZODA'S CORE           |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+It takes a lot of hits to beat this boss, so be wary. Kill the two Gunners at 
+the bottom right away to get flying stars, which you can use to shoot at 
+Zoda's Core. The problem with this boss is that it heals itself for 25% of its 
+health occasionally, which really ticks me off every time. He'll do it for 
+sure once or twice, so be ready for a long, drawn out battle. I recommend 
+occasionally attacking from the tiles with the flying stars, then jumping away 
+when they fall, and switching to the Ray Gun to continue the attack. Repeat 
+this pattern until you win.
+
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+| BOSS FIGHT!           | | ZODA'S FINAL FORM     |
+^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^
+
+Here we go. The final boss of the game, and he's not easy in the least. He has 
+a ton of life and a few devastating attacks. He will jump from one tile to 
+another, shooting off fireballs. If you jump into him, you will die 
+automatically. Just follow his pattern and always stay one step in front of 
+him, shooting him with your Ray Gun or Super Nova as he jumps from tile to 
+tile. As long as he follows you around, you shouldn't have too much trouble 
+disposing of this alien freak.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-------------------------- [ 6.0 OTHER INFORMATION ] -------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+This is just the section where I bore you with all the useless other 
+information, like credits, revision history, and contact information.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 6.1 CREDITS /=-=-=-=-=-=-=-
+
+The weapon and items FAQ - For helping me out with some item and weapons 
+names. Thanks!
+
+Nintendo - For making such an incredible game.
+
+Everyone that's supported me in FAQ writing - Thanks for putting up with me 
+and motivating me! I'd never gotten as far as I have without every one of you!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 6.2 REVISION HISTORY /=-=-=
+
+v1.00 - November 14, 2005 - 98.5K - In the last few hours, I have added on 
+three chapters to this guide, and four chapters to ST2, in order to complete 
+both. I am extremely thrilled right now, as this FAQ is now finished. I hope 
+it helps you through the game. I would have gotten this done sooner, but my 
+damn laptop charger broke. Second one to break in a matter of weeks, getting 
+very frustrating. But I am so glad I got this FAQ done, as well as StarTropics 
+2!
+
+v0.03 - November 10, 2005 - 76.8K - I'm ahead of schedule, since I got chapter 
+5 done today instead of tomorrow. I now hope to get a chapter done per day, 
+finally finishing on Sunday. I really think I can do this, despite also 
+working on a ST2 FAQ, since it's moving along much better than I expected 
+(almost done chapter 4) and I have no school tomorrow. We shall see what 
+tomorrow shall bring..
+
+v0.02 - November 7, 2005 - 69.6K - I got the walkthrough done through chapter 
+4. Chapter 3 was a bitch. I hope to have chapter 5 done on the 11th, chapter 6 
+on the 12th, and the guide finished on the 13th. I'll be busy for the next few 
+days, and I also have StarTropics 2 to work on at the same time, which I 
+decided.
+
+v0.01 - November 6, 2005 - 46.7K - I finally decided to start another FAQ. 
+This will be my 35th complete FAQ, I believe, so I am happy about that. I may 
+even do a StarTropics 2 FAQ right after this, since I am playing it now and am 
+totally addicted. Plus, it's challenging and only has two FAQs. But anyways, I 
+started this FAQ and got EVERYTHING done except the walkthrough, which has two 
+chapters done. I hope to add two or three chapters today and finish the whole 
+thing by Sunday. Wish me luck!
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 6.3 AUTHOR INFORMATION /=-=
+
+You can check out all of my other guides on GameFAQs, which will hopefully 
+include a very sexy Tales of Symphonia guide soon. I can't wait to finish that 
+thing. I am most proud of this guide and Legend of Legaia, but I did guides 
+for a lot of Final Fantasies, as well as some random Castlevania and wrestling 
+games, and both Tales of Destiny games. Check them out!
+
+In addition on my quest to write for all the Final Fantasy games, I will try 
+to finish my Aria of Sorrow and NCAA 2004 guides, as well as some random NES 
+games (Predator, NOES, Jeopardy Jr., and Puss and Boots, anyone?) and guides 
+for the other 2 Castlevania games that employ the new style. Oh, and I might 
+do a Wild Arms 3 guide. And I still have to finish my ToS and FF7 guides..
+
+And there's always Final Fantasy 12, Grandia 3, and Dragon Quest 8 to look 
+forward to...
+
+I appreciate any information you can contribute, especially to game basics, 
+and team ratings. Also, feel free to email any questions that would be good 
+for a FAQ section,  as I plan to add one to a future update.
+
+Any errors and omissions that you may see can be corrected if you inform me of  
+them. I'll also credit you, if your error or omission is actually correct and  
+worth an update for me to fix. I am somewhat busy, you know.
+
+That's about it. If anyone would like me to add anything, you can always email 
+me. 
+
+AIM: JuanDixonFor3
+MSN: mcfa4834@bellsouth.net
+YIM: nicklacheysnightmare
+
+If you contact me on one of the instant messengers, and I do not respond, it
+probably means I am busy. I am always talking with my girl, and friends, so
+sometimes I just ignore some instant messages from people I do not know. Be
+nice, and I will talk to you, just don't come out and ask the question and be
+all rude if I do not respond in five seconds, otherwise I probably will just
+block you. I will answer all e-mails about the game, however.
+
+You can contact me by emailing me at penguin_faqs@yahoo.com
+
+One last note: Only email me about the game at penguin_faqs@yahoo.com, all 
+emails about Just Breed sent to my other e-mail addresses will be deleted 
+and/or ignored. Thanks to all those that have emailed me so far, I appreciate 
+it!
+
+1. Check my email backlog. If it's filled up, you may have to wait a while 
+before you get a response.
+
+2. I check my email once in a while. Please wait for a response, because I 
+will respond to all emails.
+
+3. Please read my guide before asking questions, that's why I have a FAQ 
+section.
+
+4. I will only post your question/tip in my guide if it is good, and has not 
+been answered in this guide.
+
+Also, I have AIM and Yahoo. My AIM name is JuanDixonFor3, but PLEASE do not 
+harass me with annoying questions or I'll block you. I only wish to chat with 
+people.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- / 6.4 CONCLUSION /=-=-=-=-=-=
+
+I have finally finished my first FAQ in many months! I hope you found it to be 
+useful, helpful, and maybe a little entertaining as well! See you back very 
+soon, I hope!
+
+Til next time,
+Psycho Penguin

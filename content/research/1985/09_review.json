@@ -1,0 +1,113 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "boss",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 21,
+      "description": "Galactic Domination prep said the Super Laser pit location was 'Unable to verify', yet gf1 (Rooms #05-#07: drop into the soldier pit, clear it, north wall opens to Room #07 with the Lightning Blaster and Magic Potion), gf4 (trapdoor -> crowded Spacemen room -> 3 Potions + Super Ray Gun) and the RA comment (10 space men, upper wall bursts open to 20 Super Lasers and 3 potions) all describe the same cache. Linked the prep bullet, item table, Room #07 step and Zoda step 1 to this location."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 80,
+      "description": "Route from Room #06 to the Main Engine (Room #09) was marked 'Unable to verify'. Added gf1's loop (Room #06 east door -> Room #08 tile -> back to Room #03 -> #04 -> #05, go left instead of dropping into the pit -> west opening to Room #09), corroborated by gf4's warp-back and 'second pass go left' steps."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 45,
+      "description": "18 VGMaps maps were registered in sources.json but no chapter linked any of them. Added clickable map links under the matching area headings in Chapters 1-8 (C-Island, Island Tunnel, Dolphin Island, Octo's Lair, Chapter 3 islands and all five Chapter 3 tunnels, Tunacola/Whale, Chapter 5 islands, Chapter 6 islands/Lost Ruins/Underground/Big Rock Tunnel, both spaceships). Replaced the Chapter 6 'Overworld Map: Unable to verify' line with the islands map."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 134,
+      "description": "Chapter 8 told the player to get the Super Laser for Zoda and, a few lines later, never to use the Super Ray Gun against him, without acknowledging the contradiction. Reworded to state that gf4 and the RA commenter disagree and why the close-range diagonal plan suits the short-range gun."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 150,
+      "description": "Replaced 'Unable to verify' for the post-explosion cutscene with verified gf1 facts (straight-path maze; a dolphin brings you to the first island, then Coralcola) and removed an empty 'Unable to verify' tip after the Zoda fight."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 210,
+      "description": "Search and Destroy room was described only as 'the room after Maxie'. Identified it as Room 36 (the single-tile room through Maxie's west door), matching the RA comment's 'room with one green tile', so the player cannot confuse it with a false-exit room."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 123,
+      "description": "The 'Optional Medicine Detour' ended by saying the Snowman in it is required, contradicting both 'optional' and the Room 12 Snowman pickup above. Clarified that it is the same chest described along another guide's route and that only the Medicine is extra."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 24,
+      "description": "Let the Search Begin (progression, trigger quirk) and Cobra Commander (no-damage, type removed by the set) were labelled 'Missable Achievement Warning'. Relabelled as a trigger note and a no-damage note. Also removed an empty 'Step-by-Step Walkthrough' heading and a drafting remark about ASCII maps."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 118,
+      "description": "Removed a 'Combat Notes' section that said there are no bosses and then 'Unable to verify'; the chapter's opening note already covers this with a citation."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "citation",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 45,
+      "description": "Fixed mis-cited lines flagged for zero overlap: Chapter 1 opening (gf4-1-1, gf1-7-2), Chapter 3 Miracola hint (gf5-7-22), Chapter 5 Peter steps (gf2-24-6, gf5-15-4); removed the unsupported 'nothing else of value on this island' claim."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/00_overview.md",
+      "line": 71,
+      "description": "Overview calls the no-damage boss achievements 'one-shot attempts'. This is cautious advice rather than a sourced mechanic (losing a life before the boss dies may allow a retry). Left as is since it does not mislead the player into losing anything."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 75,
+      "description": "Newly registered VGMaps source map-ch5-captain-bell-captain-bells-cave (Chapter5 Captain Bell Captain Bell's Cave Map) was not linked. Added the map link directly under '### Captain Bell's Cave', above Parts A-C; URL matches sources.json (apostrophe percent-encoded) and returns HTTP 200 image/png. The map is image-only, so no Chapter 5 prose, item table or checkpoint changes are needed; the Islands map link under Bellcola Village is unaffected."
+    }
+  ]
+}

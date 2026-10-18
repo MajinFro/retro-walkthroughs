@@ -1,0 +1,148 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Action-Adventure (top-down dungeon crawler)",
+    "categories": [
+      {
+        "name": "Big Hearts",
+        "description": "Every permanent Big Heart life upgrade found on the overworld (five in the game, per gf1's Game Story Items list).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Hidden Rooms & Secret Items",
+        "description": "The secret rooms RetroAchievements tracks (Captain Bell's Cave starting room, Sumocho Cave dark hallway), the Apple, and the last Minie after Maxie.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Bosses Without Damage",
+        "description": "Every boss with a no-damage achievement (C-Serpent, Octo, Magma, Maxie, Broken Joe, Twin Sumocho, Jet-Pack Jumpers, Ostroid, Zoda Prime), beaten without taking a hit.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": ["big_hearts", "secrets", "no_damage_bosses"]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "A single playthrough in chapter order earns all 28 achievements. There are no mutually exclusive achievements. Four achievements are missable (5844, 5854, 5853, 5851), so collect each before its deadline. Treat every no-damage boss fight as a one-shot attempt in the main run: one player reported that Easter Island Reject (5845) did not unlock when the boss was beaten without damage in review mode (ra-comments-21-1). Let the Search Begin (5829) unlocks when you board Sub-C, not when the C-Serpent dies (ra-comments-4-1). Off With Their Heads (5846) unlocks when you leave the boss room (ra-comments-23-1). Do not hit Zoda after he is beaten, because that skips the final scene and The End does not unlock (ra-comments-1-6).",
+  "settings_notes": "Hardcore mode. The Chapter 4 Sub-C frequency is 747, the number printed on the letter that came with the game's manual (gf1-31-34, gf4-6-18).",
+  "fact_ids": ["gf1-60-2", "ra-comments-4-1", "ra-comments-21-1", "ra-comments-23-1", "ra-comments-1-6", "ra-comments-30-1"],
+  "counter_totals": { "Big Hearts": 5 },
+  "missables": [
+    {
+      "achievement_id": 5844,
+      "label": "Last Minie after Maxie (Search and Destroy)",
+      "deadline": "Before you leave the room directly after Maxie's arena in the Ghost Tunnel: use the Rod of Sight there and kill the single Minie in the corner. Avoid the false-exit room, whose stairs eject you from the dungeon.",
+      "chapter": 3,
+      "fact_ids": ["ra-comments-10-1", "ra-comments-10-2", "ra-comments-10-4", "ra-comments-1-3", "ra-comments-2-2", "ra-comments-10-5"]
+    },
+    {
+      "achievement_id": 5854,
+      "label": "Secret room in Captain Bell's Cave (Looky Here!)",
+      "deadline": "Before you leave the starting room of Captain Bell's Cave: walk through the shadow wall in its bottom-right corner (the room with the Rabbit Slug). This must be done before the cave is drained and Captain Bell's ship sinks.",
+      "chapter": 5,
+      "fact_ids": ["gf1-34-3", "gf1-34-29", "ra-comments-17-1", "ra-comments-17-2"]
+    },
+    {
+      "achievement_id": 5851,
+      "label": "Eat the Apple (It's Delicious!)",
+      "deadline": "Before the reunion with Dr. J in the Underground Ruins ends Chapter 6. The Apple is inside a staircase on one of the Chapter 6 islands.",
+      "chapter": 6,
+      "fact_ids": ["gf1-38-5", "gf5-17-6", "ra-comments-19-1", "ra-comments-19-2"]
+    },
+    {
+      "achievement_id": 5853,
+      "label": "Secret room in Sumocho Cave (Looky Here Again!)",
+      "deadline": "Before the Statues of Twin Sumocho fight at the end of the Big Rock Tunnel: three steps up the dark hallway before the boss, push through the left wall.",
+      "chapter": 6,
+      "fact_ids": ["ra-comments-22-1", "ra-comments-22-2", "ra-comments-22-3"]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Captain Bell's ship sinks",
+      "chapter": 5,
+      "warning": "Draining Captain Bell's Cave sinks the ship, and Sub-C sails on through the strait. Get the starting-room secret (Looky Here!) before you drain the cave.",
+      "fact_ids": ["gf2-26-20", "gf5-17-1", "gf4-7-33"]
+    },
+    {
+      "label": "Reunion with Dr. J ends Chapter 6",
+      "chapter": 6,
+      "warning": "After the reunion, walking north out of the ruins saves the game and starts Chapter 7. Eat the Apple and find the Sumocho Cave secret room before this.",
+      "fact_ids": ["gf1-45-17", "gf5-22-10"]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Prelude: C-Island and the Island Tunnel",
+      "areas": ["C_Island", "Coralcola_Village", "Yo_Yo", "Island_Tunnel", "C_Serpent"],
+      "achievement_ids": [5826, 5836, 5829],
+      "fact_ids": ["gf4-1-1", "gf-items-3-1", "gf1-7-8", "gf2-8-5", "gf1-63-4", "gf2-42-2", "gf1-3-4", "gf1-10-4", "ra-comments-4-1"],
+      "counters": { "Big Hearts": 0 },
+      "notes": "Island Tunnel (gf1 Dungeon 1-1) has Part A (rooms 1-10) and Part B (rooms 11-18). Route the Part A rooms, then Part B, then the C-Serpent in Room #16 (gf1-9-13). Avoid the Room #14 north opening, which leads to your death (gf1-9-12). Cobra Commander (5836): stand on the centre tile, throw torches when the mouth opens, and jump aside from the fire. Let the Search Begin (5829) unlocks when you board Sub-C at Dr. J's lab, not at the boss kill."
+    },
+    {
+      "n": 2,
+      "title": "Dolphins: Octo's Lair",
+      "areas": ["Dolphin_Island", "Octos_Lair", "Octo"],
+      "achievement_ids": [5830, 5841],
+      "fact_ids": ["gf1-11-3", "gf1-11-5", "gf2-9-3", "gf4-2-29", "gf2-10-2", "gf1-63-8", "gf2-42-7", "gf4-3-3"],
+      "counters": { "Big Hearts": 1 },
+      "notes": "Big Heart #1 (6 hearts): through the rocks on the narrow path near the cave entrance (gf1-11-5, gf2-9-3). Octo's Lair is gf1 Dungeon 2-1, in Parts A-C. Collect the Snowman before the boss (gf2-10-2); freeze Octo with it for 8-Legged Pushover (5841)."
+    },
+    {
+      "n": 3,
+      "title": "Storm and Calm: Miracola, Shecola and the Hermit",
+      "areas": ["Tunnel_to_Miracola", "Miracola_Village", "Magmas_Molten_Tunnel", "Magma", "Shecola_Castle", "Ghost_Village", "Ghost_Tunnel", "Maxie", "Crystal_Ball", "Shooting_Star", "West_Tunnel", "Hermits_Mountain", "Scroll_of_Obob"],
+      "achievement_ids": [5842, 5843, 5844, 5831, 5827, 5832],
+      "fact_ids": ["gf4-3-4", "gf5-7-3", "gf2-12-2", "gf1-17-11", "gf2-14-9", "gf2-42-11", "gf1-20-7", "gf2-15-13", "gf1-20-8", "gf1-20-9", "gf2-15-11", "gf5-10-15", "gf2-43-4", "ra-comments-10-1", "gf2-16-15", "gf3-8-2", "gf1-25-7", "gf1-25-11", "gf1-26-16", "gf2-40-8", "gf5-13-22"],
+      "counters": { "Big Hearts": 1 },
+      "notes": "Dungeons in order: Tunnel to Miracola (3-1), Magma's Molten Tunnel (3-2, Parts A-B), Ghost Tunnel (3-3, Parts A-C), West Tunnel (3-4), Hermit's Mountain (3-5, Parts A-C). Hot Head (5842): Magma cannot be hurt. Dodge his fire while you find and step on the two hidden switches. Big Heart #2 (7 hearts) is in the staircase in the mountains north of Shecola Castle (gf1-20-7, gf2-15-13). Maxie: Bolas from the bottom of the room. Missable 5844: in the room right after Maxie, use the Rod of Sight and kill the corner Minie before you drain the lake. Crystal Ball, then the Fortune Teller, then Queen SheCola's Shooting Star (5827). The Hermit's Scroll of Obob wakes Bananette (5832), and the villagers then repair Sub-C."
+    },
+    {
+      "n": 4,
+      "title": "Confession: Inside the Whale",
+      "areas": ["Tunacola_Village", "Inside_the_Whale", "Lighter"],
+      "achievement_ids": [5833, 5834],
+      "fact_ids": ["gf2-21-1", "gf3-34-1", "gf5-14-11", "gf3-34-3", "gf1-31-31", "gf1-31-32", "gf1-31-34", "gf4-6-18"],
+      "counters": { "Big Hearts": 0 },
+      "notes": "Sail east of Tunacola and a whale swallows Sub-C (5833). Inside, find Baboo and the Lighter, then build the fire so the whale sneezes you out. Enter frequency 747 in Sub-C (5834)."
+    },
+    {
+      "n": 5,
+      "title": "Captain Bell: The Strait",
+      "areas": ["Bellcola_Village", "Worm", "Captain_Bells_Memorial", "Captain_Bells_Cave"],
+      "achievement_ids": [5837, 5854, 5835],
+      "fact_ids": ["gf1-32-1", "gf1-32-11", "gf1-32-15", "gf2-24-5", "gf1-33-2", "gf2-24-6", "gf1-33-11", "gf2-24-8", "gf1-34-3", "gf1-34-29", "gf2-26-20"],
+      "counters": { "Big Hearts": 1 },
+      "notes": "The fisherman in the lone hut gives the Worm. Give it to Peter (5837) to learn Do Mi So Fa Do Mi, and play it on the Memorial organ (keys 1, 3, 5, 4, 1, 3). Big Heart #3 (9 hearts) is behind the false wall in the Memorial's lower room (gf1-33-11, gf2-24-8). This is NOT the Looky Here! room. Captain Bell's Cave (gf1 Dungeon 5-1, Parts A-C): Looky Here! (5854) is the shadow wall in the bottom-right of the STARTING room. The cave has no boss. Jumping on the final tile drains it and sinks the ship (5835)."
+    },
+    {
+      "n": 6,
+      "title": "Reunion: The Lost Ruins and the Big Rock Tunnel",
+      "areas": ["Chapter_6_Islands", "Apple", "Sanctuary", "Lost_Ruins", "Giant_Turboss", "Broken_Joe", "Underground_Ruins", "Big_Rock_Tunnel", "Hoodoo_Dolls", "Twin_Sumocho"],
+      "achievement_ids": [5851, 5838, 5845, 5853, 5846, 5840],
+      "fact_ids": ["gf1-38-5", "gf1-38-17", "gf2-27-2", "gf5-17-8", "gf1-39-3", "gf1-39-5", "gf2-28-4", "gf3-37-12", "gf1-41-11", "gf2-29-1", "gf1-41-19", "ra-comments-22-1", "gf2-43-14", "ra-comments-23-1", "gf1-45-11", "gf1-45-17"],
+      "counters": { "Big Hearts": 2 },
+      "notes": "Follow Nav-Com's coordinates between the islands. Missable Apple (5851) is in the first island staircase. Big Heart #4 (12 hearts) is on another island staircase (gf1-38-17, gf2-27-2). Dive at the spot where the signal stops, then go through the dark tunnel to the sanctuary and ruins (Marco, 5838). Lost Ruins (gf1 Dungeon 6-1, Parts A-B): Giant Turboss, the Anklet, then Broken Joe. Throw Baseballs into his open mouth for 5845. In the Underground Ruins, Big Heart #5 (13 hearts) is down the staircase past the lake (gf1-41-11, gf3-38-1). Big Rock Tunnel (gf1 Dungeon 6-2, Parts A-D): Hoodoo Dolls, then the missable Sumocho Cave secret room (5853) in the dark hallway before the boss, then the Twin Sumocho fight with split Asterisks (5846 unlocks when you leave the room). The reunion with Dr. J is Polo! (5840)."
+    },
+    {
+      "n": 7,
+      "title": "Alien Spaceship: The First and Second Magic Cubes",
+      "areas": ["Alien_Spaceship_1", "Jet_Pack_Jumpers", "Magic_Cube_1", "Alien_Spaceship_2", "Brown_Jet_Jumper", "Ostroid", "Magic_Cube_2"],
+      "achievement_ids": [5847, 5828, 5848, 5849],
+      "fact_ids": ["gf5-23-1", "gf2-32-2", "gf2-32-7", "gf1-64-17", "gf2-43-19", "gf2-32-8", "gf1-48-11", "gf5-26-8", "gf2-44-3", "ra-comments-27-6", "gf1-53-1", "gf1-53-6"],
+      "counters": { "Big Hearts": 0 },
+      "notes": "Alien Spaceship part 1 (gf1 Dungeon 7-1): use the Warp tiles. For Air Acrobatics (5847), save the Spikes / Power Skates for the Jet-Pack Jumpers. The first Magic Cube turns the Shooting Star into the Super Nova (5828), which needs 11+ hearts. Part 2 (gf1 Dungeon 7-2, Parts A-C): the Brown Jet Jumper, then Ostroid (5848). Ostroid can't be damaged directly: shoot him back until he falls into the pit. The maze leads to the second Magic Cube (5849), and the ship then takes off."
+    },
+    {
+      "n": 8,
+      "title": "Final Battle: Zoda",
+      "areas": ["Final_Battle", "Zoda", "Zodas_Revenge"],
+      "achievement_ids": [5850, 5839],
+      "fact_ids": ["gf1-54-2", "gf2-35-1", "gf2-44-7", "gf4-11-17", "ra-comments-29-9", "ra-comments-29-2", "gf2-44-13", "ra-comments-1-6", "gf1-56-25", "gf1-57-1"],
+      "counters": { "Big Hearts": 0 },
+      "notes": "Final dungeon (gf1 Dungeon 8-1): Zoda's image/head form, the Main Engine core, then Zoda's final form (RA: Zoda Prime). For Galactic Domination (5850), get the Super Laser from the wall that opens after you clear the spacemen pit, and stand one square diagonal to Zoda. After the final hit do NOT touch or hit Zoda. Let the ending play out for The End (5839)."
+    }
+  ],
+  "unverifiable_achievement_ids": []
+}

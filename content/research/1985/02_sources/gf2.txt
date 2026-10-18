@@ -1,0 +1,2877 @@
+         #
+     #####
+    ######
+   ###   #
+   ###    ######## ###   ########
+   ###    ######## ###    ########
+    ###   #  ##  # ###    ##    ###
+     ###     ##   ## ##   ##    ###
+      ###    ##   ## ##   ##   ###
+       ###   ##   ## ##   #######
+       ###   ##  ##   ##  ##  ##
+   #   ###   ##  #######  ##   ##
+   ######    ##  ##   ##  ##    ##
+   #####    #######   ######    ###
+
+###########
+###########
+##  ###  ##
+#   ###   #
+    ### ########     #####  ########  ####  #####    ###
+    ###  ########   #######  ########  ##  #######  #####
+    ###  ##    ###  ##   ##  ##    ### ##  ##    # ##   #
+    ###  ##    ### ##     ## ##    ### ## ##       ##
+    ###  ##   ###  ##     ## ##   ###  ## ##        ##
+    ###  #######   ##     ## #######   ## ##         ##
+    ###  ##  ##    ##     ## ##        ## ##          ##
+    ###  ##   ##    ##   ##  ##        ##  ##    # #   ##
+    ###  ##    ##   #######  ##        ##  ####### ######
+  #########    ###   #####  ####      ####  #####   ####
+
+StarTropics Walkthrough
+Created by: Phil Henry (Philby15@hotmail.com)
+
+Aug. 25, 2004
+
+Version 1.3
+(c) Phil Henry 2004
+This walkthrough is not to be reproduced or published elsewhere unless
+permission is granted by the author.
+
+Contents:
+*********************************
+0: Update Versions
+1: Basic Elements
+  1a: Intro to StarTropics
+  1b: Controls/Gameplay
+  1c: Major Characters
+2: Walkthrough
+  2a: Prelude
+     2a-a: The Test of Island Courage
+  2b: Dolphins
+     2b-a: Octo's Cave
+  2c: Storm and Calm
+     2c-a: Tunnel to MiraCola
+     2c-b: Magma's Molten Tunnel
+     2c-c: The Ghost Tunnel
+     2c-d: The West Tunnel
+     2c-e: The Hermit's Mountain
+  2d: Confession
+     2d-a: Inside the Belly of a Whale
+  2e: Captain Bell
+     2e-a: Captain Bell's Cave
+  2f: Reunion
+     2f-a: Lost Ruins
+     2f-b: Big Rock Tunnel
+  2g: Alien Spaceship
+     2g-a: Inside The Alien Ship
+     2g-b: The Second Cube
+  2h: Final Battle
+     2h-a: The Core and Zoda
+3: Lists
+  3a: Weapons
+  3b: Items
+     3b-a: Dungeon Items
+     3b-b: Key Items
+  3c: Enemies
+  3d: Bosses and Strategies
+4: Other
+  4a: FAQ
+  4b: Legal Stuff
+  4c: Closing
+**********************************
+
+0: Update Versions
+**********************************
+
+Version 1.3 (8/25/04)
+-Completed Enemies Section.
+-Completed Boss Section
+
+Version 1.2 (10/23/03)
+-Added enemies from Chapter 1.
+-Added C-Serpent to Boss List.
+
+Version 1.1 (9/17/03)
+-Changed the order of the lists. (3)
+-Completed Weapons Section.
+-Completed Items Section.
+-Fixed some spelling errors.
+
+Version 1.0 (9/15/03)
+-Completed the last 4 chapters.
+-Walkthrough Section basically finished.
+
+Version 0.5 (9/11/03)
+-First Update!
+-First 4 chapters complete.
+
+
+
+1: Basic Elements
+**********************************
+
+  1a: Intro to StarTropics
+  ********************************
+
+    StarTropics was released in 1990 for play on the Nintendo
+Entertainment System (NES). It is an Action/Adventure game with
+many RPG elements. StarTropics was overlooked by gamers because
+of hyped games like Super Mario Bros. 3 and Mega Man 3, but those
+who have played it know it to be a game of challenge and fun.
+
+   You are Mike, a young boy from Seattle, Washington. You are
+invited to C-Island to visit your uncle, Doctor Jones, who is a
+very famous archeaologist. After arriving on the island via
+helicopter, Mike finds that Dr. J. has been abducted. This was,
+no doubt, done by one who wanted the secret of a strange rock
+that Dr. J. recently found. The village of Coralcola entrusts
+Mike, equipped with only a Yo-yo, with the task of finding
+Dr. J. Mike must now fight his way through countless dungeons
+with evil monsters and pitfalls.
+
+
+   Excerpt from manual:
+
+   Hi. My name is Michael Jones, but my friends call me Mike. I'm
+fifteen years old and I live in Seattle Washington.
+
+   Have you heard of my Uncle Steve? Well, most people don't call
+him that, they call him Dr. Jones. He is a very famous archeologist
+who is looking for some lost ruins in the Coral Seas. I've never
+actually met him, but last week I recieved a letter from him
+inviting me to stay with him at his laboratory on C-Island.
+
+   I leave tomorrow on a helicopter! I bet I won't be able to sleep
+at all tonight. Well, goodnight.
+
+
+  1b: Controls/Gameplay
+  ********************************
+
+   StarTropics has two styles of gameplay. In this guide I will refer
+to them as Overhead and Dungeon.
+
+   Overhead Mode is where all of the story sequences take place.
+The control is extremely similar to Dragon Warrior. Your character
+will usually traverse towns in this mode, where you can talk to
+inhabitants and learn information about your quest and earn valuable
+weapons. No fighting takes place in the Overhead Mode so you can't
+lose health. You usually travel on land by foot to and from dungeons
+and villages, but sometimes, you're forced to go by sea using your
+submarine, Sub-C.
+
+   Dungeon Mode is the exciting part of the game. All fighting is
+held in this mode. Your character is much bigger in this mode and
+moves around a little differently. Turning requires a wait of about
+.5 seconds, which can be annoying, but you get used to it. Your goal
+in a Dungeon is to find your way out by finding the exit or defeating
+a Boss Enemy. To do this, you must find your way through a series of
+rooms. To advance to the next room, you must either find the exit,
+defeat some or all of the enemies in that room or find a switch that
+opens the door. To find a switch, jump on the green colored tiles to
+discover a button. Jump on the button to open doors or treasure chests.
+On to the controls.
+
+  Controls in Overhead Mode:
+
+  Directional Buttons: Move Mike or Sub-C around the area.
+  A Button: Talk to villagers or inspect objects.
+  B Button: Submerge Sub-C (Must have ID Code).
+  Select: Checks Health, Chapter, and current Weapon.
+  Start: Nothing.
+
+  Controls in Dungeon Mode:
+
+  Directional Buttons: Move Mike around the area. While Paused, moves
+                       selection cursor.
+  A Button: Jump.
+  B Button: Attack with Selected Weapon.
+  Select: Changes Current Main Weapon.
+  Start: Pauses game (By pressing Down while Paused, You can select
+          Magic and Items found in the Dungeon. Press the B Button to
+          use the selected Magic or Item).
+
+  1c: Major Characters
+  ********************************
+
+
+  Mike Jones:
+    Mike Jones is a 15 year old boy from Seattle. He's also the main
+    character of StarTropics. You, as the player, must guide Mike
+    through countless dungeons to save his abducted uncle.
+  Dr. Steve Jones:
+    Mike's uncle who is a famous archeaologist from the Coral Seas.
+    According to CoralCola's Chief, he has been abducted because of
+    his knowledge of a recent discovery.
+  CoralCola's Shaman:
+    The Shaman of the Coral seas who guides Mike when things are going
+    badly. She believes that the Southern Cross is the key to rescuing
+    Dr. Jones.
+  Baboo:
+    Dr. Jones' young assistant. He seems to be hiding something about
+    the recent abduction.
+  Nav-Com:
+    The pilot and computer of Sub-C. Looks like the robot that came
+    with the Nintendo.
+  The Fortune Teller:
+    With the help of her Crystal Ball, the Fortune Teller helps you
+    get into the Castle of SheCola.
+  Queen SheCola:
+    Her name says it all. She gives you your second weapon, the
+    Shooting Star.
+  Hermit:
+    The Hermit who gives you the Scroll of Obob.
+  Peter:
+    The Parrot of BellCola who gives you a hint on how to get into
+    Captain Bell's Cave.
+  Zoda:
+    The Prime Invader, as he calls himself. His reasonings for
+    abducting Dr. Jones is known only to himself, and the Doctor.
+
+
+
+
+2: Walkthrough
+**********************************
+
+  2a: Chapter 1; Prelude
+  ********************************
+
+	One day in summer,
+       you land at C-Island
+       where Dr. Jones has
+          his laboratory
+
+
+   You start out on the Heli-pad on the edge of C-Island. Head directly
+to the left until you see a few small buildings. This is the first town,
+CoralCola. Talk to the natives to learn about Coralcola, your uncle, Dr.
+J. and about the Southern Cross. On the north side of town, you'll
+notice someone blocking a house. Talking to him will only result in you
+getting the brush off. He won't let you pass until you talk to every
+single villager, so, do so.
+
+  After speaking with everyone, head into the big hut on the western
+side of the village. This is the hut of Coralcola's Chief. Talk to him
+to learn about your uncle's sudden disappearance. He leaves it up to
+you to find Dr. J. and bring him back to CoralCola. To aid you on your
+journey, the Chief gives you your first weapon; The Island Yoyo! Despite
+it's toyish appearance, the Yoyo is a very powerful tool and will be
+your primary weapon until half-way through Chapter 3.
+
+  With the information and Yoyo in hand, head back to the guy who wouldn't
+let you pass. For some reason, he recognizes you as Dr. J.'s nephew and
+allows you to go. Head inside and you will see a staircase leading down.
+Inside, you will meet the Chief's sister, the Shaman. She tells you that
+Dr. J. was abducted because of his knowledge. She also tells you that the
+Southern Cross is with you. With that, she wishes you good luck and you
+start the first Dungeon.
+
+  2a-a: The Test of Island Courage
+  ********************************
+
+  Here we go, the first level. Very easy, very straight forward. Enemies
+here are the easiest ones you'll see in the game. The Boss isn't very hard
+either. The only thing that might trouble you is the One Room of Death.
+The room directly above the two rooms with Medicine is a Death Room. You
+step in it, you die. Try not to go in there, OK?
+  With each dungeon, I will map out the floors using my wonderful ascii
+art talent, and I will provide two walkthroughs for each tunnel. The
+quick run is for players who want little information about the actual
+rooms or if they are stuck on something and want a quick answer. The
+in-depth run covers every room of the tunnel, what to do, and strategies
+for tough locations. Read which ever you feel you need.
+
+New Enemies: Jelly, Rattus, Nocto, Looper.
+New Obstacles: Tiles, Switches, Dead-Ends, Death Room, Treasure Chests.
+New Items/Weapons: Torch, Medicine.
+Boss: C-Serpent
+
+
+                ***
+                *E*                   S=Start
+                ***                   E=End
+                 |                    B=Boss
+                ***                   M=Medicine
+                * *                   T=Torch
+                ***                   D=Death Room (Bad)
+                 |
+                ***     ***
+                *B*     *D*
+                ***     ***
+                 |       |
+                ***     ***
+                * *     *M*
+                ***     ***
+                 |       |
+                ******* ***
+                *T    *-*M*
+                ******* ***
+                 |
+                ***
+                * *
+                ***
+                 |
+                ***
+                *T*
+                ***
+                 |
+            *** *** ***
+            * *-* *-* *
+            *** *** ***
+                 |
+                ***
+                * *
+                ***
+                 |
+                *******
+                *     *
+                *******
+                 |
+                ***
+                * *
+                ***
+                 |
+                ***
+                * *
+                ***
+                 |
+                ***
+                * *
+                ***
+                 |
+                ***
+                *S*
+                ***
+  Quick Run:
+    Go up until the intersection. Ignore the left an right exits and
+  find the Switch to keep moving up. Collect the torch. Don't
+  bother collecting the Medicine, unless you really suck, you won't
+  need it. Continue up after collecting some more torchs. Go up
+  one more room and you'll encounter the Boss.
+
+  In-Depth Run:
+    In the starting room, walk around to get used to the controls. You'll
+  notice that you move in a square grid fashion. After you're confident
+  enough, head up. This first room has three Jellies. Dispose of them to
+  open up the door to the next room. This room has six Jellies, and you
+  need to kill them all to open the door. Alright, first room with a
+  switch. See the tile that one of the Jellies is stuck on? There's the
+  Activation Switch. Kill the Jelly and step on the tile to find the
+  switch. Kill the Rattus and continue on. This room is the length of two
+  rooms. Head to the right while destroying the Rattus' and jump through
+  the series of tiles to reach the switch and open the door. The next room
+  is similar to an earlier room, but has two Jellies and three Rattus'.
+  Take care of them to open the door.
+
+    This room can be confusing. There are two doors, one to the left and
+  one to the right. Ignore them both or you'll have to fight your way back
+  from a room full of Noctos. Make your way to the top, killing all the
+  Jellies on the way and ignoring the switches, and jump on the leftern
+  most tile on the top row. Open the door and continue. In this room are
+  two Rattus' and two Noctos. You must kill the Rattus' before the door
+  opens. This hallway has two switches. One to open the Treasure Chest
+  that holds 25 torchs and one to open up the door.
+
+    This room is a two room lengthed room with two doors, one of which is
+  hidden. Kill the Jelly and the two Loopers and jump on the tiles near
+  the door. You'll uncover three switches. They open the Treasure Chest
+  and the two doors. Collect the 25 torchs and go back to the long
+  hallway where one of the Loopers were and you'll find a door going to
+  the right. In there, you'll find a bottle of Medicine. Step on the tiles
+  to find a switch to a door above and, in there, you'll find another
+  bottle of Medicine. There's another switch here, but it leads to a room
+  full of water and you'll die if you go in there, so don't. Never. Ever.
+
+    Trek back to the original path and go up another room. You'll find 3
+  Noctos and 2 Loopers. Dispose of them all to unlock the last door.
+  Continue in to fight your first Boss: The C-Serpent. If you're having
+  trouble with him, refer to my Boss Strategies section. After killing the
+  C-Serpent, continue upwards twice to exit the first stage.
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to C-Island
+
+  You are now able to explore the rest of C-Island, but since there's not
+much to explore.... go to Dr. Jones' Laboratory. Blocking the way is Dr.
+J.'s assistance, Baboo. He gives you the ID code for Sub-C, 1492. He
+refrains from telling you more, because he is afraid of something that he
+won't talk about. Anyway, that's not our concern, now, so head into the
+Lab to meet Nav-Com, the main computer of the Sub-C. Give him the ID Code
+and you will sail away from C-Island and conclude the first Chapter!
+
+
+
+ 2b: Chapter 2; Dolphins
+  ********************************
+
+       After a few hours voyage,
+       Sub-C is still cruising
+            on the ocean....
+
+  Like it says up there, you're still cruising along on the ocean, when
+a dolphin approaches our hero. Nav-Com translates her squeals and you
+discover that she has lost her son. Agree to help in order to continue.
+Keep going to the right to find an island with a light-house. Drive Sub-C
+into the tunnel and dock to visit the light-house. The man inside doesn't
+know anything about the dolphin but he suggests that you see his wife.
+Board Sub-C and wait..... you'll see a bit of bubbling at the bottom right
+corner of the little area you're in. This means that there is a tunnel.
+Push against the wall and you'll go through it. Continue to do this until
+you can dock and head to the tiny house. Don't worry about the little
+squiggly lines in the water, we'll talk about that later. Inside the hut
+is the Lighthouse keeper's wife. She says she saw a bottle on the nearby
+beach, so that's where you should go next. You should be able to see it
+from her house. Circle around the house and mountains to the neighboring
+beach. There is a hidden passage in the mountains if you hold to the left
+on the top square. Follow the path to the bottle and read it. It's from
+Dr. J.!
+
+  He says that he's been captured by evil aliens and that he wants his
+nephew to use the ID Code, 1776. Go back to Sub-C and give this code to
+Navcom. He inputs the code and you are now able to submerge with the Sub-C
+using the B button. By the way, those squiggly lines are dive areas. By
+diving on them, you can travel underwater to another area, so do that.
+You'll be able to dock at the top of the island where you see a cave, but
+before entering, do you see the Big Heart? You do? Good. There is another
+hidden passage in the mountains right next to the Heart. Grab the Heart
+and your life level will increase. You should now have a maximum of 6
+hearts. You are now done with the overhead map of this island, so enter
+the cave which will lead you to....
+
+  2b-a: Octo's Cave
+  ********************************
+
+  OK, your second cave. Not too hard, no need to panic. Enemies are harder
+here, though. They're faster and hit harder, so be careful. You have a
+bigger chance of jumping into the water accidentally here, so watch where
+you're jumping. The boss is actually easier than the first one if you
+handle it right. Lastly, this level is the first to introduce Submerging
+Tiles. Some tiles will submerge every other second and then come back.
+Watch your timing with these ones.
+
+New Enemies: Mud-O-Fish, Spinistar, Octot, Puff.
+New Obstacles: Sinking Tiles, Hidden Wall Passages.
+New Items/Weapons: Baseball Bat, Snowman Doll
+Boss: Octo the Octopus.
+
+
+        ***           S=Start
+        *B*           B=Boss & End
+        ***           M=Medicine
+         |            b=Baseball Bat
+        ***           s=Snowman Doll
+        * *           --=Secret Wall Passage
+        ***
+         |
+ *** ******
+ * *-* ** *
+ *** ******
+  |   |  |
+ *** ******
+ *M*-* --s*
+ *** ******
+      |
+     ***
+     * *
+     ***
+      |
+     ***
+     * *
+     ***
+      |
+     ******
+     *    *
+     ******
+         |
+        ***
+        * *
+        ***
+         |
+     ******
+     *b-- *
+     ******
+         |
+        ******
+        *    *
+        ******
+            |
+           *** ****** ******
+           * *-*    *-*    *
+           *** ****** ******
+                          |
+                      ******
+                      *   b*
+                      ******
+                       |
+                      ***
+                      *S*
+                      ***
+  Quick Run:
+    Go up, collect the Bat. Don't equip it, it's not as good as the
+  Yo-Yo. Keeping following the path until you reach the second room
+  with a Bat. This room has a few secret passages in the wall. Push
+  against the wall in places where there is a large shadow. Continue
+  with the path until you reach a room with 4 Spinistars. This should
+  be the 2nd room yo've seen like this. Unlike the first one, however,
+  this room has a secret passage on the right wall. If you feel like
+  you might not be able to make it without some extra help, keep
+  following the obvious route to some Medicine, then go through the
+  passage. Collect the Snowman Doll and continue upward until you meet
+  Octo.
+
+  In-Depth Run
+    From the starting room, head up to wide open area full of water.
+  Continue on the path of grass and, about half way, a Mud-O-Fish will
+  jump out from the water at the end and head towards you. 2 Hits from
+  your Yo-Yo is more than enough for these guys. Cross another pathway
+  and collect the Baseball Bat. You only get 30 swings with it, though.
+  (For some reason, it breaks after that...) In the next room, don't
+  bother killing the Noctos, they don't cause much harm. Be careful when
+  jumping across the sinking tile, and then destroy the Looper and
+  continue. This long room is only a few more long pathways of land and
+  some Mud-O-Fish. Take them out. Kill the 3 Noctos in the next room to
+  open the door upward and go in it. Watch the Spinistar's movements and
+  destroy it with two hits from your Yo-Yo or one hit from your Bat. This
+  room is a series of tiles with a lot of Octots jumping back and forth
+  on them. Kill any Octots that get in your way, making sure not to fall
+  into the water or the sinking tile, and find the switch and continue
+  through the door.
+
+    This long horizontal room looks a bit bizarre at first because of its
+  lack of space. Kill the three Loopers that get in your way and go to
+  the left of the room. You'll notice that a part of the wall has an extra
+  shadow. Push against it and you'll walk through the wall into the little
+  secluded room. Kill the Nocto and collect the hearts and Bat and find
+  the switch. Continue through another secret passage leading to another
+  little room and hit the switch and leave. In this room, hurry and walk
+  to the center of the Spinistars and equip the Bat and take a swing. You
+  should be able to take them all out in one swing. If not, wait until
+  they slow down and pick them off with your Yo-Yo. Go through the door.
+
+    To open the door in this room, destroy all four of the Octrots around
+  the tiles while avoiding the shots from Puff. This next hallway contains
+  two hearts and a switch. Move on. Though there are 5 Noctos in this
+  room, you only need to destory the one on your immediate left to open
+  the soor. Ignore the others and continue up. This next room is similar
+  to one you've seen previously. Attack all the Spinistars with your Bat,
+  continue up. (If you don't want the Medicine and want to just finish the
+  stage, skip to the next paragraph. If not, then read on) This room is
+  empty, so head to the left, kill the Loopers and the Noctos and go down.
+  Collect the Medicine and find a switch that opens a door that leads you
+  back to the room with the Spinistars!
+
+    To continue on with the level, kill the Spinistars if you haven't done
+  so already and find the part of the wall that is darkened and push
+  against it. On the other side of the hidden passage is a switch and the
+  elusive Snowman Doll. You can only use it twice, so save it for the Boss.
+  Destroy the Octots and go up to the last room before the Boss. Hey! It's
+  the baby dolphin! Grr.... Who put it in that little cage? To find out, kill
+  the single Octot and go up to meet Octo the Octopus! If you're having
+  difficulty with Octo, refer to my Boss Strategy Section. After defeating
+  Octo, the dolphin baby will be free and you will be teleported outside
+  the cave.
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to the Island
+
+  Head back to the dock and board Sub-C and you'll meet the baby Dolphin
+and his mother. She thanks you for saving her child and, in return, shows
+you the way past the rocks. With a final squeal they wish you luck and
+Sub-C sails away to Chapter 3!
+
+
+
+ 2c: Chapter 3; Storm and Calm
+  ********************************
+
+        Suddenly it gets dark
+       and stormy on the ocean.
+        The sea tosses Sub-C....
+
+
+  You awaken to find that Sub-C has been knocked over into the rocks and
+is in need of repair. Since you can't do anything with it yet, explore
+a bit of the island. On your way, visit the hut to drink some coconut
+milk that recovers all of your hearts. Keep walking eastward to find a
+cave that leads to a town. It's only a short cave, but I'll still map
+it for you.
+
+  2c-a: Tunnel to MiraCola
+  ********************************
+
+  I think this is the shortest cave in StarTropics. It only takes about 5
+minutes to complete but there is a catch. There are two exits at the end
+of the tunnel, one that leads to the town of MiraCola, and the other leads
+back outside of the cave next to the entrance. You'll meet some tougher,
+quicker enemies here, but you will also get to use a powerful weapon.
+
+New Enemies: Dodo, Ninja Monkey, Boneheads
+New Obstacles: Sinking Tile Path, Alternate Exit, Dark Rooms, Light Switch
+New Items/Weapons: Bola
+Boss: None
+
+
+      ***
+      *E*                   S=Start
+      ***                   E=End
+       |                    e=Wrong End
+  *** *** ***               D=Dark Room
+  *e*-*D*-* *               B=Bola
+  *** *** ***
+           |
+          ***
+          * *
+          ***
+           |
+          ***
+          *B*
+          ***
+           |
+          ***
+          * *
+          ***
+           |
+          ***
+          * *
+          ***
+           |
+          ***
+          *B*
+          ***
+           |
+          ***
+          * *
+          ***
+           |
+          ***
+          *S*
+          ***
+
+  Quick Run:
+    Go up two rooms to get the Bola. Take out the Ninja Monkeys with the
+  Bolas and continue up. Get some more Bolas and continue to the Dark
+  Room. Find the Light Switch and go up to the exit.
+
+  In-Depth Run:
+    Go up one room and destroy the three Dodos. Be careful, their movement
+  is very erratic. Continue up and destroy the two Dodos (stand on the
+  tile and they can't get to you.) and find the switch for the Treasure
+  Chest on the little island. You will get 40 Bolas. Equip them for the
+  next room and continue. Dispatch the 4 swift Ninja Monkeys with your
+  Bolas as quickly as you can. When they're destroyed, the door will open
+  to a room with 6 Ninja Monkeys. Again, try to kill as many as possible
+  without moving from the entrance to ensure your safety. In the next room,
+  don't open the Treasure Chest. First, kill the Looper when he tries to
+  attack you through the chest, then open it. Grab the 40 Bolas and jump
+  when the 2 Loopers attack. Continue up one square, turn around, and hit
+  them when they return. Continue up.
+
+    These types of rooms are my favorite. It's a path of sinking tiles
+  that you must jump across quickly. If you don't think you can make it in
+  one run, jump to one of the side tiles to rest, and to collect some
+  hearts. In the next room, stay where you are and take care of the Dodos
+  before moving. When they're gone, move out and hit the Boneheads 5 times
+  with your Bola to open the door.
+
+    This next room is a Dark Room. It is completely black until you step
+  on the Light Switch. Just follow my directions. Step two squares left and
+  jump one square up to activate the lights. Jump upwards once more to find
+  the switch to the Northern room. Go there instead of the Western room.
+  The room on the left will take you directly outside of the cave, back on
+  to the path to the entrance. So, don't go this way or you'll have to do
+  the whole cave over again, not that it's very difficult... Anyway, go up
+  to the Exit and finish the cave. Right, no boss!
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to MiraCola Island
+
+    Follow the short path to enter the village of MiraCola. Once inside,
+you'll notice a large grass hut to the right. Circle around it and the
+small forest while talking to everyone. On the way there, stop to drink
+some coconut milk to restore your hearts. Cross the bridge and talk to
+the guard in front of the hut. If he won't let you in, then you must
+speak with all of the villagers. Inside the hut, the chief of MiraCola
+will tell you the story of how his daughter bananette fell into a deep,
+never-ending sleep. He informs you of a hermit living on the northern
+side of the mountain who might be able to help. He alse tells you that
+he will repair the Sub-C if you help him. You don't have much of a
+choice so agree to help him out. If you want, stop by Bananette's room
+to see how she's doing. When you're ready, leave MiraCola using the exit
+on the eastern side of the village.
+
+    The road north is long and full of dangerous dungeons. After a short
+walk, you come across the second dungeon of Chapter 3.
+
+
+  2c-b: Magma's Molten Tunnel
+  ********************************
+
+   A lot longer and tougher than the previous dungeon, but not overly
+difficult. The cave starts like a usual cave, but then enters a hellish
+pit with fire and lava. The hardest part of this stage is not in the
+stage itself, but actually in defeating Magma The Fierce. The Items
+you will find are useful, but the Sling Shot is useless.
+
+New Enemies: Gadfly, Mad Muddy
+New Obstacles: Volcanoes
+New Items/Weapons: Stop/Slow Watch, Try-Your-Luck Sign, Sling Shot
+Boss: Magma The Fierce
+
+
+  ***             ***            *** ***      ***
+  *1*             *1*            *B*-*2*      *2*
+  ***             ***            *** ***      ***
+   |                              |            S=Start
+  ***                            ***           E=End
+  * *                            * *      ***  B=Boss
+  ***                            ***      *E*  M=Medicine
+   |                              |       ***  D=Dark Room
+  *** ****** ***                 ***       |   s=Sling Shot
+  * *-*sb D*-* *                 * *      ***  W=Stop/Slow Watch
+  *** ****** ***                 * *      *2*  T=Try-Your-Luck Sign
+       |      |                  * *      ***  b=Baseball Bat
+      ***    ***                 *o*           o=Bola
+      *M*    * *                 ***           1=Staircase
+      ***    ***                  |            2=Staircase
+              |               ******
+             ***              *    *
+             *S*              ******
+             ***               |
+                              ***
+                              *W*
+                              ***
+                               |
+                          *** ***
+                          *1*-*T*
+                          *** ***
+
+  Quick Run:
+    Follow the path until the dark room. Take the third path with
+  the looper. Jump down to a secret room with some medicine. Acquire
+  the Sling Shot and Baseball Bat and continue until you reach a
+  staircase. Follow the stairs and grab the T-Y-L Sign. Continue up
+  and take the right path of tiles north to Magma the Fierce. Defeat
+  him and climb the stairs to the exit.
+
+
+  In-Depth Run:
+    In the first room, there are two rows of three Loopers. They will
+  charge at you if you walk in there line of site so the best thing to
+  do is to walk in the middle, jump over as they rush at you, and
+  repeat until you reach the top of the room. Take the two Bone Heads
+  down with five swings of your Yo-yo and continue to the left. In
+  this dark room, dispatch the Looper and walk as far as you can to the
+  left. Walk to spaces down, turn left, kill the Looper and jump across
+  the pit. Carefully destroy the three Loopers and walk up to the same
+  row as the Octot and watch his movement. Mime him on the times and
+  light the room. Grab the Baseball Bat and the useless Sling Shot and
+  ignore the exit for now. Continue south to receive a bottle of Medicine.
+  Walk back and take the left exit. Don't equip eaither weapon, they're
+  just not as good as the Yo-Yo.
+
+    In this next room, you will meet three Gadflies. These enemies fly
+  in a diagonal pattern and then stop to rest for a second. Attack them
+  at that moment. After defeating them, uncover the switch at the
+  bottem-left hand corner of the room and continue upwards. With luck,
+  you will be able to clear this trail of sinking tiles in one try. If
+  you're low on hearts, step on the left block to get a pair of hearts.
+  Continue up to a room with some stairs. Descend them to another room
+  with stairs. Descend them as well.
+
+    Continue to the right and enter a room with four volcanoes. These
+  volcanoes will shoot four fireballs every five seconds. They move
+  very slow, so dodging them isn't a problem. If you feel lucky, grab
+  the sign in the corner. The T-Y-L sign will either give you a life,
+  give you two lives, or take one away! It's up to you whether you take
+  it or not, but I suggest that you do. Hit the tile next to the sign
+  to reveal the switch and enter the next room. This room has three
+  Gadflies. Jump three tiles to the left to uncover a Stop/Slow Watch.
+  This watch will either slow the enemies or stop them completely. this
+  will help in eliminating the three Gadflies.
+
+    In the next room, you will encounter Mad Muddy for the first time.
+  He will randomly pop up out of the lava to shoot two fire balls at
+  you. Don't take the time to attack Mad Muddy, his fire balls are
+  easy to dodge. Jump on the far right tile to access the switch to
+  the next room. This room has two paths of tiles. If you are low on
+  health, take the left path to some hearts, if not, take the right
+  path. Don't bother tracing your steps to get the Bolas, there aren't
+  any more enemies to use them against after this room. In the last
+  part of this long vertical room is another sinking tile path. Clear
+  it and enter the last room before the boss. There's nothing important
+  in this room, so continue upwards to fight Magma The Fierce. If you're
+  having difficulty with Magma, refer to my Boss Strategy Section.
+
+    After defeating Magma, leave to the right and follow the stairs to
+  the exit!
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to MiraCola Island
+
+
+  Continue north until your path is divided between a beach and a castle.
+Enter the castle. This is SheCola Castle, the biggest feminist rally of
+any NES game! Seeing how you are a lowly man, the guard refuses to grant
+you passage into their fort. Talk to the old man around the corner to
+learn of a fortune teller. Circle around the castle walls to find the
+Forune Teller's Camp. The Fortune Teller tells you that she can't help
+you because she dropped her crystal ball in the lake at Ghost Village.
+Now, why would the old Fortune Teller wander out to a place called
+Ghost Village? In any case, you are forced to travel to Ghost Village
+to recover her lost crystal ball. Exit the castle and walk north through
+the mountain range, taking the staircase for a Big Heart. You should now
+have seven hearts in all. Continue through the mountain range and across
+the tiny trail of land to a lone house. This is Ghost Village.
+
+Inside Ghost Village, travel to the north eastern field of gravestones.
+You'll notice that one gravestone is a different color than all of the
+others. Walk into it to enter the next dungeon, The Ghost Tunnel.
+
+
+  2c-c: The Ghost Tunnel
+  ********************************
+
+   This is probably the hardest tunnel in Chapter 3, so be prepared.
+Being a ghost tunnel, all of the enemies are undead. One enemy,
+however, is a ghost called Minie. Minies are invisible and will harm
+you unless you use The Rod of Sight. The Rod allows Mike to see where
+there are ghosts in the room. As with the first tunnel of Chapter 3,
+this dungeon has multiple false exits. I will tell you where they are,
+just don't enter the rooms with them, or you will be forced to exit.
+
+New Enemies: Bonedog, Skull, Minie, Muumu, Mr. Armstrong, Dimhag
+New Obstacles: Invisible Enemies,
+New Items/Weapons: Rod of Sight, Lantern, Miracle Mirror
+Boss: Maxie
+
+
+   ***                    S=Start             b=Bolas
+   *F*                    B=Boss              M=Medicine
+   ***                    E=Exit              W=Stop/Slow Watch
+    |                     F=False Exits
+   ****** ***             R=Rod of Sight
+   *    *-* *             L=Lantern
+   ****** ***             m=Miracle Mirror
+    |      |
+   ***    ***              *** *** *** *** *** ***
+   * *    *S*              * *-* *-* *-*m*-* *-* *
+   ***    ***              *** *** *** *** *** ***
+    |                           |               |
+   ***                         ***     *** *** ***
+   *R*                         * *     *E* * *-*b*
+   ***                         ***     *** *** ***
+    |                           |       |       |
+   ***                         ***     *** *** ***
+   * *                         *W*     * *-*B*-* *
+   ***                         ***     *** *** ***
+    |                           |
+   *** *** ***                 ***
+   * *-* *-* *                 * *
+   *** *** ***                 ***
+    |   |                       |
+   *** *** *** *** *** *** *** *** ***
+   *F* *F*-* *-* *-* *-* *-* *-* *-* *
+   *** *** *** *** *** *** *** *** ***
+                    |
+                   ***
+                   * *
+                   ***
+                    |
+                   *** ***
+                   *L*-*M*
+                   *** ***
+
+
+  Quick Run:
+   Follow the southern path in the horizontal room. Continue down and
+  grab the Rod of Sight. Use it in the next room to uncover some
+  Minies. In the room with a lot of Skulls and tiles, reveal the switch
+  to open an exit to the right. Go down to a room with a Jelly and a
+  staircase. Do not go up the staircase unless you want to do the whole
+  dungeon again. Kill the Jelly and push against the darkened wall.
+  In the dark room, follow the path down to get a Lantern. Use the Rod
+  in the the lowest room and open a secret room with some Medicine.
+  Go back up to the dark room and use the lantern. Go north at the
+  skull room. At the top use the Rod of Sight and continue right.
+  Continue moving right using the Rod when needed. in the room with
+  two Bonedogs, don't forget to collect the Miracle Mirror. Continue
+  and collect the Bolas. When you reach the empty room with four
+  volcanoes at the top, use the Rod one last time and defeat Maxie.
+  Continue to the last room and jump on the north tile three times
+  drain the lake.
+
+  In-Depth Run:
+    In the first room, stand on a tile, so the Bonedogs can't reach
+  you and then just wail away at them with your Yo-yo. In the next
+  room, follow the south path and exit using the southern exit. The
+  room to the north leads to a false exit. As soon as you enter this
+  seemingly empty room, jump over the water to avoid getting damaged
+  by an invisible Minie. Get the switch and continue downwards.
+  Be very careful in this room, the Muumus are slow, but they're
+  strong. After defeating them, collect the treasure chests to receive
+  five Rods of Sight. Use it immediatly in the next room to uncover
+  five Minies. This next room has two exits. The one leading south
+  is a false exit, so instead find the switch to open an exit to
+  the right. Use the Rod of Sight and defeat the Minies to reach a
+  room with some hearts. Continue down.
+
+    This room looks like a false exit room, but don't worry, you
+  don't need to take the stairs. Instead, kill the Jelly and push
+  against the wall where it was standing to go throught the wall.
+  Unless you are in a real need of hearts, ignore the Double Heart
+  at the bottom of the room. Continue to the right, dodging the
+  volcano. In the dark room, follow the path down to a room with
+  four Muumus. Defeat them carefully and travel downwards again.
+  This room holds a Lantern and a secret exit to a room with some
+  medicine. After collecting the items, make your way bak to the
+  dark room and use the Lantern. This will light the room for about
+  five seconds. Use the Lantern sparingly, though, you only have
+  five times to use it. Make your way through the little maze of
+  tiles and defeat the two Mr. Armstrongs in the next room to
+  continue.
+
+    Go straight up, ignoring the room to the right and defeat the
+  three Bonedogs. Collect the hidden Stop/Slow Watch and you'll
+  have an easier time with the two Muumus. Grab the hearts in the
+  next room and continue up. If you're running low on Rods, go to
+  the left to collect some more. Go back to the previous room and
+  use the Rod. Continue to the right and use the Rod again. In
+  the room with the Bonedogs, there is a hidden Miracle Mirror.
+  You need this weapon to continue the dungeon, so get it. You'll
+  get 80 hits with the Mirror. In the next room, attack the
+  Dimhags by bouncing their energy off of the Mirror. To the right
+  is a room with six Muumus!! Be extremely careful with these guys.
+  A good strategy is to get them all to follow you like a Muumu
+  Conga line and then kill them one by one as they follow you. This
+  way, you don't have to worry about running into another Muumu.
+
+    After defeating the Bonedogs in the next room, use the Rod to
+  gain entry to a stash of Double Hearts. Collect the Bolas but
+  don't equip them yet. You need to use them against the boss.
+  Continue downwards and defeat the Dimhags and Skulls to access
+  the next room. This room is seemingly empty, so you know what
+  to do, use the Rod of Sight. this time, however, no Minies will
+  appear. Instead a huge ghost by the name of Maxie will
+  materialize! If you're having difficulty with Maxie, refer to my
+  Boss Strategy Section. After defeating Maxie, continue to the
+  left. If you want, use the Rod again and a single Minie will
+  appear in the corner. Defeating it won't do anything so it's
+  kind of pointless. In this last room, jump on the top tile three
+  times to watch the lake be drained. Revealing the Crystal Ball
+  that you came here for! That dungeon was pretty tiring, but
+  don't worry, the next two dungeons are kind of a break from the
+  difficulty of the last two dungeons.
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to MiraCola Island
+
+
+  Now that the lake is drained, collect the Crystal Ball and make
+your way back to the Fortune Teller's camp. Now that she's back in
+business, the Fortune Teller agrees to help you into SheCola.
+With a bright flash, she.... turns you into a girl!!! I think that
+Startropics is the first video game with a cross dressing hero.
+Take that, Final Fantasy VII! Anyway, you can now enter the Castle
+of SheCola. None of the women have anything important to say, so
+enter the north-west room and follow the stairs to meet with Queen
+SheCola. She has heard of your heroic venture to Ghost Village and
+asks you to join SheCola. You refuse and ask about the mountain
+Hermit. She tells you to talk to the head warrior. Before leaving,
+the Queen also gives you your second weapon; The Shooting Star!!
+The only drawback is that you must have atleast six full hearts
+to use the Shooting Star, otherwise, you're stuck with the Yo-yo.
+If you've collected the two Big Hearts, you shouldn't have much of
+a problem keeping atleast six hearts. This weapon has a range of
+five tiles.
+
+  After leaving the Queen, talk to the head warrior and she will
+tell you how to get to the Hermet's island. With the information
+in hand, leave SheCola and change back into a guy. Exit to the
+Island map and head west to the beach. If you've been here before,
+you'll remember that you couldn't pass through because of all the
+water, but with SheCola's spell in hand, you can now get past!
+
+
+  2c-d: The West Tunnel
+  ********************************
+
+   Remember when I said that the first dungeon in Chapter 3 was
+the smallest in the game? I lied. This tunnel is less than 10
+rooms long. It's incredibly easy, and all of the enemies are
+from Chapter 2. This is really only a chance for you to use your
+new Shooting Star. I'll map this dungeon for you, but I won't
+include an in-depth run, because there's no need for one.
+
+New Enemies: None
+New Obstacles: None
+New Items/Weapons: Shooting Star
+Boss: None
+
+   ***         *******
+   *E*         *     *  S=Start
+   ***         *******  E=Exit
+    |           |   |
+   *************** ***
+   *             * * *
+   *************** ***
+                    |
+                   ***
+                   *S*
+                   ***
+
+  Quick Run:
+    Go up to the first room. Stand on the switch and cast the spell
+  told to you by SheCola. "Shout ABRACADABRA and jump ten times".
+  Don't worry, you don't have to shout abracadabra unless you really
+  want to, but you do need to jump ten times. This will create a
+  bridge. Follow the path, defeating the Octots and Mud O Fish until
+  you reach the end. Exit the tunnel. If you died here, you are sad.
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to MiraCola Island
+
+
+  Hug the side of the mountains to walk through the mountain range.
+On the other side, go into the hut to talk to Po, the poet. Po sings
+you a hint on exiting the next dungeon, but since I'm here, you don't
+need Po, so slap him in the face and exit the hut. Head down and enter
+the cave next to the tall mountain to enter the last dungeon of chapter
+3; The Hermit's Mountain.
+
+
+  2c-e: The Hermit's Mountain
+  ********************************
+
+   This is it! The last dungeon in Chapter 3!! Not as long as the
+Ghost Tunnel, but the enemies require more hits to defeat. But as
+long as you're equipped with the Shooting Star, you shouldn't have
+much trouble. Be careful of the new Sudden Sink Tiles. These white
+tiles will sink as soon as you jump on them, so jump directly after
+landing. Also, there are Phantom Tiles. You can't see these tiles
+until you actually attempt to jump on them. i'll point them out for
+you.
+
+New Enemies: Froppa, Gogglin, Big Bully
+New Obstacles: Sudden Sink Tile, Phantom Tile
+New Items/Weapons: None
+Boss: None
+
+                            *** *** ***
+         ***                * *-* *-* *
+         * *                *** *** ***
+         ***                 |   |   |
+          |                 *** *** ***
+     *** *** *** *** ***    * *-*E*-* *
+     *M*-*T*-* *-* *-*2*    *** *** ***
+     *** *** *** *** ***     |   |   |
+          |                 *** *** ***
+         ***                * * * *-* *
+         *W*                *** *** ***
+         ***   S=Start       |
+          |    E=End        ***
+         ***   1=Staircase  * *
+         * *   2=Staircase  ***
+         ***   M=Medicine    |
+          |    B=Bat        ***
+ *** *******   T=TYL Sign   *2*
+ *1*-*     *   b=Bola       ***
+ *** *******
+                  ***
+                  *1*
+                  ***      W=Stop/Slow Watch
+                   |
+  *** *** *** *** ***
+  * *-*B*-* *-* *-*b*
+  *** *** *** *** ***
+   |
+  ***
+  *S*
+  ***
+
+  Quick Run:
+    Kill the Righthand Looper and continue right, and ignore the
+  Baseball Bat. Collect the Bolas and go up to descend the stairs.
+  Find the switch while avoiding the Froppas and head up. To open the
+  door, kill the Mad Muddy. At the intersection, go left to collect
+  medicine. Find a hidden switch near the top of the intersection to
+  receive a TYL Sign. Continue to the right, killing the Froppas and
+  Gogglins and ascend the staircase. Continue up until a room with a
+  Gogglin. Kill the Gogglin and move up, then to the right, ignore
+  the exit to the south and continue right, then down. In this room
+  with the single looper is an invisible passage way through the wall
+  on the left. Go through it and jump on the fountain. The end.
+
+  In-Depth Run:
+    To gain access to the second room, you must defeat the lower right
+  hand Looper. You can kill the others if you'd like, but it's not
+  necessary. Simply destroy all three skulls to open this next door.
+  Also, there is a secret switch that you can only get to by using a
+  Phantom Tile. Jump up to the top right hand tile and a Phantom Tile
+  will appear under your feet. The switch holds a Baseball Bat, but
+  it's not very useful, so unless you're better with the bat than the
+  Shooting Star, don't take it. With the new Weapon, Boneheads only
+  take three hits to defeat, so dispatch these two and continue right.
+
+    This is the first room with Sudden Sink Tiles. You can't kill the
+  Skull from your vantage point, so hop quickly to the other side and
+  take it out. Press the switch and open the door. There are 40 Bolas
+  Inside the Chest. To get to it, simply jump across, using the
+  Phantom Tile. Go up and descend the staircase.
+
+    Jump across the Sudden Sink Tiles while avoiding the non-stop wave
+  of Froppas. The switch is on the tile directly next to the Sink Tile.
+  Defeat the Mad Muddy that pops out to open this next door. To easily
+  defeat him, jump on the tiles and when Mad Muddy appears, jump over
+  him and stab him in the back. Jump across the Sinking Tile Path and
+  ignore the Stop/Slow Watch. In this next room, go to the left and
+  reveal a switch to open the lefthand door. Colect the Medicine and
+  go back to the intersection. Near the top is a switch for a TYL Sign.
+  Don't bother going into the top room, it's a dead end. Find the switch
+  and open the door to the right. Defeat two Froppas to open the way to
+  the next room. Be careful while defeating the Gogglers here. Once hit,
+  They move quickly either up and down, or left to right. Ascend the
+  staircase.
+
+    Go up and ignore the Mad Muddy. Kill the Big Bully and move up.
+  This room has two exits, take the northern one by defeating the
+  Goggler. Defeat another Big Bully and continue right. This room
+  also has two exits uncover the switches and take the one to the
+  right. Once again, destroy the Big Bully and move south. Defeat the
+  Looper and go to the fifth row of blocks. Then push against the wall
+  to the left. You should be in a room with a geyser. Jump on this
+  geyser to finish off the final dungeon in Chapter 3!!
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to MiraCola Island
+
+
+  Alright, we did it! We are now on the top of the mountain with the
+Hermit. Talk to him to receive the Scroll of Obob. With this in hand,
+you can now wake Bananette. You automatically run all the way to
+MiraCola to save Chief MiraCola's daughter. Mike reads from the scroll
+and Bananette finally wakes up. The village rejoices and they agree to
+repair the Sub-C. You are now able to continue your journey. We finally
+end the longest chapter in the game. Congratulations.
+
+
+
+ 2d: Chapter 4; Confession
+  ********************************
+
+        Sub-C is cruising
+          on the ocean....
+      A small island appears
+         on the horizon...
+
+
+  After such a long chapter with five dungeons, it's nice to have a
+little rest. There are no real dungeons in this chapter, but there is
+a maze. Like a regular dungeon, I'll map that out for you.
+
+  Continue sailing to the east and you'll arrive at an island shaped
+like a fish. Enter the small town of TunaCola and talk to the villagers.
+According to a fellow named Bate, a sailor from C-Island was looking for
+you, but is now traveling east. Well, get back in the Sub-C and start
+sailing east. In a few seconds a large whale will eat you. Very
+inconveniant...
+
+
+
+  2d-a: Inside the Belly of a Whale
+  ************************************
+
+  *=Water
+  #=Land
+  %=Fish Bones
+
+                                   ##****    ***      *
+       ****************            #    *   *****   ***
+      **          *                #    *****   *****#**#######
+      *           *                #    *           ***       ##
+      *          ***               #    *             *        #
+      *          *#*               #    *             *        #
+      *****      ******            #    *             *        #
+          *      *#*  *            #    *             *        #
+          ****##****  *            #    *                     ##
+          *        *  **           ##****                     #
+          *        *  *             **                        #
+          *        #  *              *                        #
+          *        #  **##****       *                        #
+     ###  *   #    #  *    **        *                        #
+     # #***   #    #       **        #                  ########
+     #*#***   #    #       **        ####                      #
+     #*#***   #    #       **           #       **             #
+     #*#     ##%####       *            *    ******            #
+     #*#     #     #      **            ******* ***            #
+   ###*###   #     #      **             *       *             #
+  ##*****##  #     #      *              *       *    *        #
+  #*******#  #     ##******              *       *    *        #
+  #*******#  ##    #   *                 *       *    *        #
+  #*******#####    #   *           *******       *    *        #
+  #*******#  #   ###   *         ***             **   ***     ##
+  ##*****##  #   #     *   BABOO ***              *****#**#####
+   ###*#%#   #   #     *      | #**                   ***
+     #*#     #   #     ***    ###**
+     %*#     ##  #     ***#######*
+     ###      #######   ***#*#****
+     #              #    **#*****            ***
+     #              #    ********     **********--START
+     #              #     *************      ***
+     #              %      ****
+   ###      ##########
+  ###       #        |
+  ###     ###     LIGHTER
+  ####    ###
+   ####  ####
+     ########
+          ##
+
+
+  You start off in the lower right hand corner of the whale. Sail
+to the left until a large room, where you'll see someone with a raft.
+Dock in the small inlet and talk to him. It's Baboo, Dr. J's assistant
+that you met on C-Island!! Baboo tells you more about the Doc's
+disappearance and you both formulate a plan to get out. Using Baboo's
+lighter, you can build a fire to make the whale sneeze you out, but
+Baboo lost his lighter when he was swallowed... Time to go get it.
+
+  Head to the right and go up. Keep following the water, don't go on
+land. Sail until you find a dead end with a dive area. Dive and you'll
+travel north. Continue to follow the water until an intersection. Go
+down and ignore the first dive area, but dive at the second one.
+Go up and continue following water. Soon, you'll reach a dead end that
+is a 3x3 tile area. Move through the wall on the left and skip the dive
+area. Move down until there is no water and dock. Follow the path and
+you'll reach the lighter.
+
+  Walk back to Sub-C and use that Dive area you saw. Move down and
+you'll be back in that area with Baboo. Give him the lighter and you
+will build a fire. The fire will get smokier and smokier until the
+whale spits you out onto a little island.
+
+  Baboo then tells you that Dr.J's last words were to tell Mike to
+dip his letter in water. Now, unless you own the game with the manual,
+you don't have that letter. If you do have that letter, dip it in
+water to reveal a password; 747. If you don't have the letter, guess
+you're stuck here... or you can look up a line and see the password.
+Either way, board Sub-C and give the password to Nav-Com. This will
+enable you to continue on to Chapter 5!!
+
+
+
+
+ 2e: Chapter 5; Captain Bell
+  ********************************
+
+      Sub-C is searching for
+      Dr. Jones' location....
+        But the strait is
+             blocked!
+
+
+
+  You start below two islands. It appears that the only way to go is
+through the strait, but it looks like a huge ship is blocking the
+way. Dock at the nearest harbour on the western island and enter the
+town of BellCola. After talking to some of the villagers, it's pretty
+obvious that everyone idolizes some guy named Captain Bell. The guard
+won't let you into the Chief's hut until you talk to everyone, so do
+just that. When he lets you in, talk to the Chief.
+
+  He tells you the story of Captain Bell and how he saved the islands
+by sacrificing his ship and blocking the strait. He then vaguely
+mentions someone named Peter. Well, let's go find him. Leave the
+village and head to the left through the path of palm trees. Talk to
+the parrot at the end to discover that this is Peter. Apparently,
+Peter won't give you the time of day, unless you can supply him with
+a gift. There's nothing left of value on this island right now, so
+head back to Sub-C.
+
+  Follow the walls of the eastern island until you have nowhere to go
+but down. You will find a dive area, so dive. Go up until you see a
+wall with little bubbles coming out. Push through that wall and dock.
+Go up to the lone house to meet Hook, the master fisherman. When asked
+if you'd like to know the ABCs of fishing, reply yes. Replying no will
+make him wonder if you are Nester, which I think might be a reference
+to Nintendo Power's Nester and Howard. Anyway, Hook will give you a
+fresh worm. Yay, now we have a suitable gift for Peter, so head back
+and talk to him.
+
+  Give the worm to Peter and he'll tell you everything he knows about
+getting through the strait. Strangely enough, he'll say Do Me So Far,
+Do Me. Those of you who are musically inclined, may recognize the
+musical notes used there. This message translates to Do Mi So Fa Do
+Mi. Now, with that little tune in your head, go back to the island
+where Hook lives. Once there, curve around the mountains to the south
+and push through to the left to enter a secret passage. Instead of
+following the path up, stop on the last tile and press left to find
+a memorial of some kind.
+
+  Inside, a woman tells you that this is the Captain Bell Memorial.
+Anyway, look at the huge organ. Maybe Peter was trying to tell you
+something. Play the melody that you learned on the giant organ.
+
+Do Mi So Fa Do Mi
+
+or, if you want to more technical,
+
+1 3 5 4 1 3
+
+After hitting the last note, the flames blocking the stairs will
+vanish, letting you in. Take the first case of stairs you see to
+enter an empty room. Now push against the bottom left of this room
+to gain a Big Heart. If you've gotten the other two Big Hearts,
+you're maximum hearts should be 9. Continue through the path to
+a cave. This is Captain Bell's Cave. Inside is the secret to getting
+through the strait.
+
+
+  2e-a: Captain Bell's Cave
+  ********************************
+
+   This tunnel is pretty long and is filled to the brim with
+dangerous traps. Be very careful when traveling through a
+seemingly empty room. You never know when a spike might jut out
+of the ground or an arrow might come out of the wall. Again, there
+is no boss, simply a final switch that you must press in the last
+room. You will meet newer versions of older enemies, such as Green
+Loopers and Red Noctos. These are much more difficult then their
+older versions, so expect some new surprises from them.
+
+New Enemies: Pirate Ghouls, Megaton
+New Obstacles: Arrows, Silver Balls, Pencil Trap, Trap Rooms,
+               Sinking Floors
+New Items/Weapons: None
+Boss: None
+             *** ***   S=Start     T=TYL Sign
+             * *-* *   E=End       m=Miracle Mirror
+             *** ***   M=Medicine  !=Trap/Megaton Room
+              |   |
+         *** *** *** *** ****** *** ***   R=Rod of Sight
+   TO A -*!*-* *-* *-* *-*    *-*!*-* *   B=Baseball Bat
+         *** *** *** *** ****** *** ***
+                  |                  |
+                 ***                *****
+                 *T*                *S  *
+                 ***                *****
+
+
+
+                                       ***
+    ******                             * *
+    *E-- *                             ***
+    * ****                              |
+    * * ******* ****** *** *** *** *** *** *** ******
+    * *-*!!!!!*-*    *-* *-* *-* *-*B*-*R*-* *-*m!!!*- FROM A
+    *** ******* ****** *** *** *** *** *** *** ******
+                                |   |   |
+                               *** *** ***
+                               * * *M* * *
+                               *** *** ***
+                                |   |   |
+                               *** *** ***
+                               * *-*!*-* *
+                               *** *** ***
+
+
+  Quick Run:
+    Walk thorught the wall on the right of the entrance to collect 4
+  hearts. Collect the hearts in the Trap Room and find the switch before
+  being trapped. Continue left through the trap rooms until an inter-
+  section with three exits. Go down to collect a TYL Sign. Go to the
+  left to get some more hearts, and go up to continue. Fall through the
+  floor and climb the bottom right stairs.Go up five spaces and head
+  left throught the wall. Go down one space and go through the left wall
+  to another room. Go down and left to another trap room. Continue past
+  the Megaton room, making sure that you collected the Mirror and defeat
+  the Pirate Ghouls. Unless you're in real need of hearts, don't go up.
+
+    Go down and to the left. In this Megaton room, don't bother going
+  up. Instead keep going to the left and head up until a room with two
+  Big Bullies. Use the Rod of Site in this room to uncover a Minie.
+  Defeat it and head to the left. Continue to the left until a room with
+  some Pirate Ghouls. Go up and through the wall twice. Jump on the
+  switch to end this level.
+
+
+  In-Depth Run:
+    If you're not full on Hearts, go through the right wall in the
+  entrance to find a room with two double hearts. This should fill you
+  up. Head up and kill the Red Nocto directly to the right of you to
+  open the door to the left. This room is a trep room, as if the music
+  didn't tip you off. When you reach half-way to the door, the room will
+  start breaking apart. Find the switch on the top and bottom right hand
+  corners of the room to uncover two more double hearts. The switch to
+  open the door is at the top left hand corner. Move quicly through this
+  room to avoid the arrows coming out of the wall. As long as you don't
+  stop or if you jump every once ina while, you should be safe.
+
+    The Silver Ball in this room will move back and forth very quickly
+  once you hit it. You must hit it to pass it, so hit it, and time your
+  jumps to reach the next side safely. The switch is on the right side
+  of the room, while the trigger is on the left. At this intersection,
+  head down to collect a TYL Sign. If you're in need of hearts, go left.
+  To continue, travel north to a room with many Rattus. Walk on the space
+  at the top right corner of the room to sink down to another room with
+  spikes trying to skewer you. Avoid the spikes and ascend the bottom
+  right staircase. Back on the top floor, move up five spaces, move
+  through the wall on the left and go down one space to move through
+  the left wall again to another room. Go down, then left to enter another
+  Trap Room. This room will break down after you take your first step. The
+  Switch is two tiles under the exit, so get there as soon as you can and
+  exit this room.
+
+    This room contains a Megaton ball. Move through the room, avoiding
+  the huge ball whenever you need to. Collect the Miracle Mirror and hit
+  the switch. In the next room, use the Mirror just like you did against
+  the Dimhags back in the Ghost Tunnel. Defeat the Green Looper to open
+  the exit. In this intersection, do not travel up. You can travel to
+  the left to get a Baseball Bat and some Medicine. To get to the
+  Medicine, use the Rod of Sight to uncover a Minie in the corner.
+  To continue with the tunnel, move down and defeat the Loopers and
+  Noctos. Take out the Dodos in the next room and you'll come to a small
+  Megaton room. Don't bother going up, that'll just lead you to the room
+  with the Medicine. Hit the switch on the right hand side of the room
+  and continue. Move up past a tile path full of Noctos and defeat the
+  two Big Bullies. Use the Rod of Site and destroy the Minie to open
+  the way to the left hand room.
+
+    Hit one of the Silver balls to activate it. Then, while standing near
+  the other Silver Ball. Jump to avoid the moving ball and hit the still
+  ball at the same time and, hopefully, they will follow the same path,
+  making it easie to jump over them. Find the switch in the middle of
+  the tiles while avoiding the Pencil Traps. Also, there is a switch that
+  reveals some hearts next to the door switch. Move quickly to the left
+  to avoid the arrows. At the last bit of land, jump in place to avoid
+  jumping into the sinking tile while it's down. Continue to the left
+  and open the door. This Megaton room is much harder because the ball
+  doesn't stop as much anymore. If you hit the Megaton with your Shooting
+  Star, it will puase for a second, as if it hit a wall. Get in front of
+  the ball and walk to the left, hitting the Megaton when it gets too
+  close. In this next room, defeat the Pirate Ghouls using the Mirror and
+  move upwards. Push through the wall on the right to find a passage.
+  Go to the top of the path and head back to the left. Jump on the tile
+  three times to complete this dungeon!
+
+
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to BellCola Island
+
+
+  Now that the dungeon is drained, Captain Bell's ship will sink, leaving
+the strait wide open for you. After God Save The Queen, you automatically
+board Sub-C and continue through the strait to Chapter 6!
+
+
+
+
+ 2f: Chapter 6; Reunion
+  ********************************
+
+      Sub-C is searching for
+      Dr. Jones' location....
+      Will Nav-Com catch his
+        signal on time?
+
+
+
+  The first little bit of this chapter consists of navigating through a
+series of islands via Sub-C. Start off by heading east until you run
+into a huge island blocking the path. Search the side of the island for
+a secret passage through the island. On the other side there's a little
+island with a town on it. If you want, dock and enter the town of
+HowdoyaduCola. Talk to the villagers to learn nothing. Board Sub-C and
+continue north-west and eventually you'll find a dive area. Dive and
+you'll emerge in a tiny area with three more dive spots. The top one
+leads to a dead end, the bottom leads to a Big Apple, which doesn't do
+anything. Dive at the eastern dive area to continue. Dock and enter the
+staircase to collect a Big Heart. You should now have twelve hearts.
+You'll now be in a huge area with an island and a house on it. Don't go
+in there, there's nothing of importance. Head south until an island
+blocks your path. Search the side of the island to find a passage
+through it. Continue south to a group of islands and dive areas shaped
+like an arrow. Dive at the second dive area from the left. Continue
+south some more to two dive spots adjacent to each other. Take the
+bottom one. Head directly west to another dive spot and use it.
+You will travel north for a while and emerge in a tiny path below an
+island. Move north and Nav-Com will report the coordinates of Dr J!
+That must mean we're getting close! Continue north and pass through
+the large island. Continue east until Nav-Com shouts the numbers
+North five, East six, so travel north five spaces and east six spaces.
+Nav-Com will say that the signal has stopped. This is your cue to
+dive.
+
+  You will find yourself in an underwater cave. Travel north to a cave
+and dock. Travel north 3 screens and you will enter a ruin of some
+kind. Move to the east and enter the next dungeon.
+
+
+
+
+
+  2f-a: Lost Ruins
+  ********************************
+
+   Not very long or overly difficult. This is the first dungeon,
+however, to have two bosses, one of which is a clone of Octo from
+Chapter 2. A useful item, the Armlet, is found here. When equipped on
+Mike, you can jump a span of two tiles! The effect wears off once you
+leave the room, however.
+
+New Enemies: Armet, Squidos
+New Obstacles: None
+New Items/Weapons: Wonder Horse Hide, Spike, Anklet
+Boss: Giant Turboss, Broken Joe
+
+
+     ***
+     *E*       S=Start
+     ***       E=Exit
+      |        B=Boss
+     ***       A=Anklet
+     *B*       W=Wonder Horse Hide
+     ***       s=Spikes
+      |        M=Medicine
+     ***
+     * *
+     ***
+      |
+     ***
+     * *
+     ***
+      |
+     ****** ***
+     *   A*-*s*
+     ****** ***
+             |
+            *** ***
+            *A*-* *
+            *** ***
+                 |
+                ***
+                * *
+                ***
+                 |
+                *** ***
+                * *-*B*
+                *** ***
+                     |
+                    ***
+                    * *
+                    ***
+                     |
+                    *** ****** ***
+                    * *-*   A*-* *
+                    *** ****** ***
+                                |
+                               ***
+                               *A*
+                               ***
+                                |
+                               ***
+                               * *
+                               ***
+                                |
+                               ***
+                               *S*
+                               ***
+
+
+  Quick Run:
+    Head up, collect the Anklet and doubleheart and kill the Muumus.
+  Find your way through the little tile maze to the left using the
+  Anklet. Open the chest and stand in the middle of the donut style
+  platform to defeat the Muumus without risking damage. Go up, and
+  defeat the Turboss like you defeated Octo.
+
+    Continue to the left, then up until an empty room. Walk through
+  the walls in various places to open the chests. Collect the Spikes
+  and use them against the Squidos for a quick kill. Continue until
+  a room with many Muumus. Use the Spikes against them and then
+  travel up to defeat Broken Joe. Exit the dungeon.
+
+  In-Depth Run:
+    Go up to the first room and ignore the Loopers and continue up.
+  Collect the Anklet and jump ot one of the tiles to activate a switch
+  to one of the Treasure Chests. Open the other chest and collect the
+  double hearts. Carefully defeat the red Muumus in this next room.
+  If you can, try to hit them with the Shooting Star while on the
+  opposite side of the water. In this next room, collect the Anklet
+  by following the bottom path of tiles. Then, find your way through
+  the little tile maze and get to the next room. Wait until there is
+  a large gap in the line of muumus, then jump in and follow them.
+  When the chest is open, jump in the center and defeat the Mumuus
+  without getting hurt. Jump to the tile in the corner and collect
+  the Medicine using the two Phantom Tiles that appear. Continue up
+  and you'll face the Giant Turboss.If you're having difficulty with
+  the Giant Turboss, refer to my Boss Strategy Section.
+
+    Collect the Anklet and head left, then up. Defeat the two Armets
+  and keep going up to an empty room. Ignore the dark spot and walk
+  all the way to the left and go through the wall. Hit the switch
+  and open the door. Head back to the empty room and walk to the top
+  of the room and go through to the right. Grab the Anklet, and jump
+  down to light the room. Jump on the top switch to open one of the
+  treasure chests. Hit the other switch to open the other chest, which
+  contains 30 Wonder Horse Hides (Baseballs). Save them for the boss.
+  In the next room are a pair of cleats. Grab the Spikes and use them
+  immediately. This will take care of all those Squidos. Grab the
+  Anklet in the top of the next room and make your way to the opposite
+  end and exit at the top. Use the Spikes as much as you want to
+  destroy all of the Muumus. Go up one more room, defeat the Loopers
+  and then get ready to face off with Broken Joe. If you're having
+  difficulty with Broken Joe, refer to my Boss Strategy Section. Go
+  up and exit the dungeon!
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to The Lost Ruins
+
+
+  Head to the right and ignore the intersection. Continue up until
+a dead end. Go up at the last chance you had and follow the waterside
+path to a staircase. Inside is a Big Heart. Go bak to the first
+intersection you came across in this area and go up. Turn right at the
+next chance and follow the path to a big melted rock. It looks like
+something was taken out of it. Also, there is something written on it,
+but Mike can't read it. Continue to the entrance of the last dungeon
+of this chapter.
+
+  *****SECRET; Get Maximum Hearts!******
+
+  If you want to be extra powerful and if you have a little time, you
+can obtain maximum hearts right now. That's 22 hearts!! Collect the Big
+Heart in the Lost Ruins. Enter the next dungeon and then leave. Go back
+to where the Big Heart was and it will be back! Continue this until you
+have a full meter of hearts. Sadly, this trick does not last the whole
+game. When you reach the next chapter, your hearts will decrease to only
+14. Oh, well, atleast you'll be pumped for this dungeon!
+
+
+
+  2f-b: Big Rock Tunnel
+  ********************************
+
+  This is the final typical dungeon in the game, so enjoy it while you
+can. This dungeon holds many dangers. Lots of enemies, traps and
+hidden passages make this dungeon quite difficult. The weapon that you
+find here, the Asterisk, is my personal favorite. Use it a lot in this
+dungeon. They're useful and you find a whole lot of them.
+
+New Enemies: Biter, Rocky, Fuzz, Hoodoo Doll
+New Obstacles: Dagger Trap, Urchin
+New Items/Weapons: Asterisk
+Boss: The Statues of Twin Sumocho
+
+
+     ***
+     *E*            S=Start
+     ***            E=End
+      |             B=Boss
+     *** *** ***    A=Asterisk
+     *B* * *-* *    M=Medicine
+     *** *** ***    T=TYL Sign
+      |   |   |
+   ***** *** ***
+   *A  * *M*-* *
+   ***** *** ***
+      |   |   |
+     *** *** ***
+     * *-* * * *
+     *** *** ***
+              |
+             ***
+             * *
+             ***
+              |
+             ***
+             *A*
+             ***
+              |
+             ***
+             * *
+             ***
+              |
+             ***
+             * *
+             ***
+              |
+             *** ***
+             *A* * *
+             *** ***
+              |   |
+             *** *** ***
+             *T*-* *-* *
+             *** *** ***
+                      |
+                     ***
+                     * *
+                     ***
+                      |
+                 *** ***
+                 * *-* *
+                 *** ***
+                      |
+                     ***
+                     * *
+                     ***
+                      |
+                     ***
+                     *A*
+                     ***
+                      |
+                 *** ***
+                 * * * *
+                 *** ***
+                  |   |
+                 *** ***
+                 * *-* *
+                 *** ***
+                  |   |
+                 *** ***
+                 *S*-* *
+                 *** ***
+
+
+  Quick Run:
+    Go through a secret tunnel to the right in the entrance. Go up,
+  collect the Asterisk and use them to defeat the Loopers. Continue
+  up, kill the Gadflies, go to the left if you need hearts, if not,
+  find the switch and move up. Defeat the four biters while avoiding
+  the fuzz and head to the left. Follow the path until the double
+  heart. There, go through the wall and continue. Carefully defeat
+  the Hoodoo doll and grab the TYL sign and continue upward. Collect
+  the double hearts and the Asterix and head north. Carefully dispose
+  of the two Loopers and quickly leave this room before the Urchin has
+  a chance to hurt you too badly.
+
+    Grab some more Asterisks and double hearts in the room with the
+  group of Gadflies. In the room with the four visible Rockies and
+  the two Fuzzes, quickly make your way to the left side of the wall
+  and push through. Collect some Medicine, and some more Asterisks
+  and go down to a dangerous room with two Hoodoo dolls. There is a
+  secret passage on the left wall of the dark hallway. Inside is
+  a double heart and even more Asterisks. Go up one more room and
+  defeat the Statues of Twin Sumocho. After that, go up another room
+  and exit the dungeon.
+
+
+  In-Depth Run:
+    Ignore the northen exit in the entrance and pass through a secret
+  passage in the right wall. Be careful of the Dagger Traps in an
+  upcoming room. These do a lot of damage. Continue up and grab the
+  Asterisk. When you shoot them they will head out like a torch
+  or the Bolas, but when you tap the B Button again, they will fly
+  out to each side, making them twice as useful. Practice with them
+  against the Loopers in this area and continue up. Defeat all the
+  Loopers in this room before hitting the urchin. Like the Silver Balls
+  in Captain Bell's Cave, these will quickly run from side to side
+  when hit. Be extremely careful of these for the take three whole
+  hearts!
+
+    When you kill the pair of Gadflies in this room, a door will open
+  to the side, allowing you to collect two double hearts. To continue
+  up, return to the Gadfly room and fins a switch. When you reach the
+  room with the four Biters, defeat them without letting the Fuzz touch
+  you. These creatures will temporarily take your weapon away, leaving
+  you very defenseless. Follow the path in the next couple of rooms
+  until you come across the first pair of hearts. Now, instead of
+  continuing the path up to the room, use the secret passage in the wall.
+  Defeat the Hoodoo doll in the next room carefully. Use the Asterisk
+  to keep out of the enemies sights. Don't be too worried about using
+  the Asterisk, you get lots in this dungeon. In fact, you should be
+  able to get atleast 50 of them by the time you reach the boss. (If you
+  don't use any, you'll have 99!)
+
+    This next room has a lot of switches, collect the double hearts and
+  Asterisk and head up. Be very careful of the Urchin in this room as
+  it is more difficult to avoid then before. Defeat the invisible Rockies
+  when they hit the wall in the next room. Continue up to fight a lot of
+  Gadflies and then battle some more invisible Rockies. When you reach a
+  room with four visible Rockis and two Fuzzes, ignore the enemies and
+  head into a secret passage in the left wall. Jump down and collect the
+  Medicine and the Asterisk. Get your Asterisks ready and head down
+  another room. To move on, you must defeat two Hoodoo dolls! This can be
+  very difficult, but as long as you have a sufficient supply of Asterisks
+  you keep out of their line of sight, you should be fine. In the dark
+  hallway, there is a passage to the left that holds a double heart and
+  one more Asterisk. Continue up to face the Statues of Twin Sumocho.
+  If you're having difficulty with The Statues of Twin Sumocho, refer to
+  my Boss Strategy Section. Go up one more room and exit dungeon.
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to The Lost Ruins
+
+
+  Continue following the long, winding path and talk to the man at the
+end. It's Dr. Jones!! Finally, you've found him. Now, turn off the NES
+and go back to your life. Oh, wait, it's not the end of the game.
+The doc tells you about that stone you saw earlier and that three
+cubes were inside. Aliens from another planet abducted Dr. Jones to
+learn about the three cubes. Dr. J thinks that they must be very
+important, and asks you to board their spaceship and take the cubes back!
+Bravely, you accept this mission and leave Dr. J and head towards the
+alien Spaceship....
+
+
+
+ 2g: Chapter 7; Alien Spaceship
+  ********************************
+
+      At last, you have arrived
+         at the spaceship....
+       Find the 3 Magic Cubes!
+
+
+  No turning back, now. Walk north to find the evil spaceship and
+bravely enter.
+
+
+ 2g-a: Inside the Alien Ship
+  ********************************
+
+   This dungeon is very small, but the real challenge is navigating
+it. To reach the end, you must use the numerous Warp Tiles found
+through out the dungeon. I'll tell you which to go into, just try
+to remember which room you're in on the map.
+
+New Enemies: Alien Gunner, Alien Rider
+New Obstacles: Alien Turrets
+New Items/Weapons: Vitamin-X, Ray Gun
+Boss: Jet-Pack Jumpers
+
+
+       ***        ***
+       *s*        *V*      S=Start
+       ***        ***      E=End
+        |          |       B=Boss
+   *** *** ****** ******   M=Medicine
+   *E* *V*-*M   *-*R   *   V=Vitamin-X
+   *** *** ****** ******   s=Spikes
+    |   |   |  |   |  |    R=Ray Gun
+   *** *** ****** ******
+   * *-* *-*   R*-*    *
+   *** *** ****** ******
+        |   |  |   |  |
+       *** ****** ******
+       * *-*R   *-*    *
+       *** ****** ******
+        |
+       ***
+       *S*
+       ***
+
+
+  Quick Run:
+    Go up and collect the quadruple hearts and continue up. Ignore the
+  Yellow Gunner and go up. Before collecting the Vitamin-X, bust through
+  the top of the room with your Shooting Star and collect the Spikes.
+  Go back down, collect the Vitamin-X and, ignoring the Warp, follow the
+  path right. At the first chance you get, turn down and take the Warp.
+  If you want some medicine, take the top Warp and jump to the left to
+  collect a bottle. Then go back through the warp. Go into the right hand
+  Warp and quickly dispose of the Green Gunner. Follow the path down and
+  avoid the group of Gunners that you come across. Keep following the
+  path until a Warp. Go to the left and defeat the Jet-Pack Jumpers.
+  Exit the tunnel.
+
+  In-Depth Run:
+    In the first room, collect the four hearts and ignore the Turrets.
+  Go up, try to get past the Yellow Gunner without a fight. Before
+  collecting the Vitamin-X, shoot the north wall and reveal a room with
+  a set of Spikes. Take them, go back down and collect the Vitamin-X.
+  Go one room to the right, and then down. Enter the Warp Tile and you'll
+  enter a room with four Warps. If you feel that you won't be able to get
+  through the rest of the dungeon without some medicine, take the top Warp.
+  If you want to go on, take the right Warp. Destroy the Gunner and head
+  down two screens. This is a big room with lots of Gunners. Try to work
+  your way around them without getting hit and follow the path to the left.
+  On the next screen, continue to jump to the left, turning around to shoot
+  the Riders every so often. Collect the Ray Gun and jump onto the Warp and
+  continue onto the next Warp. Follow the path left and you'll fight the
+  Jet-Pack Jumpers. If you're having difficulty with the Jet-Pack Jumpers,
+  refer to my Boss Strategy Section. continue up one room and exit this
+  dungeon.
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to The Alien Spaceship.
+
+
+   You'll appear in a room with three staircases. Take the lower righthand
+one and follow the path to the first Magic Cube. With this Cube in your
+possession, the Shooting Star turns into the Super Nova, your most
+powerful weapon! Beware, Mike needs atleast a full row of hearts. That's
+eleven hearts. This weapon has no range limit, it can shoot across the
+entire screen. Continue up to the next dungeon.
+
+
+
+ 2g-b: The Second Cube
+  ********************************
+
+   This second Alien dungeon isn't very small and is very linear.
+Nothing too difficult or surprising in this dungeon. Just keep calm
+and aim well.
+
+New Enemies: Air-Drones
+New Obstacles: Moving Turrets, Star Turrets, Electric Barrier, Heat Tiles
+New Items/Weapons: Super Nova, Wave Gun
+Boss: Jet-Pack Jumper, Ostroid
+
+                ***        ***  S=Start
+                *M*        *1*  E=End
+                ***        ***  B=Boss
+                 |          |   R=Ray Gun
+  ****** ****** *** ****** ***  M=Medicine
+  *    *-*   R*-* *-*    *-*R*  V=Vitamin-X
+  ****** ****** *** ****** ***  W=Wave Gun
+   |                            1=Warp Tile
+  ***                 *** ***        ***
+  *S*                 * * *W*        *E*
+  ***                 *** ***        ***
+                       |   |          |
+      ***             *** *** ****** ***
+      *W*             *B*-*R*-*    *-*B*
+      ***             *** *** ****** ***
+       |               |
+  *** *** *** *** *** ***
+  *1*-* *-*V*-* *-* *-*W*
+  *** *** *** *** *** ***
+
+
+  Quick Run:
+    Go up, grab enough hearts so that you're able to use the Super Nova
+  and keep heading right. In the single room with two different colored
+  Gunners, blast the wall and collect some Medicine. Head back down and
+  continue heading to the right. Go in the warp and destroy the four
+  moving Turrets to open the door. If you want the Wave Gun, head up a
+  room and collect it. It's not too useful, so skip it if you'd like.
+  Continue until you fight a single Jet-Pack Jumper. After defeating
+  him, continue to the right until finding Ostroid. Defeat him and leave
+  the dungeon.
+
+  In-Depth Run:
+    In the first room, collect enough hearts so that you can use the
+  Super Nova.Head to the right a couple of screens and grab the Ray Gun.
+  In the next room, defeat the yellow Gunner and shoot through the north
+  wall to get some Medicine. Go back to the main path and continue to the
+  right. In the room with the Star Turret and the Gunner, stand on a tile
+  and defeat the Gunner without having to worry about the Turret. Step
+  on the Warp Tile and you'll teleport to a room with four moving Turrets.
+  Defeat them all to open the door to the right. Thie next room has a
+  crack on the north wall. Break through it and collect the Wave Gun, a
+  very powerful weapon that lacks enough range to make it extremely useful.
+  Continue to the right and defeat the Green Gunner and then grab the
+  Vitamin-X. On the next screen, dodge the Electric Barrier and Air-Drones
+  and move on. You must defeat all of the Gunners and avoid the Barrier
+  in this room to open the door. Do so carefully, the Gunner's shots can
+  move through the Barrier, but yours cannot. Grab the Wave Gun and the
+  hearts and defeat the three Air-Drones to move up and face a Jet-Pack
+  Jumper. This guy is too easy for me to consider him a boss. Simply stand
+  in the middle of the room and shoot up as he flies towards you. When he
+  gets close, jump to the side and then move back when he flies back.
+  Simple. Ignore the room at the top, it doesn't go anywhere.
+
+    The room to the right has a secret passage at the top that holds a Wave
+  Gun. Continue right and dodge all of the Air-Drones while jumping across
+  the pits. In this last room, jump across the three platforms while dodging
+  the heated tiles on the floor. Just time your jumps right and you'll make
+  it out without getting burned. The next room contains the evil mech,
+  Ostroid. If you're having difficulty with Ostroid, refer to my Boss
+  Strategy Section. Continue up one room and exit the dungeon.
+
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to The Alien Spaceship.
+
+
+  You'll now find yourself in a maze. You have to find a way to the Cube
+above you. Head down past the first intersection and take the seconf path
+to the right. Follow the path down the stairs. Go down one step and take
+the right hallway to the stairs. Now, simply follow the paths laid out to
+you and you'll find the second Cube. With this new Cube, Mike will now
+have a full 22 hearts! Before heading on, you feel the floor rumble.
+The Aliens aren't happy with you finding the Cubes and they've decided to
+lift off with you still in the ship. That's not a good thing.
+
+
+
+ 2h: Chapter 8; The Final Battle
+  ********************************
+
+      The Alien Spaceship is
+      circling the Earth....
+      Hurry up and find the
+         last Magic Cube!
+
+
+  Here we go, the last chapter. Walk north and an image will appear.
+The shadow tells you that he is Zoda, the Prime Invader. After taunting
+you, he disappears. Continue to walk up to enter the final dungeon of
+StarTropics.
+
+
+
+ 2h-a: The Core and Zoda
+  ********************************
+
+   Last Dungeon. The actual dungeon isn't hard at all, but there's
+three bosses to defeat, and that can take a lot out of you. There's
+nothing new in this dungeon because it's very linear. Just follow
+the path and you'll get to the bosses.
+
+
+New Enemies: Zoda Membrane, Alien Snipers
+New Obstacles: Gunner Duplicator
+New Items/Weapons: None
+Boss: Zoda's Image, Core, Zoda's True Form
+
+
+   ***
+   *E*
+   ***
+    |            S=Start
+   ******        E=End
+   *B   *        B=Boss
+   ******        R=Ray Gun
+    |            V=Vitamin-X
+   ***
+   * *
+   ***
+    |
+   ***               ****** ***
+   * *               *   V*-*B*
+   ***               ****** ***
+    |                 |      |
+   *** *** ****** ******    ***
+   *R*-*B*-*    *-*    *    *S*
+   *** *** ****** ******    ***
+
+
+  Quick Run:
+    Go up, defeat Zoda's Image, follow the path to the Core and then
+  walk up and defeat Zoda's True Form. Sound easy? It ain't.
+
+  In-Depth Run:
+    The first room is a boss battle against Zoda's Image. If you're
+  having difficulty with Zoda's Image, refer to my Boss Strategy
+  Section. Continue to the left and grab the Vitamin-X. This will
+  give you the health you need to finish the game. Follow the path
+  making sure not to fall in the opening tiles. If you do, you must
+  fight your way out of a room full of Gunners and then do the dungeon
+  over again. Follow the path and destroy the Core. If you're having
+  difficulty with the Core refer to my Boss Strategy Section. After
+  everything breaks down, continue the path and grab the hearts and
+  Ray Gun. If you're not at full life, sit here, destroying the Zoda
+  Membranes to get hearts. Do this until you have full health. When
+  you feel that you're ready, head up to the last room and face off
+  with Zoda's True Form. If you're having difficulty with Zoda's True
+  Form, refer to my Boss Strategy Section. After finally defeating
+  Zoda, exit at the top room to finish the last dungeon.
+
+
+
+  WOW! YOU'VE DONE IT!
+       GOOD LUCK!
+
+  Back to The Alien Spaceship.
+
+
+  Now that you've beaten Zoda, nothing stops you from collecting the
+last Magic Cube. Congratulations!! You've beaten a great, decently
+challenging game! I won't spoil the end for you, but remember to have
+fun and look around during the conclusion.
+
+
+
+
+    THE END...
+
+
+
+
+3: Lists
+**********************************
+
+  3a: Weapons
+  ********************************
+
+  In this section I will list all of the weapons in the game, their
+attack power, range, strengths and weaknesses. Attack power is
+measured by hearts. For example, the Yo-yo has an attack power of
+1 heart. That is how much damage it will inflict on the enemy.
+Range is measured by how many tiles the weapon will travel.
+
+
+Yo-yo
+ AP: 1 Heart
+ Range: 2 Tiles
+ Explanation: Mike's main weapon. Chief CoralCola gives it to you.
+ Strengths:
+    The fact that you never run out of hits with the Yo-yo is its
+    biggest advantage. Also, Mike can hit repeatedly with it in a
+    very short amount of time. You can also use the Yo-yo to collect
+    hearts and stars.
+ Weaknesses:
+    Being Mike's very first weapon, it is one of the weakest in the
+    game. When you reach the higher versions of the Yo-yo, such as
+    the Shooting Star and Super Nova, the Yo-yo becomes increasingly
+    difficult to make use of.
+
+Shooting Star
+ AP: 2 Hearts
+ Range: 5 Tiles
+ Explanation: Upgraded version of the Yo-yo. Queen SheCola gives it
+    to you. 6 hearts are needed to wield it.
+ Strengths:
+    As with the Yo-yo, the Shooting Star's biggest advantage is that
+    you can't run out of ammo. Its attack power is double that of
+    the Yo-yo and the range is five tiles! This is an extremely good
+    weapon for more than half of the game and is still quite useful
+    during the last chapters. The Shooting Star can collect stars and
+    hearts if Mike is two tiles away.
+ Weaknesses:
+    Not many, really. Near the beginning, holding on to six hearts may
+    be a little difficult, but it gets easier and easier as time goes
+    on. Later, however, the lack of range compared to enemies brings
+    the Shooting Star down a notch.
+
+Super Nova
+ AP: 2.5 Hearts
+ Range: Full Row
+ Explanation: Upgraded version of the Shooting Star. The Power of the
+    Magic Cube flows through it. 11 hearts are needed to wield it.
+ Strengths:
+    Unlike the Super Nova's predecessors, its biggest strength is not
+    in its infinite ammo (which is good, mind you), it's in the range.
+    With the proper precision, Mike can defeat enemies on the opposite
+    side of the room with little or no retaliation. You can also pick
+    up stars and hearts with it if Mike is close enough.
+ Weaknesses:
+    Being Mike's last weapon, you'd think it'd be a lot more powerful
+    than it is. The Super Nova is only 2.5 times stronger than the
+    Yo-yo, which is only half a heart more than the shooting Star. It
+    doesn't change the outcome of a fight nearly as much as the range
+    does. Also, because Mike gets the Super Nova so late in the game,
+    you can't use it to its full potential very much. Lastly, keeping
+    11 hearts in Chapter 7 can be difficult if you're not a veteran
+    at this game.
+
+Torch
+ AP: 2 Hearts
+ Range: 3 Tiles
+ Explanation: The torch is found only in Chapter 1. They're not very
+    useful. I don't really use them for anything except for the boss.
+    The torches are a basic throwing weapon that flies out in front of
+    Mike.
+ Strengths:
+    The torch is very much like the Shooting Star. It's power is double
+    that of the Yo-yo but only 1 more tile in range. Definetly useful
+    for defeating the C-Serpent.
+ Weaknesses:
+    Since you can only get the torch in the first dungeon, there's no
+    real need for so much attack power. Only two of the enemies in the
+    dungeon take more than one hit and they're not hard to beat anyway.
+    The range is OK, but definetly not that good.
+
+Baseball Bat
+ AP: 2 Hearts
+ Range: All tiles adjacent to Mike.
+ Explanation: The Bat is one of the worst weapons in the game, but,
+    surprisingly, it's found in a lot of dungeons. With the games worst
+    range and decent attack power, the Bat is an option that you should
+    just pass up. When in use, Mike swings the Bat around his body.
+ Strengths:
+    The only thing good about the bat is its attack power.
+ Weaknesses:
+    Where should I begin? Tha Bat has the worst range of any other
+    weapon in the game. The range is 1... 1 tile around Mike. The idea
+    of a weapon being able to hit all around Mike is good, but only one
+    tile makes it useless. Oh, and the Bat is ssslllooww. You have to
+    time your attacks way too much with this thing to make it any good.
+    Don't bother using this weapon. It sucks.
+
+Bola
+ AP: 1 Heart
+ Range: Full Row
+ Explanation: The Bola is two rocks tied together with some rope and
+    is thrown at the enemy. It moves in a direct line like the Torch,
+    but has the same range as the Super Nova, making one of the most
+    useful weapons early in the game.
+ Strengths:
+    The Bolas greatest strength is easily the range. This makes it an
+    incredibly valuable weapon early on. Also, you get 40 shots with
+    each Bola you pick up! Woo!
+ Weaknesses:
+    Sadly, the Bola lacks in attack power and speed. It moves across the
+    screen very slowly and hits for the same as the Yo-yo. If the enemy
+    starts to get close, don't waste your Bolas, simply switch to your
+    main weapon.
+
+Sling Shot
+ AP: 2 Hearts
+ Range: 3 Tiles
+ Explanation: The Sling Shot is a very poor weapon. Magma's Tunnel is the
+    only dungeon in the game where you can use it, and half of the
+    enemies don't need to be defeated. Like the Bola, and the torch, the
+    Sling Shot moves in a direct line from Mike.
+ Strengths:
+    The Sling Shot has decent attack power. Other than that, the Sling
+    Shot is pretty basic.
+ Weaknesses:
+    Like the Bola, the Sling Shot moves slowly. Also, its range is pitiful.
+    The attack power would be so much better if you got it in a level with
+    enemies that took more than two hits to defeat. Don't bother using it.
+
+Miracle Mirror
+ AP: N/A
+ Range: Full Row
+ Explanation: The Miracle Mirror is more of a defense than a weapon. It can
+    only be used to defeat two enemies, the Dimhag and the Pirate Ghoul.
+    By holding the Mirror in front of him, Mike can bounce the energy back
+    to the enemies.
+ Strengths:
+    Other than being the only way to defeat Dimhags and Pirate Ghouls, none.
+ Weaknesses:
+    The Mirror cannot be used to defeat any other enemy than the two
+    mentioned above. It's kind of a random thing they put in the game at the
+    last minute to have a cool little extra way of defeating an enemy.
+
+Wonder Horse Hide
+ AP: 1 Heart
+ Range: Full Row
+ Explanation: The Wonder Horse Hide is a baseball that Mike can throw at his
+    enemies. Just like most other weapons, the Wonder Horse Hide flies in a
+    straight line.
+ Strengths:
+    The only strength it has is that it makes a great weapon to use against
+    Broken Joe.
+ Weaknesses:
+    The biggest fault of the Wonder Horse Hide is that it can only be used
+    against Broken Joe. Other enemies can't be damaged by this weapon, making
+    it extremely pointless. Because of the fact that the Wonder Horse Hide is
+    the only way of hurting Broken Joe, it's impossible to really calculate
+    its attack power.
+
+Spikes
+ AP: 2 Hearts
+ Range: Full Screen
+ Explanation: The Spikes allow Mike to quickly attack every enemy in the
+    room. Only found in two chapters and you only get 10 hits with it.
+ Strengths:
+    Being able to attack every enemy in the room make this weapon very
+    useful in a crowded screen. Its attack power isn't too bad for a full
+    screen weapon, either.
+ Weaknesses:
+    The Spikes have a pretty long recovery time which allows fireballs and
+    other close dangers to sneak in a hit before Mike can dodge them. Also,
+    there are only 20 Spikes in the game making it difficult to use them to
+    their full potential.
+
+Asterisk
+ AP: 2 Hearts
+ Range: Full Row, 4 Tiles once segmented
+ Explanation: The Asterisk is a pair of flying stars that fly straight out
+    like the other projectile weapons. If you press B again while the
+    Asterisk is in flight, it will break into 2 pieces and fly quickly to
+    the sides.
+ Strengths:
+    The range and diversity of attack makes the Asterisk a great weapon. The
+    first shot is slow, that helps in setting up the break point. The Asterisk
+    also picks up tremendous speed once broken apart, so enemies will have a
+    hard time dodging it.
+ Weaknesses:
+    The attack power, while fairly good, is the same as most weapons you get
+    and doesn't help as much in Chapter 6 where you find it. Not being able
+    to shoot two at a time makes this a slow weapon to damage enemies with
+    multiple hearts.
+
+Ray Gun
+ AP: 2 Hearts
+ Range: 6 Tiles
+ Explanation: The Ray Gun can shoot tiny energy shots at the enemy at
+    incredible speeds. It is only found in the Alien Spaceship.
+ Strengths:
+    The Ray Gun is not only powerful with exceptional range, but it is also
+    the fastest weapon in the game. From far off, the Ray Gun can shoot 4
+    shots in a second. Also, there are plenty of Ray Guns to be found in the
+    last two chapters. The Ray Gun is, by far, the most balanced weapon in
+    the game.
+ Weaknesses:
+    Though very fast from afar, up close Mike can only shoot twice every
+    second or so.
+
+Wave Gun
+ AP: 3.5 Hearts
+ Range: 4 Tiles length, 3 Tiles wide
+ Explanation: The Wave gun is the final weapon in the game. It shoots off a
+    massive surge of electric energy. The shots are very wide and hit enemies
+    to the sides of the actual shot.
+ Strengths:
+    With an attack power of 3.5 Hearts, the Wave Gun is the strongest weapon
+    in the game. The range is pretty useful because it allows Mike to hit
+    enemies without much aim. The Wave Gun is also able to shoot multiple
+    shots in a short time.
+ Weaknesses:
+    Besides the wide range, the length is pretty bad. Also, you get very
+    few shots with this weapon, so you can't be too wasteful. Another
+    problem is that the only enemy that will feel the full impact of this
+    weapon are the Gunners.
+
+
+
+  3b: Items
+  ********************************
+
+  3b-a: Dungeon Items
+  ********************************
+
+  These are all of the items that you will find in the dungeons through
+out the game. Stars and Hearts are dropped by enemies when you defeat
+them, but all the other items must be found.
+
+Hearts:
+   Hearts are the most common item in the game. Collect one to fill an
+   empty heart on you life meter. Hearts can come in single, double and
+   four packs.
+
+Stars:
+   Stars are used to gain hearts. Collect five in the same dungeon and
+   you will earn a heart.
+
+Medicine:
+   When a bottle of Medicine is used, Mike gains 5 hearts immediatly.
+   Much more useful in the beginning of the game.
+
+Snowman Doll:
+   When Mike uses the Snowman Doll, all enemy movement stops completely
+   for about 5 seconds. Only found in Chapter 2.
+
+Try-Your-Luck Sign:
+   The TYL Sign has three different outcomes. It might give you a life,
+   give you two lives, or take away one life. It all depends on luck.
+
+Stop/Slow Watch:
+   Grabbing the Stop/Slow Watch causes all enemy action to either stop
+   for five seconds or slow down immensly.
+
+Rod of Sight:
+   Use the Rod of Sight to see the invisible enemies, Minie and Maxie.
+   You only get four shots with one, though.
+
+Lantern:
+   The Lantern lights up a darkened room for about five seconds and then
+   the room becomes dark again. Only five uses per Lantern.
+
+Anklet:
+   The Anklet allows Mike to jump the distance of two tiles, instead of
+   one. Mike will become yellow when this happens. The Anklet wears off
+   when Mike exits the room.
+
+Vitamin-X:
+   The Vitamin-X fills Mike's life meter to the maximum! Even if your
+   heart meter has not reached 22 hearts, the Vitamin-X will give you 22
+   hearts, but will slowly decrease until it reaches your current maximum.
+
+
+  3b-b: Key Items
+  ********************************
+
+  These items are used during the overhead mode of the game. The items are
+used to advance the story or to make Mike stronger.
+
+Code 1492:
+   Mike will get this code from Baboo at the end of Chapter 1. Use it to
+   gain entry to the Sub-C and continue to Chapter 2.
+
+Code 1776:
+   You will find this code on a beach in Chapter 2. Use it to learn how
+   to submerge the Sub-C.
+
+Big Heart:
+   Find these in various places around the world to increase Mike's life
+   meter by one full heart.
+
+Crystal Ball:
+   Found at the bottom of Ghost Village Lake. Return it to the Fortune
+   Teller to gain access to SheCola.
+
+Scroll of Obob:
+   The scroll given to you by the Mountain Hermit. Use it to awaken
+   Bananette.
+
+Baboo's Lighter:
+   The lighter Baboo usually carries around with him. Find it in the
+   whale's stomach to make a fire.
+
+Worm:
+   A gift given to you by Hook the fisherman. Give this to Peter the
+   parrot to receive some information.
+
+Big Apple:
+  Tastes delicious! But does nothing...
+
+1st Magic Cube:
+   Found on the Alien Spaceship. Upgrades the Shooting Star to the Super
+   Nova.
+
+2nd Magic Cube:
+   Found at the end of Chapter 7. Gives Mike maximum health, 22 hearts.
+
+3rd Magic Cube:
+   Found at the end of the game. The last Magic Cube.
+
+
+
+  3c: Enemies
+  ********************************
+
+  This section contains information about the enemies you will face on
+your journey. For each enemy, I have listed theirappearance, health and
+Attack Power, which is measured in hearts.
+
+Jelly
+ Appearance: A pink slug
+ Health: 1 Heart
+ AP: .5 Heart
+
+Rattus
+ Appearance: A blue rat
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Nocto
+ Appearance: A purple and black bat
+ Health: 1 Heart
+ AP: .5 Heart
+
+Looper
+ Appearance: An orange snake
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Mud-O-Fish
+ Appearance: A tiger-striped fish
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Spinistar
+ Appearance: A Star Fish
+ Health: 1 Heart
+ AP: .5 Heart
+
+Octot
+ Appearance: A one eyed, red octopus
+ Health: 1 Heart
+ AP: 1 Heart
+
+Puff
+ Appearance: A large, red, puffed up fish
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Dodo
+ Appearance: A small blue dodo bird
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Ninja Monkey
+ Appearance: Angry looking monkeys with wings
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Boneheads
+ Appearance: an Ostrich with a skull for a head
+ Health: 5 Hearts
+ AP: 1.5 Hearts
+
+Gadfly
+ Appearance: Yellow and black flies
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Mad Muddy
+ Appearance: A mud monster who lives in the lava
+ Health: 1 Heart
+ AP: 1 Heart
+
+Bonedog
+ Appearance: A skeleton dog
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Skull
+ Appearance: A... skull
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Minie
+ Appearance: A small ghost
+ Health: 1 Heart
+ AP: .5 Heart
+
+Muumu
+ Appearance: Mummy
+ Health: 8 Hearts
+ AP: 1.5 Hearts
+
+Mr. Armstrong
+ Appearance: A large arm
+ Health: 2 Hearts
+ AP: 1.5 Hearts
+
+Dimhag
+ Appearance: Red cloaked magicians who wield staves
+ Health: 1 Heart
+ AP: 1 Heart
+
+Froppa
+ Appearance: Green goblin
+ Health: 3 Hearts
+ AP: 1.5 Hearts
+
+Gogglin
+ Appearance: Large eye
+ Health: 5 Hearts
+ AP: 1.5 Hearts
+
+Big Bully
+ Appearance: A large purple, bigfoot monster
+ Health: 11 Hearts
+ AP: 2.5 Hearts
+
+Pirate Ghouls
+ Appearance: Skeleton pirate
+ Health: 1 Heart
+ AP: 2 Hearts
+
+Armet
+ Appearance: A small crab in a shell
+ Health: 8 Hearts
+ AP: 1 Heart
+
+Squidos
+ Appearance: Pink Squid
+ Health: 2 Hearts
+ AP: 1 Heart
+
+Biter
+ Appearance: A small purple monster with a big mouth
+ Health: 2 Hearts
+ AP: 3 Hearts
+
+Rocky
+ Appearance: Disappearing Rockmen
+ Health: 2 Hearts
+ AP: 2.5 Hearts
+
+Walking Rocky
+ Appearance: Walking rockmen
+ Health: 13 Hearts
+ AP: 4 Hearts
+
+Fuzz
+ Appearance: Small fuzzy wisp of dust
+ Health: N/A
+ AP: N/A (Steal Weapon for short time)
+
+Hoodoo Doll
+ Appearance: A large walking doll
+ Health: 27 Hearts
+ AP: 3 Hearts, Death if Mike comes in contact with enemy
+
+Alien Gunner
+ Appearance: A yellow or green guy with a gun
+ Health: Yellow: 6 Hearts. Green: 10 Hearts
+ AP: Yellow: 1.5 for gun, 3 for contact. Green: 2.5 for gun, 5 for contact
+
+Alien Rider
+ Appearance: An Alian Gunner on a bike
+ Health: 2 Hearts
+ AP: 3 Hearts
+
+Air-Drones
+ Appearance: White or Red flying robots
+ Health: 2 Heart, 4 hearts for red
+ AP: 1 Heart
+
+Alien Snipers
+ Appearance: Red Alien sniping out of a window
+ Health: 5 Hearts
+ AP: 1 Heart
+
+Zoda Membrane
+ Appearance: Small squid/cell like creature
+ Health: 2 Hearts
+ AP: 3 Hearts
+
+
+  3b: Bosses and Strategies
+  ********************************
+
+
+  This section contains information and techiques to defeat all of the
+boss enemies you will face on your journey. For each enemy, I have listed
+their appearance, health and Attack Power, which is measured in hearts,
+attacks, techniques, and what stage they're found in.
+
+C-Serpent
+ Found in: Chapter 1, The Test of Island Courage
+ Appearance: A gigantic red serpent.
+ Health: 33 Hearts
+ AP: 1 Heart, Death if Mike comes in contact with Boss.
+ Attacks: Shoots two fireballs from its mouth downward.
+ Technique: First of all, switch to your torches, this way, the boss will
+    only take 17 hits instead of 33 with the Yo-yo. Wait on the center tile
+    for the serpent to open its mouth. When it does, it will either shoot
+    two fireballs down towards you, or do nothing. If it shoots, jump to
+    either side of the tiles and jump back when he's done. You should be
+    able to get two hits on him before you jump, three if you can jump back
+    fast enough to hit him again afterwards. If the boss just sits there,
+    attack as fast as you can. You shouldn't have too much trouble with him.
+
+Octo
+ Found in: Chapter 2, Octo's Cave
+ Appearance: A big pink Octopus
+ Health: 50 Hearts
+ AP: 1.5 Hearts, Death if Mike comes in contact with Boss.
+ Attacks: Continuous Ink shots aimed towards Mike.
+ Technique: Hopefully, you collected the Snowman item in the dungeon, if not,
+    no big deal, the boss will only take a bit longer. Octo will begin the
+    fight by moving back and forth while unleashing a barrage of ink shots
+    that aim directly at Mike. Continue to jump from side to side, avoiding
+    the shots until Octo charges towards the bottom of the screen. This is
+    the only time when Mike can get close enough to attack Octo, so move near
+    him and let go with either the Yo-yo or Bat. If you have the Snowman,
+    however, you can freeze Octo for several seconds and attack longer. Using
+    the Snowman, Octo should go down after his second charge. If you're fast,
+    you can use both snowman in one charge and defeat Octo before he has chance
+    to shoot back.
+
+Magma the Fierce
+ Found in: Chapter 3, Magma's Molten Tunnel
+ Appearance: A fire demon
+ Health: N/A
+ AP: 1 Heart, Death if Mike comes in contact with Boss.
+ Attacks: Shoots two streams of Fireballs. Two floating Fireballs protect the
+    sides of the room.
+ Technique: Magam is a very different boss. Mike can't defeat it by attacking
+    it. Instead, Mike must sink Magma's platform by finding two switches in the
+    room. Instead of explaining where each switch is, I'll map out the room with
+    my oh, so good ASCII skills.
+    ______________
+    |#           |
+    |    ****    |
+    |** **MM** **|       the * are tiles
+    |    ***#    |       the # are the switches
+    |*          *|-
+    |* *------* *|
+    |            |
+    | * * ** * * |
+    --------------
+    Once you hit both switches, Magma will drown and you can exit the dungeon.
+
+Maxie
+ Found in: Chapter 3, The Ghost Tunnel
+ Appearance: A large version of Minie
+ Health: 18 Hearts
+ AP: 1 Heart
+ Attacks: Two Volcanoes shoot fireballs towards Mike. Maxie periodically shoots
+    a couple of Minies towards you, too.
+ Techniques: Equip your Bolas and stand near the bottom of the room. Avoid
+    the fire balls and occasional Minies and continue to hurl your Bolas upwards.
+    Maxie does not move very fast and periodically stops in place, so you shouldn't
+    have any difficulty hitting it. When Maxie gets close to death, it will speed
+    up and move from side to side. Maxie only takes 18 hits with the Bola, so you
+    shouldn't have any worries about losing ammo.
+
+Turboss
+ Found in: Chapter 6, Lost Ruins
+ Appearance: A big spiraly shell
+ Health: 34 Hearts
+ AP: 2 Hearts, Death if Mike comes in contact with Boss.
+ Attacks: Continuous shells aimed towards Mike.
+ Technique: This is the same fight as Octo, so follow my Octo strategy. The only
+    difference is that you don't have the Snowman doll.
+
+Broken Joe
+ Found in: Chapter 6, Lost Ruins
+ Appearance: A gigantic Easter Island head
+ Health: 13 Heart
+ AP: 2.5 Hearts, Death if Mike comes in contact with Boss.
+ Attacks: Fires squiggly things downward.
+ Technique: Broken Joe will move back and forth and side to side slowly. He will
+    then open his mouth and shoot squiggly things at you. Sometimes when he's
+    finished shooting, he will sit there with his mouth open. This is t he only
+    time Mike can hit him, so equip your Wonder Horse Hides and nail him as much
+    as possible. Broken Joe is a very simple boss that is similar to the C-Serpant,
+    so unless you enter the fight with low health, you shouldn't have a problem.
+
+The Statues of Twin Sumocho
+ Found in: Chapter 6, Big Rock Tunnel
+ Appearance: Two large statues
+ Health: 20 Hearts
+ AP: 2 Hearts, Fire: 3 Hearts
+ Attacks: Both statues shoot small shots at Mike. There are two fires protecting
+    the statue's base.
+ Technique: There are two ways to easily defeat the statues. If you have Ten or
+    more Asterisks, then jump to the top of the screen and continuously use the
+    Asterisks to hit both heads simultaneously while jumping the shots. You might
+    get hit a few times, but hopefully you have the Medicine with you. If you're
+    all out of Asterisks, then you jump onto the base of the statues and attack
+    away. Dodging the fire can prove to be tough, but you are completely safe from
+    the shots while on the base. Choose which ever technique you like the best and
+    you wno't have a problem against these guys.
+
+Jet Pack Jumpers
+ Found in: Chapter 7, Inside the Alien Ship
+ Appearance: Large gun toting mechs
+ Health: 24 Hearts
+ AP: 1.5 Hearts, 2.5 if Mike comes in contact with Boss
+ Attacks: Shoots bullets towards Mike
+ Technique: First off, get the Anklet, this allows Mike to jump around the room.
+    Now, equip the Spikes and let 'er rip. After the Spikes are worn out, attack
+    each Jumper twice more with the Shooting Star or Ray Gun and that's it. If
+    you don't have the Spikes, you'll have to jump around and avoid the shots while
+    attacking. Much harder, so try to take the Spikes along.
+
+Ostroid
+ Found in: Chapter 7, The Second Magic Cube
+ Appearance: Kind of like an AT-ST from Star Wars
+ Health: N/A
+ AP: 1 Heart from purple orb, 2.5 from shots. Death if Mike comes in contact with
+    Boss.
+ Attacks: Purple Orbs, and shots
+ Technique: Ostroid, much like Magma, can't be destroyed. Instead Mike must
+    continuously attack Ostroid until he can step on the switch. Doing so will create
+    a pit behind Ostroid. Now, while avoiding the easily avoidable shots, attack
+    Ostroid until it falls down the chasm. Simple as pie.
+
+Zoda's Image
+ Found in: Chapter 8, The Core and Zoda
+ Appearance: A HUGE head
+ Health: 22 Hearts
+ AP: 2 Heart, death if Mike comes in contact with any part of the Boss
+ Attacks: Claws, Eyeballs
+ Technique: First of all, grab the Ray Gun from the corner and stand in the center of
+    the room. Zoda will do one of two things. He will either reach out with his hand, at
+    which point immediately run to the opposite side of the room to avoid it, or his
+    head will appear and shoot eyeballs at you. The head is the only part Mike can
+    damage, so unleash your fury with the Ray Gun whenever the head appears.
+
+The Core
+ Found in: Chapter 8, The Core and Zoda
+ Appearance: A giant machine
+ Health: About 40 Hearts
+ AP: N/A
+ Attacks: N/A
+ Technique: The Core's room has four Gunner Duplicators. The two at the bottom reveal
+    flying stars, similar to the ones found in Chapter 7. The top two will unleash one
+    Gunner everyone the four open. At the same time, The Core will periodically shut
+    itself away from your attacks and heals about 10 Hearts. You have two choices for
+    where you can attack; from the bottom, where you'll have to avoid the stars, or
+    you can attack from the tiles, but you'll have to jump away when they open. If
+    you do fall in, you must complete the stage again. Keep at it, and try not to let
+    The COre heal itself too much.
+
+Zoda's True Form
+ Found in: Chapter 8, The Core and Zoda
+ Health: 100 Hearts
+ AP: 2 Hearts, Death if Mike comes in contact with the Boss
+ Attacks: Membranes, Fire Balls
+ Technique: Zoda begins near the right side of the room. Jump on to the tiles and wait
+    until Zoda follows. Don't let Mike get into the field of vision with Zoda, or else
+    he might get hit by fireballs. Stay one tile away from Zoda and as he jumps from
+    one tile to another, shoot him with the Ray Gun or Super Nova. As soon as he turns,
+    jump away from him and repeat the process. This is a very slow way of defeating Zoda,
+    but it is definetely the safest. Continue this until Zoda starts dying. Never jump
+    into Zoda, even when he's dying or Mike will lose a life.
+
+
+
+4: Other
+**********************************
+
+  4a: F.A.Q.
+  ********************************
+
+If you have any questions regarding StarTropics, or this walkthrough,
+feel free to email me at Philby15@hotmail.com. Most of the questions
+I get will appear here.
+
+
+
+  4b: Legal Stuff
+  ********************************
+
+  This walkthrough is copyright 2003 to Phil Henry. Any use of this
+walkthrough for profitable or commercial use is prohibited. Feel free
+to distribute it between friends or for personal use. Only the websites
+www.gamefaqs.com and http://www.classicgaming.com/startropics have
+permission to use this walkthrough.
+If you'd like to post my Walkthrough on your site, just ask. I'll
+probably say yes. Any misuse of this walkthrough will result in
+legal actions.
+
+
+  4c: Closing
+  ********************************
+
+I'd like to thank the following people...
+
+  Nintendo of America - For creating an enjoyable, different game.
+
+  Nintendo Power - Volume 22, to be specific. Their review of
+                  Startropics was extremely useful for the maps.
+
+  Jeff "CJayC" Veasey - For creating GameFAQs, the BEST site for
+                        game help. Also, thanks to him for putting up
+                        this Walkthrough!
+
+  Vimm's Lair - www.vimm.net for allowing me to use the StarTropics
+                Manual for enemy names and such.
+
+  My Girlfriend - She never doubted for a second that I could do this.
+                  (OK, maybe one second) Anyway, she was the reason why
+                   this thing was finished. If not for her, I would've
+                  forgot about it.
+
+
+(c) Phil Henry 2004

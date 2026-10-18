@@ -1,0 +1,4075 @@
+ ---------------------------------------------------------------------
+|  -----------------------------------------------------------------  |
+| |                                                                 | |
+| |   /----                     -------                             | |
+| |  |                             |                                | |
+| |   \____  -----  --  ----       |  ---   --  ---  ---  -- /--    | |
+| |        \   |   |  |  |  \      |  |  \ |  | |  \  |  /   \__    | |
+| |         |  |   |--|  |--/      |  |--/ |  | |--/  |  \      \   | |
+| |    ----/   |   |  |  |  \      |  |  \  --  |    ---  --  --/   | |
+| |                                                                 | |
+|  -----------------------------------------------------------------  |
+ ---------------------------------------------------------------------
+
+    F  O  R    T  H  E    8  -  B  I  T    N  I  N  T  E  N  D  O
+
+                     V  e  r  s  i  o  n   1 . 0
+
+              M a d e  B y  S t a r F i g h t e r s 7 6
+
+Welcome all to my walkthrough on a very fun and under-rated tough game
+called Star Tropics for the Nintendo Entertainment System. I hope this
+walkthrough helps out as much as possible. Below is nothing but spoilers
+on the game, so if you don't want to be spoiled, please take a detour
+and hit the Back button now. However if you want to be spoiled or need
+some help, please scroll down as far as you need to. Consider this as
+your Spoiler Warning!
+
+ -----------------
+|TABLE OF CONTENTS|
+ -----------------
+
+   SECTION 1: Intro
+     A: Version Guide
+     B: The Story Of Star Tropics
+     C: What Is Star Tropics
+     D: About This Walkthrough
+     E: Control Configuration
+     F: Status Screen
+
+   SECTION 2: Walkthrough
+     A: Before The Walkthrough
+     B: Chapter 1: Prelude
+        1: Dungeon 1-1 (Part A & Part B)
+     C: Chapter 2: Dolphins
+        2: Dungeon 2-1 (Part A, Part B & Part C)
+     D: Chapter 3: Storm And Calm
+        1: Dungeon 3-1 (Part A)
+        2: Dungeon 3-2 (Part A & Part B)
+        3: Dungeon 3-3 (Part A, Part B & Part C)
+        4: Dungeon 3-4 (Part A)
+        5: Dungeon 3-5 (Part A, Part B & Part C)
+     E: Chapter 4: Confessions
+        1: Dungeon 4-1
+     F: Chapter 5: Captain Bell
+        1: Dungeon 5-1 (Part A, Part B & Part C)
+     G: Chapter 6: Reunion
+        1: Dungeon 6-1 (Part A & Part B)
+        2: Dungeon 6-2 (Part A, Part B, Part C & Part D)
+     H: Chapter 7: Alien Spaceship
+        1: Dungeon 7-1 (Part A)
+        2: Dungeon 7-2 (Part A, Part B & Part C)
+     I: Chapter 8: Final Battle
+        1: Dungeon 8-1 (Part A)
+
+   SECTION 3: The Goodies
+     A: Main Weapons
+     B: Secondary Weapons
+     C: Magic Items
+     D: Other Items
+     E: Game Story Items
+     F: Puzzle Solutions
+
+   SECTION 4: The Baddies
+     A: Enemies
+     B: Bosses
+
+   SECTION 5: In Conclusion
+     A: What's To Come
+     B: Special Thanks
+     C: The Disclaimer
+     D: Final Words
+
+-----------------------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+-----------------------------------------------------------------------
+
+            -----
+SECTION 1: |INTRO|
+            -----
+
+      -------------
+  A: |Version Guide|
+      -------------
+
+     Version 1.0: Just finished making the walkthrough for the game,
+     and submitted it to GameFAQS (04/23/08)
+
+      -------------------------
+  B: |The Story Of Star Tropics|
+      -------------------------
+
+     Taken from first part of the page found on Wikipedia.org:
+
+        "The story revolves around Mike Jones, a star pitcher from
+        Seattle, who went to C-Island for a vacation and to visit his
+        uncle, an archeaeologist named Dr. Steve Jones, more commonly
+        known as "Dr. J", after receiving a letter from him. Visiting
+        the nearby village of Coralcola, Mike discovers that Dr. J has
+        gone missing. However, the path to the lab is blocked, so the
+        Chief gives Mike the Island Yo-Yo as his first weapon, sends
+        him to meet his sister, the Shaman, and Mike goes through the
+        monster-infested tunnel. After defeating the vicious C-Serpent,
+        Mike reaches his uncle's lab. Once there, he meets Baboo,
+        Dr. J's assistant, who lets him take Dr. J's submarine, the
+        Sub-C, which is navigated by a robot named Nav-Com. Mike
+        travels off the island in the Sub-C, and his journey begins."
+
+      --------------------
+  C: |What Is Star Tropics|
+      --------------------
+
+     Star Tropics is like the first Legend Of Zelda game, only with a
+     few twists in it. You get to play as a kid who has to search for
+     his uncle who has been abducted by aliens. The dugneons are laid
+     out sorta like Legend Of Zelda as it is overhead, where you must
+     fight hordes of creatures, while the overworld is simple walking
+     around, collecting key items and visiting villages. Saving only
+     takes place when entering a tunnel, finishing a tunnel or
+     finishing a chapter. Other than that, this is a challenging game,
+     but an enjoyable one (and educational at some parts). Do enjoy!
+
+      ----------------------
+  D: |About This Walkthrough|
+      ----------------------
+
+     Several times throughout the walkthrough I will probably repeat
+     myself. A few times would possibly be necessary, such as a Boss
+     guide, as well as a few other things. Sometimes I do this without
+     even realizing it, and sometimes I do it to make it easier for
+     people to find what they are looking for on this walkthrough. This
+     guide, like others, is described on how I played/beat the game.
+     You have your methods as do I. This is just my way of doing it. I
+     hope this helps out in anyways possible.
+
+      ---------------------
+  E: |Control Configuration|
+      ---------------------
+
+     These are the basic controls for both Overworld navigation and
+     Dungeon navigation:
+
+        CONTROLS FOR OVERWORLD NAVIGATION:
+
+           D-PAD = Moves left, right, up or down.
+           'A' BUTTON = Talks to people/Picks up certain items
+           'B' BUTTON = Does nothing
+           START BUTTON = Does nothing
+           SELECT BUTTON = Does nothing
+
+        CONTROLS FOR DUNGEONS NAVIGATION:
+
+           D-PAD = Moves left, right, up or down.
+           'A' BUTTON = Allows you to jump
+           'B' BUTTON = Allows you to use weapons.
+           START BUTTON = Pauses the game/
+                          Selects Magic Items (press DOWN D-PAD)
+           SELECT BUTTON = Switches between weapons.
+
+-----------------------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+-----------------------------------------------------------------------
+
+            -----------
+SECTION 2: |WALKTHROUGH|
+            -----------
+
+      ----------------------
+  A: |Before The Walkthrough|
+      ----------------------
+
+        1. Just like most of my other FAQ/Walkthroughs, I have broke
+           down each dungeon room by room. For this game however, after
+           you get so far into the the dungeon and lose a life, you
+           will start back at a "midway point". For this I decided to
+           break down the dungeons by seperate parts. Example, in
+           Dungeon 1-1, if you lose your life from Room #10 and
+           onwards, you will start off at Room #10. Room #01 - Room #09
+           would be Part A, while Room #10 - Room #18 would be Part B.
+           This is done to make things easy for you when you use this
+           walkthrough. Also note, all items and puzzles will reset
+           once you start a new life.
+
+        2. On top of all the items in the game, there are a couple
+           items that are dropped by enemies (though very rarely).
+           These are Power Stars (which are white) and One Hearts.
+           Collecting 5 Power Stars will refill one lost Heart Point.
+           Collecting a One Heart will also refill one lost Heart
+           Point.
+
+      ------------------
+  B: |Chapter 1: Prelude|
+      ------------------
+
+     "One day in summer, you land at C-Island where Dr. Jones has his
+     labratory..."
+
+     O V E R W O R L D (ITEMS: None)
+
+     And now, the new adventure beings! After a cutscene, you wake up
+     on an island known as C-Island. Unaware of what's going on, you
+     begin your journey now! From where you start off at, head left
+     until you get to some trees, then up and around the trees until
+     you reach the village. Welcome to Coralcola Village!
+
+        C O R A L C O L A   V I L L A G E (ITEMS: Yo-Yo)
+
+        This will be the first of many villages you will come across in
+        the game, so get use to it. Starting off, by talking to people,
+        they will recognize you off the bat, which is good. So what is
+        needed to be done, well you need to speak to the village cheif.
+        To get there, follow the dark path to the big dark central path
+        thingy. From there, head left to the covered hut and enter it.
+        Now go up to the village cheif and talk to him. He will give
+        you some distressing news about your uncle. Seems that he's
+        been abducted by aliens (how cliche). He asks for your help,
+        which you obviously will oblidged, and by doing so, he will
+        give you the YO-YO weapon (hey, it worked on Ninja Turtles 2).
+
+        He will tell you about a tunnel that's in the village, which
+        will take you to your uncles lab. The tunnel's location is in
+        the northeast corner of the village, however there is a guard
+        blocking your way into it. Talk to various of people around the
+        village then go back to him. He will then recognize you and let
+        you pass. Go into the small covered hut and into the stairs. As
+        you do, the Shaman (and sister of the island cheif) will tell
+        you about why your uncle was snatched and what lurks in the
+        dungeons (obviously) and to be careful. With that, your game
+        will automatically save. Now get ready for your adventures in
+        Dungeon 1-1!
+
+     ------------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 1-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 2 parts and 18 rooms in it.
+
+               - - - D U N G E O N   1 - 1   P A R T   A - - -
+
+                [10]        LEGEND FOR PART A:
+                  |         01 = Starting Point
+           [08]-[07]-[09]   10 = Fire Torches/Leads to 11 (Part B)
+                  |
+                [06]
+                  |
+                [---05--]
+                  |
+                [04]
+                  |
+                [03]
+                  |
+                [02]
+                  |
+                [01]
+
+        ROOM #01:
+        You start off in this first room. Nothing here really, so just
+        head north to ROOM #02.
+
+        ROOM #02:
+        In here will be three Rabbit Slugs as well as four tiles.
+        Nothing is gained from the tiles, so just take out the enemies
+        and the north door will open, taking you to ROOM #03.
+
+        ROOM #03:
+        In here is six Rabbit Slugs, but nothing more. Just take them
+        all out and the north door will open, taking you to ROOM #04.
+
+        ROOM #04:
+        For this room are four Rabbit Slugs and a Blue Rat and several
+        tiles. Take out the first Rabbit Slug you see, then starting
+        with the first left tile you see, jump up 1, left 1 and take
+        out the next Rabbit Slug. Jump on the top tile to reveal a
+        switch. Go to the switch to open the north door. You don't
+        need to take out the other Rabbit Slugs, but the Blue Rat you
+        can. After that, go through the door, taking you to ROOM #05.
+
+        ROOM #05:
+        This is the first long room you'll be in. Right away you will
+        be greeted by two Blue Rats. Take them out and go right to
+        find another three. At the otherside, head up to the tiles,
+        and simply jump across them until you get to the one under the
+        door. Now jump down 1 to reveal a switch. Jump to the switch
+        to open the door. Go into the door, taking you to ROOM #06.
+
+        ROOM #06:
+        Three Blue Rats and two Rabbit Slugs inhabit this room, so
+        take them out and the north door will open, taking you
+        to ROOM #07.
+
+        ROOM #07:
+        In here is four Rabbit Slugs and a bunch of tiles. Starting
+        with the left tile, take out the first Rabbit Slug, then jump
+        up 1 to reveal a switch, then right 1 for another (take out
+        the Rabbit Slug). These switches open the west and east doors,
+        leading to ROOM #08 and ROOM #09 (respectively) but nothing
+        can be gained from either room (just five Blue Bats each).
+        Instead, you need to make your way to the top section. To get
+        there, head to the east door (or west, don't matter), then via
+        the tiles, jump up 1, left 2, up 1, then onto solid ground.
+        Once there, jump on the far left tile to reveal a switch. Step
+        on that and the north wall will open, taking you to ROOM #10.
+
+        ROOM #10:
+        This is simple, just hit the right switch (no sense in telling
+        since it's easy to figure out) and the chest will reveal FIRE
+        TORCHES (save these!). Now hit the right switch again to open
+        the north door and go through it, taking you to ROOM #11, as
+        well as PART B.
+
+               - - - D U N G E O N   1 - 2   P A R T   B - - -
+
+           [18]        LEGEND FOR PART B
+             |         11 = Starting Point for Part B
+           [17]        12 = Fire Torches
+             |         13 = Magic Potion
+           [16] [14]   14 = Magic Potion
+             |    |    16 = BOSS: Red Serpent
+           [15] [13]   18 = Leads to Overworld
+             |    |
+           [---12--]
+             |
+           [11]
+
+        ROOM #11:
+        Here begins Part B. For this room, you will be faced with a
+        Blue Bat and two Blue Rats. Take them out and the north door
+        will open, taking you to ROOM #12.
+
+        ROOM #12:
+        In here, the music will change, but don't be too threaten by
+        it. You will see a Rabbit Slug and a Brown Snake. Take these
+        out as well as the second Brown Snake you see. Now head to the
+        north tiles and jump left 2 to find a switch. This will open
+        the north door. Jump left 1 to find another switch, which will
+        reveal more FIRE TORCHES from the chest. Now back to the first
+        switch, jump north 1 to reveal a third one. Jump to that and
+        the far east wall will open. Go to it and through the opening,
+        taking you to ROOM #13.
+
+        ROOM #13:
+        Happy music!! Right away you will find a MAGIC POTION, so get
+        it! While you're at it, find the correct tile to reveal a
+        switch that will make the north wall open, which will take you
+        to ROOM #14.
+
+        ROOM #14:
+        In here is another MAGIC POTION so get it (but don't use
+        them). There's also another switch, but forget finding it as
+        it will reveal another opening in the north wall, but this
+        will take you to your doom if you go through it (don't believe
+        me, find out yourself then!). Now head back down to ROOM #13.
+
+        ROOM #13 (REVISITED):
+        Head through the left entrance, back to ROOM #12.
+
+        ROOM #12 (REVISITED):
+        Be careful in here, because the monsters has regenerated! Make
+        your way to the switch that opened the north door, then go
+        through the door, taking you to ROOM #15.
+
+        ROOM #15:
+        In here might be slightly tricky. There are three Blue Bats
+        and two Brown Snakes. Take them out, and the north door will
+        open. Go through it and you will be taken to ROOM #16.
+
+        ROOM #16:
+        Get ready, it's time for your very first boss fight!
+
+           BOSS #01: C-SERPENT
+           Okay here's how this fight will setup. The boss will stay
+           in the middle and after waddling a bit, will open it's
+           mouth and shoot fireballs at you. The thing is, that's when
+           you need to strike. To do so, stand on the middle tile and
+           use your FIRE TORCHES on it. When it's about to shoot
+           fireballs, throw a torch or two then jump to the left or
+           right tile to avoid them. After that, back to the middle
+           tile and keep shooting. After those run out, hit it with
+           your main weapon, which it shouldn't take long to take out.
+           Use your MAGIC POTIONS when needed. After enough hits, it
+           will be defeated!
+
+        And with that, the boss is gone. The pathway will now be
+        cleared so continue upwards and you will be taken to ROOM #17.
+        Just by experimenting, you don't have to defeat the boss to
+        complete this stage. If you have all of your life, simply walk
+        up to the boss, and jump onto the platform it's on and continue
+        going upwards. You'll lose a heart or two (having a Magic
+        Potion will help) but you can easily bypass this fight
+        altogether ^_^.
+
+        ROOM #17:
+        Make your way to the tile and jump on it to reveal a switch.
+        Hit the switch to make the north door open. Go through it and
+        you'll be at ROOM #18.
+
+        ROOM #18:
+        Simply go north and you will have completed Dungeon 1-1!
+
+     ------------------------------------------------------------------
+
+     O V E R W O R L D  (ITEMS: ID CODE 1492)
+
+     Wow, now wasn't that fun? Guess what, it won't always be this
+     easy! Anyways, you should now be on the C-Island Overworld now.
+     With your score tallied up (why is there a scoring system for?!)
+     plus two more Heart Containers added to your life (bring it up to
+     5 Heart Points), and the game saved, it's time to move on! Simple
+     follow the path around and you will come across a half naked
+     person. Talk to him and he will introduce himself as Baboo, who is
+     your uncles assistant. He will tell you about your uncles sub
+     known as Sub-C, after which, you will get the ID CODE. He then
+     tells you to board the sub, and that he wants to tell you more,
+     but he's afraid of something (oh goodie, plot twists this early!).
+     Now head onto the beach and south to the lab in the middle. You
+     will then be introduced to Nav-Com. After inputting the ID Code,
+     you will get a cutscene showing the Sub-C taking off. After which,
+     your game will be saved and it's time to move onto the next
+     chapter. You have now completed Chapter 1!
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      -------------------
+  C: |Chapter 2: Dolphins|
+      -------------------
+
+     "After a few hours voyage, Sub-C is still cruising on the
+     ocean...."
+
+     O V E R W O R L D (ITEMS: Bottle & ID CODE 1776, Big Heart)
+
+     You start off in the middle of the ocean. Go east and a dolphin
+     will come out speaking gibberish. Nav-Com, being the almighty
+     brains, will translate. It seems her son has disappeared (OH
+     NOES!). Nav-Com decides for you that you will help the mother
+     dolphin (gee thanks?). With that, continue going east until you a
+     wall. From there, head back a few steps and then up to the tunnel.
+     Go through it and head to the N-Shaped docking. Once there, head
+     over to the lighthouse. Once there, talk to the guy. He will tell
+     you he hasn't seen the dolphin, but suggests you visit his wife,
+     as she loves company. Once back at the overworld, head back to the
+     ship. Now, look at the spot just southeast of the ship. See the
+     bubbles (it's kinda faint), well, go to it and you can go through
+     the wall. There will be another after that, so do the same and
+     then head down to the docking area.
+
+     On dry land, head south to the small lone hut. Go into it and talk
+     to the lighthouse dude's wife. She will also tell you she hasn't
+     seen the boy dolphin (shocking), but she did say she saw a bottle
+     on the beach. Could this be a clue, let's find out! Back on the
+     overworld, head onto the beach and around it till you reach the
+     rocks. Go up to the north rock, and go into it and a pathway will
+     open. Follow the pathway and you will be able to retrieve the
+     Bottle. There's a note in the bottle (how cliche), and you decide
+     to read it. Well, it's not a message about the dolphin, but it is
+     from your uncle. Seems he was captured by evil aliens (like duh!).
+     You will receive ID CODE 1776 with that. Well, much good this does
+     us, now head back to the ship and a cutscene will take place. With
+     the ID CODE in place, we have a new ability, submerging!
+
+     See the dark tiles, go up to it and press 'B' BUTTON and you will
+     travel over to the next dark tile (this will come in handy). Do
+     so, then do it again with the next tile. After that, go through
+     the tunnel and to the docking area. On dry land, you will see
+     another tunnel, but don't go to it yet. Instead head south to the
+     narrow path and go through the rocks. After that you will net you
+     a BIG HEART, which will now give you 6 Heart Points! Now you can
+     head up to the tunnel. With your game now saved, it's time to take
+     on Dungeon 2-1!
+
+     ---------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 2-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 3 parts and 18 rooms in it.
+
+               - - - D U N G E O N   2 - 1   P A R T   A - - -
+
+           [05]-[---04--]-[---03--]  LEGEND FOR PART A:
+                                |    01 = Starting Point
+                          [---02--]  02 = Baseball Bats
+                            |        05 = Leads to Room #06 (Part B)
+                          [01]
+
+        ROOM #01:
+        You obviously start off here, but of course nothing is here, so
+        go north to ROOM #02.
+
+        ROOM #02:
+        In here, head up and right along the path, and a Red Crawler
+        will come out. Take it out and continue going right and another
+        will come out. Also you will see a BASEBALL BAT. Get this as it
+        might come in handy. Now head to the north door, taking you to
+        ROOM #03.
+
+        ROOM #03:
+        Starting off will be two Blue Bats, so take them out. A new
+        obsticle is here, and that's the submerging tiles. These will
+        be a pain to get around in the future. You need to time your
+        jumping and make it across to the next ground. You will sink if
+        you're not quick enough. Past this first one, will be more Blue
+        Bats and a Brown Snake. Take them out and continue onwards and
+        you will be in ROOM #04.
+
+        ROOM #04:
+        In here, continue going left, and Crawlers will come out to
+        play. There are four here as you progress, so once that's done,
+        continue left and you will be in ROOM #05.
+
+        ROOM #05:
+        Simple room, there are three Blue Bats, so take them out and
+        the north door will open, taking you to ROOM #06, as well as
+        Part B.
+
+               - - - D U N G E O N   2 - 1   P A R T   B - - -
+
+           [10]        LEGEND FOR PART B:
+             |         06 = Starting Point for Part B
+           [---09--]   07 = Two Hearts/Baseball Bat
+                  |    10 = Two Hearts/Leads to 11 (Part C)
+                [08]
+                  |
+           [---07--]
+                  |
+           [---06--]
+
+        ROOM #06:
+        Here starts Part B. You start off by seeing a Cross Speeder,
+        simple enough to take out. Now continue going left and you will
+        see Red Octojumpers and a submerging tile (amongst regulars
+        ones). Time your moves and head either to the north or south,
+        then go left 2, up 1, to reveal a switch (how convienently
+        placed). Head back to the switch to open the north door. With
+        nothing else to do here, head through the north door, taking
+        you to ROOM #07.
+
+        ROOM #07:
+        Here's another long room. Right away will be a Brown Snake, but
+        it's of no bother. Another one will come towards you so take it
+        out. After that, proceed to the left and continue on till you
+        get to the wall, where another Brown Snake will be. Take it out
+        and see the small dark shadow, well you can go through the wall
+        at that point. Here's the thing, if there's another shadow on
+        the otherside, this will be a two way tunnel, if not, it's a
+        one way. After going through it, you will see TWO HEARTS and a
+        BASEBALL BAT and a Blue Bat. After that, jump on the correct
+        tile and go through the next shadow. At the otherside is
+        another Blue Bat and a switch. Hit the switch to open the north
+        door, which will take you to ROOM #08.
+
+        ROOM #08:
+        Simple room, take out the four Cross Speeders, and the north
+        door will open, taking you to ROOM #09.
+
+        ROOM #09:
+        In here, jump up to the tiles and a Big Fish will come out
+        shooting fireballs at you. Simply dodge these as you make your
+        way left across the tiles. As you do, you will come across four
+        Red Octojumpers. Take all of them out to open the north door.
+        Go through it, and it will take you to ROOM #10.
+
+        ROOM #10:
+        In here is TWO HEARTS, as well as a tile which will reveal a
+        switch, which will open the north door. Go through the door to
+        ROOM #11, as well as Part C.
+
+               - - - D U N G E O N   2 - 1   P A R T   C - - -
+
+                     [18]   LEGEND FOR PART C:
+                       |    11 = Starting Point for Part C
+                     [17]   12 = Magic Snowman
+                       |    15 = Magic Potion
+           [14]-[13] [16]   18 = BOSS: Giant Octo
+             |    |    |
+           [15]-[---12--]
+                  |
+                [11]
+
+        ROOM #11:
+        Here starts Part C. For this room, you will be greeted by five
+        Blue Bats. Take them out and the north door will open, taking
+        you to ROOM #12.
+
+        ROOM #12:
+        In here you will see four Cross Speeders, an open north door
+        and a shadow wall. Nothing to be gained from the enemies, so go
+        through the north door (for now) taking you to ROOM #13.
+
+        ROOM #13:
+        There is literally nothing in here, so simply head to the left
+        side and you'll jump over to ROOM #14.
+
+        ROOM #14:
+        Greeting you here is two Brown Snakes and two Blue Bats. By
+        taking out the right one, will cause the south wall to open up
+        revealing a passageway. Go into it and you'll be in ROOM #15.
+
+        ROOM #15:
+        In here, you will see a MAGIC POTION, so get that. Also by
+        hitting the right tile will cause a switch to appear. That
+        switch will open up the right wall, which you will go through,
+        taking you back to ROOM #12.
+
+        ROOM #12 (REVISITED):
+        Once back here, avoid the Cross Speeders and head through the
+        shadow wall. At the otherside, hit the right tile first, then
+        it's switch which will cause a MAGIC SNOWMAN to appear. Get
+        that (but don't use them) as it will be very useful. Now hit
+        the top tile to reveal a switching opening the north door. Now
+        go through the north door and it will take you to ROOM #16.
+
+        ROOM #16:
+        In here is four Red Octojumpers, simply take them out (watch
+        out for the Big Fish) and the north door will open, taking you
+        to ROOM #17.
+
+        ROOM #17:
+        Upon entering here, you will see a lone Red Octojumper, as well
+        as the dolphin boy! Guess it was captured afterall. Take out
+        the enemy and the north door will open. Go through it, and you
+        will be in ROOM #18.
+
+        ROOM #18:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #02: GIANT OCTO
+           Okay this is how the fight will setup. You'll see a gittery
+           squid shoot bullets at you which is easy to dodge. It will
+           come in close which will be your chance to strike. Here's
+           the easiest part of it. When it gets close to you, use your
+           MAGIC SNOWMAN to freeze it. While it's stuck in place, you
+           can attack the crap out of it. When the water starts to
+           change to blue, use another one and continue beating it
+           down. Soon you will have defeated this boss!
+
+        After that, the boy dolphin will be free and come out to thank
+        you. And with that, you have completed Dungeon 2-1!
+
+     -----------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: None)
+
+     Back on the Overworld, your score is tallied up and the game is
+     saved, so now you can move on! And doing so, head to the dolphin
+     and talk to it. The boy dolphin will thank you, and Nav-Com will
+     signal his mommy. Soon mommy dolphin will come out expressing her
+     graditude. she will then help you get out of where you are (oh how
+     sweet). A cutscene will take place, showing you going through the
+     rocks. After that's over, the dolphins will never forget your
+     kindness and bid you farewell, and then you begin to take off. The
+     game will now save, and you will have completed with Chapter 2!
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      -------------------------
+  D: |Chapter 3: Storm And Calm|
+      -------------------------
+
+     "Suddenly it gets dark and storm on the ocean. The sea tosses
+     Sub-C...."
+
+     O V E R W O R L D (ITEMS: None)
+
+     Before I begin, I want to say that this is going to a massively
+     long and tough chapter (5 Dungeons), so be ready! Anyways it looks
+     like after a terrible storm takes place, you land face down into
+     the beach (yeah, that sand taste good don't it!). It seems once
+     you come around, it's rather calm, almost too calm. Well time to
+     move on. From where you start off at, make your way up on the
+     grassy land, then follow the path all the way to the lone hut.
+     Upon entering it, you will see a man and by talking to him, he
+     will offer you some coconut milk which will refill your life (if
+     it works, go with it?). He will then suggest you to go to Miracola
+     to find help for your ship. Now leave here, and keep following the
+     path then around the rocks and trees and you'll see a tunnel. With
+     your game now saved, it's time to take on Dungeon 3-1!
+
+     -----------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 3-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 1 part and 11 rooms in it.
+
+               - - - D U N G E O N   3 - 1   P A R T   A - - -
+
+                [11]        LEGEND FOR PART A
+                  |         01 = Starting Point
+           [10]-[09]-[08]   03 = Throwing Bolas
+                       |    06 = Throwing Bolas
+                     [07]   09 = Two Hearts
+                       |    10 = Leads to Overworld (AVOID ROOM)
+                     [06]   11 = Exiting Point
+                       |
+                     [05]
+                       |
+                     [04]
+                       |
+                     [03]
+                       |
+                     [02]
+                       |
+                     [01]
+
+        ROOM #01:
+        You start off (like always) in this room, and seeing as there
+        is nothing of interest, just go through the north door taking
+        you to ROOM #02.
+
+        ROOM #02:
+        In this room you will be greeted by three Blue Tucans, so take
+        them out and the north door will open, taking you to ROOM #03.
+
+        ROOM #03:
+        In here is two more Blue Tucans, so take them out to make the
+        north door open. Also on the center island is a chest. To get
+        to that, hit the upper right tile to reveal a switch. Jump on
+        the switch to reveal THROWING BOLAS. Now get those, and head
+        through the north door, taking you to ROOM #04.
+
+        ROOM #04:
+        In here is four Jumping Monkeys, so take them out and the north
+        door will open. Go through that, and you'll be in ROOM #05.
+
+        ROOM #05:
+        In this room, there are six Jumping Monkeys. So just like
+        before, take them out and the north door will open, taking you
+        to ROOM #06.
+
+        ROOM #06:
+        This room can be a bit tricky. You have three Brown Snakes and
+        a chest. First off, walk up to the chest and take out the first
+        Brown Snake. Now hit the left tile and a switch will appear.
+        After jumping on the switch, you will see more THROWING BOLAS.
+        Get them and jump up so the Brown Snakes don't hurt you. Now
+        take them out, and the north door will open. Go through it and
+        you'll be in ROOM #07.
+
+        ROOM #07:
+        Now this room might be tricky as well. You are presented with
+        several tiles, half of which are submerging tiles. Time your
+        moves, and make it across here. But if you are feeling ballzy,
+        hit the left and right tile for TWO HEARTS each. Now go through
+        the north door, taking you to ROOM #08.
+
+        ROOM #08:
+        In here are two Blue Tucans and two Ostrich Skulls. Take out
+        all of them and the west door will open. Go through that, and
+        it will take you to ROOM #09.
+
+        ROOM #09:
+        Now get ready for another surprise, because when you walk in
+        here, the room will go pitch black. In these rooms, there is a
+        tile which turns on the light. So where is it in this one, well
+        follow the path left until you can't continue going left. From
+        there, take two steps back right, then jump up one and you will
+        have turned on the lights. Now, tehre are three Blue Bats here
+        as well which will be easy to take out, but what after that?
+        Well you could go left and jump into ROOM #10.
+
+        ROOM #10:
+        In here is nothing but a staircase. However you don't want
+        that, because it'll take you back to the Overworld, but not
+        where you need to be, so just ignore that room altogether. So
+        let's just jump back into ROOM #09.
+
+        ROOM #09 (REVISITED):
+        Back into the dark room again, just remember how to get to the
+        light switch and you'll be fine. After jumping on the light
+        switch, jump up one more to find another switch. Jump on that
+        switch to open the north door, which going through it will take
+        you to ROOM #11.
+
+        ROOM #11:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here (how easy is that)! And with
+        that, you have completed Dungeon 3-1.
+
+     -----------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: None)
+
+     You are now back on the Overworld, on the correct side might I
+     add. Your score once again is tallied up and your game is now
+     saved, you can move on! And do so by heading north a short bit to
+     the village you see. Go into it and you will be in Miracola
+     Village!
+
+        M I R A C O L A   V I L L A G E (ITEMS: None)
+
+        Welcome to Miracola Village! Right away go up to the first guy
+        you see, and he will greet you. So what shall we do here? Well
+        head north and then east, talking to various people who will
+        give you little help. An old lady near the lake will tell you
+        the island cheifs daughter is sick! So we must now visit the
+        island cheif, but where is he? Well you'll notice a guard at
+        the hut, but he won't let you in. Maybe there's a back way in?
+        Well, head back behind the giant hut and maybe one of the walls
+        will let you in. After finding the right entrance, head up the
+        stairs and the guard will tell you to get out! Rude jerk! Back
+        outside of the hut and head right and you'll come to a maze of
+        trees, but no worries, it's easy to get through. In the
+        northeast corner of the maze is a guard who will say nothing
+        (seriously!). And in the far southeast corner is another man
+        you tells you not to go to the castle in Shecola O_o.
+
+        Lastly, make your way to the small hut you see, and the little
+        boy will give you some coconut milk to refill your life
+        (w00t!). Now back out of the hut, head across the small bridge
+        and head west to the giant hut. Make sure you talk to everyone,
+        or else the guard won't move (WTF is up with that I ask?!). Now
+        you can enter the hut, and when you do, talk to the cheif. A
+        cutscene will take place, with him telling you that he's head
+        of your adventures. He then asks for your help on helping his
+        daughter, and that a mountain hermit might be the answer! Do
+        this and he'll fix the Sub-C. So now, head out of the hut, and
+        make your way to the back and see the cheif's daughter ONCE.
+        After that, back into the forest maze. Make your way to the
+        northeast corner and the guard will let you pass. With that,
+        head right and you will back on the Overworld.
+
+     O V E R W O R L D (ITEMS: None)
+
+     Once back on the Overworld, simply head east and into the tunnel.
+     With your game now saved, it's time to take on Dungeon 3-2!
+
+     ------------------------------------------------------------------
+
+         -----------
+     2: |Dungeon 3-2|
+         -----------
+
+        DUNGEON STATS: This dungeon has 2 parts and 22 rooms in it.
+
+
+               - - - D U N G E O N   3 - 2   P A R T   A - - -
+
+           [08] [09] [10]-[11]   LEGEND FOR PART A:
+             |                   01 = Starting Point
+           [07]                  04 = Baseball Bat/Super Slingshot
+             |                   05 = Magic Potion
+           [06]-[---04--]-[03]   07 = Two Hearts
+                  |         |    08 = Leads to 09
+                [05]      [02]   09 = Leads to 08/Leads to 10
+                            |    10 = Leads to 09
+                          [01]   11 = Life Sign/Leads to 12 (Part B)
+
+        ROOM #01:
+        Once again, you start off in this room, but there is nothing
+        here, so just head through the north door to ROOM #02.
+
+        ROOM #02:
+        In here is six Brown Snakes, but you don't need to take them
+        out, so simply run in between them nonstop. Head through the
+        north door, taking you to ROOM #03.
+
+        ROOM #03:
+        In here are two Ostrich Skulls, so take them out and the west
+        wall will open, making a passageway leading to ROOM #04.
+
+        ROOM #04:
+        This is another dark room, but it's also long. Right away you
+        will be greeted by a Brown Snake so take it out. Now head left
+        until you can't go any further. You will see four Brown Snakes.
+        Now travel up and down and you will cause them to move. Watch
+        how far they move because this will help you. Jump to the
+        flooring where the third one is, and you will be safe. Continue
+        going left, and take out the other Brown Snakes. Now see the
+        Red Octojumper, pay attention to it as it's jumping across
+        tiles. You should be at an edge (after dealing with the Brown
+        Snakes), so jump up 1, left 2, up 1 to turn on the lights. Now
+        jump left 1 and collect the BASEBALL BAT and SUPER SLINGSHOT.
+        Now head to the lone tile at the bottom and jump downwards
+        to ROOM #05.
+
+        ROOM #05:
+        In here is some happy music! Now head to the bottom left tile
+        and step on it to reveal a switch. Hit the switch and a MAGIC
+        POTION will appear from the chest. Get that, and then head back
+        up to ROOM #04.
+
+        ROOM #04 (REVISITED):
+        Despite it being dark, this'll be easy. Jump left 1 and follow
+        the path around and take out the Red Octojumper. This'll cause
+        an opening in the west wall, which'll take you to ROOM #06.
+
+        ROOM #06:
+        In here will be three Brown Flies and a couple tiles. Step
+        on the left one to reveal a switch in the right one. Step on
+        the switch to open the north door, taking you to ROOM #07.
+
+        ROOM #07:
+        In here is some submerging tiles, so time your move and make
+        your way across them. The left tile will reveal TWO HEARTS, so
+        get that if you're feeling up to it. Either way, go through the
+        north door, taking you to ROOM #08.
+
+        ROOM #08:
+        There's nothing in here but a staircase, so take it and you
+        will be in ROOM #09.
+
+        ROOM #09:
+        There's nothing in here but a staircase, so take it and you
+        will be in ROOM #10.
+
+        ROOM #10:
+        We are now in the basement area of this dungeon. Nothing in
+        here, so head to the right side and jump over to ROOM #11.
+
+        ROOM #11:
+        In here, you will see four Fire Squids, but don't worry about
+        them, just avoid their fireballs. You will also see a LIFE
+        SIGN. Do you feel lucky? If so, go up to it to see if you gain
+        or lose lives. Now hit the tile near it, to reveal a switch.
+        Hit that to open up the north door, which will take you
+        to ROOM #12, as well as Part B.
+
+               - - - D U N G E O N   3 - 2   P A R T   B - - -
+
+                [18]-[19] [20] [22]   LEGEND FOR PART B:
+                  |              |    12 = Starting Point for Part B/
+                [17]           [21]        Stopwatch
+                  |                   14 = Throwing Bolas
+                [16]                  15 = Two Hearts
+                  |                   18 = BOSS: Magma The Fierce
+                [15]                  19 = Leads to 20
+                  |                   20 = Leads to 19/Leads to 21
+                [14]                  21 = Leads to 20
+                  |                   22 = Exiting Point
+           [---13--]
+             |
+           [12]
+
+        ROOM #12:
+        Here starts Part B. You will be greeted by Sppeding Flies, but
+        avoid those for the moment. Instead jump on the second tile
+        from the left on the bottom row to reveal a STOPWATCH. Quickly
+        get to that, to freeze (or slow them down) the enemies and take
+        them out. After that, the north door will open, taking you
+        to ROOM #13.
+
+        ROOM #13:
+        For this room, you will see a Red Slime Monster come out of the
+        water, so avoid it's fireballs. Jump across the tiles, and then
+        head right. Continue on until you see the lone tile. Step on
+        that to reveal a switch near the door. Jump on that then go
+        through the newly opened door, taking you to ROOM #14.
+
+        ROOM #14:
+        Now this is an interesting room. You will see a Speeding Fly,
+        as well as a Red Slime Monster in here. Now taking out the
+        Speeding Fly will cause an opening on the north wall, but it
+        won't do any good. Taking the left path of tiles might be okay,
+        so let's do that first! Once you do, you'll be in ROOM #15.
+
+        ROOM #15:
+        In here is three Brown Flies and a TWO HEART. Just get the
+        item and head back to ROOM #14 (don't go north as that will be
+        the end of you).
+
+        ROOM #14 (REVISITED):
+        Head down the tile path onto solid ground, then cross over to
+        the right path of tiles. Hitting the second one will cause
+        THROWING BOLAS to appear, so get that, and then continue along
+        the right tile path until you're back in ROOM #15.
+
+        ROOM #15 (REVISITED):
+        Ignore the Brown Flies, and just keep heading upwards and
+        you will then be in ROOM #16.
+
+        ROOM #16:
+        Upon entering here, this will be tough. You will see three
+        submerging tiles and several normal tiles. Time your moves and
+        make your way to the open doorway (nothing is to be gained from
+        tiles). Once there, go through it and you'll be in ROOM #17.
+
+        ROOM #17:
+        In here, nothing is to be gained, so go through the north door
+        which will take you to ROOM #18.
+
+        ROOM #18:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #03: MAGMA THE FIERCE
+           Now this boss fight has to be dealt with differently. First
+           off, the setup is two fireballs will circle around, and the
+           boss will shoot a trail of fireballs out. Avoid these
+           obviously. Now you don't attack the boss, as that won't
+           work. So how do you take it out? Well, you must destroy the
+           two orbs around him. To do this, from the starting tile,
+           jump up 1 onto solid ground. Go left, then jump 2, up 3 to
+           reveal a switch, then jump on that to destroy an orb. From
+           the switch, jump left 1, down 2, right 2, the go across the
+           solid ground, go 5 steps, jump up 1 to reveal a switch. Now
+           make your way to the second switch, and that will destroy
+           the next orb. With that, you have defeated this boss!
+
+        After that, the boss will get a nice cool bath. The east door
+        will now open, so head through it, taking you to ROOM #19.
+
+        ROOM #19:
+        Nothing here, so climb up the staircase taking you to ROOM #20.
+
+        ROOM #20:
+        Nothing here, so climb up the staircase taking you to ROOM #21.
+
+        ROOM #21:
+        Nothing here, so head through the north opening, which will
+        take you to ROOM #22.
+
+        ROOM #22:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here! And with that, you have
+        completed Dungeon 3-2.
+
+     -----------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: Big Heart)
+
+     You are now back on the Overworld. Your score once again is
+     tallied up and your game is now saved, you can move on! With that,
+     head northwards until you reach the rock area. Think of this as
+     the central point, because you can go in a few directions. For
+     starters, head in between the rocks and continue onwards north to
+     find a passageway and a staircase. Enter the staircase to find a
+     BIG HEART, which will bring up to 7 Heart Points. Now head back to
+     the central point, and to the castle on the right. By going into
+     it, you will be in Shecola Castle!
+
+        S H E C O L A   C A S T L E (ITEMS: None)
+
+        In here, head upwards and the female guard will tell you that
+        you can not enter. Great, so now what?! Well, see the guy near
+        the entrance, talk to him. He'll tell you only women are
+        allowed in the castle, and to seek help from the Fortune
+        Teller's Camp. So with that, go right and follow the path all
+        the way around (it's a long walk) and enter the staircase you
+        see. Head up to the fortune tell, and she will tell you that
+        she can't help you (stupid waste of time!) because she dropped
+        her crystal ball in the Ghost Village. So okay, now we must
+        head to the Ghost Village. Leave here, and then head right to
+        the short bridge. You can escape this area by crossing this
+        bridge. Do so, and you'll be back on the Overworld.
+
+      O V E R W O R L D (ITEMS: None)
+
+      Once back here, head to the central point. Now go back through
+      the rock path and continue going northwards then follow the path
+      all the way west and you'll find a lone hut. Enter it and you
+      will be in the Ghost Village (oogie boogie!).
+
+         G H O S T   V I L L A G E (ITEMS: None)
+
+         Okay while there is plenty of ground to explore here, nothing
+         really can be gained from it. So from where you start off at,
+         head west to the pond then up and around it and west until you
+         reach several tombstones. Now take a look at them, one of them
+         looks different. Can you tell which one? If you do, you'll
+         gain access to our next mission. With your game saved, it's
+         time to take on Dungeon 3-3!
+
+     ------------------------------------------------------------------
+
+         -----------
+     3: |Dungeon 3-3|
+         -----------
+
+        DUNGEON STATS: This dungeon has 3 parts and 37 rooms in it.
+
+               - - - D U N G E O N   3 - 3   P A R T   A - - -
+
+              [04]             LEGEND FOR PART A:
+                |              01 = Starting Point
+              [---03--]-[02]   04 = Two Hearts/
+                |         |         Leads to Ghost Village (AVOID ROOM)
+              [05]      [01]   06 = Magic Rod
+                |              09 = Two Hearts/
+              [06]                  Leads to Ghost Village (AVOID ROOM)
+                |              11 = Two Hearts
+              [07]             12 = Leads to Ghost Village
+                |                   (AVOID STAIRS)
+              [08]-[10]-[11]   13 = Two Hearts/Leads to 15 (Part B)
+                |    |         14 = Two Hearts
+              [09] [12]-[13]
+                          |
+                        [14]
+
+        ROOM #01:
+        Now get ready, because this is gonna be a very long dungeon!
+        Now, you start off in this room, so just head through the north
+        door, as there nothing here, and you will be in ROOM #02.
+
+        ROOM #02:
+        In this room, there is three Skelepups, so simply take them out
+        (use the tiles to help) and the west wall will open up, reveal
+        a passageway taking you to ROOM #03.
+
+        ROOM #03:
+        In here is a long room, which features some Jumping Skulls.
+        Now, you can take them out and head along the tiles, which will
+        take you to a north door, but don't do that. By going through
+        the north door, you will be in ROOM #04 which has TWO HEARTS
+        but also an exit going back to the Ghost Village. Instead stay
+        along the lower half and soon you'll come across more
+        Skelepups. Once at the far left side, go up to the only
+        available tile and step on it. This will cause a switch to
+        appear, and by stepping on that, will open the south door. Go
+        through that, and you will be in ROOM #05.
+
+        ROOM #05:
+        In here it looks quiet, but don't relax as you might get hit
+        while standing still. But what's hitting you, two Floating
+        Ghosts. How to kill them, well in here, don't worry about them.
+        Instead step on the tile for a switch to appear. Hit that and
+        the south door will open. Just make your way through that. You
+        will now be taken to ROOM #06.
+
+        ROOM #06:
+        In here is three Black Mummies, which can be a pain, so use the
+        small ponds as your advantage to taking them out. Taking them
+        out will cause the south door to open. After that, hit the lone
+        tile and a switch will appear. Hit that, and the chest will
+        open, presenting you with a MAGIC ROD, which is a very handy
+        item. Now go through the south door and you will be taken
+        to ROOM #07.
+
+        ROOM #07:
+        In here is another quiet room, so let's fix that. Press START
+        and break out the Magic Rod and you will see four Floating
+        Ghosts. Take them out then hit the tile. Another switch is
+        revealed, so step on it and the south door will open, taking
+        you to ROOM #08.
+
+        ROOM #08:
+        Here you will see four Jumping Skulls (take them out if you
+        want) and a whole lot of tiles. So here's how this works, from
+        where you start off at, jump down 2, right 3, across solid
+        ground, up 1. A switch will appear, which that will cause the
+        east wall to open up. Now you'll see the south door, but avoid
+        that. In there is ROOM #09, which has TWO HEARTS, but also
+        another exit leading to Ghost Village. Instead, head through
+        the east opening, taking you to ROOM #10.
+
+        ROOM #10:
+        Another quiet looking room, so that means use the Magic Rod to
+        find the four Flying Ghosts. Doing so, take them out and the
+        east wall will open up a passageway. Go through it and you'll
+        be in ROOM #11.
+
+        ROOM #11:
+        In here is TWO HEARTS, so get that, and since there's nothing
+        more, head back to ROOM #10.
+
+        ROOM #10 (REVISITED):
+        Once back here, quickly and carefully make your way to the
+        south doorway. Go through it and you'll be in ROOM #12.
+
+        ROOM #12:
+        In here you will see several tiles, a Rabbit Slug and a
+        staircase (avoid it because it will also take you back to Ghost
+        Village). Make your way to the Rabbit Slug and take it out,
+        only to reveal a shadow wall. Go through that, and you will be
+        taken to ROOM #13.
+
+        ROOM #13:
+        Another quiet room, except for the submerging tile, so once
+        again use the Magic Rod to find the Floating Ghosts. Now, jump
+        across the submerging tile and then jump up 1, left 1 to reveal
+        a switch. Hit that to open the east door. Now, take out the
+        remaining Floating Ghosts and get the TWO HEARTS (you'll have
+        to go back to ROOM #12). A passageway will open through the
+        south wall, but you'll have to backtrack to get it (won't
+        be hard). Now go through the south opening, taking you
+        to ROOM #14.
+
+        ROOM #14:
+        In here is some more happy music, and two TWO HEARTS. Get those
+        and seeing as nothing else is of interest here, head back
+        to ROOM #13.
+
+        ROOM #13 (REVISITED):
+        Once back here, go up and find the tile that revealed the
+        switch and then head through the east door, which will take you
+        to ROOM #15 as well as Part B.
+
+               - - - D U N G E O N   3 - 3   P A R T   B - - -
+
+                                  [23]   LEGEND FOR PART B:
+                                    |    15 = Starting Point of Part B
+              [15]-[16]-[20]-[21]-[22]   16 = Magic Rod
+                     |                   18 = Magic Lantern
+                   [17]                  19 = Magic Potion/Two Hearts
+                     |                   23 = Leads to 24 (Part C)
+                   [18]-[19]
+
+        ROOM #15:
+        Here starts Part B. In here is a Fire Pipe, which is harmless
+        and a tile. Step on it to reveal a switch which will open the
+        east door. Go through it and you will be in ROOM #16.
+
+        ROOM #16:
+        Get a good look at the room as you enter, because it will go
+        dark. In here are three Blue Bats, so take them out as they
+        come. Now head right until you can't go anymore, then jump
+        right 1 to reveal a switch. Jump down 1 to hit it which will
+        cause an opening in the south wall. Go through it and you'll
+        be in ROOM #17.
+
+        ROOM #17:
+        Four Black Mummies and a Jumping Skull is in here. Caerfully
+        take out all the enemies here and the south wall will open up,
+        taking you to ROOM #18.
+
+        ROOM #18:
+        In here is a lone Jumping Skull and several tiles. Take out the
+        Jumping Skull when it's in your area. Now starting with the
+        first left tile next to you, jump down 2, left 1, down 1 to and
+        that tile will reveal the MAGIC LANTERN. That's not all, you
+        should have one more Magic Rod to use, so use it to reveal a
+        three Floating Ghosts. Take those out and the east wall will
+        open up, which you will go through, taking you to ROOM #19.
+
+        ROOM #19:
+        In this room, you will see a MAGIC POTION and TWO HEARTS. Get
+        those and seeing as nothing else is here, so just head back
+        to ROOM #18.
+
+        ROOM #18 (REVISITED):
+        Head through the north door, taking you back to ROOM #17.
+
+        ROOM #17 (REVISITED):
+        Head through the north door (avoiding enemies), taking you back
+        to ROOM #16.
+
+        ROOM #16 (REVISITED):
+        Once back here, jump up 2, right 1 and continue going right and
+        you'll go through the wall, now comes the doozy part. In here,
+        use the Magic Lantern (press START) to light up the room. Now
+        this will only last for a short time, so memorize the current
+        surroundings. Start off by jumping down 1 to get the MAGIC ROD,
+        then jump right 1 and head up to the shadow wall. For this
+        second part, jump down 2 to reveal a switch, then right 1, then
+        up 2 to hit it (opening the east door), then up 1. Go through
+        the shadow wall and use the Magic Lantern again. Study through
+        here again, then make your way down the submerging tiles. After
+        that, go left and up then jump right 1, up 1, then through the
+        door, taking you to ROOM #20.
+
+        ROOM #20:
+        In here it seems quiet but walk right a bit and two Grave Hands
+        will rise up. Take them out and the east wall will open taking
+        you to ROOM #21.
+
+        ROOM #21:
+        In here, two Black Mummies and two Fire Pipes. Avoid the Blue
+        Mummies and make your way to the bottom middle tiles. Hit the
+        right one to reveal a switch. Hit that and the east door will
+        open up. Go through that, and you will be taken to ROOM #22.
+
+        ROOM #22:
+        In here is two Grave Hands, so take them out. Also jump on the
+        upper right tile to reveal a switch. Stepping on this will
+        cause the west door to open up. Go through it and you'll be
+        back in ROOM #21 (I know, this was pointless :P).
+
+        ROOM #21 (REVISITED):
+        Once back here, wait for the Black Mummies to move out of the
+        way, then head to the northside of this room. Jump upwards from
+        here and you will be taken to ROOM #23.
+
+        ROOM #23:
+        Here is three Skelepups, so just take them out and the north
+        door will open. Go through that and you will be in ROOM #24, as
+        well as Part C.
+
+               - - - D U N G E O N   3 - 3   P A R T   C - - -
+
+              [27]-[26]-[28]-[29]-[30]-[31]   LEGEND FOR PART C:
+                     |                   |    24 = Starting Point for
+                   [25]      [37] [33]-[32]        Part C/Stopwatch
+                     |         |         |    25 = Two Hearts
+                   [24]      [36]-[35]-[34]   27 = Magic Rod
+                                              29 = Mirror Shields
+              32 = Throwing Bolas             33 = Two Hearts
+              35 = BOSS: Maxie The Ghost      37 = Exiting Point
+
+        ROOM #24:
+        Here starts Part C. This will be very easy. You have two Blue
+        Mummies and some tiles. Jump on the left lone tile to reveal a
+        STOPWATCH. Getting that would be pointless, as you can just
+        stand where you are and take out the Black Mummies without them
+        hurting you. After that, the north door will open, so go
+        through it and you'll be in ROOM #25.
+
+        ROOM #25:
+        In here is TWO HEARTS, so get that, and then hit the one of the
+        upper tiles to reveal a switch. Jump on that to open the north
+        door. Go through that, and you'll be in ROOM #26.
+
+        ROOM #26:
+        Another quiet room in here (nothing in the tiles), so simply
+        head through the west entrance taking you to ROOM #27.
+
+        ROOM #27:
+        In here is two Grave Hands, so take them out. Also hit one of
+        the upper left tiles to reveal a MAGIC ROD. Now with that, head
+        back to ROOM #26.
+
+        ROOM #26 (REVISITED):
+        In here, seeing as it's still quiet, use your Magic Rod to
+        reveal two Floating Ghosts (well stuck is more like it). After
+        dealing with them, the east wall will open up. Go through that,
+        and you'll be in ROOM #28.
+
+        ROOM #28:
+        Another quiet room, so use another Magic Rod to reveal two more
+        Floating (or stuck) Ghosts. Taking them out will cause the east
+        wall to open up, taking you to ROOM #29.
+
+        ROOM #29:
+        Here there will be two Skelepups, so take them out and the east
+        door will open. However don't go in quite yet, as you need to
+        step on one of the upper right tiles to reveal MIRROR SHIELDS.
+        Get them and head through the east door, which will take you
+        to ROOM #30.
+
+        ROOM #30:
+        For this room, four Red Wizards will appear then disappear at
+        random places. And to advance onwards, you must take them out.
+        How, well equip your Mirror Shields and when they shoot a
+        fireball at you, it will bounce off of you and hit them (you
+        use must them each time for it to work). After taking them out,
+        the east door will open. Go through it and you will then be
+        in ROOM #31.
+
+        ROOM #31:
+        Upon entering here, you will see six Blue Zombies. This might
+        be tricky since there is no advantage points for you, so just
+        take them out one by one. My advice, move around quickly and
+        just hit each of them, and eventually you'll get them all.
+        After taking out the right enemy, the south door will open,
+        which will take you to ROOM #32.
+
+        ROOM #32:
+        In here you will see THROWING BOLAS (save these!) a tile. Get
+        the item and jump on the tile to reveal a switch which will
+        open the south door. Don't go in the door though, instead use
+        a Magic Rod to reveal a lone Floating Ghost in the corner. Take
+        that out and the west wall will open up, which will take you
+        to ROOM #33.
+
+        ROOM #33:
+        In here is two TWO HEARTS, which will come in handy, so get
+        them. Nothing else here, so head back to ROOM #32.
+
+        ROOM #32 (REVISITED):
+        Once again, hit the tile to reveal the switch then head through
+        the south door, taking you to ROOM #34.
+
+        ROOM #34:
+        In this room will be three Jumping Skulls and four Red Wizards.
+        Use the Mirror Shields on the Red Wizards, and take out the
+        Jumping Skulls normally. After this, the west door will open
+        up, taking you to ROOM #35.
+
+        ROOM #35:
+        In here will be four Fire Pipes, and of course it's rather
+        quiet in here, so use the Magic Rod once more and get ready for
+        a boss fight!
+
+           BOSS #04: MAXIE THE GHOST
+           Okay, what we have here is a giant ghost that will go back
+           and forth, only to pause for a moment to release Floating
+           Ghosts. Now this might be a tricky fight, but not too
+           terribly tough. Take out the Floating Ghosts using your main
+           weapon and use the Throwing Bolas on the boss. Where you
+           should stand, probably on the south side as you can avoid
+           the fireballs easier. After several hits, the boss will get
+           faster, so either stay where you are or get to either side
+           and plow it with either weapon. After enough hits, the boss
+           will be defeated!
+
+        And with the defeat of this boss, the west door will open,
+        taking you to ROOM #36.
+
+        ROOM #36:
+        In here, jump on the lone tile which will reveal a switch. Jump
+        on that to open the north door, which'll take you to ROOM #37.
+
+        ROOM #37:
+        In here, you will see three tiles and a skull face. Jump on the
+        top tile not once, not twice, but three times. This will cause
+        the water to fill into the room. But what does this mean?
+        Either way, you will now be taken out of the dungeon. And with
+        that, you have completed Dungeon 3-3!
+
+     ------------------------------------------------------------------
+
+        G H O S T   V I L L A G E (ITEMS: Crystal Ball)
+
+        You are now back in Ghost Village, and with your score tallied
+        and your game saved, it's time to move on! And right away you
+        will see the pond has dried up, which explains the end of the
+        last dungeon. But look, it's the CRYSTAL BALL (now how could
+        you drop this in a pond of all things?). With that, head in any
+        direction and soon you'll be out of Ghost Village.
+
+     O V E R W O R L D (ITEMS: None)
+
+     Now that you are back on the Overworld, head west then south and
+     back to Shecola Castle.
+
+        S H E C O L A   C A S T L E (ITEMS: Shooting Start)
+
+        Once back here, head back to the fortune teller in the back of
+        the castle. You will then give her the Cyrstal Ball you found
+        (what an idiot for losing it). With that she will help you get
+        into the main part of Shecola Castle, by ummm, turning you into
+        a girl (oh no she didn't!). Anyways, she will then read you
+        your fortune, which is just some stuff you pretty much knew
+        (fortune teller are good at stating the obvious). Anyways you
+        will now be taken to the front of the castle, which you can now
+        enter! As you do, you will see alot of the warriors training.
+        Your goal here is to head up then left to the large covered
+        room. Go into it and to the stairs, and a cutscene will take
+        place with Queen Shecola (stairs are people too?). She will
+        congradulate you on defeating the Ghost Village. She will ask
+        for your name (oh how unbearable).
+
+        She suggests to you to talk to the head warrior about seeing a
+        hermit. Lastly, she will see your Yo-Yo and decides that that
+        isn't good enough, and gives you the SHOOTING STAR. Great
+        weapon, but you need 6 Heart Points or more full to use it.
+        After that, you'll be in the castle. Head to the main hall,
+        then to the northeast corner and talk to the head warrior. She
+        will tell you to shout ABRACADABRA (WHY?)and jump 10 times at
+        the end of the tunnel. Simple as that. Now leave this castle
+        altogether. The fortune teller will turn you back, and the man
+        on the left will say you were very cute (O_o). Now head back to
+        the Overworld.
+
+     O V E R W O R L D (ITEMS: None)
+
+     Once back here, head left, and onto the beach. Follow the sandy
+     path and you will be at another tunnel, which you will enter. With
+     your game saved, it's time to take on Dungeon 3-4!
+
+     ------------------------------------------------------------------
+
+         -----------
+     4: |Dungeon 3-4|
+         -----------
+
+        DUNGEON STATS: This dungeon has 1 part and 7 rooms in it.
+
+               - - - D U N G E O N   3 - 4   P A R T   A - - -
+
+              [07]           [---03--]   LEGEND FOR PART A:
+                |              |    |    01 = Starting Point
+              [06]-[---05--]-[04] [02]   03 = 2 Two Hearts
+                                    |    07 = Exiting Point
+                                  [01]
+
+        ROOM #01:
+        After the long drawn out previous dungeon, this is a very very
+        short one. Starting off in this room, nothing here, so go
+        through the north door, taking you to ROOM #02.
+
+        ROOM #02:
+        In here, you will see a switch. Jump on it 10 times, don't
+        worry, saying "abracadabra" does nothing (unless the game can
+        hear you O_o). After jumping on it, a pathway will open up in
+        front of you. After that, go through the north door, which will
+        take you to ROOM #03.
+
+        ROOM #03:
+        Right away you will see two TWO HEARTS, so get them, then head
+        left to find two Red Octojumpers. Take them out (with your new
+        weapon) and continue going left to find two more Red
+        Octojumpers. After taking them out, the south door will open.
+        Go through it and you'll be in ROOM #04.
+
+        ROOM #04:
+        In here is six Red Octojumpers, but you don't need to take them
+        out unless you want to. However, head to the left side and you
+        will jump over to ROOM #05.
+
+        ROOM #05:
+        In here, simply head left and Red Crawlers will come out. Take
+        out these two and keep going and two more will come out. After
+        that, continue going left, and you will jump over to ROOM #06.
+
+        ROOM #06:
+        In here is two Red Octojumpers, so take them out. Wander around
+        here, and you'll come across four Red Crawlers. After taking
+        them out, the north door will open. Go through it and you'll be
+        in ROOM #07.
+
+        ROOM #07:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here! And with that, you have
+        completed Dungeon 3-4.
+
+     ------------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: None)
+
+     You are now back on the Overworld and with your score tallied
+     and your game saved, it's time to move on! With that, head south
+     to the rocks, and go left into them (you'll find the right one)
+     and follow the short path. At the otherside, head into the small
+     hut you see. Follow the path and you will be at covered hut, which
+     you will go in. Talk to the guy there, and he will introduce
+     himself as Po The Poet. Listen to him poem, and well, that's it
+     *shrugs*. Head back to the Overworld and then go south and into
+     the tunnel. With your game saved, it's time to take on
+     Dungeon 3-5!
+
+     ------------------------------------------------------------------
+
+         -----------
+     5: |Dungeon 3-5|
+         -----------
+
+        DUNGEON STATS: This dungeon has 3 parts and 29 rooms in it.
+
+               - - - D U N G E O N   3 - 5   P A R T   A - - -
+
+                               [10]   LEGEND FOR PART A:
+                                 |    01 = Starting Point
+                          [08]-[09]   03 = Baseball Bats
+                                      06 = Throwing Bolas
+                               [07]   07 = Leads to 08
+                                 |    08 = Leads to 07
+           [02]-[03]-[04]-[05]-[06]   10 = Leads to 11 (Part B)
+             |
+           [01]
+
+        ROOM #01:
+        Here we go again! You start off in this room but as always,
+        there's nothing here so just head through the north door taking
+        you to ROOM #02.
+
+        ROOM #02:
+        Four Brown Snakes inhabit this room, so take them out and the
+        east wall will open up. Go through the passageway and you will
+        be taken to ROOM #03.
+
+        ROOM #03:
+        There will be three Jumping Skulls in here, so simply take them
+        out, to open the east door. Now before going through it, head
+        to the spot under the upper right tile and then jump up 1 (no
+        I'm not crazy!) to reveal a hidden tile. Jump up once more to
+        reveal BASEBALL BATS. Now you can go through the east door,
+        which will take you to ROOM #04.
+
+        ROOM #04:
+        In here, there are two Ostrich Skulls, so simply take them out
+        and the east wall will open up, taking you to ROOM #05.
+
+        ROOM #05:
+        For this room, a brand new obsticle. You will see eight white
+        tiles ahead of you. By standing on them, they will sink taking
+        you with them, so you must quickly jump from tile to tile to
+        stay alive. There is also a Jumping Skull here, but it's
+        traveling in a pattern. Pay attention to it and follow it until
+        you reach the otherside. Once you do, you will reveal a switch
+        which you need to hit. This will cause the east wall to open,
+        which will take you to ROOM #06.
+
+        ROOM #06:
+        Simple room, just head right to the tiles and jump to the right
+        one. This will reveal a switch, but how to get to it? Well jump
+        right into the water and you'll reveal a hidden tile and then
+        onto the switch. THROWING BOLAS will emerge from the chest, so
+        get those and head back left across the tiles, then jump up one
+        to reveal another switch. Jump up to that and the north door
+        will open, which you will go through, taking you to ROOM #07.
+
+        ROOM #07:
+        Nothing in here but a staircase leading down to the basement.
+        Go through it and you will be in ROOM #08.
+
+        ROOM #08:
+        Nothing in here as well, so head to the east side and jump over
+        to ROOM #09.
+
+        ROOM #09:
+        Right away you will see five sinking tiles (which are red
+        here). Get across these and over to solid ground. Now head
+        right a bit and a Frog Hopper will come out. Take it out and on
+        the middle ground, jump across the submerging tile and after
+        that, jump on the tile slightly above that to reveal a switch.
+        Getting the switch will cause the north door to open. Now go
+        through it and you will be in ROOM #10 as well as Part B.
+
+               - - - D U N G E O N   3 - 5   P A R T   B - - -
+
+                   [15]           [19]  LEGEND FOR PART B:
+                     |                  11 = Starting Point for Part B
+              [14]-[13]-[16]-[17]-[18]  12 = Stopwatch/Two Hearts
+                     |                  14 = Magic Potion/Two Hearts
+                   [12]                 18 = Leads to 19
+                     |                  19 = Leads to 18/
+                   [11]                      Leads to 20 (Part C)
+
+        ROOM #11:
+        Here starts Part B. In this room will be a Speeding Fly and a
+        Red Slime Monster and several tiles. The tiles will give you
+        nothing, but you need to take out the Red Slime Monster in
+        order for the north door to be open. Take out the Speeding Fly
+        if you want, but after that, head through the opened door,
+        which will take you to ROOM #12.
+
+        ROOM #12:
+        For this room, you will see some submerging tiles, and a
+        STOPWATCH. Make your way to the Stopwatch, but time it all
+        because it will freeze the tiles as well. Don't do it at the
+        right moment and you're screwed. Jumping on the left tile will
+        reveal TWO HEARTS. After all of this, head through the north
+        door, taking you to ROOM #13.
+
+        ROOM #13:
+        Now this room will be very tough. First off, jump to the left
+        tile to reveal a switch, which will open the north door. Now
+        for the fun, you must not only make your way across the sinking
+        tiles, but you have to time it to where you can get across the
+        submerging tiles as well. For the first trick, make it to the
+        left side of this room, and a switch will appear. Step on it
+        and the west wall will open up. Go through it and you'll be
+        in ROOM #14.
+
+        ROOM #14:
+        In this room is a MAGIC POTION and TWO HEARTS, so get those and
+        seeing as nothing else here, head back to ROOM #13.
+
+        ROOM #13 (REVISITED):
+        Now this might be slightly more easier, as all you need to do
+        is make it all the way across to the right. At the otherside,
+        you will uncover another switch, which by stepping on it will
+        open the east wall. Now if you're curious about the north
+        door, well it'll go to ROOM #15, but nothing is in there except
+        a Frog Hopper, so just ignore that. Anyways go through that and
+        you will be in ROOM #16.
+
+        ROOM #16:
+        In here is just a bunch of tiles, but as you make your way
+        across, Frog Hoppers will come out. You will need to move back
+        and forth across the tiles to make them appear. After taking
+        out four of them, the east door will open, which will take you
+        to ROOM #17.
+
+        ROOM #17:
+        Once in this room, there will be three Speeding Eyeballs, so be
+        very careful when taking them out (approach them from the side
+        and hit it a couple times then move it). After taking them out,
+        the east door will open, taking you to ROOM #18.
+
+        ROOM #18:
+        Nothing is in here, except a staircase which will take you to
+        main floor. Go in it and you will be in ROOM #19.
+
+        ROOM #19:
+        Nothing in here either, so go through the north doorway and you
+        will be in ROOM #20 as well as Part C.
+
+               - - - D U N G E O N   3 - 5   P A R T   C - - -
+
+             [23]-[24]-[25]   LEGEND FOR PART C:
+               |    |    |    20 = Starting Point for Part C
+             [22]-[29]-[26]   29 = Exiting Point
+               |    |    |
+             [21]-[28]-[27]
+               |
+             [20]
+
+        ROOM #20:
+        Here starts Part C. In this room, simply step on the tile you
+        see, which will reveal a switch (watch out for the Green Slime
+        Monster). This will cause the north door to open, which will
+        take you to ROOM #21.
+
+        ROOM #21:
+        From here on, it's gonna get a little confusing, because the
+        next nine rooms works together as a maze like area. In here is
+        a Purple Minotaur, so take it out, then jump on the tile to
+        reveal a switch which will open the north door. Go through it
+        and you will be in ROOM #22.
+
+        ROOM #22:
+        In here you will see a lone Speeding Eyeball, so take it out
+        and the north wall will open up. The left tile will cause a
+        switch to appear, and that will open the east wall, but ignore
+        that. Instead go through the north opening, which will take you
+        to ROOM #23.
+
+        ROOM #23:
+        In here is another Purple Minotaur, so take it out and the east
+        wall will open, revealing a passageway taking you to ROOM #24.
+
+        ROOM #24:
+        In here is just four tiles. Jump on the top one to reveal a
+        switch in the bottom one. This will cause the south door to
+        open (ignore that). The left one will cause the right one to
+        become a switch, which will open the east wall up, which you
+        will go through. This will take you to ROOM #25.
+
+        ROOM #25:
+        In here is another Purple Minotaur, so take it out and the
+        south wall will open up, revealing another passageway which
+        will take you to ROOM #26.
+
+        ROOM #26:
+        In here is simply a Brown Snake, which by taking it out, will
+        cause the south wall to open. Now here's the deal however.
+        Ignore the south opening, because you will go to ROOM #27
+        (which has a Speeding Eyeball), then into ROOM #28 (which has
+        two Purple Minotaurs). Neither of these rooms are really needed
+        in completing this dungeon. So instead of all of that, head
+        over to the left wall and right in the middle walk through it.
+        Doing so will take you to ROOM #29.
+
+        ROOM #29:
+        Well here we are, the final room of the dungeon. So what
+        exactly do we do here? Well, jump on the geiser and you will be
+        lifted out of this dungeon. And with that, you have completed
+        Dungeon 3-5.
+
+     -----------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: Scroll Of Obob)
+
+     You are now back on the Overworld and with your score tallied
+     and your game saved, it's time to move on! And with that, head to
+     the hermit and talk to him. He will see that you came in search of
+     his spell and he will give you the SCROLL OF OBOB. With that he
+     will tell you to hurry off and save the girl. You will now get a
+     cutscene of you racing back quickly to Miracola (why couldn't this
+     be done when getting to the hermit instead?). You are now at
+     Miracola Village.
+
+        M I R A C O L A   V I L L A G E (ITEMS: None)
+
+        The Island Cheif tells you to read the scroll to his daughter.
+        You will then speak some weird gibberish, in hopes to wake her.
+        It's not enough, so you keep reading the spell. Soon enough,
+        his daughter wakes up, wanting food (sounds like me). Some
+        weirdness takes place, then the Island Cheif thanks you for the
+        help and has ordered repairs on the Sub-C.
+
+     O V E R W O R L D (ITEMS: None)
+
+     Talk to the Island Cheif who will wish you luck, then board Sub-C.
+     Nav-Com will say he's been waiting for you, and is ready to set
+     sail! With that, you will begin to cruise eastwardly. After that
+     the game will now save, and you will have FINALLY completed with
+     Chapter 3! Damn that was way too long of a journey.
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      ----------------------
+  E: |Chapter 4: Confessions|
+      ----------------------
+
+     "Sub-C is cruising on the ocean..... A small island appears on the
+     horizon...."
+
+     O V E R W O R L D (ITEMS: None)
+
+     After a long previous chapter, we are treated to this much smaller
+     one! We start off by being in the middle of the ocean, so start
+     heading right until you reach the small island (dry land!). Head
+     around and up to the small hut you see. By going in, you will be
+     in Tunacola Village!
+
+        T U N A C O L A   V I L L A G E (ITEMS: None)
+
+        Welcome to Tunacola Village (which seems to be a fishing
+        place)! Of course talk to the various people who will talk
+        about fishing. Nothing really to gain here, though the boy in
+        the northeast house talks about a guy who was sailing along the
+        east ocean. Could this be some sort of clue? Well with all of
+        that gone, leave here and head back to the Overworld.
+
+     O V E R W O R L D : (ITEMS: None)
+     After that bit of pointlessness, get back into the Sub-C and head
+     east around the island and continue going east. Soon, a giant
+     whale will come out of nowheres and gobbles you up! Must be a big
+     whale to eat up a sub O_o.
+
+     ------------------------------------------------------------------
+
+         -----------
+     1. |Dungeon 4-1|
+         -----------
+
+        I N S I D E   T H E   W H A L E : (ITEMS: Lighter)
+        While this isn't a dungeon persay, it is a rather large area,
+        so I decided to call this Dungeon 4-1 (just because ^_^). Now
+        this is gonna be a whale of a maze (I know, very bad pun), but
+        to help you get through it easier, you can use my map that's
+        located in the FAQ section. A link to it is right here:
+
+        http://www.gamefaqs.com/console/nes/file/587653/23525
+
+        With that, from where you start off at, go left two screens,
+        and you will then see Baboo on dry land (the half naked guy
+        from before). Go up to him and talk to him, and he will tell
+        you that he witnessed the kidnapping of your uncle (yet did
+        nothing to stop it?). He didn't tell you before, because he was
+        afraid of it returning, which it apparently didn't. He said he
+        was scared but he's ready to help. Trying to look for a way
+        out, he suggests to make the whale sneeze by building a fire
+        (whatever works?). Baboo HAD a lighter, but dropped it
+        somewheres. So that's our mission, to find it! Consider this as
+        SCREEN #01. Now get back in Sub-C, and head to the upper right
+        path. Go right into SCREEN #02. Now I will give you rough
+        directions on how to get to the Lighter and how to get back:
+
+        SCREEN #02: Follow the right path to SCREEN #03.
+        SCREEN #03: Follow the path downwards to SCREEN #04.
+        SCREEN #04: Continue onwards to SCREEN #05.
+        SCREEN #05: Take the path going north to SCREEN #06.
+        SCREEN #06: Submerge at the end going to SCREEN #07.
+        SCREEN #07: Go north to SCREEN #08.
+        SCREEN #08: Follow the west path to SCREEN #09.
+        SCREEN #09: Continue following the path to SCREEN #10.
+        SCREEN #10: Take the lower path to SCREEN #11.
+        SCREEN #11: Go over and submerge taking you to SCREEN #12.
+        SCREEN #12: Take the north path to SCREEN #13.
+        SCREEN #13: Take the upper left path to SCREEN #14.
+        SCREEN #14: Follow the path to SCREEN #15.
+        SCREEN #15: Continue following the path to SCREEN #16.
+        SCREEN #16: Take the south path taking you to SCREEN #17.
+        SCREEN #17: Once here, head to the left wall and go through it,
+                    then go south all the way to SCREEN #18.
+        SCREEN #18: Dock the sub and take the south path to SCREEN #19.
+        SCREEN #19: Follow the path around to SCREEN #20.
+        SCREEN #20: Continue following the path to SCREEN #21.
+
+        You will now see the Lighter, so go and get it. Now the
+        following will get you back to Baboo. Now head to SCREEN #20.
+
+        SCREEN #20: Follow the path back to SCREEN #19.
+        SCREEN #19: Follow the path back to SCREEN #18.
+        SCREEN #18: Board the sub and head north to SCREEN #17.
+        SCREEN #17: Go over and submerge, taking you to SCREEN #22.
+        SCREEN #22: Follow the south path, going to SCREEN #01.
+
+        Once you get back here, head over to Baboo and talk to him.
+        Together you will build a fire, after several minutes the whale
+        begins to sneeze. Doing so, it will shoot you, Baboo and Sub-C
+        out and you end up landing on a small island.
+
+     ------------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: None)
+
+     Happy to be out, Baboo tells you of your uncles last words "Evil
+     aliens from a distant planet, tell Mike to dip my letter in
+     water". After that, say you understand *shrugs*. He will tell you
+     that he will be fine, and for you to find you uncle! So now, board
+     Sub-C. Inside, you will be instructed to put in a frequency. Now
+     this is a puzzle that was a pain for me when I was younger,
+     because there is no clue on what the solution is, just that it's 1
+     out of 1,000 3-digit number combinations. Luckily I know the
+     solution, which is 747. To remember, think of the 747 Planes
+     (which is how I remember it). After that, you will take off,
+     eastwardly. After that the game will now save, and you will have
+     completed with Chapter 4!
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      -----------------------
+  F: |Chapter 5: Captain Bell|
+      -----------------------
+
+     "Sub-C is searching for Dr. Jones location.... but the strait is
+     blocked!"
+
+     O V E R W O R L D (ITEMS: None)
+
+     It seems for our next destination, we are at a large island.
+     Unfortunetly we can not continue onwards because a large ship is
+     blocking the way. So instead, dock and head up to the village you
+     see. You will now be in Bellcola!
+
+        B E L L C O L A   V I L L A G E (ITEMS: None)
+
+        Upon entering this village, not much is really said (although
+        there is a woman who said she is the 2nd oldest villager at 128
+        years old O_o). You could try and go to the covered hut but the
+        guard won't let you in (what is it with mean guards?!). So the
+        only thing to do is head to the northeast corner where there is
+        a songwriter. Keep in mind of what he's singing, as that's sort
+        of a clue. Now head back to the covered hut and the guard will
+        now let you through. Go up and talk to Chief Bellcola. He will
+        say he got a letter from C-Island, asking him to give you the
+        secret of the strait.
+
+        After promising to keep the secret, he will tell you about how
+        Captain Bell battled with pirates invading the islands, and
+        that he blocked the strait with his ship to save the islands
+        (dunno how this is). This is why he's the "Island Father".
+        Apparently there is a secret in his cave, which will open the
+        strait. It's not gonna be easy, so you will need the help of
+        Peter. So okay who's Peter, he could have atleast told us that.
+        Anyways leave here as well as the village.
+
+     O V E R W O R L D (ITEMS: Worm)
+
+     Back on the Overworld, you will see a path to the left. Follow it
+     all the way and you will see a parrot. Talk to the parrot and he
+     will tell you that without a gift, he won't speak to you. So what
+     now, well head back to Sub-C and board it. Now head east and then
+     south a bit to see a submerge spot. Submerge and you will be taken
+     east. Now submerge at the north one and you will then go north.
+     After that, keep going north until you reach the white bubbles
+     and go through the wall. Dock then head north to the lone hut. Go
+     in it and talk to the guy and he will teach you the ABC of fishing
+     (which is odd seeing as I don't care for fishing). After talking
+     to him, he will give you a WORM. Now with that, head back to the
+     parrot. Don't worry, I'll wait for you.
+
+     Once you finally get back to Peter The Parrot, give him the Worm.
+     In exchange he will tell you various things, but the important
+     thing is the last part: DO ME SO FAR, DO ME. Keep this in mind as
+     it will become very useful in the near future! With that, well, it
+     doesn't give you any ideas of what to do next. But luckily I know
+     what to do, which is head back to the dock near where the
+     fishermen that you got the Worm from. Again I will wait for you.
+     Now once there, dock and head south from there and follow the path
+     all the way until you get in between some rocks. Go left to reveal
+     a passageway, and follow the passage up 1, left 2, up 1 and LEFT
+     (because going north leads to a dead end) and then follow that
+     pathway until you're back in the opening. Now go north and into
+     the large building, which is the Captain Bell's Memorial.
+
+        C A P T A I N  B E L L ' S  M E M O R I A L (ITEMS: Big Heart)
+
+        In here, talking to the lady and she will tell you not to
+        touch anything. Like you'll listen, head over to the left and
+        through the opening and you will see a giant keyboard. Get
+        ready for another puzzle.
+
+            PUZZLE #02: CAPTAIN BELL'S MUSICAL
+
+            Here's a little drawing of what you see. Now remember that
+            little song that Peter The Parrot gave to you "DO ME SO
+                                            FAR, DO ME"? Well, that
+             --- --- --- --- --- --- ---    song is about be put to
+            |   |   |   |   |   |   |   |   some use. His message is
+            |#01|#02|#03|#04|#05|#06|#07|   actually musical notes: DO
+            |   |   |   |   |   |   |   |   ME SO FA DO ME. Now you m
+             --- --- --- --- --- --- ---    must step on the the right
+                                            keys in the right order
+            for this solution to be solved. So, the first key on the
+            left is DO, so starting with that, step on Key #01, then
+            Key #03, Key #05, Key #04, Key #01, Key #03. This might
+            take a couple times to do if need be.
+
+        And with that, the flames blocking the path will disappear,
+        giving you access to the staircase. Go up and into the
+        staircase and you will be taken to a basement area. In here,
+        head south to the next staircase and go in it. Down in this
+        lower area, see the blue in the wall? Well go through that and
+        you will find a BIG HEART. Get that and you will have 9 Heart
+        Points. Now with that, head back up to the basement area and
+        head south, and you will be taken to the Overworld.
+
+     O V E R W O R L D (ITEMS: None)
+
+     Once out here, follow the path all the way and you will see a
+     tunnel. With your game saved, it's time to take on Dungeon 5-1!
+
+     -----------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 5-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 3 parts and 30 rooms in it.
+
+               - - - D U N G E O N   5 - 1   P A R T   A - - -
+
+                [10]                          LEGEND FOR PART A:
+                                              01 = Starting Point/
+           [11]-[09]                               Two Hearts
+             |    |                           03 = 3 Two Hearts
+           [12]-[08]-[06]-[05]-[04]-[03]-[02] 07 = Life Sign
+                                           |  08 = Two Hearts
+                                         [01] 12 = Leads to 13 (Part B)
+
+        ROOM #01:
+        As always you start off in this room, however this time it's
+        different. You see a Rabbit Slug in here, so take that out.
+        Also in the bottom right corner is a shadow wall, which you can
+        go through. At the otherside will be two TWO HEARTS. Now head
+        back and go through the north door, taking you to ROOM #02.
+
+        ROOM #02:
+        In here is two Blue Bats and three Red Bats. Take these out and
+        the west door will open, taking you to ROOM #03.
+
+        ROOM #03:
+        Now this room is gonna be a trip. Right away you will see
+        several tiles. First off, jump down 1 and then up 2, and both
+        will reveal two TWO HEARTS to go along with the TWO HEARTS you
+        already see. Now you need to make your way across the tiles,
+        but be careful as halfway through, the tiles will start to
+        disappear right behind you. Once at the otherside, jump up 1 to
+        reveal a switch. Hit that switch and the west door will open.
+        Quickly make it through there and you will be in ROOM #04.
+
+        ROOM #04:
+        You need to quickly make it across the room as arrows will
+        start to shoot out at you as you make it across. Once through
+        that, continue on to the tile, which will reveal a switch (more
+        arrows will shoot at you). Keep going left and jump on the
+        switch to cause the west wall to open, taking you to ROOM #05.
+
+        ROOM #05:
+        In here is a Silver Ball, and two tiles. Hit the first one to
+        reveal a switch, then head up to the Silver Ball and hit it, to
+        cause it to move. Make your way to the switch and it will cause
+        the west wall to open, taking you to ROOM #06.
+
+        ROOM #06:
+        In here, all three doors here will open up, which is helpful.
+        So which way do we go from here? Well for starters, head south
+        to ROOM #07.
+
+        ROOM #07:
+        In this room, is four Green Snakes and a Red Bat, as well as a
+        LIFE SIGN. Take out the enemies, and collect the Life Sign to
+        see what you get. The north door will open, so go through it
+        and you'll be back in ROOM #06.
+
+        ROOM #06 (REVISITED):
+        Once back here, now head through the west door, taking you over
+        to ROOM #08.
+
+        ROOM #08:
+        In here is TWO HEARTS, but getting it will cause arrows to
+        shoot out. The left tile will reveal a switch for you to get
+        out of here. Don't worry about the otherside, we'll get to that
+        soon. Instead head back to ROOM #06.
+
+        ROOM #06 (REVISITED):
+        Now head up through the north door, taking you to ROOM #09.
+
+        ROOM #09 & ROOM #10:
+        Here's the deal with this, this room and ROOM #10 works
+        together, so I will just give you the directions on how to get
+        out. First off, there are five Blue Rats here (just avoid
+        those). From where you start, go up 3 steps, then right 1 and
+        you'll fall into ROOM #10. Here, go to the bottom right corner
+        staircase and climb it, while avoiding the spikes rising up.
+        Back in ROOM #09, head up 5 steps, then left 2 steps and into
+        the shadow wall. At the otherside, go left 2 steps and down 1,
+        and then into the shadow wall, which will take you to ROOM #11.
+
+        ROOM #11:
+        In here is three Green Snakes and a lone Red Bat. Take all of
+        these out to open the south wall, which will take you into
+        to ROOM #08.
+
+        ROOM #08 (REVISITED):
+        Simply follow the path to the west door and enter it, taking
+        you to ROOM #12.
+
+        ROOM #12:
+        In here is a room full of tiles as a Red Bat and Blue Bat.
+        Here's what needs to be done. Jump all the way across the
+        blocks to the otherside, but be warn as the blocks will start
+        to disappear starting in the middle, and go around encircling
+        other blocks (you'll see what I mean). At the otherside, jump
+        down 2 to reveal a switch and quickly head up to it to open the
+        west door, taking you to ROOM #13 as well as Part B.
+
+               - - - D U N G E O N   5 - 1   P A R T   B - - -
+
+                          [16]            LEGEND FOR PART B:
+                            |             13 = Starting Point of Part B
+           [25]-[24]-[17]-[15]-[14]-[13]       /Mirror Shields
+                  |    |    |             15 = Magic Rod
+                [23] [18] [19]            16 = Two Hearts
+                  |    |    |             17 = Baseball Bats
+                [22]-[21]-[20]            18 = Magic Potion
+                                          25 = Leads to 26 (Part C)
+
+        ROOM #13:
+        Here starts Part B. Okay now this will be real fun (sarcasm
+        obviously). You will be faced with a Blue Megaton, which will
+        roll back and forth (which if it hits you, you're instantly
+        dead). Duck in one of the cubby holes and then when it's near
+        you, begin to chase it. You will get a couple more cubby holes
+        up. After it's past you, then make your way left to the
+        otherside, where some tiles are. Hit the bottom one for MIRROR
+        SHIELDS to appear, and the top one for a switch to appear. Get
+        both of these and the west door will open, which will take you
+        to ROOM #14.
+
+        ROOM #14:
+        A Green Snake is in this room as well as two Ghost Pirates. To
+        take those out, do it the same way as you did Red Wizards, and
+        that is to use your Mirror Shields on them. Take out the Green
+        Snake and the west wall will open up, taking you to ROOM #15.
+
+        ROOM #15:
+        Now this room might be slightly tricky. There are four Silver
+        Balls and a MAGIC ROD in here. Hit the first Silver Ball to
+        cause it to move and get the Magic Rod, and go up. Now hit the
+        top Silver Ball to cause it to move and get up to left tile.
+        This will cause a switch, which will open the north door,
+        taking you to ROOM #16.
+
+        ROOM #16:
+        Now this room is completely optional, and rather tricky, so I
+        would just avoid it. Once you enter this room you'll be on a
+        sinking tile, you must quickly jump upwards, to reveal a
+        switch. That switch opens the door leading back to ROOM #15. On
+        either side here, you can TWO HEARTS by stepping on each tile.
+        Now you can go get those, and then head through the door taking
+        you back to ROOM #15.
+
+        ROOM #15 (REVISITED):
+        Now back here, hit the Silver Ball, then in the middle, duck to
+        the left, then hit the next Silver Ball. Jump over that and hit
+        the left top tile to reveal a switch. Hit the switch to open up
+        the west wall, which will take you to ROOM #17.
+
+        ROOM #17:
+        In here it appears quiet, so head over to the island and find
+        the right tile to step on which will reveal BASEBALL BATS. Now,
+        use your Magic Rod to find a Floating Ghost in the corner. Take
+        that out and the south door will open up, which will take you
+        to ROOM #18.
+
+        ROOM #18:
+        In here, you will see a MAGIC POTION so get that. Now find the
+        right tile, which will cause a switch to appear. Don't worry
+        about the south half of this room, as it's not needed for this
+        dungeon. Anyways step on the switch and it will open up the
+        north door, taking you back to ROOM #17.
+
+        ROOM #17 (REVISITED):
+        Nothing else to do here, so head back through the east door,
+        taking you back to ROOM #15.
+
+        ROOM #15 (REVISITED):
+        Once back here, do as you have been doing and make it to the
+        south side. Hit the bottom left tile to reveal a switch which
+        will open the south door, taking you to ROOM #19.
+
+        ROOM #19:
+        Simple enough room, four Green Snakes and a Red Bat. Take them
+        out and the south wall will open up, taking you to ROOM #20.
+
+        ROOM #20:
+        In here is three Blue Tucans, so take them out and the west
+        wall will open up, taking you to ROOM #21.
+
+        ROOM #21:
+        Okay this one will be an extreme pain. You will have a Green
+        Megaton charging at you, so go up to the tile and pressing it
+        will reveal a switch on the otherside. Now to deal with this
+        bowling ball. Follow it till it's on the leftside, and start
+        hitting. This will freeze it for a second, so it's best to hit
+        it and go up the middle path (don't worry about the north
+        door). Now stun it when it's on the right and get to the
+        switch. This will cause the west wall to open up, taking you
+        to ROOM #22.
+
+        ROOM #22:
+        In here, hit the lone tile in the middle of the room, to cause
+        a switch to appear. Hit that and the north door will open
+        taking you to ROOM #23.
+
+        ROOM #23:
+        Rather simple room, there are six Red Bats here, but you can
+        ignore them. So just make your way up the tiles and go through
+        the north door, which will take you to ROOM #24.
+
+        ROOM #24:
+        In here is two Purple Minotaurs, so take them out, and then
+        jump on the right tile to reveal a switch with the left tile.
+        Now this will open the east wall, which will take you to
+        ROOM #17, but that's not needed. Instead, use the Magic Rod and
+        a Floating Ghost will appear. Take that out and the west wall
+        will open up, so go into that and it will take you to ROOM #25.
+
+        ROOM #25:
+        Somewhat simple room, head over and hit the Silver Balls and
+        head to the otherside. Hit the top tile and it will cause a
+        switch to appear. Hit the switch and the west door will open,
+        taking you to ROOM #26 as well as Part C.
+
+               - - - D U N G E O N   5 - 1   P A R T   C - - -
+
+                                      LEGEND FOR PART C:
+           [---30--]                  26 = Starting Point of Part C/
+             |                             Two Hearts
+           [29]-[---28--]-[27]-[26]   27 = Two Hearts
+                                      28 = Two Hearts/Mirror Shields
+                                      30 = Exiting Point
+
+        ROOM #26:
+        Here starts Part C. In here will be some tiles as well as
+        spikes shooting up through the ground. Quickly head over to the
+        tiles, where the middle one will make a switch appear and the
+        right one will reveal TWO HEARTS. Jumping on the switch will
+        cause the west door to open, taking you to ROOM #27.
+
+        ROOM #27:
+        In here, you will see a TWO HEARTS, so go after it and as you
+        do, arrows will shoot down at you. As you make through here,
+        jump across the submerging tile, then continue going right,
+        trying to avoid the arrows. At the otherside is you will step
+        on a tile which will reveal a switch. Step on that, and the
+        west door will open, taking you to ROOM #28.
+
+        ROOM #28:
+        Now this room will be very tough. You will see a Red Megaton,
+        and this one will come at you if you're in its path. To get
+        through here, duck in the cubby hole and when it gets to the
+        left side, quickly make it to the next cubby hole, where there
+        is a TWO HEARTS. Once it hits the right side, get out and hit
+        it to stun it, then walk a few steps, turn around and stun it
+        again. Repeat this until you reach the far left side. At the
+        otherside, jump on the top tile to reveal a switch and the
+        bottom tile will reveal MIRROR SHIELDS. To get either, make
+        sure the Red Megaton is on the rightside, and make your move
+        (stun it if you must). Now go through the west door after all
+        of this, and you will be in ROOM #29.
+
+        ROOM #29:
+        In here is two Green Snakes and three Ghost Pirates. Use your
+        Mirror Shield for the Ghost Pirates and just blast away on the
+        Green Snakes. After all of this, the north door will open,
+        taking you to ROOM #30.
+
+        ROOM #30:
+        In here, you will be standing on a shadow wall, so go through
+        it to the right. At the otherside, go up and through the north
+        shadow wall. Once back, jump on the tile three times. This will
+        cause the levee to open up and the water will spill through.
+        And with that, you have completed Dungeon 5-1.
+
+     ------------------------------------------------------------------
+
+     O V E R W O R L D (ITEMS: None)
+
+     You are now on the Overworld and you will be treated to a
+     instrumental piece of "My Country Tis Of Thee", which is a
+     historic song about America. While this is happen, the giant ship
+     will be swept away, giving you access to move on. After that, your
+     score tallied and your game saved, it's time to move on! And by
+     doing so, you will get a cutscene showing you sailing off to the
+     north. After that the game will now save, and you will have
+     completed with Chapter 5!
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      ------------------
+  G: |Chapter 6: Reunion|
+      ------------------
+
+     "Sub-C is searching for Dr. Jones location.... Will Nav-Com catch
+     his signal in time?"
+
+     O V E R W O R L D (ITEMS: None)
+
+     Here we go on another crazy adventure. But before we get into it,
+     the next area is kinda like a maze area. If you want, you can use
+     my map which can be found on the FAQ Section for this game:
+
+     http://www.gamefaqs.com/console/nes/file/587653/40253
+
+     Now with that out of the way, from where you start off, head
+     directly east all the way until you reach the wall. Now from
+     there, go back 1 step and down 6 steps, and you'll (hopefully) see
+     some tiny white bubbles. At that point, go through the wall and at
+     the otherside, head up to where you see the lone hut. Go into the
+     hut and you will be in Howduyadu-Cola Village.
+
+        H O W D U Y A D U - C O L A   V I L L A G E (ITEMS: None)
+
+        Welcome to Howduyadu-Cola Village! As you walk around talking
+        to the villagers, you will out that they are quite and old
+        bunch (and I mean REALLY old, like the oldest is 199 years old
+        O_o). Though by talking to everyone, you'll learn some
+        interesting things, including a Big Heart location, and
+        something about seeing someone in a boat just like yours (very
+        interesting!). Anyways, leave here and head back to the
+        Overworld.
+
+     O V E R W O R L D (ITEMS: Big Heart, Apple)
+
+     Board Sub-C and it seems that Nav-Com has detected a signal, that
+     your uncles location is north 49 and east 28. This is where things
+     get rather interesting. What you must do is navigate through a
+     large maze like area, just to find your uncle. Clues will easily
+     be given thanks to Nav-Com, when you board Sub-C each time (after
+     docking) or when you're getting close to Dr. J. However, we'll
+     worry about that in a bit. Right now, it's time to go hunting for
+     stuff. So, from the docking area, head south 1, west 7, north 13,
+     west 4, north 6, west 8, north 12, west 11, north 3, west 6,
+     north 2, west 7, north 9, and you will be near a submerging spot.
+     Go to it and submerge and you will take across to the otherside.
+     You'll now be inside a small water area. From here, head to the
+     south submerging spot and use it to travel southwards. Once here,
+     you will then see an island and staircase.
+
+     Inside the staircase is an Apple, which does absolutely nothing.
+     Yeah I know this was a wasted trip, but when you board Sub-C
+     again, you will get new coordinates, which is north 25 and east
+     59. With that, head back up to the submerging spot to go north,
+     and in that spot, take the east submerging spot. Now at the
+     otherside of this one, you will see another small island and
+     staircase, so take the southwest path to get to it. In this one,
+     there is a Big Heart, which you will get! This will bring you up
+     to 12 Health Points! Now leave here and board Sub-C, and the new
+     coordinates are north 13, east 53. Now after that, you are ready
+     to sail, so head back to where the submerging spot is and use that
+     as the starting point. From there, go south 1, east 3, south 1,
+     east 1, south 1, east 1, south 1, east 18, north 6 and you will
+     see a hut.
+
+     By going into the hut, you will see a skeleton? Who was this you
+     wonder, well who knows. Anyways, back on the Sub-C and now the
+     coordinates say north 4, east 29 (we're getting so close!). After
+     that, go south 13, east 4, south 2 and through the wall. At the
+     otherside, head south 14 and you'll be at a submerging spot. Into
+     it and you will be taken east to the otherside. Once there, go
+     east 3, south 13, west 2, submerge to go south, then go south 2,
+     west 7 and submerge going north (yeah I know there's an island,
+     but nothing is in it, so ignore it). At the otherside, go north 1,
+     west 1 and Nav-Com will say the new coordinates are north 20 and
+     east 11. With that, west 1, north 9, west 4, north 6, through the
+     wall, then east 2, new coordinates of north 5 and east 6. With
+     that, go north 3, east 3, north 2, east 2 and then east once more.
+
+     It seems the signal has stopped? Hmmm, nothing is happening. I
+     guess we could try submerging, and looky there, you're underwater!
+     With that, head upwards and you will see a tunnel. Your game will
+     saved once entering here. You need to head up three screens, and
+     as you do, things will get much darker. After that, you will be in
+     some sanctuary. Follow the pathway all the way to the otherside,
+     and head through the north opening. With your game saved, it's
+     time to take on Dungeon 6-1!
+
+     ------------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 6-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 2 parts and 18 rooms in it.
+
+               - - - D U N G E O N   6 - 1   P A R T   A - - -
+
+           [09]-[08]                 LEGEND FOR PART A:
+                  |                  01 = Starting Point
+                [07]                 03 = Floating Feather/2 Two Hearts
+                  |                  05 = Floating Feather
+                [06]-[---05--]-[04]  06 = Two Hearts/Magic Potion
+                                 |   08 = BOSS: Giant Turboss/
+                               [03]       Floating Feather
+                                 |   09 = Leads to 10 (Part B)
+                               [02]
+                                 |
+                               [01]
+
+        ROOM #01:
+        Here is where you start off as always, but nothing is in here,
+        so just head through the north door taking you to ROOM #02.
+
+        ROOM #02:
+        In here are two Green Snakes and two Purple Snakes, but taking
+        them out won't do anything so just go through the north door,
+        taking you to ROOM #03.
+
+        ROOM #03:
+        In here you will see a FLOATING FEATHER, which is a really
+        handy item that will let you float over two gaps, but will last
+        for one room. Get that, and then jump up to the left tile,
+        which will reveal a switch, causing TWO HEARTS to appear from
+        the chest. Now for the right tile, which will cause another
+        switch to appear, thus more TWO HEARTS comes out of the chest.
+        Get those and head through the north door which will take you
+        to ROOM #04.
+
+        ROOM #04:
+        In here might be tricky, because there are three Blue Mummies
+        and three Purple Mummies. Best way to deal with this, divide
+        and conquer as much as you can. After taking them all out, the
+        west wall will open up, taking you to ROOM #05.
+
+        ROOM #05:
+        For this room, you will see several tiles. For now, head down
+        and take the lower path of tiles and soon you'll come to a tile
+        which will reveal a FLOATING FEATHER. Also you will see Red
+        Octojumpers as well. So, to get through here, head back to the
+        tile which revealed the feather, and jump up 1, right 2, up 1,
+        take out the enemy, left 1, down 1, left 2 (or 3, depending on
+        the weapon you have), take out this enemy. Now go back right 2
+        (or 3), up 1, right 1, down 1, left 3, up 1, left 2 (or 3) and
+        take out this one. Now go back right 1 (or 2), down 1, take out
+        the enemy, left 1, up 1, left 2, take out the enemy and the
+        west door opens. Now go through the door which will take you
+        to ROOM #06.
+
+        ROOM #06:
+        Now this might be tricky. You see 6 Red Mummies here, but
+        notice the opening in between, that's where you need to be.
+        However you also have sinking tiles, so you need to time this
+        carefully. When you see an opening coming around, make your
+        move, then follow the Red Mummies till you reach the visible
+        switch. This will cause the chest to open with TWO HEARTS. Now
+        get to that spot where it is and stay there. You can easily
+        take out the Red Mummies this way. After that, the north door
+        will open, but before you make your way through that, head to
+        the north sinking tile and jump right to reveal a hidden tile,
+        then jump right once more to reveal another. Once more to the
+        right again to reveal a MAGIC POTION. Now you can head through
+        the north door, which will take you to ROOM #07.
+
+        ROOM #07:
+        In here is just a lone Crawling Snail, so just take it out and
+        the north door will open, taking you to ROOM #08.
+
+        ROOM #08:
+        Get ready, because another boss fight is about to take place (a
+        little too soon, I might add)!
+
+           BOSS #05: GIANT TURBOSS
+           This fight will be set up just like the boss fight with the
+           giant octopus from much earlier. This boss will shoot a
+           trail of fireballs at you, but at a much quicker pace, so
+           simply jump back and forth dodging it. It's probably best to
+           jump back and forth between the three tiles near the door,
+           because it will get in close to you after a bit. This is
+           when you need to strike at it fast. After a few hits, it
+           will back and up and go at it again. Repeat this process and
+           after several hits are done to it, it will be defeated!
+
+        Now during the boss fight, you will have uncovered a FLOATING
+        FEATHER, so just use that and head through the (now) opened
+        west door, taking you to ROOM #09.
+
+        ROOM #09:
+        In here, jump up to the lone tile to reveal a switch. Step on
+        the switch to open the north door, taking you to ROOM #10, as
+        well as Part B.
+
+               - - - D U N G E O N   6 - 1   P A R T   B - - -
+
+           [18]                 10 = Starting Point of Part B
+             |                  12 = Two Hearts/Floating Feather/
+           [17]                      Super Baseballs
+             |                  13 = Power Skate
+           [16]                 14 = 3 Two Hearts/Floating Feather
+             |                  17 = BOSS: Broken Joe
+           [15]                 18 = Exiting Point
+             |
+           [---14--]-[13]
+                       |
+                     [12]-[11]
+                            |
+                          [10]
+
+        ROOM #10:
+        Here starts Part B. In here is three Crawling Snails, so take
+        them out and the north door will open, taking you to ROOM #11.
+
+        ROOM #11:
+        Nothing in here, but a shadow wall, but ignore that. Instead go
+        through the bottom left corner of the room and walk through it.
+        You will now be in ROOM #12.
+
+        ROOM #12:
+        Now while this room is dark, head left till you can't go
+        anymore, then jump left. This will reveal a switch, which
+        stepping on that will open the north wall. With that, simply
+        head back into ROOM #11.
+
+        ROOM #11 (REVISITED):
+        Once back here, head to the upper left corner, and go through
+        it, to go back into ROOM #12.
+
+        ROOM #12 (REVISITED):
+        Once back here, get the FLOATING FEATHER, then jump down 1 and
+        left 1, to turn on the lights. Now, jump back to the upper path
+        and jump on the tile there. This will reveal another switch,
+        which will open a chest revealing TWO HEARTS. Now jump down 1
+        to reveal a third switch. Now head to the switch and the chest
+        will open, revealing SUPER BASEBALLS. Now with all of that out
+        of the, head up through the north door, taking you to ROOM #13.
+
+        ROOM #13:
+        In here you will see six Red Crabs and a POWER SKATE. This is a
+        fun item, and infact to get through here, you need to use it
+        once. After that, the west door will open, which will take you
+        to ROOM #14.
+
+        ROOM #14:
+        Starting off here, will be some Fire Pipes and Crawling Snails.
+        Make your way along the lower path and hit the left tile, to
+        reveal TWO HEARTS. Now head to the upper path and hit the left
+        tile to reveal a FLOATING FEATHER. Now with that, head across
+        the middle path of tiles, collecting the Two Hearts, and at the
+        otherside is another TWO HEARTS as well as more Crawling Snails
+        and Fire Pipes. The tile on the lower path will reveal another
+        TWO HEARTS. Make sure you take out all the Crawling Snails, and
+        when you do, the north door will open taking you to ROOM #15.
+
+        ROOM #15:
+        Now this room might either be tough or easy, it all depends on
+        if you have your Power Skates. There are 6 Black Mummies here
+        and a room full of tiles. Use three Power Skates to take them
+        out (you will now have six left, so save them!). If you don't
+        have any, well, this might be tougher. After that the north
+        door will open, and seeing as there is nothing in here
+        (surprisingly). Go through the door and you will be taken
+        to ROOM #16.
+
+        ROOM #16:
+        In here, it's simple, two Purple Snakes, so take them out and
+        the north door will open, taking you to ROOM #17.
+
+        ROOM #17:
+        In here you will see a statue in the wall. Walk up to it and it
+        will start to wake up and starts moving around. Get ready,
+        because another boss fight is about to take place!
+
+           BOSS #06: BROKEN JOE
+           This boss will slowly float around making its way towards
+           you, and when it stops, it will shoot out snakes at you, so
+           dodge these. Make sure you have your SUPER BASEBALLS,
+           because when it opens it mouth, that's when you need to
+           attack it. If you run out, you are pretty much screwed, but
+           you should be able to have enough to take it out, so long as
+           you make successful hits (jump and shoot might help). After
+           about twenty direct hits, he will be defeated!
+
+        And with that, the north door will open, go go through it and
+        you will be taken to ROOM #18.
+
+        ROOM #18:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here! And with that, you have
+        completed Dungeon 6-1.
+
+     ------------------------------------------------------------------
+
+     R U I N S (ITEMS: Big Heart)
+
+     You are now back on the Overworld/Sanctuary area and with your
+     score tallied and your game saved, it's time to move on! Now this
+     next section will kind of a maze. While I'll give you directions
+     on getting through here, you can also look at my map on the
+     solution which can be found on the FAQ Section for this game. The
+     link to that can be found here:
+
+     http://www.gamefaqs.com/console/nes/file/587653/52484
+
+     Now, with that out of the way, you start off on SCREEN #01, so
+     here's the directions on how to get through here:
+
+     SCREEN #01: Follow the path and go east to SCREEN #02
+     SCREEN #02: Continue to second north path and go to SCREEN #03.
+     SCREEN #03: Take left path and follow it to staircase. Inside is a
+                 Big Heart, which will give you 13 Heart Points. Now go
+                 back the same way to SCREEN #02.
+     SCREEN #02: Go left and make your way back to SCREEN #01.
+     SCREEN #01: Go up the north path to SCREEN #04.
+     SCREEN #04: Follow path to the east path, leading to SCREEN #03.
+     SCREEN #03: Follow path to the right and go north to SCREEN #05.
+
+     Now that you are on SCREEN #05, head up to the rock (OMG A GIANT
+     ROCK!) and examine it. You see that it's metal melted by great
+     heat. There's also three holes in it, and some weird cipher is
+     inscribed in it, however you can't read it. What could this mean?
+     Well you will find out in due time. Anyways, head around here, and
+     continue following the path and you will see a north opening in
+     the far east side, which you will go through. With your game
+     saved, it's time to take on Dungeon 6-2!
+
+     ------------------------------------------------------------------
+
+         -----------
+     2: |Dungeon 6-2|
+         -----------
+
+        DUNGEON STATS: This dungeon has 4 parts and 29 rooms in it.
+
+               - - - D U N G E O N   6 - 2   P A R T   A - - -
+
+
+           [03]        LEGEND FOR PART A:
+             |         01 = Starting Point
+           [02]-[04]   04 = Two Hearts/Leads to 05 (Part B)
+             |    |
+           [---01--]
+
+        ROOM #01:
+        You start off in this room, and it appears as if there's
+        nothing here, but we'll get to that soon enough. Now if you
+        head north you'll be in ROOM #02, which only has three Blue
+        Rats, and past that is ROOM #03, which has five Blue Bats in
+        it. Nothing else is to be gained, so let's just stay in this
+        room. Doing so, head to the east wall and you can go through it
+        to the otherside. You will then see a row of tiles, so starting
+        at the bottom tile, work your way up. Eventually you'll find
+        the switch that will open the north door, which will take you
+        to ROOM #04.
+
+        ROOM #04:
+        In here is three Blue Rats and a TWO HEART. Don't worry about
+        the left side as it's not important. Instead take out the Blue
+        Rats and the north door will open, taking you to ROOM #05, as
+        well as Part B.
+
+               - - - D U N G E O N   6 - 2   P A R T   B - - -
+
+                [13]        LEGEND FOR PART B:
+                  |         05 = Starting Point of Part B
+           [14]-[12]-[11]   06 = Star Splitters
+                       |    09 = Two Hearts
+                     [10]   12 = 2 Two Hearts
+                       |    14 = BOSS: Hoodoo Doll/Life Sign/
+                [09]-[08]        Leads to 15 (Part C)
+                       |
+                     [07]
+                       |
+                     [06]
+                       |
+                     [05]
+
+        ROOM #05:
+        Somewhat simple room, two Blue Bats are here but there are also
+        blades that will stick out of the ground at random places. Take
+        out the Blue Bats and the north door will open, which will take
+        you to ROOM #06.
+
+        ROOM #06:
+        In here are six Green Snakes and a STAR SPLITTER (save these!).
+        Get that and here's how it works. Turn left and use the Star
+        Splitter and when it's in their path, hit the 'B' BUTTON again
+        to split it two directions, taking them both out at once. Now
+        do this again with the remaining Green Snakes and the north
+        wall will open up, taking you to ROOM #07.
+
+        ROOM #07:
+        Four Green Snakes and a Purple Spike Ball (which is like the
+        Silver Balls) is here. Use your Star Splitter on the Green
+        Snakes and the north door will open, taking you to ROOM #08.
+
+        ROOM #08:
+        In here is two Blue Flies, so just take them out. Doing so will
+        cause the west wall to open, which will take you to ROOM #09.
+
+        ROOM #09:
+        In this happy music room, there are two TWO HEARTS so get them.
+        Seeing as nothing else is here, simply go back to ROOM #08.
+
+        ROOM #08 (REVISITED):
+        Back in here, take out the Blue Flies and hit the middle left
+        tile to reveal a switch. Hitting the switch will cause the
+        north wall to open up, taking you to ROOM #10.
+
+        ROOM #10:
+        In here are just five Blue Bats, so take them out and the north
+        door will open, taking you to ROOM #11.
+
+        ROOM #11:
+        In here is four Purple Creepers and two Dark Clouds. Don't let
+        those touch you or else you'll lose your weapon for a little
+        bit. Take out the four Purple Creepers the west wall will open
+        up taking you to ROOM #12.
+
+        ROOM #12 & ROOM #13:
+        Okay here's another happy music room, in which both ROOM #12
+        and ROOM #13 works together. Nothing can be gained from the
+        tile, so head up to the narrow path and jump up to ROOM #13. Up
+        here swing around to the left and jump down back to ROOM #12.
+        Collect the TWO HEARTS and head to the left wall and go through
+        it, collecting the other TWO HEARTS. Now go down to the tile
+        and jump on it, revealing a switch, which will open the west
+        door taking you to ROOM #14.
+
+        ROOM #14:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #07: HOODOO DOLLS
+           Okay this is tough, you have here a wooden doll walking
+           around. It will spin around fast and shoot bullets at you
+           when you are in it's path. So here is what you should do.
+           Get near it, but not in it's path, and when it comes down
+           right in front of you, start hitting it and then run out of
+           it's path before it starts to shoot at you. Repeat this
+           process and soon it will be defeated.
+
+        With that defeated, the north door will open up and a tile will
+        appear. Step on the tile and a LIFE SIGN will appear. Get that,
+        and go through the north door, taking you to ROOM #15 as well
+        as Part C.
+
+               - - - D U N G E O N   6 - 2   P A R T   C - - -
+
+           [19]   LEGEND FOR PART C:
+             |    15 = Starting Point of Part C/2 Two Hearts/
+           [18]        Star Splitters
+             |    18 = Star Splitter/Two Hearts
+           [17]   19 = Leads to 20 (Part D)
+             |
+           [16]
+             |
+           [15]
+
+        ROOM #15:
+        Here starts Part C. Quiet room, head up to the two tiles in
+        front of you and step on them to reveal a STAR SPLITTER and TWO
+        HEARTS. Now step on the right tile to reveal a switch. Head to
+        the switch and it will open the north door. Jump on the tile
+        next to the right of it, to reveal another TWO HEARTS. Now go
+        through the north door, which will take you to ROOM #16.
+
+        ROOM #16:
+        Four Green Snakes and a Purple Spike Ball is here. Use your
+        Star Splitter on the Green Snakes and the north door will open,
+        taking you to ROOM #17.
+
+        ROOM #17:
+        You must be careful here, because two Rock Creatures will
+        wander across the room. To take them out, they must be fully
+        visible, so getting close to them might help. After taking them
+        out, the north door will open, taking you to ROOM #18.
+
+        ROOM #18:
+        This room has six Blue Flies in it, which shouldn't be too big
+        of a problem. Take them all out and the north wall will open
+        up. Before going through it though, step on the right tile to
+        reveal STAR SPLITTERS and the left tile for a TWO HEARTS. Now
+        go through the north opening, which will take you to ROOM #19.
+
+        ROOM #19:
+        There are four Rock Creatures in this room, so take them out
+        the same way as you did before. Doing so will cause the north
+        door to open, taking you to ROOM #20, as well as Part D.
+
+               - - - D U N G E O N   6 - 2   P A R T   D - - -
+
+              [29]             LEGEND FOR PART D:
+                |              20 = Starting Point of Part D/Two Hearts
+              [28] [23]-[22]   24 = 2 Star Splitters/Magic Potion
+                |    |    |    25 = BOSS: Two Hoodoo Dolls
+         [---27--] [24]-[21]   27 = Two Hearts/Star Splitters
+                |    |    |    28 = BOSS: Statues Of Twin Sumocho/
+              [26]-[25] [20]        Two Hearts/Star Splitters
+                               29 = Exiting Point
+
+        ROOM #20:
+        Here starts Part D. In here is two Blue Bats and blades
+        shooting upwards. There is also two TWO HEARTS here, so
+        carefully get those and make your way through the north open
+        door, which will take you to ROOM #21.
+
+        ROOM #21:
+        In here is a Red Zombie, which is rather simple to take out
+        (despite it taking a bit to do). Take it out and the north wall
+        will open up. However now go the left wall and go through it,
+        and you will be taken to ROOM #24.
+
+        ROOM #24:
+        In here, simply step on the tile and STAR SPLITTERS will be
+        revealed. Get those and head back through the wall, going back
+        to ROOM #21.
+
+        ROOM #21 (REVISITED):
+        Back here, avoid the Red Zombie, and simply go through the
+        north opening, which will take you to ROOM #22.
+
+        ROOM #22:
+        This room might be a bit more tricky, as it has four Red
+        Zombies and two Dark Clouds. Avoid everything here and head to
+        the west wall, about halfway up, you can walk through the wall,
+        which will take you to ROOM #23.
+
+        ROOM #23:
+        In here is nothing, so jump over to the center island, and then
+        jump downwards and you will be in ROOM #24.
+
+        ROOM #24 (REVISITED):
+        Once getting here, you will see a MAGIC POTION, so get that.
+        Now step on the right tile to reveal a switch, and then head
+        over to the left tile which will reveal a STAR SPLITTER, which
+        you will get as well. Now hit the switch and the south door
+        will open up, taking you to ROOM #25.
+
+        ROOM #25:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #08: TWO HOODOO DOLLS
+           This is gonna be extremely tough, because you got a double
+           dose of these wooden dolls to contend with. They will both
+           use the same tactic as before, so you can try and take them
+           out the same way, just make sure they are both far apart
+           from one another when you do it. If you want to try and use
+           your Star Spliiter, go for it (save atleast 40 of them as
+           you will need them soon enough), but make sure they are in
+           line with each other for it to work. You'll also have a
+           Magic Potion as a back up plan. Use a combination of both
+           tactics and soon they will be defeated.
+
+        After the fight, the west door will, which you will go through,
+        taking you to ROOM #26.
+
+        ROOM #26:
+        In here, head to the lone tile and step on it. This will cause
+        a switch to appear, which by stepping on that, will make the
+        north door open. Go through that and you will be in ROOM #27.
+
+        ROOM #27:
+        In here it's a very dark room, so all you need to is go north.
+        But first, walk three steps north and walk through the west
+        wall. On the otherside, go down 1 step then jump left 1 and a
+        TWO HEARTS will appear. Now jump down 1, left 1 to reveal a
+        switch. Hit the switch and STAR SPLITTERS will emerge from the
+        chest. Now jump left 1, up 2 to get it, then right 1 and
+        through the wall back to the otherside. Once back here, go
+        north and you will be in ROOM #28.
+
+        ROOM #28:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #09: STATUES OF TWIN SUMOCHO
+           It's more double trouble as you have to deal with these twin
+           statues. They will both shoot out fireballs at you, which
+           are easy to avoid. To take them out, use your Star Splitters
+           so that you can hit them both at the same time. When to
+           strike them would probably be when they stop shooting
+           fireballs at you. After about 8 or 10 hits, they will both
+           be defeated!
+
+        After that, make a new tile will appear and the north door will
+        open up. Before heading there, jump to the far left tile to
+        reveal TWO HEARTS, and the far right tile to reveal STAR
+        SPLITTERS. Both of which you can get during the fight to help
+        you some. Now make your way up there, avoiding the fireballs,
+        and go through the north door, which will take you to ROOM #29.
+
+        ROOM #29:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here! And with that, you have
+        completed Dungeon 6-2.
+
+     ------------------------------------------------------------------
+
+     R U I N S (ITEMS: None)
+
+     You are now back on the Overworld/Ruins area and with your
+     score tallied and your game saved, it's time to move on! With
+     that, head left and follow the path all the way north, taking you
+     to the next screen. Once there, go around the big hole and and
+     make your way to the south side and continue following that path
+     to the east, to the next screen. On this screen, follow the path
+     to the man you see. A cutscene will take place which involves
+     reuniting with your uncle (finally we find him!). He then tells
+     you what happend to him, which I will quote:
+
+     "A month ago I found a big rock in these ruins.... I think you
+     know the one. I decoded the cipher. It told of an incredible
+     story... On a far away planet called Argonia, the Argonians
+     battled evil aliens. The Argonians were all but destroyed. They
+     sent their last escape pod to Earth. Mike! The rock you say is the
+     burned remains of that escape pod, and.... the pod was carrying 3
+     powerful magic cubes. They are very important! The evil aliens
+     chased those magic cubes to Earth, and abducted me to get at
+     them."
+
+     He will ask you if he should repeat his story, which don't bother
+     with it. He then goes on to say other stuff, which you agree to go
+     to the alien spaceship to get them back. With the cutscene over,
+     he will move out of the way, so that you can continue going
+     northwards. Follow the path all the way to the staircase and enter
+     it. On the Overworld, you will head north. After that the game
+     will now save, and you will have completed with Chapter 6!
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      --------------------------
+  H: |Chapter 7: Alien Spaceship|
+      --------------------------
+
+     "At last you have arrived at the spaceship.... Find the 3 Magic
+     Cubes!"
+
+     O V E R W O R L D (ITEMS: None)
+
+     Now it's time to invade the enemy's aircraft! From where you start
+     off at, head all the way north and you will see a spaceship, which
+     you will now board. Now if I don't sound so enthused from here on
+     out, is because when I was younger, I kinda lost interest in the
+     game at this point (never knew why). With your game saved, it's
+     time to take on Dungeon 7-1!
+
+     ------------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 7-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 1 part and 13 rooms in it. Also
+        note, the Room Number layout for this dungeon will be
+        different, as I will mention each room in the order I played
+        through here.
+
+               - - - D U N G E O N   7 - 1   P A R T   A - - -
+
+               [05]           [11]       LEGEND FOR PART A:
+                 |              |        01 = Starting Point
+          [16] [04]-[---06--]-[---10--]  02 = Four Hearts
+            |    |    |    |    |    |   04 = Maximum Pill
+          [15]-[03] [---07--]-[---08--]  05 = Power Skates
+                 |    |    |    |    |   06 = Four Hearts/Magic Potion
+               [02]-[---13--]-[---12--]  07 = Four Hearts/Laser Gun
+                 |                       08 = Leads to 09
+               [01]      [14]  [09]      09 = Leads to 08/Leads to 10
+                                         10 = Leads to 09/Laser Gun
+          11 = Maixmum Pill              12 = Four Hearts
+          13 = Laser Gun/Leads to 14     14 = Leads to 13/Leads to 03
+          15 = BOSS: Two Jet-Pack        16 = Exiting Point
+               Jumpers/Floating Feather
+
+        ROOM #01:
+        Now the setup for the remainder of the game will be much
+        different than what you're use to with dungeons. You will only
+        be able to stay on any blue parts, so keep this in mind. With
+        that, you start off in this room, but with nothing here, just
+        continue through the north door, taking you to ROOM #02.
+
+        ROOM #02:
+        In here is two Bullet Shooters (these are NOT consider as safe
+        tiles to jump on) and a FOUR HEART. Get the Four Hearts and
+        ignore the Bullet Shooters, and head along the blue path north
+        to ROOM #03.
+
+        ROOM #03:
+        In here is a Yellow Alien Solider, so dodge it's bullets, and
+        head north along this path and you will be in ROOM #04.
+
+        ROOM #04:
+        In here are two more Bullet Shooters and a MAXIMUM PILL. Dodge
+        the bullets and when you get the Maximum Pill, you will
+        temporarily have 22 Heart Points. Now from that tile, jump
+        right 2 and start hitting the wall. Now from here on, you will
+        hear the sounder that you step on a special tile, just ignore
+        it. Anyways go throught he north opening, and you will be
+        in ROOM #05.
+
+        ROOM #05:
+        In here is POWER SKATES so grab that and hold on to it (don't
+        use them at all). Now head back south to ROOM #04.
+
+        ROOM #04:
+        Avoid the Bullet Shooters and head back to the blue pathway.
+        Once there, take the east path and you will be in ROOM #06.
+
+        ROOM #06:
+        In here is two Yellow Alien Soliders, but you can easily avoid
+        those. Do so and take the south path, taking you to ROOM #07.
+
+        ROOM #07:
+        Two more Yellow Alien Soliders inhabit this room, as well as a
+        FOUR HEART. Get the Four Heart jump across the third row of
+        tiles going east. You will then come across a LASER GUN, which
+        you need to get, as well as another Yellow Alien Solider.
+        Continue going east, and another Yellow Alien Solider will
+        appear. But ignore all of that and just follow the blue past to
+        the east, which will take you to ROOM #08.
+
+        ROOM #08:
+        In here is a Green Alien Solider as well an endless supply of
+        Pink Alien Hoppers. Make your way east across the third row of
+        tiles and keep going to find a Bullet Shooter and a Warp Tile
+        above that. Jump into the Warp Tile and you will be taken
+        to ROOM #09.
+
+        ROOM #09:
+        In here, simply take the right Tile Warp and it will take you
+        to ROOM #10.
+
+        ROOM #10:
+        Right away you will see a Green Alien Soliders, so be careful
+        of that. You'll also see a LASER GUN, but don't worry about
+        that, you'll get another one soon. Anyways, head over to the
+        blue path and go north then west to see another Green Alien
+        Soliders, and then a Bullet Shooter. Just above the Bullet
+        Shooter, hit the wall to reveal an opening, which will take you
+        to ROOM #11.
+
+        ROOM #11:
+        In here is another MAXIMUM PILL, which you don't need unless
+        you don't have your max 22 Hearts anymore. Other than that,
+        head south back to ROOM #10.
+
+        ROOM #10 (REVISITED):
+        Back here, go west and you will be in ROOM #06.
+
+        ROOM #06 (REVISITED):
+        Yellow Alien Soliders are in here, just like before, so be
+        careful, as well as a Bullet Shooter. You will also see a FOUR
+        HEART, and if you're really feeling gutsy, there is a MAGIC
+        POTION on the otherside. After that, head back to ROOM #10.
+
+        ROOM #10 (REVISITED):
+        Simply head east then south, taking out the Green Alien
+        Soliders. Follow the blue path south and you will taken back
+        to ROOM #08.
+
+        ROOM #08 (REVISITED):
+        In here, it's pretty easy, just follow the blue path south and
+        you will be in ROOM #12.
+
+        ROOM #12:
+        When starting off, you will see a Green Alien Solider, so get
+        around and and continue going west to find three more (you may
+        have to take them out). Also here is a FOUR HEART, so get that,
+        and from there, jump south 1 and go west to ROOM #13.
+
+        ROOM #13:
+        Seems rather peaceful here, but continue going west along the
+        blue path, then start jumping across the tiles and Pink Alien
+        Hoppers will come out, so just keep taking them out. Soon two
+        Bullet Shooters will be visible too as well as a LASER GUN. Get
+        the Laser Gun and jump into the Warp Tile which will take you
+        to ROOM #14.
+
+        ROOM #14:
+        In here, simply step on the next Warp Tile (don't worry about
+        the other pair, they aren't necessary) and you will be taken
+        to ROOM #03.
+
+        ROOM #03 (REVISITED):
+        Once in here, simply go west and you will be in ROOM #15.
+
+        ROOM #15:
+        Right away you'll see a FLOATING FEATHER, so get that! Now get
+        ready, because another boss fight is about to take place!
+
+           BOSS #10: TWO JET-PACK JUMPERS
+           In here you got 2 big space creatures, as well as a Bullet
+           Shooter. The two bosses will roam around shooting bullets at
+           you, so you need to avoid them! Here's how taking them out
+           will work. First use your Power Skates all up to do some
+           serious damage. The Bullet Shooter will be out of your way
+           as well. Now jump back and forth across the tiles dodging
+           their bullets and using your Laser Gun on them. After 2 or 3
+           direct hits, they will both be defeated!
+
+        With all of that gone, the north door will open, which will
+        take you to ROOM #16.
+
+        ROOM #16:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here! And with that, you have
+        completed Dungeon 7-1.
+
+     ------------------------------------------------------------------
+
+     S P A C E S H I P (ITEMS: Magic Cube, Super Nova)
+
+     You are now back on the Overworld/Spaceship area and with your
+     score tallied and your game saved, it's time to move on! The
+     Maximum Pill has now worn off, so you're back down to 16 Heart
+     Points. From where you start off at, head north and around the
+     little corner. You will be presented with three staircases, so
+     which one shall we take. Well, the north one and southwest one
+     connects together, so by the power of deduction, you should take
+     the southest staircase. After doing that, follow the path all the
+     way and you will see a red cube. Get it and you will have found
+     the FIRST MAGIC CUBE (DUN DUN DUN DUN *insert Zelda music*). And
+     with the cube in your posession, you feel a strange new power
+     going into your Shooting Star, which now becomes the SUPER NOVA!
+     Do remember though, to use this mighty weapon, you need 11 Heart
+     Points full or more. Now head through the north opening. With your
+     game saved, it's time to take on Dungeon 7-2!
+
+     ------------------------------------------------------------------
+
+         -----------
+     2: |Dungeon 7-2|
+         -----------
+
+        DUNGEON STATS: This dungeon has 3 parts and 23 rooms in it.
+
+               - - - D U N G E O N   7 - 2   P A R T   A - - -
+
+                               [09]  LEGEND FOR PART A:
+                                 |   01 = Starting Point
+                     [05]      [08]  02 = Four Hearts
+                       |         |   03 = Laser Gun/Four Hearts
+           [02]-[03]-[04]-[06]-[07]  05 = Magic Potion
+             |                       07 = Laser Gun/Four Hearts
+           [01]                      08 = Leads to 09
+                                     09 = Leads to 08/
+                                          Leads to 10 (Part B)
+
+        ROOM #01:
+        Nothing here as always, so simply head north to ROOM #02.
+
+        ROOM #02:
+        In here, you will see two FOUR HEARTS and a Yellow Alien
+        Solider. Test out your new toy on the enemy and collect the
+        Four Hearts and head east to find three more Yellow Alien
+        Soliders. Go through the east side and you will be in ROOM #03.
+
+        ROOM #03:
+        Here is a Yellow Alien Solider and a Bullet Crawler. Take out
+        the nearby enemy and continue onwards. Stay along the path to
+        find a LASER GUN and FOUR HEARTS and go through the east side,
+        taking you to ROOM #04.
+
+        ROOM #04:
+        In here is a Green and Yellow Alien Solider. Take them both out
+        from a distance (with your Super Nova). Now look at the north
+        wall. Notice a crack in it, well go up there and you can
+        destroy the wall, revealing an opening taking you to ROOM #05.
+
+        ROOM #05:
+        In here is a MAGIC POTION, so get that and head back ROOM #04.
+
+        ROOM #04 (REVISITED):
+        Take out the enemies again and head through the east entrance,
+        which will take you to ROOM #06.
+
+        ROOM #06:
+        For this room, you start off with two Bullet Crawler and soon a
+        Green Alien Solider. Take those out then keep going to find
+        another Bullet Crawler. After that mess, head through the east
+        entrance, taking you to ROOM #07.
+
+        ROOM #07:
+        And in this room is a LASER GUN and FOUR HEARTS. Also here is a
+        Green Alien Shooter and a Star Shooter. To get through this,
+        start hitting the stars coming flying out as you're walking
+        towards it. Now get the Laser Gun and when an opening it there,
+        jump back on the blue path and then head north. Get the Four
+        Hearts and take out the Green Alien Solider and the north door
+        will open, taking you to ROOM #08.
+
+        ROOM #08:
+        For this room is two Yellow Alien Soliders and a Warp Tile.
+        Take out the enemies and seeing as nothing is in the tiles,
+        jump into the Warp Tile and you will be taken to ROOM #09.
+
+        ROOM #09:
+        This might be tough here, because there are four Bullet
+        Crawlers here. You must dodge their attacks while taking them
+        out (use the Laser Gun). After that, the east door will open
+        and a tile will appear. Use that and go through the door and
+        you will be in ROOM #10 as well as Part B.
+
+               - - - D U N G E O N   7 - 2   P A R T   B - - -
+
+                               [17]    LEGEND FOR PART B:
+                                 |     10 = Starting Point of Part B
+           [11]                [16]    11 = Lightning Blaster
+             |                   |     12 = Maximum Pill/Laser Gun
+           [10]-[12]-[13]-[14]-[15]    15 = Lightning Blaster/
+                                            Four Hearts
+           16 = BOSS: Brown Jet Jumper/Leads to 18 (Part C)
+
+        ROOM #10:
+        Here starts Part B. In this room, there are two Flying
+        Satellites. From where you stand, simply take them out, then
+        jump right 3, up 2 and take out the wall to reveal an opening
+        taking you to ROOM #11.
+
+        ROOM #11:
+        In here you will find a LIGHTNING BLASTER, so get that, and
+        head back to ROOM #10.
+
+        ROOM #10 (REVISITED):
+        In here, take out the Flying Satellites if you want, then head
+        over to the east side and jump over to ROOM #12.
+
+        ROOM #12:
+        In here is a Green Alien Solider and two Star Shooters, as well
+        as a MAXIMUM PILL and LASER GUN. First, take out the Green
+        Alien Solider and then work you way around the room collecting
+        the items. After that, head east and you will be in ROOM #13.
+
+        ROOM #13:
+        This room has three Flying Satellites, but it also has a
+        Lightning Barrier that will shoot down blocking your attacks.
+        Carefully make it across this and then go through the east
+        side, which will take you to ROOM #14.
+
+        ROOM #14:
+        Here lies three Green Alien Hunters which you need to take out
+        from a distance and Lightning Barriers. When you do, the east
+        door will open up, taking you to ROOM #15.
+
+        ROOM #15:
+        Two Flying Satellites and a Red Satellite is in here plus a
+        LIGHTNING BLASTER and FOUR HEARTS. Take out the enemies and
+        collect the items and the north door will then open, taking you
+        to ROOM #16.
+
+        ROOM #16:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #11: BROWN JET JUMPER
+           Here we go with another Jet Jumper boss. This one will jump
+           back and forth at you (when you're in range) shooting out
+           bullets, which you should jump back and forth across the
+           tiles to dodge them. After it retreats back is when you
+           should attack. Start by using the Laser Gun as it has a long
+           range attack. If that runs out (which it shouldn't) switch
+           to Lightning Blaster. After several hits, the boss will be
+           defeated!
+
+        And with that boss gone, a tile will appear and the east door
+        will open. Now you can blast open the north wall, taking you to
+        ROOM #17, but nothing is in there. So instead, just head east
+        to ROOM #18 as well as Part C.
+
+               - - - D U N G E O N   7 - 2   P A R T   C - - -
+
+           [19]           [23]  LEGEND FOR PART C
+             |              |   18 = Starting Point of Part C/
+           [18]-[20]-[21]-[22]       Laser Gun/Four Hearts
+                                19 = Lightning Blaster
+           20 = 2 Four Hearts   22 = BOSS: Ostroid
+           21 = Exiting Point
+
+        ROOM #18:
+        Here starts Part C. In here is a Green Alien Solider and two
+        Star Shooters plus FOUR HEARTS and a LASER GUN. Also there's a
+        crack in the north wall, so go ahead and take that out. Go
+        through the opening and you will be in ROOM #19.
+
+        ROOM #19:
+        For this small room is another LIGHTNING BLASTER, so grab it
+        and head back down to ROOM #18.
+
+        ROOM #18 (REVISITED):
+        Back here, collect the goodies, while avoiding the Star Shooter
+        and Green Alien Solider and head east to ROOM #20.
+
+        ROOM #20:
+        In here is three Red Satellites and as you progress, three more
+        Red Satellites. There will also be two FOUR HEARTS and some
+        submerging tiles here, so be careful crossing that. At the
+        otherside, jump over to ROOM #21.
+
+        ROOM #21:
+        Here's an interesting little obsticle. Notice the red energy
+        bars, well you need to get around them by jumping back and
+        forth between the three blue paths (it's best to start in the
+        middle). Watch how this works, as there is a pattern to it.
+        Once you make it across, head through the east opening, taking
+        you to ROOM #22.
+
+        ROOM #22:
+        Get ready, because another boss fight is about to take place!
+
+           BOSS #12: OSTROID
+           Now this boss fight is a little different to handle. First
+           the boss will slowly come to you, shooting energy blasts at
+           you then lunging at you. Here's what to do, with either
+           Lightning Blaster or Laser Gun, jump and shoot (to dodge its
+           attacks) at it till it's past the the switch. Now quickly
+           step on it and another switch will appear. Step on that and
+           the blue path on the right will disappear. Now simply shoot
+           the boss enough times to where it will back up and fall into
+           the pit. With that, you have defeated this boss.
+
+       And with that boss gone, the north door will open and two tiles
+       will appear. Go across them and through the north door and you
+       will be taken to ROOM #23.
+
+       ROOM #23:
+       Nothing here, but the exit pathway, so go up through the north
+       door and you will be out of here! And with that, you have
+       completed Dungeon 7-2.
+
+     ------------------------------------------------------------------
+
+     S P A C E S H I P (ITEM: Second Magic Cube, Maximum Full Life)
+
+     You are now back on the Overworld/Spaceship area and with your
+     score tallied and your game saved, it's time to move on! You
+     appear to be in a maze like area, which can be a bit confusing to
+     get through. Luckily for you, I have made a map on how to get
+     around here ^_^. You will also notice a blue cube just to the
+                                                       north of you,
+     ################################################  which is your
+     # 6  #          # 6  2 #         # 5     #     #  goal! So from
+     #    #  ######  #      #  #####  #       #  #  #  the start, go
+     #    #  #    #  #      #  #      #########  #  #  east 4, south 4,
+     #    ######  #  ########  #  ##### 4        #  #  east 8, north 4,
+     ###       #  #            #    3 ############  #  east 4, north 5,
+     ###    ####  ##################### 1        #  #  east 10, north 3
+     #  C           #     5 #     #############  #  #  west 6 into the
+     ###    ######  #  ######  #                 #  #  staircase. Now
+     #      #       #  #       #  ################  #  follow the path
+     ################  #  ######                    #  south then west
+     # S         #     #  #       ###################  and enter the
+     ##########  #        #  ######                 #  staircase. Now
+     #           ##########  #       #############  #  go south 1, east
+     #  #######              #  ###### 4         #  #  12, north 4,
+     #  #   1 ################  #  3 #           #  #  east 4, north 2,
+     #  #                       #    #           #  #  east 10, south
+     #  #  ######################  ###############  #  9, west 10 into
+     #  #                          # 2              #  the staircase.
+     ################################################  Now follow the
+                                                       path west then
+     north and enter the staircase. Now go west 3 into the staircase
+     and then follow the path west and enter the staircase. Now head
+     south 5 and you will see the blue cube. Get that and you will have
+     received the Second Magic Cube. Once getting it another strange
+     power will flow into you, which is you will receive MAXIMUM FULL
+     LIFE (aka 22 Heart Points). With that, you are ready to find the
+     final Magic Cube. But as you are about to search for it, a
+     rumbling happens (oh now what!). Shocked at the rumbling, you
+     realized the alien spaceship is taking off!? You now get a
+     cutscene showing it leaving Earth and flying through space. After
+     that the game will now save, and you will have completed with
+     Chapter 7!
+
+     ------------------------------------------------------------------
+     ------------------------------------------------------------------
+
+      -----------------------
+  I: |Chapter 8: Final Battle|
+      -----------------------
+
+     "The alien spaceship is circling the Earth.... Hurry up and find
+     the last Magic Cube!"
+
+     O V E R W O R L D / S P A C E S H I P (ITEMS: None)
+
+     Here we go, the final confrontation! Right now we are treated with
+     a small cutscene of the spaceship flying around. After that, you
+     will be starting off inside the spaceship, so head north and
+     suddenly an illusion appears before you. It's Zoda, the prime
+     invader, the one who's caused all this trouble, the guy you must
+     whomp ass on! He challenges you to do battle with him, then your
+     head begins to hurt, so you stick bananas in your ears (WTF would
+     you do that for?!). After telling him to take a hike, you will
+     regain control. Continue heading north and into the opening. With
+     your game saved, it's time to take on Dungeon 8-1!
+
+     ------------------------------------------------------------------
+
+         -----------
+     1: |Dungeon 8-1|
+         -----------
+
+        DUNGEON STATS: This dungeon has 1 parts and 14 rooms in it.
+
+               - - - D U N G E O N   8 - 1   P A R T   A - - -
+
+           [14]                       LEGEND FOR PART A:
+             |                        01 = Starting Point
+           [---13--]      [07]        02 = BOSS: Zoda/Laser Gun
+             |              |         03 = Maximum Pill
+           [12]           [06]-[08]   05 = Leads to 05
+             |                        06 = Maximum Pill/Laser Gun
+           [11]           [03]-[02]   07 = 3 Magic Potions/
+             |              |    |         Lightning Blaster
+           [10]-[09]-[05]-[04  [01]   08 = Leads to 03
+                                      10 = Four Hearts/Laser Gun
+           13 = BOSS: Zoda's Revenge  14 = Exiting Point
+
+        ROOM #01:
+        Once again, you start off in this room, but since there is
+        nothing here, head through the north opening to ROOM #02.
+
+        ROOM #02:
+        In here you will see a LASER GUN so grab that. Now get ready,
+        because another boss fight is about to take place!
+
+           BOSS #13: ZODA
+           Now this fight is gonna be extremely tough. He will have two
+           attacks, which are his head circling around shooting his
+           eyeballs at you (which you can easily dodge) and his hand
+           reaching out to grab you. Both of this can do some damage to
+           you. Here's what you should do, first off, it's his head you
+           want to strike at with your Laser Gun. Second, get to the
+           otherside of the room from him, as this will give you some
+           room to breathe and dodge his attacks. You can outrun both
+           his head and his hand, so you got nothing to worry about
+           there. After several shots, he will be defeated!
+
+        Now with him gone, you'd think you've won (in a video game,
+        nothing is that easy), the west door will open up. As you make
+        your way to it, you'll see an alien creature take off. After
+        that head through the door which will take you to ROOM #03.
+
+        ROOM #03:
+        In here is a Brown Alien Solider and a MAXIMUM PILL, so take
+        out the enemy and continue going left to find another Brown
+        Alien Solider. After blasting that one, head down the ladders
+        and go through the south doorway taking you to ROOM #04.
+
+        ROOM #04:
+        In here, simply go down the ladders and left and you will face
+        another Brown Alien Solider as well as Red Alien Soliders.
+        After dealing with them, head left and jump to ROOM #05.
+
+        ROOM #05:
+        In here, is a Red Alien Solider, also note the tile there will
+        pop out Brown Alien Soliders. Now head over to the tile and
+        when it's opened, you'll be able to drop down to ROOM #06.
+
+        ROOM #06:
+        Be careful when landing here, as there are five Brown Alien
+        Soliders and a Green Alien Solider. Also here is a LASER GUN
+        and MAXIMUM PILL to help you out. My advice here, divide and
+        conquer again, but from a distance if you can (and get the
+        Maximum Pill as a last resort). By taking all of them out, the
+        north wall will open up, which will take you to ROOM #07.
+
+        ROOM #07:
+        In this small room is a LIGHTNING BLASTER and a MAGIC POTION.
+        Now after getting the Magic Potion, notice it shows you have
+        THREE of them! Hold on to this as much as possible. Now head
+        back down to ROOM #06.
+
+        ROOM #06 (REVISITED):
+        Make your way over to the east door and you will in ROOM #08.
+
+        ROOM #08:
+        In here, simply head over to the tile which will take you back
+        to ROOM #03.
+
+        ROOM #03 (REVISITED):
+        Just like before, take out the Brown Alien Soliders and head
+        south to ROOM #04.
+
+        ROOM #04 (REVISITED):
+        Again, just like before, take out the Brown Alien Soliders and
+        Red Alien Soliders and head west to ROOM #05.
+
+        ROOM #05 (REVISITED):
+        This time, make your way across the room to the otherside,
+        taking out the Green Alien Soliders, then down the ladder and
+        keep going left. Go through the west opening and you will be
+        in ROOM #09.
+
+        ROOM #09:
+        Now this is gonna be a challenge. In here you will see master
+        power source, which you need to destroy. However you have Star
+        Shooters and Brown Alien Soliders popping out. So you should
+        stand right in line with the power source (but not on the
+        tiles) and just blast away with any of your weapons. You can
+        only hit it when it's opened, so keep that in mind, but when it
+        reopens, it will repair it some slightly. Jump to avoid the
+        Star Shooters and use your weapons on any Brown Alien Soliders.
+        After the power source is gone it gets darker and the west door
+        will open up, taking you to ROOM #10.
+
+        ROOM #10:
+        In here is a LASER GUN and FOUR HEARTS, plus an army of Red
+        Spiders. Collect the items, and make your way northwards. You
+        will then jump to ROOM #11.
+
+        ROOM #11:
+        Here, more Red Spawns will come out, so get around them and
+        head north and you will be in ROOM #12.
+
+        ROOM #12:
+        More of the same, so blast away at the Red Spawns until your
+        life is completely full and head through the north door, which
+        will take you to ROOM #13.
+
+        ROOM #13:
+        And now the moment has arrived, the final confrontation. Get
+        ready, because the final boss fight is about to take place!
+
+           BOSS #14: ZODA'S REVENGE
+           Okay here we go, the final battle! Your setup is plenty of
+           room with several tiles in the middle. Zoda will quickly
+           jump around and shoot fireballs at you, so dodge these as
+           well as launch Red Spawns. It's probably best to stay off
+           the tiles while fighting. First off, use your Lightning
+           Blaster on it, and that should give off some serious damage
+           to him. After that's milked, use the Laser Gun, but remember
+           you can only hurt him when he's not jumping around. Both of
+           these should be enough to take him out, and if not, use
+           Super Nova. You will also have Magic Potions if you need it.
+           After several hits done, he will finally be defeated!
+
+        And with that, the final boss has be destroyed. The north door
+        will now open, taking you to ROOM #14.
+
+        ROOM #14:
+        Nothing here, but the exit pathway, so go up through the north
+        door and you will be out of here! And with that, you have
+        completed Dungeon 8-1.
+
+     ------------------------------------------------------------------
+
+     S P A C E S H I P / O V E R W O R L D (ITEMS: Third Magic Cube)
+
+     You are now back on the Overworld/Spaceship area and with your
+     score tallied and your game saved, it's time to move on! You are
+     in a small little maze like area, but there is no need to provide
+     a map for this as it's straight through. Simply follow the path
+     all the way around. As you do, you'll realize that the spaceship
+     is starting to explode! Keep going and you will get more warning
+     messages about how you need to hurry up and get your butt out of
+     there. Once you make it around, you will notice a green cube,
+     which is the Third Magic Cube. Get it now, and then the area will
+     start to shake violently. So now what, the spaceship continues to
+     shake. Now we are treated to a cutscene of the spaceship
+     exploding, followed by you landing in the water and trying to swim
+     to shore, but you fell short of that. You are now awake on the
+     very first island thanks to a dolphin. Now head over to Coralcola
+     Village!
+
+        C O R A L C O L A   V I L L A G E (ITEMS: None)
+
+        Upon entering here, everyone congradulates you on a job well
+        done. Oh and so you know, you can not go back into the hut
+        leading to Dungeon 1-1 (it would be fun, a nice little bonus
+        level challenge). Anyways head back over to the giant hut
+        that's on the left side. Baboo will be here to offer you some
+        Cola which will refill your life meter (what would be the point
+        in this, really?).
+
+
+      F I N A L   S C E N E :
+
+      Inside the hut, you will talk to your uncle first, who will
+      noticed you have the three Magic Cubes. Then the Island Cheif
+      will thank you for chasing out all the monsters. Nav-Com shows
+      his graditude as well as the Shaman. Back to your uncle, he says
+      to join all three Magic Cubes together, which you do and you will
+      then the true power of the Magic Cubes (which I hope isn't to
+      annoy the crap out of you with that constant beeping). It seems
+      that, the Magic Cubes are really kids. One of them speaks, which
+      is Princess Mica of Argonia. She says that her that other kids
+      are the last beings from their planet, and goes on about what
+      happend to them and their planet. You offer to help find a home
+      for them, as will your uncle. The Island Cheif welcomes them. The
+      final thing said is if anyone wants to go fishing. With that, we
+      are getting a nice scene of the "camera" pulling away from the
+      village, the island, the planet and the solar system. The game is
+      offically over and then as the credits roll, you will now be
+      treated with a bunch of pictures of your adventures. With that,
+      I will say congradulations on completing Star Tropics for the
+      Nintendo Entertainment System!
+
+-----------------------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+-----------------------------------------------------------------------
+
+            -----------
+SECTION 3: |THE GOODIES|
+            -----------
+
+      ------------
+  A: |Main Weapons|
+      ------------
+
+     This is a list of all the main weapons in the game:
+
+        1. YO-YO: You start off the game with this weapon. Weak, but it
+           will do for now.
+        2. SHOOTING STAR: This is more powerful than the Yo-Yo. You
+           must have 6 Heart Points or more filled to use it.
+        3. SUPER NOVA: This is the strongest main weapon in the game.
+           You must have 11 Heart Points or more filled to use it.
+
+      -----------------
+  B: |Secondary Weapons|
+      -----------------
+
+     This is a list of all the secondary weapons in the game:
+
+        1. FIRE TORCHES: Collecting these will allow you to shoot
+           fireballs at enemies. You get 25 per pick up.
+        2. BASEBALL BATS: With these, you can take out enemies that are
+           surrounding you. You get 25 per pick up.
+        3. THROWING BOLAS: With these, you can throw out bolas at your
+           enemies, causing good damage. You get 40 per pick up.
+        4. SUPER SLINGSHOTS: These are really powerful shots you can do
+           using a slingshot. You get 10 per pick up.
+        5. MIRRORS SHIELDS: By using these mirrors, you can deflect
+           certain enemy attacks back at them. You get 80 per pick up.
+        6. SUPER BASEBALLS: These are powerful baseballs that will do
+           serious damage to enemies. You get 30 per pick up.
+        7. POWER SKATES: When using these, you will be able to hit all
+           enemies at once, very helpful. You get 10 per pick up.
+        8. STAR SPLIITERS: You'll shoot out a star, but press the 'B'
+           BUTTON to make them split in two. You get 20 per pick up.
+        9. LASER GUN: When using this, you will send out a powerful
+           energy blast at your enemies. You get 50 per pick up.
+       10. LIGHTNING BLASTER: When using this, you'll shoot out a wide
+           lightning blast at your enemies. You get 20 per pick up.
+
+      -----------
+  C: |Magic Items|
+      -----------
+
+     This is a list of all the magic items in the game (to use them,
+     hit START Button then DOWN D-PAD):
+
+        1. MAGIC POTIONS: These are very handy, because using them will
+           refill up to 5 Hearts. You get 1 per pick up.
+        2. MAGIC SNOWMANS: These will freeze enemies and bosses in
+           their tracks for a period of time. You get 2 per pick up.
+        3. MAGIC RODS: When using these, you will be able to reveal
+           hidden Floating Ghosts. You get 5 per pick up.
+        4. MAGIC LANTERNS: When you use this, you will be able to light
+           up a dark room for a short time. You get 5 per pick up.
+
+      -----------
+  D: |Other Items|
+      -----------
+
+     This is a list of all the other items in the game (usually found
+     in the open or pressing a switch):
+
+        1. TWO HEARTS: Simply put, these will refill 2 Heart Points
+           of your current life meter.
+        2. FOUR HEARTS: Just like the Two Hearts, except these will
+           refill 4 Heart Points.
+        3. STOPWATCH: These will slow down or completely stop enemies
+           for a short period of time (you can still get hurt though).
+        4. LIFE SIGN: These are rare signposts that when you collect
+           them, the number of lives may go up or down (from -2 to +3).
+        5. FLOATING FEATHERS: When getting this you will be able to
+           jump two gaps. Only works in the room you got it in.
+        6. MAXIMUM PILL: Pick this up and you will have 22 Heart
+           Points, but it's not permanent.
+
+      ----------------
+  E: |Game Story Items|
+      ----------------
+
+     This is a list of all the gamestory items in the game:
+
+        1. BIG HEARTS: These will increase your life by 1 Heart Point.
+           There are five of these scattered throughout the game.
+        2. ID CODE 1492: This is a code to activate the Sub-C. This is
+           found in Chapter 1.
+        3. BOTTLE/ID CODE 1776: This is a code to activate the
+           submerging ability. This is found in Chapter 2.
+        4. CRYSTAL BALL: Give this to the fortune teller so that you
+           can get in Shecola Castle. This is found in Chapter 3.
+        5. SCROLL OF OBOB: Use this to wake the daughter of Miracola
+           Village. This is found in Chapter 3.
+        6. LIGHTER: Use this to escape the giant whale that swallowed
+           you hole. This is found in Chapter 4.
+        7. WORM: Give this to Peter The Parrot for a clue to a puzzle.
+           This is found in Chapter 5.
+        8. APPLE: While this may be absolutely delicious to eat, it
+           does absolutely nothing for you. This is found in Chapter 6.
+        9. MAGIC CUBES: There are three of these that will bring down
+           Zoda. These are found in Chapter 7 and 8.
+
+      ----------------
+  F: |Puzzle Solutions|
+      ----------------
+
+     This is a list of all the puzzles in the game and solutions:
+
+        PUZZLE #01: FREQUENCY CODE (from Chapter 4)
+
+        You are given no clues on how to solve this puzzle whatsoever,
+        just that you must solve it. The solution is 7 4 7, and the
+        easy way to remember is the 747 airliner (it's how I remember
+        it atleast).
+
+        PUZZLE #02: CAPTAIN BELL'S MUSICAL (from Chapter 5)
+
+        Here's a little drawing of what you see. Now remember that
+        little song that Peter The Parrot gave to you "DO ME SO
+                                         FAR, DO ME"? Well, that
+          --- --- --- --- --- --- ---    song is about be put to
+         |   |   |   |   |   |   |   |   some use. His message is
+         |#01|#02|#03|#04|#05|#06|#07|   actually musical notes: DO
+         |   |   |   |   |   |   |   |   ME SO FA DO ME. Now you m
+          --- --- --- --- --- --- ---    must step on the the right
+                                         keys in the right order
+        for this solution to be solved. So, the first key on the
+        left is DO, so starting with that, step on Key #01, then
+        Key #03, Key #05, Key #04, Key #01, Key #03. This might
+        take a couple times to do if need be.
+
+-----------------------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+-----------------------------------------------------------------------
+
+            -----------
+SECTION 4: |THE BADDIES|
+            -----------
+
+      -------
+  A: |Enemies|
+      -------
+
+     This is a list of all the enemies in the game:
+
+        1. RABBIT SLUGS: These kinda look like rabbits (to me atleast)
+           that move around very slowly.
+        2. BLUE RATS: These will spin around and begin walking in
+           different directions, approach with caution.
+        3. BLUE BATS: These will fly around randomly, and stop for a
+           brief moment. Slightly annoying.
+        4. BROWN SNAKES: These will sit around for a moment, but begin
+           to strike when you're in their path.
+        5. RED CRAWLERS: These will come out of the water, and crawl
+           across the screen and go back in, when you're near them.
+        6. CROSS SPEEDERS: These will speed around the screen in a
+           diagonal path, only to stop for a breif moment.
+        7. RED OCTOJUMPERS: These will jump around rather quickly.
+           Yes, they look like Octoroks from Legend Of Zelda 2.
+        8. BIG FISH: These will come in and out of water, shooting
+           fireballs at you when you're nearby.
+        9. BLUE TUCANS: Annoying small bird creatures that will come
+           after you if you're in their path.
+       10. JUMPING MONKEYS: Just like the Octojumpers, these will jump
+           around rather quickly in different directions.
+       11. OSTRICH SKULLS: These are ostrich like creatures that will
+           come after you by any means.
+       12. BROWN FLIES: Annoying bugs that will fly around rather
+           fast, but stop for a brief moment.
+       13. FIRE SQUIDS: Untouchable enemies that will shoot out
+           fireballs. Simply avoid them.
+       14. RED SLIME MONSTERS: These will pop in and out of water at
+           random locations shooting fireballs. Apporach with caution.
+       15. SKELEPUPS: Little puppy skeletons that scamper along the
+           rooms. Rather easy to take out.
+       16. JUMPING SKULLS: Just like Red Octojumpers, these are skulls
+           that'll jump around quickly in different directions.
+       17. FLOATING GHOSTS: Invisible until you use the Magic Rod, then
+           they are easy to take out.
+       18. BLACK MUMMIES: These are mummies that will track you down
+           wherever you may be. Rather annoying and tricky to take out.
+       19. FIRE PIPES: Just like the Fire Squids, these will stay in
+           one place shooting fireballs. Can't be destroyed.
+       20. GRAVE HANDS: These are hands that will come out of the
+           ground shooting fireballs at you. Usually comes in a pair.
+       21. RED WIZARDS: These mages will appear and disappear shooting
+           fireballs at you. Use Mirror Shields to defeat them.
+       22. FROG HOPPERS: These are green creatures that will hop out of
+           the water, hop around then back in, when you get close.
+       23. PURPLE MINOTAURS: These are giant purple creatures that will
+           track you down. Rather tricky to take out.
+       24. SPEEDING EYEBALLS: Harmless except when you're in their way,
+           then they will speed at you fast. Very tricky to take out.
+       25. GREEN SLIME MONSTERS: Just like Red Slime Monsters, except
+           they are a bit more aggressive. Approach with caution.
+       26. RED BATS: These are just like the Blue Bats, only they move
+           around much quicker.
+       27. SILVER BALLS: Harmless until you hit them, in which they
+           will move back and forth fast.
+       28. GREEN SNAKES: Just like Brown Snakes only they move around
+           even if you're not near them.
+       29. BLUE MEGATON: Very poweful ball that rolls back and forth.
+           It will kill you once it touches you, so avoid these!
+       30. GHOST PIRATES: Just like Red Wizards, these will appear and
+           disappear shooting fireballs. Use Mirror Shields on them.
+       31. GREEN MEGATON: Just like the Blue Megaton, only this one is
+           a little more aggressive.
+       32. RED MEGATON: Unlike the other Megatons, these will track you
+           down if you are in their path, so be careful!
+       33. PURPLE SNAKES: Just like the Green Snakes, only alot more
+           agressive, and will always be on the move.
+       34. BLUE MUMMIES: These are like Black Mummies, only a little
+           more aggressive and a little bit more harder to take out.
+       35. PURPLE MUMMIES: These are much more aggressive the the Black
+           and Blue Mummies, hardest of the three.
+       36. CRAWLING SNAILS: These are green snails that crawl around,
+           nothing too much to say, but they take a bit to defeat.
+       37. RED CRABS: These are red crab like creatures that float
+           around the entire screen.
+       38. PURPLE SPIKE BALLS: Just like Silver Balls, they can't be
+           taken out, but hit them to make them move.
+       39. BLUE FLIES: These are just like the Brown Flies, only they
+           are a bit more tougher to deal with.
+       40. PURPLE CREEPERS: These are little purple monsters and
+           wanders around, nothing too hard about them.
+       41. DARK CLOUDS: You can't take them out, but avoid them as they
+           will disable your weapon for a while.
+       42. ROCK CREATURES: These will quickly race across the screen
+           invisible like, only to shoot rocks when it becomes visible.
+       43. RED ZOMBIES: These red humanoid creatures will track you
+           down. Tough to take out, but nothing too hard about them.
+       44. BULLET SHOOTERS: These are green cannons that will shoot at
+           you. Take it out when it's opened.
+       45. YELLOW ALIEN SOLIDERS: These are humanoid soliders shooting
+           short range energy blasts at you. Approach with caution.
+       46. GREEN ALIEN SOLIDERS: These are just like the Yellow Alien
+           Soliders only they take a bit more to finish off.
+       47. PINK ALIEN HOPPERS: These are pink aliens that will quickly
+           race across the screen. The amount of them is limitless.
+       48. BULLET CRAWLERS: These are small green crawling cannons that
+           shoot at you. Rather tricky to take out.
+       49. STAR SHOOTERS: These are cannons, which can't be destroyed,
+           that will shoot an endless supply of stars at you.
+       50. FLYING SATELLITES: These will fly around in different
+           directions. Nothing too noteworthy.
+       51. RED SATELLITES: Just like the Flying Satellites, except
+           these shoot bullets at you. Kinda easy to take out.
+       52. LIGHTNING BARRIERS: These will appear at various places,
+           blocking your attacks. They can't be destroyed.
+       53. BROWN ALIEN SOLIDERS: These are just like the other Alien
+           Soliders, except they are much stronger.
+       54: RED ALIEN SOLIDERS: Unlike the other Alien Soliders, these
+           will reside in the walls shooting at you.
+       55. RED SPAWNS: These are red spider like creatures that will
+           come down to attack. Very easy to take out.
+
+      ------
+  B: |Bosses|
+      ------
+
+     This is a list of all the bosses in the game:
+
+        BOSS #01: C-SERPENT (from Dungeon 1-1)
+        Okay here's how this fight will setup. The boss will stay in
+        the middle and after waddling a bit, will open it's mouth and
+        shoot fireballs at you. The thing is, that's when you need to
+        strike. To do so, stand on the middle tile and use your FIRE
+        TORCHES on it. When it's about to shoot fireballs, throw a
+        torch or two then jump to the left or right tile to avoid them.
+        After that, back to the middle tile and keep shooting. After
+        those run out, hit it with your main weapon, which it shouldn't
+        take long to take out. Use your MAGIC POTIONS when needed.
+        After enough hits, it will be defeated!
+
+        BOSS #02: GIANT OCTO (from Dungeon 2-1)
+        Okay this is how the fight will setup. You'll see a gittery
+        squid shoot bullets at you which is easy to dodge. It will come
+        in close which will be your chance to strike. Here's the
+        easiest part of it. When it gets close to you, use your MAGIC
+        SNOWMAN to freeze it. While it's stuck in place, you can attack
+        the crap out of it. When the water starts to change to blue,
+        use another one and continue beating it down. Soon you will
+        have defeated this boss!
+
+        BOSS #03: MAGMA THE FIERCE (from Dungeon 3-2)
+        Now this boss fight has to be dealt with differently. First
+        off, the setup is two fireballs will circle around. The boss
+        will shoot a trail of fireballs out, so avoid these obviously.
+        Now you don't attack the boss, as that won't work. So how do
+        you take it out? Well, you must destroy the two orbs around
+        him. To do this, from the starting tile, jump up 1 onto solid
+        ground. Go left, then jump 2, up 3 to reveal a switch, then
+        jump on that to destroy an orb. From the switch, jump left 1,
+        down 2, right 2, the go across the solid ground, go 5 steps,
+        jump up 1 to reveal a switch. Now make your way to the second
+        switch, and that will destroy the next orb. With that, you have
+        defeated this boss!
+
+        BOSS #04: MAXIE THE GHOST (from Dungeon 3-3)
+        Okay, what we have here is a giant ghost that will go back and
+        forth, only to pause for a moment to release Floating Ghosts.
+        Now this might be a tricky fight, but not too terribly tough.
+        Take out the Floating Ghosts using your main weapon and use the
+        Throwing Bolas on the boss. Where you should stand, probably on
+        the south side as you can avoid the fireballs easier. After
+        several hits, the boss will get faster, so either stay where
+        you are or get to either side and plow it with either weapon.
+        After enough hits, the boss will be defeated!
+
+        BOSS #05: GIANT TURBOSS (from Chapter 6-1)
+        This fight will be set up just like the boss fight with the
+        giant octopus from much earlier. This boss will shoot a trail
+        of fireballs at you, but at a much quicker pace, so simply jump
+        back and forth dodging it. It's probably best to jump back and
+        forth between the three tiles near the door, because it will
+        get in close to you after a bit. This is when you need to
+        strike at it fast. After a few hits, it will back and up and go
+        at it again. Repeat this process and after several hits are
+        done to it, it will be defeated!
+
+        BOSS #06: BROKEN JOE (from Chapter 6-1)
+        This boss will slowly float around making its way towards you,
+        and when it stops, it will shoot out snakes at you, so dodge
+        these. Make sure you have your SUPER BASEBALLS, because when it
+        opens it mouth, that's when you need to attack it. If you run
+        out, you are pretty much screwed, but you should be able to
+        have enough to take it out, so long as you make successful hits
+        (jump and shoot might help). After about twenty direct hits, he
+        will be defeated!
+
+        BOSS #07: HOODOO DOLLS (from Chapter 6-2)
+        Okay this is tough, you have here a wooden doll walking around.
+        It will spin around fast and shoot bullets at you when you are
+        in it's path. So here is what you should do. Get near it, but
+        not in it's path, and when it comes down right in front of you,
+        start hitting it and then run out of it's path before it starts
+        to shoot at you. Repeat this process and soon it will be
+        defeated.
+
+        BOSS #08: TWO HOODOO DOLLS (from Chapter 6-2)
+        This is gonna be extremely tough, because you got a double dose
+        of these wooden dolls to contend with. They will both use the
+        same tactic as before, so you can try and take them out the
+        same way, just make sure they are both far apart from one
+        another when you do it. If you want to try and use your Star
+        Spliiter, go for it (save atleast 40 of them as you will need
+        them soon enough), but make sure they are in line with each
+        other for it to work. You'll also have a Magic Potion as a back
+        up plan. Use a combination of both tactics and soon they will
+        be defeated.
+
+        BOSS #09: STATUES OF TWIN SUMOCHO (from Chapter 6-2)
+        It's more double trouble as you have to deal with these twin
+        statues. They will both shoot out fireballs at you, which are
+        easy to avoid. To take them out, use your Star Splitters so
+        that you can hit them both at the same time. When to strike
+        them would probably be when they stop shooting fireballs at
+        you. After about 8 or 10 hits, they will both be defeated!
+
+        BOSS #10: TWO JET-PACK JUMPERS (from Chapter 7-1)
+        In here you got 2 big space creatures, as well as a Bullet
+        Shooter. The two bosses will roam around shooting bullets at
+        you, so you need to avoid them! Here's how taking them out will
+        work. First use your Power Skates all up to do some serious
+        damage. The Bullet Shooter will be out of your way as well. Now
+        jump back and forth across the tiles dodging their bullets and
+        using your Laser Gun on them. After 2 or 3 direct hits, they
+        will both be defeated!
+
+        BOSS #11: BROWN JET JUMPER (from Chapter 7-2)
+        Here we go with another Jet Jumper boss. This one will jump
+        back and forth at you (when you're in range) shooting out
+        bullets, which you should jump back and forth across the tiles
+        to dodge them. After it retreats back is when you should
+        attack. Start by using the Laser Gun as it has a long range
+        attack. If that runs out (which it shouldn't) switch to
+        Lightning Blaster. After several hits, the boss will be
+        defeated!
+
+        BOSS #12: OSTROID (from Chapter 7-2)
+        Now this boss fight is a little different to handle. First the
+        boss will slowly come to you, shooting energy blasts at you
+        then lunging at you. Here's what to do, with either Lightning
+        Blaster or Laser Gun, jump and shoot (to dodge its attacks) at
+        it till it's past the the switch. Now quickly step on it and
+        another switch will appear. Step on that and the blue path on
+        the right will disappear. Now simply shoot the boss enough
+        times to where it will back up and fall into the pit. With
+        that, you have defeated this boss.
+
+        BOSS #13: ZODA (from Chapter 8-1)
+        Now this fight is gonna be extremely tough. He will have two
+        attacks, which are his head circling around shooting his
+        eyeballs at you (which you can easily dodge) and his hand
+        reaching out to grab you. Both of this can do some damage to
+        you. Here's what you should do, first off, it's his head you
+        want to strike at with your Laser Gun. Second, get to the
+        otherside of the room from him, as this will give you some
+        room to breathe and dodge his attacks. You can outrun both
+        his head and his hand, so you got nothing to worry about there.
+        After several shots, he will be defeated (for now)!
+
+        BOSS #14: ZODA'S REVENGE (from Chapter 8-1)
+        Okay here we go, the final battle! Your setup is plenty of room
+        with several tiles in the middle. Zoda will quickly jump around
+        and shoot fireballs at you, so dodge these as well as launch
+        Red Spawns. It's probably best to stay off the tiles while
+        fighting. First off, use your Lightning Blaster on it, and that
+        should give off some serious damage to him. After that's
+        milked, use the Laser Gun, but remember you can only hurt him
+        when he's not jumping around. Both of these should be enough to
+        take him out, and if not, use Super Nova. You will also have
+        Magic Potions if you need it. After several hits done, he will
+        finally be defeated!
+
+-----------------------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+-----------------------------------------------------------------------
+
+            -------------
+SECTION 6: |IN CONCLUSION|
+            -------------
+
+      --------------
+  A: |What's To Come|
+      --------------
+
+     With a game as big as this, who knows what else is to come. But I
+     will keep this open if anything new develops.
+
+      ----------------
+  B: |PayPal Donations|
+      ----------------
+
+     Like anyone would read this but something new I've been toying
+     around with is the idea of taking donations. After making as many
+     maps and FAQs as I have, it tends to be a big strain on my
+     computer (I have a cheap-ass computer). So if you like any or all
+     of my FAQs and maps, and wish to give a little something back, you
+     can donate as much as you want to my PayPal account ^_^. Email me
+     your donations at StarFighters76@comcast.net
+
+      --------------
+  C: |Special Thanks|
+      --------------
+
+     Personal Thanks To:
+     ExoSquad18: Simply because of his confidence and belief that I
+     will be very successful at this stuff ^_^.
+
+     On-line Thanks To:
+     To GameFAQS for hosting my walkthroughs, as well as many more ^_^.
+
+     To anyone who help made this game possible. Thanks! ^_^
+
+      --------------
+  D: |The Disclaimer|
+      --------------
+
+     Star Tropics, quite an interesting game it was. First off let me
+     say that the first one was way better than the second one by alot.
+     Now when someone thinks of this game, they think of a Legend Of
+     Zelda clone, which yeah that's what it kinda looks like. But this
+     game is rather fun too, with many mysteries and exploring in it. I
+     played this game when I was younger, but got as far as Chapter 5
+     or 6, because it was a challenging game for sure. I decided to go
+     back and play it now, because this is one of those games that has
+     a personal place in my life, which is why I made this FAQ. I made
+     this walkthrough the best way I can and I hope it helps out in
+     every way possible. Now here comes the important stuff you need to
+     read.
+
+     Ok, I'll make this quick and simple. This walkthrough is my work.
+     I've made this walkthrough, describing the game the best possible
+     way I can. You can use whatever info you want, so long as you give
+     me credit and don't alter anything. All you have to do is email me
+     at StarFighters76@hotmail.com if you're gonna do anything with
+     this walkthrough. And to show that I'm not a complete selfish
+     bastard, if you have something you wanna add, email me and I will
+     give you full credit ^_^. This walkthrough, like many others are
+     intended for GameFAQs ONLY. You want it on your site, well you
+     better start emailing me. Failure to comply with this, and I will
+     be mad, among other things.
+
+     Email me at StarFighters76@hotmail.com
+     PayPal me at StarFighters76@comcast.net
+     Copyright (C) April 23rd, 2008
+     Mike Leatherwood AKA StarFighters76
+     Star Tropics (C) Nintendo 1990
