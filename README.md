@@ -322,7 +322,7 @@ The agent stages are defined once, in `.agents/plugins/retro-walkthrough/skills/
 
 Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl`; `rw:status` prints the total.
 
-**Active time.** `rw:auto` logs how long each command step ran, and the coordinator logs each stage agent's run time and tokens with `npm run rw:log-agent -- <id> --stage "<N name>" --ms <ms> --tokens <n>`, both to `_activity.jsonl`. `rw:status` totals them on its `ACTIVE:` line. Only working time is recorded: waiting for the user or for a usage-limit reset falls between entries and never counts, so games can be compared as the pipeline improves. StarTropics II (1984), the first game measured, took 35m active (scripts 9m, agents 26m) with 2.12M script tokens and 414k agent tokens.
+**Active time.** `rw:auto` logs how long each command step ran, and the coordinator logs each stage agent's run time and tokens with `npm run rw:log-agent -- <id> --stage "<N name>" --ms <ms> --tokens <n>`, both to `_activity.jsonl`. `rw:status` totals them on its `ACTIVE:` line. Only working time is recorded: waiting for the user or for a usage-limit reset falls between entries and never counts, so games can be compared as the pipeline improves. `npm run rw:analyze -- <id>` condenses all of a game's logs (usage, activity, extraction rejects, write repairs, QA warnings, review issues) and compares it with earlier games; the coordinator turns it into ranked improvement suggestions in the approval summary. StarTropics II (1984), the first game measured, took 35m active (scripts 9m, agents 26m) with 2.12M script tokens and 414k agent tokens.
 
 ### Model backends for rw:extract and rw:write
 

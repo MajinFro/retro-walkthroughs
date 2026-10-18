@@ -63,7 +63,7 @@ The loop:
 2. Do what NEXT says, yourself or via `rw-stage` as `WHO:` says. For command stages, run **`npm run rw:auto -- <id>`** (in the background; it can take a while) instead of each command by hand: it runs every command stage in a row (fetch, chunk, extract, verify, plan, write, `--fix`, assemble + qa, score) and stops at the first stage that needs judgment, a usage limit, or a step that makes no progress, then prints NEXT/WHO. It never runs `rw:clean`. Full output is in `_auto.log`; read only its summary.
 3. **Log every stage agent** as soon as it finishes, so `rw:status` can total active time and agent tokens: `npm run rw:log-agent -- <id> --stage "<N name>" --ms <run time ms> --tokens <tokens> --tools <tool uses> --model <model>` (e.g. `--stage "6-7 route"`). In Claude Code, copy `duration_ms`, `subagent_tokens` and `tool_uses` from the agent's completion notice; in Antigravity, use what `invoke_subagent` reports and leave out what it doesn't. Log a failed or retried agent too. `rw:auto` logs its own steps, so run command stages through it rather than by hand; time spent waiting for the user or a usage-limit reset is never logged.
    Re-run status and trust it over any report. If a stage agent's gate did not pass, spawn a fresh `rw-stage` for the same stage with its report's open problems in the prompt; do not fix the stage in your own context.
-4. After each stage, give the user a 2–3 line update (stage, result, model usage from status), then continue. Stop and ask only when a stage agent reports a decision that belongs to the user, or when the score is ACCEPTED (the user reviews the walkthrough before `rw:clean`).
+4. After each stage, give the user a 2–3 line update (stage, result, model usage from status), then continue. Stop and ask only when a stage agent reports a decision that belongs to the user, or when the score is ACCEPTED (the user reviews the walkthrough before `rw:clean`; see "Approval summary and improvement analysis").
 
 Fewer agents, fewer questions:
 - When `rw:verify` passes (exit 0), go straight to Stages 6–7: that agent does the alias, corroboration and possible-conflict cleanup first (route-planner skill, "Step 0"). Spawn a separate Stage 5 agent only for real conflicts (exit 2).
@@ -73,6 +73,19 @@ Fewer agents, fewer questions:
 Rules: run one `rw-stage` agent at a time (stages depend on each other); never paste file contents into a stage prompt (the agent reads from disk); never do judgment work yourself "because it is small" — that is how the coordinator's context grows. If the `rw-stage` agent type is not available in this session, use `general-purpose` with `model: "opus"` and tell it to read and follow `.claude/agents/rw-stage.md`.
 
 **Antigravity:** use `invoke_subagent` for judgment stages the same way. If subagents are unavailable, suggest a new conversation at each judgment stage instead.
+
+## Approval summary and improvement analysis
+
+When `rw:score` outputs ACCEPTED, run `npm run rw:analyze -- <gameId>` before asking the user to approve. It condenses `_usage.jsonl`, `_activity.jsonl`, `_extract_rejects.jsonl`, `_auto.log`, `09_qa.json`, `09_review.json` and `10_score.json` into about 40 lines, including a comparison with earlier games. Read its output, not those files. If one specific claim needs checking, filter the file for it (for example, a few rejects of one reason); never read a whole log.
+
+The approval message has two parts:
+1. **Result:** score, the decisions the user should check (judgment calls, unverifiable achievements), active time, and script + agent tokens.
+2. **Improvement analysis:** up to 5 suggestions, ranked by expected gain, covering **quality**, **token usage** and **run time**. Each one must:
+   - start from a number in `rw:analyze` (a rejection reason, a repair share, the slowest agent, a review issue), not from general ideas;
+   - name the pipeline stage, script or skill to change, and fix the cause where it starts: a major review issue that an earlier stage should have caught means changing that earlier stage;
+   - state its expected effect on all three areas. **A suggestion must not make any area noticeably worse.** Better quality may not cost a large token increase (no extra review passes, no bigger model tiers, no larger packets), and saving tokens or time may not cost quality. Prefer changes that help one area and are neutral or better for the others: deterministic script checks and auto-fixes, prompt rules that prevent a repair call, and catching problems earlier so later stages do less;
+   - say which past game, if any, showed the same problem (the comparison table, or the earlier games' logs), since a problem that repeats is worth more than a one-off.
+   Flag regressions against earlier games (score, active time, tokens per chunk, repair share). Offer to implement the suggestions, but change nothing in the pipeline until the user says so, and commit pipeline changes separately from the game's content.
 
 ## Post-Approval Cleanup
 Once `rw:score` outputs ACCEPTED and the user reviews and approves the final walkthrough:
