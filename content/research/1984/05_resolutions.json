@@ -1,0 +1,277 @@
+[
+  {
+    "fact_id": "gf1-10-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda's creature|defeated by): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-11-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|bob|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-11-27",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|boulder tossing miner|defeated by): gf1-11-27 only says Gold Cave ends at this boss; gf4-7-1 gives the bola strategy. Complementary, not contradictory."
+  },
+  {
+    "fact_id": "gf1-13-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|mica|triggers): Different Mica calls at different points of the story (Chapter 2 Tetrad call, Chapter 6 warning, Chapter 8 'return to C-Island', Chapter 9 hut). Multiple events, not a conflict."
+  },
+  {
+    "fact_id": "gf1-13-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|zoda-y|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-13-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|zoda-y|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-14-25",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|merlin|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-14-26",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|hirocon|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-15-21",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|dragon|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|yum yum|located in): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|yum yum|difficulty): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|giant scorpion|located in): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|giant scorpion|difficulty): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|monster mask|difficulty): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda's creature|difficulty): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-x|located in): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-19",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-x|difficulty): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-18-33",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda's creature|located in): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-19-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-y|countered by): gf1-19-4 and gf2-33-3 describe the Chapter 7 Zoda-Y fight (kill the bats, step forward away from the floor spikes) and complement each other. gf2-37-4 is rejected separately: it comes from gf2's FAQ answer about 'chapter 4 bosses' and describes the Chapter 4 Zoda (Zoda-X) fight, not Zoda-Y."
+  },
+  {
+    "fact_id": "gf1-19-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-y|triggers): Phase descriptions of the same fight (second/owl/bird form, more bats, teleport) from gf1, gf2 and gf3 agree; gf3-39-6 is the Chapter 9 rematch and gf5-8-6 is his dialogue at the end of Chapter 6. gf2-37-3 is rejected separately because the moving floor belongs to the Chapter 4 Zoda fight."
+  },
+  {
+    "fact_id": "gf1-19-28",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-z|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-19-33",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|zoda-z|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-19-38",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|c-serpent|located in): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-7-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|shorty|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-7-20",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|queen|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-8-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|monkey maze|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-9-21",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|holmes|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-9-22",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|zoda-x|triggers): All five sources tell the same museum robbery story (Zoda-X plans to steal the stone/Tetrad and escapes with it). Consistent."
+  },
+  {
+    "fact_id": "gf1-9-23",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|police officer|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-5-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|leonardo da vinci|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-26-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|egypt|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-26-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|giant scorpion|countered by): Slingshot (gf2, gf4) and the other gf3/gf4 tips are complementary tactics for the same Border Pass scorpion boss."
+  },
+  {
+    "fact_id": "gf2-27-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|monster mask|countered by): Weapon choice differs (gf2: Psychic Shockwave; gf4: daggers while moving against the arrows). Both are valid strategies for the same Egyptian Mask/Monster Mask fight; the writer can give the Shockwave as primary and daggers as the alternative."
+  },
+  {
+    "fact_id": "gf2-29-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|sewer part ii|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-30-21",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|gold cave|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-31-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|mashing miner|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-31-23",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|leo's basement|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-33-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-y|defeated by): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-34-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|knight|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-34-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|hirocon|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-35-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|mica|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-38-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|yum yum|defeated by): Axes thrown at Yum Yum (gf2, gf3); gf3-39-1 is the Chapter 9 rematch. Consistent."
+  },
+  {
+    "fact_id": "gf2-38-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|yum yum|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-38-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|giant scorpion|defeated by): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-38-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|monster mask|defeated by): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-38-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|monster mask|triggers): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-38-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|monster mask|attacks with): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-39-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|boulder tossing miner|attacks with): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-40-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|dragon|defeated by): All sources agree the Dragon must be hit in the head quickly before spikes fill the room; gf3-39-7 is the Chapter 9 rematch. 'Dragon Cave 2 Room 26' and 'Dragon Cave Room #26' are the same final room of Dragon's Cave Part II."
+  },
+  {
+    "fact_id": "gf2-40-28",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zoda-z|defeated by): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-16-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|great pyramid|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-39-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|mashing miner|defeated by): gf4-7-20 (dagger strategy, Chapter 5) and gf3-39-5 (Chapter 9 rematch, 'same way as earlier') describe different encounters; no contradiction."
+  },
+  {
+    "fact_id": "gf3-10-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|border pass|leads to): the listed values are complementary details (different rooms, phases, tactics or story beats of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-37-3",
+    "resolution": "reject",
+    "rationale": "gf2's FAQ answer is about 'chapter 4 bosses'; the moving floor ('platforms that move you') is the arrow-tile floor of the Chapter 4 Zoda/Zoda-X fight (gf2-29-17ff., gf1-18-18ff.). Chapter 7 Zoda-Y instead pushes Mike toward floor spikes with wind (gf2-33-3, gf2-33-7). Misattributed boss name."
+  },
+  {
+    "fact_id": "gf2-37-4",
+    "resolution": "reject",
+    "rationale": "Same gf2 FAQ answer about the Chapter 4 bosses; the advice to throw stars and save medicines is for the Chapter 4 Zoda (Zoda-X), not the Chapter 7 Zoda-Y. Misattributed boss name."
+  }
+]

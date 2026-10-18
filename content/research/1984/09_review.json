@@ -1,0 +1,122 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 98,
+      "description": "Route told the player to take Jack's dagger first, then 'receive' Cleopatra's dagger for Sharp Edge (36886). The game script (gf5-5-2) shows Cleopatra only offers her dagger trade if Mike does NOT have the bronze dagger, so on the recommended route that step never happens. Moved 36886 to Jack's dagger, rewrote the Cleopatra section as the barge ride, and fixed the goals list, item table and checklist. Overview now explains the same."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 160,
+      "description": "Monkey Maze Part 2 (after the Big Heart), Mini-dungeon B and Part 3 (to the monkey/Psychic Shockwave) were marked truncated / 'Unable to verify', but gf1 and gf2 both give the full step counts. Added the complete routes and noted the gf1/gf2 differences (6 vs 5 down; 2 vs 4 left)."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 30,
+      "description": "Ice Age safe path was cut off after six steps ('only its opening is available'); the full path is in gf1. Added the full step list, sequenced after collecting the Rocks."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/02.md-09.md",
+      "line": 0,
+      "description": "22 GameFAQs maps were registered in sources.json but none were linked. Added a [View ... Map] link under every matching overworld and dungeon section in Chapters 2 to 9."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 82,
+      "description": "The Donkey section (Super Psychic Shockwave, 36902) was two lines. Expanded it from gf3/gf5/gf1: head north still inside the mountain, the dialogue, the donkey vanishing, and the 5-heart requirement."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 43,
+      "description": "Removed a broken citation token '[[gf3-37 not citable]]' and its unsupported boar claim. Also removed the source typo '25 chests' (gf2-35-12); the chest holds 25 torches."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 98,
+      "description": "Removed the writer drafting note ('The assembler provides the per-chapter routing...')."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "hardcore",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md, 08_chapters/02.md",
+      "line": 67,
+      "description": "Reworded the Hardcore notes so they no longer use the term 'save states' (QA warning)."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 62,
+      "description": "Missable warning used the phrase 'Point of No Return', so QA counted 2 PONR callouts against 1 in the roadmap. Reworded it. Also fixed the Mica mid-flight citation (was gf1-13-14, a Zoda-Y line; now gf5-8-2/3)."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 122,
+      "description": "Removed the feather tip that had no supporting fact (no overlap with gf1-19-1) and replaced it with sourced advice (gf2-33-1, gf3-31-9). Explained that gf1's 'Mace' is the three-way spike-ball weapon (gf1-6-4)."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 17,
+      "description": "The medicine tip cited gf1-5-22 (Merlin/Ultra Shockwave); recited it to gf1-5-1. Removed an 'Unable to verify' drafting line, the garbled 'If you did say NO, Unable to verify...' sentence, and a duplicate checkpoint heading. Made the checkpoint overlap with its citation."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "routing",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 51,
+      "description": "Checklist promised 'arrived in Chapter 2' (cross-chapter promise warning); reworded."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "judgment",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 12,
+      "description": "Kept judgment calls, checked against sources: 36898 'Hidden Nugget' = the chicken nugget (gf4/gf5), and the route opens every nugget cave, so both readings are covered. Jack of All Trades stays missable-by-caution (comments conflict: ra-comments-5-1 vs 5-2/5-3). Taking Jack's dagger first is safe either way."
+    }
+  ]
+}

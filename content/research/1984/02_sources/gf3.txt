@@ -1,0 +1,2781 @@
+=======================================================================
+|| Star Tropics II : Zoda's Revenge (NES) FAQ                        ||
+||                                                                   ||
+|| Last Updated: April 30, 2011                                      ||
+=======================================================================
+
+
+Welcome all to my walkthrough on a very fun and under-rated tough game
+called Star Tropics for the Nintendo Entertainment System. I hope this
+walkthrough helps out as much as possible. Below is nothing but spoilers
+on the game, so if you don't want to be spoiled, please take a detour
+and hit the Back button now. However if you want to be spoiled or need
+some help, please scroll down as far as you need to. Consider this as
+your Spoiler Warning!
+
+
+ -----------------
+|TABLE OF CONTENTS|
+ -----------------
+
+SECTION 1: Intro
+ 1: Version Guide
+ 2: The Story Behind Star Tropics II
+ 3: About This Walkthrough
+ 4: Control Configuration
+
+SECTION 2: Walkthrough
+1:  Before The Walkthrough
+2:  Chapter 1: Prelude
+3:  Chapter 2: Ice Age
+4:  Chapter 3: Egypt
+5:  Chapter 4: Scotland Yard
+6:  Chapter 5: Old West
+7:  Chapter 6: Venice
+8:  Chapter 7: Transylvania
+9:  Chapter 8: Camelot
+10: Chapter 9: C-Island
+
+SECTION 3: Items & Weapons
+
+SECTION 4: Enemies
+
+SECTION 5: Thanks
+
+
+=======================================================================
+||*******************************************************************||
+=======================================================================
+
+ SECTION 1: Intro
+
+
+ 1: VERSION GUIDE
+
+    1.0: First revision available 4/30/11
+
+ 2: The Story Behind Star Tropics II
+
+    After bravely battling Octopuses, Magma Men, and Aliens in the
+    original Star Tropics. The hero of the Star Tropics series Mike
+    Jones returns to his home in Seattle. His uncle also joins him in
+    Seattle to continue his work. We find Mike in Seattle at the 
+    start of this story.
+
+ 3: About This Walkthrough
+
+    I have used several other FAQ's in the past to get through games 
+    and I felt that it was time to return the favor by putting together
+    one of my own. I tried to avoid putting anything unnecessary words 
+    in it and instead only cover what I feel the person reading this 
+    would want for me to cover. If you want to skim through to certain 
+    topics then I would recommmend you use the Table Of Contents. 
+    Thanks for reading my FAQ!
+
+ 4: Control Configuration
+
+    There are two different types of ways to move Mike around in this
+    game. One way is the 500 foot view from above, also known as the 
+    overworld. In the overworld view you will not be attacked. The
+    other view is more like 20 foot view from above, and known as the
+    dungeon view. The dungeon view is where you will encounter combat.
+
+    OVERWORLD VIEW CONTROLS
+
+    Directional-Pad: Move up, down, left, and right.
+    A BUTTON: Talk or Acquire things
+    B BUTTON: No use
+
+    DUNGEON VIEW CONTROLS
+
+    Directional-Pad: Move up, down, left, right, and diagonally.
+    A BUTTON: JUMP
+    B BUTTON: USE CURRENT WEAPON
+    START: PAUSE
+    SELECT: SWITCH WEAPON
+
+
+=======================================================================
+||*******************************************************************||
+=======================================================================
+
+ SECTION 2: Walkthrough
+
+ 0: Before the walkthrough
+
+    In order to make the FAQ as easy to read as possible I have
+    included dungeon maps that typically look like this:
+
+
+                    LEGEND FOR DUNGEON B
+         [3]    1 = Starting Point for Dungeon B
+          |     2 = Throwing Rocks
+         [2]    3 = Exit
+          |
+         [1]
+
+
+    Each room is briefly detailed and a line will show you which way
+    you can proceed from each room. Also, the start and exit are
+    labeled as well as the boss if there is one.
+
+=============================
+||* 1: Chapter 1: Prelude *||
+=============================
+
+    We start off with Mike greeting us and asking us how we have been.
+    You are then given the option of whether you remember Mike's uncle
+    who he referes to as Dr. J(ones). If you don't know who Dr. J is
+    then you probably have not played the original Star Tropics I and
+    Mike will suggest that you read the manual to catch up on what you
+    missed in the first game. Mike explains Dr. J is now in Seattle 
+    and continuing his work from the original game.
+
+    Suddenly Mike gets a telepathic message from Mica. Mica is one of
+    the children from the original Star Tropics who were sent to 
+    Earth in the form of three cubes. She asks Mike if he remembers
+    her father Hirocon, leader of the lost planet Argonia. She tells
+    Mike that her father spoke to her in a dream and said:
+
+    Was it a cat I saw?
+    Was it a rat I saw?
+
+    She isn't sure what it means and then tells Mike that she cannot 
+    talk any longer today. Before Mike can answer she is gone, and 
+    since Mike is unsure what to do next he goes to visit his uncle.
+
+    Dr. J is buried in books when Mike arrives and doesn't notice
+    Mike until he shouts to his Uncle Steve. Mike explains the 
+    story thus far to his uncle.
+
+    His uncle reverses the wording and gets:
+
+    ?was I tac a ti saw
+    ?was I tar a ti saw
+
+    You are then asked if you understand. If you answer NO he will
+    simply state to you the obvious that you reverse the wording so
+    just say YES even though it still doesn't make sense. Somehow
+    Dr. J believes that Hirocon is telling them to reverse the 
+    cipher he was working on. He instructs Mike to get him the 
+    Oxford Wonder World book.
+
+    Once Mike gets it they look at it to read the strange words of
+    the cipher. Paapaapaaoompapamowmow is read by Mike before his
+    uncle can tell him to stop. This causes the book to open and
+    its pages to turn really quickly. Suddenly we see a dimensonal
+    gate open and Mike get sucked into it.
+
+=============================
+||* 2: Chapter 2: ICE AGE *||
+=============================
+
+    We start this chapter with Mike appearing in the middle of a
+    snowy area. He is unsure where he is but says it is like a 
+    sci-fi movie. He then realizes how cold he is and that he better
+    start moving.
+
+    This is the first chance you get to control Mike. You can only 
+    head North at this point so head in that direction. You will 
+    find a cave man that will tell you that the ground has holes and
+    to be careful. As far as I can tell these holes are random so just 
+    be prepared to fall into a few of them as you cross this snow.
+
+    There are 3 different types of holes you can fall into:
+
+
+         - - - R A N D O M   D U N G E O N   A - - -
+
+                       LEGEND FOR DUNGEON A
+                       1 = Starting Point for Dungeon A
+                       4 = Exit
+                 [4]   
+                  |
+           [-- 3 --] 
+            |    
+           [2]
+            |
+           [1]
+
+    ROOM #1:
+    Here you start. There is nothing here so go to ROOM #2.
+
+    ROOM #2:
+    Completely empty. There is nothing here either so go to ROOM #3.
+
+    ROOM #3:
+    There are five boars here and a salamander, but most importantly 
+    are some rocks. Grab the rocks and kill what you must.
+
+    ROOM #4:
+    Exit back to overworld.
+
+
+        - - - R A N D O M   D U N G E O N   B - - -
+
+                    LEGEND FOR DUNGEON B
+         [3]    1 = Starting Point for Dungeon B
+          |     3 = Exit
+         [2]    
+          |
+         [1]
+
+    ROOM #1:
+    Here you start. There is nothing here so go to ROOM #2.
+
+    ROOM #2:
+    There are four boars here, and there are some rocks. 
+    Grab the rocks and do you must to get to ROOM #3.
+
+    ROOM #3:
+    Exit back to overworld.
+
+
+        - - - R A N D O M   D U N G E O N   C - - -
+
+                    LEGEND FOR DUNGEON C
+         [5] [3]    1 = Starting Point for Dungeon C
+          |   |     5 = Exit
+         [4]-[2]    
+              |     
+             [1]
+
+    ROOM #1:
+    Here you start. There is nothing here so go to ROOM #2.
+
+
+    ROOM #2:
+    There are two boars here, and there are some rocks. 
+    Grab the rocks and do you must to get to ROOM #3.
+
+    ROOM #3:
+    There are no enemies here. Just hearts to collect. Be
+    careful to not fall in the water.
+
+    ROOM #4:
+    There is a blue bear here. Quickly kill him with your
+    stones and the path will open up to ROOM #5.
+
+    ROOM #5:
+    Exit back to overworld.
+
+
+    Once you have made it past the snow you will find a cave up ahead.
+    Enter it to find:
+
+    =============
+    Cave Men Cave
+    =============
+
+    Walk around the cave and talk to the people. You will find that 
+    many of the cave dweller's children are missing. Make sure you 
+    visit Pikazo and write down the drawings you see on his wall.
+    Also, visit Tink over by a large pile of bones. He has an Axe
+    that he has made that he will give you. 
+
+    Continue your way through the cave and find the prophet who
+    prophesized your coming. He will ask you if you are the one.
+    Regardless of what you answer he will tell you to head to the 
+    cave and defeat Yum Yum. Continue thorugh the cave until you
+    find the exit.
+
+    Once you exit the cave and return to the overworld view continue
+    North until you find another cave entrance. You will run into a
+    few more cavemen who will drop clues but you should have already
+    gotten the drawing on the cave wall and the axe so you are good.
+
+
+    ============
+    YUM YUM CAVE
+    ============
+
+    LEGEND FOR Yum Yum Cave
+    1 = Starting Point for Yum Yum Cave
+    14 = Maze (circ, circ, tri, squar, circ, squar, tri)
+    17 = BOSS: Yum Yum
+    18 = Exit to Overworld
+
+                     ----------
+                    [----14----]
+                     ----------    [17]-[18]
+                         |    |      |
+                        [13] [15]-[-16-]
+                         |
+                        [12]
+                         |
+                 [-- 11 --]
+                  |
+                 [10]
+                  |
+            [4]--[9]-[8] [7]
+             |          \/ |
+             |            |
+           [-- 3 --]-[5]-[6]
+            |      
+           [2]
+            |
+           [1]
+
+    ROOM #1:
+    There is nothing here at the entrance. Just go to ROOM #2.
+
+    ROOM #2:
+    There are 4 boars in here. You must defeat them and once you do a 
+    wall will open to the North allowing you to ROOM #3.
+    
+    ROOM #3:
+    There are several boars in this room. Make your way to the right 
+    and kill the salamanders. You will hear a wall open. If you walk 
+    back to the left you will see an opening to the North. Take this 
+    to ROOM #4.
+
+    ROOM #4:
+    There is nothing here but a medicine. Just take it and go back to 
+    ROOM #3.
+
+    ROOM #3 (from ROOM #4):
+    There is else here so head to the right killing what you need to 
+    and making your way to ROOM #5.
+
+    ROOM #5:
+    There are two salamanders here but ignore them continuing right to 
+    ROOM #6.
+
+    ROOM #6:
+    There are four boars here but ignore them as well and go north to 
+    ROOM #7.
+
+    ROOM #7:
+    There is a blue bear that you should kill quickly. You can ignore it 
+    however and proceed to jump to the little island and then head jump 
+    south until we make our way back to ROOM #6.
+
+    ROOM #6 & #5 (from ROOM #7):
+    Just move around the corners of these rooms until you make your way 
+    to ROOM #8.
+
+    ROOM #8:
+    There are four boars here but ignore the two on the bottom. You need 
+    to jump across these ledges until you make it all the way to the far 
+    left. Killing two boars along the way.Proceed left and go north to 
+    ROOM #9.
+
+    ROOM #9:
+    There are three blue bears that you need to defeat to open the door 
+    to the North. Once you have defeated them you can go North to ROOM 
+    #11. There is also a room to the left but ignore this as this will 
+    take you to a dead end in ROOM #4.
+
+    ROOM #10:
+    There are just three boars here. You can kill them if you wish but 
+    in either case proceed North to ROOM #11.
+
+    ROOM #11:
+    There are several walking snow men in this room. Head right, you 
+    don't have to defeat the snow men but it is easier if you do. 
+    Eventually you will see a room going North to ROOM #12.
+
+    ROOM #12:
+    This room has a yellow bear in it. Defeat it if you must and then 
+    continue North to ROOM #13.
+
+    ROOM #13:
+    This room has three yellow bears. In this room you must defeat them 
+    to open the door to the North taking you to ROOM #14.
+
+    ROOM #14:
+    This is the maze section and the reason I asked you to scribble down 
+    the drawings on the wall back at the cave men cave. If you didn't 
+    write it down it was: circle, circle, triangle, square, circle, 
+    square, triangle. Just follow the exit to the room closest to the 
+    symbol and you should get through this maze no problem.
+
+    ROOM #15:
+    There are four snow men in this room but you can skip them if you'd 
+    like and proceed to the East and taking you to ROOM #16.
+
+    ROOM #16:
+    There are just six boars here. You can kill them if you wish but in 
+    either case proceed North to ROOM #17.
+
+    ROOM #17 BOSS FIGHT: (YUM YUM)
+    As soon as you enter this room you will see Yum Yum hidden behind 
+    some bones and skulls. He appears to not notice you when you first 
+    enter so immediately go up as close as you can to the right of him. 
+    If you start throwing axes at him immediately you should be able to 
+    kill him before he gets one shot off. Do not attack the boar that is 
+    next to him. Yum Yum will eat this boar and continue to ignore you, 
+    but if you kill this boar he will immediately engage you in combat. 
+    If you do have to battle with him just make sure to avoid the 
+    bubbles he burps at you and keep throwing axes his way. He should go 
+    down after about 30 axes and the door to the East and Room #18 will 
+    open up.
+
+    Room #18:
+    There is an exit to the North.
+
+
+    ====================
+    BACK OF YUM YUM CAVE
+    ====================
+
+    After you are back in the overworld head north in this cave. 
+    Eventually you will find the kids like Shorty who will compliment 
+    you on defeating Yum Yum. Continue North and then East until you 
+    find a Block and then proceed out of the cave. You will be back 
+    outside, just take a few step outside and Mica will appear again via 
+    telepathy to Mike. She tells Mike that she has spoken with Dr. J and 
+    that Mica's father Hirocon must have known something was going to 
+    happen. She tells Mike that he has been sent back in time to retrieve 
+    the mystic tetrads that have been hidden on earth at various points 
+    in time. These tetrads are the legacy of the Argonians and Mike now 
+    must find them. Mica then leaves the conversation and Mike then 
+    realizes the Block he just picked up in the cave is one of these 
+    tetrads. As a bonus you increase your life total to seven hearts.
+
+    Unsure what to do now, Mike consults the Oxford World Wonder again. 
+    Mike recites the words:
+    PAA PAA PAA OOM PAPA MOW MOW. 
+    This flips the pages again and sends Mike to another time period.
+
+
+=======================================
+||* 3: Chapter 3: CLEOPATRA's EGYPT *||
+=======================================
+
+    We start this chapter with Mike appearing next to some pyramids and 
+    a sphinx. There is paths leading North and South, but if you travel 
+    South you will travel along the Nile endlessly and eventually need 
+    to head back North again so just head North. Eventually you will 
+    come upon a small oasis with some people and a boat docked nearby. 
+    If you continue North you will see a guard blocking your path, so 
+    heading to the boat is what you want to do next.
+
+    Once you enter the boat you will see people walking around and a 
+    cabin you can enter. If you enter the cabin before talking to 
+    everyone outside on the ship the guard will not let you pass. Once 
+    you have talked with everyone outside the ship he will let you 
+    enter. Inside you Mike meets with Cleopatra who asks his business 
+    and he tells her he is searching for the tetrads. Cleopatra says 
+    that she can help you but you must first get a pizza for her. Leave 
+    the ship and head North.
+
+    Go North and you will see someone blocking your path. Now that you 
+    have talked to Cleopatra he will tell you this is the way to get 
+    pizza and let you through. Proceed a little south and you will find 
+    the cave.
+
+    ==========
+    RIDGE CAVE
+    ==========
+
+    LEGEND FOR RIDGE CAVE
+    1 = Starting Point for Yum Yum Cave
+    12 = BOSS: Big Scorpion
+    13 = Leads to Overworld
+                                           
+                                      [13]-[12]
+                                            |
+                                     [-- 11 --]
+                                      |
+                                     [10]
+                                      |
+                         [6]-[7]-[8]-[9]
+                          |
+                         [5]
+                          |
+           [2]-[3]-[-- 4 --]
+            |
+           [1]
+
+    ROOM #1:
+    Just a usual entrance. Head North to ROOM #2.
+
+    ROOM #2:
+    This room just has three spiders. Defeat them and the East wall 
+    will open up allowing you to head to ROOM #3.
+
+    ROOM #3:
+    There is one cyclops in here. Defeat him and the East wall will 
+    open up allowing you to head to ROOM #4.
+        
+    ROOM #4:
+    When you first enter you will see a tile and a treasure chest. 
+    You must jump on this tile for a question mark to appear. Once 
+    you get that question mark, then the chest will open revealing 
+    a slingshot. Jump around this room carefully avoiding getting
+    hit by the spiders and take the path leading North.
+
+    ROOM #5:
+    There are two porcupines in here that you must defeat to open 
+    the door and head North to ROOM #6.
+
+    ROOM #6:
+    There are three cyclops in here that you must defeat to open 
+    the door and head East to ROOM #7.
+
+    ROOM #7:
+    There are four scorpions in here that you must defeat to reveal 
+    a door to the East ROOM #8.
+
+    ROOM #8:
+    There are four underground enemies in here that you can defeat 
+    or simply avoid and head to the East and ROOM #9.
+
+    ROOM #9:
+    There are four underground enemies and two porcupines in here that 
+    you must defeat to open a door to the North and ROOM #10.
+
+    ROOM #10:
+    This room has three spiders and two scorpions who you don't have to 
+    defeat but it is much easier to get through this room if you do. 
+    You must hop up and around to go North to ROOM #11.
+
+    ROOM #11:
+    There are two porcupines when you first enter the room, as well as 
+    a couple more spiders. You don't ahve to kill any of them but it 
+    will be easier. There are a couple jumps to get through here but it 
+    is easy. Eventually you will see a path to the North and this will 
+    take you to ROOM #12.
+
+    ROOM #12:
+    BOSS: BIG SCORPION
+    When you enter this room you will see two holes in the wall at the 
+    top. These holes will have scorpions come out of them during the 
+    battle. You can take care of the little scorpions if you want but 
+    try to focus primarily on the big scorpion. If you have any 
+    slingshot left I would use it here. The big scorpion will flash red 
+    and then shoot out a spray of shots from his tail. If you time it 
+    right it should be easy to jump over his shots, just keep an eye on 
+    the little scorpions. It took me about 40 slingshot shots to take 
+    him down. Once he is defeated the door will open to the WEST and
+    ROOM #13.
+
+    ROOM #13:
+    Just an exit. Head North to the Overworld.
+
+
+    ================
+    MIDDLE OF DESERT
+    ================
+
+    When we emerge from the cave we find Mike in the middle of a large 
+    desert. To his East is a man with a camel. Go over to him and he 
+    will ask you if you want to rent a camel. You can say NO but if you 
+    try to walk in any direction you will quickly see that you will need 
+    to say YES to him. You will then ride for a very long time until 
+    eventually you spot what reminds me of a goomba on a koopa troopa 
+    from Super Mario Bros. He informs you that he is the pizza delivery 
+    guy and gives you the pizza. 
+
+    =========
+    CLEOPATRA
+    =========
+
+    You hurry back to the boat and give Cleopatra the pizza. You get to 
+    see the pizza being eaten and a plug for the local Caesar's Hut. 
+    There is also have a nice close-up of Cleopatra. She will then take 
+    you across the NIle in her boat and drop you off on the shore. She 
+    will tell you to head to the Pyramids to the South. She also trades 
+    your axe for a dagger.
+
+    ==================
+    OTHER SIDE OF NILE
+    ==================
+
+    You are dropped off on the western side of the Nile. You can head 
+    North or South but if you head West you will be wandering the desert 
+    for ever. My suggestion would be to head North until you find a 
+    small peninsula with some green patches.
+
+    ===============
+    MONKEY SAVANNAH
+    ===============
+
+
+    - - - M O N K E Y  M A Z E  P A R T # 1 - - -
+
+             LEGEND FOR MONKEY MAZE PART #1
+                       O = Starting Point
+                       X = Exit
+    ____________________________________   ______    ____
+    |                                   | |       X      | |
+    |                          __       | |              | |
+    |                    _____|  |__    | |              | |
+    |                   |           |   | |              | |
+    |       ________    |_____    __|   | |              | |
+    |      |        |         |__|      | |              | |
+    |      |______  |                   | |_______       | |
+    |             | |                   |  _____  |      | |
+    |_____        | |_____________      | |     | |      | |
+          |       |               |     | |     | |      | |
+     __   |       |  ___________  |     |_|     |_|      | |
+    |  |__|     __| |   _____   | |          _           | |
+    |          |    |  |__H__|  | |         | |          | |
+    |          |____|           | |         | |          | |
+    |                           | |_________| |__________| |
+    |________________     O     |__________________________|
+
+
+
+    You will see a small deck with a monkey jumping around in the 
+    background. Once you get up on top of this deck you will see that 
+    this tall grass has high grass and low grass that forms a natural 
+    maze. You will want to do a clockwise circle in the grass around 
+    the deck. Where you start at the part of the grass below and to the 
+    left from the initial deck and end up on the lower right hand side. 
+    You then love up and down to the right and then up the right side. 
+    You should come out of the grass near a BIG HEART. After just a few 
+    step you will fall into a mini-dungeon
+
+
+         - - - S A V A N N A H  D U N G E O N   A - - -
+
+                       LEGEND FOR SAVANNAH DUNGEON A
+                       1 = Starting Point
+             [6]       6 = Exit
+              |
+             [5]-[4]   
+                  |
+           [-- 3 --] 
+            |    
+           [2]
+            |
+           [1]
+
+    ROOM #1:
+    Here you start. There is nothing here so go to ROOM #2.
+
+    ROOM #2:
+    There are three little frogs. You can kill them or ignore them and 
+    head NORTH to ROOM #3.
+
+    ROOM #3:
+    There are 3 swans here, a frog and a crocodile. Once the crocodile 
+    is defeated a door to the North will open up to ROOM #4.
+
+    ROOM #4:
+    In this room is a swan and two frogs. There are two hearts on the 
+    island to your right. Grab them if you need them and then head West 
+    to ROOM #5.
+
+    ROOM #5:
+    This room has 3 floating jellyfish. Take them out and the wall to 
+    the North will open up allowing you to proceed to ROOM #6. There is 
+    also a hippopotamus but you don't have to kill him to get to the 
+    next room.
+
+    ROOM #6:
+    Exit back to overworld.
+
+
+    - - - M O N K E Y  M A Z E  P A R T # 2 - - -
+
+             LEGEND FOR MONKEY MAZE PART #2
+                       O = Starting Point
+                      HH = BIG HEART
+                       X = Exit
+                      DE = Dead End
+
+
+                                                     ~~~~
+          __________________________________          ~    }
+         |  _________________  ____________ |~~~     {      }
+    _____| |       ________  | |          | |   }~~~{    ____}
+    _______|  X   |  ____  | | |          | |          |  _  |
+    ______________| |    | | | |          | |_   DE  __| | | |
+    ________________|    | | | |_         |_  |__   |   _| | |
+               _____     | | |_  |          |____|  |__|   | |
+            __|     |    | |   | |                         | |
+           |  _____ |____| |   |_ |               ______   | |
+           | |     |  _____|    | |              |____  |  | |
+           | |     | _|         | |_                  | |  | |
+           | |     | |          |_  |   _________     |_|  | |
+           | |     | |    ___     | |  |  _____  |         | |
+           | |     | |   |_H_|    | |  | | ___ | |         | |
+           | |     |_|            | |  | ||_H_|| |         | |
+           | |      _            _| |  | |     | |         | |
+           | |     | |          |  _|  | |    _| |         | |
+          _| |     | |_        _| |    |_|   |_  |         | |
+         |  _|     |_  |______|  _|            | |_______  | |
+         | |         |__________|              |  _____  | | |
+     ____| |                                   | | ___ | | | |
+    |  ____|                                   | ||_H_|| | | |
+    | |           _________                    |_|     | | | |
+    | |          |  _____  |                        _  | | | |
+    | |          | | ___ | |                       | | | | | |
+    | |          |_||_H_||_|                      _| | |_| |_|
+    | |                                          | __|  } { HH}
+    | | _____   ____________                     | |     } ~~~
+    | ||_   _| |  ________  |       _            | |      }
+    | |  | |   | |        | |______| |___________| |__ O __}_
+    | |  | |   | |        |_____________________   ___| |___ |
+    | |_ |_|  _| |                              | |        | |
+    |__ |    | __|
+      | |____| |
+      |________|
+    
+    
+    Back above ground in the Savannah you can move forward to see the 
+    monkey poke his head out and disappear. Go over to the deck in front 
+    of you to see the new view. You will want to go around and pick up 
+    that BIG HEART over on the shore to the East and then back track 
+    up to the top East, back down to the left, and then up and around
+    the Western part of the map. You should come out of the grass 
+    clearing and then randomly fall down into another dungeon.
+
+
+    
+         - - - S A V A N N A H  D U N G E O N   B - - -
+
+                       LEGEND FOR SAVANNAH DUNGEON B
+                       1 = Starting Point
+                       7 = Exit
+
+     [7]
+      |
+     [6]       
+      |
+     [5]
+      |
+     [-- 4 --]
+            |
+           [3] 
+            |    
+           [2]
+            |
+           [1]
+
+    ROOM #1:
+    Here you start. There is nothing here so go to ROOM #2.
+
+    ROOM #2:
+    We encounter 2 crocodiles and 2 swans here. You only need to kill 
+    the crocodiles to open the door and head NORTH to ROOM #3.
+
+    ROOM #3:
+    In this room is a jellyfish, crocodile and three frogs. There are 
+    two hearts on the island to your right. Grab them if you need them 
+    and kill the crocodile to open the door and then head North to 
+    ROOM #4.
+
+    ROOM #4:
+    When we first enter we see a frog and a jellyfish and shortly after 
+    entering you'll see the hippopotamus appear and shoot at you. You 
+    only need to kill the frogs to open the door and head NORTH to 
+    ROOM #5.
+
+    ROOM #5:
+    This room has 5 floating jellyfish and a lone frog in the middle. 
+    You can kill them or just skillfully jump around them to ROOM #6. 
+
+    ROOM #6:
+    In this room are two swans and three jellyfish. There is also a 
+    hippopotamus but you don't have to kill any of them to get to the 
+    ROOM #7 to the North.
+
+    ROOM #7:
+    Exit back to overworld.
+
+
+   - - - M O N K E Y  M A Z E  P A R T # 3 - - -
+
+
+             LEGEND FOR MONKEY MAZE PART #3
+                       O = Starting Point
+                       X = Exit
+                                                         {    }
+                                                       ~~      ~
+                                                      {         }  
+   __________________________________________________{__  X  ___}____ 
+  |  ___________                                ____   _|   |______  |
+  | |           |  _________________________   |    |_|            | |
+  | |           | |                    ___  |  |                   | |
+  | |         __| |                   |_H_| |  |     _             | |
+  | |        |    |                         |__|    | |            | |
+  | |   ___  |____|               _____             | |____________| |
+  | |  |   |                     |___  |            |     _____  ____|
+  | |  |   |____________________     | |____________|    | ___ | |  _ O
+  | |  |_                       |    |  _   ______   ____||_H_||_| | |
+  | |    |      ______         _|    |_| | |      | |              | |
+  | |    |     | ___  |       |          | |      | |  ___   ___   | |
+  | |    |  ___||_H_| |       |__________| |  _   |_| |  _| |_  |  | |
+  | |    | |   _______|                    |_| |_     |_|     | |  | |
+  | |    |_|  |                           _______|         _  | |  | |
+  | |         |                          |         _      |_| | |  | |
+  | |         |_______________________   |   _____| |___      | |__| |
+  | |                       __________|  |  |    _____  |     |____  |
+  | |___________           |__________   |  |   | ___ | |__   ___  | |
+  |  ___________|                     |  |  |___||_H_||____| |___| | |
+  | |                                 |  |                         | |
+  | |         ______________       ___|  |   _     _____         __| |
+  | |        |__   _______  |    _|  ____|  | |   |_____|   _   |__  |
+  | |           | |   ___ | |___|   |       | |            | |     | |
+  | |          _| |_ |_H_||  _____  |       | |            | |     | |
+  | |         |_____|     |_|     | |    ___| |____    ____| |__   | |
+  | |                             | |   |   _____  |  |         |  | |
+  | |_                            |_|   |  | ___ | |  |_________|  | |
+  |_  |                                 |__||_H_||_|               | |
+    | |                                                            | |
+    | |____________________________________________________________| |
+    |________________________________________________________________|
+
+
+
+    Back above ground in the Savannah you can move forward to see the 
+    familiar monkey poke his head out and disappear again. Take the 
+    same approach here as the other mazes. Getting up on the decks and 
+    then memorizing the paths. Move down and to the left and then up
+    the West side of the map. Then go back East along the Northern part
+    of the map. Eventually you will make it out on the Northern edge
+    and make your way to a small mountain range where that monkey 
+    (Merlin?!?) will show you how to do a psychic shock wave. Then you 
+    will be teleported back to the Pyramid and Sphinx.
+
+    =======
+    PYRAMID
+    =======
+
+    LEGEND FOR PYRAMID
+    1 = Starting Point for Pyramid
+    25 = BOSS: PHAROAH
+    26 = Leads to Overworld
+
+         [25]-[26]
+          |
+         [-- 24 --]
+                |
+               [23]
+                |
+               [19]-[20]-[21]
+                |          |
+               [18]-[17]-[22]
+                     |
+                    [-- 16 --]
+                            |
+                           [15]
+                            |
+      [10]-[12]-[-- 13 --]-[14]
+
+      [11]
+                   [-- 7 --]
+                    |     |
+               [5]-[6]   [8]-[9]
+
+                       [4]-[3]
+                            |
+                           [2]
+                            |
+                           [1]
+
+    ROOM #1:
+    If you are low on hearts you can jump on the middle tile in the 
+    group of tiles to the left and two hearts will appear. In either 
+    case, head North to ROOM #2.
+
+    ROOM #2:
+    This force field requires the Psychic Shockwave to destroy. Dispose 
+    of the field and continue to the North to ROOM #3. If you don't 
+    have the Psychic Shockwave you will need to go back out and head
+    North to a savannah but if you are following this walkthrough then
+    you probably already did that.
+
+    ROOM #3:
+    There are three ladybugs in here. Dispose of the them and the door 
+    will open to the West to ROOM #4.
+
+    ROOM #4:
+    There are two asps in here. Dispose of the them if you want to or 
+    just take the stairs in the upper left corner of the room to 
+    ROOM #5.
+
+    ROOM #5:
+    This room is filled with spikes and traps. When you first try to 
+    cross the middle path you will see a plume of flame appear. Just 
+    time it and walk past it as soom as the plume extinguishes. Once you
+    pass this first flame STOP. If you proceed any farther you will fall 
+    back to the floor below with the asps. Instead jump over this part 
+    of the floor. You will then need to jump over spikes to a patch on 
+    the floor. The problem is that there is a plume of flame here as 
+    well. Just time the jump and you should make it to the other side no 
+    problem. Now go up to the top group of tiles and jump on one of the 
+    tiles to reveal the question mark at the bottom of the room. Jump 
+    over the spikes and flames to get to the bottom of the room and once 
+    you grab the question mark the door to the East will open. There are 
+    two hearts on the north side of the room, get them if you'd like and 
+    then go East to ROOM #6.
+
+    ROOM #6:
+    There are two pyramid guardians in here. These guys are immune to 
+    your dagger so you will need to switch to your Psychic Shockwave in 
+    order to dispose of the them and the door will open to the North to 
+    ROOM #7.
+
+    ROOM #7:
+    When you first enter this room you will see a mummy and mini-mummy. 
+    Take both of them out and then hop on one of the tiles to reveal the 
+    question mark. Get this mark to open the chest and reveal a medicine
+    container. You will see a yellow floor in the middle to jump on. 
+    Don't stay on these floating platform long, instead keep jumping. 
+    Get the medicine and jump to the right side of this room. There are 
+    two more mini mummies you can choose to defeat before taking the 
+    door to the South to ROOM #8.
+
+    ROOM #8:
+    Inside this room is one Aman-Ra guardian. Just take your time and 
+    defeat him to open the door and head East to ROOM #9.
+
+    ROOM #9:
+    All that is in this room are a circular pattern of tiles. In the 
+    middle of these tiles are false floors which you need to fall 
+    through to get to ROOM #10.
+
+    ROOM #10:
+    As you fall into this room press your control pad to the left. If 
+    you don't you will land on another false floor and plunge down to 
+    ROOM #11. When you do manage to reach ROOM #10 without falling 
+    through you will see a pair of two hearts in the bottom left corner 
+    of the room. Get them if you need them otherwise head to the East 
+    (avoiding the metal ball that is moving in a circular pattern) into 
+    ROOM #12.
+
+    ROOM #11:
+    There is nothing in this room except four skeletons. Dispose of the 
+    them if you want to or just take the stairs in the upper right 
+    corner of the room to ROOM #10.
+
+    ROOM #12:
+    Inside this room a directional conveyor belt with a pyramid 
+    guardian and an asp. You can use the conveyor belt if you need to 
+    but just focus on defeating both enemies to open the door and head 
+    East to ROOM #13.
+
+    ROOM #13:
+    There are four skeletons and one metal ball. Avoid them and head to 
+    the right side of the room and jump up on the columns and head back 
+    left jumping until you come to the column with the tiles. Jump on 
+    one of these tiles to make the question mark appear. Jump down and 
+    grab this mark which will open the wall to the East to ROOM #14.
+
+    ROOM #14:
+    Immediately upon entering this room dispose of the mummy nearby 
+    Mike. Then jump over the spikes and defeat the ladybugs in the 
+    middle of the room. Take out the remaining mummy and the door to 
+    the North will open to ROOM #15. There is also a life sign in here 
+    if you want to try your luck.
+
+    ROOM #15:
+    Inside this room are two Aman-Ra guardians. Just take your time and 
+    defeat them to open the door North to ROOM #16.
+
+    ROOM #16:
+    When you enter this room you will see spikes along the outside of 
+    the room with a conveyor in the middle. You must go around on this 
+    conveyor and defeat each of the spiders on the ledges to open the 
+    door North to ROOM #17.
+
+    ROOM #17:
+    Inside this room are three ladybugs. After you defeat them to open 
+    the door West to ROOM #18 you can jump on a tile in the middle to 
+    reveal two hearts if you need them.
+
+    ROOM #18:
+    This room contains two mini mummies and two pyramid guardians. 
+    Defeat them to open the door North to ROOM #19.
+
+    ROOM #19:
+    No enemies here, just a pattern of tiles that resembles a snake. 
+    Jump on the tail tile to reveal the question mark. Grabbing this 
+    mark opens the door East to ROOM #20.
+
+    ROOM #20:
+    This room contains two mummies. Defeat them to open the door East 
+    to ROOM #21.
+
+    ROOM #21:
+    There is one Aman-Ra guardian in here. Defeat him to open the door 
+    South to ROOM #22. There is a tile at the top of the room you can 
+    jump on to make a medicine appear so don't forget that.
+
+    ROOM #22:
+    There are four mini mummies in here and a tile. Activate the tile 
+    and get the question mark to reveal a flute from inside the chest. 
+    Grab the flute and defeat the mini mummies to open a wall to the 
+    West taking you back to ROOM #17. You have already been to #17 so 
+    go to #18 and then #19.
+
+    ROOM #19 (Revisited):
+    Now that you have the flute use a flute to make three asps appear. 
+    Defeat all three and a wall to the North will open up allowing you 
+    to enter ROOM #23.
+    
+    ROOM #23:
+    Nothing here so just take the door North to ROOM #24.
+
+    ROOM #24:
+    There is a mummy and mini mummy here with another floating tile out 
+    in the middle to jump to. Defeat the mummies and jump across the 
+    tiles to the left until you make it to the other side. There are 
+    two hearts here is you want them and also another medicine over on 
+    the left corner of the room. There are two more mummies and a mini 
+    mummy on the left which you can defeat or just simply take the path 
+    to the North and ROOM #25.
+
+    ROOM #25: BOSS: PHAROAH
+
+    You enter a room that has the bottom half covered in conveyors that 
+    force you back to the bottom wall. The room is separated in half by 
+    a guard rail. The top part of the room is where the boss float 
+    around. This mask mostly shoots a spray of 5 bullets which are 
+    usually pretty easy to avoid. Occasionally the mask will reveal a 
+    skeleton face and shoot a more powerful shot so avoid those. As you 
+    damage the mask more and more it will move faster and eventually 
+    turn red. Once you have defeated him a door will open to your East
+    allowing you on to ROOM #26.
+
+    ROOM #26:
+    Exit room. Just take the exit to the North.
+
+
+    ==================
+    INSIDE THE PYRAMID
+    ==================
+ 
+    Back inside of the pyramid Mike sees a long narrow tunnel to his 
+    North. Follow this until you enter a room with another Tetrad. 
+    After Mike obtains his latest Tetrad he reads again the words: 
+    PAA PAA PAA OOM PAPA MOW MOW. 
+    This flips the pages again and sends Mike to another time period.
+
+
+
+===================================
+||* 4: Chapter 4: SCOTLAND YARD *||
+===================================
+
+    We find Mike has been teleported to a more modern time. This looks 
+    to be Sherlock Holmes' stomping ground. In fact once you walk 
+    around a bit you will eventually bump into him. He tells you that a 
+    fella named Zoda-X will be at the museum tonight and to meet him 
+    there at midnight. Continue walking around town stopping to pet the 
+    dog.
+
+    There is an open doorway but all you will find is a man sleeping so 
+    continue along until you find one of London's finest police 
+    officers. Talk to him and he will put you in jail (I thought they 
+    practiced English Law: Innocent until proven guilty?).
+
+    Once in jail you will see the guard is asleep and the prisoner next 
+    to you says there is no escape. Turns out if you look along the 
+    East wall you will find an escape. Take this to get back outside. 
+    Now that you are outside head North and the West until you come 
+    between two building. Pass through them and say hello to the sleep 
+    walker as you pass him in the night. Continue along North until 
+    you find the museum and Holmes waiting for you.
+
+    He greets you and asks you to come inside and look at the stone. 
+    Before you get a chance to get the stone Zoda-X appears and takes 
+    it. Sherlock Holmes instructs you to follow him. When you see Mike 
+    again on the streets of London have him head left to the open 
+    manhole. There is a BIG HEART below that Mike could really use. 
+    Once you have the BIG HEART go back up the manhole and then look 
+    for the other manhole South of there. Take this down to start the 
+    sewer dungeon.
+
+    =============
+    LONDON SEWERS
+    =============
+
+    LEGEND FOR LONDON SEWERS
+    1 = Starting Point for London Sewers
+    12 = BOSS: Zoda's Blob
+    13 = Leads to Overworld
+
+
+              [7]
+               |
+     [12]-[13][6]
+      |        |
+     [11]     [5]---[4]    
+      |        |     |
+     [10]-[8]-[-- 3 --]
+           |   |
+          [9] [2]
+               |
+              [1]
+
+    ROOM #1:
+    Just a usual entrance. Head North to ROOM #2.
+
+    ROOM #2:
+    No enemies here just a log raft floating back and forth. Hop on the 
+    raft and go to the tile in the upper right part of the room. This 
+    will activate the question mark which once you grab opens the door 
+    to the North and ROOM #3.
+
+    ROOM #3:
+    This room has five yellow jellyfish. You can defeat them if you 
+    want, but either way hop over the water to the right and then either 
+    take the passage to the North to ROOM #4 or jump back to the left to 
+    take the passageway to the North to ROOM #5.
+
+    ROOM #4:
+    There are three rats and three blue blobs in this room. Defeat all 
+    of them and a room will open to the West taking you to ROOM #5.
+
+    ROOM #5:
+    This room has four red frogs hopping around. You don't have to 
+    defeat them but it will help you reach the tile on the upper left 
+    part of the room. Once you activate it and get the question
+    mark the wall to the North will open leading you to ROOM #6.
+
+    ROOM #6:
+    There are two large rats in this room. Defeating them causes the 
+    North wall to open to ROOM #7.
+
+    ROOM #7:
+    There is nothing here but a medicine. Grab it and retrace your 
+    steps to ROOM #6, then ROOM #5 and then South from ROOM #5 to 
+    ROOM #3.
+
+    ROOM #3 (Revisited):
+    When you first enter you will notice some tiles to your right. Hop 
+    on one of them to reveal the question mark which when you grab 
+    will open the gate to the West and ROOM #8.
+
+    ROOM #8:
+    This room has three small rats. You will follow a path between this 
+    room and ROOM #9 that goes back and forth until you eventually end 
+    up in this room again and a door that goes West to ROOM #10.
+
+    ROOM #9:
+    As stated above you need to avoid the rats in this room and ROOM #8 
+    as you go along the path that goes back and forth between these two 
+    rooms. You can of course defeat them if you wish.
+
+    ROOM #10:
+    In this room are two jellyfish and two red frogs. There are also 4 
+    paths with conveyor tiles on each path in different directions. 
+    Defeat all the enemies in this room to open the wall to the North 
+    and ROOM #11. Remember that these conveyor tiles can push you off 
+    the path into the water.
+
+    ROOM #11:
+    This room has three owls in it. Defeat them and the door to the 
+    North will open to ROOM #12.
+
+    ROOM #12: BOSS: Zoda's Blob
+    Inside of this room is Zoda. He creates some sort of weird ball. 
+    Just hop around the ball until you defeat it. Don't sit on one
+    tile for two long. You must keep moving to defeat this blob. Then 
+    jump on one of the tiles that it was on to get the question mark 
+    which opens the door to the East and ROOM #13.
+
+    ROOM #13:
+    Exit back to the overworld.
+
+
+    =============
+    LONDON SEWERS
+    =============
+
+    Back in the sewer you see Zoda running off. You follow him to the 
+    second sewer.
+
+
+    ===============
+    LONDON SEWERS 2
+    ===============
+
+    LEGEND FOR LONDON SEWERS 2
+    1 = Starting Point for London Sewers 2
+    21 = BOSS: Zoda X
+    22 = Leads to Overworld
+            
+                       [3]-[2]
+                        |   |
+             [-- 6 --]-[4] [1]
+              |         |
+             [7] [15]  [5]
+              |   |
+             [8]-[9]
+                  |
+                 [10]
+
+                      [12]
+                       |
+                 [13]-[11]-[14]
+                       |    |
+                      [16]-[17]
+                            |
+                      [22] [-- 18 --]
+                       |    |
+                      [21]-[19]-[20]
+
+    ROOM #1:
+    There are two hearts if you need them to the left. There are also 
+    two more pairs of two hearts to the right if you jump on the tiles 
+    that way. Otherwise head North to ROOM #2.
+
+    ROOM #2:
+    There are three Zoda spawns in this room. Defeat them and jump on 
+    the tile to open the chest to obtain spiked frisbees. After 
+    acquiring this head to the West and ROOM #3.
+
+    ROOM #3:
+    Just two large rats in here. Defeat them to open the door to the 
+    South and ROOM #4.
+
+    ROOM #4:
+    This room has two small rats and two owls. When you defeat the owls 
+    the wall to the South will open revealing ROOM #5. There is also a 
+    tile in this room that will open the door to the West and ROOM #6.
+
+    ROOM #5:
+    Jump on the tile on the left side to open the chest which has 
+    medicine inside. Collect this and then head back to ROOM #4.
+
+    ROOM #6:
+    This room has no enemies but a lot of carefully timed jumps. Keep 
+    heading to the left and eventually you will see an exit to the 
+    South and ROOM #7.
+
+    ROOM #7:
+    There are two caterpillars in here that once defeated will open the 
+    door South to ROOM #8.
+
+    ROOM #8:
+    There are four blue blobs in this room. Dispose of them and the 
+    door to the East will open to ROOM #9.
+
+    ROOM #9:
+    There are three sets of tiles. Look for the tile in the middle 
+    group to activate a mark. Grab the mark and the wall to the South 
+    will open to ROOM #10.
+
+    ROOM #10:
+    Jump on the tile on the left side to open the chest which has 
+    medicine inside. Collect this and then head back to ROOM #9.
+
+    ROOM #9: (Revisited)
+    You will need to fall through the floor in the middle of one of 
+    these tiles. This will allow you to fall to ROOM #11.
+
+    ROOM #11:
+    In this room are three vertical rows. You can head North to ROOM 
+    #12. If you landed on the left path you can also take the path West 
+    to ROOM #13. If you landed on the right path you can also take the 
+    path East to ROOM #14. If you landed on the middle path you can 
+    also take the path South to ROOM #16.
+
+    ROOM #12:
+    Each path ends in a ladder to the North. If you take any of these 
+    ladders they will take you back upstairs to ROOM #15.
+ 
+    ROOM #13:
+    If you can't tell by the pattern of the tiles (the pattern is a 
+    skull) that this is a dead end. After you defeat all the Zoda spawns 
+    you can grab two hearts and eventually you should also find the mark 
+    to open the door to the East back to ROOM #11.
+
+    ROOM #14:
+    This room has three Zoda spawns and one blue blob on the other side 
+    of the water. After defeating the spawns you need to jump across and 
+    defeat the blob. Then take the path South to ROOM #17.
+
+    ROOM #15:
+    There are four blue blobs hopping around in this room. Dispose of 
+    the if you wish and look for a tile to open the wall to the South 
+    taking you back to ROOM #9.
+
+    ROOM #16:
+    There are five small rats. Defeat them and the wall will open to 
+    East and ROOM #17.
+
+    ROOM #17:
+    Two caterpillars are in here and once defeated the door to the 
+    South open to ROOM #18.
+
+    ROOM #18:
+    You need to jump from raft to raft here. There are also two hearts 
+    and some more spiked frisbees in here. You can also get the life 
+    sign if you feel lucky. Once you make it around the rafts you should 
+    see an exit to the South and ROOM #19.
+
+    ROOM #19:
+    There are four Zoda spawns in here. Defeat them and then the wall 
+    to the East will open to ROOM #20. You can also activate the switch 
+    to open the door to the West and ROOM #21 but this is where the BOSS 
+    is so do ROOM #20 first.
+
+    ROOM #20:
+    There is a medicine in here. Get it and then head back West to ROOM 
+    #19 avoiding enemies or defeating them as necessary.
+
+    ROOM #21: BOSS: Zoda X
+
+    This Zoda boss is harder than most bosses. The room is full of
+    conveyor belts going in multiple directions so you will have trouble
+    walking in a straight line. Zoda X will appear in random locations
+    and either shoot a spread of shots or make a ring of fire. Avoid
+    both the shots and the fire as best as possible and just keep 
+    trying to hit him when he becomes visible and eventually he'll go 
+    down. Defeat him and take the door to the North ROOM #22.
+
+    ROOM #22:
+    This is the exit back to the overworld.
+
+    =============
+    LONDON SEWERS
+    =============
+
+    Back in the overworld you keep walking the sewers until you find 
+    another tetrad. Then take the ladder you'll find Holmes who deduces 
+    that there must be a Zoda-Y and Zoda-Z as well. You thank Holmes for 
+    his help and then say the magic words:
+    PAA PAA PAA OOM PAPA MOW MOW. 
+    This flips the pages again and sends Mike to another time period.
+
+
+==============================
+||* 5: Chapter 5: OLD WEST *||
+==============================
+
+
+    When you first enter this chapter you appear in the middle of a 
+    rocky desert with the only place to go as North. Proceed North 
+    and you will eventually come across a town.
+
+    ===========
+    DESERT TOWN
+    ===========
+
+    Inside of this town are several miners all looking to strike it 
+    rich. Walking around the town you will eventually find a store, a 
+    saloon, and a shop. The saloon is a good place if you want to have 
+    a few drinks of ginger ale. In the saloon you will want to talk to 
+    the piano player. Pay attention to the tune he sings you will use 
+    this tune later in this chapter. Make sure you go to the shop in 
+    the Northern part of the town. He will give you a clue to where to 
+    go next. Make your way back to Bob's store and he will now give you 
+    some dynamite.
+
+
+    ===================
+    DESERT WEST OF TOWN
+    ===================
+
+    Outside the town you can travel North but soon reach a body of 
+    water, so your only path is West. As you head West you will 
+    eventually come across a mountain ridge. If you press up against 
+    this ridge you will set your dynamite so pay attention to your 
+    movement. You can always go back to Bob's store for more dynamite 
+    so don't worry about wasting it. You should see some rocks that are
+    a lighter shade forming a line towards the ridge. Follow this line 
+    and lay the dynamite there. This will open up caves that you can 
+    find gold and chicken nuggets in. You will also see two large 
+    boulders next to the ridge. Place a load of dynamite in between 
+    these to reveal a cave door with a BIG HEART in it. Go back and get 
+    more dynamite and if you collected the gold piece Bob will offer to 
+    purchase your gold. All it does is give you points so it is 
+    completely optional if you want to sell it to him or not. I would
+    recommend it however because otherwise you will lose that gold at
+    the start of the next chapter. Go back to the ridge and place 
+    dynamite a few spaces below the cave that you got the gold nugget. 
+    This will reveal the cave you need to go next.
+
+
+    ===========
+    MINING CAVE
+    ===========
+
+    LEGEND FOR MINING CAVE
+    1 = Starting Point for Mining Cave
+    12 = BOSS: Mining Cyclops
+    13 = Exit to Overworld
+
+
+     [6]-[7]               
+
+       [5] [-- 3 --]
+        |   |     |
+       [4]-[2]   [8]
+            |     |
+           [1]   [9]
+                  |
+       [13]-[12]-[10]
+                  |
+                 [11]
+
+
+    ROOM #1:
+    Just a usual entrance. Head North to ROOM #2.
+
+    ROOM #2:
+    There are three blue scorpions in here. Defeat them and head North 
+    to Room #3 or West to ROOM #4.
+
+    ROOM #3:
+    This room has two blue asps. After you defeat them you will notice 
+    there is more to this room on the other side of the wall. Nothing 
+    you can do now so head back to ROOM #2 and then ROOM #4.
+
+    ROOM #4:
+    This room has four tiles and two cactus guys. Defeat the cactus 
+    guys and then shoot the crack in the wall to the North. This opens 
+    the wall to ROOM #5.
+    
+    ROOM #5:
+    This room simply has a ladder going up to ROOM #6.
+
+    ROOM #6:
+    Inside of this room are three horizontal paths to the right. On 
+    each of these paths is a rolling boulder. Just jump back and forth 
+    between these paths to avoid the boulder make your way to the East 
+    and eventually the door and ROOM #7.
+
+    ROOM #7:
+    There are three blue asps in this room with a tile pattern on the 
+    Eastern side of the room. You can defeat the asps if you want. The 
+    tiles will reveal a pair of two hearts so grab this if you are low 
+    on health. There is a floating tile in the middle of the tiles. If 
+    you jump to this you will fall through the false floor down to the 
+    other side of Room #3.
+
+    ROOM #3 (revisited):
+    If you fell from ROOM #7 you will find two cactus guys which you 
+    must defeat to open the door to the South and ROOM #8.
+
+    ROOM #8:
+    There are two blue asps and two blue scorpions in here. You don't 
+    have to defeat them but it makes it much easier to activate the 
+    tile on the South end of the room. This will reveal a question mark
+    which after you get will open the door to the South to ROOM #9. You 
+    can also grab the two pairs of two hearts in here if you are low on 
+    energy.
+
+    ROOM #9:
+    This room has the treasure chest enemies. Defeat them to open the 
+    wall to the South and ROOM #10. There is also a normal trasure 
+    chest in here with a slingshot if you want to pick that up.
+
+    ROOM #10:
+    There are three cactus guys in this room who if you defeat will 
+    open the wall to the South and ROOM #11. There is also a passageway 
+    to the West and ROOM #12 but go to ROOM #11 first.
+
+    ROOM #11:
+    In this room is just a chest and tiles. Open the chest to reveal a 
+    medicine and then head back North to ROOM #10 and then West to ROOM 
+    #12.
+
+    ROOM #12: BOSS: Mining Cyclops
+    There is just a long straight pathway to a cyclops at the other end. 
+    After awhile he will grab a rock to throw at you just keep hitting 
+    him until he is defeated. Be careful not to touch him as he will kill 
+    you instantly if you do. After you defeat him a floating platform 
+    will appear on the South side of the room. Jump on this and then the 
+    next and then to the corner of the room on the bottom left part of 
+    the room. This will take you to ROOM #13.
+
+    ROOM #13:
+    This is the exit back to the overworld.
+
+
+    ======================
+    INSIDE THE MINING CAVE
+    ======================
+
+    Back in the overworld we find that we are still in the cave. We head 
+    North to find a donkey. This donkey teaches Mike the Super Psychic 
+    Shock Wave. Hmm... this donkey seems kinda like the monkey in Egypt.
+    He then vanishes, allowing Mike to continue forward to the next cave.
+
+
+    ================
+    MINING CAVE 2
+    ================
+
+    LEGEND FOR MINING CAVE 2
+    1 = Starting Point for Mining Cave 2
+    22 = BOSS: Skeleton Miner
+    23 = Leads to Overworld
+
+
+                   [23]
+                    |
+                   [22]
+                    |
+                   [21]
+                    |                  
+                   [20]
+                    |
+                   [19] [18]
+                    |    |
+                   [16]-[17]
+                    |
+           [6]     [-- 15 --]-[14]
+            |                  |
+     [7]   [5]-[8] [11]       [13]
+            |       |          |
+           [4]-[9]-[-- 10 --]-[12]
+            |
+           [3]
+            |
+           [2]   
+            |    
+           [1]   
+                  
+
+
+
+    ROOM #1:
+    There is a tile here when you start that reveals two hearts. Head 
+    North to ROOM #2.
+
+    ROOM #2: 
+    You need to do some careful jumping in this room and get over to 
+    the ledge on the North wall. There are three blue scorpions here 
+    that after you defeat will open the door to the North and ROOM #3.
+
+    ROOM #3:
+    Immediately jump to your right when you enter this room. There is 
+    one blue scorpion to defeat and then grab the medicine. Then 
+    continue North to ROOM #4.
+
+    ROOM #4:
+    Just let the conveyor take you North to ROOM #5.
+
+    ROOM #5:
+    Immediately jump to your left when you enter this room. There are 
+    three blue scorpions that you can defeat if you need to defeat and 
+    take the left path to the North to ROOM #6.
+
+    ROOM #6:
+    If you arrived in the middle of the room. All you can do is walk 
+    forward through the false floor to ROOM #7 below. If you are not 
+    in the middle then defeat the cactus guys if you want and then 
+    take the lower right path to the South back to Room #5.
+
+    ROOM #7:
+    If you fell into this room you must defeat the three Asps first 
+    before the floating block will appear. Hop on these to the ladder 
+    and back up to ROOM #6.
+
+    ROOM #5 (revisited):
+    If you defeated all the scorpions on the other side of the room 
+    earlier then a wall will have opened to the East revealing ROOM #8. 
+    Otherwise, continue South back to ROOM #4.
+
+    ROOM #8
+    There are two hearts here and a medicine in the chest. Take these 
+    and return to ROOM #5 and then head South to ROOM #4.
+
+    ROOM #4 (revisited):
+    Just a short corner to take to the East and ROOM #9.
+
+    ROOM #9:
+    There are four treasure chest enemies in this room. Defeat them and 
+    the wall to the East will open revealing ROOM #10.
+
+    ROOM #10:
+    When you first enter this room you will see a crack in the wall to 
+    the North. Shoot at the wall here to reveal a path to ROOM #11.
+
+    ROOM #11:
+    Nothing in here but a medicine. Grab this and head back South to 
+    ROOM #10.
+
+    ROOM #10 (revisited):
+    There are three paths to take to the right, but there are boulders 
+    that roll on each. Avoid these boulders and keep moving right. You 
+    will see tile near the bottom of the room. Use this to open the 
+    chest and get the Star. After that avoid the boulders and head East 
+    to ROOM #12.
+
+    ROOM #12:
+    Defeat the four cactus guys in this room to trigger the door. Head 
+    North to ROOM #13.
+
+    ROOM #13:
+    There is a skeleton that rides around in a mining cart. First he 
+    will turn purple and then red before he is defeated. Avoid his 
+    shots and the little glowing guys he throws out to open the door to 
+    the North and ROOM #14.
+
+    ROOM #14:
+    There are three blue scorpions to defeat in this room. Once you have 
+    gotten rid of them the door to the West opens to ROOM #15.
+
+    ROOM #15:
+    Just head West in this room until you find a tile. This tile will 
+    open the door to the North and ROOM #16.
+
+    ROOM #16:
+    This room has three blue asps. Defeat them and a wall to the East 
+    will open to ROOM #17.
+
+    ROOM #17:
+    There are some tiles in this room to open the chest. Inside of the 
+    chest is a Star. After you get the Star shoot the crack in the wall 
+    to the North and proceed to ROOM #18.
+
+    ROOM #18:
+    This room has a medicine. Take it and then head back South to ROOM 
+    #17, then West to ROOM #16, and then go North to ROOM #19
+
+    ROOM #19:
+    This room is just a slender room heading North to ROOM #20. Avoid 
+    the spikes out of the wall and pick up the two hearts here if you 
+    need them.
+
+    ROOM #20:
+    This room is just a slender room heading North to ROOM #21. Avoid 
+    the spikes out of the wall and pick up the two hearts here if you 
+    need them.
+
+    ROOM #21:
+    This room is just a more slender room heading North to ROOM #22. 
+    Avoid the spikes out of the wall and pick up the two hearts here if 
+    you need them.
+
+    ROOM #22 BOSS: Skeleton Miner
+    This miner carries a large hammer that he will frequently smash
+    into the ground. This will stun Mike, and cause a spread of shots
+    to be fired in every direction, as well as cause several rocks to
+    fall onto the floor and imped Mike's ability to move around the
+    room. If you jump when he smashes his hammer then you can usually
+    avoid being stunned. Shoot your Stars at him if you have any and
+    avoid him jumping into you as well. Eventually you will defeat him 
+    and a door till open allowing you to head North to ROOM #23.
+
+    ROOM #23:
+    Exit to the overworld.
+
+
+    ======================
+    INSIDE THE MINING CAVE
+    ======================
+
+    Back in the overworld we are once again in the cave. Go North to 
+    pick up another Tetrad. You say the magic words:
+    PAA PAA PAA OOM PAPA MOW MOW. 
+    This flips the pages again and sends Mike to another time period.
+
+
+=============================
+||* 6: Chapter 6: VENICE  *|| 
+=============================
+
+    You start this chapter in the middle of a city that looks like 
+    London from Chapter 4. You need to walk around the city for awhile 
+    until you eventually find an open door. Enter the door to find a 
+    statue and some paint spilled on the ground with Zoda's footprints 
+    on the floor (uh-oh). You hear the statue so we can assume someone 
+    is in the statue. Take the stairs down to enter the first dungeon 
+    in this chapter. Since there are no enemies and only traps in
+    this dungeon I won't detail it. Just pay attention to the traps
+    and you should have no trouble reaching the room on the other side.
+
+    Back in the overworld we find ourself in Da Vinci's room. Grab the 
+    chisel and hammer. Mike races back to the statue and chips Leonardo 
+    out of the statue. He tells Mike that Zoda plastered him and offers
+    Mike his flying machine. Mike takes the machine and flies it up in 
+    the air when he gets another telepathic message from Mica. She tells 
+    him to be careful and he tells her his adventure so far. As usual
+    she leaves before Mike can say goodbye.
+
+    ============
+    SMALL ISLAND
+    ============
+
+    When we next see Mike he is on an island. There is a BIG HEART here 
+    if you walk around the island. Once you get the BIG HEART head back 
+    to the flying machine. 
+
+
+    =============
+    MUSEUM ISLAND
+    =============
+
+    You will fly a little further and land on another island. You will 
+    see a Museum here which you should enter.
+
+
+    ##############
+    MUSEUM FLOOR 1
+    ##############
+
+    O = ENTRANCE
+    XX = DEAD END
+
+
+                                               ______   
+                                              |  XX  |
+                  _______                     |      |
+                 |S2(UP) |                    |      |
+                 |___    |                    |      |
+                     |   |                    |      |
+                     |   |                    |      |
+                     |   |                    |S6(UP)|    ______
+                     |   |__________          |______|   |  XX  |
+                     |        S1(UP)|                    |S5(UP)|
+                     |______     ___|                    |______|
+                            |   |      __________________
+                            |   |     |                  |
+                            |   |     |     ________     |
+                            |   |     |    |        |    |____
+                            |   |     |    |        |__       |
+     __________________     |   |     |    |           |      |___
+    |  ______________  |    |   |_____|    |_________  |          |
+    | |              | |    |                        | |____S4(UP)|
+    | |              | |    |__                      |       |____|
+    | |S8(UP)  S7(UP)| |       |                     |
+    | |              | |       |                     |        ______
+    | |              | |       |                     |       |S3(UP)|
+    | |______________| |       |                     |_______|  ____|
+    |______    ________|       |                               |
+           |  |____     _______|                      _________|
+           |       |   |                             |
+           |____   |___|   ____                 _____|
+                |         |    |               |
+                |_________|    |___       _____|
+                                   |  O  |
+
+
+
+    ##############
+    MUSEUM FLOOR 2
+    ##############
+
+    XX = DEAD END
+    $$ = Tetrad
+                                           _________________
+                                          |                 |
+                                          |                 |
+                    ______________________|                 |
+              __   |                                        |
+             |XX|  |   ___________________             $$   |
+             |  |  |  |                   |                 |
+             |  |  |  |   __              |                 |
+             |  |  |  |  |XX|             |_________________|
+             |  |  |  |  |  |
+             |  |  |  |  |  |
+             |  |__|  |__|  |
+             |_____    _____|
+                   |  |
+                   |  |
+                   |  |
+       ____________|  |
+      |               |
+      |   ____________|
+      |  |
+      |  |
+      |  |             ___________
+      |  |            |           |
+      |  |            |S2(DN)  XX |    ________________
+      |  |            |___________|   |                |
+      |S8(DN)                         |   __________   |
+      |__|       _____________________|  |   __     |  |
+                |                        |  |S1(DN) |  |    __________
+                |   _____________     ___|  |  |    |  |   |   S5(DN) |
+                |  |             |   |      |  |    |  |__ |   _______|
+                |  |             |   |      |  |    |     ||  |
+                |  |             |   |      |  |_   |__   ||  | 
+                |  |        _____|   |      |__  |     |      |__
+       _________|  |       |     ____|         | |     |         |__
+      |            |       |S6(DN)             | |__   |__   S4(DN) |
+      |   _________|       |____|              |__  |     |_________|
+      |  |                                        | |__
+      |  |                                        |__  |____________
+      |  |                                           |              |
+      |S7(DN)                                        |       S3(DN) |
+      |__|                                           |______________|
+
+
+
+
+
+    This museum is a large maze. You will occasionally fall through the 
+    floor and they are short one room dungeons that have an exit in the 
+    adjacent room. Some of them are larger but you don't have to worry
+    about a boss at the end.
+
+    When you first enter the museum head North and take the right path 
+    to the North which will curve around to the East and eventually 
+    take you to a stairway heading up. This is marked as S4(up) on the
+    map I made. Once you make it to the second floor, head West instead 
+    of North and you will curve around until you come to a split with 
+    one path South and the other West. Continue on the West path and 
+    you will eventually find a stairway back down marked as S7(dn) on
+    the map I made.
+
+    You are now in a room with statues and some stairs leading up a 
+    little to the West. Head for those stairs marked as S8(up) on my
+    map but anticipate falling a couple times before reaching them. 
+    Eventually you will reach the stairway and head back up to the 
+    second floor. Follow the path until it splits in three and take 
+    the middle path. Once you get close to the tetrad you will 
+    fall twice and face a triceratops at the end of both dungeons.
+
+    Once you get the tetrad Zoda will appear and you will be whisked 
+    off to your next time zone.
+
+
+==================================
+||* 7: Chapter 7: TRANSYLVANIA *||
+==================================
+    
+    We find Mike in a cold dark mountainside. Head North and you will 
+    eventually find the castle.
+
+    =============
+    SPOOKY CASTLE 
+    =============
+
+    LEGEND FOR SPOOKY CASTLE
+    1 = Starting Point for Spooky Castle
+    30 = BOSS: Zoda Y
+    31 = Exit 
+
+
+      [30]-[31]
+       |
+      [29]
+       |
+      [28]-[27]
+            |
+      [26]-[25]-[24]-[23]
+                      |
+                [21]-[22]
+
+    [16]-[19]-[20]
+     
+            [17]-[15]-[18]
+
+    [14]
+
+       [10]
+        |
+       [8]-[9]-[11]-[12]-[13]
+        |   |
+       [6]-[7]
+        |
+       [5]-[3]---[4]
+        |   |     |
+       [2]-[-- 1 --]   
+                  
+
+    ROOM #1:
+    There are two hearts if you need them. Head West to ROOM #2.
+
+    ROOM #2:
+    There are two more hearts here if you need them. Otherwise head 
+    back to ROOM #1. You can also take the path to the North ROOM #5.
+
+    ROOM #3:
+    If you enter ROOM #3 from ROOM #1, you won't be able to make the 
+    jump. Head back to ROOM #1. If you are entering from ROOM #4 or 
+    ROOM #5 then jump up on the boxes in the middle of the room and 
+    grab the medicine.
+
+    ROOM #4:
+    There are three blue bats in here. Defeat them and then follow the 
+    open door to the West and ROOM #3.
+
+    ROOM #5:
+    There are three frankensteins in this room. Defeat them and the 
+    door to the North ROOM #6 will open.
+
+    ROOM #6-ROOM#9:
+    These four rooms are connected. They each appear empty at first but 
+    if you wait a few moments you will see ghost appear. Go for the 
+    ghost that is a different color than the rest. Defeating the ghosts 
+    in ROOM #8 will open the wall to the North leading you to ROOM #10. 
+    Likewise, defeating them in ROOM #9 opens the wall to the East and 
+    ROOM #11.
+
+    ROOM #10:
+    Watch out for the flames guarding the medicine. Grab the medicine 
+    and return to ROOM #8.
+
+    ROOM #11:
+    Haven't seen these three pyramid guards since Egypt. Use your 
+    psychic blast. Once all three are defeated the door to the East 
+    will open to ROOM #12.
+
+    ROOM #12:
+    This room has a Tombstone Ghost in it. You can only hurt him from 
+    behind. Defeat him and the door to the East will open leading you 
+    to ROOM #13.
+
+    ROOM #13:
+    There is a chest on the East wall. Make sure you get the Spike 
+    balls in it before you go down the hole in the middle of the ROOM 
+    to ROOM #14.
+
+    ROOM #14:
+    You won't have a chance to land safely in this room if you are 
+    falling from ROOM #13. You will simply fall through to ROOM #15.
+
+    ROOM #15:
+    If you moved in any direction as you fell from ROOM #14, you will 
+    land safely on a tile in this room. There are open paths to the 
+    West or East, or ROOM #17 and ROOM #18 respectively. If you 
+    didn't move any direction you will continue falling to ROOM #16.
+    You will eventually realize that you need to fall through the 
+    floor in this room as ROOM #16 is the room to continue along.
+
+    ROOM #16:
+    If you arrived at this room by falling and move in any direction 
+    you will land safely. There are three Frankenstein monsters in 
+    here. Defeat them and the door to the East will open to ROOM #19. 
+    If you didn't move in any direction, you will continue to fall
+    back to ROOM #13, where the original pitfall is located.
+
+    ROOM #17:
+    There is an island with a medicine in this room but I have not 
+    been able to figure out how to get it.
+
+    ROOM #18:
+    There is a priest in here. If you defeat him you can get some of 
+    the hearts in the room but otherwise turn around and head back to 
+    ROOM #16.
+
+    ROOM #19:
+    There are two tombstone ghosts in here. Defeat them and the door to 
+    the East will open to ROOM #20.
+
+    ROOM #20:
+    There are four skeletons in here. Avoid them and head up the stairs 
+    to ROOM #21.
+
+    ROOM #21:
+    There is a magician in this room. Defeat him and the door to the 
+    East will open to ROOM #22.
+
+    ROOM #22:
+    This room has five blue bats. Defeat them and head North to 
+    ROOM #23.
+
+    ROOM #23:
+    There are two Frankensteins in this room. You don't have to defeat 
+    them, rather find the tile to open the door to the West and 
+    ROOM #24.
+
+    ROOM #24:
+    There is a priest in here. Defeat him to open the door to the West 
+    and ROOM #25.
+
+    ROOM #25:
+    Three more pyramid guards in here. Defeat them to open a hidden 
+    wall to the West and ROOM #26. To open the door to the North 
+    activate one of the tiles to open the door to ROOM #27.
+
+    ROOM #26:
+    This room has two Frankenstein monsters. Defeating them reveals a 
+    floating platform that you can use to get a medicine and some spike 
+    balls on the other side of a pit on the Western end of the room. 
+    After you get these head back to ROOM #25 and North to ROOM #27.
+
+    ROOM #27:
+    There are two skeletons and two bats. Defeat the bats and the door 
+    to the West will open to ROOM #28.
+
+    ROOM #28:
+    This room has a magician in it. Defeat him to open the door to the 
+    North and ROOM #29.
+
+    ROOM #29:
+    This room has five bats that once defeated will open the door to 
+    the North and ROOM #30. There are also several tiles in this room 
+    that will reveal two hearts and medicine.
+
+    ROOM #30: BOSS: Zoda Y
+    When Zoda Y first appears he will appear, shoot a spray of shots at
+    Mike and then disappear. Shoot at him when he first appears and
+    then avoid his shots. Eventually you will defeat him and he will
+    kneel down on one knee and transform into a bird creature. This
+    form will release two bats at a time, you can defeat these bats if
+    you'd like, but they will just keep coming as long as Zoda Y is
+    still alive. The bord form will also flap its wings and push Mike
+    back into spikes on the back wall. In addition to push Mike towards
+    the spikes it will also release feathers at Mike that can damage
+    him. Just keep hitting this bird form and you will eventually 
+    defeat him to open the door to the East and ROOM #31.
+
+    ROOM #31:
+    Head North out of this room to get back to the Overworld.
+
+
+    =============
+    SPOOKY CASTLE 
+    =============
+    We find Mike back in the overworld with another Tetrad in front of 
+    him. Grab the tetrad and then open the book:
+    PAA PAA PAA OOM PAPA MOW MOW. 
+    This flips the pages again and sends Mike to another time period.
+
+
+=============================
+||* 8: Chapter 8: CAMELOT *||
+=============================
+
+    We find Mike in the middle of a forest. After walking around you 
+    will notice a castle in the distance. Talk to people like Sir 
+    Lancelot on your way to the castle. Inside the castle you will find 
+    Arthur who will tell you that there is a dragon attacking Camelot. 
+    He asks for your help. 
+    * WARNING *
+    Do not say NO, as this seems to prevent you from going any farther 
+    in the game and you will need to reset. After you accept Arthur will 
+    increase your life and when you go back outside the castle the guard 
+    blocking your path will now move. Follow this path north until you 
+    reach the cave.
+
+ 
+    ===========
+    DRAGON CAVE
+    ===========
+
+    LEGEND FOR DRAGON CAVE
+    1 = Starting Point for Dragon Cave
+    17 = BOSS: Knight
+    18 = Exit
+
+      [-- 17 --]-[18]
+       |
+      [--16--]-[--15--]-[--14--]-[13]
+                                  |
+                             [9]-[8]-[10]
+                     
+                            [11]-[7]-[12]
+                                  |
+                                 [6]
+                                  |
+                             [4]-[3]
+       [5]-[2]   
+            |    
+           [1]   
+                  
+    ROOM #1:
+    There is nothing here so head North to ROOM #2.
+
+    ROOM #2:
+    This room has three blue blobs. Once you defeat them the floor will 
+    allow you to fall through to ROOM #3. The trick here is to kill the 
+    last blob while standing in the middle of the room towards the 
+    North wall. If you are in the right position then Mike will fall on 
+    the ledge in this room rather than below it. You can activate the 
+    tile in the room but you will need to jump down to get the medicine 
+    it reveals and then you will need to go around and back down to 
+    this room. Otherwise head North to ROOM #6.
+
+    ROOM #3:
+    This room has no enemies. You can't reach the tile on the ledge so 
+    head West to ROOM #4.
+
+    ROOM #4:
+    This room has three skeleton heads, but just avoid them and go up 
+    the stairs in the Northwest corner to ROOM #5.
+
+    ROOM #5:
+    This room has no enemies and a tile in the middle of it. Activating 
+    it opens the wall to the East and ROOM #2.
+
+    ROOM #6:
+    This room has four robed skeletons. There is also a medicine in 
+    this room as well. You can take the path North to ROOM #7.
+
+    ROOM #7:
+    There is a magician in this room who once defeated you will fall 
+    through the floor to ROOM #8. There is also a medicine in this room 
+    if you want to try to get it. You want to fall in the middle 
+    against the North wall again.
+
+    ROOM #8:
+    If you landed on the ledge then simply head North to ROOM #13. 
+    Otherwise go East to ROOM #10 or West to ROOM #9.
+
+    ROOM #9:
+    There are several blue blobs in this room, but just avoid them and 
+    head for the stairs which will take you up to ROOM #11.
+   
+    ROOM #10:
+    There are several blue blobs in this room, but just avoid them and 
+    head for the stairs which will take you up to ROOM #12.
+
+    ROOM #11:
+    Just activate the tile to open the wall to the East back to 
+    ROOM #7.
+    
+    ROOM #12:
+    Just activate the tile to open the wall to the West back to 
+    ROOM #7.
+
+    ROOM #13:
+    There are two knights in the room. Defeat them to open the wall to 
+    the West and ROOM #14.
+
+    ROOM #14:
+    You need to move through this room as quickly as possible because 
+    on the far West side of the room there are spikes forming that 
+    block the way to ROOM #15 as soon as you enter the room. Take the 
+    conveyor belt to move around this room quickly and proceed West to 
+    ROOM #15.
+
+    ROOM #15:
+    You need to move through this room as quickly as possible because 
+    on the far West side of the room there are spikes forming that 
+    block the way to ROOM #16 as soon as you enter the room. Take the 
+    conveyor belt up on the first loop and down on the second loop to 
+    avoid the blades that come out of the ground. If you made it across 
+    the room fast enough you should be able to jump over the spikes,  
+    otherwise take the damage and proceed West to ROOM #16.
+
+    ROOM #16:
+    This room is similar to ROOM #15. Take the first loop down and on 
+    the second loop just stay in the middle and keep moving on the 
+    conveyor belt towards the west. Jump over the spikes and grab the 
+    four hearts before taking the path to the North and ROOM #17.
+
+    ROOM #17: BOSS: KNIGHT
+    This boss is in the middle of the room. You are on a conveyor belt 
+    in a perpetual counter-clockwise motion. Just keep throwing shots 
+    at him to defeat him as he runs back and forth in the middle of 
+    the room. Occasionally he will shoot at you and just try to avoid
+    the shots. Eventually he will be defeated and the door will open 
+    to the East and ROOM #18.
+
+    ROOM #18:
+    Take the exit back to the Overworld.
+
+    ======================
+    INSIDE THE DRAGON CAVE
+    ======================
+
+    We find Mike back somewhere in the Dragon cave with a pathway to 
+    the North. As you proceed forward you will run into an Owl who 
+    reveals himself to be the monkey and donkey you encountered 
+    earlier in the game. Actually he reveals himself to be the Merlin
+    of Camelot. He explains to you about Hiricon and then how the 
+    tetrads were spread throughout time. He then explains how they 
+    must be put together. Merlin then teaches you the Ultra Psychic 
+    Shockwave. After he vanishes proceed North to the second Dragon 
+    Cave.
+
+    ================
+    DRAGON CAVE 2
+    ================
+
+    LEGEND FOR DRAGON CAVE 2
+    1 = Starting Point for Dragon Cave 2
+    26 = BOSS: Dragon
+    27 = Exit back to Overworld
+
+     [26]-[27]
+      |
+     [25]
+      |
+     [24]-[23]-[22]-[19]
+                     |
+          [17]-[16]-[18]-[20]-[21]
+                |
+               [15]
+                |
+               [14]
+                |
+               [13]
+                |
+               [12]-[11]-[10]
+                          |
+             [6]-[7]-[8]-[9]
+              |
+         [5] [4]
+          |   |
+         [3]-[2]   
+              |    
+             [1]   
+                  
+    ROOM #1:
+    There is nothing here so head North to ROOM #2.
+    
+    ROOM #2:
+    There are three purple bats in this room as well as four hearts. 
+    Defeating the bats open the wall to the West and ROOM #3. There is 
+    an open path to the North and ROOM #4.
+
+    ROOM #3:
+    There is a medicine and spike balls in this room as well as two 
+    owls. There is a tile that will open the wall to the North and 
+    ROOM #5.
+      
+    ROOM #4:
+    This room has two rockmen in it. Defeat them to open the wall to 
+    the North and ROOM #6.
+  
+    ROOM #5:
+    Activate the tile to reveal the medicine in this room and then head 
+    back South and then East to ROOM #2 and then head North to ROOM #4.
+
+    ROOM #6:
+    This room has a big green blob. Defeat it to open the door to the 
+    East and ROOM #7.
+   
+    ROOM #7:
+    This room has a Red Triceratops. Now that you have the Ultra 
+    Psychic Shockwave you can shoot at him from a safe distance. Defeat 
+    him to open the door to the East and ROOM #8.
+
+    ROOM #8:
+    There are three knights in this room. Be as careful as possible to 
+    defeat them while taking as little damage as possible. This will 
+    open the door to the East and ROOM #9.
+
+    ROOM#9:
+    There are several blue blobs in this room. Defeat all of them to 
+    open the wall to the North and ROOM #10. There is also a tile in 
+    this room that will reveal four hearts.
+
+    ROOM #10:
+    This room has two big green blobs. Defeat them to open the wall to 
+    the West and ROOM #11. There is also a tile in this room that will 
+    reveal four hearts.
+
+    ROOM #11:
+    This room has three rock guys who when defeated will open both 
+    East and West doors. Continue West to ROOM #12.
+  
+    ROOM #12:
+    There are no enemies in this room. When you first enter you will 
+    want to jump on the floating platform and then to the moving 
+    platform. Jump over the first spiked wire and then jump up to the 
+    stationary platform above you. Then jump to the next one with the 
+    tile. You will then need to jump back the way you came to get the 
+    question mark to open the door. There is also four hearts in this 
+    room if you need them, otherwise enter the open door to the North 
+    and ROOM #13.
+
+    ROOM #13:
+    There is a regular knight and an armored knight in this room. 
+    Defeat both to open the door to the North and ROOM #14.
+
+    ROOM #14:
+    There are no enemies in this room only balls moving back and 
+    forth. You just need to shoot them once to stop them and once 
+    again to start them again. Activate the tile and then grab the 
+    question mark to open the door to the North and ROOM #15. There 
+    are also two sets of four hearts in this room if you are low on 
+    life.
+
+    ROOM #15:
+    This room is covered in tiles. There is no magician in this room 
+    but the bombs that he normally drops will continually be layed in 
+    this room. This means find the tile and then the question mark fast 
+    to open the door to the North and ROOM #16.
+
+    ROOM #16:
+    There are no enemies in this room. Just two sets of tiles which 
+    will reveal two sets of four hearts if you need them. There are 
+    open doors to the West and ROOM #17 and the East to ROOM #18.
+
+    ROOM #17:
+    There is a triceratops in this room that you must defeat to open 
+    the East door back to ROOM #16. There is also a medicine in the 
+    upper west corner of the room.
+
+    ROOM #18:
+    This room has two triceratops. Defeat both of them to open the door 
+    to the West and ROOM #20. There is also a tile in this room that 
+    will open the room to the North and ROOM #19.
+
+    ROOM #19:
+    This room has two skull heads up on a raised section of the room. 
+    Defeat them to open the door to the West and ROOM #22.
+
+    ROOM #20:
+    There are no enemies in this room. In the center of the room are 
+    tiles but be careful as there are flames that surround the 
+    medicine and question mark you can make appear by jumping on the 
+    correct tile. The question mark will open the wall to the East and 
+    ROOM #21.
+
+    ROOM #21:
+    There are six bats in this room and some spike balls in the corner. 
+    You can defeat the bats if you wish otherwise grab the spike balls 
+    and head back West to ROOM #18 and then North to ROOM #19.
+
+    ROOM #22:
+    There are two armored knights in this room. Defeat them to open the 
+    wall to the West and ROOM #23.
+
+    ROOM #23:
+    There are four rock guys in this room as well as four patches of 
+    tiles. Defeat all the rock guys to open the wall to the West and 
+    ROOM #24. You can also activate one of the tiles to get four hearts.
+
+    ROOM #24:
+    There is one armored knight and two regular knights in this room. 
+    Defeat all of them to open the wall to the North and ROOM #25.
+
+    ROOM #25:
+    There are two big green blobs in this room and a medicine. Defeat 
+    the blobs to open the door to the North and ROOM #26. Grab the 
+    medicine as well.
+
+    ROOM #26: BOSS: Dragon
+    This is boss Dragon room. It took me forever to figure out that 
+    you have to hit his head by jumping up and firing in midair. Don't 
+    wait for him to breathe fire as this will take too long as the 
+    spikes start to fill up the room. When I first battled him I 
+    thought I could only shoot him when he lowered his head to breathe
+    fire, but this will take to long and the room will be covered in
+    spikes before you can defeat him. Defeat him to open the door to 
+    the East and ROOM #27.
+
+    ROOm #27:
+    Take the exit to the North back to the overworld.
+
+
+    ======================
+    INSIDE THE DRAGON CAVE
+    ======================
+
+    We find Mike back in the cave with a Tetrad just North of him. Grab 
+    the last tetrad and now Mike should be at full health. Mike tries to 
+    put them together but no dice. Exit the cave to the Northeast. Mica 
+    then tells you to join her at C-island. Mike then opens the book, 
+    says the magic words and is zipped off to the next chapter.
+
+
+================================
+||* 9: Chapter 9: C - ISLAND *||
+================================
+
+    Back on C-island we find Mike. Hurry to CoralCola. There are a lot 
+    more boars here than there used to be. Eventually you will find a 
+    little kid who will tell you that all of the villagers are now boars. 
+    Take the stairs behind him.
+
+
+    =============
+    CORACOLA CAVE
+    =============
+
+    LEGEND FOR CORACOLA CAVE
+    1 = Starting Point for CORACOLA CAVE
+    11 = BOSS Serpent
+
+    [27]-[28]
+                       [26]
+                        |
+                       [25]
+                        |
+                       [24]
+           [23]
+            |
+      [21]-[22]
+       |
+      [20]
+
+                          [16]
+                           |
+           [12]-[13]-[14]-[15]-[19]
+            |              |    |
+           [11]           [17]-[18]
+            |
+           [10]      [9]
+            |         |
+           [-- 7 --]-[8]
+            |
+           [6]
+            |
+           [5]
+            |
+           [-- 4 --]
+            |
+           [3]
+            |
+           [2]   
+            |    
+           [1]   
+
+
+    ROOm #1:
+    Take the passage to the North to ROOM #2.
+
+    ROOM #2:
+    There are three pink blobs in this room. Defeat them to open the 
+    passageway to the North and ROOM #3. There are also two sets of 
+    four hearts in this room.
+
+    ROOM #3:
+    There are six pink blobs in this room. You only need to defeat a 
+    certain random blob to open the door to the North and ROOM #4.
+
+    ROOM #4:
+    There are several blue small rats in this room. Make your way East 
+    until you need to hop on tiles back West. Activate the tile to open 
+    the door to the North and ROOM #5.
+
+    ROOM #5:
+    There are two purple bats and three blue rats in this room. Defeat 
+    them to open the door to the North and ROOM #6.
+
+    ROOM #6:
+    There are spike balls in the middle of this room. Activate the 
+    tiles in this room to get four hearts and to open the door to the 
+    North and ROOM #7.
+
+    ROOM #7:
+    There are two purple asps and two pink blobs in this room. There 
+    are also two tiles in this room that open the door to the North and 
+    ROOM #9 and the other opens the wall to the East and ROOm #8.
+
+    ROOM #8:
+    There is a medicine in this room and a tile that opens the wall to 
+    the North and ROOM #9
+    
+    ROOM #9:
+    This room has an island in the middle of the room with two hearts, 
+    a medicine, and a random life sign. Avoid taking as much damage as 
+    possible jumping to this island and jumping back. Then head back to 
+    ROOM #8, ROOM #7, and then North to ROOM #10.
+
+    ROOM #10:
+    This room has three bats and two asps. Defeat them quickly to open 
+    the door to the North and ROOM #11.
+
+    ROOM #11: BOSS: C-Serpent
+    This is the old C-Serpent from the first game. Now it is only the 
+    bones. Just avoid the shots and hit the head when the mouth is 
+    open. When you defeat it a platform will appear allowing you to 
+    proceed forward North to ROOM #12.
+
+    ROOM #12:
+    Nothing much to do here except take the path East to ROOM #13.
+
+    ROOM #13:
+    This room has a bunch of tiles forming an arrow that leads to one 
+    of three conveyor belt paths. Take any one of these to ROOM #14.
+
+    ROOM #14 - ROOM #15 - ROOM #16 - ROOM #17 - ROOM #18:
+    All of these rooms are connected by the conveyor belt. Move along 
+    them collecting hearts and medicines. Try to avoid hitting any 
+    spikes. Eventually all the conveyor belts will drop you in 
+    ROOM #19.
+
+    ROOM #19:
+    As soon as you enter this room you fall through the floor to 
+    ROOM #20.
+
+    ROOM #20
+    This is a greyscale room that appears to have no way out. 
+    Eventually a tile in the middle of the room will appear and allow 
+    the door to the North to open to ROOM #21.
+
+    ROOM #21: BOSS: Yum Yum
+    Yum Yum is in this room. However unlike last time he will not be 
+    eating a boar. Use the same technique that you used last time to 
+    defeat him and open the door to the East and ROOM #22.
+
+    ROOM #22: BOSS: Scorpion
+    This room has the scorpion boss from Egypt. Just avoid the little 
+    scorpions and you should have no trouble defeating him which opens 
+    the door to the North and ROOM #23.
+
+    ROOM #23: BOSS: Pharoah
+    The pharoah mask boss is in this room. Defeat him while avoiding 
+    his blasts to fall through the floor to ROOM #24.
+
+    ROOM #24: BOSS: Zoda-X
+    The random conveyor belt in this room should remind you of Zoda-X. 
+    Try to avoid getting hit and defeat him to open the door to the 
+    North and ROOM #25.
+
+    ROOM #25: BOSS: Skeleton Miner
+    The Skeleton Miner is in this room. Defeat him the same way you 
+    beat him last time to open the door to the North and ROOM #26.
+
+    ROOM #26: BOSS: Zoda-Y
+    This room has Zoda-Y. Zoda-Y will transform into a bird halfway 
+    thorough the battle. Defeat him to fall through the floor to 
+    ROOM #27.
+
+    ROOM #27: BOSS: Dragon
+    The dragon is in this room. Just remember to hit his head by 
+    jumping in the air. Defeat him to open the door to the East 
+    and ROOM #28.
+
+    ROOM #28:
+    There are two tiles that will eventually appear in this room. One 
+    will make a pill appear. The other will open the door to the North 
+    and ROOM #29.
+
+    ROOM #29:
+    This room has Zoda-Z. Initially he will appear as four little Zoda 
+    balls. Shoot at the off color ball until it is defeated and Zoda-Z 
+    appears. After several shots he will transform into his true form.
+    After several more shots he will move into his final form. Defeat 
+    both forms to open the door to the West and ROOM #30.
+
+    ROOM #30:
+    Just an exit to the North.
+
+
+    ================
+    CORACOLA CAVE
+    ================
+
+    Back inside of the cave head North and eventually find Mica. She 
+    tells you there are many stories to tell you but first you must 
+    check on the villagers. Head West and you will appear back in the
+    village. Head to the chief's hut. Mica will join you there and tell 
+    you that you saved everyone. She then helps you assemble the 
+    tetrads. Then talk to the Chief. He will agree to assist you and
+    puts them together to resemble a maple leaf. Once assembled Hiricon 
+    appears and thanks you for saving him. Hiricon then explains how 
+    Mica and he came to their predicament. They then say that they can
+    go back to Aragonia. She then tells you backwards that she will be 
+    thinking about you. Hiricon then bestows upon Mike "Hero of 
+    Aragonia". They all turn into balls of light and fly off the island 
+    into the sky. 
+
+    THE END
+
+
+=======================================================================
+||*******************************************************************||
+=======================================================================
+
+ SECTION 3: Items & Weapons
+
+
+1) ITEMS
+
+
+Here is a list of items that are found throughout the game. Some appear 
+more frequently than others. There are basically two types of items. 
+Those that affect Mike immediately and those that he can use later:
+
+
+ A) IMMEDIATE
+ Two Hearts: Mike's health restored by two.
+ Four Hearts: Mike's health restored by four.
+ Star: When you get 5 of these in a dungeon you restore health by one.
+ Random-Life Sign: Take a chance to gain or lose lives.
+ Chicken Nuggets: Found in Old West caves. Restores health to Mike.
+ Pill: This will give Mike a full twenty hearts. Acts sames as in first 
+ game.
+ Big Heart: Mike's number of hearts increased by one permanently.
+
+
+ B) USE LATER
+ Medicine: Mike's health restored by five.
+ Flute: Found and used in Egyptian Pyramid. Makes asps visible.
+ Dynamite: Used to blow open caves in the side of mountains in Old West.
+ Gold Nugget: Can be sold in town to Bob for points in Old West.
+ Chisel: Mike uses this to get Leonardo Da Vinci free.
+ Tetrad: These are found at the end of each chapter. Collect them all.
+
+
+2) WEAPONS
+
+Mike is a gifted baseball pitcher so he is comfortable hurling things. 
+Some of the weapons he throws are infinite and you will never run out 
+of and some are non-permanent and only able to be used in the current 
+dungeon in certain quantities:
+
+
+PERMANENT:
+
+Axes: You get these from a cave man named Tink in the Ice Age Chapter.
+Daggers: An upgrade to your axes, given by Cleopatra in Egypt Chapter.
+Katana: An upgrade to your daggers, given by Leonardo Da Vinci in Venice.
+Psychic Shockwave: A monkey in an Egyptian Savannah teaches this to you.
+Super Psychic Shockwave: A donkey in the Wild West teaches this to you.
+Ultra Psychic Shockwave: Merlin in Camelot teaches this to you. You will 
+need at least 10 hearts to have this ability.
+
+
+NON-PERMANENT: 
+
+Rocks: The first weapon in the game. Very weak but useful. Found in Ice 
+Age.
+Slingshot: A little more powerful than rocks and travels a little 
+further.
+The slingshot is first found in Egypt.
+Spiked Frisbees: Shoots little frisbees a short distance. Found in 
+Scotland Yard.
+Stars: Shoot these to inflict good damage. These are first found in Old 
+West.
+Spike Balls: These do a spread shot in three directions. These are first
+found in Transylvania.
+
+
+=======================================================================
+||*******************************************************************||
+=======================================================================
+
+ SECTION 4: Enemies
+
+
+
+BOARS: One of the first enemies in the game. You first find these guys 
+in the caves of the Ice Age. When you first meet them you have stones 
+and they require to hits, but once you find the axe they can be taken 
+out in one hit.
+
+LIZARDS: These guys are also found in the ICE AGE. They require two 
+hits of the axe.
+
+BLUE BEAR: FOund in the ice age. These guys require X number of hits 
+from the axe.
+
+YELLOW BEAR: More powerful than the BLUE BEAR, these require even more 
+hits from the axe.
+
+SNOW MEN: I am not sure if they are snow men or not but they are white 
+and require several hits to defeat them.
+
+SPIDERS: We first encounter these in the Egyptian caves. The can shoot 
+little balls so watch out. Two hits from the axe will take them out.
+
+CYCLOPS: These guys carry daggers and attack similar to the BEARS. A 
+couple shots of the axe they will be no more.
+
+PORCUPINES: These creatures are invicible once they have rolled into a 
+ball. You must attack them when they are not rolled into a ball. We 
+first find them in Egypt.
+
+SCORPIONS: Average enemeny you meet in Egypt. Just requires two shots.
+
+UNDERGROUND ENEMY: I am not sure if this is the best name for these 
+guys. We never see their faces and find them in Egypt.
+
+BLUE FROGS: These guys can hop around and cause mischief but generally 
+are easy to encounter.
+
+CROCODILE: These are similar to the LIZARDS from the Ice Age. Long but 
+slow and relatively easy to defeat.
+
+WHITE JELLYFISH: Somehow these jellyfish have acquired the ability to 
+levitate over the surface. However, they are easy to defeat and 
+shouldn't pose much problem.
+
+HIPPOPATAMUS: These are generally hiding in the water when you first 
+enter the room. They will pop their head up and fire two shots at you.
+
+SWANS: Somehow these swans have the ability to shoot at you once every 
+few moments. They are not very difficult but require a few shots to 
+defeat.
+
+LADYBUGS: I am not sure if they are ladybugs or not but their backs 
+have colors similar to the ladybug. Their skull masks make them look 
+frightening but a couple of shots from your dagger and they will be 
+toast.
+
+ASPS: Similar to other snakes in the game. Just don't get in the way 
+of their charges and you should be able to defeat them without much 
+effort.
+
+PYRAMID GUARDS: They are slow but are immune to daggers. You need to 
+use your psychic shockwave to defeat them.
+
+AMAN-RA GUARDIAN: I don't know if this is the best description for 
+these guys but they remind me of the drwaings of Aman-Ra so I named 
+them thus. They are moderately difficult to defeat. They just slowly 
+walk around and every once in awhile flash and shoot two fireballs.
+
+YELLOW JELLYFISH: Just like the White Jellyfish only they take twice 
+as many shots to defeat.
+
+RED FROGS: These frogs are just like their Blue Frog ancestors only 
+they take twice as many hits to defeat.
+
+SMALL RATS: Similar to Boars or Scorpions. Just be careful of them in 
+numbers.
+
+LARGE RATS: These guys take several hits to defeat but move around 
+similar to the Small Rats.
+
+BLUE BLOB: These are tricky to defeat because they jump in the air and 
+you will generally only be able to hit them only when they fall back to 
+the ground.
+
+OWLS: These fly around similar to the jellyfish except you can hit the 
+jellyfish at ground level. Owls are always airborn so either attack 
+them from a cloumn or jump and attack them.
+
+ZODA SPAWN: These are just little balls with tentacles. You'll remember 
+them from Zoda's ship in the first game.
+
+CATERPILLAR: These guys look like floating caterpillars to me with 
+glasses. Like the kind from Alice in Wonderland. They will spray three 
+shots occasionally, but otherwise are easy to defeat.
+
+BLUE SCORPIONS: This version of the scorpion can shoot two shots in one 
+direction. 
+
+BLUE ASP: Big asp that takes several hits to defeat.
+
+CACTUS GUYS: These guys should be defeated diagonally because when you 
+defeat them they explode in a cross direction.
+
+TREASURE CHEST: Not all treasure chests are friendly. You will see 
+some that jump around and turn into coins when they are attacked. 
+These are moderately difficult.
+
+RED CATERPILLAR: Just like the other caterpillars only they take more 
+hits adn do more damage.
+
+BLUE BATS: These are found in castle dracula and take two hits to 
+defeat.
+
+FRANKENSTEIN: These are slow moving creatures but after a few hits 
+their torso drops off and they are a much faster pair of legs.
+
+GHOSTS: These generally appear in groups. Look for the one that is a 
+different color than the rest as this will be the only one you can 
+successfully hit.
+
+TOMBSTONE GHOST: These guys can only be hit from behind in their 
+tombstone. Occasionally they fire a shot at you.
+
+MAGICIAN: These guys walk around leaving explosives that explode after 
+a few moments. Avoid these and shoot at him when you get an opportunity.
+
+PRIESTS: These guys leave bubbles like magicians except that they don't 
+explode. Instead when you accidentally (or intentionally) hit these 
+they shoot back at you. Priests will usually hide behind these as well.
+
+ROCK GUYS: These are similar ot the cactus guys from the Old West 
+chapter. A couple hits and they will explode so watch out when they do.
+
+PURPLE BATS: Just a more improved version of the original.
+
+BIG GREEN BLOB: Slow to move, once you hit it enough it will break up 
+into small green blobs.
+
+SMALL GREEN BLOBS: Just your average garden variety blob. A little 
+harder to kill than their predecessors.
+
+KNIGHTS: These knights in shining armor walk around at a moderate speed. 
+They occasionally will shoot spikes in groups of three.
+
+TRICERATOPS: These guys take a deep breath and then shoot a big ball at 
+you. You can jump over it but cannot shoot through it.
+	
+ARMORED KNIGHT: These guys move and shoot the same way as regular 
+knights. The difference is that these guys carry a shield preventing you 
+from hitting them in the front. Hit them from behind to defeat them.
+
+=======================================================================
+||*******************************************************************||
+=======================================================================
+
+ SECTION 5: Thank you
+
+ This is my first FAQ, so I hope you liked it. Please let me know
+ if there is anything I can improve. I can be reached at vindit (at)
+ hotmail (dot) com. If you have any comments for suggestions.

@@ -1,0 +1,167 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Action-Adventure",
+    "categories": [
+      {
+        "name": "Big Hearts",
+        "description": "Every permanent Big Heart (heart container) hidden on the overworld: the Monkey Maze (Chapter 3), the manhole left of the London museum (Chapter 4), the dynamite cave between two boulders (Chapter 5) and Small Island (Chapter 6).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Tetrads",
+        "description": "The Tetrad that ends each of Chapters 2 to 8, earned by clearing that chapter's dungeon(s).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Weapons, magic and special items",
+        "description": "Every weapon upgrade (Axe, Dagger from Jack, Katana), each Psychic Shockwave level, every sub-weapon type (Rocks, Thrower, Spike Ball, Bola, Triple Spike Ball), the Flute, the Invincibility Star, and both kinds of Chapter 5 nugget.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": ["Big Hearts", "Tetrads", "achievements"]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough is enough. The game moves forward chapter by chapter and every chapter ends when Mike takes its Tetrad and the Oxford World Wonders sends him to the next time period, so collect each chapter's items before taking its Tetrad. The only mutual exclusion is the Chapter 3 dagger: talk to Jack of All Trades (between the two palm trees north of the Egypt start) BEFORE Cleopatra trades you her dagger, because once Mike holds a dagger Jack offers his axe instead. RA comments disagree on whether the Cleopatra dagger also pops Jack of All Trades, so take Jack's dagger first and the question never comes up.",
+  "settings_notes": "Hardcore Mode compatible. No difficulty setting or password is involved; the achievements are earned in story order in a single save file.",
+  "fact_ids": ["gf3-41-3", "gf5-3-13", "gf5-3-15", "ra-comments-5-1", "ra-comments-5-2", "gf3-23-7", "gf2-36-2"],
+  "counter_totals": { "Big Hearts": 4, "Tetrads": 7 },
+  "missables": [
+    {
+      "achievement_id": 36885,
+      "label": "Jack of All Trades dagger",
+      "deadline": "Before Cleopatra gives you her dagger after the pizza delivery (Chapter 3). With a dagger in hand, Jack only offers his axe.",
+      "chapter": 3,
+      "fact_ids": ["gf5-3-13", "gf5-3-14", "gf5-3-15", "ra-comments-5-1", "ra-comments-5-2"]
+    },
+    {
+      "achievement_id": 36908,
+      "label": "Spike balls in Spooky Castle Room 13",
+      "deadline": "Open the Room 13 east-wall chest before dropping down the hole to Room 14 (Chapter 7). The Room 26 platform has more spike balls as a backup.",
+      "chapter": 7,
+      "fact_ids": ["gf3-30-1", "gf3-30-2", "gf3-31-3"]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Chapter 2 Tetrad",
+      "chapter": 2,
+      "warning": "Taking the Tetrad behind Yum Yum ends Chapter 2 and the book sends Mike to Egypt. The Rocks only appear in Chapter 2, so pick them up before the Yum Yum fight.",
+      "fact_ids": ["gf3-8-1", "gf5-3-10", "gf1-6-5"]
+    },
+    {
+      "label": "Chapter 3 Tetrad",
+      "chapter": 3,
+      "warning": "The Tetrad after the Monster Mask ends Chapter 3 and Mike moves on to London. Get Jack's dagger, the Thrower, four small stars, the Monkey Maze Big Heart and the Flute first.",
+      "fact_ids": ["gf4-4-30", "gf5-5-11"]
+    },
+    {
+      "label": "Chapter 4 Tetrad",
+      "chapter": 4,
+      "warning": "Recovering the Tetrad from Zoda-X ends Chapter 4. Take the Big Heart from the manhole left of the museum and the spiked frisbees (Spike Ball) in Sewer Part II first.",
+      "fact_ids": ["gf4-6-3", "gf4-6-5", "gf5-6-6"]
+    },
+    {
+      "label": "Chapter 5 Tetrad",
+      "chapter": 5,
+      "warning": "The Tetrad after the Mashing Miner ends Chapter 5. Blast every nugget cave and the Big Heart cave before entering the Gold Cave, and sell your gold to Bob before you leave; the nugget is lost at the start of the next chapter.",
+      "fact_ids": ["gf1-12-22", "gf3-23-7", "gf5-7-15"]
+    },
+    {
+      "label": "Chapter 6 Tetrad",
+      "chapter": 6,
+      "warning": "Taking the Tetrad in the Eastern Castle ends Chapter 6 and Zoda-Y sends Mike to Transylvania. Land on Small Island for its Big Heart first.",
+      "fact_ids": ["gf2-32-14", "gf4-9-1", "gf4-9-5"]
+    },
+    {
+      "label": "Chapter 7 Tetrad",
+      "chapter": 7,
+      "warning": "The Tetrad after Zoda-Y ends Chapter 7. Make sure you picked up the Triple Spike Ball in Dracula's Castle.",
+      "fact_ids": ["gf2-33-10", "gf5-8-11"]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Chapter 1: Seattle",
+      "areas": ["Seattle"],
+      "achievement_ids": [],
+      "fact_ids": ["gf2-24-11", "gf5-1-4", "gf5-1-6", "gf5-2-1", "gf5-2-2", "gf5-2-3"],
+      "counters": { "Big Hearts": 0, "Tetrads": 0 },
+      "notes": "Story-only introduction: no achievements and no items. Answer Dr. Jones's prompts, fetch the Oxford World Wonders and read the reversed cipher to slip to Chapter 2. Keep it short."
+    },
+    {
+      "n": 2,
+      "title": "Chapter 2: The Stone Age",
+      "areas": ["Ice_Age", "Cave_Men_Cave", "Yum_Yum_Cave", "Yum_Yum"],
+      "achievement_ids": [36882, 36883, 36888, 36884],
+      "fact_ids": ["gf1-6-5", "gf3-4-1", "gf4-2-1", "gf2-24-6", "gf3-5-1", "gf2-24-9", "gf1-6-17", "gf2-25-2", "gf4-2-15", "gf4-2-19", "gf3-8-1", "gf4-3-12"],
+      "counters": { "Big Hearts": 0, "Tetrads": 1 },
+      "notes": "Order: Rocks in the random ice-cave action scenes on the way to the village (36882; guides say Rocks only appear in Chapter 2), Tink's Axe in the Cave Men Cave (36883), write down the wall shapes for the Yum Yum's Cave pillar puzzle, then the Medicine in the secret room near the start of Yum Yum's Cave (36888 'Pick up a Potion': gf1 calls this item a potion, the other guides call it medicine). Yum Yum, then the Block/Tetrad (36884)."
+    },
+    {
+      "n": 3,
+      "title": "Chapter 3: Egypt",
+      "areas": ["Egypt", "Jack", "Border_Pass", "Giant_Scorpion", "Monkey_Maze", "Great_Pyramid", "Monster_Mask"],
+      "achievement_ids": [36885, 36887, 36889, 36886, 36890, 36891, 36892, 36893, 36894],
+      "fact_ids": ["gf5-3-12", "gf5-3-13", "gf5-3-14", "gf5-3-15", "ra-comments-5-1", "ra-comments-5-2", "ra-comments-5-3", "ra-comments-6-1", "gf2-26-4", "gf4-3-20", "gf1-7-14", "gf1-7-17", "gf3-11-1", "gf5-4-9", "gf2-26-11", "gf1-8-8", "gf2-13-1", "gf1-5-4", "gf4-4-15", "gf2-26-16", "gf3-13-1", "gf1-8-17", "gf2-27-2", "gf2-27-3", "gf3-16-9", "gf1-9-14", "gf2-27-15", "gf4-4-30"],
+      "counters": { "Big Hearts": 1, "Tetrads": 1 },
+      "notes": "Jack of All Trades FIRST: from the arrival point go north and walk between the two palm trees on the right to reach Jack and accept his bronze dagger (36885) before anything else; it is missable once Cleopatra trades you her dagger. Then the barge, Border Pass (Thrower = the slingshot in the chest, 36887), the Giant Scorpion, the camel ride and pizza (36889), and Cleopatra's dagger trade (36886 Sharp Edge; one RA comment says it did not unlock on an older build, so mention that it should pop on the dagger pickup). 36890 'Have 4 stars at once' = the small stars (five small stars refill a heart, so hold four); gf1 says the Monkey Maze mini-dungeons are where enemies drop hearts and stars, so collect stars there and stop at four. Big Heart in the eastern part of the Monkey Maze grass (36891), the monkey's Psychic Shockwave (36892), then the Great Pyramid: break the barrier with the Shockwave, Flute (36893), use it in the snake room, Monster Mask, Tetrad (36894)."
+    },
+    {
+      "n": 4,
+      "title": "Chapter 4: London",
+      "areas": ["London", "London_Museum", "Sewers", "Sewer_Part_I", "Zodas_Creature", "Sewer_Part_II", "Zoda_X"],
+      "achievement_ids": [36895, 36896, 36897],
+      "fact_ids": ["gf1-9-21", "gf1-9-23", "gf2-28-5", "gf1-9-26", "gf2-28-6", "gf3-18-2", "gf4-5-9", "gf3-18-3", "gf1-10-8", "gf2-28-21", "gf1-10-1", "gf3-20-1", "gf3-21-1", "gf4-5-17", "gf3-41-19", "gf1-11-4", "gf3-21-7", "gf4-6-3", "gf1-11-5"],
+      "counters": { "Big Hearts": 1, "Tetrads": 1 },
+      "notes": "Holmes, the jail escape (push along the right wall), the museum robbery, then the open manhole to the LEFT of the museum for the Big Heart (36895) before the sewer manhole to the south. Sewer Part I ends with Zoda's Creature; Sewer Part II holds the Spike Ball (gf3 calls it spiked frisbees, gf4 throwing stars; first chest in Sewer Part II Room 2, more in the raft room) for 36896. Zoda-X on the arrow floor, then the Tetrad (36897). Both sewer parts must be finished for 36897."
+    },
+    {
+      "n": 5,
+      "title": "Chapter 5: The Wild West",
+      "areas": ["Wild_West", "Gold_Cave", "Boulder_Miner", "Gold_Cave_Part_II", "Mashing_Miner"],
+      "achievement_ids": [36900, 36898, 36899, 36901, 36902, 36903, 36904],
+      "fact_ids": ["gf2-30-4", "gf5-7-2", "gf3-23-10", "gf2-30-6", "gf3-23-6", "gf4-6-16", "gf4-6-11", "gf4-6-12", "gf4-6-13", "gf4-6-14", "gf4-6-17", "gf4-6-18", "gf4-6-40", "gf5-7-5", "gf5-7-6", "gf5-7-7", "gf5-7-8", "gf3-23-7", "ra-comments-19-1", "ra-comments-19-2", "gf2-30-7", "gf4-6-19", "gf2-30-19", "gf4-6-24", "gf4-7-1", "gf2-30-28", "gf3-25-1", "gf4-7-8", "gf1-12-11", "gf1-12-20", "gf2-31-7", "gf1-12-22"],
+      "counters": { "Big Hearts": 1, "Tetrads": 1 },
+      "notes": "Talk to everyone in town, then Bob's Store for dynamite (restock there whenever you run out). Before the Gold Cave: blast between the two boulders on the west/south wall for the Big Heart (36900), blast the end of both colored-rock trails (one cave holds a gold nugget, the other a chicken nugget) and the other secret spots gf4 lists (two spaces north of the northern colored cave, the southernmost bombable wall). 36898 'Not Quite a Gold Nugget / Hidden Nugget' is the chicken nugget and 36899 'Real Gold / ACTUAL Gold Nugget' is a real gold nugget; open every nugget cave so both pop whichever reading is right, and sell the gold to Bob. Gold Cave entrance: three spaces below the southern colored-rock cave. Gold Cave: Bola in the jumping-chest room (36901), Boulder Tossing Miner, donkey's Super Psychic Shockwave (36902). Gold Cave Part II: Invincibility Star on the switches (36903 'Star Magic Item'; save one for the boss), Mashing Miner, Tetrad (36904)."
+    },
+    {
+      "n": 6,
+      "title": "Chapter 6: Italy",
+      "areas": ["Italy", "Leos_Basement", "Art_Studio", "Small_Island", "Eastern_Castle"],
+      "achievement_ids": [36905, 36906, 36907],
+      "fact_ids": ["gf2-31-15", "gf1-12-26", "gf2-31-18", "gf4-8-10", "gf2-32-2", "gf5-7-20", "gf2-32-4", "gf1-12-33", "gf3-27-3", "gf3-28-1", "gf2-32-6", "gf1-13-2", "ra-comments-26-1", "gf4-8-15", "gf1-13-12", "gf2-32-13", "gf1-13-13", "gf2-32-14"],
+      "counters": { "Big Hearts": 1, "Tetrads": 1 },
+      "notes": "No bosses. Find Leonardo's house, cross Leo's Basement (traps only, then the two ball-and-hole rooms), take the hammer and chisel in the Art Studio, free Leonardo for the Katana (36905) and his flying machine. On the flight, land on Small Island and walk around it for the Big Heart (36906; gf2 says it is to the west before the castle). Then the Eastern Castle maze with its fall-through mini-dungeons and the Tetrad (36907 'Watch Out for Pits!')."
+    },
+    {
+      "n": 7,
+      "title": "Chapter 7: Transylvania",
+      "areas": ["Transylvania", "Draculas_Castle", "Zoda_Y"],
+      "achievement_ids": [36908, 36909],
+      "fact_ids": ["gf2-32-17", "gf4-9-3", "gf3-30-1", "gf3-30-2", "gf3-31-3", "gf3-41-21", "gf2-23-2", "gf2-33-2", "gf2-33-3", "gf2-33-4", "gf2-33-7", "gf2-33-10", "gf1-14-9"],
+      "counters": { "Big Hearts": 0, "Tetrads": 1 },
+      "notes": "Short chapter: one dungeon. The Triple Spike Ball (36908) is the spike balls in the Room 13 east-wall chest of Dracula's Castle (gf3 calls it Spooky Castle); open it before dropping down the hole to Room 14. Room 26's floating platform has more spike balls as a backup. Zoda-Y: step forward at once to dodge the floor spikes, kill the bats, then resist the wind gust in his second form. Tetrad = 36909."
+    },
+    {
+      "n": 8,
+      "title": "Chapter 8: Camelot",
+      "areas": ["Camelot", "Dragons_Cave", "Knight", "Dragons_Cave_Part_II", "Dragon"],
+      "achievement_ids": [36910, 36911],
+      "fact_ids": ["gf1-14-10", "gf2-33-11", "gf2-33-12", "gf3-32-3", "gf1-14-11", "gf1-14-19", "gf1-14-20", "gf1-14-21", "gf1-14-22", "gf1-19-13", "gf2-34-7", "gf2-34-11", "gf1-15-1", "gf1-5-23", "gf2-34-14", "gf2-40-14", "gf1-15-22", "gf2-35-5"],
+      "counters": { "Big Hearts": 0, "Tetrads": 1 },
+      "notes": "Talk to King Arthur and accept the quest; gf3 warns that answering NO seems to stop progress. The knighting raises Mike's life. Dragon's Cave: grab every medicine, the conveyor-room route, the Knight, then Merlin (as an owl) gives the Ultra Psychic Shockwave (36910; it needs at least 10 hearts to use). Dragon's Cave Part II, the Dragon (hit its head quickly before the spikes fill the room) and the last Tetrad (36911)."
+    },
+    {
+      "n": 9,
+      "title": "Chapter 9: Return to C-Island",
+      "areas": ["C_Island", "Coracola_Cave", "C_Serpent", "Boss_Rematches", "Zoda_Z"],
+      "achievement_ids": [36912],
+      "fact_ids": ["gf5-10-1", "gf2-35-7", "gf1-15-24", "gf2-35-17", "gf1-19-40", "gf2-36-2", "gf1-15-31", "gf1-15-32", "gf1-19-28", "gf1-19-30", "gf2-36-3", "gf2-36-6", "gf2-36-11", "gf2-41-7", "gf1-15-33", "gf2-36-17"],
+      "counters": { "Big Hearts": 0, "Tetrads": 0 },
+      "notes": "Coralcola village, then the original cave: C-Serpent, take the bottom conveyor route for medicines, the faster rematches of every earlier boss, and Zoda-Z's three forms (off-colored larva, normal form with the boar-transform shot, minotaur with spin invincibility). Beating him and watching the ending earns 36912."
+    }
+  ],
+  "unverifiable_achievement_ids": []
+}
