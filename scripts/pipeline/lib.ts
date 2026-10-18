@@ -183,6 +183,42 @@ export function exists(p: string) {
   return fs.existsSync(p);
 }
 
+// ---------------------------------------------------------------------------
+// Active-time log (_activity.jsonl): one row per rw:auto step and per stage agent.
+// Only working time is recorded, so waits for the user or a usage-limit reset never count.
+// ---------------------------------------------------------------------------
+export interface ActivityRow {
+  at: string; // when the work finished
+  kind: "step" | "agent";
+  label: string; // the command, or the agent's stage ("2 sources", "6-7 route", "9 review")
+  active_ms: number;
+  exit?: number;
+  limit?: boolean; // the step stopped on a usage limit
+  tokens?: number; // agent tokens as the agent tool reports them (script calls are in _usage.jsonl)
+  tool_uses?: number;
+  model?: string;
+}
+
+export const activityFile = (gameId: string | number) => path.join(paths(gameId).dir, "_activity.jsonl");
+
+export function logActivity(gameId: string | number, row: Omit<ActivityRow, "at"> & { at?: string }) {
+  const f = activityFile(gameId);
+  ensureDir(path.dirname(f));
+  fs.appendFileSync(f, JSON.stringify({ at: new Date().toISOString(), ...row }) + EOL);
+}
+
+export function readActivity(gameId: string | number): ActivityRow[] {
+  const f = activityFile(gameId);
+  return exists(f) ? readText(f).split(/\r?\n/).filter(Boolean).map((l) => JSON.parse(l)) : [];
+}
+
+/** 2h 05m / 35m 12s / 48s */
+export function fmtDuration(ms: number): string {
+  const s = Math.round(ms / 1000);
+  const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
+  return h ? `${h}h ${String(m).padStart(2, "0")}m` : m ? `${m}m ${String(sec).padStart(2, "0")}s` : `${sec}s`;
+}
+
 export function readText(p: string): string {
   return fs.readFileSync(p, "utf-8").replace(/^\uFEFF/, "");
 }

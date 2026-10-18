@@ -61,7 +61,8 @@ Every turn of a long conversation re-reads the whole conversation, so a stage th
 The loop:
 1. `npm run rw:status -- <id>`.
 2. Do what NEXT says, yourself or via `rw-stage` as `WHO:` says. For command stages, run **`npm run rw:auto -- <id>`** (in the background; it can take a while) instead of each command by hand: it runs every command stage in a row (fetch, chunk, extract, verify, plan, write, `--fix`, assemble + qa, score) and stops at the first stage that needs judgment, a usage limit, or a step that makes no progress, then prints NEXT/WHO. It never runs `rw:clean`. Full output is in `_auto.log`; read only its summary.
-3. Re-run status and trust it over any report. If a stage agent's gate did not pass, spawn a fresh `rw-stage` for the same stage with its report's open problems in the prompt; do not fix the stage in your own context.
+3. **Log every stage agent** as soon as it finishes, so `rw:status` can total active time and agent tokens: `npm run rw:log-agent -- <id> --stage "<N name>" --ms <run time ms> --tokens <tokens> --tools <tool uses> --model <model>` (e.g. `--stage "6-7 route"`). In Claude Code, copy `duration_ms`, `subagent_tokens` and `tool_uses` from the agent's completion notice; in Antigravity, use what `invoke_subagent` reports and leave out what it doesn't. Log a failed or retried agent too. `rw:auto` logs its own steps, so run command stages through it rather than by hand; time spent waiting for the user or a usage-limit reset is never logged.
+   Re-run status and trust it over any report. If a stage agent's gate did not pass, spawn a fresh `rw-stage` for the same stage with its report's open problems in the prompt; do not fix the stage in your own context.
 4. After each stage, give the user a 2–3 line update (stage, result, model usage from status), then continue. Stop and ask only when a stage agent reports a decision that belongs to the user, or when the score is ACCEPTED (the user reviews the walkthrough before `rw:clean`).
 
 Fewer agents, fewer questions:
@@ -104,4 +105,4 @@ This purges intermediate draft packets in `content/research/<gameId>/08_packets/
 
 ## Reporting progress
 
-After each stage, report briefly: stage, % complete (from `rw:status`), notable findings (missables, conflicts, unsupported achievements), and the model usage `rw:status` prints.
+After each stage, report briefly: stage, % complete (from `rw:status`), notable findings (missables, conflicts, unsupported achievements), and the `USAGE` and `ACTIVE` lines `rw:status` prints. At the end of a game, give the final active time, script tokens and agent tokens.

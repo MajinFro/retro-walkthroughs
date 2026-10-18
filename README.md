@@ -206,6 +206,7 @@ content/research/<gameId>/
 ├── 09_review.json              # Adversarial reviewer agent findings & issues
 ├── 10_score.json               # Final scoring result & verdict (script-generated)
 ├── _usage.jsonl                # Tokens of every rw:extract / rw:write model call (rw:status totals it)
+├── _activity.jsonl             # Active time of each rw:auto step and stage agent, plus agent tokens (rw:status ACTIVE line)
 ├── _extract_rejects.jsonl      # Facts that failed a check and why (round 1 = repaired, 2 = dropped), for tuning the rules
 ├── _fix_tried.json             # Warning kinds rw:write --fix already tried per chapter
 └── _auto.log                   # Full output of rw:auto runs
@@ -320,6 +321,8 @@ The agent stages are defined once, in `.agents/plugins/retro-walkthrough/skills/
 3. **Fewer repair rounds.** Packets carry exact checkpoint totals; `rw:plan` warns about area labels that match no fact location (the cause of thin packets) and about achievements planned away from their facts; `rw:qa` catches drafting notes, wrong checkpoint totals and broken cross-chapter promises; `rw:write --fix` repairs chapters with a model call instead of in the orchestrator's context, and tries each kind of warning only once per chapter (on StarTropics, 1985, a repeat pass spent about 500k tokens and cleared none). `rw:extract` widens fragment quotes itself before asking for a repair: on StarTropics' six worst batches that cut rejected facts from 211 to 34 and repair tokens by 69%.
 
 Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl`; `rw:status` prints the total.
+
+**Active time.** `rw:auto` logs how long each command step ran, and the coordinator logs each stage agent's run time and tokens with `npm run rw:log-agent -- <id> --stage "<N name>" --ms <ms> --tokens <n>`, both to `_activity.jsonl`. `rw:status` totals them on its `ACTIVE:` line. Only working time is recorded: waiting for the user or for a usage-limit reset falls between entries and never counts, so games can be compared as the pipeline improves. StarTropics II (1984), the first game measured, took 35m active (scripts 9m, agents 26m) with 2.12M script tokens and 414k agent tokens.
 
 ### Model backends for rw:extract and rw:write
 

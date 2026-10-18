@@ -12,7 +12,7 @@
 import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
-import { flag, gameIdArg, paths } from "./lib.ts";
+import { flag, gameIdArg, logActivity, paths } from "./lib.ts";
 
 const id = gameIdArg();
 const P = paths(id);
@@ -58,7 +58,9 @@ for (let step = 1; step <= maxSteps; step++) {
   const lines = r.out.split(/\r?\n/).filter((l) => SUMMARY.test(l) && !/^\s+at /.test(l) && !/^\s*⚠\s*(overview|ch\d+)\b/.test(l));
   for (const l of lines.slice(-10)) console.log(`  ${l.trim().slice(0, 200)}`);
   console.log(`  (exit ${r.code}, ${Math.round((Date.now() - t0) / 1000)}s)`);
-  if (LIMIT.test(r.out)) { stop = "limit"; s = status(); break; }
+  const hitLimit = LIMIT.test(r.out);
+  logActivity(id, { kind: "step", label: cmd, active_ms: Date.now() - t0, exit: r.code, ...(hitLimit ? { limit: true } : {}) });
+  if (hitLimit) { stop = "limit"; s = status(); break; }
 
   const before = s.board + s.next;
   s = status();
@@ -77,5 +79,7 @@ const reason = why[stop] ?? (stop.startsWith("repeat:") ? `${stop.slice(7)} alre
 console.log(`\n■ rw:auto stopped: ${reason}`);
 console.log(`NEXT: ${s.next}`);
 if (s.who) console.log(`WHO: ${s.who}`);
-const usage = s.out.match(/^USAGE: .*$/m)?.[0];
-if (usage) console.log(usage);
+for (const k of ["USAGE", "ACTIVE"]) {
+  const line = s.out.match(new RegExp(`^${k}: .*$`, "m"))?.[0];
+  if (line) console.log(line);
+}

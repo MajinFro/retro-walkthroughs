@@ -32,6 +32,7 @@
     "rw:qa": "tsx scripts/pipeline/qa-check.ts",
     "rw:score": "tsx scripts/pipeline/score.ts",
     "rw:clean": "tsx scripts/pipeline/cleanup.ts",
+    "rw:log-agent": "tsx scripts/pipeline/log-agent.ts",
     "rw:find-guides": "python scripts/pipeline/search_guides.py",
     "rw:browse": "python scripts/pipeline/browse_page.py",
     "rw:sync-skills": "node scripts/sync-claude-skills.mjs",
