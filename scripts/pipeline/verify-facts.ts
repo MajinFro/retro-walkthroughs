@@ -121,8 +121,11 @@ for (const c of corr) {
 // ---------------------------------------------------------------------------
 // 3. Group equivalent facts across sources
 // ---------------------------------------------------------------------------
+// "describes" is the default predicate rw:extract fills in when a reply leaves it out; it says nothing
+// about what the fact claims, so such a fact never corroborates or conflicts with another.
+const isGeneric = (f: Fact) => norm(f.predicate) === "describes";
 const keyOf = (f: Fact) =>
-  [f.type, canon(aliases, f.subject), norm(f.predicate), canon(aliases, f.object || f.location || "")].join("|");
+  isGeneric(f) ? `fact:${f.id}` : [f.type, canon(aliases, f.subject), norm(f.predicate), canon(aliases, f.object || f.location || "")].join("|");
 const groups = new Map<string, Fact[]>();
 for (const f of valid) groups.set(keyOf(f), [...(groups.get(keyOf(f)) ?? []), f]);
 // When an object is set, two facts that both name a location must name the same one:
@@ -148,7 +151,7 @@ for (const f of valid) {
 // possible conflicts: same subject+predicate, different values, different sources
 const loose = new Map<string, VerifiedFact[]>();
 for (const f of out)
-  if (SINGLE_VALUED.has(f.type) && f.status !== "rejected") {
+  if (SINGLE_VALUED.has(f.type) && f.status !== "rejected" && !isGeneric(f)) {
     const k = [f.type, canon(aliases, f.subject), norm(f.predicate)].join("|");
     loose.set(k, [...(loose.get(k) ?? []), f]);
   }

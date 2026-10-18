@@ -87,7 +87,7 @@ Each chapter file (e.g. `01.md`) MUST include:
      - **Every Treasure Chest:** Explicitly route to every chest and state its contents (e.g. "Open the chest in the southwest alcove for an **[Insecticide]** [[gf3-33-4]]"). Never leave a chest behind.
      - **All Puzzle Solutions:** Explain step-by-step puzzle solutions (e.g. "Push the yellow block 2 tiles right, place a bomb by the cracked wall, then hit the blue switch").
    - **Visual Map Integration (MANDATORY):**
-     If a map exists for the area/dungeon in `sources.json`, embed a prominent map link directly beneath the area heading:
+     The packet's "Visual maps for this chapter" section lists every collected map for the chapter. Embed EACH one as a prominent link directly beneath the heading of the area it shows (copy the URL exactly; `rw:qa` warns about every listed map that is not linked):
      ```markdown
      🗺️ **Dungeon Map:** [View Lake Cave Map by snesmaster1](https://gamefaqs.gamespot.com/snes/588451-lufia-ii-rise-of-the-sinistrals/map/3633-lake-cave-map)
      ```

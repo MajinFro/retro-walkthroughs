@@ -7,7 +7,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { chapterMermaid, checkpointTotals, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMaps, chapterMermaid, checkpointTotals, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -296,6 +296,7 @@ function audit(file: string, chapterN: number | null) {
   // Map links in chapter
   const mapLinks = text.match(/(?:\[(?:view\s+)?.*?map.*?\]\(https?:\/\/[^\s)]+\)|!\[.*?map.*?\]\(https?:\/\/[^\s)]+\))/gi) || [];
   m.map_links_present += mapLinks.length;
+  if (ch) for (const s of chapterMaps(sources, graph, ch)) if (!text.includes(sourceUrl(s))) warnings.push(`${tag}: visual map "${s.title}" covers this chapter but is not linked (${sourceUrl(s)})`);
 
   // check depth per area heading
   for (let i = 0; i < lines.length; i++) {

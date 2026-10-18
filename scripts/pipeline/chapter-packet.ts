@@ -10,10 +10,12 @@
  * The writer must not use anything outside the packet.
  */
 import path from "node:path";
-import { chapterMermaid, checkpointTotals, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMaps, chapterMermaid, checkpointTotals, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
+  type SourceEntry,
+  exists,
   type VerifiedFact,
   canon,
   chapterFile,
@@ -46,6 +48,7 @@ const graph = readJson<Graph>(P.graph);
 const roadmap = readJson<Roadmap>(P.roadmap);
 const chunks = loadChunks(P.chunks);
 const aliases = loadAliases(P.aliases);
+const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
 const usable = verified.facts.filter((f) => ["verified", "single_source", "resolved"].includes(f.status));
 const factById = new Map(usable.map((f) => [f.id, f]));
 const achById = new Map(ach.achievements.map((a) => [a.id, a]));
@@ -126,6 +129,12 @@ if (which === "overview") {
   if (missables.length) lines.push("## ⚠ Missables in this chapter (each needs a `> [!WARNING]` BEFORE the point it can be missed)", "", ...missables.map((m) => `- ${m.label}${m.achievement_id ? ` (achievement ${m.achievement_id})` : ""} — deadline: ${m.deadline} [${m.fact_ids.join(", ")}]`), "");
   if (ponrs.length) lines.push("## ⛔ Points of no return in this chapter (each needs a `> [!CAUTION]` containing the words \"Point of No Return\"; write no others)", "", ...ponrs.map((p) => `- ${p.label}: ${p.warning} [${p.fact_ids.join(", ")}]`), "");
   else lines.push("## ⛔ Points of no return in this chapter", "", "None. Do not write any \"Point of No Return\" callout. To remind the player to finish an area before moving on, use a `> [!TIP]` (\"Before you leave …\").", "");
+  const maps = chapterMaps(sources, graph, ch);
+  if (maps.length)
+    lines.push(
+      "## Visual maps for this chapter (link EACH one directly under the heading of the area it shows; `rw:qa` checks every URL)", "",
+      ...maps.map((s) => `- 🗺️ **Map:** [View ${s.title}${s.author ? ` by ${s.author}` : ""}](${sourceUrl(s)})`), "",
+    );
   const mm = chapterMermaid(graph, ch.areas);
   if (mm) lines.push("## Route diagram (inserted automatically where you write `[MERMAID]`)", "", "```mermaid", mm, "```", "");
   const t = checkpointTotals(roadmap, n, ach.achievements);

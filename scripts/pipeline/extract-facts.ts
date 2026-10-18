@@ -183,7 +183,9 @@ function expand(f: Partial<Fact>): Fact {
     id: "x-1-1", // placeholder; renumber() assigns the real id
     type: f.type!,
     subject: f.subject!,
-    predicate: f.predicate!,
+    // A reply that drops `predicate` used to cost a repair call (57 facts in one StarTropics II batch).
+    // "describes" is a safe default: rw:verify never groups "describes" facts with other facts.
+    predicate: f.predicate || "describes",
     object: f.object ?? null,
     location: f.location ?? null,
     requires: f.requires ?? [],
@@ -210,7 +212,7 @@ function lastEnd(s: string, re: RegExp): number {
   for (const m of s.matchAll(re)) end = m.index! + m[0].length;
   return end;
 }
-function widenQuote(f: Fact): Fact | null {
+function widenQuote(f: Fact, extraSentences = 0): Fact | null {
   let changed = false;
   const want = [...new Set(numbersIn(f.text ?? "").filter((n) => n.length >= 2))];
   const evidence = f.evidence.map((e) => {
@@ -223,7 +225,14 @@ function widenQuote(f: Fact): Fact | null {
     const before = c.text.slice(0, m.index);
     const start = Math.max(lastEnd(before, /[.!?]["')\]]*\s+/g), lastEnd(before, /\n[ \t]*\n/g));
     const afterEnd = c.text.slice(m.index + m[0].length).search(/[.!?](\s|$)|\n[ \t]*\n/);
-    const end = afterEnd < 0 ? c.text.length : m.index + m[0].length + afterEnd + 1;
+    let end = afterEnd < 0 ? c.text.length : m.index + m[0].length + afterEnd + 1;
+    // facts often join a sentence with the next one ("After just a few steps. You fall into ...")
+    for (let i = 0; i < extraSentences && end < c.text.length; i++) {
+      const rest = c.text.slice(end);
+      if (/^\s*\n[ \t]*\n/.test(rest)) break; // paragraph ends here
+      const stop = rest.search(/[.!?](\s|$)|\n[ \t]*\n/);
+      end = stop < 0 ? c.text.length : end + stop + 1;
+    }
     let quote = c.text.slice(start, end).replace(/\s+/g, " ").trim();
     if (quote.length > MAX_WIDE_QUOTE || quote.length <= first.trim().length) quote = first.trim();
     // a number still missing: take it from the nearest short heading-like line above, within the same section
@@ -257,12 +266,15 @@ function check(b: Batch, r: LlmResult, prior?: Checked): Checked {
     const outside = f.evidence.filter((e) => !inBatch.has(e.chunk_id)).map((e) => e.chunk_id);
     let { problems, evidence, reject } = checkFact(f, ctx);
     if (reject && !outside.length && problems.length && problems.every((p) => /^(unquoted number|low quote overlap)/.test(p))) {
-      const wide = widenQuote(f);
-      const again = wide && checkFact(wide, ctx);
-      if (again && !again.reject) {
-        f = wide!;
-        ({ problems, evidence, reject } = again);
-        out.widened++;
+      for (const extra of [0, 1]) {
+        const wide = widenQuote(f, extra);
+        const again = wide && checkFact(wide, ctx);
+        if (again && !again.reject) {
+          f = wide!;
+          ({ problems, evidence, reject } = again);
+          out.widened++;
+          break;
+        }
       }
     }
     if (outside.length) problems.push(`evidence cites chunk(s) outside this batch: ${outside.join(", ")}`);

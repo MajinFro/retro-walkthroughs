@@ -2,7 +2,7 @@
  * Knowledge-graph + roadmap types, validation and Mermaid generation.
  * Mermaid is ONLY ever produced from 06_graph.json, so no node can be invented.
  */
-import type { VerifiedFact } from "./lib.ts";
+import { norm, type SourceEntry, type VerifiedFact } from "./lib.ts";
 
 export type NodeKind = "area" | "boss" | "npc" | "item" | "key_item" | "quest" | "achievement" | "missable" | "ponr" | "save_point";
 export type EdgeKind = "leads_to" | "requires" | "unlocks" | "contains" | "missable_before";
@@ -46,6 +46,21 @@ export interface Roadmap {
   chapters: { n: number; title: string; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number> }[];
   unverifiable_achievement_ids?: number[];
 }
+
+/**
+ * The visual maps (sources.json kind "map") that cover a roadmap chapter: the map title names one of the
+ * chapter's areas or the chapter's own title, or says "Chapter <n>" (games whose chapters are the roadmap's).
+ */
+export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapters"][number]): SourceEntry[] {
+  const names = [ch.title.replace(/^chapter\s+\d+\s*[:.\-]?\s*/i, ""), ...ch.areas.map((a) => g.nodes.find((n) => n.id === a)?.label ?? a.replace(/_/g, " "))]
+    .map(norm)
+    .filter((s) => s.length >= 4);
+  const chapterRe = new RegExp(`\\bchapter\\s+${ch.n}\\b`, "i");
+  return sources.filter((s) => s.kind === "map" && (chapterRe.test(s.title) || names.some((nm) => norm(s.title).includes(nm))));
+}
+
+/** First URL of a source (some list several pages). */
+export const sourceUrl = (s: SourceEntry) => (Array.isArray(s.url) ? s.url[0] : s.url);
 
 /** Running totals for a chapter's Cumulative 100% Checkpoint, computed from the roadmap (writers must not count by hand). */
 export function checkpointTotals(r: Roadmap, n: number, achs: { id: number; points: number }[]) {
