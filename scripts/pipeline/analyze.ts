@@ -50,8 +50,10 @@ function gameStats(gid: string) {
   const repairTokens = usage.filter((u) => /repair/.test(u.stage)).reduce((s, u) => s + callTokens(u), 0);
   const fixTokens = usage.filter((u) => /fix/.test(u.stage)).reduce((s, u) => s + callTokens(u), 0);
   const agentTokens = activity.filter((r) => r.kind === "agent").reduce((s, r) => s + (r.tokens ?? 0), 0);
+  // calls on another provider's quota (agy = Antigravity) cost no Claude tokens
+  const otherTokens = usage.filter((u) => u.backend === "agy" || u.backend === "gemini").reduce((s, u) => s + callTokens(u), 0);
   const activeMs = activity.reduce((s, r) => s + r.active_ms, 0);
-  return { gid, title, usage, activity, score, chunks, scriptTokens, repairTokens, fixTokens, agentTokens, activeMs };
+  return { gid, title, usage, activity, score, chunks, scriptTokens, repairTokens, fixTokens, agentTokens, otherTokens, activeMs };
 }
 
 const g = gameStats(id);
@@ -72,6 +74,7 @@ for (const r of [...g.activity].sort((a, b) => b.active_ms - a.active_ms))
 
 // Tokens
 out.push("", `TOKENS — scripts ${tok(g.scriptTokens)} + agents ${tok(g.agentTokens)} = ${tok(g.scriptTokens + g.agentTokens)} · repair calls ${pctOf(g.repairTokens, g.scriptTokens)} of script tokens · --fix ${pctOf(g.fixTokens, g.scriptTokens)}`);
+if (g.otherTokens) out.push(`  of the script tokens, ${tok(g.otherTokens)} ran on a non-Claude backend (agy/gemini): Claude script tokens ${tok(g.scriptTokens - g.otherTokens)}`);
 for (const [stage, rows] of countBy(g.usage, (u) => `${u.stage}/${u.model}`).map(([k]) => [k, g.usage.filter((u) => `${u.stage}/${u.model}` === k)] as const)) {
   const t = rows.reduce((s, u) => s + callTokens(u), 0);
   const o = rows.reduce((s, u) => s + (u.output ?? 0), 0);

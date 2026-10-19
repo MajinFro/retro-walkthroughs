@@ -208,7 +208,8 @@ if (exists(usageFile)) {
   const calls = readText(usageFile).split(/\r?\n/).filter(Boolean).map((l) => JSON.parse(l));
   const total = calls.reduce((s, r) => s + r.input + r.output + r.cache_read + r.cache_write, 0);
   const output = calls.reduce((s, r) => s + r.output, 0);
-  console.log(`USAGE: rw:extract / rw:write made ${calls.length} model call(s), ${(total / 1e6).toFixed(2)}M tokens (${(output / 1e3).toFixed(0)}k output)`);
+  const other = calls.filter((r) => r.backend === "agy" || r.backend === "gemini").reduce((s, r) => s + r.input + r.output + r.cache_read + r.cache_write, 0);
+  console.log(`USAGE: rw:extract / rw:write made ${calls.length} model call(s), ${(total / 1e6).toFixed(2)}M tokens (${(output / 1e3).toFixed(0)}k output)${other ? ` · Claude ${((total - other) / 1e6).toFixed(2)}M, agy/gemini ${(other / 1e6).toFixed(2)}M` : ""}`);
 }
 // active time and agent tokens recorded by rw:auto / rw:log-agent (waits for the user or a limit reset are not in it)
 const activity = readActivity(id);

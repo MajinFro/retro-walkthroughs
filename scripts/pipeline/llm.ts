@@ -8,8 +8,12 @@
  *   claude-cli  `claude -p` with tools disabled and the system prompt replaced (uses the Claude Code login)
  *   anthropic   Messages API with ANTHROPIC_API_KEY (prompt caching; --batch uses the Message Batches API, half price)
  *   gemini      Gemini API with GEMINI_API_KEY
+ *   agy         Antigravity CLI (`agy`, stream-json on stdin) on its own login and quota, not Claude's;
+ *               defaults to Gemini Flash. The agent has tools, so the prompt tells it to use none, and it
+ *               runs from an empty temp folder.
  *
- * Models per tier: RW_MODEL_EXTRACT / RW_MODEL_WRITE, or --model on the calling script.
+ * Backend per tier: RW_LLM_EXTRACT / RW_LLM_WRITE override RW_LLM (e.g. RW_LLM_EXTRACT=agy keeps writing
+ * on Claude). Models per tier: RW_MODEL_EXTRACT / RW_MODEL_WRITE, or --model on the calling script.
  */
 import { spawn, spawnSync } from "node:child_process";
 import fs from "node:fs";
@@ -20,7 +24,7 @@ import { fingerprint } from "./lib.ts";
 
 config({ quiet: true });
 
-export type Backend = "claude-cli" | "anthropic" | "gemini";
+export type Backend = "claude-cli" | "anthropic" | "gemini" | "agy";
 export type Tier = "extract" | "write";
 
 export interface LlmRequest {
@@ -50,12 +54,23 @@ const DEFAULT_MODELS: Record<Backend, Record<Tier, string>> = {
   "claude-cli": { extract: "haiku", write: "sonnet" },
   anthropic: { extract: "claude-haiku-5-5", write: "claude-sonnet-5-5" },
   gemini: { extract: "gemini-flash-latest", write: "gemini-pro-latest" },
+  agy: { extract: "gemini-3.8-flash-medium", write: "gemini-3.8-flash-medium" },
 };
 
 let cliAvailable: boolean | undefined;
 function hasClaudeCli(): boolean {
   if (cliAvailable === undefined) cliAvailable = spawnSync("claude", ["--version"], { encoding: "utf8" }).status === 0;
   return cliAvailable;
+}
+
+/** The backend for one tier: RW_LLM_EXTRACT / RW_LLM_WRITE, else RW_LLM, else auto-detected. */
+export function backendFor(tier?: Tier): Backend {
+  const t = tier && process.env[`RW_LLM_${tier.toUpperCase()}`];
+  if (t) {
+    if (!(t in DEFAULT_MODELS)) throw new Error(`RW_LLM_${tier!.toUpperCase()} must be one of ${Object.keys(DEFAULT_MODELS).join(", ")} (got "${t}")`);
+    return t as Backend;
+  }
+  return backend();
 }
 
 export function backend(): Backend {
@@ -71,7 +86,7 @@ export function backend(): Backend {
 }
 
 export function modelFor(tier: Tier, override?: string): string {
-  return override ?? process.env[`RW_MODEL_${tier.toUpperCase()}`] ?? DEFAULT_MODELS[backend()][tier];
+  return override ?? process.env[`RW_MODEL_${tier.toUpperCase()}`] ?? DEFAULT_MODELS[backendFor(tier)][tier];
 }
 
 const zero = (): Usage => ({ input: 0, output: 0, cache_read: 0, cache_write: 0 });
@@ -194,6 +209,51 @@ async function callGemini(req: LlmRequest, model: string): Promise<LlmResult> {
 }
 
 // ---------------------------------------------------------------------------
+// agy (Antigravity CLI)
+// ---------------------------------------------------------------------------
+// agy has no system-prompt option and -p takes the prompt on the command line (too short for a
+// batch), so the request goes in as one stream-json user message on stdin.
+const AGY_DIR = path.join(os.tmpdir(), "rw-agy"); // empty folder: nothing for the agent to read
+const AGY_PREAMBLE =
+  "You are being used as a plain text model inside a script. Do not use any tools: do not read, search, " +
+  "write or run anything. Everything you need is in this message. Reply with only the output the " +
+  "instructions below ask for.\n\n=== INSTRUCTIONS ===\n\n";
+
+function agyBin(): string {
+  if (process.env.AGY_BIN) return process.env.AGY_BIN;
+  const local = path.join(process.env.LOCALAPPDATA ?? "", "agy", "bin", "agy.exe");
+  return fs.existsSync(local) ? local : "agy";
+}
+
+function callAgy(req: LlmRequest, model: string): Promise<LlmResult> {
+  fs.mkdirSync(AGY_DIR, { recursive: true });
+  const prompt = `${AGY_PREAMBLE}${req.system}\n\n=== INPUT ===\n\n${req.user}`;
+  const args = ["--input-format", "stream-json", "--output-format", "stream-json", "--model", model, "--mode", "plan", "--disable-slash-commands", "--print-timeout", "900s"];
+  return new Promise((resolve) => {
+    const child = spawn(agyBin(), args, { cwd: AGY_DIR, stdio: ["pipe", "pipe", "pipe"] });
+    let out = "";
+    let err = "";
+    const timer = setTimeout(() => child.kill(), 16 * 60_000);
+    child.stdout.on("data", (d) => (out += d));
+    child.stderr.on("data", (d) => (err += d));
+    child.on("close", (code) => {
+      clearTimeout(timer);
+      const events = out.split(/\r?\n/).filter((l) => l.startsWith("{")).map((l) => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
+      const result = events.find((e: any) => e.event === "result")?.result;
+      // any tool call means the agent ignored the preamble; the reply cannot be trusted as plain output
+      const tools = events.filter((e: any) => e.event === "step_update" && e.step_update?.step_type && !/^(user_input|agent_response|planner_response)$/.test(e.step_update.step_type)).map((e: any) => e.step_update.step_type);
+      if (!result) return resolve({ key: req.key, text: "", usage: zero(), error: `agy exited ${code}: ${(err || out).slice(-400)}` });
+      const u = result.usage ?? {};
+      const usage = { input: u.input_tokens ?? 0, output: (u.output_tokens ?? 0) + (u.thinking_tokens ?? 0), cache_read: u.cache_read_tokens ?? 0, cache_write: 0 };
+      if (result.status !== "SUCCESS") return resolve({ key: req.key, text: String(result.response ?? ""), usage, error: `agy ${result.status}: ${String(result.error ?? "").slice(0, 300)}` });
+      if (tools.length) return resolve({ key: req.key, text: "", usage, error: `agy used tools (${[...new Set(tools)].join(", ")}) instead of replying` });
+      resolve({ key: req.key, text: String(result.response ?? ""), usage });
+    });
+    child.stdin.end(JSON.stringify({ event: "user", message: { content: prompt } }) + "\n");
+  });
+}
+
+// ---------------------------------------------------------------------------
 // Runner
 // ---------------------------------------------------------------------------
 export interface RunOptions {
@@ -214,9 +274,10 @@ export function defaultConcurrency(): number {
 const RETRYABLE = /rate|overload|429|529|500|502|503|timeout|ECONNRESET|exited null/i;
 
 async function callOnce(req: LlmRequest, model: string): Promise<LlmResult> {
-  const b = backend();
+  const b = backendFor(req.tier);
   if (b === "claude-cli") return callClaudeCli(req, model);
   if (b === "anthropic") return callAnthropic(req, model);
+  if (b === "agy") return callAgy(req, model);
   return callGemini(req, model);
 }
 
@@ -229,10 +290,10 @@ async function callWithRetry(req: LlmRequest, model: string): Promise<LlmResult>
   return r;
 }
 
-function logUsage(opts: RunOptions, r: LlmResult, model: string) {
+function logUsage(opts: RunOptions, r: LlmResult, model: string, tier: Tier) {
   if (!opts.usageLog) return;
   fs.mkdirSync(path.dirname(opts.usageLog), { recursive: true });
-  const row = { at: new Date().toISOString(), stage: opts.stage, key: r.key, backend: backend(), model, ...r.usage, error: r.error };
+  const row = { at: new Date().toISOString(), stage: opts.stage, key: r.key, backend: backendFor(tier), model, ...r.usage, error: r.error };
   fs.appendFileSync(opts.usageLog, JSON.stringify(row) + "\r\n");
 }
 
@@ -243,7 +304,7 @@ export async function runAll(reqs: LlmRequest[], opts: RunOptions = {}): Promise
     if (backend() !== "anthropic") throw new Error("--batch needs RW_LLM=anthropic (Message Batches API)");
     const results = await runAnthropicBatch(reqs, opts.model);
     for (const [i, r] of results.entries()) {
-      logUsage(opts, r, modelFor(reqs[i].tier, opts.model));
+      logUsage(opts, r, modelFor(reqs[i].tier, opts.model), reqs[i].tier);
       await opts.onResult?.(r);
     }
     return results;
@@ -256,7 +317,7 @@ export async function runAll(reqs: LlmRequest[], opts: RunOptions = {}): Promise
       const model = modelFor(reqs[i].tier, opts.model);
       const r = await callWithRetry(reqs[i], model);
       results[i] = r;
-      logUsage(opts, r, model);
+      logUsage(opts, r, model, reqs[i].tier);
       await opts.onResult?.(r);
     }
   };

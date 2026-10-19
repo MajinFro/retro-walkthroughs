@@ -18,7 +18,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { type LlmRequest, type LlmResult, type Usage, addUsage, backend, defaultConcurrency, formatUsage, modelFor, parseJsonReply, runAll, skillText } from "./llm.ts";
+import { type LlmRequest, type LlmResult, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, parseJsonReply, runAll, skillText } from "./llm.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -346,7 +346,7 @@ function write(b: Batch, c: Checked, append: boolean): number {
 // ---------------------------------------------------------------------------
 const focused = [...new Set(run.filter((b) => b.mode === "focused").flatMap((b) => b.chunks.map((c) => c.source_id)))];
 console.log(`Stage 4 extraction for game ${id} — ${todo.length} unprocessed chunk(s) in ${batches.length} batch(es)${run.length < batches.length ? `, running ${run.length}` : ""}`);
-console.log(`  backend ${backend()}, model ${modelFor("extract", flag("model"))}${effort ? `, effort ${effort}` : ""}${flag("batch") ? ", Message Batches API" : `, ${Number(flag("concurrency") ?? defaultConcurrency())} at a time`}`);
+console.log(`  backend ${backendFor("extract")}, model ${modelFor("extract", flag("model"))}${effort ? `, effort ${effort}` : ""}${flag("batch") ? ", Message Batches API" : `, ${Number(flag("concurrency") ?? defaultConcurrency())} at a time`}`);
 if (focused.length) console.log(`  focused mode (secondary walkthroughs): ${focused.join(", ")} — pass --full to extract them fully`);
 if (flag("dry-run")) {
   for (const b of run) console.log(`  ${b.name.padEnd(28)} ${b.mode.padEnd(8)} ${b.chunks.map((c) => c.chunk_id).join(" ")}`);

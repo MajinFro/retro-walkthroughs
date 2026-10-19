@@ -17,7 +17,7 @@ import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { chapterMermaid, checkpointTotals, type Graph, type Roadmap, usableFactIds } from "./graph.ts";
-import { type LlmRequest, type Usage, addUsage, backend, defaultConcurrency, formatUsage, modelFor, runAll, skillText, unwrapMarkdown } from "./llm.ts";
+import { type LlmRequest, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, runAll, skillText, unwrapMarkdown } from "./llm.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -229,7 +229,7 @@ if (!targets.length) {
   console.log(fixMode ? "✅ No chapter has QA errors or untried score-affecting warnings." : "All chapter files exist (use --force or name chapters to rewrite).");
   process.exit(0);
 }
-console.log(`  backend ${backend()}, model ${modelFor("write", flag("model"))}, ${Number(flag("concurrency") ?? defaultConcurrency())} at a time`);
+console.log(`  backend ${backendFor("write")}, model ${modelFor("write", flag("model"))}, ${Number(flag("concurrency") ?? defaultConcurrency())} at a time`);
 
 const packets = new Map(targets.map((t) => [t, packet(t)]));
 const effort = (flag("effort") ?? process.env.RW_EFFORT_WRITE) as LlmRequest["effort"];
