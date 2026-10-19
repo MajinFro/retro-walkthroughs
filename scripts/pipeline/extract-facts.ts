@@ -38,6 +38,7 @@ import {
   readJson,
   readJsonl,
   requireFile,
+  readUsedSources,
 } from "./lib.ts";
 
 const MAX_BATCH_CHARS = 16_000;
@@ -51,7 +52,7 @@ requireFile(P.chunks, "run rw:chunk first");
 requireFile(P.achievements, "run rw:fetch first");
 
 const ach = readJson<AchievementsFile>(P.achievements);
-const sources = readJson<(SourceEntry & { extract?: "full" | "focused" })[]>(P.sourcesManifest);
+const sources = readUsedSources(P.sourcesManifest) as (SourceEntry & { extract?: "full" | "focused" })[];
 const chunkList = readJsonl<Chunk>(P.chunks);
 const chunks = loadChunks(P.chunks);
 const ctx = factCheckContext(chunks, ach);

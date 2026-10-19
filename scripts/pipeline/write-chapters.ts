@@ -33,6 +33,7 @@ import {
   readText,
   requireFile,
   writeText,
+  saveStateAdvice,
 } from "./lib.ts";
 
 const id = gameIdArg();
@@ -181,6 +182,8 @@ function problems(t: string, text: string): string[] {
   const tags = [...text.matchAll(ACH_RE)].map((m) => Number(m[1]));
   const drafting = text.match(DRAFTING_RE);
   if (drafting) out.push(`contains a drafting note ("${drafting[0]}") — remove it; the reply is published as-is`);
+  const saves = saveStateAdvice(text);
+  if (saves.length) out.push(`suggests save states ("${saves[0]}") — hardcore disables them; remove the advice (saying hardcore turns them off is fine)`);
   if (/\(passage only\)/i.test(text)) out.push(`contains "(passage only)" — every statement must cite a fact id from the packet`);
   if (/```mermaid/.test(text)) out.push("contains a hand-written mermaid block — write [MERMAID] instead");
   if (t === "overview") {

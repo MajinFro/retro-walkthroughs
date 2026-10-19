@@ -115,7 +115,7 @@ $$\text{Overall Score} = \frac{1}{7} \sum_{i=1}^{7} S_i$$
 | **Beginner Friendliness** | $\text{ReviewerScore} - \min(30, \text{QA Warnings} \times 5)$ | $\ge 80\%$ |
 | **Route Completeness** | $\frac{\text{Areas}_{\text{mentioned}}}{\text{Areas}_{\text{roadmap}}} \times 100 - \text{Penalties}$ | $\ge 80\%$ |
 
-Guides counted for Source Coverage (and for Stage 2 in `rw:status`) are sources of 10k+ characters other than maps, `ra-comments` and `ra-guide`: the RA comments and RA guides wiki page that Stage 1 fetches are extras on top of the 3 required guides. `rw:status` and `rw:auto` block at Stage 2 until 3 are registered, unless Stage 2 recorded an exhaustive search in `02_sources/_fewer_guides.txt`.
+Guides counted for Source Coverage (and for Stage 2 in `rw:status`) are sources of 10k+ characters other than maps, `ra-comments` and `ra-guide`: the RA comments and RA guides wiki page that Stage 1 fetches are extras on top of the 3 required guides. `rw:status` and `rw:auto` block at Stage 2 until 3 are registered, unless Stage 2 recorded an exhaustive search in `02_sources/_fewer_guides.txt`. Guides must be for the console the RA set is on: `rw:collect` counts console names in each guide and holds multi-version and other-console guides (`"use": false` in `sources.json`; saved, but skipped by every stage and never counted). `rw:status` asks the user about every held multi-version guide, and about other-console guides only when fewer than 3 same-console guides exist; `rw:collect -- <id> --id <sourceId> --approve | --decline` records the answer.
 | **True 100% Coverage** | Depth ($0.45 \times \text{WordDepth} + 0.35 \times \text{CheckpointScore} + 0.20 \times \text{MapScore}$) minus Sparsity | $\ge 80\%$ |
 
 ### Acceptance & Rejection Blockers

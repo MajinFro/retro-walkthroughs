@@ -22,6 +22,7 @@ import {
   readText,
   requireFile,
   writeJsonl,
+  readUsedSources,
 } from "./lib.ts";
 
 const TARGET = 3500; // preferred chunk size (chars)
@@ -190,7 +191,7 @@ function chunkRaComments(src: SourceEntry, text: string): Chunk[] {
 const id = gameIdArg();
 const P = paths(id);
 requireFile(P.sourcesManifest, "run Stage 1 (npm run rw:fetch) and Stage 2 (rw:collect) first");
-const manifest = readJson<SourceEntry[]>(P.sourcesManifest);
+const manifest = readUsedSources(P.sourcesManifest);
 
 // Re-chunking a source renumbers its chunks and breaks every fact that cites them.
 // Keep the existing chunks of any source that facts or _skipped.txt already reference,

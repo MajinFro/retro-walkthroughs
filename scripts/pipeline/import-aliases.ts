@@ -12,7 +12,7 @@
  * Existing entries are kept; a name that already belongs to another canonical name is skipped and listed.
  */
 import path from "node:path";
-import { type AchievementsFile, type SourceEntry, exists, flag, gameIdArg, norm, paths, readJson, readJsonOr, readText, writeJson } from "./lib.ts";
+import { type AchievementsFile, type SourceEntry, exists, readUsedSources, flag, gameIdArg, norm, paths, readJson, readJsonOr, readText, writeJson } from "./lib.ts";
 
 const id = gameIdArg();
 const P = paths(id);
@@ -24,7 +24,7 @@ const isName = (c: string) => /[a-z]{3}/i.test(c) && !/\s\.\s/.test(c) && c.leng
 
 type Table = { source: string; versions: string[]; rows: string[][] };
 const tables: Table[] = [];
-const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
+const sources = readUsedSources(P.sourcesManifest);
 for (const s of sources.filter((x) => x.kind !== "map" && x.kind !== "ra-comments")) {
   const file = path.join(P.sourcesDir, s.file);
   if (!exists(file)) continue;

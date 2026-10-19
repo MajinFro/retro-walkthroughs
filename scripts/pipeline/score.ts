@@ -26,6 +26,7 @@ import {
   readJsonl,
   requireFile,
   writeJson,
+  readUsedSources,
 } from "./lib.ts";
 import { type Roadmap } from "./graph.ts";
 
@@ -42,7 +43,7 @@ requireFile(P.review, "the QA auditor agent must write 09_review.json first");
 const qa = readJson<{ metrics: any; errors: string[]; warnings?: string[] }>(P.qa);
 const review = readJson<Review>(P.review);
 const verified = readJson<{ facts: VerifiedFact[] }>(P.verified);
-const sources = readJson<SourceEntry[]>(P.sourcesManifest);
+const sources = readUsedSources(P.sourcesManifest);
 const chunks = readJsonl<Chunk>(P.chunks).filter((c) => c.source_id !== "ra-comments");
 const roadmap = readJson<Roadmap>(P.roadmap);
 const m = qa.metrics;

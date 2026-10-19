@@ -129,7 +129,10 @@ Construct `content/research/<gameId>/07_roadmap.json`.
       "notes": "Ensure player does not attack Whelk while in shell."
     }
   ],
-  "unverifiable_achievement_ids": []
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    { "question": "Do Tonight's Match-up codes disqualify the V.Hard achievements?", "guidance": "No source says. Play the V.Hard run with no codes; use codes only in chapter 7's Normal games.", "chapters": [2, 3, 4, 5, 6] }
+  ]
 }
 ```
 
@@ -151,6 +154,7 @@ Construct `content/research/<gameId>/07_roadmap.json`.
 10. **Area labels match fact locations:** Packets pull facts whose `location` matches a chapter area's label (through `05_aliases.json`). Label area nodes with the location name the guides use ("Coal Mines", not "Moleville Mines Expedition"), and add aliases for the variants. `rw:plan` warns about every area label that matches no fact location and lists similar location names; fix every one before writing, or that chapter's writer gets a thin packet.
 11. **Achievement placement:** `rw:plan` warns when an achievement's supporting facts are all located in another chapter's areas. Check each warning: move the achievement, or keep it when the sources say it is earned later (for example, an item bought early but used later).
 12. **Conditional choices:** Wherever the route takes two rewards that may exclude each other (two weapons offered by different NPCs, two branches, a reward that depends on what you already carry) or relies on an NPC offering something after an earlier event, find a passage confirming the later step still happens in that order. Game scripts and dialogue dumps are the best evidence, because they show conditional offers ("you don't have a weapon? take this"): grep for the NPC and item (`npm run rw:chunks -- <id> --grep "<name>"`) and read the surrounding chunk. If nothing confirms the order, plan the route the sources do support, list the doubtful step as a missable, and say why in the chapter `notes`. In StarTropics II the route took Jack's dagger and then Cleopatra's, but the game script showed Cleopatra only offers hers when Mike has no dagger. Only the Stage 9 review caught that.
+13. **Open questions:** Every rule the route depends on that no source settles (do in-game codes, passwords, a difficulty setting or a second controller void an achievement? does a count run per game or in total?) goes in `open_questions` with the safe-play `guidance` the route follows and the `chapters` it affects (omit `chapters` for all). Each affected packet lists them, and writers must call them unconfirmed and never recommend the risky option. Writing them only in chapter `notes` is not enough: in 593 a writer still recommended a power-up code on the V.Hard run.
 
 ---
 

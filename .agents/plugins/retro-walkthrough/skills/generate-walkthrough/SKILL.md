@@ -65,6 +65,8 @@ The loop:
    Re-run status and trust it over any report. If a stage agent's gate did not pass, spawn a fresh `rw-stage` for the same stage with its report's open problems in the prompt; do not fix the stage in your own context.
 4. After each stage, give the user a 2–3 line update (stage, result, model usage from status), then continue. Stop and ask only when a stage agent reports a decision that belongs to the user, or when the score is ACCEPTED (the user reviews the walkthrough before `rw:clean`; see "Approval summary and improvement analysis").
 
+- **`WHO: user`** (held guides): Stage 2 saved a multi-version guide, or an other-console guide while fewer than 3 same-console guides exist. Ask the user once about every guide NEXT lists (title, what consoles it names, what the Stage 2 report says about it), then run `npm run rw:collect -- <id> --id <sourceId> --approve` (use it) or `--decline` (keep it unused) for each, then `rw:chunk`. `rw:auto` stops here too.
+
 Fewer agents, fewer questions:
 - When `rw:verify` passes (exit 0), go straight to Stages 6–7: that agent does the alias, corroboration and possible-conflict cleanup first (route-planner skill, "Step 0"). Spawn a separate Stage 5 agent only for real conflicts (exit 2).
 - Unsupported achievements: the agent that finds them searches for a source itself before reporting. Ask the user once, with everything that is still unsupported, and keep going on other work while they decide.
@@ -96,7 +98,7 @@ This purges intermediate draft packets in `content/research/<gameId>/08_packets/
 
 ## Hard gates (never skip)
 
-- **Stage 2 Guide & Map Quality Gate:** Only substantive guides (>=10k characters) count toward source coverage, and 3 are required. The RA guide (`ra-guide`) and RA comments from Stage 1 are extras on top and never count; `rw:status` and `rw:auto` block at Stage 2 until 3 are registered (or Stage 2 wrote `_fewer_guides.txt` after an exhaustive search; pass that on to the user). If visual maps exist on GameFAQs (`/map/`) or map archives, they MUST be discovered and registered as `kind: "map"`.
+- **Stage 2 Guide & Map Quality Gate:** Only substantive guides (>=10k characters) count toward source coverage, and 3 are required. The RA guide (`ra-guide`) and RA comments from Stage 1 are extras on top and never count; `rw:status` and `rw:auto` block at Stage 2 until 3 are registered (or Stage 2 wrote `_fewer_guides.txt` after an exhaustive search; pass that on to the user). Guides must be for the game's RetroAchievements console: multi-version and other-console guides are saved but unused (`"use": false`) until the user approves them, and they never count. If visual maps exist on GameFAQs (`/map/`) or map archives, they MUST be discovered and registered as `kind: "map"`.
 - **Stage 4 Completeness Gate:** Every chunk of every source, including `ra-comments`, must be cited by a fact or listed in `_skipped.txt` with a reason. `rw:status`, `rw:plan`, and `rw:score` all enforce 100%; re-run `rw:extract` until nothing is left.
 - **Stage 4 Fact Authenticity & True 100% Gate:** Gameplay facts must cite guide walkthrough text — quoting achievement descriptions is forbidden. In addition to achievements, extract all dungeon chests, hidden items, sidequests, puzzles, and boss stats for True 100% game completion. `rw:extract` checks every fact with the `rw:verify` rules before writing it.
 - **Stage 5 Verification Gate:** Do not start Stage 6 while `rw:verify` reports unresolved conflicts (exit code 2) or unsupported collection achievements.

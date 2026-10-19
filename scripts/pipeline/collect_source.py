@@ -111,6 +111,151 @@ def fetch_generic(url: str) -> str:
     return gd._clean_content(h.handle(best_html))
 
 
+# Console names a guide may use, keyed by a short platform id. Order matters only for readability;
+# each pattern is counted on its own. Patterns avoid overlaps (NES vs Super NES, Game Boy vs Game Boy Color).
+PLATFORMS: dict[str, str] = {
+    "nes": r"(?<!super )\bnes\b|\bfamicom\b(?! disk)|nintendo entertainment system",
+    "snes": r"\bsnes\b|super nintendo|super nes\b|super famicom|\bsfc\b",
+    "n64": r"\bn64\b|nintendo 64",
+    "gb": r"\bgame ?boy\b(?! ?(colou?r|advance))",
+    "gbc": r"game ?boy colou?r|\bgbc\b",
+    "gba": r"game ?boy advance|\bgba\b",
+    "nds": r"nintendo ds\b|\bnds\b",
+    "gamecube": r"gamecube|\bngc\b",
+    "wii": r"\bwii\b(?! ?u)",
+    "switch": r"nintendo switch",
+    "virtualboy": r"virtual boy",
+    "genesis": r"genesis|mega ?drive",
+    "sms": r"master system|\bsms\b",
+    "gamegear": r"game ?gear",
+    "segacd": r"sega ?cd|mega[- ]?cd",
+    "32x": r"\b32x\b",
+    "saturn": r"\bsaturn\b",
+    "dreamcast": r"dreamcast",
+    "ps1": r"playstation(?! ?[2-5]| portable| vita)|\bpsx\b|\bps1\b|\bpsone\b",
+    "ps2": r"playstation ?2|\bps2\b",
+    "psp": r"playstation portable|\bpsp\b",
+    "pce": r"pc ?engine|turbografx|\btg-?16\b",
+    "arcade": r"\barcade\b(?!'? mode)",
+    "atari2600": r"atari 2600|\bvcs\b",
+    "atari7800": r"atari 7800",
+    "lynx": r"\blynx\b",
+    "jaguar": r"\bjaguar\b",
+    "neogeo": r"neo ?geo",
+    "3do": r"\b3do\b",
+    "msx": r"\bmsx\b",
+    "pc": r"\bms-?dos\b|\bpc version\b|\bsteam (version|release|edition)\b",
+    "xbox": r"\bxbox\b",
+    "mobile": r"\bios\b|\bandroid\b|iphone",
+}
+
+# RetroAchievements console name (01_achievements.json "console") -> platform id
+RA_CONSOLE = [
+    (r"^snes|super nintendo|super famicom", "snes"),
+    (r"^nes|famicom", "nes"),
+    (r"nintendo 64", "n64"),
+    (r"game boy advance", "gba"),
+    (r"game boy color", "gbc"),
+    (r"game boy", "gb"),
+    (r"nintendo ds", "nds"),
+    (r"gamecube", "gamecube"),
+    (r"^wii", "wii"),
+    (r"virtual boy", "virtualboy"),
+    (r"genesis|mega drive", "genesis"),
+    (r"master system", "sms"),
+    (r"game gear", "gamegear"),
+    (r"sega cd", "segacd"),
+    (r"32x", "32x"),
+    (r"saturn", "saturn"),
+    (r"dreamcast", "dreamcast"),
+    (r"playstation 2", "ps2"),
+    (r"playstation portable", "psp"),
+    (r"playstation", "ps1"),
+    (r"pc engine|turbografx", "pce"),
+    (r"arcade", "arcade"),
+    (r"atari 2600", "atari2600"),
+    (r"atari 7800", "atari7800"),
+    (r"lynx", "lynx"),
+    (r"jaguar", "jaguar"),
+    (r"neo geo", "neogeo"),
+    (r"3do", "3do"),
+    (r"msx", "msx"),
+]
+
+
+def ra_platform(game_dir: str) -> str | None:
+    p = os.path.join(game_dir, "01_achievements.json")
+    if not os.path.exists(p):
+        return None
+    with open(p, encoding="utf-8-sig") as fh:
+        console = (json.load(fh).get("console") or "").lower()
+    for pat, key in RA_CONSOLE:
+        if re.search(pat, console):
+            return key
+    return None
+
+
+def classify_platform(text: str, target: str | None) -> dict | None:
+    """Count console names in a guide and say whether it is for the game's console only.
+
+    same    = names the target console; no other console 3+ times
+    multi   = names the target console and also another console 3+ times (multi-version guide)
+    other   = names other consoles (3+ mentions) but not the target, or the target only in passing
+              (other consoles 5x as often)
+    unknown = names no console, or other consoles only once or twice (a passing remark)
+    A stray mention or two (a port, Virtual Console, a sequel) does not count: the agent reads the intro.
+    """
+    if not target:
+        return None
+    low = text.lower()
+    counts = {k: len(re.findall(p, low)) for k, p in PLATFORMS.items()}
+    counts = {k: n for k, n in counts.items() if n}
+    t = counts.get(target, 0)
+    others = {k: n for k, n in counts.items() if k != target}
+    other_total = sum(others.values())
+    if not t:
+        match = "other" if other_total >= 3 else "unknown"
+    elif other_total >= 5 * t and other_total >= 5:
+        match = "other"
+    elif any(n >= 3 for n in others.values()):
+        match = "multi"
+    else:
+        match = "same"
+    return {"target": target, "match": match, "counts": dict(sorted(counts.items(), key=lambda kv: -kv[1]))}
+
+
+def set_decision(manifest_path: str, source_id: str, approve: bool) -> None:
+    with open(manifest_path, encoding="utf-8-sig") as fh:
+        manifest = json.load(fh)
+    entry = next((s for s in manifest if s["id"] == source_id), None)
+    if not entry:
+        sys.exit(f"ERROR: no source '{source_id}' in {manifest_path}")
+    entry["use"] = approve
+    entry["decision"] = "user-approved" if approve else "user-declined"
+    with open(manifest_path, "w", encoding="utf-8", newline=CRLF) as fh:
+        json.dump(manifest, fh, indent=2, ensure_ascii=False)
+        fh.write("\n")
+    print(f"{source_id}: {'used (user-approved)' if approve else 'kept on disk but not used (user-declined)'}. Run rw:chunk next.")
+
+
+def hold_source(manifest_path: str, source_id: str, match: str) -> None:
+    with open(manifest_path, encoding="utf-8-sig") as fh:
+        manifest = json.load(fh)
+    entry = next((s for s in manifest if s["id"] == source_id), None)
+    if not entry:
+        sys.exit(f"ERROR: no source '{source_id}' in {manifest_path}")
+    plat = entry.get("platform") or {"target": None, "counts": {}}
+    plat["match"] = match
+    plat["set_by"] = "agent (--hold)"
+    entry["platform"] = plat
+    entry["use"] = False
+    entry.pop("decision", None)
+    with open(manifest_path, "w", encoding="utf-8", newline=CRLF) as fh:
+        json.dump(manifest, fh, indent=2, ensure_ascii=False)
+        fh.write("\n")
+    print(f"{source_id}: held as {match} (saved, not used). rw:status asks the user.")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="Collect a full guide into the research folder.")
     ap.add_argument("game_id")
@@ -123,6 +268,9 @@ def main() -> None:
     ap.add_argument("--kind", default="guide", choices=["guide", "wiki", "forum", "map", "checklist", "other"])
     ap.add_argument("--file", help="Register an already-saved text file instead of downloading")
     ap.add_argument("--append", action="store_true", help="Append a page to an existing source")
+    ap.add_argument("--approve", action="store_true", help="The user approved a held guide (other console / multi-version): use it")
+    ap.add_argument("--decline", action="store_true", help="The user declined a held guide: keep it on disk, never use it")
+    ap.add_argument("--hold", choices=["other", "multi"], help="Hold a saved guide whose intro shows it is for another console or several (the console count missed it)")
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import npm_guard
     npm_guard.check(ap)
@@ -130,12 +278,21 @@ def main() -> None:
 
     if not re.fullmatch(r"[a-z0-9][a-z0-9\-]{1,40}", args.id):
         ap.error("--id must be short lowercase letters/digits/dashes (e.g. gf1)")
-    if not args.url and not args.file:
-        ap.error("Provide a URL or --file")
 
-    src_dir = os.path.join(ROOT, "content", "research", args.game_id, "02_sources")
+    game_dir = os.path.join(ROOT, "content", "research", args.game_id)
+    src_dir = os.path.join(game_dir, "02_sources")
     os.makedirs(src_dir, exist_ok=True)
     manifest_path = os.path.join(src_dir, "sources.json")
+    if sum(bool(x) for x in (args.approve, args.decline, args.hold)) > 1:
+        ap.error("--approve, --decline and --hold are exclusive")
+    if args.approve or args.decline:
+        set_decision(manifest_path, args.id, args.approve)
+        return
+    if args.hold:
+        hold_source(manifest_path, args.id, args.hold)
+        return
+    if not args.url and not args.file:
+        ap.error("Provide a URL or --file")
     manifest = []
     if os.path.exists(manifest_path):
         with open(manifest_path, encoding="utf-8-sig") as fh:
@@ -202,10 +359,33 @@ def main() -> None:
             entry["image_url"] = image_url
         manifest.append(entry)
 
+    # Guides must be for the console the RA set is on. Other-console and multi-version guides are saved
+    # but not used (use: false) until the user decides (rw:status asks; --approve / --decline record it).
+    held_msg = ""
+    if args.kind != "map":
+        entry = next(s for s in manifest if s["id"] == args.id)
+        with open(out_path, encoding="utf-8") as fh:
+            plat = classify_platform(fh.read(), ra_platform(game_dir))
+        if plat:
+            entry["platform"] = plat
+            if plat["match"] in ("other", "multi") and not entry.get("decision"):
+                entry["use"] = False
+                held_msg = (
+                    f"HELD: '{args.id}' looks like a {'multi-version' if plat['match'] == 'multi' else 'other-console'} guide "
+                    f"(target {plat['target']}; console mentions {plat['counts']}). Saved but NOT used: rw:status asks the user. "
+                    "Read its introduction; if it is really for this console only, say so in your report."
+                )
+            elif plat["match"] in ("same", "unknown"):
+                entry.pop("use", None)
+
     with open(manifest_path, "w", encoding="utf-8", newline=CRLF) as fh:
         json.dump(manifest, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
     print(f"Saved {len(text):,} chars -> {os.path.relpath(out_path, ROOT)} (source '{args.id}')")
+    if held_msg:
+        print(held_msg)
+    elif args.kind != "map" and entry.get("platform"):
+        print(f"Console check: {entry['platform']['match']} ({entry['platform']['counts'] or 'no console named'})")
     print(f"Sources registered: {', '.join(s['id'] for s in manifest)}")
 
 

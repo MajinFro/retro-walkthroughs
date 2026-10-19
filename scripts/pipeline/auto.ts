@@ -42,6 +42,7 @@ let stop = "";
 let s = status();
 for (let step = 1; step <= maxSteps; step++) {
   if (!s.next || /^Done/.test(s.next)) { stop = "done"; break; }
+  if (/^user/.test(s.who)) { stop = "user"; break; }
   if (!/^coordinator/.test(s.who)) { stop = "judgment"; break; }
   const m = s.next.match(RUNNABLE);
   if (!m) { stop = "not-a-command"; break; }
@@ -71,6 +72,7 @@ if (!stop) stop = "max-steps";
 const why: Record<string, string> = {
   done: "the walkthrough is accepted — ask the user to review it before rw:clean",
   judgment: "the next stage needs judgment: hand it to a fresh rw-stage agent",
+  user: "a held guide needs the user's decision: ask them once, then run the --approve / --decline commands",
   "not-a-command": "NEXT is not a command this script runs; read it and act",
   limit: "the model usage limit was hit: wait for the reset, then re-run rw:auto",
   "max-steps": "step limit reached; re-run rw:auto to continue",

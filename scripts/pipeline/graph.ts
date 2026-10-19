@@ -45,6 +45,12 @@ export interface Roadmap {
   counter_totals?: Record<string, number>;
   chapters: { n: number; title: string; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number> }[];
   unverifiable_achievement_ids?: number[];
+  /**
+   * Questions no source answers (e.g. "are in-game codes allowed during the V.Hard run?"). Every packet
+   * that covers them gets the question and the safe-play guidance, so writers present them as
+   * unconfirmed and never recommend the risky option. chapters omitted = applies to every chapter.
+   */
+  open_questions?: { question: string; guidance: string; chapters?: number[] }[];
 }
 
 /**

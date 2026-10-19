@@ -26,6 +26,7 @@ import {
   readJson,
   requireFile,
   writeText,
+  readUsedSources,
 } from "./lib.ts";
 
 // 80k cut the first writing call ~18% on Spyro, but 4/4 test chapters then needed a repair call
@@ -48,7 +49,7 @@ const graph = readJson<Graph>(P.graph);
 const roadmap = readJson<Roadmap>(P.roadmap);
 const chunks = loadChunks(P.chunks);
 const aliases = loadAliases(P.aliases);
-const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
+const sources = readUsedSources(P.sourcesManifest);
 const usable = verified.facts.filter((f) => ["verified", "single_source", "resolved"].includes(f.status));
 const factById = new Map(usable.map((f) => [f.id, f]));
 const achById = new Map(ach.achievements.map((a) => [a.id, a]));
@@ -56,6 +57,18 @@ const nodeById = new Map(graph.nodes.map((n) => [n.id, n]));
 const badge = (s: string) => (s === "verified" ? "✅" : s === "resolved" ? "✔" : "🟡");
 
 const factIds = new Set<string>();
+// Questions no source answers: the writer must call them unconfirmed and follow the safe guidance,
+// never recommend the risky option (593: a chapter told players to use a power-up code on the V.Hard run).
+const openQuestions = (n: number | null): string[] => {
+  const qs = (roadmap.open_questions ?? []).filter((q) => n === null || !q.chapters?.length || q.chapters.includes(n));
+  if (!qs.length) return [];
+  return [
+    "## ❓ Open questions (no collected source answers these)", "",
+    "Say each one is unconfirmed where it matters, follow its guidance, and never recommend the option it warns against (not even as a tip or a fallback).", "",
+    ...qs.map((q) => `- **${q.question}** — ${q.guidance}`), "",
+  ];
+};
+
 const lines: string[] = [];
 let title: string;
 let outName: string;
@@ -79,6 +92,7 @@ if (which === "overview") {
     `- Playthroughs required: **${roadmap.playthroughs}** — ${roadmap.playthrough_notes}`,
     roadmap.settings_notes ? `- Settings: ${roadmap.settings_notes}` : "",
     ...roadmap.chapters.map((c) => `- Chapter ${c.n}: ${c.title} (${c.achievement_ids.length} achievements)`), "",
+    ...openQuestions(null),
   );
 } else {
   const n = Number(which);
@@ -126,6 +140,7 @@ if (which === "overview") {
       return `- **${aid}** — ${a.title} (${a.points} pts${a.type ? `, ${a.type}` : ""}): ${a.description}  \n  ${support}`;
     }), "",
   );
+  lines.push(...openQuestions(n));
   if (missables.length) lines.push("## ⚠ Missables in this chapter (each needs a `> [!WARNING]` BEFORE the point it can be missed)", "", ...missables.map((m) => `- ${m.label}${m.achievement_id ? ` (achievement ${m.achievement_id})` : ""} — deadline: ${m.deadline} [${m.fact_ids.join(", ")}]`), "");
   if (ponrs.length) lines.push("## ⛔ Points of no return in this chapter (each needs a `> [!CAUTION]` containing the words \"Point of No Return\"; write no others)", "", ...ponrs.map((p) => `- ${p.label}: ${p.warning} [${p.fact_ids.join(", ")}]`), "");
   else lines.push("## ⛔ Points of no return in this chapter", "", "None. Do not write any \"Point of No Return\" callout. To remind the player to finish an area before moving on, use a `> [!TIP]` (\"Before you leave …\").", "");

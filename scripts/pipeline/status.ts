@@ -13,6 +13,8 @@ import {
   type AchievementsFile,
   type Chunk,
   isSubstantiveGuide,
+  isUsedSource,
+  pendingSourceDecisions,
   lateAdditions,
   MIN_GUIDES,
   type SourceEntry,
@@ -50,11 +52,19 @@ if (exists(P.achievements)) {
 } else { rows.push(["1 Achievements", "⬜", ""]); setNext(`npm run rw:fetch -- ${id}`); }
 
 // 2
-const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
+const allSources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
+const sources = allSources.filter(isUsedSource);
 const guides = sources.filter(isSubstantiveGuide);
 const extras = sources.filter((s) => !isSubstantiveGuide(s) && s.kind !== "ra-comments" && s.kind !== "map").map((s) => s.id);
 const mapCount = sources.filter((s) => s.kind === "map").length;
-rows.push(["2 Sources", guides.length >= MIN_GUIDES ? "✅" : guides.length || extras.length ? "🟡" : "⬜", `${guides.length} substantive guide(s): ${guides.map((s) => s.id).join(", ") || "—"}${guides.length < MIN_GUIDES ? ` (need ${MIN_GUIDES}+)` : ""}${extras.length ? ` · extras (not counted): ${extras.join(", ")}` : ""}${mapCount ? ` · ${mapCount} map(s)` : ""}`]);
+const held = allSources.filter((s) => !isUsedSource(s));
+const pending = pendingSourceDecisions(allSources);
+rows.push(["2 Sources", pending.length ? "🟡" : guides.length >= MIN_GUIDES ? "✅" : guides.length || extras.length ? "🟡" : "⬜", `${guides.length} substantive guide(s): ${guides.map((s) => s.id).join(", ") || "—"}${guides.length < MIN_GUIDES ? ` (need ${MIN_GUIDES}+)` : ""}${extras.length ? ` · extras (not counted): ${extras.join(", ")}` : ""}${mapCount ? ` · ${mapCount} map(s)` : ""}${held.length ? ` · held (not used): ${held.map((s) => `${s.id} [${s.platform?.match ?? "?"}${s.decision ? `, ${s.decision}` : ""}]`).join(", ")}` : ""}`]);
+// Guides for another console, or for several versions, are saved but not used until the user decides.
+if (pending.length)
+  setNext(
+    `Ask the user about held guide(s) (not for this game's console only): ${pending.map((s) => `${s.id} "${s.title}" [${s.platform?.match}: ${Object.entries(s.platform?.counts ?? {}).map(([k, n]) => `${k} ${n}`).join(", ")}]`).join("; ")} — then npm run rw:collect -- ${id} --id <sourceId> --approve (use it) or --decline (keep it unused)`,
+  );
 // blocks every later stage: the RA guide and comments from rw:fetch are extras and never stand in for guides.
 // The only way past with fewer guides: Stage 2 searched and wrote why in _fewer_guides.txt.
 const fewerOk = guides.length > 0 && exists(path.join(P.sourcesDir, "_fewer_guides.txt"));
@@ -183,7 +193,9 @@ if (next) {
   // source collection is mostly scripted (rw:find-guides, rw:maps, rw:collect); its choices fit Sonnet
   const sonnet = /source-collector/i.test(next);
   console.log(
-    !judgment
+    /^Ask the user/.test(next)
+      ? "WHO: user — the coordinator asks the user once, then runs the --approve / --decline commands"
+      : !judgment
       ? "WHO: coordinator — command stage: run it yourself and read only the summary lines"
       : sonnet
         ? "WHO: rw-stage (Sonnet) — spawn a fresh rw-stage agent (.claude/agents/rw-stage.md) with model: sonnet for this one stage"

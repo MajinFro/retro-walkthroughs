@@ -67,13 +67,37 @@ export interface SourceEntry {
   file: string; // relative to 02_sources/
   chars?: number;
   collected_at?: string;
+  // which consoles the guide names (rw:collect counts them against 01_achievements.json's console)
+  platform?: { target: string; match: "same" | "multi" | "other" | "unknown"; counts: Record<string, number> };
+  // false = saved but not used: a guide for another console or for several versions waits for the user
+  use?: boolean;
+  decision?: "user-approved" | "user-declined";
 }
 
 // Stage 2 needs this many substantive guides. The RA comments and the RA guides wiki page come from
 // rw:fetch and are extras on top: they never count, and neither do maps or short pages.
 export const MIN_GUIDES = 3;
+export const isUsedSource = (s: SourceEntry) => s.use !== false;
 export const isSubstantiveGuide = (s: SourceEntry) =>
-  s.kind !== "ra-comments" && s.kind !== "ra-guide" && s.kind !== "map" && (s.chars ?? 0) >= 10000;
+  isUsedSource(s) && s.kind !== "ra-comments" && s.kind !== "ra-guide" && s.kind !== "map" && (s.chars ?? 0) >= 10000;
+// Save states are off in hardcore. A line may say so ("Hardcore disables save states"); any other line that
+// mentions them is advice to use one (593: an RA comment's "(or use save states)" was copied into 5 chapters).
+export const saveStateAdvice = (text: string): string[] =>
+  text
+    .split(/\r?\n/)
+    .filter((l) => /save[\s-]?states?/i.test(l) && !/hardcore|disabled|not allowed|cannot|can't|can not|\bno save[\s-]?states?|without save/i.test(l))
+    .map((l) => l.trim().slice(0, 100));
+
+// The sources every stage works from: held guides (use: false) stay on disk but are skipped.
+export const readUsedSources = (manifestPath: string): SourceEntry[] =>
+  exists(manifestPath) ? readJson<SourceEntry[]>(manifestPath).filter(isUsedSource) : [];
+// Held guides the user has not decided on yet. Multi-version guides always need a decision;
+// other-console guides only when too few same-console guides exist.
+export const pendingSourceDecisions = (all: SourceEntry[]) => {
+  const held = all.filter((s) => s.use === false && !s.decision);
+  const enough = all.filter(isSubstantiveGuide).length >= MIN_GUIDES;
+  return held.filter((s) => s.platform?.match === "multi" || !enough);
+};
 
 export interface Chunk {
   chunk_id: string; // "<source_id>#<n>"

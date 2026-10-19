@@ -25,6 +25,7 @@ import {
   readText,
   requireFile,
   writeText,
+  readUsedSources,
 } from "./lib.ts";
 
 const id = gameIdArg();
@@ -35,7 +36,7 @@ const ach = readJson<AchievementsFile>(P.achievements);
 const verified = readJson<{ stats: any; facts: VerifiedFact[] }>(P.verified);
 const graph = readJson<Graph>(P.graph);
 const roadmap = readJson<Roadmap>(P.roadmap);
-const sources = readJson<SourceEntry[]>(P.sourcesManifest);
+const sources = readUsedSources(P.sourcesManifest);
 const factById = new Map(verified.facts.map((f) => [f.id, f]));
 const achById = new Map(ach.achievements.map((a) => [a.id, a]));
 const chapterOf = new Map<number, number>();

@@ -30,6 +30,8 @@ import {
   fingerprintFiles,
   qaInputFiles,
   type SourceEntry,
+  readUsedSources,
+  saveStateAdvice,
 } from "./lib.ts";
 
 const id = gameIdArg();
@@ -41,12 +43,27 @@ const verified = readJson<{ facts: VerifiedFact[]; coverage: Record<string, any>
 const graph = readJson<Graph>(P.graph);
 const roadmap = readJson<Roadmap>(P.roadmap);
 const chunks = readJsonl<Chunk>(P.chunks);
-const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
+const sources = readUsedSources(P.sourcesManifest);
 const mapsAvailable = sources.filter((s) => s.kind === "map").length;
 const factById = new Map(verified.facts.map((f) => [f.id, f]));
 const nodeById = new Map(graph.nodes.map((n) => [n.id, n]));
 const aliases = loadAliases(P.aliases);
 const unverifiable = new Set(roadmap.unverifiable_achievement_ids ?? []);
+// words the set and the roadmap already supply (see isPlanLogic in the citation check)
+const planTerms = new Set([
+  ...ach.achievements.flatMap((a) => keyTerms(`${a.title} ${a.description}`)),
+  ...keyTerms(
+    [
+      ach.title,
+      roadmap.playthrough_notes,
+      roadmap.settings_notes ?? "",
+      ...roadmap.chapters.flatMap((c) => [c.title, c.notes ?? ""]),
+      ...(roadmap.open_questions ?? []).flatMap((q) => [q.question, q.guidance]),
+      "achievement achievements chapter chapters unlock unlocks unlocked points playthrough route hardcore",
+    ].join(" "),
+  ),
+]);
+const PROHIBIT_RE = /^(?:[-*+]\s+|\d+\.\s+)?(?:\*\*[^*]+\*\*:?\s*)?(?:do not|don't|never|avoid)\b/i;
 
 const errors: string[] = [];
 const warnings: string[] = [];
@@ -63,6 +80,7 @@ const m = {
   chapters_present: 0,
   paragraphs: 0,
   paragraphs_cited: 0,
+  paragraphs_plan_logic: 0, // counted in paragraphs_cited: route logic from the set/roadmap, or a "do not" warning
   citations: 0,
   citations_broken: 0,
   missables: roadmap.missables.length,
@@ -99,7 +117,7 @@ function audit(file: string, chapterN: number | null) {
 
   // placeholders / leftovers
   if (/\b(TODO|TBD|FIXME)\b|\[INSERT|lorem ipsum/i.test(text)) errors.push(`${tag}: contains placeholder text (TODO/TBD/[INSERT…])`);
-  if (/save[\s-]?state/i.test(text)) warnings.push(`${tag}: mentions save states (not allowed in hardcore)`);
+  for (const l of saveStateAdvice(text)) warnings.push(`${tag}: mentions save states (not allowed in hardcore): "${l}"`);
   // writer drafting notes and uncited markers that leak into the published guide
   const drafting = text.match(DRAFTING_RE);
   if (drafting) errors.push(`${tag}: contains a drafting note ("${drafting[0]}") — the walkthrough must not talk about files, packets or other chapters' drafts`);
@@ -169,6 +187,17 @@ function audit(file: string, chapterN: number | null) {
   flushPara();
 
   // citations
+  // Route logic built only from the set and the roadmap (achievement names, counts, the chapter plan) has
+  // no guide fact to cite, and a warning not to do something needs none: neither counts as uncited.
+  // (593: 12 of 16 "uncited" warnings were these, and the reviewer had added half of them on purpose.)
+  const isPlanLogic = (t: string) => {
+    if (PROHIBIT_RE.test(t)) { if (process.env.RW_QA_DEBUG) console.log("DONT:", t.slice(0, 140)); return true; }
+    const terms = keyTerms(t.replace(/\[ACHIEVEMENT:\d+\]/g, " "));
+    const left = terms.filter((w) => !planTerms.has(w));
+    const ok = terms.length > 0 && left.length <= Math.max(3, Math.floor(terms.length * 0.4));
+    if (ok && process.env.RW_QA_DEBUG) console.log("PLAN:", t.slice(0, 140));
+    return ok;
+  };
   let uncitedShown = 0;
   for (const pr of prose) {
     if (words(pr.text) < 12) continue;
@@ -192,6 +221,9 @@ function audit(file: string, chapterN: number | null) {
           }
         }
       }
+    } else if (isPlanLogic(pr.text)) {
+      m.paragraphs_cited++;
+      m.paragraphs_plan_logic++;
     } else if (uncitedShown++ < 8) warnings.push(`${tag}:${pr.line}: uncited statement: "${pr.text.slice(0, 90)}…"`);
   }
   if (uncitedShown > 8) warnings.push(`${tag}: … ${uncitedShown - 8} more uncited statements`);
