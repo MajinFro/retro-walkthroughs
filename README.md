@@ -282,6 +282,7 @@ npm run rw:chunks -- <gameId> --progress
 npm run rw:verify -- <gameId>
 
 # 6-7. Validate graph & roadmap written by the agent (ra-route-planner)
+npm run rw:aliases -- <gameId> [--dry-run]   # Step 0: merge version-comparison tables (FC | NES | GBC ...) into 05_aliases.json
 npm run rw:plan -- <gameId>
 
 # 8. Write every missing chapter (model calls; rules: ra-walkthrough-writer), then assemble + QA

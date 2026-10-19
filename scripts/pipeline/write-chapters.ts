@@ -125,6 +125,41 @@ function packet(t: string, inlineQuotes = false): string {
 const DRAFTING_RE =
   /\b(?:was(?:n't| not) (?:available|provided)|(?:the|this|my) (?:writer )?packet|chapter \d+'s file|I (?:will|would|assume|don't have|do not have|cannot see)|as an AI)\b/i;
 
+/**
+ * Fixes a draft's [ACHIEVEMENT] tags without a repair call (1470: 5 of 9 repairs were duplicate tags):
+ * keeps one tag per assigned achievement, preferring a tag on its own line (the placement format), and
+ * drops tags this chapter is not assigned (all of them in the overview). A missing tag still needs a repair.
+ */
+function tidyTags(t: string, text: string): { text: string; fixed: number } {
+  const assigned = new Set(t === "overview" ? [] : roadmap.chapters.find((c) => c.n === Number(t))?.achievement_ids ?? []);
+  const lines = text.split(/\r?\n/);
+  const keepAt = new Map<number, number>(); // achievement id -> line index of the tag to keep
+  lines.forEach((l, i) => {
+    for (const m of l.matchAll(ACH_RE)) {
+      const a = Number(m[1]);
+      if (!assigned.has(a)) continue;
+      const own = /^\s*\[ACHIEVEMENT:\s*\d+\s*\]\s*$/.test(l);
+      const cur = keepAt.get(a);
+      if (cur === undefined || (own && !/^\s*\[ACHIEVEMENT:\s*\d+\s*\]\s*$/.test(lines[cur]))) keepAt.set(a, i);
+    }
+  });
+  let fixed = 0;
+  const out: string[] = [];
+  lines.forEach((l, i) => {
+    // only whole tag lines go: a tag inside a sentence leaves broken prose, so that one stays for the repair call
+    if (!/^\s*(\[ACHIEVEMENT:\s*\d+\s*\]\s*)+$/.test(l)) return void out.push(l);
+    const kept = new Set<number>();
+    const nl = l.replace(new RegExp(ACH_RE.source, "g"), (tag, id) => {
+      const a = Number(id);
+      if (assigned.has(a) && keepAt.get(a) === i && !kept.has(a)) return kept.add(a), tag;
+      fixed++;
+      return "";
+    });
+    if (nl.trim()) out.push(nl.replace(/[ \t]{2,}/g, " ").trimEnd()); // a line that held only removed tags goes
+  });
+  return { text: out.join(text.includes("\r\n") ? "\r\n" : "\n"), fixed };
+}
+
 function problems(t: string, text: string): string[] {
   const out: string[] = [];
   const bad = [...new Set([...text.matchAll(CITE_RE)].flatMap((m) => m[1].split(/\s*,\s*/)).filter((f) => !usable.has(f)))];
@@ -219,7 +254,8 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
       console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)}`);
       return;
     }
-    const text = unwrapMarkdown(r.text);
+    const { text, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
+    if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
     const ps = problems(r.key, text);
     drafts.set(r.key, { text, problems: ps });
     writeText(path.join(P.chaptersDir, fileOf(r.key)), text);
@@ -246,7 +282,8 @@ if (repairs.length) {
       onResult: (r) => {
         usage = addUsage(usage, r.usage);
         if (r.error && !r.text) return void console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)} (first draft kept)`);
-        const text = unwrapMarkdown(r.text);
+        const { text, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
+    if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
         const ps = problems(r.key, text);
         const before = drafts.get(r.key)!;
         if (ps.length <= before.problems.length) writeText(path.join(P.chaptersDir, fileOf(r.key)), text);

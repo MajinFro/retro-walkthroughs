@@ -23,6 +23,7 @@ import {
   requireFile,
   words,
   keyTerms,
+  loadAliases,
   writeJson,
   exists,
   fingerprintFiles,
@@ -43,6 +44,7 @@ const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesMan
 const mapsAvailable = sources.filter((s) => s.kind === "map").length;
 const factById = new Map(verified.facts.map((f) => [f.id, f]));
 const nodeById = new Map(graph.nodes.map((n) => [n.id, n]));
+const aliases = loadAliases(P.aliases);
 const unverifiable = new Set(roadmap.unverifiable_achievement_ids ?? []);
 
 const errors: string[] = [];
@@ -148,6 +150,11 @@ function audit(file: string, chapterN: number | null) {
       flushPara();
       return;
     }
+    // end-of-chapter checklist items recap cited steps, and a map-link line is a link, not a claim
+    if (/^[-*+]\s+\[[ xX]\]\s/.test(t) || /^([-*+]\s+)?(🗺️?\s*)?\*\*[^*]*maps?:?\*\*:?\s*\[[^\]]+\]\([^)]+\)\s*$/i.test(t) || /^🗺️?\s*\[[^\]]+\]\([^)]+\)\s*$/.test(t)) {
+      flushPara();
+      return;
+    }
     if (/^([-*+]|\d+\.)\s/.test(t) || /^\|/.test(t)) {
       flushPara();
       // a table header row (the row above a |---| separator) names columns, it makes no claim
@@ -234,6 +241,10 @@ function audit(file: string, chapterN: number | null) {
     if (ok) m.missables_warned++;
     else errors.push(`${tag}: missable "${ms.label}" has no > [!WARNING]/[!CAUTION] callout before it`);
   }
+  // writers label retryable trigger conditions "missable"; only the roadmap's missables are sourced
+  const missableLabels = lines.filter((l) => /^>\s*(\[![A-Z]+\]\s*)?\*\*[^*]*\bmissable\b[^*]*\*\*/i.test(l.trim()) && !/\bnot missable\b/i.test(l)).length;
+  if (missableLabels && !roadmap.missables.some((x) => x.chapter === chapterN))
+    warnings.push(`${tag}: ${missableLabels} "Missable" callout(s) but the roadmap lists no missable for this chapter — call a retryable condition an "Achievement Trigger Warning", or add the sourced missable to 07_roadmap.json`);
   // PONR
   const ponrCallouts = calloutLines.filter((c) => /point of no return/i.test(lines.slice(c.i, c.i + 6).join(" "))).length;
   const ponrs = roadmap.ponr.filter((x) => x.chapter === chapterN);
@@ -296,7 +307,7 @@ function audit(file: string, chapterN: number | null) {
   // Map links in chapter
   const mapLinks = text.match(/(?:\[(?:view\s+)?.*?map.*?\]\(https?:\/\/[^\s)]+\)|!\[.*?map.*?\]\(https?:\/\/[^\s)]+\))/gi) || [];
   m.map_links_present += mapLinks.length;
-  if (ch) for (const s of chapterMaps(sources, graph, ch)) if (!text.includes(sourceUrl(s))) warnings.push(`${tag}: visual map "${s.title}" covers this chapter but is not linked (${sourceUrl(s)})`);
+  if (ch) for (const s of chapterMaps(sources, graph, ch, aliases)) if (!text.includes(sourceUrl(s))) warnings.push(`${tag}: visual map "${s.title}" covers this chapter but is not linked (${sourceUrl(s)})`);
 
   // check depth per area heading
   for (let i = 0; i < lines.length; i++) {

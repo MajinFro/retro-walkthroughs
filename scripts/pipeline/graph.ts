@@ -51,12 +51,34 @@ export interface Roadmap {
  * The visual maps (sources.json kind "map") that cover a roadmap chapter: the map title names one of the
  * chapter's areas or the chapter's own title, or says "Chapter <n>" (games whose chapters are the roadmap's).
  */
-export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapters"][number]): SourceEntry[] {
-  const names = [ch.title.replace(/^chapter\s+\d+\s*[:.\-]?\s*/i, ""), ...ch.areas.map((a) => g.nodes.find((n) => n.id === a)?.label ?? a.replace(/_/g, " "))]
-    .map(norm)
-    .filter((s) => s.length >= 4);
+// map titles and area labels word the same place differently ("Dragon's Horn South Tower" vs "South
+// Dragon's Horn"), so compare word sets; "southern" etc. count as "south"
+const MAP_STOP = new Set(["of", "the", "a", "an", "to", "in", "and", "map", "maps"]);
+// words that never identify a place on their own ("chapter 1" must not match every "Chapter N" map)
+const MAP_GENERIC = new Set(["chapter", "part", "level", "stage", "world", "area", "floor", "room", "dungeon", "overworld", "guide", "solution"]);
+const mapWords = (s: string) =>
+  norm(s).replace(/'s\b/g, "").replace(/\b(north|south|east|west)ern\b/g, "$1").split(/\s+/).filter((w) => (w.length >= 2 || /^\d$/.test(w)) && !MAP_STOP.has(w));
+const distinctive = (ws: string[]) => ws.some((w) => !MAP_GENERIC.has(w) && !/^\d+$/.test(w));
+
+/**
+ * Registered maps that cover a chapter: the map title contains every word of the chapter title, an area
+ * label, or one of that label's 05_aliases.json names (pass `aliases` from loadAliases).
+ */
+export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapters"][number], aliases?: Map<string, string>): SourceEntry[] {
+  const labels = ch.areas.map((a) => g.nodes.find((n) => n.id === a)?.label ?? a.replace(/_/g, " "));
+  const names = [ch.title.replace(/^chapter\s+\d+\s*[:.\-]?\s*/i, ""), ...labels];
+  if (aliases) {
+    const canons = new Set(labels.map((l) => aliases.get(norm(l)) ?? norm(l)));
+    for (const [alias, c] of aliases) if (canons.has(c)) names.push(alias);
+  }
+  const wanted = names.filter((s) => norm(s).length >= 4).map(mapWords).filter(distinctive);
   const chapterRe = new RegExp(`\\bchapter\\s+${ch.n}\\b`, "i");
-  return sources.filter((s) => s.kind === "map" && (chapterRe.test(s.title) || names.some((nm) => norm(s.title).includes(nm))));
+  return sources.filter((s) => {
+    if (s.kind !== "map") return false;
+    if (chapterRe.test(s.title)) return true;
+    const title = new Set(mapWords(s.title));
+    return wanted.some((ws) => ws.every((w) => title.has(w)));
+  });
 }
 
 /** First URL of a source (some list several pages). */

@@ -9,7 +9,7 @@ description: Stage 8 of the walkthrough pipeline. Writes exhaustive, idiot-proof
 
 **Absolute Rules:**
 1. **Source-Bound Only:** You must NOT use model memory or general game knowledge. You may only state what is supported in your chapter packet.
-2. **Every Claim Must Cite Evidence:** Every substantive instruction, navigation step, treasure location, and boss tip must cite its fact ID using `[[fact_id]]` (e.g. `[[gf1-117-1]]` or `[[gf1-117-1, neo1-84-2]]`).
+2. **Every Claim Must Cite Evidence:** Every substantive instruction, navigation step, treasure location, and boss tip must cite its fact ID using `[[fact_id]]` (e.g. `[[gf1-117-1]]` or `[[gf1-117-1, neo1-84-2]]`). This includes the chapter's opening summary, "Before you leave" tips and the overview's general advice: give each such paragraph the fact ids it summarizes. `rw:qa` flags every paragraph of 12+ words without a citation; only the end-of-chapter `- [ ]` checklist (a recap of cited steps) is exempt.
 3. **Never Invent Data:** If a detail is missing from sources, write: `"Unable to verify from collected sources."`
 4. **Preserve Raw ASCII Maps:** If the source passages contain an ASCII map, copy it verbatim inside a code block. Do NOT invent new ASCII maps.
 5. **Hardcore Mode:** Assume Hardcore Mode (no save states, no cheat codes, no rewinds).
@@ -98,6 +98,7 @@ Each chapter file (e.g. `01.md`) MUST include:
    > [!WARNING]
    > **Missable Achievement Warning:** Do NOT talk to Percy yet. Select the Special command menu and use Diospyros first to earn [ACHIEVEMENT:1234] [[ra-7-1]].
    ```
+   Use the word "missable" only for the missables the packet lists (its "⚠ Missables in this chapter" section). A condition the player can simply retry (don't take damage, finish under a time, don't flame the bulls) is not missable: call it `**Achievement Trigger Warning:**`. rw:qa warns about a "Missable" callout in a chapter whose packet lists no missable.
 
 6. **Point of No Return Warnings:**
    Write one for each point of no return the packet lists, and no others. Leaving a level, world or area is not a point of no return unless a source says the player cannot come back (rw:qa warns about extra ones). When the packet lists none, remind the player to finish an area with a `> [!TIP]` ("Before you leave …") instead. Each listed one must include:

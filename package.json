@@ -25,6 +25,7 @@
     "rw:chunks": "tsx scripts/pipeline/show-chunks.ts",
     "rw:extract": "tsx scripts/pipeline/extract-facts.ts",
     "rw:verify": "tsx scripts/pipeline/verify-facts.ts",
+    "rw:aliases": "tsx scripts/pipeline/import-aliases.ts",
     "rw:plan": "tsx scripts/pipeline/plan-check.ts",
     "rw:packet": "tsx scripts/pipeline/chapter-packet.ts",
     "rw:write": "tsx scripts/pipeline/write-chapters.ts",

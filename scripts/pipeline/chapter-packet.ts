@@ -129,7 +129,7 @@ if (which === "overview") {
   if (missables.length) lines.push("## ⚠ Missables in this chapter (each needs a `> [!WARNING]` BEFORE the point it can be missed)", "", ...missables.map((m) => `- ${m.label}${m.achievement_id ? ` (achievement ${m.achievement_id})` : ""} — deadline: ${m.deadline} [${m.fact_ids.join(", ")}]`), "");
   if (ponrs.length) lines.push("## ⛔ Points of no return in this chapter (each needs a `> [!CAUTION]` containing the words \"Point of No Return\"; write no others)", "", ...ponrs.map((p) => `- ${p.label}: ${p.warning} [${p.fact_ids.join(", ")}]`), "");
   else lines.push("## ⛔ Points of no return in this chapter", "", "None. Do not write any \"Point of No Return\" callout. To remind the player to finish an area before moving on, use a `> [!TIP]` (\"Before you leave …\").", "");
-  const maps = chapterMaps(sources, graph, ch);
+  const maps = chapterMaps(sources, graph, ch, aliases);
   if (maps.length)
     lines.push(
       "## Visual maps for this chapter (link EACH one directly under the heading of the area it shows; `rw:qa` checks every URL)", "",
