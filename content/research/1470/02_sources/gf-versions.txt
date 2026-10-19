@@ -1,0 +1,670 @@
+### Table of Contents
+
+  1. [Introduction](introduction)
+  2. [Sources and Common Abbreviations](sources-and-common-abbreviations)
+  3. [Castles and Towns](castles-and-towns)
+  4. [Caves and Towers](caves-and-towers)
+  5. [Items](items)
+  6. [Spells](spells)
+  7. [Experience Charts](experience-charts)
+  8. [Monsters](monsters)
+
+
+
+## Introduction
+
+I contributed on another guide many years ago, but this is my first guide all on my own.
+
+I adore Dragon Quest II, even in its "Warrior" days on the NES. Yes it was difficult, but I liked that. I liked the grind, I liked making sure I was strong enough and had the best gear before moving on. I liked the manual and map that came with the game, and I liked mailing my info in to get the "Unveiled Secrets" guidebook, monster chart and dungeon maps poster. Let's face it, I was a little bit of a Dragon Warrior nerd. I liked the story, the adventure, the colorful monsters. Everything. And each and every remake has only added to that enjoyment.
+
+The GBC versions came out after I graduated college and I couldn't believe one of my favorite childhood games was back and streamlined. Years later, I learned about the Japanese-only SFC version and kinda fell in love with the sharp, colorful graphics (and also kinda wished for an alternate universe where that version was released in the U.S. as well). The Wii ports passed us by, but I bought the Android game apps on launch day. The controls were clunky, the apps may have crashed a few times on me, and I didn't care for the "portrait" view, but it was Dragon Quest, with the same colorful graphics and monsters.
+
+The Switch versions came out last year (2019) while I was ankle-deep in Dragon Quest XI. I loyally bought them a week or two after launch day, but DQXI held my attention well past Christmas. It is a gem and I love it, and the more I played the more I wanted to jump back into the original Erdrick saga, especially DQII.
+
+During my recent playthrough, I noticed that things were so much easier than the NES and even GBC days, and it couldn't be just because I knew where everything was. I went on sites and scanned forums and I realized that level caps and even level gains had been revamped for this version (and I believe for the iOS/Android versions as well). Not only that, but monster experience had increased too. Unfortunately, no one had recorded these figures. So I took it upon myself to do it.
+
+Most of the information in this comparison guide is from official guidebooks, such as the Enix Famicom, Enix Super Famicom, and Prima Gameboy Color guidebooks, as well as the NES monster chart and special "secrets" guidebook. Some of the info for the iOS / Android / Nintendo Switch version is from my personal gameplay or Japanese "capture" websites. Google translates most things for me so I have a basic understanding of the data tables. I'll provide sources so you can check them out on your own as well.
+
+Anyway, let's dive in.
+
+## Sources and Common Abbreviations
+
+My GBC, FC, NES, and SFC official guidebooks: 
+
+![](/ffaq/1/1/)
+
+Useful NES monster data: https://www.woodus.com/den/games/dw2nes/monsters.php  
+Useful FC game data: https://way78.com/dq2/fc/  
+Useful FC through smartphone game data: http://www.kirafura.com/dq/2/2.htm  
+Useful SFC game data: https://i-njoy.net/dq2_top.html  
+Useful SFC to smartphone game data: https://cour89.com/dq2/  
+Useful SFC to smartphone game data: https://kyokugen.info/dq2/
+
+* * *
+
+Common Abbreviations:
+
+FC = Famicom (NES in Japan)  
+SFC = Super Famicom (SNES in Japan)  
+GBC = Gameboy Color  
+iOS = iPhone app  
+And = Android smartphone app  
+i/A/S = iOS, Android, and Switch game version
+
+* * *
+
+Notes about Translations vs. Localizations vs. Romanizations
+
+The Enix Official Guidebook for the Famicom did include English translations for items and I've compiled them here. I've used "romanizations" for Japanese town and spell names. As far as I know, Japanese names for towns, monsters, spells, items, etc. did not change in any of their versions. It is because of localization that we get name changes like Midenhall to Lorasia (and back to Midenhall), Tuhn to Slewse, Infernos to Woosh, Giant Hammer to Hammer to Sledgehammer, and Big Slug to GiantSlug to Maulusc.
+
+## Castles and Towns
+
+Not much changed between the castles and towns as the game changed. A Storage Vault service was added in the SFC/GBC version which carried over to the iOS/Android/Switch version. Also, some inns in the early game charge less in the newest version.
+
+*FC town names are romanizations of their Japanese names.
+
+**Name**  
+---  
+**FC***|  **NES**| **GBC**| **iOS/Android/Switch**  
+Roresia| Midenhall| Lorasia| Midenhall  
+**Inn . Church . Save . Slots . Storage**  
+4 . N . Y . N . -| 4 . N . Y . N . -| 4 . N . Y . N . N| 3 . N . Y . N . N  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+-| -| Leathr Shield| Leather Shield  
+Name  
+---  
+FC| NES| GBC| iOS/Android/Switch  
+Liriza| Leftwyne| Leftwyne| Leftwyne  
+**Inn . Church . Save . Slots . Storage**  
+6 . Y . N . Y* . -| 6 . Y . N . Y* . -| 6 . Y . N . Y* . Y| 4 . Y . N . Y* . Y  
+*locked, requires Silver Key  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+**Arms Shop**  
+Club| Club| Club| Club  
+Copper Sword| Copper Sword| Copper Sword| Copper Sword  
+Holy Knife| Magic Knife| Knife| Divine Dagger  
+Chain Sickle| Chain Sickle| Sickle| Chain Sickle  
+Chain Mail| Chain Mail| Chain Mail| Chain Mail  
+Leather Shield| Leather Shield| Leathr Shield| Leather Shield  
+Name  
+---  
+FC| NES| GBC| iOS/Android/Switch  
+Samartria| Cannock| Cannock| Cannock  
+**Inn . Church . Save . Slots . Storage**  
+8 . Y . Y . N . -| 8 . Y . Y . N . -| 8 . Y . Y . N . N| 5 . Y . Y . N . N  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+Holy Water| Fairy Water| Repellent| Holy Water  
+**Arms Shop (SFC to Switch: wandering merchant near inn)**  
+-| -| Copper Sword| Copper Sword  
+-| -| Knife| Divine Dagger  
+-| -| Sickle| Chain Sickle  
+-| -| Leathr Shield| Leather Shield  
+-| -| Chain Mail| Chain Mail  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Moonpeta| Hamlin| Hamlin| Moonahan  
+**Inn . Church . Save . Slots . Storage**  
+12 . Y . Y . Y . -| 12 . Y . Y . Y . -| 12 . Y . Y . Y . Y| 8 . Y . Y . Y . Y  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Holy Water| Fairy Water| Repellent| Holy Water  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+-| -| Leathr Shield| Leather Shield  
+-| -| Knife| Divine Dagger  
+**Arms Shop**  
+Chain Sickle| Chain Sickle| Sickle| Chain Sickle  
+Iron Spear| Iron Spear| Spear| Iron Lance  
+Broad Sword| Broad Sword| Steel Sword| Steel Broadsword  
+Chain Mail| Chain Mail| Chain Mail| Chain Mail  
+Full Plate Armor| Full Plate Armor| Steel Armor| Full Plate Armour  
+Steel Shield| Steel Shield| Steel Shield| Steel Shield  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Rupugana| Lianport| Lianport| Rippleport  
+**Inn . Church . Save . Slots . Storage**  
+20 . Y . N . N . -| 20 . Y . N . N . -| 20 . Y . Y . Y . Y| 20 . Y . Y . Y . Y  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Holy Water| Fairy Water| Repellent| Holy Water  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+Small Amulet Charm| Dragon's Bane| Amulet| Banishing Bell  
+**Arms Shop**  
+Wizard's Wand| Wizard's Wand| Wizard Wand| Wizard's Staff  
+Holy Knife| Magic Knife| Knife| Divine Dagger  
+Broad Sword| Broad Sword| Steel Sword| Steel Broadsword  
+Clothes to Avoid Enemies| Clothes Hiding| Evade Cloak| Cloak of Evasion  
+Full Plate Armor| Full Plate Armor| Steel Armor| Full Plate Armour  
+Steel Shield| Steel Shield| Steel Shield| Steel Shield  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Radatome| Tantegel| Tantegel| Tantegel  
+**Inn . Church . Save . Slots . Storage**  
+2 . Y . Y . N . -| 2 . Y . Y . N . -| 2 . Y . Y . N . N| 2 . Y . Y . N . N  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Holy Water| Fairy Water| Repellent| Holy Water  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+Small Amulet Charm| Dragon's Bane| Amulet| Banishing Bell  
+**Arms Shop**  
+Wizard's Wand| Wizard's Wand| Wizard Wand| Wizard's Staff  
+Broad Sword| Broad Sword| Steel Sword| Steel Broadsword  
+Giant Hammer| Giant Hammer| Hammer| Sledgehammer  
+Clothes to Avoid Enemies| Clothes Hiding| Evade Cloak| Cloak of Evasion  
+Steel Shield| Steel Shield| Steel Armor| Full Plate Armour  
+Iron Helmet| Iron Helmet| Iron Helmet| Iron Helmet  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Beranor| Beran| Beran| Beran  
+**Inn . Church . Save . Slots . Storage**  
+30 . Y . Y . Y . -| 30 . Y . Y . Y . -| 30 . Y . Y . Y . Y| 30 . Y . Y . Y . Y  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Holy Water| Fairy Water| Repellent| Holy Water  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+**Arms Shop**  
+Wizard's Wand| Wizard's Wand| Wizard Wand| Wizard's Staff  
+Giant Hammer| Giant Hammer| Hammer| Sledgehammer  
+Dragon Sword| Dragon Killer| Dragon Sword| Dragonsbane  
+Steel Shield| Steel Shield| Steel Shield| Steel Shield  
+Shield of Strength| Shield of Strength| Heal Shield| Power Shield  
+Iron Helmet| Iron Helmet| Iron Helmet| Iron Helmet  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Derkandor| Osterfair| Osterfair| Dirkandor  
+**Inn . Church . Save . Slots . Storage**  
+25 . N . Y . N . -| 25 . N . Y . N . -| 25 . N . Y . N . Y| 25 . Y . Y . N . Y  
+**Arms Shop**  
+Broad Sword| Broad Sword| Steel Sword| Steel Broadsword  
+Giant Hammer| Giant Hammer| Hammer| Sledgehammer  
+Dragon Sword| Dragon Killer| Dragon Sword| Dragonsbane  
+Clothes to Avoid Enemies| Clothes Hiding| Evade Cloak| Cloak of Evasion  
+Magic Armor| Magic Armor| Magic Armor| Magic Armour  
+Iron Helmet| Iron Helmet| Iron Helmet| Iron Helmet  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Zahan| Zahan| Zahan| Zahan  
+**Inn . Church . Save . Slots . Storage**  
+30 . N . N . N . -| 30 . N . N . N . -| 30 . N . N . N . N| 30 . N . N . N . N  
+**Item Shop**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Holy Water| Fairy Water| Repellent| Holy Water  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+Small Amulet Charm| Dragon's Bane| Amulet| Banishing Bell  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Pelpoi| Wellgarth| Wellgarth| Burrowell  
+**Inn . Church . Save . Slots . Storage**  
+40 . Y . N . Y . -| 40 . Y . N . Y . -| 40 . Y . N . Y . Y| 40 . Y . N . Y . Y  
+**Item Shop 1**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+Holy Water| Fairy Water| Warp Wing| Chimaera Wing  
+Small Amulet Charm| Dragon's Bane| Amulet| Banishing Bell  
+**Item Shop 2**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb  
+??? (secret Jail Key)| ??? (secret Jailor's Key)| ??? (secret Jail Key)| ??? (secret Jailor's Key)  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+**Arms Shop**  
+Giant Hammer| Giant Hammer| Hammer| Sledgehammer  
+Dragon Sword| Dragon Killer| Dragon Sword| Dragonsbane  
+Sword of Light| Light Sword| Light Sword| Aurora Blade  
+Mink Coat| Mink Coat| Fur Cloak| Mink Mantle  
+Shield of Strength| Shield of Strength| Heal Shield| Power Shield  
+Iron Helmet| Iron Helmet| Iron Helmet| Iron Helmet  
+**Name**  
+---  
+**FC**| **NES**| **GBC**| **iOS/Android/Switch**  
+Tepa| Tuhn| Tuhn| Slewse  
+**Inn . Church . Save . Slots . Storage**  
+40 . Y . N . N . -| 40 . Y . N . N . -| 40 . Y . N . N . N| 40 . Y . N . N . N  
+**Item Shop**  
+Holy Water| Fairy Water| Repellent| Holy Water  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing  
+Small Amulet Charm| Dragon's Bane| Amulet| Banishing Bell  
+**Arms Shop**  
+Wizard's Wand| Wizard's Wand| Wizard Wand| Wizard's Staff  
+Dragon Sword| Dragon Killer| Dragon Sword| Dragonsbane  
+Falcon Sword| Falcon Sword| Falcon Sword| Falcon Blade  
+Magic Armor| Magic Armor| Magic Armor| Magic Armour  
+Shield of Strength| Shield of Strength| Heal Shield| Power Shield  
+Iron Helmet| Iron Helmet| Iron Helmet| Iron Helmet  
+  
+## Caves and Towers
+
+The various caves and towers remain mostly unchanged from version to version. Some have more people wandering around giving hints, and also a few treasure chests that used to be empty now contain things like prayer rings or seeds. I may update this section with treasure chest comparisons, but for now I'm going to just focus on the name changes in the three English versions.
+
+**Name**  
+---  
+**NES**| **GBC**| **iOS/Android/Switch**  
+Spring of Bravery| Hero's Spring| Wellspring of the Hero  
+Gwaelin's Cave| Lora's Gate| Gwaelin's Gate  
+Lake Cave| Lake Cave| Lake Cave  
+Moonbrooke Castle| Moonbrook Castle| Moonbrooke Castle  
+Tower of the Wind| Wind Tower| Pillar of the Winds  
+Dragon's Horn (South)| Southern Drakhorn| Dragon's Horn South  
+Dragon's Horn (North)| Northern Drakhorn| Dragon's Horn North  
+Charlock Castle| Dracolord Castle| Dragonlord's Castle  
+Lighthouse| Lighthouse| Lighthouse  
+Tower of the Moon| Lune Tower| Tower of the Moon  
+Sea Cave| Ocean Cave| Undersea Cave*  
+Cave to Rhone| Path to Rhone| Cave to Rendarak  
+Hargon's Castle| Hargon Castle| Hall of Hargon  
+|  | *the lowest floor where you fight two Whackolytes might be called the "Shrine of the Great Conflagration"  
+  
+## Items
+
+One of the major differences you'll notice among the items in these different versions is that there is an actual "quick save" item in the FC, NES, and SFC versions. The mobile hardware for the GBC, smartphones, and Switch have Quick Save features built in, so that item was removed. The monster that used to drop it now drops the special helmet that reduces the MP cost to cast spells.
+
+Also, stat-boosting seeds were introduced in the SFC version, while weapon and armor bonuses increased for many items in the SFC version as well. Lastly, there were a few price changes for some weapons and armor in the iOS/Android/Switch version, notably the Wizard's Staff is more expensive because the spell it is attached to became a little stronger than it used to be.
+
+**ITEM NAME**| **BUY**| **SELL**| **Stat Increase**  
+---|---|---|---  
+**FC**| **NES**| **GBC**| **iOS/And/Sw**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**  
+Medical Herb| Medical Herb| Herb| Medicinal Herb| 15| 10| 8| 12| 8| 4| -| -| -  
+Antidote Herb| Antidote Herb| Antidote| Antidotal Herb| 8| 8| 10| 6| 6| 8| -| -| -  
+Holy Water| Fairy Water| Repellent| Holy Water| 40| 40| 20| 30| 30| 16| -| -| -  
+Chimera's Wing| Wing of the Wyvern| Warp Wing| Chimaera Wing| 80| 25| 25| 60| 19| 20| -| -| -  
+Small Amulet Charm| Dragon's Bane| Amulet| Banishing Bell| 640| 640| 640| 480| 480| 480| -| -| -  
+-| -| STRseed| Seed of Strength| -| -| -| -| 112| 112| -| +1-3| +1-3  
+-| -| AGLseed| Seed of Agility| -| -| -| -| 100| 100| -| +1-3| +1-3  
+-| -| DEFseed| Seed of Resilience| -| -| -| -| 100| 100| -| +4| +4  
+-| -| LifeAcorn| Seed of Life| -| -| -| -| 150| 150| -| +4-6| +4-6  
+-| -| MysticNut| Seed of Magic| -| -| -| -| 100| 100| -| +3-5| +3-5  
+Lottery Ticket| Lottery Ticket| SlotToken| Tombola Ticket| -| -| -| 53| 53| 53| -| -| -  
+Ring of Prayer| Wizard's Ring| Wizard Ring| Prayer Ring| -| -| -| 1950| 1950| 1950| -| -| -  
+Gold Card| Golden Card| Gold Card| Loyalty Card| -| -| -| 375| 375| 375| -| -| -  
+Leaf of the World Tree| Leaf of the World Tree| WorldLeaf| Yggdrasil Leaf| -| -| -| 5| 5| 5| -| -| -  
+Jail Key| Jailor's Key| Jail Key| Jailor's Key| 2000| 2000| 2000| 1500| 1500| 1500| -| -| -  
+Devil's Tail (cursed)| Gremlin's Tail (cursed)| DvlTail (cursed)| Devil's Tail (cursed)| -| -| -| 1125| 1125| 1125| -| -| -  
+Ball for Resurrection| Dragon's Potion| -*| -| -| -| -| 7500| -*| -| -| -| -  
+|  | *Revival Gem in SFC|  |  |  |  |  | *7500|  |  |  |   
+**WEAPON NAME**| **BUY**| **SELL**| **Stat Increase**| **EQUIP**  
+---|---|---|---|---  
+**FC**| **NES**| **GBC**| **iOS/And/Sw**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**|   
+Cypress Stick| Bamboo Stick| Wooden Cane| Cypress Stick| -| -| -| 15| 15| 15| +2| +2| +2| H, C, M  
+Club| Club| Club| Oaken Club| 60| 60| 60| 45| 45| 45| +8| +8| +8| H, C  
+Copper Sword| Copper Sword| Copper Sword| Copper Sword| 100| 100| 100| 75| 75| 75| +10| +10| +10| H, C  
+Holy Knife| Magic Knife| Knife| Divine Dagger| 200| 200| 200| 150| 150| 150| +12| +12| +12| H, C, M  
+Chain Sickle| Chain Sickle| Sickle| Chain Sickle| 390| 330| 330| 293| 247| 247| +15| +15| +15| H, C  
+Iron Spear| Iron Spear| Spear| Iron Lance| 770| 770| 770| 578| 578| 578| +20| +20| +20| H, C  
+Broad Sword| Broad Sword| Steel Sword| Steel Broadsword| 1500| 1500| 1500| 1125| 1125| 1125| +30| +30| +30| H  
+Wizard's Wand| Wizard's Wand| Wizard Wand| Wizard's Staff| 2500| 2500| 4000| 1875| 1875| 3000| +10*| +27| +27| H, C, M  
+Giant Hammer| Giant Hammer| Hammer| Sledgehammer| 4000| 4000| 4000| 3000| 3000| 3000| +35| +40| +40| H  
+Roto's Sword| Sword of Erdrick| Loto Sword| Erdrick's Sword| -| -| -| 2| -| -| +40| +40| +40| H*, C  
+Dragon Killer| Dragon Killer| Dragon Sword| Dragonsbane| 8000| 8000| 8000| 6000| 6000| 6000| +50| +55| +55| H  
+Sword of Light| Light Sword| Light Sword| Aurora Blade| 16000| 16000| 16000| 12000| 12000| 12000| +65| +70| +70| H*, C  
+Lightning Wand| Staff of Thunder| Bolt Staff| Lightning Staff| -| -| -| 19500| 19500| 19500| +15| +45| +45| H, C, M  
+Falcon Sword| Falcon Sword| Falcon Sword| Falcon Blade| 25000| 25000| 25000| 18750| 18750| 18750| +5| +7| +7| H, C  
+Lightning Sword| Thunder Sword| Thundr Sword| Thunderbolt Blade| -| -| -| 375| 375| 375| +80| +95| +95| H  
+Sword of Destruction (cursed)| Sword of Destruction (cursed)| Devil Sword (cursed)| Sword of Ruin (cursed)| -| -| -| 11250| 11250| 11250| +93| +105| +105| H*, C  
+|  |  |  |  |  |  |  |  |  | *FC: +8|  |  | *FC: H only  
+**ARMOR NAME**| **BUY**| **SELL**| **Stat Increase**| **EQUIP**  
+---|---|---|---|---  
+**FC**| **NES**| **GBC**| **iOS/And/Sw**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**|   
+Clothes| Clothes| Cloth Armor| Plain Clothes| -| -| -| 23| 23| 23| +2| +2| +2| H, C, M  
+Leather Armor| Leather Armor| Leathr Armor| Leather Armour| -| -| -| 113| 113| 113| +6| +6| +6| H, C  
+Chain Mail| Chain Mail| Chain Mail| Chain Mail| 480| 390| 390| 360| 292| 292| +12| +12| +12| H, C  
+Full Plate Armor| Full Plate Armor| Steel Armor| Full Plate Armour| 1000| 1000| 1200| 750| 750| 900| +25| +25| +25| H  
+Clothes to Avoid Enemies| Clothes Hiding| Evade Cloak| Cloak of Evasion| 1250| 1250| 1800| 938| 938| 1350| +20| +35| +35| H, C, M  
+Magic Armor| Magic Armor| Magic Armor| Magic Armour| 4300| 4300| 6000| 3225| 3225| 4500| +25| +35| +42| H, C  
+Mink Coat| Mink Coat| Fur Cloak| Mink Mantle| 65000| 65000| 65000| 48750| 48750| 48750| +30| +60| +60| H, C, M  
+Gaia's Armor| Armor of Gaia| Gaia Armor| Tectonic Plate| -| -| -| 38| 38| 38| +35| +47| +47| H  
+Water Robe| Water Flying Cloth| Water Robe| Flowing Dress| -| -| -| 53| 53| 53| +35| +65| +65| H, C, M  
+Roto's Armor| Armor of Erdrick| Loto Armor| Erdrick's Armour| -| -| -| 3| -| -| +40| +75| +75| H  
+Devil's Armor (cursed)| Gremlin's Armor (cursed)| Devil Armor (cursed)| Wailer's Mail (cursed)| -| -| -| 4800| 4800| 4800| +50| +87| +87| H, C  
+**SHIELDS**| **BUY**| **SELL**| **Stat Increase**| **EQUIP**  
+---|---|---|---|---  
+**FC**| **NES**| **GBC**| **iOS/And/Sw**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**|   
+Leather Shield| Leather Shield| Leathr Shield| Leather Shield| 90| 90| 90| 68| 45| 67| +4| +4| +4| H, C  
+Steel Shield| Steel Shield| Steel Shield| Steel Shield| 2000| 2000| 2000| 1500| 1500| 1500| +10| +10| +10| H  
+Shield of Strength| Shield of Strength| Heal Shield| Power Shield| 21500| 21500| 21500| 16125| 16125| 16125| +18| +18| +18| H, C  
+Roto's Shield| Shield of Erdrick| Loto Shield| Erdrick's Shield| -| -| -| 15| -| -| +20| +30| +30| H  
+Evil's Shield (cursed)| Evil Shield (cursed)| Evil Shield (cursed)| Thanatos' Shield (cursed)| -| -| -| 6600| 6600| 6600| +10| +40| +40| H  
+**HELMETS**| **BUY**| **SELL**| **Stat Increase**| **EQUIP**  
+---|---|---|---|---  
+**FC**| **NES**| **GBC**| **iOS/And/Sw**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**| **FC**| **NES**| **GBC**| **i/A/S**|   
+Iron Helmet| Iron Helmet| Iron Helmet| Iron Helmet| 3150| 3150| 3150| 2363| 2363| 2363| +6| +6| +6| +6| H  
+Roto's Helmet| Helmet of Erdrick| Loto Helmet| Erdrick's Helm| -| -| -| -| -| -| +20| +20| +20| +20| H  
+Mysterious Hat| Mysterious Hat| Magic Helmet| Mad Cap| -| -| -| 15000| 15000| 15000| +4| -| +8| +8| H, C, M  
+**QUEST ITEMS**  
+---  
+**FC**| **NES**| **GBC**| **iOS/And/Switch**  
+Silver Key| Silver Key| SilverKey| Silver Key  
+Lar's Mirror| Mirror of Ra| LarMirror| Ra's Mirror  
+Cloak of Wind| Cloak of Wind| Wind Cloak| Windbraker  
+Treasures| Treasures| Treasure| Sunken Treasure  
+Flute of Echo| Echoing Flute| EchoFlute| Echo Flute  
+Thread of Raindrop| Dew's Yarn| Dew Yarn| Celestial Skein  
+Sun Crest| Sun Crest| Sun Seal| Sun Sigil  
+Star Crest| Star Crest| Star Seal| Star Sigil  
+Moon Crest| Moon Crest| Moon Seal| Moon Sigil  
+Gold Key| Golden Key| Gold Key| Gold Key  
+Emblem of Roto| Token of Erdrick| Loto Seal| Mark of Erdrick  
+Floodgate Key| Watergate Key| Dam Key| Floodgate Key  
+Holy Fabric Loom| Magic Loom| Holy Loom| Subtle Shuttle  
+Water Crest| Water Crest| Water Seal| Water Sigil  
+Life Crest| Life Crest| Life Seal| Soul Sigil  
+Luvis' Charm| Charm of Rubiss| RubissChm| Eye of Rubiss  
+Fragment of Moon| Moon Fragment| MoonShard| Moonshard  
+Demon Figure| Eye of Malroth| EvlStatue| False Idol  
+  
+## Spells
+
+Spells did not change much until the iOS/Android/Switch version, where healing spells cost a little less and the first attack spell cost a little more but also targeted a group of enemies instead of just one enemy.
+
+*Note, the FC versions of these spells are the English romanizations of their Japanese names.  
+**Target refers to 1 enemy (1E), 1 group of enemies (1G), all enemies (All E), the whole party, 1 ally, or it is a field / travel spell.
+
+**NAME***|  **Level Learned**| **MP Cost**| **Target** & Damage/Heal**  
+---|---|---|---  
+**FC**| **NES**| **GBC**| **iOS/A/Sw**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**| **FC/ NES**| **GBC**| **i/A/S**|   
+gira| Firebal| Firebal| Sizz| C:3| C:3| C:3| 2| 2| 3| 1E| 1E| 1G| 15-25 dmg1  
+bagi| Infernos| Infernos| Woosh| M:4| M:4| M:4| 4| 4| 4| 1G| 1G| 1G| about 30 dmg  
+begirama| Firebane| Firebane| Sizzle| C:18| C:18| C:18| 4| 4| 5| All E| All E| 1G| 30-50 dmg  
+zaraki| Defeat| Defeat| Thwack| C:23| C:23| C:27| 4| 4| 4| 1G| 1G| 1G| -  
+ionazun| Explodet| Explodet| Kaboom| M:19| M:19| M:21| 8| 8| 8| All E| All E| All E| 50-80 dmg  
+megante| Sacrifice| Sacrifice| Kamikazee| C:28| C:28| C:35| 1| 1| 1| All E| All E| All E| -  
+rariho| Sleep| Sleep| Snooze| M:2| M:2| M:2| 2| 2| 2| 1G| 1G| 1G| -  
+mahoton| Stopspell| StopSpell| Fizzle| C:8| C:8| C:8| 3| 3| 3| 1G| 1G| 1G| -  
+manusa| Surround| Surround| Dazzle| M:6| M:6| M:6| 2| 2| 2| 1G| 1G| 1G| -  
+rukanan| Defence| Defense| Kasap| M:10| M:10| M:10| 2| 2| 2| All E| All E| 1G| -  
+sukurut| Increase| Increase| Kabuff| C:20| C:20| C:25| 2| 2| 2| party| party| party| -  
+hoimi| Heal| Heal| Heal| C:1| C:1| C:1| 3| 3| 2| 1 ally| 1 ally| 1 ally| about 20 HP2  
+kiari| Antidote| Antidote| Squelch| C:6 M:12| C:6 M:12| C:6 M:13| 3| 3| 3| 1 ally| 1 ally| 1 ally| -  
+behoimi| Healmore| HealMore| Midheal| C:14 M:1| C:14 M:1| C:18 M:1| 5| 5| 4| 1 ally| 1 ally| 1 ally| 40-50 HP3  
+behoma| Healall| HealAll| Fullheal| M:15| M:15| M:16| 8| 8| 8| 1 ally| 1 ally| 1 ally| -  
+zaorik| Revive| Revive| Kazing| C:25| C:25 M:22| C:29 M:27| 15| 15| 15| 1 ally| 1 ally| 1 ally| -  
+reremit| Outside| Outside| Evac| C:12 M:17| C:12 M:17| C:14 M:18| 6| 6| 6| travel| travel| travel| -  
+rura| Return| Return| Zoom| C:10| C:10| C:10| 6| 6| 1| travel| travel| travel| -  
+toherosu| Repel| Repel| Holy Protection| M:8| M:8| M:8| 2| 2| 2| travel| travel| travel| -  
+toramana| Stepguard| StepGuard| Safe Passage| C:17 M:21| C:17| C:21| 4| 1| 1| travel| travel| travel| -  
+abakam| Open| Open| Click| M:23| M:29| M:36| 2| 2| 0| travel| travel| travel| -  
+parupunte| Chance| Chance| Hocus Pocus| M:25| M:25| M:30| 15*| 15| 15| varies| varies| varies| -  
+|  |  |  |  |  |  | *NES poster says 12, probably a typo.|  |  |  |   
+  
+1: 10-20 dmg on iOS/And/Switch  
+2: 25-30 HP on iOS/And/Switch  
+3: 85-100 HP on iOS/And/Switch
+
+## Experience Charts
+
+Each member of your party can max out at 1,000,000 experience points, no matter which version of the game you're playing; however, there are different level caps. Level 50 for each party member in the iOS/Android/Switch version; or 50, 45, and 35 for Midenhall, Cannock, and Moonbrooke in all other versions.
+
+**Prince of Midenhall (Lorasia):**
+
+Lvl| Experience| Strength| Agility| Resilience| Max HP  
+---|---|---|---|---|---  
+| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S  
+1| 0| 0| 0| 5| 5| 5| 4| 4| 4| -| 2| 2| 28| 28| 28  
+2| 12| 12| 12| 7| 7| 7| 5| 5| 5| -| 3| 3| 37| 37| 37  
+3| 32| 32| 32| 12| 12| 12| 7| 7| 7| -| 4| 4| 40| 40| 40  
+4| 72| 72| 72| 17| 17| 17| 7| 7| 7| -| 4| 4| 48| 48| 48  
+5| 140| 140| 140| 18| 18| 18| 12| 12| 11| -| 6| 6| 52| 52| 50  
+6| 280| 280| 280| 20| 20| 20| 18| 18| 14| -| 9| 9| 55| 55| 53  
+7| 560| 560| 560| 29| 29| 26| 21| 21| 16| -| 10| 10| 56| 56| 54  
+8| 1000| 1000| 910| 30| 30| 29| 24| 24| 18| -| 11| 12| 58| 58| 56  
+9| 1800| 1800| 1500| 33| 33| 31| 24| 24| 18| -| 11| 13| 58| 58| 56  
+10| 2800| 2800| 2300| 36| 36| 34| 28| 28| 20| -| 13| 14| 60| 60| 58  
+11| 3900| 3900| 3100| 41| 41| 36| 30| 30| 21| -| 15| 15| 62| 62| 60  
+12| 5300| 5300| 4100| 44| 44| 40| 33| 33| 22| -| 16| 16| 63| 63| 61  
+13| 7600| 7600| 5200| 49| 49| 43| 37| 37| 24| -| 18| 17| 64| 64| 64  
+14| 10,000| 10,000| 6300| 53| 53| 45| 37| 37| 24| -| 18| 18| 65| 65| 68  
+15| 13,000| 13,000| 7500| 55| 55| 46| 41| 41| 25| -| 20| 20| 68| 68| 68  
+16| 17,000| 17,000| 8700| 58| 58| 46| 47| 47| 27| -| 23| 21| 70| 70| 69  
+17| 21,000| 21,000| 9900| 61| 61| 48| 49| 49| 28| -| 24| 22| 75| 75| 72  
+18| 26,000| 26,000| 11,900| 66| 66| 52| 49| 49| 31| -| 24| 24| 78| 78| 79  
+19| 32,000| 32,000| 14,000| 69| 69| 56| 52| 52| 33| -| 25| 26| 82| 82| 87  
+20| 40,000| 40,000| 16,200| 75| 75| 60| 56| 56| 37| -| 27| 27| 95| 95| 95  
+21| 50,000| 50,000| 18,700| 81| 81| 61| 59| 59| 39| -| 28| 29| 101| 101| 98  
+22| 62,000| 62,000| 21,700| 87| 87| 61| 65| 65| 40| -| 31| 30| 110| 110| 101  
+23| 75,000| 75,000| 25,000| 91| 91| 62| 66| 66| 42| -| 31| 33| 119| 119| 103  
+24| 90,000| 90,000| 29,000| 94| 94| 63| 70| 70| 43| -| 33| 35| 125| 125| 105  
+25| 107,000| 107,000| 34,000| 99| 99| 68| 70| 70| 49| -| 33| 37| 134| 134| 112  
+26| 127,000| 127,000| 39,500| 103| 103| 71| 73| 73| 53| -| 34| 38| 142| 142| 117  
+27| 150,000| 150,000| 45,500| 107| 107| 74| 79| 79| 57| -| 37| 39| 153| 151| 121  
+28| 175,000| 175,000| 52,000| 112| 112| 79| 82| 82| 57| -| 38| 41| 163| 161| 124  
+29| 200,000| 200,000| 59,000| 116| 116| 84| 86| 86| 58| -| 40| 43| 170| 168| 124  
+30| 230,000| 230,000| 67,000| 121| 121| 88| 88| 88| 61| -| 42| 44| 173| 171| 126  
+31| 260,000| 260,000| 76,000| 127| 127| 94| 90| 90| 63| -| 43| 46| 178| 176| 127  
+32| 290,000| 290,000| 86,000| 130| 130| 102| 91| 91| 70| -| 44| 50| 180| 178| 137  
+33| 320,000| 320,000| 97,000| 131| 131| 107| 91| 91| 72| -| 44| 52| 188| 186| 143  
+34| 350,000| 350,000| 109,000| 133| 133| 113| 93| 93| 76| -| 45| 54| 190| 188| 150  
+35| 380,000| 380,000| 121,000| 134| 134| 120| 95| 95| 78| -| 46| 56| 192| 190| 156  
+36| 410,000| 410,000| 135,000| 136| 136| 123| 96| 96| 79| -| 47| 57| 197| 195| 160  
+37| 440,000| 440,000| 152,000| 138| 138| 126| 98| 98| 83| -| 48| 60| 200| 198| 163  
+38| 470,000| 470,000| 172,000| 141| 141| 130| 100| 100| 86| -| 49| 63| 201| 199| 165  
+39| 500,000| 500,000| 194,000| 142| 142| 133| 102| 102| 90| -| 50| 65| 205| 203| 170  
+40| 530,000| 530,000| 217,000| 143| 143| 138| 105| 105| 95| -| 51| 68| 206| 204| 177  
+41| 570,000| 570,000| 247,000| 145| 145| 145| 107| 107| 101| -| 52| 73| 210| 208| 181  
+42| 620,000| 620,000| 282,000| 146| 145| 153| 109| 109| 104| -| 53| 78| 211| 209| 189  
+43| 670,000| 670,000| 320,000| 149| 149| 159| 110| 110| 110| -| 54| 81| 215| 213| 193  
+44| 720,000| 720,000| 365,000| 150| 150| 165| 112| 112| 114| -| 55| 87| 215| 213| 200  
+45| 770,000| 770,000| 435,000| 150| 150| 170| 115| 115| 120| -| 58| 91| 220| 218| 205  
+46| 820,000| 820,000| 520,000| 151| 151| 173| 120| 120| 125| -| 60| 97| 221| 219| 210  
+47| 870,000| 870,000| 610,000| 152| 152| 177| 123| 123| 130| -| 61| 104| 222| 220| 218  
+48| 920,000| 920,000| 720,000| 155| 155| 183| 130| 130| 137| -| 64| 113| 229| 227| 225  
+49| 970,000| 970,000| 850,000| 156| 156| 191| 132| 132| 139| -| 65| 119| 235| 233| 231  
+50| 1,000,000| 1,000,000| 1,000,000| 160| 160| 203| 140| 140| 147| -| 73| 129| 240| 238| 238  
+  
+**Prince of Cannock:**
+
+Lvl| Experience| Strength| Agility| Resilience| Max HP| Max MP| Spell  
+---|---|---|---|---|---|---|---  
+| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S  
+1| 0| 0| 0| 4| 4| 4| 4| 4| 4| -| 2| 2| 31| 31| 31| 6| 6| 6| Heal| Heal| Heal  
+2| 24| 24| 24| 4| 4| 4| 7| 7| 7| -| 3| 4| 34| 34| 34| 12| 12| 12|  |  |   
+3| 60| 60| 60| 6| 6| 8| 9| 9| 9| -| 4| 5| 35| 35| 35| 16| 16| 16| Firebal| Firebal| Sizz  
+4| 110| 110| 110| 7| 7| 10| 11| 11| 11| -| 5| 6| 38| 38| 38| 18| 18| 18|  |  |   
+5| 200| 200| 200| 7| 7| 12| 15| 15| 14| -| 7| 9| 40| 40| 40| 20| 20| 20|  |  |   
+6| 380| 380| 380| 8| 8| 15| 19| 19| 16| -| 9| 10| 42| 42| 42| 22| 22| 22| Antidote| Antidote| Squelch  
+7| 700| 700| 700| 9| 9| 17| 21| 21| 18| -| 11| 11| 42| 42| 42| 27| 27| 27|  |  |   
+8| 1300| 1300| 1300| 15| 15| 23| 21| 21| 20| -| 11| 11| 44| 44| 44| 32| 32| 32| Stopspell| StopSpell| Fizzle  
+9| 2400| 2400| 2400| 15| 15| 24| 28| 28| 25| -| 14| 13| 45| 45| 45| 34| 34| 34|  |  |   
+10| 4000| 4000| 3500| 16| 16| 25| 32| 32| 26| -| 16| 14| 47| 47| 47| 38| 38| 38| Return| Return| Zoom  
+11| 6000| 6000| 4600| 17| 17| 26| 36| 36| 28| -| 18| 14| 50| 50| 50| 40| 40| 40|  |  |   
+12| 8200| 8200| 5700| 19| 19| 28| 36| 36| 29| -| 18| 15| 52| 52| 52| 43| 43| 43| Outside| Outside|   
+13| 11,000| 11,000| 6900| 27| 27| 32| 43| 43| 31| -| 21| 15| 54| 54| 54| 45| 45| 45|  |  |   
+14| 15,000| 15,000| 8100| 30| 30| 32| 48| 48| 33| -| 23| 16| 59| 59| 54| 48| 48| 46| Healmore| HealMore| Evac  
+15| 19,000| 19,000| 9300| 34| 34| 33| 48| 48| 34| -| 23| 17| 63| 63| 55| 50| 50| 46|  |  |   
+16| 24,000| 24,000| 10,500| 39| 39| 34| 55| 55| 36| -| 26| 17| 65| 65| 55| 54| 54| 50|  |  |   
+17| 30,000| 30,000| 13,000| 39| 39| 41| 57| 57| 42| -| 27| 21| 69| 69| 64| 62| 62| 58| Stepguard| StepGuard|   
+18| 37,000| 37,000| 15,800| 40| 40| 43| 60| 60| 45| -| 27| 22| 72| 72| 68| 65| 65| 62| Firebane| Firebane| Midheal  
+19| 46,000| 46,000| 18,600| 41| 41| 45| 66| 66| 47| -| 30| 23| 79| 79| 72| 68| 68| 65|  |  |   
+20| 57,000| 57,000| 21,600| 43| 43| 46| 69| 69| 49| -| 31| 24| 83| 83| 74| 68| 68| 65| Increase| Increase|   
+21| 70,000| 70,000| 24,600| 45| 45| 46| 73| 73| 52| -| 33| 24| 87| 87| 76| 76| 76| 67|  |  | Safe Passage  
+22| 85,000| 85,000| 28,100| 47| 47| 46| 77| 77| 54| -| 35| 24| 91| 91| 80| 77| 77| 68|  |  |   
+23| 100,000| 100,000| 33,600| 48| 48| 53| 79| 79| 60| -| 36| 28| 99| 99| 87| 83| 83| 77| Defeat| Defeat| Sizzle  
+24| 116,000| 116,000| 39,100| 50| 50| 55| 82| 82| 64| -| 37| 30| 106| 106| 92| 87| 87| 83|  |  |   
+25| 134,000| 134,000| 45,100| 51| 51| 56| 82| 82| 66| -| 37| 30| 113| 113| 97| 91| 91| 91| Revive| Revive| Kabuff  
+26| 156,000| 156,000| 52,100| 53| 53| 58| 85| 85| 69| -| 38| 31| 125| 125| 99| 91| 91| 91|  |  |   
+27| 182,000| 182,000| 59,500| 54| 54| 59| 93| 93| 70| -| 42| 32| 138| 138| 101| 94| 94| 94|  |  | Thwack  
+28| 210,000| 210,000| 68,000| 58| 58| 60| 93| 93| 72| -| 42| 32| 143| 143| 103| 99| 99| 96| Sacrifice| Sacrifice|   
+29| 240,000| 240,000| 77,500| 65| 65| 61| 99| 99| 74| -| 45| 32| 152| 152| 104| 105| 105| 98|  |  | Kazing  
+30| 280,000| 280,000| 87,500| 68| 68| 62| 100| 100| 75| -| 46| 34| 153| 153| 105| 108| 108| 101|  |  |   
+31| 310,000| 310,000| 100,000| 70| 70| 70| 102| 102| 80| -| 47| 39| 159| 159| 113| 112| 112| 110|  |  |   
+32| 340,000| 340,000| 113,000| 70| 70| 72| 105| 105| 84| -| 48| 40| 160| 160| 115| 115| 115| 113|  |  |   
+33| 380,000| 380,000| 126,000| 80| 80| 77| 107| 107| 88| -| 49| 41| 161| 161| 119| 118| 118| 116|  |  |   
+34| 430,000| 430,000| 140,000| 85| 85| 82| 108| 108| 92| -| 49| 43| 163| 163| 121| 120| 120| 120|  |  |   
+35| 480,000| 480,000| 154,000| 92| 92| 85| 110| 110| 94| -| 50| 46| 165| 165| 123| 125| 125| 125|  |  | Kamikazee  
+36| 520,000| 520,000| 169,000| 100| 100| 89| 113| 113| 97| -| 51| 47| 168| 168| 126| 125| 125| 125|  |  |   
+37| 580,000| 580,000| 184,000| 109| 109| 92| 113| 113| 99| -| 51| 49| 171| 171| 129| 128| 128| 128|  |  |   
+38| 640,000| 640,000| 204,000| 115| 115| 94| 117| 117| 103| -| 53| 54| 176| 176| 133| 130| 130| 130|  |  |   
+39| 700,000| 700,000| 224,000| 115| 115| 96| 120| 120| 106| -| 54| 58| 180| 180| 135| 137| 137| 137|  |  |   
+40| 760,000| 760,000| 251,000| 120| 120| 101| 120| 120| 110| -| 54| 63| 182| 182| 143| 140| 140| 140|  |  |   
+41| 820,000| 820,000| 282,000| 122| 122| 108| 125| 125| 113| -| 56| 68| 190| 190| 148| 142| 142| 142|  |  |   
+42| 840,000| 840,000| 316,000| 130| 130| 117| 131| 131| 117| -| 59| 72| 190| 190| 155| 145| 145| 145|  |  |   
+43| 900,000| 900,000| 353,000| 131| 131| 126| 133| 133| 122| -| 60| 75| 194| 194| 162| 149| 149| 149|  |  |   
+44| 960,000| 960,000| 398,000| 135| 135| 133| 138| 138| 125| -| 62| 80| 196| 196| 168| 155| 155| 155|  |  |   
+45| 1,000,000| 1,000,000| 460,000| 140| 140| 139| 140| 140| 130| -| 63| 87| 200| 200| 177| 160| 160| 160|  |  |   
+46| -| -| 525,000| -| -| 146| -| -| 137| -| -| 93| -| -| 183| -| -| 162|  |  |   
+47| -| -| 610,000| -| -| 151| -| -| 141| -| -| 97| -| -| 190| -| -| 166|  |  |   
+48| -| -| 730,000| -| -| 158| -| -| 146| -| -| 104| -| -| 194| -| -| 174|  |  |   
+49| -| -| 850,000| -| -| 170| -| -| 149| -| -| 109| -| -| 202| -| -| 181|  |  |   
+50| -| -| 1,000,000| -| -| 180| -| -| 152| -| -| 121| -| -| 208| -| -| 191|  |  |   
+  
+**Princess of Moonbrooke:**
+
+Lvl| Experience| Strength| Agility| Resilience| Max HP| Max MP| Spell  
+---|---|---|---|---|---|---|---  
+| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| i/A/S| FC/NES| GBC| iOS/And/Sw  
+1| 0| 0| 0| 2| 2| 2| 22| 22| 22| -| 11| 10| 32| 32| 32| 28| 28| 28| Healmore| HealMore| Midheal  
+2| 100| 100| 100| 2| 2| 2| 26| 26| 26| -| 13| 12| 32| 32| 32| 28| 28| 28| Sleep| Sleep| Snooze  
+3| 300| 300| 300| 2| 2| 2| 26| 26| 29| -| 13| 13| 37| 37| 37| 35| 35| 35|  |  |   
+4| 600| 600| 600| 3| 3| 3| 28| 28| 31| -| 14| 15| 37| 37| 37| 44| 44| 44| Infernos| Infernos| Woosh  
+5| 1200| 1200| 1200| 3| 3| 3| 33| 33| 36| -| 16| 16| 38| 38| 38| 48| 48| 48|  |  |   
+6| 2400| 2400| 2200| 4| 4| 4| 40| 40| 40| -| 19| 18| 39| 39| 39| 48| 48| 48| Surround| Surround| Dazzle  
+7| 4200| 4200| 3300| 5| 5| 5| 42| 42| 42| -| 20| 19| 40| 40| 40| 50| 50| 50|  |  |   
+8| 6400| 6400| 4500| 6| 6| 6| 47| 47| 44| -| 22| 20| 45| 45| 45| 52| 52| 52| Repel| Repel| Holy Protection  
+9| 9000| 9000| 5700| 7| 7| 7| 50| 50| 47| -| 23| 20| 50| 50| 46| 58| 58| 55|  |  |   
+10| 12,000| 12,000| 6900| 8| 8| 8| 55| 55| 48| -| 25| 21| 56| 56| 47| 63| 63| 57| Defence| Defense| Kasap  
+11| 16,000| 16,000| 8200| 8| 8| 8| 56| 56| 50| -| 25| 22| 58| 58| 48| 69| 69| 60|  |  |   
+12| 20,000| 20,000| 9600| 9| 9| 9| 58| 58| 51| -| 26| 22| 59| 59| 49| 71| 71| 62| Antidote| Antidote|   
+13| 25,000| 25,000| 12,600| 10| 10| 10| 63| 63| 55| -| 28| 25| 62| 62| 56| 75| 75| 71|  |  | Squelch  
+14| 31,000| 31,000| 15,900| 11| 11| 11| 69| 69| 57| -| 31| 27| 68| 68| 58| 80| 80| 76|  |  |   
+15| 39,000| 39,000| 19,500| 12| 12| 11| 72| 72| 58| -| 32| 28| 75| 75| 60| 86| 86| 82| Healall| HealAll|   
+16| 50,000| 50,000| 23,500| 15| 15| 12| 78| 78| 59| -| 35| 28| 80| 80| 62| 98| 94| 86|  |  | Fullheal  
+17| 65,000| 65,000| 28,000| 17| 17| 13| 81| 81| 61| -| 36| 28| 89| 89| 65| 110| 96| 88| Outside| Outside|   
+18| 83,000| 83,000| 33,000| 18| 18| 14| 85| 85| 64| -| 38| 28| 97| 97| 66| 119| 105| 90|  |  | Evac  
+19| 103,000| 103,000| 38,500| 20| 20| 14| 87| 87| 66| -| 39| 29| 105| 105| 67| 128| 114| 93| Explodet| Explodet|   
+20| 125,000| 125,000| 45,500| 20| 20| 17| 96| 96| 72| -| 43| 34| 112| 112| 75| 135| 121| 101|  |  |   
+21| 150,000| 150,000| 53,000| 23| 23| 19| 100| 100| 76| -| 45| 35| 124| 124| 81| 138| 124| 107| Stepguard|  | Kaboom  
+22| 180,000| 180,000| 61,000| 25| 25| 21| 110| 110| 81| -| 50| 35| 133| 133| 84| 140| 126| 112|  | Revive|   
+23| 220,000| 220,000| 69,000| 29| 29| 22| 117| 117| 85| -| 53| 36| 140| 138| 87| 151| 137| 116| Open|  |   
+24| 270,000| 270,000| 78,000| 33| 33| 22| 117| 117| 87| -| 53| 36| 145| 139| 90| 158| 144| 118|  |  |   
+25| 300,000| 300,000| 87,000| 35| 35| 23| 120| 120| 88| -| 54| 37| 146| 142| 92| 163| 149| 120| Chance| Chance|   
+26| 330,000| 330,000| 97,000| 36| 36| 23| 123| 123| 91| -| 55| 38| 150| 146| 95| 172| 158| 122|  |  |   
+27| 360,000| 360,000| 108,000| 36| 36| 23| 128| 128| 93| -| 57| 40| 151| 147| 97| 179| 165| 124|  |  | Kazing  
+28| 400,000| 400,000| 120,000| 37| 37| 26| 132| 132| 100| -| 59| 42| 152| 148| 104| 184| 170| 133|  |  |   
+29| 450,000| 450,000| 133,000| 40| 40| 27| 135| 135| 104| -| 60| 44| 159| 155| 111| 185| 171| 139|  | Open|   
+30| 540,000| 540,000| 147,000| 42| 42| 27| 140| 140| 108| -| 62| 45| 160| 156| 116| 190| 176| 147|  |  | Hocus Pocus  
+31| 630,000| 630,000| 161,000| 48| 48| 28| 142| 142| 110| -| 63| 48| 166| 162| 118| 191| 177| 149|  |  |   
+32| 730,000| 730,000| 176,000| 52| 52| 28| 145| 145| 113| -| 64| 50| 168| 164| 119| 192| 178| 155|  |  |   
+33| 820,000| 820,000| 191,000| 56| 56| 29| 151| 151| 116| -| 67| 51| 170| 166| 120| 199| 185| 159|  |  |   
+34| 910,000| 910,000| 207,000| 60| 60| 29| 154| 154| 119| -| 68| 53| 171| 166| 122| 205| 191| 162|  |  |   
+35| 1,000,000| 1,000,000| 224,000| 70| 70| 31| 160| 160| 123| -| 71| 55| 180| 175| 123| 210| 196| 167|  |  |   
+36| -| -| 242,000| -| -| 32| -| -| 129| -| -| 58| -| -| 128| -| -| 170|  |  | Click  
+37| -| -| 261,000| -| -| 32| -| -| 132| -| -| 62| -| -| 130| -| -| 176|  |  |   
+38| -| -| 282,000| -| -| 34| -| -| 137| -| -| 65| -| -| 130| -| -| 179|  |  |   
+39| -| -| 304,000| -| -| 35| -| -| 140| -| -| 69| -| -| 131| -| -| 182|  |  |   
+40| -| -| 327,000| -| -| 37| -| -| 142| -| -| 74| -| -| 133| -| -| 186|  |  |   
+41| -| -| 352,000| -| -| 41| -| -| 144| -| -| 77| -| -| 138| -| -| 189|  |  |   
+42| -| -| 380,000| -| -| 46| -| -| 147| -| -| 80| -| -| 144| -| -| 193|  |  |   
+43| -| -| 415,000| -| -| 49| -| -| 152| -| -| 84| -| -| 148| -| -| 200|  |  |   
+44| -| -| 455,000| -| -| 52| -| -| 157| -| -| 87| -| -| 153| -| -| 203|  |  |   
+45| -| -| 500,000| -| -| 53| -| -| 165| -| -| 92| -| -| 156| -| -| 205|  |  |   
+46| -| -| 570,000| -| -| 56| -| -| 171| -| -| 97| -| -| 160| -| -| 207|  |  |   
+47| -| -| 650,000| -| -| 59| -| -| 179| -| -| 103| -| -| 163| -| -| 209|  |  |   
+48| -| -| 750,000| -| -| 63| -| -| 186| -| -| 109| -| -| 170| -| -| 214|  |  |   
+49| -| -| 850,000| -| -| 67| -| -| 193| -| -| 115| -| -| 175| -| -| 219|  |  |   
+50| -| -| 1,000,000| -| -| 72| -| -| 202| -| -| 125| -| -| 180| -| -| 229|  |  |   
+  
+## Monsters
+
+There is a great deal of data where monsters are concerned, and also where most of the variation between games is found. A lot of the monster data I have compiled from the official guidebooks, but some of it I have copied from tables on Japanese websites. The only stats that are easily verifiable are Experience and Gold so I'm starting with those, and I may update this guide with more data comparisons when I can verify or corroborate it.
+
+NAME| Experience| Max GOLD  
+---|---|---  
+NES| GBC| iOS/And/Switch| FC| NES| GBC| i/A/S| FC/NES| GBC| i/A/S  
+Slime| Slime| Slime| 1| 1| 1| 1| 2| 2| 2  
+Big Slug| GiantSlug| Maulusc| 1| 2| 2| 2| 3| 3| 3  
+Iron Ant| IronAnt| Iron Ant| 2| 2| 2| 3| 4| 4| 4  
+Drakee| Dracky| Dracky| 2| 3| 3| 4| 3| 3| 3  
+Wild Mouse| WildMouse| Ratscal| 3| 5| 5| 6| 5| 5| 5  
+Healer| Healer| Healslime| 13| 15| 15| 18| 5| 5| 5  
+Ghost Mouse| Phantom| Spirit| 4| 6| 6| 7| 6| 6| 6  
+Babble| Babble| Bubble Slime| 6| 8| 8| 9| 4| 4| 4  
+Army Ant| ArmyAnt| Army Ant| 4| 4| 4| 5| 2| 2| 2  
+Magician| Sorcerer| Magus| 8| 10| 10| 10| 10| 10| 10  
+Big Rat| BigRat| Fat Rat| 6| 7| 7| 8| 5| 5| 5  
+Big Cobra| KingCobra| Cobra King| 7| 9| 9| 10| 9| 9| 9  
+Magic Ant| MagicAnt| Somnol Ant| 18| 18| 18| 21| 8| 8| 8  
+Magidrakee| WizDracky| Drackmage| 10| 12| 12| 14| 10| 10| 10  
+Centipod| ArmorPede| Sentripede| 11| 14| 14| 20| 30| 30| 30  
+Man O' War| Jellyfish| Man o' War| 15| 25| 25| 40| 50| 50| 50  
+Lizard Fly| LizardFly| Dragonfry| 25| 27| 27| 32| 12| 20| 20  
+Zombie| Zombie| Corpse Corporal| 23| 40| 40| 48| 25| 25| 25  
+Smoke| Smoke| Smog| 11| 18| 18| 21| 40| 40| 40  
+Ghost Rat| GhostRat| Dirty Rat| 19| 23| 23| 39| 15| 25| 25  
+Baboon| Baboon| Badboon| 18| 20| 33| 39| 45| 45| 45  
+Carnivog| ManEater| Chewlip| 27| 29| 29| 34| 16| 31| 31  
+Megapede| MegaPede| Killipede| 30| 33| 33| 39| 25| 25| 25  
+Sea Slug| SeaSlug| Merlusc| 30| 34| 34| 50| 80| 80| 80  
+Medusa Ball| MedusaEye| Madusa| 32| 36| 36| 51| 29| 29| 29  
+Enchanter| Enchanter| Shaman| 34| 37| 37| 52| 30| 30| 30  
+Mud Man| MudDoll| Mud Mannequin| 32| 32| 32| 45| 35| 35| 35  
+Magic Baboon| Magabboon| Big Badboon| 38| 40| 40| 57| 45| 45| 45  
+Demighost| Reaper| Sekerleton| 42| 44| 44| 62| 50| 50| 50  
+Gremlin| Gremlin| Gremlin| 52| 52| 52| 74| 23| 47| 47  
+Poison Lily| PoisnLily| Gnashturtium| 31| 31| 31| 44| 25| 25| 25  
+Mummy Man| MummyMan| Mummy Boy| 44| 44| 44| 62| 40| 40| 40  
+Gorgon| Gorgon| Goregon| 50| 50| 50| 72| 30| 62| 62  
+Saber Tiger| SaberTger| Sabrecat| 40| 40| 45| 64| 55| 55| 55  
+Dragon Fly| DragonFly| Dragonfly| 59| 59| 59| 84| 43| 43| 43  
+Titan Tree| FaceTree| Treeface| 50| 50| 50| 72| 80| 80| 80  
+Undead| Undead| Deadnaut| 45| 45| 45| 64| 40| 82| 82  
+Basilisk| Basilisk| Cobra Kaiser| 41| 41| 41| 58| 58| 58| 58  
+Goopi| Goopi| Muddy Hand| 25| 25| 29| 40| 28| 42| 42  
+Orc| Orc| Orc| 61| 61| 61| 87| 50| 50| 50  
+Puppet Man| PuppetMan| Magic Marionette| 52| 52| 52| 74| 100| 100| 100  
+Mummy| Mummy| Mummy| 62| 62| 62| 88| 60| 60| 60  
+Evil Tree| EvilTree| Treevil| 67| 67| 67| 96| 45| 95| 95  
+Gas| Gas| Miasma| 39| 39| 39| 55| 30| 62| 62  
+Hork| Hork| Walking Corpse| 61| 61| 61| 87| 51| 51| 51  
+Hawk Man| HawkMan| Hawk Man| 64| 64| 64| 91| 45| 45| 45  
+Sorcerer| Warlock| Sorcerer| 72| 72| 72| 103| 40| 110| 110  
+Metal Slime| Metaly| Metal Slime| 135| 135*| 1015| 1015| 90| 90| 90  
+Hunter| Hunter| Headhunter| 67| 67| 77| 110| 45| 97| 97  
+Evil Eye| EvilEye| Heyedra| 92| 92| 92| 132| 25| 88| 88  
+Hibabango| Hibabango| Brainy Badboon| 81| 81| 81| 116| 83| 83| 83  
+Graboopi| Gragoopi| Bloody Hand| 38| 38| 48| 68| 30| 30| 30  
+Gold Orc| GoldOrc| Orc Chieftain| 63| 63| 83| 118| 255| 255| 255  
+Evil Clown| EvilClown| Whackolyte| 84| 84| 107| 153| 48| 132| 132  
+Ghoul| Ghoul| Ghoul| 61| 61| 91| 130| 100| 100| 100  
+Vampirus| Vampirus| Terrordactyl| 85| 85| 95| 136| 49| 83| 83  
+Mega Knight| MegaNite| Chasmonaut| 89| 89| 115| 165| 80| 80| 80  
+Saber Lion| SaberLion| Striking Sabrecat| 81| 81| 128| 204| 55| 55| 55  
+Metal Hunter| MtlHunter| Hunter Mech| 82| 82| 125| 180| 150| 150| 150  
+Ozwarg| Ozwarg| Grimlin| 99| 139| 159| 228| 105| 121| 121  
+Dark Eye| DarkEye| Eyelasher| 63| 93| 118| 169| 81| 81| 81  
+Gargoyle| Gargoyle| Gargoyle| 71| 71| 107| 153| 95| 95| 95  
+Orc King| OrcKing| Orc King| 99| 154| 204| 292| 135| 181| 181  
+Magic Vampirus| MagVamprs| Tyrannodactyl| 101| 182| 182| 261| 103| 103| 103  
+Berserker| Berserker| Berserker| 97| 117| 147| 211| 123| 123| 123  
+Metal Babble| Metabble| Liquid Metal Slime| 1050| 1050| 10150| 10150| 255| 255| 255  
+Hargon's Knight| Disciple| Hargonaut| 121| 201| 201| 265| 135| 135| 135  
+Cyclops| Cyclops| Cyclops| 188| 327| 257| 338| 99| 99| 99  
+Attackbot| Roboster| Killing Machine| 523| 723| 554| 730| 120| 120| 120  
+Green Dragon| Dragon| Green Dragon| 237| 350| 480| 633| 147| 147| 147  
+Mace Master| Magus| Wrecktor| 317| 617| 734| 968| 100| 170| 170  
+Flame| Flame| Dancing Flame| 185| 245| 315| 415| 101| 101| 101  
+Silver Batboon| AgDevil| Silvapithecus| 211| 271| 321| 423| 96| 96| 96  
+Blizzard| Blizzard| Frostburn| 253| 453| 412| 543| 113| 113| 113  
+Giant| Gigantes| Gigantes| 278| 515| 580| 765| 95| 165| 165  
+Gold Batboon| BatDemon| Batmandrill| 315| 396| 542| 715| 100| 100| 100  
+Bullwong| ArcDemon| Archdemon| 712| 872| 1475| 1947| 110| 235| 235  
+Atlas| Atlas| Atlas| 1100| 1100| 2500| 3300| 250| 250| 250  
+Bazuzu| Bazuzu| Pazuzu| 1530| 1530| 3350| 4400| 240| 240| 240  
+Zarlox| Zarlox| Belial| 2200| 2200| 4750| 6270| 255| 255| 255  
+Hargon| Hargon| Hargon| 0| 0| 0| 0| 0| 0| 0  
+Malroth| Sidoh| Malroth| 0| 0| 0| 0| 0| 0| 0  
+|  |  |  | *Not 1159 EXP as on the NES monster poster

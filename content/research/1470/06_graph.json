@@ -1,0 +1,2790 @@
+{
+  "nodes": [
+    {
+      "id": "Midenhall_Castle",
+      "label": "Midenhall Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-4-2",
+        "gf3-18-1",
+        "gf4-32-5"
+      ]
+    },
+    {
+      "id": "Copper_Sword",
+      "label": "Copper Sword",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-4-2",
+        "gf3-18-1",
+        "ra-guide-5-1",
+        "gf2-4-3"
+      ]
+    },
+    {
+      "id": "Leftwyne",
+      "label": "Leftwyne",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-7-12",
+        "gf4-6-8",
+        "gf-lists-12-3"
+      ]
+    },
+    {
+      "id": "Cannock_Castle",
+      "label": "Cannock Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-6-5",
+        "gf3-23-2",
+        "gf4-5-9"
+      ]
+    },
+    {
+      "id": "Spring_of_Bravery",
+      "label": "Spring of Bravery",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-7-10",
+        "gf2-7-7",
+        "gf4-6-1"
+      ]
+    },
+    {
+      "id": "Prince_of_Cannock",
+      "label": "Prince of Cannock",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-7-12",
+        "gf3-25-6",
+        "gf4-6-8",
+        "ra-guide-5-4"
+      ]
+    },
+    {
+      "id": "Lake_Cave",
+      "label": "Lake Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-5-4",
+        "gf2-8-1",
+        "gf4-6-12",
+        "ra-guide-5-5",
+        "gf-lists-9-43"
+      ]
+    },
+    {
+      "id": "Silver_Key",
+      "label": "Silver Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-26-8",
+        "gf-lists-9-43",
+        "ra-guide-5-6"
+      ]
+    },
+    {
+      "id": "Monolith_South_of_Midenhall",
+      "label": "Monolith South of Midenhall Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-6-13",
+        "gf4-6-14",
+        "gf4-27-20"
+      ]
+    },
+    {
+      "id": "Underground_Passage",
+      "label": "Underground Passage to Hamlin",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-8-24",
+        "gf4-9-1",
+        "gf4-9-2",
+        "gf2-9-1"
+      ]
+    },
+    {
+      "id": "Hamlin",
+      "label": "Hamlin",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-10-16",
+        "gf4-10-24",
+        "gf2-11-7"
+      ]
+    },
+    {
+      "id": "Moonbrooke_Castle",
+      "label": "Moonbrooke Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-11-11",
+        "gf2-11-13",
+        "ra-guide-12-1"
+      ]
+    },
+    {
+      "id": "Moonbrooke_Basement",
+      "label": "Moonbrooke Castle secret basement",
+      "kind": "item",
+      "fact_ids": [
+        "ra-guide-12-1",
+        "ra-comments-74-1"
+      ]
+    },
+    {
+      "id": "Mirror_Swamp",
+      "label": "Mirror Swamp",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-32-2",
+        "gf2-11-4",
+        "ra-guide-5-8"
+      ]
+    },
+    {
+      "id": "Mirror_of_Ra",
+      "label": "Mirror of Ra",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-32-2",
+        "gf4-11-9",
+        "gf-lists-10-4"
+      ]
+    },
+    {
+      "id": "Princess_of_Moonbrooke",
+      "label": "Princess of Moonbrooke",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-11-6",
+        "ra-guide-5-9",
+        "gf2-11-5"
+      ]
+    },
+    {
+      "id": "Tower_of_Wind",
+      "label": "Tower of Wind",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-10-17",
+        "ra-guide-5-10",
+        "gf4-11-18"
+      ]
+    },
+    {
+      "id": "Cloak_of_Wind",
+      "label": "Cloak of Wind",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf4-13-8",
+        "gf2-10-30",
+        "gf3-33-2"
+      ]
+    },
+    {
+      "id": "Monolith_West_of_Moonbrooke",
+      "label": "Monolith West of Moonbrooke Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-13-14",
+        "gf4-13-15",
+        "gf4-13-16",
+        "gf2-11-15"
+      ]
+    },
+    {
+      "id": "South_Dragons_Horn",
+      "label": "South Dragon's Horn",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-11-16",
+        "gf2-11-17",
+        "gf2-11-18",
+        "gf2-11-19"
+      ]
+    },
+    {
+      "id": "North_Dragons_Horn",
+      "label": "North Dragon's Horn",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-14-14",
+        "gf3-61-3",
+        "gf4-15-6"
+      ]
+    },
+    {
+      "id": "Dews_Yarn",
+      "label": "Dew's Yarn",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-14-14",
+        "gf2-14-15",
+        "ra-guide-13-5",
+        "gf-lists-10-9"
+      ]
+    },
+    {
+      "id": "Lianport",
+      "label": "Lianport",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-6-1",
+        "gf4-16-25",
+        "gf3-37-11"
+      ]
+    },
+    {
+      "id": "Lianport_Gremlins",
+      "label": "Two Gremlins (Lianport)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-guide-6-1",
+        "gf4-16-25"
+      ]
+    },
+    {
+      "id": "Ship",
+      "label": "Ship",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-12-9",
+        "gf2-12-11",
+        "gf2-12-12"
+      ]
+    },
+    {
+      "id": "Sunken_Treasure",
+      "label": "Sunken Treasure",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-12-12",
+        "gf4-16-28",
+        "ra-guide-6-3"
+      ]
+    },
+    {
+      "id": "Echoing_Flute",
+      "label": "Echoing Flute",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-37-11",
+        "gf2-12-13",
+        "gf4-16-29",
+        "gf2-12-14"
+      ]
+    },
+    {
+      "id": "Monolith_North_of_Lianport",
+      "label": "Monolith North of Lianport",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-17-1",
+        "gf4-17-2"
+      ]
+    },
+    {
+      "id": "Alefgard",
+      "label": "Alefgard",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-17-6",
+        "gf4-17-4",
+        "gf2-14-19"
+      ]
+    },
+    {
+      "id": "Tantegel_Castle",
+      "label": "Tantegel Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-13-13",
+        "gf4-17-4",
+        "gf4-27-3"
+      ]
+    },
+    {
+      "id": "Charlock_Castle",
+      "label": "Charlock Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-15-4",
+        "gf3-43-8",
+        "gf4-18-32"
+      ]
+    },
+    {
+      "id": "Sword_of_Erdrick",
+      "label": "Sword of Erdrick",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-15-4",
+        "gf4-20-6",
+        "ra-guide-12-8",
+        "gf-lists-9-31"
+      ]
+    },
+    {
+      "id": "Dragonlords_Grandson",
+      "label": "Dragonlord's grandson",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-15-12",
+        "gf4-21-3",
+        "gf4-21-4",
+        "ra-guide-12-7"
+      ]
+    },
+    {
+      "id": "Lighthouse",
+      "label": "Lighthouse",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-21-6",
+        "gf2-19-11",
+        "gf3-64-2",
+        "ra-guide-7-2"
+      ]
+    },
+    {
+      "id": "Lighthouse_Old_Man",
+      "label": "Old man's trap: four Gremlins",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-19-21",
+        "gf2-19-22",
+        "gf2-19-23",
+        "ra-guide-7-3"
+      ]
+    },
+    {
+      "id": "Star_Crest",
+      "label": "Star Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-19-23",
+        "gf4-24-12",
+        "gf-lists-10-12"
+      ]
+    },
+    {
+      "id": "Zahan",
+      "label": "Zahan",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-25-13",
+        "gf4-25-14",
+        "ra-guide-6-5"
+      ]
+    },
+    {
+      "id": "Golden_Key",
+      "label": "Golden Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-13-1",
+        "gf3-46-3",
+        "gf4-26-1",
+        "gf3-46-4"
+      ]
+    },
+    {
+      "id": "World_Tree_Island",
+      "label": "World Tree Island",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-45-2",
+        "gf4-27-1",
+        "gf2-16-19"
+      ]
+    },
+    {
+      "id": "Leaf_of_World_Tree",
+      "label": "Leaf of the World Tree",
+      "kind": "item",
+      "fact_ids": [
+        "gf3-45-2",
+        "gf4-27-1",
+        "gf-lists-10-7"
+      ]
+    },
+    {
+      "id": "King_of_Tantegel",
+      "label": "King of Tantegel",
+      "kind": "npc",
+      "fact_ids": [
+        "gf3-40-5",
+        "gf4-27-4",
+        "ra-guide-13-20"
+      ]
+    },
+    {
+      "id": "Shrine_of_Fire",
+      "label": "Shrine of Fire",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-27-11",
+        "gf4-27-12",
+        "gf2-12-17",
+        "gf3-63-3"
+      ]
+    },
+    {
+      "id": "Token_of_Erdrick",
+      "label": "Token of Erdrick",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-58-5",
+        "gf2-13-5",
+        "gf4-27-16",
+        "ra-guide-12-3"
+      ]
+    },
+    {
+      "id": "Shield_of_Erdrick",
+      "label": "Shield of Erdrick",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-13-10",
+        "gf4-27-18",
+        "ra-guide-12-4"
+      ]
+    },
+    {
+      "id": "Osterfair_Castle",
+      "label": "Osterfair Castle",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-6-16",
+        "gf4-28-20",
+        "gf2-16-8"
+      ]
+    },
+    {
+      "id": "Saber_Lion",
+      "label": "Saber Lion",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-16-15",
+        "gf4-28-20"
+      ]
+    },
+    {
+      "id": "Moon_Crest",
+      "label": "Moon Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf4-28-20",
+        "gf3-55-8",
+        "gf-lists-10-13"
+      ]
+    },
+    {
+      "id": "Armor_of_Gaia",
+      "label": "Armor of Gaia",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-16-8",
+        "gf3-55-5",
+        "gf4-28-9"
+      ]
+    },
+    {
+      "id": "Monolith_North_of_Beran",
+      "label": "Monolith North of Beran",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-28-27",
+        "gf4-28-28",
+        "gf4-29-4"
+      ]
+    },
+    {
+      "id": "Beran",
+      "label": "Beran",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-18-4",
+        "ra-guide-8-1",
+        "gf4-29-6"
+      ]
+    },
+    {
+      "id": "Sun_Crest",
+      "label": "Sun Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-63-4",
+        "gf4-28-29",
+        "ra-guide-6-9"
+      ]
+    },
+    {
+      "id": "Holy_Shrine",
+      "label": "Holy Shrine",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-29-1",
+        "gf4-29-2",
+        "gf2-14-20"
+      ]
+    },
+    {
+      "id": "Helmet_of_Erdrick",
+      "label": "Helmet of Erdrick",
+      "kind": "item",
+      "fact_ids": [
+        "gf4-29-2",
+        "gf2-14-21",
+        "ra-guide-12-5"
+      ]
+    },
+    {
+      "id": "Wellgarth",
+      "label": "Wellgarth",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-6-13",
+        "gf4-31-9",
+        "gf4-31-10"
+      ]
+    },
+    {
+      "id": "Jailors_Key",
+      "label": "Jailor's Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-17-8",
+        "gf3-51-3",
+        "gf4-31-6"
+      ]
+    },
+    {
+      "id": "Roge_Fastfinger",
+      "label": "Roge Fastfinger",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-17-27",
+        "gf4-31-13",
+        "ra-guide-6-14"
+      ]
+    },
+    {
+      "id": "Floodgate_Key",
+      "label": "Floodgate Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "ra-guide-6-14",
+        "gf2-17-27",
+        "gf4-31-13"
+      ]
+    },
+    {
+      "id": "Zahan_Wizards_House",
+      "label": "Zahan Wizard's House",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-32-1",
+        "ra-guide-13-7",
+        "gf2-13-2"
+      ]
+    },
+    {
+      "id": "Magic_Loom",
+      "label": "Magic Loom",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-62-3",
+        "gf4-32-1",
+        "ra-guide-13-6",
+        "gf2-20-7"
+      ]
+    },
+    {
+      "id": "Midenhall_Castle_Jail",
+      "label": "Midenhall Castle Jail",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-32-3",
+        "gf3-58-9",
+        "gf4-8-12"
+      ]
+    },
+    {
+      "id": "Evil_Clown",
+      "label": "Evil Clown",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-17-19",
+        "gf3-58-11",
+        "gf4-32-3",
+        "gf3-58-10"
+      ]
+    },
+    {
+      "id": "Staff_of_Thunder",
+      "label": "Staff of Thunder",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-17-19",
+        "gf3-58-11",
+        "ra-guide-12-12"
+      ]
+    },
+    {
+      "id": "Hamlin_Prison",
+      "label": "Hamlin Prison",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-60-7",
+        "gf4-32-11"
+      ]
+    },
+    {
+      "id": "Water_Crest",
+      "label": "Water Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-60-7",
+        "gf2-18-2",
+        "gf-lists-10-15",
+        "ra-guide-7-1"
+      ]
+    },
+    {
+      "id": "Tuhn",
+      "label": "Tuhn",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-7-6",
+        "gf2-20-10",
+        "gf4-33-9"
+      ]
+    },
+    {
+      "id": "Floodgate",
+      "label": "Floodgate",
+      "kind": "quest",
+      "fact_ids": [
+        "gf3-67-4",
+        "gf4-33-10",
+        "ra-guide-7-7"
+      ]
+    },
+    {
+      "id": "Water_Flying_Cloth",
+      "label": "Water Flying Cloth",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-21-9",
+        "gf4-33-7",
+        "ra-guide-13-8",
+        "gf2-21-10"
+      ]
+    },
+    {
+      "id": "Tower_of_the_Moon",
+      "label": "Tower of the Moon",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-33-20",
+        "gf2-21-5",
+        "gf4-36-2",
+        "ra-guide-7-8"
+      ]
+    },
+    {
+      "id": "Moon_Fragment",
+      "label": "Moon Fragment",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-21-5",
+        "gf4-36-2",
+        "gf3-70-4"
+      ]
+    },
+    {
+      "id": "Metal_Babble",
+      "label": "Metal Babble",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-21-14",
+        "gf2-27-43",
+        "gf4-33-18"
+      ]
+    },
+    {
+      "id": "Malroths_Cavern",
+      "label": "Malroth's Cavern",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-7-10",
+        "gf4-36-10",
+        "gf2-20-3",
+        "gf3-71-2"
+      ]
+    },
+    {
+      "id": "Evil_Clowns_Cavern",
+      "label": "Two Evil Clowns (old man)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-22-11",
+        "gf3-72-7"
+      ]
+    },
+    {
+      "id": "Eye_of_Malroth",
+      "label": "Eye of Malroth",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-22-11",
+        "ra-guide-7-11",
+        "gf-lists-9-26"
+      ]
+    },
+    {
+      "id": "Monolith_South_of_Rhone",
+      "label": "Monolith South of Rhone",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-39-13",
+        "gf4-39-14",
+        "gf4-39-34",
+        "gf3-74-1"
+      ]
+    },
+    {
+      "id": "Cave_to_Rhone",
+      "label": "Cave to Rhone",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-8-7",
+        "gf2-23-7",
+        "gf3-74-4"
+      ]
+    },
+    {
+      "id": "Heart_Crest",
+      "label": "Heart Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-22-1",
+        "ra-guide-8-3",
+        "gf3-74-4"
+      ]
+    },
+    {
+      "id": "Shrine_of_Rubiss",
+      "label": "Shrine of Rubiss",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-75-4",
+        "gf4-41-6",
+        "gf2-23-1",
+        "ra-guide-8-8"
+      ]
+    },
+    {
+      "id": "Charm_of_Rubiss",
+      "label": "Charm of Rubiss",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-75-4",
+        "gf4-41-7",
+        "gf-lists-10-18"
+      ]
+    },
+    {
+      "id": "Thunder_Sword",
+      "label": "Thunder Sword",
+      "kind": "item",
+      "fact_ids": [
+        "ra-guide-12-9",
+        "gf2-23-16",
+        "gf4-43-4",
+        "gf-lists-9-34"
+      ]
+    },
+    {
+      "id": "Armor_of_Erdrick",
+      "label": "Armor of Erdrick",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-26-40",
+        "gf2-23-9",
+        "gf4-42-8",
+        "ra-guide-12-10"
+      ]
+    },
+    {
+      "id": "Wizards_Ring",
+      "label": "Wizard's Ring",
+      "kind": "item",
+      "fact_ids": [
+        "ra-guide-13-13",
+        "ra-comments-71-2",
+        "ra-guide-13-14",
+        "ra-comments-71-3"
+      ]
+    },
+    {
+      "id": "Rhone_Shrine",
+      "label": "Rhone Shrine",
+      "kind": "save_point",
+      "fact_ids": [
+        "gf4-44-10",
+        "gf3-80-1",
+        "ra-guide-3-23"
+      ]
+    },
+    {
+      "id": "Rhone_Plateau",
+      "label": "Rhone Plateau",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-24-4",
+        "gf2-24-5",
+        "ra-guide-4-1"
+      ]
+    },
+    {
+      "id": "Hargons_Castle",
+      "label": "Hargon's Castle",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-8-10",
+        "gf2-25-7",
+        "gf4-46-1"
+      ]
+    },
+    {
+      "id": "Atlas",
+      "label": "Atlas",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-24-10",
+        "gf3-82-3"
+      ]
+    },
+    {
+      "id": "Bazuzu",
+      "label": "Bazuzu",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-25-3",
+        "gf4-47-6"
+      ]
+    },
+    {
+      "id": "Zarlox",
+      "label": "Zarlox",
+      "kind": "boss",
+      "fact_ids": [
+        "gf4-47-13"
+      ]
+    },
+    {
+      "id": "Hargon",
+      "label": "Hargon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf3-82-16",
+        "gf4-48-3",
+        "gf2-25-10"
+      ]
+    },
+    {
+      "id": "Malroth",
+      "label": "Malroth",
+      "kind": "boss",
+      "fact_ids": [
+        "gf3-83-1",
+        "gf2-25-11",
+        "gf2-25-19"
+      ]
+    },
+    {
+      "id": "Malroth_PONR",
+      "label": "Malroth defeated: the game ends",
+      "kind": "ponr",
+      "fact_ids": [
+        "gf3-83-6",
+        "gf2-25-17"
+      ]
+    },
+    {
+      "id": "Ending",
+      "label": "Return to Midenhall: the King's offer",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-guide-9-4",
+        "ra-comments-33-6",
+        "gf2-25-17"
+      ]
+    },
+    {
+      "id": "Ach_46412",
+      "label": "'Tis Dangerous to Venture Alone",
+      "kind": "achievement",
+      "achievement_id": 46412
+    },
+    {
+      "id": "Ach_46410",
+      "label": "Thou Art Now Buddies",
+      "kind": "achievement",
+      "achievement_id": 46410
+    },
+    {
+      "id": "Ach_46413",
+      "label": "Thou Hast an Argent Door Opener",
+      "kind": "achievement",
+      "achievement_id": 46413
+    },
+    {
+      "id": "Ach_46416",
+      "label": "Thou Art Vain",
+      "kind": "achievement",
+      "achievement_id": 46416
+    },
+    {
+      "id": "Ach_46411",
+      "label": "Thou Art Now a Trio",
+      "kind": "achievement",
+      "achievement_id": 46411
+    },
+    {
+      "id": "Ach_46417",
+      "label": "Thou Hast Conquered the East",
+      "kind": "achievement",
+      "achievement_id": 46417
+    },
+    {
+      "id": "Ach_116306",
+      "label": "'Tis Not Flying! 'Tis Falling with Style!",
+      "kind": "achievement",
+      "achievement_id": 116306
+    },
+    {
+      "id": "Ach_46456",
+      "label": "Thou Art a Hero",
+      "kind": "achievement",
+      "achievement_id": 46456
+    },
+    {
+      "id": "Ach_46418",
+      "label": "Thine Inner Bard Hast Awakened",
+      "kind": "achievement",
+      "achievement_id": 46418
+    },
+    {
+      "id": "Ach_46414",
+      "label": "Thou Hast a Noble Door Opener",
+      "kind": "achievement",
+      "achievement_id": 46414
+    },
+    {
+      "id": "Ach_46415",
+      "label": "Thou Art a Gaol Breaker",
+      "kind": "achievement",
+      "achievement_id": 46415
+    },
+    {
+      "id": "Ach_116307",
+      "label": "Thou Art the Master of Gates",
+      "kind": "achievement",
+      "achievement_id": 116307
+    },
+    {
+      "id": "Ach_116308",
+      "label": "Thou Hast Bade the Waters Flow",
+      "kind": "achievement",
+      "achievement_id": 116308
+    },
+    {
+      "id": "Ach_116309",
+      "label": "Ye Olde Lunar Fragment",
+      "kind": "achievement",
+      "achievement_id": 116309
+    },
+    {
+      "id": "Ach_116310",
+      "label": "Thou Hast Parted the Sea",
+      "kind": "achievement",
+      "achievement_id": 116310
+    },
+    {
+      "id": "Ach_116311",
+      "label": "Thou Hast Poked Evil in the Eye",
+      "kind": "achievement",
+      "achievement_id": 116311
+    },
+    {
+      "id": "Ach_46458",
+      "label": "Thou Hast Raised the Earth",
+      "kind": "achievement",
+      "achievement_id": 46458
+    },
+    {
+      "id": "Ach_116312",
+      "label": "Thou Hast Passed Through Hell",
+      "kind": "achievement",
+      "achievement_id": 116312
+    },
+    {
+      "id": "Ach_46423",
+      "label": "Thou Art a Night Owl!",
+      "kind": "achievement",
+      "achievement_id": 46423
+    },
+    {
+      "id": "Ach_46424",
+      "label": "Thou Art as Vast as the Sea!",
+      "kind": "achievement",
+      "achievement_id": 46424
+    },
+    {
+      "id": "Ach_46421",
+      "label": "Thou Art as Bright as the Sun!",
+      "kind": "achievement",
+      "achievement_id": 46421
+    },
+    {
+      "id": "Ach_46425",
+      "label": "Thou Art a Lover, and a Fighter!",
+      "kind": "achievement",
+      "achievement_id": 46425
+    },
+    {
+      "id": "Ach_46422",
+      "label": "Thou Art as Brilliant as a Star!",
+      "kind": "achievement",
+      "achievement_id": 46422
+    },
+    {
+      "id": "Ach_46420",
+      "label": "Thou Art Charming!",
+      "kind": "achievement",
+      "achievement_id": 46420
+    },
+    {
+      "id": "Ach_46459",
+      "label": "Ye Olde Evile Prieste",
+      "kind": "achievement",
+      "achievement_id": 46459
+    },
+    {
+      "id": "Ach_46460",
+      "label": "Thine Quest, 'Tis Over!",
+      "kind": "achievement",
+      "achievement_id": 46460
+    },
+    {
+      "id": "Ach_46461",
+      "label": "Thou Shalt Not Be Selfish",
+      "kind": "achievement",
+      "achievement_id": 46461
+    },
+    {
+      "id": "Ach_46462",
+      "label": "Thou Hast Found Peace",
+      "kind": "achievement",
+      "achievement_id": 46462
+    },
+    {
+      "id": "Ach_46404",
+      "label": "Thou Hast Leveled Up",
+      "kind": "achievement",
+      "achievement_id": 46404
+    },
+    {
+      "id": "Ach_46405",
+      "label": "Thou Hast Becometh Swole",
+      "kind": "achievement",
+      "achievement_id": 46405
+    },
+    {
+      "id": "Ach_46406",
+      "label": "Thou Art Large",
+      "kind": "achievement",
+      "achievement_id": 46406
+    },
+    {
+      "id": "Ach_46407",
+      "label": "Thou Art a Slayer",
+      "kind": "achievement",
+      "achievement_id": 46407
+    },
+    {
+      "id": "Ach_46408",
+      "label": "Thou Art Ready for Anything",
+      "kind": "achievement",
+      "achievement_id": 46408
+    },
+    {
+      "id": "Ach_46427",
+      "label": "Thou Hast a Ball of Fire",
+      "kind": "achievement",
+      "achievement_id": 46427
+    },
+    {
+      "id": "Ach_46428",
+      "label": "Thou Art a Physician",
+      "kind": "achievement",
+      "achievement_id": 46428
+    },
+    {
+      "id": "Ach_46429",
+      "label": "'Tis Time to Stop",
+      "kind": "achievement",
+      "achievement_id": 46429
+    },
+    {
+      "id": "Ach_46430",
+      "label": "Thou Art a Traveler",
+      "kind": "achievement",
+      "achievement_id": 46430
+    },
+    {
+      "id": "Ach_46431",
+      "label": "Thou Art a Master of Escape",
+      "kind": "achievement",
+      "achievement_id": 46431
+    },
+    {
+      "id": "Ach_46433",
+      "label": "Thou Hast Stout Boots",
+      "kind": "achievement",
+      "achievement_id": 46433
+    },
+    {
+      "id": "Ach_46434",
+      "label": "Thou Art an Arsonist",
+      "kind": "achievement",
+      "achievement_id": 46434
+    },
+    {
+      "id": "Ach_46435",
+      "label": "Thou Art Sturdy of Arm",
+      "kind": "achievement",
+      "achievement_id": 46435
+    },
+    {
+      "id": "Ach_46436",
+      "label": "Thou Art Death",
+      "kind": "achievement",
+      "achievement_id": 46436
+    },
+    {
+      "id": "Ach_46437",
+      "label": "Thou Art Life",
+      "kind": "achievement",
+      "achievement_id": 46437
+    },
+    {
+      "id": "Ach_46438",
+      "label": "Thou Art a Martyr",
+      "kind": "achievement",
+      "achievement_id": 46438
+    },
+    {
+      "id": "Ach_46432",
+      "label": "'Tis No Longer a Flesh Wound",
+      "kind": "achievement",
+      "achievement_id": 46432
+    },
+    {
+      "id": "Ach_46439",
+      "label": "Thou Art Stupefying",
+      "kind": "achievement",
+      "achievement_id": 46439
+    },
+    {
+      "id": "Ach_46440",
+      "label": "Thou Art Hot",
+      "kind": "achievement",
+      "achievement_id": 46440
+    },
+    {
+      "id": "Ach_46441",
+      "label": "Thou Art Beguiling",
+      "kind": "achievement",
+      "achievement_id": 46441
+    },
+    {
+      "id": "Ach_46442",
+      "label": "Thou Art Foul of Odor",
+      "kind": "achievement",
+      "achievement_id": 46442
+    },
+    {
+      "id": "Ach_46447",
+      "label": "Thou Hast a Keen Eye",
+      "kind": "achievement",
+      "achievement_id": 46447
+    },
+    {
+      "id": "Ach_46443",
+      "label": "Thou Hast Excellent Healthcare",
+      "kind": "achievement",
+      "achievement_id": 46443
+    },
+    {
+      "id": "Ach_46444",
+      "label": "Thou Art Very Hot",
+      "kind": "achievement",
+      "achievement_id": 46444
+    },
+    {
+      "id": "Ach_46445",
+      "label": "Thou Art a Rogue",
+      "kind": "achievement",
+      "achievement_id": 46445
+    },
+    {
+      "id": "Ach_46446",
+      "label": "Thou Hast a Gambling Problem",
+      "kind": "achievement",
+      "achievement_id": 46446
+    },
+    {
+      "id": "Ach_115778",
+      "label": "Thine Ancestral Sword!",
+      "kind": "achievement",
+      "achievement_id": 115778
+    },
+    {
+      "id": "Ach_115780",
+      "label": "Thou Hast the Stick of Sages",
+      "kind": "achievement",
+      "achievement_id": 115780
+    },
+    {
+      "id": "Ach_115779",
+      "label": "Thou Hast the Blade of Storms",
+      "kind": "achievement",
+      "achievement_id": 115779
+    },
+    {
+      "id": "Ach_115781",
+      "label": "Thou Hast the Protection of the Land",
+      "kind": "achievement",
+      "achievement_id": 115781
+    },
+    {
+      "id": "Ach_115782",
+      "label": "Thou Hast a Sodden Garment",
+      "kind": "achievement",
+      "achievement_id": 115782
+    },
+    {
+      "id": "Ach_115783",
+      "label": "Thine Ancestral Armor!",
+      "kind": "achievement",
+      "achievement_id": 115783
+    },
+    {
+      "id": "Ach_115784",
+      "label": "Thine Ancestral Shield!",
+      "kind": "achievement",
+      "achievement_id": 115784
+    },
+    {
+      "id": "Ach_46419",
+      "label": "Thou Hast the Crest of Thine Line",
+      "kind": "achievement",
+      "achievement_id": 46419
+    },
+    {
+      "id": "Ach_115785",
+      "label": "Thine Ancestral Helmet!",
+      "kind": "achievement",
+      "achievement_id": 115785
+    },
+    {
+      "id": "Ach_115786",
+      "label": "Thou Hast Celestial Foliage",
+      "kind": "achievement",
+      "achievement_id": 115786
+    },
+    {
+      "id": "Ach_115787",
+      "label": "Prithee, Magicke Ring",
+      "kind": "achievement",
+      "achievement_id": 115787
+    },
+    {
+      "id": "Ach_116313",
+      "label": "Thou Art a Millionaire",
+      "kind": "achievement",
+      "achievement_id": 116313
+    },
+    {
+      "id": "Ach_116314",
+      "label": "Thou Hast Eased a Warrior's Passing",
+      "kind": "achievement",
+      "achievement_id": 116314
+    },
+    {
+      "id": "Ach_115788",
+      "label": "Thine King Is Bare",
+      "kind": "achievement",
+      "achievement_id": 115788
+    },
+    {
+      "id": "Ach_46457",
+      "label": "Thou Hast Finished the Wrong Quest!",
+      "kind": "achievement",
+      "achievement_id": 46457
+    }
+  ],
+  "edges": [
+    {
+      "from": "Midenhall_Castle",
+      "to": "Copper_Sword",
+      "kind": "contains",
+      "label": "starting chest",
+      "fact_ids": [
+        "gf2-4-2",
+        "gf3-18-1"
+      ]
+    },
+    {
+      "from": "Copper_Sword",
+      "to": "Ach_46412",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-5-2",
+        "gf2-4-3"
+      ]
+    },
+    {
+      "from": "Midenhall_Castle",
+      "to": "Leftwyne",
+      "kind": "leads_to",
+      "label": "west",
+      "fact_ids": [
+        "gf4-3-11"
+      ]
+    },
+    {
+      "from": "Leftwyne",
+      "to": "Cannock_Castle",
+      "kind": "leads_to",
+      "label": "north",
+      "fact_ids": [
+        "gf3-25-6",
+        "gf2-6-4"
+      ]
+    },
+    {
+      "from": "Cannock_Castle",
+      "to": "Spring_of_Bravery",
+      "kind": "leads_to",
+      "label": "east over the bridge",
+      "fact_ids": [
+        "gf4-5-12"
+      ]
+    },
+    {
+      "from": "Spring_of_Bravery",
+      "to": "Prince_of_Cannock",
+      "kind": "leads_to",
+      "label": "prince has gone ahead",
+      "fact_ids": [
+        "gf2-7-10"
+      ]
+    },
+    {
+      "from": "Leftwyne",
+      "to": "Prince_of_Cannock",
+      "kind": "contains",
+      "label": "inn",
+      "fact_ids": [
+        "gf2-7-12",
+        "gf3-25-6"
+      ]
+    },
+    {
+      "from": "Prince_of_Cannock",
+      "to": "Ach_46410",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-7-12",
+        "gf4-6-8"
+      ]
+    },
+    {
+      "from": "Cannock_Castle",
+      "to": "Lake_Cave",
+      "kind": "leads_to",
+      "label": "west over the double bridge",
+      "fact_ids": [
+        "gf2-8-1",
+        "gf4-6-16"
+      ]
+    },
+    {
+      "from": "Lake_Cave",
+      "to": "Silver_Key",
+      "kind": "contains",
+      "label": "B2 chest",
+      "fact_ids": [
+        "gf3-26-8",
+        "ra-guide-5-6"
+      ]
+    },
+    {
+      "from": "Silver_Key",
+      "to": "Ach_46413",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-26-8"
+      ]
+    },
+    {
+      "from": "Midenhall_Castle",
+      "to": "Monolith_South_of_Midenhall",
+      "kind": "leads_to",
+      "label": "south over the bridge",
+      "fact_ids": [
+        "gf4-6-14"
+      ]
+    },
+    {
+      "from": "Cannock_Castle",
+      "to": "Underground_Passage",
+      "kind": "leads_to",
+      "label": "monolith south-west of Cannock (needs the prince)",
+      "fact_ids": [
+        "gf4-8-24",
+        "gf2-8-13"
+      ]
+    },
+    {
+      "from": "Underground_Passage",
+      "to": "Hamlin",
+      "kind": "leads_to",
+      "label": "south",
+      "fact_ids": [
+        "gf4-9-2",
+        "gf2-9-2"
+      ]
+    },
+    {
+      "from": "Hamlin",
+      "to": "Moonbrooke_Castle",
+      "kind": "leads_to",
+      "label": "south-west",
+      "fact_ids": [
+        "gf4-10-24",
+        "ra-guide-5-7"
+      ]
+    },
+    {
+      "from": "Moonbrooke_Castle",
+      "to": "Moonbrooke_Basement",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-guide-12-1"
+      ]
+    },
+    {
+      "from": "Moonbrooke_Basement",
+      "to": "Ach_116314",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-12-1",
+        "ra-comments-74-1"
+      ]
+    },
+    {
+      "from": "Moonbrooke_Castle",
+      "to": "Mirror_Swamp",
+      "kind": "leads_to",
+      "label": "east",
+      "fact_ids": [
+        "ra-guide-5-7",
+        "gf2-11-4"
+      ]
+    },
+    {
+      "from": "Mirror_Swamp",
+      "to": "Mirror_of_Ra",
+      "kind": "contains",
+      "label": "search the swamp",
+      "fact_ids": [
+        "gf3-32-2",
+        "gf4-11-9"
+      ]
+    },
+    {
+      "from": "Mirror_of_Ra",
+      "to": "Ach_46416",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-32-2"
+      ]
+    },
+    {
+      "from": "Princess_of_Moonbrooke",
+      "to": "Mirror_of_Ra",
+      "kind": "requires",
+      "label": "use it on the Hamlin dog",
+      "fact_ids": [
+        "gf2-11-5",
+        "ra-guide-5-9"
+      ]
+    },
+    {
+      "from": "Hamlin",
+      "to": "Princess_of_Moonbrooke",
+      "kind": "contains",
+      "label": "the dog",
+      "fact_ids": [
+        "gf2-10-16",
+        "gf2-11-5"
+      ]
+    },
+    {
+      "from": "Princess_of_Moonbrooke",
+      "to": "Ach_46411",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-11-6",
+        "ra-guide-5-9"
+      ]
+    },
+    {
+      "from": "Princess_of_Moonbrooke",
+      "to": "Ach_46432",
+      "kind": "unlocks",
+      "label": "HealMore counts once she joins",
+      "fact_ids": [
+        "ra-comments-51-2"
+      ]
+    },
+    {
+      "from": "Hamlin",
+      "to": "Tower_of_Wind",
+      "kind": "leads_to",
+      "label": "east, north bridge",
+      "fact_ids": [
+        "gf2-10-17",
+        "ra-guide-5-10"
+      ]
+    },
+    {
+      "from": "Tower_of_Wind",
+      "to": "Cloak_of_Wind",
+      "kind": "contains",
+      "label": "2F chest via 5F",
+      "fact_ids": [
+        "gf4-13-8",
+        "gf2-10-30"
+      ]
+    },
+    {
+      "from": "Cloak_of_Wind",
+      "to": "Ach_46417",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-13-8"
+      ]
+    },
+    {
+      "from": "Moonbrooke_Castle",
+      "to": "Monolith_West_of_Moonbrooke",
+      "kind": "leads_to",
+      "label": "west",
+      "fact_ids": [
+        "gf2-11-15",
+        "gf4-13-14"
+      ]
+    },
+    {
+      "from": "Monolith_West_of_Moonbrooke",
+      "to": "South_Dragons_Horn",
+      "kind": "leads_to",
+      "label": "north-west",
+      "fact_ids": [
+        "gf4-13-16"
+      ]
+    },
+    {
+      "from": "South_Dragons_Horn",
+      "to": "Cloak_of_Wind",
+      "kind": "requires",
+      "label": "jump from 6F",
+      "fact_ids": [
+        "gf2-11-19",
+        "ra-guide-5-13"
+      ]
+    },
+    {
+      "from": "South_Dragons_Horn",
+      "to": "Ach_116306",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-11-19",
+        "ra-guide-5-13",
+        "gf-lists-16-17"
+      ]
+    },
+    {
+      "from": "South_Dragons_Horn",
+      "to": "North_Dragons_Horn",
+      "kind": "leads_to",
+      "label": "landing north of the river",
+      "fact_ids": [
+        "gf2-11-18",
+        "gf4-15-3"
+      ]
+    },
+    {
+      "from": "North_Dragons_Horn",
+      "to": "Dews_Yarn",
+      "kind": "contains",
+      "label": "3F, search",
+      "fact_ids": [
+        "gf2-14-15",
+        "gf3-61-3"
+      ]
+    },
+    {
+      "from": "North_Dragons_Horn",
+      "to": "Lianport",
+      "kind": "leads_to",
+      "label": "north",
+      "fact_ids": [
+        "gf4-15-9"
+      ]
+    },
+    {
+      "from": "Lianport",
+      "to": "Lianport_Gremlins",
+      "kind": "contains",
+      "label": "top-left of town",
+      "fact_ids": [
+        "ra-guide-6-1",
+        "gf4-16-25"
+      ]
+    },
+    {
+      "from": "Lianport_Gremlins",
+      "to": "Ach_46456",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-6-1",
+        "gf4-16-25"
+      ]
+    },
+    {
+      "from": "Lianport_Gremlins",
+      "to": "Ship",
+      "kind": "unlocks",
+      "label": "reward",
+      "fact_ids": [
+        "gf2-12-9",
+        "gf2-12-11"
+      ]
+    },
+    {
+      "from": "Ship",
+      "to": "Sunken_Treasure",
+      "kind": "leads_to",
+      "label": "sail north, search the pale water",
+      "fact_ids": [
+        "gf2-12-12",
+        "ra-guide-6-3"
+      ]
+    },
+    {
+      "from": "Sunken_Treasure",
+      "to": "Echoing_Flute",
+      "kind": "unlocks",
+      "label": "return to Lianport",
+      "fact_ids": [
+        "gf3-37-11",
+        "gf2-12-13"
+      ]
+    },
+    {
+      "from": "Echoing_Flute",
+      "to": "Ach_46418",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-37-11",
+        "gf4-16-29"
+      ]
+    },
+    {
+      "from": "Lianport",
+      "to": "Monolith_North_of_Lianport",
+      "kind": "leads_to",
+      "label": "north",
+      "fact_ids": [
+        "gf4-17-1"
+      ]
+    },
+    {
+      "from": "Lianport",
+      "to": "Alefgard",
+      "kind": "leads_to",
+      "label": "sail east to the bridge",
+      "fact_ids": [
+        "gf4-17-6",
+        "gf4-17-3"
+      ]
+    },
+    {
+      "from": "Alefgard",
+      "to": "Tantegel_Castle",
+      "kind": "contains",
+      "fact_ids": [
+        "gf4-17-4"
+      ]
+    },
+    {
+      "from": "Tantegel_Castle",
+      "to": "Charlock_Castle",
+      "kind": "leads_to",
+      "label": "sail south-east",
+      "fact_ids": [
+        "gf4-18-32",
+        "gf2-14-19"
+      ]
+    },
+    {
+      "from": "Charlock_Castle",
+      "to": "Sword_of_Erdrick",
+      "kind": "contains",
+      "label": "B2 chest",
+      "fact_ids": [
+        "gf2-15-4",
+        "gf4-20-6"
+      ]
+    },
+    {
+      "from": "Sword_of_Erdrick",
+      "to": "Ach_115778",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-15-4"
+      ]
+    },
+    {
+      "from": "Charlock_Castle",
+      "to": "Dragonlords_Grandson",
+      "kind": "contains",
+      "label": "B7 throne",
+      "fact_ids": [
+        "gf2-15-12",
+        "ra-guide-12-6"
+      ]
+    },
+    {
+      "from": "Dragonlords_Grandson",
+      "to": "Ach_46457",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-15-12",
+        "gf4-21-3"
+      ]
+    },
+    {
+      "from": "Tantegel_Castle",
+      "to": "Lighthouse",
+      "kind": "leads_to",
+      "label": "sail south, east, south",
+      "fact_ids": [
+        "gf4-21-6"
+      ]
+    },
+    {
+      "from": "Lighthouse",
+      "to": "Lighthouse_Old_Man",
+      "kind": "contains",
+      "label": "top floor old man leads down to a trap chest",
+      "fact_ids": [
+        "gf2-19-21",
+        "ra-guide-7-3"
+      ]
+    },
+    {
+      "from": "Lighthouse_Old_Man",
+      "to": "Star_Crest",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-19-23",
+        "gf4-24-12"
+      ]
+    },
+    {
+      "from": "Star_Crest",
+      "to": "Ach_46422",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-19-23"
+      ]
+    },
+    {
+      "from": "Lianport",
+      "to": "Zahan",
+      "kind": "leads_to",
+      "label": "sail north past the treasure spot",
+      "fact_ids": [
+        "gf4-25-12",
+        "gf4-25-13",
+        "gf2-12-16"
+      ]
+    },
+    {
+      "from": "Zahan",
+      "to": "Golden_Key",
+      "kind": "contains",
+      "label": "follow the dog, search",
+      "fact_ids": [
+        "gf2-13-1"
+      ]
+    },
+    {
+      "from": "Golden_Key",
+      "to": "Ach_46414",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-13-1"
+      ]
+    },
+    {
+      "from": "Zahan",
+      "to": "World_Tree_Island",
+      "kind": "leads_to",
+      "label": "10 north then west",
+      "fact_ids": [
+        "gf4-27-1"
+      ]
+    },
+    {
+      "from": "World_Tree_Island",
+      "to": "Leaf_of_World_Tree",
+      "kind": "contains",
+      "label": "search the lone tree",
+      "fact_ids": [
+        "gf3-45-2",
+        "gf4-27-1"
+      ]
+    },
+    {
+      "from": "Leaf_of_World_Tree",
+      "to": "Ach_115786",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-45-2"
+      ]
+    },
+    {
+      "from": "King_of_Tantegel",
+      "to": "Golden_Key",
+      "kind": "requires",
+      "label": "gold door above the weapon shop",
+      "fact_ids": [
+        "gf3-40-5",
+        "gf4-27-4"
+      ]
+    },
+    {
+      "from": "Tantegel_Castle",
+      "to": "King_of_Tantegel",
+      "kind": "contains",
+      "fact_ids": [
+        "gf3-40-5"
+      ]
+    },
+    {
+      "from": "King_of_Tantegel",
+      "to": "Ach_115788",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-40-5",
+        "ra-guide-13-20"
+      ]
+    },
+    {
+      "from": "Shrine_of_Fire",
+      "to": "Midenhall_Castle",
+      "kind": "leads_to",
+      "label": "travel door",
+      "fact_ids": [
+        "gf4-27-12",
+        "gf2-12-17"
+      ]
+    },
+    {
+      "from": "Midenhall_Castle",
+      "to": "Token_of_Erdrick",
+      "kind": "contains",
+      "label": "gold-door treasure room",
+      "fact_ids": [
+        "gf3-58-5",
+        "gf4-27-16"
+      ]
+    },
+    {
+      "from": "Token_of_Erdrick",
+      "to": "Golden_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "gf3-58-5",
+        "gf-lists-10-10"
+      ]
+    },
+    {
+      "from": "Token_of_Erdrick",
+      "to": "Ach_46419",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-58-5"
+      ]
+    },
+    {
+      "from": "Cannock_Castle",
+      "to": "Shield_of_Erdrick",
+      "kind": "contains",
+      "label": "gold door west of the healer",
+      "fact_ids": [
+        "gf2-13-10",
+        "gf4-27-18"
+      ]
+    },
+    {
+      "from": "Shield_of_Erdrick",
+      "to": "Golden_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-13-10",
+        "ra-guide-12-4"
+      ]
+    },
+    {
+      "from": "Shield_of_Erdrick",
+      "to": "Ach_115784",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-13-10"
+      ]
+    },
+    {
+      "from": "Monolith_South_of_Midenhall",
+      "to": "Osterfair_Castle",
+      "kind": "leads_to",
+      "label": "gold door travel door",
+      "fact_ids": [
+        "gf4-27-20"
+      ]
+    },
+    {
+      "from": "Osterfair_Castle",
+      "to": "Saber_Lion",
+      "kind": "contains",
+      "label": "the King's pet",
+      "fact_ids": [
+        "gf2-16-15",
+        "ra-guide-6-17"
+      ]
+    },
+    {
+      "from": "Saber_Lion",
+      "to": "Moon_Crest",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-28-20",
+        "gf2-16-15"
+      ]
+    },
+    {
+      "from": "Moon_Crest",
+      "to": "Ach_46423",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-28-20"
+      ]
+    },
+    {
+      "from": "Osterfair_Castle",
+      "to": "Armor_of_Gaia",
+      "kind": "contains",
+      "label": "hidden shop behind a gold door",
+      "fact_ids": [
+        "gf2-16-8",
+        "gf4-28-9"
+      ]
+    },
+    {
+      "from": "Armor_of_Gaia",
+      "to": "Golden_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-comments-64-1",
+        "gf-lists-9-36"
+      ]
+    },
+    {
+      "from": "Armor_of_Gaia",
+      "to": "Ach_115781",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-16-8"
+      ]
+    },
+    {
+      "from": "Osterfair_Castle",
+      "to": "Monolith_North_of_Beran",
+      "kind": "leads_to",
+      "label": "travel door",
+      "fact_ids": [
+        "gf4-28-26",
+        "gf4-28-28"
+      ]
+    },
+    {
+      "from": "Monolith_North_of_Beran",
+      "to": "Shrine_of_Fire",
+      "kind": "leads_to",
+      "label": "middle travel door",
+      "fact_ids": [
+        "gf4-28-28",
+        "gf4-29-4"
+      ]
+    },
+    {
+      "from": "Shrine_of_Fire",
+      "to": "Sun_Crest",
+      "kind": "contains",
+      "label": "search the outer corner",
+      "fact_ids": [
+        "gf3-63-4",
+        "gf4-28-29"
+      ]
+    },
+    {
+      "from": "Sun_Crest",
+      "to": "Ach_46421",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-63-4"
+      ]
+    },
+    {
+      "from": "Shrine_of_Fire",
+      "to": "Holy_Shrine",
+      "kind": "leads_to",
+      "label": "eastern travel door",
+      "fact_ids": [
+        "gf4-29-1"
+      ]
+    },
+    {
+      "from": "Holy_Shrine",
+      "to": "Helmet_of_Erdrick",
+      "kind": "contains",
+      "label": "trade the Token",
+      "fact_ids": [
+        "gf4-29-2",
+        "gf2-14-21"
+      ]
+    },
+    {
+      "from": "Helmet_of_Erdrick",
+      "to": "Token_of_Erdrick",
+      "kind": "requires",
+      "fact_ids": [
+        "gf4-29-2",
+        "gf2-14-21"
+      ]
+    },
+    {
+      "from": "Helmet_of_Erdrick",
+      "to": "Ach_115785",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-29-2"
+      ]
+    },
+    {
+      "from": "Monolith_North_of_Beran",
+      "to": "Beran",
+      "kind": "leads_to",
+      "label": "south-east over two bridges",
+      "fact_ids": [
+        "gf4-29-6"
+      ]
+    },
+    {
+      "from": "Beran",
+      "to": "Wellgarth",
+      "kind": "leads_to",
+      "label": "sail",
+      "fact_ids": [
+        "gf2-18-4",
+        "gf4-30-19"
+      ]
+    },
+    {
+      "from": "Wellgarth",
+      "to": "Jailors_Key",
+      "kind": "contains",
+      "label": "blank line in the second tool shop",
+      "fact_ids": [
+        "gf2-17-8",
+        "ra-guide-6-12"
+      ]
+    },
+    {
+      "from": "Jailors_Key",
+      "to": "Ach_46415",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-17-8"
+      ]
+    },
+    {
+      "from": "Wellgarth",
+      "to": "Roge_Fastfinger",
+      "kind": "contains",
+      "label": "empty-looking jail",
+      "fact_ids": [
+        "ra-guide-6-14",
+        "ra-guide-6-15"
+      ]
+    },
+    {
+      "from": "Roge_Fastfinger",
+      "to": "Jailors_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-6-15"
+      ]
+    },
+    {
+      "from": "Roge_Fastfinger",
+      "to": "Floodgate_Key",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-17-27",
+        "gf4-31-13"
+      ]
+    },
+    {
+      "from": "Floodgate_Key",
+      "to": "Ach_116307",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-6-14"
+      ]
+    },
+    {
+      "from": "Zahan",
+      "to": "Zahan_Wizards_House",
+      "kind": "contains",
+      "fact_ids": [
+        "gf4-32-1"
+      ]
+    },
+    {
+      "from": "Zahan_Wizards_House",
+      "to": "Magic_Loom",
+      "kind": "contains",
+      "label": "west jail door, StepGuard",
+      "fact_ids": [
+        "gf3-62-3",
+        "ra-guide-13-7"
+      ]
+    },
+    {
+      "from": "Magic_Loom",
+      "to": "Jailors_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-13-6",
+        "gf2-20-7"
+      ]
+    },
+    {
+      "from": "Midenhall_Castle",
+      "to": "Midenhall_Castle_Jail",
+      "kind": "contains",
+      "fact_ids": [
+        "gf3-58-9"
+      ]
+    },
+    {
+      "from": "Midenhall_Castle_Jail",
+      "to": "Evil_Clown",
+      "kind": "contains",
+      "label": "disguised old man",
+      "fact_ids": [
+        "gf4-32-3"
+      ]
+    },
+    {
+      "from": "Evil_Clown",
+      "to": "Jailors_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-12-11",
+        "gf-lists-9-32"
+      ]
+    },
+    {
+      "from": "Evil_Clown",
+      "to": "Staff_of_Thunder",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-17-19",
+        "gf3-58-11"
+      ]
+    },
+    {
+      "from": "Staff_of_Thunder",
+      "to": "Ach_115780",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-17-19"
+      ]
+    },
+    {
+      "from": "Hamlin",
+      "to": "Hamlin_Prison",
+      "kind": "contains",
+      "label": "gold door west of the healer, then stairs",
+      "fact_ids": [
+        "gf4-32-9",
+        "ra-guide-7-1"
+      ]
+    },
+    {
+      "from": "Hamlin_Prison",
+      "to": "Water_Crest",
+      "kind": "contains",
+      "label": "after two Ozwargs, search the north-east corner",
+      "fact_ids": [
+        "gf3-60-7",
+        "gf4-32-11"
+      ]
+    },
+    {
+      "from": "Water_Crest",
+      "to": "Ach_46424",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-60-7"
+      ]
+    },
+    {
+      "from": "Wellgarth",
+      "to": "Tuhn",
+      "kind": "leads_to",
+      "label": "sail the Tuhn River Channel",
+      "fact_ids": [
+        "gf4-32-16",
+        "gf4-32-17",
+        "ra-guide-7-5"
+      ]
+    },
+    {
+      "from": "Tuhn",
+      "to": "Floodgate",
+      "kind": "contains",
+      "label": "Watergate House",
+      "fact_ids": [
+        "gf4-33-9",
+        "gf4-33-10"
+      ]
+    },
+    {
+      "from": "Floodgate",
+      "to": "Floodgate_Key",
+      "kind": "requires",
+      "fact_ids": [
+        "gf3-67-4",
+        "gf4-33-10"
+      ]
+    },
+    {
+      "from": "Floodgate",
+      "to": "Ach_116308",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-67-4"
+      ]
+    },
+    {
+      "from": "Tuhn",
+      "to": "Water_Flying_Cloth",
+      "kind": "contains",
+      "label": "the weaver behind a gold door",
+      "fact_ids": [
+        "gf4-33-7",
+        "gf2-21-9"
+      ]
+    },
+    {
+      "from": "Water_Flying_Cloth",
+      "to": "Magic_Loom",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-21-9",
+        "ra-guide-13-8"
+      ]
+    },
+    {
+      "from": "Water_Flying_Cloth",
+      "to": "Dews_Yarn",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-21-9",
+        "ra-guide-13-8"
+      ]
+    },
+    {
+      "from": "Water_Flying_Cloth",
+      "to": "Ach_115782",
+      "kind": "unlocks",
+      "label": "save, reset, talk again",
+      "fact_ids": [
+        "gf2-21-10",
+        "ra-guide-13-8"
+      ]
+    },
+    {
+      "from": "Floodgate",
+      "to": "Tower_of_the_Moon",
+      "kind": "unlocks",
+      "label": "the river channel fills",
+      "fact_ids": [
+        "gf4-33-20",
+        "gf2-20-10"
+      ]
+    },
+    {
+      "from": "Tower_of_the_Moon",
+      "to": "Moon_Fragment",
+      "kind": "contains",
+      "label": "1F chest",
+      "fact_ids": [
+        "gf2-21-5",
+        "gf4-36-2"
+      ]
+    },
+    {
+      "from": "Moon_Fragment",
+      "to": "Ach_116309",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-21-5"
+      ]
+    },
+    {
+      "from": "Tuhn",
+      "to": "Metal_Babble",
+      "kind": "contains",
+      "label": "random encounter",
+      "fact_ids": [
+        "gf2-21-14",
+        "gf4-33-18"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Metal_Babble",
+      "kind": "contains",
+      "label": "comes alone, very tough",
+      "fact_ids": [
+        "ra-guide-10-9",
+        "ra-guide-13-17"
+      ]
+    },
+    {
+      "from": "Metal_Babble",
+      "to": "Ach_116313",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-21-14",
+        "gf2-27-43"
+      ]
+    },
+    {
+      "from": "Moon_Fragment",
+      "to": "Malroths_Cavern",
+      "kind": "unlocks",
+      "label": "use it beside the shallows",
+      "fact_ids": [
+        "ra-guide-7-10",
+        "gf4-36-11",
+        "gf3-71-2"
+      ]
+    },
+    {
+      "from": "Malroths_Cavern",
+      "to": "Ach_116310",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-7-10"
+      ]
+    },
+    {
+      "from": "Malroths_Cavern",
+      "to": "Evil_Clowns_Cavern",
+      "kind": "contains",
+      "label": "bottom floor",
+      "fact_ids": [
+        "gf2-22-11",
+        "gf3-72-7"
+      ]
+    },
+    {
+      "from": "Evil_Clowns_Cavern",
+      "to": "Eye_of_Malroth",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-22-11"
+      ]
+    },
+    {
+      "from": "Eye_of_Malroth",
+      "to": "Ach_116311",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-22-11",
+        "ra-guide-7-11"
+      ]
+    },
+    {
+      "from": "Beran",
+      "to": "Monolith_South_of_Rhone",
+      "kind": "leads_to",
+      "label": "portal behind the jail door",
+      "fact_ids": [
+        "gf3-74-1",
+        "ra-guide-8-2"
+      ]
+    },
+    {
+      "from": "Monolith_South_of_Rhone",
+      "to": "Cave_to_Rhone",
+      "kind": "requires",
+      "label": "Eye of Malroth at the swamp",
+      "fact_ids": [
+        "gf2-22-12",
+        "gf4-39-34",
+        "ra-comments-23-1"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Eye_of_Malroth",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-22-12",
+        "gf4-39-34"
+      ]
+    },
+    {
+      "from": "Monolith_South_of_Rhone",
+      "to": "Ach_46458",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-22-12",
+        "ra-comments-23-1"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Heart_Crest",
+      "kind": "contains",
+      "label": "Chamber of Horks",
+      "fact_ids": [
+        "gf2-22-1",
+        "ra-guide-8-3"
+      ]
+    },
+    {
+      "from": "Heart_Crest",
+      "to": "Ach_46425",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-22-1"
+      ]
+    },
+    {
+      "from": "Shrine_of_Rubiss",
+      "to": "Charm_of_Rubiss",
+      "kind": "contains",
+      "label": "stand on the centre tile",
+      "fact_ids": [
+        "gf3-75-4",
+        "gf4-41-6"
+      ]
+    },
+    {
+      "from": "Charm_of_Rubiss",
+      "to": "Heart_Crest",
+      "kind": "requires",
+      "label": "all five crests",
+      "fact_ids": [
+        "gf4-41-6",
+        "ra-guide-8-8",
+        "gf2-15-13"
+      ]
+    },
+    {
+      "from": "Charm_of_Rubiss",
+      "to": "Star_Crest",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-8-8"
+      ]
+    },
+    {
+      "from": "Charm_of_Rubiss",
+      "to": "Sun_Crest",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-8-8"
+      ]
+    },
+    {
+      "from": "Charm_of_Rubiss",
+      "to": "Moon_Crest",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-8-8"
+      ]
+    },
+    {
+      "from": "Charm_of_Rubiss",
+      "to": "Water_Crest",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-guide-8-8"
+      ]
+    },
+    {
+      "from": "Charm_of_Rubiss",
+      "to": "Ach_46420",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-75-4",
+        "ra-guide-8-8"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Thunder_Sword",
+      "kind": "contains",
+      "label": "pitfall room",
+      "fact_ids": [
+        "gf2-23-16",
+        "ra-guide-12-9"
+      ]
+    },
+    {
+      "from": "Thunder_Sword",
+      "to": "Ach_115779",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-23-16"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Armor_of_Erdrick",
+      "kind": "contains",
+      "label": "chest beside the stairs",
+      "fact_ids": [
+        "gf2-23-9",
+        "gf3-76-6"
+      ]
+    },
+    {
+      "from": "Armor_of_Erdrick",
+      "to": "Ach_115783",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-26-40"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Wizards_Ring",
+      "kind": "contains",
+      "label": "Hork drop",
+      "fact_ids": [
+        "ra-guide-13-13",
+        "ra-comments-71-2"
+      ]
+    },
+    {
+      "from": "Wizards_Ring",
+      "to": "Ach_115787",
+      "kind": "unlocks",
+      "label": "use it in battle when MP is not full",
+      "fact_ids": [
+        "ra-guide-13-14",
+        "ra-comments-71-3"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Rhone_Plateau",
+      "kind": "leads_to",
+      "label": "5F exit",
+      "fact_ids": [
+        "ra-guide-8-7"
+      ]
+    },
+    {
+      "from": "Cave_to_Rhone",
+      "to": "Ach_116312",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-8-7"
+      ]
+    },
+    {
+      "from": "Rhone_Plateau",
+      "to": "Rhone_Shrine",
+      "kind": "contains",
+      "fact_ids": [
+        "gf3-80-6",
+        "ra-guide-3-23"
+      ]
+    },
+    {
+      "from": "Rhone_Plateau",
+      "to": "Ach_46408",
+      "kind": "unlocks",
+      "label": "grind to level 30",
+      "fact_ids": [
+        "gf2-24-5"
+      ]
+    },
+    {
+      "from": "Rhone_Plateau",
+      "to": "Hargons_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-80-5"
+      ]
+    },
+    {
+      "from": "Hargons_Castle",
+      "to": "Charm_of_Rubiss",
+      "kind": "requires",
+      "label": "dispel the illusion",
+      "fact_ids": [
+        "gf-lists-9-26",
+        "ra-guide-8-10"
+      ]
+    },
+    {
+      "from": "Hargons_Castle",
+      "to": "Atlas",
+      "kind": "contains",
+      "fact_ids": [
+        "gf4-46-11"
+      ]
+    },
+    {
+      "from": "Atlas",
+      "to": "Bazuzu",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-47-4"
+      ]
+    },
+    {
+      "from": "Bazuzu",
+      "to": "Zarlox",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-47-13"
+      ]
+    },
+    {
+      "from": "Zarlox",
+      "to": "Hargon",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-48-5"
+      ]
+    },
+    {
+      "from": "Hargon",
+      "to": "Ach_46459",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-25-10",
+        "gf3-82-16"
+      ]
+    },
+    {
+      "from": "Hargon",
+      "to": "Malroth",
+      "kind": "leads_to",
+      "label": "leaving the room",
+      "fact_ids": [
+        "gf3-83-1",
+        "gf2-25-11"
+      ]
+    },
+    {
+      "from": "Malroth",
+      "to": "Ach_46460",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-25-19",
+        "gf3-83-6"
+      ]
+    },
+    {
+      "from": "Malroth",
+      "to": "Malroth_PONR",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-83-6"
+      ]
+    },
+    {
+      "from": "Malroth_PONR",
+      "to": "Ending",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-25-17",
+        "ra-guide-9-4"
+      ]
+    },
+    {
+      "from": "Ending",
+      "to": "Ach_46461",
+      "kind": "missable_before",
+      "label": "say No first",
+      "fact_ids": [
+        "ra-comments-33-6",
+        "ra-comments-33-5"
+      ]
+    },
+    {
+      "from": "Ending",
+      "to": "Ach_46462",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-9-5"
+      ]
+    }
+  ]
+}

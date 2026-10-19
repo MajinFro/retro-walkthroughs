@@ -1,0 +1,54 @@
+ra-comments#13 server log only: upload, promotion, edit and type-change events; no gameplay info
+ra-comments#14 server log only: edit and type-change events; no gameplay info
+ra-comments#15 server log only: edit and type-change events; no gameplay info
+ra-comments#17 server log only: edit, title-change and type-change events; no gameplay info
+ra-comments#37 ra-comments chunk with only achievement edit notices and the description line; no gameplay info
+ra-comments#40 ra-comments chunk with only achievement edit notices and the description line; no gameplay info
+ra-comments#41 ra-comments chunk with only achievement edit notices and the description line; no gameplay info
+ra-comments#42 ra-comments chunk with only achievement edit notices and the description line; no gameplay info
+ra-comments#43 ra-comments chunk with only achievement edit notices and the description line; no gameplay info
+ra-comments#44 ra-comments chunk with only achievement edit notices and the description line; no gameplay info
+ra-comments#45 edit log and description line only: no gameplay info
+ra-comments#46 edit log and description line only: no gameplay info
+ra-comments#47 edit log and description line only: no gameplay info
+ra-comments#48 edit log and description line only: no gameplay info
+ra-comments#49 edit log and description line only: no gameplay info
+ra-comments#52 edit log and description line only: no gameplay info
+ra-comments#54 server edit notices and achievement description only: no gameplay info
+ra-comments#55 server edit notices and achievement description only: no gameplay info
+ra-comments#56 server edit notices and achievement description only: no gameplay info
+ra-comments#57 server edit notices and achievement description only: no gameplay info
+ra-comments#58 server edit notices and achievement description only: no gameplay info
+ra-comments#59 server edit notices and achievement description only: no gameplay info
+ra-comments#61 server upload/promotion/edit notices only: no gameplay info
+ra-comments#63 server upload/promotion/edit notices only: no gameplay info
+ra-comments#66 server upload/promotion/edit notices only: no gameplay info
+ra-comments#67 server upload/promotion/edit notices only: no gameplay info
+ra-comments#68 server edit notices only: no gameplay info
+ra-comments#25 ra-comments: only server edit/type log lines, no gameplay info
+ra-comments#26 ra-comments: only server edit/type log lines, no gameplay info
+ra-comments#27 ra-comments: only server edit/type log lines, no gameplay info
+ra-comments#28 ra-comments: only server edit/type log lines, no gameplay info
+ra-comments#29 server edit log only: no gameplay info
+ra-comments#31 chatter only: no gameplay info (comment about achievement graphic)
+ra-comments#32 server edit log only: no gameplay info
+ra-comments#34 chatter only: no gameplay info
+ra-comments#35 server edit log only: no gameplay info
+ra-comments#36 server edit log only: no gameplay info
+ra-comments#9 achievement block contains only server edit log and type set: no gameplay info
+ra-comments#10 achievement block contains only server edit log and type set: no gameplay info
+ra-comments#11 achievement block contains only server edit log and type set: no gameplay info
+ra-comments#12 achievement block contains only server edit log and type set: no gameplay info
+ra-comments#69 only server upload and edit notices, no gameplay info
+ra-comments#70 only server upload, promotion and edit notices, no gameplay info
+ra-comments#76 only server edit notices, no gameplay info
+gf3#1 version history and table of contents
+gf3#2 secondary source: introduction and story prologue only, no chests, boss, puzzle, or number data
+gf3#3 secondary source: story only; the treasure chest's contents are not named
+gf2#29 walkthrough conclusion, author contact, and credits; no gameplay information
+gf3#17 unlabeled numeric table (ids 021-027) with no stated column meanings in the chunk; no gameplay statement can be recorded without guessing
+gf2#1 table of contents
+gf4#1 table of contents
+gf-lists#17 credits and author signature only; no gameplay information
+gf-lists#1 table of contents only: no gameplay information
+gf-lists#2 copyright and disclaimer text: non-game content

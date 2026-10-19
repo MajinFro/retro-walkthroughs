@@ -1,0 +1,2539 @@
+                                 Dragon Warrior II
+                               Complete Walkthrough
+                                    Version 1.5
+                                  By Jason Venter
+                              jasonventer[at]yahoo.com
+
+-----------------------------------------------------------------------------
+
+Version History:
+
+(1.0) March 5, 2004 - The guide was initially started for an HTML format, and 
+the information in the guide created up to that point covered the game up to 
+the Tuhn area.
+
+(1.5) December 6, 2005 - I decided to resume work on this guide, since so 
+much work had already been done, but began by converting the HTML format into 
+something readable in a .txt format so it can be posted on a wider variety of 
+sites.
+
+(2.0) December 13, 2005 - Tonight I've "finished" the walkthrough.  It now 
+tells how to make it all the way through to the end of the game.  
+Additionally, I've significantly updated the character progression charts.  
+In short, this guide has in all probability been revised for the last time.  
+Any changes from this point onward are most probably going to be quite 
+insignificant.  At last!
+
+-----------------------------------------------------------------------------
+
+Table of Contents:
+
+I. Introduction 
+II. Prologue
+III. Character Progression Charts
+001. Midenhall 
+002. Leftwyne 
+003. Cannock Castle 
+004. Spring of Bravery 
+005. Silver Mine (Silver Key) 
+006. Western Monolith
+007. Hamlin 
+008. Mirror Swamp (Mirror of Ra) 
+009. Eastern Tower (Cloak of Wind) 
+010. Moonbrooke Castle 
+011. South Dragon's Horn Tower 
+012. Lianport (The Ship) 
+013. Tantegel 
+014. Charlock Castle (Sword of Erdrick) 
+015. World Tree Island (Leaf of the World Tree) 
+016. Zahan (Golden Key) 
+017. Beran 
+018. Wellgarth (Jailor's Key) 
+019. Osterfair (The Moon Crest) 
+020. Collecting Important Items 
+021. Hamlin (The Water Crest) 
+022. North Dragon's Horn Tower (Dew's Yarn) 
+023. Zahan (The Magic Loom) 
+024. Fire Shrine (The Sun Crest)
+025. The Lighthouse (The Star Crest)
+026. Tuhn (The Water Flying Cloth)
+027. Tower of the Moon (Moon Fragment)
+028. Malroth's Cavern (Eye of Malroth)
+029. Cave to Rhone (The Life Crest)
+030. Chamber of Rubiss (Charm of Rubiss)
+031. Cave to Rhone
+032. Shrine of Rhone
+033. Hargon's Castle
+034. Conclusion
+
+Search Tip: You can hop around this guide easily by copying the line from the 
+contents above that corresponds to the area where you need help, then 
+pressing 'CTRL+F' on your keyboard to bring up the box. Paste the line into 
+that box, then search to skip immediately to the desired portion of the 
+guide.
+
+-----------------------------------------------------------------------------
+
+===============
+I. Introduction
+===============
+
+Enix's classic game <i>Dragon Warrior II</i> is an underappreciated role-
+playing gem, to be sure.  It's also a quest riddled with caves, towers, 
+oceans, forests and deserts.  Count on this guide to help you through the 
+worst of these, with information critical to your quest provided at the exact 
+moment you'll need it most, throughout the guide.  With a table of contents 
+and excellent attention to detail, you won?t have to look anywhere else!
+
+
+============
+II. Prologue
+============
+
+Many years ago a young warrior who was of the line of the great Erdrick came 
+to Alefgard and defeated the dreaded Dragonlord, restoring peace to the land.  
+
+For many generations the descendants of that warrior ruled Alefgard and the 
+surrounding lands, including the Kingdom of Moonbrooke across the eastern sea 
+from Alefgard.
+
+There one day the King and his daughter were talking in the courtyard of the 
+castle when the long years of peace ended suddenly!
+
+(Castle shakes and lights flash.)
+
+What in the world is happening? Cried the King.
+
+"Majesty," said the King's Guard. "The castle is besieged by the forces of 
+Hargon, the Wizard!"
+
+"Hargon is here?" asked the King.
+
+"Alas, sire, it is so."
+
+"Then we must ride forth and do battle, for these castle walls shall not 
+stand long against the evil magic of Hargon," pronounced the king.
+
+(Monster appears and defeats the nearby guard, then approaches the King and 
+Princess.)
+
+"Hargon shall not rule unopposed."
+
+(King defeats the monster, then leads Princess to a staircase.)
+
+Then the King spoke to the Princess: "Thy life is in danger, my daughter.  
+Hide thyself now, and whatever happens to me thou must be strong."
+
+"But Father!" cried the Princess.
+
+"Hurry," commanded the King. "I must go to warn my cousin, the King of 
+Midenhall."
+
+(King starts away from the stairs, and a monster appears in front of the 
+Princess behind him.)
+
+"Father!" screamed the Princess.
+
+"They are here!"
+
+(The King turns.)
+
+"Oh, such a brave beauty," the Monster mocked her.
+
+The King was enraged.
+
+"Touch her and thou shall not survive this day!" He challenged the fiend.
+
+"So," hissed the Monster, "thou must be the lord of this miserable 
+sandcastle.  But I think not for long."
+
+(Monster approaches the king, who defeats it.  Two monsters appear on either 
+side of the king and exchange blows.  King falls and Princess approaches.)
+
+Then the Princess gasped in horror.
+
+"No, Father!  No!"
+
+(Monsters appear throughout the castle.  A soldier flees as a monster takes 
+out two guards at the gates.  Soldier kills a monster.)
+
+"I must reach the King of Midenhall and tell him of our defeat!"
+
+(Guard leaves castle to a wide, open plain.  Castle erupts in flames at the 
+center of a swampland.  Soldier makes his way to Midenhall and falls in the 
+entrance.  Guards rush to his side.)
+
+"Thy wound looks serious."
+
+"What has happened to thee?"
+
+"Never mind me.  I must see the King.  I have evil tidings that cannot wait."
+
+(Guards escort him to the King.)
+
+"Hear me, oh King.  The army of Hargon the Sorcerer has sacked Moonbrooke 
+Castle from whence I came.  The evil of his magic is great and I fear he will 
+soon rule all the world. . . . unless a monarch as great as thyself stands 
+against him."
+
+"(Your name), my heir.  Thou has heard the tale of this man.  I am old and 
+this task must fall to younger hands.  Thy destiny lies on that difficult 
+road, just as it did for Erdrick the Great, for thou art of the line of 
+Erdrick, and his doom is thine.  Come with me now if thou art ready."
+
+(King leads hero down the stairs into the next room and stands to the right 
+of the staircase.  A treasure chest rests to the left.)
+
+"Open the treasure chest and prepare for thy journey.  Now listen closely, 
+(Your name).  Seek out worthy companions along thy road.  In Cannock and 
+Moonbrooke there are those who are also of Erdrick?s line.  They will surely 
+help thee to defeat Hargon's dark plot."
+
+
+=================================
+III. Character Progression Charts
+=================================
+
+As you travel the world of Alefgard, battling monsters and having a good time 
+in general, your characters will grow stronger in preparation of the final 
+encounters.  This chart will let you know what sort of upgrades to expect in 
+the early stages, and are based on my trip through the game as I compiled 
+this material.  Your experience may vary slightly.
+
+------------------------------------------------------
+|            Hero's Character Progression            |
+======================================================
+| Level |  HP  |  MP  |  Exp.  | Skill(s) Learned    |
+------------------------------------------------------
+|  001  | 0028 | 0000 | 000000 | None                | 
+------------------------------------------------------
+|  002  | 0037 | 0000 | 000012 | None                | 
+------------------------------------------------------
+|  003  | 0040 | 0000 | 000035 | None                | 
+------------------------------------------------------
+|  004  | 0048 | 0000 | 000072 | None                | 
+------------------------------------------------------
+|  005  | 0052 | 0000 | 000140 | None                |
+------------------------------------------------------
+|  006  | 0055 | 0000 | 000280 | None                | 
+------------------------------------------------------
+|  007  | 0056 | 0000 | 000560 | None                | 
+------------------------------------------------------
+|  008  | 0058 | 0000 | 001000 | None                | 
+------------------------------------------------------
+|  009  | 0058 | 0000 | 001800 | None                | 
+------------------------------------------------------
+|  010  | 0060 | 0000 | 002800 | None                | 
+------------------------------------------------------
+|  011  | 0062 | 0000 | 003900 | None                | 
+------------------------------------------------------
+|  012  | 0063 | 0000 | 005300 | None                | 
+------------------------------------------------------
+|  013  | 0064 | 0000 | 007600 | None                | 
+------------------------------------------------------
+|  014  | 0065 | 0000 | 010000 | None                | 
+------------------------------------------------------
+|  015  | 0068 | 0000 | 013000 | None                | 
+------------------------------------------------------
+|  016  | 0070 | 0000 | 017000 | None                | 
+------------------------------------------------------
+|  017  | 0075 | 0000 | 021000 | None                | 
+------------------------------------------------------
+|  018  | 0078 | 0000 | 026000 | None                | 
+------------------------------------------------------
+|  019  | 0082 | 0000 | 032000 | None                |
+------------------------------------------------------
+|  020  | 0095 | 0000 | 040000 | None                |
+------------------------------------------------------
+|  021  | 0101 | 0000 | 050000 | None                | 
+------------------------------------------------------
+|  022  | 0110 | 0000 | 062000 | None                | 
+------------------------------------------------------
+|  023  | 0119 | 0000 | 075000 | None                | 
+------------------------------------------------------
+|  024  | 0125 | 0000 | 090000 | None                | 
+------------------------------------------------------
+|  025  | 0134 | 0000 | 107000 | None                |
+------------------------------------------------------
+|  026  | 0142 | 0000 | 127000 | None                |
+------------------------------------------------------
+|  027  | 0153 | 0000 | 150000 | None                |
+------------------------------------------------------
+|  028  | 0163 | 0000 | 175000 | None                |
+------------------------------------------------------
+|  029  | 0170 | 0000 | 200000 | None                |
+------------------------------------------------------
+|  030  | ???? | 0000 | 230000 | None                |
+------------------------------------------------------
+|  031  | ???? | 0000 | ?????? | None                |
+------------------------------------------------------
+|  032  | ???? | 0000 | ?????? | None                |
+------------------------------------------------------
+|  033  | ???? | 0000 | ?????? | None                |
+------------------------------------------------------
+|  034  | ???? | 0000 | ?????? | None                |
+------------------------------------------------------
+|  035  | ???? | 0000 | ?????? | None                |
+------------------------------------------------------
+
+------------------------------------------------------
+|        Prince's Character Progression Chart        | 
+======================================================
+| Level |  HP  |  MP  |  Exp.  | Skill(s) Learned    |
+------------------------------------------------------
+|  001  | 0031 | 0006 | 000000 | Heal                |
+------------------------------------------------------ 
+|  002  | 0034 | 0012 | 000024 | None                | 
+------------------------------------------------------
+|  003  | 0035 | 0016 | 000060 | Firebal             | 
+------------------------------------------------------
+|  004  | 0038 | 0018 | 000110 | None                | 
+------------------------------------------------------
+|  005  | 0040 | 0020 | 000200 | None                | 
+------------------------------------------------------
+|  006  | 0042 | 0022 | 000380 | Antidote            | 
+------------------------------------------------------
+|  007  | 0042 | 0027 | 000700 | None                | 
+------------------------------------------------------
+|  008  | 0044 | 0032 | 001300 | Stopspell           | 
+------------------------------------------------------
+|  009  | 0045 | 0034 | 002400 | None                | 
+------------------------------------------------------
+|  010  | 0047 | 0038 | 004000 | Return              | 
+------------------------------------------------------
+|  011  | 0050 | 0040 | 006000 | None                | 
+------------------------------------------------------
+|  012  | 0052 | 0043 | 008200 | Outside             | 
+------------------------------------------------------
+|  013  | 0054 | 0045 | 011000 | None                | 
+------------------------------------------------------
+|  014  | 0059 | 0046 | 015000 | Healmore            | 
+------------------------------------------------------
+|  015  | 0063 | 0048 | 019000 | None                |
+------------------------------------------------------ 
+|  016  | 0065 | 0052 | 024000 | None                | 
+------------------------------------------------------
+|  017  | 0069 | 0060 | 030000 | Stepguard           | 
+------------------------------------------------------
+|  018  | 0072 | 0063 | 037000 | Firebane            | 
+------------------------------------------------------
+|  019  | 0079 | 0066 | 046000 | None                | 
+------------------------------------------------------
+|  020  | 0083 | 0066 | 057000 | Increase            | 
+------------------------------------------------------
+|  021  | 0087 | 0074 | 070000 | None                | 
+------------------------------------------------------
+|  022  | 0091 | 0075 | 085000 | None                | 
+------------------------------------------------------
+|  023  | 0099 | 0081 | 100000 | Defeat              | 
+------------------------------------------------------
+|  024  | 0106 | 0085 | 116000 | None                |
+------------------------------------------------------
+|  025  | 0113 | 0089 | 134000 | Revive              |
+------------------------------------------------------
+|  026  | 0125 | 0089 | 156000 | None                |
+------------------------------------------------------
+|  027  | 0138 | 0092 | 182000 | None                |
+------------------------------------------------------
+|  028  | ???? | ???? | 210000 | None                |
+------------------------------------------------------
+|  029  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+|  030  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+
+------------------------------------------------------
+|       Princess's Character Progression Chart       | 
+======================================================
+| Level |  HP  |  MP  |  Exp.  | Skill(s) Learned    |
+------------------------------------------------------ 
+|  001  | 0032 | 0028 | 000000 | Healmore            | 
+------------------------------------------------------
+|  002  | 0032 | 0028 | 000100 | Sleep               | 
+------------------------------------------------------
+|  003  | 0037 | 0035 | 000300 | None                | 
+------------------------------------------------------
+|  004  | 0037 | 0044 | 000600 | Infernos            | 
+------------------------------------------------------
+|  005  | 0038 | 0048 | 001200 | None                | 
+------------------------------------------------------
+|  006  | 0039 | 0048 | 002400 | Surround            | 
+------------------------------------------------------
+|  007  | 0040 | 0050 | 004200 | None                | 
+------------------------------------------------------
+|  008  | 0045 | 0052 | 006400 | Repel               | 
+------------------------------------------------------
+|  009  | 0050 | 0058 | 009000 | None                | 
+------------------------------------------------------
+|  010  | 0056 | 0063 | 012000 | Defence             | 
+------------------------------------------------------
+|  011  | 0058 | 0069 | 016000 | None                | 
+------------------------------------------------------
+|  012  | 0059 | 0071 | 020000 | Antidote            | 
+------------------------------------------------------
+|  013  | 0062 | 0075 | 025000 | None                | 
+------------------------------------------------------
+|  014  | 0068 | 0080 | 031000 | None                | 
+------------------------------------------------------
+|  015  | 0075 | 0086 | 039000 | Healall             | 
+------------------------------------------------------
+|  016  | 0080 | 0098 | 050000 | None                | 
+------------------------------------------------------
+|  017  | 0089 | 0110 | 065000 | Outside             | 
+------------------------------------------------------
+|  018  | 0097 | 0119 | 083000 | None                | 
+------------------------------------------------------
+|  019  | 0105 | 0128 | 103000 | Explodet            | 
+------------------------------------------------------
+|  020  | 0112 | 0135 | 125000 | None                | 
+------------------------------------------------------
+|  021  | 0124 | 0138 | 150000 | Stepguard           | 
+------------------------------------------------------
+|  022  | 0133 | 0140 | 180000 | None                | 
+------------------------------------------------------
+|  023  | ???? | ???? | 220000 | None                | 
+------------------------------------------------------
+|  024  | ???? | ???? | ?????? | None                | 
+------------------------------------------------------
+|  025  | ???? | ???? | ?????? | None                |
+------------------------------------------------------ 
+|  026  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+|  027  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+|  028  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+|  029  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+|  030  | ???? | ???? | ?????? | None                |
+------------------------------------------------------
+
+
+==============
+001. Midenhall
+==============
+
+LOCATION: You start the game here.  Finding it is a cinch.  You just sit 
+through the introduction (sorry, had to do it).  Once you've followed the king 
+down the stairs, you should look left to the treasure chest and open it.  
+Inside, you'll find a COPPER SWORD and 50 GOLD.
+
+There's not much else to do here, unless you want to buy some medical herbs 
+for a long trip.  Later, you'll find the antidote herbs handy, but you 
+shouldn't invest in those just yet.  Your hero can only carry eight items at 
+once, including his weapon and armor, and there aren't any poisonous enemies 
+for awhile yet.
+
+Since your level is quite low at this point, you should go just outside town 
+and fight monsters long enough to raise it.  There are slimes and big slugs 
+near the castle, so you can walk up and down to the right of the building on 
+the map to safely grow stronger without wandering far from a health refill at 
+an inn.  It only costs you 4 gold per night at this point, so it's an easy 
+way to build levels.  I suggest increasing your level to 3 or 4, depending on 
+your skill.  It's possible to go northwest with less, but a leisurely pace is 
+the best way to enjoy the game.
+
+Once you're at level 4, there's really no point in staying here any longer.  
+Some of the enemies will run from battle, just because your level is so high.  
+Now is a good time to follow the coast to your northwest and find the next 
+village.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Copper Sword           |   100  | +10 ATK                       | H,B     |
+-----------------------------------------------------------------------------
+| Leather Armor          |   100  | +6 DEF                        | H,B     |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+=============
+002. Leftwyne
+=============
+
+LOCATION: From Midenhall, head to your upper left, along the brush-covered 
+prairies, to the desert.  Follow the desert to the lower left, and from the 
+end of that desert, head directly northwest for a bit through the forest, 
+below the swamp.  From the edge of the forest to the northwest, it's only a 
+few steps to Leftwyne.
+
+It's only 6 gold to spend the night at the inn here, and you may well need to 
+do that after the trek from Midenhall.  There are also some items in the 
+shops here that you may find of interest, if you want the hero to do good 
+damage against enemies in battle, or to be able to defend himself.
+
+The enemies immediately surrounding the village also are of a tougher breed, 
+including a lot of iron ants, ghost mice, drakees and big slugs, rather than 
+the more common slimes that patrolled the grounds around Midenhall.  You 
+shouldn't have much difficulty increasing your level to 6 or so just outside 
+of Leftwyne, which is recommended before you continue north.
+
+I also recommend purchasing some gear in the weapons shop.  Your best 
+offensive purchase is the CHAIN SICKLE, while the best defensive one is the 
+CHAIN MAIL.  Affording both will take quite some time, but you can work 
+around town to build up the funds if you really want.  Otherwise, decide 
+which immediate purchase best fits your fighting style and go from there (me, 
+I like to beef up on offensive stuff).
+
+You can talk elsewhere in town, and the people will let you know that the 
+castle of Cannock lies to the north.  That's your next destination, once 
+you've reached level 6 or so (you'll almost certainly reach level 7 if you 
+want to stick around long enough to get both better armor and weapons).
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Chain Mail             |   480  | +12 DEF                       | H,B     |
+-----------------------------------------------------------------------------
+| Chain Sickle           |   390  | +15 ATK                       | H,B     |
+-----------------------------------------------------------------------------
+| Copper Sword           |   100  | +10 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Leather Shield         |    90  | +4 DEF                        | H,B     |
+-----------------------------------------------------------------------------
+| Magic Knife            |   200  | +12 ATK                       | H,B,G   |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Wing of Wyvern         |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+===================
+003. Cannock Castle
+===================
+
+LOCATION: Go left seven steps from Leftwyne and then head due north and 
+you'll find this castle city.  It doesn't get much simpler than that.
+
+The castle city of Cannock has a costlier inn, and it'll cost you 8 gold to 
+spend the night there.  Other attractions include the king, who can save your 
+progress and update you on how many experience points you need to reach the 
+next level.  He'll also tell you that his son (whom I shall refer to Talint 
+in this guide, though I've also seen the game call him by other names like 
+Numor) has already left on a separate journey.  The king suggests that you 
+find the prince and take him as your companion for the journey, and that's 
+exactly what you should do.
+
+First, however, you'll want to save and then head right to the grayed-out 
+room.  There, the princess tells you that her brother went looking for the 
+Spring of Bravery, but that he travels slowly.    
+
+Though the Spring of Bravery isn't the place where you ultimately will find 
+the prince, you should head there next.  It's your first dungeon, but you're 
+likely at level 7 by now, so it won't prove too difficult.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+======================
+004. Spring of Bravery
+======================
+
+LOCATION: From where you exit Cannock, head up five steps, then walk due east 
+until you reach the bridge.  Take one step down, cross the bridge, and head 
+due east until the mountains will let you go no further.  Walk straight up to 
+the coast immediately north, then straight right to the cave's entrance.
+
+The enemies surrounding and occupying the Spring of Bravery are tougher than 
+those you've previously encountered (the babble enemies can poison you), so 
+make sure you bring two or three antidote herbs from Cannock, and maybe some 
+medical herbs.
+
+Once you enter the cave, head up along the passage.  Ignore the branch 
+leading off to the left; it's a dead-end with no treasure chests in sight, 
+and a poison-inflicting enemy tends to attack the moment you enter.  Follow 
+the passage as it wraps toward the right and to the small patch of water.
+
+Here, the path branches in several directions.  To get through the cave, take 
+the path directly overhead (in case you wonder, the room below that bit of 
+water contains a MEDICAL HERB, while heading along the lower path to the 
+right will lead you to a treasure chest with a measly 16 GOLD and the upper 
+path to the right leads to a villager who asks if you've bathed in the 
+spring).  Since those branches are mostly worthless, just follow the path due 
+north it as it wraps left to the large spring for which the cave is named.  
+There's a sage standing by the water's shore, and he'll tell you the prince 
+has headed to Midenhall.
+
+If you need it, there's a MEDICAL HERB in the treasure chest to the left.  
+Otherwise, turn back around, exit the cave, and head back to Cannock Castle, 
+and from there south to Leftwyne, where you will find Cannock's prince 
+staying in the inn.  Now your party has two members.  Next, you should head 
+back to Cannock.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+=============================
+005. Silver Mine (Silver Key)
+=============================
+
+LOCATION: The silver mine is rather difficult to locate.  From Cannock 
+Castle, head directly west until you can travel no further without moving 
+down.  When that is the case, head due south to the first patch of desert, 
+then from there left until you hit the shore.  Now head directly up until you 
+see a bridge to your left, which leads to a small island and the mine 
+entrance.
+
+This is a great place to build your levels a bit for the trials to come.  If 
+you're at first venturing here for the sake of growing stronger, bring along 
+a wing of the wyvern so you don't have to limp the long walk back to town 
+when you run low on supplies.
+
+From the stairs where you first enter, head directly down, then left along 
+the hallway.  There are various branches from the hall.  The first one 
+leading downward allows you access to a room with a MEDICAL HERB in a 
+treasure chest.  The second branch from that hallway, which leads upward, is 
+a dead end that you should avoid.
+
+Continue down the hallway until you see a small underground lake.  Directly 
+above it is another dead-end room, so don't be fooled into taking that path.  
+Instead, head down along the lake's left side.  There's a branch left from 
+the base of the lake, and you should follow it left one room, down one room, 
+and there find a staircase leading down to the cavern's next floor (if you're 
+worried about the paths you saw below the lake, don't be; the lower right one 
+leads to a chest with only 23 GOLD and the lower left one is a dead end).
+From the foot of the staircase that leads back up to the first floor you just 
+left, the first passage on the left is a dead end, the passage on the right 
+leads to a treasure chest with a MEDICAL HERB, the next passage left is a 
+dead end yet again, and beyond that you should continue south until you come 
+to the place where a path branches off to the left while another branches off 
+directly to the right.
+
+The room to the left contains a treasure chest with an ANTIDOTE HERB.  Avoid 
+the room to the right, which is a dead end.  Continue south along the path 
+instead.  You'll find it branches left and right again, at an inverted 'T' in 
+the path. If you head left, you'll find another room, and from there another 
+room with two treasure chests.  The bottom one contains the WING OF THE 
+WYVERN, and the top contains 41 GOLD.
+
+Head right from that path, back to the inverted 'T,' and this time go right 
+instead.  Here, you'll move downward into another room, and from there down 
+to yet another one.  That one leads down yet again, to a room with a treasure 
+chest that contains the SILVER KEY.  Finally!
+
+Now it's time to run back to the entrance of the mine and, once you exit, use 
+the wing of the wyvern you found in the mine to head back to Cannock Castle 
+and refill your life and magic at the inn.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Silver Key             |     -  | Use on silver doors           | H,B,G   |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+=====================
+006. Western Monolith
+=====================
+
+LOCATION: From Cannock Castle, head west 17 steps, then move due south to 
+find the portal on the map.
+
+If you want to move forward with your quest now that you have the silver key 
+(you do), then you'll need to head through the Western Monolith to get to the 
+mainland where Moonbrooke Castle is situated.  That's also where you'll find 
+the final companion for your trio.  Before heading that direction, though, 
+make sure you've leveled the prince up to around level six so that he won't 
+fall almost instantly in battle if an enemy picks on him instead of the hero.
+
+When you enter the monolith, you'll be greeted by an old man and two guards.  
+The old man mentions the monolith west of Midenhall, while the two guards 
+wave you through to the staircase that leads below.  Go ahead and descend the 
+staircase.
+
+You're now in a cavern.  In that cavern, you can either head left or down.  
+The left path leads to a monolith on a dead-end island, so you should instead 
+follow the path leading directly down.  Along the way, battle ghost mice and 
+magicians (who can cast damaging fire spells and also have rather large life 
+meters) until you reach the stone wall, then head left into the next chamber 
+and climb the stairs to exit the area.  Your next goal is the somewhat remote 
+town of Hamlin.
+
+
+===========
+007. Hamlin
+===========
+
+LOCATION: Once you exit the western monolith, you'll be at the top of a 
+peninsula of sorts.  Just follow it down and left along the shoreline and, 
+when land starts to widen, head down toward a thick forest.  A few steps 
+through the forest, you'll find Hamlin along a riverside.
+
+Making your way to Hamlin from the exit of the monolith can be difficult, 
+because the enemies in this area are much tougher.  Not only are the rare 
+magicians from the tunnel walking around in greater abundance, but they've 
+also been joined by vicious centipods that have tough shells and even tougher 
+attacks (they can poison you, too).  The prince's health will likely run low 
+quite quickly, so be sure he's ready to heal.
+
+As far as battling goes, you may well decide that flight will work best.  No 
+one would blame you, as these are tough opponents.  After all, making it to 
+Hamlin should be your priority.  There, you can refill your health (prepare 
+to spend 12 gold per character for a night at the inn), save (the sage just 
+left of the House of Healing will record your progress, much like a king 
+would elsewhere), and then build your levels to a nicer point.  You can also 
+stock up on better weapons and use any lottery tickets you've gained to play 
+the town lottery.
+
+Another point of interest is the dog that wanders the area.  Talk to it and 
+the creature will bark, then follow you like a party member.  That's because 
+the pooch is actually a princess.  You'll have to find a mirror from a nearby 
+swamp to change her back to her standard form, though.
+
+Before you venture to the swamp, raise your level to at least 10 each by 
+battling monsters just outside Hamlin, and stock up on the more powerful 
+weapons and armor (one good strategy is to buy FULL PLATE ARMOR for the hero, 
+and pass his chain mail on to the prince).  When you've done so, you're ready 
+to make a quick sprint to your next destination.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Broad Sword            |  1500  | +30 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Chain Mail             |   480  | +12 DEF                       | H,B     |
+-----------------------------------------------------------------------------
+| Chain Sickle           |   390  | +15 ATK                       | H,B     |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Full Plate Armor       |  1000  | +25 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Iron Spear             |   770  | +20 ATK                       | H,B     |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Steel Shield           |  2000  | +10 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+================================
+008. Mirror Swamp (Mirror of Ra)
+================================
+
+LOCATION: Start at Hamlin and cross over the bridge to the southeast, into 
+more forest.  Travel south across the plains, to the river inlet.  Follow it 
+left, then wrap around it.  You should see Moonbrooke Castle to your west, 
+but follow the inlet around and head east, over brush-covered plains, to 
+thick forestation.  Follow that forest east and you'll see a bridge leading 
+north.  Just east, past the bridge, there's a patch of swamp that is your 
+destination.
+
+The mirror you need to return the princess to her true form can be difficult 
+to find.  You'll have to search the exact location where it lies, in a remote 
+swamp to the southeast of Hamlin.  The true challenge is to find the swamp 
+itself.
+
+Following the directions above, you'll reach the swamp.  Once there, search 
+the upper right patch of the swamp and you'll retrieve the MIRROR OF RA.  
+However, note that the monsters along the way to the swamp are a tough crew 
+that can do a lot to drain your life, especially when you have only two party 
+members.  Be prepared with a wing of the wyvern, or make sure that the prince 
+has learned the Return spell, so you don't have to brave the trip back to 
+town.
+
+Once the mirror is in hand and you reach the town, show the item to the dog 
+and it will change into the princess (in my game, her name was Gwen, the name 
+I'll use for her throughout this guide), who will then join you on your merry 
+little quest.  The true adventure is about to begin!
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Mirror of Ra           |     -  | Turns a bitch into a princess | H,B     |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+==================================
+009. Eastern Tower (Cloak of Wind)
+==================================
+
+LOCATION: The Eastern Tower is located to the southeast of Hamlin, but the 
+path you'll take to reach it first leads in almost the opposite direction.  
+Follow the forest northeast from the village.  Keep the range of mountains to 
+your left and the river just to the east, until you find the northern bridge 
+you can cross to your right.  From the bridge, head right to the coast, then 
+keep along the coast as you head to the southeast.  The sandy coast will 
+eventually wrap back west, to a forest.  Follow the forest along the 
+riverside, down to a bridge.  Cross the bridge, follow the foothills east, 
+then the forest beyond them south to another bridge.  After that bridge, 
+you'll find another just to the lower right, and then one to the lower left 
+from there.  Cross that bridge, and head due west across either sand or grass 
+to find the tower.
+
+If your levels aren't high enough, you'll never make it to the tower, let 
+alone venture through the floors to the treasure chest at the top, but you'll 
+need to eventually make a successful trip in order to proceed.  You're about 
+to open up all sorts of possibilities in this game, beyond this tower and 
+another like it, so just look at the time you spend leveling up as an 
+investment.
+
+The best place to level up is along the path leading to the tower.  Most of 
+the way there, monsters start attacking in groups that can give you almost 
+200 experience points per battle.  Once the princess has learned the infernos 
+spell, you can use it to target groups of multiple enemies and make quick 
+work of them.  It shouldn't be hard to get even the princess to level seven 
+or eight, which will mean the others are doing well on their own level 
+progression.  Once everyone is tough enough, the tower should be a breeze.
+
+When you enter the tower itself, you'll be on its north side.  From the 
+entrance, head south past the first staircase.  In a room to the lower right, 
+you'll find a MEDICAL HERB.  From that room head to the upper right side of 
+the tower.  Along its right side is a path you can follow to a staircase at 
+the very top right side of the tower (the others lead only to dead ends).
+
+At the top of that staircase, you'll see a guard just under you who warns you 
+not to fall from the tower's edge.  Head left along the wall and up the 
+staircase you find there.
+
+Now follow the next path as it leads down along another wall.  There's a room 
+that branches to the right, and the treasure chest there contains 45 GOLD.  
+With that collected, take the staircase you should see to the lower left, 
+along the wall.
+
+Once again, you're near the edge of the tower.  Follow the path to the right.  
+There are two staircases along this route.  The first leads to a new path you 
+can take to your upper left, to a staircase that leads down into a lower 
+room.  That room has another descending staircase, which leads to another 
+such room.  The staircase in this room descends to a room with a treasure 
+chest, which contains the CLOAK OF WIND, the reason you came to this tower.
+
+Now you can use the prince's spell to warp outside, and another to return to 
+Hamlin.  You've retrieved all the treasure from the tower (if you do take the 
+time to venture to the top floor of the tower, by the way, the treasure chest 
+you would find there is empty).
+
+Once back to Hamlin, it's time to rest up before your next dungeon.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Cloak of Wind          |     -  | Allows temporary flotation    | H       |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+======================
+010. Moonbrooke Castle
+======================
+
+<b>LOCATION:</b> Head across the bridge from Moonbrooke, then south through 
+the forest and continue south until you're just north of the foothills to the 
+south.  Now head directly west.  You'll walk directly left for quite awhile, 
+but soon you should see some brush-covered plains, and mountains below.  Head 
+south between those mountains and you should see Moonbrook Castle, situated 
+at the center of a swampland.
+
+This is one stop that is completely optional.  However, the enemies in this 
+area are great for leveling up any weak characters.  You'll mostly find 
+zombies throughout, and they may hit hard but at least they leave behind good 
+experience points and gold.
+
+Also, you may sometimes run across a metal slime enemy.  These guys are 
+strong against magic, and they typically flee the moment they've been hurt.  
+However, winning a battle against one will cause you to receive 135 
+experience points and 78 pieces of gold.
+
+As far as the treasure chests go, well, they contain absolutely nothing.  
+About the only other thing to do here is to talk to the spirit that rests in 
+a ruined prison cell to the left (it will reveal the location of the Mirror 
+of Ra), or to talk to the spirit of the King to the upper right for a nice 
+little pun.  Have fun poking around, or skip this location entirely.  Your 
+choice.
+
+ 
+==============================
+011. South Dragon's Horn Tower
+==============================
+
+LOCATION: From the swamp that encircles Moonbrooke Castle, head to the lower 
+left to a bridge that leads to a wide desert.  Take several steps down into 
+the desert, and then head west to the monolith overlooking a river.  Enter it 
+and climb the stairs along the left side to emerge from the monolith on the 
+opposite side of the river.  From there, head along the plains to the 
+northwest, through the gap between forests, to the edge of another desert.  
+Head left until you hit the oasis, and from there head northwest to the 
+forest, past the forest and the foothills, and north along the plains from 
+there to the tower's entrance.
+
+By the time you reach the tower, your magic is likely to be running low.  The 
+monsters in the surroundings landscape are difficult and will cause you to 
+use a lot of healing spells and offensive ones.
+
+Once you enter the tower, head to your upper right to hit the staircase 
+immediately.  
+
+From the head of that staircase, head clockwise around the pit at the room's 
+center, to the next staircase at your right.  In the next room, you'll need 
+to do the same, and again in the next.  After that, it's yet another room of 
+the same.  The next floor after that is the final one.  Make sure the Cloak 
+of Wind is equipped on your lead character (you just select the item and 
+select 'use' on it to equip it, rather than going through the 'equip' 
+screens).
+
+When you walk off the tower, you'll appear on the opposite side of the river.  
+You've completed the tower.
+
+ 
+========================
+012. Lianport (The Ship)
+========================
+
+LOCATION: The seaside village of Lianport is located to the northeast of the 
+northern exit from the Dragon's Horn Towers.  Just follow the plains as they 
+work toward the northeast.  It's not a terribly long walk, and it's best to 
+stay near the coast to avoid getting briefly lost.
+
+The walk to Lianport from the exit of the tower is a dangerous one indeed, if 
+only because your life is probably all but gone.  I ended up making the hike 
+with only the hero left alive, and it's likely to be a similar situation for 
+you.  Make sure you don't get lost.  Just stick along the right edge of the 
+plains as you go.  Unnecessary steps can be the death of you.
+
+When you enter the town, make sure that the first thing you do is revive any 
+fallen comrades, then spend the night at the inn.  Once that's taken care of, 
+you should head to the weapons shop to see if you can afford any upgrades.  
+Most of what the shop sells you should already have obtained at Hamlin, but 
+you can also buy the CLOTHES HIDING for the princess and prince if you have 
+the money.
+
+When everyone is geared up, head left through the gap from the weapons shop 
+and you'll face two monsters.  The monsters are Gremlins.  A good strategy 
+right from the start is to cast surround magic on them so that they have a 
+lower success rate when attacking.  The hero should also use his physical 
+attacks, while the prince should heal and use magic to prevent the gremlins 
+from casting their sleeping spells.  Follow that strategy and the battle 
+should not prove overly difficult.
+
+When you win, the girl will lead you right to her grandfather, who will lend 
+you the use of his swiftest ship.  Also, you should rest up at the inn again.  
+Before sailing out of town through the gray, covered area at the town's 
+northeast corner, check out the room behind the locked iron door below 
+(you'll have to use the Silver Key to enter).
+
+Inside, the man will tell you about the pirate ship Relentless, which sunk in 
+a storm while carrying a great treasure.  He offers a handsome reward if you 
+bring him the treasure.  Now you're ready to leave town.
+
+Before you proceed with your quest, though, it's time to take a little side 
+stop.  From where the boat appears, head right one square, then sail directly 
+north.  Keep sailing, past shorelines and such, until you come upon a light 
+blue patch of water.  Position your ship just below it and use the 'search' 
+command to find the TRESURES (the person who did that translation is probably 
+kicking himself).
+
+With the booty in hand, go ahead and return to Lianport for your reward.  
+You'll receive it from the man in the room behind the iron door, who told you 
+about the treasure's existence in the first place.  He'll reward you with the 
+ECHOING FLUTE.  Though the item will only bring you 300 gold if you sell it, 
+you'll find it's a valuable item if kept for later dungeon exploration.
+
+Now you truly are ready to continue your quest.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Broad Sword            |  1500  | +30 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Clothes Hiding         |  1250  | +20 DEF                       | H,B,G   |
+-----------------------------------------------------------------------------
+| Dragon's Bane          |   640  | Resist status ailments        | H,B,G   |
+-----------------------------------------------------------------------------
+| Echoing Flute          |     -  | Echoes near treasure          | H,B,G   |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Full Plate Armor       |  1000  | +25 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Wizard's Wand          |  2500  | +8 ATK                        | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+=============
+013. Tantegel
+=============
+
+LOCATION: The castle town of Tantegel is not difficult to find from Lianport.  
+Head east from the port town, then follow the coast and stick to it as it 
+wraps to the right and leads up to a channel.  You should see a castle 
+surrounded by swamp, so head left and up around that small coast from there.  
+Across the shore from the swamp-logged castle, you'll find a shore upon which 
+rests the castle city of Tantegel.
+
+With the ship in your possession, the percentage of the world you can explore 
+has radically increased.  In fact, the sheer number of options can be 
+overwhelming.  Though the paths you can take are many, the game will nudge 
+you in certain directions.  For the most part, this guide will follow that 
+nudging, so that you can grow more powerful as the game requires.  
+
+Presently, your first priority should be to save.  Though Lianport doesn't 
+have a place to save, the nearby city of Tantegel does.  Follow the 
+directions above to reach this new destination, rest up at the inn, then save 
+with the man at the House of Healing.
+
+Now that you've taken care of the essentials, it's time to relax and get to 
+know the city a little better, as well as its surrounding regions.  Look at 
+the weapons shop to see if anything catches your eye.  The only new items are 
+the GIANT HAMMER and the STEEL SHIELD, both of which are gear appropriate for 
+the hero but none of your other party members.
+
+Though the people in the town are bemoaning their loss of a king, you'll find 
+him upstairs in the weapons shop.  However, a door is in the way, and you 
+won't be able to open it until you have the gold key.  I recommend battling 
+monsters outside of town until you've raised the gold to buy the best armor 
+and weapons for the hero (yet again).  This way, your levels should also 
+raise slightly.  You want to make sure the princess is at least to level 10 
+before continuing to the next area.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Broad Sword            |  1500  | +30 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Clothes Hiding         |  1250  | +20 DEF                       | H,B,G   |
+-----------------------------------------------------------------------------
+| Dragon's Bane          |   640  | Resist status ailments        | H,B,G   |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Giant Hammer           |  4000  | +35 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Iron Helmet            |  3150  | +6 DEF                        | H       |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Steel Shield           |  2000  | +10 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Wizard's Wand          |  2500  | +8 ATK                        | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+=======================================
+014. Charlock Castle (Sword of Erdrick)
+=======================================
+
+LOCATION: Across the shore from the castle city of Tantagel, you'll see 
+Charlock Castle surrounded by swampland.  Cross the inlet on boat, then walk 
+over the swamp to enter this dangerous castle.
+
+Your next stop is a good place to go for information and a cool weapon.  It 
+is here you will find that you must seek out the good wizard, Rubiss, if you 
+wish to defeat Hargon.  You'll hear this from the lips of the Dragonlord's 
+grandson, who now rules the castle.  The Dragonlord's grandson will also 
+mention that you must have five crests before seeking the wizard's help.  
+It's a major clue as to what you should do for the remainder of the game.
+
+Of course, before you find the helpful dragon, you must first navigate the 
+depths of this freakish dungeon, which is inhabited by some of the toughest 
+enemies you've yet encountered.  Make sure your levels and equipment are 
+sufficient before attempting it.  Fortunately, if everyone is at level 10 or 
+better, you can run from most of the enemies.  The princess can also cast her 
+repel magic, which will make the frequency with which you encounter enemy 
+patrols diminish.
+
+From the start of the cave, just follow the first path as it winds down and 
+to the left, to a waiting staircase you can descend.  At the base of that 
+staircase, you'll just need to follow the next passage in a clockwise 
+direction, around to the next descending staircase.
+
+In the new passage, head right along the path, and follow it upward.  There's 
+a descending staircase here, but you should ignore it and move left to where 
+a second descending staircase waits.  This room contains two staircases leading 
+up, and two that lead down.  From the lower left one where you arrived, head 
+right along the bottom, then up so that you're at the just right of the room's 
+other ascending staircase.
+
+Once you've climbed that staircase, you'll see another ascending staircase to 
+your upper left.  Climb those stairs, then the ones in the next room.  In the 
+room beyond, descend the staircase you'll see to your lower left, and there 
+you'll find the treasure chest that contains the SWORD OF ERDRICK.
+
+At this point, I would advise warping back out of the cave to return to 
+Tantagel, rest up at the inn, and save.  The cave's only other attraction for 
+you currently is the Dragonlord's grandson, and a door you can't possibly 
+unlock just yet.  However, if you'd like to speak to the grandson for 
+yourself, follow the stairs that lead back to the room with the two sets of 
+ascending and descending staircases.
+
+From where you appear in the room after grabbing Erdrick's fabled sword 
+(which is one of the coolest weapons in the game, by the way), just go down 
+the descending staircase a short distance to your upper left.
+
+The next passage is simple.  Just wind your way down the hall, then left, 
+then up to the next descending staircase.
+
+Finally, you can cross this room to enter the staircase that leads to the 
+dungeon's final area, where you'll find the Dragonlord's grandson.  There are 
+numerous treasure chests here beyond a door that you'll need the golden key 
+to unlock.  Not only that, but the floor is a huge trap that will severely 
+drain your life with each step.  Best to come back here much later.  For now, 
+just go around and talk to the Dragonlord's grandson.  Once you've done so, 
+there's nothing more to do in the cave for the time being.  Go ahead and warp 
+out and return to Tantagel.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Sword of Erdrick       |     -  | +40 ATK                       | H       |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+ 
+
+===============================================
+015. World Tree Island (Leaf of the World Tree)
+===============================================
+
+LOCATION: From Tantagel, head back west to Lianport, and sail north to the 
+shoals where you found the 'Tresure.'  From there, sail north until a small, 
+partially forested island comes into view.  Next, sail due east for quite a 
+bit, until you see a desert island mostly surrounded by mountainous peaks.
+
+Now that you've got Erdrick's sword, it's time to start doing some heavy duty 
+exploration.  There are numerous other items you'll want to gather before you 
+attempt to defeat Hargon.  The first of these is a special item that can 
+revive a fallen comrade in battle.  Follow the directions above to find the 
+island.
+
+Once you reach the island, you'll find a patch of forest at the center.  This 
+is the World Tree.  Search the patch of forestation to obtain the LEAF OF THE 
+WORLD TREE.  This single-use item (it disappears once you use it) will revive 
+a fallen character in battle.  Unfortunately, you can only carry one at a 
+time.  Still, it's worth your time to grab one.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Leaf of the World Tree |     -  | Revive one ally               | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+ 
+
+=======================
+016. Zahan (Golden Key)
+=======================
+
+LOCATION: To find Zahan village, sail south from World Tree Island about five 
+squares, then head due east.  The first island you come to should be a two-
+square little patch of land, and you'll find the elusive village just right 
+from there.
+
+The next item you will want is the GOLDEN KEY.  It's in the village of Zahan, 
+at the world's most southeast corner.  Follow the directions above to reach 
+the village.
+
+Once you're in Zahan, there's only the matter of finding the key itself.  As 
+was the case earlier in the game, a dog can be your best friend.  Find the 
+dog and follow to where it leads, then search the space directly in front of 
+it to find the GOLDEN KEY.  You can use this item to open the reddish wooden 
+doors you've found scattered throughout the world.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Dragon's Bane          |   640  | Resist stat ailments          | H,B,G   |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Golden Key             |     -  | Opens red doors               | H,B,G   |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+==========
+017. Beran
+==========
+
+LOCATION: From the island on which Zahan is built, sail north around twenty 
+squares, then due east.  You'll run into coast.  Follow the coastland north 
+until you see the village nearby, and sand to your right.  Dock the boat on 
+the coast, and walk east across the plains and sand, up to where the village 
+is built.
+
+Your reason for coming to Beran presently is to level up your characters, and 
+so that you are familiar with its location.  This guide will reference the 
+various villages throughout the world, so it's important to know where they 
+are located.  
+
+You can reach Beran from Zahan as described above, or you can reach it easily 
+from Lianport; just sail north past the shoals and keep traveling along the 
+shore.  Once you arrive, rest at the inn and head to the upper left corner of 
+the town so the sage can save your progress.
+
+Once those essentials are taken care of, fight the monsters just outside of 
+town to quickly raise your levels a bit.  This town is a very important one 
+later in the game, but for now you've done everything you can if you've 
+leveled up your characters sufficiently.  Time to leave for Wellgarth.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Dragon Killer          |  8000  | +50 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Giant Hammer           |  4000  | +35 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Iron Helmet            |  3150  | +6 DEF                        | H       |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Shield of Strength     | 21500  | +10 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Steel Shield           |  2000  | +10 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Wizard's Wand          |  2500  | +8 ATK                        | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+=============================
+018. Wellgarth (Jailor's Key)
+=============================
+
+LOCATION: Leave Beran and head back to where your boat is docked along the 
+shore.  Now sail along that shore as it wraps toward the east.  When 
+following the shore begins to lead you sharply north, you'll know you've 
+rounded the lower tip of the large island on which Beran is built.  Head east 
+from there, toward the mainland shore, and follow it east.  If you're going 
+the right way, you'll soon see solid mountains stretching across the lower 
+tip of the mainland.  Keep sailing east along the shore and you'll soon spot 
+the town of Wellgarth on the shore, among some brush.
+
+You're coming to this particular village for the JAILOR'S KEY, an item that 
+will allow you to open the third type of door scattered throughout the world.  
+Once that is obtained, there's not a locked door you won't be able to open, a 
+very good situation indeed.
+
+When you first enter the town, you'll see a bonfire, a dog, and a man who 
+wonders if everyone was scared off by his breath.  There's also a red door, 
+which you should open with the golden key.  Now you'll find a staircase that 
+leads down to the proper town.  Here you'll be able to rest at an inn.
+
+Of course, you still don't have that precious key.  Go to the accessory shop 
+built along the city's left wall.  When you do, you'll find he is selling 
+medical herbs, antidote herbs, and wyvern wings.  There's a blank space 
+between those last two.  Point to it and indicate you wish to make that 
+purchase.  He'll confirm that you want to purchase it, and the item will be 
+yours.  It turns out that you've just purchased the JAILOR'S KEY for the very 
+agreeable sum of 2000 gold.
+
+You're not done in Wellgarth, though.  Head to the right, where the large 
+portion of the town is grayed out, and enter.  Use the golden key on the 
+first door, then walk up that hall and look to the right, toward that prison 
+door.  Use the jailor's key to open it, then walk to the middle of the right 
+wall, just to the right of the cell's table.  You'll be able to walk through 
+that wall into a hidden room.  Look up and you'll be talking to Roge 
+Fastfinger, the famous thief.  He'll award you the WATERGATE KEY, an item 
+you'll soon need.
+
+With that item acquired, your stay in Wellgarth can end.  Exit and start for 
+your next destination.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Antidote Herb          |     8  | Cures poison                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Dragon's Bane          |   640  | Resist status ailments        | H,B,G   |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Jailor's Key           |  2000  | Opens prison doors            | H,B,G   |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items  (Second Shop)                                     |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Dragon Killer          |  8000  | Cures poison                  | H       |
+-----------------------------------------------------------------------------
+| Giant Hammer           |  4000  | +12 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Iron Helmet            |  3150  | +15 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Light Sword            | 16000  | +10 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Mink Coat              | 65000  | +4 DEF                        | H,B,G   |
+-----------------------------------------------------------------------------
+| Shield of Strength     | 21500  | +12 ATK                       | H       |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+===============================
+019. Osterfair (The Moon Crest)
+===============================
+
+LOCATION: From Wellgarth, walk south to your ship.  Then sail east along the 
+shore until you reach World Tree Island.  Head north from there, just to the 
+right of the long island, and then due east to the small island.  From there, 
+sail due north until you come to land, then follow the coast to your upper 
+left, to the inlet.  Follow the inlet to find the castle.  Dock the boat to 
+the lower right of the castle, and walk from there.
+
+The castle city of Osterfair is the home of one of the five crests you'll 
+need to show to the wizard Rubiss.  From the entrance, head up the hallway 
+and then through the passage to the left of where the guard stands.  Here, 
+walk to the lower left (ignore the king for now) and rest up at the inn.
+
+Before you talk to the king, you should know that you'll be doing so in hopes 
+of participating in an arena battle.  It's a battle with a saber tooth lion 
+that can damage your party members around 25 points per turn.  Of course, it 
+only takes three of four rounds to slay the beast.
+
+If you feel that you're not quite ready for that and would instead like to 
+save your progress up to this point, go ahead and circle the area around the 
+outer wall (from where you first entered, just walk up and around, rather 
+than passing the left gate past the guard) to the monolith.  It's a blue 
+patch that looks like a puddle of water (not also that if you use a golden 
+key on the space to the right of the monolith, you can enter the shop to gain 
+the ARMOR OF GAIA and a MAGIC KNIFE from those two treasure chests).  When 
+you appear from the warp, exit and head north along the coast.  You'll arrive 
+at Midenhall Castle, where you can save.
+
+Now go ahead and return to the portal, and head back to Osterfair.  When you 
+battle the monster and win, the king will reward you with the MOON CREST.  
+The first of the five crests is yours.  Only four more to go.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Armor of Gaia          |     -  | +35 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Broad Sword            |  1500  | +30 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Clothes Hiding         |  1250  | +20 DEF                       | H,B,G   |
+-----------------------------------------------------------------------------
+| Dragon Killer          |  8000  | +50 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Giant Hammer           |  4000  | +35 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Iron Helmet            |  3150  | +6 DEF                        | H       |
+-----------------------------------------------------------------------------
+| Magic Armor            |  4300  | +25 DEF                       | H,B     |
+-----------------------------------------------------------------------------
+| Magic Knife            |   200  | +12 ATK                       | H,B,G   |
+-----------------------------------------------------------------------------
+| Moon Crest             |     -  | Legendary crest               | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+===============================
+020. Collecting Important Items
+===============================
+
+This is as good a time as any to skip about the world, collecting some 
+important items from places you've already visited.  None of these items are 
+essential to conquering the game, but they will go a long way toward making 
+your quest simpler.
+
+For the most part, what you'll be doing here is finding what's behind the 
+doors you couldn't open before without the golden key and the jailor's key.  
+I'm assuming you remember the location of the various places you've visited 
+through the game thus far.  If not, use this guide's Table of Contents to 
+read directions on how to find the place you've forgotten about.
+
+Ready to go, then?  Good.  
+
+Begin by heading north to Midenhall Castle again.  Make sure you rest up at 
+the inn and save your progress with the king.  Now you're ready to retrieve 
+the items from this location.  Head into the grayed out area on the right 
+side of town, pass down the hall, and use the golden key to open that door.  
+The treasure chests here contain the WING OF THE WYVERN, 53 GOLD, MEDICAL 
+HERB and the TOKEN OF ERDRICK.  Now head back into the previous hallway and 
+pass through the iron door using your silver key.  Head to the staircase and 
+descend the steps into the dungeon.
+
+In the dungeon, use the jailor's key to reach the prison cell.  You'll have 
+walked over lethal floor tiles, so refill your life before talking to the 
+prisoner.  You'll be attacked by a monster, the evil clown.  He can cast 
+firebane, a spell that damages each party member around 25 HP, but you should 
+be fine if you just focus a bunch of physical and magical attacks on the 
+fiend.  When you win, you'll receive the STAFF OF THUNDER.  Now go sell that 
+at the item shop for 19,500 gold, save with the king, and indicate that you 
+won't be continuing.  When you are safe to do so, reset the game and then 
+continue your file.  The clown will be back in the dungeon.  Just keep 
+repeating this until you've filled up on gold, then keep the last STAFF OF 
+THUNDER you obtain for the princess.
+
+Head to Cannock Castle next.  Remember the little area mostly surrounded by 
+water, through the red door?  The treasure chest on that patch of brick 
+contains the SHIELD OF ERDRICK.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Medical Herb           |    15  | Restores HP                   | H,B,G   |
+-----------------------------------------------------------------------------
+| Shield of Erdrick      |     -  | +20 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Staff of Thunder       |     -  | +15 ATA                       | H,B,G   |
+-----------------------------------------------------------------------------
+| Token of Erdrick       |     -  | Increases courage             | H       |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+=============================
+021. Hamlin (The Water Crest)
+=============================
+
+LOCATION: Though you should be quite familiar with the location of Hamlin by 
+now, the shorter route is to cross by sea.  From Midenhall, head to the west 
+until you reach a coast across the inland sea.  Now follow that coast north 
+until you find a series of inlets that can take you down through that land 
+mass, toward the southwest.  It will end near Hamlin, which will be a short 
+walk southwest.
+
+Another stop you'll take while opening doors you previously couldn't access 
+is more important.  In Hamlin, open the red door using the golden key and, 
+once you're downstairs, open the prison cell door to face the monsters that 
+lurk there.  
+
+The Ozwarth monsters here are quite a bit tougher than the imp-like creatures 
+you faced in Lianport.  They use mostly the same attacks, but their life 
+meters are quite a bit longer and they attack more viciously.  They may even 
+put you to sleep.  Just make sure you keep your health up and that you hit 
+hard whenever you're in a position to make an attack.  The hero should do 
+most of the attacking, while the prince should take care of healing and the 
+princess should back him up if appropriate.
+
+When you beat the monsters, search the upper right corner of the cell for the 
+WATER CREST.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Water Crest            |     -  | Legendary crest               | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+===========================================
+022. North Dragon's Horn Tower (Dew's Yarn)
+===========================================
+
+LOCATION: From Lianport, head toward the southwest to the tower you arrived 
+near when you first jumped from the top of the South Dragon's Horn Tower.  
+The one on the north side of the river is your destination.
+
+From the entrance, head straight down to the staircase, which leads up to the 
+second floor.  To your upper right, you'll now see a new staircase.  Climb up 
+those stairs and you're on the third floor.
+
+Though there are stairs leading up from here, ignore them.  Instead, walk 
+directly up from the head of the stairs you used to reach this floor on the 
+tower.  Search against the wall, in the corner, and you'll find DEW'S YARN, 
+an important item that you'll need shortly.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Dew's Yarn             |     -  | Key item                      | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+===========================
+023. Zahan (The Magic Loom)
+===========================
+
+LOCATION: Though you likely already remember where Zahan is, the quickest way 
+to get there from your current position at Lianport is to sail through the 
+inlet to the southwest of that town (it cuts just below the tip of the 
+peninsula), then follow the shore south to the lowest tip.  From there, 
+simply head slightly south and then due west to find Zahan.  If you reach 
+World Tree Island, move a little south and head back to the east (since Zahan 
+is on such a tiny island, it can be easy to miss it at times).
+
+Before you proceed with your quest, there are just a few more steps you need 
+to take.  The first of these is another trip to Zahan, where previously you 
+acquired the golden key.
+
+Now that you have the jailor's key, you can also get another item at this 
+town, and it's one you'll definitely want to take some time for, a loom that 
+will allow a special person you'll soon meet to create first-class armor for 
+the prince or princess (I suggest equipping it on the princess).
+
+If you have stepguard magic, you'll definitely want to use it.  See the 
+dangerous floor behind where the woman stands at the village center?  Cross 
+over that floor and head toward the upper left (if you're not using stepguard 
+magic, have the princess and prince healing everybody each three steps to 
+prevent death), to the prison door.  Enter it and in the next room you'll 
+find the MAGIC LOOM.
+
+Now that you have the loom, you can finally get some cool new duds for the 
+princess.  Before doing that, though, in the interests of traveling all over 
+the map a little bit less, you should make a few side trips to grab some more 
+of those crests you keep hearing about.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Magic Loom             |     -  | Key item                      | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+================================
+024. Fire Shrine (The Sun Crest)
+================================
+
+Location: This place is easy to find.  Just sail east from the island where 
+you find the Leaf of the World Tree.  About a screen to the right, you'll see 
+an island with a shrine positioned on it.
+
+Follow the directions above to find the shrine.  When you enter the 
+structure, walk up so that you are standing beneath the middle of three 
+portals.  Now walk to the right, one step out of the building.  You will not 
+exit the area.  Now walk up three steps, then left one step, so that you are 
+positioned near the corner of the building.  If you search there, you will 
+find the SUN CREST.  There are now only two more to go.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Sun Crest              |     -  | Legendary crest               | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+====================================
+025. The Lighthouse (The Star Crest)
+====================================
+
+Location: You can find the lighthouse by using the town of Lianport (where 
+you got the ship) as a reference point.  Sail due south until you hit the 
+sandy coast, then head directly east and you'll come across the wooded island 
+where the lighthouse was built.
+
+You'll be able to enter this building to obtain the Star Crest, but it's 
+going to be a difficult trek and the absolute most frustrating location 
+you've visited in the game thus far.  The monsters here are rather vicious, 
+so it's a good idea to have your characters leveled up to around level 20.  
+Also, you'll want to bring along a wing of the wyvern, just in case the 
+prince perishes and you need to return to an inn quickly.
+
+Briefly, note that there are a few common types of monsters here.  The 
+gorgons are quite resistant to any fire spells you may have in your 
+repertoire, even the usually-devastating firebane spell that the prince 
+likely possesses at this stage.  Let your hero take out any of those snake-
+like creatures, while the prince and princess should focus fire spells on the 
+mummies (which have powerful defense).  Finally, there are saber tigers that 
+possess little in the way of HP, but a lot of offensive power.  Take them out 
+quickly so they don't force you to use up your healing magic.
+
+From the entrance, ignore the path that leads downward; it heads to a series 
+of dead ends.  Instead, walk left until you reach the far left corner.  Walk 
+down now until you reach the bottom of the area.  Now, as you start right, 
+you'll see a path leading upward toward the center of the large, square area 
+you've been exploring.  This should serve merely as a landmark.  You want to 
+keep walking to the right, to the end of the path, at which point you'll turn 
+upward.  Here, the path branches left, again toward the center of the square.  
+This time, you'll actually want to follow the branch (besides, you haven't 
+any other real option).
+
+As the path permits, you'll now be heading toward your upper left.  There's 
+one very short dead end here, but if you head down it you'll only move a step 
+or two before realizing your mistake.  It's not a big deal.  You'll notice 
+that your goal is a recess in the wiry grating.  Step inside and you'll see a 
+staircase.  There also are some other exits from the grated area.  If you 
+like, take a brief detour out the top exit, where you'll find a short path to 
+a treasure chest that contains 53 GOLD.  Return to the staircase but don't 
+climb it.
+
+Before you continue through the dungeon, you need to be aware that there are 
+four general paths you can take (this grated area is divided into four 
+rooms).  These generally lead to pathetic rewards.  If you climb the 
+staircase in the lower right of those four chambers, you'll go through a set 
+of rooms that leads to a CHAIN SICKLE, then have to return to the room you're 
+in right now.  It's just not worth it unless you enjoy constant battles for 
+no real pay-off.
+
+Instead, I recommend climbing the lower left staircase.  You'll now appear in 
+an enclosed room with a path leading left.  Go through that passage and 
+you're in a room that looks like an upside-down 'L.'  Take the bottom exit 
+into another enclosed room.  Here, head right to an ascending staircase.  
+From the head of that flight of stairs, walk left and go up into the next 
+grated area.  You'll see a staircase here.  
+
+You now have another option.  If you ignore the stairs, you can head up into 
+the next grated area, where you'll find a path that leads to a large, locked 
+door.  This path is purely optional and you won't get any items for following 
+it, just information from a soldier.  If you decide you want to head in that 
+direction anyway, use the golden key to enter another room with yet another 
+ascending staircase.  Climb that set of stairs to a room with yet another 
+staircase, then another in the room thereafter and another after that.  The 
+room beyond there has a final staircase before you appear on the tower's top 
+floor.  Exit the enclosed area, then talk to the soldier you find there for a 
+clue about how Hargon lives in the land of Rhone, which is surrounded by 
+mountains.
+
+If you decided to get that tidbit of information, it's time to return down 
+the set of rooms you've just passed through, until you come to the staircase 
+that sits out in the open and leads up to the next floor by a different 
+route.  Here, you can waste a bunch of time trying alternate paths for 130 
+GOLD and FAIRY WATER, but you're probably already as sick of this stupid 
+tower as I was.  Instead, head up around the block wall, to the upper left 
+corner of this floor.  You will now find a staircase that leads up to the 
+next floor. 
+
+Now walk right along this path until you can head down into another grated 
+area.  There, you'll find a staircase that leads up to the next floor.  To 
+your left, you'll see a locked red door, which you can unlock with the golden 
+key.  Beyond that, you'll find yourself in another open area.  Head again to 
+the upper left, where another staircase leads up to the next floor.  From the 
+head of that set of stairs, walk to the right and you'll notice a purple 
+enemy standing next to a block.  Finally, you're making some progress.
+
+When you walk near the monster, he'll retreat into some grating by a path you 
+wouldn't have noticed before.  Follow him there and you'll see an old man 
+standing just beyond where the imp disappeared.  When you get next to him, 
+he'll tell you not to speak, that he knows just what you want.  Then he'll 
+instruct you to follow him, which you should go ahead and do.  He'll go to 
+the left, out into an open area where two staircases await.  Like the old 
+man, you should take the one on the lower left.
+
+On the next floor, follow him to the right and down the next flight of 
+stairs.  There, you will need to follow him to the next descending staircase, 
+then another, and another.  Now follow him into a grated area.  There's a 
+treasure chest here, which the old man instructs you to open.  When you do, 
+it'll trigger a battle.  It was a trap!
+
+This battle should actually be fairly easy, as you're just facing off against 
+four gremlins.  If your hero is powerful enough, he can probably take out an 
+enemy each turn.  Meanwhile, the princess should just keep healing you if 
+there's any trouble.  When you win, you'll obtain the STARS CREST.  Now it's 
+time to head back to the nearest town by way of a wyvern's wing or a return 
+spell.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Chain Sickle           |   390  | +15 ATK                       | H,B     |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Star Crest             |     -  | Legendary crest               | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+==================================
+026. Tuhn (The Water Flying Cloth)
+==================================
+
+LOCATION: To reach Tuhn, you should first return to Beran and save your 
+progress there.  Once you have done so, sail your ship down around the 
+island, then head back up with the light blue shoals just to your left.  Due 
+east from those shoals, by about a screen and a half, you'll find an 
+inlet.  Ignore that first inlet, and sail northwest from there, to a new 
+inlet that enters the mainland between forest and mountain.  Follow it as it 
+heads up into the mainland, first slightly northwest, then east through 
+foothills and forest.  You should soon see the village come into sight.  Keep 
+working east and down around the forest that skirts the inlet, to the 
+village.
+
+Now that you have more crests, it's time to prepare to grab the last one.  
+However, there's a lot of work you'll have to do first.  Begin by heading to 
+Tuhn.  If you don't follow the directions above precisely, it's very possible 
+to get lost looking for the secluded village.  It's quite possibly the most 
+difficult location to find in the game, including Hargon's tower.
+
+When you enter the village, head to the locked room near the village center.  
+Open it with the golden key, and inside you will find the man who can make 
+you the WATER FLYING CLOTH.  He promises to do so in a day or two.  Leave his 
+hut, then head upward to where there are two merchants.  Just right of the 
+building they share, head up along the trees, then left along the shop's back 
+side.  Around seven steps left from there, head directly up to find a locked 
+door.
+
+Use the jailor's key on the door, and descend the stairs.  In the next room, 
+take a step right, then face the wooden planks just below.  Use the Watergate 
+Key and the floodgates will be opened.  Now leave the building and use the 
+prince's return spell so that you warp back to Beran.  There, save and tell 
+the scribe that you will be quitting.  Once that's tended to, reset the NES 
+control deck, then resume your save file.
+
+You now will need to head to Tuhn again.  However, the path you take this 
+time can be shorter.  Instead of ignoring the first inlet as you did before, 
+you can now follow it directly to the village.  Opening the watergate made 
+things easier for you.  When you arrive at the village, talk to the tailor 
+and he will give you the WATER FLYING CLOTH, which you should equip on the 
+princess immediately.  It's absolutely the best armor she'll ever find.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Dragon Killer          |  8000  | +50 ATK                       | H       |
+-----------------------------------------------------------------------------
+| Dragon's Bane          |   640  | Resist status ailments        | H,B,G   |
+-----------------------------------------------------------------------------
+| Fairy Water            |    40  | Repels enemies                | H,B,G   |
+-----------------------------------------------------------------------------
+| Falcon Sword           | 25000  | +5 ATK (twice per attack)     | H,B     |
+-----------------------------------------------------------------------------
+| Iron Helmet            |  3150  | +6 DEF                        | H       |
+-----------------------------------------------------------------------------
+| Magic Armor            |  4300  | +25 DEF                       | H,B     |
+-----------------------------------------------------------------------------
+| Shield of Strength     | 21500  | +18 DEF                       | H,B     |
+-----------------------------------------------------------------------------
+| Water Flying Cloth     |     -  | +35 DEF                       | B,G     |
+-----------------------------------------------------------------------------
+| Wing of the Wyvern     |    80  | Warp to town                  | H,B,G   |
+-----------------------------------------------------------------------------
+| Wizard's Wand          |  2500  | +8 ATK                        | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+ 
+======================================
+027. Tower of the Moon (Moon Fragment)
+======================================
+
+LOCATION: From the town of Tuhn, you'll need to head due south over a small 
+river to a wooded island where the tower is built (see the previous section 
+if you haven't already flooded this area for some reason).  The tower is only 
+a few spaces away.  You can't miss it.  
+
+Before you enter the Tower of the Moon, make sure that you have raised your 
+levels so that your hero is at around level 22 or so.  Your companions will 
+probably be a few levels behind, depending on how good you've been at keeping 
+them alive for the recent tough battles you've encountered.
+
+When you enter the building, you'll do so from the north side.  Head straight 
+down to the middle of the building, where there are images of four winged 
+monsters displayed on the floor (you can walk on these).  There are several 
+directions you can head from here.  The right path is a dead end.  The one to 
+the upper left leads to a staircase that ascends to the next floor.
+
+From there, head down into the next room, where there's yet another 
+staircase.  If you climb those stairs, there's a treasure chest waiting with 
+125 GOLD.  Grab the loot, then head back down the stairs and through the 
+opening to the right.  You're now in an open area that resembles the 
+configuration on the first floor.  It's a crossroads of a sort.  Take the 
+staircase at the middle of this room up to the next floor.
+Now you can go either up, left, or down.  You can also ascend yet another 
+staircase, which is what you should do.  From this room, head to the right to 
+find another ascending staircase.  The room you find yourself in now has a 
+locked red door just below you, and another pathway leading into a grated 
+area to the right.
+
+Open the door below you, then go into the room.  You'll see a staircase 
+leading down, while another red door to your right blocks access to yet 
+another ascending staircase.  That staircase leads you to the top of the 
+tower, and a waiting treasure chest, but that chest is empty.  Instead of 
+bothering with any of that, go ahead and descend the staircase. 
+
+The next room contains yet another staircase to descend.  Do so and you'll 
+find another descending staircase, then another.  In this room, you'll see an 
+old sage and a treasure chest.  The chest contains the object of your 
+affection in this particular dungeon, the MOON FRAGMENT.  Now you can go 
+ahead and warp out of the dungeon.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Moon Fragment          |     -  | Raises Malroth's Cavern       | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+======================================
+028. Malroth's Cavern (Eye of Malroth)
+======================================
+
+LOCATION: Your next destination lies southwest of Osterfair.  Head to the 
+island, then situate your ship at the channel that leads inland to the 
+castle.  From that patch of water, head west twenty tiles (you can count or 
+just estimate), then go due south.  You'll come to an island surrounded by 
+shallows.  Use the Moon Fragment at the bottom center of the shallows and the 
+cave will rise from the water enough that your ship can sail to it.
+
+Before you head into this cave, you're going to want your characters to be in 
+strong fighting condition.  Also, just to be on the safe side, bring along a 
+wing of the wyvern.  You're only a few stops short of the final dungeon, 
+after all.  There are a few places where you may choose to build your levels, 
+including the tower where you got the fragment.  Once you're up to around 
+level 24, you're going to be strong enough to sneak your way through the 
+cave.  When you feel confident, go ahead and enter so that you can claim a 
+juicy eyeball for your very own.
+
+When you appear in the cave, you'll be on a patch of solid land at the center 
+of a splotchy lake of lava.  Walking on this surface will damage anyone in 
+your party who is not equipped with the Water Flying Cloth, so you'll have to 
+spend a lot of your magic on healing and you'll want to do so with some 
+degree of frequency.  This means that picking your path through the cave very 
+carefully is of the utmost importance.  Wasted steps can be fatal.
+
+Start by heading left and down to a wider patch of soil, which leads deeper 
+into the cave.  Follow the path directly left as it bends around that first 
+corner, and when it hits the left wall, follow it as it continues down past a 
+small square of lava and into another room.  Here, a staircase descends to 
+the next level.
+
+From the foot of that staircase, head down and then proceed to the left when 
+the path permits.  There will be branches above and below the path.  Walk 
+past the branch filled with lava, then into the room that awaits there.  
+Here, you'll see a staircase and a soldier.  Descend the stairs into the next 
+area, a long hallway leading to the left.  Counting the one you just 
+descended, there are three staircases here that lead up to the floor above.  
+Take the leftmost of these if you want to obtain 63 GOLD from a treasure 
+chest, or the middle one to proceed.
+
+You'll appear in a small room.  Head down out of that room to find yourself 
+in a long hallway.  Head left here toward the end of the hallway and you'll 
+find more of the lava, as well as a soldier standing off to the side of a 
+wide corridor leading upward.  Follow the path as it twists through the lava.  
+Here, you'll see a branch that heads off to the left, while the main path 
+continues up to what seems like a dead end, a passageway filled with lava. 
+
+Unfortunately, it's the lava you now need to cross.  Head right up along the 
+lava river and as you press upward, you'll see a new patch of soil with a 
+staircase.  Make your way to the staircase and descend one level deeper into 
+the cave.  Now you'll see a red door, which you can open with the golden key.
+
+The next room is a long hallway.  You'll immediately see a staircase leading 
+down one more level, and beyond that a treasure chest and another set of 
+stairs.  Beyond that is yet another treasure chest.  Note that the first of 
+these chests is a poison trap.  It doesn't contain any items.  The second 
+chest contains 154 GOLD.  There's a long hallway that leads down from that 
+point.  If you head down that path, it curls back to the right and you can 
+choose between a path leading up or one to the right.  Take the one to the 
+right, though note that you'll be standing on lava as you enter that next 
+room.  Here, a staircase descends a level deeper into the cave.
+
+From the base of that staircase, head to the upper left and into the next 
+room, which is another wide field of lava.  There's a staircase close by, so 
+climb it to find yourself in a room full of even more staircases.  Go up 
+three steps, right two steps and up three more steps to find yourself at the 
+center of a new lake of lava.  You'll see a treasure chest off to the left, 
+over some more burning liquid.  That chest contains the DRAGON'S BANE.
+
+From the chest with that item, head to the lower left, where a staircase sits 
+on a patch of land.  From here, you want to head almost due left to the wall, 
+then up along the side where you'll see a new staircase that descends to the 
+next level.  Yes, you must walk across lava the whole time.  Healing will be 
+necessary.
+
+In this room, follow the path as it twists through the lava and toward the 
+right.  You'll see an old man waiting there.  When you approach, he'll attack 
+you.  It seems the old man was actually two evil clowns.  When you defeat 
+them, you'll be able to walk right into the next room, and then up to a 
+treasure chest that contains the EYE OF MALROTH.  Now, it's time to exit the 
+cavern and warp back to an inn and save point before you start looking for 
+Rhone.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    
+|============================================================================ 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Dragon's Bane          |   640  | Resist status ailments        | H,B,G   |
+-----------------------------------------------------------------------------
+| Eye of Malroth         |     -  | See the entrance to Rhone     | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+===================================
+029. Cave to Rhone (The Life Crest)
+===================================
+
+LOCATION: The Cave to Rhone is hidden extremely well.  Start by going to the 
+town of Beran, where you should stay at the inn, then save your progress.  
+Once you've done so, go to the town House of Healing and stand in front of 
+the black space at the back.  Cast the stepguard spell, then use the Jailer's 
+Key to open a gate.  Pass through and step onto the portal.  Climb the stairs 
+there to exit the monolith, then head west through the forest and over the 
+plains, to the edge of a swamp.  Cross partway over the swamp, so that you 
+stand on the third patch from the left on the top row.  Face the mountain 
+there and use the Eye of Malroth.  The mountain will split to reveal the Cave 
+to Rhone.
+
+This is the toughest 'standard' dungeon in the game, and it will likely be 
+enough to make you grind your teeth in frustration (particularly if you 
+attempt it without a fine guide such as this one).  Before you enter, you 
+should first have your characters at somewhere around level 25.  At least, 
+your hero should be to that point.  If not, prepare for a lot of short trips 
+inside, then warps back to Beran.
+
+Your visit this first time is going to be short out of necessity.  You won't 
+be able to accomplish much without making a quick run to obtain the Life 
+Crest.  Even if you were to struggle through the cave, it wouldn't do you any 
+good because only the magic of that wizard can counter the optical illusion 
+Hargon has in mind for you if you manage to actually reach his tower.
+
+With that said, even this short little journey can come to an end much more 
+quickly than you might like.  Be sure to bring along a wing of the wyvern, 
+just so you can easily return to Beran if your prince should happen to fall 
+in battle.  It also wouldn't hurt to be carrying a fresh leaf from the World 
+Tree.  Thus equipped, it's time to get down to business.
+
+From where you first enter the dungeon, head up to the diagonal right along 
+the path.  You'll see a descending staircase near the head of that path, 
+which you should go ahead and explore.  It leads to a massive chamber of more 
+stairs, and there's a good chance that some Horks will attack you before you 
+even have a chance to get your bearings.  As you'll find, these zombified 
+beasts are thicker than flies on manure in this particular portion of the 
+cave.  It's ironic, as the undead beasts are guarding the item you most want, 
+the LIFE CREST.
+
+It's located in a treasure chest near the lower right corner of the chamber.  
+As already mentioned, though, you're going to encounter a ton of Horks on 
+your way to get it.  There's just no way around them, even if you try to use 
+fairy water or repel magic.  The monsters don't hit for a lot of damage by 
+this point, but they do have a good chance of poisoning you or putting you to 
+sleep with their sweet breath.  Coupled with their lengthy life meters, this 
+can be a bad combination when battles drag on for too long.  You can try 
+taking them out with firebane magic, which will potentially do damage to all 
+of them (even if they're split into separate groups), but the infernos spell 
+seems too weak to be of much use.  You'd do better to have the princess 
+working with healing magic or just attacking for whatever pitiful damage she 
+can manage.  
+
+One way or another, you should eventually make your way to the treasure chest 
+and the LIFE CREST it contains.  The minute you do, go ahead and warp back to 
+Beran.  It's time to pay the famous wizard Rubiss a long-overdue visit.  You 
+can come back to this cave soon enough.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Life Crest             |     -  | Legendary crest               | H,B,G   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+========================================
+030. Chamber of Rubiss (Charm of Rubiss)
+========================================
+
+LOCATION: The surest way to find the one-tile portal that leads to the 
+Chamber of Rubiss is to head to Midenhall, then sail west about twelve tiles 
+before heading due south.  You'll see the tiny island if you do so.  There 
+are no special requirements to enter it, surprisingly.  
+
+Once you enter the building, you'll find yourself in a very, very small 
+chamber with stairs leading beneath the surface.  Climb down those and you'll 
+find yourself at the head of another staircase.  It continues like that for 
+awhile, but just keep working your way downward (no enemies attack you) and 
+you'll soon reach the bottom level.
+
+This room looks a lot like a House of Healing.  You'll see four of those blue 
+star tiles, with a blank white space positioned at their center.  When you 
+stand there, the wizard Rubiss will come to greet you.  With him, he brings 
+an item known as the CHARM OF RUBISS.  This is the whole reason you gathered 
+all of those stupid crests.  With the charm in your possession, you now have 
+the strength (you hope) to tackle Hargon.  Now you can finally return to the 
+Cave to Rhone, but this time it'll treat you even worse than it did before.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Charm of Rubiss        |     -  | Protection from an enchanter  | H,G,M   |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+==================
+031. Cave to Rhone
+==================
+
+LOCATION: You probably remember the location by now, but I'll tell you again 
+just in case you're only tuning in for this, the toughest leg of the game 
+after an extended absence (you wouldn't be the first).  Go to the town of 
+Beran, located in the southwest area of the world map.  Enter it and go to 
+the House of Healing, then cast stepguard magic before using the Jailer's Key 
+to dash out the back side.  The waiting portal will take you to a patch of 
+forest just to the east of the cave.  Travel over trees, plains and swamp as 
+you head west to the cave, which you revealed using the Eye of Malroth.
+
+I told you before that you should be around level 25 or so before attempting 
+the cave, but this time I really mean it.  You're not just making a quick 
+little jaunt to pick up a crest.  This time, you're in it for the long haul.  
+Just so you know, there are going to be lots of traps and confusing passages 
+that are meant to test your patience and mental alertness, so you'll want to 
+follow this guide closely to ensure minimal frustration.  As always at this 
+stage in the game, bring along a wing of the wyvern and a leaf from the World 
+Tree.  If you must, build your levels wherever pleases you (even here if you 
+like) before you try to make it all the way through the cave.  You'll 
+probably end up needing several attempts before you get all the way through.
+
+From the entrance, walk toward the upper right side of the chamber as walls 
+permit, ignoring the descending staircases on the way.  You'll find a 
+staircase that leads up to the next floor, which you should climb.  You're 
+now at the center of a four-way passage.  These passages will repeat if you 
+pass through them in the wrong order, so follow them in this precise order: 
+left into a passageway with multiple branches, down the third branch from the 
+right, straight down two more screens and up a staircase.
+
+You're now in a new corridor, which I am calling "corridor A" (you'll be 
+coming back to this point in a bit).  For now, head to the right while 
+ignoring any of the paths that branch off to the sides or above you as the 
+path winds its way through a series of twisting corridors.  When you see the 
+room that heads to the right, note that you can also take the passage that 
+leads up to find a treasure chest with a LOTTERY TICKET.  Otherwise, just go 
+ahead and go into the room to your right, where a staircase leads to the next 
+floor.
+
+In this room, there's yet another staircase.  Climb it and you'll see a 
+treasure chest to your right.  This contains the ARMOR OF ERDRICK, which is 
+the most powerful defensive equipment available in the game.  At this point, 
+I would recommend warping back to Beran so that you can save your progress 
+before re-attempting the cave.  This allows you to keep any levels you may 
+have gained, and of course your newly-acquired armor.  When you return to the 
+cave, make your way back to the corridor I referenced as "corridor A."
+
+From the head of the staircase where you first arrive in this corridor, it's 
+now time to head off to the left.  The intersection here will allow you to go 
+along either an upper or lower path.  Unless you want to waste your time for 
+paltry treasure chests that contain nothing worthwhile, take the upper route 
+and don't follow any of the side branches until you reach the top one that 
+leads to a room to the right.  Go in that direction, and through that room 
+into another room with a staircase that leads up to the next floor.  Here, 
+another staircase leads up yet another floor.
+
+The room you're standing in now is famous, but for a bad reason: it's full of 
+pitfalls that will drop you down to the previous floors!  While you've 
+perhaps found a few of those already as you made your way through the cave, 
+this area has an almost limitless number of them.  It's very easy to fall 
+into one without intending to do so.  A map at this point is most useful.  
+Because you'll be returning to this room again if you're following this 
+walkthrough, I'm going to call it "corridor B" for your convenience.  I also 
+will attempt to provide a partial map in a moment so that you can use that to 
+get through the room without falling into the pits, but right now you 
+actually want to do so!  From where you appear at the head of the staircase, 
+walk right one step and down one step and you'll fall into a pit.
+
+You'll appear in a large floor with few distinguishing features.  Head 
+directly down until you're two tiles away from the bottom wall, then walk 
+straight to your left toward the wall that waits in that direction.  Just 
+before you reach it, you'll fall into an invisible pit.  On this floor, 
+you'll see a treasure chest two steps below you.  Open it to find the THUNDER 
+SWORD.  This magnificent blade is the one you'll want to keep for the 
+remainder of the game.  Warp back to Beran yet again to save this progress.  
+Then make your way back to the staircase at the entrance to the room with all 
+those pits, "corridor B."
+
+Here's a map of the corridor, with the pits I've found marked.  Please note 
+that I know there are additional pits, but I got through the dungeon before 
+finding all of their locations.  Here's the map as it exists currently:
+
+******************************************************     * = Walls
+******************************************************     S = Stairs
+******************************************************     P = Pit
+******************************************************     B = Entrance
+******      ******                              ******     - = Safe
+******      ******                              ******   
+******      ******                              ******   *** = 1 Tile 
+******      ******                              ******   ***
+******                  ******
+******                  ******
+******                  ******------------------BBB
+******                  ******------------------BBB   
+************                  ---PPP            ******
+************                  ---PPP            ******
+************                  ---               ******
+************                  ---               ******
+******            ******      ---   ******      ******
+******            ******      ---   ******      ******
+******            ******      ---   ******      ******
+******            ******      ---   ******      ******
+******                        ---               ******
+******                        ---               ******
+******                        ---               ******
+******                        ---               ******
+******      ******            ---         ************
+******      ******            ---         ************
+******      ******      ---------         ************
+******      ******      ---------         ************
+******                  ---   ******            ******
+******                  ---   ******            ******
+******                  ---   ******            ******
+******                  ---   ******            ******
+************      ******---                     ******
+************      ******---                     ******
+************      ******---                     ******
+************      ******---                     ******
+******      ******      ---PPP      ******      ******
+******      ******      ---PPP      ******      ******
+******      ******---------         ******      ******
+******      ******---------         ******      ******
+******            ---   ******                  ******
+******            ---   ******                  ******
+******            ---   ******                  ******
+******            ---   ******                  ******
+******      ******---PPP      ******            ******
+******      ******---PPP      ******            ******
+******      ******---         ******            ******
+******      ******---         ******            ******
+************      ---   ******            ************
+************      ---   ******            ************
+************---------   ******            ************
+************---------   ******            ************
+******      ---   ******                        ******
+******      ---   ******                        ******
+******      ---   ******                        ******
+******      ---   ******                        ******
+************---                     ******      ******
+************---                     ******      ******
+************---                     ******SSS   ******
+************---                     ******SSS   ******
+******      ---         ******         PPP      ******
+******      ---         ******         PPP      ******
+******      ------------******               PPP******
+******      ------------******               PPP******
+******      ******   ---               PPP************
+******      ******   ---               PPP************
+******      ******   ------               ************
+******      ******   ------               ************
+******               PPP---   ******            ******
+******               PPP---   ******            ******
+******                  ---   ******            ******
+******                  ---   ******            ******
+******            ******---PPP               SSS******
+******            ******---PPP               SSS******
+******            ******------------------------******
+******            ******------------------------******
+******************************************************
+******************************************************
+******************************************************
+******************************************************
+
+Hopefully, that will help you.  If you fall into a pit despite the map, 
+you'll land on the floor below.  Walk to the wall to the right, then follow 
+it up to the staircase that leads back up to the floor above.  Now, walk left 
+from that room and you'll appear at the point on the map I have marked as 
+"B."  From there, follow the safe ground I mapped out to safely reach the 
+staircase leading up to the next floor.
+
+Once you arrive at the next floor, you'll find yourself in another maze of 
+sorts.  You're almost to the end of the dungeon now, so follow the following 
+instructions carefully.  Begin by walking along the path to the right, into 
+the next room.  There, you'll find yourself in a room shaped like the letter 
+"J." Exit out the upper left and you're in another small room.  Exit out the 
+path to the upper right.  This room is quite large, and for the most part you 
+can just head to the exit on the right side of the room (just don't hug the 
+wall near the block shaped like an upside-down "L" or you'll fall in a pit).  
+In the next room, you'll see an upper and lower path.  Take the upper one 
+into another chamber, then head up along that path into the next room.  Here, 
+the path forks.  Head to the left.  In this next room, you should exit along 
+the upper of the two paths, then follow that hallway to the "T" and head out 
+to the right.  Just keep heading right through the remaining rooms to reach 
+the staircase that leads out of the dungeon.  Finally.
+
+-----------------------------------------------------------------------------
+| Area Weapons and Items                                                    |
+============================================================================= 
+| Item Name              |  Cost  | Attributes                    | Used By |
+-----------------------------------------------------------------------------
+| Armor of Erdrick       |     -  | +40 DEF                       | H       |
+-----------------------------------------------------------------------------
+| Lottery Ticket         |     -  | Play a game of chance         | H,G,M   |
+-----------------------------------------------------------------------------
+| Thunder Sword          |     -  | Most powerful sword around    | H       |
+=============================================================================
+| H = Hero; B = Prince; G = Princess                                        |
+-----------------------------------------------------------------------------
+
+
+====================
+032. Shrine of Rhone
+====================
+
+LOCATION: From the exit of the Cave to Rhone, head right along the mountains, 
+working toward your diagonal right.  Head up toward a lake of water, and 
+there you'll see forestation and a series of bridges that lead to the shrine.  
+
+By the time you reach Rhone, you're going to be hurting.  Even if you've been 
+running from most encounters, your magic is going to be running low and any 
+encounter could very well be your last.  Your sole goal is of course to reach 
+the shrine.
+
+In the shrine, you'll find an old man who will revive or restore any of your 
+fallen comrades without charging a cent.  He'll also tell you your party's 
+stats and save your progress.  There's also a portal you can take back down 
+to what they call the Underworld, which is actually just the Alefgard you've 
+already been exploring for most of the game.
+
+At this point, you shouldn't really have any reason to visit the Alefgard you 
+just fought so hard to leave behind, though the option is nice.  Instead of 
+warping back, though, you'll want to spend some time just outside of the 
+shrine, battling the monsters until your levels are high enough that you feel 
+good about making the trek west to Hargon's Castle.  That location is your 
+final destination, and you should level everyone in your party to at least 
+level 20.  Your hero should be closer to level 30.
+
+Once you're sure you're ready, go ahead and make the trip on over to the 
+castle and kick Hargon's butt!
+
+
+====================
+033. Hargon's Castle
+====================
+
+LOCATION: The evil wizard's castle is located to the west of the final 
+shrine.  You should walk left over the bridges, up the sandy strip to the 
+forest, then follow that forestation as it arcs around a lake.  Once you 
+follow it through to the other side, you'll see the castle just to your 
+southwest, isolated on a sandy peninsula.  Keep following the narrow bit of 
+forest until you come around and see a sandy path overhead, which leads to 
+the castle.
+
+The valley leading to Hargon's Castle is filled with all sorts of nasties 
+that also happen to reward you with a bundle of experience points if you can 
+beat them.  This is clearly the best place in the game to boost up your 
+character stats, but doing so is downright dangerous.
+
+Some of the worst monsters you can encounter are the Blizzards, which possess 
+a spell that can instantly kill unfortunate party members.  It's a cheap move 
+and it seems to work best on the hero, though don't be surprised if it 
+occasionally takes out the prince or princess.  These creatures are best 
+assaulted with a robust selection of fire-based spells in the first turn.  
+Then you can clean up in the second round with physical attacks (particularly 
+if, like me, you have the prince equipped with the Falcon Sword and its two 
+strikes per turn).
+
+Don't make the mistake of letting your guard down for any of the other 
+monsters, either.  The giants have large life meters and their strikes 
+definitely do a lot of damage.  The gold batboon monsters can put you to 
+sleep with their sweet breath, and they also breathe scorching flames that 
+can quickly do a lot of damage.  Some fierce physical attacks are your best 
+bet against them.  Meanwhile, the bullwong uses the lethal Explodet spell, 
+which can hit everyone in your party for around 50 points worth of damage.  
+He also has a huge life meter, and spells attempting to nullify his magic 
+almost never work.  The solution?  Try putting him to sleep.
+
+With these strategies in hand, you'll hopefully be able to make it safely to 
+the castle.  If you run into bad luck (at this stage in the game, any 
+encounter that goes awry could easily mean the death of you), you'll return 
+to the shrine with half your gold for a free revival.  Then you can try 
+again.  One way or another, you should eventually make it to the castle in 
+one piece to begin your final assault.
+
+Inside the castle, you'll find what looks like the castle town of Midenhall, 
+where you began the game.  You can stay at the inn to refill your health if 
+you like.  Once you've done so, use the Charm of Rubiss to make the illusion 
+melt away.  You're now in a dungeon surrounded by swamp, with flames moving 
+about the area.
+
+Begin by walking north toward the throne, where two purple monsters stand.  
+Cast the spell of Stepguard, then walk onto the candy-striped floor behind.  
+Head to the left side, face the gray wall, and use the Jailer's Key.  This 
+will open a door you didn't even realize was there, and allow you into a 
+hallway behind it.  You'll need to cast Stepguard again, then head to the 
+door to the right.  Use the golden key to open it, then step into the area 
+beyond.  You'll see a gray tile at the center of more of those electrified 
+floors.  Walk up to the tile (you'll want to use Stepguard magic yet again) 
+and when you've arrived, use the Eye of Malroth.
+
+Before I continue, I should make a note.  Before reaching Hargon, you'll have 
+to face three guardians.  When you defeat them, they'll stay gone for good 
+until you save and power off the system.  The implications of this are 
+obvious: don't attempt anything until you've leveled up sufficiently.  Once 
+that's done, just take down one boss at a time and keep pressing onward.  It 
+may take a few trips through the castle, but the Repel spell should make them 
+quick.  In almost no time at all, you should eat through the guardians and 
+find yourself locked in battle with Hargon.
+
+Of course, you'll need to find your way there, first.  When you appear in the 
+new area, you'll see a grated area to the right.  There's an entryway on its 
+left side, which you should enter to reveal a staircase to your right.  Climb 
+that flight of stairs to the next floor.  
+
+You'll appear in a small room, with a path leading north.  Follow it into the 
+next room and follow that path as it winds around to another grated area to 
+the lower left.  Enter that space to find more pathway that winds to the 
+upper left and a staircase leading to the next floor.  Climb it to the next 
+floor.
+
+You're now in another small enclosed room, with grating to the right.  Pass 
+through to the grating to find a path that winds its way around more grating.  
+Follow it and enter more grating to find a staircase that leads up to the 
+next floor.  Before you walk to the right, make sure that your party members 
+are buffed up and ready for battle.  Once they are, go ahead and walk right 
+and a monster known as Atlas will attack you.  
+
+This is an encounter you can't run from, so hit him with everything you've 
+got.  He can attack twice per round, so you have to make the most of each 
+attack you manage to land.  Mostly, he seems to just go down the list of 
+people in your party.  You should let your hero attack with physical blows 
+while the others keep his health up and cast spells to improve your defense 
+or weaken your foe.  Offensive fire spells don't damage the giant at all.  
+When you've defeated Atlas, climb the stairs to the next floor.
+
+You'll appear on a new floor with four grated areas.  From the head of this 
+staircase, walk left until you're almost at the edge of the building, then 
+look up to the grated area just above you.  Walk up so you're standing by its 
+side, heal everyone in your party, then walk right into the grating.  This 
+will trigger a boss battle with a monster called Bazuzu.
+
+Bazuzu looks like the batboon monsters that you've fought outside of Hargon's 
+Castle, only he's purple.  He may try to put you to sleep, he may cast 
+firebane, or he may cast Defeat spells.  Either way, physical attacks are 
+again your best offense.  Hit him with everything you've got and he should go 
+down fairly quickly.  Go ahead and climb the stairs just to the right.
+
+You now appear within an enclosed chamber.  Walk to the right into the grated 
+area and you'll see another grated area just to the right.  When you enter 
+it, you'll see a staircase just ahead.  Heal your party members yet again, 
+then walk toward the right.  A few steps before the stairs, another boss 
+monster will attack.  This one's name is Zarlox.
+
+Zarlox is an obnoxious sort of monster.  He has strong fire magic that he 
+will use to drain your health, and if you attack him fiercely, he'll 
+eventually cast a healall spell to refill his life, just before you have him 
+defeated.  By then, you're probably all but dead yourself.  The trick is to 
+get his health low, then go all out on the last turn or so and destroy him 
+before he has a chance to recover.  When you defeat him, go ahead and climb 
+that staircase to the castle's final floor.
+
+From the head of this staircase, make sure you cast the Stepguard spell 
+before you walk left along the colored floor toward a room at the center of 
+this floor.  There, Hargon waits.  When you talk to him, it will trigger a 
+battle with the infamous wizard.
+
+Hargon is much like Zarlox, but with an added wrinkle: he can put you to 
+sleep and quite frequently will.  When he's not using his scented breath, 
+he'll cast a Sleep spell.  The effect is the same, but generally you'll have 
+at least one healer who doesn't drop into slumber.  Make sure to keep your 
+health as high as possible while the hero just keeps striking with physical 
+attacks.  Hargon will heal all his health two or three times, but eventually 
+you'll survive the onslaught of sleep and explodet magic long enough to take 
+him out of commission.
+
+When you defeat Hargon, you might think your quest is over.  However, it's 
+not.  Immediately heal everyone in your party.  When you try to exit the 
+chamber, "Hargon the Great" will summon a "sorcerer of the Shadowtime," who 
+happens to be none other than Malroth.
+
+Malroth looks like a dragon and, we can assume, is missing an eyeball.  The 
+sprite doesn't make this apparent but--oh, you want strategies on how to beat 
+him?  Just do what you've been doing against the likes of scrubs like Hargon 
+and Zarlox.  One thing you want to avoid is passing out because of all the 
+damage Malroth can inflict on your party.  For example, I came to him in 
+pretty good shape, but he immediately rendered the hero unconscious and I had 
+to watch as Malroth just slaughtered my party.  If you avoid this fate--and 
+from what I can tell, it's all about luck--you'll be disgusted to find that 
+Malroth also is capable of nullifying any damage you've done to him in a 
+single turn.  Worse, he breathes flames that will quickly make short work of 
+everyone's life meter.  This is a tough battle, but you should be able to win 
+if you persevere.
+
+Once you defeat Malroth, of course, you'll see the end of the game.  I'm not 
+going to spoil it for you.  After such a long trek, you deserve to enjoy it!
+
+
+===============
+034. Conclusion
+===============
+
+Thank you for using my guide as you worked your way through Dragon Warrior 
+II.  It's been a tough guide to write, as there's a lot more information than 
+I recalled, but hopefully you've been able to get through any tough spots and 
+you've enjoyed the game even more than you would have otherwise.
+
+I really should acknowledge the assistance of a few people at this point.  
+The first is Dalez, who wrote a pretty good FAQ for this game that I 
+consulted as I reached the final few areas.  It had been a long time since 
+I'd played through this previously, so I was able to glean a few tips from 
+his FAQ that made their way into this one.  One of those tips was the 
+location of the Sword of Thunder, which was actually provided by Justin 
+Gunsolus in the first place (see Dalez's guide for more info).  Thanks also go 
+out to tl_bahamut for pointing out a shop I'd forgotten to catalogue in 
+Wellgarth.  It's a confusing town but he made it simpler.
+
+Finally, I'd like to thank a few people who make writing FAQs worthwhile.  
+Brian Sulpher and Alex have both inspired a few of my past efforts, and that 
+was again the case here.  Thanks for the help, guys, even if you didn't mean 
+to do it.  Also, thanks to CJayC for creating GameFAQs, the first site that 
+inspired me to take my love for games online.  
+
+
+-----------------------------------------------------------------------------
+
+Closing Notes:
+
+If you have any questions or comments about this FAQ (including corrections, 
+information about glaring omissions or just a few words of praise), please 
+don't hesitate to contact me by e-mail (jasonventer[at]yahoo.com).  Include 
+the relevant game's title in your 'subject' line to ensure that your e-mail 
+is not erroneously deleted.
+
+On a more tedious note, remember that this FAQ may be not be reproduced under 
+any circumstances except for personal, private use.  It may not be placed on 
+any web site or otherwise distributed publicly without advance written 
+permission.  Use of this guide on any other web site or as a part of any 
+public display is strictly prohibited, and a violation of copyright.  At the 
+time this FAQ was last updated, the following sites are permitted to post it:
+
+HonestGamers (http://www.honestgamers.com)
+GameFAQs (http://www.gamefaqs.com)
+NeoSeeker (http://www.neoseeker.com)
+GameSpot (http://www.gamespot.com)
+AOL (http://www.aol.com)
+IGN (http://faqs.ign.com)
+
+This list may change to reference new friends or to revoke permission if I 
+decide that I am at war with a particular site, so you may be viewing an 
+older version of this FAQ.  If you wonder whether or not your favorite site 
+has permission to post it, you can always find the list of authorized sites 
+by viewing the master copy, available at HonestGamers.com.
+
+Finally, if you frequently consult this FAQ as you write strategy content of 
+your own, I would appreciate a tip of the hat in your closing comments, or 
+wherever it seems appropriate.  I work hard to make my FAQs useful, and I'm 
+pleased when you find them to be helpful.  Let others know about them, too!

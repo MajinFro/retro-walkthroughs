@@ -1,0 +1,1311 @@
+*******************************************************************************
+
+                           Dragon Warrior II
+                                Lists
+                           
+Copyright 2004, Apathetic Aardvark            Email: Jason@lelando.net
+All rights reserved                           Version 1.0    3/11/2004
+
+
+*******************************************************************************
+                         Index/Table of Contents
+*******************************************************************************
+
+   Disclaimer.........................................................i
+   Version History....................................................ii
+   Enemy List.........................................................iii
+   Item List..........................................................iv
+   Spell List.........................................................v 
+   Shopping List......................................................vi
+   Frequently Asked Questions.........................................vii
+   Credits............................................................viii
+
+*******************************************************************************
+                       i)  Disclaimer (Legal stuff)
+*******************************************************************************
+
+Copyright 2004, Apathetic Aardvark
+All rights reserved.
+
+The following sites have my permission to post this;
+www.gamefaqs.com
+
+Any site, magazine, or other form of media, that is not included on this list
+caught hosting this guide without my written consent is in violation of 
+copyright laws and will be prosecuted to the full extent of the laws.  In 
+addition, a terrible curse will be placed upon you and any subsequent 
+generations of your family.  Chances are I'm too lazy to take legal action,
+but inflicting a curse doesn't take a whole lot of effort.
+
+*******************************************************************************
+                             ii) Version History
+*******************************************************************************
+
+3/11/2004 v1.0 - created lists and quick descriptions.  Also put in a mini-faq
+mostly with questions I asked myself when I was eight <_<
+
+*******************************************************************************
+                               iii) Enemy List
+*******************************************************************************
+
+Enemies have a very wide range of Gold and Exp they can give.  I tried to pick
+numbers which fall about in the middle of the range.  They generally drop about
+the same amount until the latter parts of the game.  There is also a slight
+variation in HP range, for this one I tended to choose the maximum value, they
+can go as low as about 3/4's of the number.  The list is in alphabetical order.
+
+-------------------------------------------------------------------------------
+
+Name: Army Ant
+HP: 12
+Gold: 2
+Exp: 4
+Class: Ant
+Notes: Can call in reinforcements. 
+
+-------------------------------------------------------------------------------
+
+Name: Atlas [Boss]
+HP: 250
+Gold: 250
+Exp: 1200
+Class: Ogre
+Notes: Double attack.  High Defense and Magical Defense.
+
+-------------------------------------------------------------------------------
+
+Name: Attackbot
+HP: 120
+Gold: 150
+Exp: 825
+Class: Fighter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Babble
+HP: 13
+Gold: 4
+Exp: 8
+Class: Spew
+Notes: Sometimes inflict poison when they attack. 
+
+-------------------------------------------------------------------------------
+
+Name: Baboon
+HP: 40
+Gold: 45
+Exp: 20
+Class: Baboon
+Notes: Very strong
+
+-------------------------------------------------------------------------------
+
+Name: Basilisk
+HP: 40
+Gold: 60
+Exp: 40
+Class: Snake
+Notes: Often inflicts poison with attacks
+
+-------------------------------------------------------------------------------
+
+Name: Bazuzu [Boss]
+HP: 250
+Gold: 240
+Exp: 1500
+Class: Batboon
+Notes: Uses loads of spells such as healall and Explodet
+
+-------------------------------------------------------------------------------
+
+Name: Berserker
+HP: 90
+Gold: 125
+Exp: 125
+Class: Hunter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Big Cobra
+HP: 14
+Gold: 9
+Exp: 9
+Class: Snake
+Notes: Often inflicts poison with attacks. 
+
+-------------------------------------------------------------------------------
+
+Name: Big Rat
+HP: 16
+Gold: 5
+Exp: 7
+Class: Rat
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Big Slug
+HP: 8
+Gold: 3
+Exp: 2
+Class: Slug
+Notes: They frequently miss with their attacks.
+
+-------------------------------------------------------------------------------
+
+Name: Blizzard
+HP: 90
+Gold: 115
+Exp: 450
+Class: Elemental Man
+Notes: Can cast Defeat, drop Wizard Wands
+
+-------------------------------------------------------------------------------
+
+Name: Bullwong
+HP: 210
+Gold: 130
+Exp: 875
+Class: Devil
+Notes: Can cast explodet, drop Sword of Destruction
+
+-------------------------------------------------------------------------------
+
+Name: Carnivog
+HP: 32
+Gold: 16
+Exp: 30
+Class: Plant
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Centipod
+HP: 21
+Gold: 30
+Exp: 15
+Class: Pede
+Notes: Often inflicts poison with attacks.
+
+-------------------------------------------------------------------------------
+
+Name: Cyclops
+HP: 115
+Gold: 100
+Exp: 350
+Class: Ogre
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Dark Eye
+HP: 70
+Gold: 80
+Exp: 90
+Class: Eyes
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Demighost
+HP: 48
+Gold: 50
+Exp: 45
+Class: Flying Mouse
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Dragon Fly
+HP: 40
+Gold: 45
+Exp: 60
+Class: Flying Insect
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Drakee
+HP: 9
+Gold: 3
+Exp: 3
+Class: Starman
+Notes: Drops Club
+
+-------------------------------------------------------------------------------
+
+Name: Enchanter
+HP: 40
+Gold: 30
+Exp: 40
+Class: Caster
+Notes: Casts Infernos
+
+-------------------------------------------------------------------------------
+
+Name: Evil Clown
+HP: 67
+Gold: 50
+Exp: 85
+Class: Dual Dueler
+Notes: Drops the Staff of Thunder which can be sold for a LOT of money.
+
+-------------------------------------------------------------------------------
+
+Name: Evil Eye
+HP: 50
+Gold: 25
+Exp: 90
+Class: Eye
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Evil Tree
+HP: 65
+Gold: 45
+Exp: 70
+Class: Tree
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Flame
+HP: 55
+Gold: 100
+Exp: 250
+Class: Elemental Man
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Gargoyle
+HP: 60
+Gold: 100
+Exp: 75
+Class: Hawkman
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Gas
+HP: 50
+Gold: 30
+Exp: 40
+Class: Mist
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Ghost Mouse
+HP: 12
+Gold: 6
+Exp: 6
+Class: Flying Mouse
+Notes: Drops Clothes
+
+-------------------------------------------------------------------------------
+
+Name: Ghost Rat
+HP: 25
+Gold: 15
+Exp: 25
+Class: Rat
+Notes: Can call in reinforcements.
+
+-------------------------------------------------------------------------------
+
+Name: Ghoul
+HP: 80
+Gold: 100
+Exp: 60
+Class: Hork
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Giant
+HP: 155
+Gold: 90
+Exp: 500
+Class: Ogre
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Gold Batboon
+HP: 115
+Gold: 100
+Exp: 400
+Class: Batboon
+Notes: Can cast Sacrifice, that is bad...  Drops Gremlin's Armor
+
+-------------------------------------------------------------------------------
+
+Name: Gold Orc
+HP: 100
+Gold: 300
+Exp: 70
+Class: Orc
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Goopi
+HP: 50
+Gold: 28
+Exp: 25
+Class: Drippy
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Gorgon
+HP: 30
+Gold: 30
+Exp: 50
+Class: Medusa
+Notes: Drops Fairy Water
+
+-------------------------------------------------------------------------------
+
+Name: Graboopi
+HP: 60
+Gold: 30
+Exp: 40
+Class: Drippy
+Notes: Drops Copper Sword
+
+-------------------------------------------------------------------------------
+
+Name: Green Dragon
+HP: 95
+Gold: 150
+Exp: 350
+Class: Dragon
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Gremlin
+HP: 60
+Gold: 23
+Exp: 52
+Class: Imp
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Hargon [Boss]
+HP: 230
+Gold: 0
+Exp: 0
+Class: Caster
+Notes: Casts Healall, Explodet.  Sleep breath.
+
+-------------------------------------------------------------------------------
+
+Name: Hargon's Knight
+HP: 80
+Gold: 150
+Exp: 300
+Class: Undead Fighter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Hawk Man
+HP: 60
+Gold: 45
+Exp: 65
+Class: Hawkman
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Healer
+HP: 25
+Gold: 5
+Exp: 15
+Class: Floating Manowar
+Notes: Casts heal virtually every turn making it very difficult to kill if you
+don't do a lot of damage.
+
+-------------------------------------------------------------------------------
+
+Name: Hibabango
+HP: 60
+Gold: 85
+Exp: 80
+Class: Baboon
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Hork
+HP: 95
+Gold: 50
+Exp: 70
+Class: Hork
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Hunter
+HP: 65
+Gold: 45
+Exp: 65
+Class: Hunter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Iron Ant
+HP: 5
+Gold: 4
+Exp: 2
+Class: Ant
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Lizard Fly
+HP: 15
+Gold: 12
+Exp: 27
+Class: Flying Insect
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Mace Master
+HP: 160
+Gold: 100
+Exp: 600
+Class: Dual Dueler
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Magic Baboon
+HP: 45
+Gold: 45
+Exp: 40
+Class: Baboon
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Magician
+HP: 15
+Gold: 10
+Exp: 10
+Class: Caster
+Notes: Casts Fireball, Drops Bamboo Stick
+
+-------------------------------------------------------------------------------
+
+Name: Magic Vampirus
+HP: 65
+Gold: 110
+Exp: 190
+Class: Bat
+Notes: Drops Mysterious Hat
+
+-------------------------------------------------------------------------------
+
+Name: Magidrakee
+HP: 12
+Gold: 10
+Exp: 10
+Class: Starman
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Malroth
+HP: 250
+Gold: 0
+Exp: 0
+Class: Bat/Devil
+Notes: Has virtually every deadly spell in the game.  Do NOT use the chance
+spell on him, if you get the sirens call he comes right back at full power.
+
+-------------------------------------------------------------------------------
+
+Name: Man O War
+HP: 25
+Gold: 50
+Exp: 25
+Class: Floating Manowar
+Notes: Fought at sea
+
+-------------------------------------------------------------------------------
+
+Name: Medusa Ball
+HP: 40
+Gold: 30
+Exp: 40
+Class: Medusa
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Mega Knight
+HP: 75
+Gold: 85
+Exp: 200
+Class: Undead Fighter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Megapede
+HP: 20
+Gold: 25
+Exp: 33
+Class: Pede
+Notes: Very resistant to attacks
+
+-------------------------------------------------------------------------------
+
+Name: Metal Babble
+HP: 35
+Gold: 255
+Exp: 1000
+Class: Spew
+Notes: Very hard to hit, almost always run away on first turn.  Powerful magic
+but they do occasionally drop Dragons Potion.
+
+-------------------------------------------------------------------------------
+
+Name: Metal Hunter
+HP: 70
+Gold: 150
+Exp: 82
+Class: Fighter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Metal Slime
+HP: 6
+Gold: 90
+Exp: 1200
+Class: Spew
+Notes: They take little damage from attacks, spells never seem to hit.  They
+often run away or cast fireball at you.  Frequently appear in groups of eight.
+
+-------------------------------------------------------------------------------
+
+Name: Mud Man
+HP: 28
+Gold: 35
+Exp: 32
+Class: Mudman
+Notes: Does a jig which can take MP away.
+
+-------------------------------------------------------------------------------
+
+Name: Mummy
+HP: 75
+Gold: 60
+Exp: 60
+Class: Undead
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Mummy Man
+HP: 45
+Gold: 40
+Exp: 45
+Class: Undead
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Orc
+HP: 60
+Gold: 50
+Exp: 60
+Class: Orc
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Orc King
+HP: 110
+Gold: 140
+Exp: 160
+Class: Orc
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Ozwarg
+HP: 70
+Gold: 120
+Exp: 140
+Class: Imp
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Poison Lily
+HP: 45
+Gold: 25
+Exp: 30
+Class: Plant
+Notes: As the name may suggest, it can poison you.
+
+-------------------------------------------------------------------------------
+
+Name: Puppet Man
+HP: 60
+Gold: 100
+Exp: 50
+Class: Mudman
+Notes: Does a jig which can take MP away.
+
+-------------------------------------------------------------------------------
+
+Name: Saber Lion
+HP: 80
+Gold: 55
+Exp: 80
+Class: Wild Cat
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Saber Tiger
+HP: 25
+Gold: 55
+Exp: 40
+Class: Wild Cat
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Sea Slug
+HP: 32
+Gold: 80
+Exp: 34
+Class: Slug
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Silver Batboon
+HP: 90
+Gold: 100
+Exp: 300
+Class: Batboon
+Notes: Can cast Defeat
+
+-------------------------------------------------------------------------------
+
+Name: Slime
+HP: 5
+Gold: 2
+Exp: 1
+Class: Spew
+Notes: Often appear in groups
+
+-------------------------------------------------------------------------------
+
+Name: Smoke
+HP: 15
+Gold: 40
+Exp: 20
+Class: Mist
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Sorceror
+HP: 55
+Gold: 40
+Exp: 75
+Class: Caster
+Notes: Casts Increase, Defense, Stopspell, Sleep and Fireball
+
+-------------------------------------------------------------------------------
+
+Name: Titan Tree
+HP: 50
+Gold: 80
+Exp: 50
+Class: Tree
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Undead
+HP: 65
+Gold: 40
+Exp: 100
+Class: Undead Fighter
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Vampirus
+HP: 60
+Gold: 50
+Exp: 85
+Class: Bat
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Wild Mouse
+HP: 10
+Gold: 5
+Exp: 5
+Class: Rat
+Notes: 
+
+-------------------------------------------------------------------------------
+
+Name: Zarlox
+HP: 250
+Gold: 250
+Exp: 2500
+Class: Devil
+Notes: Can cast Explodet, Increase.  He gets double attack.
+
+-------------------------------------------------------------------------------
+
+Name: Zombie
+HP: 60
+Gold: 25
+Exp: 40
+Class: Hork
+Notes: Drops Leather Armor
+
+-------------------------------------------------------------------------------
+
+*******************************************************************************
+                             iv) Item List
+*******************************************************************************
+
+This is an item listing, items not found in stores will have a brief mention of
+where they are found/won at the end of this section.
+
+PM = Prince of Midenhall
+PC = Prince of Cannock
+PsM = Princess of Moonbrooke
+
+Name             Who      Buy    Sell    +stat        Comments
+--------
+Weapons
+--------
+Bamboo Stick     All      No         2    2 strength  Dropped by Magicians
+Falcon Sword     PM PC    25000  18750    5 strength  Two attacks per turn 
+Club             PM PC       60     45    8 strength  PC comes with this item
+Copper Sword     PM PC      100     75   10 strength  PM comes with this item
+Wizard's Wand    All       2500   1875   10 strength  Fireball as item
+Magic Knife      All        200    150   12 Strength  Good weapon for PsM
+Chain Sickle     PM PC      390    293   15 strength  
+Staff of Thunder All      No     19500   15 strength  Fireball as item
+Iron Spear       PM PC      770    578   20 strength  Best PC weapon early on
+Broad Sword      PM        1500   1125   30 strength  Great early PM weapon
+Giant Hammer     PM        4000   3000   35 strength  Misses often
+Sword of Erdirck PM       No         2   40 strength  
+Dragon Killer    PM        8000   6000   50 strength  Good vs Green Dragon
+Light Sword      PM       16000  12000   65 strength  Surround spell as item
+Thunder Sword    PM       No       375   80 strength  Infernos as item
+Sword of Destruction  PM  No     11250   93 strength  Cursed
+--------
+Body Armor
+--------
+Clothes          All      No        23    2 defense   PsM start with
+Leather Armor    PM PC    No       113    6 defense   PM & PC start with
+Chain Mail       PM PC      480    360   12 defense   
+Clothes Hiding   All       1250    938   20 defense  
+Full Plate Armor PM        1000    750   25 defense 
+Magic Armor      PM PC     4300   3225   25 defense
+Mink Coat        All      65000  48750   30 defense   talk about price...
+Armor of Gaia    PM       No        35   35 defense   
+Water Flying Cloth All    No     ?????   35 defense   reduces fire damage
+Armor of Erdrick PM       No         3   40 defense
+Gremlin's Armor  PM PC    No      4800   50 defense   cursed
+--------
+Shields
+--------
+Leather Shield   PM PC       90     68    4 defense
+Steel Shield     PM        2000   1500   10 defense
+Evil Shield      PM       No      6600   10 defense   cursed
+Shield of Strength PM PC  21500  16125   18 defense   Healmore as item
+Shield of Erdrick PM      No        15   20 defense
+--------
+Helmets
+--------
+Iron Helmet      PM        3150   2363    6 defense
+Helmet of Erdrick PM      No        53   20 defense
+
+Name               Buy    Sell    Comments
+--------
+Items
+--------
+Medical Herb          15     12   Restores a small amount of HP
+Antidote Herb          8      6   Cures Poison
+Fairy Water           40     30   Fends of weak monsters from attacking party
+Wing of the Wyvern    80     60   Return to where you last saved, out of battle
+Dragon's Bane        640    480   Most status spells have no effect when on
+Silvery Key        No         2   Opens Silver Doors
+Golden Key         No         2   Opens Gold Doors
+Jailor Key          200    1500   Opens Barred Doors
+Watergate Key      No     No      Opens the watergate in Tuhn
+Lottery Ticket     No        53   Allows playing in the lottery
+Golden Card        No       375   25% discount in all stores
+Wizard's Ring      No      1750   MP recovery when used as item
+Mirror of Ra       No     No      Transforms the PsM from a dog
+Cloak of Wind      No        53   Fall a few steps ahead when jumping
+Treasures          No     No      Trade for Echoing Flute
+Echoing Flute      No       300   Echoes when played near crests
+Leaf of the World Tree No     5   Revives one ally, limit one at a time
+Magic Loom         No        23   Half of water flying cloth
+Dew's Yarn         No        30   Half of water flying cloth
+Token of Erdrick   No         8   Trade for Helmet of Erdrick 
+Moon Fragment      No       225   Fills the Sea Cave with water
+Five Crests        No     No      Trade all five for Charm of Rubiss
+Eye of Malroth     No     No      Opens cave to Rhone and Hargon Castle floor 2
+Charm of Rubiss    No     No      Shows the true site of Hargon Castle
+Gremlin's Tail     No      1125   Curses you!
+Mysterious Hat     No     15000   Increases defense when equipped
+Dragon's Potion    No      7500   Save your game anywhere!
+
+
+Sword of Erdrick - The sword of Erdrick is found in  Basement two of Charlock 
+Castle.
+
+Staff of Thunder - Won from Evil Clown.  You may fight him in Midenhall Prison
+when you get the Jailor's key.  You can only have one staff at a time, when you
+sell it, you'll be able to fight him again.
+
+Thunder Sword - In a secret room in the Cave to Rhone on the third floor.  You
+will need to fall from the only pitfall on the fourth floor to reach it.
+
+Sword of Destruction - Sometimes dropped by Atlas, Giant or Green Dragon.
+
+Armor of Gaia - In one of the chests in the Osterfair weapon shop, you'll need
+a Gold Key to reach it.
+
+Water Flying Cloth - Don Mahone of Tuhn can make this from Dew's yarn and the 
+Magic Loom.  Once you have him make it, save your game and restart, he will
+NEVER finish it if you don't save.
+
+Armor of Erdrick - In a hidden room on the 5th floor in the Cave to Rhone.  You
+will need to use the correct stair cases starting on the second floor.
+
+Gremlin's Armor - Sometimes dropped by Gold Batboon's.
+
+Evil Shield - Sometimes dropped by Mega Knights.
+
+Shield of Erdrick - In Cannock Castle behind a Golden door.  One of many chests
+inside this room.
+
+Helmet of Erdrick - Exchange the Token of Erdrick for this at the Monolith of
+Alefgard.
+
+Silver Key - In basement two of the Lake Monolith near Cannock.
+
+Gold Key - In Zahan, talk to the dog.  It will run a few steps away.  Walk up
+to it and examine the ground just in front of it.
+
+Watergate Key - Roge Fasterfinger has this.  Enter his cell and try to walk
+around near the walls.  You'll find a secret passage he dug to 'escape' from
+prison.  Talk to him and he'll give it to you.
+
+Lottery Ticket - Sometimes given for buying goods from item shops.  It is also
+dropped by a few enemies around the world.  With this you can play in the 
+lottery and win many great items.
+
+Golden Card - Get three sun symbols in the lottery and you'll get this item.
+
+Wizard's Ring - Get three star symbols in the lottery and you'll get this item.
+
+Mirror of Ra - Search the poison pond south west of Hamlin and east of 
+Moonbrooke Castle.  Use this on the dog in Hamlin to reveal another ally!
+
+Cloak of Wind - Found on the top floor of the Tower of the Wind.
+
+Treasures - Dive in the discolored water north of Lianport.
+
+Leaf of the World Tree - In the southeast area of the map, there is an island
+with a tree in the middle circled by desert and mountain terrain.  Search this
+piece of land for this item.
+
+Magic Loom - Hidden in Zahan Castle.
+
+Dew's Yarn - On the third floor of the NORTH Dragon's Horn tower.
+
+Token of Erdrick - Given to you in Midenhall castle once you can open the 
+Golden door.
+
+Moon Fragment - In a treasure chest in the Tower of the Moon.
+
+Star Crest - Won after beating four Gremlins in the lighthouse
+
+Moon Crest - Entertain the King of Osterfair by fighting in the throne room
+and he will give you this.
+
+Sun Crest - Found in the fire monolith.
+
+Water Crest - Defeat the two Ozwarg's behind the Golden and Prison doors in
+Hamlin for this.
+
+Life Crest - In the Cave to Rhone.
+
+Eye of Malroth - Inside of the Sea Cave
+
+Charm of Rubiss - Trade all five crests for this item at the monolith of holy.
+
+Gremlin's Tail - Sometimes dropped by Hawk Man and Ozwarg
+
+Mysterious Hat - Sometimes dropped by Bazuzu and Magic Vampirus
+
+Dragon's Potion - Perhaps the best item in the game.  You can save anywhere
+with this item.  Sadly, you need to win it from a metal babble.  They are rare,
+hard to beat, dangerous, and often run away.
+
+
+*******************************************************************************
+                            v) Spell List
+*******************************************************************************
+
+In Dragon Warrior II, both the Prince of Cannock and Princess of Moonbrooke may
+cast spells.  The Princess is supposed to be the pure caster, but the Prince 
+has some great spells which she does not.  Listed below are the spells, sorted
+alphabetically.  Learned refers to what level the caster will start being able
+to use the spell.  There will be additional notes on some spells after the 
+list.
+
+PC = Prince of Cannock
+PsM = Princess of Moonbrooke
+
+Spell     Who   Learned   MP Cost  Effect
+-----
+Antidote  Both  6/12       3       Removes poison from an ally.
+Chance    PsM   25        15       Many effects, totally random.
+Defeat    PC    23         4       Attempts to kill an enemy group.
+Defence   PsM   10         2       Lowers all enemies defense.
+Explodet  PsM   19         8       Hits all enemies for about 50 damage.
+Fireball  PC     3         2       Hits a single target for about 18 damage.
+Firebane  PC    18         4       Hits all enemies for about 40 damage.
+Heal      PC     1         3       Restores about 20 HP to one ally.
+Healmore  Both  14/1       5       Restores about 45 HP to one ally.
+Healall   PsM   15         8       Fully heals all HP to one ally
+Increase  PC    20         2       Raises defense of all allies.
+Infernos  PsM    4         4       Hits a group of enemies for 20 damage or so.
+Open      PsM   23         2       Open doors without Gold/silver/Jailor key.
+Outside   Both  12/17      6       Places you outside of a cave/tower.
+Repel     PsM    8         2       Weaker enemies will not attack.
+Return    PC    10         6       Takes you to the town you last saved in.
+Revive    PC    25        15       Restores life to one ally.
+Sacrifice PC    28         1       Kills all enemies, caster dies.
+Sleep     PsM    2         2       Tries to put a group of enemies to sleep.
+Stepguard Both  17/21      4       Prevents floor damage for a while .
+Stopspell PC     8         3       Tries to prevent spell casting from enemies.
+Surround  PsM    6         2       Lowers enemy hit %.
+
+Chance - costs less at sea for some reason.  It may reproduce many other spells
+or do nothing.  Sometimes it will call the Sirens, you will instantly win any 
+battle EXCEPT against Malroth.  If used on him, he will come back fully 
+restored.
+
+Defeat - Does not work on stronger enemies.
+
+Open - Will not work on the watergate in Tuhn.
+
+Repel - Identical to Fairy Water.  Party will not be attacked if the current HP
+of the lowest party member is higher than any enemy trying to attack.
+
+Revive - This spell is pricy, but there aren't too many ways to revive in this 
+game.
+
+Sacrifice - You will win almost any battle, save for again Malroth.  Do not use
+this spell recklessly, the Prince of Cannock is the only party member with the
+revive spell.
+
+Stepguard - This will prevent you from taking two damage from poison floors and
+twenty from magic floors.  It wears off after a while.
+
+Stopspell - frequently misses, but it will eventually work on almost anything
+in the game.  In some battles it is worth the wait.
+
+Note: Most damage dealing spells do less damage against some enemies, such as
+Atlas and Zarlox.
+
+*******************************************************************************
+                           vi) Shopping List
+*******************************************************************************
+
+Here is a listing of which stores sell which items around the world.  Stores
+never change what they stock in this game.  Prices of items are the same all
+throughout the world [what a lame economy] except for Inns, which range from 
+two gold to about eigthy gold per person.
+
+
+Midenhall Castle - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15 
+Antidote Herb        8 
+
+Leftwyne - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote             8
+Wing of Wyvern      80
+
+Leftwyne - Weapon Shop
+
+Item              Cost
+----------------------
+Club                60
+Copper Sword       100
+Magic Knife        200
+Chain Sickle       390
+Chain Mail         480
+Leather Shield      90
+
+Cannock Castle - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Wing of Wyvern      80
+Fairy Water         40
+
+Hamlin - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Wing of Wyvern      80
+Fairy Water         40
+
+Hamlin - Weapon Shop
+
+Item              Cost
+----------------------
+Chain Sickle       390
+Iron Spear         770
+Broad Sword       1500
+Chain Mail         480
+Full Plate Armor  1000
+Steel Shield      2000
+
+Lianport - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Wing of Wyvern      80
+Fairy Water         40
+Dragon's Bane      640
+
+Lianport - Weapon Shop 
+
+Item              Cost
+----------------------
+Magic Knife        200
+Broad Sword       1500
+Wizard's Wand     2500
+Full Plate Armor  1000
+Clothes Hiding    1250
+Steel Shield      2000
+
+
+Zahan - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Wing of Wyvern      80
+Fairy Water         40
+Dragon's Bane      640
+
+Tantegal - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Wing of Wyvern      80
+Fairy Water         40
+Dragon's Bane      640
+
+Tantegal - Weapon Shop
+
+Item              Cost
+----------------------
+Broad Sword       1500
+Giant Hammer      4000
+Wizard's Wand     2500
+Clothes Hiding    1250
+Steel Shield      2000
+Iron Helmet       3150
+
+Osterfair - Weapon Shop
+
+Item              Cost
+----------------------
+Broad Sword       1500
+Giant Hammer      4000
+Dragon Killer     8000
+Clothes Hiding    1250
+Magic Armor       4300
+Iron Helmet       3150
+
+Beran - Tool Shop
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Wing of Wyvern      80
+Fairy Water         40
+
+Beran - Weapon Shop
+
+Item              Cost
+----------------------
+Giant Hammer      4000
+Wizard's Wand     2500
+Dragon Killer     8000
+Steel Shield      2000
+Shield of Str.   21500
+Iron Helmet       3150
+
+Wellgarth - Tool Shop 
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8
+Fairy Water         40
+Dragon's Bane      640
+
+Wellgarth - Another Tool Shop 
+
+Item              Cost
+----------------------
+Medical Herb        15
+Antidote Herb        8 
+                  2000 [The blank item is the Jailor's Key]
+Wing of Wyvern      80
+
+Wellgarth - Weapon Shop
+
+Item              Cost
+----------------------
+Giant Hammer      4000
+Dragon Killer     8000
+Light Sword      16000
+Mink Coat        65000
+Shield of Str.   21500
+Iron Helmet       3150
+
+Tuhn - Tool Shop
+
+Item              Cost
+----------------------
+Wing of Wyvern      80
+Fairy Water         40
+Dragon's Bane      640
+
+Tuhn - Weapon Shop
+
+Item              Cost
+----------------------
+Wizard's Wand     2500
+Falcon Sword     25000
+Dragon Killer     8000
+Magic Armor       4300
+Shield of Str.   21500
+Iron Helmet       3150
+
+*******************************************************************************
+                    vii) Frequently Asked Questions
+*******************************************************************************
+
+1) Why won't that damn weaver weave my damn clothes already?
+
+You can keep bugging him all day, but until you save and restart he'll never
+finish.  Pain in the ass if you don't have a Dragon's Potion as there are no
+people to save with nearby.
+
+2) How much exp can you get?
+
+The game stops counting at 1,000,000 exp for each character.
+
+3) What's happening, I have more HP than enemies attacking me with Fairy Water/
+Repel?
+
+Enemy HPs are slightly random, so if the number is close, it may in fact be a
+weird Baboon with 45 hp for example, instead of 40.  Also, make sure you are
+fully healed before repeling away, it seems to go by current HP, not max.
+
+4) I can't afford a Mink Coat, what should I do?
+
+If you want to be able to buy it, sell things like staff of thunders or swords
+of destruction.  They fetch decent prices.  If you just don't want to buy one,
+put the Armor of Erdrick on Midenhall, Water Flying Cloth on Moonbrooke and 
+Magic Armor on Cannock, almost as good.
+
+5) I can't make it from one Dragon Horn tower to the other!  help!
+
+1.  Make sure you have you the cloak of wind equipped.  2. Make sure you jump
+from the tower facing the direction you intend to fall.  If you leave the west
+end of a tower you will fall west.
+
+6) For some strange reason all the crests were in my inventory when the game
+started, why?
+
+It happens from time to time.  I have no idea why, but it is quite a time
+saver!
+
+7) Where's the guy with the watergate key who broke out of jail?
+
+He hasn't actually escaped from his cell, he dug a little secret room against
+the right wall, he's still in there.
+
+8) Getting gold from monsters takes forever!
+
+Yup... It does.  So does leveling up while collecting that gold.
+
+9) Is there anyway to prevent death when sacrifice is cast on you?
+
+Not that I know of, it is REALLY annoying, I'll say that much.
+
+10) So what, the falcon sword gives two attacks, the power is still really 
+crappy.
+
+True, but weapon attack power is not the entire factor for deciding damage,
+you'll still do a considerable amount of damage with it, far greater than you
+did at level six with your copper sword.
+
+*******************************************************************************
+                              viii) Credits
+*******************************************************************************
+
+CJayC - for creating GameFAQs.com, the best site on the Internet!
+
+Enix - For making a good solid RPG which I grew up on.
+___________________________
+Apathetic Aardvark - 2004 |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯

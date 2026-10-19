@@ -1,0 +1,864 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Turn-Based RPG",
+    "categories": [
+      {
+        "name": "Crests",
+        "description": "All five crests needed for the Charm of Rubiss: Star (Lighthouse), Moon (Osterfair), Sun (Shrine of Fire), Water (Hamlin prison) and Heart/Life (Cave to Rhone).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Erdrick Equipment",
+        "description": "The four pieces of Erdrick's gear: Sword (Charlock Castle), Shield (Cannock Castle), Helmet (Holy Shrine, traded for the Token of Erdrick) and Armor (Cave to Rhone).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Dungeon chests and searchable items",
+        "description": "Every treasure chest and searchable floor item in each castle, town, tower and cave, including the Silver, Golden and Jailor's Key doors revisited on the key errands (chapters 2, 9 and 13).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Key items and party",
+        "description": "All three party members and every key item: Silver, Golden, Jailor's and Floodgate Keys, Mirror of Ra, Cloak of Wind, Echoing Flute, Dew's Yarn, Magic Loom, Moon Fragment, Eye of Malroth, Charm of Rubiss and the Water Flying Cloth.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "Crests",
+      "Erdrick Equipment",
+      "achievements"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough covers the whole set. Nothing is permanently missable: every item stays in the world and the RA guide says none of the miscellaneous achievements are missable. The only order-sensitive step is the ending: say No to your father's offer before saying Yes (46461), or you must beat Malroth again. The Copper Sword achievement needs the sword equipped, not just picked up. Level and spell achievements are earned whenever the character reaches the level; the chapters list where the guides' route usually gets there.",
+  "settings_notes": "Hardcore Mode compatible. The RA set targets the English NES release (Dragon Warrior II), so use NES names: Midenhall, Cannock, Moonbrooke, Infernos, Floodgate/Watergate Key. Remake names (Lorasia, Slewse, Woosh) appear only in gf-versions.",
+  "fact_ids": [
+    "ra-comments-33-4",
+    "ra-comments-33-5",
+    "ra-comments-1-6",
+    "ra-comments-7-1",
+    "gf-versions-2-10"
+  ],
+  "counter_totals": {
+    "Crests": 5,
+    "Erdrick Equipment": 4
+  },
+  "missables": [
+    {
+      "achievement_id": 46461,
+      "label": "Refuse the King's offer",
+      "deadline": "In the ending conversation with your father in Midenhall Castle, before answering Yes.",
+      "chapter": 19,
+      "fact_ids": [
+        "ra-comments-33-5",
+        "ra-comments-33-6",
+        "ra-guide-9-4",
+        "ra-comments-1-6"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Malroth defeated",
+      "chapter": 19,
+      "warning": "Beating Malroth starts the ending; everything else (Metal Babble, Wizard's Ring, levels 30, Erdrick gear, chests) must be done before the final battle.",
+      "fact_ids": [
+        "gf3-83-6",
+        "gf2-25-17"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Midenhall, Leftwyne and the Prince of Cannock",
+      "areas": [
+        "Midenhall_Castle",
+        "Copper_Sword",
+        "Leftwyne",
+        "Cannock_Castle",
+        "Spring_of_Bravery",
+        "Prince_of_Cannock"
+      ],
+      "achievement_ids": [
+        46412,
+        46404,
+        46405,
+        46410,
+        46427,
+        46428
+      ],
+      "fact_ids": [
+        "gf2-4-2",
+        "gf3-18-1",
+        "gf4-32-5",
+        "ra-guide-5-1",
+        "gf2-4-3",
+        "gf2-7-12",
+        "gf4-6-8",
+        "gf-lists-12-3",
+        "gf2-6-5",
+        "gf3-23-2",
+        "gf4-5-9",
+        "gf2-7-10",
+        "gf2-7-7",
+        "gf4-6-1",
+        "gf3-25-6",
+        "ra-guide-5-4",
+        "gf2-5-3",
+        "gf4-3-9",
+        "ra-guide-10-2"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Order: open the two chests downstairs in Midenhall Castle and equip the Copper Sword (46412; it only counts once equipped). Level 2 (46404) comes from the first fights. Get the hero to about level 3-5 (gf2-5-3, gf4-3-9; 46405) before leaving the Midenhall area. Cannock Castle: the prince has left for the Spring of Bravery (east over the bridge); at the Spring he has gone on to 'Midenhall', which really means the Leftwyne inn (ra-guide-5-4). He joins at level 1 (46410). Grind him near Cannock/Leftwyne: Fireball at Prince level 3 (46427) and Antidote at level 6 (46428)."
+    },
+    {
+      "n": 2,
+      "title": "The Lake Cave and the Silver Key",
+      "areas": [
+        "Lake_Cave",
+        "Silver_Key",
+        "Monolith_South_of_Midenhall"
+      ],
+      "achievement_ids": [
+        46413,
+        46429
+      ],
+      "fact_ids": [
+        "gf2-5-4",
+        "gf2-8-1",
+        "gf4-6-12",
+        "ra-guide-5-5",
+        "gf-lists-9-43",
+        "gf3-26-8",
+        "ra-guide-5-6",
+        "gf4-6-13",
+        "gf4-6-14",
+        "gf4-27-20",
+        "gf4-8-7",
+        "gf4-8-10",
+        "gf4-8-12",
+        "gf4-8-14",
+        "gf4-8-15",
+        "gf4-8-16"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Lake Cave is west of Cannock over the double bridge. Floor-by-floor: B1F go to the far bottom-left, B2F the Silver Key chest is bottom-right (ra-guide-5-6); open every chest on the way (gf3-26 list). StopSpell at Prince level 8 (46429). With the Silver Key: the two Silver Doors north of Midenhall's travel door, the silver door to the Midenhall jail stairs (prisoner mentions the Jailor's Key; the jail itself comes in chapter 13), the Leftwyne lottery room. The Monolith South of Midenhall Castle has an old man and a Gold Door used later (chapter 9)."
+    },
+    {
+      "n": 3,
+      "title": "Hamlin, Moonbrooke and the Mirror of Ra",
+      "areas": [
+        "Underground_Passage",
+        "Hamlin",
+        "Moonbrooke_Castle",
+        "Moonbrooke_Basement",
+        "Mirror_Swamp",
+        "Mirror_of_Ra",
+        "Princess_of_Moonbrooke"
+      ],
+      "achievement_ids": [
+        46406,
+        46430,
+        116314,
+        46416,
+        46411,
+        46432,
+        46439,
+        46440,
+        46441
+      ],
+      "fact_ids": [
+        "gf4-8-24",
+        "gf4-9-1",
+        "gf4-9-2",
+        "gf2-9-1",
+        "gf2-10-16",
+        "gf4-10-24",
+        "gf2-11-7",
+        "gf2-11-11",
+        "gf2-11-13",
+        "ra-guide-12-1",
+        "ra-comments-74-1",
+        "gf3-32-2",
+        "gf2-11-4",
+        "ra-guide-5-8",
+        "gf4-11-9",
+        "gf-lists-10-4",
+        "gf2-11-6",
+        "ra-guide-5-9",
+        "gf2-11-5",
+        "ra-guide-10-3",
+        "ra-guide-10-4",
+        "ra-comments-51-2",
+        "gf2-11-12",
+        "gf3-32-4",
+        "gf3-32-5"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "The monolith south-west of Cannock (needs the prince in the party) leads through the Underground Passage south to Hamlin. Talk to the dog in north-east Hamlin. Moonbrooke Castle (south-west over the bridge): ruined, both chests empty; find the secret basement by going outside at the top-left and hugging the left wall down (116314). Hero level 10 (46406) and Prince level 10 Return (46430) land around here. Mirror of Ra: search the small swamp east of Moonbrooke (46416; sources differ on which corner: gf2/gf3 say the north-east/upper-right, gf4 says top-left; tell the reader to search the swamp's tiles). Use the Mirror on the Hamlin dog: the princess joins at level 1 (46411) and already knows HealMore, which is what triggers 46432 (ra-comments-51-2). Grind her near Hamlin: Sleep at 2 (46439), Infernos at 4 (46440), Surround at 6 (46441)."
+    },
+    {
+      "n": 4,
+      "title": "The Tower of Wind",
+      "areas": [
+        "Tower_of_Wind",
+        "Cloak_of_Wind"
+      ],
+      "achievement_ids": [
+        46417,
+        46431
+      ],
+      "fact_ids": [
+        "gf2-10-17",
+        "ra-guide-5-10",
+        "gf4-11-18",
+        "gf4-13-8",
+        "gf2-10-30",
+        "gf3-33-2",
+        "gf2-10-20",
+        "gf3-33-3",
+        "gf3-33-4"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Route from Hamlin: east, the northern bridge, follow the path (ra-guide-5-10, gf4-11-18). Floor by floor: 1F take the top-right stairs, climb to 5F, then take the first of the two stairs back down to the 2F room with the Cloak of Wind chest (gf2-10-30, gf4-13-8). The Cloak must be used as an item to equip it. Prince level 12 Outside (46431) usually lands here."
+    },
+    {
+      "n": 5,
+      "title": "The Dragon's Horn and Lianport",
+      "areas": [
+        "Monolith_West_of_Moonbrooke",
+        "South_Dragons_Horn",
+        "North_Dragons_Horn",
+        "Dews_Yarn",
+        "Lianport",
+        "Lianport_Gremlins",
+        "Ship",
+        "Sunken_Treasure",
+        "Echoing_Flute"
+      ],
+      "achievement_ids": [
+        116306,
+        46456,
+        46418,
+        46442
+      ],
+      "fact_ids": [
+        "gf4-13-14",
+        "gf4-13-15",
+        "gf4-13-16",
+        "gf2-11-15",
+        "gf2-11-16",
+        "gf2-11-17",
+        "gf2-11-18",
+        "gf2-11-19",
+        "gf2-14-14",
+        "gf3-61-3",
+        "gf4-15-6",
+        "gf2-14-15",
+        "ra-guide-13-5",
+        "gf-lists-10-9",
+        "ra-guide-6-1",
+        "gf4-16-25",
+        "gf3-37-11",
+        "gf2-12-9",
+        "gf2-12-11",
+        "gf2-12-12",
+        "gf4-16-28",
+        "ra-guide-6-3",
+        "gf2-12-13",
+        "gf4-16-29",
+        "gf2-12-14",
+        "gf4-14-1",
+        "gf4-15-3",
+        "gf4-15-8"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Be level 13+ (gf2-11-16). West of Moonbrooke through the monolith, north-west to the twin towers. South Dragon's Horn: climb to 6F avoiding the big pit, equip the Cloak of Wind and step off the north edge (116306). You land beside the North Dragon's Horn: climb to 3F and search for the Dew's Yarn (gf2-14-15: 5 right, 2 down from the down-stairs; gf4-15-6 counts from a different spot) - it is needed for the Water Flying Cloth (chapter 14). North to Lianport: beat the two Gremlins attacking the girl (46456) to get the ship. Sail north and search the pale water for the Relentless treasure, bring it to the man behind the silver door in Lianport for the Echoing Flute (46418). Princess level 8 Repel (46442)."
+    },
+    {
+      "n": 6,
+      "title": "Alefgard: Tantegel and Charlock Castle",
+      "areas": [
+        "Monolith_North_of_Lianport",
+        "Alefgard",
+        "Tantegel_Castle",
+        "Charlock_Castle",
+        "Sword_of_Erdrick",
+        "Dragonlords_Grandson"
+      ],
+      "achievement_ids": [
+        115778,
+        46457,
+        46447
+      ],
+      "fact_ids": [
+        "gf4-17-1",
+        "gf4-17-2",
+        "gf4-17-6",
+        "gf4-17-4",
+        "gf2-14-19",
+        "gf2-13-13",
+        "gf4-27-3",
+        "gf2-15-4",
+        "gf3-43-8",
+        "gf4-18-32",
+        "gf4-20-6",
+        "ra-guide-12-8",
+        "gf-lists-9-31",
+        "gf2-15-12",
+        "gf4-21-3",
+        "gf4-21-4",
+        "ra-guide-12-7",
+        "gf4-21-1",
+        "gf2-14-13",
+        "gf4-18-15",
+        "gf4-18-16"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 1
+      },
+      "notes": "Sail east from Lianport to the bridge and walk to Tantegel Castle; the King is missing (found in chapter 9 with the Golden Key). The seamstress hint about the Dew's Yarn is here. Charlock Castle (Dragonlord's Castle) south-east across the water: on the floor with two stairs, the southern stairs lead to the B2 Sword of Erdrick chest (115778), the western stairs to the Dragonlord's grandson on the B7 throne (46457). B7F has a Gold Door, opened in chapter 9. Princess level 10 Defense (46447); Prince HealMore at 14 is not an achievement (46432 was already earned)."
+    },
+    {
+      "n": 7,
+      "title": "Zahan and the Golden Key",
+      "areas": [
+        "Zahan",
+        "Golden_Key"
+      ],
+      "achievement_ids": [
+        46414,
+        46433
+      ],
+      "fact_ids": [
+        "gf4-25-13",
+        "gf4-25-14",
+        "ra-guide-6-5",
+        "gf2-13-1",
+        "gf3-46-3",
+        "gf4-26-1",
+        "gf3-46-4",
+        "ra-comments-16-1",
+        "gf2-13-2"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Sail north from Lianport past the treasure spot to the small town island (gf4-25-12..14). Talk to the dog directly (do not walk around it, ra-comments-16-1), follow it to the tree and search there for the Golden Key (46414). The northern damage-floor area and its jail doors wait for chapter 13. Prince level 17 StepGuard (46433) lands around here."
+    },
+    {
+      "n": 8,
+      "title": "The Lighthouse and the Star Crest",
+      "areas": [
+        "Lighthouse",
+        "Lighthouse_Old_Man",
+        "Star_Crest"
+      ],
+      "achievement_ids": [
+        46422
+      ],
+      "fact_ids": [
+        "gf4-21-6",
+        "gf2-19-11",
+        "gf3-64-2",
+        "ra-guide-7-2",
+        "gf2-19-21",
+        "gf2-19-22",
+        "gf2-19-23",
+        "ra-guide-7-3",
+        "gf4-24-12",
+        "gf-lists-10-12",
+        "gf2-19-18",
+        "gf2-19-20",
+        "gf2-19-14",
+        "gf2-19-15",
+        "gf2-19-16",
+        "gf2-19-17",
+        "ra-guide-7-4"
+      ],
+      "counters": {
+        "Crests": 1,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Done after the Golden Key so the Golden Key doors on floors 3 and 6 can be opened for every chest (gf2-19-18, gf2-19-20). On 1F take the bottom-left stairs (ra-guide-7-4). Climb to the top, follow the old man back down to the remote 2F chest: it is a trap with four Gremlins; win for the Star Crest (46422). Blow the Echoing Flute near crests to confirm you are close (gf2-12-14)."
+    },
+    {
+      "n": 9,
+      "title": "Golden Key Errands",
+      "areas": [
+        "World_Tree_Island",
+        "Leaf_of_World_Tree",
+        "King_of_Tantegel",
+        "Shrine_of_Fire",
+        "Token_of_Erdrick",
+        "Shield_of_Erdrick"
+      ],
+      "achievement_ids": [
+        115786,
+        115788,
+        46419,
+        115784
+      ],
+      "fact_ids": [
+        "gf3-45-2",
+        "gf4-27-1",
+        "gf2-16-19",
+        "gf-lists-10-7",
+        "gf3-40-5",
+        "gf4-27-4",
+        "ra-guide-13-20",
+        "gf4-27-11",
+        "gf4-27-12",
+        "gf2-12-17",
+        "gf3-63-3",
+        "gf3-58-5",
+        "gf2-13-5",
+        "gf4-27-16",
+        "ra-guide-12-3",
+        "gf2-13-10",
+        "gf4-27-18",
+        "ra-guide-12-4",
+        "gf4-27-6",
+        "gf4-27-8",
+        "gf4-27-9",
+        "gf4-27-10",
+        "gf4-27-17",
+        "gf4-27-20"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 1
+      },
+      "notes": "Follows gf4 'Pit Stop #2'. World Tree Island: 10 north of Zahan then west, search the lone tree for a Leaf of the World Tree (115786; only one can be held). Tantegel: Gold Door upstairs in the weapon shop - the missing King (115788). Charlock B7F: Gold Door north of the entrance, three chests (cast StepGuard). Monolith west of Zahan (the Shrine of Fire): search the outer north-east corner for the Sun Crest (46421; gf4-28-29, ra-guide-6-9 - gf2 says the Golden Key is needed and ra-guide says nothing is, so getting it now covers both), then its travel door to Midenhall Castle: Gold Door room east of the travel door, five chests including the Token of Erdrick (46419). Cannock Castle: Gold Door west of the House of Healing, Shield of Erdrick (115784). Finish at the Monolith South of Midenhall Castle: Gold Door, travel door to Osterfair's island."
+    },
+    {
+      "n": 10,
+      "title": "Osterfair Castle",
+      "areas": [
+        "Osterfair_Castle",
+        "Saber_Lion",
+        "Moon_Crest",
+        "Armor_of_Gaia"
+      ],
+      "achievement_ids": [
+        46423,
+        115781,
+        46434,
+        46407
+      ],
+      "fact_ids": [
+        "ra-guide-6-16",
+        "gf4-28-20",
+        "gf2-16-8",
+        "gf2-16-15",
+        "gf3-55-8",
+        "gf-lists-10-13",
+        "gf3-55-5",
+        "gf4-28-9",
+        "ra-guide-10-6",
+        "ra-guide-10-7",
+        "gf2-20-11"
+      ],
+      "counters": {
+        "Crests": 1,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Talk to the King of Osterfair and fight his pet Saber Lion in the throne room for the Moon Crest (46423). Walk around the weapon shop to the Gold Door; the hidden shop's chests hold the Armor of Gaia (115781). Grind outside Osterfair (Metal Slimes, ra-guide-10-6): Prince level 18 FireBane (46434), hero level 20 (46407; gf2-20-11 says reach 20 before going further). Clear poison before the level-up registers (ra-comments-38-1)."
+    },
+    {
+      "n": 11,
+      "title": "Beran and the Holy Shrine",
+      "areas": [
+        "Monolith_North_of_Beran",
+        "Shrine_of_Fire",
+        "Sun_Crest",
+        "Holy_Shrine",
+        "Helmet_of_Erdrick",
+        "Beran"
+      ],
+      "achievement_ids": [
+        46421,
+        115785,
+        46443
+      ],
+      "fact_ids": [
+        "gf4-28-27",
+        "gf4-28-28",
+        "gf4-29-4",
+        "gf4-27-11",
+        "gf4-27-12",
+        "gf2-12-17",
+        "gf3-63-3",
+        "gf3-63-4",
+        "gf4-28-29",
+        "ra-guide-6-9",
+        "gf4-29-1",
+        "gf4-29-2",
+        "gf2-14-20",
+        "gf2-14-21",
+        "ra-guide-12-5",
+        "gf2-18-4",
+        "ra-guide-8-1",
+        "gf4-29-6",
+        "gf4-30-22",
+        "ra-guide-6-10",
+        "gf2-13-11",
+        "gf4-29-3",
+        "gf4-29-5"
+      ],
+      "counters": {
+        "Crests": 1,
+        "Erdrick Equipment": 1
+      },
+      "notes": "From Osterfair's travel door to the Monolith North of Beran, take the middle travel door to the Shrine of Fire, then its eastern travel door to the Holy Shrine: trade the Token of Erdrick for the Helmet of Erdrick (115785). Back through the middle door to the Beran monolith, then south-east over two bridges to Beran. Princess level 15 HealAll (46443)."
+    },
+    {
+      "n": 12,
+      "title": "Wellgarth: the Jailor's Key and the Floodgate Key",
+      "areas": [
+        "Wellgarth",
+        "Jailors_Key",
+        "Roge_Fastfinger",
+        "Floodgate_Key"
+      ],
+      "achievement_ids": [
+        46415,
+        116307,
+        46435
+      ],
+      "fact_ids": [
+        "ra-guide-6-13",
+        "gf4-31-9",
+        "gf4-31-10",
+        "gf2-17-8",
+        "gf3-51-3",
+        "gf4-31-6",
+        "gf2-17-27",
+        "gf4-31-13",
+        "ra-guide-6-14",
+        "ra-guide-6-12"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Wellgarth's surface is one Golden Key house; its stairs lead to the underground town. In the second tool shop select the blank line to buy the Jailor's Key for 2000 G (46415). The jail building north of the House of Healing: open it with the Jailor's Key, hug the north wall to the outside and catch Roge Fastfinger for the Floodgate (Watergate) Key (116307). Prince level 20 Increase (46435)."
+    },
+    {
+      "n": 13,
+      "title": "Jailor's Key Errands",
+      "areas": [
+        "Zahan_Wizards_House",
+        "Magic_Loom",
+        "Midenhall_Castle_Jail",
+        "Evil_Clown",
+        "Staff_of_Thunder",
+        "Hamlin_Prison",
+        "Water_Crest"
+      ],
+      "achievement_ids": [
+        115780,
+        46424
+      ],
+      "fact_ids": [
+        "gf4-32-1",
+        "ra-guide-13-7",
+        "gf2-13-2",
+        "gf3-62-3",
+        "ra-guide-13-6",
+        "gf2-20-7",
+        "gf4-32-3",
+        "gf3-58-9",
+        "gf4-8-12",
+        "gf2-17-19",
+        "gf3-58-11",
+        "gf3-58-10",
+        "ra-guide-12-12",
+        "gf3-60-7",
+        "gf4-32-11",
+        "gf2-18-2",
+        "gf-lists-10-15",
+        "ra-guide-7-1",
+        "gf4-32-5",
+        "gf3-58-13",
+        "ra-guide-3-12",
+        "ra-comments-62-1",
+        "gf4-32-9"
+      ],
+      "counters": {
+        "Crests": 1,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Follows gf4 'Pit Stop #3'. Zahan Wizard's House: cast StepGuard, open the left jail door, Magic Loom chest. Travel door to Midenhall: down to the jail, StepGuard, Gold and jail doors, the old man is an Evil Clown - win for the Staff of Thunder (115780). Optional money trick: sell the Staff and reload to fight the clown again (ra-guide-3-12); keep one. Overland via Cannock and the Underground Passage to Hamlin: Gold Door west of the House of Healing, stairs down, open the prison and beat two Ozwargs, search the north-east corner crack for the Water Crest (46424)."
+    },
+    {
+      "n": 14,
+      "title": "Tuhn: the Floodgate and the Water Flying Cloth",
+      "areas": [
+        "Tuhn",
+        "Floodgate",
+        "Water_Flying_Cloth"
+      ],
+      "achievement_ids": [
+        116308,
+        115782
+      ],
+      "fact_ids": [
+        "ra-guide-7-6",
+        "gf2-20-10",
+        "gf4-33-9",
+        "gf3-67-4",
+        "gf4-33-10",
+        "ra-guide-7-7",
+        "gf2-21-9",
+        "gf4-33-7",
+        "ra-guide-13-8",
+        "gf2-21-10",
+        "gf4-32-17",
+        "gf4-33-8",
+        "gf2-21-11",
+        "ra-guide-3-10"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Sail the Tuhn River Channel to the dead end, walk west past the swamp and around to Tuhn. Weaver: Gold Door south of the inn - hand over the Magic Loom and Dew's Yarn, save, reset, reload and talk to him again for the Water Flying Cloth (115782). Watergate House: Jailor's Key door north of the village, stand on the wooden platform facing south and use the Floodgate Key (116308). Princess level 17 Outside is not a new achievement (46431 already earned)."
+    },
+    {
+      "n": 15,
+      "title": "The Tower of the Moon",
+      "areas": [
+        "Tower_of_the_Moon",
+        "Moon_Fragment"
+      ],
+      "achievement_ids": [
+        116309
+      ],
+      "fact_ids": [
+        "gf4-33-20",
+        "gf2-21-5",
+        "gf4-36-2",
+        "ra-guide-7-8",
+        "gf3-70-4",
+        "gf4-33-19",
+        "ra-guide-7-9",
+        "gf2-21-14"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "With the floodgate open, sail the Moon Tower River Channel to the forest island tower south of Tuhn. Floor by floor (ra-guide-7-9): 1F south stairs, 2F middle stairs, up two more floors to the floor with doors, open them and go down to the 1F room with the old man and the Moon Fragment chest (116309). Metal Babbles already roam around Tuhn and the tower (gf2-21-14), but they are very hard to kill this early; the Metal Babble achievement is planned for chapter 17."
+    },
+    {
+      "n": 16,
+      "title": "Malroth's Cavern and the Eye of Malroth",
+      "areas": [
+        "Malroths_Cavern",
+        "Evil_Clowns_Cavern",
+        "Eye_of_Malroth"
+      ],
+      "achievement_ids": [
+        116310,
+        116311,
+        46436,
+        46444
+      ],
+      "fact_ids": [
+        "ra-guide-7-10",
+        "gf4-36-10",
+        "gf2-20-3",
+        "gf3-71-2",
+        "gf2-22-11",
+        "gf3-72-7",
+        "ra-guide-7-11",
+        "gf-lists-9-26",
+        "gf3-71-3",
+        "gf4-37-4",
+        "gf2-22-9",
+        "gf2-22-2"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Sail to the cave in the shallows (north of World Tree Island / south-west of Osterfair) and use the Moon Fragment beside the shallows (116310). Floor by floor (ra-guide-7-12): 1F south-west stairs, 2F north-west behind lava, 3F the room with nine stairways (left stairs, second row), 4F west across lava, 5F the old man is two Evil Clowns; win for the Eye of Malroth (116311). Lava hurts anyone without the Water Flying Cloth; StepGuard does not stop it (gf4-37-4). Prince level 23 Defeat (46436), Princess level 19 Explodet (46444)."
+    },
+    {
+      "n": 17,
+      "title": "The Cave to Rhone",
+      "areas": [
+        "Monolith_South_of_Rhone",
+        "Cave_to_Rhone",
+        "Heart_Crest",
+        "Shrine_of_Rubiss",
+        "Charm_of_Rubiss",
+        "Thunder_Sword",
+        "Armor_of_Erdrick",
+        "Wizards_Ring",
+        "Metal_Babble"
+      ],
+      "achievement_ids": [
+        46458,
+        46425,
+        46420,
+        115779,
+        115783,
+        116312,
+        115787,
+        116313,
+        46437,
+        46445
+      ],
+      "fact_ids": [
+        "gf4-39-13",
+        "gf4-39-14",
+        "gf4-39-34",
+        "gf3-74-1",
+        "ra-guide-8-7",
+        "gf2-23-7",
+        "gf3-74-4",
+        "gf2-22-1",
+        "ra-guide-8-3",
+        "gf3-75-4",
+        "gf4-41-6",
+        "gf2-23-1",
+        "ra-guide-8-8",
+        "gf4-41-7",
+        "gf-lists-10-18",
+        "ra-guide-12-9",
+        "gf2-23-16",
+        "gf4-43-4",
+        "gf-lists-9-34",
+        "gf2-26-40",
+        "gf2-23-9",
+        "gf4-42-8",
+        "ra-guide-12-10",
+        "ra-guide-13-13",
+        "ra-comments-71-2",
+        "ra-guide-13-14",
+        "ra-comments-71-3",
+        "gf2-21-14",
+        "gf2-27-43",
+        "gf4-33-18",
+        "ra-guide-13-17",
+        "ra-guide-10-9",
+        "gf-lists-5-48",
+        "ra-guide-8-2",
+        "ra-comments-23-2",
+        "ra-comments-23-3",
+        "gf2-22-16",
+        "ra-guide-8-9",
+        "ra-comments-71-7",
+        "ra-guide-13-11"
+      ],
+      "counters": {
+        "Crests": 1,
+        "Erdrick Equipment": 1
+      },
+      "notes": "Beran's portal behind the Jailor's Key door leads to the Monolith South of Rhone. Walk west to the swamp, stand in front of the mountain and have the HERO use the Eye of Malroth (46458; ra-comments-23-1/23-2). Cave to Rhone: take the stairs right of the entrance to the Chamber of Horks, Heart (Life) Crest chest in the lower right (46425). Cast Outside, sail to the one-tile Shrine of Rubiss and stand on the centre tile with all five crests for the Charm of Rubiss (46420). Return and cross the cave floor by floor (ra-guide-8-7): 1F right-side up stairs, 2F third path, 3F north-east stairs, 4F hidden pits - fall through for the Thunder Sword (115779); the 4F chest by the stairs holds the Armor of Erdrick (115783); 5F maze to the exit (116312). Wizard's Ring: Horks in the lowest basement drop it 1/128 (or the lottery's three Stars); use it in battle when MP is not full (115787). Metal Babble: the RA guide recommends waiting until the Cave to Rhone (or Hargon's Castle) because they are very tough to kill; they come alone here and usually flee on the first turn - defeat one (116313). Prince level 25 Revive (46437), Princess level 23 Open (46445)."
+    },
+    {
+      "n": 18,
+      "title": "The Rhone Plateau",
+      "areas": [
+        "Rhone_Shrine",
+        "Rhone_Plateau"
+      ],
+      "achievement_ids": [
+        46408,
+        46438,
+        46446
+      ],
+      "fact_ids": [
+        "gf4-44-10",
+        "gf3-80-1",
+        "ra-guide-3-23",
+        "gf2-24-4",
+        "gf2-24-5",
+        "ra-guide-4-1",
+        "gf3-80-4",
+        "gf3-80-5",
+        "gf3-80-6",
+        "gf3-81-18",
+        "ra-guide-10-9",
+        "ra-guide-4-2"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Save at the Rhone Shrine (heals, saves; do not use its south travel door, it goes back to Beran). Grind on the plateau: hero level 30 (46408), Prince level 28 Sacrifice (46438), Princess level 25 Chance (46446). Optional: the Sword of Destruction drop from Giants and the Falcon Sword attack exploit (ra-guide section 4)."
+    },
+    {
+      "n": 19,
+      "title": "Hargon's Castle and the Ending",
+      "areas": [
+        "Hargons_Castle",
+        "Atlas",
+        "Bazuzu",
+        "Zarlox",
+        "Hargon",
+        "Malroth",
+        "Malroth_PONR",
+        "Ending"
+      ],
+      "achievement_ids": [
+        46459,
+        46460,
+        46461,
+        46462
+      ],
+      "fact_ids": [
+        "ra-guide-8-10",
+        "gf2-25-7",
+        "gf4-46-1",
+        "gf2-24-10",
+        "gf3-82-3",
+        "gf2-25-3",
+        "gf4-47-6",
+        "gf4-47-13",
+        "gf3-82-16",
+        "gf4-48-3",
+        "gf2-25-10",
+        "gf3-83-1",
+        "gf2-25-11",
+        "gf2-25-19",
+        "gf3-83-6",
+        "gf2-25-17",
+        "ra-guide-9-4",
+        "ra-comments-33-6",
+        "gf3-81-17",
+        "gf2-24-7",
+        "ra-comments-33-5",
+        "ra-comments-1-6"
+      ],
+      "counters": {
+        "Crests": 0,
+        "Erdrick Equipment": 0
+      },
+      "notes": "Use the Charm of Rubiss at the castle to dispel the illusion. Climb the floors past Atlas, Bazuzu and Zarlox to Hargon (cast StepGuard before his room, gf2-25-7). Defeat Hargon (46459); leaving his room summons Malroth (46460). The ending returns you to Midenhall: when your father offers the throne, say NO first (46461), then the game finishes (46462). Saying yes first means beating Malroth again (ra-comments-33-5)."
+    }
+  ],
+  "unverifiable_achievement_ids": []
+}

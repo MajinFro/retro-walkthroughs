@@ -1,0 +1,1794 @@
+---------------------------------------------------------------------
+-   Dragon Warrior II Complete Game Info                       V1.65-
+-   by Dalez (dalez@intercom.net)                                   -
+-   Last updated  01/06/2001  09:35 PM                              -
+---------------------------------------------------------------------
+
+*** IMPORTANT NOTE ***
+
+  My E-Mail address has changed.  I can now be contacted via E-mail at
+  "dalez@intercom.net".
+  I apologize for any inconvenience this may have caused.
+
+
+TABLE OF CONTENTS
+
+I	Intro
+		Updates
+		Background of Dragon Warrior II
+		Story
+		Tips before you begin
+II	The Walkthrough
+		The Prince of Cannock
+		The Silver Key
+		The Princess of Moonbrooke
+		The Dragon's Horn
+		A Familiar World
+		The Search Begins
+		And Then There Were Two
+		The Path to Rhone
+		Hargon
+III	The Lists
+		Items
+		Weapons
+		Armor
+		Shields
+		Helmets
+		Magic Spells
+		Enemies
+		Experience Tables
+IV	Conclusion/Credits
+		Other FAQs by the same author
+
+
+*********************************************
+*         PART ONE:  THE INTRODUCTION       *
+*********************************************
+
+UPDATES TO THIS FAQ/WALKTHROUGH...
+
+V1.6
+------------
+Verified Enemy Stats List
+
+V1.4
+------------
+Added Thunder Sword to the walkthrough
+A little pointer on the Saber Lion fight
+
+V1.2
+------------
+Added general location of Thunder Sword
+Use for Gremlin's Tail (well, it's not really a use...)
+Added 'Water Flying Cloth' trick (see the section "The Path to Rhone")
+...and a little tip on beating Bazuzu
+
+V1.0
+------------
+Initial release of FAQ/Walkthrough
+
+	This is the Dragon Warrior II FAQ!  Contained within this document 
+is just about everything you need to know to complete Dragon Warrior II 
+for the Nintendo Entertainment System!  This file consists of a 
+walkthrough of the game as well as alphabetized reference lists.  Well, 
+here it is.  Have fun!
+
+---------BACKGROUND OF DRAGON WARRIOR II--------
+
+	Dragon Warrior II was originally known as Dragon Quest II in 
+Japan, just like its predecessor.  The original Dragon Quest was a huge 
+hit, and it very well started the whole console RPG line.  This sequel 
+is no less wonderful.  Released in the US in 1990, this game created a 
+complete world for you to explore, only this world is four times as 
+large!  That means more towns, dungeons, people, items, and monsters!
+
+	People who played the original Dragon Warrior knew that the game 
+was for the most part one big level-up.  Face it, you spent 80% of the 
+time getting level-ups and 20% of the time actually doing stuff.  This 
+game eliminated some of that by creating a more balanced system of 
+combat.  Now you won't nearly need to spend as much time getting level-
+ups, but by doing what you like to do best... exploring dungeons and 
+solving puzzles!
+
+	Now that we know a little bit about the game, it's time to dive 
+right in!  Welcome to the world of Dragon Warrior II!
+
+
+
+--------STORY--------
+
+	100 years ago, the kingdom of Alefgard was in a state of turmoil.  
+The Dragonlord, an evil man who had the power to control dragons at 
+will, had invaded Tantegel Castle, capital of Alefgard, and swiped the 
+Ball of Light from its keep.  This Ball of Light was a magical artifact 
+that kept the peace throughout the land, and once it was stolen, demons 
+and monsters ran amuck in the wilderness.  One town, Hauskness, was 
+destroyed.  It was proclaimed that the kingdom would soon be destroyed 
+and the Dragonlord would turn it into a land of demons.  But a young 
+warrior, a descendant of the legendary hero Erdrick, appeared.  He 
+obtained the three magic items that could make a bridge to the 
+Dragonlord's isle, and he defeated the Dragonlord and recovered the Ball 
+of Light.  Peace returned to the land, but now.... evil is again 
+stirring.
+
+	The forces of Hargon, an evil wizard, have taken the castle of 
+Moonbrooke by storm.  This land was far to the southwest of Alefgard.  
+Hargon's minions stormed the castle, destroying everything save the 
+princess, who mysteriously disappeared.  Only one soldier from the 
+castle was able to escape and make his way to the Castle of Midenhall.  
+There he told the king his tale... Hargon had destroyed Moonbrooke.  The 
+soldier died soon thereafter.  But the King of Midenhall is old; this 
+task must fall to younger hands.  Thus, he hands the quest down to his 
+son, the Prince of Midenhall.  This... is you.  Now you must go forth 
+and strike down Hargon before he turns the world into one of chaos.  But 
+this is not a journey that one can complete alone.  You must find 
+companions...  so you set off to find your cousin, the prince of 
+Cannock.  Together, you must go forth and defeat the wizard before he 
+destroys the world....
+
+
+
+--------TIPS BEFORE YOU BEGIN-------
+
+	-Probably the most important rule of all is... SAVE your game 
+frequently!  There are several places throughout the game where you can 
+SAVE... usually you must talk to a King or some other person.  They will 
+write your deeds on the Imperial Scrolls of Honor where they can be 
+retrieved later.  If you perish, you will be revived but half of your 
+GOLD will be taken.  It may or may not be a good idea to RESET the game 
+instead of losing your hard-earned cash ;)
+
+	-Another very important rule is... TALK TO EVERYONE!  No matter 
+how foolish a person looks, you can't afford to miss any valuable 
+information that he or she may have.
+
+	-Don't forget to equip your items!  A sword doesn't do you any 
+good just carrying it around in your backpack.  It won't jump out of 
+your bag and stab the enemy for you.  Just the same... armor, shields, 
+and helmets won't either.  You must EQUIP them!
+
+	-Don't overlook spells such as SLEEP and DEFENCE.  These can be 
+among the most potent of spells when used in the right situations.
+
+	-The lottery is just a game.  It is not good for you if you spend 
+your money on it and not for buying new equipment, items, etc...
+
+	-Don't be too greedy!  If you are in a dungeon and you are hurt, 
+don't hesitate to go back to a town and come back when you are rested.  
+The treasure will wait... there's no need in getting killed over it.
+
+	Well, that about covers everything.  Now, it's time to start the 
+adventure!  Are you ready?
+
+
+
+*********************************************
+*       PART TWO:  THE WALKTHROUGH          *
+*********************************************
+
+	This is where everything begins!  You will start in the throne 
+room of the castle of Midenhall.  The controls are very similar to those 
+in the first Dragon Warrior.  Press A to bring up the menu that has some 
+very useful commands on it...
+
+TALK -- This will allow you to speak with the various people of the 
+world.  You must be facing
+	  the person in order to talk to them!
+STATUS -- This brings up a detailed description of one of your 
+characters.  On this screen, you
+	    will see your character's Hit Points, Strength, Agility, 
+Attack and Defense, and 	      	    Experience.  You can also 
+see your current Gold, what equipment that character has on,
+	    and how many of the five crests you have obtained!
+SEARCH -- Use this command to search the area at your feet.  You never 
+know what you may find
+	    by searching!
+SPELL -- Use this command to cast one of the available spells that you 
+have.  Only the Prince of 	   Cannock and the Princess of Moonbrooke 
+may use magic.
+ITEM -- This allows you to use an item that a character is carrying.
+EQUIP -- This command is very important... it allows you to equip 
+weapons and armor!  You MUST 	   	   equip your weapons and armor in 
+order to use them -- as I said before, the sword will
+	   NOT jump out of your bag and stab the enemy on its own.  Note 
+that not everyone can
+	   equip all types of weapons and armor.
+
+	Press B to exit the menu.  It you wait a while, a mini-status 
+screen will show up displaying each character's Level, Hit Points, and 
+Magic Points!
+
+	And now, back to the game!
+
+
+
+--------THE PRINCE OF CANNOCK--------
+
+	Follow the king down the stairs and he will give you a treasure 
+chest.  Inside this chest is a COPPER SWORD and 50 GOLD.  Do not forget 
+to EQUIP the Copper Sword once you obtain it!  Once you get the 
+treasure, wander around and talk to the people of the castle to gain 
+information.
+	In the castle, there is a whirlpool-looking object across a 
+bridge.  This is called a Travel Door.  It can be thought of as a 
+teleporter... it takes you to a distant place.  In this case, it takes 
+you to a monolith in the middle of nowhere (quite literally).  This 
+travel door is useless (for now) but many others like it are vital in 
+getting from place to place!
+	Once you are done talking to the people at the castle, you may 
+want to check out the tool shop.  They sell herbs that can help you on 
+your journey!  And if you run low on HP, be sure to visit the INN and 
+rest.  There you can regain your HP and MP!
+
+CASTLE OF MIDENHALL
+
+Tool Shop
+---------
+Medical Herb	15 G
+Antidote Herb	8 G
+
+Inn -- 4 G
+
+	Once are you done at Midenhall, head out into the fields around 
+the castle.  Around here outside, you will fight enemies.  At this point 
+in the game you are weak, and you won't be able to go very far without a 
+risk of getting killed.  So for now, stay around the castle and fight 
+weak monsters (like SLIMEs -- heh) until you reach Level 3, going back 
+to the INN whenever your HP runs low.
+
+	At Level 3, you are strong enough to head a little ways farther 
+from Midenhall, but make sure to have a Medical Herb or two on hand.  
+Now, head back out and from Midenhall, go south and cross the bridge.  
+Continue to the south and you will come to a cape that streches out into 
+the ocean, almost like a finger.  On this cape there will be a small 
+monolith.  Enter it and you will find an old man and a locked door.  You 
+can't do anything with the door yet, but talk to the old guy.  He gives 
+you a hint on where to find the Silver Key.  Basically he says that the 
+Silver Key is in the Cave of the Lake, which is west of Cannock Castle.  
+He also warns you not to go inside this cave alone or you shall surely 
+be killed.  Remember this... when we find a companion we will need to 
+find this key!
+
+	OK.  You're done here.  Head back to the castle, go the INN, and 
+SAVE the game.  You may have heard in the castle that there is a town 
+called Leftwyne to the west.  This is your next destination.  From 
+Midenhall, just walk to the left, pass the desert and the swamp, and 
+you're there!  Just be careful not to walk through the swamp.  You will 
+take damage for every step you take in the poisonous marsh.  Just walk 
+around it.
+
+	The town isn't hard to find.  Once you reach Leftwyne, enter and 
+explore the town for information and browse the shops for equipment.
+
+TOWN OF LEFTWYNE
+
+Tool Shop
+---------
+Medical Herb	15 G
+Antidote		8 G
+Wing of Wyvern	80 G
+
+Inn -- 6 G
+
+Weapon Shop
+-----------
+Club			60 G
+Copper Sword	100 G
+Magic Knife		200 G
+Chain Sickle	390 G
+Chain Mail		480 G
+Leather Shield	90 G
+
+	You will want to buy a Leather Shield when you reach town.  Most 
+likely, that will be the only thing you will be able to afford for the 
+time being.  Once you buy whatever else you need, head back out and 
+fight around until you reach Level 5.  Then walk to Cannock Castle, 
+which is due north of Leftwyne.  You can't miss it... it is quite 
+literraly due north of the town :)
+
+	Cannock is home to one of your companions.  Unfortunately, you 
+will learn that the prince has left for the Spring of Bravery, which is 
+east of the castle.  (You'd think that the prince would be at the castle 
+where he belongs :p)
+
+CASTLE OF CANNOCK
+
+Tool Shop
+---------
+Medical Herb	15 G
+Antidote Herb	8 G
+Wing of Wyvern	80 G
+Fairy Water		40 G
+
+Inn -- 8 G
+
+	So, we better go look for him.  Make sure you have spoken with 
+everyone at the castle and bought any supplies you may need.  Then go 
+back outside and fight a couple of monsters until you reach level 6.  
+That way, you can ensure that you will come back from the cave alive.  
+:)
+
+	Once you have reached Level 6, it is time to head for the Spring 
+of Bravery.  You should save your GOLD until you have enough to buy the 
+best equipment at Leftwyne... that is to say, don't worry about buying 
+the Magic Knife even if you have enough GOLD to do so.  It's best to 
+wait until you can afford the Chain Sickle.  By the time you come back 
+from the cave, it's likely that you will have enough to buy it :)
+
+	Getting to the cave isn't hard (thankfully)... just head east from 
+Cannock Castle on the north side of the mountains.  Keep going and you 
+will hit another outstretched cape that juts out into the water.  Well, 
+it isn't really a cape, but it looks like one.  Anyway, cross the bridge 
+and you WILL find a cape flooded with forest area.  In the middle of the 
+forest area, you will see the entrance to the Cave that leads to the 
+Spring!  See, it wasn't that hard to find :p
+
+	Once in the cave, you really don't have a whole lot of options as 
+to where you can go.  Just follow the path.  Soon you will come to a 
+fork, where the cave branches off to the left to a dark room that you 
+can't see.  There is nothing in this room, so skip it and continue along 
+the path.  After a little while you will come to a patch of water and 
+here the cave branches in several directions... four, to be exact.  
+(Five, if you count the way you came from)
+
+	If you go up a tad and in the room to the right, there is a guy 
+who tells you a little about the Spring of Bravery.  Then go into the 
+room to the south of the spring to find a treasure chest that contains a 
+MEDICAL HERB.  Head up out of the room and then take the path directly 
+to the right.  Follow the long, winding path through several rooms and 
+you will find another chest which contains 15 GOLD.  Now, follow the 
+path back to the water room.
+
+	Now the only way left to go is up (yay!) so, go up!  Follow this 
+path and shortly you will reach the Spring of Bravery!  But the one 
+thing you will not find here is, well... the prince.  It turns out that 
+the prince left the spring some time ago for Midenhall Castle.  D'oh!  
+Well, at least there's another treasure chest over there.  Go ahead and 
+take the MEDICAL HERB from it...
+
+	Also, if you talk to the wizard and tell him that you are NOT 
+seeking the prince, he will anoint you will some of the water, which 
+will heal you!  He will also give you some information on the Token of 
+Erdrick.  After you get healed, make your way back to the entrance of 
+the cave and head back to Cannock Castle to get rested.  Now, take the 
+wizard's advice and head back to Midenhall Castle.  Maybe the prince is 
+still there!
+
+	But as luck would have it, when you get back to Midenhall, the 
+king tells you that you have just missed him.  He says that he probably 
+went to Leftwyne looking for you.  GREAT!  So, now head back to Leftwyne 
+before you lose him again!  (I thought his sister said he was a SLOW 
+traveler! :p)
+
+	Surprisingly, you will find the prince in the Inn of Leftwyne.  
+When you talk to him, he will join your party!  Now that you have two 
+party members, things will be a lot easier!  But the thing is, he starts 
+out at level 1 also.  You will want to spend some time around town 
+working him up some levels.  You will want to get him up to level 5 
+before going to the Lake Cave to look for the Silver Key.
+
+
+
+--------THE SILVER KEY--------
+
+	By the time you get the prince up to level 5, you should have 
+enough GOLD to buy both the prince and yourself a Chain Sickle.  You 
+should also get the prince a Leather Shield.  Now the only thing you 
+need to buy is 2 sets of Chain Mail, but that can wait until we get back 
+from the Lake Cave with the Silver Key.
+
+	As the man in the monolith at the beginning of the game said, the 
+Lake Cave is 'west of Cannock's Walls'.  In other words, from the castle 
+of Cannock, head west.  To the south you may see a monolith -- this 
+leads to the next part of the outer world.  You shouldn't go here yet 
+because you will need the Silver Key later in the game on several 
+occasions.  So continue to make your way west.  Eventually you will come 
+to the cave, which is situated on an island with a double-bridge leading 
+to it.  This is the Lake Cave!  Enter it and begin your search for the 
+Silver Key!
+
+	As you enter, you will notice that there are rooms to the north 
+and south.  In the south room you will find a treasure chest containing 
+a MEDICAL HERB.  The room to the north is empty, so ignore it.  Continue 
+to make your way west along the path and turn south.  That room to the 
+north is also empty.  Here the path forks yet again, with rooms to the 
+west and east.  In the east room there is a chest that contains 19 GOLD.  
+Exit this room and head into the west door. (the path leading south 
+leads to another empty room.)	 Continue the path through a couple of 
+doors and you will find a stairway leading down to B2.  Go down the 
+stairs!
+
+	As you enter, you will find a passage leading south, with many 
+rooms off to the side.  The first branch you come to leads west to an 
+empty room.  The next one down leads right to a room with a chest that 
+contains a MEDICAL HERB.  The third branch leads to the left to another 
+empty room.  Well, it isn't EMPTY, it has water in it... but how much is 
+water gonna help you? :p
+
+	Continue south along the path.  There are now two more branches -- 
+west and east.  First go left to pick up an ANTIDOTE HERB.  The right 
+room is empty, so don't bother!  :)  The final branch leads left to a 
+room with 2 treasure chests... grab them to get a WING OF WYVERN and 33 
+GOLD.  Now exit this room and enter the room to the south.  The path 
+will pass through a few rooms and you will come to the last treasure 
+chest.  Open it to find... the SILVER KEY!  YAY!  Now I know you are 
+probably hurt and itching to get out of this place so hurry up and make 
+your way back out of the cave!
+
+	Whew!  That was close.  Go back to Cannock ASAP for some much 
+needed rest!  It's a good thing you had your companion along, right?  :p
+
+	By now you are probably at level 8 and the prince is probably at 
+level 6 or 7.  You should go back to the Lake Cave and fight some 
+enemies to gain enough GOLD to purchase those two suits of Chain Mail 
+before you leave for the next part of the world.  You'll want to make 
+sure you have the optimum equipment before you move from one part of the 
+quest to the next!  It'll help you out a lot :)
+
+
+
+--------THE PRINCESS OF MOONBROOKE--------
+
+	Now it is time to leave this part of the world and continue on to 
+bigger and better things!  While you were traveling to the Lake Cave you 
+probably noticed a monolith to the south.  This is a passageway to the 
+'mainland' and you are only allowed to take it if you have a companion 
+with you.  Since you are journeying with the Prince, you are allowed to 
+take the tunnel.  Go down the stairs and you will find yourself in what 
+would appear to be a normal dungeon.  But it's just a tunnel... don't 
+panic :p
+
+	Although it IS just a tunnel, there is a right way to go and a 
+wrong way to go.  If you go the wrong way you will find yourself on an 
+island in the middle of the river that separates the island of Midenhall 
+and Cannock from the mainland.  To get through the tunnel, just go 
+straight down from the stairs -- not too hard, right?
+
+	Yes, well... back out in the open you should head south (hmmm... 
+there's nowhere else to go :))  and after quite a lengthy walk you will 
+come upon the town of Hamlin.  As always, you will want to wander 
+around, talking to everyone, and browsing around in the shops as well.  
+This town also features a Lottery -- a game where you can win items (if 
+you're lucky).  To play, you must have a Lottery Ticket.  There are two 
+ways to get Lottery Tickets -- you may find them after battle (or in a 
+chest), or sometimes when you buy an item from the tool shop, the 
+merchant will give you one as a 'side bonus'.  Just a little incentive 
+to keep you buying worthless items from the Tool Shop...
+
+INN -- 12 G 
+
+TOOL SHOP
+---------
+MEDICAL HERB       15 G
+ANTIDOTE           8 G
+WING OF WYVERN     80 G
+FAIRY WATER        40 G
+
+WEAPON SHOP
+-----------
+CHAIN SICKLE       390 G
+IRON SPEAR         770 G
+BROAD SWORD        1500 G
+CHAIN MAIL         480 G
+FULL PLATE ARMOR   1000 G
+STEEL SHIELD       2000 G
+
+LOTTERY
+-------
+PRIZE #1 = 3 SUN SYMBOLS = GOLDEN CARD
+PRIZE #2 = 3 STAR SYMBOLS = WIZARD'S RING
+PRIZE #3 = 3 MOON SYMBOLS = WIZARD'S WAND
+PRIZE #4 = 3 WATER SYMBOLS = DRAGON'S BANE
+PRIZE #5 = 3 HEART SYMBOLS = MEDICAL HERB
+
+	Walking around town, you will also probably notice a dog that 
+follows you around when you talk to it.  No, she's not lonely, but she 
+is defintely trying to tell you something.  Etch the location of this 
+cute doggie into your memory because you will need to come back here 
+later.
+
+	Our next task is to head to the tower that is far to the south of 
+Hamlin and get the Cloak of Wind.  With it, we will be able to jump from 
+great heights without getting hurt... for instance, we can jump from one 
+tower of the Dragon's Horn to the other (just as a hypothetical 
+example... hee hee).  Well, there IS new equipment in the shops just 
+waiting to be bought and the enemies around (and in) the tower are 
+pretty strong, so head out and chop up monsters for a while and buy an 
+Iron Spear for the Prince and some Full Plate Armor for yourself.  It 
+may seem like a lot of money to be raising, but it is worth it in the 
+long run.  Trust me... :)
+
+	Well by the time you get those two pieces of equipment, it is 
+likely that you will be at least level 11.  Getting to the tower is hard 
+enough, let alone having to go all the way through it, so buy plenty of 
+Medical Herbs.  From the town of Hamlin, head east.  Don't cross the 
+bridge; instead, walk north along the river.  As you walk, you'll come 
+across another bridge.  Cross it and head south.  Follow the winding 
+path that leads along the coastline, making sure to watch out for 
+BABOONs along the way -- they're pretty tough.  After a while of 
+walking, you will come back out in the forest.  Take the first bridge 
+you come to, then take another bridge south.  Take the next two bridges 
+take the grassy path that leads west.  Before long, you will come across 
+the tower (finally!).
+
+	But unfortunately, getting there is only half the problem.  
+Actually going through the tower is probably even worse.  There are 
+three stairways leading up on the first floor.  First walk to the 
+intersection where the first stairway is, and continue south and into 
+the room on the right.  There is a chest there that contains a MEDICAL 
+HERB.  You'll need all the healing items you can get your hands on, so 
+pick it up!
+
+	The stairway in the first intersection and the stairway to the 
+southwest are connected, and lead all the way up 7 floors to a dead end.  
+In other words, don't take them.  Instead, take the stairs in the 
+northeast corner of the first floor.  A man there warns you not to walk 
+off the edge of the tower.  If you do, you will fall all the way back 
+down outside the tower.  Although this is useful when you want to exit 
+quickly, it is very annoying if you accidentally walk off on the sixth 
+floor right before you get the treasure you are looking for.  :(
+
+	Follow the path left and take the stairs in the northwest corner 
+of floor 2.  Then head down, stopping to pick up the 48 GOLD that is in 
+the chest along the way.  In the southwest corner of floor 3, there are 
+more stairs leading up.  On Floor 4, head east and you will find a set 
+of stairs in the middle of the southern path.  Take them and follow the 
+path up through floor 5 and back down to 2 where you will find the Cloak 
+of Wind!
+
+	Now we are technically done with the tower.  Way up top on the 9th 
+floor is a treasure chest, but it is empty.  It is NOT worth it to 
+travel all the way up to floor 9 to get an empty treasure chest, unless 
+you are healthy and need the EXP/GOLD.  When you are done, walk off the 
+edge of the tower and cast the spell of RETURN.  You should find 
+yourself back at the entrance to the town of Hamlin.
+
+	*WHEW*!  That was close.  But now we have the 'Cloak of Wind'.  Go 
+into the ITEM menu and USE it, just like you would a medical herb or 
+something.  You will put on the Cloak of Wind.  Now we're good to go 
+again!  Well, now it's time to seek out the third party member, the 
+princess of Moonbrooke.  The castle of Moonbrooke is to the southwest, 
+so head there but don't go into the castle just yet.  Instead head south 
+and east, back in the direction where the tower was.  As you walk you 
+should come across a small section of swamp.  Walk to the northeast 
+corner of the swamp (ugh) and SEARCH.  There, you will find the Mirror 
+of Ra!  Now, use the RETURN spell again and head back to the town of 
+Hamlin.
+
+	Remember that cute little doggie?  Well, you better.  Go back into 
+town and find our canine friend, and use the Mirror of Ra.  The mirror 
+shatters, and the dog magically transforms into the Princess of 
+Moonbrooke!  Now that the spell placed on her has been broken, she is 
+free to join your party.  *YAY*!
+
+	Unfortunately, the princess also starts out on level 1, so you may 
+want to fight around for a little while and let her gain a few levels.  
+You should also buy a BROAD SWORD and a STEEL SHIELD for the hero before 
+you leave this area.  The tower is a good place to go to get EXP and 
+GOLD, but just be careful.
+
+	Once you have all the necessary equipment, and the princess is at 
+level 4 or 5, then we can head outta here and get on with the adventure!  
+:)
+
+
+
+--------THE DRAGON'S HORN--------
+
+	Before heading off to the Dragon's Horn tower, it might be a good 
+idea to check out what's left of the Castle of Moonbrooke.  When you 
+enter, you'll find that the castle is in pretty bad shape.  There are 
+damage zones (swamp) all over the place so watch where you step.
+
+	There are 'flames' walking around the castle.  Upon talking to 
+them, you will find that they are the ghosts of the people who used to 
+be at the castle.  You will also find the ghost of the King in the 
+throne room.  There are two treasure chests in the castle, but they are 
+both empty.  If you go up to the northwest corner, you'll find yourself 
+on the outside of the room in the middle of the swamp.  Head south along 
+the outer edge of the castle, healing yourself as you go.  Near the 
+bottom, enter the room again to the right and take the stairs leading 
+down.  This guy is the only person left alive in the entire castle.
+
+	Well, there's no reason for us to hang around here any longer.  
+Exit this wasteland of a castle and continue to the west.  Take the 
+bridge south and entire the monolith.  Take the other stairs and you 
+will be on the other side of the river.  Continue to the north and west, 
+through a huge desert.  After walking for what seems like forever, you 
+will come across the Dragon's Horn tower.  You'll see that the Dragon's 
+Horn is really two towers, but a river divides them.  The idea is that 
+with the Cloak of Wind, you can jump from the south tower over to the 
+north side.  I recommend that you be at least level 13 before entering 
+the tower.
+
+	The inside of the tower really isn't that complex.  Just continue 
+upward, making sure that you don't fall into the big pit that leads all 
+the way back down to the first floor.  When you reach floor 6, jump off 
+the north edge of the tower, and voila!  You will find yourself on the 
+north side of the river.  Easy enough, right?
+
+	Now that you're back on good old ground again, head north and east 
+to the town of Lianport.
+
+INN - 20 G 
+
+TOOL SHOP
+---------
+MEDICAL HERB 	15 G
+ANTIDOTE		8 G
+WING OF WYVERN	80 G
+FAIRY WATER		40 G
+DRAGON'S BANE	640 G
+
+WEAPON SHOP
+-----------
+MAGIC KNIFE		250 G
+BROAD SWORD		1500 G
+WIZARD'S WAND	2500 G
+FULL PLATE ARMOR	1000 G
+CLOTHES HIDING	1250 G
+STEEL SHIELD	2000 G
+
+	In the tool shop, you'll find a new item -- the Dragon's Bane.  
+This item is very similar to the Dragon Scale in Dragon Warrior I.  When 
+you put this on, your defense will increase slightly.  It is a good buy 
+for each one of your members, even if it is a little expensive.  You 
+don't have to worry about it just yet, but you will want to buy one for 
+everybody as soon as you can.
+
+	You will also find some equipment for the Princess here -- the 
+Wizard's Wand and the Clothes Hiding are both a must.  If you are REALLY 
+lucky, you can win the Wizard's Wand in the lottery without having to 
+cough up 2500 G for it, but don't count on winning it easily.  After 
+all, it IS the lottery...
+
+	You will also find that there is a girl who is surrounded by 
+demon-like creatures.  When you enter the area, two GREMLINs charge and 
+attack you.  You will want to make sure that you are fully healed before 
+entering the fight, because these guys are rather tough.
+
+	When you take care of those two pesky fiends, the girl will 
+graciously thank you and ask you to follow her to meet her grandfather.  
+He will also thank you graciously and give you a fine present -- his 
+ship!  Now we can sail the ocean and open up many new places to explore.  
+Not bad!
+
+	When you board the ship, go down and open that locked door with 
+the Silver Key.  Inside is a merchant who tells you of a pirate ship, 
+named Relentless, that sank near Lianport.  There was a great treasure 
+aboard that ship, and he offers you a handsome reward if you can find 
+that treasure for him!  Hmmm.... a reward?  Let's check it out!
+
+	* NOTE * FYI, there is a monolith to the northwest of Lianport.  
+Unfortunately, there is a locked door inside that requires the Golden 
+Key to open.
+
+	Board the ship and exit the town.  Follow the coastline north.  
+Then, head several steps to the east and then go due north.  You should 
+see a patch of water that is white instead of blue.  Look around, it is 
+not far to the northeast of the town of Lianport.  When you find it, 
+position the ship so that the patch of water is directly above you.  
+Then SEARCH.  Your character will dive into the sea and come up... with 
+the treasures!  Ding ding ding!  JACKPOT!!!
+
+	Take the treasures back to the merchant in Lianport and he will 
+give you a valuable item in return.  This item is the ECHOING FLUTE.  
+This item can be useful in finding the five crests that are scattered 
+throughout the world.  When you blow this flute in an area where there 
+is a crest, the flute will echo.  Well it may not be as good as 
+treasure, but it'll do :P
+
+	Now would probably also be a good time to finally get the Golden 
+Key.  Head back to the town of Lianport.  Follow the coastline back to 
+the northern edge of the island and head to the northwest.  You should 
+come across a very small island with a town on it and a monolith on an 
+island that's even smaller.  This monolith may look to familiar to you.  
+Yeah, this is that 'monolith in the middle of nowhere' that you were 
+thrown to when you entered the travel door back in Midenhall Castle.  
+Anyway, for now, enter the town of Zahan.
+
+INN -- 30 G
+
+TOOL SHOP
+---------
+MEDICAL HERB	15 G
+WING OF WYVERN	80 G
+FAIRY WATER		40 G
+DRAGON'S BANE	640 G
+
+	Note that in the northern section of town that there is a VERY 
+VERY big section of damage zones.  DO NOT enter this place unless you're 
+looking for an easy death.  Besides, you need the Jailor's Key which we 
+don't have yet to even get through the doors.  Instead, talk to the dog 
+in town.  The dog will run over to the tree and start barking.  Could 
+this be a sign?  Well, position yourself on the tree that the dog is 
+sniffing and SEARCH.  You'll find the Golden Key!  Now there are several 
+things we can go back and get.  First of all, there are some things in 
+Midenhall Castle.  Well, that monolith really IS there for a reason!  
+Enter it and take the travel door back to the town.  Open the wooden 
+door with the Golden Key to get the room where the 5 treasure chests 
+are.
+
+	You will find the TOKEN OF ERDRICK, a WING OF WYVERN, a MEDICAL 
+HERB, and 112 GOLD within the chests.  The token was the real reason for 
+coming here, so we're done here.  Before you go back through the travel 
+door, however, take a quick trip back to Cannock Castle.  There is also 
+a golden key door in here that can be opened to obtain one more chest.  
+This chest contains the SHIELD OF ERDRICK, which is a nice shield for 
+the hero to wear!  Now head back to Midenhall Castle and re-enter the 
+Travel Door.  Re-board the ship and head back to Lianport!
+
+	Also, we can get the SUN CREST now that we have the Golden Key.  
+Remember that monolith I told you about that is northwest of Lianport?  
+Well, head there.  Open the door with the Gold key and head through the 
+travel door.  You will now be in a room with 3 travel doors.  Walk to 
+the right and over the square that looks like an X.  Walk around the 
+outside of the room and search when you get to the northeast nook.  You 
+will find the SUN CREST!  1 down, 4 to go!  Now, head back to Lianport 
+once more.  We're finally about to leave this place!
+
+
+--------A FAMILIAR WORLD--------
+
+	Now get BACK into the ship and head due east.  When you exit, you 
+might notice a very familar tune start to play.  Now you are on the 
+island of Alefgard.  Those of you who have played the original Dragon 
+Warrior will find that the island is basically the same, except for the 
+fact it is smaller and there is only one town left.... the town/castle 
+of Tantegel.
+
+	When you enter the castle, you will find a rather strange sight... 
+the King is not in the throne room.  Hmmm... that IS strange.
+
+INN -- 2 G
+
+WEAPON SHOP
+-----------
+BROAD SWORD		1500 G
+GIANT HAMMER	4000 G
+WIZARD'S WAND	2500 G
+CLOTHES HIDING	1250 G
+STEEL SHIELD	2000 G
+IRON HELMET		3150 G
+
+TOOL SHOP
+---------
+MEDICAL HERB	15 G
+ANTIDOTE HERB	8 G
+WING OF WYVERN	80 G
+FAIRY WATER		40 G
+DRAGON'S BANE	640 G
+
+	You can hold off on buying any new equipment for the time being.  
+It's pretty expensive and you will find better stuff soon anyway.
+
+	In the town, you will also find an old man who lifts curses (he 
+should be familiar also :)).  Remember where he is in case you happen to 
+put on a cursed piece of equipment.
+
+	There is also a locked door that can be opened with the golden 
+key.  Inside is a woman who is a seamstress who is seeking the Dew's 
+Yarn.  She tells you that the Dew's Yarn can be found on the third floor 
+of the north Dragon's Horn tower.
+
+	Also, if you go upstairs in the weapon shop you will find the 
+King, who is hiding from the monsters.  You will need to use the Gold 
+Key again to get into the room and talk to him.  Well we might as well 
+go that blasted Dew's Yarn before I forget about it, so for the time 
+being sail back to Lianport and head back south to the north Dragon's 
+Horn Tower.
+
+	Head up the the third floor.  The Dew's Yarn is, from the stairs 
+leading down, 5 steps right and 2 steps down (in the corner).  Search 
+and you will find the Dew's Yarn!
+
+	Now that our business here is done, get outta here and sail back 
+to Tantegel Castle.  The sewing lady can't do anything with the yarn, so 
+hold on to it.  You may want to hang around the castle and build your 
+levels if you haven't done so lately.  The inn in Tantegel is the best 
+bargain in the land... only 2 GP per person!  Can't beat that!
+
+	Once you feel confident that you have acquired enough experience 
+for time being, get back into the ship and sail around the island of 
+Alefgard and get on the eastern side of it.  Bring your ship in so that 
+it is in the river that divides Tantegel Castle and Charlock Castle, 
+which was the former home of the Dragonlord.  That way, you can easily 
+get from one castle to the other without having to travel all over the 
+island.  (It would have been so easy if you had a ship in DWI, huh?)
+
+	Before you head to Charlock, though, head east a tad.  You will 
+see the swamp cave that is the only other way to get from the north side 
+of Alefgard to the south.  But since you have the ship, the cave is 
+useless... anyway, get off the ship on the south side, on the area which 
+was formerly known as Rimuldar.  Go to the very southern tip of this 
+island and you will find... *gasp*  ANOTHER monolith!  Inside is an old 
+man who will trade you the HELMET OF ERDRICK for the TOKEN that you 
+found in Midenhall Castle.  Awesome!  Have the hero put it on right 
+away!
+
+	OK, now that we're done exploring around Alefgard, head back to 
+Charlock Castle.  Before you go, make sure you are level 14 or 15 
+(preferably 15).  The enemies in Charlock are rather tough as well!  
+
+	You may also notice that the layout of Charlock Castle isn't much 
+different either.  Hmm....  When you enter the 'castle', you'll actually 
+find yourself in a dungeon.  Follow the winding path and soon you will 
+come to a stairway leading down.  Take it.  As you walk around the 
+outside of B2, you will see a treasure chest in an enclosed room in the 
+middle of the floor.  There is a very important item in that chest (you 
+DWI veterans know what it is :p)!  When you reach the other side of the 
+floor, take the next stairway down to B3.
+
+	The first stairway you come to will be in sort of an open area... 
+ignore it.  Instead head west and down the other stairway.  On B4, you 
+will find another stairway in the upper-right corner that looks sort of 
+like the other one on B3.  Ignore it too... these two stairways connect 
+(eventually).  All that's left is one stairway going up and one stairway 
+going down.  Take the one going up.  Follow the path, up and down 
+stairs, until you finally come out in the middle of B2 where that 
+treasure chest is.  Open it, and you will find the SWORD OF ERDRICK!  
+This weapon should be equipped immediately.
+
+	Take the stair-ridden path back down to B4 and take the stairs 
+leading down.  Continue along the path and finally, on B7, you will come 
+across the former lair of the Dragonlord.  But looking around you will 
+notice that there is somebody here!  It's a risky maneuever, but head 
+through the damage zones and unlock the door with the Golden Key.  You 
+will find a WING OF THE WYVERN, 124 GOLD, a LOTTERY TICKET, and a 
+MEDICAL HERB among the four treasure chests!  Now, head back through the 
+damage zones (ouch -- hope you have good healing spells) and find out 
+who the heck that is sitting on the Dragonlord's throne.
+
+	Actually, it is the Dragonlord's grandson.  Instead of attacking 
+you, he actually gives you some advice if you say you are going to 
+destroy Hargon (which is what this quest is all about, right?).  He 
+tells you to seek out the wizard Rubiss who lives in a cave on an 
+isolated island... once you have found the five crests.  Well, the 
+crests aren't just gonna come to us, so might as well get going.  Cast 
+OUTSIDE and get out of this place and take the ship back to Tantegel for 
+a much-needed rest.
+
+	Now, it's time to get those blasted crests.  It's a rather long 
+way, but head back to the town of Zahan.  Enter the monolith and take 
+the travel door back to Midenhall Castle.  Talk to the king and SAVE the 
+game, then go outside and cast RETURN.  You won't go anywhere but your 
+ship will appear right next to you.  Get in your trusty vessel and head 
+south, towards that monolith on the cape.  Continue to the south and you 
+should come across an island that is almost completely surrounded by 
+mountains and shallows.  There is only one inlet allows you to get into 
+the island, so sail right in and park your ship in the pond.  Then head 
+for the castle of Osterfair.
+
+
+
+--------THE SEARCH BEGINS--------
+
+CASTLE/TOWN OF OSTERFAIR
+
+INN - 25 G
+
+WEAPON SHOP
+-----------
+BROAD SWORD		1500 G
+GIANT HAMMER	4000 G
+DRAGON KILLER	8000 G
+CLOTHES HIDING	1250 G
+MAGIC ARMOR		4000 G
+IRON HELMET		3150 G
+
+	You probably can't help but notice the two treasure chests in the 
+weapon shop, huh?  Well walk around the area outside the town and you 
+will see a travel door in the lower left-hand corner.  You will see an 
+open area to the right which you can't enter.  What you can't see is 
+that there is a locked door right there.  Use the Golden Key and you 
+will find yourself 'inside' the weapon shop where the chests are.  Open 
+them up to find a MAGIC KNIFE and the ARMOR OF GAIA, which should also 
+be equipped immediately.
+
+	You should also buy some Magic Armor for the prince at some point.  
+That chain mail is really starting to get old.  The Dragon Killer is 
+also a nice piece of equipment; it's even better than Erdrick's Sword!  
+But 8000 G is a lot of money, so you can skip it for the time being.
+
+	When you talk to the King, you will challenge you to "entertain" 
+him.  If you say 'yes', then you will go to the center of the coliseum 
+and he will unleash that ferocious dog from it's cage.  What you don't 
+know is that is really a SABER LION, and he's pretty tough too.  Well, 
+it turns out that spells really don't work that well against him, so 
+save your MP for healing instead.  (Thanks to Blood Scourge 
+<bscourge@yahoo.com> for pointing this out.)  When you do defeat him, 
+the King will give you a nice prize -- the MOON CREST!  That makes two 
+out of the five that we now have.  You may want to go to the INN and 
+rest if the Saber Lion gave you trouble.  Now we're done here as well, 
+and it's time to head back out again!  You will probably want to hang 
+around the castle here and build some more levels before heading out 
+again.  You should level up to 16 and make sure that the Prince has that 
+Magic Armor before leaving.
+
+	Well now it's time to get that Jailor's Key... the one that we 
+need to open up the iron barred doors.  From the castle of Osterfair, 
+head due south and you should see a small island (it has a monolith on 
+it as well).  From that island head slightly south and to the west.  You 
+will find an island that is nothing but desert... with a single tree in 
+the middle.  If you walk onto the tree and search, you will find a LEAF 
+OF THE WORLD TREE.  You will want to get a couple of these, as they will 
+allow you to bring a dead character back to life!
+
+	Now, head west and exit your ship on the next island.  Walk west 
+through the forest and you'll reach the town of Wellgarth.  When you 
+enter, you'll notice that there is nobody here except a man and a dog, 
+and one little house.  Open the door to the house with the Golden Key 
+and go down the stairs.  Ah-ha!  This is where everyone is!  An 
+underground town... strange!
+
+INN - 40 G
+
+TOOL SHOP
+---------
+MEDICAL HERB	15 G
+ANTIDOTE HERB	8 G
+FAIRY WATER		40 G
+DRAGON'S BANE	640 G
+
+TOOL SHOP 2
+-----------
+MEDICAL HERB	15 G
+ANTIDOTE HERB	8 G
+JAILOR'S KEY	2000 G
+WING OF WYVERN	80 G
+
+WEAPON SHOP
+-----------
+GIANT HAMMER	4000 G
+DRAGON KILLER	8000 G
+LIGHT SWORD		16000 G
+MINK COAT		65000 G
+STRENGTH SHIELD	21500 G
+IRON HELMET		3150 G
+
+	The first thing you're probably thinking is "Holy @#$&!  This 
+stuff is expensive!  Especially that Mink Coat!"  OK.  I'll agree there.  
+The prices are outrageous, but you can buy some of the best equipment in 
+the world here.  First, go to the tool shop (the second one).  You will 
+see a mysterious space where there should be an item, but isn't.  When 
+you select this item  (which is really the Jailor's Key), you will pay 
+the 2000 G (if you have it), and now you have the shiny new Jailor's 
+Key!  Now that we have this, there is a dirty trick we can play to get 
+ALL the money we want... HEH HEH HEH
+
+	(DIRTY TRICK)  ...and boy is this DIRTY!  With our new key, head 
+back to Midenhall Castle.          
+Enter the basement through the stairs leading down (you'll need to use 
+the Silver Key to open the door).  You'll find yourself in the prison.  
+Open the door with the Golden Key and brace yourself for a shocking walk 
+through the damage zones.  Open the cell containing the priest-looking 
+guy with the Jailor's Key and HEAL YOURSELF!  When you talk to the guy, 
+he turns into a monster.  The Evil Clown really isn't that hard, but you 
+want to be careful.  When you defeat him, you'll get the STAFF OF 
+THUNDER.  Now, go to the tool shop in Midenhall and sell this staff for 
+a whopping 19,500 gold pieces!  But that's not the dirty part.  Go up to 
+the king and save the game.  Then reset the game, load your adventure 
+back up, and go back down to the basement.  Guess who?  The old man is 
+back and you can kill him again and get another Staff of Thunder.  
+Continue selling these things and you'll have max gold in no time!  Now 
+getting all that expensive equipment is nothing!  And don't forget to 
+keep an extra Staff of Thunder so the princess can equip it.  Not only 
+does it sell for a lot of gold, it's an awesome weapon as well!
+
+	Now go back to Wellgarth with your new-found wealth.  The only two 
+things you really need to buy here are the Dragon Killer for the hero 
+and the Shield of Strength for the prince.  The Shield of Erdrick is 
+still better, so don't buy a Shield of Strength for the hero, and don't 
+even think about wasting 65,000 GP for the Mink Coat unless you really 
+want to spend time getting the money for it (although it probably won't 
+take you long).  There is something that's better than the Mink Coat and 
+a heck of a lot easier to get, so don't waste your time or money on it.  
+There is one another thing we can do here before leaving.  Head to the 
+prison (it's a building on the right) and the soldier will tell you that 
+he was holding a guy called Roge Fastfinger here, but he escaped.
+
+	Open the door with the Golden Key and you will see two cells, one 
+of the left and one on the right.  The one on the right is empty, so you 
+can figure it must have been the one holding the thief.  But what the 
+jailor didn't know was that there is a secret passage in the wall in the 
+cell that was holding him.  Use the Jailor's Key to get into 
+Fastfinger's cell and exit through the wall on the right.  There you'll 
+find none other than Roge Fastfinger.  He realizes that he has been 
+caught and gives back the WATERGATE KEY that he stole.  Hold on to this, 
+you'll need it later!  Once you gotten this and have all the equipment 
+you need, head back to the town of Hamlin.  If you don't remember how to 
+get there, just sail back to Midenhall and go southwest.  It'll be 
+around there somewhere :)
+
+	In Hamlin, you'll find yet another door that is locked and needs 
+to be opened with the invaluable Golden Key.  Inside you will find two 
+demons locked up behind two barred doors.  Well, this probably isn't the 
+right thing to do, but open up one of the doors and talk to the demon.  
+They'll attack.  Kill them off and then go to the upper-right hand 
+corner of the cell and SEARCH.  You'll find the WATER CREST!  Great!  
+That's three of the five crests we have now.  But, unfortunately, those 
+last two are going to be the hardest ones to get.  Now, get back in your 
+ship and head all the way back to the town of Wellgarth.  Hope you still 
+remember where it is :p
+
+
+
+--------AND THEN THERE WERE TWO--------
+
+	Yep, two more crests left.  If you have a really good memory 
+you'll remember a guy in Hamlin who said "On an island in a tower in a 
+chamber remote, play the Echoing Flute, a wise man once wrote...".  In 
+other words, there is a crest on a tower somewhere.  First, head around 
+the town of Wellgarth and follow the coastline under the town.  
+
+	Now, navigation is very tricky.  Follow the coastline all the way 
+around and you will pass a big-ol' area of nothing but mountains.  As 
+the coastline starts heading up to the north, continue to the west.  
+Here you will find another island that is almost completely surrounded 
+by mountains (but not quite!).  In the southwest area of the island, you 
+will find an area where you can park.  There you will find a town that 
+is in a desert enclosed by a lake (kind of like the island of 
+Rimuldar?)... this town is called Beran.
+
+WEAPON SHOP
+-----------
+GIANT'S HAMMER	4000 G
+WIZARD'S WAND	2500 G
+DRAGON KILLER	8000 G
+STEEL SHIELD	2000 G
+STRENGTH SHIELD	21500 G
+IRON HELMET		3150 G
+
+TOOL SHOP
+---------
+MEDICAL HERB	15 G
+ANTIDOTE HERB	8 G
+WING OF WYVERN	80 G
+FAIRY WATER		40 G
+
+INN - 30 G
+
+	Actually, there's nothing really of interest here.  Hmmm...  well, 
+anyway, how about that tower?  Yeah, that's it...
+
+	Boy, that damned tower is hard to find!  Bbb-b-b-b-b-b...  Anyway, 
+head back to Alefgard.  Go to the Holy Shrine (which is in the southeast 
+corner of the continent).  From there head south and a little to the 
+west.  You should then find the tower on an island.  (Does this tower 
+have a name?)  Oh well, enter the "island tower" and begin your search 
+for the fourth magic crest.  Oh, and you should *probably* be level 18 
+by now?  If not, I wouldn't worry too much, just do a little level 
+building in the tower or something.
+
+	When you first enter the tower go left as far as you can, until 
+you hit the wall.  Then, head south as far as you can, again, until you 
+hit the wall.  Then go east as far as you can, then go north.  You'll 
+end up in the middle area where the room is.  You'll find only one 
+entrance, so enter and you'll find a 4-way intersection with a stairway 
+in the middle.  Ignore the stairs (for now) and go north.  You'll find a 
+treasure chest which contains 43 GOLD.  Go back south and walk around 
+the rooms a little bit.  You'll find that there are actually 4 stairways 
+leading up.  Head up the stairway in the southeast corner and take the 
+passageway up the stairs all the way up to floor 5 to get a treasure 
+chest containing a CHAIN SICKLE.  Now go back down to the first floor.
+
+	Now take the southwest staircase.  Follow the path (there is only 
+one way to go -- both paths connect) and take the stairs up.  As you 
+walk on floor 3, you'll pass by another staircase.  Take this one and 
+head south.   Here you'll find stairs up to floor 5 but first head into 
+the room on the right to get 127 GOLD.  Take the stairs up to floor 5 
+and go south a little ways and into the room on the right.  Follow the 
+path and eventually you'll reach another chest that contains some FAIRY 
+WATER.  Go back down to floor 3 and head east.  Along this path, you'll 
+find a door that is locked with the Golden Key.  Open it and take these 
+stairs up to floor 4.
+
+	Follow this path until you reach floor 8 (the top floor).  Here 
+you will find a man who tells you where Hargon is hiding -- in a castle 
+in a land called Rhone, which is in the middle of the continent that is 
+completely surrounded by mountains.  Oh well...
+
+	Now, head back down to floor 4.  In the northwest corner of floor 
+4 is a stairway that leads up to floor 5 (what a surprise!).  Follow 
+this path and on floor 6 you will find another door that is locked with 
+the Golden Key.  Then head to the northwest corner of this floor and go 
+up to floor 7.  Here you will find a demon wandering around.  Approach 
+him and he will flee south.  Enter where the demon disappeared and you 
+will find an old man.  When you talk to him, he will say that he knows 
+why you are here and tells you to follow him.  So, follow him!
+
+	Follow the old man and he will take you all the way back down to a 
+remote room in floor 2, which contains one treasure chest.  But upon 
+opening the chest, you will find that you have stepped directly into a 
+trap!  The old man turns into a demon and three others appear as 
+reinforcements.  Defeat the four gremlins and the STAR CREST will be 
+yours!
+
+	*WHEW*!  Now let's get outta this stinkin' tower!  Cast 'OUTSIDE' 
+and return to a town to rest and save your game!
+
+	Yay!  Now there's only one crest left!  And, as you probably could 
+guess, this last one is going to be the hardest one of all to get.  
+Before going any further, you should build your levels some more and 
+reach level 20.  You'll need all the strength you can get to face the 
+trials ahead -- we're about to face the toughest dangers yet!
+
+
+
+--------THE PATH TO RHONE--------
+
+	The path to Rhone is a very complicated one.  The entrance is 
+hidden, and the only item that will allow you to unveil the entrance is 
+the Eye of Malroth.  The Eye is hidden in a cave in the middle of the 
+ocean (you may have spotted it already), but the cave is surrounded by 
+shallows and you can't get in.  You need the Moon Fragment to change the 
+tide so that you can get into the cave.  The Moon Fragment is hidden in 
+a tower, but to get to the tower you need to open a watergate that fills 
+the area with water (which is where you use the Watergate Key).  Is that 
+enough for you?  Well, the first thing we need to do is find the 
+watergate, and boy is it isolated.  But even before we do that, head 
+back to the town of Zahan (you remember, the one on the island in the 
+middle of nowhere?).  Remember all those damage zones that I told you 
+NEVER to go into?  Well, hopefully the prince has the spell of STEPGUARD 
+by now.  If not, I suggest you build levels until you get it.  Then, 
+enter the wizard's house (he must not wanna be disturbed) and cast the 
+spell of STEPGUARD.  This will allow you to cross those pesky damage 
+zones without getting damaged.
+
+	Once inside, unlock the western door with the Jailor's Key.  
+Inside is a chest that contains the MAGIC LOOM.  If you have been paying 
+attention to what everybody says, this is an item that can be used to 
+weave the legendary Water Flying Cloth (if you have the Dew's Yarn).  
+Now we have them both and can weave the cloth, if only we could find 
+somebody who knows how to weave... :p
+
+	Well, it just so happens that there is one town left.  Maybe we 
+can find a weaver there?  Head back to the town of Wellgarth and begin 
+following the coastline around the south again.  As you stick to the 
+coastline, you will see several rivers leading off into the continent.  
+The rivers literally form a maze through the continent, but one of these 
+inlets leads to a town known as Tuhn.  Well, it doesn't actually lead 
+right to the town; you'll have to do quite a bit of walking to actually 
+get to the town.  Anyway, this is where the Watergate is, so we pretty 
+much have our work laid out in front of us.
+
+WEAPON SHOP
+-----------
+WIZARD'S WAND	2500 G
+FALCON SWORD	25000 G
+DRAGON KILLER	8000 G
+MAGIC ARMOR		4300 G
+STRENGTH SHIELD	21500 G
+IRON HELMET		3150 G
+
+INN - 40 G
+
+TOOL SHOP
+---------
+WING OF WYVERN	80 G
+FAIRY WATER		40 G
+DRAGON'S BANE	640 G
+
+	As you explore the town, you'll find our weaver behind that locked 
+door.  Give him the Magic Loom and the Dew's Yarn and he will begin to 
+weave the Water Flying Cloth.  It will take him "a day or so" to 
+complete.  What this really means is, you will have to "save" the game, 
+then reset and load your game, then go back to the weaver.  Ugh.  Well, 
+don't worry about it yet, first get the Moon Fragment from the tower.
+
+	(DIRTY TRICK)  This is another decent way to get gold, plus get a 
+Water Flying Cloth for the Prince as well!  Give the Dew's Yarn and the 
+Magic Loom to the weaver, and then you can go back and get the items 
+again!  See what I'm getting at?  Once you get the Yarn and the Loom 
+again, Save and reset, then talk to the weaver and get your Water Flying 
+Cloth.  Then, give him your new Dew's Yarn and Magic Loom, and he'll 
+begin to make you another one!  You can get the cloth for the Princess 
+and Prince (if you want) and sell the others for a pretty good profit!
+
+	You'll find the watergate way out in the outskirts of town, in the 
+northwest corner of town.  You'll need to unlock the door with the 
+Jailor's Key, then descend the stairs and use the Watergate Key to 
+unlock the watergate once more.  Now, water will fill the inlet allowing 
+you to sail your ship to the tower of the Moon.
+
+	Before you go there, spend some time getting experience around 
+Tuhn.  You will occasionally fight Metal Babbles around here, which 
+although are nearly impossible to kill, they give you 1,050 EXP when 
+defeated!  When you are level 21 or 22, head for the tower of the Moon.
+
+	Ugh.  Another tower.  Go straight south and take the stairway up 
+to floor 2.  In the southeast corner of this floor is a stairway leading 
+back to floor 1 where there is a treasure chest that contains a MEDICAL 
+HERB.  Wow.  Take the center stairs in floor 2 and go up to floor 3.  
+Take these stairs as well and go south to pick up two treasure chests... 
+264 GOLD and a BAMBOO STICK.  Wahahaha!  That'll make you fall out of 
+your chair...
+
+	Then go back north and east, and up to floor 5.  If you continue 
+to go upstairs, you'll find an empty chest on the top floor (floor 7).  
+How many towers have done that?  Too many...  Instead, unlock the door 
+on floor 5 with the Golden Key and head back downstairs.  Continue along 
+this path and eventually you'll end up on floor 1 in a room with an old 
+man and a chest.  The chest contains the MOON FRAGMENT and the old man 
+gives you a hint as to what the use of this item is.
+
+	Well that one wasn't too bad, huh?  *ahem*  Anyway, it would be a 
+good idea to cast 'OUTSIDE' and go back somewhere where you can rest and 
+SAVE the game.  You'll want to then reset the game and go back to get 
+the Water Flying Cloth, which is the best armor for the Princess.  Those 
+of you who bought the Mink Coat... I warned you.
+
+	*HUFF*  I think that's everything.  Now, it's time to go get the 
+Eye of Malroth.  There is a cave out in the middle of the ocean that is 
+surrounded by shallows.  To get there, go to the continent of Osterfair.  
+From the inlet that leads into the castle, head about one-and-a-half 
+screens west and go south.  It'll be around there somewhere, trust me.  
+Once you find the cave, use the Moon Fragment to change the tide, making 
+the shallows disappear.  Now you will be able to get into the cave where 
+the Eye is hidden.
+
+	Hoo boy, lava.  Why does it have to be lava?  Well, the princess 
+will be OK because of the Water Flying Cloth, but you will definitely 
+want to watch your HP level.  If you're feeling brave, take the 
+northwest passage (the one that is complete filled with lava) and follow 
+it until you reach a chest with 137 GOLD.  From the entrance, head south 
+and take the western corridor.  Take the second passage north to find a 
+chest with a MEDICAL HERB.  Slightly after this branch, the corridor 
+will turn to the south.  Continue following it... and descend the stairs 
+at the end of the passage.
+
+	Continue following the corridor.  In the first southern branch, 
+you will find a chest.  Don't open it.  If you do, you'll find out why.  
+Inside the chest is a POISON trap.  When the chest is opened, your 
+character will be POISONED.  And the worst part is, there's nothing in 
+the chest other than the trap.  So stay away from it.  Continue to the 
+west.  Then head south and continue to the west.  Take the lava-ridden 
+northern path and take the stairs down.  Unlock the door with the Silver 
+Key.  In the next room, there are two chests.  The chest on the left 
+contains 110 GOLD but the one on the right is trapped.  Head south 
+(ignore the two stairs) and follow the path around and you will find a 
+room that has 9 (!!!!) stairways leading down.
+
+	It really doesn't matter which one you take, but there is a 
+DRAGON'S BANE on this floor that you will want to pick up.  Be very 
+careful, because this floor is completely filled with lava.  On the west 
+side of the floor (across ALL that lava) there is another stairway 
+leading down.  On this floor you will find an old man (or what would 
+appear to be an old man) but as you approach him his friend shows him 
+and they attack.  Defeat the two Evil Clowns (they shouldn't be too much 
+of a problem) and continue on.  Then, at last, you will find the EYE OF 
+MALROTH!  Now, like me, you will also want to get out of here as fast as 
+you can.  Cast OUTSIDE and then go back and rest/save as usual.
+
+	Now that we have the Eye of Malroth, we can find the entrance to 
+Rhone.  The problem is, knowing where to use the Eye.  Well, in the town 
+of Beran, there is also a house that is filled with damage zones.  Go 
+back there...
+
+	Cross the damage zones (making sure to cast STEPGUARD first) and 
+enter the travel door.  When you come out, you'll see (!) more damage 
+zones.  Go up the stairs (cast STEPGUARD again) and you will come out in 
+a small area completely surrounded by mountains.  Big whoop.  But this 
+small area is actually where the entrance to Rhone is located :p
+
+	Go over to the west and step into the swamp.  Use the Eye of 
+Malroth and one of the mountains will split away, revealing the entrance 
+to a cave.  This cave is the Cave to Rhone, and it is the pathway to 
+Hargon's Castle!
+
+	This cave is very complex, but the first task is to find the Life 
+Crest.  There are four stairways leading down on the first floor.  Take 
+the in the lower right, and you will find yourself in the 'Chamber of 
+Horks'.  This is a rather large room with four stairways leading back up 
+(of course), and a treasure chest in the lower right hand corner.  Go 
+for the treasure chest, but there is a reason this is called the 
+'Chamber of Horks'.  Every few steps you will be engaged by... slimes?  
+No, HORKS!  And usually three or four of them too.  They shouldn't be 
+too hard to get rid of; just keep your HP up and use your attacks and 
+fire spells on them.  When you  do get to the treasure chest, nab it and 
+get the LIFE CREST!  Now we have all 5 crests, and it is time to visit 
+Rubiss!  For now, our work here is done, so cast 'OUTSIDE' and sail back 
+to Midenhall Castle.
+
+	Sail south, as if you were going to Osterfair.  You will see a 
+tiny section of island (only one square) with a monolith on it.  This is 
+what we are looking for!  Exit the ship and enter the monolith.  Go down 
+about 6 flights of steps and stand on the white square among the four 
+torches.  Rubiss will come to you and give you the CHARM OF RUBISS, 
+which is the only way to dispel the magic placed on Hargon's Castle.  
+Now, we have everything we need.  The only thing left is to strike!
+
+
+
+--------HARGON--------
+
+	If you have not reached level 24 yet, you should take the time to 
+do so.  The enemies in Rhone and the Cave to Rhone are among the 
+strongest in the land.
+
+	Then, head back to the Cave to Rhone.  Once inside again, watch 
+your step.  There are pitfalls scattered around this floor that were 
+designed to dump you back down into the Chamber of Horks.  For now, your 
+objective is to get to one of the stairs going up.  It doesn't matter 
+which one, they all lead to the same place anyway (except for the one in 
+the upper-left corner).
+
+	Once you are upstairs, things get even tougher.  This floor is a 
+maze designed to confuse you, basically.  When you first ascend the 
+stairs, you will find yourself in a four-way intersection.  Go left.  
+You will find another intersection.  Follow the corridor west, and pass 
+two north-south branches.  When you are at the third north-south branch, 
+go south, and out the other side.  You will come out in a room that 
+looks exactly the same as the last one.  Go south one more time, and you 
+will find a stairway leading up.  Take it!
+
+	Follow the corridor all the way to the east, but don't take any of 
+the branches.  When you hit the room with stairway, go back and take the 
+last northern branch.  Inside that chest you will find a LOTTERY TICKET.  
+(Like it's gonna do you a whole lot of good here)  Anyway, head up the 
+stairs.  Head up the next stairs as well, and you will find a chest with 
+a much more valuable prize inside.... the ARMOR OF ERDRICK!  Put this 
+on, it is the best armor you will probably find!
+
+	After obtaining the armor, head all the way back to the stairway 
+leading down.  Now, head west and take the northern corridor.  Take the 
+first eastern branch to find 135 GOLD.  Following the corridor until its 
+end will get you to a stairway that leads to the next area.  Instead, 
+take the western branch that is close to the top of the corridor.  
+Follow this long, winding path to reach yet another stairway leading up.  
+Once upstairs, follow the winding path south and west into the next 
+room.  Inside, you will find two chests, one of which is empty, but the 
+other one contains 613 GOLD.  Now, once again, go back down and head for 
+the stairway that leads back down to the maze floor.
+
+	This time, head west and south (it's the only other way left to 
+go) and take these last stairs going up.  In this room you will find 117 
+GOLD.  Now we have completely looted this floor, so head back to that 
+stairway in the upper-right that leads down to the next floor.
+
+	This area is very tricky (there are tons of pitfalls)...  the 
+objective is to get to the stairway in the lower right, but this is much 
+harder than it seems.  A few things to remember are to stay away from 
+open areas... try to stick to the walls as much as you can.  And learn 
+from your mistakes; don't fall down the same pitfall twice.  Map the 
+area if you need to.  
+
+	OK, but first let's get the Thunder Sword.  Fall down any of the 
+pitfalls back down to floor 4.  Now head to the bottom left corner and 
+take one step up and one step right.  You will fall into another 
+pitfall.  Here you will find the chest that contains the THUNDER SWORD!  
+Now, you will have to continue falling down pitfalls until you reach the 
+bottom (D'oh!) but it is well worth it because the Thunder Sword is a 
+very powerful piece of equipment :)  (Thanks go out to Justin Gunsolus 
+for helping me find this damned thing).
+
+	Now you'll have to make your way all the way back up to the 
+pitfall room and into the stairs leading up (the ones in the lower-
+right).
+
+	*NOTE*  You'll need to watch yourself on this next floor.  Follow 
+the path exactly or you might end up getting lost...
+
+	Once you manage to make it to the lower-right stairs, you'll find 
+yourself on another maze floor.  First head east.  Then follow this path 
+and take the western branch.  Then, take the eastern branch.  Now you'll 
+find yourself in a rather large room with paths north, south, and east.  
+There is one pitfall you'll need to watch out for, it's in the corner of 
+the inside of the 7-shaped block.
+
+	Take the eastern path from this room.  Then take the northern 
+branch and follow this path.  Take the western fork, and in the next 
+room go north.  Now, go east.  Follow this path until you reach the 
+exit!
+
+	Whew!  Finally outta that cave!  Now we are in the land known as 
+Rhone.  As you travel through the land, you will come across a monolith 
+that will serve as a final resting spot, which a chance to save the game 
+and even the opportunity to go back to the outer world.  You will 
+definitely want to rest and save, and now that you are right next to a 
+free healing spot, take advantage of this opportunity to build up some 
+extra experience before you go off to fight the wizard Hargon.  The 
+final battle is going to be rough, so get the hero up to level 30 before 
+going to the castle.  It may sound like a lot of fighting, but with the 
+experience you get around here, it shouldn't take all that long.  You 
+can go back to the healer and heal your characters after every fight if 
+you need to!
+
+	When you feel that you are confident enough to take on Hargon, 
+head back out into the land of Rhone.  It's a rather walk to Hargon's 
+Castle, and there are many fierce enemies in Rhone.  But keep cool and 
+head for the western edge of Rhone and you should be able to get to the 
+castle without too much of a problem.  When you enter the castle, you 
+will find that it is an exact mock-up of the castle of Midenhall!  You 
+can even buy things and rest at the inn (isn't that weird?!?)!  
+Unfortunately, all the treasure chests are empty and the stairs/travel 
+doors don't work.  Oh well, use the Charm of Rubiss and this peaceful 
+castle will disappear, unveiling the true lair of Hargon...
+
+	Ugh.  So this is Hargon's Castle.  Hardly the world's biggest 
+tourist attraction.  Head straight up and avoid the demons standing next 
+to Hargon's "throne".  Cast STEPGUARD and then enter the damage zones 
+behind the throne.  Walk all the way to the left and turn north, then 
+use the Jailor's Key.  You will unlock a hidden door.  Go north one 
+space, cast STEPGUARD again, then enter the next batch of damage zones.  
+Go to the open space leading north and use the Golden Key.  Go north one 
+space, cast STEPGUARD once again, and then stand on the square tbat 
+looks like an 'X'.  Use the Eye of Malroth, and you will be whisked away 
+to the castle tower, where Hargon is.
+
+	Enter the room and go up the stairs to floor 2.  The path through 
+the tower is pretty straightforward, so keep on going.  When you enter 
+the room where the stairs to floor 4 are, stop.  Heal your characters 
+because there are several guardians from here on out that are here to 
+make sure that Hargon doesn't have any unwanted visitors.  The first of 
+these guardians is Atlas, a strong giant who packs a mean punch.  Waste 
+him with everything you have, just keep your HP up while doing it 
+because he attacks twice each turn.
+
+	Likewise, when you find the stairs to floor 5, the second guardian 
+Bazuzu will attack.  He is a flying bat-like creature who shouldn't give 
+you too much trouble.  Just watch out for that DEFEAT spell.  He also 
+likes casting SLEEP and EXPLODET, too.  A good spell to use against 
+Bazuzu is SLEEP... it'll work for at least one turn.  When he attacks, 
+he also does so twice per turn.  The last guardian is situated before 
+the stairs to floor 6; this guardian is Zarlox, a huge creature with 
+wings and a tail.  His attacks include EXPLODET, INCREASE, HEALALL, as 
+well as breathing fire which deals damage to all your characters.  Once 
+you manage to get rid of the three guardians, the only task left is to 
+defeat Hargon.  Ascend the stairs to floor 6!
+
+	Immediately cast STEPGUARD and make your way into the center room.  
+Here you will find the wizard Hargon himself.  He is rather agitated 
+that you came this far to bother him and attacks.
+
+	Hargon can be rather tough, unless you know the right way of 
+beating him.  He is capable of casting EXPLODET, HEALALL, and he also 
+likes blowing his sweet breath at you to put you to sleep.  On top of 
+that, he attacks twice per turn as well.  Have the princess cast HEALALL 
+on any wounded party members and beat the crap out of him with your 
+sword.  The Prince should attack unless someone else needs a HEALMORE 
+spell.  Once you deal about 200 HP damage to Hargon, he's history!
+
+	Yeah!  You've defeated Hargon!  But with his last breath, he 
+speaks of a sorcerer that is even greater than he is, Malroth.  Hmmm...  
+The first thing you should do is heal all your characters.  When you 
+proceed to leave the room, flames surround you and an earthquake rocks 
+the area.  Then the almighty sorcerer Malroth appears.
+
+	Boy, just when you thought you were done, look what comes out of 
+the woodwork.  Malroth is TOUGH.  He has just about every spell you 
+would hate to have cast on you, and he's not afraid to do it.  He also 
+has a deadly fire attack, but only attacks once per turn (thank God!).  
+As always, tear him up with your weapons and have the princess Heal.  
+Malroth has about 250 HP, so keep this in mind as you attack him.  Try 
+to count up how much HP he has left and plan your attacks accordingly.  
+Once you strike him down, you've won!  (Really, no more almighty 
+sorcerers!)
+
+	Rubiss comes and blabs the usual congratulations and then sends 
+you back out into Rhone (gee, thanks!).  Well now there are no pesky 
+enemies to worry about, so you can wander around as you please.  Go back 
+to the final sanctuary (where you can heal/save) and take the travel 
+door back down to the outer world.  Re-enter the travel door (cast 
+'STEPGUARD' first) and you will be back in the town of Beran.  You are 
+now free to wander around the world as you wish, re-visiting all the 
+towns if you want to.  Whenever you are done, go back to Midenhall 
+Castle where the King awaits your return.  He will declare that you are 
+to be the new monarch of Midenhall and that the three heroes will be 
+placed with the duty of guarding the kingdom against the forces of evil.  
+And as peace has returned, this adventure is over!
+
+
+
+********************************************
+*          PART THREE: THE LISTS           *
+********************************************
+
+LIST OF ITEMS
+
+Name               |Cost  |Use of Item
+-------------------|------|-----------------------
+Antidote Herb      |8     |Heals POISON in one ally
+Charm of Rubiss    |Found |Dispels the magic placed on Hargon's Castle
+Cloak of Wind      |Found |Lets you jump across the Dragon's Horn Tower
+Dew's Yarn         |Found |Used to weave the Water Flying Cloth
+Dragon's Bane      |640   |Increases DEFENSE when worn
+Dragon Potion      |Found |This VERY rare item lets you SAVE anywhere!
+Echoing Flute      |Found |Will echo if a CREST is nearby
+Eye of Malroth     |Found |Reveals hidden passages
+Fairy Water        |40    |Keeps monsters away for a short time
+Golden Card        |Found |Sells for 375 GP
+Golden Key         |Found |Opens wooden locked doors
+Gremlin's Tail     |Found |You should just sell this item (:p)
+Jailor's Key       |2000  |Opens iron-barred locked doors
+Leaf of World Tree |Found |Revives one dead ally
+Lottery Ticket     |Found |Lets you play the lottery
+Magic Loom         |Found |Used to weave Water Flying Cloth
+Medical Herb       |15    |Heals a small amount of HP
+Moon Fragment      |Found |Allows you to get into the sea cave
+Silver Key         |Found |Opens metal locked doors
+Token of Erdrick   |Found |Trade for Erdrick's Helmet at Holy Shrine
+Treasures          |Found |Trade for Echoing Flute
+Watergate Key      |Found |Opens the watergate in Tuhn
+Wizard's Ring      |Found |Restores your MP
+
+LIST OF WEAPONS
+
+Name               |AP  |Cost  |Where Found
+-------------------|----|------|-------------------------------
+Bamboo Stick       |+2  |N/A   |Princess's initial equipping
+Broad Sword        |+30 |1500  |Hamlin/Lianport/Tantegel/Osterfair
+Chain Sickle       |+15 |390   |Leftwyne/Hamlin
+Club               |+8  |60    |Leftwyne
+Copper Sword       |+10 |100   |Leftwyne
+Dragon Killer      |+50 |8000  |Osterfair/Wellgarth/Beran/Tuhn
+Falcon Sword       |+5  |25000 |Tuhn (attacks twice)
+Giant Hammer       |+35 |4000  |Alefgard/Osterfair/Wellgarth/Beran
+Iron Spear         |+20 |770   |Hamlin
+Light Sword        |+65 |16000 |Wellgarth
+Magic Knife        |+12 |250   |Leftwyne/Lianport
+Staff of Thunder   |+15 |Found |From Evil Clown in Midenhall Prison
+Swd of Destruction |+93 |Found |After battle with BULLWONG (CURSED)
+Sword of Erdrick   |+40 |Found |Charlock Castle
+Thunder Sword      |+80 |Found |Cave to Rhone (Casts INFERNOS)
+Wizard's Wand      |+8  |2000  |Lianport/Alefgard
+
+LIST OF ARMOR
+
+Name               |DFP |Cost  |Where Found
+-------------------|----|------|---------------------------------
+Armor of Erdrick   |+40 |Found |Cave to Rhone
+Armor of Gaia      |+35 |Found |Osterfair
+Chain Mail         |+12 |480   |Leftwyne/Hamlin
+Clothes            |+2  |N/A   |Princess's initial equipping
+Clothes Hiding     |+20 |1250  |Lianport/Alefgard/Osterfair
+Full Plate Armor   |+25 |1000  |Hamlin/Lianport
+Gremlin's Armor    |+50 |Found |After battle w/ GOLD BATBOON (CURSED)
+Leather Armor      |+6  |N/A   |Hero's initial equipping
+Magic Armor        |+20 |4300  |Osterfair/Tuhn
+Mink Coat          |+30 |65000 |Wellgarth
+Water Flying Cloth |+35 |Found |Weaved from Magic Loom/Yarn at Tuhn
+
+LIST OF SHIELDS
+
+Name               |DFP |Cost  |Where Found
+-------------------|----|------|------------------------
+Leather Shield     |+4  |90    |Leftwyne
+Shield of Erdrick  |+20 |Found |Cannock Castle
+Shield of Strength |+18 |21500 |Wellgarth/Beran/Tuhn
+Steel Shield       |+10 |2000  |Hamlin/Lianport/Alefgard
+
+LIST OF HELMETS
+
+Name              |DFP |Cost  |Where Found
+------------------|----|------|--------------------------------
+Helmet of Erdrick |+20 |Found |Holy Shrine SE of Tantegel
+Iron Helmet       |+6  |3150  |Alef./Osterfair/Wellgarth/Beran/Tuhn
+
+LIST OF SPELLS
+
+Name      |Who      |Learned |MP |Spell Effect
+----------|---------|--------|---|-----------------------------
+Antidote  |Both     |L6/L12  |3  |Cures POISON in one ally
+Chance    |Princess |L25     |13 |Anything it wants...
+Defeat    |Prince   |L23     |4  |Can Destroy a group of enemies 
+Defence   |Princess |L10     |2  |Lowers DEFENSE of all enemies
+Explodet  |Princess |L19     |8  |Very high damage to all enemies
+Firebal   |Prince   |L3      |2  |Low damage on one enemy
+Firebane  |Prince   |L18     |4  |Medium damage on all enemies
+Heal      |Prince   |L1      |3  |Heals small damage on one ally
+Healall   |Princess |L15     |8  |Heals all damage on one ally
+Healmore  |Both     |L14/L1  |5  |Heals medium damage on one ally
+Increase  |Prince   |L20     |2  |Increases DEFENSE of all allies
+Infernos  |Princess |L4      |4  |Medium damage on an enemy group
+Open      |Princess |L23     |2  |Opens locked doors
+Outside   |Both     |L12/L17 |6  |Exit from a dungeon
+Repel     |Princess |L8      |2  |Keeps away enemies
+Return    |Prince   |L10     |6  |Return to last save point
+Revive    |Prince   |L25     |15 |Revives a dead ally
+Sacrifice |Prince   |L28     |1  |Destroy caster and all enemies
+Sleep     |Princess |L2      |2  |Puts an enemy group to SLEEP
+Stepguard |Both     |L17/L21 |4  |Protects against damage zones
+Stopspell |Prince   |L8      |3  |Keeps enemies from casting spells
+Surround  |Princess |L6      |2  |Decreases hit % for enemy group
+
+LIST OF ENEMIES
+
+Enemy Name     |HP   |EXP  |Gold |Items Gained
+---------------|-----|-----|-----|----------------------
+Army Ant       |12   |4    |  2  |
+Atlas          |250  |1100 | 250 |
+Attackbot      |120  |723  | 120 |
+Babble         |13   |8    |  4  |
+Baboon         |40   |20   |  45 |
+Basilisk       |38   |41   |  58 |
+Bazuzu         |250  |1530 | 240 |
+Berserker      |88   |117  | 123 |
+Big Cobra      |14   |9    |  9  |
+Big Rat        |16   |7    |  5  |
+Big Slug       |8    |2    |  3  |
+Blizzard       |90   |453  | 113 |Wizard's Wand
+Bullwong       |210  |872  | 110 |Sword of Destruction
+Carnivog       |32   |29   |  16 |
+Centipod       |21   |14   |  30 |
+Cyclops        |115  |327  |  99 |
+Dark Eye       |67   |93   |  81 |
+Demighost      |48   |44   |  50 |
+Dragon Fly     |40   |59   |  43 |
+Drakee         |9    |3    |  3  |Club
+Enchanter      |40   |37   |  30 |
+Evil Clown     |67   |84   |  48 |Staff of Thunder
+Evil Eye       |50   |92   |  25 |
+Evil Tree      |63   |67   |  45 |
+Flame          |55   |245  | 101 |
+Gargoyle       |60   |71   |  95 |
+Gas            |50   |39   |  30 |
+Ghost Mouse    |12   |6    |  6  |Clothes
+Ghost Rat      |25   |23   |  15 |
+Ghoul          |80   |61   | 100 |
+Giant          |155  |515  |  95 |
+Gold Batboon   |112  |396  | 100 |Gremlin's Armor
+Gold Orc       |100  |63   | 255 |
+Goopi          |50   |25   |  28 |
+Gorgon         |26   |50   |  30 |Fairy Water
+Graboopi       |60   |38   |  30 |Copper Sword
+Green Dragon   |95   |350  | 147 |
+Gremlin        |62   |52   |  23 |
+Hargon         |230  |0    |  0  |
+Hargon's Knight|80   |201  | 135 |
+Hawk Man       |60   |64   |  45 |Gremlin's Tail
+Healer         |25   |15   |  5  |
+Hibabango      |60   |81   |  83 |
+Hork           |95   |61   |  51 |
+Hunter         |65   |67   |  45 |
+Iron Ant       |5    |2    |  4  |Medical Herb
+Lizard Fly     |15   |27   |  12 |
+Mace Master    |158  |617  | 100 |
+Magic Ant      |14   |18   |  8  |Lottery Ticket
+Magic Baboon   |45   |40   |  45 |
+Magician       |15   |10   |  10 |Bamboo Stick
+Magic Vampirus |65   |182  | 103 |Mysterious Hat
+Magidrakee     |12   |12   |  10 |
+Malroth        |250  |0    |  0  |
+Man O' War     |20   |25   |  50 |
+Medusa Ball    |42   |36   |  29 |
+Mega Knight    |72   |89   |  80 |
+Megapede       |20   |33   |  25 |
+Metal Babble   |35   |1050 | 255 |
+Metal Hunter   |70   |82   | 150 |Broad Sword
+Metal Slime    |6    |150  |  50 |
+Mud Man        |28   |32   |  35 |
+Mummy          |75   |62   |  60 |
+Mummy Man      |46   |44   |  40 |
+Oswarg         |69   |139  | 105 |
+Orc            |60   |61   |  50 |
+Orc King       |95   |155  | 130 |
+Poison Lily    |46   |31   |  25 |
+Puppet Man     |60   |52   | 100 |
+Saber Lion     |80   |81   |  85 |
+Saber Tiger    |25   |40   |  55 |
+Sea Slug       |32   |34   |  80 |Antidote Herb
+Silver Batboon |89   |271  |  96 |
+Slime          |5    |1    |  2  |
+Smoke          |15   |18   |  40 |Clothes
+Sorcerer       |55   |72   |  40 |
+Titan Tree     |51   |50   |  80 |
+Undead         |65   |45   |  40 |
+Vampirus       |57   |85   |  49 |
+Wild Mouse     |10   |5    |  5  |Medical Herb
+Zarlox         |250  |2200 | 255 |
+Zombie         |60   |40   |  25 |Leather Armor
+
+EXPERIENCE TABLE
+
+Level  |Hero       |Prince     |Princess
+-------|-----------|-----------|------------------
+1      |0          |0          |0
+2      |12         |24         |100
+3      |32         |60         |300
+4      |72         |110        |600
+5      |140        |240        |1,200
+6      |280        |380        |2,400
+7      |560        |700        |4,200
+8      |1,000      |1,300      |6,400
+9      |1,800      |2,400      |9,000
+10     |2,800      |4,000      |12,000
+11     |3,900      |6,000      |16,000
+12     |5,300      |8,200      |20,000
+13     |7,600      |11,000     |25,000
+14     |10,000     |15,000     |31,000
+15     |13,000     |19,000     |39,000
+16     |17,000     |24,000     |50,000
+17     |21,000     |30,000     |65,000
+18     |26,000     |37,000     |83,000
+19     |32,000     |46,000     |103,000
+20     |40,000     |57,000     |125,000
+21     |50,000     |70,000     |150,000
+22     |62,000     |85,000     |180,000
+23     |75,000     |100,000    |220,000
+24     |90,000     |116,000    |270,000
+25     |107,000    |134,000    |300,000
+26     |127,000    |156,000    |330,000
+27     |150,000    |182,000    |360,000
+28     |175,000    |210,000    |400,000
+29     |200,000    |240,000    |450,000
+30     |230,000    |280,000    |540,000
+31     |260,000    |310,000    |630,000
+32     |290,000    |340,000    |730,000
+33     |320,000    |380,000    |820,000
+34     |350,000    |430,000    |910,000
+35     |380,000    |480,000    |1,000,000
+36     |410,000    |520,000    |N/A
+37     |440,000    |580,000    |N/A
+38     |470,000    |640,000    |N/A
+39     |500,000    |700,000    |N/A
+40     |530,000    |760,000    |N/A
+41     |570,000    |820,000    |N/A
+42     |620,000    |840,000    |N/A
+43     |670,000    |900,000    |N/A
+44     |720,000    |960,000    |N/A
+45     |770,000    |1,000,000  |N/A
+46     |820,000    |N/A        |N/A
+47     |870,000    |N/A        |N/A
+48     |920,000    |N/A        |N/A
+49     |970,000    |N/A        |N/A
+50     |1,000,000  |N/A        |N/A
+
+*NOTE* Experience only goes up to 1,000,000.  The hero's maximum level 
+is 50, the prince's is 45, and the princess's is 35.
+
+
+
+***************************************
+*       PART FOUR : CONCLUSION        *
+***************************************
+
+	This is the end of the Dragon Warrior II Walkthrough.  Perhaps 
+this helped you out, but I doubt that there are a whole lot of people 
+who still play this game.  I like making these things, so I decided to 
+send it out just in case anybody needs it.
+
+	If you have any additions, suggestions, comments, questions, etc, 
+etc.... E-Mail me (Dalez) at dalez@intercom.net.  I know there are a 
+few question marks still in the lists somewhere and I would appreciate 
+an accurate list of enemy stats... well, at any rate, see ya (until the 
+next walkthrough, that is)!
+
+CREDITS:
+
+Well, Enix, of course... for making the game :)
+The Game Genie Code "NAZUGV" for making it possible to max out my 
+experience
+My parents for not throwing me out of the house when I spent 25 hours a 
+day on the computer
+...and all you guys out there who are reading this!  Thanks for 
+downloading the file :)
+
+JC (Gwydion42@aol.com)... for providing me with the Water Flying Cloth 
+trick, and the missing info for the Thunder Sword and the Gremlin's Tail 
+(as well as a little insight on beating Bazuzu
+:)
+Blood Scourge (bscourge@yahoo.com) for pointing out that spells really 
+don't work all that well against that Saber Lion
+Justin Gunsolus (malice333@juno.com) for helping me find that !#@$^% 
+Thunder Sword
+Greg (NEWWJ@aol.com) for giving me an enemy stats list that was from an 
+official? hintbook that was offered at one point in time
+
+
+OTHER FAQS BY THE SAME AUTHOR:
+
+Dragon Warrior I
+Dragon Warrior III (In Progress, kinda)
+The 7th Saga 
+
+
+
+
+*** This document may be distributed freely as long as it is not 
+modified in any way (unless you ask my permission first).  Scary, huh? 
+***
+
+
+
+--------THE END!!!--------

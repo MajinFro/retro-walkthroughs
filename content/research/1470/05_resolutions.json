@@ -1,0 +1,257 @@
+[
+  {
+    "fact_id": "gf-lists-10-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|star crest|how to unlock): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-lists-10-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|moon crest|how to unlock): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-lists-10-18",
+    "resolution": "accept",
+    "rationale": "gf-lists calls the Shrine of Rubiss the \"monolith of holy\"; both facts say the five crests earn the Charm of Rubiss, so they agree (aliased in 05_aliases.json)."
+  },
+  {
+    "fact_id": "gf2-4-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|travel door|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-6-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|cannock castle|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-6-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|prince of cannock|located in): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-14-26",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|charlock castle|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-15-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|dragonlord's grandson|located in): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-15-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|dragonlord's grandson|triggers): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-17-28",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|midenhall castle|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-13-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|lianport|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-18-4",
+    "resolution": "accept",
+    "rationale": "Both describe Beran's position from different reference points (sailing route from Wellgarth vs. bearings from Osterfair and Zahan); not contradictory."
+  },
+  {
+    "fact_id": "gf2-18-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|hamlin|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-19-11",
+    "resolution": "accept",
+    "rationale": "The Lighthouse island is described from different reference points (south-west of the Holy Shrine, south-east of Lianport); compatible bearings, both kept."
+  },
+  {
+    "fact_id": "gf2-19-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|lighthouse|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-20-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|tuhn|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-22-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|malroth's cavern|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-23-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|cave to rhone|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-24-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|hargon's castle|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-24-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|atlas|attacks): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-25-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|bazuzu|countered by): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-25-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|hargon|located in): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-25-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|malroth|triggers): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-27-44",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|hargon|recommended level): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-27-45",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|malroth|recommended level): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-27-46",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zarlox|recommended level): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-27-47",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|atlas|recommended level): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-27-48",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|bazuzu|recommended level): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-8-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|lake cave|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-9-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|underground passage to hamlin|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-10-20",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|tower of wind|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-11-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|mirror of ra|triggers): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-11-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|princess of moonbrooke|joins party): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf2-11-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|moonbrooke castle|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-36-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|south dragon's horn|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-37-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|relentless treasure|triggers): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-61-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|north dragon's horn|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-63-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|shrine of fire|located in): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-70-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|tower of the moon|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-72-7",
+    "resolution": "accept",
+    "rationale": "Different old men (the disguised clowns in the Cave in the Sea vs. the Spring of Bravery old man); not the same subject."
+  },
+  {
+    "fact_id": "gf3-83-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|malroth|countered by): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf4-31-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|wellgarth|leads to): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf4-39-7",
+    "resolution": "accept",
+    "rationale": "Each fact names a different spell the Prince learns at a different level; complementary."
+  },
+  {
+    "fact_id": "gf4-39-8",
+    "resolution": "accept",
+    "rationale": "Each fact names a different spell; complementary. gf4-44-15 (Revive at 22) and gf4-44-17 (Open at 29) are rejected separately in favour of gf-versions/gf2/gf-lists NES values."
+  },
+  {
+    "fact_id": "gf4-48-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|hargon|countered by): the listed values are complementary details (different rooms, floors, routes, phases or tactics of the same subject), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf4-44-15",
+    "resolution": "reject",
+    "rationale": "gf4 says the Princess learns Revive at level 22, but gf-versions-8-20 (NES: C:25 only), gf2-27-17 and gf-lists-11-18 all list Revive as a Prince-only spell in the NES version."
+  },
+  {
+    "fact_id": "gf4-44-17",
+    "resolution": "reject",
+    "rationale": "gf4 says the Princess learns Open at level 29, which is the GBC level per gf-versions-8-25; the NES level is 23 (gf-versions-8-25, gf2-27-13, gf-lists-11-14, ra-guide-11-24)."
+  },
+  {
+    "fact_id": "gf-lists-9-11",
+    "resolution": "reject",
+    "rationale": "The Jailor's Key price of 200 is a typo; gf2-17-8, gf3-51-3, gf4-31-6, gf-lists-15-23 and ra-guide-3-3 all give 2000 gold."
+  },
+  {
+    "fact_id": "ra-guide-3-6",
+    "resolution": "reject",
+    "rationale": "Extraction misread of a list sentence: the Shield of Erdrick is a chest in Cannock Castle behind a Golden Key door (ra-guide-12-4, gf2-13-10, gf-lists-9-41), not a Token of Erdrick exchange."
+  },
+  {
+    "fact_id": "ra-guide-3-7",
+    "resolution": "reject",
+    "rationale": "Extraction misread: the Armor of Gaia is a chest in the hidden Osterfair shop (gf2-16-8, gf4-28-9, ra-guide-13-1), not a Token of Erdrick exchange."
+  },
+  {
+    "fact_id": "ra-guide-3-8",
+    "resolution": "reject",
+    "rationale": "Extraction misread: the Water Flying Cloth is woven in Tuhn from the Magic Loom and Dew's Yarn (gf2-21-9, gf4-33-7, ra-guide-13-8), not a Token of Erdrick exchange."
+  }
+]

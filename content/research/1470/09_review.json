@@ -1,0 +1,122 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "placement",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 51,
+      "description": "Chapter 9 had the player search for the Sun Crest (46421) at the Shrine of Fire, but the roadmap places 46421 and the crest counter in Chapter 11, which also collects it. This double pickup made the Chapter 9 checkpoint wrong ('1 / 5 (Sun Crest)' when the 1 was the Star Crest). Chapter 9 now names the Monolith west of Zahan as the Shrine of Fire (ra-guide-6-9), keeps the map link, and defers the crest to Chapter 11 with a note. Chapter 11 now says to skip the step if the crest was already taken. Item table, overview line, checkpoint and checklist corrected."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 14,
+      "description": "The Moon Crest was called 'the first of the five crests', but the Star Crest is collected in Chapter 8. Corrected to second."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "hallucination",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 23,
+      "description": "Invented 'Missable Achievement Warning' for the Armor of Gaia. No source says it is missable, and the RA guide and comments say nothing besides the ending is missable. Changed to a TIP that says it is not missable."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 38,
+      "description": "Registered maps were not linked for areas that are walked: Dragon's Horn South and North Towers (ch5), Moonbrooke Western Shrine (ch5), Midenhall Southern Shrine (ch2), Undersea Cave / Malroth's Cavern (ch16), Rhone Southern Shrine and Shrine of Spirits / Shrine of Rubiss (ch17), and the three overworld/world maps (overview). Links added under the matching headings."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "missable",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 138,
+      "description": "The overview listed 'Using Chance on Hargon may also make him flee' under 'Prepare for Hargon' as if it were a tactic, and said there are no missables except the ending dialogue. ra-comments report that Hargon fleeing after Chance misses 'Ye Olde Evile Prieste' (46459). Reworded as an explicit 'Do NOT cast Chance on Hargon' and added to the missables paragraph. Chapter 19 already warned correctly."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 129,
+      "description": "The return to Midenhall after Malroth was marked 'Unable to verify the exact route back', but gf4-49-1..5 give it (no monsters spawn; Rhone Monolith travel door to Beran; Midenhall, north to the King). Route added. Also flagged that gf4 answers YES at this prompt, which would skip 46461, so the player does not follow that guide here."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 14,
+      "description": "Chapters 9 and 13 said the StepGuard learn level could not be verified, while Chapter 7 cites the Prince at level 17 (gf4-26-4, ra-guide-11-10). Both now state level 17 and point back to Chapter 7."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 18,
+      "description": "Chapters 5, 7 and 14 labelled trigger conditions that can be retried (Dragon's Horn jump, Zahan dog, weaver save-and-reload) as 'Missable Achievement Warning'. Relabelled 'Achievement Trigger Warning', so the guide does not claim missables the sources do not support."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 102,
+      "description": "A graph node ID leaked into a heading ('### Water_Flying_Cloth'). Renamed to 'Water Flying Cloth'."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/16.md",
+      "line": 13,
+      "description": "Removed a stray 'Unable to verify whether anything else is required' clause from the preparation list. The requirements (Moon Fragment, Silver and Golden Keys) are already listed directly above it."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "layout",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 68,
+      "description": "Five stub sections only pointed back to their parent section: Mirror of Ra (ch3), Leaving the Lighthouse (ch8), Helmet of Erdrick (ch11), and Heart Crest and Armor of Erdrick (ch17). Each stub was merged into the parent step that already holds the directions; facts such as Heart = Life Crest and Armor +40 defense were kept."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "maps",
+      "status": "open",
+      "file": "02_sources/sources.json",
+      "line": 0,
+      "description": "Four registered VGMaps maps (Gwaelin's Gate, Marsh Cave, Southeast Island Shrine, Northern Oracle) are not linked. The guide text does not tie them to any area on the route; the Northern Oracle is the optional Oracle Monolith, which the chapters do not visit. Left unlinked rather than guessing where they belong."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "layout",
+      "status": "open",
+      "file": "08_chapters/08.md",
+      "line": 105,
+      "description": "rw:qa area-label warnings for 'Old man's trap: four Gremlins' (ch8), 'Two Evil Clowns (old man)' (ch16) and 'Malroth defeated: the game ends' (ch19) are label mismatches only. Each is covered under its own heading ('Lighthouse 2F: The Gremlin Trap', 'Floor 5 (B5F) — Two Evil Clowns', 'Malroth' with the Point of No Return callout). Kept deliberately."
+    }
+  ]
+}
