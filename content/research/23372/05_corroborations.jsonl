@@ -1,0 +1,15 @@
+{"fact_id":"gf1-2-14","source_id":"gf2","chunk_id":"gf2#3","quote":"Time Limit: 2:30","stance":"supports","note":"Slam Dunk time limit"}
+{"fact_id":"gf1-1-16","source_id":"gf2","chunk_id":"gf2#8","quote":"Time Limit: 2:30","stance":"supports","note":"Attack time limit"}
+{"fact_id":"gf1-2-8","source_id":"gf2","chunk_id":"gf2#6","quote":"Time Limit: 2:30","stance":"supports","note":"Spirals time limit"}
+{"fact_id":"gf1-2-11","source_id":"gf2","chunk_id":"gf2#4","quote":"Time Limit: 6:00","stance":"supports","note":"Basic Training time limit"}
+{"fact_id":"gf1-2-12","source_id":"gf2","chunk_id":"gf2#4","quote":"1 point awarded for every second left under the 6 minute time limit","stance":"supports","note":"Basic Training scoring"}
+{"fact_id":"gf1-2-1","source_id":"gf2","chunk_id":"gf2#7","quote":"Time Limit: 7:00","stance":"supports","note":"Tornado Run time limit"}
+{"fact_id":"gf1-2-18","source_id":"gf2","chunk_id":"gf2#8","quote":"Time Limit: 7:00","stance":"supports","note":"Aggro Crag time limit"}
+{"fact_id":"gf1-2-21","source_id":"gf2","chunk_id":"gf2#8","quote":"Scoring: 1 point for every second under the time limit","stance":"supports","note":"Aggro Crag scoring"}
+{"fact_id":"gf1-1-4","source_id":"gf2","chunk_id":"gf2#2","quote":"you are told that you need 700 points to","stance":"supports","note":"700-point Aggro Crag threshold"}
+{"fact_id":"gf1-2-13","source_id":"gf2","chunk_id":"gf2#7","quote":"it's just like Basic Training, only a lot, lot more","stance":"supports","note":"Basic Training is an easier Tornado Run"}
+{"fact_id":"gf1-1-2","source_id":"gf2","chunk_id":"gf2#2","quote":"** Beginner/Advanced","stance":"supports","note":"difficulty options"}
+{"fact_id":"gf2-4-1","source_id":"gf1","chunk_id":"gf1#2","quote":"Time Limit: 6:00","stance":"supports","note":"Basic Training time limit"}
+{"fact_id":"gf2-2-3","source_id":"gf1","chunk_id":"gf1#1","quote":"YOU ABSOLUTELY MUST HAVE 700 POINTS IN A SHOW TO","stance":"supports","note":"700-point Aggro Crag threshold"}
+{"fact_id":"gf2-7-2","source_id":"gf1","chunk_id":"gf1#2","quote":"This is a *slightly* easier version of Tornado Run","stance":"supports","note":"Tornado Run is a harder Basic Training"}
+{"fact_id":"gf2-8-4","source_id":"gf1","chunk_id":"gf1#2","quote":"you get 1 point for every second left!","stance":"supports","note":"Aggro Crag scoring; gf1 Aggro Crag section"}

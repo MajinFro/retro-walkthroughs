@@ -1,0 +1,3844 @@
+{
+  "generated_at": "2026-10-19T02:50:23.967Z",
+  "inputs": "ba1be4bd57d96212",
+  "stats": {
+    "total": 136,
+    "verified": 42,
+    "single_source": 94,
+    "conflict": 0,
+    "resolved": 0,
+    "rejected": 0,
+    "corroborations_accepted": 15,
+    "achievements_total": 20,
+    "achievements_verified": 6,
+    "achievements_single": 13,
+    "achievements_unsupported": 1,
+    "sources": [
+      "gf1",
+      "gf2",
+      "map-slam-dunk",
+      "map-basic-training-variant1",
+      "map-basic-training-variant2",
+      "map-basic-training-variant3",
+      "map-basic-training-variant4",
+      "map-attack",
+      "map-tornado-run-variant1",
+      "map-tornado-run-variant2",
+      "map-tornado-run-variant3",
+      "map-tornado-run-variant4",
+      "map-spirals",
+      "map-aggro-crag-variant1-blue",
+      "map-aggro-crag-variant1-red",
+      "map-aggro-crag-variant2-blue",
+      "map-aggro-crag-variant2-purple",
+      "map-aggro-crag-variant3-purple",
+      "map-aggro-crag-variant3-red",
+      "map-aggro-crag-variant4-blue",
+      "map-aggro-crag-variant4-red",
+      "map-bonus-round1",
+      "map-bonus-round2",
+      "ra-comments"
+    ]
+  },
+  "coverage": {
+    "598947": {
+      "title": "What's This Show Called Again?",
+      "facts": [],
+      "best": "none"
+    },
+    "598949": {
+      "title": "Come On and Slam",
+      "facts": [
+        "gf2-3-1"
+      ],
+      "best": "single_source"
+    },
+    "598950": {
+      "title": "The Spiraly Thing Will Make You Go Insane",
+      "facts": [
+        "gf2-6-1"
+      ],
+      "best": "single_source"
+    },
+    "598951": {
+      "title": "What Is This, an Action RPG?",
+      "facts": [
+        "gf2-8-1"
+      ],
+      "best": "single_source"
+    },
+    "598952": {
+      "title": "Move Out, Private!",
+      "facts": [
+        "gf2-4-1"
+      ],
+      "best": "verified"
+    },
+    "598953": {
+      "title": "Tengu Man Would Be Proud",
+      "facts": [
+        "gf2-7-1"
+      ],
+      "best": "single_source"
+    },
+    "598954": {
+      "title": "Piece of the Rock",
+      "facts": [
+        "gf1-2-23",
+        "gf1-3-1",
+        "gf2-8-4",
+        "gf2-8-5",
+        "ra-comments-1-4",
+        "ra-comments-1-5"
+      ],
+      "best": "verified"
+    },
+    "598955": {
+      "title": "Do You Have It?",
+      "facts": [
+        "gf1-1-2",
+        "ra-comments-1-4"
+      ],
+      "best": "verified"
+    },
+    "598956": {
+      "title": "It's an Obstacle Course, Not a Scavenger Hunt",
+      "facts": [
+        "gf2-5-3",
+        "gf2-5-4"
+      ],
+      "best": "single_source"
+    },
+    "598957": {
+      "title": "Like Quickdraw McGraw, Only, Uh, for Sports?",
+      "facts": [
+        "gf1-1-18",
+        "gf1-2-15"
+      ],
+      "best": "single_source"
+    },
+    "598958": {
+      "title": "It's All about That Rebound",
+      "facts": [
+        "ra-comments-12-1",
+        "ra-comments-12-2",
+        "ra-comments-12-3",
+        "ra-comments-12-4"
+      ],
+      "best": "single_source"
+    },
+    "598959": {
+      "title": "We Wanna Be Like Mike",
+      "facts": [
+        "gf1-2-15",
+        "gf1-2-16"
+      ],
+      "best": "single_source"
+    },
+    "598960": {
+      "title": "Sky Dancer",
+      "facts": [
+        "gf1-1-17",
+        "gf1-1-18",
+        "gf1-1-19"
+      ],
+      "best": "single_source"
+    },
+    "598961": {
+      "title": "Wowing the Crowd",
+      "facts": [
+        "gf1-2-9",
+        "gf1-2-10"
+      ],
+      "best": "verified"
+    },
+    "598962": {
+      "title": "Gotta Collect 'Em All",
+      "facts": [
+        "gf1-2-26",
+        "ra-comments-1-1",
+        "ra-comments-1-2",
+        "ra-comments-1-3",
+        "ra-comments-16-1",
+        "ra-comments-16-2",
+        "ra-comments-16-3",
+        "ra-comments-16-4",
+        "ra-comments-16-5",
+        "ra-comments-16-6",
+        "ra-comments-16-7",
+        "ra-comments-16-8",
+        "ra-comments-16-9",
+        "ra-comments-16-10",
+        "ra-comments-16-11",
+        "ra-comments-16-12",
+        "ra-comments-16-13"
+      ],
+      "best": "single_source"
+    },
+    "598963": {
+      "title": "Similar Quality to Ballz",
+      "facts": [
+        "gf1-2-26"
+      ],
+      "best": "single_source"
+    },
+    "598964": {
+      "title": "Call Me Barry Allen",
+      "facts": [
+        "gf2-5-1",
+        "gf2-5-2",
+        "gf2-5-3"
+      ],
+      "best": "single_source"
+    },
+    "598965": {
+      "title": "Most Extreme Elimination Challenge",
+      "facts": [
+        "gf1-2-4",
+        "gf1-2-5",
+        "gf2-7-2",
+        "gf2-7-4"
+      ],
+      "best": "verified"
+    },
+    "598966": {
+      "title": "Artful Dodger",
+      "facts": [
+        "gf1-2-6",
+        "gf2-5-6"
+      ],
+      "best": "single_source"
+    },
+    "598967": {
+      "title": "Yodelayheehoo!",
+      "facts": [
+        "gf1-2-20",
+        "gf2-8-4",
+        "gf2-8-5",
+        "ra-comments-1-5"
+      ],
+      "best": "verified"
+    }
+  },
+  "possible_conflicts": [
+    {
+      "key": "event|aggro crag|scoring",
+      "facts": [
+        {
+          "id": "gf2-8-4",
+          "value": "1 point per second under limit",
+          "sources": [
+            "gf2",
+            "gf1"
+          ]
+        },
+        {
+          "id": "gf2-8-8",
+          "value": "725 for 1st, 325 for 2nd",
+          "sources": [
+            "gf2"
+          ]
+        }
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "gf1-1-1",
+      "type": "mechanic",
+      "subject": "Player setting",
+      "predicate": "has_option",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The Player option sets the number of players, and only 2 can play at once.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Player: # of players, only 2 can play at once",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-2",
+      "type": "mechanic",
+      "subject": "Level setting",
+      "predicate": "has_option",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [
+        598955
+      ],
+      "missable": false,
+      "text": "The Level setting offers Beginner or Advanced difficulty, with Advanced being harder.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Beginner (better if you're new), Advanced",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#2",
+          "quote": "** Beginner/Advanced",
+          "stance": "supports",
+          "note": "difficulty options"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-1-3",
+      "type": "mechanic",
+      "subject": "GUTS Show",
+      "predicate": "contains_event",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "A GUTS Show has 4 events, the other mode being a Single Event.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Show is 4 events, Single Event",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-4",
+      "type": "missable",
+      "subject": "Aggro Crag",
+      "predicate": "requires",
+      "object": "700 points in a show",
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": true,
+      "text": "Reaching the Aggro Crag requires at least 700 points in a show, and falling even 1 point short means missing it.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "YOU ABSOLUTELY MUST HAVE 700 POINTS IN A SHOW TO",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "chunk_id": "gf1#1",
+          "quote": "TACKLE THE AGGRO CRAG!! Fall even 1 point short, ... and you'll miss out!",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#2",
+          "quote": "you are told that you need 700 points to",
+          "stance": "supports",
+          "note": "700-point Aggro Crag threshold"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-1-5",
+      "type": "tip",
+      "subject": "Aggro Crag",
+      "predicate": "located_in",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag means Aggressive Rock.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Aggro Crag means \"Aggressive Rock\"!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-6",
+      "type": "map",
+      "subject": "Character selection grid",
+      "predicate": "located_in",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Characters are numbered in a grid read from left to right and top to bottom, with character 1 on the far left.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "And here are the characters from left to right ... Like this chart:",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-7",
+      "type": "npc",
+      "subject": "Players",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The player names are listed in the order they are mentioned in the ending seen after beating GUTS.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Anyway, their names are as follows (in order ... of mentioning in the ending, which you see if you beat GUTS)-",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-8",
+      "type": "npc",
+      "subject": "Character 1",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 1 is female, weight 97, 5 foot 0 tall, and favorite sport is gymnastics.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 1- ... Gender: Female ... Wt: 97 ... Favorite Sport: Gymnastics",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-9",
+      "type": "npc",
+      "subject": "Character 2",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 2 is male, weight 98, 5 foot 1 tall, and favorite sport is basketball.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 2- ... Gender: Male ... Wt: 98 ... Favorite Sport: Basketball",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-10",
+      "type": "npc",
+      "subject": "Character 3",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 3 is male, weight 110, 5 foot 4 tall, and favorite sport is basketball.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 3- ... Gender: Male ... Wt: 110 ... Favorite Sport: Basketball",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-11",
+      "type": "npc",
+      "subject": "Character 4",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 4 is female, weight 104, 5 foot 3 tall, and favorite sport is baseball.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 4- ... Gender: Female ... Wt: 104 ... Favorite Sport: Baseball",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-12",
+      "type": "npc",
+      "subject": "Character 5",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 5 is female, weight 111, 5 foot 4 tall, and favorite sport is football.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 5- ... Gender: Female ... Wt: 111 ... Favorite Sport: Football",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-13",
+      "type": "npc",
+      "subject": "Character 6",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 6 is female, weight 105, 5 foot 2 tall, and favorite sport is soccer.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 6- ... Gender: Female ... Wt: 105 ... Favorite Sport: Soccer",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-14",
+      "type": "npc",
+      "subject": "Character 7",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 7 is female, weight 113, 5 foot 6 tall, and favorite sport is football.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 7- ... Gender: Female ... Wt: 113 ... Favorite Sport: Football",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-15",
+      "type": "npc",
+      "subject": "Character 8",
+      "predicate": "has_profile",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Character 8 is female, weight 108, 5 foot 4 tall, and favorite sport is track and field.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Character 8- ... Gender: Female ... Wt: 108 ... Favorite Sport: Track & Field (I purposely put",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-16",
+      "type": "event",
+      "subject": "Attack",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Attack is an Aerial event with a 2:30 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "Event 1- Attack: ... Event Type: Aerial ... Time Limit: 2:30",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#8",
+          "quote": "Time Limit: 2:30",
+          "stance": "supports",
+          "note": "Attack time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-1-17",
+      "type": "mechanic",
+      "subject": "Attack",
+      "predicate": "contains_item",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [
+        598960
+      ],
+      "missable": false,
+      "text": "In Attack, regular shots are worth 5 points, thrown with the B button, and specials are worth 10 points.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "5 points for regular shots ... (by pressing the B button) and 10 points for a",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-18",
+      "type": "mechanic",
+      "subject": "Attack",
+      "predicate": "defeated_by",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [
+        598957,
+        598960
+      ],
+      "missable": false,
+      "text": "Specials in Attack are harder to hit and need good timing.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "harder to hit, unless you've got ungodly timing!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-1-19",
+      "type": "tip",
+      "subject": "Attack",
+      "predicate": "requires",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [
+        598960
+      ],
+      "missable": false,
+      "text": "In Attack, move to the far left and press down until between about the 4th and 5th notch to hit more shots.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#1",
+          "quote": "TIP: Move to the FAR (until your character can't move anymore) ... left, press down until you get in-between about the 4th and",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-1",
+      "type": "event",
+      "subject": "Tornado Run",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tornado Run is a Gym event with a 7:00 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Event 2- Tornado Run: ... Event Type: Gym ... Time Limit: 7:00",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#7",
+          "quote": "Time Limit: 7:00",
+          "stance": "supports",
+          "note": "Tornado Run time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-2",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tornado Run uses five keys: Left, Right, Down, Up, X and Y.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Left, Right, Down, Up, X and Y.",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-3",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Tornado Run, Up grabs poles, Left and Right move, and Down slides and crouches.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Up grabs onto poles, Left and right move ... Down slides (hold the diagnol",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-4",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [
+        598965
+      ],
+      "missable": false,
+      "text": "X does a Super Jump in Tornado Run, a bigger and more wacky jump than a basic jump.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "\"Super Jump\" (a bigger and more wacky jump than a basic",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-5",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [
+        598965
+      ],
+      "missable": false,
+      "text": "Y does a basic jump in Tornado Run, smaller than a Super Jump and usually giving better foot placement.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "jump (smaller than a Super Jump, but, usually gives you",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-6",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "defeated_by",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [
+        598966
+      ],
+      "missable": false,
+      "text": "In Tornado Run, being hit without stamina automatically fails the event.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "without stamina, you'll automatically fail the event!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-7",
+      "type": "tip",
+      "subject": "Tornado Run",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Practice Tornado Run often to get good at it.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "You'll need to practice this event often to be great",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-8",
+      "type": "event",
+      "subject": "Spirals",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Spirals is an Aerial event with a 2:30 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Event 3- Spirals: ... Event Type: Aerial ... Time Limit: 2:30",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#6",
+          "quote": "Time Limit: 2:30",
+          "stance": "supports",
+          "note": "Spirals time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-9",
+      "type": "mechanic",
+      "subject": "Spirals",
+      "predicate": "requires",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [
+        598961
+      ],
+      "missable": false,
+      "text": "Spirals is the same as Attack, with no more and no less.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "you just do the same for this event ... from that event. No more, no less.",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-10",
+      "type": "mechanic",
+      "subject": "Spirals",
+      "predicate": "requires",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [
+        598961
+      ],
+      "missable": false,
+      "text": "In Spirals, a special requires pressing X and Y together, close together but not simultaneously.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "you MUST press X and Y together (not simultaneously, but",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-11",
+      "type": "event",
+      "subject": "Basic Training",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Basic Training is a Gym event with a 6:00 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Event 4- Basic Training: ... Event Type: Gym ... Time Limit: 6:00",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#4",
+          "quote": "Time Limit: 6:00",
+          "stance": "supports",
+          "note": "Basic Training time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-12",
+      "type": "mechanic",
+      "subject": "Basic Training",
+      "predicate": "requires",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Basic Training, each second left over gives 1 point, so 30 seconds left scores 30 points.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Your score is based on your time, with every second you ... 30 seconds left, you score 30 points!",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#4",
+          "quote": "1 point awarded for every second left under the 6 minute time limit",
+          "stance": "supports",
+          "note": "Basic Training scoring"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-13",
+      "type": "tip",
+      "subject": "Basic Training",
+      "predicate": "requires",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Basic Training is a slightly easier, shorter version of Tornado Run.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "This is a *slightly* easier version of Tornado Run",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#7",
+          "quote": "it's just like Basic Training, only a lot, lot more",
+          "stance": "supports",
+          "note": "Basic Training is an easier Tornado Run"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-14",
+      "type": "event",
+      "subject": "Slam Dunk",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Slam Dunk is an Aerial event with a 2:30 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Event 5- Slam Dunk: ... Event Type: Aerial ... Time Limit: 2:30",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#3",
+          "quote": "Time Limit: 2:30",
+          "stance": "supports",
+          "note": "Slam Dunk time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-15",
+      "type": "mechanic",
+      "subject": "Slam Dunk",
+      "predicate": "requires",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598957,
+        598959
+      ],
+      "missable": false,
+      "text": "In Slam Dunk, B makes a regular shot and X and Y make a special shot that is easier than a regular shot.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Just use B for a ... Regular shot (a bit harder than a Special shot) and X and Y ... for a Special (actually easier than a Regular shot!).",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-16",
+      "type": "tip",
+      "subject": "Slam Dunk",
+      "predicate": "requires",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598959
+      ],
+      "missable": false,
+      "text": "In Slam Dunk, move to the extreme left, stop at the 4th or 5th notch, let go of down, then shoot.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Tip: Just like the other Aerial events, move to the extreme ... left and go to the 4 or 5th notch, let go of down, ... do your shot and just let the ball go in!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-17",
+      "type": "tip",
+      "subject": "Slam Dunk",
+      "predicate": "requires",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Slam Dunk is the easiest event in the game.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "is actually the EASIEST event in the game's entirety!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-18",
+      "type": "event",
+      "subject": "Aggro Crag",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The Aggro Crag is a Mountain event with a 7:00 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Event 6- The Aggro Crag: ... Event Type: Mountain ... Time Limit: 7:00",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#8",
+          "quote": "Time Limit: 7:00",
+          "stance": "supports",
+          "note": "Aggro Crag time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-19",
+      "type": "tip",
+      "subject": "Aggro Crag",
+      "predicate": "requires",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The Aggro Crag is the hardest event in the entire game.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "This is THE HARDEST event in the ENTIRE game!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-20",
+      "type": "missable",
+      "subject": "Aggro Crag",
+      "predicate": "closes_after",
+      "object": "last actuator goes down",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598967
+      ],
+      "missable": true,
+      "text": "Every actuator must be hit before the last one goes down.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "MUST hit all actuators before the last one goes down.",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-21",
+      "type": "event",
+      "subject": "Aggro Crag",
+      "predicate": "requires",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "On the Aggro Crag, each second left gives 1 point.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "you get 1 point for every second left!",
+          "source_id": "gf1",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf2",
+          "chunk_id": "gf2#8",
+          "quote": "Scoring: 1 point for every second under the time limit",
+          "stance": "supports",
+          "note": "Aggro Crag scoring"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-22",
+      "type": "event",
+      "subject": "Aggro Crag",
+      "predicate": "requires",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "At the top of the Aggro Crag, if 5 of the 6 flags are lit, stomp on the last one to beat the game.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "5 of the six flags are lit, stomp on the last one and ... you'll beat the game!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf1-2-23",
+      "type": "event",
+      "subject": "Aggro Crag",
+      "predicate": "unlocks",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598954
+      ],
+      "missable": false,
+      "text": "Even without reaching the top of the Aggro Crag, you still take home a glowing piece of the rock.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "to the top of the Aggro Crag, you'll still take home the",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-24",
+      "type": "event",
+      "subject": "Bonus Event",
+      "predicate": "has_time_limit",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The Bonus Event is an Aerial event with a 1:00 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Bonus Event: ... Event Type: Aerial ... Time Limit: 1:00",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-25",
+      "type": "event",
+      "subject": "Bonus Event",
+      "predicate": "contains_item",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In the Bonus Event, each ball knocked off the wall is worth 1 bonus point.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "out-of-control character knock them off! 1 Bonus Point for",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-26",
+      "type": "event",
+      "subject": "Bonus Event",
+      "predicate": "requires",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962,
+        598963
+      ],
+      "missable": false,
+      "text": "Knocking off every ball in the Bonus Event is extremely hard and gives 1 point per second left on the clock.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Knock off every ball (which is ... extremely hard) and you'll receive 1 point for each second ... left on the clock.",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-2-27",
+      "type": "event",
+      "subject": "Bonus Event",
+      "predicate": "requires",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "If not every ball is knocked off, only 1 point per ball is awarded.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#2",
+          "quote": "Failure to do so will only give you 1 ... point for each ball you knock off.",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-1",
+      "type": "event",
+      "subject": "Player",
+      "predicate": "unlocks",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598954
+      ],
+      "missable": false,
+      "text": "Beating the game awards a piece of the rock.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#3",
+          "quote": "CONGRATULATIONS!! You beat the game AND are ... taking home a piece of the rock!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-2",
+      "type": "tip",
+      "subject": "GUTS",
+      "predicate": "requires",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "If you do not win the first time, there is always a second chance.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#3",
+          "quote": "first time round, don't fret. There's always a second chance!",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf1-3-3",
+      "type": "tip",
+      "subject": "Aggro Crag",
+      "predicate": "requires",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The guide notes that failing to reach the top of the Crag or missing one actuator matters, but the sentence is cut off.",
+      "evidence": [
+        {
+          "chunk_id": "gf1#3",
+          "quote": "Plus, if you failed to make it to the top of the Crag, or, ... missed one actuator",
+          "source_id": "gf1",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-1-1",
+      "type": "mechanic",
+      "subject": "Nickelodeon Guts",
+      "predicate": "supports",
+      "object": "2-player play",
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The game supports 2-player play.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#1",
+          "quote": "since it did support 2 player play.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-2-1",
+      "type": "mechanic",
+      "subject": "Event Setups option",
+      "predicate": "toggles",
+      "object": "hides event name, object and scoring",
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Turning Event Setups off hides the event's name, object, and scoring.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "If this option is turned off, you aren't told the name of the event, the object\nof the event, or the scoring of the event.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-2-2",
+      "type": "mechanic",
+      "subject": "1 Player Game",
+      "predicate": "is",
+      "object": "training",
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "A one-player game is not an official game; it is training.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "If only one player is playing, it is not considered an official game, rather,\nyou are in training.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-2-3",
+      "type": "event",
+      "subject": "Guts Training",
+      "predicate": "requires",
+      "object": "700 points",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Guts Training, you need 700 points to compete on the Aggro Crag.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "If you are playing Guts: Training, you are told that you need 700 points to\ncompete on the Aggro Crag.",
+          "source_id": "gf2",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#1",
+          "quote": "YOU ABSOLUTELY MUST HAVE 700 POINTS IN A SHOW TO",
+          "stance": "supports",
+          "note": "700-point Aggro Crag threshold"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf2",
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-2-4",
+      "type": "mechanic",
+      "subject": "Character profiles",
+      "predicate": "has_favorite_sport",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Each profile has a favorite sport that may give an advantage in events featuring that sport, though this is unproven.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "They all have a favorite sport, which\nmay give you a certain advantage in the sport that is featured in the certain\nevents, though that has not been proven yet.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-2-5",
+      "type": "mechanic",
+      "subject": "Player color",
+      "predicate": "has_no_effect",
+      "object": null,
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Choosing a player color gives no gameplay advantage.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "There is no advantage to any certain color, it's just a style thing.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-2-6",
+      "type": "mechanic",
+      "subject": "Player name",
+      "predicate": "has_limit",
+      "object": "8 letters",
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Player names can be up to 8 letters.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "The number of letters you can enter at a maximum is 8, so use them\nwisely.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-3-1",
+      "type": "event",
+      "subject": "Slam Dunk",
+      "predicate": "scoring",
+      "object": "5 points per made shot",
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598949
+      ],
+      "missable": false,
+      "text": "In Slam Dunk, score the most points within a 2:30 time limit; each made shot is worth 5 points.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#3",
+          "quote": "Object: Score the most points\nScoring: Every shot you make is worth 5 points\nTime Limit: 2:30\n2 Player Mode Scoring: 300 points for 1st place, 100 for 2nd place",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-3-2",
+      "type": "mechanic",
+      "subject": "Slam Dunk shot",
+      "predicate": "requires",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Slam Dunk, hold Down to fill the power meter, release, then press B near the basket to shoot.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#3",
+          "quote": "Then, when you are ready, press and hold the\ndown button, until the power meter (on the left side of the screen), is filled\nto your liking.  Release down, and then wait until you are near the basket\nbefore pressing B to shoot the ball.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-3-3",
+      "type": "mechanic",
+      "subject": "Slam Dunk padding return",
+      "predicate": "requires",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Slam Dunk, hold Down on the way back to stay safely on the padding.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#3",
+          "quote": "IMPORTANT!  Don't forget to hold Down on your way back.  You'll see the power\nmeter move up just a tad, but if you did it correctly, you'll get back up on\nthe padding safe and sound.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-3-4",
+      "type": "mechanic",
+      "subject": "Slam Dunk padding return",
+      "predicate": "causes",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Not holding Down enough on the way back in Slam Dunk can make you stagger or stumble off the padding, costing time.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#3",
+          "quote": "If you don't do it, or don't do it enough, you\nmight stagger up to the padding, or even stumble off, costing you valuable\ntime.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-1",
+      "type": "event",
+      "subject": "Basic Training",
+      "predicate": "scoring",
+      "object": "1 point per second left",
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [
+        598952
+      ],
+      "missable": false,
+      "text": "In Basic Training, reach the finish line in the fastest time; each second left under the 6 minute limit is worth 1 point.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#4",
+          "quote": "Object: Get to the finish line in the fastest time\nScoring: 1 point awarded for every second left under the 6 minute time limit\n(ex: if you finish in 5:59, you get 1 point)\nTime Limit: 6:00",
+          "source_id": "gf2",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "Time Limit: 6:00",
+          "stance": "supports",
+          "note": "Basic Training time limit"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf2",
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-4-2",
+      "type": "mechanic",
+      "subject": "Pole or rope side switch",
+      "predicate": "requires",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "On a pole or rope, press the d-pad toward the side you are climbing to switch sides; for example, press Right to switch to the left side.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#4",
+          "quote": "If you wish to move to the other\nside of the pole/rope, simply hit the d-pad in the direction of the side you\nare currently climbing up (for example, if you want to switch to the left side\nof the pole/rope, simply press right, and you will switch).",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-3",
+      "type": "mechanic",
+      "subject": "X button",
+      "predicate": "jumps",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Use X to jump in Basic Training.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#4",
+          "quote": "Speaking of jumping, use X to perform that feat.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-4",
+      "type": "mechanic",
+      "subject": "Up button",
+      "predicate": "climbs",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Up looks up and climbs poles and ropes.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#4",
+          "quote": "Use Up to look up (no true use there), and to climb up poles and ropes (plenty\nof use).",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-5",
+      "type": "mechanic",
+      "subject": "Pole or rope climbing",
+      "predicate": "requires",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "You must be in a perfect position to grab a pole or rope, so keep trying if you cannot climb right away.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#4",
+          "quote": "Don't get frustrated if you can't climb up right away, because you\nhave to be in an absolutely perfect position to get on a pole or rope.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-4-6",
+      "type": "mechanic",
+      "subject": "Down button",
+      "predicate": "slides",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Down crouches, and Down with Left or Right in one fluid motion slides under obstacles, which works better than pressing Down and then moving.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#4",
+          "quote": "Using\nDown will allow you to crouch, and if you use down with left or right in a\nfluid motion, you can even slide under the obstacles in this course, which is\nmuch more effective than pressing down, and then moving left or right by",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-1",
+      "type": "mechanic",
+      "subject": "Basic Training route",
+      "predicate": "requires",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [
+        598964
+      ],
+      "missable": false,
+      "text": "In Basic Training, follow the arrow signs; they will not mislead you.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "As for a walkthrough of the event, you should basically follow the rule of\nthumb of following the arrow signs.  They won't mislead you.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-2",
+      "type": "event",
+      "subject": "Basic Training",
+      "predicate": "best_time",
+      "object": "4:30-4:50 time remaining",
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [
+        598964
+      ],
+      "missable": false,
+      "text": "The author's best Basic Training times were in the 4:30-4:50 range of time remaining.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "My best times\nhave been somewhere in the 4:30-4:50 range (time remaining), so you can score\nsome nice points in this game.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-3",
+      "type": "item",
+      "subject": "Basic Training",
+      "predicate": "contains_item",
+      "object": "Stopwatch",
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [
+        598956,
+        598964
+      ],
+      "missable": false,
+      "text": "Basic Training has stopwatch pickups that add time to the clock.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "Items you can pick up in Basic Training:",
+          "source_id": "gf2",
+          "stance": "supports"
+        },
+        {
+          "chunk_id": "gf2#5",
+          "quote": "Stopwatches (time bonus) - These little items give you more time to complete\nthe course, which can equal more points in the end for you.  Very helpful.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-4",
+      "type": "item",
+      "subject": "Basic Training",
+      "predicate": "contains_item",
+      "object": "Jumping jack man",
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [
+        598956
+      ],
+      "missable": false,
+      "text": "Basic Training has a jumping jack man that refills the energy meter, though grabbing him is only worth it for about 5 seconds of speed.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "Jumping jack man (meter refiller) - Unless you really want to run fast for\nabout 5 more seconds before you jump too hard and your poor little GUTS\ncontender loses a little chunk of his life, don't bother grabbing one of these.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-5",
+      "type": "mechanic",
+      "subject": "Energy meter",
+      "predicate": "grants",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "A full energy meter makes your character run a little faster.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "It's an energy meter of sort, but only to the point that when it is full, you\nrun a *little* faster.  Not much.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-6",
+      "type": "mechanic",
+      "subject": "Energy meter",
+      "predicate": "decreases",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [
+        598966
+      ],
+      "missable": false,
+      "text": "The energy meter goes down from hard landings, sliding off poles, GUTS bag hits, falling into gaps, and running into the course.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "1. Landing too hard on a jump\n2. Sliding off a pole (you could do it on a rope, but the pole is far more\nlikely)\n3. Getting hit by one of the swinging GUTS bags\n4. Falling down some kind of gap\n5. Running into the course (truly a funny animation)",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-7",
+      "type": "mechanic",
+      "subject": "Energy meter",
+      "predicate": "increases",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The energy meter refills when you stand still or get the jumping jack man's item.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "1. Just stand there and watch your character breathe\n2. Get the jumping jack guy's item to refill the meter",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-5-8",
+      "type": "mechanic",
+      "subject": "Basic Training 2-player",
+      "predicate": "differs_from",
+      "object": "1-player Basic Training",
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The 2-player Basic Training is different from the 1-player version.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#5",
+          "quote": "NOTE: The 2-player Basic Training is different from the one player.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-6-1",
+      "type": "event",
+      "subject": "Spirals",
+      "predicate": "scoring",
+      "object": "5 points per spiral",
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [
+        598950
+      ],
+      "missable": false,
+      "text": "In Spirals, score the most points; each spiral made in the hoop is worth 5 points, within a 2:30 time limit.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#6",
+          "quote": "Object: Score the most points\nScoring: 5 points for every spiral made in the \"hoop\"\nTime Limit: 2:30\n2 Player Mode Scoring: 300 points for 1st place, 100 for 2nd place",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-6-2",
+      "type": "mechanic",
+      "subject": "Spirals",
+      "predicate": "requires",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Spirals, use the Slam Dunk method: press Down to the desired point on the meter and press B at the height of your jump.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#6",
+          "quote": "Just remember the Slam Dunk instructions,\npress down to the desired point on the meter, then go along with the ride and\nat the height of your jump, press B.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-6-3",
+      "type": "mechanic",
+      "subject": "Spirals scoring tip",
+      "predicate": "requires",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "For Spirals, go to the far right, set the power meter to the 5th notch, and release near the basket.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#6",
+          "quote": "Need a little help scoring?  Here's a tip I have working for me.  Go to the\nright as far as you can, and then push your power meter to the 5th notch, not\ntoo much above or below that, just to be safe.  Then, when you get close to the\nbasket, let 'er rip.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-6-4",
+      "type": "mechanic",
+      "subject": "Spirals padding return",
+      "predicate": "requires",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In Spirals, press Down on the way back to avoid falling off the padding.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#6",
+          "quote": "Don't forget to press Down on your way back, so you don't\nfall off the padding like some drunk.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-7-1",
+      "type": "event",
+      "subject": "Tornado Run",
+      "predicate": "scoring",
+      "object": "1 point per second under limit",
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [
+        598953
+      ],
+      "missable": false,
+      "text": "In Tornado Run, reach the finish line in the fastest time; each second under the 7 minute limit is worth 1 point.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#7",
+          "quote": "Object: Get to the finish line in the fastest time\nScoring: 1 point for every second under the time limit\nTime Limit: 7:00\n2 Player Mode Scoring: 300 points for 1st place, 100 for 2nd place",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-7-2",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "differs_from",
+      "object": "Basic Training",
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [
+        598965
+      ],
+      "missable": false,
+      "text": "Tornado Run is like Basic Training but much more challenging.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#7",
+          "quote": "And guess what, it's just like Basic Training, only a lot, lot more\nchallenging.",
+          "source_id": "gf2",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "This is a *slightly* easier version of Tornado Run",
+          "stance": "supports",
+          "note": "Tornado Run is a harder Basic Training"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf2",
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-7-3",
+      "type": "mechanic",
+      "subject": "Tornado Run",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Unless you are a truly beginner, you cannot run out of time in Tornado Run.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#7",
+          "quote": "Unless you are truly a beginner, there's no way\nthat you can run out of time in this event.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf1",
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-7-4",
+      "type": "mechanic",
+      "subject": "Tornado Run controls",
+      "predicate": "requires",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [
+        598965
+      ],
+      "missable": false,
+      "text": "Use X to jump, Down to crouch, Left or Right to crawl while crouching or to run, and Up or Down to climb a pole or rope.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#7",
+          "quote": "Just remember, use X to jump, down to crouch, left/right to crawl while\ncrouching or to run, up/down to climb up and down a pole or rope.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-1",
+      "type": "event",
+      "subject": "Attack",
+      "predicate": "scoring",
+      "object": "5 points per point made",
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [
+        598951
+      ],
+      "missable": false,
+      "text": "In Attack, score the most points within a 2:30 time limit; each point made in the contest is worth 5 points.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "Object: Score the most points\nScoring: 5 points for every point made in the contest\nTime Limit: 2:30\n2 Player Mode Scoring: 300 points for 1st place, 100 for 2nd place",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-2",
+      "type": "mechanic",
+      "subject": "Attack",
+      "predicate": "requires",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Attack uses the same controls as Slam Dunk and Spirals: charge the meter, press B to shoot, and press Down to return to the padding.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "Same controls here, down to charge up meter, B to shoot, and down to get back\nup on the padding.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-3",
+      "type": "mechanic",
+      "subject": "Attack scoring tip",
+      "predicate": "requires",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "One approach that worked for the author in Attack is to stand far right, fill the meter to max, and shoot at the top of the jump.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "Something that worked for me was to get on the far right side of the padding,\nhold the meter to its max, and then shoot at the very top of my jump.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-4",
+      "type": "event",
+      "subject": "Aggro Crag",
+      "predicate": "scoring",
+      "object": "1 point per second under limit",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598954,
+        598967
+      ],
+      "missable": false,
+      "text": "In Aggro Crag, jump on all 6 actuators in the fastest time; each second under the 7 minute limit is worth 1 point.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "Object: Jump on all 6 actuators in the fastest time\nScoring: 1 point for every second under the time limit\nTime Limit: 7:00",
+          "source_id": "gf2",
+          "stance": "supports"
+        },
+        {
+          "source_id": "gf1",
+          "chunk_id": "gf1#2",
+          "quote": "you get 1 point for every second left!",
+          "stance": "supports",
+          "note": "Aggro Crag scoring; gf1 Aggro Crag section"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "gf2",
+        "gf1"
+      ]
+    },
+    {
+      "id": "gf2-8-5",
+      "type": "mechanic",
+      "subject": "Aggro Crag",
+      "predicate": "requires",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598954,
+        598967
+      ],
+      "missable": false,
+      "text": "In Aggro Crag, you must jump on the actuators; you cannot just walk over them.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "Remember, you have to jump on the actuators, you can't just walk over the\nactuators.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-6",
+      "type": "mechanic",
+      "subject": "Aggro Crag",
+      "predicate": "differs_from",
+      "object": "Basic Training and Tornado Run",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag is like Basic Training and Tornado Run but even harder.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "Yeah, this is the event that you've been waiting for.  However, it's just like\nBasic Training and the Tornado Run, except it's even harder than both.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-7",
+      "type": "event",
+      "subject": "Guts show",
+      "predicate": "winner",
+      "object": "most points at end",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "At the end of the game, whoever has the most points wins.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "So, at the end, whoever has the most points at the end of the game wins.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-2-7",
+      "type": "npc",
+      "subject": "Character profiles",
+      "predicate": "has_count",
+      "object": "6 female and 2 male",
+      "location": "Game Setup",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "There are no names for these people, but there are 6 females and 2 males.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#2",
+          "quote": "There are no names for these people, but there are 6 females...and 2\nmales.",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "gf2-8-8",
+      "type": "event",
+      "subject": "Aggro Crag",
+      "predicate": "scoring",
+      "object": "725 for 1st, 325 for 2nd",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "In 2 Player Mode, Aggro Crag scoring is 725 for 1st place and 325 for 2nd place.",
+      "evidence": [
+        {
+          "chunk_id": "gf2#8",
+          "quote": "2 Player Mode Scoring: 725 for 1st place, 325 for 2nd",
+          "source_id": "gf2",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "gf2"
+      ]
+    },
+    {
+      "id": "map-slam-dunk-1-1",
+      "type": "map",
+      "subject": "Slam Dunk",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Slam Dunk Map is the map image for the Slam Dunk area.",
+      "evidence": [
+        {
+          "source_id": "map-slam-dunk",
+          "chunk_id": "map-slam-dunk#1",
+          "quote": "Map: Slam Dunk Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "map-slam-dunk"
+      ]
+    },
+    {
+      "id": "map-basic-training-variant1-1-1",
+      "type": "map",
+      "subject": "Basic Training(Variant1)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Basic Training(Variant1) Map is the map image for the Basic Training(Variant1) area.",
+      "evidence": [
+        {
+          "source_id": "map-basic-training-variant1",
+          "chunk_id": "map-basic-training-variant1#1",
+          "quote": "Map: Basic Training(Variant1) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-basic-training-variant1",
+        "map-basic-training-variant2",
+        "map-basic-training-variant3",
+        "map-basic-training-variant4"
+      ]
+    },
+    {
+      "id": "map-basic-training-variant2-1-1",
+      "type": "map",
+      "subject": "Basic Training(Variant2)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Basic Training(Variant2) Map is the map image for the Basic Training(Variant2) area.",
+      "evidence": [
+        {
+          "source_id": "map-basic-training-variant2",
+          "chunk_id": "map-basic-training-variant2#1",
+          "quote": "Map: Basic Training(Variant2) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-basic-training-variant1",
+        "map-basic-training-variant2",
+        "map-basic-training-variant3",
+        "map-basic-training-variant4"
+      ]
+    },
+    {
+      "id": "map-basic-training-variant3-1-1",
+      "type": "map",
+      "subject": "Basic Training(Variant3)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Basic Training(Variant3) Map is the map image for the Basic Training(Variant3) area.",
+      "evidence": [
+        {
+          "source_id": "map-basic-training-variant3",
+          "chunk_id": "map-basic-training-variant3#1",
+          "quote": "Map: Basic Training(Variant3) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-basic-training-variant1",
+        "map-basic-training-variant2",
+        "map-basic-training-variant3",
+        "map-basic-training-variant4"
+      ]
+    },
+    {
+      "id": "map-basic-training-variant4-1-1",
+      "type": "map",
+      "subject": "Basic Training(Variant4)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Basic Training",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Basic Training(Variant4) Map is the map image for the Basic Training(Variant4) area.",
+      "evidence": [
+        {
+          "source_id": "map-basic-training-variant4",
+          "chunk_id": "map-basic-training-variant4#1",
+          "quote": "Map: Basic Training(Variant4) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-basic-training-variant1",
+        "map-basic-training-variant2",
+        "map-basic-training-variant3",
+        "map-basic-training-variant4"
+      ]
+    },
+    {
+      "id": "map-attack-1-1",
+      "type": "map",
+      "subject": "Attack",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Attack",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Attack Map is the map image for the Attack area.",
+      "evidence": [
+        {
+          "source_id": "map-attack",
+          "chunk_id": "map-attack#1",
+          "quote": "Map: Attack Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "map-attack"
+      ]
+    },
+    {
+      "id": "map-tornado-run-variant1-1-1",
+      "type": "map",
+      "subject": "Tornado Run(Variant1)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tornado Run(Variant1) Map is the map image for the Tornado Run(Variant1) area.",
+      "evidence": [
+        {
+          "source_id": "map-tornado-run-variant1",
+          "chunk_id": "map-tornado-run-variant1#1",
+          "quote": "Map: Tornado Run(Variant1) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-tornado-run-variant1",
+        "map-tornado-run-variant2",
+        "map-tornado-run-variant3",
+        "map-tornado-run-variant4"
+      ]
+    },
+    {
+      "id": "map-tornado-run-variant2-1-1",
+      "type": "map",
+      "subject": "Tornado Run(Variant2)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tornado Run(Variant2) Map is the map image for the Tornado Run(Variant2) area.",
+      "evidence": [
+        {
+          "source_id": "map-tornado-run-variant2",
+          "chunk_id": "map-tornado-run-variant2#1",
+          "quote": "Map: Tornado Run(Variant2) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-tornado-run-variant1",
+        "map-tornado-run-variant2",
+        "map-tornado-run-variant3",
+        "map-tornado-run-variant4"
+      ]
+    },
+    {
+      "id": "map-tornado-run-variant3-1-1",
+      "type": "map",
+      "subject": "Tornado Run(Variant3)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tornado Run(Variant3) Map is the map image for the Tornado Run(Variant3) area.",
+      "evidence": [
+        {
+          "source_id": "map-tornado-run-variant3",
+          "chunk_id": "map-tornado-run-variant3#1",
+          "quote": "Map: Tornado Run(Variant3) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-tornado-run-variant1",
+        "map-tornado-run-variant2",
+        "map-tornado-run-variant3",
+        "map-tornado-run-variant4"
+      ]
+    },
+    {
+      "id": "map-tornado-run-variant4-1-1",
+      "type": "map",
+      "subject": "Tornado Run(Variant4)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Tornado Run",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Tornado Run(Variant4) Map is the map image for the Tornado Run(Variant4) area.",
+      "evidence": [
+        {
+          "source_id": "map-tornado-run-variant4",
+          "chunk_id": "map-tornado-run-variant4#1",
+          "quote": "Map: Tornado Run(Variant4) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-tornado-run-variant1",
+        "map-tornado-run-variant2",
+        "map-tornado-run-variant3",
+        "map-tornado-run-variant4"
+      ]
+    },
+    {
+      "id": "map-spirals-1-1",
+      "type": "map",
+      "subject": "Spirals",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Spirals",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Spirals Map is the map image for the Spirals area.",
+      "evidence": [
+        {
+          "source_id": "map-spirals",
+          "chunk_id": "map-spirals#1",
+          "quote": "Map: Spirals Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "map-spirals"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant1-blue-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant1)(Blue)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant1)(Blue) Map is the map image for the Aggro Crag(Variant1)(Blue) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant1-blue",
+          "chunk_id": "map-aggro-crag-variant1-blue#1",
+          "quote": "Map: Aggro Crag(Variant1)(Blue) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant1-red-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant1)(Red)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant1)(Red) Map is the map image for the Aggro Crag(Variant1)(Red) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant1-red",
+          "chunk_id": "map-aggro-crag-variant1-red#1",
+          "quote": "Map: Aggro Crag(Variant1)(Red) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant2-blue-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant2)(Blue)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant2)(Blue) Map is the map image for the Aggro Crag(Variant2)(Blue) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant2-blue",
+          "chunk_id": "map-aggro-crag-variant2-blue#1",
+          "quote": "Map: Aggro Crag(Variant2)(Blue) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant2-purple-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant2)(Purple)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant2)(Purple) Map is the map image for the Aggro Crag(Variant2)(Purple) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant2-purple",
+          "chunk_id": "map-aggro-crag-variant2-purple#1",
+          "quote": "Map: Aggro Crag(Variant2)(Purple) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant3-purple-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant3)(Purple)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant3)(Purple) Map is the map image for the Aggro Crag(Variant3)(Purple) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant3-purple",
+          "chunk_id": "map-aggro-crag-variant3-purple#1",
+          "quote": "Map: Aggro Crag(Variant3)(Purple) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant3-red-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant3)(Red)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant3)(Red) Map is the map image for the Aggro Crag(Variant3)(Red) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant3-red",
+          "chunk_id": "map-aggro-crag-variant3-red#1",
+          "quote": "Map: Aggro Crag(Variant3)(Red) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant4-blue-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant4)(Blue)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant4)(Blue) Map is the map image for the Aggro Crag(Variant4)(Blue) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant4-blue",
+          "chunk_id": "map-aggro-crag-variant4-blue#1",
+          "quote": "Map: Aggro Crag(Variant4)(Blue) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-aggro-crag-variant4-red-1-1",
+      "type": "map",
+      "subject": "Aggro Crag(Variant4)(Red)",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Aggro Crag(Variant4)(Red) Map is the map image for the Aggro Crag(Variant4)(Red) area.",
+      "evidence": [
+        {
+          "source_id": "map-aggro-crag-variant4-red",
+          "chunk_id": "map-aggro-crag-variant4-red#1",
+          "quote": "Map: Aggro Crag(Variant4)(Red) Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-aggro-crag-variant1-blue",
+        "map-aggro-crag-variant1-red",
+        "map-aggro-crag-variant2-blue",
+        "map-aggro-crag-variant2-purple",
+        "map-aggro-crag-variant3-purple",
+        "map-aggro-crag-variant3-red",
+        "map-aggro-crag-variant4-blue",
+        "map-aggro-crag-variant4-red"
+      ]
+    },
+    {
+      "id": "map-bonus-round1-1-1",
+      "type": "map",
+      "subject": "Bonus Round1",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Bonus Round1 Map is the map image for the Bonus Round1 area.",
+      "evidence": [
+        {
+          "source_id": "map-bonus-round1",
+          "chunk_id": "map-bonus-round1#1",
+          "quote": "Map: Bonus Round1 Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-bonus-round1",
+        "map-bonus-round2"
+      ]
+    },
+    {
+      "id": "map-bonus-round2-1-1",
+      "type": "map",
+      "subject": "Bonus Round2",
+      "predicate": "has_map",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "Bonus Round2 Map is the map image for the Bonus Round2 area.",
+      "evidence": [
+        {
+          "source_id": "map-bonus-round2",
+          "chunk_id": "map-bonus-round2#1",
+          "quote": "Map: Bonus Round2 Map",
+          "stance": "supports"
+        }
+      ],
+      "status": "verified",
+      "sources": [
+        "map-bonus-round1",
+        "map-bonus-round2"
+      ]
+    },
+    {
+      "id": "ra-comments-1-1",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "how_to_unlock",
+      "object": "knock off all balls in 55 seconds",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": true,
+      "text": "Gotta Collect 'Em All requires knocking off all the balls in 55 seconds with 35 seconds or more left on the clock.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "Knocking off all the balls in 55 seconds (35 seconds or more left on the clock) is quite the challenge.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-2",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "how_to_unlock",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "The commenter says the achievement must be executed efficiently from start to finish.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "You really need to be efficient from start to finish.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-3",
+      "type": "tip",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "how_to_unlock",
+      "object": null,
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "The arm hitbox can be surprising when collecting balls, but the commenter says the achievement is doable.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "First time you do it, you might think \"how is possible?\" or you won't believe the hit box of your arms in collecting the balls at times. But it is doable.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-4",
+      "type": "tip",
+      "subject": "Aggro Crag",
+      "predicate": "how_to_unlock",
+      "object": "take your time on Advanced",
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598954,
+        598955
+      ],
+      "missable": false,
+      "text": "On Advanced difficulty, the commenter advises taking your time on the Aggro Crag because some parts ahead are off-screen and cannot be seen.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "Only other piece of advice is when you do the Aggro Crag on Advanced, take your time. This is classic NES/SNES platforming in a few spots where you can't see what is ahead of you off the screen.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-5",
+      "type": "tip",
+      "subject": "Aggro Crag",
+      "predicate": "how_to_unlock",
+      "object": null,
+      "location": "Aggro Crag",
+      "requires": [],
+      "achievement_ids": [
+        598954,
+        598967
+      ],
+      "missable": false,
+      "text": "Falling to the bottom while halfway up is very painful, but the commenter says the timer is pretty generous.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "But falling to the bottom when you are halfway up is insanely painful. But the timer for this is pretty generous.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-6",
+      "type": "tip",
+      "subject": "Basic Training, Tornado Run, Aggro Crag",
+      "predicate": "tip_for",
+      "object": null,
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The commenter says Basic Training, Tornado Run and Aggro Crag are fun to optimize despite movement jank.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "but Basic Training, Tornado Run and Aggro Crag can be fun to optimize despite some jank movement.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-1-7",
+      "type": "tip",
+      "subject": "Aerial Challenges",
+      "predicate": "tip_for",
+      "object": null,
+      "location": null,
+      "requires": [],
+      "achievement_ids": [],
+      "missable": false,
+      "text": "The commenter considers the aerial events somewhat redundant.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#1",
+          "quote": "The aerial events are kinda redundant",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-1",
+      "type": "achievement",
+      "subject": "It's All about That Rebound",
+      "predicate": "requirement_changed_to",
+      "object": "20+ successful shots",
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598958
+      ],
+      "missable": false,
+      "text": "The requirement was reduced to 20+ successful shots, which is obtainable with any character.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#12",
+          "quote": "So I've dialed it back to 20+ shots which is obtainable with any character and still a bit on the tougher side.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-2",
+      "type": "achievement",
+      "subject": "It's All about That Rebound",
+      "predicate": "tip",
+      "object": "30 attempts",
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598958
+      ],
+      "missable": false,
+      "text": "Jumping off without filling the jump meter and quickly discarding the ball barely allows 30 attempts.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#12",
+          "quote": "If you jump off the platform without filling any of your jump meter, get rid of the ball as fast as you can on your attempt and jump back up, you BARELY have enough time to get 30 of those \"attempts\" in.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-3",
+      "type": "achievement",
+      "subject": "It's All about That Rebound",
+      "predicate": "max_attempts",
+      "object": "24 attempts",
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598958
+      ],
+      "missable": false,
+      "text": "If every attempt must be made and converted, the most attempts possible is 24.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#12",
+          "quote": "If you're trying to make/convert each attempt, then the most you can get in is 24 attempts.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-12-4",
+      "type": "achievement",
+      "subject": "It's All about That Rebound",
+      "predicate": "advised_character",
+      "object": "Basketball-favorite characters",
+      "location": "Slam Dunk",
+      "requires": [],
+      "achievement_ids": [
+        598958
+      ],
+      "missable": false,
+      "text": "Two characters whose favorite sport is basketball are ideal for this achievement.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#12",
+          "quote": "There are 2 characters whose favorite sport is basketball which is ideal for this.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-1",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "requirement_changed_to",
+      "object": "35 seconds",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "The bonus-round time requirement was raised from 25 to 35 seconds because 25 was too close to the wire.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "I pushed this back to 35 seconds based on similar thoughts from the 30 shots on the Aerial Challenges comment....But I think for only 10 points 25 seconds was way, way too close to the wire.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-2",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "bounce strategy",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Bounce while clearing each vertical section of balls, constantly moving forward to the next.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "Basically, you want to try to bounce where your clearing each vertical section of balls as you go, where your are constantly moving forward.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-3",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "ball layout per wall",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Leave only a couple of balls in a line on each wall, then jump up into them while moving forward to the next.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "the way this one worked was you had to really work it out so there were only like a couple of balls left in a line on a wall and you had to jump up into them as you moved forward to the next one.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-4",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "vertical hang",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Players may get stopped in a vertical hang and must desperately recover their bounce momentum.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "you may not always bounce forward and end up getting stopped in a vertical hang, and having to desperately recover your bounce momentum.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-5",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "save states",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "One player unlocked with save states and had 39.4 seconds left, showing some room for error.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "Even with save states, that's a challenging time requirement. I did unlock with 39.4 left on the clock with save states, so I guess you do have some slight room for error.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-6",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "practice and save states",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Practice or save states help learn ball positions and spacing between board sections.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "With practice or ideally save states, you better understand where balls are positioned, distance between ball board sections, and how your bouncing will go.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-7",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "board order",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Board order is random, which matters at the start since you begin with 0 momentum.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "and there's RNG for what the board order is, which matters in the very beginning since you start with 0 momentum.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-8",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "basic training retry",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Each retry requires running through Basic Training first.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "since you have to run through basic training just to get another attempt in",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-9",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "board swipes",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "The smallest board takes 2 swipes, and the big boards take at least 3 swipes.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "The smallest board can be done in 2 swipes pretty easily, the tall narrow board can be done in 2 swipes if it isn't the first board you encounter, but the big boards always take at least 3 swipes and often times 4.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-10",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "55 seconds",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "One player tried every character and their fastest time was 55 seconds.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "I have done a couple hours of attempts on this and tried every character, but the fastest I have gotten is 55 seconds.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-11",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "character difference",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "Character choice made no noticeable difference for this achievement.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "Unlike the aerial challenge, I didn't notice a difference in how the characters worked here.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-12",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "tip",
+      "object": "suggested points",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "A commenter suggested rescoring this achievement as a 25-point achievement.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "Personally, I would rescore this as 25 point achievement honestly.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    },
+    {
+      "id": "ra-comments-16-13",
+      "type": "achievement",
+      "subject": "Gotta Collect 'Em All",
+      "predicate": "requires",
+      "object": "working achievement logic",
+      "location": "Bonus Round",
+      "requires": [],
+      "achievement_ids": [
+        598962
+      ],
+      "missable": false,
+      "text": "A logic problem meant the achievement would not have triggered even when done right; the logic was changed.",
+      "evidence": [
+        {
+          "chunk_id": "ra-comments#16",
+          "quote": "One, apparently there was a weird situation in the achievement anyway, so it wouldn't have worked even if you did it right.",
+          "source_id": "ra-comments",
+          "stance": "supports"
+        }
+      ],
+      "status": "single_source",
+      "sources": [
+        "ra-comments"
+      ]
+    }
+  ]
+}

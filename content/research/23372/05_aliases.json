@@ -1,0 +1,8 @@
+{
+  "Game Setup": ["Options", "Options Menu", "Setup", "Opening Screen", "Title Screen"],
+  "Bonus Round": ["Bonus Event", "Bonus Round1", "Bonus Round 1", "Bonus Round2", "Bonus Round 2", "Off The Wall", "bonus section"],
+  "Aggro Crag": ["The Aggro Crag", "Crag", "Aggressive Rock", "Aggro Crag(Variant1)(Blue)", "Aggro Crag(Variant1)(Red)", "Aggro Crag(Variant2)(Blue)", "Aggro Crag(Variant2)(Purple)", "Aggro Crag(Variant3)(Purple)", "Aggro Crag(Variant3)(Red)", "Aggro Crag(Variant4)(Blue)", "Aggro Crag(Variant4)(Red)"],
+  "Basic Training": ["Basic Training(Variant1)", "Basic Training(Variant2)", "Basic Training(Variant3)", "Basic Training(Variant4)"],
+  "Tornado Run": ["Tornado Run(Variant1)", "Tornado Run(Variant2)", "Tornado Run(Variant3)", "Tornado Run(Variant4)"],
+  "GUTS Show": ["Guts Show", "Show", "GUTS Challenge"]
+}

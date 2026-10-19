@@ -1,0 +1,140 @@
+{
+  "beginner_friendliness": 84,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 13,
+      "description": "Removed the made-up claim 'The Aggro Crag is not rewarded for a one-player game'. gf2 says Guts Training still tells you 700 points are needed for the Crag (gf2-2-3). As written, it would have pushed solo players away from Piece of the Rock and Yodelayheehoo!. Also reworded line 102 to 'no source says a two-player game is needed'."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 69,
+      "description": "Removed the made-up claim 'Attack is only scored as an official result in a two-player game'. gf2-2-2 only says a one-player game counts as training."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 19,
+      "description": "Removed a leftover writer note that sat inside citation brackets: '[[gf2#2 is not a fact id; see cited facts below]]'."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 78,
+      "description": "598947 What's This Show Called Again?: the text called 'Shout GUTS!' its title (it is the description) and added a made-up hint ('check it again after you finish more of the game'). Rewrote it to say only 'Unable to verify from collected sources' and that no steps are given, as the user decided."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 119,
+      "description": "The sources disagree on the Bonus Round clock. gf1-2-24 gives 1:00, but ra-comments-1-1 says 'clear in 55 seconds with 35+ left', which implies about 1:30. The chapter stated both numbers as fact. Changed chapter 5 (lines 9, 112, 115, 119) and the overview to tell the player to aim for 0:35+ on the on-screen clock and to mark the starting time as unverified."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "hallucination",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 125,
+      "description": "Removed the made-up advice 'Restart if you dislike the draw' for the Bonus Round board order. No restart exists; a new draw means running Basic Training again (ra-comments-16-8)."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "boss",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 56,
+      "description": "Sky Dancer had no special-shot input ('Unable to verify'). gf1 says Spirals is done exactly like Attack (gf1-2-9) and gives the Spirals special as X and Y pressed close together (gf1-2-10). Added that input to the step list and the scoring table."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 12,
+      "description": "'Be careful about which mode and player count you pick' implied, without a source, that one-player games may not count. Reworded: no source says training mode affects achievements."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 7,
+      "description": "Removed 'It is the third event of a GUTS Show'. No source gives the show order or which events a show contains."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 42,
+      "description": "The chapter stated that a Spirals special is worth 10 points, then called that unverified. Merged the two into one hedged statement."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 23,
+      "description": "Headings used raw graph node IDs (Crag_Qualify, Aggro_Crag, Crag_Actuators, Crag_Summit, Piece_of_the_Rock). Replaced them with the roadmap area labels."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "missable",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 12,
+      "description": "The 700-point warnings in chapters 1 and 8 were labelled 'Missable', but the roadmap lists no missable for those chapters (the missable is in chapter 7). Relabelled them 'Achievement Trigger Warning'."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "citation",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 18,
+      "description": "Fixed wrong citations: ch2 basketball characters gf1-1-3 -> gf1-1-9/gf1-1-10; ch2 color gf2-2-2 -> gf2-2-5; ch4 stumble warning gf2-8-2 -> gf2-3-4; ch7 Event Setups gf1-1-3 -> gf1-1-1. Also stopped calling Rebound a special-shot achievement in the ch2 exit tip."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 45,
+      "description": "Chapter 6 is thin because the sources barely cover Tornado Run (17 facts) and give no route or splits for 2:25. That gap is labelled 'Unable to verify'. Added sourced tips: let the character breathe when stamina is low (gf1-2-6, gf2-5-7), and Obstacle Course and Artful Dodger also accept Tornado Run (gf1-2-13)."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "minor",
+      "category": "hardcore",
+      "status": "open",
+      "file": "08_chapters/00_overview.md",
+      "line": 47,
+      "description": "Kept on purpose: QA flags 'save states', but the overview mentions them only to say Hardcore forbids them."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Sports / game-show event collection",
+    "categories": [
+      {
+        "name": "Events Finished in a GUTS Show",
+        "description": "Every event (Slam Dunk, Spirals, Attack, Basic Training, Tornado Run) finished with a score inside a GUTS Show, plus the Aggro Crag summit for a Piece of the Rock.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Event Mastery Challenges",
+        "description": "The per-event skill challenges: special-shot-only scores, 5 specials in a row, 20+ shots, every Basic Training pickup, no-hit and timed finishes, and a fast Aggro Crag climb.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Bonus Round Clear",
+        "description": "Every ball knocked off the wall in the Bonus Round, once with 0:35 or more left on the clock.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Advanced GUTS Challenge",
+        "description": "A full GUTS Show won, Aggro Crag included, on the Advanced level.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": ["events finished", "achievements"]
+  },
+  "playthroughs": 2,
+  "playthrough_notes": "Plan on at least two GUTS Shows: a Beginner show (or several) for the event, Bonus Round and Aggro Crag achievements, then one on Advanced for Do You Have It? (598955). A GUTS Show has 4 events (gf1-1-3), but the game has five non-Crag events. The sources do not say which events a show contains or in what order, so keep playing shows until every [Guts Show] event achievement (598949-598953) has unlocked. Retrying the Bonus Round means running through Basic Training again (ra-comments-16-8). No source reports achievements that lock each other out.",
+  "settings_notes": "Hardcore Mode. Level: Beginner or Advanced is set on the options screen (gf1-1-2). Only Do You Have It? (598955) requires Advanced. Event Setups can be left on: turning it off hides each event's name, object and scoring (gf2-2-1). Character choice made no noticeable difference in the Bonus Round (ra-comments-16-11), but basketball characters are ideal for It's All about That Rebound (ra-comments-12-4).",
+  "fact_ids": ["gf1-1-2", "gf1-1-3", "gf1-1-4", "gf2-2-1", "gf2-2-2", "ra-comments-16-8", "ra-comments-16-11", "ra-comments-12-4", "ra-comments-1-6"],
+  "counter_totals": { "Events Finished in a GUTS Show": 6 },
+  "missables": [
+    {
+      "achievement_id": 598963,
+      "label": "Similar Quality to Ballz: clear every ball in the Bonus Round",
+      "deadline": "Before the Bonus Round's 1:00 clock runs out; another attempt means running Basic Training again",
+      "chapter": 5,
+      "fact_ids": ["gf1-2-24", "gf1-2-26", "gf1-2-27", "ra-comments-16-8"]
+    },
+    {
+      "achievement_id": 598962,
+      "label": "Gotta Collect 'Em All: clear every ball with 0:35 or more left",
+      "deadline": "Every ball must be off the wall with at least 35 seconds left on the Bonus Round clock; another attempt means running Basic Training again",
+      "chapter": 5,
+      "fact_ids": ["ra-comments-1-1", "ra-comments-16-1", "ra-comments-16-7", "ra-comments-16-8"]
+    },
+    {
+      "achievement_id": 598967,
+      "label": "Yodelayheehoo!: reach the top of the Aggro Crag in 1:40 or less",
+      "deadline": "The Aggro Crag is only reached with 700+ points in a GUTS Show; falling even 1 point short skips it",
+      "chapter": 7,
+      "fact_ids": ["gf1-1-4", "gf2-2-3", "gf2-8-4"]
+    }
+  ],
+  "ponr": [],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Game Setup and Options",
+      "areas": ["Game_Setup", "GUTS_Show"],
+      "achievement_ids": [598947],
+      "fact_ids": ["gf1-1-1", "gf1-1-2", "gf1-1-3", "gf1-1-6", "gf1-1-7", "gf2-2-1", "gf2-2-2", "gf2-2-4", "gf2-2-5", "gf2-2-6", "gf2-2-7"],
+      "counters": { "Events Finished in a GUTS Show": 0 },
+      "notes": "What's This Show Called Again? (598947, 'Shout GUTS!') has no source anywhere: not in either guide, not in the RA comments, and not in any web page searched. The writer must say 'Unable to verify' for its trigger and must not guess. Explain the options screen (Player, Level Beginner/Advanced, Music, Event Setups), GUTS Show vs Single Event, color and character select. The sources do not say whether Single Event attempts count for the non-[Guts Show] challenges; do not claim either way."
+    },
+    {
+      "n": 2,
+      "title": "Slam Dunk",
+      "areas": ["Slam_Dunk", "Slam_Dunk_Specials"],
+      "achievement_ids": [598949, 598959, 598957, 598958],
+      "fact_ids": ["gf1-2-14", "gf1-2-15", "gf1-2-16", "gf1-2-17", "gf2-3-1", "gf2-3-2", "gf2-3-3", "gf2-3-4", "ra-comments-12-1", "ra-comments-12-2", "ra-comments-12-3", "ra-comments-12-4"],
+      "counters": { "Events Finished in a GUTS Show": 1 },
+      "notes": "Slam Dunk is the easiest event (gf1-2-17), and its X+Y special is easier than the regular shot (gf1-2-15), so do the 'any Aerial Challenge' achievements here: Like Quickdraw McGraw (5 specials in a row, 598957) and It's All about That Rebound (20+ shots without tripping off the platform, 598958). We Wanna Be Like Mike (598959) needs 30+ points from special shots only. Come On and Slam (598949) must be finished with a score inside a GUTS Show."
+    },
+    {
+      "n": 3,
+      "title": "Spirals",
+      "areas": ["Spirals", "Spirals_Specials"],
+      "achievement_ids": [598950, 598961],
+      "fact_ids": ["gf1-2-8", "gf1-2-9", "gf1-2-10", "gf2-6-1", "gf2-6-2", "gf2-6-3", "gf2-6-4"],
+      "counters": { "Events Finished in a GUTS Show": 1 },
+      "notes": "Spirals plays like Attack (gf1-2-9) and uses the Slam Dunk meter method (gf2-6-2). Specials take X and Y pressed close together but not at the same instant (gf1-2-10). Wowing the Crowd (598961) needs 30+ points from specials only. The Spiraly Thing (598950) must be finished with a score inside a GUTS Show."
+    },
+    {
+      "n": 4,
+      "title": "Attack",
+      "areas": ["Attack", "Attack_Specials"],
+      "achievement_ids": [598951, 598960],
+      "fact_ids": ["gf1-1-16", "gf1-1-17", "gf1-1-18", "gf1-1-19", "gf2-8-1", "gf2-8-2", "gf2-8-3"],
+      "counters": { "Events Finished in a GUTS Show": 1 },
+      "notes": "Attack specials are worth 10 points (gf1-1-17) but are the hardest specials to land (gf1-1-18). The two guides give different shooting positions (gf1: far left, 4th-5th notch; gf2: far right, full meter at the top of the jump). Present both as alternatives. Sky Dancer (598960) needs 30+ points from specials only. What Is This, an Action RPG? (598951) must be finished with a score inside a GUTS Show."
+    },
+    {
+      "n": 5,
+      "title": "Basic Training and the Bonus Round",
+      "areas": ["Basic_Training", "BT_Stopwatches", "BT_Jumping_Jack", "Bonus_Round"],
+      "achievement_ids": [598952, 598964, 598956, 598966, 598963, 598962],
+      "fact_ids": ["gf1-2-11", "gf1-2-12", "gf1-2-13", "gf2-4-1", "gf2-4-2", "gf2-4-6", "gf2-5-1", "gf2-5-2", "gf2-5-3", "gf2-5-4", "gf2-5-5", "gf2-5-6", "gf2-5-7", "gf2-5-8", "gf1-2-24", "gf1-2-25", "gf1-2-26", "gf1-2-27", "ra-comments-1-1", "ra-comments-1-2", "ra-comments-1-3", "ra-comments-16-1", "ra-comments-16-2", "ra-comments-16-3", "ra-comments-16-4", "ra-comments-16-7", "ra-comments-16-8", "ra-comments-16-9", "ra-comments-16-10", "ra-comments-16-11"],
+      "counters": { "Events Finished in a GUTS Show": 1 },
+      "notes": "Basic Training is the shorter, easier version of Tornado Run (gf1-2-13), so do the 'any Track Challenge' achievements here. It's an Obstacle Course (598956) means every pickup; the only pickups the sources name are the stopwatches and the jumping jack man (gf2-5-3, gf2-5-4), and no source counts them per course. Artful Dodger (598966) needs a finish in 3:20 or less with no bump or hit; gf2-5-6 lists what drains the energy meter (hard landings, sliding off poles, GUTS bag hits, gaps, running into the course). gf2's best runs of 4:30-4:50 left on the 6:00 clock (gf2-5-2) mean 1:10-1:30 elapsed, well inside Call Me Barry Allen's 1:45 (598964). The Bonus Round follows Basic Training (ra-comments-16-8). Similar Quality to Ballz (598963) and Gotta Collect 'Em All (598962) are flagged missable: warn before the Bonus Round starts. The source does not say how the five Track/Bonus challenges combine in one run, so suggest separate attempts. Move Out, Private! (598952) must reach the finish line inside a GUTS Show."
+    },
+    {
+      "n": 6,
+      "title": "Tornado Run",
+      "areas": ["Tornado_Run"],
+      "achievement_ids": [598953, 598965],
+      "fact_ids": ["gf1-2-1", "gf1-2-2", "gf1-2-3", "gf1-2-4", "gf1-2-5", "gf1-2-6", "gf1-2-7", "gf2-7-1", "gf2-7-2", "gf2-7-3", "gf2-7-4"],
+      "counters": { "Events Finished in a GUTS Show": 1 },
+      "notes": "Tornado Run is a much harder Basic Training (gf2-7-2). Being hit with no stamina left fails the event automatically (gf1-2-6). No source gives a target route or split for the 2:25 time in Most Extreme Elimination Challenge (598965); the writer gives only the sourced movement tips and must not invent a route. Tengu Man Would Be Proud (598953) must reach the finish line inside a GUTS Show. The guides disagree on which button jumps (gf1: X Super Jump and Y basic jump; gf2: X jumps). Present gf1's two-jump description and note gf2 mentions only X."
+    },
+    {
+      "n": 7,
+      "title": "The Aggro Crag",
+      "areas": ["Crag_Qualify", "Aggro_Crag", "Crag_Actuators", "Crag_Summit", "Piece_of_the_Rock"],
+      "achievement_ids": [598954, 598967],
+      "fact_ids": ["gf1-1-4", "gf2-2-3", "gf1-2-18", "gf1-2-19", "gf1-2-20", "gf1-2-21", "gf1-2-22", "gf1-2-23", "gf1-3-1", "gf1-3-2", "gf2-8-4", "gf2-8-5", "gf2-8-6", "gf2-8-7", "ra-comments-1-5"],
+      "counters": { "Events Finished in a GUTS Show": 1 },
+      "notes": "The Aggro Crag needs 700+ points from the show's events (gf1-1-4, gf2-2-3). Warn about that before the show's events, since Yodelayheehoo! (598967) is flagged missable. You must jump on all 6 actuators, not walk over them (gf2-8-4, gf2-8-5), and hit each one before the last goes down (gf1-2-20). No source gives a route or split for the 1:40 climb; give only the sourced tips. gf1-2-23 says you take home a piece of the rock even without reaching the top, but Piece of the Rock (598954) requires completing the Aggro Crag. Do not tell players a failed climb earns the achievement."
+    },
+    {
+      "n": 8,
+      "title": "Advanced GUTS Challenge",
+      "areas": ["Advanced_Level"],
+      "achievement_ids": [598955],
+      "fact_ids": ["gf1-1-2", "ra-comments-1-4", "ra-comments-1-5", "gf1-1-4"],
+      "counters": { "Events Finished in a GUTS Show": 0 },
+      "notes": "Set Level to Advanced (gf1-1-2) and win a full GUTS Show including the Aggro Crag. On Advanced, take the Crag slowly: some parts ahead are off-screen, but the timer is generous (ra-comments-1-4, ra-comments-1-5). The 700-point Crag requirement still applies (gf1-1-4)."
+    }
+  ],
+  "unverifiable_achievement_ids": [598947]
+}

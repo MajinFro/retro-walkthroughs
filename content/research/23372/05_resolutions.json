@@ -1,0 +1,12 @@
+[
+  {
+    "fact_id": "gf2-8-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|aggro crag|scoring): gf2-8-4 is the 1-player scoring (1 point per second under the 7:00 limit); gf2-8-8 is the separate 2 Player Mode placement scoring (725 / 325). Different modes, not contradictory; both facts kept."
+  },
+  {
+    "fact_id": "gf2-8-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|aggro crag|scoring): 2 Player Mode placement scoring, complementary to the 1-player per-second scoring in gf2-8-4; both facts kept."
+  }
+]
