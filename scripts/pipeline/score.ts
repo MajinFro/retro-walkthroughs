@@ -55,6 +55,9 @@ const penalty = (list: Review["issues"]) => list.reduce((s, i) => s + (i.severit
 
 // source coverage: number of substantive independent guide sources (>=10k chars) + share of guide chunks that yielded facts
 const guideSources = sources.filter(isSubstantiveGuide).length; // RA guide and maps excluded (see lib.ts)
+// When Stage 2 searched exhaustively and wrote _fewer_guides.txt, score against the guides that exist instead of MIN_GUIDES.
+const fewerGuides = guideSources > 0 && fs.existsSync(path.join(P.sourcesDir, "_fewer_guides.txt"));
+const guideTarget = fewerGuides ? Math.min(MIN_GUIDES, guideSources) : MIN_GUIDES;
 const factChunks = new Set(verified.facts.flatMap((f) => f.evidence.map((e) => e.chunk_id)));
 const processed = new Set(factChunks);
 const skipFile = path.join(P.factsDir, "_skipped.txt");
@@ -87,7 +90,7 @@ const true100Score = clamp(
 );
 
 const scores = {
-  source_coverage: clamp(0.4 * Math.min(100, (guideSources / MIN_GUIDES) * 100) + 0.6 * chunkCov),
+  source_coverage: clamp(0.4 * Math.min(100, (guideSources / guideTarget) * 100) + 0.6 * chunkCov),
   accuracy: clamp(pct(m.paragraphs_cited, m.paragraphs) * (1 - m.citations_broken / Math.max(1, m.citations)) - penalty(openOf(/accura|unsupport|contradict|halluc/i))),
   achievement_coverage: clamp(pct(m.achievements_placed_correctly - 0.5 * (m.achievements_placed_correctly - m.achievements_supported), m.achievements_total) - penalty(openOf(/achiev/i))),
   missable_coverage: clamp(pct(m.missables_warned + m.ponr_warned, m.missables + m.ponr) - penalty(openOf(/missab|ponr|no return/i))),
