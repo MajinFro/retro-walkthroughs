@@ -10,9 +10,10 @@ description: Stage 8 of the walkthrough pipeline. Writes exhaustive, idiot-proof
 **Absolute Rules:**
 1. **Source-Bound Only:** You must NOT use model memory or general game knowledge. You may only state what is supported in your chapter packet.
 2. **Every Claim Must Cite Evidence:** Every substantive instruction, navigation step, treasure location, and boss tip must cite its fact ID using `[[fact_id]]` (e.g. `[[gf1-117-1]]` or `[[gf1-117-1, neo1-84-2]]`). This includes the chapter's opening summary, "Before you leave" tips and the overview's general advice: give each such paragraph the fact ids it summarizes. `rw:qa` flags every paragraph of 12+ words without a citation; only the end-of-chapter `- [ ]` checklist (a recap of cited steps) is exempt.
-3. **Never Invent Data:** If a detail is missing from sources, write: `"Unable to verify from collected sources."`
+3. **Never Invent Data:** If a detail is missing from sources, write: `"Unable to verify from collected sources."` This includes game rules and mechanics: never fill a gap with a rule that sounds plausible (what a mode does or does not reward, how scoring counts, whether a restart or reroll exists, what unlocks something). If the packet does not state the rule, do not state it either, and do not cite a fact that only covers part of the claim. In 23372 the review removed "the Aggro Crag is not rewarded in a one-player game" and "restart if you dislike the draw": both were guesses with a nearby citation.
 4. **Preserve Raw ASCII Maps:** If the source passages contain an ASCII map, copy it verbatim inside a code block. Do NOT invent new ASCII maps.
 5. **Hardcore Mode:** Assume Hardcore Mode (no save states, no cheat codes, no rewinds).
+6. **Citation brackets hold fact ids only:** `[[...]]` contains nothing but comma-separated fact ids from the packet. Never put notes, explanations or section names inside them; `rw:write` and `rw:qa` reject anything else.
 
 ---
 

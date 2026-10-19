@@ -490,6 +490,9 @@ export function loadChunks(p: string): Map<string, Chunk> {
 
 export const CITE_RE = /\[\[([A-Za-z0-9_\-]+(?:\s*,\s*[A-Za-z0-9_\-]+)*)\]\]/g;
 export const ACH_RE = /\[ACHIEVEMENT:\s*(\d+)\s*\]/g;
+/** [[...]] blocks that are not a list of fact ids, e.g. a writer note left in citation brackets (23372 ch1). */
+export const malformedCites = (text: string): string[] =>
+  [...text.matchAll(/\[\[([^\]\n]*)\]\]/g)].map((m) => m[0]).filter((s) => !new RegExp(`^${CITE_RE.source}$`).test(s));
 export const MERMAID_RE = /\[MERMAID\]/g;
 
 export function chapterFile(n: number | string) {

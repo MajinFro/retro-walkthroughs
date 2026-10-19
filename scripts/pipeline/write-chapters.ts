@@ -22,6 +22,7 @@ import {
   ACH_RE,
   type AchievementsFile,
   CITE_RE,
+  malformedCites,
   type VerifiedFact,
   chapterFile,
   flag,
@@ -146,8 +147,19 @@ function tidyTags(t: string, text: string): { text: string; fixed: number } {
   let fixed = 0;
   const out: string[] = [];
   lines.forEach((l, i) => {
-    // only whole tag lines go: a tag inside a sentence leaves broken prose, so that one stays for the repair call
-    if (!/^\s*(\[ACHIEVEMENT:\s*\d+\s*\]\s*)+$/.test(l)) return void out.push(l);
+    // a tag mid-sentence leaves broken prose, so that one stays for the repair call; a tag at the start of a line
+    // (after any list/quote marker) or at its end is a marker, not a word, and can go (23372: the only repair call)
+    if (!/^\s*(\[ACHIEVEMENT:\s*\d+\s*\]\s*)+$/.test(l)) {
+      const drop = (_tag: string, id: string) => {
+        const a = Number(id);
+        if (assigned.has(a) && keepAt.get(a) === i) return false;
+        return fixed++, true;
+      };
+      const nl = l
+        .replace(/^(\s*(?:[-*+>]|\d+\.)?\s*)\[ACHIEVEMENT:\s*(\d+)\s*\]\s*/, (all, pre, id) => (drop(all, id) ? pre : all))
+        .replace(/\s*\[ACHIEVEMENT:\s*(\d+)\s*\]\s*$/, (all, id) => (drop(all, id) ? "" : all));
+      return void out.push(nl);
+    }
     const kept = new Set<number>();
     const nl = l.replace(new RegExp(ACH_RE.source, "g"), (tag, id) => {
       const a = Number(id);
@@ -164,6 +176,8 @@ function problems(t: string, text: string): string[] {
   const out: string[] = [];
   const bad = [...new Set([...text.matchAll(CITE_RE)].flatMap((m) => m[1].split(/\s*,\s*/)).filter((f) => !usable.has(f)))];
   if (bad.length) out.push(`cites fact ids that are not usable facts: ${bad.slice(0, 20).join(", ")} — cite only ids from the packet`);
+  const malformed = malformedCites(text);
+  if (malformed.length) out.push(`malformed citations: ${malformed.slice(0, 5).join(" ")} — [[...]] may hold only comma-separated fact ids from the packet; put any explanation in the prose or drop it`);
   const tags = [...text.matchAll(ACH_RE)].map((m) => Number(m[1]));
   const drafting = text.match(DRAFTING_RE);
   if (drafting) out.push(`contains a drafting note ("${drafting[0]}") — remove it; the reply is published as-is`);

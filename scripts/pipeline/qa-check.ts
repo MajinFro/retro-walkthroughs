@@ -12,6 +12,7 @@ import {
   ACH_RE,
   type AchievementsFile,
   CITE_RE,
+  malformedCites,
   type Chunk,
   type VerifiedFact,
   chapterFile,
@@ -194,6 +195,10 @@ function audit(file: string, chapterN: number | null) {
     } else if (uncitedShown++ < 8) warnings.push(`${tag}:${pr.line}: uncited statement: "${pr.text.slice(0, 90)}…"`);
   }
   if (uncitedShown > 8) warnings.push(`${tag}: … ${uncitedShown - 8} more uncited statements`);
+  for (const bad of malformedCites(text)) {
+    m.citations_broken++;
+    errors.push(`${tag}: malformed citation ${bad.slice(0, 80)} — citation brackets may hold only fact ids`);
+  }
   for (const mm of text.matchAll(CITE_RE)) {
     for (const fid of mm[1].split(",").map((s) => s.trim())) {
       m.citations++;
