@@ -96,7 +96,7 @@ This purges intermediate draft packets in `content/research/<gameId>/08_packets/
 
 ## Hard gates (never skip)
 
-- **Stage 2 Guide & Map Quality Gate:** Only substantive guides (>=10k characters) count toward source coverage. If visual maps exist on GameFAQs (`/map/`) or map archives, they MUST be discovered and registered as `kind: "map"`.
+- **Stage 2 Guide & Map Quality Gate:** Only substantive guides (>=10k characters) count toward source coverage, and 3 are required. The RA guide (`ra-guide`) and RA comments from Stage 1 are extras on top and never count; `rw:status` and `rw:auto` block at Stage 2 until 3 are registered (or Stage 2 wrote `_fewer_guides.txt` after an exhaustive search; pass that on to the user). If visual maps exist on GameFAQs (`/map/`) or map archives, they MUST be discovered and registered as `kind: "map"`.
 - **Stage 4 Completeness Gate:** Every chunk of every source, including `ra-comments`, must be cited by a fact or listed in `_skipped.txt` with a reason. `rw:status`, `rw:plan`, and `rw:score` all enforce 100%; re-run `rw:extract` until nothing is left.
 - **Stage 4 Fact Authenticity & True 100% Gate:** Gameplay facts must cite guide walkthrough text — quoting achievement descriptions is forbidden. In addition to achievements, extract all dungeon chests, hidden items, sidequests, puzzles, and boss stats for True 100% game completion. `rw:extract` checks every fact with the `rw:verify` rules before writing it.
 - **Stage 5 Verification Gate:** Do not start Stage 6 while `rw:verify` reports unresolved conflicts (exit code 2) or unsupported collection achievements.

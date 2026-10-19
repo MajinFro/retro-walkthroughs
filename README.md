@@ -108,12 +108,14 @@ $$\text{Overall Score} = \frac{1}{7} \sum_{i=1}^{7} S_i$$
 
 | Dimension | Formula & Factors | Target |
 |:---|:---|:---:|
-| **Source Coverage** | $0.4 \times \min\left(100, \frac{\text{Sources}_{\ge 10\text{k}}}{3} \times 100\right) + 0.6 \times \text{ChunkCoverage}\%$ | $\ge 80\%$ |
+| **Source Coverage** | $0.4 \times \min\left(100, \frac{\text{Guides}_{\ge 10\text{k}}}{3} \times 100\right) + 0.6 \times \text{ChunkCoverage}\%$ | $\ge 80\%$ |
 | **Accuracy** | $\frac{\text{Paragraphs}_{\text{cited}}}{\text{Paragraphs}_{\text{total}}} \times \left(1 - \frac{\text{Citations}_{\text{broken}}}{\text{Citations}_{\text{total}}}\right) - \text{ReviewPenalties}$ | $\ge 80\%$ |
 | **Achievement Coverage** | $\frac{\text{PlacedCorrectly} - 0.5 \times (\text{PlacedCorrectly} - \text{Supported})}{\text{Achievements}_{\text{total}}} \times 100 - \text{Penalties}$ | $\ge 80\%$ |
 | **Missable Coverage** | $\frac{\text{Missables}_{\text{warned}} + \text{PONR}_{\text{warned}}}{\text{Missables}_{\text{total}} + \text{PONR}_{\text{total}}} \times 100 - \text{Penalties}$ | $\ge 80\%$ |
 | **Beginner Friendliness** | $\text{ReviewerScore} - \min(30, \text{QA Warnings} \times 5)$ | $\ge 80\%$ |
 | **Route Completeness** | $\frac{\text{Areas}_{\text{mentioned}}}{\text{Areas}_{\text{roadmap}}} \times 100 - \text{Penalties}$ | $\ge 80\%$ |
+
+Guides counted for Source Coverage (and for Stage 2 in `rw:status`) are sources of 10k+ characters other than maps, `ra-comments` and `ra-guide`: the RA comments and RA guides wiki page that Stage 1 fetches are extras on top of the 3 required guides. `rw:status` and `rw:auto` block at Stage 2 until 3 are registered, unless Stage 2 recorded an exhaustive search in `02_sources/_fewer_guides.txt`.
 | **True 100% Coverage** | Depth ($0.45 \times \text{WordDepth} + 0.35 \times \text{CheckpointScore} + 0.20 \times \text{MapScore}$) minus Sparsity | $\ge 80\%$ |
 
 ### Acceptance & Rejection Blockers

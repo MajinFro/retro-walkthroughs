@@ -12,7 +12,9 @@ import {
   CITE_RE,
   type AchievementsFile,
   type Chunk,
+  isSubstantiveGuide,
   lateAdditions,
+  MIN_GUIDES,
   type SourceEntry,
   type VerifiedFact,
   chapterFile,
@@ -49,9 +51,17 @@ if (exists(P.achievements)) {
 
 // 2
 const sources = exists(P.sourcesManifest) ? readJson<SourceEntry[]>(P.sourcesManifest) : [];
-const guides = sources.filter((s) => s.kind !== "ra-comments");
-rows.push(["2 Sources", guides.length >= 3 ? "✅" : guides.length ? "🟡" : "⬜", `${guides.length} guide source(s): ${guides.map((s) => s.id).join(", ") || "—"}${guides.length < 3 ? " (aim for 3+)" : ""}`]);
-if (!guides.length) setNext("Collect sources (ra-source-collector skill): npm run rw:collect -- " + id + " <url> --id gf1 --site GameFAQs --title \"...\"");
+const guides = sources.filter(isSubstantiveGuide);
+const extras = sources.filter((s) => !isSubstantiveGuide(s) && s.kind !== "ra-comments" && s.kind !== "map").map((s) => s.id);
+const mapCount = sources.filter((s) => s.kind === "map").length;
+rows.push(["2 Sources", guides.length >= MIN_GUIDES ? "✅" : guides.length || extras.length ? "🟡" : "⬜", `${guides.length} substantive guide(s): ${guides.map((s) => s.id).join(", ") || "—"}${guides.length < MIN_GUIDES ? ` (need ${MIN_GUIDES}+)` : ""}${extras.length ? ` · extras (not counted): ${extras.join(", ")}` : ""}${mapCount ? ` · ${mapCount} map(s)` : ""}`]);
+// blocks every later stage: the RA guide and comments from rw:fetch are extras and never stand in for guides.
+// The only way past with fewer guides: Stage 2 searched and wrote why in _fewer_guides.txt.
+const fewerOk = guides.length > 0 && exists(path.join(P.sourcesDir, "_fewer_guides.txt"));
+if (fewerOk && guides.length < MIN_GUIDES) rows[rows.length - 1][2] += " · fewer accepted (_fewer_guides.txt)";
+if (guides.length < MIN_GUIDES && !fewerOk) setNext(guides.length || extras.length
+  ? `Collect more sources (ra-source-collector skill): ${guides.length} of ${MIN_GUIDES} substantive guides (10k+ chars; the RA guide, maps and short pages don't count)`
+  : "Collect sources (ra-source-collector skill): npm run rw:collect -- " + id + " <url> --id gf1 --site GameFAQs --title \"...\"");
 // achievements added after the original set: say so up front, so Stage 2 searches for them and any
 // "no source exists" decision reaches the user once, early, instead of after verification
 const late = exists(P.achievements) ? lateAdditions(readJson<AchievementsFile>(P.achievements).achievements) : null;

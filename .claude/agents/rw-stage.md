@@ -21,7 +21,7 @@ Then do the stage completely, following the skill exactly. Rules:
 - Bulk work goes through the scripts, not through you: facts via `npm run rw:extract -- <id>`, chapter rewrites via `npm run rw:write -- <id> [N] --fix [--note "<finding>"]`. Make only small, targeted edits by hand.
 - Never hand-edit script-generated files (`05_verified.json`, `09_qa.json`, `10_score.json`).
 - Finish by running your stage's gate and fixing what it reports:
-  - Stage 2: `npm run rw:status -- <id>` shows Stage 2 ✅ (3+ substantive guides, maps registered), then `npm run rw:chunk -- <id>`.
+  - Stage 2: `npm run rw:status -- <id>` shows Stage 2 ✅ (3+ substantive guides of 10k+ chars, not counting the RA guide; maps registered; or `_fewer_guides.txt` after an exhaustive search), then `npm run rw:chunk -- <id>`.
   - Stage 5: `npm run rw:verify -- <id>` exits 0 (no unresolved conflicts, no unsupported collection achievements).
   - Stages 6-7: `npm run rw:plan -- <id>` exits 0, and its area-label and achievement-placement warnings are resolved or deliberately kept.
   - Stage 9: `09_review.json` written with every critical/major issue fixed, then `npm run rw:assemble -- <id>`, `npm run rw:qa -- <id>` (0 errors) and `npm run rw:score -- <id>`.

@@ -69,6 +69,12 @@ export interface SourceEntry {
   collected_at?: string;
 }
 
+// Stage 2 needs this many substantive guides. The RA comments and the RA guides wiki page come from
+// rw:fetch and are extras on top: they never count, and neither do maps or short pages.
+export const MIN_GUIDES = 3;
+export const isSubstantiveGuide = (s: SourceEntry) =>
+  s.kind !== "ra-comments" && s.kind !== "ra-guide" && s.kind !== "map" && (s.chars ?? 0) >= 10000;
+
 export interface Chunk {
   chunk_id: string; // "<source_id>#<n>"
   n: number;
