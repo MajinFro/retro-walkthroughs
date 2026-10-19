@@ -1,0 +1,149 @@
+{
+  "beginner_friendliness": 85,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 120,
+      "description": "On Fire section told the player to use the Powerup Fire code during the V.Hard run. Whether Tonight's Match-up codes are allowed on the V.Hard run is an unanswered question in the comments, and the roadmap plays V.Hard without codes. Rewritten: earn On Fire with three made shots in a row (gf1-8-7, gf1-8-10), no codes during V.Hard games, with Chapter 7's Normal-difficulty Fire game as the fallback."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 51,
+      "description": "'Slowing the game' tip recommended Juice mode during the V.Hard run. Juice is a power-up code there (the codes-on-V.Hard question is unanswered) and only turns on automatically after all 27 teams are beaten (gf2-2-7). Removed."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 14,
+      "description": "Chapters 1, 2, 3, 5 and 6 repeated the RA comment's '(or use save states)' as a way to keep the record, which is not allowed in Hardcore; Chapter 6 also cited ra-comments-1-1 for it. All save-state mentions removed; the password is presented as the only way to resume."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 21,
+      "description": "Chapters 2-6 gave the password list's passwords as if they were the player's own ('write down XLLD3CZ', 'enter 3KPLYRG to resume'). They belong to initials ICE playing as Detroit, and the chapters printed only the first of each two-line password. Loading a published record to skip games is also unconfirmed for the V.Hard achievements (an Amazing Start commenter asked and got no answer). Password tables removed; players write down both lines of their own on-screen password and do not load published ones."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 18,
+      "description": "Chapter 1 recommended taking the initials ICE to match the password list, which invites loading another player's record. Now: pick your own initials that do not start with DA."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 39,
+      "description": "Chapters told the player to 'select Sacramento as the opponent' (no source says you choose the opponent), and the recommended teams Charlotte and Chicago are themselves opponents 16 and 27 in the list's run while only the Detroit switch was covered. Now: the order is the list's run and may differ; when your own team comes up, switch to the other recommended team, as the list's player did against Detroit (gf-passwords-2-2, gf-passwords-2-22)."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 103,
+      "description": "Other-version content: the ending ('two babes offer congratulations', Turmell's 'new challenges') and the 27/27 checkpoint cite gf1-12-5/6/7 from gf1's ARCADE 'Winning the game' section. Removed; the SNES ending now uses only gf1-17-2 and gf1-17-3 from gf1's SNES section."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 12,
+      "description": "Other-version content: 'Fair Shake' (gf1-9-15) is an arcade code that only works in human-vs-human games. On SNES computer assistance is an Options screen setting (gf1-18-10). Replaced, and removed the HRY/ICE Juice passwords (another player's record)."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 5,
+      "description": "Other-version content and wrong citations in the overview: the Premise described the arcade multi-coin machine and its dollar-per-game price, and claimed Jordan/Magic are absent citing gf1-5-11 and gf1-17-29 (a DAN 27-0 password). The Backboards bullet (gf1-7-30) was arcade-section content, and the special-guest initials bullet had no source. Rewritten SNES-only."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 89,
+      "description": "The Hardcore rules said 'no cheat codes', which contradicts Chapter 7's in-game Fire code. Now: Hardcore turns off emulator features and emulator cheats; in-game codes are part of the game, but whether they are allowed on the V.Hard run is unanswered, so the route uses them only in Chapter 7 on Normal. Also fixed the misread of ra-comments-1-12 (Juice is on after beating every team, not turned on after each team)."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 16,
+      "description": "The ten-of-each stat achievements were correctly described as unconfirmed (per game or cumulative), but the chapter gave no plan for the per-game reading. Added: if one is still locked, aim for all ten of that stat in a single game, which satisfies either reading. No rule was invented."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 9,
+      "description": "Wrong citations: gf1-8-2 (milking the clock) was cited for the no-overtime conditions, gf1-17-38 (a 168-win password) for the win streaks, gf1-8-2 for the late-clock dunk (gf1-8-1), and gf2-2-3 for Juice turning on automatically (gf2-2-7). Also removed filler 'Unable to verify' sentences, the arcade birth-date sentence in Chapter 1, and the empty Game 14 double-team step."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 47,
+      "description": "QA area warnings: the roadmap area labels (V.Hard games 6-10, 11-15, 16-20, 21-27, SNES ending) were not used as headings, and the Game 17 (Lakers) section was 30 words. Headings added and Game 17 given the same step-by-step plan as the other games."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "layout",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 77,
+      "description": "Clarity fixes: Larry Johnson dunk tips now say they apply only when playing as Charlotte; reworded 'two-pointers are fine' and the garbled inbound-steal tip; Chapter 7 notes that the two guides give different Shot % inputs (gf4-1-6 vs gf-codes-3-2)."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/02.md",
+      "line": 27,
+      "description": "Kept: the control, defense and On Fire tips come from gf1's arcade 'Basic moves' / 'Special Techniques' sections (gf1#5-8). Some RA comments confirm the same play on SNES (ra-comments-1-13, 1-14 for clock milking). The basic moves are the same in the SNES port, so they stay. Not other-version-only content like the arcade ending or codes."
+    },
+    {
+      "id": "ISS-16",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 78,
+      "description": "Checkpoint blocks: Chapter 1 cited unrelated facts (ra-comments-2-4, ra-comments-1-2), and Chapters 2-7 had no citation or one with no overlap. Each Teams Beaten line now names the record the game should show (e.g. 10-00) and cites the matching password-list record fact. The remaining 18 QA warnings are route-logic sentences restating achievement descriptions (no source fact exists for them) and were deliberately kept."
+    }
+  ]
+}

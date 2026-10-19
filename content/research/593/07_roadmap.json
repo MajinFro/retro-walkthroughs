@@ -1,0 +1,248 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Sports (arcade 2-on-2 basketball)",
+    "categories": [
+      {
+        "name": "Teams Beaten on V.Hard",
+        "description": "All 27 NBA teams beaten in one record on V.Hard, each game won in regulation (no overtime), which also completes the game (the 27-0 ending).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Player 1 Stat Feats",
+        "description": "Every Player 1 stat feat: a field goal, 3-pointer, dunk, assist, steal, block and rebound, then ten of each, plus going On Fire.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Scoring Records",
+        "description": "A 100-point game as Player 1 and a 200-point game.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": ["teams beaten", "achievements"]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One record (one set of initials) carries the whole set. Beat all 27 teams in a row on V.Hard without losing and without any game going to overtime: that one run earns the win streaks (5, 10, 20 in a row), every V.Hard milestone and the ending. If a game is lost, the win streak restarts; a commenter reads the V.Hard achievement logic as not counting losses (ra-comments-18-1), but no source confirms what a loss or an overtime game does to the V.Hard milestones, so treat every V.Hard game as must-win in regulation. Do not make extra records: a commenter warns that more than one account stops most achievements (ra-comments-1-3), and initials starting with DA block the main achievements (ra-comments-1-1). The game does not save: keep the password after each win (ra-comments-1-5). The 100- and 200-point games come last, on Normal difficulty with the Power-Up Fire code (ra-comments-2-1, ra-comments-2-3), so a loss there cannot break the streak. No source reports achievements that lock each other out.",
+  "settings_notes": "Hardcore Mode, US ROM (ra-comments-1-2). One emulator caveat from the comments: an achievement called Warning did not trigger in RetroArch (ra-comments-1-6); it is not in the current set. Options: set the computer difficulty to V.Hard for the 27-team run; Tag Mode OFF, because the assist achievement only triggers with Tag Mode off (ra-comments-21-1); a very fast clock shortens games (ra-comments-1-11). Computer assistance is an Options screen setting (gf1-18-10); turning it off is part of the 200-point plan (ra-comments-1-10). Whether Tonight's Match-up power-up codes are allowed during the V.Hard run is an open question in the comments with no answer, so the route plays the V.Hard run without codes.",
+  "fact_ids": [
+    "ra-comments-1-1",
+    "ra-comments-1-2",
+    "ra-comments-1-3",
+    "ra-comments-1-5",
+    "ra-comments-1-6",
+    "ra-comments-1-11",
+    "ra-comments-21-1",
+    "ra-comments-18-1",
+    "gf1-18-10",
+    "gf-passwords-2-1",
+    "gf-passwords-2-2"
+  ],
+  "counter_totals": {
+    "Teams Beaten on V.Hard": 27
+  },
+  "missables": [
+    {
+      "achievement_id": 23955,
+      "label": "V.Hard run: every game must be won in regulation (A Good Start through Legendary Team)",
+      "deadline": "Every V.Hard game from team 1 to team 27: a single game that goes to overtime fails the 'without going into overtime' condition",
+      "chapter": 2,
+      "fact_ids": [
+        "ra-comments-1-13",
+        "ra-comments-1-14",
+        "ra-comments-1-9",
+        "gf1-8-2",
+        "ra-comments-18-1"
+      ]
+    }
+  ],
+  "ponr": [],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Setup, Options and Controls",
+      "areas": ["Game_Setup", "Controls"],
+      "achievement_ids": [],
+      "fact_ids": [
+        "ra-comments-1-1",
+        "ra-comments-1-2",
+        "ra-comments-1-3",
+        "ra-comments-1-5",
+        "ra-comments-1-11",
+        "ra-comments-21-1",
+        "gf1-18-10",
+        "gf-passwords-2-1",
+        "gf1-6-1",
+        "gf1-6-2",
+        "gf1-6-4",
+        "gf1-6-6",
+        "gf1-6-7",
+        "gf1-6-9",
+        "gf1-6-10",
+        "gf1-6-11",
+        "gf1-6-12",
+        "gf1-7-17",
+        "gf1-7-16",
+        "gf6-8-1",
+        "gf6-8-2",
+        "gf6-8-3",
+        "ra-comments-2-4"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 0 },
+      "notes": "No achievements here. Cover: US ROM; initials (never starting with DA; one record only); Options (V.Hard, Tag Mode off, fast clock); the controls (shoot, pass, turbo, steal, block, rebound, dunk vs layup); team choice (Charlotte/Chicago power forward-center pairs per ra-comments-2-4, team rankings from gf6). The game does not save: write down the password after every win."
+    },
+    {
+      "n": 2,
+      "title": "V.Hard Games 1-5: First Win and the Basic Feats",
+      "areas": ["Regular_Mode", "VHard_01_05", "Rubber_Banding", "On_Fire"],
+      "achievement_ids": [23888, 23882, 23874, 23875, 23876, 23877, 23878, 23879, 23881, 23887, 23964],
+      "fact_ids": [
+        "gf-passwords-2-3",
+        "gf-passwords-2-4",
+        "gf-passwords-2-5",
+        "gf-passwords-2-6",
+        "gf-passwords-2-7",
+        "ra-comments-1-8",
+        "ra-comments-1-9",
+        "ra-comments-1-13",
+        "ra-comments-1-14",
+        "ra-comments-1-15",
+        "ra-comments-1-16",
+        "ra-comments-2-5",
+        "ra-comments-2-6",
+        "ra-comments-2-7",
+        "ra-comments-2-8",
+        "ra-comments-2-9",
+        "gf1-8-2",
+        "gf1-8-5",
+        "gf1-8-7",
+        "gf1-8-10",
+        "gf1-9-18",
+        "gf1-7-12",
+        "gf1-7-29",
+        "gf4-3-1",
+        "gf4-3-2",
+        "gf4-3-6",
+        "gf4-3-7",
+        "gf1-7-1",
+        "gf1-7-3",
+        "gf1-7-9",
+        "ra-comments-1-4",
+        "gf1-17-38"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 5 },
+      "notes": "In the password list's run the opponents came in a fixed order (Dallas, Minnesota, Miami, Washington, Philadelphia for games 1-5). The single Player 1 feats (field goal, three, dunk, assist, steal, block, rebound, On Fire) come naturally in these first games; blocks are harder than in Jam TE (ra-comments-1-4). Win in regulation: build a lead, milk the clock at half court, then drive late in the shot clock (ra-comments-1-13, gf1-8-2). 5 wins in a row also gives A Win Streak."
+    },
+    {
+      "n": 3,
+      "title": "V.Hard Games 6-10",
+      "areas": ["VHard_06_10"],
+      "achievement_ids": [23951, 23965],
+      "fact_ids": [
+        "gf-passwords-2-8",
+        "gf-passwords-2-9",
+        "gf-passwords-2-10",
+        "gf-passwords-2-11",
+        "gf-passwords-2-12",
+        "ra-comments-1-13",
+        "ra-comments-1-14",
+        "ra-comments-1-15",
+        "gf1-17-38"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 5 },
+      "notes": "Sacramento, Denver, Milwaukee, Indiana, Atlanta (password list order). Same anti-rubber-banding plan; 10 wins in a row gives Bigger Streak."
+    },
+    {
+      "n": 4,
+      "title": "V.Hard Games 11-15",
+      "areas": ["VHard_11_15"],
+      "achievement_ids": [23952],
+      "fact_ids": [
+        "gf-passwords-2-13",
+        "gf-passwords-2-14",
+        "gf-passwords-2-15",
+        "gf-passwords-2-16",
+        "gf-passwords-2-17",
+        "ra-comments-1-9",
+        "ra-comments-1-13",
+        "gf1-7-5"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 5 },
+      "notes": "Clippers, Orlando, Golden State, Boston, Houston (password list order; the list writes 'Washington Clippers'). The CPU's buzzer long shots are the main way to lose late (ra-comments-1-9), and gf1-7-5 shows how to block the buzzer three."
+    },
+    {
+      "n": 5,
+      "title": "V.Hard Games 16-20",
+      "areas": ["VHard_16_20"],
+      "achievement_ids": [23953, 23966],
+      "fact_ids": [
+        "gf-passwords-2-18",
+        "gf-passwords-2-19",
+        "gf-passwords-2-20",
+        "gf-passwords-2-21",
+        "gf-passwords-2-22",
+        "gf-passwords-2-2",
+        "ra-comments-1-13",
+        "ra-comments-2-4",
+        "gf1-17-38"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 5 },
+      "notes": "Charlotte, L.A. Lakers, New Jersey, Cleveland, Detroit (password list order). The list's player used Detroit and switched to Chicago for game 20 against Detroit (gf-passwords-2-2, gf-passwords-2-22): if your own team is next on the list, pick another team for that game. 20 wins in a row gives Unbeatable."
+    },
+    {
+      "n": 6,
+      "title": "V.Hard Games 21-27 and the Ending",
+      "areas": ["VHard_21_27", "Winning_Game"],
+      "achievement_ids": [23954, 23955, 23884],
+      "fact_ids": [
+        "gf-passwords-2-23",
+        "gf-passwords-2-24",
+        "gf-passwords-2-25",
+        "gf-passwords-2-26",
+        "gf-passwords-2-27",
+        "gf-passwords-2-28",
+        "gf-passwords-2-29",
+        "gf1-12-5",
+        "gf1-17-1",
+        "gf1-17-2",
+        "gf1-17-3",
+        "ra-comments-18-1",
+        "ra-comments-2-10",
+        "ra-comments-1-13",
+        "gf6-8-1"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 7 },
+      "notes": "San Antonio, New York, Portland, Utah, Seattle, Phoenix, Chicago (password list order). New York is the guide's top-ranked team (gf6-8-1). Beating all 27 teams (27-0) shows the SNES ending and gives NBA All-Star; the ending does not depend on difficulty (gf1-17-3). Do not use gf1's 'DAN' 26-0 password: initials starting with DA block the main achievements (ra-comments-1-1). A commenter saw Legendary Team pop early (ra-comments-2-10)."
+    },
+    {
+      "n": 7,
+      "title": "Score Attack and Stat Clean-Up",
+      "areas": ["Juice_Mode", "Tonights_Matchup", "Score_Attack"],
+      "achievement_ids": [23962, 23963, 23956, 23957, 23958, 23959, 23960, 23961, 23968],
+      "fact_ids": [
+        "ra-comments-1-10",
+        "ra-comments-1-12",
+        "ra-comments-2-1",
+        "ra-comments-2-2",
+        "ra-comments-2-3",
+        "gf2-2-3",
+        "gf1-18-5",
+        "gf1-18-6",
+        "gf1-9-15",
+        "gf1-8-11",
+        "ra-comments-21-1",
+        "ra-comments-30-1",
+        "ra-comments-2-6",
+        "ra-comments-2-7",
+        "ra-comments-2-8",
+        "gf4-3-3",
+        "gf1-7-1",
+        "gf1-7-10",
+        "gf1-7-12",
+        "gf4-3-7"
+      ],
+      "counters": { "Teams Beaten on V.Hard": 0 },
+      "notes": "After the V.Hard run: set Normal difficulty, slow clock (ra-comments-2-1), computer assistance off (ra-comments-1-10), and enter Power-Up Fire at Tonight's Match-up: B seven times, then hold B+Y+Up until tip-off (ra-comments-2-3, gf2-2-3). Juice mode is on after beating every team (ra-comments-1-12). 100 points as Player 1 and 200 points total. The ten-count feats (threes, dunks, assists, steals, blocks, rebounds, field goals) may already have unlocked during the run; the sources do not say whether the count is per game or cumulative, so if any is missing, keep playing games here until it pops. Assists need Tag Mode off."
+    }
+  ],
+  "unverifiable_achievement_ids": []
+}

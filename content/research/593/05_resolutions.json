@@ -1,0 +1,18 @@
+[
+  { "fact_id": "gf-codes-2-3", "resolution": "accept", "rationale": "Not a contradiction: gf-codes and gf4 agree on initials ARK and the final button X. gf-codes lists only the X-or-A button (with a generic 'hold L, R and Start' rule); gf4 lists the full held-button combo. Use gf4's full combo." },
+  { "fact_id": "gf4-2-3", "resolution": "accept", "rationale": "Full button combo for ARK (Bill Clinton); consistent with gf-codes' final button X." },
+  { "fact_id": "gf-codes-2-4", "resolution": "accept", "rationale": "Not a contradiction: both sources give initials NET and final button A for Al Gore; gf4 adds the held buttons L, R." },
+  { "fact_id": "gf4-2-4", "resolution": "accept", "rationale": "Full button combo for NET (Al Gore); consistent with gf-codes' final button A." },
+  { "fact_id": "gf-codes-2-5", "resolution": "accept", "rationale": "Not a contradiction: gf-codes (SNES table) and gf1 (initials SAL plus birthdate, from the arcade section) agree on initials SAL; they describe different entry steps for different versions. The SNES table (gf-codes, gf4) is authoritative for the SNES." },
+  { "fact_id": "gf1-11-9", "resolution": "accept", "rationale": "Initials SAL agree with the SNES table; the birthdate step is from gf1's arcade code list and should not be presented as the SNES method." },
+  { "fact_id": "gf-codes-2-8", "resolution": "accept", "rationale": "Not a contradiction: both sources give initials ROD and final button X for Scruff; gf4 adds the held buttons R, Start." },
+  { "fact_id": "gf4-2-14", "resolution": "accept", "rationale": "Full button combo for ROD (Scruff); consistent with gf-codes' final button X." },
+  { "fact_id": "gf-codes-2-10", "resolution": "accept", "rationale": "Not a contradiction: gf-codes, gf4 and gf1 all give initials RJR for Rivett; gf1's birthdate step is from its arcade code list." },
+  { "fact_id": "gf1-11-21", "resolution": "accept", "rationale": "Initials RJR agree with the SNES table (gf-codes, gf4); the birthdate is the arcade entry method." },
+  { "fact_id": "gf-codes-2-11", "resolution": "accept", "rationale": "Not a contradiction: both sources give initials QB (gf4 writes QB_) and final button X for Kabuki; gf4 adds the held buttons L, Start." },
+  { "fact_id": "gf4-2-12", "resolution": "accept", "rationale": "Full button combo for QB_ (Kabuki); consistent with gf-codes' final button X." },
+  { "fact_id": "gf-codes-2-12", "resolution": "accept", "rationale": "Not a contradiction: both sources give initials AIR and final button X for Air Dog; gf4 adds the held buttons L, Start." },
+  { "fact_id": "gf4-2-8", "resolution": "accept", "rationale": "Full button combo for AIR (Air Dog); consistent with gf-codes' final button X." },
+  { "fact_id": "gf1-5-16", "resolution": "accept", "rationale": "gf1 and gf2 agree that Michael Jordan is not in the game; the differing object values are an extraction artifact." },
+  { "fact_id": "gf2-4-1", "resolution": "accept", "rationale": "Agrees with gf1-5-16: Jordan is not in the arcade or home versions." }
+]

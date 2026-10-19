@@ -1,0 +1,35 @@
+ra-comments#9 server edit log only (achievement logic change by Etron, no player-facing gameplay info)
+ra-comments#10 server edit notices only: no gameplay info
+ra-comments#11 server edit and type-change notices only: no gameplay info
+ra-comments#12 question with no answer (31percent asks whether the on fire code is allowed on V.Hard); remaining lines are server edit notices
+ra-comments#13 server achievement type-change notice only: no gameplay info
+ra-comments#14 server points-edit notice only: no gameplay info
+ra-comments#15 question with no answer (Ryezilla asks whether the password can be used for Hardcore); remaining line is a server points-edit notice
+ra-comments#16 server points-edit notice only: no gameplay info
+ra-comments#25 edit notice only: no gameplay info
+ra-comments#26 description line and edit notice only: no gameplay info
+ra-comments#27 description line only: restates achievement, no gameplay info
+ra-comments#28 description line only: restates achievement, no gameplay info
+ra-comments#29 description line and edit notice only: no gameplay info
+ra-comments#17 achievement header and server edit notices only: no gameplay info
+ra-comments#19 logic edit and backup-value note only (fix announcement): no gameplay info
+ra-comments#20 logic edit and backup-value note only (fix announcement): no gameplay info
+ra-comments#22 logic edit and backup-value note only (fix announcement): no gameplay info
+ra-comments#23 logic edit and backup-value note only (fix announcement): no gameplay info
+ra-comments#24 server edit notice only: no gameplay info
+gf2#6 copyright, trademark and distribution notice plus community sign-off; no gameplay information
+gf2#7 END marker only; no gameplay information
+gf-codes#1 article header and ASCII banner only, no gameplay information
+gf-codes#4 author biography and sign-off, no gameplay information
+gf6#1 title, ASCII banner, guide intro and version history only: no gameplay information
+gf1#1 title and author introduction; no gameplay information
+gf1#2 table of contents and version history; non-game text
+gf1#3 dedications and greetings; no gameplay information
+ra-comments#3 achievement header and server edit notice only: no gameplay info
+ra-comments#4 achievement header and server edit notice only: no gameplay info
+ra-comments#5 achievement header and server edit notices only: no gameplay info
+ra-comments#6 achievement header and server edit notices only: no gameplay info
+ra-comments#7 achievement header and server edit notices only: no gameplay info
+ra-comments#8 achievement header and server edit notices only: no gameplay info
+gf1#22 file description header only (DIZ block, title and credits): no gameplay info
+gf1#13 special thanks/credits only: acknowledgements with no gameplay information

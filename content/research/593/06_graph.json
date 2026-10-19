@@ -1,0 +1,708 @@
+{
+  "nodes": [
+    {
+      "id": "Game_Setup",
+      "label": "Game Setup and Options",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-comments-1-2",
+        "ra-comments-1-1",
+        "ra-comments-1-3",
+        "ra-comments-1-5",
+        "ra-comments-1-11",
+        "ra-comments-21-1",
+        "gf1-18-10"
+      ]
+    },
+    {
+      "id": "Controls",
+      "label": "Controls and Techniques",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-6-1",
+        "gf1-6-2",
+        "gf1-6-6",
+        "gf1-6-9",
+        "gf1-6-11",
+        "gf1-6-12"
+      ]
+    },
+    {
+      "id": "Regular_Mode",
+      "label": "Regular Mode",
+      "kind": "area",
+      "fact_ids": [
+        "gf-passwords-2-2",
+        "gf-passwords-2-3"
+      ]
+    },
+    {
+      "id": "VHard_01_05",
+      "label": "V.Hard games 1-5 (Dallas to Philadelphia)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf-passwords-2-3",
+        "gf-passwords-2-4",
+        "gf-passwords-2-5",
+        "gf-passwords-2-6",
+        "gf-passwords-2-7",
+        "ra-comments-2-4",
+        "ra-comments-2-5"
+      ]
+    },
+    {
+      "id": "VHard_06_10",
+      "label": "V.Hard games 6-10 (Sacramento to Atlanta)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf-passwords-2-8",
+        "gf-passwords-2-9",
+        "gf-passwords-2-10",
+        "gf-passwords-2-11",
+        "gf-passwords-2-12"
+      ]
+    },
+    {
+      "id": "VHard_11_15",
+      "label": "V.Hard games 11-15 (Clippers to Houston)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf-passwords-2-13",
+        "gf-passwords-2-14",
+        "gf-passwords-2-15",
+        "gf-passwords-2-16",
+        "gf-passwords-2-17"
+      ]
+    },
+    {
+      "id": "VHard_16_20",
+      "label": "V.Hard games 16-20 (Charlotte to Detroit)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf-passwords-2-18",
+        "gf-passwords-2-19",
+        "gf-passwords-2-20",
+        "gf-passwords-2-21",
+        "gf-passwords-2-22"
+      ]
+    },
+    {
+      "id": "VHard_21_27",
+      "label": "V.Hard games 21-27 (San Antonio to Chicago)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf-passwords-2-23",
+        "gf-passwords-2-24",
+        "gf-passwords-2-25",
+        "gf-passwords-2-26",
+        "gf-passwords-2-27",
+        "gf-passwords-2-28",
+        "gf-passwords-2-29"
+      ]
+    },
+    {
+      "id": "Rubber_Banding",
+      "label": "Beating the V.Hard rubber banding",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-comments-1-9",
+        "ra-comments-1-13",
+        "ra-comments-1-14",
+        "ra-comments-1-15",
+        "gf1-8-2"
+      ]
+    },
+    {
+      "id": "On_Fire",
+      "label": "On Fire",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-8-7",
+        "gf1-8-10",
+        "gf1-8-11",
+        "gf1-8-13"
+      ]
+    },
+    {
+      "id": "Winning_Game",
+      "label": "SNES ending (27-0)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-12-5",
+        "gf1-17-2",
+        "gf1-17-3"
+      ]
+    },
+    {
+      "id": "Juice_Mode",
+      "label": "Juice Mode",
+      "kind": "area",
+      "fact_ids": [
+        "gf-passwords-3-1",
+        "ra-comments-1-12"
+      ]
+    },
+    {
+      "id": "Tonights_Matchup",
+      "label": "Tonight's Match-up Screen",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-1-4",
+        "gf1-18-5",
+        "gf1-18-6",
+        "gf2-2-3"
+      ]
+    },
+    {
+      "id": "Score_Attack",
+      "label": "200-point game (Power-Up Fire, computer assistance off)",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-comments-1-10",
+        "ra-comments-2-1",
+        "ra-comments-2-2",
+        "ra-comments-2-3"
+      ]
+    },
+    {
+      "id": "Ach_23874",
+      "label": "Three Throw!",
+      "kind": "achievement",
+      "achievement_id": 23874
+    },
+    {
+      "id": "Ach_23875",
+      "label": "Dunk It",
+      "kind": "achievement",
+      "achievement_id": 23875
+    },
+    {
+      "id": "Ach_23876",
+      "label": "Don't Be Greedy",
+      "kind": "achievement",
+      "achievement_id": 23876
+    },
+    {
+      "id": "Ach_23877",
+      "label": "Candy from a Player",
+      "kind": "achievement",
+      "achievement_id": 23877
+    },
+    {
+      "id": "Ach_23878",
+      "label": "This is No Minecraft",
+      "kind": "achievement",
+      "achievement_id": 23878
+    },
+    {
+      "id": "Ach_23879",
+      "label": "You Don't Wanna Be That Guy",
+      "kind": "achievement",
+      "achievement_id": 23879
+    },
+    {
+      "id": "Ach_23881",
+      "label": "This Ring is on Fire",
+      "kind": "achievement",
+      "achievement_id": 23881
+    },
+    {
+      "id": "Ach_23882",
+      "label": "Not So Dunky",
+      "kind": "achievement",
+      "achievement_id": 23882
+    },
+    {
+      "id": "Ach_23884",
+      "label": "NBA All-Star",
+      "kind": "achievement",
+      "achievement_id": 23884
+    },
+    {
+      "id": "Ach_23887",
+      "label": "A Good Start",
+      "kind": "achievement",
+      "achievement_id": 23887
+    },
+    {
+      "id": "Ach_23888",
+      "label": "Beginners Luck",
+      "kind": "achievement",
+      "achievement_id": 23888
+    },
+    {
+      "id": "Ach_23951",
+      "label": "Great Start",
+      "kind": "achievement",
+      "achievement_id": 23951
+    },
+    {
+      "id": "Ach_23952",
+      "label": "Amazing Start",
+      "kind": "achievement",
+      "achievement_id": 23952
+    },
+    {
+      "id": "Ach_23953",
+      "label": "Champion Team",
+      "kind": "achievement",
+      "achievement_id": 23953
+    },
+    {
+      "id": "Ach_23954",
+      "label": "Unstoppable Force",
+      "kind": "achievement",
+      "achievement_id": 23954
+    },
+    {
+      "id": "Ach_23955",
+      "label": "Legendary Team",
+      "kind": "achievement",
+      "achievement_id": 23955
+    },
+    {
+      "id": "Ach_23956",
+      "label": "One Three After Another Three",
+      "kind": "achievement",
+      "achievement_id": 23956
+    },
+    {
+      "id": "Ach_23957",
+      "label": "Dunk It Again",
+      "kind": "achievement",
+      "achievement_id": 23957
+    },
+    {
+      "id": "Ach_23958",
+      "label": "Not Selfish at All",
+      "kind": "achievement",
+      "achievement_id": 23958
+    },
+    {
+      "id": "Ach_23959",
+      "label": "Sold the Candy",
+      "kind": "achievement",
+      "achievement_id": 23959
+    },
+    {
+      "id": "Ach_23960",
+      "label": "Block Story",
+      "kind": "achievement",
+      "achievement_id": 23960
+    },
+    {
+      "id": "Ach_23961",
+      "label": "You Don't Wanna Be That Guy Again",
+      "kind": "achievement",
+      "achievement_id": 23961
+    },
+    {
+      "id": "Ach_23962",
+      "label": "Breaking Records",
+      "kind": "achievement",
+      "achievement_id": 23962
+    },
+    {
+      "id": "Ach_23963",
+      "label": "Mastery of NBA",
+      "kind": "achievement",
+      "achievement_id": 23963
+    },
+    {
+      "id": "Ach_23964",
+      "label": "A Win Streak",
+      "kind": "achievement",
+      "achievement_id": 23964
+    },
+    {
+      "id": "Ach_23965",
+      "label": "Bigger Streak",
+      "kind": "achievement",
+      "achievement_id": 23965
+    },
+    {
+      "id": "Ach_23966",
+      "label": "Unbeatable",
+      "kind": "achievement",
+      "achievement_id": 23966
+    },
+    {
+      "id": "Ach_23968",
+      "label": "Field Expert",
+      "kind": "achievement",
+      "achievement_id": 23968
+    }
+  ],
+  "edges": [
+    {
+      "from": "Game_Setup",
+      "to": "Controls",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-6-1",
+        "gf1-6-2"
+      ]
+    },
+    {
+      "from": "Game_Setup",
+      "to": "Regular_Mode",
+      "kind": "leads_to",
+      "label": "Enter initials",
+      "fact_ids": [
+        "ra-comments-1-1",
+        "gf-passwords-2-1"
+      ]
+    },
+    {
+      "from": "Regular_Mode",
+      "to": "VHard_01_05",
+      "kind": "contains",
+      "fact_ids": [
+        "gf-passwords-2-3"
+      ]
+    },
+    {
+      "from": "VHard_01_05",
+      "to": "VHard_06_10",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf-passwords-2-7",
+        "gf-passwords-2-8"
+      ]
+    },
+    {
+      "from": "VHard_06_10",
+      "to": "VHard_11_15",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf-passwords-2-12",
+        "gf-passwords-2-13"
+      ]
+    },
+    {
+      "from": "VHard_11_15",
+      "to": "VHard_16_20",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf-passwords-2-17",
+        "gf-passwords-2-18"
+      ]
+    },
+    {
+      "from": "VHard_16_20",
+      "to": "VHard_21_27",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf-passwords-2-22",
+        "gf-passwords-2-23"
+      ]
+    },
+    {
+      "from": "VHard_21_27",
+      "to": "Winning_Game",
+      "kind": "leads_to",
+      "label": "27-0",
+      "fact_ids": [
+        "gf-passwords-2-29",
+        "gf1-12-5"
+      ]
+    },
+    {
+      "from": "Winning_Game",
+      "to": "Juice_Mode",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf-passwords-3-1",
+        "ra-comments-1-12"
+      ]
+    },
+    {
+      "from": "Juice_Mode",
+      "to": "Score_Attack",
+      "kind": "leads_to",
+      "fact_ids": [
+        "ra-comments-1-12"
+      ]
+    },
+    {
+      "from": "Tonights_Matchup",
+      "to": "Score_Attack",
+      "kind": "requires",
+      "label": "Power-Up Fire code",
+      "fact_ids": [
+        "ra-comments-2-3",
+        "gf2-2-3"
+      ]
+    },
+    {
+      "from": "Rubber_Banding",
+      "to": "VHard_01_05",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-comments-1-13"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "On_Fire",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-8-7"
+      ]
+    },
+    {
+      "from": "VHard_01_05",
+      "to": "Ach_23888",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-3",
+        "ra-comments-1-1"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23882",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-2",
+        "gf1-6-7"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23874",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-7-12",
+        "gf4-3-6"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23875",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-6",
+        "gf1-7-17"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23876",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-1",
+        "gf1-7-29",
+        "ra-comments-21-1"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23877",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-9",
+        "gf4-3-1"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23878",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-11",
+        "gf1-7-3"
+      ]
+    },
+    {
+      "from": "Controls",
+      "to": "Ach_23879",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-12",
+        "gf1-7-9"
+      ]
+    },
+    {
+      "from": "On_Fire",
+      "to": "Ach_23881",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-8-7",
+        "gf1-8-10"
+      ]
+    },
+    {
+      "from": "VHard_01_05",
+      "to": "Ach_23887",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-7",
+        "ra-comments-1-13"
+      ]
+    },
+    {
+      "from": "VHard_01_05",
+      "to": "Ach_23964",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-7",
+        "gf1-17-38"
+      ]
+    },
+    {
+      "from": "VHard_06_10",
+      "to": "Ach_23951",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-12",
+        "ra-comments-1-13"
+      ]
+    },
+    {
+      "from": "VHard_06_10",
+      "to": "Ach_23965",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-12",
+        "gf1-17-38"
+      ]
+    },
+    {
+      "from": "VHard_11_15",
+      "to": "Ach_23952",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-17",
+        "ra-comments-1-13"
+      ]
+    },
+    {
+      "from": "VHard_16_20",
+      "to": "Ach_23953",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-22",
+        "ra-comments-1-13"
+      ]
+    },
+    {
+      "from": "VHard_16_20",
+      "to": "Ach_23966",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-22",
+        "gf1-17-38"
+      ]
+    },
+    {
+      "from": "VHard_21_27",
+      "to": "Ach_23954",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-27",
+        "ra-comments-1-13"
+      ]
+    },
+    {
+      "from": "VHard_21_27",
+      "to": "Ach_23955",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-passwords-2-29",
+        "ra-comments-18-1"
+      ]
+    },
+    {
+      "from": "Winning_Game",
+      "to": "Ach_23884",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-12-5",
+        "gf1-17-3"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23962",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-1-10",
+        "ra-comments-2-1"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23963",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-1-10",
+        "ra-comments-2-1",
+        "ra-comments-2-3"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23956",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-7-12",
+        "gf4-3-7"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23957",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-6",
+        "ra-comments-2-8"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23958",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-21-1",
+        "ra-comments-1-15"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23959",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-2-6",
+        "gf4-3-1"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23960",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-11",
+        "gf1-7-1"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23961",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-12",
+        "gf1-7-10"
+      ]
+    },
+    {
+      "from": "Score_Attack",
+      "to": "Ach_23968",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-6-2",
+        "ra-comments-30-1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "1": [
+    "WARNING: ch#: mentions save states \"\"",
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "2": [
+    "WARNING: ch#: mentions save states \"\"",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "3": [
+    "WARNING: ch#: mentions save states \"\"",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "4": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "5": [
+    "WARNING: ch#: mentions save states \"\"",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#: area section \"\" is very brief \"\""
+  ],
+  "6": [
+    "WARNING: ch#: mentions save states \"\"",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "7": [
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "overview": [
+    "WARNING: overview: mentions save states \"\"",
+    "WARNING: overview:#: uncited statement: \"\"",
+    "WARNING: overview:#: no factual overlap with cited facts \"\""
+  ]
+}
