@@ -192,7 +192,8 @@ export function validateRoadmap(r: Roadmap, g: Graph, usable: Set<string>, achs:
 // ---------------------------------------------------------------------------
 // Mermaid
 // ---------------------------------------------------------------------------
-const esc = (s: string) => s.replace(/"/g, "'").replace(/[\[\]{}<>]/g, " ").trim();
+// labels are always written inside quotes (edge labels too: "|(needs the prince)|" broke 1470's overview)
+const esc = (s: string) => s.replace(/"/g, "'").replace(/[\[\]{}<>|]/g, " ").replace(/\s{2,}/g, " ").trim();
 const shape = (n: GraphNode) => {
   const l = esc(n.label);
   switch (n.kind) {
@@ -214,7 +215,7 @@ export function progressionMermaid(g: Graph, onlyNodes?: Set<string>): string {
   const ids = new Set(nodes.map((n) => n.id));
   const edges = g.edges.filter((e) => e.kind === "leads_to" && ids.has(e.from) && ids.has(e.to));
   if (!nodes.length) return "";
-  const out = ["flowchart TD", ...nodes.map((n) => `  ${shape(n)}`), ...edges.map((e) => `  ${e.from} -->${e.label ? `|${esc(e.label)}|` : ""} ${e.to}`)];
+  const out = ["flowchart TD", ...nodes.map((n) => `  ${shape(n)}`), ...edges.map((e) => `  ${e.from} -->${e.label ? `|"${esc(e.label)}"|` : ""} ${e.to}`)];
   out.push("  classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;", "  classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;");
   const p = nodes.filter((n) => n.kind === "ponr").map((n) => n.id);
   const b = nodes.filter((n) => n.kind === "boss").map((n) => n.id);
