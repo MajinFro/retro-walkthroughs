@@ -275,41 +275,41 @@ flowchart TD
   Hargon{{"⚔ Hargon"}}
   Malroth{{"⚔ Malroth"}}
   Malroth_PONR>"⛔ Malroth defeated: the game ends"]
-  Midenhall_Castle -->|west| Leftwyne
-  Leftwyne -->|north| Cannock_Castle
-  Cannock_Castle -->|east over the bridge| Spring_of_Bravery
-  Cannock_Castle -->|west over the double bridge| Lake_Cave
-  Midenhall_Castle -->|south over the bridge| Monolith_South_of_Midenhall
-  Cannock_Castle -->|monolith south-west of Cannock (needs the prince)| Underground_Passage
-  Underground_Passage -->|south| Hamlin
-  Hamlin -->|south-west| Moonbrooke_Castle
-  Moonbrooke_Castle -->|east| Mirror_Swamp
-  Hamlin -->|east, north bridge| Tower_of_Wind
-  Moonbrooke_Castle -->|west| Monolith_West_of_Moonbrooke
-  Monolith_West_of_Moonbrooke -->|north-west| South_Dragons_Horn
-  South_Dragons_Horn -->|landing north of the river| North_Dragons_Horn
-  North_Dragons_Horn -->|north| Lianport
-  Lianport -->|north| Monolith_North_of_Lianport
-  Lianport -->|sail east to the bridge| Alefgard
-  Tantegel_Castle -->|sail south-east| Charlock_Castle
-  Tantegel_Castle -->|sail south, east, south| Lighthouse
-  Lianport -->|sail north past the treasure spot| Zahan
-  Zahan -->|10 north then west| World_Tree_Island
-  Shrine_of_Fire -->|travel door| Midenhall_Castle
-  Monolith_South_of_Midenhall -->|gold door travel door| Osterfair_Castle
-  Osterfair_Castle -->|travel door| Monolith_North_of_Beran
-  Monolith_North_of_Beran -->|middle travel door| Shrine_of_Fire
-  Shrine_of_Fire -->|eastern travel door| Holy_Shrine
-  Monolith_North_of_Beran -->|south-east over two bridges| Beran
-  Beran -->|sail| Wellgarth
-  Wellgarth -->|sail the Tuhn River Channel| Tuhn
-  Beran -->|portal behind the jail door| Monolith_South_of_Rhone
-  Cave_to_Rhone -->|5F exit| Rhone_Plateau
+  Midenhall_Castle -->|"west"| Leftwyne
+  Leftwyne -->|"north"| Cannock_Castle
+  Cannock_Castle -->|"east over the bridge"| Spring_of_Bravery
+  Cannock_Castle -->|"west over the double bridge"| Lake_Cave
+  Midenhall_Castle -->|"south over the bridge"| Monolith_South_of_Midenhall
+  Cannock_Castle -->|"monolith south-west of Cannock (needs the prince)"| Underground_Passage
+  Underground_Passage -->|"south"| Hamlin
+  Hamlin -->|"south-west"| Moonbrooke_Castle
+  Moonbrooke_Castle -->|"east"| Mirror_Swamp
+  Hamlin -->|"east, north bridge"| Tower_of_Wind
+  Moonbrooke_Castle -->|"west"| Monolith_West_of_Moonbrooke
+  Monolith_West_of_Moonbrooke -->|"north-west"| South_Dragons_Horn
+  South_Dragons_Horn -->|"landing north of the river"| North_Dragons_Horn
+  North_Dragons_Horn -->|"north"| Lianport
+  Lianport -->|"north"| Monolith_North_of_Lianport
+  Lianport -->|"sail east to the bridge"| Alefgard
+  Tantegel_Castle -->|"sail south-east"| Charlock_Castle
+  Tantegel_Castle -->|"sail south, east, south"| Lighthouse
+  Lianport -->|"sail north past the treasure spot"| Zahan
+  Zahan -->|"10 north then west"| World_Tree_Island
+  Shrine_of_Fire -->|"travel door"| Midenhall_Castle
+  Monolith_South_of_Midenhall -->|"gold door travel door"| Osterfair_Castle
+  Osterfair_Castle -->|"travel door"| Monolith_North_of_Beran
+  Monolith_North_of_Beran -->|"middle travel door"| Shrine_of_Fire
+  Shrine_of_Fire -->|"eastern travel door"| Holy_Shrine
+  Monolith_North_of_Beran -->|"south-east over two bridges"| Beran
+  Beran -->|"sail"| Wellgarth
+  Wellgarth -->|"sail the Tuhn River Channel"| Tuhn
+  Beran -->|"portal behind the jail door"| Monolith_South_of_Rhone
+  Cave_to_Rhone -->|"5F exit"| Rhone_Plateau
   Rhone_Plateau --> Hargons_Castle
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -497,13 +497,13 @@ flowchart TD
   Hargon{{"⚔ Hargon"}}
   Malroth{{"⚔ Malroth"}}
   Malroth_PONR>"⛔ Malroth defeated: the game ends"]
-  Midenhall_Castle -->|west| Leftwyne
-  Leftwyne -->|north| Cannock_Castle
-  Cannock_Castle -->|east over the bridge| Spring_of_Bravery
+  Midenhall_Castle -->|"west"| Leftwyne
+  Leftwyne -->|"north"| Cannock_Castle
+  Cannock_Castle -->|"east over the bridge"| Spring_of_Bravery
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -771,7 +771,7 @@ flowchart TD
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -915,9 +915,9 @@ flowchart TD
   Mirror_Swamp["Mirror Swamp"]
   Lianport_Gremlins{{"⚔ Two Gremlins (Lianport)"}}
   Lighthouse_Old_Man{{"⚔ Old man's trap: four Gremlins"}}
-  Underground_Passage -->|south| Hamlin
-  Hamlin -->|south-west| Moonbrooke_Castle
-  Moonbrooke_Castle -->|east| Mirror_Swamp
+  Underground_Passage -->|"south"| Hamlin
+  Hamlin -->|"south-west"| Moonbrooke_Castle
+  Moonbrooke_Castle -->|"east"| Mirror_Swamp
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
   class Lianport_Gremlins,Lighthouse_Old_Man boss;
@@ -1289,9 +1289,9 @@ flowchart TD
   Lianport_Gremlins{{"⚔ Two Gremlins (Lianport)"}}
   Sunken_Treasure["Sunken Treasure"]
   Lighthouse_Old_Man{{"⚔ Old man's trap: four Gremlins"}}
-  Monolith_West_of_Moonbrooke -->|north-west| South_Dragons_Horn
-  South_Dragons_Horn -->|landing north of the river| North_Dragons_Horn
-  North_Dragons_Horn -->|north| Lianport
+  Monolith_West_of_Moonbrooke -->|"north-west"| South_Dragons_Horn
+  South_Dragons_Horn -->|"landing north of the river"| North_Dragons_Horn
+  North_Dragons_Horn -->|"north"| Lianport
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
   class Lianport_Gremlins,Lighthouse_Old_Man boss;
@@ -1499,7 +1499,7 @@ flowchart TD
   Tantegel_Castle["Tantegel Castle"]
   Charlock_Castle["Charlock Castle"]
   Lighthouse_Old_Man{{"⚔ Old man's trap: four Gremlins"}}
-  Tantegel_Castle -->|sail south-east| Charlock_Castle
+  Tantegel_Castle -->|"sail south-east"| Charlock_Castle
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
   class Lighthouse_Old_Man boss;
@@ -2116,7 +2116,7 @@ flowchart TD
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -2328,13 +2328,13 @@ flowchart TD
   Hargon{{"⚔ Hargon"}}
   Malroth{{"⚔ Malroth"}}
   Malroth_PONR>"⛔ Malroth defeated: the game ends"]
-  Monolith_North_of_Beran -->|middle travel door| Shrine_of_Fire
-  Shrine_of_Fire -->|eastern travel door| Holy_Shrine
-  Monolith_North_of_Beran -->|south-east over two bridges| Beran
+  Monolith_North_of_Beran -->|"middle travel door"| Shrine_of_Fire
+  Shrine_of_Fire -->|"eastern travel door"| Holy_Shrine
+  Monolith_North_of_Beran -->|"south-east over two bridges"| Beran
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -3308,7 +3308,7 @@ flowchart TD
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -3581,7 +3581,7 @@ flowchart TD
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
@@ -3731,7 +3731,7 @@ flowchart TD
   Atlas --> Bazuzu
   Bazuzu --> Zarlox
   Zarlox --> Hargon
-  Hargon -->|leaving the room| Malroth
+  Hargon -->|"leaving the room"| Malroth
   Malroth --> Malroth_PONR
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
