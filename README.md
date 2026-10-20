@@ -65,13 +65,13 @@ Run `npm run rw:status -- <gameId>` at any time to see which stages are complete
 | Stage | Command | Primary Module / Skill | Output Artifact | Description |
 |:---:|:---|:---|:---|:---|
 | **1** | `npm run rw:fetch -- <id>`<br>`npm run rw:ra-guide -- <id>` | `fetch-data.ts`, `ra-guide.ts` | `01_achievements.json`<br>`02_sources/ra-comments.txt`<br>`02_sources/ra-guide.txt`<br>`content/api-dumps/<id>.md` | Queries the RetroAchievements API for game metadata, achievements, badges and community comments, registers the game in `content/master.json`, and downloads the official achievement guide from the [RA guides wiki](https://github.com/RetroAchievements/guides/wiki) when the game has one (the API's `guideUrl`, else a wiki page linking the game). |
-| **2** | `npm run rw:find-guides`<br>`npm run rw:browse -- <url>`<br>`npm run rw:maps -- <id>`<br>`npm run rw:collect -- <id> <url> ...` | `ra-source-collector` (Sonnet)<br>`search_guides.py`, `browse_page.py`, `collect_maps.py`, `collect_source.py` | `02_sources/*.txt`<br>`02_sources/sources.json` | Discovers and downloads full-text guides, checklists and visual maps (multi-tier map discovery) with author attribution. All page access goes through headless Chrome, so sites that block AI fetch tools still work. |
+| **2** | `npm run rw:find-guides`<br>`npm run rw:browse -- <url>`<br>`npm run rw:maps -- <id>`<br>`npm run rw:collect -- <id> <url> ...` | `ra-source-collector` (Sonnet)<br>`search_guides.py`, `browse_page.py`, `collect_maps.py`, `collect_source.py` | `02_sources/*.txt`<br>`02_sources/sources.json` | Discovers and downloads full-text guides, checklists and visual maps (multi-tier map discovery) with author attribution. All page access goes through headless Chrome, so sites that block AI fetch tools still work. Guides must be for the RA set's console: `rw:collect` counts the consoles each guide names and holds multi-version and other-console guides for the user to approve (see [Source rules](#source-rules)). |
 | **3** | `npm run rw:chunk -- <id>` | `chunk-sources.ts` | `03_chunks.jsonl` | Slices ingested text into deterministic 1,000–3,000 character chunks with preserved line numbers and source provenance. |
-| **4** | `npm run rw:extract -- <id>`<br>`npm run rw:chunks -- <id> --progress` | `extract-facts.ts`, `llm.ts`<br>`ra-fact-extractor` | `04_facts/*.jsonl` | One model call per batch of chunks extracts atomic facts (subject, statement, verbatim quote, chunk ID, category). Every fact is checked with the `rw:verify` rules before it is written. A fact whose quote is only a fragment (a number or words it states are missing) first gets its quote widened to the verbatim sentence, with the heading that holds a missing number put in front ("ROOM #02: ... text"), and is checked again; what still fails gets one repair call. Secondary full walkthroughs are extracted in focused mode. |
+| **4** | `npm run rw:extract -- <id>`<br>`npm run rw:chunks -- <id> --progress` | `extract-facts.ts`, `llm.ts`<br>`ra-fact-extractor` | `04_facts/*.jsonl` | One model call per batch of chunks extracts atomic facts (subject, statement, verbatim quote, chunk ID, category). Every fact is checked with the `rw:verify` rules before it is written. A fact whose quote is only a fragment (a number or words it states are missing) first gets its quote widened to the verbatim sentence, with the heading that holds a missing number put in front ("ROOM #02: ... text"), and is checked again; what still fails gets one repair call. Secondary full walkthroughs are extracted in focused mode. Guide batches run on Gemini Flash through the Antigravity CLI when it is installed (no Claude tokens); RA comment batches run on Claude Haiku (see [Model backends](#model-backends-for-rwextract-and-rwwrite)). |
 | **5** | `npm run rw:verify -- <id>` | `verify-facts.ts`<br>`ra-fact-verifier` | `05_verified.json`<br>`05_aliases.json` | Cross-verifies quotes against source chunks, corroborates facts across sources, flags contradictions, and validates achievement coverage. |
-| **6–7** | `npm run rw:plan -- <id>` | `ra-route-planner`<br>`plan-check.ts`, `graph.ts` | `06_graph.json`<br>`07_roadmap.json`<br>`06_graph.md` | Agent builds the knowledge graph and roadmap (chapters, missables, points of no return, True 100% criteria); the script validates them and renders Mermaid flowcharts. |
-| **8** | `npm run rw:write -- <id>`<br>`npm run rw:packet -- <id> <overview\|N>` | `write-chapters.ts`, `chapter-packet.ts`<br>`ra-walkthrough-writer` | `08_packets/*.md`<br>`08_chapters/*.md` | Builds each chapter's packet (facts, source passages, achievements, maps, warnings, checkpoint totals) and writes the chapter with one model call; `--fix` revises chapters with QA findings. |
-| **9** | `npm run rw:assemble -- <id>`<br>`npm run rw:qa -- <id>` | `assemble.ts`, `qa-check.ts`<br>`ra-qa-auditor` | `08_cited.md`<br>`content/walkthroughs/<id>.md`<br>`09_qa.json`, `09_review.json` | Compiles the overview, roadmap, missables/PONR summaries, Mermaid diagrams and chapters, runs deterministic QA, then the agent performs an adversarial review. |
+| **6–7** | `npm run rw:plan -- <id>` | `ra-route-planner`<br>`plan-check.ts`, `graph.ts` | `06_graph.json`<br>`07_roadmap.json`<br>`06_graph.md` | Agent builds the knowledge graph and roadmap (chapters, missables, points of no return, True 100% criteria, `open_questions` no source answers, `game_chapter` when the game's own chapters are split); the script validates them, warns about area labels no fact matches and about one-word generic aliases ("Cave", "Ruins"), and renders Mermaid flowcharts. |
+| **8** | `npm run rw:write -- <id>`<br>`npm run rw:packet -- <id> <overview\|N>` | `write-chapters.ts`, `chapter-packet.ts`<br>`ra-walkthrough-writer` | `08_packets/*.md`<br>`08_chapters/*.md` | Builds each chapter's packet (facts, source passages, achievements, maps, warnings, checkpoint totals) and writes the chapter with one model call on Sonnet. Each draft is checked before it is saved (citations, achievement tags, checkpoint totals, drafting notes, save-state advice, `##` headings inside a chapter, blank citation cells) and repaired once; `--fix` revises chapters with QA findings. |
+| **9** | `npm run rw:assemble -- <id>`<br>`npm run rw:qa -- <id>` | `assemble.ts`, `qa-check.ts`<br>`ra-qa-auditor` | `08_cited.md`<br>`content/walkthroughs/<id>.md`<br>`09_qa.json`, `09_review.json` | Compiles the overview, roadmap, missables/PONR summaries, Mermaid diagrams and chapters, runs deterministic QA, then the agent performs an adversarial review. QA does not count route logic built only from the achievement list and roadmap, or plain "Do not ..." warnings, as uncited. |
 | **10** | `npm run rw:score -- <id>` | `score.ts` | `10_score.json` | Computes the multi-dimensional True 100% score; outputs `ACCEPTED` (>=90%) or `REJECTED`. |
 | **11** | `npm run rw:clean -- <id>` | `cleanup.ts` | — | After acceptance and review, purges intermediate `08_packets/` and game scratch files while keeping all research artifacts. |
 
@@ -115,8 +115,11 @@ $$\text{Overall Score} = \frac{1}{7} \sum_{i=1}^{7} S_i$$
 | **Beginner Friendliness** | $\text{ReviewerScore} - \min(30, \text{QA Warnings} \times 5)$ | $\ge 80\%$ |
 | **Route Completeness** | $\frac{\text{Areas}_{\text{mentioned}}}{\text{Areas}_{\text{roadmap}}} \times 100 - \text{Penalties}$ | $\ge 80\%$ |
 
-Guides counted for Source Coverage (and for Stage 2 in `rw:status`) are sources of 10k+ characters other than maps, `ra-comments` and `ra-guide`: the RA comments and RA guides wiki page that Stage 1 fetches are extras on top of the 3 required guides. `rw:status` and `rw:auto` block at Stage 2 until 3 are registered, unless Stage 2 recorded an exhaustive search in `02_sources/_fewer_guides.txt`. Guides must be for the console the RA set is on: `rw:collect` counts console names in each guide and holds multi-version and other-console guides (`"use": false` in `sources.json`; saved, but skipped by every stage and never counted). `rw:status` asks the user about every held multi-version guide, and about other-console guides only when fewer than 3 same-console guides exist; `rw:collect -- <id> --id <sourceId> --approve | --decline` records the answer.
 | **True 100% Coverage** | Depth ($0.45 \times \text{WordDepth} + 0.35 \times \text{CheckpointScore} + 0.20 \times \text{MapScore}$) minus Sparsity | $\ge 80\%$ |
+
+### Source rules
+
+Guides counted for Source Coverage (and for Stage 2 in `rw:status`) are sources of 10k+ characters other than maps, `ra-comments` and `ra-guide`: the RA comments and RA guides wiki page that Stage 1 fetches are extras on top of the 3 required guides. `rw:status` and `rw:auto` block at Stage 2 until 3 are registered, unless Stage 2 recorded an exhaustive search in `02_sources/_fewer_guides.txt`. Guides must be for the console the RA set is on: `rw:collect` counts console names in each guide and holds multi-version and other-console guides (`"use": false` in `sources.json`; saved, but skipped by every stage and never counted). `rw:status` asks the user about every held multi-version guide, and about other-console guides only when fewer than 3 same-console guides exist; `rw:collect -- <id> --id <sourceId> --approve | --decline` records the answer.
 
 ### Acceptance & Rejection Blockers
 A walkthrough is instantly **REJECTED** if:
@@ -223,6 +226,7 @@ Never hand-edit the script-generated files (`05_verified.json`, `09_qa.json`, `1
 ### Prerequisites
 - Node.js >= 20.x
 - Python >= 3.10 with `html2text` and `playwright` (headless Chrome for the source collector, guide finder and page browser)
+- A model backend for `rw:extract` / `rw:write`: the `claude` CLI (Claude Code, logged in) for Haiku and Sonnet, plus, optionally, the Antigravity CLI (`agy`, logged in) so guide extraction runs on Gemini Flash instead of Claude. See [Model backends](#model-backends-for-rwextract-and-rwwrite).
 - RetroAchievements API credentials in `.env` (get your Web API key from your RetroAchievements settings page):
   ```bash
   RA_USERNAME="YourUsername"
@@ -270,12 +274,16 @@ npm run rw:find-guides -- "<game title>"
 npm run rw:browse -- "<any url>" --links --grep "<game>"   # read non-GameFAQs sites/atlases
 npm run rw:maps -- <gameId> --dry-run   # list the game's VGMaps maps; drop --dry-run to register them
 npm run rw:collect -- <gameId> "<url>" --id gf1 --site GameFAQs --title "<guide title>" --author "<author>"
+npm run rw:collect -- <gameId> --id gf2 --approve     # the user approved a held (multi-version / other-console) guide
+npm run rw:collect -- <gameId> --id gf2 --decline     # keep it saved but unused
+npm run rw:collect -- <gameId> --id gf2 --hold multi  # hold a guide whose intro shows it covers other versions
 
 # 3. Chunk ingested sources
 npm run rw:chunk -- <gameId>
 
 # 4. Extract facts (model calls; rules: ra-fact-extractor). Re-run until every chunk is processed
 npm run rw:extract -- <gameId>            # --dry-run, --source gf1, --max-batches N, --full, --batch
+RW_LLM_EXTRACT=claude-cli npm run rw:extract -- <gameId>   # extract on Haiku instead of Gemini Flash
 npm run rw:chunks -- <gameId> --progress
 
 # 5. Verify extracted facts (agent resolves conflicts: ra-fact-verifier)
@@ -314,16 +322,17 @@ The agent stages are defined once, in `.agents/plugins/retro-walkthrough/skills/
 | **Always-on rules** | `.agents/rules/*.md` | Imported by `CLAUDE.md` |
 | **Start a game** | Ask: "generate a walkthrough for game 1234" | Ask the same, or type `/generate-walkthrough 1234` |
 | **Judgment stages (2, 5, 6–7, 9)** | `invoke_subagent` per stage (or a new conversation) | `rw-stage` agent per stage (`.claude/agents/rw-stage.md`, Opus, fresh context) |
-| **Bulk stages (4, 8)** | `npm run rw:extract` / `rw:write` (`RW_LLM=gemini` without the claude CLI) | `npm run rw:extract` / `rw:write` |
+| **Bulk stages (4, 8)** | `npm run rw:extract` / `rw:write` (`RW_LLM=gemini` without the claude CLI) | `npm run rw:extract` / `rw:write` (guide extraction on Gemini Flash via `agy` when installed, writing on Sonnet) |
 | **Fallback subagents** | `invoke_subagent` (or inline) | `rw-worker` agent (`.claude/agents/rw-worker.md`, Sonnet), only when no model backend runs |
 
-**Cost control.** The Super Mario RPG build (game 471), done with one agent per batch and chapter and orchestrated from one long Opus session, used about 114M tokens: 70M in the main session re-reading its own growing context and 44M in 70 subagents. Three changes cut that:
+**Cost control.** The Super Mario RPG build (game 471), done with one agent per batch and chapter and orchestrated from one long Opus session, used about 114M tokens: 70M in the main session re-reading its own growing context and 44M in 70 subagents. Four changes cut that:
 
 1. **Bulk stages are scripts.** `rw:extract` and `rw:write` make one model call per batch or chapter (no agent loop, no re-reading the skill every turn), check the reply deterministically, and repair once. In testing on game 471, an 8-chunk extraction batch cost about 50–85k tokens on Haiku and a chapter about 115k on Sonnet.
 2. **Fresh context per judgment stage.** The session you talk to is a thin coordinator: it runs the command stages and hands each judgment stage (source collection, conflict resolution, planning, review) to a fresh `rw-stage` agent (`.claude/agents/rw-stage.md`, Opus), which reads its inputs from disk and reports back in a few lines. `rw:status` prints a `WHO:` line saying which applies. No manual `/clear` is needed. See "Coordinator mode" in the `generate-walkthrough` skill.
 3. **Fewer repair rounds.** Packets carry exact checkpoint totals; `rw:plan` warns about area labels that match no fact location (the cause of thin packets) and about achievements planned away from their facts; `rw:qa` catches drafting notes, wrong checkpoint totals and broken cross-chapter promises; `rw:write --fix` repairs chapters with a model call instead of in the orchestrator's context, and tries each kind of warning only once per chapter (on StarTropics, 1985, a repeat pass spent about 500k tokens and cleared none). `rw:extract` widens fragment quotes itself before asking for a repair: on StarTropics' six worst batches that cut rejected facts from 211 to 34 and repair tokens by 69%.
+4. **Extraction off Claude.** Guide extraction, the largest share of script tokens on big games (5M of Spyro's 8.8M), runs on Gemini Flash through the Antigravity CLI when it is installed. On a StarTropics copy this saved ~2.4M Claude tokens; the walkthrough scored 94% against 97%, and a blind comparison of three chapters rated it as good or better. Planning, review and writing stay on Claude, where quality is decided.
 
-Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl`; `rw:status` prints the total.
+Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl` with its backend; `rw:status` prints the total and the Claude / agy split.
 
 **Active time.** `rw:auto` logs how long each command step ran, and the coordinator logs each stage agent's run time and tokens with `npm run rw:log-agent -- <id> --stage "<N name>" --ms <ms> --tokens <n>`, both to `_activity.jsonl`. `rw:status` totals them on its `ACTIVE:` line. Only working time is recorded: waiting for the user or for a usage-limit reset falls between entries and never counts, so games can be compared as the pipeline improves. `npm run rw:analyze -- <id>` condenses all of a game's logs (usage, activity, extraction rejects, write repairs, QA warnings, review issues) and compares it with earlier games; the coordinator turns it into ranked improvement suggestions in the approval summary. StarTropics II (1984), the first game measured, took 35m active (scripts 9m, agents 26m) with 2.12M script tokens and 414k agent tokens.
 
@@ -349,8 +358,15 @@ The shared rule `.agents/rules/agent-tools.md` maps the generic actions used in 
 | Game ID | Title | System | Words | Maps Linked | Achievements | QA Errors | Final Score | Status |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **253** | *Super Mario All-Stars* | SNES/Super Famicom | 12,647 | 229 / 229 (100%) | 111 / 111 (100%) | 0 | **98%** | **ACCEPTED** |
-| **1005** | *Lufia II: Rise of the Sinistrals* | SNES/Super Famicom | 10,873 | 31 / 30 (100%) | 60 / 60 (100%) | 0 | **99%** | **ACCEPTED** |
+| **1005** | *Lufia II: Rise of the Sinistrals* | SNES/Super Famicom | 10,873 | 30 / 30 (100%) | 60 / 60 (100%) | 0 | **99%** | **ACCEPTED** |
+| **471** | *Super Mario RPG: Legend of the Seven Stars* | SNES/Super Famicom | 68,609 | 68 / 68 (100%) | 99 / 99 (100%) | 0 | **96%** | **ACCEPTED** |
+| **23372** | *Nickelodeon Guts* | SNES/Super Famicom | 9,224 | 21 / 21 (100%) | 20 / 20 (100%) | 0 | **97%** | **ACCEPTED** |
+| **593** | *NBA Jam* | SNES/Super Famicom | 10,870 | N/A (Sports) | 28 / 28 (100%) | 0 | **96%** | **ACCEPTED** |
+| **1470** | *Dragon Quest II* | NES/Famicom | 31,444 | 33 / 39 (85%) | 69 / 69 (100%) | 0 | **95%** | **ACCEPTED** |
+| **1985** | *StarTropics* | NES/Famicom | 21,562 | 19 / 19 (100%) | 28 / 28 (100%) | 0 | **97%** | **ACCEPTED** |
+| **1984** | *StarTropics II: Zoda's Revenge* | NES/Famicom | 17,780 | 22 / 22 (100%) | 31 / 31 (100%) | 0 | **96%** | **ACCEPTED** |
 | **1887** | *Princess Tomato in the Salad Kingdom* | NES/Famicom | 6,677 | N/A (44 Scenes) | 52 / 52 (100%) | 0 | **96%** | **ACCEPTED** |
+| **11279** | *Spyro the Dragon* | PlayStation | 56,525 | 35 / 35 (100%) | 89 / 89 (100%) | 0 | **95%** | **ACCEPTED** |
 | **11401** | *Tekken* | PlayStation | 9,267 | N/A (Fighting Game) | 43 / 43 (100%) | 0 | **97%** | **ACCEPTED** |
 
 ---
