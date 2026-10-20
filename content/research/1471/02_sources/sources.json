@@ -1,0 +1,309 @@
+[
+  {
+    "id": "ra-comments",
+    "site": "RetroAchievements",
+    "title": "Dragon Quest — RetroAchievements community comments",
+    "url": "https://retroachievements.org/game/1471",
+    "kind": "ra-comments",
+    "file": "ra-comments.txt",
+    "chars": 55853,
+    "collected_at": "2026-10-20T00:46:07.815Z"
+  },
+  {
+    "id": "ra-guide",
+    "site": "RetroAchievements Guides Wiki",
+    "title": "Dragon Warrior (NES)",
+    "url": "https://github.com/RetroAchievements/guides/wiki/Dragon-Warrior-(NES)",
+    "kind": "ra-guide",
+    "file": "ra-guide.txt",
+    "chars": 19429,
+    "collected_at": "2026-10-20T00:46:08.092Z"
+  },
+  {
+    "id": "gf1",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "CMoriarty",
+    "url": "https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/10739",
+    "kind": "guide",
+    "file": "gf1.txt",
+    "chars": 167046,
+    "collected_at": "2026-10-20T00:47:05.163517+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "multi",
+      "counts": {
+        "nes": 21,
+        "snes": 3,
+        "gbc": 1,
+        "ps1": 1
+      }
+    },
+    "use": true,
+    "decision": "user-approved"
+  },
+  {
+    "id": "gf2",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "PsychoPenguin",
+    "url": "https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/11382",
+    "kind": "guide",
+    "file": "gf2.txt",
+    "chars": 105228,
+    "collected_at": "2026-10-20T00:47:09.450601+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 1,
+        "gbc": 1
+      }
+    }
+  },
+  {
+    "id": "gf3",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "SykoBadger",
+    "url": "https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/2991",
+    "kind": "guide",
+    "file": "gf3.txt",
+    "chars": 80975,
+    "collected_at": "2026-10-20T00:47:13.625159+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 4,
+        "snes": 1,
+        "n64": 1,
+        "ps1": 1
+      }
+    }
+  },
+  {
+    "id": "checklist-items",
+    "site": "GameFAQs",
+    "title": "Item/Magic/Armor/Weapon FAQ",
+    "author": "FFMrebirth",
+    "url": "https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/27862",
+    "kind": "guide",
+    "file": "checklist-items.txt",
+    "chars": 15165,
+    "collected_at": "2026-10-20T00:47:17.777648+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "gf4",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "retroholic",
+    "url": "https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/78448",
+    "kind": "guide",
+    "file": "gf4.txt",
+    "chars": 194743,
+    "collected_at": "2026-10-20T00:47:34.811930+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "multi",
+      "counts": {
+        "nes": 26,
+        "switch": 8,
+        "snes": 6,
+        "gbc": 6,
+        "mobile": 2
+      }
+    },
+    "use": false,
+    "decision": "user-declined"
+  },
+  {
+    "id": "gf5",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "FFMrebirth",
+    "url": "https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/faqs/24483",
+    "kind": "guide",
+    "file": "gf5.txt",
+    "chars": 70949,
+    "collected_at": "2026-10-20T00:47:39.112351+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "map-alefgard",
+    "site": "VGMaps",
+    "title": "Alefgard Map",
+    "author": "Rick Bruns",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Alefgard.png",
+    "kind": "map",
+    "file": "map-alefgard.txt",
+    "chars": 178,
+    "collected_at": "2026-10-20T00:48:31.495130+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Alefgard.png"
+  },
+  {
+    "id": "map-tantegel-castle",
+    "site": "VGMaps",
+    "title": "Tantegel Castle Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-TantegelCastle.png",
+    "kind": "map",
+    "file": "map-tantegel-castle.txt",
+    "chars": 193,
+    "collected_at": "2026-10-20T00:48:31.881355+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-TantegelCastle.png"
+  },
+  {
+    "id": "map-brecconary",
+    "site": "VGMaps",
+    "title": "Brecconary Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Brecconary.png",
+    "kind": "map",
+    "file": "map-brecconary.txt",
+    "chars": 180,
+    "collected_at": "2026-10-20T00:48:32.245232+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Brecconary.png"
+  },
+  {
+    "id": "map-cantlin",
+    "site": "VGMaps",
+    "title": "Cantlin Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Cantlin.png",
+    "kind": "map",
+    "file": "map-cantlin.txt",
+    "chars": 171,
+    "collected_at": "2026-10-20T00:48:32.598439+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Cantlin.png"
+  },
+  {
+    "id": "map-erdricks-cave",
+    "site": "VGMaps",
+    "title": "Erdrick's Cave Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Erdrick'sCave.png",
+    "kind": "map",
+    "file": "map-erdricks-cave.txt",
+    "chars": 190,
+    "collected_at": "2026-10-20T00:48:32.954665+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Erdrick'sCave.png"
+  },
+  {
+    "id": "map-garinham",
+    "site": "VGMaps",
+    "title": "Garinham Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Garinham.png",
+    "kind": "map",
+    "file": "map-garinham.txt",
+    "chars": 174,
+    "collected_at": "2026-10-20T00:48:33.311189+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Garinham.png"
+  },
+  {
+    "id": "map-garinham-garins-grave",
+    "site": "VGMaps",
+    "title": "Garinham Garin's Grave Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Garinham-Garin'sGrave.png",
+    "kind": "map",
+    "file": "map-garinham-garins-grave.txt",
+    "chars": 214,
+    "collected_at": "2026-10-20T00:48:33.659868+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Garinham-Garin'sGrave.png"
+  },
+  {
+    "id": "map-hauksness",
+    "site": "VGMaps",
+    "title": "Hauksness Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Hauksness.png",
+    "kind": "map",
+    "file": "map-hauksness.txt",
+    "chars": 177,
+    "collected_at": "2026-10-20T00:48:34.014516+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Hauksness.png"
+  },
+  {
+    "id": "map-kol",
+    "site": "VGMaps",
+    "title": "Kol Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Kol.png",
+    "kind": "map",
+    "file": "map-kol.txt",
+    "chars": 159,
+    "collected_at": "2026-10-20T00:48:34.374874+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Kol.png"
+  },
+  {
+    "id": "map-mountain-cave",
+    "site": "VGMaps",
+    "title": "Mountain Cave Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-MountainCave.png",
+    "kind": "map",
+    "file": "map-mountain-cave.txt",
+    "chars": 187,
+    "collected_at": "2026-10-20T00:48:34.779178+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-MountainCave.png"
+  },
+  {
+    "id": "map-rimuldar",
+    "site": "VGMaps",
+    "title": "Rimuldar Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Rimuldar.png",
+    "kind": "map",
+    "file": "map-rimuldar.txt",
+    "chars": 174,
+    "collected_at": "2026-10-20T00:48:35.172881+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-Rimuldar.png"
+  },
+  {
+    "id": "map-staff-of-rain-cave-magic-temple",
+    "site": "VGMaps",
+    "title": "Staff Of Rain Cave&Magic Temple Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-StaffOfRainCave&MagicTemple.png",
+    "kind": "map",
+    "file": "map-staff-of-rain-cave-magic-temple.txt",
+    "chars": 235,
+    "collected_at": "2026-10-20T00:48:35.543604+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-StaffOfRainCave&MagicTemple.png"
+  },
+  {
+    "id": "map-swamp-cave",
+    "site": "VGMaps",
+    "title": "Swamp Cave Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-SwampCave.png",
+    "kind": "map",
+    "file": "map-swamp-cave.txt",
+    "chars": 178,
+    "collected_at": "2026-10-20T00:48:35.938563+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-SwampCave.png"
+  },
+  {
+    "id": "map-charlock-castle",
+    "site": "VGMaps",
+    "title": "Charlock Castle Map",
+    "author": "Chiasm",
+    "url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-CharlockCastle.png",
+    "kind": "map",
+    "file": "map-charlock-castle.txt",
+    "chars": 193,
+    "collected_at": "2026-10-20T00:48:36.329484+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/DragonWarrior-CharlockCastle.png"
+  }
+]

@@ -1,0 +1,7 @@
+{"at":"2026-10-20T00:46:08.148Z","kind":"step","label":"npm run rw:fetch -- 1471","active_ms":40205,"exit":0}
+{"at":"2026-10-20T00:49:09.490Z","kind":"agent","label":"2 sources","active_ms":167799,"tokens":39767,"tool_uses":15,"model":"sonnet"}
+{"at":"2026-10-20T01:24:25.986Z","kind":"step","label":"npm run rw:extract -- 1471","active_ms":2043510,"exit":0}
+{"at":"2026-10-20T01:24:27.703Z","kind":"step","label":"npm run rw:verify -- 1471","active_ms":659,"exit":0}
+{"at":"2026-10-20T01:32:58.671Z","kind":"agent","label":"6-7 route","active_ms":496151,"tokens":158996,"tool_uses":50,"model":"opus"}
+{"at":"2026-10-20T01:34:40.961Z","kind":"step","label":"npm run rw:write -- 1471","active_ms":100400,"exit":0}
+{"at":"2026-10-20T01:42:24.626Z","kind":"agent","label":"9 review","active_ms":447399,"tokens":152260,"tool_uses":89,"model":"opus"}

@@ -1,0 +1,131 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 15,
+      "description": "Removed a tip telling the player to use Gwaelin's Love to track Level 15. On this route Gwaelin is only returned to the King in Chapter 10, so the item is not in the inventory yet (gf1-20-7). Fixed with rw:write 5 --fix --note."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "route",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 12,
+      "description": "The master save never required a Magic Key, but Gwaelin's door needs one in ending runs 1 and 3 and both reload the same save. Added the key requirement to the Chapter 7 preparation list, the pre-save check, the Point of No Return callout and the checklist, plus the overview warning (gf1-20-6, gf3-9-5, gf3-33-9)."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 106,
+      "description": "The master-save Point of No Return demanded every non-ending achievement, which contradicted Chapters 3 and 9 (the Death Necklace can still be farmed in Chapter 9 after the Dragonlord falls). Made the exception explicit in the save check and the callout."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 101,
+      "description": "Garin's Grave floor-by-floor steps mixed four guides with different floor numbering (e.g. 'go up' on B1F). Rewrote as one route per floor on the RA guide's B1F-B4F labels, with a separate Cursed Belt detour and harp route, and alternatives moved into short notes."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 23,
+      "description": "The Kol map link was replaced by an 'Unable to verify' writer note even though map-kol is registered in sources.json. Embedded the vgmaps Kol map link."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 96,
+      "description": "A missable warning said to decline the King's save prompt after the Run 1 credits. That prompt only happens when Gwaelin is returned before the Dragonlord falls (ra-comments-30-2), not after the ending. Replaced it with a tip to reset and reload the master save. The checkpoint also wrongly said Gwaelin's Love comes from rescuing her; it comes from returning her to the King (gf1-20-7)."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 51,
+      "description": "The Dragonlord's offer warning said the player 'should already have' 13415, but that achievement is earned in Chapter 10. Rewrote it so accepting is saved for Chapter 10."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 68,
+      "description": "The overview listed Healmore among spells with achievements. The level achievements are Levels 3, 9, 12, 15 and 19 (Heal, Radiant, Outside, Repel, Hurtmore); Healmore at Level 17 has none."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 103,
+      "description": "The Flame Sword was given as 'Rimuldar or Cantlin, unable to verify'. gf1's own town list and gf2, gf3 and gf5 all place it in Cantlin; only gf1's item table says Rimuldar. Stated Cantlin."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "layout",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 7,
+      "description": "Chapter 4 had a Missable callout and three Point of No Return callouts against one roadmap PONR. Merged the Gwaelin warning into the single PONR and turned the Green Dragon callout into a plain warning."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 143,
+      "description": "The Magic Key section was two sentences. It now lists every keyed door ahead (Tantegel cellar, Garinham, the Grave's inner door, the Cantlin shop) and how many keys to buy."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 37,
+      "description": "The Rainbow Drop section was very brief. Added the Token requirement and what to do after getting the Drop. Also rewrote the Charlock trigger warning, which mentioned an unsourced 'courtyard', to follow ra-comments-3-1, and added the sourced tip to copy the master save (ra-comments-2-2)."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 92,
+      "description": "The Token search step said to use Gwaelin's Love, which the player does not have on this route. It now says the item is not available yet and points to the fallback search."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "layout",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 68,
+      "description": "Renamed sections to the roadmap area labels (King's save prompt, Dragonlord's offer). Also renamed area labels in Chapters 1 and 3, removed a duplicated checkpoint heading, removed writer notes in Chapters 8 and 9, fixed a wrong key-price citation, and cited the uncited checkpoint and overview lines."
+    }
+  ]
+}

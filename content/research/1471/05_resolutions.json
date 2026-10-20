@@ -1,0 +1,37 @@
+[
+  {
+    "fact_id": "ra-guide-6-1",
+    "resolution": "reject",
+    "rationale": "Location misfiled as Mountain Cave: the fact's own text places the Green Dragon and Gwaelin in the cave south of Kol, which is the Swamp Cave (gf1-18-11, gf2-6-6, gf3-29-5). Its content is covered by gf3-29-5, gf1-27-4 and gf5-12-9, so rejecting it only keeps it out of the Mountain Cave packet."
+  },
+  {
+    "fact_id": "gf5-12-8",
+    "resolution": "reject",
+    "rationale": "Reward figures (5 Experience, 9 gold) contradict every bestiary source (gf1-37-9: 45 EXP / 160 Gold; gf2-53-2: 45 EXP / 140 Gold). The sleep weakness it states is kept through gf3-22-6 and gf2-10-6."
+  },
+  {
+    "fact_id": "checklist-items-2-8",
+    "resolution": "reject",
+    "rationale": "Places the Cursed (Death) Necklace in a Grave of Garinham chest at about 1/12. gf1-47-2, gf2-9-3, gf2-40-4, ra-guide-8-3/8-4 and many RA players who earned achievement 13397 (ra-comments-2-1, 4-2, 10-3, 12-2, 14-11) put it in the Mountain Cave B2 gold chest at about 1/32; ra-comments-16-2 says it is not in the Grave. The same paragraph appears word for word in gf5, so the two are one source, not two."
+  },
+  {
+    "fact_id": "gf5-17-8",
+    "resolution": "reject",
+    "rationale": "Same text as checklist-items-2-8 (Grave of Garinham, 1/12); contradicted by the Mountain Cave sources and RA player reports listed there."
+  },
+  {
+    "fact_id": "gf5-23-10",
+    "resolution": "reject",
+    "rationale": "Gives the Metal Slime 22 HP, 14 EXP and 30+ gold near Cantlin. Every other bestiary gives 4 HP and 115 EXP (gf1-33-3, gf1-38-6, gf2-56-2, gf3-30-2), and the RA guide and players place it around Hauksness (ra-guide-9-6, ra-comments-36-1). The row appears to belong to another enemy."
+  },
+  {
+    "fact_id": "gf2-15-1",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: level 17 is the stated minimum, gf3-29-14 (level 19-20), ra-guide-5-2 (20) and gf1-66-8 (20-22) are safer recommendations. The route uses level 19+ (all spells, achievement 13386) before Charlock."
+  },
+  {
+    "fact_id": "gf1-37-9",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: the Green Dragon guards Gwaelin in the Swamp Cave (gf2-53-2, gf2-6-6, gf3-22-5) and also appears as a random encounter in Charlock Castle."
+  }
+]

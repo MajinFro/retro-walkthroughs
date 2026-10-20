@@ -1,0 +1,47 @@
+gf1#1 metadata, legal disclaimer, version history, and table of contents
+gf1#3 introductory commentary, historical release notes, and guide preamble
+gf1#41 appendix section header, table column explanations, and empty table header only
+gf1#67 Author acknowledgments and copyright notice
+ra-comments#38 server edit log only: no gameplay info
+ra-comments#39 server edit log only: no gameplay info
+ra-comments#40 server edit log only: no gameplay info
+ra-comments#41 chatter only: no gameplay info (title comment)
+ra-comments#22 bug report and chatter only: no gameplay info
+ra-comments#23 server edit log only: no gameplay info
+ra-comments#24 server edit log only: no gameplay info
+ra-comments#25 server edit log only: no gameplay info
+ra-comments#27 server edit log only: no gameplay info
+ra-comments#29 server edit log only: no gameplay info
+ra-guide#1 metadata, synopsis table, and introductory overview without specific gameplay facts
+gf2#17 secondary source: author commentary and FAQ chatter with no gameplay info
+gf2#18 secondary source: section header and list introduction only
+gf2#1 author contact information, legal disclaimer, and version history
+gf2#2 author contact rules and table of contents
+gf2#3 introduction and revision history
+ra-comments#6 server edit logs and chatter only: no gameplay info
+ra-comments#9 server edit logs only: no gameplay info
+ra-comments#15 server edit log and Description line only: no gameplay info
+ra-comments#17 server edit log and Description line only: no gameplay info
+ra-comments#18 server edit log and Description line only: no gameplay info
+ra-comments#20 server edit log and Description line only: no gameplay info
+gf3#1 ASCII art title header and decorative text only; no gameplay information.
+gf3#2 Title continuation, author metadata, legal notices, and table of contents; no gameplay information.
+gf3#3 Version updates and revision history; no gameplay information.
+gf3#4 General genre description and high-level premise summary; no specific gameplay facts.
+gf2#74 author notes, credits, and copyright disclaimer with no gameplay information
+gf3#37 legal and author notes
+checklist-items#1 title banner, author metadata, and table of contents
+checklist-items#8 disclaimer and copyright notice only
+gf5#1 table of contents
+gf5#2 version history
+gf5#3 author contact information
+gf3#10 mid-section ASCII dungeon map fragment containing only layout symbols with no text descriptions or labels
+gf3#15 table of contents and guide structure outline
+gf5#25 disclaimer and copyright notice
+gf5#26 credits and acknowledgments
+gf1#61 unlabeled table fragment containing only numbers and question marks with no column headers or explanatory text
+gf1#56 raw stat table without prose; contains no gameplay information
+gf1#57 raw stat table without prose; contains no gameplay information
+gf1#58 raw stat table without prose; contains no gameplay information
+gf1#59 raw stat table without prose; contains no gameplay information
+gf1#60 raw stat table without prose; contains no gameplay information

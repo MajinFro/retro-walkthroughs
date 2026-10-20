@@ -1,0 +1,204 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Turn-Based RPG",
+    "categories": [
+      {
+        "name": "Erdrick's Relics",
+        "description": "The four pieces of Erdrick's legacy: Erdrick's Tablet (Erdrick's Cave), Erdrick's Token (swamp south of Cantlin), Erdrick's Armor (Hauksness, guarded by the Axe Knight) and Erdrick's Sword (Charlock Castle depths).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Rainbow Drop Ingredients",
+        "description": "The three items the old man south of Rimuldar needs for the Rainbow Drop: Stones of Sunlight (Tantegel Castle basement), Staff of Rain (traded for the Silver Harp northwest of Kol) and Erdrick's Token.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Optional treasures and cursed items",
+        "description": "The Fighter's Ring and the random Death Necklace (Mountain Cave B2), the Fairy Flute (Kol), the Cursed Belt (Garin's Grave B3) and the Silver Shield (Cantlin's locked shop). Picking up the cursed items earns their achievements; never equip them.",
+        "tracked_per_chapter": false
+      },
+      {
+        "name": "Endings",
+        "description": "All four ways to finish: defeat the Dragonlord with Gwaelin carried along, defeat him without ever rescuing her, return Gwaelin to her father, and accept the Dragonlord's offer. They are played from one save at King Lorik (chapters 8-10).",
+        "tracked_per_chapter": false
+      }
+    ],
+    "chapter_checkpoints": ["Erdrick's Relics", "Rainbow Drop Ingredients", "achievements"]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough, then three short ending runs from the same save. Do everything except touching Princess Gwaelin or the Dragonlord, get Erdrick's Sword, then save at King Lorik (ra-comments-3-1, ra-comments-32-2). Run 1: rescue Gwaelin, carry her to the Dragonlord, defeat him and walk her home (13416, 13418, 13414, 13420). Reset and load. Run 2: leave Gwaelin in the cave, defeat the Dragonlord, return to the castle (13419). Reset and load. Run 3: rescue Gwaelin, return her to the King for Gwaelin's Love (13417), then accept the Dragonlord's offer (13415) (ra-comments-32-3, -32-4, -32-5). Beating the Dragonlord is never saved, so every run starts from the same save (ra-comments-1-4). Rescuing Gwaelin cannot be undone on a save file (ra-comments-1-5, ra-comments-28-3), so never save after rescuing her before run 3.",
+  "settings_notes": "Hardcore mode: no save states and no rewinding. The only saves are King Lorik's Imperial Scroll (gf1-12-8); loading those is allowed and is how the three ending runs are done. Emulator fast-forward does not affect Hardcore (ra-comments-1-1). The game stops saving at level 30 (ra-comments-2-3); the route never needs more than about level 20-24.",
+  "fact_ids": ["ra-comments-3-1", "ra-comments-32-2", "ra-comments-32-3", "ra-comments-32-4", "ra-comments-32-5", "ra-comments-1-4", "ra-comments-1-5", "ra-comments-28-3", "ra-comments-1-1", "ra-comments-2-3", "gf1-12-8", "ra-guide-2-1", "ra-guide-2-2"],
+  "counter_totals": { "Erdrick's Relics": 4, "Rainbow Drop Ingredients": 3 },
+  "missables": [
+    {
+      "achievement_id": 13420,
+      "label": "Thou Hast Triumphed Together: beat the Dragonlord with Gwaelin in tow",
+      "deadline": "Needs Gwaelin carried to Charlock. Once she is handed to the King (Gwaelin's Love) she no longer follows you, so do this run (chapter 8) from the master save before any run that returns her.",
+      "chapter": 8,
+      "fact_ids": ["ra-guide-6-3", "ra-comments-32-3", "ra-comments-32-8", "ra-guide-2-2"]
+    },
+    {
+      "achievement_id": 13418,
+      "label": "Thine Princess By Thine Side: bring Gwaelin to the Dragonlord",
+      "deadline": "Speak to the Dragonlord while carrying Gwaelin, in the chapter 8 run from the master save. Missed for good if a save is made after Gwaelin is returned to the King (ra-comments-30-3).",
+      "chapter": 8,
+      "fact_ids": ["ra-guide-6-2", "ra-comments-31-1", "ra-comments-31-3", "ra-comments-30-3"]
+    },
+    {
+      "achievement_id": 13419,
+      "label": "Thou Art a Jerk to Women: beat the Dragonlord and return without saving Gwaelin",
+      "deadline": "Only possible on a save where Gwaelin was never rescued. Do not rescue her before the master save (chapter 7); play this run from that save (chapter 9).",
+      "chapter": 9,
+      "fact_ids": ["ra-comments-28-2", "ra-comments-28-3", "ra-guide-2-1", "ra-guide-5-4", "ra-comments-32-4"]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Rescuing Princess Gwaelin",
+      "chapter": 4,
+      "warning": "Walk through the Swamp Cave to Rimuldar, but do not fight the Green Dragon or open Gwaelin's door. She can only be rescued once; a save made after rescuing her loses 13419 for good. She is only rescued in the ending runs (chapters 8 and 10), from the master save.",
+      "fact_ids": ["ra-comments-1-5", "ra-comments-28-2", "ra-comments-28-3", "ra-guide-2-1"]
+    },
+    {
+      "label": "Master save before the endings",
+      "chapter": 7,
+      "warning": "Before this save you must have every non-ending achievement, Erdrick's Sword, level 19+ and Gwaelin still in the Swamp Cave. All three ending runs load this save; do not overwrite it until chapter 10.",
+      "fact_ids": ["ra-comments-3-1", "ra-comments-32-2", "ra-comments-1-4"]
+    },
+    {
+      "label": "Defeating the Dragonlord",
+      "chapter": 8,
+      "warning": "The victory is never saved; returning to the castle plays the ending. After the Dragonlord dies random encounters stop and inns no longer restore MP (ra-comments-13-6, ra-comments-14-3). Reset and load the master save for the next run.",
+      "fact_ids": ["ra-comments-1-4", "ra-comments-13-6", "ra-comments-14-3", "gf1-26-3"]
+    },
+    {
+      "label": "The Dragonlord's offer",
+      "chapter": 10,
+      "warning": "The default answer is Yes, and mashing A through his speech accepts it by accident (ra-comments-26-1). Answering Yes ends the game. Answer No in chapters 8 and 9; answer Yes only in chapter 10.",
+      "fact_ids": ["ra-comments-26-1", "gf1-26-7", "gf5-15-3", "ra-guide-5-1"]
+    },
+    {
+      "label": "King's save prompt after Gwaelin's return",
+      "chapter": 10,
+      "warning": "After Gwaelin is returned the King offers to save. Saving there before runs 1 and 2 are done forces a new game for them (ra-comments-30-3). In chapter 10 it is the last run, so it no longer matters.",
+      "fact_ids": ["ra-comments-30-2", "ra-comments-30-3", "ra-comments-32-6"]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Tantegel Castle and the First Slimes",
+      "areas": ["Tantegel_Castle", "King_Lorik", "Alefgard", "Blue_Slime", "Brecconary"],
+      "achievement_ids": [13393, 13381, 13398, 13382],
+      "fact_ids": ["gf1-12-3", "gf1-12-4", "gf1-12-5", "gf1-12-6", "gf1-12-7", "gf5-8-1", "ra-guide-3-1", "ra-guide-3-2", "gf1-12-8", "gf1-13-2", "gf1-13-6", "gf1-13-8", "gf1-13-9", "gf1-13-11", "gf1-39-5", "gf2-60-1", "ra-guide-9-3", "ra-comments-33-1", "gf2-8-2", "gf3-17-1", "gf5-9-2", "ra-guide-7-1", "gf1-14-10", "gf2-8-3"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 0 },
+      "notes": "Open the three throne-room chests (120 gold, Torch, Magic Key), then use the Door command on the door south of the King (13393). Talk to the King to save. Buy starter gear in Brecconary, east of the castle. The Blue Slime (13398) is the ordinary Slime in the fields around Tantegel; a Red Slime does not count (ra-comments-33-1). Level 2 at 7 EXP (13381) and Level 3 with Heal (13382) come from those fields."
+    },
+    {
+      "n": 2,
+      "title": "Erdrick's Cave and Garinham",
+      "areas": ["Erdricks_Cave", "Erdricks_Tablet", "Garinham"],
+      "achievement_ids": [13395],
+      "fact_ids": ["gf5-9-4", "gf2-6-3", "gf1-15-1", "gf3-7-1", "gf3-7-2", "gf3-18-5", "gf5-9-6", "gf5-9-7", "gf1-15-3", "gf1-15-4", "ra-guide-3-3", "checklist-items-3-6", "gf3-18-1", "gf5-9-9", "gf1-15-5", "gf1-15-6", "gf1-15-9", "gf1-15-11", "gf1-15-13", "gf1-21-6"],
+      "counters": { "Erdrick's Relics": 1, "Rainbow Drop Ingredients": 0 },
+      "notes": "Erdrick's Cave sits in the desert north of Tantegel; it has no enemies but needs a torch. Erdrick's Tablet is the only chest on F2 (13395). Then go north and west to Garinham and buy better armor there; the Large Shield (800 gold) sold here is needed again in chapter 6 when buying the Silver Shield."
+    },
+    {
+      "n": 3,
+      "title": "The Mountain Cave",
+      "areas": ["Mountain_Cave", "Mountain_Cave_B2", "Fighters_Ring", "Death_Necklace"],
+      "achievement_ids": [13407, 13397, 13383],
+      "fact_ids": ["gf1-17-3", "gf5-11-1", "gf5-11-3", "gf1-18-1", "gf1-18-2", "gf1-18-3", "gf1-18-4", "gf1-18-6", "ra-guide-8-1", "ra-guide-8-2", "gf3-7-3", "gf3-8-2", "gf1-18-5", "ra-guide-8-3", "ra-guide-8-4", "gf2-9-3", "gf2-40-4", "gf1-47-2", "ra-comments-2-1", "ra-comments-2-4", "ra-comments-2-5", "ra-comments-10-3", "ra-comments-10-5", "ra-comments-11-1", "ra-comments-11-3", "ra-comments-11-5", "ra-comments-12-2", "ra-comments-12-5", "ra-comments-14-11", "ra-comments-13-2", "ra-comments-12-7", "ra-comments-11-14", "ra-guide-7-2", "gf1-17-2", "gf3-20-1", "gf2-9-4"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 0 },
+      "notes": "The Mountain Cave is south of Garinham over the bridge (recommended level 7+). On B2, the Fighter's Ring chest (13407). Equipping it is optional; the achievement is for finding it. The Death Necklace (13397) replaces the 100-130 gold in the lone chest in the far southwest of B2 about 1 time in 32 (ra-comments-10-3); RA players disagree on which chest, but most say it is the solitary chest southwest on B2, not the first chest below the stairs (ra-comments-14-11, ra-comments-12-5). Chests refill when you leave and re-enter (ra-comments-2-5); the B2 torch chest refills too (ra-comments-11-5). Hardcore players suggest farming at level 7-8 (ra-comments-2-4). Never equip the necklace; it can be sold in Kol for 1200 gold. If it has not appeared by the end of this chapter, keep trying on later visits; chapter 9 is the last chance, after the Dragonlord dies and encounters stop. Level 9 (13383) brings Radiant; grind around Garinham and in this cave."
+    },
+    {
+      "n": 4,
+      "title": "Kol, the Swamp Cave and Rimuldar",
+      "areas": ["Kol", "Fairy_Flute", "Swamp_Cave", "Rimuldar", "Goldman", "Wyvern", "Magic_Key"],
+      "achievement_ids": [13408, 13400, 13401, 13384],
+      "fact_ids": ["gf5-10-1", "gf3-19-1", "gf1-16-3", "gf1-16-6", "gf1-16-12", "gf1-16-13", "gf2-32-2", "gf2-8-10", "ra-guide-8-5", "ra-guide-8-6", "ra-comments-8-1", "gf1-64-10", "gf1-18-10", "gf1-18-11", "gf1-18-12", "gf2-6-7", "gf3-8-6", "gf3-20-2", "gf5-11-9", "ra-comments-28-1", "ra-comments-28-2", "gf1-18-13", "gf3-21-1", "gf1-18-14", "gf1-18-17", "gf1-18-20", "gf1-19-1", "gf2-9-8", "ra-guide-3-4", "gf1-20-1", "gf1-37-6", "gf3-22-1", "gf3-22-2", "ra-guide-9-4", "ra-guide-7-3", "gf1-40-8", "gf3-22-4", "ra-guide-9-5", "ra-comments-35-3", "gf1-20-2", "gf2-43-2", "ra-comments-12-1"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 0 },
+      "notes": "Kol: search four steps south of the bath for the Fairy Flute (13408); the sources count the steps as 3, 4 or 5, so search each square in that line. The Swamp Cave south of Kol leads to Rimuldar (recommended level 10-11). Go straight to the south exit. Do NOT fight the Green Dragon or open Gwaelin's door: rescuing her now loses 13419 (see PONR). In Rimuldar buy several Magic Keys (53 gold each; used up on each door) and save toward Magic Armor (7700). The hills south of Rimuldar hold the Goldman (13400, 200 gold) and the Wyvern (13401). Reach level 12 here (13384, Outside spell)."
+    },
+    {
+      "n": 5,
+      "title": "Stones of Sunlight, Garin's Grave and the Staff of Rain",
+      "areas": ["Tantegel_Castle", "Stones_of_Sunlight", "Garinham", "Garins_Grave", "Garins_Grave_B3", "Silver_Harp", "Cursed_Belt", "Staff_of_Rain_Shrine", "Staff_of_Rain"],
+      "achievement_ids": [13403, 13402, 13396, 13404, 13385],
+      "fact_ids": ["gf5-11-17", "gf2-37-1", "gf3-21-14", "gf3-29-9", "gf1-23-2", "ra-guide-3-8", "gf1-19-5", "ra-guide-3-5", "gf2-10-3", "gf3-23-2", "gf5-12-10", "gf5-13-1", "gf1-22-2", "gf2-6-8", "gf1-22-6", "gf1-22-7", "gf1-22-8", "ra-guide-3-7", "gf3-11-1", "gf3-23-4", "gf2-10-4", "ra-guide-8-7", "ra-guide-8-8", "gf3-11-8", "gf2-40-1", "gf5-13-2", "ra-comments-16-1", "ra-comments-16-4", "gf1-22-4", "checklist-items-2-7", "ra-guide-7-4", "gf2-45-1", "gf1-22-9", "gf3-19-6", "gf2-36-2", "gf3-23-6", "gf5-13-4", "gf5-10-12", "ra-guide-3-9"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 2 },
+      "notes": "With Magic Keys, open the door at the top of Tantegel Castle and follow the right side down to the basement; the old man gives the Stones of Sunlight (13403). Garin's Grave: in Garinham open the north building and walk into the north wall to reach the hidden entrance (needs 2+ keys and light; recommended level 13). Open the right door on B1F, take the middle stairs; the Silver Harp (13402) is in the big room at the bottom, and the Cursed Belt (13396) is in the northwest chest of B3F. Never equip the belt (only a man in Brecconary removes the curse). Grind here to level 15 (13385). Then trade the Silver Harp to the old man in the shrine northwest of Kol for the Staff of Rain (13404)."
+    },
+    {
+      "n": 6,
+      "title": "Cantlin, Erdrick's Token and Hauksness",
+      "areas": ["Cantlin", "Golem", "Silver_Shield", "Erdricks_Token_Swamp", "Erdricks_Token", "Hauksness", "Axe_Knight", "Erdricks_Armor", "Domdora_Desert", "Metal_Slime"],
+      "achievement_ids": [13406, 13411, 13410, 13399, 13386],
+      "fact_ids": ["gf3-23-10", "gf5-13-5", "gf1-23-6", "gf1-23-5", "gf1-37-8", "gf2-12-2", "gf2-72-1", "gf1-23-21", "gf2-72-2", "gf1-46-2", "gf2-12-3", "gf3-24-1", "ra-guide-8-9", "ra-guide-7-5", "ra-comments-21-1", "gf1-15-13", "gf1-23-15", "gf1-64-12", "gf1-24-7", "gf1-27-10", "gf3-25-1", "ra-guide-3-10", "gf2-31-1", "gf1-24-2", "gf1-24-4", "gf1-24-5", "gf1-24-6", "ra-guide-8-10", "ra-guide-8-11", "gf5-14-2", "ra-comments-19-1", "ra-comments-19-2", "gf1-28-1", "gf2-14-1", "gf1-38-6", "gf2-56-2", "ra-guide-9-6", "ra-guide-7-8", "ra-comments-36-1", "ra-comments-36-2", "ra-comments-36-3", "gf3-26-3", "gf2-43-1", "gf5-16-9"],
+      "counters": { "Erdrick's Relics": 2, "Rainbow Drop Ingredients": 1 },
+      "notes": "Cantlin is far south past Hauksness (suggested level 15). Play the Fairy Flute at the Golem guarding the entrance, then attack; replay it whenever he wakes. Erdrick's Token (13406) is in the swamp south of Cantlin, 70 south and 40 east of Tantegel, in the middle of the right side of the swamp. Without Gwaelin's Love you cannot read coordinates, so search the middle of the swamp's right side square by square. Hauksness: step on the tree square right of the two swamp tiles behind the empty shop to fight the Axe Knight (level ~17; cast Stopspell first), then search that square for Erdrick's Armor (13410). The Metal Slime (13399) is a rare encounter in the Domdora Desert south and southwest of Hauksness; Hurt rarely works, plain attacks do. Grind outside and inside Hauksness to level 19 for Hurtmore (13386). Silver Shield (13411): Cantlin's locked shop, 14,800 gold; buy it while holding the Large Shield (ra-comments-21-1). Goldmen south of Rimuldar and near Hauksness are the best gold."
+    },
+    {
+      "n": 7,
+      "title": "The Rainbow Bridge, Charlock Castle and the Master Save",
+      "areas": ["Rainbow_Drop_Shrine", "Rainbow_Drop", "Rainbow_Bridge", "Charlock_Castle", "Charlock_Depths", "Erdricks_Sword", "Master_Save"],
+      "achievement_ids": [13405, 13412, 13413, 13409],
+      "fact_ids": ["gf1-25-1", "gf2-11-7", "gf5-14-5", "gf3-25-2", "gf2-35-1", "gf2-31-2", "gf3-29-8", "ra-guide-4-1", "gf1-25-2", "gf2-11-8", "gf2-35-2", "gf3-25-3", "gf5-14-6", "ra-guide-4-2", "gf1-25-3", "gf2-11-9", "gf3-25-4", "gf5-15-1", "ra-guide-4-3", "ra-guide-9-1", "ra-guide-9-2", "gf3-12-1", "gf3-13-4", "gf3-13-5", "gf5-15-2", "gf1-25-4", "gf2-12-1", "gf1-8-4", "gf1-25-5", "gf1-26-4", "ra-comments-3-1", "ra-comments-32-2", "ra-comments-2-2", "ra-comments-2-7"],
+      "counters": { "Erdrick's Relics": 1, "Rainbow Drop Ingredients": 0 },
+      "notes": "Bring the Stones of Sunlight, Staff of Rain and Erdrick's Token to the old man down the stairs south of Rimuldar for the Rainbow Drop (13405). Use it on the sand at the one-tile water gap northwest of Rimuldar (13412). In Charlock, search right behind the throne for the secret stairs (13413). Follow the RA guide path down to Erdrick's Sword (13409); Erdrick's Armor stops the damage floors. Do NOT talk to the Dragonlord. Cast Return, check that every achievement from chapters 1-7 is earned (the Death Necklace may still be missing) and that Gwaelin is still in the Swamp Cave, then save at King Lorik. This is the master save for chapters 8-10."
+    },
+    {
+      "n": 8,
+      "title": "Ending Run 1: Gwaelin at Your Side",
+      "areas": ["Swamp_Cave", "Green_Dragon", "Princess_Gwaelin", "Charlock_Castle", "Dragonlord"],
+      "achievement_ids": [13416, 13418, 13414, 13420],
+      "fact_ids": ["ra-comments-32-3", "gf1-20-4", "gf1-20-5", "gf1-20-6", "gf3-22-5", "gf3-22-6", "gf3-22-7", "gf2-53-2", "gf2-10-6", "gf2-11-1", "gf3-9-1", "gf3-9-5", "gf3-29-5", "ra-guide-6-2", "ra-comments-31-1", "ra-comments-31-2", "ra-guide-2-2", "gf3-13-1", "gf3-13-3", "gf1-26-1", "gf1-26-2", "ra-guide-5-2", "ra-guide-5-3", "gf3-29-14", "ra-comments-26-1", "gf1-26-3", "ra-guide-6-3", "ra-comments-32-8", "ra-comments-1-4"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 0 },
+      "notes": "From the master save: go to the Swamp Cave, defeat the Green Dragon (put it to sleep), open the door with a Magic Key and agree to carry Gwaelin (13416). Do NOT go to the King. Carry her across the Rainbow Bridge into Charlock and speak to the Dragonlord (13418). Answer No to his offer (the cursor starts on Yes). Defeat both forms with Erdrick's Sword (13414; level 20 recommended). Walk back to Tantegel with Gwaelin still following and speak to the King (13420). After the credits, reset and load the master save; this victory is never saved."
+    },
+    {
+      "n": 9,
+      "title": "Ending Run 2: Without the Princess",
+      "areas": ["Charlock_Castle", "Dragonlord", "Mountain_Cave_B2", "Tantegel_Castle"],
+      "achievement_ids": [13419],
+      "fact_ids": ["ra-comments-32-4", "ra-comments-32-9", "ra-guide-5-4", "ra-comments-28-3", "ra-comments-28-6", "ra-comments-28-7", "ra-comments-26-1", "gf1-26-3", "ra-comments-13-1", "ra-comments-13-6", "ra-comments-14-2", "ra-comments-14-3", "ra-comments-14-5", "ra-comments-11-3", "ra-comments-11-4", "ra-comments-12-9"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 0 },
+      "notes": "Load the master save. Leave Gwaelin in the Swamp Cave. Go to Charlock, answer No to the Dragonlord and defeat him again. If the Death Necklace (13397, chapter 3) is still missing, farm it now, before going home: with the Dragonlord dead there are no random encounters (ra-comments-13-6), but inns no longer restore MP (ra-comments-14-3), so use the refilling B2 torch chest when MP runs out (ra-comments-14-5). Loop: take the torch, take the gold/necklace chest, cast Outside, re-enter (ra-comments-11-3). Then return to Tantegel without Gwaelin and talk to the King (13419). Reset and load the master save."
+    },
+    {
+      "n": 10,
+      "title": "Ending Run 3: Gwaelin Home and the Dragonlord's Offer",
+      "areas": ["Swamp_Cave", "Princess_Gwaelin", "Tantegel_Castle", "Gwaelins_Love", "King_Save_Prompt", "Dragonlord_Offer"],
+      "achievement_ids": [13417, 13415],
+      "fact_ids": ["ra-comments-32-5", "gf1-20-6", "gf3-22-7", "gf5-12-9", "gf1-20-7", "gf2-11-2", "gf3-22-8", "gf1-20-8", "ra-comments-30-1", "ra-comments-30-2", "ra-comments-30-3", "ra-comments-32-6", "gf1-26-7", "gf2-13-1", "gf3-26-4", "gf5-15-3", "ra-guide-5-1", "ra-comments-26-1"],
+      "counters": { "Erdrick's Relics": 0, "Rainbow Drop Ingredients": 0 },
+      "notes": "Load the master save. Rescue Gwaelin again (Green Dragon, Magic Key door), carry her straight to King Lorik and receive Gwaelin's Love (13417 triggers on receiving it, not with 13420: ra-comments-30-1). Saving at the King's prompt is safe now, because this is the last run. Then go to Charlock, talk to the Dragonlord and answer Yes to his offer (13415). This ends the game, which is the goal of this run."
+    }
+  ],
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    {
+      "question": "Does a full inventory stop the Death Necklace from appearing? RA players disagree: one says the game asks you to drop an item and the achievement still triggers (ra-comments-13-2), others say it never appears with all 8 slots full (ra-comments-12-7, ra-comments-14-10).",
+      "guidance": "Keep at least one inventory slot free on every necklace attempt.",
+      "chapters": [3, 9]
+    },
+    {
+      "question": "Does entering the Mountain Cave without a torch or Radiant raise the Death Necklace chance? Some players claim a 100% chance in the dark (ra-comments-10-1, ra-comments-10-11); others say it makes no difference and the 1/32 roll is luck (ra-comments-10-2, ra-comments-11-13).",
+      "guidance": "Treat it as a 1/32 roll; light the cave normally and just repeat the trip. Do not rely on the dark-cave claim.",
+      "chapters": [3, 9]
+    },
+    {
+      "question": "Does the Silver Shield achievement need the Large Shield in hand when you buy it? Only one player reports this (ra-comments-21-1).",
+      "guidance": "Buy and equip the Large Shield (Garinham or Cantlin, 800 gold) before buying the Silver Shield.",
+      "chapters": [6]
+    },
+    {
+      "question": "Is the Cursed Belt always in its Garin's Grave chest? Some players say it is guaranteed (ra-comments-16-1, ra-comments-16-3); one says it depends on chest luck (ra-comments-16-4).",
+      "guidance": "If the chest gives something else, leave the Grave and come back; chests refill when you re-enter a dungeon (ra-comments-2-5).",
+      "chapters": [5]
+    }
+  ]
+}

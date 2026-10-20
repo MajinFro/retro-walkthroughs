@@ -1,0 +1,1727 @@
+    ___                               __    __                _            
+   /   \_ __ __ _  __ _  ___  _ __   / / /\ \ \__ _ _ __ _ __(_) ___  _ __ 
+  / /\ / '__/ _` |/ _` |/ _ \| '_ \  \ \/  \/ / _` | '__| '__| |/ _ \| '__|
+ / /_//| | | (_| | (_| | (_) | | | |  \  /\  / (_| | |  | |  | | (_) | |   
+/___,' |_|  \__,_|\__, |\___/|_| |_|   \/  \/ \__,_|_|  |_|  |_|\___/|_|   
+                  |___/   
+                                      _
+                                     / |
+                                     | |
+                                     | |
+                                     |_|
+
+===============================================================================
+ Copyright: Scott Clemmons (FFMrebirth), 2003
+ To browse this document with ease, press Ctrl+F
+===============================================================================
+                 
+  Table Of Contents 
+                 
+     A1. What's New
+     B1. Contact Info
+     C1. The Storyline
+     D1. The Basics
+     E1. Walkthrough
+
+      - F1. Tentegal Castle
+      - F2. Brecconary
+      - F3. Cave of Erdrick (Optional)
+      - F4. Garinham
+      - F5. Kol
+      - F6. Rock Mountain Cave
+      - F7. Swamp Cave 1
+      - F8. Rimuldar
+      - F9. Swamp Cave 2 (Optional)
+      - F10. Grave of Garinham
+      - F11. Cantlin
+      - F12. Charlock Castle
+
+     G1. Level Chart
+     H1. Items List
+     I1. Weapons/Armors/Shields List
+     J1. Magic Lists
+     K1. Bestiary
+     L1. Disclaimer
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- A1. What's New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .-
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+- July/14|15/03 - (v .10)
+
+  Started work on this thing out of sheer boredom.  All the Weapons/Monsters/
+  Armor/Magic are done as of now.
+  [Due to the fact that all the stats came with the game on a nice sheet!]
+
+  Around 1/2 of the actual game is done now.
+
+- July/16|15/03 - (Version: 3.0)
+
+  Putting the final touches up on it today. Submitted. Everything should be
+  addressed that needs to be addressed. I might still might do some touching
+  up.
+
+- July/18/03 - (Version: Final)
+
+  This update is due to the fact a GF board member named "The Admiral"
+  and I spoke about DW, he pointed out some misinformation in my guide
+  that I decided to fix.
+
+- May 3-6, 2004 - (Version: Final)
+
+  I went ahead and reformatted this thing again. I totally overhauled the
+  bestiary because it looked terrible.
+ 
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- B1. Contact Information  . . . . . . . . . . . . . . . . . . . . . . . . . .-
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Reach me at swtzwondrboy20@yahoo.com if you have any questions.
+
+ I like to hear from my fans or lack of. If you're to lazy to send me mail,
+ drop me by a message on AIM. My name is: swtzwondrboy20. I'm always on, and
+ happy to hear from people. I also shoot the wind for long time, so talk with
+ caution. If you have any problems with this guide, I'll listen to them.
+ I won't answer any questions that are answered in this GUIDE! I shouldn't
+ be punished for your ignorance! I will now  proceed to put this in a lot of
+ different languages for you.
+
+ ~ French  : Je ne ferai pas jeu relats questions
+ ~ Japanese: Watashi dearou ikkou kaitou geemu nikanshite keusuchon.
+ ~ Spanish : No contestare a ninguna preguntas relacionada juego.
+
+ If you think about IM'ing me to annoy me with something that's in this guide!
+
+ REMEMBER!
+
+ SCOTT SAID: NO!
+
+ I will take you up on comments and the such, though. Or if you find an error,
+ give me a heads up. If I ask where you got my AIM name at, just answer a FAQ.
+ I've had too many random people that IM who try and play the mind games.
+
+ Thank you :D
+
+ (Thanks goes to Son Kain/Siniroth X for the other languages)
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- C1. The Storyline  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ In olden day of yore, the realm of Alefgard was cloaked in darkness.
+ According to legend, a brave warrior, Erdrick, brought light back to the
+ land by defeating an evil being. He use the balls of light  bequeathed
+ to him by a friend to drive off the enemies of Alefgard. He then gave the
+ balls of light to King Lorik, who unified Alefgard. The land was at peace
+ for many generations. In the time of King Lorik XVI, the balls of light
+ were stolen (GASP!) from Tantagel Castle by the evil Dragonlord, and once
+ again the kingdom of Alefgard was plunged into darkness. Many travelers
+ fell prey to  the merciless fangs of monsters, and the beautiful
+ countryside was transformed into poisonous marshes that hindered travelers.
+ It was also rumored that several towns and villages were destroyed wipe off
+ the face of the land by ghosts and dragons.
+
+ Many Brave warriors tried to recover the balls of light, but none of them ever
+ returned from Charlock, the Dragonlord's dark castle. The people longed for
+ peace, but did not give up hope. The great seer, Mahetta, predicted that
+ "One day, a descendent of the valiant Erdrick shall come forth to defeat
+ the Dragonlord.
+
+ Who is this brave soul? There is only one possible answer.
+ You! [YOUR NAME]
+ Your quest is to find and defeat the evil Dragonlord. The time has come.
+ This is the start of your adventure...
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- D1. The Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ +++++++++++++++++++++++++++++++
+ |         [NINTENDO]          |
+ |   #                         | <----A CONTROLLER! 
+ |  ###                B   A   |
+ |   #                         |
+ |        (START)(SELECT)      |
+ +++++++++++++++++++++++++++++++
+
+ Control Pad = Moves the warrior around, helps select in menus
+ Start = N/A
+ Select = N/A
+ B = Cancels all Menus
+ A = Chooses all the commands in the game. The most used button. This is
+    what you attack with, pick stuff up with, everything!
+
+
+ This is old school, my friends. First off, let's get in touch with what that
+ little bracket in the upper-left hand corner means.
+
+ 0[YOURNAME]0
+ | LV. 1    |
+ | HP. 14   |
+ | MP. 0    |
+ | G. 0     |
+ | E. 0     |
+ 0----------0
+
+
+ Lv =   Level. To raise this you need to gain experience. Which you get after
+       every battle in the game. The higher your level, the stronger the
+       monsters that you can face and not die
+
+ Hp =   Hit Points. When your Hit Points reach 0, you DIE! YOU DIE! You no
+       longer breath, and you wind up back at the castle were the king is.
+       Hp is vital for making it further in the game.
+
+ MP =   After a certain level is reached, you'll begin to learn magic. You can
+       use this magic to deal more damage than normal attack. However, magic
+       takes from your MP (Magic Points), so you only have a certain amount
+       of uses.
+
+ G =    Gold is dropped by every monster in the game, after you beat
+       them that is. You need gold to buy yourself better equipment. After you
+       get the best stuff in the game, gold isn't really important.
+
+ E =    Experience. You need this to gain levels. You gain experience after
+       every single fight in the entire game. Dragon Warrior is notorious for
+       making the player have to spend many hours leveling up to get past
+       certain points. On a random note: Metal Slimes give the most EXP in the 
+       game.
+
+ 0---[YOUR NAME]---0
+ | Talk      Spell |
+ | Status    Item  |
+ | Stairs    Door  |
+ | Search    Take  |
+ 0-----------------0
+
+ Talk = Speaks with whatever character you're facing presently. Some times the
+ NPC (Non-Playable Character) will say something that's important.
+
+ Status = Opens another menu showing your Stats:
+
+     Name: [YOUR NAME]
+
+     Strength:      Helps determine the amount of damage you'll do
+
+     Agility:       Determines when you attack in battle, and defense
+
+     Maximum HP:    The highest amount of Hit Points you can have
+
+     Maximum MP:    The highest amount of Magic Points you can have
+
+     Attack Power:  Help determine how much damage is dealt. Stat is dependant
+                    On what weapon is equipped at the present time.
+
+     Defense Power: Determines how much damage you take when attacked. Stat
+                    is dependant on what armor you have equipped at the time.
+
+     Weapon: What weapon you have equipped
+     Armor:  What armor you have equipped
+     Shield: What shield you have equipped
+
+ Stairs = Lets you ascend of descend while standing on stairs.
+ Search = Searches the square that you're currently on for any items.
+ Spell  = Allows you to cast a spell outside of battle. The list of spells are:
+
+         Heal
+         Hurt
+         Sleep
+         Radiant
+         Stopspell
+         Outside
+         Return
+         Repel
+         Healmore
+         Hurtmore
+
+ Door = Allows you to open a door that is in your path. Some doors may be 
+ locked. This will require you to have a magic key in your possession.
+
+ Take = Allows you to take stuff from a treasure chest.
+
+ In battle, you'll have a different menu as well. Here's what it looks like
+
+0---[COMMAND]---0
+| Fight  Spell  |
+| Run    Item   |
+0---------------0
+
+ Fight = This command allows you to deal physical damage to target enemy.
+         You can't quite get through the game without using this command.
+         Which should make sense, since it's how you attack enemies.   
+
+ Run =   If a monster is too hard, or you find yourself just wanting to get
+         out of a battle, then run is for you. Press this command and you
+         attempt to flee. If you don't successfully run away, you'll be open
+         for attack. Also, if you manage to run away enough times. A monster
+         will be prompted to strike you first in a battle, and you won't
+         be able to run away. This happens after you successfully run away
+         about 4 or more times in a row.
+
+ Spell = Lets the player cast a spell from his list of spells. You won't be
+         able to use this command until you're at least level 3. Then you
+         may start to use spells. You'll gain more spells by leveling up.
+
+ Item =  Allows you to use any amount of items that you have in battle. Some
+         items may do nothing in battle. Other may heal you. Using some
+         items on some creatures leaves them vulnerable
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- Getting to know the Terrain                                                 - 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Depending on what terrain you're on depends the amount of fights you'll get
+ in. Here's what the instruction manual says on this: I'll throw in my 
+ commentary as well.
+
+ Getting to Know the Terrain.
+
+ Plains - You can walk about normally, as fewer monsters live here. The 
+          monsters on the plains usually are weaker than normal. Or just the
+          weakest monsters there.
+
+ Forest - You can walk through forests. But more monsters are lurking here.
+          Monsters that lurk here are usually normal to strong monsters in the
+          area.
+
+ Mountains - Mountains will slow you down a big time. More importantly, you'll
+             come across many enemies. If you don't want to bump into a lot
+             of monsters, then stay away from the mountains. Not only are the
+             mountains full of monsters, but the monsters that you battle there
+             are the toughest in the area. They'll beat you down real quick and
+             have you running to another town to heal.
+
+ Craggy Mountains - Very, Very steep mountains. They are impassable. You can't
+                    get past them once in the whole game.
+
+ Swamps -  Poisonous Swamps. For each step you take you lose two hits points.
+           Keep an eye on your HP rating when you're taking a wal in the
+           swamps and use herbs and spells to keep your life force high. When
+           you get the Erdrick armor, you can walk right over these damn things
+           without taking damage, which is good.
+
+ Bridge -  Every time you cross a bridge, the monsters get tougher, so you
+           better level up.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- Other Stuff That Might Interest You                                         -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Occasionally you'll deal a critical hit, doing over 2X damage of a regular hit
+ These are rare and don't happen often. If you happen to die, your gold will
+ be cut in half, and you'll reappear at the king's feet. He'll give you
+ another chance you get your worthless ass out there and save the world.
+
+ There's also some changes that are interesting from the Japanese Version of
+ Dragon Warrior to the American Version. Some of these things include:
+ 
+ - There were no save battery
+ - There were bad words
+ - Erdrick is known as "Roto"
+ - Called Dragon Quest over in Japan
+ - They have cool looking box art, we don't :(
+
+ It'll take you forever to level up, which sucks.
+
+ There's only a few characters in Dragon Warrior 1, since the story is very
+ shallow
+
+ - [YOUR NAME] - This is you, you're a descendant of Erdrick to stop all that's
+                been happing bad in the world. You'll meet some other
+                characters along the way
+ 
+ - King Lorik -  He's the man that can magically tell you when you're going to
+                gain a level. He also tends to know what's going on , and can
+                even help you at times.
+
+ - Dragon Lord - It's your job to kick this guy's ass, no matter what. He
+                holds the ball of light, which can defeat all evil. He
+                stole it somehow, and nobody noticed a giant dragon flying
+                away...hmm..
+
+ These are the three main characters in the game. The whole game, in fact, is
+ revolved around these three. Others include Princess Gwalin, the daughter of
+ the king that's been kidnapped. Or random townsfolk that just tell you stuff.
+ Always speak to these people, as they always hold vital information for your
+ quest.
+
+ Once you get to a certain level, weaker monsters will start to run away
+ from you before you can attack.
+
+ The fact if a monster evades or not seems dependent on really nothing. I've
+ had a blue slime dodge me three times in a row at level 21.
+
+ You can buy the Dragon Scale, then take it off and sell it. You'll keep the
+ +2 defense and you'll have another spot in your bag for items.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- E1. The Walkthrough . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-  F1. TENTEGAL CASTLE                                                        -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ When you start the game, you'll be presented with the following options:
+
+ "Press Start"
+
+ Do as it says, and press start you lazy bastard. You can either choose "Begin
+ a new quest" or continue on a quest you have saved.
+
+ If you start a new quest, input your name *or some random vulgar word, always
+ a good choice* and start the game. Choose your message speed as well. I
+ recommended you put the "Message Speed" on fast. Anything else is almost
+ unbearable to read. It goes super-duper slow. Then press start.
+
+ You'll be in front of the king, listening to his sagacious words:
+
+ "" Descendant of Edrick, listen now to my words. It is told that in ages past
+ Erdrick fought demons with a Ball of Light. then came the DragonLord who stole
+ the precious globe and hid it in the Darkness. Now, [YOUR NAME], thou must
+ help us recover the Ball of Light and restore to our land. The Dragonlord must
+ be defeated. take now whatever thou may find in these Treasure Chests to aid
+ thee in thy quest. Then speak with the guards, for they have much knowledge
+ that may aid thee. May the light shing upone thee, [YOUR NAME] ""
+
+ Ruthlessly take this old mans treasure and smack him. You'll find in the
+ chests: 120 Gold, A Torch, and a Magic Key. Talk to the guards if you wish.
+ They just talk about how you should save your money to buy better equipment.
+ Which is common sense anyway.
+
+ Use the magic key to open the door that’s in front of you, and go down the
+ stairs. You'll be on the bottom floor of the castle now. To the bottom left
+ of the castle is a magician that gives you all his MP back. Leave the castle
+ now, as you can't quite get any of those alluring chests you see.
+
+ What is in them is: 10 Gold, 12 Gold, 12 Gold, 13 Gold.
+ So you get gypped anyway you look at it. Beyond the other door that you can't
+ get to yet is just another merchant that sells keys. What a rip-off. There is
+ however something else you can get but that's for later.
+
+ Go foreword to the town of....
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F2. TOWN OF BRECCONARY                                                      -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Inn: 6 gold
+ Weapons Available in this Town:
+     Bamboo Pole - 10 G (Power: 2)
+     Club - 60 G (Power: 4)
+     Copper Sword - 180 G (Power: 10)
+ Armor Available:
+     Clothes - 20G (Defense: 2)
+     Leather Armor - 70G (Defense: 4)
+     Small Shield - 90G (Defense: 4)
+ Tools Available:
+     Herb - 24G
+     Torch - 8G
+     Dragon's Scale - 20G
+ Monsters Found:
+     Slime
+     Red Slime
+     Magician
+     Drakee
+     Magic Drake
+     Ghost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ When you enter the town, Brecconary, go north to find the weapon shop. Buy the
+ club for 60 gold. You can be a nut and train forever to buy the Copper Sword.
+
+ What ever weapon you get, it'll be automatically equipped once you purchase 
+ it. Leave town and fight around for a bit. You'll have to fight Red Slimes and
+ regular Slimes to level up to around 2. Once you get 70 gold, go back to
+ Brecconary, and buy the Leather Armor. You'll have to go back to the town
+ and stay at the inn a few times. Keep training till you're about at level
+ 3, so you can get the spell "heal". Make sure you have some kind of armor
+ equipped before heading out to the next location
+
+ Head north until you spot a cave in a patch of desert. Here is the...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F3. CAVE OF ERDRICK                                                         -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Note: This part of the game is optional, you don't have to do it. 
+
+ It'll be pitch black in this cave, so first thing you should do is use the
+ torch that you found in the kings chamber. Light the thing up, and now you
+ can see more than just 1 foot in front of yourself. Now that you've got the
+ problem of lighting out of the way, you just need to get through this stupid
+ maze. There's no monsters in here, so you can take your time. Now, here's how
+ to get past that stupid maze.
+
+ With Character on the stairs Move: 
+
+ Right 1 Step / Down 2 Steps / Right 4 Steps
+ Down 3 Steps / Right 2 Steps / Down 2 Steps
+ Right 2 Steps / Down 2 Steps.
+
+ If all of that is too much for you, then the stairs are in the very bottom
+ right hand corner.
+
+ You should now be standing on stairs that lead down. Your torch will still be
+ going even on the second floor, so don't worry about it. Proceed down the
+ stairs to Floor 2. You are posed with another maze, here's how to get past it:
+
+
+ Right 1 Step / Up 3 Steps / Left 3 Steps
+ Down 3 Steps / Left 2 Steps / Up 1 Step
+ Left 1 Step / Up 1 Step / Left 3 Steps
+ Up 3 Steps / Right 3 Steps / Up 2 Steps
+ 3 Steps Left / Up 2 Steps / Right 6 Steps
+ Down 3 Steps......
+
+ Then run over and collect the treasure chest. Within it is the "Tablet".
+ The tablet states:
+
+ "" I am Erdrick and thou art my descendant. Three items were needed to reach
+ the Isle of Dragons, which is south of Brecconary. I gathered these items,
+ reached the island, and there defeated a creature of great evil. Now I have
+ entrusted the three items to three worthy keepers. Their descendents will
+ protect the items until thy quest leads thee to seek them out. When a new evil
+ arise, find the three items, then fight! ""
+
+ So your quest, as it stands now, is to find these three items and kick the 
+ holy crap out of the Dragon Lord. Just about 304283084 mazes to go through! 
+
+ Level up some more, mostly off magicians and drakes. If you go the the part
+ south of Brecconary, there will be some hard monsters there. Just level up to
+ about 6 and go back to the castle. Save and all that good stuff, you're about
+ to head off to another town. Leave the castle and go north past those 
+ mountains and then go west. You'll arrive at the town of...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F4. TOWN OF GARINHAM                                                        -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Inn: 25
+ Weapons Available in this Town:
+     Club 60G - (Power: 4)
+     Copper Sword - 180 G (Power: 10)
+     Hand Axe - 560G (Power: 15)
+ Armor Available:
+     Leather Armor - 70G (Defense: 4)
+     Chain Mail - 300G (Defense: 10)
+     Half Plate - 1000G (Defense: 16)
+     Large Shield - 800G (Defense: 10)
+ Tools Available:
+     Herb - 24G
+     Torch - 8G
+     Dragon Scale - 20G
+ Monsters Found:
+     Slime
+     Red Slime
+     Magician
+     Drakee
+     Magic Drake
+     Ghost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Now that you're here, it's time to upgrade your equipment. Train around
+ till you get enough gold to purchase the Chain Mail and Copper Sword. The
+ Half plate would be good, but it'll take too long to save up and get. Don't
+ even buy the Hand Axe, it's a total waste of money for what it is. The copper
+ sword will get you through what ever battles you have ahead.
+
+ Go south if you mean business. You'll fight scorpions and other such tough
+ monsters. The monster down there (past the bridge to the south) will level
+ you quicker as well. Be warned: They pack a punch, and some of them even cast
+ hurt on you for big damage. An annoying offender of this is the magician.
+ He does this stupid Hurt move a lot, and he can have you dead in a matter of
+ seconds.
+
+ Build your level up to around 6-7 before you go further into the game.
+ This may take a few hours :(
+
+ There's no real reason for this town....yet. After you've gained your
+ levels and got new equipment, you may travel back to the beginning castle.
+
+ Heal yourself here and pick up anything you'll need for the long walk ahead.
+ Buy about 3 herbs, make sure your MP is max, then head out.
+
+ Leave the castle and go north past those mountains and then go east.
+ Go east till you see a bridge, cross it. When you're on the next portion of
+ land, go east across another bridge. From here go north until you see a
+ desert. Don't look around in the desert, as there's nothing really there.
+ Keep going north until you see the town of...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F5.TOWN OF KOL                                                              -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Inn: 20G
+ Weapons Available in this Town:
+   Copper Sword - 180 G (Power: 10)
+   Hand Axe - 560G (Power: 16)
+ Armor Available:
+   Half Plate - Costs: 1000G (Defense: 16)
+   Full Plate - Costs: 3000G (Defense: 24)
+   Small Shield - Costs: 90G (Defense: 4)
+ Tools Available:
+   Herb - 24G
+   Torch - 8G
+   Dragon's Scale - 20G
+   Wings - 70G
+ Monsters Found:
+   Magician
+   Skeleton
+   Magic Drakee
+   Drakee
+   Ghost
+   Scorpion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ First things first, you need to get the Fairy Flute. Do so by heading to the
+ north part of town. You'll see a well (Or little thing of water) that can cure
+ rheumatism (The hurting of joints). Take 3 steps down from the well and search
+ to find the fairy flute. This item cast can put some monsters *COUGH* GOLEM
+ *COUGH* to sleep for long periods of time. Now you're faced with the most
+ boring part of the game, leveling up. 
+
+ You need to get to about level 11 before even thinking about going
+ further in the game. It'll take a few hours of play to level up to 11 from 6
+ or 7. Go to the desert and fight around there. Skeletons show up here more
+ often than not, and you can cast sleep on them to beat them with ease. You
+ should also pick up the half-plate if you haven't done so yet. It'll improve
+ your defense by a lot. If you really have a lot of time, manage to get the
+ full-plate. One of the strongest armors in the game. Make sure you have a
+ shield as well. Picking up a Dragon's Scale will increase your defense by 2,
+ which isn't that bad of a deal for 20 gold.
+
+ If you go west of the town and then go up, you'll notice a little staircase.
+ In here is the staff or rain. You need to get another item before he'll give
+ it up. So just wait.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F6. ROCK MOUNTAIN CAVE                                                      -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ After you get all of this stuff done, it's time to back track and finish some
+ other optional side quests. This cave is the one that you saw when you
+ were training yourself around the castle. First: Go to Gariham, then go
+ south and cross a bridge. Don't to too far south, or you'll run into nasty
+ monsters. You'll see a swamp, go east of the swamp to find the cave.
+ Walk into the cave. This is Rock Mountain Cave. 
+
+ You'll be presented with another maze. Cast radiance to see every thing that's
+ around you. Now that you can see every thing with a lot more ease. It 
+ shouldn’t be hard to find your way around. There's a Herb on this floor in a
+ chest. You can get it if you want. Proceed to take the stairs that are located 
+ at the middle of the floor. Take them down.
+
+ You'll now be on floor 2. There's a Torch, 122 Gold, 13 Gold, and the
+ Fighter's ring on this floor. The fighter's ring is what we came for, so
+ let's go ahead and get it shall we? There's strong monsters on this floor
+ as well. This is why I said you should be around level 11 before entering.
+ Warlocks Poltergeist, Drakeema is what you'll encounter. The Fighter's ring is
+ located in a chest at the upper-left hand corner of the floor. Get the ring
+ and get out of the dungeon. Return back to the castle for healing.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F7. SWAMP CAVE 1                                                            -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ This is a cave that's south of Kol. Enter through the little cave icon. You'll 
+ start on the stairs. Cast radiance. Just walk south all the wayuntil you can't 
+ anymore. The stairs to the outside are located at the bottom left-hand corner
+ of the cave. After you get out of the cave, go south a little ways. You'll see
+ a town that's on an island by itself. Go to this
+ town of...
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F8. TOWN OF RIMULDAR                                                        -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Inn: 55G
+ Weapons Available in this Town:
+     Copper Sword - Costs: 180 G (Power: 10)
+     Hand Axe - Costs: 560G (Power: 15)
+     Broad Sword - Costs: 1500G (Power: 20)
+ Armor Available:
+     Half Plate - Costs: 1000G (Defense: 16)
+     Full Plate - Costs: 3000G (Defense: 24)
+     Magic Armor - Costs: 3000G (Defense: 24) [Heals you]
+ Tools Available:
+     N/A
+ Monsters Found:
+     Wolf
+     Wolflord
+     Warlock
+     Metal Scorpion
+     Skeleton
+     Goldman
+     Wraith
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ There's a man that sells keys in this town. To find him, scale the outside
+ circumference of the town. His name is Howard and he sells magic
+ keys for 53G. Buy 6 of them. Now go back to the castle. (The starting point
+ in the game)
+
+ Open that locked door at the top *DON'T OPEN THE ONE WITH THE TREASURE
+ CHESTS!*. Walk around some, and you'll see a vender of even more magic keys.
+ Forget him. Go a little bit to the right. Scale the right side of the castle
+ until you see some stairs. Go down them to get the Stones of Sunlight.
+ This is one of the two items you need to make the Rainbow Drop
+
+ Make your way back to the town of Rimuldar. Make sure you save up enough
+ money to buy the broad sword. The broad sword is probably the last sword
+ in the game you'll NEED to buy, even though the flame sword is recommended.
+ You'll notice at the inn there's a magic door. There's no need to buy and use
+ a key to get that chest the lay behind it. All that's in the chest is wings
+ anyway. You'll need to save up and purchase the Full Plate now.
+
+ There's a monster that are around here called a "Goldmen". They're rather 
+ rare and you can't fight him around the town. So you're going to have to walk
+ a pretty far ways away from the town to find him. His defense is high and
+ he hits pretty damn hard for just a regular enemy. At this point in the
+ game, you're probably only going to be able to kill about one at a time
+ then be forced to retreat back to town.
+
+ Note: If you manage to get in a fight with a Goldman, make sure to have a
+ lot of herbs. He drops over 150 Gold, too. 
+
+ If you really have a lot of time, you can just kill monsters normally and
+ save up for the Full-Plate that way. Make SURE you have the broadsword
+ before confronting the Goldmen or any other monsters that are south of
+ the town. As their HP starts to rise above 30 and the damage done (with
+ a half plate on) is about 10-16. Wolflords get a lot of preemptive attacks
+ in on you as well. It's dangerous in the south.
+
+ When you finally have your full plate. It's time to go back to the swamp
+ cave to save the princess of the castle.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F9. SWAMP CAVE 2 *OPTIONAL*                                                 -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ NOTE: You don't have to save the princess. If you don't, you'll just get
+       another ending at the end of the game. [Thanks to The Admiral]
+    
+ First: Get your level up a little higher. You can't pull this off at
+ level 11-13. You'll have to level up a lot more before you go and fight the
+ dragon. After you've done this, buy 6 herbs, make sure you're fully healed.
+ Also go back to Gariham and purchase the Large Shield. Here are the Green
+ Dragon's Stats:
+
+  Max HP: 70
+  Minimum Gold: 9
+  Experience: 5
+  Spells: N/A
+
+ On the way through the cave, you'll notice there's hole on the right.
+ Go through here and keep walking south. Before you know it, a Green Dragon
+ will confront you. He has a lot of attacks that do a lot of damage. His
+ regular attack will do about 20 damage a hit. His fire breath will do around
+ 30. You'll only be able to do about 10 damage to him. He's weak against the
+ sleep spell, so use this on him. When he falls asleep, you'll have about
+ 2+ turns to heal before he wakes up. Keep this up and he'll die soon. Then
+ you'll carry the princess back to the castle and get the item Gwaelin's Love.
+
+ NOTE: If you find yourself getting your ass kicked all the time. You can
+       always come back and fight him again.
+
+ If you do beat him, use a magic key on the door to get the princess. You get
+ to yourself carry her back to the castle... ahh... so cute.
+
+ After that, go back to the town of Garinham. See that door that's locked
+ by a magic, use a key on it. You'll be in an area with a whole bunch of
+ people that are just walking around. You see the two guards? Don't use a
+ key on them, just go up above them where the wall is. Keep walking up into
+ the wall until you find a secret exit. (This is above those guards). You'll
+ be outside, go right to find a stair case. This leads to our next place..
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F10. GRAVE OF GARINHAM                                                      -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ This is just another maze that really sucks. There's the cursed belt in here
+ as well, but it'll take a lot of time to get. You'll begin on floor 1. Cast
+ radiance to see what's all around you. There's a door you have to unlock
+ before you can access the next floor. The door is located at the bottom most
+ right hand corner. Go there and use a key to open it. Follow the path around
+ till you see the stairs for the second floor. Take them.
+
+ You'll be on the second floor now. Don't go down the staircase you see,
+ rather there will be two at the bottom of this floor. The one at the bottom
+ most right hand corner leads to the Cursed Belt. The one on the bottom most
+ left hand corner leads to the Silver harp. Which is what you need to make
+ that man in the cave by Kol give you the Staff of Rain. Let's go after the
+ cursed belt first, so we don't have to come back later and get it. Take the
+ stairs, that I mentioned beforehand, and go down to level 3 of the maze. Just
+ walk down and around to get the Cursed Belt. DON'T EQUIP IT. Make your way
+ back to floor 2by going around again.
+
+ Take the other staircase, let's make our to get the Silver Hard. When
+ you start on floor 3, you'll notice there's two paths you can take. Take the
+ one that goes up. You'll see some stairs that go down soon, take them. Now
+ you'll be on the final floor of the whole thing. Just walk around to find
+ the next stair case leading up. WARNING: Monster on your way to get the chest
+ are SUPER hard. Wraith Knights, Droll Magi will show up. Once you've acquired
+ the Silver harp, cast outside to get out of there.
+
+ Make your way back to that cave that was found to the west of Kol. Give the
+ old man the harp. He'll reward you with the Staff of Rain. Now you've got
+ the Staff or Rain and Stone of Sunlight. There's still more for us to get.
+ First we'll have to level up to about 15. There's one town we haven't been
+ to yet, the town of Cantlin. Make sure you have a few magic keys, as well.
+
+ Walk like you're going to the Rock Mountain. When you reach that swamp, keep
+ going south. You'll cross one more bridge, but keep going. You'll see a large
+ desert with a town in it. That is the town of Haukness. DON'T GO INTO IT.
+ The monsters there will kick your ass. Keep going south, run from most
+ battles here. Keep going south until you see a  bridge, cross it. There will
+ be a lot of mountains around this bridge, too. After you cross it, go up.
+ You'll see another bridge, skip this one and keep going up. When you see a
+ bridge with a swamp around it, cross that one. You'll see the final town
+ in the game. BUT WAIT! The game doesn't want you getting to it with such
+ ease. Once you enter the walls, a GOLEM will come out. Only one of these
+ in the whole game. Here's his stats:
+
+  Max HP: 70
+  Minimum Gold: 9
+  Experience: 5
+  Spells: N/A
+  
+
+ Use the fairy flute on the golem to put the big baby to sleep. Beat the crap
+ out of him. He'll die after a while.
+
+ Now proceed to the town of...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F11. TOWN OF CANTLIN                                                        -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Inn: 100G
+ Weapons Available in this Town:
+     Copper Sword - Costs: 180 G (Power: 10)
+     Hand Axe - Costs: 560G (Power: 15)
+     Broad Sword - Costs: 1500G (Power: 20)
+     Flame Sword - Costs: 9800G (Power: 28)
+ Armor Available:
+     Half Plate - Costs: 1000G (Defense: 16)
+     Full Plate - Costs: 3000G (Defense: 24)
+     Magic Armor - Costs: 3000G (Defense: 24) [Heals you]
+ Tools Available:
+     Herb - 24G
+     Torch - 8G
+     Wing - 70G
+     Dragon Scale - 20G
+ Monsters Found:
+     WereWolf
+     Starwyvern
+     Magiwyvern
+     Knight
+     Wizard
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ There's a lot of merchants in this town for some reason. They sell bout
+ everything in the whole game here. Save up and buy the flame sword first.
+ I'll hold up till you get the sword of Erdrik. The downside is that this
+ sword costs a fudge load of money. The silver shield is here as well. It
+ costs about everything you've ever worked for. Get if after you get the
+ flame sword, though. The merchant of this stuff is inside one of those rooms
+ with the locked door.
+
+ As you know, you already have the Staff of Rain and the Stones of Sunlight.
+ There's just something else you need to get. You need to get proof that
+ you're the descendant of Erdrick. This is the final item that you need to
+ obtain to get the rainbow bridge. First, however, we have some other stuff
+ to get to.
+
+ First on the list is to acquire Erdrick's Armor. Around level 16-17 you can go
+ to Haukness. When you go there, it'll be full of Dragons, Starwyverns and
+ Werewolves. You can run from all these battles of course, but the strongest
+ armor in the game is here. If you go right a ways, you'll see a store with
+ some of that swamp in it. There will be ONE tree in the back part of the store
+ Stepping here initiates a battle with a very, very tough monsters called the
+ Axe Knight. He'll use sleep on you, and beat you down. You can do either one
+ of two things to defeat him.
+
+ 1. Cast stopspell, which lands him a free hit on your ass.
+ 2. Go toe to toe with the beast.
+
+ 1 is a tad risky, since he does about 20 damage or more a hit. While with 2,
+ you stand the chance he can put you to sleep. In the end, it's all about luck.
+ I got an excellent hit on him for about 62 damage and he died. After you beat
+ him with either strategy. Search the ground where you fought him. You'll
+ find Edrick's Armor. This armor is extremely strong. With almost double the
+ defense power of the next strongest armor, and the ability to heal you 1 HP
+ per step. It's good stuff.
+
+ Now that you have the strongest  armor. You can go back to Cantlin and heal.
+ You might  know there's a huge swamp right below the city; this is your next
+ stop. With Erdirk's armor, swamps no longer hurt you. In that big swamp,
+ however, is that token you need. Go south to the swamp, there will be one
+ swamp, then it'll bottle neck into another swamp. Proceed into the second
+ swamp.
+
+ You'll see there's mountains on the side. (The ones you can walk over).
+ See the two mountains at the bottom? Here's what it looks like in ASCII:
+
+^ = Mountain
+S = Swamp
+O = Hill
+* = Erdrick's Token
+ 
+ ^^^^^^^^^OOOOOOOOO
+ ^^^^^SSSSSOOOOOO
+ ^^^^SSSSSSSSOOOOOO
+ ^^^SSSSSSSSSSOOOO
+ ^^SSSSSSSSSSSSOO
+ SSSSSSSS*SSSSSS
+   SSSSSSSSSSSS
+    SSSSSSSSSS
+        SSSS
+
+
+ Every little symbol is one step. You can probably find the Token from just
+ looking at that map. After you get the token, use return to go back to that
+ to the castle. Then make your way to Rimuldar. Remember that part to the south
+ of Rimuldar that had the bridge? It's time for you to cross it.
+ When you get there, you'll notice there's a set of stairs. Take the stairs
+ down and talk to the old man. He'll give you the rainbow drop. There's only
+ one thing left to do in the game and that is....................LEVEL UP! 
+
+ Yes, it's boring I know. You have to level up before the final place in the
+ game. When you're ready, go the north-west most point. There's a giant
+ desert here. Go to the point in which there's just a little bit of water
+ separating the two part of land. Use the rainbow drop here. A BRIDE WILL
+ APPEAR! Cross it and make your way to...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+- F12.  Charlock Castle                                                       -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Make sure you have Healmore before entering. If you do not have Healmore
+ you're not going to get very far. 
+
+- DON'T OPEN ANY DOORS HERE WITH MAGIC KEYS! THEY ALL LEAD NO WHERE!
+- The strongest monsters in the whole game are here. Some even have over 100HP
+
+ Anyway, our first task is to gain the strongest sword in the game. The
+ sword of the great legend, Erdrick. When you first enter the castle, you'll
+ notice it looks like a town. Go left and scale the wall to the top. Then go
+ down. Skip that locked door and keep going down. You'll see a whole bunch
+ of those barriers that take away a lot of health. You have Erdrick's armor now
+ you can take them all on. You'll see like a throne were a king should be 
+ setting. Search right behind the middle of that throne to find a secret 
+ passage. Go down these stairs.
+
+ You'll be on the second floor now, cast radiance. Go left and all the way
+ around, go down that staircase. You'll now be on floor 3. Go around  again and
+ take those stairs. Floor 4 is where they try and start to trick you. The
+ staircase you're looking for is left, then straight down. On  floor 5, go up
+ and around. There will be two fake staircases here. There's one that's below
+ these two. Find it and take it. Take this staircase to floor 4. Just follow
+ the path the rest of the way (going up staircases when need be),and you'll be
+ at the sword in no time. Cast outside and return. Go get your MP/HP back up
+ before the final battle.
+
+ After you've got your HP/MP back, return to the castle for the final battle.
+ Take the left path again and make your way to floor 4 again. The one with
+ the other two staircases were they tried to trick you away from the sword.
+ When you're walking around again, you'll notice there's a staircase, it's one
+ of them you haven't took yet. Take that one down. Floor 5 is easy, as all you
+ do is walk around to find the next staircase. This floor has armored knights
+ on it. Toughest monster in the game (Along with Stoneman.) On the next floor,
+ just hand a right the whole way. Now, you'll see the Dragonlord! Take the
+ left and scale the whooooollllle floor till you find him. Don't even bother
+ with those treasure chests; they're phonies.
+
+ Talk to the Dragonlord, and he will begin to speak:
+
+ "" Welcome, [YOUR NAME], I am the Dragonlord -- King of Kings. I have been
+    waiting long for one such as thee. I give thee now a chance to chare this 
+    world and to rule half of it if thou will now stand beside me. What sayest 
+    thou? Will the great warrior stand with me? ""
+
+ If you say "Yes", the game ends and you have to go through the whole castle 
+ again.
+
+ If you say "No", then the fight commences.
+
+ He's just a little man with a staff that casts stopspell/hurtmore. 
+ Nothing big, right? Beat up on the poor man for awhile and see what happens.
+ The music will change and you'll have to face the main boss of the game. His
+ fire breathing antics do a hell of a lot of damage, about 20+. If you don't 
+ have all the best armor, then you'll lose this match for sure. Keep the 
+ pressure on him at all times, only stopping to cast "healmore". You'll do 
+ minimal damage to him. He has about 130 HP, so it'll take awhile.
+
+ After he falls, you get the Ball of Light. PEACE IS RETURNED TO THE WHOLE
+ WORLD! Evil is smeared off the face of the earth....until DW2 in which your
+ ass has to save the world again :D
+
+ Congrats on beat Dragon Warrior 1 !
+
+ You either got one of three endings!
+
+ 1). The princess was saved by you when you killed the green dragon
+ 2). The princess wasn't saved
+ 3). After you beat the Dragonlord, you'll be shown taking the
+    princess back to the castle.
+
+ Onward with the appendixes!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- G1. Level Chart . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ This shows how much experience you need to gain a level. There's 30 levels tot
+ al in the whole game. Making it to level 30 by yourself it amazing to say the
+ least. I know no one that has been able to do it. But they have that you can
+ do it on the little card that came with the game.
+
+ Level:      EXP:     Spell:
+
+ Lv. 1    - Default    N/A
+ Lv. 2    - 7          N/A
+ Lv. 3    - 23         Heal
+ Lv. 4    - 47         Hurt
+ Lv. 5    - 110        N/A
+ Lv. 6    - 220        N/A
+ Lv. 7    - 450        Sleep
+ Lv. 8    - 800        N/A
+ Lv. 9    - 1300       Radiant
+ Lv. 10   - 2000       Stopspell
+ Lv. 11   - 2900       N/A
+ Lv. 12   - 4000       Outside
+ Lv. 13   - 5500       Return
+ Lv. 14   - 7500       N/A
+ Lv. 15   - 10000      Repel
+ Lv. 16   - 13000      N/A
+ Lv. 17   - 16000      Healmore
+ Lv. 18   - 19000      N/A
+ Lv. 19   - 22000      Hurtmore
+ Lv. 20   - 26000      N/A
+ Lv. 21-30 +4000       N/A
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- H1. Items List  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Items in the Game:
+
+- Herb -              A medicine made of pulverized and mixed mandoragora
+                      root and mugwort. Just one herb package will restore
+                      20-35 of your health
+                      - Costs: 24G -
+
+- Torch -             This lights up the dark and gloomy underground
+                      labyrinths. It's made from slender fresh wood and is
+                      soaked in pine resin and oil. You can buy it at almost
+                      all general stores.
+                      - Costs: 8G -
+
+- Magic Key -         Special Keys that open closed doors. Although you can
+                      use them on any door, you lose on for each door you
+                      have opened.
+                      - Costs: 53/83G -
+
+- Dragon Scale -      Legend has it that this feel from a dragon's body a
+                      long, long time ago. A light green fossil that fits in
+                      the palm of your hand, it has mysterious powers and
+                      slightly increases your defense power +2
+                      - Costs: 20G -
+
+- Fairy Water -       Magical water taken from a spring by a silver lady
+                      on the night of a full moon and purified at the alter
+                      of the goddess Aura. It is said that you can travel for
+                      some time while warding off those in your way if you
+                      sprinkle some of water on your body. However, the power
+                      of this water is not effective in caves or against evil
+                      monsters with great power
+                      - Costs: 38G -
+
+-  Wings -            Another Legend has it that, when lighting strikes and
+                      kills a Wyverm, it's wings fall down to earth with
+                      their magical flying power still intact. Using these
+                      wings will bring you back to Tantegal Castle
+                      - Costs: 70G -
+
+- Cursed Belt -       This item is stupid. You equip it, then it won't come
+                      off. It doesn't even sell for much. You'll have to have
+                      the guy in Brecconary uncurse it for you.
+                      - Costs: 0G -
+
+- Cursed Necklace-    You gain this item later in the game from a treasure
+                      chest. You'll have to have the man in Brecconary uncurse
+                      it for you. Then sell it for a lot of money. Also it's
+                      the hardest treasure to find in the game, as it randomly
+                      appears in the swamp cave. Don't get your hopes up on
+                      getting it. It's in the Grave of Garinham, there's
+                      a chest that gives 120 gold, and about 1/12 times it'll
+                      give you this item instead. You can sell it for 1250
+                      gold.
+                      - Costs: 0G -
+
+- Fairy Flute -       Puts the golem in front of Cantlin asleep for a long
+                      time. BUT WHEN YOU STAB HIM WITH YOUR SWORD HE
+                      DOESN'T FEEL IT! Logic prevails in all cases, my
+                      friends.
+                      - Costs: 0G -
+
+- Silver Harp -       Used by the hero to gain the Staff of rain. It's hidden
+                      in a cave, so you'll have to find it. You can also
+                      play this harp and get in random battles at any
+                      time.
+                      - Costs: 0G -
+
+- Stones of Sunlight- Need to be combined with another item to form the
+                      Rainbow Drop
+                      - Costs: 0G
+
+- Staff of Rain-      The other item in the concoction of the Rainbow Drop.
+                      You have to combine this item with the Stones of Sunlight
+                      to get it.
+                      - Costs: 0G -
+
+- Rainbow Drop -      Used to make the rainbow bridge, so you can beat up
+                      the Dragonlord, and put a stop to his evil ways! You
+                      can't sell this item for some reason
+                      - Costs: 0G -
+
+- Erdrick's Tablet -  Found in Erdrick's Cave, it tells you of your journey
+                      ahead.
+                      - Costs: 0G
+
+- Erdrick's Token -   This item proves to people that your the descendent of
+                      the great Erdrick.
+                      - Costs: 0G
+
+- Ball of Light-      You get this item after you defeat the Dragonlord in the
+                      final battle of the game. Restores peace to the whole
+                      world.
+                      - Costs: 0G -
+
+- Fighter's Ring -    Increases some stat, no one really quite knows what the
+                      hell the thing. It's rumored to make weaker monsters
+                      run away from you more often.
+                      - Costs 0G -
+
+- Gwaelin's Love -    When you rescue the princess, she gives you this item.
+                      It shows where you are. It also tells you when you're
+                      going to gain a level, so you don't have to keep
+                      running back to the castle all the time
+                      - Costs: 0G -
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- I1. Weapons/Armors/Shields. . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Weapons in the Game:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Bamboo Pole -     Just a simple length of cut bamboo. It's cheap but not
+                    very powerful
+                    - Costs: 10G (Power: 2) -
+
+- Club -            A shaved oak bough with an east-to-hold grip. More
+                    powerful than a bamboo stick
+                    - Costs: 60G (Power: 4) -
+
+- Copper Sword -    A long sword made of copper that will inflict fair bit
+                    of damage on the enemy
+                    - Costs: 180 G (Power: 10) -
+
+- Hand axe -         An iron axe made especially for fighting. Powerful but
+                    difficult to wield.
+                    - Costs: 560G (Power: 15) -
+
+- Broad Sword -     A light, strong sword made of steel that's really
+                    powerful
+                    - Costs: 1500G (Power: 20) -
+
+- Flame Sword -     A sword that costs a lot, and it a tad bit stronger than
+                    the broad sword. Don't buy this thing, just wait to get
+                    Erdrick's sword instead
+                    - Costs: 9800G (Power: 28) -
+
+- Erdrick's Sword - Smack down right here, this sword will kick about
+                    anything's ass in the game within a few blows. You
+                    basically have to own it to beat the Dragonlord
+                    quickly.
+                    - Costs: 0G (Power: 40) -
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Shields in the Game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Small Shield -   A rectangular shield made from cow and goat hide. Light
+                   and easy to handle, it is the most widely used shield in
+                   Alefgrad
+                   - Costs: 90G (Defense: 4) -
+
+- Large Shield -   Cast from iron, this shield has delicate engraved design
+                   on its front. Of course, this durable shield has far more
+                   protective power than that of the small shield.
+                   - Costs: 800G (Defense: 10) -
+
+- Silver Shield -  The most expensive item in the game, the Silver Shield
+                   has about as much defense as the best armor in the game.
+                   You should save up the money and purchase this thing
+                   before the final fight. The amount of money it costs
+                   isn't really that much at the end of the game. It might
+                   take you 2 hours max.
+                   - Costs: 14800G (Defense: 25) -
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Armor in the Game:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Clothes -         Made of thick cloth, the don't really protect you too much
+                    from the enemy. Even so, it's better than nothing and it
+                    does lessen the damage inflicted by an enemy a little bit.
+                    - Costs: 20G (Defense: 2) -
+
+- Leather Armor -   Sewn together from the fragments of soft leather, it is
+                    useful in combat. It's light and easy to move about it,
+                    and it gives you more protection then the cloths
+                    - Costs: 70G (Defense: 4) -
+
+- Chain Mail -      Made from light metallic thread sewn together. Light and
+                    easy to move about in, it will considerably lessen damage
+                    that the enemy can inflict on you
+                    - Costs: 300G (Defense: 10) -
+
+- Half Plate -      A strong piece of armor made form beaten out iron panels.
+                    Although you can't move about so fast, it really
+                    protects you from the enemy's blows. (Ohh..blows...)
+                    - Costs: 1000G (Defense: 16) -
+
+- Full Plate -      Made from specially fabricated steel, this is really
+                    durable armor. It'll protect you from almost all enemy
+                    attacks.
+                    - Costs: 3000G (Defense: 24) -
+
+- Magic Armor -     No different from the Full Plate, other than it allows
+                    the wearer to gain 1 HP back per step. Pass this one up
+                    if you can and just stick to Erdrick's Armor.
+                    - Costs: 7700G (Defense: 24) -
+
+- Erdrick's Armor - Strongest armor in the game by far. You need this to
+                    take on the Dragonlord and live. You won't get very
+                    far without it. That or gain a billion levels. Also, it
+                    allows wearer to gain 2 HP back per step, and walking
+                    over those swamps won't hurt you anymore.
+                    - Costs:  0G (Defense: 28) -
+
+
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- J1. Magic List . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Magic in the Game:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Heal -      If you use this spell when you've been wounded in battle, you
+              can be cured without having to stay overnight at an Inn. You can
+              use this spell whether you're walking about or in battle. For
+              each time you chat the spell, you gain 10-15 More HP back.
+              - Costs: 4 MP -
+
+- Hurt -      A spell you will use for fighting. When you chant it, little
+              balls of fire spurt out of your fingertips. On chant of this
+              spell inflicts 2-10 damage on the enemy.
+              - Costs: 2 MP -
+
+- Sleep -     Chant this spell if you come across some really disagreeable
+              monsters. It will make monsters fall into a deep sleep.
+              - Costs: 2 MP -
+
+- Radiant-    This spell will light up caves when you find yourself groping
+              around in the dark (OOHH! GROPING! kinky) Brighter than a fiery
+              torch, you'll be able to see far ahead.
+              - Costs: 3 MP -
+
+- Stopspell - Of the various monsters you'll come across in your travels some
+              will attack you with spells. When that happens, chant this spell.
+              If the spell is successful, you can block the monster's spell.
+              - Costs: 2 MP -
+
+- Outside -   If by chance you lose your way deep down in some dark, gloomy
+              labyrinth of if out find that you haven't enough strength to
+              get back up to the world above, then this is the spell for you.
+              It'll warp you back to the world above in no time at all
+              - Costs: 6 MP -
+
+- Return -    When you've traveled too far away from home or you find that
+              you just can't return to Tentegal Castle, use this spell to soar
+              high in the sky and return.
+              - Costs: 8 MP -
+
+
+- Repel -     This spell will cloak you in a magical cure that protects you
+              from monster attacks. However, it won't work in foul smelling
+              caves. And just like Fairy Water, you can't use it against
+              monsters that are stronger than you.
+              - Costs: 2 MP -
+
+- Healmore -  Some of the Dragonlord's henchmen are so strong that they
+              inflict more than 30 points of damage in a single attack, in
+              which case "Heal" or healing herbs won't work in time. This is
+              a more power version of  "heal" and will restore 75-100 HP
+              points each time you use it.
+              - Costs: 10 -
+
+- Hurtmore -  This is a more powerful version of "Hurt". Legend has it that
+              those who chant that spell can summon up lightning and attack
+              the enemy with it. When you've chanted the magic spell,
+              knife-like lightning is fired form your fingertips and destroys
+              almost all enemies.
+              - Costs: 5 MP -
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- K1. Bestiary  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Here you'll find stats for every single monster in the game. How much gold
+ they'll give you. What's the most HP they have, so you can prepare somewhat
+ before you go somewhere. Knowing what monsters is where is also vital. You
+ don't want to run into a wolflord and get smeared, do you?
+
+ Thanks goes out to Nintendo for this :D
+ 
+ Max Hp = The most HP that the monster can have.
+
+ Minimum Gold = The lowest amount of gold you can get after a battle. You can
+               almost always get more than what's listed.
+
+ Found =    What town or landmark the monster is closet to. This is just one
+           ot two places you can find the monster most often. There's more
+           out there.
+
+ Spells =   What spells a monster can cast on you. Some monsters have
+           the ability to give themselves all of their hits back.
+           This is super annoying. Starwvyern is the biggest offender
+           of this cheap tactic.
+
+ Name =    Name of monster
+
+ EXP  =     The amount of experience that monster gives after he dies.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1. Armored Knight 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 90
+ Minimum Gold: 100
+ Experience: 70
+ Spells: Heal/Hurtmore
+ Found: Charlock Castle
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2. Axe Knight  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 70
+ Minimum Gold: 135
+ Experience: 54
+ Spells: Sleep
+ Found: Haukness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+3. Blue Dragon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 70
+ Minimum Gold: 115
+ Experience: 60
+ Spells: N/A
+ Found: Charlock Castle
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+4. Demon Knight
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 50
+ Minimum Gold: 110
+ Experience: 37
+ Spells: N/A
+ Found: Haukness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+5.  Dragon Lord 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 85
+ Minimum Gold: N/A
+ Experience: N/A
+ Spells: Hurtmore
+ Found: Final Dungeon 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+6. Dragon Lord 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 130
+ Minimum Gold: N/A
+ Experience: N/A
+ Spells: N/A
+ Found: Final Dungeon 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+7. Drakee
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 6
+ Minimum Gold: 2
+ Experience: 2
+ Spells: N/A
+ Found: Brecconary/Kol
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+8. Drakeema
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 20
+ Minimum Gold: 15
+ Experience: 11
+ Spells: Heal, Hurt
+ Found: RM Cave LV 2
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+9. Droll
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 25
+ Minimum Gold: 18
+ Experience: 10
+ Spells: N/A
+ Found: Grave of Garinham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+10. DrollMagi
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 38
+ Minimum Gold: 67
+ Experience: 22
+ Spells: Stopspell
+ Found: Grave of Garinham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+11. Druin 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 22
+ Minimum Gold: 12
+ Experience: 7
+ Spells: N/A
+ Found: Swamp Cave
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+12. Druin Lord
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 35
+ Minimum Gold: 70
+ Experience: 20
+ Spells: Heal, Hurt
+ Found: Grave of Garinham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+13. Ghost
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 7
+ Minimum Gold: 3
+ Experience: 3
+ Spells: N/A
+ Found: Brecconary/Gariham/Kol
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+14. Goldman
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 50
+ Minimum Gold: 150
+ Experience: 6
+ Spells: N/A
+ Found: Rimuldar/Haukness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+15. Golem
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 70
+ Minimum Gold: 9
+ Experience: 5
+ Spells: N/A
+ Found: Cantlin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+16. Green Dragon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 70
+ Minimum Gold: 9
+ Experience: 5
+ Spells: N/A
+ Found: Swamp Cave/Haukness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+17. Knight
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 55
+ Minimum Gold: 100
+ Experience: 33
+ Spells: N/A
+ Found: Cantlin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+18. Magician
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 13
+ Minimum Gold: 9
+ Experience: 4
+ Spells: Hurt
+ Found: Brecconary/Kol
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+19. Magidrake
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 15
+ Minimum Gold: 9
+ Experience: 5
+ Spells: Hurt
+ Found: Gariham/Kol
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+20. Magiwyvern       
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 58
+ Minimum Gold: 115
+ Experience: 38
+ Spells: Sleep
+ Found: Haukness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+21. Metal Scopion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 22
+ Minimum Gold: 30
+ Experience: 14
+ Spells: N/A
+ Found: Rimuldar
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+22. Metal Slime
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 22
+ Minimum Gold: 30
+ Experience: 14
+ Spells: N/A
+ Found: Cantlin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+23. Poltergiest 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 23
+ Minimum Gold: 13
+ Experience: 8
+ Spells: Hurt
+ Found: Grave of Garinham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+24. Red Dragon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 100
+ Minimum Gold: 130
+ Experience: 100
+ Spells: Sleep/Hurtmore
+ Found: Charlock Castle
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+25. Red Slime
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 4
+ Minimum Gold: 2
+ Experience: 1
+ Spells: N/A
+ Found: Brecconary/Gariham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+26. Rogue Scorpion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 35
+ Minimum Gold: 90
+ Experience: 26
+ Spells: N/A
+ Found: Haukness
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+27. Scorpoin
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 20
+ Minimum Gold: 12
+ Experience: 6
+ Spells: N/A
+ Found: Kol
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+28. Skeleton
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 30
+ Minimum Gold: 22
+ Experience: 11
+ Spells: N/A
+ Found: Kol 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+29. Slime
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 2
+ Minimum Gold: 1
+ Experience: 1
+ Spells: N/A
+ Found: Brecconary/Gariham 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+30. Specter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 36
+ Minimum Gold: 55
+ Experience: 18
+ Spells: Hurt, Sleep
+ Found: Grave of Garinham 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+31. Starwyvern
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 65
+ Minimum Gold: 120
+ Experience: 45
+ Spells: Healmore
+ Found: Haukness/Cantlin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+32. Stoneman
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 65
+ Minimum Gold: 120
+ Experience: 45
+ Spells: N/A
+ Found: Final Dungeon 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+33. Warlock
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 30
+ Minimum gold: 27
+ Experience: 13
+ Spells: Hurt, Sleep
+ Found: Rimuldar/Grave of Garinham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+34. Werewolf
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 60
+ Minimum gold: 115
+ Experience: 40
+ Spells: N/A
+ Found: Cantlin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+35. Wizard
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 65
+ Minimum gold: 120
+ Experience: 50
+ Spells: Hurtmore
+ Found: Castle/Cantlin
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+36. Wolf
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 34
+ Minimum gold: 37
+ Experience: 16
+ Spells: N/A
+ Found: Rimuldar
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+37. Wolflord
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 38
+ Minimum gold: 60
+ Experience: 20
+ Spells: Stopspell
+ Found: Rimuldar
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+38. Wraith
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 36
+ Minimum gold: 45
+ Experience: 17
+ Spells: Heal
+ Found: Rimuldar
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+39. Wraith Knight
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 46
+ Minimum gold: 90
+ Experience: 28
+ Spells: Heal
+ Found: Grave of Garinham
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+40. Wyvern
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Max HP: 42
+ Minimum gold: 77
+ Experience: 24
+ Spells: N/A
+ Found: Haukness 
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- L1. Disclaimer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ First off: This FAQ can only be hosted by the following sites:
+
+ www.Gamefaqs.com
+ www.Ign.com
+ www.Cheats.de
+
+ The newest version of this FAQ can be found at the following site:
+
+ www.gamefaqs.com
+
+ If you need if for any other reason, just e-mail me. I probably won't
+ care if you host this thing at all. If you take without asking, then
+ we have a problem. You can always pay me money, and then you
+ may use this guide, too.
+
+ This may be not be reproduced under any circumstances except for personal,
+ private use. It may not be placed on any web site or otherwise distributed
+ publicly without advance written permission. Use of this guide on any other
+ web site or as a part of any public display is strictly prohibited, and
+ a violation of copyright.
+
+ If all that sounded scary, then it did it's job.
+
+-----------
+Thanks:
+-----------
+
+ - Big Props to myself
+ - Thanks to Nintendo and their little prepackaged stat/EXP/bestiary thing.
+   Cut off a lot of time.
+ - Thanks to The Admiral for telling me about a lot of problems
+   in my FAQ. This guy knows what he's talking about big time.
+   As he was able to point on some super small problems with
+   the items and stuff. Making me update to the final version.
+
+- EoF -
