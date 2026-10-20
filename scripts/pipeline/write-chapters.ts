@@ -74,7 +74,7 @@ if (fixMode) {
   run(`npx tsx scripts/pipeline/qa-check.ts ${id}`);
   const qa = readJson<{ errors: string[]; warnings: string[] }>(P.qa);
   // warnings that lower the score (see score.ts beginner_friendliness) are worth a revision too
-  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return/i;
+  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return|before it is obtained|already earned/i;
   for (const [kind, list] of [["ERROR", qa.errors], ["WARNING", qa.warnings.filter((w) => scored.test(w))]] as const)
     for (const msg of list) {
       const m = msg.match(/^(overview|ch(\d+))\b/) ?? msg.match(/placed in (ch(\d+))|roadmap says (ch(\d+))/);
@@ -131,8 +131,10 @@ const DRAFTING_RE =
 /**
  * Fixes a draft's [ACHIEVEMENT] tags without a repair call (1470: 5 of 9 repairs were duplicate tags):
  * keeps one tag per assigned achievement, preferring a tag on its own line (the placement format), and
- * drops tags this chapter is not assigned (all of them in the overview). A missing tag still needs a repair.
+ * drops tags this chapter is not assigned (all of them in the overview). A tag inside a line becomes the
+ * achievement's name in bold instead of being deleted. A missing tag still needs a repair.
  */
+const titleOf = new Map(ach.achievements.map((a) => [a.id, a.title]));
 function tidyTags(t: string, text: string): { text: string; fixed: number } {
   const assigned = new Set(t === "overview" ? [] : roadmap.chapters.find((c) => c.n === Number(t))?.achievement_ids ?? []);
   const lines = text.split(/\r?\n/);
@@ -149,8 +151,8 @@ function tidyTags(t: string, text: string): { text: string; fixed: number } {
   let fixed = 0;
   const out: string[] = [];
   lines.forEach((l, i) => {
-    // a tag mid-sentence leaves broken prose, so that one stays for the repair call; a tag at the start of a line
-    // (after any list/quote marker) or at its end is a marker, not a word, and can go (23372: the only repair call)
+    // a tag at the start of a line (after any list/quote marker) or at its end is a marker, not a word, and can
+    // go (23372: the only repair call); one inside the line is named instead (below)
     if (!/^\s*(\[ACHIEVEMENT:\s*\d+\s*\]\s*)+$/.test(l)) {
       const drop = (_tag: string, id: string) => {
         const a = Number(id);
@@ -159,7 +161,16 @@ function tidyTags(t: string, text: string): { text: string; fixed: number } {
       };
       const nl = l
         .replace(/^(\s*(?:[-*+>]|\d+\.)?\s*)\[ACHIEVEMENT:\s*(\d+)\s*\]\s*/, (all, pre, id) => (drop(all, id) ? pre : all))
-        .replace(/\s*\[ACHIEVEMENT:\s*(\d+)\s*\]\s*$/, (all, id) => (drop(all, id) ? "" : all));
+        .replace(/\s*\[ACHIEVEMENT:\s*(\d+)\s*\]\s*$/, (all, id) => (drop(all, id) ? "" : all))
+        // a tag mid-sentence, in a table cell or a checklist item becomes the achievement's name, so the
+        // prose still reads ("You unlock **Slime Time** here"). 1471: four such duplicates cost a repair call.
+        .replace(/(?:\*\*)?\[ACHIEVEMENT:\s*(\d+)\s*\](?:\*\*)?\s?/g, (all, id, at, line) => {
+          const title = titleOf.get(Number(id)); // an unknown id stays: problems() reports it
+          if (!title || !drop(all, id)) return all;
+          const space = /\s$/.test(all) ? " " : "";
+          // "- [x] [ACHIEVEMENT:2] Key Master": the name already follows, so the tag just goes
+          return line.slice(at + all.length).replace(/^\W+/, "").toLowerCase().startsWith(title.toLowerCase()) ? "" : `**${title}**${space}`;
+        });
       return void out.push(nl);
     }
     const kept = new Set<number>();

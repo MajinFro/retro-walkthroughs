@@ -25,6 +25,7 @@ import {
   type Fact,
   type SourceEntry,
   EOL,
+  widenQuote,
   checkFact,
   chunkProgress,
   factCheckContext,
@@ -197,58 +198,6 @@ function expand(f: Partial<Fact>): Fact {
   } as Fact;
 }
 
-/**
- * "Unquoted number" and "low quote overlap" are the rules a model most often trips: its quote is a fragment
- * that stops short of the number or words it states. Instead of spending a repair call:
- *  1. widen the quote to its verbatim sentence (guides are hard-wrapped, so a sentence spans lines; it stops
- *     at sentence punctuation or a blank line), and
- *  2. if a multi-digit number is still missing, prepend the nearest heading line above that holds it
- *     ("ROOM #02:"), joined with "..." as the quote rules allow.
- * The fact is then re-checked with the normal rules, so nothing that fails them gets through.
- */
-const MAX_WIDE_QUOTE = 400;
-const numbersIn = (s: string) => s.replace(/(\d),(?=\d{3})/g, "$1").match(/\b\d+\b/g) ?? [];
-function lastEnd(s: string, re: RegExp): number {
-  let end = 0;
-  for (const m of s.matchAll(re)) end = m.index! + m[0].length;
-  return end;
-}
-function widenQuote(f: Fact, extraSentences = 0): Fact | null {
-  let changed = false;
-  const want = [...new Set(numbersIn(f.text ?? "").filter((n) => n.length >= 2))];
-  const evidence = f.evidence.map((e) => {
-    const c = chunks.get(e.chunk_id);
-    const first = (e.quote ?? "").split(/\.\.\.|…/)[0];
-    const words = first.match(/[A-Za-z0-9']+/g);
-    if (!c || !words || words.length < 2) return e;
-    const m = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9']+"), "i").exec(c.text);
-    if (!m) return e;
-    const before = c.text.slice(0, m.index);
-    const start = Math.max(lastEnd(before, /[.!?]["')\]]*\s+/g), lastEnd(before, /\n[ \t]*\n/g));
-    const afterEnd = c.text.slice(m.index + m[0].length).search(/[.!?](\s|$)|\n[ \t]*\n/);
-    let end = afterEnd < 0 ? c.text.length : m.index + m[0].length + afterEnd + 1;
-    // facts often join a sentence with the next one ("After just a few steps. You fall into ...")
-    for (let i = 0; i < extraSentences && end < c.text.length; i++) {
-      const rest = c.text.slice(end);
-      if (/^\s*\n[ \t]*\n/.test(rest)) break; // paragraph ends here
-      const stop = rest.search(/[.!?](\s|$)|\n[ \t]*\n/);
-      end = stop < 0 ? c.text.length : end + stop + 1;
-    }
-    let quote = c.text.slice(start, end).replace(/\s+/g, " ").trim();
-    if (quote.length > MAX_WIDE_QUOTE || quote.length <= first.trim().length) quote = first.trim();
-    // a number still missing: take it from the nearest short heading-like line above, within the same section
-    const have = new Set(numbersIn(quote));
-    const lines = c.text.slice(Math.max(0, start - 3000), start).split(/\r?\n/).reverse();
-    for (const n of want.filter((x) => !have.has(x))) {
-      const head = lines.map((l) => l.trim()).find((l) => l.length <= 60 && new RegExp(`\\b${n}\\b`).test(l) && !/[.!?]\s+\S/.test(l));
-      if (head && head.length + quote.length + 5 <= MAX_WIDE_QUOTE) quote = `${head} ... ${quote}`;
-    }
-    if (quote === (e.quote ?? "").trim()) return e;
-    changed = true;
-    return { ...e, quote };
-  });
-  return changed ? { ...f, evidence } : null;
-}
 
 function check(b: Batch, r: LlmResult, prior?: Checked): Checked {
   const inBatch = new Set(b.chunks.map((c) => c.chunk_id));
@@ -267,8 +216,8 @@ function check(b: Batch, r: LlmResult, prior?: Checked): Checked {
     const outside = f.evidence.filter((e) => !inBatch.has(e.chunk_id)).map((e) => e.chunk_id);
     let { problems, evidence, reject } = checkFact(f, ctx);
     if (reject && !outside.length && problems.length && problems.every((p) => /^(unquoted number|low quote overlap)/.test(p))) {
-      for (const extra of [0, 1]) {
-        const wide = widenQuote(f, extra);
+      for (const [extra, back] of [[0, false], [1, false], [0, true], [1, true]] as const) {
+        const wide = widenQuote(f, chunks, extra, back);
         const again = wide && checkFact(wide, ctx);
         if (again && !again.reject) {
           f = wide!;

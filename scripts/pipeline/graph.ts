@@ -78,7 +78,7 @@ export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapt
     const canons = new Set(labels.map((l) => aliases.get(norm(l)) ?? norm(l)));
     for (const [alias, c] of aliases) if (canons.has(c)) names.push(alias);
   }
-  const wanted = names.filter((s) => norm(s).length >= 4).map(mapWords).filter(distinctive);
+  const wanted = names.filter((s) => norm(s).length >= 3).map(mapWords).filter(distinctive);
   // "Chapter N" in a map title is the game's chapter, which differs from the roadmap's when chapters are split
   const gameChapterOf = (c: Roadmap["chapters"][number]) => c.game_chapter ?? Number(c.title.match(/^chapter\s+(\d+)/i)?.[1] ?? c.n);
   const gameChapter = gameChapterOf(ch);

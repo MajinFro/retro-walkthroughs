@@ -24,6 +24,7 @@ import {
   requireFile,
   words,
   keyTerms,
+  norm,
   loadAliases,
   writeJson,
   exists,
@@ -395,6 +396,46 @@ for (const [tag, text] of texts) {
       if (!names.some((w) => target.includes(w.toLowerCase())))
         warnings.push(`${tag}: refers to chapter ${n} about ${names.slice(0, 3).join(", ")}, but chapter ${n} never mentions it — "${s.trim().slice(0, 90)}…"`);
     }
+  }
+}
+
+// order of play: an item used, or an achievement called "already" earned, before the chapter that gets it.
+// 1471's review found three (Gwaelin's Love used in ch5 but got in ch10; an achievement of ch10 "should
+// already" be unlocked in ch9). An item's chapter is the first roadmap chapter whose areas list its node.
+const firstChapter = new Map<string, number>();
+for (const c of roadmap.chapters) for (const a of c.areas) if (!firstChapter.has(a)) firstChapter.set(a, c.n);
+const achChapter = new Map<number, number>();
+for (const c of roadmap.chapters) for (const a of c.achievement_ids) achChapter.set(a, c.n);
+const AHEAD_RE = /\b(later|will|won't|until|not yet|eventually|come back|return(?:ing)? (?:here|later)|chapter\s+\d+|next chapter|ending run|once you (?:get|have|obtain|find)|after you (?:get|have|obtain|find)|when you (?:get|have|obtain|find)|(?:don't|do not) (?:have|need) (?:it|this|that|the)|cannot (?:get|use)|can't (?:get|use))\b/i;
+// the player told to use or hold the item now; NPC hints, recipes and requirements ("says the Cloth is made with
+// the Loom", "must be combined with the Token") mention later items legitimately (1470: 8 false hits without this)
+const USE_RE = /\b(use|using|equip|equipped|wear|wearing|wield|wielding|consult|you (?:have|hold|carry|already have|now have)|your)\b/i;
+const HEARSAY_RE = /\b(says?|said|mentions?|tells?|told|rumou?rs?|legend|hints?|made (?:with|from)|combined?|needed|required|requires?|must be|confirm|check that)\b/i;
+const escapeRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const itemNames = graph.nodes
+  .filter((n) => (n.kind === "item" || n.kind === "key_item") && firstChapter.has(n.id))
+  .map((n) => {
+    const label = (n.label ?? n.id).replace(/\s*\([^)]*\)/g, "").trim();
+    const canon = aliases.get(norm(label)) ?? norm(label);
+    // aliases are stored normalized, so names are matched against the normalized sentence
+    const names = [norm(label), ...[...aliases].filter(([a, c]) => c === canon && a.length >= 4).map(([a]) => a)];
+    return { label, chapter: firstChapter.get(n.id)!, re: new RegExp(`\\b(?:${names.map(escapeRe).join("|")})\\b`, "i") };
+  });
+for (const [tag, text] of texts) {
+  if (tag === "overview") continue;
+  const own = Number(tag.slice(2));
+  for (const s of text.split(/(?<=[.!?])\s+|\r?\n/)) {
+    if (CHECKPOINT_RE.test(s) || /^\s*(#|\||[-*+]\s+\[[ xX]\])/.test(s) || AHEAD_RE.test(s) || HEARSAY_RE.test(s)) continue;
+    const quote = s.replace(/\[\[[^\]]*\]\]/g, "").trim().slice(0, 90);
+    for (const it of itemNames)
+      if (it.chapter > own && it.re.test(norm(s)) && USE_RE.test(s))
+        warnings.push(`${tag}: uses "${it.label}" before it is obtained (the roadmap gets it in ch${it.chapter}) — "${quote}…"`);
+    if (/\balready\b|\bshould have\b/i.test(s))
+      for (const a of ach.achievements) {
+        const at = achChapter.get(a.id);
+        if (at && at > own && (s.includes(`[ACHIEVEMENT:${a.id}]`) || new RegExp(`\\b${escapeRe(String(a.id))}\\b|\\b${escapeRe(a.title)}\\b`, "i").test(s)))
+          warnings.push(`${tag}: says achievement ${a.id} "${a.title}" is already earned, but it is earned in ch${at} — "${quote}…"`);
+      }
   }
 }
 

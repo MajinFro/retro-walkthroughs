@@ -589,6 +589,45 @@ export function factCheckContext(chunks: Map<string, Chunk>, ach: AchievementsFi
 const HARD_FAIL_RE = /bad id|unknown type|missing text|achievement description|low quote overlap|unquoted number/;
 
 /**
+ * Words that explain a table-row quote: the table's header row above it, and the legend lines that define the
+ * header's abbreviations ("HPT – The total amount of HP you now have."), from the chunk before the header to the row.
+ * A quote like "| 2 | 7 | 7 | 7 | 22 | ..." holds only numbers, so without this every fact stated from a
+ * stats table failed the word-overlap check (game 1471: 24 rejects in one batch). Only these source words are
+ * added, so a fact that invents details still fails. "" when the quote is not a table row.
+ */
+export function tableContext(quote: string, chunk: Chunk | undefined, chunks: Map<string, Chunk>): string {
+  if (!chunk || (quote.match(/\|/g) ?? []).length < 3 || /[a-z]{4,}/i.test(quote.replace(/\|/g, " ").replace(/\b[A-Z]{1,6}\b/g, ""))) return "";
+  const own = chunk.text.split(/\r?\n/);
+  const rowStart = norm(quote.split(/\.\.\.|…/)[0]).slice(0, 40);
+  let at = own.findIndex((l) => norm(l).includes(rowStart));
+  if (at < 0) at = own.length;
+  // header: the nearest pipe row above with letters in it. A long table runs on over several chunks
+  // (1471's level table spans gf1#56-60), so walk back up to 6 chunks to find it.
+  const isHeader = (l: string) => (l.match(/\|/g) ?? []).length >= 3 && /[A-Za-z]{2,}/.test(l);
+  let above = own.slice(0, at);
+  let header = [...above].reverse().find(isHeader);
+  let headerN = chunk.n;
+  for (let n = chunk.n - 1; !header && n >= chunk.n - 6; n--) {
+    const t = chunks.get(`${chunk.source_id}#${n}`)?.text;
+    if (t === undefined) break;
+    const lines = t.split(/\r?\n/);
+    above = [...lines, ...above];
+    header = [...lines].reverse().find(isHeader);
+    headerN = n;
+  }
+  if (!header) return "";
+  const abbrs = new Set((header.match(/[A-Za-z][A-Za-z.%]*/g) ?? []).map((a) => a.toUpperCase()));
+  if (!abbrs.size) return "";
+  // the legend sits next to the header: anywhere from the chunk before the header's chunk to the row's chunk
+  const prevOfHeader = chunks.get(`${chunk.source_id}#${headerN - 1}`)?.text.split(/\r?\n/) ?? [];
+  const legend = [...prevOfHeader, ...above, ...own.slice(at)]
+    .map((l) => l.match(/^\s*([A-Za-z][A-Za-z.%]*)\s*(?:[-–—:=]|\.{2,})\s*(.+)$/))
+    .filter((m): m is RegExpMatchArray => Boolean(m && abbrs.has(m[1].toUpperCase())))
+    .map((m) => m[2]);
+  return [header, ...legend].join(" ");
+}
+
+/**
  * Schema + evidence checks for one fact (everything except duplicate ids, which need the whole set).
  * Returns the problems, the evidence that survived, and whether the fact must be rejected.
  */
@@ -620,6 +659,7 @@ export function checkFact(f: Fact, ctx: FactCheckContext): { problems: string[];
   if (f.type !== "achievement" && goodEv.length > 0 && f.text) {
     // a non-English quote carries an English `translation`; compare the fact text against that
     const quoteTerms = new Set(goodEv.flatMap((e) => keyTerms(e.translation ? `${e.quote} ${e.translation}` : e.quote)));
+    for (const e of goodEv) for (const w of keyTerms(tableContext(e.quote, ctx.chunks.get(e.chunk_id), ctx.chunks))) quoteTerms.add(w);
     const textTerms = keyTerms(f.text);
     if (textTerms.length >= 6) {
       const overlap = textTerms.filter((w) => quoteTerms.has(w)).length;
@@ -641,4 +681,66 @@ export function checkFact(f: Fact, ctx: FactCheckContext): { problems: string[];
 
   const reject = !goodEv.some((e) => e.stance === "supports") || problems.some((p) => HARD_FAIL_RE.test(p));
   return { problems, evidence: goodEv, reject };
+}
+
+// ---------------------------------------------------------------------------
+// Quote widening (rw:extract saves facts with it instead of a repair call)
+// ---------------------------------------------------------------------------
+/**
+ * "Unquoted number" and "low quote overlap" are the rules a model most often trips: its quote is a fragment
+ * that stops short of the number or words it states. Instead of spending a repair call:
+ *  1. widen the quote to its verbatim sentence (guides are hard-wrapped, so a sentence spans lines; it stops
+ *     at sentence punctuation or a blank line), and
+ *  2. if a multi-digit number is still missing, prepend the nearest heading line above that holds it
+ *     ("ROOM #02:"), joined with "..." as the quote rules allow.
+ * The fact is then re-checked with the normal rules, so nothing that fails them gets through.
+ */
+const MAX_WIDE_QUOTE = 400;
+const numbersIn = (s: string) => s.replace(/(\d),(?=\d{3})/g, "$1").match(/\b\d+\b/g) ?? [];
+function lastEnd(s: string, re: RegExp): number {
+  let end = 0;
+  for (const m of s.matchAll(re)) end = m.index! + m[0].length;
+  return end;
+}
+export function widenQuote(f: Fact, chunks: Map<string, Chunk>, extraSentences = 0, back = false): Fact | null {
+  let changed = false;
+  const want = [...new Set(numbersIn(f.text ?? "").filter((n) => n.length >= 2))];
+  const evidence = f.evidence.map((e) => {
+    const c = chunks.get(e.chunk_id);
+    const first = (e.quote ?? "").split(/\.\.\.|…/)[0];
+    const words = first.match(/[A-Za-z0-9']+/g);
+    if (!c || !words || words.length < 2) return e;
+    const m = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9']+"), "i").exec(c.text);
+    if (!m) return e;
+    const before = c.text.slice(0, m.index);
+    let start = Math.max(lastEnd(before, /[.!?]["')\]]*\s+/g), lastEnd(before, /\n[ \t]*\n/g));
+    // facts often name the place from the sentence before ("In the King's room ... You'll find in the chests: 120 Gold")
+    if (back && start > 0 && !/\n[ \t]*\n\s*$/.test(c.text.slice(0, start))) {
+      const prior = c.text.slice(0, start).replace(/\s+$/, "");
+      const prevStart = Math.max(lastEnd(prior.slice(0, -1), /[.!?]["')\]]*\s+/g), lastEnd(prior, /\n[ \t]*\n/g));
+      start = prevStart;
+    }
+    const afterEnd = c.text.slice(m.index + m[0].length).search(/[.!?](\s|$)|\n[ \t]*\n/);
+    let end = afterEnd < 0 ? c.text.length : m.index + m[0].length + afterEnd + 1;
+    // facts often join a sentence with the next one ("After just a few steps. You fall into ...")
+    for (let i = 0; i < extraSentences && end < c.text.length; i++) {
+      const rest = c.text.slice(end);
+      if (/^\s*\n[ \t]*\n/.test(rest)) break; // paragraph ends here
+      const stop = rest.search(/[.!?](\s|$)|\n[ \t]*\n/);
+      end = stop < 0 ? c.text.length : end + stop + 1;
+    }
+    let quote = c.text.slice(start, end).replace(/\s+/g, " ").trim();
+    if (quote.length > MAX_WIDE_QUOTE || quote.length <= first.trim().length) quote = first.trim();
+    // a number still missing: take it from the nearest short heading-like line above, within the same section
+    const have = new Set(numbersIn(quote));
+    const lines = c.text.slice(Math.max(0, start - 3000), start).split(/\r?\n/).reverse();
+    for (const n of want.filter((x) => !have.has(x))) {
+      const head = lines.map((l) => l.trim()).find((l) => l.length <= 60 && new RegExp(`\\b${n}\\b`).test(l) && !/[.!?]\s+\S/.test(l));
+      if (head && head.length + quote.length + 5 <= MAX_WIDE_QUOTE) quote = `${head} ... ${quote}`;
+    }
+    if (quote === (e.quote ?? "").trim()) return e;
+    changed = true;
+    return { ...e, quote };
+  });
+  return changed ? { ...f, evidence } : null;
 }

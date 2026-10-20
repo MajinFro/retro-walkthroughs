@@ -240,6 +240,8 @@ const AGY_PREAMBLE =
   "write or run anything. Everything you need is in this message. Reply with only the output the " +
   "instructions below ask for.\n\n=== INSTRUCTIONS ===\n\n";
 
+const AGY_IDLE_MS = (Number(process.env.RW_AGY_IDLE_SEC) || 180) * 1000;
+
 let agyAvailable: boolean | undefined;
 function hasAgy(): boolean {
   if (agyAvailable === undefined) agyAvailable = spawnSync(agyBin(), ["--help"], { encoding: "utf8" }).error === undefined;
@@ -260,11 +262,23 @@ function callAgy(req: LlmRequest, model: string): Promise<LlmResult> {
     const child = spawn(agyBin(), args, { cwd: AGY_DIR, stdio: ["pipe", "pipe", "pipe"] });
     let out = "";
     let err = "";
+    let stalled = false;
     const timer = setTimeout(() => child.kill(), 16 * 60_000);
-    child.stdout.on("data", (d) => (out += d));
+    // A working agy call streams events every second or so. Some calls hang with no output until the
+    // 15-minute print timeout (game 1471: 8 of 66 calls, ~30 of 34 extraction minutes), so kill a call
+    // that has been silent for AGY_IDLE_MS; runAll retries it ("stall timeout" is retryable).
+    let idle: NodeJS.Timeout;
+    const armIdle = () => {
+      clearTimeout(idle);
+      idle = setTimeout(() => { stalled = true; child.kill(); }, AGY_IDLE_MS);
+    };
+    armIdle();
+    child.stdout.on("data", (d) => { out += d; armIdle(); });
     child.stderr.on("data", (d) => (err += d));
     child.on("close", (code) => {
       clearTimeout(timer);
+      clearTimeout(idle);
+      if (stalled) return resolve({ key: req.key, text: "", usage: zero(), error: `agy stall timeout: no output for ${AGY_IDLE_MS / 1000}s` });
       const events = out.split(/\r?\n/).filter((l) => l.startsWith("{")).map((l) => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
       const result = events.find((e: any) => e.event === "result")?.result;
       // any tool call means the agent ignored the preamble; the reply cannot be trusted as plain output
