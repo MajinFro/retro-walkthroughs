@@ -334,6 +334,9 @@ Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>
 | `claude-cli` (default when installed) | the `claude` CLI, logged in | `haiku` / `sonnet` | Runs `claude -p` with tools disabled and the system prompt replaced, from a temp directory (no CLAUDE.md). Uses the Claude Code login. |
 | `anthropic` | `ANTHROPIC_API_KEY` | `claude-haiku-5-5` / `claude-sonnet-5-5` | Prompt caching on the system prompt; `rw:extract --batch` uses the Message Batches API (half price, results within 24h). |
 | `gemini` | `GEMINI_API_KEY` | `gemini-flash-latest` / `gemini-pro-latest` | For Antigravity, or machines without the claude CLI. |
+| `agy` | the Antigravity CLI (`agy`), logged in | `gemini-3.8-flash-medium` / same | Runs on Antigravity's quota, not Claude's. Sends the prompt as one stream-json message from an empty temp folder in plan mode; a reply that used tools is rejected. Adds ~12k Gemini tokens of agent overhead per call. |
+
+**Default split (since 2026-10-19):** when `agy` is installed and `RW_LLM` is unset, guide extraction runs on `agy` (Gemini Flash) and RA comment batches stay on Claude Haiku (`RW_LLM_RA_COMMENTS`); writing stays on Sonnet. Set the backend per stage with `RW_LLM_EXTRACT` / `RW_LLM_WRITE` (`RW_LLM_EXTRACT=claude-cli` puts extraction back on Haiku). In an A/B on a StarTropics copy, Flash extraction wrote half as many facts (1,274 vs 2,731) and scored 94% vs 97%, but a blind comparison of three chapters rated the Flash-based version as good or better, and it saved ~2.4M Claude tokens. `rw:status` and `rw:analyze` split Claude and agy/gemini tokens.
 
 Override models with `--model` or `RW_MODEL_EXTRACT` / `RW_MODEL_WRITE`, and concurrency with `--concurrency` or `RW_CONCURRENCY` (default 12 parallel calls; the token cost is the same at any level, lower it if calls fail on rate limits).
 

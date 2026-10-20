@@ -9,7 +9,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { achievementMermaid, chapterMermaid, type Graph, progressionMermaid, type Roadmap } from "./graph.ts";
+import { achievementMermaid, chapterMermaid, chapterTitle, type Graph, progressionMermaid, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -41,7 +41,7 @@ const factById = new Map(verified.facts.map((f) => [f.id, f]));
 const achById = new Map(ach.achievements.map((a) => [a.id, a]));
 const chapterOf = new Map<number, number>();
 roadmap.chapters.forEach((c) => c.achievement_ids.forEach((a) => chapterOf.set(a, c.n)));
-const anchor = (n: number) => `#chapter-${n}-${roadmap.chapters[n - 1].title.toLowerCase().replace(/[^a-z0-9 -]/g, "").trim().replace(/\s+/g, "-")}`;
+const anchor = (n: number) => `#chapter-${n}-${`${chapterTitle(roadmap.chapters[n - 1])}`.toLowerCase().replace(/[^a-z0-9 -]/g, "").trim().replace(/\s+/g, "-")}`;
 
 function achBlock(aid: number): string {
   const a = achById.get(aid);
@@ -95,7 +95,7 @@ L.push("## Achievement Roadmap", "", "| Chapter | Achievements | Points |", "|--
 for (const c of roadmap.chapters) {
   const list = c.achievement_ids.map((a) => achById.get(a)?.title ?? `#${a}`).join(", ") || "—";
   const p = c.achievement_ids.reduce((s, a) => s + (achById.get(a)?.points ?? 0), 0);
-  L.push(`| [${c.n}. ${c.title}](${anchor(c.n)}) | ${list} | ${p} |`);
+  L.push(`| [${c.n}. ${chapterTitle(c)}](${anchor(c.n)}) | ${list} | ${p} |`);
 }
 L.push("");
 
@@ -145,7 +145,7 @@ if (bosses.length) {
   L.push("## Boss Index", "", "Full strategies are in each chapter.", "", "| Boss | Chapter |", "|---|---|");
   for (const b of bosses) {
     const ch = roadmap.chapters.find((c) => c.areas.includes(b.id) || graph.edges.some((e) => (e.to === b.id && c.areas.includes(e.from)) || (e.from === b.id && c.areas.includes(e.to))));
-    L.push(`| ${b.label} | ${ch ? `[${ch.n}. ${ch.title}](${anchor(ch.n)})` : "—"} |`);
+    L.push(`| ${b.label} | ${ch ? `[${ch.n}. ${chapterTitle(ch)}](${anchor(ch.n)})` : "—"} |`);
   }
   L.push("");
 }
@@ -155,13 +155,13 @@ L.push("## Walkthrough", "");
 for (const c of roadmap.chapters) {
   let body = read(chapterFile(c.n));
   if (!/^##\s+Chapter/m.test(body)) body = `## Chapter ${c.n}: ${c.title}\n\n${body}`;
-  L.push(expand(body, c.n).replace(/^##\s+Chapter.*$/m, `## Chapter ${c.n}: ${c.title}`), "", "---", "");
+  L.push(expand(body, c.n).replace(/^##\s+Chapter.*$/m, `## Chapter ${c.n}: ${chapterTitle(c)}`), "", "---", "");
 }
 
 // 11. Final checklist
 L.push("## Final Checklist", "");
 for (const c of roadmap.chapters) {
-  L.push(`**${c.n}. ${c.title}**`, "");
+  L.push(`**${c.n}. ${chapterTitle(c)}**`, "");
   for (const m of roadmap.missables.filter((x) => x.chapter === c.n)) L.push(`- [ ] ⚠ ${m.label} (before: ${m.deadline})`);
   for (const a of c.achievement_ids) L.push(`- [ ] 🏆 ${achById.get(a)?.title ?? a}`);
   for (const p of roadmap.ponr.filter((x) => x.chapter === c.n)) L.push(`- [ ] ⛔ Everything above is done before: ${p.label}`);

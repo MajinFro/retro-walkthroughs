@@ -12,8 +12,9 @@
  *               defaults to Gemini Flash. The agent has tools, so the prompt tells it to use none, and it
  *               runs from an empty temp folder.
  *
- * Backend per tier: RW_LLM_EXTRACT / RW_LLM_WRITE override RW_LLM (e.g. RW_LLM_EXTRACT=agy keeps writing
- * on Claude). Models per tier: RW_MODEL_EXTRACT / RW_MODEL_WRITE, or --model on the calling script.
+ * Backend per tier: RW_LLM_EXTRACT / RW_LLM_WRITE override RW_LLM. Guide extraction defaults to agy when
+ * it is installed and RW_LLM is unset (RA comments stay on Claude: RW_LLM_RA_COMMENTS); writing stays on
+ * Claude. RW_LLM_EXTRACT=claude-cli puts extraction back on Haiku. Models per tier: RW_MODEL_EXTRACT / RW_MODEL_WRITE, or --model on the calling script.
  */
 import { spawn, spawnSync } from "node:child_process";
 import fs from "node:fs";
@@ -34,6 +35,7 @@ export interface LlmRequest {
   tier: Tier;
   maxTokens?: number;
   effort?: "low" | "medium" | "high"; // reasoning effort (claude-cli; anthropic/gemini run without extended thinking)
+  backend?: Backend; // overrides the tier's backend for this request (rw:extract: RA comments stay on Claude)
 }
 
 export interface Usage {
@@ -63,15 +65,31 @@ function hasClaudeCli(): boolean {
   return cliAvailable;
 }
 
-/** The backend for one tier: RW_LLM_EXTRACT / RW_LLM_WRITE, else RW_LLM, else auto-detected. */
+/**
+ * The backend for one tier: RW_LLM_EXTRACT / RW_LLM_WRITE, else RW_LLM, else auto-detected. Guide
+ * extraction defaults to agy (Gemini Flash, no Claude tokens) when the Antigravity CLI is installed:
+ * a StarTropics A/B (2026-10-19) scored 94 vs 97 but read as well or better in a blind chapter
+ * comparison, and saved ~2.4M Claude tokens. Writing stays on Claude.
+ */
 export function backendFor(tier?: Tier): Backend {
   const t = tier && process.env[`RW_LLM_${tier.toUpperCase()}`];
   if (t) {
     if (!(t in DEFAULT_MODELS)) throw new Error(`RW_LLM_${tier!.toUpperCase()} must be one of ${Object.keys(DEFAULT_MODELS).join(", ")} (got "${t}")`);
     return t as Backend;
   }
+  if (tier === "extract" && !process.env.RW_LLM && hasAgy()) return "agy";
   return backend();
 }
+
+/** RA comment batches stay on Claude (RW_LLM_RA_COMMENTS overrides): Flash missed the key warnings there. */
+export function raCommentsBackend(): Backend {
+  const b = process.env.RW_LLM_RA_COMMENTS as Backend | undefined;
+  if (b && !(b in DEFAULT_MODELS)) throw new Error(`RW_LLM_RA_COMMENTS must be one of ${Object.keys(DEFAULT_MODELS).join(", ")} (got "${b}")`);
+  return b ?? backend();
+}
+
+/** The backend one request runs on: its own override, else its tier's. */
+export const backendOf = (req: Pick<LlmRequest, "tier" | "backend">): Backend => req.backend ?? backendFor(req.tier);
 
 export function backend(): Backend {
   const b = process.env.RW_LLM as Backend | undefined;
@@ -85,8 +103,11 @@ export function backend(): Backend {
   throw new Error("No model backend: install the claude CLI, or set ANTHROPIC_API_KEY or GEMINI_API_KEY in .env");
 }
 
-export function modelFor(tier: Tier, override?: string): string {
-  return override ?? process.env[`RW_MODEL_${tier.toUpperCase()}`] ?? DEFAULT_MODELS[backendFor(tier)][tier];
+/** --model and RW_MODEL_<TIER> apply to the tier's backend; a request on another backend gets that backend's default. */
+export function modelFor(tier: Tier, override?: string, on?: Backend): string {
+  const b = on ?? backendFor(tier);
+  if (b !== backendFor(tier)) return DEFAULT_MODELS[b][tier];
+  return override ?? process.env[`RW_MODEL_${tier.toUpperCase()}`] ?? DEFAULT_MODELS[b][tier];
 }
 
 const zero = (): Usage => ({ input: 0, output: 0, cache_read: 0, cache_write: 0 });
@@ -219,6 +240,12 @@ const AGY_PREAMBLE =
   "write or run anything. Everything you need is in this message. Reply with only the output the " +
   "instructions below ask for.\n\n=== INSTRUCTIONS ===\n\n";
 
+let agyAvailable: boolean | undefined;
+function hasAgy(): boolean {
+  if (agyAvailable === undefined) agyAvailable = spawnSync(agyBin(), ["--help"], { encoding: "utf8" }).error === undefined;
+  return agyAvailable;
+}
+
 function agyBin(): string {
   if (process.env.AGY_BIN) return process.env.AGY_BIN;
   const local = path.join(process.env.LOCALAPPDATA ?? "", "agy", "bin", "agy.exe");
@@ -274,7 +301,7 @@ export function defaultConcurrency(): number {
 const RETRYABLE = /rate|overload|429|529|500|502|503|timeout|ECONNRESET|exited null/i;
 
 async function callOnce(req: LlmRequest, model: string): Promise<LlmResult> {
-  const b = backendFor(req.tier);
+  const b = backendOf(req);
   if (b === "claude-cli") return callClaudeCli(req, model);
   if (b === "anthropic") return callAnthropic(req, model);
   if (b === "agy") return callAgy(req, model);
@@ -290,10 +317,10 @@ async function callWithRetry(req: LlmRequest, model: string): Promise<LlmResult>
   return r;
 }
 
-function logUsage(opts: RunOptions, r: LlmResult, model: string, tier: Tier) {
+function logUsage(opts: RunOptions, r: LlmResult, model: string, req: LlmRequest) {
   if (!opts.usageLog) return;
   fs.mkdirSync(path.dirname(opts.usageLog), { recursive: true });
-  const row = { at: new Date().toISOString(), stage: opts.stage, key: r.key, backend: backendFor(tier), model, ...r.usage, error: r.error };
+  const row = { at: new Date().toISOString(), stage: opts.stage, key: r.key, backend: backendOf(req), model, ...r.usage, error: r.error };
   fs.appendFileSync(opts.usageLog, JSON.stringify(row) + "\r\n");
 }
 
@@ -304,7 +331,7 @@ export async function runAll(reqs: LlmRequest[], opts: RunOptions = {}): Promise
     if (backend() !== "anthropic") throw new Error("--batch needs RW_LLM=anthropic (Message Batches API)");
     const results = await runAnthropicBatch(reqs, opts.model);
     for (const [i, r] of results.entries()) {
-      logUsage(opts, r, modelFor(reqs[i].tier, opts.model), reqs[i].tier);
+      logUsage(opts, r, modelFor(reqs[i].tier, opts.model), reqs[i]);
       await opts.onResult?.(r);
     }
     return results;
@@ -314,10 +341,10 @@ export async function runAll(reqs: LlmRequest[], opts: RunOptions = {}): Promise
   const worker = async () => {
     while (next < reqs.length) {
       const i = next++;
-      const model = modelFor(reqs[i].tier, opts.model);
+      const model = modelFor(reqs[i].tier, opts.model, backendOf(reqs[i]));
       const r = await callWithRetry(reqs[i], model);
       results[i] = r;
-      logUsage(opts, r, model, reqs[i].tier);
+      logUsage(opts, r, model, reqs[i]);
       await opts.onResult?.(r);
     }
   };

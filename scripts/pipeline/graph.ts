@@ -43,7 +43,8 @@ export interface Roadmap {
   ponr: { label: string; chapter: number; warning: string; fact_ids: string[] }[];
   /** chapter.counters: how many of each tracked collectible the chapter collects; totals here (e.g. {"Hidden Treasure Boxes": 39}) */
   counter_totals?: Record<string, number>;
-  chapters: { n: number; title: string; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number> }[];
+  /** game_chapter: the game's own chapter number when the roadmap splits or merges the game's chapters */
+  chapters: { n: number; title: string; game_chapter?: number; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number> }[];
   unverifiable_achievement_ids?: number[];
   /**
    * Questions no source answers (e.g. "are in-game codes allowed during the V.Hard run?"). Every packet
@@ -70,7 +71,7 @@ const distinctive = (ws: string[]) => ws.some((w) => !MAP_GENERIC.has(w) && !/^\
  * Registered maps that cover a chapter: the map title contains every word of the chapter title, an area
  * label, or one of that label's 05_aliases.json names (pass `aliases` from loadAliases).
  */
-export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapters"][number], aliases?: Map<string, string>): SourceEntry[] {
+export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapters"][number], aliases?: Map<string, string>, all?: Roadmap["chapters"]): SourceEntry[] {
   const labels = ch.areas.map((a) => g.nodes.find((n) => n.id === a)?.label ?? a.replace(/_/g, " "));
   const names = [ch.title.replace(/^chapter\s+\d+\s*[:.\-]?\s*/i, ""), ...labels];
   if (aliases) {
@@ -78,13 +79,31 @@ export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapt
     for (const [alias, c] of aliases) if (canons.has(c)) names.push(alias);
   }
   const wanted = names.filter((s) => norm(s).length >= 4).map(mapWords).filter(distinctive);
-  const chapterRe = new RegExp(`\\bchapter\\s+${ch.n}\\b`, "i");
+  // "Chapter N" in a map title is the game's chapter, which differs from the roadmap's when chapters are split
+  const gameChapterOf = (c: Roadmap["chapters"][number]) => c.game_chapter ?? Number(c.title.match(/^chapter\s+(\d+)/i)?.[1] ?? c.n);
+  const gameChapter = gameChapterOf(ch);
+  // a game chapter split over several roadmap chapters: each "Chapter N" map belongs to one part, so only
+  // the place-name match below can tell which (pass `all` = roadmap.chapters)
+  const split = (all ?? []).filter((c) => gameChapterOf(c) === gameChapter).length > 1;
+  const chapterRe = split ? null : new RegExp(`\\bchapter\\s*${gameChapter}\\b`, "i");
   return sources.filter((s) => {
     if (s.kind !== "map") return false;
-    if (chapterRe.test(s.title)) return true;
+    if (chapterRe?.test(s.title)) return true;
     const title = new Set(mapWords(s.title));
     return wanted.some((ws) => ws.every((w) => title.has(w)));
   });
+}
+
+/**
+ * A chapter's display title. The assembler writes "Chapter <n>: <title>", so a title that starts with
+ * "Chapter N" is stripped of it (1984 and the 1985 Flash test printed "Chapter 1: Chapter 1: …"), and a
+ * game chapter that the roadmap split or renumbered is named at the end.
+ */
+export function chapterTitle(c: Roadmap["chapters"][number]): string {
+  const m = c.title.match(/^chapter\s+(\d+)\s*[:.\-–—]?\s*/i);
+  const title = m ? c.title.slice(m[0].length) : c.title;
+  const gc = c.game_chapter ?? (m ? Number(m[1]) : undefined);
+  return gc && gc !== c.n ? `${title} (in-game Chapter ${gc})` : title;
 }
 
 /** First URL of a source (some list several pages). */

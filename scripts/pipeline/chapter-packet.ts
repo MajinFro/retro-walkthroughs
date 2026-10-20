@@ -10,7 +10,7 @@
  * The writer must not use anything outside the packet.
  */
 import path from "node:path";
-import { chapterMaps, chapterMermaid, checkpointTotals, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMaps, chapterMermaid, chapterTitle, checkpointTotals, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -91,7 +91,7 @@ if (which === "overview") {
     "## Roadmap (authoritative)", "",
     `- Playthroughs required: **${roadmap.playthroughs}** — ${roadmap.playthrough_notes}`,
     roadmap.settings_notes ? `- Settings: ${roadmap.settings_notes}` : "",
-    ...roadmap.chapters.map((c) => `- Chapter ${c.n}: ${c.title} (${c.achievement_ids.length} achievements)`), "",
+    ...roadmap.chapters.map((c) => `- Chapter ${c.n}: ${chapterTitle(c)} (${c.achievement_ids.length} achievements)`), "",
     ...openQuestions(null),
   );
 } else {
@@ -101,7 +101,7 @@ if (which === "overview") {
     console.error(`Chapter ${which} not in roadmap (1..${roadmap.chapters.length})`);
     process.exit(1);
   }
-  title = `Chapter ${ch.n}: ${ch.title}`;
+  title = `Chapter ${ch.n}: ${chapterTitle(ch)}`;
   outName = chapterFile(ch.n);
   chapterAch = ch.achievement_ids;
   ch.fact_ids.forEach((f) => factIds.add(f));
@@ -128,7 +128,7 @@ if (which === "overview") {
   const next = roadmap.chapters.find((c) => c.n === n + 1);
   lines.push(
     `# Writer packet — ${title}`, "",
-    `Write \`08_chapters/${outName}\`. Previous chapter: ${prev ? `${prev.n}. ${prev.title}` : "(start of game)"}. Next chapter: ${next ? `${next.n}. ${next.title}` : "(end of game)"}.`,
+    `Write \`08_chapters/${outName}\`. Previous chapter: ${prev ? `${prev.n}. ${chapterTitle(prev)}` : "(start of game)"}. Next chapter: ${next ? `${next.n}. ${chapterTitle(next)}` : "(end of game)"}.`,
     ch.notes ? `Planner notes: ${ch.notes}` : "", "",
     "## Areas in this chapter (in order)", "",
     ...ch.areas.map((a) => `- \`${a}\` — ${nodeById.get(a)?.label ?? a}`), "",
@@ -144,7 +144,7 @@ if (which === "overview") {
   if (missables.length) lines.push("## ⚠ Missables in this chapter (each needs a `> [!WARNING]` BEFORE the point it can be missed)", "", ...missables.map((m) => `- ${m.label}${m.achievement_id ? ` (achievement ${m.achievement_id})` : ""} — deadline: ${m.deadline} [${m.fact_ids.join(", ")}]`), "");
   if (ponrs.length) lines.push("## ⛔ Points of no return in this chapter (each needs a `> [!CAUTION]` containing the words \"Point of No Return\"; write no others)", "", ...ponrs.map((p) => `- ${p.label}: ${p.warning} [${p.fact_ids.join(", ")}]`), "");
   else lines.push("## ⛔ Points of no return in this chapter", "", "None. Do not write any \"Point of No Return\" callout. To remind the player to finish an area before moving on, use a `> [!TIP]` (\"Before you leave …\").", "");
-  const maps = chapterMaps(sources, graph, ch, aliases);
+  const maps = chapterMaps(sources, graph, ch, aliases, roadmap.chapters);
   if (maps.length)
     lines.push(
       "## Visual maps for this chapter (link EACH one directly under the heading of the area it shows; `rw:qa` checks every URL)", "",

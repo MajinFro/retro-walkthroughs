@@ -22,6 +22,7 @@ import {
   paths,
   readJson,
   readJsonl,
+  readJsonOr,
   readText,
   requireFile,
   writeText,
@@ -66,6 +67,12 @@ if (exists(P.roadmap)) {
   // Packet richness: chapter packets pull facts whose location matches an area label (via 05_aliases.json).
   // An area label no fact location matches gives the writer a thin packet, so catch it here, before writing.
   const aliases = loadAliases(P.aliases);
+  // A one-word generic alias ("Cave", "Tunnel", "Ruins") folds every fact with that location into one place,
+  // which also makes rw:verify count unrelated facts as corroboration (1985 Flash test: 100 -> 96 verified
+  // once "Tunnel" and "Cave" were removed). Keep one only when the game has exactly one such place.
+  const GENERIC_PLACE = /^(the )?(cave|caves|tunnel|tunnels|dungeon|room|floor|castle|tower|town|village|house|shop|inn|forest|woods|mountain|temple|shrine|island|ship|boss|area|level|stage|world|overworld|basement|cellar|hall|chamber|path|road|field|sea|ocean|lake|river|ruins|mine|mines|maze|bridge|entrance|exit)$/i;
+  const generic = Object.entries(readJsonOr<Record<string, string[]>>(P.aliases, {})).flatMap(([c, l]) => l.filter((v) => GENERIC_PLACE.test(v.trim())).map((v) => `"${v}" -> "${c}"`));
+  if (generic.length) rWarn.push(`05_aliases.json has one-word generic alias(es) that merge every fact with that location: ${generic.join(", ")} — use the guides' specific names, or keep one only if the game has a single such place`);
   const usableFacts = verified.facts.filter((f) => usable.has(f.id));
   const byLoc = new Map<string, number>();
   for (const f of usableFacts) if (f.location) byLoc.set(canon(aliases, f.location), (byLoc.get(canon(aliases, f.location)) ?? 0) + 1);

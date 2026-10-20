@@ -32,6 +32,7 @@ import {
   type SourceEntry,
   readUsedSources,
   saveStateAdvice,
+  layoutProblems,
 } from "./lib.ts";
 
 const id = gameIdArg();
@@ -117,6 +118,7 @@ function audit(file: string, chapterN: number | null) {
 
   // placeholders / leftovers
   if (/\b(TODO|TBD|FIXME)\b|\[INSERT|lorem ipsum/i.test(text)) errors.push(`${tag}: contains placeholder text (TODO/TBD/[INSERT…])`);
+  for (const p of layoutProblems(text, tag === "overview")) warnings.push(`${tag}: ${p}`);
   for (const l of saveStateAdvice(text)) warnings.push(`${tag}: mentions save states (not allowed in hardcore): "${l}"`);
   // writer drafting notes and uncited markers that leak into the published guide
   const drafting = text.match(DRAFTING_RE);
@@ -344,7 +346,7 @@ function audit(file: string, chapterN: number | null) {
   // Map links in chapter
   const mapLinks = text.match(/(?:\[(?:view\s+)?.*?map.*?\]\(https?:\/\/[^\s)]+\)|!\[.*?map.*?\]\(https?:\/\/[^\s)]+\))/gi) || [];
   m.map_links_present += mapLinks.length;
-  if (ch) for (const s of chapterMaps(sources, graph, ch, aliases)) if (!text.includes(sourceUrl(s))) warnings.push(`${tag}: visual map "${s.title}" covers this chapter but is not linked (${sourceUrl(s)})`);
+  if (ch) for (const s of chapterMaps(sources, graph, ch, aliases, roadmap.chapters)) if (!text.includes(sourceUrl(s))) warnings.push(`${tag}: visual map "${s.title}" covers this chapter but is not linked (${sourceUrl(s)})`);
 
   // check depth per area heading
   for (let i = 0; i < lines.length; i++) {
