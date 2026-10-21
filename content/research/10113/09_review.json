@@ -1,0 +1,158 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 80,
+      "description": "Chapter 13 sent the player up a Death Mountain Trail bean plant for Piece of Heart #22, but no chapter ever plants a bean in that soil. Chapter 4 already takes this heart with the backflip over the fence and counted only 2 hearts. Changed the roadmap counters (ch4 Pieces of Heart 3, ch13 1), raised the Piece of Heart checkpoints in chapters 4-12 by one, and changed chapter 13 to point back to Chapter 4."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 57,
+      "description": "Chapter 4 counted 5 Gold Skulltulas but never described Lost Woods #4 and #5 (bug soil), and it called the Kokiri Forest tokens optional. Added a #4/#5 section with directions and rows in the item table and checklist. Removed table rows and a section that duplicated Chapter 1 (Deku Stick upgrade) and Chapter 6 (spinning pot, Goron Bomb Bag, Deku Nut grotto, boulder maze)."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 88,
+      "description": "Chapter 13's 'optional token' blocks listed Skulltulas that Chapters 11, 12, 15, 16 and 21 collect, including child-only Boomerang and bug methods offered to Adult Link. It also raised an unverifiable Zora's Domain tunnel and cut off the Eyeball Frog route mid-way. Replaced them with chapter pointers and a complete 3-step route: Lost Woods, the bean plant, the bridge, Lake Hylia."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 22,
+      "description": "Chapter 19 offered as new items Gerudo Valley tokens (#60-#63) and Pieces of Heart (#11, #14) that were already collected in Chapters 8, 10 and 13, plus extra fortress Skulltulas beyond #90 and #91. It also had a warning saying the valley collectibles were not required. Rewrote the chapter with rw:write --fix --note."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 50,
+      "description": "Chapter 10 listed three things as new that were already done: the Market guardhouse Skulltula (Chapter 2, mislabelled #4), the fenced-grotto Piece of Heart #12 (Chapter 8) and the Forest Stage bug Skulltula #5 (Chapter 4). Relabelled them as already collected."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "minor",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 58,
+      "description": "Chapter 17 offered the castle-ruins gate Skulltula (#21) and Impa's roof Skulltula (#27) again, though Chapter 11 already took both. Marked them as already collected."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 81,
+      "description": "The overview had the King Zora rule backwards ('freezing King Zora before buying the tunic makes him offer a kiss'), which would cost the player Kiss That Frog. Rewrote it to match ra-guide-11-6 and Chapter 12: buy the tunic first, then thaw him."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 122,
+      "description": "The bribe step said to get caught 'inside the garden', but it comes before the courtyard section, and the RA guide says entering the courtyard ends the bribe. Changed it to say: get caught on the castle grounds below the moat, before entering Zelda's courtyard."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/26.md",
+      "line": 20,
+      "description": "The 3-heart file jumped from temple to temple and never said how to get the gear in between (Hookshot, Bolero, Ice Cavern and Iron Boots, Bottom of the Well, Gerudo card, Requiem, Light Arrows). Added a numbered 'Story steps between the temples' list that points to the first-file chapters and repeats the rule to keep Map and Compass chests closed."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/11.md",
+      "line": 41,
+      "description": "The registered Dampe's Race map (DrgNyt) was not linked anywhere. Added it to Dampe's race in Chapter 11 (Hookshot) and Chapter 22 (Ghost Chaser)."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/15.md",
+      "line": 338,
+      "description": "The Volvagia section suggested buying the Giant's Knife, but Chapters 11 and 13 warn against it (a player's Biggoron's Sword achievement failed after buying it), and the player already has the Biggoron's Sword. Changed it to the Biggoron's Sword follow-up and added the warning."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "missables",
+      "status": "fixed",
+      "file": "07_roadmap.json",
+      "line": 0,
+      "description": "Two sourced missables were not in the roadmap: Mischievous Hero (reset between hooking and sinking the hat) and Plenty of Hearts (Dampe's dug-up heart left behind, Chapter 3). Added both. Chapter 22's after-the-fact Dampe warning is now a check note. Relabelled Chapter 4's early heads-up callouts so they no longer claim to be missables of that chapter."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 76,
+      "description": "Bunches of Twigs gave two conflicting directions to the Deku Stick scrub ('two lefts, drop down' and 'past the Skull Kid room, far end of the bridge room'). Kept the gf1 route: the left log, then the left-corner log, ignore the raised logs, drop into the valley."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/12.md",
+      "line": 60,
+      "description": "The waterfall-top Skulltula (#47) was marked optional in Chapter 12 but counted in Chapter 21. Added a note that it is counted in Chapter 21."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/20.md",
+      "line": 135,
+      "description": "The Temple of Time switch back to Adult Link was one sentence (QA warning). Expanded it to numbered steps: Prelude of Light, pedestal, Requiem of Spirit."
+    },
+    {
+      "id": "ISS-16",
+      "severity": "minor",
+      "category": "layout",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 142,
+      "description": "Removed drafting language: 'The ra-guide advice' (ch5), 'in the roadmap order' (ch6), 'This chapter's roadmap' (ch8) and 'route advice from this guide's plan, not a source claim' (ch25)."
+    },
+    {
+      "id": "ISS-17",
+      "severity": "minor",
+      "category": "missables",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 6,
+      "description": "Chapter 13 repeated the Deku upgrade lockout in a tip, a Missable warning and the Point of No Return. Merged them into one tip that says how to recover (return the Master Sword, then follow Chapter 6 or 10) before the saw."
+    }
+  ]
+}

@@ -1,0 +1,1914 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Action-Adventure",
+    "categories": [
+      {
+        "name": "Gold Skulltulas",
+        "description": "All 100 Gold Skulltula tokens and every House of Skulltula reward.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Pieces of Heart and Heart Containers",
+        "description": "All 36 Pieces of Heart and 8 boss Heart Containers for 20 hearts.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Maps, Compasses & Boss Keys",
+        "description": "All 26 dungeon Maps, Compasses and Boss Keys (Cartographer).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Songs, equipment and upgrades",
+        "description": "All 12 songs, the four Bottles, Biggoron's Sword, Great Fairy magic and the defense upgrade, wallet, quiver, bomb, seed, stick and nut upgrades.",
+        "tracked_per_chapter": false
+      },
+      {
+        "name": "Side quests and minigames",
+        "description": "Happy Mask and adult trading quests, Big Poes, fishing, archery, races, frogs and the 32 Gossip Stones.",
+        "tracked_per_chapter": false
+      }
+    ],
+    "chapter_checkpoints": [
+      "Gold Skulltulas",
+      "Pieces of Heart",
+      "Heart Containers",
+      "Maps, Compasses & Boss Keys"
+    ]
+  },
+  "playthroughs": 2,
+  "playthrough_notes": "Two save files, as the RA guide recommends. File 1 (chapters 1-24) is the 100% run: every collectible, Cartographer (every Map, Compass and Boss Key) and every non-3-heart achievement, ending with Ganon. File 2 (chapters 25-27) is the 3-heart run for the nine 3-heart boss achievements and Blind Explorer, which forbids Maps, Compasses and any heart upgrade. Cartographer and Blind Explorer are mutually exclusive on one file, and Plenty of Hearts needs all 20 hearts, so they cannot share a file.",
+  "settings_notes": "Hardcore Mode recommended; difficulty does not affect the set. Set Z-targeting to Hold for the boss challenges. Save before every missable boss and reset on failure; saving inside a dungeon restarts you at its entrance.",
+  "fact_ids": [
+    "ra-comments-141-6",
+    "ra-comments-1-1",
+    "ra-guide-20-2",
+    "ra-comments-121-2"
+  ],
+  "counter_totals": {
+    "Gold Skulltulas": 100,
+    "Pieces of Heart": 36,
+    "Heart Containers": 8,
+    "Maps, Compasses & Boss Keys": 26
+  },
+  "missables": [
+    {
+      "achievement_id": 48057,
+      "label": "Spider Net (Queen Gohma in one rotation)",
+      "deadline": "During the Queen Gohma fight; the boss cannot be refought",
+      "chapter": 1,
+      "fact_ids": [
+        "gf1-32-3",
+        "gf3-14-3",
+        "ra-comments-5-1",
+        "ra-comments-5-2"
+      ]
+    },
+    {
+      "achievement_id": 48160,
+      "label": "Money Solves Everything (bribe the castle guard)",
+      "deadline": "Before Zelda is taken / the courtyard closes after the three Spiritual Stones; do it before meeting Zelda",
+      "chapter": 2,
+      "fact_ids": [
+        "gf2-32-3",
+        "ra-comments-56-1",
+        "ra-comments-56-2"
+      ]
+    },
+    {
+      "achievement_id": 48161,
+      "label": "Troublemaker (shoot the left courtyard window)",
+      "deadline": "Before Zelda leaves the courtyard (after the third Spiritual Stone)",
+      "chapter": 2,
+      "fact_ids": [
+        "gf1-173-4",
+        "ra-guide-5-4",
+        "ra-comments-58-1",
+        "ra-comments-58-2"
+      ]
+    },
+    {
+      "achievement_id": 48226,
+      "label": "Shield Raider (free Hylian Shield in the Graveyard)",
+      "deadline": "Before buying a Hylian Shield at the Bazaar",
+      "chapter": 3,
+      "fact_ids": [
+        "checklist-sidequests-9-3",
+        "gf1-401-2",
+        "ra-comments-64-1",
+        "ra-comments-64-2"
+      ]
+    },
+    {
+      "achievement_id": 48277,
+      "label": "Bombalicious (King Dodongo before he breathes fire, no bag bombs)",
+      "deadline": "During the King Dodongo fight",
+      "chapter": 5,
+      "fact_ids": [
+        "gf1-82-4",
+        "gf1-82-5",
+        "ra-comments-14-1",
+        "ra-comments-14-2"
+      ]
+    },
+    {
+      "achievement_id": 48279,
+      "label": "Walking on a Tightrope (boulder-room chest)",
+      "deadline": "Before the three boulders at the Goron City boulder-room entrance are destroyed",
+      "chapter": 6,
+      "fact_ids": [
+        "checklist-skulltulas-7-5",
+        "gf1-85-1",
+        "ra-comments-68-1",
+        "ra-comments-68-2"
+      ]
+    },
+    {
+      "achievement_id": 48345,
+      "label": "Stocking Nuts (Deku Nut upgrade in the Lost Woods grotto)",
+      "deadline": "Before the adult Poacher's Saw (chapter 13)",
+      "chapter": 6,
+      "fact_ids": [
+        "gf2-33-3",
+        "ra-guide-8-7",
+        "ra-comments-73-1",
+        "ra-comments-73-2"
+      ]
+    },
+    {
+      "achievement_id": 48417,
+      "label": "Rolling Thunder (Barinade without a hit)",
+      "deadline": "During the Barinade fight",
+      "chapter": 9,
+      "fact_ids": [
+        "gf1-115-3",
+        "gf1-115-4",
+        "ra-comments-17-1",
+        "ra-comments-17-2"
+      ]
+    },
+    {
+      "achievement_id": 49188,
+      "label": "A Horrible Face (Mask of Truth Deku Nut upgrade)",
+      "deadline": "Before obtaining the Poacher's Saw in the adult trading quest",
+      "chapter": 10,
+      "fact_ids": [
+        "gf1-125-3",
+        "gf3-38-4",
+        "ra-comments-44-1",
+        "ra-comments-44-2"
+      ]
+    },
+    {
+      "achievement_id": 48513,
+      "label": "Last Breath (dying guard in the back alley)",
+      "deadline": "After Zelda's escape but before the Temple of Time cutscene",
+      "chapter": 10,
+      "fact_ids": [
+        "checklist-sidequests-15-1",
+        "ra-comments-78-1",
+        "ra-comments-78-2"
+      ]
+    },
+    {
+      "achievement_id": 48942,
+      "label": "Kiss That Frog (King Zora's kiss)",
+      "deadline": "Thaw King Zora only after buying and wearing a Zora Tunic; thawing him without one gives the tunic instead",
+      "chapter": 12,
+      "fact_ids": [
+        "checklist-sidequests-18-12",
+        "ra-comments-37-1",
+        "ra-comments-37-3"
+      ]
+    },
+    {
+      "achievement_id": 48818,
+      "label": "Drunken Master (Phantom Ganon with Bow and Bottle)",
+      "deadline": "During the Phantom Ganon fight",
+      "chapter": 14,
+      "fact_ids": [
+        "ra-guide-12-4",
+        "ra-guide-12-5",
+        "ra-comments-26-1",
+        "ra-comments-26-2"
+      ]
+    },
+    {
+      "achievement_id": 48914,
+      "label": "Hot Hot Hot (Volvagia without the Goron Tunic)",
+      "deadline": "During the Volvagia fight",
+      "chapter": 15,
+      "fact_ids": [
+        "gf3-59-1",
+        "gf4-23-3",
+        "ra-comments-32-1",
+        "ra-comments-32-2"
+      ]
+    },
+    {
+      "achievement_id": 48946,
+      "label": "Day of the Tentacles (Morpha, no water, no grab)",
+      "deadline": "During the Morpha fight",
+      "chapter": 16,
+      "fact_ids": [
+        "gf1-240-3",
+        "gf1-240-4",
+        "ra-comments-38-1",
+        "ra-comments-38-2"
+      ]
+    },
+    {
+      "achievement_id": 49018,
+      "label": "Invisible One (Bongo Bongo without the Lens)",
+      "deadline": "During the Bongo Bongo fight",
+      "chapter": 18,
+      "fact_ids": [
+        "gf4-29-2",
+        "ra-guide-15-2",
+        "ra-comments-40-1",
+        "ra-comments-40-2"
+      ]
+    },
+    {
+      "achievement_id": 49261,
+      "label": "Twins of Evil (Twinrova without falling)",
+      "deadline": "During the Twinrova fight",
+      "chapter": 20,
+      "fact_ids": [
+        "gf1-322-1",
+        "gf1-322-2",
+        "ra-comments-46-1",
+        "ra-comments-46-2"
+      ]
+    },
+    {
+      "achievement_id": 49287,
+      "label": "Plenty of Hearts (Dampe's dug-up Piece of Heart)",
+      "deadline": "Pick up the Piece of Heart Dampe digs up before leaving the Graveyard",
+      "chapter": 3,
+      "fact_ids": [
+        "checklist-sidequests-17-4",
+        "gf1-121-2",
+        "ra-comments-101-1",
+        "ra-comments-101-2"
+      ]
+    },
+    {
+      "achievement_id": 49294,
+      "label": "Cartographer (every Map, Compass and Boss Key)",
+      "deadline": "Before beating Ganon on the first file",
+      "chapter": 24,
+      "fact_ids": [
+        "gf1-110-3",
+        "gf1-187-2",
+        "ra-comments-3-4",
+        "ra-comments-121-1"
+      ]
+    },
+    {
+      "achievement_id": 48918,
+      "label": "Dangerously Delicious (3-heart King Dodongo, no damage)",
+      "deadline": "During King Dodongo on the 3-heart file",
+      "chapter": 25,
+      "fact_ids": [
+        "gf1-82-4",
+        "gf1-82-5",
+        "ra-comments-125-1",
+        "ra-comments-125-2"
+      ]
+    },
+    {
+      "achievement_id": 48916,
+      "label": "Race Against the Clock (3-heart Barinade under 1:51)",
+      "deadline": "During Barinade on the 3-heart file",
+      "chapter": 25,
+      "fact_ids": [
+        "gf1-115-3",
+        "gf1-115-4",
+        "ra-comments-4-2",
+        "ra-comments-4-3"
+      ]
+    },
+    {
+      "achievement_id": 48917,
+      "label": "Dodgeball (3-heart Phantom Ganon, no healing)",
+      "deadline": "During Phantom Ganon on the 3-heart file",
+      "chapter": 26,
+      "fact_ids": [
+        "ra-comments-132-1",
+        "ra-comments-132-2"
+      ]
+    },
+    {
+      "achievement_id": 48913,
+      "label": "Whac-A-Mole (3-heart Volvagia, Hammer only)",
+      "deadline": "During Volvagia on the 3-heart file",
+      "chapter": 26,
+      "fact_ids": [
+        "gf3-59-1",
+        "gf4-23-3",
+        "ra-comments-133-1",
+        "ra-comments-133-2"
+      ]
+    },
+    {
+      "achievement_id": 48948,
+      "label": "Tentacles of the Deep (3-heart Morpha, no damage)",
+      "deadline": "During Morpha on the 3-heart file",
+      "chapter": 26,
+      "fact_ids": [
+        "gf1-240-3",
+        "gf1-240-4",
+        "ra-comments-135-1",
+        "ra-comments-135-2"
+      ]
+    },
+    {
+      "achievement_id": 49020,
+      "label": "Invisible Stalker (3-heart Bongo Bongo, no Lens)",
+      "deadline": "During Bongo Bongo on the 3-heart file",
+      "chapter": 26,
+      "fact_ids": [
+        "gf4-29-2",
+        "gf3-73-1",
+        "ra-comments-136-1",
+        "ra-comments-136-2"
+      ]
+    },
+    {
+      "achievement_id": 49262,
+      "label": "Double Trouble (3-heart Twinrova, sword and Mirror Shield)",
+      "deadline": "During Twinrova on the 3-heart file",
+      "chapter": 26,
+      "fact_ids": [
+        "gf2-96-1",
+        "gf2-96-2",
+        "ra-comments-138-1",
+        "ra-comments-138-2"
+      ]
+    },
+    {
+      "achievement_id": 49292,
+      "label": "Dark Lord (3-heart Ganon without a hit)",
+      "deadline": "During Ganon on the 3-heart file",
+      "chapter": 27,
+      "fact_ids": [
+        "gf3-91-1",
+        "ra-comments-139-1",
+        "ra-comments-139-2"
+      ]
+    },
+    {
+      "achievement_id": 49293,
+      "label": "Blind Explorer (no Map or Compass, 3 hearts)",
+      "deadline": "The whole second file: any Map, Compass or heart upgrade ruins it",
+      "chapter": 27,
+      "fact_ids": [
+        "ra-comments-141-1",
+        "ra-comments-141-2"
+      ]
+    },
+    {
+      "achievement_id": 48944,
+      "label": "Mischievous Hero (sink the pond owner's hat)",
+      "deadline": "Between hooking the owner's hat and letting it sink: a save-and-quit or reset in between leaves him hatless without the achievement",
+      "chapter": 22,
+      "fact_ids": [
+        "ra-comments-113-7",
+        "ra-comments-113-8",
+        "ra-comments-3-9"
+      ]
+    },
+    {
+      "achievement_id": 49287,
+      "label": "Plenty of Hearts (Dampe's gravedigging Piece of Heart)",
+      "deadline": "Pick up the Piece of Heart Dampe digs up before leaving the Graveyard; left behind, it becomes 50 rupees for good",
+      "chapter": 3,
+      "fact_ids": [
+        "ra-guide-20-1",
+        "ra-comments-101-1"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Drawing the Master Sword",
+      "chapter": 10,
+      "warning": "After the Temple of Time cutscene the dying guard (Last Breath) is gone, and with three Spiritual Stones Zelda's courtyard (Troublemaker, bribe) is closed. Finish both, the Happy Mask quest and the Mask of Truth Deku upgrade first.",
+      "fact_ids": [
+        "ra-guide-10-4",
+        "ra-guide-5-4",
+        "ra-comments-58-3"
+      ]
+    },
+    {
+      "label": "Poacher's Saw",
+      "chapter": 13,
+      "warning": "Taking the Poacher's Saw makes the Lost Woods Deku upgrades unobtainable (A Horrible Face, Stocking Nuts).",
+      "fact_ids": [
+        "ra-comments-44-3",
+        "ra-comments-73-2"
+      ]
+    },
+    {
+      "label": "Ganon's Tower",
+      "chapter": 24,
+      "warning": "Beating Ganon ends the first file. Cartographer is checked on completion, so every Map, Compass and Boss Key must be in hand; finish every other first-file achievement before climbing the tower.",
+      "fact_ids": [
+        "ra-comments-121-3",
+        "gf1-345-1"
+      ]
+    },
+    {
+      "label": "Starting the 3-heart file",
+      "chapter": 25,
+      "warning": "The 3-heart achievements and Blind Explorer need a new save file; a single Map, Compass or heart upgrade picked up there cannot be undone by resetting.",
+      "fact_ids": [
+        "ra-comments-141-6",
+        "ra-comments-141-7"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Kokiri Forest and Inside the Deku Tree",
+      "areas": [
+        "Kokiri_Forest",
+        "Lost_Woods",
+        "Inside_Deku_Tree"
+      ],
+      "achievement_ids": [
+        48255,
+        48057,
+        48074
+      ],
+      "fact_ids": [
+        "gf2-133-1",
+        "gf2-159-2",
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "gf1-27-5",
+        "gf1-383-1",
+        "gf2-11-2",
+        "gf1-32-3",
+        "gf2-118-1",
+        "gf1-32-6",
+        "gf1-421-1",
+        "gf2-20-3",
+        "ra-guide-4-1",
+        "gf1-126-3",
+        "ra-comments-63-1",
+        "gf3-14-3",
+        "gf3-258-2",
+        "ra-comments-5-1",
+        "ra-comments-5-2",
+        "gf2-12-2",
+        "ra-comments-10-1",
+        "ra-comments-10-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 3,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 2
+      },
+      "notes": "Get the Kokiri Sword and Deku Shield so Mido lets you pass. Before the dungeon, buy the Deku Stick upgrade from the Business Scrub in the Lost Woods for 40 Rupees (Bunches of Twigs). Inside the Deku Tree: 1F/2F (Slingshot, Compass room Skulltula #8), B1 (Skulltulas #9 and #10 in the first wet room; #11 behind the bombable wall needs Bombs and the Boomerang and is left for chapter 10), B2 boss room. Take the Map and the Compass (Cartographer). Spider Net is missable: kill Queen Gohma in one rotation before she climbs back to the ceiling (Slingshot to the eye, Deku Stick jump slash, then stick slashes); save before the boss door and reset on failure. Gold Skulltulas here: #8, #9, #10."
+    },
+    {
+      "n": 2,
+      "title": "Hyrule Castle Town and Princess Zelda",
+      "areas": [
+        "Hyrule_Field",
+        "Hyrule_Market",
+        "Hyrule_Castle"
+      ],
+      "achievement_ids": [
+        48106,
+        48160,
+        48108,
+        48161,
+        48109,
+        48107
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-12",
+        "gf1-377-2",
+        "checklist-heartpieces-3-4",
+        "checklist-sidequests-2-1",
+        "gf1-173-4",
+        "gf1-39-2",
+        "ra-guide-5-4",
+        "gf1-39-1",
+        "gf1-39-4",
+        "gf1-58-2",
+        "gf1-40-1",
+        "gf2-16-3",
+        "gf2-13-2",
+        "checklist-sidequests-8-3",
+        "gf1-36-1",
+        "ra-comments-54-1",
+        "ra-comments-54-2",
+        "gf2-32-3",
+        "ra-comments-56-1",
+        "ra-comments-56-2",
+        "gf2-15-4",
+        "gf3-17-2",
+        "gf4-6-6",
+        "ra-comments-11-1",
+        "ra-comments-11-2",
+        "ra-comments-58-1",
+        "ra-comments-58-2",
+        "gf1-39-3",
+        "gf3-17-4",
+        "ra-guide-5-5",
+        "gf2-14-1",
+        "ra-comments-55-1",
+        "ra-comments-55-2",
+        "gf3-17-3"
+      ],
+      "counters": {
+        "Gold Skulltulas": 2,
+        "Pieces of Heart": 1
+      },
+      "notes": "Order matters. 1) Shooting Gallery in the Market as Young Link (Sniper Fury; 20 Rupees). 2) Talk to Malon in the Market, wait for night at the castle grounds and get the Weird Egg; let it hatch at dawn and wake Talon (Rise and Shine!!). 3) Money Solves Everything is missable: before reaching Zelda, talk to the gate guard, get caught in the courtyard, leave, come back and pay the bribe (see open question). 4) Troublemaker is missable: in Zelda's courtyard, shoot the LEFT window with the Slingshot before you talk to Zelda (the right window only gives a Red Rupee). 5) Talk to Zelda (A Royal Autograph), get Zelda's Letter and learn Zelda's Lullaby from Impa. At night in the Market back alley, lead the white dog to its owner (Who Let the Dogs Out, Piece of Heart). Do NOT buy the Hylian Shield at the Bazaar (Shield Raider, chapter 3). Gold Skulltulas: #18 (Market guardhouse) and #19 (tree outside the castle gate)."
+    },
+    {
+      "n": 3,
+      "title": "Kakariko Village, the Graveyard and Lon Lon Ranch",
+      "areas": [
+        "Kakariko_Village",
+        "Kakariko_Graveyard",
+        "Lon_Lon_Ranch",
+        "House_of_Skulltula"
+      ],
+      "achievement_ids": [
+        48226,
+        48241,
+        48242,
+        48113,
+        48162,
+        48243
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7",
+        "checklist-sidequests-13-11",
+        "checklist-sidequests-15-6",
+        "gf1-120-1",
+        "gf2-150-3",
+        "checklist-sidequests-9-2",
+        "checklist-sidequests-9-15",
+        "gf1-353-2",
+        "checklist-sidequests-9-9",
+        "checklist-sidequests-25-12",
+        "checklist-sidequests-9-3",
+        "gf1-401-2",
+        "gf1-54-3",
+        "ra-comments-64-1",
+        "ra-comments-64-2",
+        "gf2-22-4",
+        "gf3-117-5",
+        "ra-guide-6-2",
+        "ra-comments-66-1",
+        "ra-comments-66-2",
+        "gf3-117-1",
+        "gf4-6-11",
+        "checklist-sidequests-9-16",
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "gf3-234-2",
+        "gf1-43-2",
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "checklist-sidequests-9-11",
+        "checklist-skulltulas-2-2",
+        "gf1-419-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 8,
+        "Pieces of Heart": 3
+      },
+      "notes": "Kakariko as Young Link: Anju's seven Cuccos give the first Bottle (Catch Me If You Can); hit a Cucco until the flock attacks (Cuccos' Revenge, child only). Show Zelda's Letter to the Death Mountain gate guard; this opens the Happy Mask Shop (borrow the Keaton Mask and sell it to that guard whenever convenient). Graveyard at night: pull the gravestone with flowers in front for the free Hylian Shield (Shield Raider; missable if you buy one first). Learn the Sun's Song in the Royal Family's Tomb (Zelda's Lullaby), then the ReDead tomb Piece of Heart (#7). Dampe's grave-digging tour at night: if he digs up the Piece of Heart, pick it up before leaving or it is lost for good. Lon Lon Ranch: crawlspace Piece of Heart (#3), learn Epona's Song from Malon, Talon's Super Cucco game for the second Bottle (Super Cucco Catching), then play Epona's Song to a cow with an empty Bottle (You Make Me Feel So Good). Gold Skulltulas: LLR #14, #15 (night); Kakariko #22-#26 (night); Graveyard #29 (bugs). Claim the 10-token reward (A Man's Best Friend, Adult's Wallet) at the House of Skulltula: 13 tokens by now."
+    },
+    {
+      "n": 4,
+      "title": "Lost Woods, Sacred Forest Meadow and Goron City",
+      "areas": [
+        "Lost_Woods",
+        "Sacred_Forest_Meadow",
+        "Death_Mountain_Trail",
+        "Goron_City",
+        "Kokiri_Forest"
+      ],
+      "achievement_ids": [
+        48224,
+        48225,
+        48249
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "gf1-395-1",
+        "gf1-456-1",
+        "gf1-359-1",
+        "gf1-400-2",
+        "checklist-heartpieces-3-10",
+        "checklist-sidequests-2-8",
+        "gf2-133-1",
+        "gf2-159-2",
+        "ra-guide-6-4",
+        "gf1-393-1",
+        "checklist-sidequests-9-25",
+        "gf1-63-3",
+        "gf1-46-1",
+        "checklist-sidequests-9-20",
+        "gf1-406-1",
+        "ra-guide-6-5",
+        "gf4-7-7",
+        "checklist-sidequests-9-21",
+        "ra-guide-6-6",
+        "gf2-24-1",
+        "ra-comments-13-1",
+        "ra-comments-13-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 5,
+        "Pieces of Heart": 3
+      },
+      "notes": "Lost Woods: hit the target three times in a row for 100 points with the Slingshot (Bullseye!!, Bullet Bag); win the Skull Kids' ocarina memory game (You Can Be a Star, Piece of Heart #2). Reach Saria in the Sacred Forest Meadow for Saria's Song, then play it to the Skull Kid on the stump (Piece of Heart #1). Go up Death Mountain Trail to Goron City and play Saria's Song to Darunia for the Goron's Bracelet (Dance Into the Fire). In Goron City do NOT destroy the three boulders blocking the boulder-room entrance on the top floor (Walking on a Tightrope, chapter 6). Gold Skulltulas: Kokiri Forest #1 (night) and #2 (bugs), Lost Woods #4 and #5 (bugs), Death Mountain Trail #30 (bugs at the soft soil by Dodongo's Cavern). Piece of Heart #22: backflip over the fence from the Bomb Flower alcove onto the cliff above Dodongo's Cavern (no bean needed)."
+    },
+    {
+      "n": 5,
+      "title": "Dodongo's Cavern",
+      "areas": [
+        "Dodongos_Cavern"
+      ],
+      "achievement_ids": [
+        48277,
+        48278
+      ],
+      "fact_ids": [
+        "gf1-485-1",
+        "gf1-485-2",
+        "gf1-78-2",
+        "gf1-409-2",
+        "gf1-518-3",
+        "gf1-518-4",
+        "gf3-25-5",
+        "gf1-82-8",
+        "gf1-82-4",
+        "gf1-82-5",
+        "gf1-82-6",
+        "ra-comments-14-1",
+        "ra-comments-14-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 4,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 2
+      },
+      "notes": "Open the entrance with a Bomb Flower thrown from the cliff. Floor by floor: 1F main chamber, the side rooms (Skulltulas #38 and #40), the 2F ledges (Skulltulas #39 and #41), the Blade Trap room with the Bomb Bag chest, then the Pit and the boss. Take the Map and Compass. Bombalicious is missable: kill King Dodongo before he breathes fire, using only Bomb Flowers from the arena (no bombs from your bag): flower into his mouth, Deku Stick jump attack, repeat; the Slingshot cancels his fire breath. Save before the boss door and reset on failure. Darunia gives the Goron's Ruby (Soul Brothers). Skulltula #42 needs the adult Hookshot and Scarecrow's Song (chapter 21)."
+    },
+    {
+      "n": 6,
+      "title": "Death Mountain Summit, Goron City and Castle Town with Bombs",
+      "areas": [
+        "Death_Mountain_Trail",
+        "Goron_City",
+        "Death_Mountain_Crater",
+        "Kakariko_Village",
+        "Hyrule_Market",
+        "Hyrule_Castle",
+        "Lost_Woods"
+      ],
+      "achievement_ids": [
+        48341,
+        48279,
+        48336,
+        48342,
+        48343,
+        48344,
+        48345,
+        48423,
+        48244
+      ],
+      "fact_ids": [
+        "gf1-359-1",
+        "gf1-400-2",
+        "checklist-heartpieces-3-10",
+        "checklist-sidequests-2-8",
+        "checklist-heartpieces-4-11",
+        "checklist-heartpieces-4-12",
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "checklist-heartpieces-3-4",
+        "checklist-sidequests-2-1",
+        "gf1-173-4",
+        "gf1-39-2",
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "gf1-90-2",
+        "gf4-11-4",
+        "gf1-349-2",
+        "gf2-47-7",
+        "gf1-415-3",
+        "checklist-sidequests-10-5",
+        "gf1-87-1",
+        "ra-guide-8-1",
+        "checklist-skulltulas-7-5",
+        "gf1-85-1",
+        "ra-comments-68-1",
+        "ra-comments-68-2",
+        "gf1-85-3",
+        "checklist-sidequests-14-4",
+        "gf1-409-1",
+        "ra-comments-67-1",
+        "ra-comments-67-2",
+        "gf3-128-1",
+        "checklist-heartpieces-3-15",
+        "checklist-sidequests-10-7",
+        "ra-comments-70-1",
+        "ra-comments-70-2",
+        "gf1-168-1",
+        "gf1-91-4",
+        "gf2-155-11",
+        "ra-comments-71-1",
+        "ra-comments-71-2",
+        "gf1-384-2",
+        "gf2-154-3",
+        "ra-comments-72-1",
+        "ra-guide-8-6",
+        "gf2-33-3",
+        "ra-guide-8-7",
+        "checklist-sidequests-14-2",
+        "ra-comments-73-1",
+        "ra-comments-73-2",
+        "checklist-sidequests-9-23",
+        "gf2-133-11",
+        "gf3-116-3",
+        "ra-comments-77-1",
+        "ra-comments-77-2",
+        "checklist-sidequests-10-12",
+        "checklist-skulltulas-2-3",
+        "gf1-420-3",
+        "ra-guide-10-5",
+        "ra-comments-68-3"
+      ],
+      "counters": {
+        "Gold Skulltulas": 3,
+        "Pieces of Heart": 3
+      },
+      "notes": "With Bombs: bomb the summit wall of Death Mountain Trail for the Great Fairy (You Spin Me Round), then ride the owl to Kakariko and take the Piece of Heart next to the cow in Impa's house (#8). Goron City: cross the top-floor tightrope and open a chest in the boulder room WITHOUT destroying the entrance blockade (Walking on a Tightrope, missable; you may jump past the side of the rocks); stop the rolling Goron with a bomb (Roll Roll and Away); light the torches with a Deku Stick and bomb the spinning urn (Piece of Heart #10). Castle Town: Bombchu Bowling for Bombchus (Mouse Ka-Boom), the Bomb Bag upgrade (Bombchu Bowling Star) and the Piece of Heart (#9); Din's Fire from the Great Fairy behind the boulder near Hyrule Castle (On Fire). Happy Mask quest: after the Keaton Mask is sold, borrow the Skull Mask, wear it on the Forest Stage in the Lost Woods for the Deku Stick upgrade (A Pretty Face), then sell it to the Skull Kid. Bomb the rock before the Sacred Forest Meadow and buy the Deku Nut upgrade in the grotto (Stocking Nuts). Both Lost Woods upgrades must come before the adult Poacher's Saw (chapter 13). Gold Skulltulas: #31 (bombable wall low on Death Mountain Trail), #34 (Goron City boulder maze), #36 (Death Mountain Crater, child). With 25 tokens, claim the 20-token reward (Secrets Detector)."
+    },
+    {
+      "n": 7,
+      "title": "Zora's River and Zora's Domain",
+      "areas": [
+        "Zoras_River",
+        "Zoras_Domain"
+      ],
+      "achievement_ids": [
+        48346,
+        48347
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-4-1",
+        "checklist-heartpieces-4-2",
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15",
+        "checklist-heartpieces-4-6",
+        "checklist-heartpieces-4-7",
+        "gf1-97-2",
+        "gf2-106-2",
+        "checklist-sidequests-10-10",
+        "gf1-385-2",
+        "gf1-514-1",
+        "ra-guide-8-9"
+      ],
+      "counters": {
+        "Gold Skulltulas": 2,
+        "Pieces of Heart": 3
+      },
+      "notes": "Bomb the boulders at the start of Zora's River and buy a Magic Bean from the salesman (Magic Beans); buy more later to plant at every soft soil patch the route uses (Lake Hylia lab, Graveyard, Death Mountain Trail, Death Mountain Crater, Lost Woods, Desert Colossus). Use the Cuccos for the two Zora's River Pieces of Heart (#15, #16). Play Zelda's Lullaby at the waterfall to enter Zora's Domain. Win the Diving Game for the Silver Scale (The Way the World Learns to Dive). Light all the Zora's Domain torches with a Deku Stick for the Piece of Heart (#17). Gold Skulltulas: #43 and #44 (night, Bombs)."
+    },
+    {
+      "n": 8,
+      "title": "Lake Hylia, the Fishing Pond and Gerudo Valley",
+      "areas": [
+        "Lake_Hylia",
+        "Fishing_Pond",
+        "Gerudo_Valley",
+        "Hyrule_Field"
+      ],
+      "achievement_ids": [
+        48348
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2",
+        "checklist-heartpieces-3-13",
+        "checklist-heartpieces-6-4",
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18",
+        "checklist-heartpieces-3-12",
+        "gf1-377-2",
+        "checklist-sidequests-11-7",
+        "gf1-98-1",
+        "gf2-107-1",
+        "gf2-146-14",
+        "gf1-398-2",
+        "gf1-445-1",
+        "gf2-37-3",
+        "ra-comments-111-1",
+        "ra-comments-111-2",
+        "gf1-398-1",
+        "gf3-235-1"
+      ],
+      "counters": {
+        "Gold Skulltulas": 3,
+        "Pieces of Heart": 4
+      },
+      "notes": "Dive through the underwater tunnel in Zora's Domain to Lake Hylia and pick up the Bottle with Ruto's Letter (third Bottle). Fishing Pond as Young Link: catch a fish of at least 10 pounds (Fishing Lessons, Piece of Heart #13); the Hylian Loach does not count for this one. Compose an eight-note song for the scarecrow Bonooru and write it down: the adult half of Pierre the Wanderer (chapter 16) needs the same song. Plant a Magic Bean by the Lakeside Laboratory. Gerudo Valley as a child: the two Cucco-glide Pieces of Heart (#11 behind the waterfall, #14 on the far cliff), then ride the river to Lake Hylia and bomb the fenced grotto in Hyrule Field for the Business Scrub Piece of Heart (#12). Gold Skulltulas: Lake Hylia #51 (night) and #52 (bugs), Gerudo Valley #60 (bugs). 30 tokens by now."
+    },
+    {
+      "n": 9,
+      "title": "Zora's Fountain and Inside Jabu-Jabu's Belly",
+      "areas": [
+        "Zoras_Domain",
+        "Zoras_Fountain",
+        "Inside_Jabu"
+      ],
+      "achievement_ids": [
+        48416,
+        48418,
+        48417
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15",
+        "checklist-heartpieces-4-13",
+        "checklist-heartpieces-4-15",
+        "gf1-109-2",
+        "gf1-113-4",
+        "gf1-115-3",
+        "gf1-115-4",
+        "gf2-135-20",
+        "gf2-161-6",
+        "gf1-90-2",
+        "gf4-11-4",
+        "gf1-386-1",
+        "gf2-154-5",
+        "gf3-150-2",
+        "ra-comments-76-1",
+        "ra-guide-8-10",
+        "gf4-13-2",
+        "gf1-115-7",
+        "gf1-421-3",
+        "ra-guide-9-4",
+        "gf1-115-5",
+        "ra-comments-17-1",
+        "ra-comments-17-2",
+        "gf1-102-2",
+        "ra-comments-121-6"
+      ],
+      "counters": {
+        "Gold Skulltulas": 6,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 2
+      },
+      "notes": "Give Ruto's Letter to King Zora, catch a fish in the emptied Bottle and walk into Zora's Fountain. Bomb the wall near the silver rock behind Jabu-Jabu for the Great Fairy (Take Me Away, Farore's Wind). Feed Jabu-Jabu the fish. Inside: B1 (Skulltulas #56-#58), the Stinger room (Boomerang), 1F before the boss (#59). Get the Map while Ruto is still with you (a commenter says it cannot be reached normally without her) and the Compass. Rolling Thunder is missable: beat Barinade without taking a hit; set Z-targeting to Hold, use Farore's Wind outside the boss room and reset on failure. Ruto gives Zora's Sapphire (Wedding Band). Zora's Fountain Skulltulas #48 (Bombs) and #49 (night, Boomerang)."
+    },
+    {
+      "n": 10,
+      "title": "Young Link Cleanup and the Ocarina of Time",
+      "areas": [
+        "Hyrule_Field",
+        "Hyrule_Market",
+        "Hyrule_Castle",
+        "Lost_Woods",
+        "Kakariko_Village",
+        "House_of_Skulltula",
+        "Kakariko_Graveyard",
+        "Lon_Lon_Ranch",
+        "Lake_Hylia",
+        "Gerudo_Valley",
+        "Inside_Deku_Tree",
+        "Temple_of_Time"
+      ],
+      "achievement_ids": [
+        48512,
+        48513,
+        48514,
+        49188,
+        48245,
+        48246,
+        48516
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-12",
+        "gf1-377-2",
+        "checklist-heartpieces-3-4",
+        "checklist-sidequests-2-1",
+        "gf1-173-4",
+        "gf1-39-2",
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "gf1-120-1",
+        "gf2-150-3",
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7",
+        "checklist-sidequests-13-11",
+        "checklist-sidequests-15-6",
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2",
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18",
+        "gf1-27-5",
+        "gf1-383-1",
+        "checklist-sidequests-35-2",
+        "gf1-167-1",
+        "gf2-45-3",
+        "gf1-394-1",
+        "gf2-108-2",
+        "gf1-352-1",
+        "ra-guide-10-4",
+        "checklist-sidequests-15-1",
+        "gf1-399-2",
+        "gf3-38-5",
+        "checklist-sidequests-13-4",
+        "checklist-skulltulas-2-4",
+        "gf3-234-5",
+        "gf1-123-4",
+        "gf1-123-5",
+        "ra-guide-10-3",
+        "ra-comments-78-1",
+        "ra-comments-78-2",
+        "gf3-163-1",
+        "gf3-163-2",
+        "ra-comments-79-1",
+        "ra-comments-79-2",
+        "gf1-125-3",
+        "gf3-38-4",
+        "ra-guide-10-2",
+        "ra-comments-44-1",
+        "ra-comments-44-2",
+        "gf1-419-3",
+        "ra-guide-10-6",
+        "checklist-sidequests-14-6",
+        "gf1-168-1",
+        "gf2-47-1",
+        "gf2-49-1",
+        "ra-guide-10-7",
+        "gf1-129-2",
+        "ra-comments-24-1",
+        "ra-comments-24-2",
+        "gf1-351-2",
+        "gf4-14-14"
+      ],
+      "counters": {
+        "Gold Skulltulas": 8,
+        "Pieces of Heart": 1
+      },
+      "notes": "With all three Spiritual Stones, approach the castle drawbridge: Zelda escapes and the Ocarina of Time lands in the moat; pick it up and learn the Song of Time (Damsel in Distress). BEFORE the Temple of Time: talk to the dying guard in the Market back alley (Last Breath, missable). Claim the 30- and 40-token rewards at the House of Skulltula (A Woman's Best Friend, Giant's Wallet; Bombchu). Finish the Happy Mask quest: Spooky Mask to the Graveyard kid by day, Bunny Hood to the Running Man in Hyrule Field, then the Mask of Truth (Happy Mask Salesman). Wear the Mask of Truth on the Forest Stage for the last Deku Nut upgrade (A Horrible Face; missable once the adult Poacher's Saw is obtained). With the Boomerang: windmill Piece of Heart (#5) and Skulltulas #11 (Deku Tree, bombable wall), #16 and #17 (Lon Lon Ranch, night), #28 (Graveyard), #53 (Lake Hylia lab, night), #61 (Gerudo Valley, night), #12 and #13 (Hyrule Field; #13 needs Din's Fire). Plant Magic Beans in the Graveyard, at Death Mountain Trail by Dodongo's Cavern, in Death Mountain Crater and in the Lost Woods (Skulltula #5 spot). Then open the Door of Time and draw the Master Sword (Hero of Time). The courtyard, the bribe guard and the dying guard are gone after this."
+    },
+    {
+      "n": 11,
+      "title": "Seven Years Later: Hookshot, Epona and the Goron Tunic",
+      "areas": [
+        "Temple_of_Time",
+        "Kakariko_Village",
+        "Kakariko_Graveyard",
+        "Lon_Lon_Ranch",
+        "Goron_City",
+        "Kokiri_Forest",
+        "Lost_Woods",
+        "Hyrule_Castle"
+      ],
+      "achievement_ids": [
+        48583,
+        48582,
+        48912
+      ],
+      "fact_ids": [
+        "checklist-sidequests-35-2",
+        "gf1-167-1",
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7",
+        "checklist-sidequests-13-11",
+        "checklist-sidequests-15-6",
+        "checklist-heartpieces-3-10",
+        "checklist-sidequests-2-8",
+        "gf2-133-1",
+        "gf2-159-2",
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "gf1-173-4",
+        "gf1-39-2",
+        "gf1-135-3",
+        "checklist-sidequests-9-15",
+        "gf1-171-3",
+        "gf1-402-5",
+        "gf1-387-3",
+        "gf3-148-2",
+        "ra-guide-11-1",
+        "gf2-50-4",
+        "gf3-40-2",
+        "ra-comments-25-1",
+        "ra-comments-25-2",
+        "ra-guide-11-3",
+        "ra-comments-36-2",
+        "ra-comments-91-1",
+        "ra-comments-91-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 5,
+        "Pieces of Heart": 2
+      },
+      "notes": "In the Graveyard, pull the grave by the bean patch and win Dampe's race for the Hookshot (Hook Me Away). Lon Lon Ranch: call Epona with Epona's Song, beat Ingo twice and jump the fence (The Great Escape). Goron City: stop Link the Goron with a bomb for the free Goron Tunic (Heat Resistant Tunic); get it now, a commenter reports it can become unobtainable after the Longshot and the Fire Temple. Kakariko: Hookshot onto the roof for the man's Piece of Heart (#19); ride the Graveyard bean plant to the crate Piece of Heart (#20). Gold Skulltulas: Kokiri Forest #3 (night), Lost Woods #6 (bean, night), Kakariko #27 (night), castle-ruins gate #21, Goron City #35. Do not buy the Giant's Knife (Biggoron's Sword, chapter 13)."
+    },
+    {
+      "n": 12,
+      "title": "Ice Cavern and the Zora Tunic",
+      "areas": [
+        "Zoras_River",
+        "Zoras_Domain",
+        "Zoras_Fountain",
+        "Ice_Cavern"
+      ],
+      "achievement_ids": [
+        48254,
+        48941,
+        48942
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-4-1",
+        "checklist-heartpieces-4-2",
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15",
+        "checklist-heartpieces-4-13",
+        "checklist-heartpieces-4-15",
+        "checklist-heartpieces-4-14",
+        "checklist-sidequests-2-30",
+        "gf1-213-3",
+        "gf1-213-4",
+        "checklist-sidequests-18-12",
+        "gf3-62-3",
+        "gf1-396-1",
+        "gf2-70-8",
+        "gf3-235-6",
+        "ra-comments-36-1",
+        "gf4-16-9",
+        "ra-comments-37-2",
+        "ra-comments-37-3",
+        "ra-comments-37-1",
+        "ra-guide-11-6",
+        "ra-comments-92-1"
+      ],
+      "counters": {
+        "Gold Skulltulas": 5,
+        "Pieces of Heart": 3,
+        "Maps, Compasses & Boss Keys": 2
+      },
+      "notes": "Zora's River at night: Hookshot Skulltulas #45 and #46. Cross the frozen Zora's Fountain (ice-platform Piece of Heart #26) into the Ice Cavern: Map, Compass, the red-ice Piece of Heart (#27), Skulltulas #74-#76, the White Wolfos and the Iron Boots (Bring Me to the Bottom of the Oceans); Sheik teaches the Serenade of Water. Bottle extra Blue Fire. Kiss That Frog is missable and excludes the free tunic: save, melt the red ice on the Zora Shop with Blue Fire and buy the Zora Tunic for 300 Rupees (A Breath of Fresh Air; needs the Giant's Wallet), equip it, then thaw King Zora with Blue Fire and talk to him while wearing it: he blows a kiss instead of giving a tunic. Then with Iron Boots and Zora Tunic, sink to the bottom of Zora's Fountain for Piece of Heart #28."
+    },
+    {
+      "n": 13,
+      "title": "The Biggoron's Sword Trading Quest",
+      "areas": [
+        "Kakariko_Village",
+        "Lost_Woods",
+        "Gerudo_Valley",
+        "Death_Mountain_Trail",
+        "Zoras_Domain",
+        "Lake_Hylia",
+        "House_of_Skulltula"
+      ],
+      "achievement_ids": [
+        48975,
+        48247
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18",
+        "gf1-359-1",
+        "gf1-400-2",
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15",
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2",
+        "gf1-120-1",
+        "gf2-150-3",
+        "checklist-sidequests-18-12",
+        "checklist-sidequests-19-3",
+        "ra-guide-10-2",
+        "ra-comments-73-2",
+        "gf1-363-2",
+        "ra-comments-96-1",
+        "ra-comments-96-2",
+        "checklist-sidequests-2-28",
+        "checklist-skulltulas-2-6",
+        "gf1-168-5",
+        "ra-comments-108-1",
+        "ra-comments-108-2",
+        "gf1-358-1",
+        "gf1-358-2",
+        "checklist-sidequests-18-6",
+        "ra-comments-96-7"
+      ],
+      "counters": {
+        "Gold Skulltulas": 2,
+        "Pieces of Heart": 1
+      },
+      "notes": "Check first: both Lost Woods Deku upgrades (chapters 6 and 10) and Stocking Nuts are done, because the Poacher's Saw locks them out. Pocket Egg from the Cucco Lady, hatch it, wake Talon in Kakariko, trade the Pocket Cucco for Cojiro, give Cojiro to the man in the Lost Woods for the Odd Mushroom (timed), take it to the potion shop in Kakariko for the Odd Potion, give it to the Kokiri girl in the Lost Woods for the Poacher's Saw, ride Epona over the Gerudo Valley bridge and trade the saw to the carpenter for the Broken Goron's Sword, trade that to Biggoron for the Prescription, show it to King Zora (already thawed) for the Eyeball Frog (timed), take it to the Lakeside Laboratory for the Eye Drops (timed), return them to Biggoron for the Claim Check, wait three days (Sun's Song) and claim the sword (Biggoron's Sword). Save before handing over the Claim Check and mash A, not B, through the dialogue. Gerudo Valley Skulltulas #62 and #63 (night, Hookshot across the bridge). With 56 tokens, claim the 50-token reward at the House of Skulltula (My Broken Heart, Piece of Heart #32)."
+    },
+    {
+      "n": 14,
+      "title": "Forest Temple",
+      "areas": [
+        "Sacred_Forest_Meadow",
+        "Forest_Temple"
+      ],
+      "achievement_ids": [
+        48818,
+        48819
+      ],
+      "fact_ids": [
+        "gf1-395-1",
+        "gf1-456-1",
+        "gf1-153-4",
+        "gf1-162-6",
+        "gf2-53-8",
+        "gf1-388-1",
+        "gf2-157-5",
+        "gf1-519-6",
+        "gf1-167-1",
+        "gf1-397-3",
+        "ra-guide-12-4",
+        "ra-guide-12-5",
+        "gf1-162-7",
+        "ra-comments-26-1",
+        "ra-comments-26-2",
+        "gf1-163-3",
+        "gf1-422-1",
+        "gf2-157-11",
+        "ra-guide-12-6",
+        "gf1-141-6"
+      ],
+      "counters": {
+        "Gold Skulltulas": 6,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 3
+      },
+      "notes": "Sacred Forest Meadow as an adult: Sheik teaches the Minuet of Forest; Skulltula #7 on the hedge-maze ladder (night, Hookshot). Hookshot the tree branch to the entrance. Forest Temple, floor by floor: entrance and courtyards (Skulltulas #64-#66), the twisted corridors and 2F (#67), the Bow behind the Stalfos, the four Poe Sisters, B1 rotating room (#68) and the elevator to the boss. Take the Map, Compass and Boss Key. Drunken Master is missable: bring Phantom Ganon to 1 HP using only arrows in phase 1 and an empty Bottle swing to return his energy balls in phase 2; save before the boss and reset on failure. Saria gives the Forest Medallion (Awakening). Return to the Temple of Time for the Prelude of Light."
+    },
+    {
+      "n": 15,
+      "title": "Death Mountain Crater and the Fire Temple",
+      "areas": [
+        "Kakariko_Village",
+        "Death_Mountain_Trail",
+        "Death_Mountain_Crater",
+        "Fire_Temple"
+      ],
+      "achievement_ids": [
+        48823,
+        48914,
+        48915
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "gf1-359-1",
+        "gf1-400-2",
+        "checklist-heartpieces-4-11",
+        "checklist-heartpieces-4-12",
+        "gf1-186-1",
+        "gf1-186-2",
+        "gf1-395-3",
+        "gf3-235-5",
+        "gf1-388-3",
+        "gf1-202-3",
+        "gf1-196-1",
+        "gf2-123-1",
+        "gf1-202-4",
+        "ra-guide-13-1",
+        "checklist-sidequests-26-1",
+        "gf1-168-2",
+        "ra-comments-90-1",
+        "ra-comments-90-2",
+        "gf3-59-1",
+        "gf4-23-3",
+        "ra-guide-13-2",
+        "ra-comments-32-1",
+        "ra-comments-32-2",
+        "gf2-68-1",
+        "gf3-161-3",
+        "ra-guide-13-4",
+        "ra-guide-13-3"
+      ],
+      "counters": {
+        "Gold Skulltulas": 6,
+        "Pieces of Heart": 2,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 3
+      },
+      "notes": "With the Fairy Bow, win the Kakariko Shooting Gallery as an adult (Sniper Elite). Death Mountain Crater: Sheik teaches the Bolero of Fire past the broken bridge; climb down for the ledge Piece of Heart (#24) and ride the crater bean plant to the second one (#25). Fire Temple, floor by floor: 1F (Skulltulas #69 and, with the Hammer, #72), the Flare Dancer, the boulder maze and 3F (#70), 5F Megaton Hammer (#71). Take the Map, Compass and Boss Key. Hot Hot Hot is missable: fight Volvagia wearing the Kokiri Tunic (not the Goron Tunic); hang off the arena edge when she burrows; bring fairies. Darunia gives the Fire Medallion (Eternal Brothers). With the Hammer, Death Mountain Trail Skulltulas #32 and #33 (night). #73 needs the Longshot and Scarecrow's Song (chapter 21)."
+    },
+    {
+      "n": 16,
+      "title": "Water Temple",
+      "areas": [
+        "Lake_Hylia",
+        "Water_Temple"
+      ],
+      "achievement_ids": [
+        48820,
+        48946,
+        48947,
+        48949
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2",
+        "gf1-220-1",
+        "gf1-232-1",
+        "gf1-240-4",
+        "gf1-231-3",
+        "gf2-125-2",
+        "gf1-240-3",
+        "gf1-398-2",
+        "gf1-445-1",
+        "gf3-41-13",
+        "gf4-23-11",
+        "ra-comments-86-1",
+        "ra-comments-86-2",
+        "gf3-68-1",
+        "ra-comments-38-1",
+        "ra-comments-38-2",
+        "gf4-26-4",
+        "gf1-241-2",
+        "gf1-422-3",
+        "ra-guide-14-4",
+        "gf1-243-1",
+        "gf1-389-2",
+        "gf3-145-3",
+        "ra-comments-93-1",
+        "gf1-218-3",
+        "ra-guide-14-2",
+        "gf1-221-1"
+      ],
+      "counters": {
+        "Gold Skulltulas": 7,
+        "Pieces of Heart": 1,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 3
+      },
+      "notes": "Lake Hylia as an adult: play the same eight notes you taught Bonooru as a child to unlock the Scarecrow's Song (Pierre the Wanderer). Sink to the Water Temple with Iron Boots and Zora Tunic. Floor by floor: the three water levels (raise and lower with Zelda's Lullaby at the Triforce markers), Shadow Link in the mirage room (do not Z-target him), the Longshot, the Boss Key and the boss on 3F. Skulltulas #77-#81. Take the Map, Compass and Boss Key. Day of the Tentacles is missable: beat Morpha without falling in the water or being grabbed; stay in a corner and Longshot the nucleus. Ruto gives the Water Medallion (Bride to Be). Back at Lake Hylia, shoot the rising sun from the island for the Fire Arrow (The Flaming Arrow; play the Sun's Song twice to retry). Lake Hylia: Longshot Skulltula #54 (night), Iron Boots crate Skulltula #55 in the laboratory, bean-plant or Pierre Piece of Heart on the laboratory roof (#21)."
+    },
+    {
+      "n": 17,
+      "title": "Song of Storms, the Frogs and the Bottom of the Well",
+      "areas": [
+        "Kakariko_Village",
+        "Temple_of_Time",
+        "Bottom_of_the_Well",
+        "Zoras_River",
+        "Hyrule_Market",
+        "Hyrule_Castle",
+        "Death_Mountain_Crater"
+      ],
+      "achievement_ids": [
+        48951,
+        48950
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5",
+        "checklist-sidequests-35-2",
+        "gf1-167-1",
+        "gf1-390-1",
+        "gf1-517-3",
+        "checklist-heartpieces-4-1",
+        "checklist-heartpieces-4-2",
+        "checklist-heartpieces-3-4",
+        "checklist-sidequests-2-1",
+        "gf1-173-4",
+        "gf1-39-2",
+        "checklist-heartpieces-4-11",
+        "checklist-heartpieces-4-12",
+        "gf1-394-3",
+        "gf2-51-1",
+        "gf1-397-1",
+        "gf3-235-7",
+        "gf3-149-2",
+        "gf3-244-2",
+        "checklist-heartpieces-4-4",
+        "checklist-sidequests-2-33",
+        "gf1-250-3",
+        "ra-comments-95-1",
+        "ra-guide-15-1",
+        "checklist-sidequests-2-34",
+        "gf2-146-30",
+        "ra-comments-94-1",
+        "ra-comments-94-2",
+        "gf1-246-3",
+        "gf1-394-4"
+      ],
+      "counters": {
+        "Gold Skulltulas": 5,
+        "Pieces of Heart": 3,
+        "Maps, Compasses & Boss Keys": 2
+      },
+      "notes": "Entering Kakariko after the Water Temple triggers Sheik's Nocturne of Shadow. As an adult, learn the Song of Storms in the windmill. Return to the Temple of Time, become Young Link and play the Song of Storms in the windmill to drain the well. Bottom of the Well (child): Skulltulas #82-#84, Dead Hand, the Lens of Truth (Seeing Is Believing), Map and Compass. Zora's River frogs as a child: play the Song of Storms (Piece of Heart #23), then the other songs and the bug-catching game (The Fabulous Froggish Tenors, Piece of Heart #18). Market Treasure Chest Game with the Lens of Truth (Piece of Heart #33). Child Skulltulas: #20 (Song of Storms at the tree by the castle moat), #37 (Bolero of Fire to the crater)."
+    },
+    {
+      "n": 18,
+      "title": "Shadow Temple",
+      "areas": [
+        "Kakariko_Graveyard",
+        "Shadow_Temple"
+      ],
+      "achievement_ids": [
+        49018,
+        49019
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7",
+        "gf1-275-4",
+        "gf1-275-7",
+        "gf2-83-3",
+        "gf3-70-7",
+        "gf4-29-2",
+        "ra-guide-15-2",
+        "gf3-73-1",
+        "ra-comments-40-1",
+        "ra-comments-40-2",
+        "gf1-275-9",
+        "gf1-423-1",
+        "gf2-160-6",
+        "ra-comments-42-1",
+        "ra-guide-15-3",
+        "gf1-258-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 5,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 3
+      },
+      "notes": "Warp with the Nocturne of Shadow and light the torches at the entrance with Din's Fire. Floor by floor: B1 (Lens of Truth puzzles), B2 Dead Hand and the Hover Boots, B3 with the invisible spikes, the giant skull, the boat and the fire walls (Skulltulas #85-#89), then the boss drop. Take the Map, Compass and Boss Key. Invisible One is missable: beat Bongo Bongo without the Lens of Truth and without being trapped by his hands (Hover Boots to steady the aim, shoot between the stunned hands); set Farore's Wind before the boss and reset on failure. Impa gives the Shadow Medallion (The Shadow of the Hylians)."
+    },
+    {
+      "n": 19,
+      "title": "Gerudo Valley and Gerudo's Fortress",
+      "areas": [
+        "Gerudo_Valley",
+        "Gerudo_Fortress"
+      ],
+      "achievement_ids": [
+        48896,
+        49040
+      ],
+      "fact_ids": [
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18",
+        "checklist-heartpieces-5-8",
+        "checklist-sidequests-2-26",
+        "gf1-420-1",
+        "gf2-88-3",
+        "checklist-sidequests-16-8",
+        "ra-guide-16-1",
+        "gf2-115-5",
+        "gf2-88-6",
+        "ra-comments-97-1",
+        "ra-comments-97-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 2,
+        "Pieces of Heart": 2
+      },
+      "notes": "Cross the Gerudo Valley bridge on Epona or with the Longshot. In Gerudo's Fortress, free the four carpenters (each guarded by a Gerudo) for the Gerudo's Membership Card (Gerudo's Fan Club); the carpenters then rebuild the bridge. Roof chest Piece of Heart above the jail (#34, Hookshot or Longshot). Horseback Archery on Epona: 1,000 points for the Piece of Heart (#35), 1,500 points for the top reward (Ultimate Horse Master). Skulltulas #90 and #91 (night, Longshot)."
+    },
+    {
+      "n": 20,
+      "title": "Desert Colossus and the Spirit Temple",
+      "areas": [
+        "Haunted_Wasteland",
+        "Desert_Colossus",
+        "Spirit_Temple",
+        "Temple_of_Time"
+      ],
+      "achievement_ids": [
+        49186,
+        49187,
+        49189,
+        49261,
+        49263
+      ],
+      "fact_ids": [
+        "gf1-289-4",
+        "gf2-149-1",
+        "checklist-sidequests-2-36",
+        "gf1-391-1",
+        "gf1-322-1",
+        "gf1-322-2",
+        "checklist-sidequests-35-2",
+        "gf1-167-1",
+        "gf1-396-3",
+        "gf3-235-8",
+        "gf2-93-5",
+        "gf3-122-1",
+        "gf2-159-13",
+        "gf1-316-1",
+        "gf1-323-1",
+        "gf3-151-1",
+        "checklist-sidequests-32-4",
+        "ra-comments-99-1",
+        "ra-guide-16-4",
+        "gf1-213-4",
+        "gf1-353-2",
+        "ra-comments-100-1",
+        "ra-comments-100-2",
+        "gf4-31-9",
+        "ra-comments-46-1",
+        "ra-comments-46-2",
+        "gf1-323-3",
+        "gf1-423-2",
+        "gf2-131-1",
+        "ra-comments-48-1",
+        "ra-comments-48-2",
+        "ra-guide-16-1"
+      ],
+      "counters": {
+        "Gold Skulltulas": 9,
+        "Pieces of Heart": 1,
+        "Heart Containers": 1,
+        "Maps, Compasses & Boss Keys": 3
+      },
+      "notes": "Cross the Haunted Wasteland (follow the flags; the Poe guide marks the way) to the Desert Colossus. Bomb the cracked wall on the right for the Great Fairy (Nayru's Love). Enter and leave the Spirit Temple: Sheik teaches the Requiem of Spirit, the 12th song if every other song is known (Musician). Become Young Link and warp with the Requiem: plant a Magic Bean in the Colossus soil (bugs first for Skulltula #93), do the child half of the temple (Map, Skulltulas #96-#98, the Iron Knuckle) for the Silver Gauntlets (Infamous Silver Gauntlets). As an adult: Compass, Boss Key, Mirror Shield, Skulltulas #99 and #100, then the boss. Twins of Evil is missable: beat Twinrova without falling from the platform; save before the boss. Nabooru gives the Spirit Medallion (Brainwashed). Outside: Haunted Wasteland Skulltula #92, Colossus Skulltulas #94 (night, Longshot, Lens) and #95 (bean, night), and the bean-plant Piece of Heart (#36). Do not enter the Temple of Time until chapter 21."
+    },
+    {
+      "n": 21,
+      "title": "Light Arrows, Gerudo Training Ground and the Big Poes",
+      "areas": [
+        "Temple_of_Time",
+        "Gerudo_Training_Ground",
+        "Hyrule_Field",
+        "Gerudo_Valley",
+        "Zoras_Domain",
+        "Zoras_Fountain",
+        "Dodongos_Cavern",
+        "Fire_Temple"
+      ],
+      "achievement_ids": [
+        49286,
+        49185,
+        48821,
+        48822,
+        49288
+      ],
+      "fact_ids": [
+        "checklist-sidequests-35-2",
+        "gf1-167-1",
+        "gf1-364-1",
+        "gf1-373-5",
+        "checklist-heartpieces-3-12",
+        "gf1-377-2",
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18",
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15",
+        "checklist-heartpieces-4-13",
+        "checklist-heartpieces-4-15",
+        "gf1-485-1",
+        "gf1-485-2",
+        "gf1-186-1",
+        "gf1-186-2",
+        "gf1-391-4",
+        "checklist-sidequests-25-2",
+        "checklist-sidequests-25-3",
+        "checklist-sidequests-9-9",
+        "checklist-sidequests-25-12",
+        "gf3-146-2",
+        "gf4-33-14",
+        "gf1-325-2",
+        "ra-comments-49-1",
+        "ra-comments-49-2",
+        "gf2-158-16",
+        "gf3-122-2",
+        "ra-comments-98-1",
+        "ra-guide-17-16",
+        "checklist-sidequests-25-4",
+        "ra-comments-87-1",
+        "ra-comments-87-2",
+        "gf2-22-4",
+        "gf3-117-1",
+        "gf3-117-5",
+        "ra-comments-89-1",
+        "ra-comments-89-2",
+        "gf1-529-2",
+        "ra-comments-102-1",
+        "ra-comments-102-2",
+        "gf1-132-2"
+      ],
+      "counters": {
+        "Gold Skulltulas": 4,
+        "Pieces of Heart": 1
+      },
+      "notes": "Enter the Temple of Time: Sheik reveals herself as Zelda, gives the Light Arrows and is captured (To the Rescue). Gerudo Training Ground: clear every room for the Ice Arrows (Graduate of Gerudo's Training Ground). Ride Epona around Hyrule Field and shoot all ten Big Poes with the Bow, bottle them and sell them at the Poe shop in the old castle gatehouse for the fourth Bottle (Poe Collector; Drunkard once all four Bottles are held). Race the Running Man from the Gerudo Valley carpenters' tent to the Kokiri Forest entrance in under 1:30 (Wind Runner; bridge must be rebuilt). Iron Boots grotto Piece of Heart in Hyrule Field (#29). Skulltulas: #42 (Dodongo's Cavern, Hookshot and Scarecrow's Song), #73 (Fire Temple, Longshot and Scarecrow's Song), #47 (Zora's Domain, night, Longshot), #50 (Zora's Fountain, night, Silver Gauntlets): 100 tokens."
+    },
+    {
+      "n": 22,
+      "title": "Lon Lon Ranch, Dampe's Race and the Fishing Pond",
+      "areas": [
+        "Lon_Lon_Ranch",
+        "Kakariko_Graveyard",
+        "House_of_Skulltula",
+        "Fishing_Pond",
+        "Lake_Hylia"
+      ],
+      "achievement_ids": [
+        48585,
+        48584,
+        48943,
+        48945,
+        48944,
+        48248,
+        49287
+      ],
+      "fact_ids": [
+        "checklist-sidequests-13-11",
+        "checklist-sidequests-15-6",
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7",
+        "gf1-120-1",
+        "gf2-150-3",
+        "checklist-heartpieces-3-13",
+        "checklist-heartpieces-6-4",
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2",
+        "gf2-107-1",
+        "gf2-146-14",
+        "checklist-sidequests-17-3",
+        "ra-guide-20-2",
+        "checklist-heartpieces-3-1",
+        "gf1-166-2",
+        "checklist-sidequests-24-8",
+        "checklist-sidequests-24-9",
+        "ra-comments-85-1",
+        "ra-comments-85-2",
+        "checklist-heartpieces-5-4",
+        "gf1-245-1",
+        "gf2-110-2",
+        "ra-comments-84-1",
+        "ra-comments-84-2",
+        "checklist-sidequests-27-4",
+        "ra-comments-112-1",
+        "ra-comments-112-2",
+        "gf3-236-3",
+        "ra-comments-3-7",
+        "ra-comments-4-9",
+        "gf3-236-4",
+        "ra-comments-3-9",
+        "ra-comments-113-1",
+        "gf2-149-1",
+        "gf2-149-2",
+        "gf2-149-3",
+        "ra-comments-109-1",
+        "ra-comments-109-2",
+        "checklist-sidequests-17-4",
+        "gf1-121-2",
+        "gf1-168-5",
+        "ra-comments-101-1",
+        "ra-comments-101-2",
+        "ra-comments-114-7"
+      ],
+      "counters": {
+        "Pieces of Heart": 2
+      },
+      "notes": "Lon Lon Ranch: ride Malon's obstacle course on Epona (Jump Over, a cow for Link's House). Dampe's race again in under one minute (Ghost Chaser, Piece of Heart #31; Longshot over the last gap). Fishing Pond as an adult, in this order: 1) a big fish without the sinking lure for the Golden Scale (Expert Angler), 2) the Hylian Loach (Accomplished Angler; it appears on some visits only, near the lily pads; take it to the owner), 3) hook the owner's hat and cast it into the pond (Mischievous Hero; do not save or reset between hooking and sinking it). Dive the Lakeside Laboratory pool with the Golden Scale (Piece of Heart #30): 36 Pieces of Heart and 8 Heart Containers make 20 hearts (Plenty of Hearts). Claim the 100-token reward at the House of Skulltula (Family Reunion)."
+    },
+    {
+      "n": 23,
+      "title": "The Gossip Stone Tour",
+      "areas": [
+        "Kokiri_Forest",
+        "Lost_Woods",
+        "Sacred_Forest_Meadow",
+        "Temple_of_Time",
+        "Hyrule_Castle",
+        "Dodongos_Cavern",
+        "Goron_City",
+        "Death_Mountain_Trail",
+        "Death_Mountain_Crater",
+        "Zoras_River",
+        "Zoras_Domain",
+        "Zoras_Fountain",
+        "Lake_Hylia",
+        "Gerudo_Valley",
+        "Kakariko_Graveyard",
+        "Desert_Colossus",
+        "Hyrule_Field"
+      ],
+      "achievement_ids": [
+        48515
+      ],
+      "fact_ids": [
+        "gf2-133-1",
+        "gf2-159-2",
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2",
+        "gf1-395-1",
+        "gf1-456-1",
+        "checklist-sidequests-35-2",
+        "gf1-167-1",
+        "gf1-173-4",
+        "gf1-39-2",
+        "gf1-485-1",
+        "gf1-485-2",
+        "checklist-heartpieces-3-10",
+        "checklist-sidequests-2-8",
+        "gf1-359-1",
+        "gf1-400-2",
+        "checklist-heartpieces-4-11",
+        "checklist-heartpieces-4-12",
+        "checklist-heartpieces-4-1",
+        "checklist-heartpieces-4-2",
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15",
+        "checklist-heartpieces-4-13",
+        "checklist-heartpieces-4-15",
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2",
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18",
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7",
+        "checklist-sidequests-2-36",
+        "gf1-391-1",
+        "checklist-heartpieces-3-12",
+        "gf1-377-2",
+        "gf1-352-1",
+        "gf2-47-7",
+        "gf2-108-2",
+        "gf1-349-2",
+        "ra-comments-3-10",
+        "ra-comments-80-1",
+        "ra-comments-80-8"
+      ],
+      "counters": {},
+      "notes": "Lifestyle and Stones: as Young Link wearing the Mask of Truth, read all 32 Gossip Stones in one session, using the warp songs: Kokiri Forest and Lost Woods, Sacred Forest Meadow (3), the four by the Temple of Time, castle vines, castle path, Song of Storms grotto by the castle, Dodongo's Cavern, Goron City (2), Death Mountain Trail, the crater, Zora's River, Zora's Domain (2), Zora's Fountain (2), Lake Hylia (3), the grotto before Gerudo Valley and the valley waterfall, the Nocturne ledge by the Graveyard, the Desert Colossus, and one generic grotto stone. Do not reset, save-quit or close the emulator until it pops."
+    },
+    {
+      "n": 24,
+      "title": "Ganon's Castle and the Final Battle",
+      "areas": [
+        "Ganons_Castle",
+        "Ganons_Tower"
+      ],
+      "achievement_ids": [
+        49289,
+        49294,
+        49290,
+        49291,
+        48275
+      ],
+      "fact_ids": [
+        "gf1-411-4",
+        "gf1-416-2",
+        "gf3-266-5",
+        "gf3-266-1",
+        "gf2-158-6",
+        "gf1-344-3",
+        "gf1-344-4",
+        "gf1-347-5",
+        "gf1-347-6",
+        "ra-comments-121-3",
+        "ra-comments-3-4",
+        "gf1-345-1",
+        "gf3-91-3",
+        "checklist-sidequests-35-5",
+        "gf1-334-1",
+        "ra-comments-103-1",
+        "ra-comments-103-2",
+        "gf1-110-3",
+        "gf1-187-2",
+        "gf1-212-2",
+        "ra-comments-121-1",
+        "gf3-89-1",
+        "gf4-34-1",
+        "ra-guide-18-3",
+        "ra-comments-50-1",
+        "ra-comments-50-2",
+        "gf3-91-1",
+        "ra-guide-18-4",
+        "gf4-35-4",
+        "ra-comments-51-1",
+        "ra-comments-51-2",
+        "gf1-347-7",
+        "gf2-132-2",
+        "ra-comments-53-1",
+        "ra-guide-18-5",
+        "ra-comments-51-5"
+      ],
+      "counters": {
+        "Maps, Compasses & Boss Keys": 1
+      },
+      "notes": "Before the tower: confirm every chapter's Map, Compass and Boss Key (25 of 26) and every other achievement of this file is done, then save. In Ganon's Castle, clear the six trials; the Golden Gauntlets let you lift the black pillar outside for the Great Fairy's defense upgrade (The Rock). Take the Boss Key in the tower (26/26; Cartographer pops when the game is completed). King of Thieves: beat Ganondorf without falling off or climbing down the platform and without using fairies (Hover Boots on, Light Arrow when he charges). My Last Breath: beat Ganon with 1 heart or less, no fairies and no bombs (let him hit you down to one heart; milk can make an even health total odd); it pops in the ending cutscene, as does Home Sweet Home."
+    },
+    {
+      "n": 25,
+      "title": "3-Heart Run: Child Dungeons",
+      "areas": [
+        "Inside_Deku_Tree",
+        "Dodongos_Cavern",
+        "Inside_Jabu"
+      ],
+      "achievement_ids": [
+        48918,
+        48916
+      ],
+      "fact_ids": [
+        "gf1-27-5",
+        "gf1-383-1",
+        "gf1-485-1",
+        "gf1-485-2",
+        "gf1-109-2",
+        "gf1-113-4",
+        "ra-comments-1-1",
+        "ra-comments-32-14",
+        "gf1-518-3",
+        "gf1-518-4",
+        "gf1-115-3",
+        "gf1-115-4",
+        "gf1-82-4",
+        "gf1-82-5",
+        "gf1-82-6",
+        "ra-comments-125-1",
+        "ra-comments-125-2",
+        "gf1-115-5",
+        "ra-comments-4-2",
+        "ra-comments-4-3",
+        "ra-comments-125-4",
+        "ra-comments-127-3",
+        "ra-comments-4-4"
+      ],
+      "counters": {},
+      "notes": "SECOND SAVE FILE (3-heart run). The checkpoint counters belong to the first file and do not change here. In this file never pick up a Piece of Heart or a Heart Container (leave each boss's Heart Container on the floor) and never open a chest holding a Map or Compass; save before every chest you are unsure of. Replay the child route of chapters 1-9 (Bottles early for fairies). Dangerously Delicious: kill King Dodongo before he breathes fire, without bag bombs and without taking damage, at 3 hearts (Bomb Flower into his mouth, then attack; see open question on Deku Sticks). Race Against the Clock: kill Barinade in under 1:51 at 3 hearts; the timer runs through the intro cutscene, so start fast (Deku Nuts clear the jellyfish). Do not pick up Queen Gohma's, King Dodongo's or Barinade's Heart Containers, and skip every Map and Compass."
+    },
+    {
+      "n": 26,
+      "title": "3-Heart Run: The Adult Temples",
+      "areas": [
+        "Forest_Temple",
+        "Fire_Temple",
+        "Water_Temple",
+        "Shadow_Temple",
+        "Spirit_Temple"
+      ],
+      "achievement_ids": [
+        48917,
+        48913,
+        48948,
+        49020,
+        49262
+      ],
+      "fact_ids": [
+        "gf1-153-4",
+        "gf1-162-6",
+        "gf1-186-1",
+        "gf1-186-2",
+        "gf1-220-1",
+        "gf1-232-1",
+        "gf1-275-4",
+        "gf1-275-7",
+        "gf1-322-1",
+        "gf1-322-2",
+        "gf1-519-6",
+        "gf1-202-3",
+        "gf1-202-4",
+        "gf1-240-3",
+        "gf1-240-4",
+        "gf1-323-1",
+        "ra-comments-132-1",
+        "ra-comments-132-2",
+        "gf3-59-1",
+        "gf4-23-3",
+        "ra-comments-133-1",
+        "ra-comments-133-2",
+        "gf3-68-1",
+        "ra-comments-135-1",
+        "ra-comments-135-2",
+        "gf4-29-2",
+        "gf3-73-1",
+        "gf3-73-2",
+        "ra-comments-136-1",
+        "ra-comments-136-2",
+        "gf2-96-1",
+        "gf2-96-2",
+        "gf4-31-1",
+        "ra-comments-138-1",
+        "ra-comments-138-2"
+      ],
+      "counters": {},
+      "notes": "SECOND SAVE FILE (3-heart run). The checkpoint counters belong to the first file and do not change here. In this file never pick up a Piece of Heart or a Heart Container (leave each boss's Heart Container on the floor) and never open a chest holding a Map or Compass; save before every chest you are unsure of. Get the Hookshot, Epona, Goron Tunic, Iron Boots and Zora Tunic as in chapters 11-12 (the Biggoron's Sword helps). Dodgeball: Phantom Ganon without healing. Whac-A-Mole: Volvagia with only the Megaton Hammer and no healing. Tentacles of the Deep: Morpha without falling in the water and without taking damage. Invisible Stalker: Bongo Bongo without the Lens of Truth and without healing. Double Trouble: Twinrova with only the Master Sword and Mirror Shield and no fairies. Every temple must still be finished (no skipped medallion) and the Ice Cavern and Bottom of the Well Maps and Compasses must be left in their chests."
+    },
+    {
+      "n": 27,
+      "title": "3-Heart Run: Ganon's Castle and Blind Explorer",
+      "areas": [
+        "Ganons_Castle",
+        "Ganons_Tower"
+      ],
+      "achievement_ids": [
+        49292,
+        49293
+      ],
+      "fact_ids": [
+        "gf1-411-4",
+        "gf1-416-2",
+        "gf3-266-5",
+        "gf3-266-1",
+        "gf1-347-5",
+        "gf1-347-6",
+        "gf1-345-1",
+        "gf3-91-3",
+        "gf3-91-1",
+        "ra-comments-139-1",
+        "ra-comments-139-2",
+        "ra-comments-141-1",
+        "ra-comments-141-2",
+        "ra-comments-141-4",
+        "ra-comments-141-7"
+      ],
+      "counters": {},
+      "notes": "SECOND SAVE FILE (3-heart run). The checkpoint counters belong to the first file and do not change here. In this file never pick up a Piece of Heart or a Heart Container (leave each boss's Heart Container on the floor) and never open a chest holding a Map or Compass; save before every chest you are unsure of. Clear the trials and the tower at 3 hearts. Dark Lord: beat Ganon without getting hit (roll between his legs just before he swings, then hit his tail). Blind Explorer pops on completing the game with all six medallions, no Map or Compass ever taken and 3 hearts only; an accidental pickup cannot be undone by resetting, so save before every chest you are unsure of."
+    }
+  ],
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    {
+      "question": "Do Pieces of Heart (fewer than four) void the 3-heart achievements?",
+      "guidance": "The RA guide says up to three Pieces of Heart are fine, but a commenter says no heart upgrades are allowed. Pick up no Pieces of Heart and no Heart Containers on the 3-heart file.",
+      "chapters": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "question": "Do Deku Stick hits stop Dangerously Delicious from triggering?",
+      "guidance": "Commenters disagree. Use the Bomb Flower and the Kokiri Sword only for King Dodongo on the 3-heart file.",
+      "chapters": [
+        25
+      ]
+    },
+    {
+      "question": "What exactly triggers the gate guard's bribe (Money Solves Everything)?",
+      "guidance": "Comments mention having Malon's egg, being caught once and returning. Do all three before meeting Zelda, and do no other story step in between.",
+      "chapters": [
+        2
+      ]
+    },
+    {
+      "question": "Can the Lost Woods Deku Nut upgrades still be earned as an adult before the Poacher's Saw?",
+      "guidance": "Some players report it worked after the Forest Temple, others report the trade flag locks it. Get A Pretty Face, A Horrible Face and Stocking Nuts as Young Link before drawing the Master Sword.",
+      "chapters": [
+        6,
+        10,
+        13
+      ]
+    },
+    {
+      "question": "How heavy must the adult fish be for Expert Angler?",
+      "guidance": "Commenters report 13 lb worked and 12 lb did not, and one says it must beat the child record by 10 lb. Keep fishing until the owner hands over the Golden Scale.",
+      "chapters": [
+        22
+      ]
+    },
+    {
+      "question": "Do Bombchus count as bombs for My Last Breath?",
+      "guidance": "No source says. Use neither bombs nor Bombchus against Ganon.",
+      "chapters": [
+        24
+      ]
+    },
+    {
+      "question": "Must the Zora Tunic be worn while thawing King Zora for Kiss That Frog?",
+      "guidance": "Sources differ on the exact moment. Buy the tunic, equip it, save, then thaw King Zora and talk to him while still wearing it.",
+      "chapters": [
+        12
+      ]
+    }
+  ]
+}

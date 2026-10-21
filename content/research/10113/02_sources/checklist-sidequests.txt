@@ -1,0 +1,1347 @@
+This entire document is (C) 2006 Jason Ricker. All trademarks are property 
+of their respective owners. No section of this guide can be used without my 
+permission. This includes, but is not limited to posting on your website, 
+making links to my guide, including parts of my guide in your own, or 
+making reference to any material contained within.
+
+All the sites mentioned below have permission to do the above. Please email 
+me at kanzen_muketsu@yahoo.com to enquire about gaining permission to use 
+this document.
+
+- Thanks to Michael Sarich for this Copyright -
+
+
+The purpose of this FAQ is to show you how to get a perfect file with as  
+little backtracking as possible.  This only covers the side quests so if  
+you're having trouble with dungeons look to pretty much any other  
+walkthrough.
+
+Here's the key for some terminology here:
+Gold Skullita number ### = [GS###]
+Piece of Heart number ## - [PoH##]
+___________________________________________________________________________
+---------------------------------------------------------------------------
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+_________________________________
+|=====Quick Reference Guide=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Piece of Hearts
+
+[PoH01] from the old lady for finding her dog in the market
+[PoH02] from winning the treasure chest game
+[PoH03] from the grave in the graveyard
+[PoH04] from the guy on the roof in Kakoriko village
+[PoH05] from Lon Lon ranch in the back in the building with the cows
+[PoH06] from playing the ocarina with the skull kids
+[PoH07] from the skull kid in the lost woods after playing Saria's song
+[PoH08] from throwing a bomb in the moving jar in Goron city
+[PoH09] from on top of Dodongo's cavern
+[PoH10] from the Death Mountain Crater on the climbable wall
+[PoH11] from the hole in the wall of the house in Kakoriko village
+[PoH12] from the bombchu bowling alley
+[PoH13] from the platform near the entrance to Zora's domain
+[PoH14] from the lone platform in Zora's river
+[PoH15] from under the waterfall in Zora's domain
+[PoH16] from the fishing game
+[PoH17] from the windmill
+[PoH18] from the box on the cliff over the river in Gerudo Valley
+[PoH19] from under the water fall in Gerudo Valley
+[PoH20] from the fenced in area on the way to Lake Hylia
+[PoH21] from the grave digging tour
+[PoH22] from Lakeside Laboratory touch the bottom (via diving)
+[PoH23] from bomb the tree by Lon Lon Ranch and dive down to the heart
+[PoH24] from the bean plant in the graveyard
+[PoH25] from beating Dampe in his race after winning the hookshot
+[PoH26] from the horse back archery game
+[PoH27] from the top of Gerudo fortress
+[PoH28] from collecting 50 Gold Skullitas
+[PoH29] from on an ice island in Lord Jabu Jabu's fountain
+[PoH30] from the Ice cavern in the room with the compass
+[PoH31] from the bottom of Lord Jabu Jabu's fountain
+[PoH32] from Lake Hylia on top of Lakeside Laboratory
+[PoH33] from playing all the ocarina songs to the frogs in Zora's river
+[PoH34] from playing the feeding game with the frogs in Zora's river
+[PoH35] from the bean plant in Death mountain Crater
+[PoH36] from the bean plant in Desert Colossus
+
+Gold Skullitas
+
+[GS001] - Great Deku Tree:  In the room with the compass
+[GS002] - Great Deku Tree:  On the vine wall below the cobweb in B1
+[GS003] - Great Deku Tree:  Near the switch in the same room as [GS002]
+[GS004] - Hyrule Castle:  In the crate in the room with the pots
+[GS005] - Hyrule Castle:  In the tree the owl was sitting on
+[GS006] - Kakoriko Village:  In the only tree in the village
+[GS007] - Kakoriko Village:  Behind the House of Skullita
+[GS008] - Kakoriko Village:  On the brick pillar in the incomplete building 
+[GS009] - Kakoriko Village:  Across from the guard by the mountain trail
+[GS010] - Kakoriko Village:  On the ladder leading up the look out
+[GS011] - Kakoriko Village:  Soil mound in the graveyard
+[GS012] - Lon Lon Ranch:  In the only tree in the ranch
+[GS013] - Lon Lon Ranch:  On the wooden section of the horse pen
+[GS014] - Kokiri Village:  Behind the Know-it-all-brother's house
+[GS015] - Kokiri Village:  Soil mound by the shop
+[GS016] - Lost Woods:  Soil mound to the second left after entering
+[GS017] - Lost Woods:  Soil mound on the screen with the forest stage
+[GS018] - Death Mountain Trail:  Soil mound outside Dodongo's Cavern
+[GS019] - Dodongo's Cavern:  Behind the bombable wall using a baby dodongo
+[GS020] - Dodongo's Cavern:  On the vine wall above the compass room
+[GS021] - Dodongo's Cavern:  Behind the bombable wall at the end of the 's' 
+          shaped path two rooms before the boss room
+[GS022] - Death Mountain Trail:  Behind the bombable wall near Kakoriko
+[GS023] - Death Mountain:  Crate by the entrance
+[GS024] - Zora's River:  In the only tree in the river
+[GS025] - Zora's River:  On the ladder by the entrance to Zora's Domain
+[GS026] - Lake Hylia:  On the island with two pillars
+[GS027] - Lake Hylia:  Soil mound by the Lakeside Laboratory
+[GS028] - Zora's Fountain:  In the only tree in the fountain
+[GS029] - Inside Jabu Jabu:  On the vine wall in the room where you raise   
+          the water level
+[GS030] - Inside Jabu Jabu:  On the wall after cutting 'The green tail'
+[GS031] - Inside Jabu Jabu:  Next to [GS031]
+[GS032] - Inside Jabu Jabu:  On the vine wall before the boss room
+[GS033] - Zora's Fountain:  On the wall across from the log
+[GS034] - Kakoriko Village:  On the wall in the graveyard.
+[GS035] - Hyrule Field:  In a hole under the tree next to Kakoriko
+[GS036] - Lon Lon Ranch:  On the shudders of the house's window
+[GS037] - Lon Lon Ranch:  To the right of the pillar building
+[GS038] - Hyrule Field:  In a hole by Gerudo valley
+[GS039] - Gerudo Valley:  On the small waterfall
+[GS040] - Gerudo Valley:  Soil mound next to the cow by the river
+[GS041] - Lake Hylia:  On the back side of the Lakeside Labritory
+[GS042] - Great Deku Tree:  Behind the bombable in the room with baby gomas
+[GS043] - Goron City:  In the crate at the end of the rock maze
+[GS044] - Gerudo Fortress:  On the wall next to the scarecrow call point
+[GS045] - Kakoriko Village:  On top of the cucco lady's house
+[GS046] - Goron City:  On the back side of the platform held up by ropes
+[GS047] - Fire Temple:  In the room behind a blue 'song of time block' on   
+          the wall behind the likelike 
+[GS048] - Fire Temple:  In the maze with the rolling boulders it's behind a 
+          bombable wall.
+[GS049] - Fire Temple:  Above the room with the rolling boulders it's on    
+          the climbable wall
+[GS050] - Fire Temple:  In the next room after [GS049]
+[GS051] - Fire Temple:  In the room with the megaton hammer
+[GS052] - Death Mountain Trail:  Under the red rock near the top
+[GS053] - Death Mountain Trail:  Under the red rock by the goron near the   
+          entrance to Goron City
+[GS054] - Dodongo's cavern:  Call the scarecrow to the ledge near [GS019]
+[GS055] - Dodongo's cavern:  Backtrack to [GS020] and climb the vine onto   
+          the platform
+[GS056] - Lost Woods:  Above ride the beanplant near the forest stage
+[GS057] - Sacred Forest Meadow:  On top of the maze on the right wall
+[GS058] - Forest Temple:  On the first screen look up and to the right
+[GS059] - Forest Temple:  To the right of the door leading toward the bow
+[GS060] - Forest Temple:  On the wall across the mote in the room with the  
+          vine wall on the right
+[GS061] - Forest Temple:  On the wall to the left of a raised path in the 
+          room with the well.
+[GS062] - Forest Temple:  One of the side paths of the moveable room
+[GS063] - Kokiri Forest:  The house with two pillars on top, between them
+[GS064] - Gerudo Fortress:  On the back of the far archery target
+[GS065] - Gerudo Valley:  Behind the carpenter tent
+[GS066] - Gerudo Valley:  On the side of the stone pillar
+[GS067] - Zora's River:  Next to the only pre-exposed hole
+[GS068] - Zora's River:  On the left wall as it stats to snow
+[GS069] - Zora's Domain:  Next to the frozen waterfall
+[GS070] - Ice Cavern:  On the wall in the room with the spinning ice blade
+[GS071] - Ice Cavern:  In the room with the compass on the wall
+[GS072] - Ice Cavern:  On the wall in the room with the pushable ice block
+[GS073] - Lake Hylia:  The crate underwater at Lakeside Laboratory
+[GS074] - Water Temple:  On the other side of the fence (the switch doesn't 
+          require the sword spin)
+[GS075] - Water Temple:  At the top of the inside of the pillar in the
+          middle of the level
+[GS076] - Water Temple:  On the right wall in the room with the platforms   
+          moving down the waterfall
+[GS077] - Water Temple:  on the left wall of the under ground river
+[GS078] - Water Temple:  against the waterfall with boulders falling
+[GS079] - Lake Hylia:  On top of the only tree in Lake Hylia
+[GS080] - Hyrule Castle:  On the side of the remains of the gate
+[GS081] - Hyrule Castle:  In a hole by the only tree inside the castle gate
+[GS082] - Bottom of the Well:  In the room with the likelike
+[GS083] - Bottom of the Well:  In the right locked door of the center room
+[GS084] - Bottom of the Well:  In the left locked door of the center room
+[GS085] - Haunted Wasteland:  In the bottom of the oasis
+[GS086] - Death Mountain:  Soil mound next to the warp point
+[GS087] - Desert Colossus:  Soil mound next to the Spirit Temple entrance
+[GS088] - Spirit Temple:  On the fence with the silver rupees
+[GS089] - Spirit Temple:  On the opposite of the climbable wall in the room 
+          with the lizfos
+[GS090] - Spirit Temple:  Above you before you go to fight the iron knuckle
+[GS091] - Zora's Fountain:  In the path under the silver gauntlet rock
+[GS092] - Desert Colossus:  On a palm tree next to the fairy fountain
+[GS093] - Desert Colossus:  On one of the rocks near the entrance
+[GS094] - Spirit Temple:  In the trench where the boulders are rolling
+[GS095] - Spirit Temple:  On the ledge to the right side of the huge statue
+[GS096] - Shadow Temple:  In the room with the invisible spinning blade
+[GS097] - Shadow Temple:  In the room with the falling spike panels
+[GS098] - Shadow Temple:  In the room with one giant hallow skull turning
+[GS099] - Shadow Temple:  On the far ledge on the screen with the huge boat
+[GS100] - Shadow Temple:  In the room with four hollow skulls rotating
+
+--Tricks that you should know--
+
+Rolljump:  As you come to a ledge if you roll and are rolling when you run 
+out of ground you'll jump slightly farther than normal.
+
+Rolljump/sword:  Roll jump and swing your sword in the air which will make
+you go a little farther with proper timing unfortunately once you've drawn
+your sword you wont be able to grab on to a ledge.
+
+Saving deku sticks:  If you have a burning deku stick you can put it away
+before it burns out and save it, the quickest way to put it away it so 
+draw your sword.  Because let's face it why lose a stick to fire when you 
+can lose it by breaking it on the enemy's face (for double the damage of 
+the kokiri sword).
+
+--useless tricks--
+
+Backflip draw:  A useless/cool looking way to draw your sword while 
+backfliping.  Just backflip and draw the sword just after starting the 
+flip and Link will pull out his sword without swinging it.
+
+Roll draw:  Another useless/cool looking way of drawing the sword.  The 
+timing for it is a little harder but if you try to draw your sword as you 
+hit the ground from a fall where you'll roll Link will draw his sword 
+without swinging it and roll.
+
+_____________________________
+|=====Monster Battling=====| 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This is the section on how to safely battle some of the tougher monsters in 
+the game, one of the keys to beating most of them flawlessly is using deku 
+nuts:
+
+
+Lizofos - Those annoying enemies you first find in Dodongo's cavern.  If you 
+have your shield this battle is very simple.  Just Z-target while holding 
+the shield up until they attack.  Once they attack and his your shield jump 
+attack them.  After two jump attacks with the kokori sword the one you're 
+fighting will run away.  If you have some spare sling shot bullets you can 
+snipe him other wise he'll stay away forom you until you give his partner an 
+equal beating.  If you don't have a shield you'll want to use a deku stick 
+and simply don't give them a chance to attack you.  The easiest method is to 
+use a deku nut to stun him then one jump attack with a deku stick will send 
+him running.  If you don't have a deku nut or deku sticks you can simply 
+back flip or side jump as they attack at you.  Another method if you have a 
+good ammount of deku seeds is to keep your distance and go postal.
+
+Stalfos - You first meet these in the Forest Temple.  You'll only ever fight 
+one as child link so I'll get to that strategy last.  Stalfos have two 
+attacks, a standard swing attack and a jumping swing attack.  These guys 
+take off a lot fo life in each hit so you'll want to use deku nuts to 
+prevent them from completing their attacks.  Because they have a shield you 
+can only stun them with deku nuts when they're attacking.  For any attack 
+you can stop them at any point by using a deku nut.  To dodge their attacks 
+you'll make a lot of use of the jumps, particularly to the sides.  It's a 
+simple sideways jump to dodge their attacks and you get a free hit.  If they 
+jump attack at you you can jump attack at them and you'll both jump past 
+each other but unless you're fast you'll likely miss your chance to attack.  
+Another safe way to play it is using the bow and arrow.  Simply dodge and 
+shoot, you can usually get two or three arrows in.  When you fight the 
+stalfos as a kid you have this cool item called the boomerang that can go 
+around their shield and stun them.  This simple fact makes the whole battle 
+simple.  Keep in mind though that dodging attacks as a kid takes double the 
+jumps.
+
+Iron Nuckle - Iron nuckles are easy to beat flawlessly.  Just inch close 
+enough that they swing and step back out of range of the swing, they'll 
+either swing twice or swing once and get the axe stuck in the ground.  If it 
+gets stuck immediately jump attack and wait until they pull it out to back 
+flip out thus triggering the next attack.  If they swing twice after the 
+second swing jump attack them back flip out, because you were in range 
+they'll immediately swing again.  When the armor breaks off there's a 
+stupidly easy method and the canopener method.  The can opener is kinda 
+simple keep attacking, if they get hit durring an attack it'll stop their 
+attack so they litterally won't get a hit in.  The stupidly easy method is 
+to target and run back/away as you shoot them with arrows.
+
+
+---------------------------------------------------------------------------
+
+Get the kokiri sword and shield and collect 60 more rupees.  Go into the  
+lost woods and take the first two lefts.  Drop down the cliff and go to the 
+business scrub next to the gossip stone.  Buy the Deku stick upgrade and  
+head to the great Deku tree.
+
+_______________________________
+|=====After the Deku tree=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Assuming you got all of the available Gold Skullita's you'll have 3 (you 
+have to come back with bombs for the fourth one).  Now when you exit the 
+forest Saria will give you the ocarina before you're allowed to completely 
+leave.  Hurry across the field to Hyrule castle make it in before the wolf 
+howls and take the first right into the room with the pots.  Roll into the 
+far right crate and kill [GS004].  Collect about thirty rupees and go into 
+the main market.  Walk to the building with the huge bulls-eye on the side 
+and enter.  It's the shooting gallery, play the game and get the first 
+upgrade for the Deku seeds.  Walk back out and notice that Malon is waiting 
+by the fountain.  Now go to see Hyrule Castle from there return to the 
+market and you'll see that Malon is not there.  Walk back to the Hyrule 
+Castle screen and you'll see Malon standing by the climbable vine.  Get the 
+egg from her and put it on a C button.  Now walk back into town and avoid 
+the other dogs as you walk to the corner under the guy looking for the 
+sunrise.  The white dog will follow you as you wander around.  Go into the 
+alley and return the fat lady's dog in exchange for [PoH01].  Walk back 
+into the main town and go into the one lit building.  
+
+It's the Treasure Chest game.  You might want to collect some money from  
+breaking pots first, depending on how you do at this.  If you look closely  
+at the seams of the treasure chest, you can see a few pixels change  
+occasionally since the key spins around while it's in the chest and it's  
+white, this will be your means of getting the piece of heart.  If you don't 
+have the patience or the eye for the trick come back for this later.  
+
+Assuming you got the [PoH02] go back to Hyrule Castle.  As you near the  
+tree the owl will start talking to you, once he's finished roll into the  
+tree he was on for [GS005].  Now proceed as usual to visit Princess Zelda.  
+
+____________________________
+|=====After the castle=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Once you've talked to Zelda and learned her song you'll appear outside the  
+castle.  Run across the field to Kakoriko village when you enter roll into  
+the first tree (coincidentally the only tree) and kill [GS006].  Now to the 
+back of town and to the grave yard.  Proceed to the back of the graveyard  
+and play Zelda's Lullaby to get into the composer brother's tomb, learn the 
+sun's song and head back.  Once in the graveyard play the Sun's Song and  
+make it night time (it's midnight so Dampe's gone to sleep).  Now get the  
+Hylian shield and [PoH03] from under the graves.  Go back into Kakoriko and 
+walk to behind the skullita house where you'll find [GS007].  Go to where  
+the building is being constructed and you'll see [GS008] on the back of the
+brick pillar.  Now run up the stairs toward the guard but turn around when  
+you're in front of him and you'll see [GS009].  Now show the guard Zelda’s  
+letter and go to the look out where you'll see [GS010] on the ladder.  Shot
+it with your slingshot and collect the token on your way up.  From the top  
+of the look out walk to the front opposite the side of the ladder and z- 
+target.  Now hold left and sidestep toward the left railing, jump as you  
+get to it but keep holing left and link's screaming will be interrupted  
+when he catches onto the seam of the fence nearest the building with the  
+man sitting on it.  Climb onto the fence then on to the building.  Talk to  
+the guy and get [PoH04].  Now go to the left of the building opposite the  
+side the man is on and you'll drop down in an enclosed area where the old  
+hag's potion shop is later.  Drop into the hole and come back out.  Once  
+outside play the song of storms to make it day time and there will be a  
+cucco near you.  Throw him over the fence near the wall and climb the  
+ladder to your left.  Once at the top of the cliff next to the windmill  
+you'll see a cucco walking around.  Float down with him and start tossing  
+the cuccos in the pen (I only explained that part cause they're the two  
+hardest ones to get to).  Once you have the bottle run back to the  
+graveyard.  Before going through the gate you'll see some weeds with a rock 
+in the middle of it.  Pick up the rock and bottle the bugs that come out.   
+Now take the bugs to the dirt mound in the left corner of the grave yard  
+and collect [GS011] (remember to rebottle one of your bugs...you'll need  
+them).  On your way out of Kakoriko swing by the house of Skullita and pick 
+up your Adult's Wallet.  Now head back to Hyrule Castle and pick up the  
+keton mask.  with the new mask run across the field to Lon Lon ranch  
+(assuming it's night time when you enter) go to the only tree next to  
+Talon's house and roll into it collecting [GS012].  Make your way around 
+the horse pen and you'll see a wooden section of the fence where you'll 
+collect [GS013].  Continue across the field avoiding the birds to the tall 
+pillar.  Walk into it and pull the corner milk box out a little, go through 
+the crawl space and collect [PoH05].  walk back out into the ranch and play 
+the Sun's Song making it day time.  Talk to Malon in the middle of the 
+horse pen and learn Eponia's song, go into Talon's house and win his cucco 
+game to get the second bottle.  Exit Lon Lon Ranch and go back to Kakoriko  
+village, once there give the Keton mask to the soldier and return to Hyrule 
+Castle for the Skull mask.  Now go back to the lost woods (make sure it's  
+night time when you enter).  Once there go behind the house to your  
+immediate right and collect [GS014] by the shop use your bug in the soil to 
+collect [GS015].  Now enter the lost woods, take the first two lefts and  
+you'll see another mound of soil; collect [GS016].  Go back the way you  
+came (the stalchild on the tree stump won't talk to you yet).  Go strait  
+and strait again which will put a tree in front of you with a bulls-eye  
+hanging from it.  Shoot thee perfect bull's-eyes (score 100 points three  
+times in a row) and collect the biggest seed bag.  Now jump down the ladder 
+and you'll see two stalchilds on a long tree stump, play the ocarina with  
+them and collect [PoH06].  Climb back up the ladder and go to the right,  
+you'll see the stone entrance to Goron City quing you to take a right where 
+you'll see the water entrance to Zora's River.  Now go left and you'll see  
+all four paths identical go left again and you'll see two business scrubs  
+near a mound of soil.  Kill the scrubs and plant your bugs in the soil to  
+receive [GS017].  Now run in the tall mesh near the tree till you fall in a 
+hole.  Put on the skull mask and walk out on the stage and collect the  
+second stick upgrade.  No continue through the forest and learn Saria's  
+song.  Once you get it and return to the lost woods take a wrong path on  
+purpose to take you to Kokiri village.  Walk back into the lost woods and  
+go left.  Stand on the tree stump and play Saria's song to collect [PoH07], 
+show the stalchild the skeleton mask and he'll buy it.  Now go back to  
+Hyrule castle and pick up the spooky mask go to the graveyard in Kakoriko 
+and sell the scary mask to the kid there.  Go through the path the guard  
+opened to Goron city.  Once there drop down to the bottom floor and play  
+Zelda's lullaby to get into Durana's room.  Play Saria's song for him and  
+collect the Goron's Bracelet.  Light a Deku stick and light the torches  
+around the jar making it move, now run a lit stick up one level and light  
+the two torches next to the Goron in front of the lost woods entrance.   
+Take a lit stick to the bomb flowers by the rocks blocking the path and  
+light one of the bombs clearing the path to the lost woods.  Now run to the 
+path leading up to the next level and pick the bomb flower in the corner.   
+Turn and run to the spinning pot and throw it in.  When the bomb goes off  
+the pot will start spinning if it lands on the happy face (it'll land on  
+whatever face it's on when the cut scene begins) you'll collect [PoH08].   
+Now exit Goron City and take a right where you'll see a bomb flower  
+partially fenced in.  Pick and throw the bomb flower down below opening the 
+entrance to Dodongo's cavern.  Now pick it again and throw it away from  
+you.  Face away from the fence but diagonal so the Goron is to your front  
+right and Z-target so you can back flip over the lowered part in the fence  
+landing you on the edge of the cliff above Dodongo's cavern.  Collect  
+[PoH09] (refilling your life lost from the fall) now hop off of the cliff  
+and you'll see a mound of soil at the entrance to Dodongo's Cavern, Use  
+your bug there and collect [GS018].
+
+___________________________________
+|=====Inside Dodongo's cavern=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+There are a total of 5 Gold Skullita's in Dodongo's cavern but one requires 
+you to come back as an adult with the scarecrow's song and hookshot (but  
+we'll come back for another that requires the boomerang or hookshot also).  
+The most missed one other than that is:  In the area with the first baby  
+dodongos there's a bombable wall on the left before the ground becomes  
+elevated, lure a dodongo there and kill them so their death explosion  
+clears out the wall.  Now go into the next room and collect [GS019].
+
+__________________________________
+|=====After Dodongo's cavern=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+At this point, you should have 21 Gold Skullitas.  Take your bombs part of  
+the way toward Kakoriko and you'll see a strange looking wall to your left, 
+bomb it and there will be [GS022) (you can climb the wall it's on).  Now go 
+up death mountain to where you'll see the entrance to Death Mountain.  Run  
+in and you'll see a crate by the entrance, inside is [GS023].  Continue  
+strait and you'll see a big rock in the middle of a circle of smaller 
+rocks, bomb it and drop into the hole (to reset your 45 second timer).  Go 
+back out into the volcano and continue away from the way you came in and to 
+the right of a large rock on the edge of the cliff.  Climb down the wall 
+and into the indent where you'll find [PoH10].  Hurry back to the hole to 
+reset the timer again on your way out (I made the whole trip in 42 seconds 
+once which included getting the GS and the PoH but I almost wet myself on 
+the way back thinking I was going to die).  Once outside bomb the strange  
+looking wall and walk in there you'll find a Great Fairy.  After getting  
+your sword spin go talk to the owl and let him take you to Kakoriko.  He'll 
+set you down on top of the roof of the cucco lady's house.  Go to the right 
+where the cucco pin is and drop down where you'll find your self next to a  
+crack in the wall leading to [PoH11].  Walk back out and collect your Stone 
+of Agony (very fitting name if you already know where everything is).  Now  
+head to Hyrule castle and in the market pick up your bunny hood.  while  
+you're there go to the bombchu bowling alley and pick up your first bomb  
+bag upgrade and [PoH12].  Sell enough bugs to get you 200 rupees and head  
+to Zora's River.  Also, go get Din's fire though it's optional right now.   
+Before bombing the rocks talk to the owl and roll into the tree exposing  
+[GS024].  Bomb the rocks and go buy five magic beans leaving you with 50  
+rupees (the next one cost 60 rupees).  Go break the circle of rocks, cut  
+down the bushes, and float through the water to get 10 more rupees and buy  
+the 6th beans.  (There's no Gold Skullita in the hole next to the bean  
+seller).  With little to no rupees head back to Kakoriko and stand at the  
+tree, take about ten steps forward, and start excavating!  One of the 
+dozens of bombs should open a hole that has two redeads inside.  After 
+killing them you get 200 rupees.  Head back to Zora's river and buy your 
+seventh and eight beans leaving you with 50 rupees.  Venture through the 
+river little till you see a log leading out into the water.  Walk out on 
+the log and play your four of the songs for the frogs (you get 50 rupees 
+for each new song you play them so after the third you'll be maxed out but 
+you don't really need the money anyway).  Go back and buy the ninth and 
+tenth magic beans from the guy and start planting (I always wait till I get 
+all 10 to start planting so I know how many I've bought).  
+
+!!!!!Remember you can still collect gold Skullitas from holes even after 
+!!!!!you've planted the beans there.
+
+Now pick up the cucco and start up the river, it's pretty simple most of  
+the trip until you get to the two small waterfalls.  Fortunately, you can  
+jump diagonally off of the platform you were first on (the one with the log 
+leading to the singing frogs hanging off of it) and land in the shallows  
+of the waterfall where it dips down.  Now toss the cucco up on the next  
+platform and jump up and take it.  Walk to the left up the hill leading to  
+the entrance to Zora's domain.  Walk past the platform where you play the  
+ocarina and jump using the cucco to glide you to the platform with the  
+piece of heart.  To save trips try to land next to the piece of heart then  
+get [PoH13].  if times well enough you can finish the talking and pick up  
+the cucco again before he runs off (if you miss it simply go back to the  
+beginning and get the cucco again but you'll want to use this chance to  
+practice the next time you pull this trick it'll be a lot harder to go  
+back).  Whether you have to go back or not after the cucco go back to the  
+area where you had to toss the cucco up to the top ledge.  Now jump to the  
+left going down stream and you'll see a little land sticking off of the  
+large land formation in the middle of the river.  Toss the cucco and climb  
+the ladder where lo and behold there's another one.  Take this cucco and  
+walk across the thin wood bridge to where the gossip stone sits alone on a  
+circular platform.  Jump with the cucco toward the [PoH14] on it's own  
+little ledge sticking out of the water.  Head back to where the piece of  
+heart by the entrance to Zora's domain was and jump into the shallows next  
+to the ladder.  Once it's night time you'll see [GS025] on the ladder.  Now 
+go into Zora's domain.  First off head up to see King Zora there is one  
+unlit torch on the way up and two lit torches at the entrance to his  
+chamber.  Light a Deku stick and run down to the unlit torch and light it  
+(it's one that never goes out).  Now light a stick again and run down by 
+the shop and light the first torch.  Quickly draw your sword (puts out your 
+Deku stick) and relight the stick and roll toward the torch in the shallow  
+water (rolling in water doesn’t put the stick out but being submerged 
+does).  Once it's lit hug the wall and keep rolling till you're under the  
+waterfall and light the two remaining torches.  When all four are lit at  
+once you'll get [PoH15].  Now head back up to the top of the waterfall and  
+play the diving game (you actually make money since it cost 30 and he  
+throws 6-7 rupees worth 5 each).  Collect the rupees and go get the silver  
+scale.  Now head dive into the hole and go to lake Hylia.  Grab the bottle  
+with a letter in it and swim shore where you'll see two scarecrows.  The  
+one farthest from the water will ask for an 8 note song so make one up. Now 
+swim to the fishing pond.  Go in and pay 20 rupees to fish to get [PoH16]  
+you'll have to catch a 10 pound or bigger fish (basically the one in the  
+middle by the log).  After you've caught the fish leave and swim across the 
+lake to the island with two pillars on it.  Once there make it night time  
+if it isn't already and collect [GS026] (and a fairy spirit).  Now follow  
+the two bridges to the Laboratory where you'll find a mound of soil, use  
+your bugs to collect [GS027], and plant a magic bean there.  Swim back out  
+and dive to get to Zora's Domain again.  Take the letter to King Zora and  
+he'll let you behind him to where Lord Jabu Jabu is.  Go put a fish in the  
+bottle you just emptied and head back up to behind Jabu Jabu.  Before going 
+in to to the immediate right from entering and roll into the lone tree  
+exposing [GS028].  Bomb the wall touching the silver rock and get Farore's  
+Wind before heading back to Jabu Jabu.  Empty your fish in front of him and 
+he'll suck you and the fish into his belly.
+
+_________________________________
+|=====Inside Lord Jabu Jabu=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+There's four Gold Skullitas in here other than that there's really nothing  
+hard in here to get to, until you get the boomerang use Deku sticks on the  
+electrified jellyfish or throw Princess Ruto at them.  When you fight the  
+giant octorock stun him with the boomerang and if he's not facing you, you  
+can run around the platform, either way one jump attack with a Deku stick  
+kills him.
+
+_______________________________________________________________
+|=====Collecting stuff before going to the Temple of Time=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You're back outside if it's day time make it night and you'll see [GS033]   
+on the wall across from the log you started the screen standing on (there  
+was 4 inside Lord Jabu Jabu).  Go back out into Zora's domain.  In Zora's  
+river head out to Kakariko village, if you see the running man doing laps  
+around Lon Lon Ranch, DON'T TALK TO HIM YET.  Go to the house of Skullita  
+and get your Giant's wallet.  Now run into the graveyard and make it night  
+time, in the far right corner there's [GS034] on the wall.  On the way out  
+plant the magic beans in the soil.  Now head into the windmill and look up  
+at [PoH17] when the moving platform puts you on the left side moving away  
+from the piece of heart, throw the boomerang up at the top part of the 
+heart and it'll be pulled down to you (it may take a few tries).  Now head 
+out to the field and sell the running man the bunny hood (he maxes out your 
+rupees, so if you sold it to him when you had the adult's wallet you missed 
+out on 300 rupees).  Now head to Hyrule castle and get the mask of truth.   
+If you don't already have Din's fire go get that now.  Leave the castle and 
+take an immediate left and cross the river and you'll see a lone tree, bomb 
+the tree and a hole will open with [GS035] on a cobweb in the corner.  Now  
+head across the field to Lon Lon Ranch and enter at night time.  On one of  
+the window shudders on Malon's house you'll see [GS036].  Run to the right  
+of the pillar where you previously got the piece of heart and you'll find  
+[GS037] on the wall.  Head back out into Hyrule field and toward Gerudo  
+valley.  On the way up you'll see a circle of rocks in the red soil area.   
+Bomb in the middle of the circle and you'll find a hole with [GS038].   
+Leave the hole and head into Gerudo valley.  At night time if you look to  
+the waterfall you'll see [GS039].  Now pick up the cucco and look out at  
+the river below, on the right you'll see a waterfall.  To the left you'll  
+see a lone crate out on it's own platform (yeah remember the thing to  
+practice in Zora's River).  Glide to the crate, set the cucco down and  
+break the crate.  Now pick it up  again and get [PoH18].  If you're fast  
+enough to pick the cucco up again before he runs off the ledge give your  
+self a pat on the back if not or if you fell off the platform while patting 
+yourself on the back you'll have to ride the river into Lake Hylia and run  
+back through Hyrule field to Gerudo valley where you'll get to take the  
+cucco toward the waterfall.  If you're still on the ledge holding the cucco 
+pat yourself on the back while rubbing your stomach and jumping off toward  
+the waterfall (ok fine you don't have to do all that other stuff just go  
+toward the waterfall).  You'll see a piece of land on the left with a lone  
+cow and lone Gerudo.  From there run as close to the waterfall as possible  
+and jump in the water.  Under the waterfall, you'll see a ladder leading up 
+to a hold in the rock wall with [PoH19] in it.  Go to the Gerudo and the  
+cow and you'll see a small patch of soil, Use your bug (it doesn't matter  
+if you keep it or not it'll be a while before you need them again) and  
+collect [GS040], and plant a magic bean.  Jump into the water and ride it  
+to Lake Hylia.  If it's night time on the side of the lakeside Laboratory  
+you'll see [GS041] (stand on the bridge and throw the boomerang at it).   
+Now head out of Lake Hylia, climb the ladder leading to a ledge over  
+looking the square fenced in area.  Jump into the middle of the fences and  
+set a bomb down and it'll blow a hole in the ground.  Inside you'll find a  
+business scrub who, for 10 rupees, sells you [PoH20].  Now head out of the  
+hole and to Kokiri village.  First off head back into the Great Deku tree  
+(I bet you forgot about that bombable wall in the room with the baby  
+gomas).  And you're thinking, "Crap I gotta go through this whole stupid  
+thing again."  Jump through the gaping hole in the floor in the first room  
+and you'll see a block you probably pushed down to use as a jumping stool,  
+climb up the block and go through the crawl hole on the far wall, in that  
+room is the bombable wall with [GS042].  Now leave the Deku tree and plant  
+a magic bean in the soil next to the shop.  Go into the lost woods and take 
+the first two lefts and plant a magic bean.  Backtrack to the first screen  
+and go right then left then right then left then left and you'll be on the  
+screen with the forest stage.  Plant the beans in the soil and jump into  
+the hole and show off your Mask of Truth to get the first Deku nut upgrade.
+
+
+!!!!!Don't go to the Temple of Time and become an adult until you've shown  
+!!!!!the mask of truth on the forest stage or the Deku nut upgrade will be  
+!!!!!permantly lost
+
+
+Now at the entrance to the sacred forest meadow, bomb the rock and jump  
+into the exposed hole.  There's two business scrubs, one sells the second  
+Deku nut upgrade.  Head back to the entrance to Goron city and climb to  
+the top where you usually come in from.  Now that you have bombs blow up  
+the rocks to your right and go to the far left room which is a rock maze,  
+you're thinking "Man I'm gonna use all my bombs" ...well...  
+*chough*right,left,left,right*cough*.  You'll see a gossip stones and a  
+crate in the corner containing [GS043].  Head back out and see the huge  
+rolling goron below, blow him up and talk to him and he'll give you the  
+biggest bomb bag (it may take a few tries).  Now head back to Kakoriko  
+village before you enter make it night time and enter right after the wolf  
+howls (the grave digging tour is only from 6-9 that would make it 6pm).    
+Assuming you've followed my instructions so far you should have over 400  
+rupees still to waste trying to find [PoH21].  With 42 Gold Skullita’s you  
+can go get some bombchu's from the house of Skullita (you might need it  
+later).
+
+_________________________________
+|=====To the Temple of Time=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+By now you should have a full row of hearts and one on the second row and  
+one piece (if you did the treasure chest game), and 44 Gold Skullitas  
+(that's what I always have at that point).  Now's your chance to do all of  
+that fun stuff to see if it's on your game namely the dying soldier in the  
+alley in the market.  The only miss able item in the whole game is the Deku 
+nut upgrade from showing the mask of truth on the forest stage.  If you  
+don't have it before becoming an adult for the first time it'll be gone for 
+good (then you wouldn't have a 100% file).
+
+___________________________________
+|=====After becoming an adult=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This is where the fun comes in, the two most challenging things in the game 
+come now, going through Gerudo's fortress highly unequipped, and completing 
+the Biggoron's sword side quest without Eponia or the hookshot.  When I 
+play through the game I'm all about making it harder so the temple order 
+I'll be talking you through is Fire, Forest, Water, Spirit, Shadow.  
+
+Head out of Hyrule castle and strait to Lon Lon ranch (make sure you have  
+at least 50 rupees).  Go in and talk to Ingo by the horse pen, he'll charge 
+you 10 rupees to ride the horses, you can get the money back by jumping  
+each of the two fences (five rupees each).  Remember to play Eponia's song  
+to get Eponia to come to you.  You can't win the race with Ingo with any  
+other horse.  Once the time is up pay for another minute on the horse, get  
+your money back and talk to Ingo while on Eponia he'll ask you to race him  
+for 50 rupees (note that he only charges you if you lose but you have to  
+have 50 rupees before he'll race you.  Ingo is generally easy to beat when  
+you have three things in mind.  First don't try to pass him immediately or  
+you'll be pinned up against the wall using carrots and you may or may not  
+end up ahead of him, if you don't you'll be down about half your carrots.   
+He makes wide turns so as you come to a turn stat using carrots and make  
+the turn tighter than he does thus passing him.  Once you're in front of 
+him just stay directly in front of him so he can't pass you and use the 
+carrots as they regenerate.  If you need to regenerate carrots don't use 
+them all after five seconds they'll start regenerating and they'll come 
+back one a second, so every six seconds use one carrot and you'll gain 2 
+and use 1.  When you get to the last stretch, use them all for the win.  
+The second race it a little tougher but as long as you keep in mind the 
+three things from above you'll do fine. After winning the second race Ingo 
+will lock you in...simply jump any of the walls of the ranch and you have 
+your self a horse and if you won both races on the first try and got your 
+money back from jumping those fences you got him for free :D now head to 
+Gerudo Valley and jump the broken bridge on Eponia.  Hop off and head in on 
+foot.
+
+_____________________________
+|=====Gerudo's Fortress=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+How to go through Gerudo's Fortress without the biggoron's sword, hookshot, 
+or bow and without getting caught or knocking out a guard.
+
+!!!!!If you get caught and you don't have the hookshot/longshot you'll be  
+!!!!!thrown out in front of the carpenter’s tent instead of in the normal 
+!!!!!cell
+
+When you walk in go past the stairs and hug the wall as it turns into one  
+big rock.  There's a door in front of you and a Gerudo pacing back and  
+forth.  Stay behind the rock while keeping your distance and wait for her  
+to start walking away from you.  Run into he door in front of you and 
+you'll find yourself in the room with the first carpenter.  When you go to 
+talk to him a Gerudo will drop out of the ceiling with two swords.
+
+
+-----Battling the Gerudo with two swords-----
+
+This is a simple battle as long as you have Deku nuts...if so you can end  
+it flawlessly in about ten seconds.  Deku nuts can stun her in the middle  
+of any of her attacks including her special attack that catches you if you  
+get hit by it.  When she's not attacking and you throw a Deku nut one of  
+two things will happen she'll either A.) get stunned or B.) block it.  Is  
+she gets stunned you can do a jump attack which will knock her on her butt  
+which gives you time to immediately follow up with another jump attack.  If 
+she blocks it immediately follow with a jump attack and you'll hit her as  
+she lowers her guard back to normal.  With this in mind as long as you have 
+about five Deku nuts you can end these fights quickly.
+
+If you don't have Deku nuts the fight will take slightly longer since  
+you'll have to wait for her to attack and make an opening for you to attack 
+her.  If she does her special attack jump to the side once or twice and  
+you'll have dodged it and be in line to attack her.
+
+
+-----End battle section-----
+
+With the woman defeated she runs away and leaves a small key, now go let  
+the carpenter out (NOTE: the carpenters will not just leave once you've  
+opened the cell, you have to talk to them first unlike the Gorons in the  
+Fire Temple).  Now exit the room through the door opposite the side you 
+came in through.  You'll be back outside but inside a square indent of the  
+fortress.  There is a door to your left and the open area with patrols to  
+your right (also a fairy fountain hidden near the crates across from you  
+that requires the song of storms to access).  Go to where the fountain is   
+and you'll see a Gerudo pacing toward/away from you.  When she starts  
+walking away from you, run out and hug the wall to the left which leads  
+into a door where the second carpenter is.  When you go talk to him you'll  
+be attacked by another Gerudo with two swords use the same tactics as  
+before and when she's defeated, you'll get another small key.  Open the 
+cell and talk to the annoying carpenter.  After he runs off like a fairy 
+exit the room through the opposite direction you came in.  You'll find 
+yourself outside again.  You'll be over looking that square indent and 
+there'll be a climbable vine wall to your front left.  Climb the wall and 
+you'll see two doors, one directly in front of you and one to the left of 
+that one.  Go strait first and you'll find your self inside the fortress 
+where there's the third carpenter.  Talk to him and fight the guard.  When 
+you get the key release the girly carpenter and watch him run off in a 
+direction that should immediately get him caught again (fortunately he 
+doesn't cause if he got re-caught I'd leave him).  Now go back out THE WAY 
+YOU CAME IN.  Once outside the door that was on your left will be to your 
+immediate right.  Walk in and you'll be on top of a ramp leading down into 
+a room with a cooking pot against the right wall.  In front of you there's 
+a small ledge sticking out from the wall and past that is the ramp leading 
+out of the room in the direction you need to go.  You'll see below there's 
+two guards pacing back and forth and one that occasionally walks into the 
+room from the adjacent hallway.  Make sure the guard in the hallway is 
+walking away from the cooking pot and the guard nearest you is walking 
+toward the pot as the far guard is walking away from the pot and you'll be 
+able to jump down and run diagonally to the ramp on the opposite end.  Once 
+at the top go out and you'll see that to your right there's a door that's 
+in a square indent in the fortress, one you jump down there you won't be 
+able to get back up without going back through the annoying cooking pot 
+room.  You'll also hear a [GS044] if it's dark out who's up against the wall
+ to your back right.  Without the hookshot you'll have to climb the 
+ledge to you're left and follow the path around to where you'll jump over 
+the two adjacent doors below leading to the third carpenter and the cooking 
+pot room.  Jump across the gap and when the path turns left you'll see 
+another climbable wall.  Climb the wall and follow the top to where you'll 
+see the Gold Skullita on the wall.  The easiest way to kill it is by timing 
+throwing bombs.  Once it's dead you can jump from the ledge and draw your 
+sword giving you enough range to get to the token.  You'll now be standing 
+in the indent with the door you entered the screen to your front left and 
+the door inside the indent in front of you.  If you missed the token, you 
+can jump diagonal to your left and back to where you entered to try the 
+jump again.  Once you've gotten the token jump down in front of you where 
+you'll see the last unexplored room to the left.  Walk in and you'll be 
+inside with a crate next to you.  Don't run strait out because there's a 
+guard pacing up and down that hallway.  Once she walks past run behind her 
+down the hall and to the left where you'll find the fourth carpenter.  
+After talking to him you'll be attacked and you get to beat the Gerudo 
+with two swords again.  She'll drop the key to his door and thus allow you to 
+free the carpenter.  once freed the second in command Gerudo will drop down 
+(wearing the same color outfit as your current tunic, if you change tunics 
+her outfit will change to match).  She'll give you the membership card 
+which will allow you to roam freely through the fortress.
+
+Questions about that part:
+
+Q.  In the room with the cooking pot why didn't you just jump across the  
+ledge and stay above the pacing guards below?
+
+A.  You can't jump to that small platform sticking out of the wall because  
+of how far away it is.  The only way to get to it is using the hover boots  
+or the hookshot/longshot.
+
+_________________________________________________________________________
+|=====Between Gerudo's fortress and the Biggoron's sword side quest=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+On the way out of Gerudo Valley jump into the river and take it into Lake  
+Hylia, run up to where the lone scarecrow is on the bank near the fishing  
+pond and play that song you made up.  With your new song you can call the  
+scarecrow to certain places where Navi reacts.  Go to the Lakeside  
+Laboratory and ride on the plant next to it to the fishing pond.  Go in and  
+catch that middle fish again to get the Gold Scale.  Now exit again and go  
+back to the Lakeside Laboratory.  Go in, jump in the water, and dive till  
+you touch the bottom, now talk to the man, and collect [PoH22].  Head back  
+toward the Castle and pass between Gerudo Valley and Lon Lon ranch.  As  
+you go up the hill go to the first tree to your left and set a bomb next  
+to it.  A hole will open up and you'll see a tektite on top of the water.   
+Kill it and dive into the water and get [PoH23] from the bottom of the  
+pool.
+
+_______________________________________
+|=====Biggoron's sword side quest=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This is relatively simple other than the three timed items which are still  
+no problem (you'll run through the lost woods for all of them).  Head to  
+Kakoriko (make sure it's day time) and talk to the cucco lady, she'll give  
+you a pocket cucco egg.  Put it on a C button and play the sun's song twice 
+(thus hatching the egg).  Now go into the house at the bottom of the large  
+set of stairs and you'll see Talon a sleep.  Use the cucco to wake him up  
+and head back to the cucco lady.  Use the cucco near her and she'll give  
+you a blue cucco Cojiro.  Before you leave run into the windmill and learn  
+the Song of Storms.  
+
+Now head to the lost woods, from the entrance go left and you'll see a 
+young punk kid where the Stalchild used to be.  Show him Cojiro and he'll 
+give you a forest mushroom which will spoil in three minutes.  
+
+Now run out the way you didn't enter this screen and you'll see that the 
+bean plant is now a platform that'll move you past that bridge that links 
+Kokiri village and Hyrule field.  Run into Hyrule field and hug the right 
+wall as you run out into the field, you'll see a small body of water coming 
+from Zora's river.  Go to the right side of the river and run in the 
+shallows of the river to Kakoriko village (make sure it's daytime when you 
+enter).  Now run up the stairs to your front and you'll see two shops, the 
+right shop sells potions so run through there and to the left side of the 
+shop keeper.  That path will put you back out in the village but behind his 
+shop, now run across to the old hag's potion shop.  She'll take the 
+mushroom on the second try (never worked for me on the first try) and give 
+you an odd potion (from this point on you can buy blue potions from her for
+100 rupees).  
+
+Now take the odd potion back to the Lost Woods where you'll see a Kokiri  
+there in place of the guy from before.  She'll trade the odd potion for the 
+poacher's saw.  
+
+Remember doing Gerudo valley...well since there's a bridge there now, you  
+can get there by foot.  Talk to the carpenter outside the tent and he'll  
+give you a broken biggoron's sword.  
+
+Now head to the top of death mountain.  The quickest way is to go to the  
+lost woods and from there to Goron City.  In Goron City you'll notice  
+there's only one Goron there and he's rolling around.  Bomb him and he'll  
+unlock Durana's room and give you the Goron's Tunic.  Now run into Durana's  
+room, pull the statue away from the wall, and take the entrance into  
+death mountain.  From inside death mountain go to the right and you'll see  
+a red rock on the edge of the cliff.  Jump over the edge of the cliff and  
+you'll see another cliff below you which you'll land on.  There's a ladder  
+to your left that'll lead you up to where you'll see that wall you climbed  
+down as a kid and the exit to death mountain to the right (next time you  
+make this trip you'll be timed so practice/remember it well.)  To your left 
+you'll see Biggoron, show him the broken sword and he'll give you a 
+prescription for his eye drops.  
+
+Unfortunately, that way in from Goron's city is one way because of that  
+jump.  So head down death mountain avoiding the flaming rocks as you run.   
+You'll need 300 rupees to buy a blue fire for King Zora so on they way down 
+the mountain swing by the entrance to Goron city.  Stand in the middle of  
+the circle of rocks and play the song of storms and a hole will open.   
+inside you'll find a fish (bottle it) and a treasure chest with 200 rupees  
+in it.  Now head to Kakoriko.  Before going into the potion shop go to the  
+beggar next to the item shop and sell him your fish for 100 rupees.  Now  
+run into the potion shop and buy a blue fire.  Now head to Zora's River.   
+Ride your plant platform most of the way up the river and walk on foot to  
+Zora's domain.  The whole place is frozen but the trip back will be more  
+simple than you think.  Go up to King Zora and stand next to him and use  
+the blue fire.  Once he's unfrozen he'll give you the Zora's tunic and when 
+you show him the prescription he'll give you an eyeball frog (you have  
+three minutes to get to Lake Hylia).  
+
+Immediately play the Sun's song and you'll be back at the entrance to  
+Zora's domain.  Exit to Zora's river and go to the left through the portal  
+to the lost woods.  Once there go strait then left then right then strait  
+and left and you'll be at your plant from before that can get you out of  
+the forest quickly (jump off onto the bridge).  Now keep rolling toward  
+Lake Hylia and you should make it with about 40 seconds left.  
+
+After showing the frog to the guy there, he'll give you the eye drops...now 
+you have four minutes to get to the top of Death Mountain.  Go back to the  
+lost woods and into Goron City, from there take the same route you went  
+through before and you'll come out on top of death mountain in a little  
+over three minutes.  Give the eye drops to Biggoron and he'll give you the  
+claim check for the broken sword.  In three days he'll exchange the  
+claim check for the Biggoron's sword.
+
+__________________________________
+|=====Before the Fire Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You can't get into the Fire Temple without the hookshot so head back to  
+Kakoriko and into the graveyard in the back.  Ride your magic bean pant up  
+and break the crate where you'll see [PoH24].  Now pull the corner grave  
+closest to your bean plant out and drop into the hole.  You see the ghost 
+of Dampe in front of you wanting to race you.  The race is relatively 
+simple since you only have to follow him (there really are no shortcuts 
+there but there are however redeads.)  When you get to the end with him 
+he'll give you the hookshot.  You'll exit into the top of the windmill 
+(after using the song of time to move the blue block).  Now go back into 
+the grave and beat him again but this time in one minute or less.  It's a 
+little harder just roll on strait-away’s, dodge his fire particularly 
+during turns where you can be blindsided (listen for the sound of when he 
+throws fire as you get to the corners to know if it's safe to roll or not). 
+When you get to the last circular room, keep rolling and you should have 
+no problem.  Just because you get hit by fire doesn't mean it's over, I've 
+been hit by fire twice and still got there in under a minute.  When you get 
+into the room where he gave you the hookshot, if you did it in one minute 
+or less you'll be rewarded with [PoH25].  Now leave and make it night time 
+and go to the cucco lady's house.  Stand on the crate next to her door and 
+shoot the roof of the House of Skullita.  From that roof turn back around 
+and hookshot the cucco lady's roof, against the wall of the town you'll see 
+[GS045].  Head to Goron city (still night time) and walk out onto the 
+platform being held up by ropes.  On the back side of the platform, you'll 
+see [GS046].  Now go into Death mountain (via the entrance behind the 
+statue in Durana's room) and enter the Fire Temple.
+
+___________________________
+|=====the Fire Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The only time the bow is needed is to get the map, in the room with the  
+maze and rolling boulders go through the bottom locked door and you'll see 
+a silver eye on the wall to unlock the room the map is in.  Instead go  
+through and into the next room where the wall of fire comes up behind you  
+and chases you. Once to the high side the door will be to your front right  
+with a cage to the right.  Pass the door and walk to the cage and you'll  
+see that you can climb over the side of the cage where you'll drop onto the 
+map.  The most frequently missed Skullita is near there as well.  walk out  
+onto the second level of that room with the maze of rolling boulders and  
+play the scarecrow's song.  Hookshot the scarecrow then turn around and  
+hookshot the target leading up to a hidden room.
+
+Assuming you get all of the Gold Skullitas in the temple you'll have 52 by  
+the time you leave.
+
+_________________________________
+|=====After the Fire Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Now that you've beat the fire temple make your way back out of the crater,  
+hookshot across the broken bridge and you'll see two red rocks in the way  
+of a cave.  Break the rocks and go through to get the magic upgrade.   
+Continue out of death mountain through the top of the mountain so you end  
+up next to Biggoron.  Go down to the path leading up the mountain where the 
+volcano previously erupted and smash the red rock up against the left  
+wall.  Make it night time and you'll see [GS052].  Now continue down to  
+where you picked the bomb flower as a kid to open up Dodongo's cavern and  
+break the red rock exposing [GS053].  Now go back into Dodongo's cavern and 
+to the right where the baby Dodongo's came out of the ground.  Play the  
+scarecrow's song and you'll be able to hookshot into an indent in the wall  
+with [GS054].  Head back out into the main room and take the raising  
+platform to the second level and follow your original path backwards to  
+the room where you set off a chain reaction of bomb flowers to lower the  
+staircase.  One side of the staircase has vines on it so you can climb up  
+it and collect [GS055]
+
+Leave the level and go back into Goron City.  Take the path to the lost  
+woods.  Take the first let and you'll see Mido blocking the path.  Play  
+Saria's song and he'll move letting you continue, take the first left and  
+you'll be on the screen with the forest stage.  Stand on the bean plant and 
+it'll raise you up to the ledge where [GS056] is sitting.  Head to the  
+sacred forest meadow and as you come up to the beginning of the maze play  
+the scarecrow's song.  Hookshot the scarecrow and you'll be on top of the  
+annoying maze you were going to have to go through.  On the right wall  
+you'll see [GS057].  Continue past the club swinging enemy and into the  
+forest temple.
+
+_____________________________
+|=====The Forest Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+All of the Skullita's in this level are pretty easy to find and there are  
+five of them.  I'd say the hardest part would be the stalfos but with Deku  
+nuts it's a piece of cake, basically they have two attacks, a normal swing  
+and a jump attack.  You can stun them in the middle of either.  If you  
+don't have Deku nuts when they slash normally jump to your right.  For  
+their jump attack lunge and stab.  And for the poes shoot them with the  
+hookshot and pull them in, then as they run shoot them with the bow and  
+repeat when they appear again.
+
+___________________________________
+|=====After the Forest Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You now have 62 Gold Skullitas and you'll reappear at the Great Deku tree.  
+Make sure it's night time and walk out into the town, turn left as you walk 
+out and you'll find [GS063] on top of the house with two pillars on top.   
+Now head out and to Gerudo valley.  Make sure it's still night time and  
+head up to the horse back archery range and go to the far target and you'll 
+see [GS064] on the target.  Make it day time and do the horseback archery  
+and collect [PoH26] and the first quiver upgrade.  Some tricks for the  
+horse back archery are really simple, on the way down shoot each of the 8  
+pots, after hitting the eighth pot start shooting the big target at the end 
+as you loop around it, on the way pack put one in each of the three bull's 
+-eyes and unload the rest of your arrows into the last target.  Now head  
+back to the fortress and go into the dreaded cooking pot room.  Take the 
+top exit and you'll see where the Skullita was on the wall.  Call the 
+scarecrow to the top and run around to where you jumped from to get the 
+token the first time through.  Inch as close to the edge as possible and 
+line up with Pierre so you can get the most range out of the shot.  You 
+won't see the dot on him but you can barely hook him.  On that platform 
+you'll find a treasure chest with [PoH27] inside.  Now exit the fortress 
+and go behind the carpenter’s tent at night time and on the wall you'll 
+find [GS065].  Go to the stone pillar across from the tent's entrance and 
+you'll find [GS066].  Now head out of Gerudo Valley and to Lon Lon Ranch 
+(ride Eponia in).  Talk to Malon and she'll let you run an obstacle course 
+with Eponia to win a cow for your house.  The course is rather simple you 
+don't need a carrot to jump the smallest fences.  So as long as you hug the 
+wall and only use your carrots before the large jumps you'll be ok.  
+Remember to use carrots every 6 seconds if you need to replenish them if 
+not use them as they come back.  The best time I've ever made on it was 47 
+seconds but you're aiming for 50 or less.
+
+_________________________________
+|=====A Hunting We Will Poe=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Yeah I know the pun was bad but here's the section on finding the 10 big  
+poes.  Keep in mind you can steer them away from walls by moving toward the 
+direction you want them to go away from and they'll go away from you (and  
+in turn away from the wall).  I'm a fan of getting them in order from  
+hardest to easiest so:
+
+01.) Head to Gerudo valley area.  There's a tree near a steep hill, ride  
+past the tree (bumping into the right side) and up the hill.  Once you're  
+at the top use your remaining carrots and start shooting the poe.
+
+02.) Turn around and ride across the path in front of Gerudo valley where  
+the path splits.  if you ride strait toward the poe he won't sway left or  
+right into the wall, if that doesn't work out too well go across the same  
+place in the opposite direction.
+
+03.) Go to the land bridge near Kakoriko village.  Back in with Eponia and  
+a poe will appear in front of you.  Take off after him and shoot him down  
+before you get to the fence.
+
+04.) Go to the stream North of Hyrule castle.  Back Eponia into the corner  
+furthest from the castle.  If the poe appears take off after it, if not  
+ride forward hitting the bushes and it'll appear.
+
+05.) Ride between the tree by the entrance to Lon Lon Ranch and the ranch  
+its self and a poe will appear (Steer it to the right so you don't hit the  
+stone wall and be ready to jump the fence unless you can shoot it first)
+
+06.) Pass the corner of the stone wall (usually toward the castle) and a  
+poe will appear.
+
+07.) Pass the lone silver rock near the stone wall and a poe will appear.
+
+08.) Ride toward Lake Hylia through the wooded area adjacent to Kokiri  
+Forest and as you pass one of the center trees a poe will appear.
+
+09.) On the out side of that wooded area ride through the middle of the  
+patch of bushes and a poe will appear.
+
+10.) Ride past the sign directly in front of Hyrule castle and a poe will  
+appear.
+
+I've caught all 10 and only used 20 arrows before which is one reason  
+behind not getting the biggest quiver first.  After exchanging the poes for 
+points on you card you'll get the fourth bottle (and if you don't spend any 
+money you'll have 500 rupees).  
+
+_________________________________
+|=====Before the Ice cavern=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Now head to Kakoriko and play the shooting gallery to get the biggest  
+quiver (and to refill the arrows used in poe hunting).  Swing by the house  
+of Skullita and get your last reward [PoH28].  Now head to Zora's river.   
+Ride your bean plant to where the ladder is near the gossip stone on it's  
+own platform.  Make sure it's night time and on the wall closest to Hyrule  
+field you'll see [GS067].  Make your way up stream to the entrance to  
+Zora's domain.  As it starts snowing look up and to your left and you'll  
+see [GS068] (you'll have to line up with it and stand on the fence to  
+hookshot it.)  Make sure it's night time when you go into Zora's domain and 
+go to the edge of the waterfall where you'll see [GS069] to your left on  
+the wall.  Head into where Jabu Jabu used to be and you'll see [PoH29] on a 
+piece of floating ice.
+
+__________________________
+|=====The Ice Cavern=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The Ice Cavern is pretty simple there is one piece of heart and 3 Gold  
+Skullitas.
+
+________________________________
+|=====After the Ice Cavern=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+On your way out of the Ice Cavern equip the iron boots and sink to the  
+bottom of the pool Lord Jabu Jabu used to be in and you'll find [PoH31].   
+Now make your way to Lake Hylia.  Once you're there ride your plant to the  
+top of Lakeside Laboratory and climb the ladder to collect [PoH32].  Now  
+ride the plant again to the Finishing Pond.  Once there catch the middle  
+fish (19-21 pound fish) and collect the gold scale.  Now head back to the  
+Lakeside Laboratory and enter.  Put on the iron boots and sink to the 
+bottom of the water there where you'll find a crate with [GS073] inside.  
+Now enter the water temple.
+
+________________________
+|=====Water Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+As difficult as the Water Temple is known for being there are only 5 Gold  
+Skullitas.  Four of which require the longshot.  The most missed ones are  
+the one on the right wall two rooms away from Shadow Link, In the room with 
+the waterfall and the moving platforms you have to hookshot up one by one.  
+And after getting the longshot use the iron boots to stop in the 
+straightaway between the whirlpools in the underground river.
+
+!!!!!After getting the longshot is your first available time to get the 
+!!!!!fire arrows.  You don't have to complete the level just shoot the sun 
+!!!!!as usual (you can see it through the clouds).  walk down the ledge and 
+!!!!!call the scarecrow to the platform where the arrow landed.  Now 
+!!!!!longshot him.
+
+__________________________________
+|=====After the Water Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Now you're back on top of the center Island in Lake Hylia, when the scene  
+ends run to the pedestal next to the tree and shoot an arrow at the sun and 
+the fire arrows will drop.  After collecting them go back to the tree and  
+longshot so you're standing on top of the one branch of the tree, now make  
+it night time and collect [GS079].  Make your way out and to Kakoriko  
+Village, when you get there you'll learn possible the most useful song  
+ever.  Now head back toward Hyrule Castle, before going into the temple of  
+time go to where Hyrule Castle used to be and you'll see Ganon's tower.   
+Run to where the remains of the gate are laying down and on the back side  
+you'll see [GS080].  Now head to the Temple of time and become a kid again. 
+While you're at the Castle head in and get Din's fire (if you didn't  
+before), after collecting the magic take the path you followed to meet  
+Zelda the first time.  When you come out of the water on the far side of  
+the walkway you'll see a lone tree by the fence.  Play the Song of Storms  
+and a hole will appear with [GS081] inside.  Now warp to Kakoriko and head  
+into the windmill.  Teach the guy the Song of storms so he can teach it to  
+you in the future and the well will drain.  Now head into the bottom of the 
+well.
+
+__________________________________
+|=====The Bottom of The well=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+My least favorite place in the whole game, fortunately there are only 3  
+Gold Skullitas here and none of them are hard to find.
+
+________________________________________
+|=====After the Bottom of the Well=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Head to Zora's River back to the frogs you played music for.  Play the Song 
+of Time and after playing the Song of Storms they'll give you [PoH33].  Now 
+talk to them again and they'll ask you to play an ocarina game where they  
+eat the flies above their head, after winning you'll receive [PoH34].  Now  
+warp to the temple of time (if you didn't get the Piece of Heart from the  
+Treasure Chest game make it night time and do so now) and become an adult  
+again.  Now head to Gerudo valley.  Where you can now get the ice arrows.
+
+__________________________________
+|=====Gerudo Training Ground=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+!!!!!First and foremost it is NOT possible to miss the ice arrows there 
+!!!!!are 8 locked doors and 8 keys.  At worst you'll have to return with 
+!!!!!the silver gauntlets
+
+
+Go to the right door first, there'll be two lizfos and a beamos in the room 
+and you'll be timed to beat the three of them.  I usually just maul the  
+lizfos (if they're attacking and they get hit they stop what they were  
+doing).  After beating them you'll get a key (that's one).  Now go to the  
+next room and there'll be a huge pit of lava with a few pillars in the  
+lava.  Jump to the front most pillar which is slightly to your left and  
+play the song of time making two blue blocks appear.  Now go to your left  
+to the switch and step on it (it makes that circle of fire go away).  Now  
+jump across the pillars back to the one you were on when you made the  
+blocks and you can jump to the lowest one.  Climb up and collect the key  
+(that's two).  Now jump to your right where the pillar of fire was and  
+collect the rupee, hookshot the torch on the door opposite the way you came 
+in and continue collecting the rupees (that was the hard one).  The side  
+door with the torch next to it should be your next door.  Go in and you'll  
+see four blue blocks there.  Play the Song of time opening the hole and  
+jump into the water.  Use the iron boots to sink to the bottom and start  
+collecting the rupees (if you don't have the longshot you'll have to get  
+good at putting on and taking off the iron boots).  After collecting the  
+rupees you'll get another key (that's three).  Go back to the room with the 
+lava and to the door to your right.  Inside you'll find a chest surrounded  
+by fire along with some fire bats and lava slug enemies.  Kill the enemies  
+and start hitting the pillars against the wall with the megaton hammer, one 
+will open a switch to stop the circle of fire, another will expose an eye  
+you can shoot on the wall to make another treasure chest drop (the one with 
+your fourth key in it).  Now exit through the door you haven't been through 
+and you'll be in a round room where you have to blind the eyes of the  
+statue.  It's pretty simple stand on the round platform and it starts  
+moving around the room.  Aim at the center and shoot the eyes as they come  
+in range and a treasure chest will drop and a door will unlock.  The door  
+that unlocked wasn't the one you came in through it was the one on the  
+catwalk above you.  Get the key from the chest (that's five) and head back  
+out the way you came in.  Go back to the first room and go onto the left  
+door (opposite the side you went through the first time).  you'll be in a  
+room with sand and rocks and you'll have 1 minute to kill 2 stalfos and get 
+the key from the chest they drop (that's five).  
+
+
+!!!!!only 6 keys are required to get to the ice arrows so if you have five 
+!!!!!now skip to the next paragraph
+
+
+After killing them you'll be in a room where you'll immediately see a  
+timer.  As expected you'll be collecting silver rupees.  the only thing to  
+keep in mind is that the middle section has a wall master that will fall on 
+you if stand still too long.  Keep in mind there are targets on the ceiling 
+for you to hookshot to.  After collecting the rupees head into the next  
+room, inside you'll see on the wall across from you a silver gauntlet block 
+and a door to the front left.  As you walk in you'll be attacked by four  
+wolfos.  After killing them use the lens of truth and you'll see a hole in  
+the wall above the fake door.  You can longshot to the target then step on  
+the switch to unlock the door you came in through.  Walk through the door  
+in front of you and you'll be on top of the circular catwalk above the room 
+with the statue whose eyes you shot.  Since you already blinded the eyes 
+the door on the walkway with you is unlocked, run in and collect the key 
+from the chest (that's six).  Now head back to the room with the wolfos and 
+push the silver gauntlet block (if you have the silver gauntlets) enter the 
+room and you'll see three likelikes in three holes keeping them from 
+getting you.  Don’t moves just shoot them with arrows or sword spin.  Once 
+they've been killed use the lens of truth and you'll see a treasure chest 
+in each hole.  The back right hole has a key in side (that's seven).  
+
+Now head back to the first room and go through the center door there'll be  
+a locked door to your left and right.  Unlock the door to your left and  
+once you enter go to your immediate left and climb the fence wall into a  
+hidden room with another key (that's either six or eight).  Continue  
+through the maze in the direction you were heading and you'll get to the  
+center where you'll get the ice arrows.  The only good thing about the ice  
+arrows is that they kill likelike's in one hit.  Remember to loot the place 
+on the way out, there's a few places where you can get bombchu's.
+
+________________________________
+|=====To the Spirit Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Once there start into the haunted wasteland, it's easiest to go through the 
+wasteland in the day time so I suggest making it daytime before getting too 
+far if it isn't already.  When you get to the center oasis climb to the  
+bottom and on the wall you'll see [GS085].  Climb back out and use the lens 
+of truth to follow the ghost to Desert Colossus.  When you enter you'll see 
+two trees next to a cracked wall to your front right, run over there (while 
+avoiding the leavers) and bomb the wall, inside you'll get Naru's Love.   
+Now head to the giant statue in the wall and enter the temple.  Once inside 
+walk back out and you'll learn the song to warp there.  Now warp to the  
+temple of time and become a kid again.  Bottle a bug (the closest one is by 
+the tree in front of the gate at Hyrule castle).  Now play the Bolero of  
+fire and you'll see next to the warp point a mound of soil, use and  
+rebottle a bug to collect [GS086], now plant the bean and warp to Desert  
+Colossus.  To the left of the Spirit temple entrance you'll find the last  
+mound of soil.  Use your bug to collect [GS087] and plan your last bean.   
+Now head into the temple.
+
+________________________________________
+|=====The Spirit Temple (as a kid)=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+There are five Gold Skullitas in the temple three of which can be collected 
+as a kid or as an adult (since you can backtrack as an adult).  The  
+remaining two must be collected as an adult.  
+
+______________________________________________
+|=====After the Spirit Temple (as a kid)=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Now warp back to the Temple of time and become an adult again.  You'll  
+notice you have the silver gauntlets equipped so head to Lord Jabu Jabu's  
+area to where you got Farore's Wind (be sure it's night time).  There's a  
+silver rock that couldn't be bombed before lift it with the gauntlets and  
+drop into the hole, after killing a series of invisible skullitas you'll  
+find a ladder, climb to the top and kill one more skullita and on the wall  
+to your left you'll see [GS091].  Now play the Bolero of Fire and you'll  
+see that the bean you had planted is now a platform that will take you up  
+around one of the smoking rocks with [PoH35] on top.  Now play the Requiem  
+of Spirit and warp to the Spirit Temple.  On the opposite side of the 
+Temple entrance from where you're standing you'll see a crater with a rock 
+outside of the ground next to it.  Stand on the rock and play the song of 
+storms to make a fairy fountain.  On the back side of one of the palm trees 
+(at night time) you'll see [GS092].  Now head back to where you planted the 
+magic beans as a kid and ride on the bean plant (be sure it's night time) 
+as you pass one of the rocks you'll see [GS093] on top of it.  After 
+collecting the skullita head back to that bean platform and ride it one 
+last time until it goes under the 'upside-down 'U' shaped platform".  On 
+top you'll find [PoH36].  Congratulations you've collected all of the 
+pieces of heart in the game.  Now enter the Spirit Temple again.
+
+_______________________________________
+|=====Spirit Temple (as an adult)=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+There are two Gold Skullitas left assuming you got the three from the trip  
+through as a kid.  The hardest one to get is on the right side of the huge  
+statue.  To get the scarecrow to appear on the ledge by the statue's right  
+hand walk up the right bicep and play the song.
+
+_____________________________
+|=====The Shadow Temple=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After completing the Spirit temple you can warp strait to the Shadow  
+Temple, inside this temple there are a total of five Gold Skullitas  
+(imagine that, you walk in with 95 and there are 5 more inside the level).   
+The most frequently missed one is on the screen with the ship, you can call 
+the scarecrow to the platform above where the block you dragged across the  
+room started, and longshot the scarecrow.
+
+_______________________
+|=====What's left=====|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Well so far the only things you don't have is the cow in your house, the  
+gold gauntlets, the heart lining, and the light arrows.  With all 100 Gold  
+Skullitas you now have infinite rupees since the father of the skullita  
+family will give you 200 rupees every time you talk to him for the first  
+time in that screen (i.e. talk to him then leave and re-enter and talk to 
+him again).
+
+So head to the Temple of Time and you'll get the light arrows (look I  
+explained it without spoiling anything) now head across the new bridge into 
+Ganon's castle.  Make the first barrier you go through the shadow barrier,  
+after that the order doesn't matter (actually you can go in any order but  
+the shadow must be done before the fire or light barriers can be  
+completed).  Once you walk in you'll see a green bubble in front of you  
+(easy to kill) and a likelike on the platform ahead (sneaky huh) now  
+remember those ice arrows you fought long and hard to get shoot the  
+likelike with one and it'll die in one hit.  Now shoot the torch to your  
+right with a rife arrow and run like there's no tomorrow.  Once on the  
+second platform you'll see a switch on a platform close to the bottom of  
+the screen.  Use the lens of truth and you'll see a path that crosses by it 
+where you can jump from.  Once you hit the switch a treasure chest will  
+drop which you can hookshot to and get the gold gauntlets.  Now finish the  
+shadow barrier and leave the castle.  Once you cross the bridge new bridge  
+run to your left where you see a huge pillar like block...toss it aside and 
+go in where you'll find a fairy fountain and you'll receive the white  
+lining around your hearts making all damage to you reduced by half.
+
+Congratulations you now have everything...a 100% perfect file.
+
+
+___________________________________________________________________________
+---------------------------------------------------------------------------
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+For the record I did about 98% of this from memory, the only things I had 
+to actually play the game for was to remember which rooms came next in 
+Gerudo's Fortress...yeah I play too much OoT.
+
+And now to thank the big people, thanks to Nintendo for making the game and 
+for Cjayc for making this site for me to submit my FAQ to.  And thank you 
+for reading my FAQ (and putting up with my horrible poe pun).
+
+Again if you have any comments feel free to email me at 
+kanzen_muketsu(at)yahoo(dot)com.
+
+---------------------------------------------------------------------------

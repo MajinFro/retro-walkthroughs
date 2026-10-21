@@ -1,0 +1,3420 @@
+{
+  "nodes": [
+    {
+      "id": "Kokiri_Forest",
+      "label": "Kokiri Forest",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-133-1",
+        "gf2-159-2"
+      ]
+    },
+    {
+      "id": "Lost_Woods",
+      "label": "Lost Woods",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-1",
+        "checklist-heartpieces-3-2"
+      ]
+    },
+    {
+      "id": "Inside_Deku_Tree",
+      "label": "Inside the Deku Tree",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-27-5",
+        "gf1-383-1"
+      ]
+    },
+    {
+      "id": "Hyrule_Field",
+      "label": "Hyrule Field",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-12",
+        "gf1-377-2"
+      ]
+    },
+    {
+      "id": "Hyrule_Market",
+      "label": "Hyrule Market",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-4",
+        "checklist-sidequests-2-1"
+      ]
+    },
+    {
+      "id": "Hyrule_Castle",
+      "label": "Hyrule Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-173-4",
+        "gf1-39-2"
+      ]
+    },
+    {
+      "id": "Lon_Lon_Ranch",
+      "label": "Lon Lon Ranch",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-sidequests-13-11",
+        "checklist-sidequests-15-6"
+      ]
+    },
+    {
+      "id": "Kakariko_Village",
+      "label": "Kakariko Village",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-8",
+        "checklist-heartpieces-4-5"
+      ]
+    },
+    {
+      "id": "Kakariko_Graveyard",
+      "label": "Kakariko Graveyard",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-6",
+        "checklist-heartpieces-3-7"
+      ]
+    },
+    {
+      "id": "House_of_Skulltula",
+      "label": "House of Skulltula",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-120-1",
+        "gf2-150-3"
+      ]
+    },
+    {
+      "id": "Sacred_Forest_Meadow",
+      "label": "Sacred Forest Meadow",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-395-1",
+        "gf1-456-1"
+      ]
+    },
+    {
+      "id": "Death_Mountain_Trail",
+      "label": "Death Mountain Trail",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-359-1",
+        "gf1-400-2"
+      ]
+    },
+    {
+      "id": "Goron_City",
+      "label": "Goron City",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-10",
+        "checklist-sidequests-2-8"
+      ]
+    },
+    {
+      "id": "Dodongos_Cavern",
+      "label": "Dodongo's Cavern",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-485-1",
+        "gf1-485-2"
+      ]
+    },
+    {
+      "id": "Death_Mountain_Crater",
+      "label": "Death Mountain Crater",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-4-11",
+        "checklist-heartpieces-4-12"
+      ]
+    },
+    {
+      "id": "Zoras_River",
+      "label": "Zora's River",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-4-1",
+        "checklist-heartpieces-4-2"
+      ]
+    },
+    {
+      "id": "Zoras_Domain",
+      "label": "Zora's Domain",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-4-3",
+        "checklist-sidequests-2-15"
+      ]
+    },
+    {
+      "id": "Lake_Hylia",
+      "label": "Lake Hylia",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-4-8",
+        "checklist-heartpieces-5-2"
+      ]
+    },
+    {
+      "id": "Fishing_Pond",
+      "label": "Fishing Pond",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-13",
+        "checklist-heartpieces-6-4"
+      ]
+    },
+    {
+      "id": "Gerudo_Valley",
+      "label": "Gerudo Valley",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-3-11",
+        "checklist-sidequests-2-18"
+      ]
+    },
+    {
+      "id": "Zoras_Fountain",
+      "label": "Zora's Fountain",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-4-13",
+        "checklist-heartpieces-4-15"
+      ]
+    },
+    {
+      "id": "Inside_Jabu",
+      "label": "Inside Jabu-Jabu's Belly",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-109-2",
+        "gf1-113-4"
+      ]
+    },
+    {
+      "id": "Temple_of_Time",
+      "label": "Temple of Time",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-sidequests-35-2",
+        "gf1-167-1"
+      ]
+    },
+    {
+      "id": "Ice_Cavern",
+      "label": "Ice Cavern",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-4-14",
+        "checklist-sidequests-2-30"
+      ]
+    },
+    {
+      "id": "Forest_Temple",
+      "label": "Forest Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-153-4",
+        "gf1-162-6"
+      ]
+    },
+    {
+      "id": "Fire_Temple",
+      "label": "Fire Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-186-1",
+        "gf1-186-2"
+      ]
+    },
+    {
+      "id": "Water_Temple",
+      "label": "Water Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-220-1",
+        "gf1-232-1"
+      ]
+    },
+    {
+      "id": "Bottom_of_the_Well",
+      "label": "Bottom of the Well",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-390-1",
+        "gf1-517-3"
+      ]
+    },
+    {
+      "id": "Shadow_Temple",
+      "label": "Shadow Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-275-4",
+        "gf1-275-7"
+      ]
+    },
+    {
+      "id": "Gerudo_Fortress",
+      "label": "Gerudo's Fortress",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-heartpieces-5-8",
+        "checklist-sidequests-2-26"
+      ]
+    },
+    {
+      "id": "Gerudo_Training_Ground",
+      "label": "Gerudo Training Ground",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-364-1",
+        "gf1-373-5"
+      ]
+    },
+    {
+      "id": "Haunted_Wasteland",
+      "label": "Haunted Wasteland",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-289-4",
+        "gf2-149-1"
+      ]
+    },
+    {
+      "id": "Desert_Colossus",
+      "label": "Desert Colossus",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-sidequests-2-36",
+        "gf1-391-1"
+      ]
+    },
+    {
+      "id": "Spirit_Temple",
+      "label": "Spirit Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-322-1",
+        "gf1-322-2"
+      ]
+    },
+    {
+      "id": "Ganons_Castle",
+      "label": "Ganon's Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-411-4",
+        "gf1-416-2"
+      ]
+    },
+    {
+      "id": "Ganons_Tower",
+      "label": "Ganon's Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-266-5",
+        "gf3-266-1"
+      ]
+    },
+    {
+      "id": "Queen_Gohma",
+      "label": "Queen Gohma",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-32-3",
+        "gf2-118-1"
+      ]
+    },
+    {
+      "id": "King_Dodongo",
+      "label": "King Dodongo",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-518-3",
+        "gf1-518-4"
+      ]
+    },
+    {
+      "id": "Barinade",
+      "label": "Barinade",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-115-3",
+        "gf1-115-4"
+      ]
+    },
+    {
+      "id": "Phantom_Ganon",
+      "label": "Phantom Ganon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-162-6",
+        "gf1-519-6"
+      ]
+    },
+    {
+      "id": "Volvagia",
+      "label": "Volvagia",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-202-3",
+        "gf1-202-4"
+      ]
+    },
+    {
+      "id": "Morpha",
+      "label": "Morpha",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-240-3",
+        "gf1-240-4"
+      ]
+    },
+    {
+      "id": "Bongo_Bongo",
+      "label": "Bongo Bongo",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-275-4",
+        "gf1-275-7"
+      ]
+    },
+    {
+      "id": "Twinrova",
+      "label": "Twinrova",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-322-2",
+        "gf1-323-1"
+      ]
+    },
+    {
+      "id": "Ganondorf",
+      "label": "Ganondorf",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-344-3",
+        "gf1-344-4"
+      ]
+    },
+    {
+      "id": "Ganon",
+      "label": "Ganon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-347-5",
+        "gf1-347-6"
+      ]
+    },
+    {
+      "id": "Dark_Link",
+      "label": "Shadow Link (Dark Link)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-231-3",
+        "gf2-125-2"
+      ]
+    },
+    {
+      "id": "Dead_Hand",
+      "label": "Dead Hand",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-517-3",
+        "gf3-244-2"
+      ]
+    },
+    {
+      "id": "Flare_Dancer",
+      "label": "Flare Dancer",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-196-1",
+        "gf2-123-1"
+      ]
+    },
+    {
+      "id": "Kokiri_Sword",
+      "label": "Kokiri Sword",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-133-1",
+        "gf2-159-2"
+      ]
+    },
+    {
+      "id": "Fairy_Slingshot",
+      "label": "Fairy Slingshot",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-383-1",
+        "gf2-11-2"
+      ]
+    },
+    {
+      "id": "Kokiri_Emerald",
+      "label": "Kokiri's Emerald",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-32-6",
+        "gf1-421-1"
+      ]
+    },
+    {
+      "id": "Zeldas_Letter",
+      "label": "Zelda's Letter",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-39-4",
+        "gf1-58-2"
+      ]
+    },
+    {
+      "id": "Zeldas_Lullaby",
+      "label": "Zelda's Lullaby",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-40-1",
+        "gf2-16-3"
+      ]
+    },
+    {
+      "id": "Sarias_Song",
+      "label": "Saria's Song",
+      "kind": "key_item",
+      "fact_ids": [
+        "ra-guide-6-4",
+        "gf1-393-1"
+      ]
+    },
+    {
+      "id": "Eponas_Song",
+      "label": "Epona's Song",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-9-15",
+        "gf1-353-2"
+      ]
+    },
+    {
+      "id": "Suns_Song",
+      "label": "Sun's Song",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-heartpieces-3-7",
+        "checklist-sidequests-9-2"
+      ]
+    },
+    {
+      "id": "Gorons_Bracelet",
+      "label": "Goron's Bracelet",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-9-25",
+        "gf1-63-3"
+      ]
+    },
+    {
+      "id": "Bomb_Bag",
+      "label": "Bomb Bag",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-78-2",
+        "gf1-409-2"
+      ]
+    },
+    {
+      "id": "Gorons_Ruby",
+      "label": "Goron's Ruby",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf3-25-5",
+        "gf1-82-8"
+      ]
+    },
+    {
+      "id": "Silver_Scale",
+      "label": "Silver Scale",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-97-2",
+        "gf2-106-2"
+      ]
+    },
+    {
+      "id": "Rutos_Letter",
+      "label": "Ruto's Letter (Bottle)",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-11-7",
+        "gf1-98-1"
+      ]
+    },
+    {
+      "id": "Boomerang",
+      "label": "Boomerang",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-109-2",
+        "gf1-113-4"
+      ]
+    },
+    {
+      "id": "Zoras_Sapphire",
+      "label": "Zora's Sapphire",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-135-20",
+        "gf2-161-6"
+      ]
+    },
+    {
+      "id": "Ocarina_of_Time",
+      "label": "Ocarina of Time",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-45-3",
+        "gf1-394-1"
+      ]
+    },
+    {
+      "id": "Song_of_Time",
+      "label": "Song of Time",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-394-1",
+        "gf2-45-3"
+      ]
+    },
+    {
+      "id": "Mask_of_Truth",
+      "label": "Mask of Truth",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-108-2",
+        "gf1-352-1"
+      ]
+    },
+    {
+      "id": "Master_Sword",
+      "label": "Master Sword",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-399-2",
+        "gf3-38-5"
+      ]
+    },
+    {
+      "id": "Hookshot",
+      "label": "Hookshot",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-135-3"
+      ]
+    },
+    {
+      "id": "Epona",
+      "label": "Epona",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-15-6",
+        "checklist-sidequests-9-15"
+      ]
+    },
+    {
+      "id": "Goron_Tunic",
+      "label": "Goron Tunic",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-171-3",
+        "gf1-402-5"
+      ]
+    },
+    {
+      "id": "Iron_Boots",
+      "label": "Iron Boots",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-213-3",
+        "gf1-213-4"
+      ]
+    },
+    {
+      "id": "Zora_Tunic",
+      "label": "Zora Tunic",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-18-12",
+        "gf3-62-3"
+      ]
+    },
+    {
+      "id": "Minuet_of_Forest",
+      "label": "Minuet of Forest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-395-1",
+        "gf2-53-8"
+      ]
+    },
+    {
+      "id": "Fairy_Bow",
+      "label": "Fairy Bow",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-388-1",
+        "gf2-157-5"
+      ]
+    },
+    {
+      "id": "Bolero_of_Fire",
+      "label": "Bolero of Fire",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-395-3",
+        "gf3-235-5"
+      ]
+    },
+    {
+      "id": "Megaton_Hammer",
+      "label": "Megaton Hammer",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-388-3",
+        "gf1-202-3"
+      ]
+    },
+    {
+      "id": "Serenade_of_Water",
+      "label": "Serenade of Water",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-213-4",
+        "gf1-396-1"
+      ]
+    },
+    {
+      "id": "Longshot",
+      "label": "Longshot",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-232-1",
+        "gf1-240-4"
+      ]
+    },
+    {
+      "id": "Scarecrows_Song",
+      "label": "Scarecrow's Song",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-398-2",
+        "gf1-445-1"
+      ]
+    },
+    {
+      "id": "Song_of_Storms",
+      "label": "Song of Storms",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-394-3",
+        "gf2-51-1"
+      ]
+    },
+    {
+      "id": "Lens_of_Truth",
+      "label": "Lens of Truth",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-390-1",
+        "gf3-149-2"
+      ]
+    },
+    {
+      "id": "Nocturne_of_Shadow",
+      "label": "Nocturne of Shadow",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-397-1",
+        "gf3-235-7"
+      ]
+    },
+    {
+      "id": "Dins_Fire",
+      "label": "Din's Fire",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-90-2",
+        "gf4-11-4"
+      ]
+    },
+    {
+      "id": "Hover_Boots",
+      "label": "Hover Boots",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-83-3",
+        "gf3-70-7"
+      ]
+    },
+    {
+      "id": "Gerudo_Card",
+      "label": "Gerudo's Membership Card",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-420-1",
+        "gf2-88-3"
+      ]
+    },
+    {
+      "id": "Requiem_of_Spirit",
+      "label": "Requiem of Spirit",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-396-3",
+        "gf3-235-8"
+      ]
+    },
+    {
+      "id": "Silver_Gauntlets",
+      "label": "Silver Gauntlets",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-93-5",
+        "gf3-122-1"
+      ]
+    },
+    {
+      "id": "Mirror_Shield",
+      "label": "Mirror Shield",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-159-13",
+        "gf1-316-1"
+      ]
+    },
+    {
+      "id": "Prelude_of_Light",
+      "label": "Prelude of Light",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-167-1",
+        "gf1-397-3"
+      ]
+    },
+    {
+      "id": "Light_Arrows",
+      "label": "Light Arrows",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-35-2",
+        "gf1-391-4"
+      ]
+    },
+    {
+      "id": "Golden_Gauntlets",
+      "label": "Golden Gauntlets",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-411-4",
+        "gf2-158-6"
+      ]
+    },
+    {
+      "id": "Biggorons_Sword",
+      "label": "Biggoron's Sword",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-sidequests-19-3",
+        "gf1-400-2"
+      ]
+    },
+    {
+      "id": "Giants_Wallet",
+      "label": "Giant's Wallet",
+      "kind": "item",
+      "fact_ids": [
+        "checklist-sidequests-13-4",
+        "checklist-skulltulas-2-4"
+      ]
+    },
+    {
+      "id": "Golden_Scale",
+      "label": "Golden Scale",
+      "kind": "item",
+      "fact_ids": [
+        "checklist-heartpieces-5-2",
+        "checklist-sidequests-17-3"
+      ]
+    },
+    {
+      "id": "Magic_Beans",
+      "label": "Magic Beans",
+      "kind": "item",
+      "fact_ids": [
+        "checklist-heartpieces-4-6",
+        "checklist-heartpieces-4-7"
+      ]
+    },
+    {
+      "id": "Empty_Bottles",
+      "label": "Empty Bottles",
+      "kind": "item",
+      "fact_ids": [
+        "checklist-sidequests-9-9",
+        "checklist-sidequests-25-12"
+      ]
+    },
+    {
+      "id": "Happy_Mask_Quest",
+      "label": "Happy Mask Shop trading quest",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-349-2",
+        "gf2-47-7"
+      ]
+    },
+    {
+      "id": "Adult_Trade_Quest",
+      "label": "Adult trading sequence (Biggoron's Sword)",
+      "kind": "quest",
+      "fact_ids": [
+        "checklist-sidequests-18-12",
+        "checklist-sidequests-19-3"
+      ]
+    },
+    {
+      "id": "Gold_Skulltulas",
+      "label": "Gold Skulltula hunt (100 tokens)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-120-1",
+        "gf2-150-3"
+      ]
+    },
+    {
+      "id": "Heart_Pieces",
+      "label": "Pieces of Heart (36)",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-guide-20-2",
+        "checklist-heartpieces-3-1"
+      ]
+    },
+    {
+      "id": "Big_Poes",
+      "label": "Big Poe hunt (10)",
+      "kind": "quest",
+      "fact_ids": [
+        "checklist-sidequests-25-2",
+        "checklist-sidequests-25-3"
+      ]
+    },
+    {
+      "id": "Frog_Minigame",
+      "label": "Frogs of Zora's River",
+      "kind": "quest",
+      "fact_ids": [
+        "checklist-heartpieces-4-4",
+        "checklist-sidequests-2-33"
+      ]
+    },
+    {
+      "id": "Gossip_Stones",
+      "label": "Gossip Stones (32 rumors)",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-352-1",
+        "gf2-47-7"
+      ]
+    },
+    {
+      "id": "Fishing",
+      "label": "Fishing Pond prizes",
+      "kind": "quest",
+      "fact_ids": [
+        "gf2-107-1",
+        "gf2-146-14"
+      ]
+    },
+    {
+      "id": "Dungeon_Maps",
+      "label": "Maps, Compasses and Boss Keys (26)",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-comments-121-3",
+        "ra-comments-3-4"
+      ]
+    },
+    {
+      "id": "Three_Heart_Run",
+      "label": "Second file: 3-heart run",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-comments-1-1",
+        "ra-comments-32-14"
+      ]
+    },
+    {
+      "id": "Courtyard_Window",
+      "label": "Courtyard window and bribe (before entering the courtyard)",
+      "kind": "missable",
+      "fact_ids": [
+        "ra-guide-5-4",
+        "gf1-39-1"
+      ]
+    },
+    {
+      "id": "Deku_Upgrades_Lockout",
+      "label": "Lost Woods Deku upgrades lock after the Poacher's Saw",
+      "kind": "missable",
+      "fact_ids": [
+        "ra-guide-10-2",
+        "ra-comments-73-2"
+      ]
+    },
+    {
+      "id": "Dying_Guard_Lockout",
+      "label": "Dying guard disappears after the Temple of Time",
+      "kind": "ponr",
+      "fact_ids": [
+        "ra-guide-10-4",
+        "checklist-sidequests-15-1"
+      ]
+    },
+    {
+      "id": "Final_Battle",
+      "label": "Ganon's Tower final battle",
+      "kind": "ponr",
+      "fact_ids": [
+        "gf1-345-1",
+        "gf3-91-3"
+      ]
+    },
+    {
+      "id": "Ach_48057",
+      "label": "Spider Net",
+      "kind": "achievement",
+      "achievement_id": 48057
+    },
+    {
+      "id": "Ach_48074",
+      "label": "Entrusted Mission",
+      "kind": "achievement",
+      "achievement_id": 48074
+    },
+    {
+      "id": "Ach_48108",
+      "label": "Rise and Shine!!",
+      "kind": "achievement",
+      "achievement_id": 48108
+    },
+    {
+      "id": "Ach_48109",
+      "label": "A Royal Autograph",
+      "kind": "achievement",
+      "achievement_id": 48109
+    },
+    {
+      "id": "Ach_48249",
+      "label": "Dance Into the Fire",
+      "kind": "achievement",
+      "achievement_id": 48249
+    },
+    {
+      "id": "Ach_48277",
+      "label": "Bombalicious",
+      "kind": "achievement",
+      "achievement_id": 48277
+    },
+    {
+      "id": "Ach_48278",
+      "label": "Soul Brothers",
+      "kind": "achievement",
+      "achievement_id": 48278
+    },
+    {
+      "id": "Ach_48417",
+      "label": "Rolling Thunder",
+      "kind": "achievement",
+      "achievement_id": 48417
+    },
+    {
+      "id": "Ach_48418",
+      "label": "Wedding Band",
+      "kind": "achievement",
+      "achievement_id": 48418
+    },
+    {
+      "id": "Ach_48512",
+      "label": "Damsel in Distress",
+      "kind": "achievement",
+      "achievement_id": 48512
+    },
+    {
+      "id": "Ach_48516",
+      "label": "Hero of Time",
+      "kind": "achievement",
+      "achievement_id": 48516
+    },
+    {
+      "id": "Ach_48582",
+      "label": "The Great Escape",
+      "kind": "achievement",
+      "achievement_id": 48582
+    },
+    {
+      "id": "Ach_48818",
+      "label": "Drunken Master",
+      "kind": "achievement",
+      "achievement_id": 48818
+    },
+    {
+      "id": "Ach_48819",
+      "label": "Awakening",
+      "kind": "achievement",
+      "achievement_id": 48819
+    },
+    {
+      "id": "Ach_48914",
+      "label": "Hot Hot Hot",
+      "kind": "achievement",
+      "achievement_id": 48914
+    },
+    {
+      "id": "Ach_48915",
+      "label": "Eternal Brothers",
+      "kind": "achievement",
+      "achievement_id": 48915
+    },
+    {
+      "id": "Ach_48254",
+      "label": "Bring Me to the Bottom of the Oceans",
+      "kind": "achievement",
+      "achievement_id": 48254
+    },
+    {
+      "id": "Ach_48941",
+      "label": "A Breath of Fresh Air",
+      "kind": "achievement",
+      "achievement_id": 48941
+    },
+    {
+      "id": "Ach_48946",
+      "label": "Day of the Tentacles",
+      "kind": "achievement",
+      "achievement_id": 48946
+    },
+    {
+      "id": "Ach_48947",
+      "label": "Bride to Be",
+      "kind": "achievement",
+      "achievement_id": 48947
+    },
+    {
+      "id": "Ach_49018",
+      "label": "Invisible One",
+      "kind": "achievement",
+      "achievement_id": 49018
+    },
+    {
+      "id": "Ach_49019",
+      "label": "The Shadow of the Hylians",
+      "kind": "achievement",
+      "achievement_id": 49019
+    },
+    {
+      "id": "Ach_48896",
+      "label": "Gerudo's Fan Club",
+      "kind": "achievement",
+      "achievement_id": 48896
+    },
+    {
+      "id": "Ach_49188",
+      "label": "A Horrible Face",
+      "kind": "achievement",
+      "achievement_id": 49188
+    },
+    {
+      "id": "Ach_49189",
+      "label": "Infamous Silver Gauntlets",
+      "kind": "achievement",
+      "achievement_id": 49189
+    },
+    {
+      "id": "Ach_49261",
+      "label": "Twins of Evil",
+      "kind": "achievement",
+      "achievement_id": 49261
+    },
+    {
+      "id": "Ach_49263",
+      "label": "Brainwashed",
+      "kind": "achievement",
+      "achievement_id": 49263
+    },
+    {
+      "id": "Ach_49286",
+      "label": "To the Rescue",
+      "kind": "achievement",
+      "achievement_id": 49286
+    },
+    {
+      "id": "Ach_49290",
+      "label": "King of Thieves",
+      "kind": "achievement",
+      "achievement_id": 49290
+    },
+    {
+      "id": "Ach_49291",
+      "label": "My Last Breath",
+      "kind": "achievement",
+      "achievement_id": 49291
+    },
+    {
+      "id": "Ach_48275",
+      "label": "Home Sweet Home",
+      "kind": "achievement",
+      "achievement_id": 48275
+    },
+    {
+      "id": "Ach_48106",
+      "label": "Sniper Fury",
+      "kind": "achievement",
+      "achievement_id": 48106
+    },
+    {
+      "id": "Ach_48107",
+      "label": "Who Let the Dogs Out",
+      "kind": "achievement",
+      "achievement_id": 48107
+    },
+    {
+      "id": "Ach_48160",
+      "label": "Money Solves Everything",
+      "kind": "achievement",
+      "achievement_id": 48160
+    },
+    {
+      "id": "Ach_48161",
+      "label": "Troublemaker",
+      "kind": "achievement",
+      "achievement_id": 48161
+    },
+    {
+      "id": "Ach_48113",
+      "label": "Super Cucco Catching",
+      "kind": "achievement",
+      "achievement_id": 48113
+    },
+    {
+      "id": "Ach_48162",
+      "label": "You Make Me Feel So Good",
+      "kind": "achievement",
+      "achievement_id": 48162
+    },
+    {
+      "id": "Ach_48224",
+      "label": "Bullseye!!",
+      "kind": "achievement",
+      "achievement_id": 48224
+    },
+    {
+      "id": "Ach_48225",
+      "label": "You Can Be a Star",
+      "kind": "achievement",
+      "achievement_id": 48225
+    },
+    {
+      "id": "Ach_48255",
+      "label": "Bunches of Twigs",
+      "kind": "achievement",
+      "achievement_id": 48255
+    },
+    {
+      "id": "Ach_48226",
+      "label": "Shield Raider",
+      "kind": "achievement",
+      "achievement_id": 48226
+    },
+    {
+      "id": "Ach_48241",
+      "label": "Catch Me If You Can",
+      "kind": "achievement",
+      "achievement_id": 48241
+    },
+    {
+      "id": "Ach_48242",
+      "label": "Cuccos' Revenge",
+      "kind": "achievement",
+      "achievement_id": 48242
+    },
+    {
+      "id": "Ach_48336",
+      "label": "Roll Roll and Away",
+      "kind": "achievement",
+      "achievement_id": 48336
+    },
+    {
+      "id": "Ach_48279",
+      "label": "Walking on a Tightrope",
+      "kind": "achievement",
+      "achievement_id": 48279
+    },
+    {
+      "id": "Ach_48341",
+      "label": "You Spin Me Round",
+      "kind": "achievement",
+      "achievement_id": 48341
+    },
+    {
+      "id": "Ach_48342",
+      "label": "Bombchu Bowling Star",
+      "kind": "achievement",
+      "achievement_id": 48342
+    },
+    {
+      "id": "Ach_48343",
+      "label": "Mouse Ka-Boom",
+      "kind": "achievement",
+      "achievement_id": 48343
+    },
+    {
+      "id": "Ach_48344",
+      "label": "On Fire",
+      "kind": "achievement",
+      "achievement_id": 48344
+    },
+    {
+      "id": "Ach_48345",
+      "label": "Stocking Nuts",
+      "kind": "achievement",
+      "achievement_id": 48345
+    },
+    {
+      "id": "Ach_48346",
+      "label": "Magic Beans",
+      "kind": "achievement",
+      "achievement_id": 48346
+    },
+    {
+      "id": "Ach_48347",
+      "label": "The Way the World Learns to Dive",
+      "kind": "achievement",
+      "achievement_id": 48347
+    },
+    {
+      "id": "Ach_48416",
+      "label": "Take Me Away",
+      "kind": "achievement",
+      "achievement_id": 48416
+    },
+    {
+      "id": "Ach_48423",
+      "label": "A Pretty Face",
+      "kind": "achievement",
+      "achievement_id": 48423
+    },
+    {
+      "id": "Ach_48513",
+      "label": "Last Breath",
+      "kind": "achievement",
+      "achievement_id": 48513
+    },
+    {
+      "id": "Ach_48514",
+      "label": "Happy Mask Salesman",
+      "kind": "achievement",
+      "achievement_id": 48514
+    },
+    {
+      "id": "Ach_48515",
+      "label": "Lifestyle and Stones",
+      "kind": "achievement",
+      "achievement_id": 48515
+    },
+    {
+      "id": "Ach_48583",
+      "label": "Hook Me Away",
+      "kind": "achievement",
+      "achievement_id": 48583
+    },
+    {
+      "id": "Ach_48584",
+      "label": "Ghost Chaser",
+      "kind": "achievement",
+      "achievement_id": 48584
+    },
+    {
+      "id": "Ach_48585",
+      "label": "Jump Over",
+      "kind": "achievement",
+      "achievement_id": 48585
+    },
+    {
+      "id": "Ach_48820",
+      "label": "Pierre the Wanderer",
+      "kind": "achievement",
+      "achievement_id": 48820
+    },
+    {
+      "id": "Ach_48821",
+      "label": "Poe Collector",
+      "kind": "achievement",
+      "achievement_id": 48821
+    },
+    {
+      "id": "Ach_48822",
+      "label": "Drunkard",
+      "kind": "achievement",
+      "achievement_id": 48822
+    },
+    {
+      "id": "Ach_48823",
+      "label": "Sniper Elite",
+      "kind": "achievement",
+      "achievement_id": 48823
+    },
+    {
+      "id": "Ach_48912",
+      "label": "Heat Resistant Tunic",
+      "kind": "achievement",
+      "achievement_id": 48912
+    },
+    {
+      "id": "Ach_48942",
+      "label": "Kiss That Frog",
+      "kind": "achievement",
+      "achievement_id": 48942
+    },
+    {
+      "id": "Ach_48949",
+      "label": "The Flaming Arrow",
+      "kind": "achievement",
+      "achievement_id": 48949
+    },
+    {
+      "id": "Ach_48950",
+      "label": "The Fabulous Froggish Tenors",
+      "kind": "achievement",
+      "achievement_id": 48950
+    },
+    {
+      "id": "Ach_48951",
+      "label": "Seeing Is Believing",
+      "kind": "achievement",
+      "achievement_id": 48951
+    },
+    {
+      "id": "Ach_48975",
+      "label": "Biggoron's Sword",
+      "kind": "achievement",
+      "achievement_id": 48975
+    },
+    {
+      "id": "Ach_49040",
+      "label": "Ultimate Horse Master",
+      "kind": "achievement",
+      "achievement_id": 49040
+    },
+    {
+      "id": "Ach_49185",
+      "label": "Graduate of Gerudo's Training Ground",
+      "kind": "achievement",
+      "achievement_id": 49185
+    },
+    {
+      "id": "Ach_49186",
+      "label": "Nayru's Love",
+      "kind": "achievement",
+      "achievement_id": 49186
+    },
+    {
+      "id": "Ach_49187",
+      "label": "Musician",
+      "kind": "achievement",
+      "achievement_id": 49187
+    },
+    {
+      "id": "Ach_49287",
+      "label": "Plenty of Hearts",
+      "kind": "achievement",
+      "achievement_id": 49287
+    },
+    {
+      "id": "Ach_49288",
+      "label": "Wind Runner",
+      "kind": "achievement",
+      "achievement_id": 49288
+    },
+    {
+      "id": "Ach_49289",
+      "label": "The Rock",
+      "kind": "achievement",
+      "achievement_id": 49289
+    },
+    {
+      "id": "Ach_48243",
+      "label": "A Man's Best Friend",
+      "kind": "achievement",
+      "achievement_id": 48243
+    },
+    {
+      "id": "Ach_48244",
+      "label": "Secrets Detector",
+      "kind": "achievement",
+      "achievement_id": 48244
+    },
+    {
+      "id": "Ach_48245",
+      "label": "A Woman's Best Friend",
+      "kind": "achievement",
+      "achievement_id": 48245
+    },
+    {
+      "id": "Ach_48246",
+      "label": "Bombchu",
+      "kind": "achievement",
+      "achievement_id": 48246
+    },
+    {
+      "id": "Ach_48247",
+      "label": "My Broken Heart",
+      "kind": "achievement",
+      "achievement_id": 48247
+    },
+    {
+      "id": "Ach_48248",
+      "label": "Family Reunion",
+      "kind": "achievement",
+      "achievement_id": 48248
+    },
+    {
+      "id": "Ach_48348",
+      "label": "Fishing Lessons",
+      "kind": "achievement",
+      "achievement_id": 48348
+    },
+    {
+      "id": "Ach_48943",
+      "label": "Expert Angler",
+      "kind": "achievement",
+      "achievement_id": 48943
+    },
+    {
+      "id": "Ach_48944",
+      "label": "Mischievous Hero",
+      "kind": "achievement",
+      "achievement_id": 48944
+    },
+    {
+      "id": "Ach_48945",
+      "label": "Accomplished Angler",
+      "kind": "achievement",
+      "achievement_id": 48945
+    },
+    {
+      "id": "Ach_49294",
+      "label": "Cartographer",
+      "kind": "achievement",
+      "achievement_id": 49294
+    },
+    {
+      "id": "Ach_48918",
+      "label": "Dangerously Delicious",
+      "kind": "achievement",
+      "achievement_id": 48918
+    },
+    {
+      "id": "Ach_48916",
+      "label": "Race Against the Clock",
+      "kind": "achievement",
+      "achievement_id": 48916
+    },
+    {
+      "id": "Ach_48917",
+      "label": "Dodgeball",
+      "kind": "achievement",
+      "achievement_id": 48917
+    },
+    {
+      "id": "Ach_48913",
+      "label": "Whac-A-Mole",
+      "kind": "achievement",
+      "achievement_id": 48913
+    },
+    {
+      "id": "Ach_48948",
+      "label": "Tentacles of the Deep",
+      "kind": "achievement",
+      "achievement_id": 48948
+    },
+    {
+      "id": "Ach_49020",
+      "label": "Invisible Stalker",
+      "kind": "achievement",
+      "achievement_id": 49020
+    },
+    {
+      "id": "Ach_49262",
+      "label": "Double Trouble",
+      "kind": "achievement",
+      "achievement_id": 49262
+    },
+    {
+      "id": "Ach_49292",
+      "label": "Dark Lord",
+      "kind": "achievement",
+      "achievement_id": 49292
+    },
+    {
+      "id": "Ach_49293",
+      "label": "Blind Explorer",
+      "kind": "achievement",
+      "achievement_id": 49293
+    }
+  ],
+  "edges": [
+    {
+      "from": "Kokiri_Forest",
+      "to": "Kokiri_Sword",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-133-1"
+      ]
+    },
+    {
+      "from": "Inside_Deku_Tree",
+      "to": "Kokiri_Sword",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-21-3"
+      ]
+    },
+    {
+      "from": "Kokiri_Forest",
+      "to": "Inside_Deku_Tree",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-27-5"
+      ],
+      "label": "Mido lets you pass"
+    },
+    {
+      "from": "Inside_Deku_Tree",
+      "to": "Fairy_Slingshot",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-383-1"
+      ]
+    },
+    {
+      "from": "Inside_Deku_Tree",
+      "to": "Queen_Gohma",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-32-3"
+      ],
+      "label": "Basement 2"
+    },
+    {
+      "from": "Queen_Gohma",
+      "to": "Kokiri_Emerald",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-32-6"
+      ]
+    },
+    {
+      "from": "Kokiri_Emerald",
+      "to": "Hyrule_Field",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-12"
+      ],
+      "label": "Leave Kokiri Forest"
+    },
+    {
+      "from": "Hyrule_Field",
+      "to": "Hyrule_Market",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-4"
+      ],
+      "label": "Drawbridge"
+    },
+    {
+      "from": "Hyrule_Market",
+      "to": "Hyrule_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-173-4"
+      ],
+      "label": "Castle path"
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Zeldas_Letter",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-39-4"
+      ]
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Zeldas_Lullaby",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-40-1"
+      ]
+    },
+    {
+      "from": "Hyrule_Field",
+      "to": "Lon_Lon_Ranch",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-sidequests-13-11"
+      ]
+    },
+    {
+      "from": "Lon_Lon_Ranch",
+      "to": "Eponas_Song",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-15"
+      ]
+    },
+    {
+      "from": "Hyrule_Field",
+      "to": "Kakariko_Village",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-8"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Kakariko_Graveyard",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-6"
+      ]
+    },
+    {
+      "from": "Kakariko_Graveyard",
+      "to": "Suns_Song",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-3-7"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Death_Mountain_Trail",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-58-2"
+      ],
+      "label": "Show Zelda's Letter to the gate guard"
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Sacred_Forest_Meadow",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-395-1"
+      ]
+    },
+    {
+      "from": "Sacred_Forest_Meadow",
+      "to": "Sarias_Song",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-6-4"
+      ]
+    },
+    {
+      "from": "Death_Mountain_Trail",
+      "to": "Goron_City",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-10"
+      ]
+    },
+    {
+      "from": "Goron_City",
+      "to": "Gorons_Bracelet",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-25"
+      ]
+    },
+    {
+      "from": "Dodongos_Cavern",
+      "to": "Gorons_Bracelet",
+      "kind": "requires",
+      "fact_ids": [
+        "checklist-sidequests-9-25"
+      ]
+    },
+    {
+      "from": "Death_Mountain_Trail",
+      "to": "Dodongos_Cavern",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-485-1"
+      ],
+      "label": "Bomb the boulder"
+    },
+    {
+      "from": "Dodongos_Cavern",
+      "to": "Bomb_Bag",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-78-2"
+      ]
+    },
+    {
+      "from": "Dodongos_Cavern",
+      "to": "King_Dodongo",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-518-3"
+      ]
+    },
+    {
+      "from": "King_Dodongo",
+      "to": "Gorons_Ruby",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-25-5"
+      ]
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Dins_Fire",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-90-2"
+      ]
+    },
+    {
+      "from": "Hyrule_Field",
+      "to": "Zoras_River",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-4-1"
+      ]
+    },
+    {
+      "from": "Zoras_River",
+      "to": "Zoras_Domain",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-96-3"
+      ],
+      "label": "Zelda's Lullaby on the waterfall"
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Silver_Scale",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-97-2"
+      ]
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Lake_Hylia",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-sidequests-11-7"
+      ],
+      "label": "Underwater tunnel"
+    },
+    {
+      "from": "Lake_Hylia",
+      "to": "Rutos_Letter",
+      "kind": "contains",
+      "fact_ids": [
+        "checklist-sidequests-11-7"
+      ]
+    },
+    {
+      "from": "Lake_Hylia",
+      "to": "Fishing_Pond",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-13"
+      ]
+    },
+    {
+      "from": "Hyrule_Field",
+      "to": "Gerudo_Valley",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-11"
+      ]
+    },
+    {
+      "from": "Zoras_Fountain",
+      "to": "Rutos_Letter",
+      "kind": "requires",
+      "fact_ids": [
+        "checklist-sidequests-11-7"
+      ]
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Zoras_Fountain",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-4-13"
+      ],
+      "label": "King Zora moves aside"
+    },
+    {
+      "from": "Zoras_Fountain",
+      "to": "Inside_Jabu",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-sidequests-12-8"
+      ],
+      "label": "Feed Jabu-Jabu a fish"
+    },
+    {
+      "from": "Inside_Jabu",
+      "to": "Boomerang",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-109-2"
+      ]
+    },
+    {
+      "from": "Inside_Jabu",
+      "to": "Barinade",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-115-3"
+      ]
+    },
+    {
+      "from": "Barinade",
+      "to": "Zoras_Sapphire",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-135-20"
+      ]
+    },
+    {
+      "from": "Zoras_Sapphire",
+      "to": "Ocarina_of_Time",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-45-3"
+      ],
+      "label": "Zelda's escape"
+    },
+    {
+      "from": "Ocarina_of_Time",
+      "to": "Song_of_Time",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-394-1"
+      ]
+    },
+    {
+      "from": "Hyrule_Market",
+      "to": "Happy_Mask_Quest",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-349-2"
+      ]
+    },
+    {
+      "from": "Happy_Mask_Quest",
+      "to": "Mask_of_Truth",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-108-2"
+      ]
+    },
+    {
+      "from": "Song_of_Time",
+      "to": "Temple_of_Time",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-sidequests-35-2"
+      ],
+      "label": "Door of Time"
+    },
+    {
+      "from": "Temple_of_Time",
+      "to": "Master_Sword",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-399-2"
+      ]
+    },
+    {
+      "from": "Master_Sword",
+      "to": "Dying_Guard_Lockout",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-10-4"
+      ]
+    },
+    {
+      "from": "Temple_of_Time",
+      "to": "Kakariko_Graveyard",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-3-6"
+      ],
+      "label": "Dampe's race"
+    },
+    {
+      "from": "Kakariko_Graveyard",
+      "to": "Hookshot",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-135-3"
+      ]
+    },
+    {
+      "from": "Lon_Lon_Ranch",
+      "to": "Epona",
+      "kind": "contains",
+      "fact_ids": [
+        "checklist-sidequests-15-6"
+      ]
+    },
+    {
+      "from": "Goron_City",
+      "to": "Goron_Tunic",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-171-3"
+      ]
+    },
+    {
+      "from": "Zoras_Fountain",
+      "to": "Ice_Cavern",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-4-14"
+      ],
+      "label": "Frozen fountain"
+    },
+    {
+      "from": "Ice_Cavern",
+      "to": "Iron_Boots",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-213-3"
+      ]
+    },
+    {
+      "from": "Ice_Cavern",
+      "to": "Serenade_of_Water",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-213-4"
+      ]
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Zora_Tunic",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-18-12"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Adult_Trade_Quest",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-358-1"
+      ]
+    },
+    {
+      "from": "Adult_Trade_Quest",
+      "to": "Biggorons_Sword",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-19-3"
+      ]
+    },
+    {
+      "from": "Adult_Trade_Quest",
+      "to": "Deku_Upgrades_Lockout",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-10-2"
+      ]
+    },
+    {
+      "from": "Sacred_Forest_Meadow",
+      "to": "Minuet_of_Forest",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-395-1"
+      ]
+    },
+    {
+      "from": "Sacred_Forest_Meadow",
+      "to": "Forest_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-141-6"
+      ],
+      "label": "Hookshot up to the entrance"
+    },
+    {
+      "from": "Forest_Temple",
+      "to": "Hookshot",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-141-6"
+      ]
+    },
+    {
+      "from": "Forest_Temple",
+      "to": "Fairy_Bow",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-388-1"
+      ]
+    },
+    {
+      "from": "Forest_Temple",
+      "to": "Phantom_Ganon",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-162-6"
+      ]
+    },
+    {
+      "from": "Temple_of_Time",
+      "to": "Prelude_of_Light",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-167-1"
+      ]
+    },
+    {
+      "from": "Death_Mountain_Crater",
+      "to": "Bolero_of_Fire",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-395-3"
+      ]
+    },
+    {
+      "from": "Death_Mountain_Crater",
+      "to": "Goron_Tunic",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-175-1",
+        "gf1-171-4"
+      ]
+    },
+    {
+      "from": "Death_Mountain_Crater",
+      "to": "Fire_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-186-1"
+      ]
+    },
+    {
+      "from": "Fire_Temple",
+      "to": "Flare_Dancer",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-196-1"
+      ]
+    },
+    {
+      "from": "Fire_Temple",
+      "to": "Megaton_Hammer",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-388-3"
+      ]
+    },
+    {
+      "from": "Fire_Temple",
+      "to": "Volvagia",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-202-3"
+      ]
+    },
+    {
+      "from": "Water_Temple",
+      "to": "Iron_Boots",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-221-1"
+      ]
+    },
+    {
+      "from": "Water_Temple",
+      "to": "Zora_Tunic",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-403-3"
+      ]
+    },
+    {
+      "from": "Lake_Hylia",
+      "to": "Water_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-220-1"
+      ]
+    },
+    {
+      "from": "Water_Temple",
+      "to": "Dark_Link",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-231-3"
+      ]
+    },
+    {
+      "from": "Water_Temple",
+      "to": "Longshot",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-232-1"
+      ]
+    },
+    {
+      "from": "Water_Temple",
+      "to": "Morpha",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-240-3"
+      ]
+    },
+    {
+      "from": "Lake_Hylia",
+      "to": "Scarecrows_Song",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-398-2"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Song_of_Storms",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-394-3"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Bottom_of_the_Well",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-246-3",
+        "gf1-394-4"
+      ],
+      "label": "Drain the well (child)"
+    },
+    {
+      "from": "Bottom_of_the_Well",
+      "to": "Dead_Hand",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-517-3"
+      ]
+    },
+    {
+      "from": "Bottom_of_the_Well",
+      "to": "Lens_of_Truth",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-390-1"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Nocturne_of_Shadow",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-397-1"
+      ]
+    },
+    {
+      "from": "Shadow_Temple",
+      "to": "Dins_Fire",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-258-2"
+      ]
+    },
+    {
+      "from": "Shadow_Temple",
+      "to": "Lens_of_Truth",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-85-3"
+      ]
+    },
+    {
+      "from": "Kakariko_Graveyard",
+      "to": "Shadow_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-275-4"
+      ],
+      "label": "Nocturne of Shadow ledge"
+    },
+    {
+      "from": "Shadow_Temple",
+      "to": "Hover_Boots",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-83-3"
+      ]
+    },
+    {
+      "from": "Shadow_Temple",
+      "to": "Bongo_Bongo",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-275-4"
+      ]
+    },
+    {
+      "from": "Gerudo_Valley",
+      "to": "Gerudo_Fortress",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-heartpieces-5-8"
+      ],
+      "label": "Jump the broken bridge on Epona or Longshot"
+    },
+    {
+      "from": "Gerudo_Fortress",
+      "to": "Gerudo_Card",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-420-1"
+      ]
+    },
+    {
+      "from": "Gerudo_Fortress",
+      "to": "Gerudo_Training_Ground",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-364-1"
+      ]
+    },
+    {
+      "from": "Gerudo_Fortress",
+      "to": "Haunted_Wasteland",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-289-4"
+      ],
+      "label": "Gate opened with the card"
+    },
+    {
+      "from": "Haunted_Wasteland",
+      "to": "Desert_Colossus",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-sidequests-2-36"
+      ]
+    },
+    {
+      "from": "Desert_Colossus",
+      "to": "Requiem_of_Spirit",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-396-3"
+      ]
+    },
+    {
+      "from": "Desert_Colossus",
+      "to": "Spirit_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-322-1"
+      ]
+    },
+    {
+      "from": "Spirit_Temple",
+      "to": "Silver_Gauntlets",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-93-5"
+      ]
+    },
+    {
+      "from": "Spirit_Temple",
+      "to": "Mirror_Shield",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-159-13"
+      ]
+    },
+    {
+      "from": "Spirit_Temple",
+      "to": "Twinrova",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-322-2"
+      ]
+    },
+    {
+      "from": "Twinrova",
+      "to": "Light_Arrows",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-35-2"
+      ]
+    },
+    {
+      "from": "Light_Arrows",
+      "to": "Ganons_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-411-4"
+      ],
+      "label": "Rainbow bridge"
+    },
+    {
+      "from": "Ganons_Castle",
+      "to": "Golden_Gauntlets",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-411-4"
+      ]
+    },
+    {
+      "from": "Ganons_Castle",
+      "to": "Ganons_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-266-5"
+      ],
+      "label": "Six trials dispel the barrier"
+    },
+    {
+      "from": "Ganons_Tower",
+      "to": "Ganondorf",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-344-3"
+      ]
+    },
+    {
+      "from": "Ganondorf",
+      "to": "Final_Battle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-345-1"
+      ]
+    },
+    {
+      "from": "Final_Battle",
+      "to": "Ganon",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-347-5"
+      ]
+    },
+    {
+      "from": "House_of_Skulltula",
+      "to": "Gold_Skulltulas",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-120-1"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Giants_Wallet",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-13-4"
+      ]
+    },
+    {
+      "from": "Fishing_Pond",
+      "to": "Fishing",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-107-1"
+      ]
+    },
+    {
+      "from": "Fishing",
+      "to": "Golden_Scale",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-17-3"
+      ]
+    },
+    {
+      "from": "Zoras_River",
+      "to": "Magic_Beans",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-4-6"
+      ]
+    },
+    {
+      "from": "Zoras_River",
+      "to": "Frog_Minigame",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-4-4"
+      ]
+    },
+    {
+      "from": "Hyrule_Field",
+      "to": "Big_Poes",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-25-2"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Empty_Bottles",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-9"
+      ]
+    },
+    {
+      "from": "Mask_of_Truth",
+      "to": "Gossip_Stones",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-108-2"
+      ]
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Courtyard_Window",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-5-4"
+      ]
+    },
+    {
+      "from": "Ganons_Tower",
+      "to": "Dungeon_Maps",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-121-3"
+      ]
+    },
+    {
+      "from": "Heart_Pieces",
+      "to": "Ach_49287",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-17-4",
+        "gf1-121-2"
+      ]
+    },
+    {
+      "from": "Final_Battle",
+      "to": "Three_Heart_Run",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-1-1"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Ach_48255",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-20-3",
+        "ra-guide-4-1"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Ach_48224",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-46-1",
+        "checklist-sidequests-9-20"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Ach_48225",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-3-2",
+        "gf4-7-7"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Ach_48423",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-23",
+        "gf2-133-11"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Ach_49188",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-125-3",
+        "gf3-38-4"
+      ]
+    },
+    {
+      "from": "Lost_Woods",
+      "to": "Ach_48345",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-33-3",
+        "ra-guide-8-7"
+      ]
+    },
+    {
+      "from": "Queen_Gohma",
+      "to": "Ach_48057",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-32-3",
+        "gf3-14-3"
+      ]
+    },
+    {
+      "from": "Kokiri_Emerald",
+      "to": "Ach_48074",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-32-6",
+        "gf1-421-1"
+      ]
+    },
+    {
+      "from": "Hyrule_Market",
+      "to": "Ach_48106",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-13-2",
+        "checklist-sidequests-8-3"
+      ]
+    },
+    {
+      "from": "Hyrule_Market",
+      "to": "Ach_48107",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-3-4",
+        "checklist-sidequests-2-1"
+      ]
+    },
+    {
+      "from": "Hyrule_Market",
+      "to": "Ach_48342",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-128-1",
+        "checklist-heartpieces-3-15"
+      ]
+    },
+    {
+      "from": "Hyrule_Market",
+      "to": "Ach_48343",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-168-1",
+        "gf1-91-4"
+      ]
+    },
+    {
+      "from": "Courtyard_Window",
+      "to": "Ach_48160",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-32-3",
+        "ra-comments-56-1"
+      ]
+    },
+    {
+      "from": "Courtyard_Window",
+      "to": "Ach_48161",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-173-4",
+        "ra-guide-5-4"
+      ]
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Ach_48108",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-15-4",
+        "gf3-17-2"
+      ]
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Ach_48109",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-39-3",
+        "gf3-17-4"
+      ]
+    },
+    {
+      "from": "Hyrule_Castle",
+      "to": "Ach_48344",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-384-2",
+        "gf1-90-2"
+      ]
+    },
+    {
+      "from": "Kakariko_Graveyard",
+      "to": "Ach_48226",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-3",
+        "gf1-401-2"
+      ]
+    },
+    {
+      "from": "Kakariko_Graveyard",
+      "to": "Ach_48583",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-135-3",
+        "gf1-387-3"
+      ]
+    },
+    {
+      "from": "Kakariko_Graveyard",
+      "to": "Ach_48584",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-5-4",
+        "gf1-245-1"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Ach_48241",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-9",
+        "gf2-22-4"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Ach_48242",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-66-1",
+        "ra-comments-66-2"
+      ]
+    },
+    {
+      "from": "Kakariko_Village",
+      "to": "Ach_48823",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-13-1",
+        "checklist-sidequests-26-1"
+      ]
+    },
+    {
+      "from": "Lon_Lon_Ranch",
+      "to": "Ach_48113",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-117-1",
+        "gf4-6-11"
+      ]
+    },
+    {
+      "from": "Lon_Lon_Ranch",
+      "to": "Ach_48162",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-353-2",
+        "gf3-234-2"
+      ]
+    },
+    {
+      "from": "Lon_Lon_Ranch",
+      "to": "Ach_48585",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-166-2",
+        "checklist-sidequests-24-8"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Ach_48243",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-11",
+        "checklist-skulltulas-2-2"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Ach_48244",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-10-12",
+        "checklist-skulltulas-2-3"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Ach_48245",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-skulltulas-2-4",
+        "gf1-120-1"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Ach_48246",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-14-6",
+        "gf1-168-1"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Ach_48247",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-2-28",
+        "checklist-skulltulas-2-6"
+      ]
+    },
+    {
+      "from": "Gold_Skulltulas",
+      "to": "Ach_48248",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-149-1",
+        "gf2-149-2"
+      ]
+    },
+    {
+      "from": "Gorons_Bracelet",
+      "to": "Ach_48249",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-9-25",
+        "gf1-63-3"
+      ]
+    },
+    {
+      "from": "Happy_Mask_Quest",
+      "to": "Ach_48514",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-108-2",
+        "gf3-163-1"
+      ]
+    },
+    {
+      "from": "King_Dodongo",
+      "to": "Ach_48277",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-82-4",
+        "gf1-82-5"
+      ]
+    },
+    {
+      "from": "King_Dodongo",
+      "to": "Ach_48278",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-82-4",
+        "gf1-82-5"
+      ]
+    },
+    {
+      "from": "Death_Mountain_Trail",
+      "to": "Ach_48341",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-415-3",
+        "checklist-sidequests-10-5"
+      ]
+    },
+    {
+      "from": "Goron_City",
+      "to": "Ach_48279",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-skulltulas-7-5",
+        "gf1-85-1"
+      ]
+    },
+    {
+      "from": "Goron_City",
+      "to": "Ach_48336",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-85-3",
+        "checklist-sidequests-14-4"
+      ]
+    },
+    {
+      "from": "Goron_City",
+      "to": "Ach_48912",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-171-3",
+        "gf1-402-5"
+      ]
+    },
+    {
+      "from": "Zoras_River",
+      "to": "Ach_48346",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-4-6",
+        "checklist-sidequests-10-10"
+      ]
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Ach_48347",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-514-1",
+        "gf1-97-2"
+      ]
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Ach_48941",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-18-12",
+        "gf3-62-3"
+      ]
+    },
+    {
+      "from": "Zoras_Domain",
+      "to": "Ach_48942",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-18-12",
+        "ra-comments-37-1"
+      ]
+    },
+    {
+      "from": "Zoras_Fountain",
+      "to": "Ach_48416",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-386-1",
+        "gf2-154-5"
+      ]
+    },
+    {
+      "from": "Barinade",
+      "to": "Ach_48417",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-115-3",
+        "gf1-115-4"
+      ]
+    },
+    {
+      "from": "Barinade",
+      "to": "Ach_48418",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-13-2",
+        "gf1-115-7"
+      ]
+    },
+    {
+      "from": "Fishing",
+      "to": "Ach_48348",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-107-1",
+        "gf2-146-14"
+      ]
+    },
+    {
+      "from": "Fishing",
+      "to": "Ach_48943",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-5-2",
+        "checklist-sidequests-17-3"
+      ]
+    },
+    {
+      "from": "Fishing",
+      "to": "Ach_48944",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-236-4",
+        "ra-comments-3-9"
+      ]
+    },
+    {
+      "from": "Fishing",
+      "to": "Ach_48945",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-236-3",
+        "ra-comments-3-7"
+      ]
+    },
+    {
+      "from": "Ocarina_of_Time",
+      "to": "Ach_48512",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-234-5",
+        "gf1-123-4"
+      ]
+    },
+    {
+      "from": "Dying_Guard_Lockout",
+      "to": "Ach_48513",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-15-1",
+        "ra-comments-78-1"
+      ]
+    },
+    {
+      "from": "Master_Sword",
+      "to": "Ach_48516",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-49-1",
+        "ra-guide-10-7"
+      ]
+    },
+    {
+      "from": "Hookshot",
+      "to": "Ach_48583",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-135-3",
+        "gf1-387-3"
+      ]
+    },
+    {
+      "from": "Epona",
+      "to": "Ach_48582",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-15-6",
+        "gf2-50-4"
+      ]
+    },
+    {
+      "from": "Iron_Boots",
+      "to": "Ach_48254",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-213-3",
+        "gf2-70-8"
+      ]
+    },
+    {
+      "from": "Biggorons_Sword",
+      "to": "Ach_48975",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-19-3",
+        "gf1-363-2"
+      ]
+    },
+    {
+      "from": "Phantom_Ganon",
+      "to": "Ach_48818",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-12-4",
+        "ra-guide-12-5"
+      ]
+    },
+    {
+      "from": "Phantom_Ganon",
+      "to": "Ach_48819",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-163-3",
+        "gf1-422-1"
+      ]
+    },
+    {
+      "from": "Volvagia",
+      "to": "Ach_48914",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-59-1",
+        "gf4-23-3"
+      ]
+    },
+    {
+      "from": "Volvagia",
+      "to": "Ach_48915",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-68-1",
+        "gf3-161-3"
+      ]
+    },
+    {
+      "from": "Scarecrows_Song",
+      "to": "Ach_48820",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-398-2",
+        "gf3-41-13"
+      ]
+    },
+    {
+      "from": "Morpha",
+      "to": "Ach_48946",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-240-3",
+        "gf1-240-4"
+      ]
+    },
+    {
+      "from": "Morpha",
+      "to": "Ach_48947",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-26-4",
+        "gf1-241-2"
+      ]
+    },
+    {
+      "from": "Lake_Hylia",
+      "to": "Ach_48949",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-243-1",
+        "gf1-389-2"
+      ]
+    },
+    {
+      "from": "Lens_of_Truth",
+      "to": "Ach_48951",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-390-1",
+        "gf3-149-2"
+      ]
+    },
+    {
+      "from": "Frog_Minigame",
+      "to": "Ach_48950",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-4-4",
+        "checklist-sidequests-2-34"
+      ]
+    },
+    {
+      "from": "Bongo_Bongo",
+      "to": "Ach_49018",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-29-2",
+        "ra-guide-15-2"
+      ]
+    },
+    {
+      "from": "Bongo_Bongo",
+      "to": "Ach_49019",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-275-9",
+        "gf1-423-1"
+      ]
+    },
+    {
+      "from": "Gerudo_Card",
+      "to": "Ach_48896",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-420-1",
+        "gf2-88-3"
+      ]
+    },
+    {
+      "from": "Gerudo_Fortress",
+      "to": "Ach_49040",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-heartpieces-5-8",
+        "gf2-115-5"
+      ]
+    },
+    {
+      "from": "Desert_Colossus",
+      "to": "Ach_49186",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-391-1",
+        "gf3-151-1"
+      ]
+    },
+    {
+      "from": "Requiem_of_Spirit",
+      "to": "Ach_49187",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-167-1",
+        "gf1-213-4"
+      ]
+    },
+    {
+      "from": "Silver_Gauntlets",
+      "to": "Ach_49189",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-93-5",
+        "gf3-122-1"
+      ]
+    },
+    {
+      "from": "Twinrova",
+      "to": "Ach_49261",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-322-1",
+        "gf1-322-2"
+      ]
+    },
+    {
+      "from": "Twinrova",
+      "to": "Ach_49263",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-323-3",
+        "gf1-423-2"
+      ]
+    },
+    {
+      "from": "Gerudo_Training_Ground",
+      "to": "Ach_49185",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-373-5",
+        "gf2-158-16"
+      ]
+    },
+    {
+      "from": "Big_Poes",
+      "to": "Ach_48821",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-sidequests-25-2",
+        "checklist-sidequests-25-3"
+      ]
+    },
+    {
+      "from": "Empty_Bottles",
+      "to": "Ach_48822",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-22-4",
+        "gf3-117-1"
+      ]
+    },
+    {
+      "from": "Gerudo_Valley",
+      "to": "Ach_49288",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-529-2",
+        "ra-comments-102-1"
+      ]
+    },
+    {
+      "from": "Temple_of_Time",
+      "to": "Ach_49286",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-146-2",
+        "gf4-33-14"
+      ]
+    },
+    {
+      "from": "Golden_Gauntlets",
+      "to": "Ach_49289",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-416-2",
+        "checklist-sidequests-35-5"
+      ]
+    },
+    {
+      "from": "Dungeon_Maps",
+      "to": "Ach_49294",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-110-3",
+        "gf1-187-2"
+      ]
+    },
+    {
+      "from": "Ganondorf",
+      "to": "Ach_49290",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-89-1",
+        "gf4-34-1"
+      ]
+    },
+    {
+      "from": "Ganon",
+      "to": "Ach_49291",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-91-1",
+        "ra-guide-18-4"
+      ]
+    },
+    {
+      "from": "Ganon",
+      "to": "Ach_48275",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-347-5",
+        "gf1-347-7"
+      ]
+    },
+    {
+      "from": "Gossip_Stones",
+      "to": "Ach_48515",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-108-2",
+        "gf1-349-2"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_48918",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-82-4",
+        "gf1-82-5"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_48916",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-115-3",
+        "gf1-115-4"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_48917",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-132-1",
+        "ra-comments-132-2"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_48913",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-59-1",
+        "gf4-23-3"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_48948",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-240-3",
+        "gf1-240-4"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_49020",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-29-2",
+        "gf3-73-1"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_49262",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-96-1",
+        "gf2-96-2"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_49292",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-91-1",
+        "ra-comments-139-1"
+      ]
+    },
+    {
+      "from": "Three_Heart_Run",
+      "to": "Ach_49293",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-141-1",
+        "ra-comments-141-2"
+      ]
+    }
+  ]
+}

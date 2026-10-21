@@ -1,0 +1,44 @@
+{
+  "1": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "3": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "6": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#: visual map \"\" covers this chapter but is not linked \"\""
+  ],
+  "7": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "8": [
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "10": [
+    "WARNING: ch#: # \"\" callout\"\" but the roadmap lists # for this chapter"
+  ],
+  "12": [
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "13": [],
+  "14": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#: area section \"\" is very brief \"\""
+  ],
+  "15": [
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "16": [
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "19": [
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\""
+  ],
+  "overview": [
+    "WARNING: overview:#: uncited statement: \"\""
+  ]
+}

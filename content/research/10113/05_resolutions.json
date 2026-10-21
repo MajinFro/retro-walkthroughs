@@ -1,0 +1,347 @@
+[
+  {
+    "fact_id": "checklist-sidequests-12-5",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|king zora|unlocks] Not a conflict: King Zora moves aside in Zora's Domain (checklist) and the passage he uncovers leads to Zora's Fountain where Jabu-Jabu waits (gf1, gf3#31). Same event, two halves of it."
+  },
+  {
+    "fact_id": "checklist-sidequests-13-8",
+    "resolution": "accept",
+    "rationale": "[possible conflict quest|running man|sold at] Not a conflict: the Running Man stands in Hyrule Field (checklist) and buys the Bunny Hood for 500 Rupees (gf1#351), which fills Link's wallet. Location and item, not two values."
+  },
+  {
+    "fact_id": "checklist-sidequests-13-23",
+    "resolution": "accept",
+    "rationale": "[possible conflict transition|lost woods|leads to] Not a conflict: the Lost Woods connect to several places (Forest Stage, Kokiri Forest, Goron City, Sacred Forest Meadow, Zora's River). Each fact names a different exit."
+  },
+  {
+    "fact_id": "checklist-sidequests-14-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict missable|deku nut upgrade|missable after] Compatible: the checklist says the Forest Stage nut upgrade is lost once Link grows up; the RA comments add that both Lost Woods Deku upgrades must be taken before the adult trading sequence (Poacher's Saw). The route takes both as Young Link, before the Master Sword, which satisfies both."
+  },
+  {
+    "fact_id": "checklist-sidequests-15-7",
+    "resolution": "accept",
+    "rationale": "[possible conflict transition|broken bridge|leads to] Not a conflict: two different broken bridges, one in Gerudo Valley (Epona jump) and one in Death Mountain Crater (Hookshot)."
+  },
+  {
+    "fact_id": "checklist-sidequests-23-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict npc|mido|requires] Not a conflict: two different encounters with Mido. In Kokiri Forest he wants the Kokiri Sword and Deku Shield before the Deku Tree; in the Lost Woods he lets Link pass after Saria's Song."
+  },
+  {
+    "fact_id": "checklist-sidequests-29-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|link|unlocks] Not a conflict: different songs at different events (Bolero of Fire in the crater; Nocturne of Shadow in Kakariko after the third adult temple)."
+  },
+  {
+    "fact_id": "checklist-sidequests-29-7",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|windmill|triggers] Same event in all sources: the Song of Storms in the Kakariko windmill drains the well. Values are wording only."
+  },
+  {
+    "fact_id": "gf1-113-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|bigocto|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-115-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|barinade|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-115-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|barinade|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-115-5",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|barinade|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-140-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|mido|requires] Same event: Mido in the Lost Woods lets Link pass after Saria's Song; one fact gives the song, the other the location."
+  },
+  {
+    "fact_id": "gf1-141-5",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|sheik|triggers] Not a conflict: Sheik teaches a different song at each temple (Minuet, Serenade, Requiem)."
+  },
+  {
+    "fact_id": "gf1-162-6",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|phantom ganon|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-162-7",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|phantom ganon|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-163-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|phantom ganon|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-163-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|saria|triggers] Not a conflict: Saria teaches Saria's Song as a child and gives the Forest Medallion as a sage; two separate events."
+  },
+  {
+    "fact_id": "gf1-175-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|master sword|triggers] Not a conflict: the Master Sword sends Link to adulthood at the Temple of Time each time it is drawn, and is reclaimed during the Ganon fight; separate events."
+  },
+  {
+    "fact_id": "gf1-196-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|flare dancer|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-196-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|flare dancer|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-201-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|flare dancer|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-202-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|volvagia|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-202-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|volvagia|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-206-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict transition|death mountain trail|leads to] Not a conflict: Death Mountain Trail has several exits (Dodongo's Cavern, the crater, Goron City); each fact names a different one."
+  },
+  {
+    "fact_id": "gf1-231-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|shadow link|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-240-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict transition|water temple|leads to] Not a conflict: one fact is where the temple is (Lake Hylia), the other a route inside it."
+  },
+  {
+    "fact_id": "gf1-240-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|morpha|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-240-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|morpha|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-244-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|sheik|unlocks] Not a conflict: Sheik teaches the Bolero of Fire at the crater and the Nocturne of Shadow in Kakariko; separate events."
+  },
+  {
+    "fact_id": "gf1-250-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|dead hand|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-258-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|shadow temple entrance|unlocks] Same event: Din's Fire lights the torches at the Shadow Temple entrance above Kakariko Graveyard; the values are the area and the temple."
+  },
+  {
+    "fact_id": "gf1-32-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|queen gohma|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-32-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|queen gohma|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-262-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|dead hand|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-262-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|dead hand|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-275-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|bongo bongo|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-275-5",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|bongo bongo|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-275-7",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|bongo bongo|drops] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-275-9",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|impa|triggers] Not a conflict: Impa teaches Zelda's Lullaby at Hyrule Castle as a child and gives the Shadow Medallion as a sage; separate events."
+  },
+  {
+    "fact_id": "gf1-292-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|requiem of spirit|unlocks] Same event: Sheik teaches the Requiem of Spirit at the Desert Colossus after the Haunted Wasteland; the values are neighbouring areas."
+  },
+  {
+    "fact_id": "gf1-302-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|iron knuckle|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-313-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict npc|pierre the scarecrow|how to unlock] Not a conflict: Pierre is set up at Lake Hylia and then summoned at several spots (Fire Temple, Spirit Temple). Each fact names a different place."
+  },
+  {
+    "fact_id": "gf1-322-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|twinrova|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-322-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|twinrova|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-323-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|twinrova|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-325-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|princess zelda|triggers] Not a conflict: Zelda appears at several story events (courtyard meeting, Ocarina of Time at the drawbridge, Temple of Time reveal)."
+  },
+  {
+    "fact_id": "gf1-38-6",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|talon|triggers] Not a conflict: the Cucco wakes Talon as a child at Hyrule Castle and as an adult in Kakariko (Pocket Cucco); separate events."
+  },
+  {
+    "fact_id": "gf1-334-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|great fairy|triggers] Not a conflict: there are several Great Fairy fountains, each granting a different reward."
+  },
+  {
+    "fact_id": "gf1-344-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|ganondorf|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-344-6",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|ganondorf|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-347-5",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|ganon|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-347-7",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|ganon|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-398-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict npc|pierre the scarecrow|triggers] Not a conflict: Lake Hylia is where the song is taught; the Fire Temple is one of the places Pierre then appears."
+  },
+  {
+    "fact_id": "gf1-518-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|king dodongo|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-523-5",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|ganon|countered by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf1-63-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|darunia|triggers] Not a conflict: Darunia is cheered by Saria's Song (gift of the Goron's Bracelet) and later gives the Goron's Ruby; separate events."
+  },
+  {
+    "fact_id": "gf1-10-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|link|triggers] Not a conflict: generic subject 'Link' grouping unrelated events (becoming adult; Shadow Medallion)."
+  },
+  {
+    "fact_id": "gf1-95-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict transition|zora's river|leads to] Not a conflict: Zora's River joins Hyrule Field, and the Zora's Domain pool has an underwater shortcut to the Lost Woods; two different exits."
+  },
+  {
+    "fact_id": "gf2-119-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|king dodongo|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf2-125-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|volvagia|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf2-126-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|morpha|triggers] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf2-128-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|bongo bongo|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf2-131-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|ganondorf|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf2-47-2",
+    "resolution": "accept",
+    "rationale": "[possible conflict quest|keaton mask|sold at] Same quest: the Keaton Mask is borrowed from the Happy Mask Shop in the Market and sold to the Kakariko gate guard. All sources agree."
+  },
+  {
+    "fact_id": "gf2-57-4",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|meg|weak to] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "gf4-5-1",
+    "resolution": "accept",
+    "rationale": "[possible conflict boss|queen gohma|defeated by] Not a conflict: the facts describe different phases, weapons or steps of the same boss fight and complement each other. Damage counts and hit totals vary by weapon and are not route-relevant."
+  },
+  {
+    "fact_id": "ra-comments-52-8",
+    "resolution": "accept",
+    "rationale": "[possible conflict event|princess zelda|how to unlock] Not a conflict: ra-guide places To the Rescue at the Temple of Time reveal (ra-comments#49 agrees: 'got the achievement while zelda got captured'); the two ra-comments facts are Ganon-fight tips filed under the same subject."
+  },
+  {
+    "fact_id": "ra-comments-78-3",
+    "resolution": "accept",
+    "rationale": "[possible conflict npc|dying guard|located in] Same place: the dying guard lies in a back alley of the Castle Town Market, outside Hyrule Castle; the two values name the same area."
+  }
+]
