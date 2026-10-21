@@ -74,7 +74,7 @@ if (fixMode) {
   run(`npx tsx scripts/pipeline/qa-check.ts ${id}`);
   const qa = readJson<{ errors: string[]; warnings: string[] }>(P.qa);
   // warnings that lower the score (see score.ts beginner_friendliness) are worth a revision too
-  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return|before it is obtained|already earned/i;
+  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return|before it is obtained|already earned|which the roadmap collects in/i;
   for (const [kind, list] of [["ERROR", qa.errors], ["WARNING", qa.warnings.filter((w) => scored.test(w))]] as const)
     for (const msg of list) {
       const m = msg.match(/^(overview|ch(\d+))\b/) ?? msg.match(/placed in (ch(\d+))|roadmap says (ch(\d+))/);
@@ -236,9 +236,19 @@ function problems(t: string, text: string): string[] {
 // ---------------------------------------------------------------------------
 // Run
 // ---------------------------------------------------------------------------
+// Repair calls that failed with no reply (a usage limit, an outage) left a first draft with known problems.
+// 10113: the limit cut the repairs of chapters 1 and 13 and nothing re-ran them. They are recorded here and
+// re-run by the next rw:write or --fix (rw:auto runs one after the reset), unless that run rewrites the chapter.
+const pendingPath = path.join(P.dir, "_repair_pending.json");
+const pending: Record<string, string[]> = fs.existsSync(pendingPath) ? readJson(pendingPath) : {};
+const savePending = () => (Object.keys(pending).length ? writeText(pendingPath, JSON.stringify(pending, null, 2)) : fs.rmSync(pendingPath, { force: true }));
+const resumed = Object.keys(pending).filter((t) => all.includes(t) && !targets.includes(t) && fs.existsSync(path.join(P.chaptersDir, fileOf(t))));
+for (const t of Object.keys(pending)) if (!resumed.includes(t)) delete pending[t]; // rewritten now, or gone
+
 console.log(`Stage 8 writing for game ${id}: ${targets.length ? targets.map(fileOf).join(", ") : "nothing to do"}`);
 if (skippedWarnings) console.log(`  ${skippedWarnings} warning(s) skipped: an earlier --fix pass already tried them (add --force to retry)`);
-if (!targets.length) {
+if (!targets.length && !resumed.length) {
+  savePending();
   console.log(fixMode ? "✅ No chapter has QA errors or untried score-affecting warnings." : "All chapter files exist (use --force or name chapters to rewrite).");
   process.exit(0);
 }
@@ -275,6 +285,16 @@ const opts = { concurrency: Number(flag("concurrency") ?? defaultConcurrency()),
 let usage: Usage = { input: 0, output: 0, cache_read: 0, cache_write: 0 };
 const drafts = new Map<string, { text: string; problems: string[] }>();
 const repairs: string[] = [];
+for (const t of resumed) {
+  const text = readText(path.join(P.chaptersDir, fileOf(t)));
+  const ps = problems(t, text); // re-checked: the draft or the packet may have changed since
+  if (ps.length) {
+    drafts.set(t, { text, problems: ps });
+    repairs.push(t);
+    console.log(`  ${fileOf(t)}: repair cut off last run, resuming: ${ps.join(" | ").slice(0, 200)}`);
+  }
+  delete pending[t];
+}
 
 await runAll(targets.map((t) => req(t, firstMessage(t))), {
   ...opts,
@@ -311,7 +331,11 @@ if (repairs.length) {
       stage: `${opts.stage}-repair`,
       onResult: (r) => {
         usage = addUsage(usage, r.usage);
-        if (r.error && !r.text) return void console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)} (first draft kept)`);
+        if (r.error && !r.text) {
+          pending[r.key] = drafts.get(r.key)!.problems;
+          savePending();
+          return void console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)} (first draft kept; the next rw:write or --fix retries the repair)`);
+        }
         const { text, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
     if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
         const ps = problems(r.key, text);
@@ -323,6 +347,7 @@ if (repairs.length) {
   );
 }
 
+savePending();
 console.log(`\nusage: ${formatUsage(usage)} (logged to ${path.relative(P.root, usageLog)})`);
 const missing = all.filter((t) => !fs.existsSync(path.join(P.chaptersDir, fileOf(t))));
 if (missing.length) console.log(`Still missing: ${missing.map(fileOf).join(", ")} — re-run rw:write.`);

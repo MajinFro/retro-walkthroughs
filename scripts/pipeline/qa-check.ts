@@ -7,7 +7,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { chapterMaps, chapterMermaid, checkpointTotals, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMaps, chapterMermaid, checkpointTotals, collectibleMentionRe, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -438,6 +438,31 @@ for (const [tag, text] of texts) {
       }
   }
 }
+
+// numbered collectibles routed in the wrong chapter: 10113's review found five chapters sending the player after
+// Skulltulas and Pieces of Heart that earlier chapters had already collected (roadmap chapters[].collectibles)
+const collectibleOwner = new Map<string, number>();
+for (const c of roadmap.chapters) for (const [k, nums] of Object.entries(c.collectibles ?? {})) for (const x of nums) collectibleOwner.set(`${k}#${x}`, c.n);
+const BACKREF_RE = /\b(chapter\s+\d+|already|earlier|previous(?:ly)?|before|last chapter|next chapter|later|will|come back|skip|ignore|not (?:yet|now))\b/i;
+if (collectibleOwner.size)
+  for (const [tag, text] of texts) {
+    if (tag === "overview") continue;
+    const own = Number(tag.slice(2));
+    for (const k of Object.keys(roadmap.counter_totals ?? {})) {
+      const re = collectibleMentionRe(k);
+      const seen = new Set<number>();
+      for (const s of text.split(/(?<=[.!?])\s+|\r?\n/)) {
+        if (CHECKPOINT_RE.test(s) || BACKREF_RE.test(s)) continue;
+        for (const mm of s.matchAll(re)) {
+          const x = Number(mm[1]);
+          const at = collectibleOwner.get(`${k}#${x}`);
+          if (at === undefined || at === own || seen.has(x)) continue;
+          seen.add(x);
+          warnings.push(`${tag}: routes to ${mm[0].replace(/\s+/g, " ")}, which the roadmap collects in ch${at} (chapters[].collectibles) — "${s.replace(/\[\[[^\]]*\]\]/g, "").trim().slice(0, 90)}…"`);
+        }
+      }
+    }
+  }
 
 if (roadmap.format !== "command_steps") {
   const minWordsExpected = m.areas * 100;

@@ -158,6 +158,15 @@ if (which === "overview") {
     `- RetroAchievements Unlocked: ${t.achievements} / ${t.achievements_total} (${t.points} / ${t.points_total} points)`,
     ...t.counters.map((c) => `- ${c.name}: ${c.done} / ${c.total}`), "",
   );
+  const numbered = Object.entries(ch.collectibles ?? {}).filter(([, nums]) => nums.length);
+  const elsewhere = roadmap.chapters.some((c) => c.n !== n && Object.keys(c.collectibles ?? {}).length);
+  if (numbered.length || elsewhere)
+    lines.push(
+      "## Numbered collectibles collected in THIS chapter (the guides' numbering)", "",
+      ...(numbered.length ? numbered.map(([k, nums]) => `- ${k}: ${nums.map((x) => `#${x}`).join(", ")}`) : ["- none"]),
+      "",
+      "Route the player to these numbers only. Every other number belongs to another chapter: never send the player after it again; at most say which chapter collects it. `rw:qa` checks this.", "",
+    );
 }
 
 // ---------------------------------------------------------------------------

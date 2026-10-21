@@ -559,21 +559,73 @@ export const FACT_TYPES = new Set<string>([
   "mechanic", "missable", "ponr", "achievement", "map", "save_point", "tip",
 ]);
 
-/** null when the quote appears verbatim (normalized) in the chunk; "..." may join two verbatim parts in order. */
+/**
+ * Box-drawn tables wrap each cell's sentence over several lines, with the other columns' borders between
+ * the pieces:
+ *    ) Gold Skulltula [001]  |o| This one is located inside the Deku       |  _  |
+ *    )                       |o| Tree at the beginning of the game, in the | |_| |
+ * so a correct quote ("inside the Deku Tree at the beginning") is never verbatim in the raw text. This
+ * returns the text with every such table read column by column: within a run of lines holding 2+ pipes,
+ * the pipe positions shared by all lines are the column borders, and each column's pieces are joined
+ * with spaces. Text outside tables is kept as is. In 10113 the gf2 tables caused 247 of 351 rejects.
+ */
+export function unboxText(text: string): string {
+  const lines = text.split(/\r?\n/);
+  const out: string[] = [];
+  const pipes = (l: string) => [...l].flatMap((ch, i) => (ch === "|" ? [i] : []));
+  // a row of cells; a rule line with no letters (")-----)-(----+ |_| |") ends the block, since its pipes sit elsewhere
+  const isRow = (l: string) => pipes(l).length >= 2 && /[A-Za-z0-9]/.test(l);
+  for (let i = 0; i < lines.length; ) {
+    if (!isRow(lines[i])) {
+      out.push(lines[i++]);
+      continue;
+    }
+    let j = i;
+    while (j < lines.length && isRow(lines[j])) j++;
+    const block = lines.slice(i, j);
+    let shared = pipes(block[0]);
+    for (const l of block.slice(1)) {
+      const p = new Set(pipes(l));
+      shared = shared.filter((x) => p.has(x));
+    }
+    const cuts = [-1, ...shared];
+    const cols: string[][] = cuts.map(() => []);
+    for (const l of block) cuts.forEach((c, k) => cols[k].push(l.slice(c + 1, k + 1 < cuts.length ? cuts[k + 1] : undefined)));
+    out.push(cols.map((c) => c.map((x) => x.trim()).filter(Boolean).join(" ")).filter(Boolean).join("\n"));
+    i = j;
+  }
+  return out.join("\n");
+}
+const unboxCache = new WeakMap<Chunk, string>();
+const unboxed = (c: Chunk): string => {
+  let u = unboxCache.get(c);
+  if (u === undefined) unboxCache.set(c, (u = unboxText(c.text)));
+  return u;
+};
+
+/**
+ * null when the quote appears verbatim (normalized) in the chunk, or in its tables read column by column
+ * (unboxText); "..." may join two verbatim parts in order.
+ */
 export function quoteProblem(ev: Evidence, chunk: Chunk | undefined): string | null {
   if (!chunk) return `chunk ${ev.chunk_id} does not exist`;
   if (chunk.source_id !== ev.source_id) return `chunk ${ev.chunk_id} belongs to ${chunk.source_id}, not ${ev.source_id}`;
   const q = ev.quote || "";
   const parts = q.split(/\.\.\.|…/).map(norm).filter(Boolean);
   if (!parts.length || norm(q).length < 12) return `quote too short: "${q}"`;
-  const hay = norm(chunk.text);
-  let pos = 0;
-  for (const p of parts) {
-    const i = hay.indexOf(p, pos);
-    if (i === -1) return `quote not found verbatim in ${ev.chunk_id}: "${q.slice(0, 80)}"`;
-    pos = i + p.length;
-  }
-  return null;
+  const found = (hay: string) => {
+    let pos = 0;
+    for (const p of parts) {
+      const i = hay.indexOf(p, pos);
+      if (i === -1) return false;
+      pos = i + p.length;
+    }
+    return true;
+  };
+  if (found(norm(chunk.text))) return null;
+  const u = unboxed(chunk);
+  if (u !== chunk.text && found(norm(u))) return null;
+  return `quote not found verbatim in ${ev.chunk_id}: "${q.slice(0, 80)}"`;
 }
 
 export interface FactCheckContext {
@@ -706,11 +758,15 @@ export function widenQuote(f: Fact, chunks: Map<string, Chunk>, extraSentences =
   let changed = false;
   const want = [...new Set(numbersIn(f.text ?? "").filter((n) => n.length >= 2))];
   const evidence = f.evidence.map((e) => {
-    const c = chunks.get(e.chunk_id);
+    const ch = chunks.get(e.chunk_id);
     const first = (e.quote ?? "").split(/\.\.\.|…/)[0];
     const words = first.match(/[A-Za-z0-9']+/g);
-    if (!c || !words || words.length < 2) return e;
-    const m = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9']+"), "i").exec(c.text);
+    if (!ch || !words || words.length < 2) return e;
+    const re = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9']+"), "i");
+    // widen within the raw text, or else within its tables read by column (unboxText)
+    let c = { text: ch.text };
+    let m = re.exec(c.text);
+    if (!m && (c = { text: unboxed(ch) }).text !== ch.text) m = re.exec(c.text);
     if (!m) return e;
     const before = c.text.slice(0, m.index);
     let start = Math.max(lastEnd(before, /[.!?]["')\]]*\s+/g), lastEnd(before, /\n[ \t]*\n/g));

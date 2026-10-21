@@ -43,8 +43,12 @@ export interface Roadmap {
   ponr: { label: string; chapter: number; warning: string; fact_ids: string[] }[];
   /** chapter.counters: how many of each tracked collectible the chapter collects; totals here (e.g. {"Hidden Treasure Boxes": 39}) */
   counter_totals?: Record<string, number>;
-  /** game_chapter: the game's own chapter number when the roadmap splits or merges the game's chapters */
-  chapters: { n: number; title: string; game_chapter?: number; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number> }[];
+  /**
+   * game_chapter: the game's own chapter number when the roadmap splits or merges the game's chapters.
+   * collectibles: for a counter whose items the guides number ("Gold Skulltula [012]"), the numbers this
+   * chapter collects, e.g. {"Gold Skulltulas": [8, 9, 10]}; rw:qa warns when a chapter routes to another's.
+   */
+  chapters: { n: number; title: string; game_chapter?: number; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number>; collectibles?: Record<string, number[]> }[];
   unverifiable_achievement_ids?: number[];
   /**
    * Questions no source answers (e.g. "are in-game codes allowed during the V.Hard run?"). Every packet
@@ -128,6 +132,22 @@ export function checkpointTotals(r: Roadmap, n: number, achs: { id: number; poin
   };
 }
 
+/**
+ * Matches a numbered mention of one collectible counter in chapter text: "Gold Skulltulas" matches
+ * "Gold Skulltula #12", "Skulltula #12" and "Gold Skulltula Token #12"; "Pieces of Heart" matches
+ * "Piece of Heart #5". Group 1 is the number.
+ */
+export function collectibleMentionRe(counter: string): RegExp {
+  const sing = (w: string) => w.replace(/ies$/i, "y").replace(/(x|ch|sh|ss)es$/i, "$1").replace(/(?<!s)s$/i, "");
+  const of = counter.match(/^(.+?)\s+of\s+(.+)$/i);
+  const full = of ? `${sing(of[1])} of ${of[2]}` : counter.split(/\s+/).map((w, i, a) => (i === a.length - 1 ? sing(w) : w)).join(" ");
+  const names = [full];
+  const last = full.split(/\s+/).pop()!;
+  if (!of && last.length >= 4 && last !== full) names.push(last);
+  const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+");
+  return new RegExp(`\\b(?:${names.map(esc).join("|")})(?:\\s+token)?\\s*#\\s*(\\d+)\\b`, "gi");
+}
+
 const NODE_KINDS = new Set(["area", "boss", "npc", "item", "key_item", "quest", "achievement", "missable", "ponr", "save_point"]);
 const EDGE_KINDS = new Set(["leads_to", "requires", "unlocks", "contains", "missable_before"]);
 
@@ -208,6 +228,22 @@ export function validateRoadmap(r: Roadmap, g: Graph, usable: Set<string>, achs:
     const sum = r.chapters.reduce((s, c) => s + (c.counters?.[k] ?? 0), 0);
     if (sum !== total) errors.push(`counter "${k}": chapters add up to ${sum} but counter_totals says ${total}`);
   }
+  // numbered collectibles: each number in one chapter only, and each chapter's list matches its counter
+  const owner = new Map<string, number>();
+  for (const c of r.chapters)
+    for (const [k, nums] of Object.entries(c.collectibles ?? {})) {
+      if (!(k in totals)) errors.push(`chapter ${c.n}: collectibles "${k}" is not in counter_totals`);
+      if (nums.length !== (c.counters?.[k] ?? 0)) errors.push(`chapter ${c.n}: collectibles "${k}" lists ${nums.length} number(s) but counters says ${c.counters?.[k] ?? 0}`);
+      for (const x of nums) {
+        const was = owner.get(`${k}#${x}`);
+        if (was !== undefined) errors.push(`collectibles "${k}" #${x} is in chapter ${was} and chapter ${c.n}`);
+        else owner.set(`${k}#${x}`, c.n);
+      }
+    }
+  const numbered = new Set(r.chapters.flatMap((c) => Object.keys(c.collectibles ?? {})));
+  for (const k of numbered)
+    for (const c of r.chapters)
+      if ((c.counters?.[k] ?? 0) > 0 && !c.collectibles?.[k]) errors.push(`chapter ${c.n}: counts ${c.counters![k]} "${k}" but lists no collectibles numbers for it (other chapters do)`);
   for (const a of achs.filter((x) => x.type === "missable"))
     if (!r.missables.some((m) => Number(m.achievement_id) === a.id))
       errors.push(`achievement ${a.id} "${a.title}" is flagged missable by RA but not listed in roadmap.missables`);

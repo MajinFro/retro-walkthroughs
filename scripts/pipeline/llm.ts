@@ -128,7 +128,12 @@ function callClaudeCli(req: LlmRequest, model: string): Promise<LlmResult> {
     "--no-session-persistence", "--strict-mcp-config", "--disable-slash-commands", "--setting-sources", "",
   ];
   return new Promise((resolve) => {
-    const child = spawn("claude", args, { cwd: CLI_DIR, stdio: ["pipe", "pipe", "pipe"] });
+    // Writing calls send a different packet each time and start together, so their cache writes (billed at 1.25x
+    // input) are almost never read: 10113 wrote 6.8M write-tier tokens to the cache and read back 70k. Plain input
+    // costs less there. Extraction keeps caching (its shared system prompt is read back). RW_WRITE_CACHE=1 restores it.
+    const noCache = req.tier === "write" && process.env.RW_WRITE_CACHE !== "1";
+    const env = noCache ? { ...process.env, DISABLE_PROMPT_CACHING: "1" } : process.env;
+    const child = spawn("claude", args, { cwd: CLI_DIR, stdio: ["pipe", "pipe", "pipe"], env });
     let out = "";
     let err = "";
     const timer = setTimeout(() => child.kill(), 15 * 60_000);
@@ -322,13 +327,46 @@ async function callOnce(req: LlmRequest, model: string): Promise<LlmResult> {
   return callGemini(req, model);
 }
 
-async function callWithRetry(req: LlmRequest, model: string): Promise<LlmResult> {
+/**
+ * Where an agy request goes after AGY_STALLS_BEFORE_FALLBACK stalls: the same tier on Claude (Haiku for
+ * extraction). Some chunks stall agy on every try (10113: big box-drawn tables in gf2, 29 stalls over four
+ * passes, ~2 h), while Haiku did the same 17 chunks in one run for 82k tokens. RW_AGY_FALLBACK=none turns
+ * it off; any other backend name picks that backend.
+ */
+const AGY_STALLS_BEFORE_FALLBACK = 2;
+function agyFallback(): Backend | undefined {
+  const f = process.env.RW_AGY_FALLBACK;
+  if (f === "none") return undefined;
+  if (f) {
+    if (!(f in DEFAULT_MODELS) || f === "agy") throw new Error(`RW_AGY_FALLBACK must be none or one of claude-cli, anthropic, gemini (got "${f}")`);
+    return f as Backend;
+  }
+  try {
+    const b = backend();
+    return b === "agy" ? undefined : b;
+  } catch {
+    return undefined;
+  }
+}
+
+interface Attempted { r: LlmResult; req: LlmRequest; model: string }
+
+async function callWithRetry(req: LlmRequest, model: string): Promise<Attempted> {
   let r = await callOnce(req, model);
+  let stalls = 0;
   for (let attempt = 1; attempt <= 3 && r.error && RETRYABLE.test(r.error); attempt++) {
+    if (backendOf(req) === "agy" && /stall timeout/.test(r.error) && ++stalls >= AGY_STALLS_BEFORE_FALLBACK) {
+      const fb = agyFallback();
+      if (fb) {
+        console.log(`  ${req.key}: agy stalled ${stalls}x, retrying on ${fb}`);
+        req = { ...req, backend: fb };
+        model = modelFor(req.tier, undefined, fb);
+      }
+    }
     await sleep(15_000 * attempt);
     r = await callOnce(req, model);
   }
-  return r;
+  return { r, req, model };
 }
 
 function logUsage(opts: RunOptions, r: LlmResult, model: string, req: LlmRequest) {
@@ -355,10 +393,9 @@ export async function runAll(reqs: LlmRequest[], opts: RunOptions = {}): Promise
   const worker = async () => {
     while (next < reqs.length) {
       const i = next++;
-      const model = modelFor(reqs[i].tier, opts.model, backendOf(reqs[i]));
-      const r = await callWithRetry(reqs[i], model);
+      const { r, req, model } = await callWithRetry(reqs[i], modelFor(reqs[i].tier, opts.model, backendOf(reqs[i])));
       results[i] = r;
-      logUsage(opts, r, model, reqs[i]);
+      logUsage(opts, r, model, req); // the backend and model that answered (an agy stall may have moved it)
       await opts.onResult?.(r);
     }
   };

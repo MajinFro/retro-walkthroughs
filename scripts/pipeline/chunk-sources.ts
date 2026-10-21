@@ -30,8 +30,14 @@ const HARD_MAX = 7000; // never exceed (unless a single map block is larger)
 const MIN_BEFORE_HEADER = 800; // flush on a new header once we have this much
 
 const isSep = (l: string) => /^\s*([=\-*~#_+])\1{7,}\s*$/.test(l);
+// A box-drawn table row with a sentence in a cell ("|o| This one is located inside the Deku |") is not a
+// map line: counting it as one let 10113's gf2 tables grow to 14k-char chunks cut mid-sentence, which
+// stalled agy and caused most of that game's rejects. Map labels rarely run to five words.
+const isTableRow = (l: string) => /[|]/.test(l) && /(?:[A-Za-z']{2,}[ ,.;:]+){4}[A-Za-z']{2,}/.test(l);
 const isMapLine = (l: string) =>
-  /[|+]/.test(l) && (l.match(/[|+\-=#\/\\\[\]]/g) || []).length >= 4 && l.trim().length >= 6;
+  /[|+]/.test(l) && !isTableRow(l) && (l.match(/[|+\-=#\/\\\[\]]/g) || []).length >= 4 && l.trim().length >= 6;
+// a line of box borders only, e.g. "(-------)-(--------+-----+": a row boundary inside a table
+const isRule = (l: string) => l.trim().length >= 6 && !/[A-Za-z0-9]/.test(l) && /[-=+|()]/.test(l);
 
 function isHeader(lines: string[], i: number): boolean {
   const l = lines[i];
@@ -112,7 +118,9 @@ function chunkSource(src: SourceEntry, text: string): Chunk[] {
 
     const blank = !line.trim();
     const inMap = mapRun > 0;
-    if ((size >= TARGET && blank && !inMap) || size >= HARD_MAX * (inMap ? 2 : 1)) {
+    // a long table has no blank lines: end the chunk at a row rule that follows a table row instead
+    const tableRowEnd = isRule(line) && i > 0 && isTableRow(lines[i - 1]);
+    if ((size >= TARGET && ((blank && !inMap) || tableRowEnd)) || size >= HARD_MAX * (inMap ? 2 : 1)) {
       flush(i + 1);
     }
   }
