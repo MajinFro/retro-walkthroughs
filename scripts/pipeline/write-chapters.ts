@@ -22,7 +22,9 @@ import {
   ACH_RE,
   type AchievementsFile,
   CITE_RE,
+  chunkCitation,
   malformedCites,
+  remapCitation,
   type VerifiedFact,
   chapterFile,
   flag,
@@ -185,10 +187,31 @@ function tidyTags(t: string, text: string): { text: string; fixed: number } {
   return { text: out.join(text.includes("\r\n") ? "\r\n" : "\n"), fixed };
 }
 
+// A citation with a stray suffix ("gf4-27-skip", "gf3-37-1-unavailable") is mapped to the fact id inside it
+// before any repair call (remapCitation in lib.ts); anything else is left for problems() to report.
+function fixCites(text: string): { text: string; fixed: number } {
+  let fixed = 0;
+  const out = text.replace(CITE_RE, (_all: string, list: string) => {
+    const mapped = list.split(/\s*,\s*/).map((f) => {
+      if (usable.has(f)) return f;
+      const m = remapCitation(f, usable);
+      return m ? (fixed++, m) : f;
+    });
+    return `[[${[...new Set(mapped)].join(", ")}]]`;
+  });
+  return { text: out, fixed };
+}
+
 function problems(t: string, text: string): string[] {
   const out: string[] = [];
   const bad = [...new Set([...text.matchAll(CITE_RE)].flatMap((m) => m[1].split(/\s*,\s*/)).filter((f) => !usable.has(f)))];
-  if (bad.length) out.push(`cites fact ids that are not usable facts: ${bad.slice(0, 20).join(", ")} — cite only ids from the packet`);
+  const passages = bad.map((f) => [f, chunkCitation(f)] as const).filter(([, c]) => c);
+  const other = bad.filter((f) => !chunkCitation(f));
+  if (passages.length)
+    out.push(
+      `cites source passages instead of facts: ${passages.slice(0, 20).map(([f, c]) => `${f} → cite the packet fact from that passage that states the claim (ids starting "${c}-")`).join("; ")} — passages are never cited, and a claim no fact states must go`,
+    );
+  if (other.length) out.push(`cites fact ids that are not usable facts: ${other.slice(0, 20).join(", ")} — cite only ids from the packet`);
   const malformed = malformedCites(text);
   if (malformed.length) out.push(`malformed citations: ${malformed.slice(0, 5).join(" ")} — [[...]] may hold only comma-separated fact ids from the packet; put any explanation in the prose or drop it`);
   const tags = [...text.matchAll(ACH_RE)].map((m) => Number(m[1]));
@@ -304,7 +327,9 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
       console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)}`);
       return;
     }
-    const { text, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
+    const { text: tagged, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
+    const { text, fixed: recited } = fixCites(tagged);
+    if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
     if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
     const ps = problems(r.key, text);
     drafts.set(r.key, { text, problems: ps });
@@ -336,7 +361,9 @@ if (repairs.length) {
           savePending();
           return void console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)} (first draft kept; the next rw:write or --fix retries the repair)`);
         }
-        const { text, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
+        const { text: tagged, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
+        const { text, fixed: recited } = fixCites(tagged);
+        if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
     if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
         const ps = problems(r.key, text);
         const before = drafts.get(r.key)!;

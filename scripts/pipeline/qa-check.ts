@@ -211,14 +211,19 @@ function audit(file: string, chapterN: number | null) {
       if (citedFids.length && words(pr.text) >= 15) {
         const prTerms = keyTerms(pr.text);
         if (prTerms.length >= 6) {
+          // compare word stems: "auto-save" ~ "autosave", "reload" ~ "reloading" (prose paraphrases translated facts)
+          const stems = (s: string) =>
+            keyTerms(s)
+              .flatMap((w) => [w, ...w.split("-").filter((p) => p.length >= 4 && p !== w)])
+              .map((w) => w.replace(/-/g, "").slice(0, 5));
           const factTerms = new Set(
             citedFids.flatMap((fid) => {
               const f = factById.get(fid);
               if (!f) return [];
-              return [...keyTerms(f.text), ...keyTerms(f.subject), ...(f.evidence ?? []).flatMap((e) => keyTerms(e.quote))];
+              return [f.text, f.subject, ...(f.evidence ?? []).map((e) => `${e.quote} ${e.translation ?? ""}`)].flatMap((s) => stems(s ?? ""));
             })
           );
-          const overlap = prTerms.filter((w) => factTerms.has(w)).length;
+          const overlap = stems(pr.text).filter((w) => factTerms.has(w)).length;
           if (overlap === 0) {
             warnings.push(`${tag}:${pr.line}: no factual overlap with cited facts (${citedFids.join(", ")}) — check for unverified claims: "${pr.text.slice(0, 80)}…"`);
           }

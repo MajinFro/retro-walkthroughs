@@ -346,9 +346,39 @@ const STOP = new Set(
   ),
 );
 
+// Japanese/Chinese/Korean text has no spaces, so a whole sentence would be one "word".
+// Split those runs into character pairs instead; pairs of only hiragana are grammar (して, ので) and are skipped.
+const CJK_RUN = /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}ー々]+/gu;
+const HIRAGANA_ONLY = /^[\p{Script=Hiragana}ー]+$/u;
+
 export function keyTerms(s: string): string[] {
-  return [...new Set(norm(s).split(" ").filter((w) => w.length >= 4 && !STOP.has(w)))];
+  const n = norm(s);
+  const terms = n.replace(CJK_RUN, " ").split(" ").filter((w) => w.length >= 4 && !STOP.has(w));
+  for (const run of n.match(CJK_RUN) ?? []) {
+    const ch = [...run];
+    for (let i = 0; i + 1 < ch.length; i++) {
+      const pair = ch[i] + ch[i + 1];
+      if (!HIRAGANA_ONLY.test(pair)) terms.push(pair);
+    }
+  }
+  return [...new Set(terms)];
 }
+
+/**
+ * A citation with a stray suffix ("gf4-27-skip", "gf3-37-1-unavailable"), mapped to the usable fact id inside it;
+ * null otherwise. A bare chunk number ("sk1-41", cited from a source passage) is NOT guessed: matching the
+ * line's words to that chunk's facts picked the wrong fact 4-22% of the time on 22488/1470/10113/1471 chapters.
+ */
+export function remapCitation(bad: string, usable: Set<string>): string | null {
+  for (let s = bad; /-[^-]+$/.test(s); ) {
+    s = s.replace(/-[^-]+$/, "");
+    if (usable.has(s)) return s;
+  }
+  return null;
+}
+
+/** "sk1-41" or "gf4-27-skip": a source passage's chunk number, which is not a fact id. */
+export const chunkCitation = (bad: string): string | null => (/-\d+-\d+$/.test(bad) ? null : (bad.match(/^(.*-\d+)(?:-[a-z]+)?$/)?.[1] ?? null));
 
 export function words(s: string): number {
   return (s.match(/\S+/g) || []).length;
@@ -719,7 +749,11 @@ export function checkFact(f: Fact, ctx: FactCheckContext): { problems: string[];
       const overlap = textTerms.filter((w) => quoteTerms.has(w)).length;
       const ratio = overlap / textTerms.length;
       if (ratio < 0.2) {
-        problems.push(`low quote overlap (${Math.round(ratio * 100)}%): fact text contains words not in evidence quote — ensure fact does not invent details`);
+        const untranslated = goodEv.some((e) => !e.translation && /[^\p{Script=Latin}\p{N}\p{P}\p{S}\s]/u.test(e.quote ?? ""));
+        problems.push(
+          `low quote overlap (${Math.round(ratio * 100)}%): fact text contains words not in evidence quote — ensure fact does not invent details` +
+            (untranslated ? ` (the quote is not in English: add an English "translation" to its evidence entry)` : ""),
+        );
       }
     }
   }
