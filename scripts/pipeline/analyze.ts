@@ -85,6 +85,20 @@ for (const [stage, rows] of countBy(g.usage, (u) => `${u.stage}/${u.model}`).map
 const extractCalls = g.usage.filter((u) => u.stage === "extract");
 if (g.chunks && extractCalls.length) out.push(`  extraction: ${tok(extractCalls.reduce((s, u) => s + callTokens(u), 0) / g.chunks)} tokens per chunk (first calls only)`);
 
+// Call speed per stage and backend (rows logged since call timing was added)
+const timed = g.usage.filter((u) => typeof u.call_ms === "number");
+if (timed.length) {
+  const sec = (ms: number) => `${Math.round(ms / 1000)}s`;
+  const q = (xs: number[], p: number) => xs[Math.min(xs.length - 1, Math.floor(xs.length * p))];
+  out.push("", "SPEED — per call: median / p90 of the answering attempt, retries, total wall time");
+  for (const [k] of countBy(timed, (u) => `${u.stage}/${u.backend}`)) {
+    const rows = timed.filter((u) => `${u.stage}/${u.backend}` === k);
+    const call = rows.map((u) => u.call_ms).sort((a, b) => a - b);
+    const retried = rows.filter((u) => (u.attempts ?? 1) > 1).length;
+    out.push(`  ${k.padEnd(28)} ${String(rows.length).padStart(3)} calls  ${sec(q(call, 0.5))} / ${sec(q(call, 0.9))}  ${retried ? `${retried} retried, ` : ""}${sec(rows.reduce((s, u) => s + (u.ms ?? 0), 0))} total`);
+  }
+}
+
 // Extraction failures
 const rejects = jsonl(path.join(P.dir, "_extract_rejects.jsonl"));
 const autoLog = exists(path.join(P.dir, "_auto.log")) ? readText(path.join(P.dir, "_auto.log")) : "";

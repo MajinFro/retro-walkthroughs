@@ -4,7 +4,7 @@
  *   npx tsx scripts/pipeline/plan-check.ts <gameId>
  */
 import path from "node:path";
-import { achievementMermaid, chapterMermaid, type Graph, progressionMermaid, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
+import { achievementMermaid, chapterMermaid, duplicateMap, type Graph, packetFactIds, progressionMermaid, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -93,6 +93,29 @@ if (exists(P.roadmap)) {
     }
     if (unmatched.length)
       rWarn.push(`chapter ${c.n}: ${unmatched.length} area label(s) match no fact location, so the packet misses those areas' facts — use the guides' location name as the label or add aliases to 05_aliases.json: ${unmatched.join("; ")}`);
+  }
+
+  // Facts no writer packet will ever see (593: 51%, 1470: 30%, 1984: 27% of usable facts, mostly with no location)
+  const reach = packetFactIds(roadmap, graph, usableFacts, (s) => canon(aliases, s), duplicateMap(verified.facts));
+  const lost = reach.unplaced;
+  const liveCount = usableFacts.filter((f) => f.status !== "duplicate").length;
+  const KEY_TYPES = new Set(["boss", "missable", "ponr", "quest", "item", "achievement"]);
+  const keyLost = lost.filter((f) => KEY_TYPES.has(f.type));
+  if (lost.length >= Math.max(10, liveCount * 0.05) || keyLost.length) {
+    const byType = Object.entries(lost.reduce<Record<string, number>>((m, f) => ((m[f.type] = (m[f.type] ?? 0) + 1), m), {}))
+      .sort((a, b) => b[1] - a[1])
+      .map(([t, n]) => `${t} ${n}`)
+      .join(", ");
+    const locs = Object.entries(lost.reduce<Record<string, number>>((m, f) => ((m[f.location ?? "(no location)"] = (m[f.location ?? "(no location)"] ?? 0) + 1), m), {}))
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 6)
+      .map(([l, n]) => `${l} ×${n}`)
+      .join("; ");
+    rWarn.push(
+      `${lost.length} of ${liveCount} usable facts reach no writer packet (${byType}; ${reach.bySibling} more were placed by their chunk) — top locations: ${locs}.` +
+        (keyLost.length ? ` Key facts among them: ${keyLost.slice(0, 12).map((f) => f.id).join(", ")}${keyLost.length > 12 ? " …" : ""}.` : "") +
+        ` Place what a chapter needs: add its location as an alias of a chapter area, or its id to that chapter's fact_ids in 07_roadmap.json; reference lists (bestiary, rosters) may stay out.`,
+    );
   }
 
   // Achievement placement: an achievement whose supporting facts all sit in areas of OTHER chapters is probably in the wrong chapter

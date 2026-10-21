@@ -349,9 +349,14 @@ function agyFallback(): Backend | undefined {
   }
 }
 
-interface Attempted { r: LlmResult; req: LlmRequest; model: string }
+// ms: wall time of the whole call including retries and waits; call_ms: the attempt that answered;
+// attempts: how many calls it took. Logged per row so backends can be compared on speed, not just tokens.
+interface Attempted { r: LlmResult; req: LlmRequest; model: string; timing: { ms: number; call_ms: number; attempts: number } }
 
 async function callWithRetry(req: LlmRequest, model: string): Promise<Attempted> {
+  const t0 = Date.now();
+  let tCall = t0;
+  let attempts = 1;
   let r = await callOnce(req, model);
   let stalls = 0;
   for (let attempt = 1; attempt <= 3 && r.error && RETRYABLE.test(r.error); attempt++) {
@@ -364,15 +369,18 @@ async function callWithRetry(req: LlmRequest, model: string): Promise<Attempted>
       }
     }
     await sleep(15_000 * attempt);
+    tCall = Date.now();
+    attempts++;
     r = await callOnce(req, model);
   }
-  return { r, req, model };
+  const end = Date.now();
+  return { r, req, model, timing: { ms: end - t0, call_ms: end - tCall, attempts } };
 }
 
-function logUsage(opts: RunOptions, r: LlmResult, model: string, req: LlmRequest) {
+function logUsage(opts: RunOptions, r: LlmResult, model: string, req: LlmRequest, timing?: Attempted["timing"]) {
   if (!opts.usageLog) return;
   fs.mkdirSync(path.dirname(opts.usageLog), { recursive: true });
-  const row = { at: new Date().toISOString(), stage: opts.stage, key: r.key, backend: backendOf(req), model, ...r.usage, error: r.error };
+  const row = { at: new Date().toISOString(), stage: opts.stage, key: r.key, backend: backendOf(req), model, ...r.usage, ...timing, error: r.error };
   fs.appendFileSync(opts.usageLog, JSON.stringify(row) + "\r\n");
 }
 
@@ -393,9 +401,9 @@ export async function runAll(reqs: LlmRequest[], opts: RunOptions = {}): Promise
   const worker = async () => {
     while (next < reqs.length) {
       const i = next++;
-      const { r, req, model } = await callWithRetry(reqs[i], modelFor(reqs[i].tier, opts.model, backendOf(reqs[i])));
+      const { r, req, model, timing } = await callWithRetry(reqs[i], modelFor(reqs[i].tier, opts.model, backendOf(reqs[i])));
       results[i] = r;
-      logUsage(opts, r, model, req); // the backend and model that answered (an agy stall may have moved it)
+      logUsage(opts, r, model, req, timing); // the backend and model that answered (an agy stall may have moved it)
       await opts.onResult?.(r);
     }
   };

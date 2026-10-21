@@ -16,7 +16,7 @@
 import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
-import { chapterMermaid, checkpointTotals, type Graph, type Roadmap, usableFactIds } from "./graph.ts";
+import { chapterMermaid, checkpointTotals, duplicateMap, type Graph, type Roadmap, usableFactIds } from "./graph.ts";
 import { type LlmRequest, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, runAll, skillText, unwrapMarkdown } from "./llm.ts";
 import {
   ACH_RE,
@@ -48,6 +48,7 @@ const graph = readJson<Graph>(P.graph);
 const roadmap = readJson<Roadmap>(P.roadmap);
 const verified = readJson<{ facts: VerifiedFact[] }>(P.verified);
 const usable = usableFactIds(verified.facts);
+const dupOf = duplicateMap(verified.facts);
 
 const run = (cmd: string) => spawnSync(cmd, { shell: true, encoding: "utf8", cwd: P.root });
 const fileOf = (t: string) => (t === "overview" ? "00_overview.md" : chapterFile(Number(t)));
@@ -193,6 +194,7 @@ function fixCites(text: string): { text: string; fixed: number } {
   let fixed = 0;
   const out = text.replace(CITE_RE, (_all: string, list: string) => {
     const mapped = list.split(/\s*,\s*/).map((f) => {
+      if (dupOf.has(f)) return fixed++, dupOf.get(f)!; // merged by rw:verify: cite the fact that kept its quotes
       if (usable.has(f)) return f;
       const m = remapCitation(f, usable);
       return m ? (fixed++, m) : f;

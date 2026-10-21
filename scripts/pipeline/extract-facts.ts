@@ -45,7 +45,7 @@ import {
 const MAX_BATCH_CHARS = 16_000;
 const MAX_BATCH_CHUNKS = 8;
 const MAX_MAP_BATCH = 40; // map sources are one tiny chunk each
-const FOCUS_MIN_CHARS = 100_000;
+const FOCUS_MIN_CHARS = 60_000; // was 100k: 70-93k secondary walkthroughs (1470 gf4, 1471 gf3/gf5, 1984 gf2) ran in full mode
 
 const id = gameIdArg();
 const P = paths(id);
@@ -62,12 +62,18 @@ const sourceById = new Map(sources.map((s) => [s.id, s]));
 // ---------------------------------------------------------------------------
 // Extraction mode per source
 // ---------------------------------------------------------------------------
-const primaryGuide = sources.find((s) => s.kind === "guide")?.id;
+// The primary guide is extracted in full: the one marked "primary": true in sources.json, else the largest
+// guide. (It used to be the first one registered: 22488's 126k floor-by-floor walkthrough ran focused behind
+// a 21k wiki page, 1470's 144k guide behind an 85k one.) Other full walkthroughs of 60k+ mostly repeat it,
+// so they get the focused prompt; checklists are lists of exactly what focused mode keeps, and stay full.
+const guides = sources.filter((s) => s.kind === "guide");
+const primaryGuide = (guides.find((s) => (s as { primary?: boolean }).primary) ?? [...guides].sort((a, b) => (b.chars ?? 0) - (a.chars ?? 0))[0])?.id;
 function mode(src: string): "full" | "focused" {
   const s = sourceById.get(src);
   if (!s || flag("full")) return "full";
   if (s.extract) return s.extract;
-  return s.kind === "guide" && s.id !== primaryGuide && (s.chars ?? 0) >= FOCUS_MIN_CHARS ? "focused" : "full";
+  if (s.kind !== "guide" || s.id === primaryGuide || /^checklist/i.test(s.id)) return "full";
+  return (s.chars ?? 0) >= FOCUS_MIN_CHARS ? "focused" : "full";
 }
 // order: primary guide, the RA achievement guide and comments, then the rest (corroborating sources)
 const rank = (src: string) => (src === primaryGuide ? 0 : src === "ra-comments" || src === "ra-guide" ? 1 : sourceById.get(src)?.kind === "map" ? 3 : 2);
@@ -215,7 +221,7 @@ function check(b: Batch, r: LlmResult, prior?: Checked): Checked {
     let f = expand(raw);
     const outside = f.evidence.filter((e) => !inBatch.has(e.chunk_id)).map((e) => e.chunk_id);
     let { problems, evidence, reject } = checkFact(f, ctx);
-    if (reject && !outside.length && problems.length && problems.every((p) => /^(unquoted number|low quote overlap)/.test(p))) {
+    if (reject && !outside.length && problems.length && problems.every((p) => /^(unquoted number|low quote overlap|quote too short)/.test(p))) {
       for (const [extra, back] of [[0, false], [1, false], [0, true], [1, true]] as const) {
         const wide = widenQuote(f, chunks, extra, back);
         const again = wide && checkFact(wide, ctx);

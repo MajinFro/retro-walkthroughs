@@ -151,8 +151,89 @@ export function collectibleMentionRe(counter: string): RegExp {
 const NODE_KINDS = new Set(["area", "boss", "npc", "item", "key_item", "quest", "achievement", "missable", "ponr", "save_point"]);
 const EDGE_KINDS = new Set(["leads_to", "requires", "unlocks", "contains", "missable_before"]);
 
+/** Ids a graph, roadmap or chapter may reference: usable facts, plus duplicates (they resolve to the fact they merged into). */
 export function usableFactIds(facts: VerifiedFact[]): Set<string> {
-  return new Set(facts.filter((f) => ["verified", "single_source", "resolved"].includes(f.status)).map((f) => f.id));
+  return new Set(facts.filter((f) => ["verified", "single_source", "resolved", "duplicate"].includes(f.status)).map((f) => f.id));
+}
+
+/** duplicate id -> the kept fact's id */
+export const duplicateMap = (facts: VerifiedFact[]) => new Map(facts.filter((f) => f.duplicate_of).map((f) => [f.id, f.duplicate_of!]));
+
+/**
+ * The fact ids of every chapter's writer packet, and of the overview packet. A chapter gets: its roadmap
+ * fact_ids, facts linked to its achievements, the facts of its graph areas and their direct neighbours
+ * (nodes and edges), facts whose location matches one of its area labels, and its missables and PONRs.
+ * The overview gets the roadmap's own fact_ids, every missable/PONR fact and every mechanic.
+ *
+ * Then facts with no location that no packet holds follow their chunk: when at least 60% of the other facts
+ * from the same chunk sit in one or two chapters, they join those chapters. Facts with no location were most
+ * of the 27-51% of usable facts that reached no writer in 593, 1470 and 1984 (95 boss facts in 1984).
+ */
+export const SIBLING_SHARE = 0.6;
+export function packetFactIds(
+  roadmap: Roadmap,
+  g: Graph,
+  usable: VerifiedFact[],
+  canonLabel: (s: string | null | undefined) => string,
+  dupOf: Map<string, string> = new Map(),
+): { chapters: Map<number, Set<string>>; overview: Set<string>; bySibling: number; unplaced: VerifiedFact[] } {
+  usable = usable.filter((f) => f.status !== "duplicate");
+  const nodeById = new Map(g.nodes.map((n) => [n.id, n]));
+  const overview = new Set<string>([
+    ...(roadmap.fact_ids ?? []),
+    ...roadmap.missables.flatMap((m) => m.fact_ids),
+    ...roadmap.ponr.flatMap((p) => p.fact_ids),
+    ...usable.filter((f) => f.type === "mechanic").map((f) => f.id),
+  ]);
+  const chapters = new Map<number, Set<string>>();
+  for (const ch of roadmap.chapters) {
+    const ids = new Set<string>(ch.fact_ids);
+    for (const f of usable) if ((f.achievement_ids ?? []).some((a) => ch.achievement_ids.includes(Number(a)))) ids.add(f.id);
+    const areaSet = new Set(ch.areas);
+    const neigh = new Set(ch.areas);
+    for (const e of g.edges)
+      if (areaSet.has(e.from) || areaSet.has(e.to)) {
+        neigh.add(e.from);
+        neigh.add(e.to);
+        (e.fact_ids ?? []).forEach((f) => ids.add(f));
+      }
+    for (const nid of neigh) (nodeById.get(nid)?.fact_ids ?? []).forEach((f) => ids.add(f));
+    const labels = new Set(ch.areas.map((a) => canonLabel(nodeById.get(a)?.label)));
+    for (const f of usable) if (f.location && labels.has(canonLabel(f.location))) ids.add(f.id);
+    for (const m of roadmap.missables) if (m.chapter === ch.n) m.fact_ids.forEach((f) => ids.add(f));
+    for (const p of roadmap.ponr) if (p.chapter === ch.n) p.fact_ids.forEach((f) => ids.add(f));
+    chapters.set(ch.n, ids);
+  }
+  // a graph or roadmap written before rw:verify merged duplicates may still name them
+  const resolve = (ids: Set<string>) => new Set([...ids].map((f) => dupOf.get(f) ?? f));
+  for (const [n, ids] of chapters) chapters.set(n, resolve(ids));
+  const overviewIds = resolve(overview);
+  overview.clear();
+  overviewIds.forEach((f) => overview.add(f));
+
+  // chunk siblings
+  const inChapters = new Map<string, number[]>();
+  for (const [n, ids] of chapters) for (const f of ids) (inChapters.get(f) ?? inChapters.set(f, []).get(f)!).push(n);
+  const chunkOf = (f: VerifiedFact) => f.evidence?.[0]?.chunk_id;
+  const byChunk = new Map<string, VerifiedFact[]>();
+  for (const f of usable) {
+    const c = chunkOf(f);
+    if (c) (byChunk.get(c) ?? byChunk.set(c, []).get(c)!).push(f);
+  }
+  let bySibling = 0;
+  const unplaced: VerifiedFact[] = [];
+  for (const f of usable) {
+    if (inChapters.has(f.id) || overview.has(f.id)) continue;
+    const sibs = f.location ? [] : (byChunk.get(chunkOf(f) ?? "") ?? []).filter((s) => s.id !== f.id && inChapters.has(s.id));
+    const votes = new Map<number, number>();
+    for (const s of sibs) for (const n of inChapters.get(s.id)!) votes.set(n, (votes.get(n) ?? 0) + 1);
+    const winners = [...votes].filter(([, v]) => v / sibs.length >= SIBLING_SHARE).map(([n]) => n);
+    if (winners.length >= 1 && winners.length <= 2) {
+      for (const n of winners) chapters.get(n)!.add(f.id);
+      bySibling++;
+    } else unplaced.push(f);
+  }
+  return { chapters, overview, bySibling, unplaced };
 }
 
 export function validateGraph(g: Graph, usable: Set<string>, achIds: Set<number>): string[] {

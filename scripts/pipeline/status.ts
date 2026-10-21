@@ -105,7 +105,7 @@ if (exists(P.verified)) {
   const s = v.stats;
   // stale when the fact files no longer match the fingerprint rw:verify recorded (older files carry none)
   const newer = Boolean(v.inputs && v.inputs !== fingerprintFiles(verifyInputFiles(P)));
-  rows.push(["5 Verify", s.conflict ? "⛔" : newer ? "🟡" : "✅", `✅${s.verified} 🟡${s.single_source} ⚠${s.conflict} ✔${s.resolved} ❌${s.rejected} · ach unsupported: ${s.achievements_unsupported}${newer ? " (facts changed — re-run)" : ""}`]);
+  rows.push(["5 Verify", s.conflict ? "⛔" : newer ? "🟡" : "✅", `✅${s.verified} 🟡${s.single_source} ⚠${s.conflict} ✔${s.resolved} ❌${s.rejected}${s.duplicate ? ` ⧉${s.duplicate}` : ""} · ach unsupported: ${s.achievements_unsupported}${newer ? " (facts changed — re-run)" : ""}`]);
   if (s.conflict) setNext(`Resolve ${s.conflict} conflict(s) (ra-fact-verifier skill: resolve conflicts in 05_resolutions.json), then npm run rw:verify -- ${id}`);
   else if (newer) setNext(`npm run rw:verify -- ${id}  (fact files changed since the last run)`);
 } else { rows.push(["5 Verify", "⬜", ""]); setNext(`npm run rw:verify -- ${id}`); }

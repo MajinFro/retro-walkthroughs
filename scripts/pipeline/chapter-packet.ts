@@ -10,7 +10,7 @@
  * The writer must not use anything outside the packet.
  */
 import path from "node:path";
-import { chapterMaps, chapterMermaid, chapterTitle, checkpointTotals, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMaps, chapterMermaid, chapterTitle, checkpointTotals, duplicateMap, packetFactIds, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -56,6 +56,7 @@ const achById = new Map(ach.achievements.map((a) => [a.id, a]));
 const nodeById = new Map(graph.nodes.map((n) => [n.id, n]));
 const badge = (s: string) => (s === "verified" ? "✅" : s === "resolved" ? "✔" : "🟡");
 
+const packetIds = packetFactIds(roadmap, graph, usable, (s) => canon(aliases, s), duplicateMap(verified.facts));
 const factIds = new Set<string>();
 // Questions no source answers: the writer must call them unconfirmed and follow the safe guidance,
 // never recommend the risky option (593: a chapter told players to use a power-up code on the V.Hard run).
@@ -77,10 +78,7 @@ let chapterAch: number[] = [];
 if (which === "overview") {
   title = `${ach.title} — Overview packet`;
   outName = "00_overview.md";
-  (roadmap.fact_ids ?? []).forEach((f) => factIds.add(f));
-  roadmap.missables.forEach((m) => m.fact_ids.forEach((f) => factIds.add(f)));
-  roadmap.ponr.forEach((p) => p.fact_ids.forEach((f) => factIds.add(f)));
-  usable.filter((f) => f.type === "mechanic").forEach((f) => factIds.add(f.id));
+  packetIds.overview.forEach((f) => factIds.add(f));
   lines.push(
     `# ${title}`, "",
     "Write `08_chapters/00_overview.md`: **Game Overview** (premise, controls/mechanics a first-timer needs, how RetroAchievements/hardcore applies) and a plain-language explanation of the 100% plan.",
@@ -104,25 +102,11 @@ if (which === "overview") {
   title = `Chapter ${ch.n}: ${chapterTitle(ch)}`;
   outName = chapterFile(ch.n);
   chapterAch = ch.achievement_ids;
-  ch.fact_ids.forEach((f) => factIds.add(f));
-  // facts linked to chapter achievements
-  for (const f of usable) if ((f.achievement_ids ?? []).some((a) => chapterAch.includes(Number(a)))) factIds.add(f.id);
-  // facts behind the chapter's graph nodes and their direct neighbours
-  const areaSet = new Set(ch.areas);
-  const neigh = new Set(ch.areas);
-  for (const e of graph.edges) if (areaSet.has(e.from) || areaSet.has(e.to)) {
-    neigh.add(e.from);
-    neigh.add(e.to);
-    (e.fact_ids ?? []).forEach((f) => factIds.add(f));
-  }
-  for (const nid of neigh) (nodeById.get(nid)?.fact_ids ?? []).forEach((f) => factIds.add(f));
-  // facts whose location matches one of the chapter's area labels
-  const areaLabels = new Set(ch.areas.map((a) => canon(aliases, nodeById.get(a)?.label)));
-  for (const f of usable) if (f.location && areaLabels.has(canon(aliases, f.location))) factIds.add(f.id);
+  // roadmap facts, achievement facts, graph area + neighbour facts, location matches, missables/PONRs,
+  // and unlocated facts that follow their chunk (packetFactIds in graph.ts)
+  packetIds.chapters.get(n)!.forEach((f) => factIds.add(f));
   const missables = roadmap.missables.filter((m) => m.chapter === n);
   const ponrs = roadmap.ponr.filter((p) => p.chapter === n);
-  missables.forEach((m) => m.fact_ids.forEach((f) => factIds.add(f)));
-  ponrs.forEach((p) => p.fact_ids.forEach((f) => factIds.add(f)));
 
   const prev = roadmap.chapters.find((c) => c.n === n - 1);
   const next = roadmap.chapters.find((c) => c.n === n + 1);

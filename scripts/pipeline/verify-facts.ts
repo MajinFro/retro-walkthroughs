@@ -148,10 +148,51 @@ for (const f of valid) {
   out.push({ ...f, status, sources: [...supportSources], problems: problems.get(f.id) });
 }
 
+// Merge facts that make the same claim into one, keeping every quote: 10113 had 1,666 redundant rows,
+// 1471 303, 1470 291, and the writer saw each claim two or three times in its packet. Only groups whose
+// key names a value (object or location) merge, so different tactics for one boss stay separate. A fact
+// without a location joins the group's located facts only when they all name the same place.
+{
+  const mergeable = (f: VerifiedFact) => (f.status === "verified" || f.status === "single_source") && !isGeneric(f) && !!(f.object || f.location);
+  const byKey = new Map<string, VerifiedFact[]>();
+  for (const f of out) if (mergeable(f)) byKey.set(keyOf(f), [...(byKey.get(keyOf(f)) ?? []), f]);
+  for (const facts of byKey.values()) {
+    if (facts.length < 2) continue;
+    const places = new Set(facts.map(locOf).filter(Boolean));
+    const clusters = new Map<string, VerifiedFact[]>();
+    for (const f of facts) {
+      const at = locOf(f) || (places.size === 1 ? [...places][0] : places.size === 0 ? "" : null);
+      if (at === null) continue; // unlocated, and the group names several places: leave it alone
+      clusters.set(at, [...(clusters.get(at) ?? []), f]);
+    }
+    for (const c of clusters.values()) {
+      if (c.length < 2) continue;
+      const keep = [...c].sort((a, b) => b.evidence.length - a.evidence.length || (b.text?.length ?? 0) - (a.text?.length ?? 0) || a.id.localeCompare(b.id))[0];
+      const seen = new Set<string>();
+      const evidence = c.flatMap((f) => f.evidence).filter((e) => {
+        const k = `${e.chunk_id}|${norm(e.quote ?? "")}`;
+        return seen.has(k) ? false : (seen.add(k), true);
+      });
+      const sources = [...new Set(c.flatMap((f) => f.sources))];
+      Object.assign(keep, {
+        evidence,
+        sources,
+        status: sources.length >= 2 ? "verified" : keep.status,
+        achievement_ids: [...new Set(c.flatMap((f) => f.achievement_ids ?? []))],
+        requires: [...new Set(c.flatMap((f) => f.requires ?? []))],
+        missable: c.some((f) => f.missable),
+        location: keep.location ?? c.find((f) => f.location)?.location ?? null,
+        merged_ids: c.filter((f) => f !== keep).map((f) => f.id),
+      });
+      for (const f of c) if (f !== keep) Object.assign(f, { status: "duplicate", duplicate_of: keep.id });
+    }
+  }
+}
+
 // possible conflicts: same subject+predicate, different values, different sources
 const loose = new Map<string, VerifiedFact[]>();
 for (const f of out)
-  if (SINGLE_VALUED.has(f.type) && f.status !== "rejected" && !isGeneric(f)) {
+  if (SINGLE_VALUED.has(f.type) && f.status !== "rejected" && f.status !== "duplicate" && !isGeneric(f)) {
     const k = [f.type, canon(aliases, f.subject), norm(f.predicate)].join("|");
     loose.set(k, [...(loose.get(k) ?? []), f]);
   }
@@ -245,6 +286,7 @@ const stats = {
   conflict: unresolved.length,
   resolved: count("resolved"),
   rejected: count("rejected"),
+  duplicate: count("duplicate"),
   corroborations_accepted: corrOk,
   achievements_total: ach.achievements.length,
   achievements_verified: Object.values(coverage).filter((c) => c.best === "verified").length,
@@ -256,7 +298,7 @@ const stats = {
 writeJson(P.verified, { generated_at: new Date().toISOString(), inputs: fingerprintFiles(verifyInputFiles(P)), stats, coverage, possible_conflicts: possibleConflicts, facts: all });
 
 console.log(`Stage 5 verification for game ${id}`);
-console.log(`  facts: ${stats.total}  ✅ verified ${stats.verified}  🟡 single ${stats.single_source}  ⚠️ conflict ${stats.conflict}  ✔ resolved ${stats.resolved}  ❌ rejected ${stats.rejected}`);
+console.log(`  facts: ${stats.total}  ✅ verified ${stats.verified}  🟡 single ${stats.single_source}  ⚠️ conflict ${stats.conflict}  ✔ resolved ${stats.resolved}  ❌ rejected ${stats.rejected}  ⧉ merged duplicates ${stats.duplicate}`);
 console.log(`  achievements: ${stats.achievements_verified} verified, ${stats.achievements_single} single-source, ${stats.achievements_unsupported} UNSUPPORTED of ${stats.achievements_total}`);
 if (possibleConflicts.length) console.log(`  possible conflicts to triage: ${possibleConflicts.length} (see possible_conflicts in 05_verified.json)`);
 const rej = rejected.slice(0, 15);

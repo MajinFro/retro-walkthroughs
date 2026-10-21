@@ -188,12 +188,15 @@ export type FactStatus =
   | "single_source"
   | "conflict"
   | "resolved"
-  | "rejected";
+  | "rejected"
+  | "duplicate"; // the same claim as `duplicate_of`, which carries its evidence; never packeted, cites map to it
 
 export interface VerifiedFact extends Fact {
   status: FactStatus;
   sources: string[];
   problems?: string[];
+  duplicate_of?: string;
+  merged_ids?: string[]; // on the kept fact: the duplicates merged into it
 }
 
 // ---------------------------------------------------------------------------
@@ -796,29 +799,36 @@ export function widenQuote(f: Fact, chunks: Map<string, Chunk>, extraSentences =
   const evidence = f.evidence.map((e) => {
     const ch = chunks.get(e.chunk_id);
     const first = (e.quote ?? "").split(/\.\.\.|…/)[0];
-    const words = first.match(/[A-Za-z0-9']+/g);
-    if (!ch || !words || words.length < 2) return e;
-    const re = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^A-Za-z0-9']+"), "i");
+    // words of any script (22488: Japanese quotes never widened); Japanese has no spaces, so one long run counts
+    const words = first.match(/[\p{L}\p{N}']+/gu);
+    const cjk = CJK_RUN.test(first);
+    CJK_RUN.lastIndex = 0;
+    if (!ch || !words || (words.length < 2 && !(cjk && words[0].length >= 4))) return e;
+    const re = new RegExp(words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("[^\\p{L}\\p{N}']+"), "iu");
+    // sentence ends: English punctuation + space, Japanese 。！？, a blank line; in Japanese guides a line is
+    // usually one list item or table row, so a line break ends it too
+    const SENT_BEFORE = cjk ? /[.!?]["')\]]*\s+|[。！？]|\n/g : /[.!?]["')\]]*\s+/g;
+    const SENT_AFTER = cjk ? /[.!?](\s|$)|[。！？]|\n/ : /[.!?](\s|$)|\n[ \t]*\n/;
     // widen within the raw text, or else within its tables read by column (unboxText)
     let c = { text: ch.text };
     let m = re.exec(c.text);
     if (!m && (c = { text: unboxed(ch) }).text !== ch.text) m = re.exec(c.text);
     if (!m) return e;
     const before = c.text.slice(0, m.index);
-    let start = Math.max(lastEnd(before, /[.!?]["')\]]*\s+/g), lastEnd(before, /\n[ \t]*\n/g));
+    let start = Math.max(lastEnd(before, SENT_BEFORE), lastEnd(before, /\n[ \t]*\n/g));
     // facts often name the place from the sentence before ("In the King's room ... You'll find in the chests: 120 Gold")
     if (back && start > 0 && !/\n[ \t]*\n\s*$/.test(c.text.slice(0, start))) {
       const prior = c.text.slice(0, start).replace(/\s+$/, "");
-      const prevStart = Math.max(lastEnd(prior.slice(0, -1), /[.!?]["')\]]*\s+/g), lastEnd(prior, /\n[ \t]*\n/g));
+      const prevStart = Math.max(lastEnd(prior.slice(0, -1), SENT_BEFORE), lastEnd(prior, /\n[ \t]*\n/g));
       start = prevStart;
     }
-    const afterEnd = c.text.slice(m.index + m[0].length).search(/[.!?](\s|$)|\n[ \t]*\n/);
+    const afterEnd = c.text.slice(m.index + m[0].length).search(SENT_AFTER);
     let end = afterEnd < 0 ? c.text.length : m.index + m[0].length + afterEnd + 1;
     // facts often join a sentence with the next one ("After just a few steps. You fall into ...")
     for (let i = 0; i < extraSentences && end < c.text.length; i++) {
       const rest = c.text.slice(end);
       if (/^\s*\n[ \t]*\n/.test(rest)) break; // paragraph ends here
-      const stop = rest.search(/[.!?](\s|$)|\n[ \t]*\n/);
+      const stop = rest.replace(/^\n/, " ").search(SENT_AFTER);
       end = stop < 0 ? c.text.length : end + stop + 1;
     }
     let quote = c.text.slice(start, end).replace(/\s+/g, " ").trim();
