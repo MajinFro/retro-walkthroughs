@@ -324,12 +324,14 @@ export function writeJsonl(p: string, rows: unknown[]) {
 // ---------------------------------------------------------------------------
 /** Normalize for fuzzy-but-strict quote matching. */
 export function norm(s: string): string {
+  // Keep letters and digits of every script (Japanese guides); NFKC folds full-width forms.
   return (s || "")
+    .normalize("NFKC")
     .toLowerCase()
     .replace(/[\u2018\u2019\u201B`´]/g, "'")
     .replace(/[\u201C\u201D\u201F]/g, '"')
     .replace(/[\u2013\u2014]/g, "-")
-    .replace(/[^a-z0-9'%+\- ]+/g, " ")
+    .replace(/[^\p{L}\p{N}'%+\- ]+/gu, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -574,7 +576,7 @@ export function unboxText(text: string): string {
   const out: string[] = [];
   const pipes = (l: string) => [...l].flatMap((ch, i) => (ch === "|" ? [i] : []));
   // a row of cells; a rule line with no letters (")-----)-(----+ |_| |") ends the block, since its pipes sit elsewhere
-  const isRow = (l: string) => pipes(l).length >= 2 && /[A-Za-z0-9]/.test(l);
+  const isRow = (l: string) => pipes(l).length >= 2 && /[\p{L}\p{N}]/u.test(l);
   for (let i = 0; i < lines.length; ) {
     if (!isRow(lines[i])) {
       out.push(lines[i++]);
