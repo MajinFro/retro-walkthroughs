@@ -1,0 +1,158 @@
+{
+  "beginner_friendliness": 84,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 219,
+      "description": "Unsupported achievement 365862 (You Should Be Feeling Warmer By Now): per the user's decision it now shows only the achievement description (\"Uh...\") and a 'no source found' note, with no guessed steps."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 151,
+      "description": "Unsupported achievement 365866 (Wow L-Liz!): removed the guessed 'do every Lisbeth episode' instructions; now description (\"What are you thinking...\") plus 'no source found' only. Unrelated Sachi flashback lines moved under their own heading; checklist item reworded."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 114,
+      "description": "Unsupported achievement 365867 (... I'm Sorry For Causing You Trouble.): removed the guessed 'do every character episode' advice and the empty 'Silica big Pina' / 'Yui hot spring' stubs; now description (\"Save Shinon\") plus 'no source found' only. Overview line 127 updated to list the three unverified achievements the same way."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/23.md",
+      "line": 33,
+      "description": "Seven bond achievements and the Klein rank achievement gave the rank table but never said how to raise friendship. Added a 'How to raise friendship' paragraph (talk, walk the city, buy food, bulk snacks; gift options by rank) cited to ra-comments-57-3/57-5, xneo1-3-3/3-4, sk1-100-1."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 143,
+      "description": "Invented missable: the Paralyze Charm timed mission was called a 'Missable Achievement Warning' though no achievement depends on it and no source calls it missable. Changed to a TIP."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 159,
+      "description": "Second 'Missable Achievement Warning' for the Strea bond (roadmap places the missable in ch18) relabelled as a last-chance reminder that points back to Chapter 18; the Point of No Return caution stays."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "consistency",
+      "status": "fixed",
+      "file": "08_chapters/18.md",
+      "line": 23,
+      "description": "Chapter 18 was written Japanese-first (item table, chest list, area names, bare 鋼弦の魔楼/宝箱/階). Rewrote to English names with Japanese glosses in parentheses, matching the other chapters."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "consistency",
+      "status": "fixed",
+      "file": "08_chapters/21.md",
+      "line": 16,
+      "description": "Bare Japanese place and item names (堅剛なる錠の回廊, 多勢なる戦の回廊, 叡地に連なる街道, 聖騎兵の剣堂1階, 闇の衣) replaced by the chapter's own English names (Corridor of Sturdy Lock, Corridor of the Multitude, Road of Wisdom, Hall Paladin 1F, Cloak of Darkness). Bare 貴重品杯 in ch4 glossed."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "consistency",
+      "status": "fixed",
+      "file": "08_chapters/*.md",
+      "line": 0,
+      "description": "Inconsistent English names for the same materials across chapters (Crust/Crustal/Earth Crust, Adamant/Diamond, Hakubyaku/Ash White/Ash-White, Flowing/Flowing-Water, Windflower/Wind-Flower, Transfer/Teleport Crystal, Blow/Strike/blunt; 112 replacements) normalized to one glossary. Also Arcsophia -> Arc Sophia, Egil -> Agil, Lizbeth -> Lisbeth, Shinon -> Sinon outside achievement titles."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "major",
+      "category": "route",
+      "status": "fixed",
+      "file": "06_graph.json",
+      "line": 0,
+      "description": "23 boss nodes had labels like 'Ghastly Gaze (Floor 76 boss, Cauldron Dungeon)' that chapters never quote verbatim (13 'area never mentioned' warnings, areas 74/88). Moved the parenthetical to the node note; areas now 88/88."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "depth",
+      "status": "fixed",
+      "file": "08_chapters/24.md",
+      "line": 33,
+      "description": "Floor 99 section was a 21-word stub split from the boss rush heading; merged so the five Reverse boss fights sit under Floor 99 and the roadmap area 'Floor 99 boss rush (Reverse bosses)' is named."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "boss",
+      "status": "fixed",
+      "file": "08_chapters/03.md",
+      "line": 169,
+      "description": "Floor 78 boss start was 'unable to verify' with no hint; added that on Floors 76 and 77 the boss fight starts from the PC in front of the town gate (wiki1-6-16, wiki1-7-9), keeping the unverified note."
+    },
+    {
+      "id": "ISS-16",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/09.md-18.md",
+      "line": 0,
+      "description": "Checkpoint blocks in ch9-18 cited Japanese chest facts, which tripped the overlap check (11 'checkpoint' warnings). Checkpoint chest lines now name the floor's chest-sweep achievement ('Floor 84 chest sweep (Treasure Devour): 15 / 15 opened'); the chest citations stay in the chest sections above them."
+    },
+    {
+      "id": "ISS-17",
+      "severity": "minor",
+      "category": "sources",
+      "status": "open",
+      "file": "08_chapters/*.md",
+      "line": 0,
+      "description": "92 'Unable to verify' notes remain, mostly labyrinth room-by-room routing, exact chest positions, boss HP and where quests are handed in. Spot checks (Floor 78 boss start, friendship gains) found only the two gaps fixed above; the rest are not in the collected Japanese sources."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/25.md",
+      "line": 12,
+      "description": "Yui ending (365881): no collected source says how it is reached, or whether reloading one pre-Floor-99 save works for every ending. The chapter flags this honestly as unconfirmed; it needs a new source, not a rewrite. Not a lockout risk because the pre-Floor-99 save is kept."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "extraction",
+      "status": "open",
+      "file": "04_facts",
+      "line": 0,
+      "description": "Chunk xneo1#3 contains the friendship gain table (+1 per talk, walk, party invite, gift, donut, crepe/bread/hot dog, fortune; +1 to +3 per date conversation) but no fact was extracted for it, so the chapter cannot cite exact values. Re-extracting that chunk would let ch23 quote the table."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "minor",
+      "category": "qa",
+      "status": "open",
+      "file": "09_qa.json",
+      "line": 0,
+      "description": "324 'no factual overlap' warnings are structural: the facts are in Japanese and the prose is English, so key-term overlap is zero. Five sampled warnings (ch5:112, ch12:22, ch14:48, ch17:132, ch23:75) were all faithful translations. They do not affect the score."
+    }
+  ]
+}

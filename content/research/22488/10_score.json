@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-10-21T20:52:09.005Z",
+  "inputs": {
+    "qa": "3882dc06d353b389",
+    "review": "9d586ecb3db6b13c",
+    "verified": "8b87d1b65df726b2",
+    "chapters": "e4625c2882ff106a"
+  },
+  "scores": {
+    "source_coverage": 80,
+    "accuracy": 99,
+    "achievement_coverage": 99,
+    "missable_coverage": 100,
+    "beginner_friendliness": 84,
+    "route_completeness": 100,
+    "true_100_coverage": 100
+  },
+  "overall": 95,
+  "verdict": "ACCEPTED",
+  "blockers": []
+}

@@ -1,0 +1,268 @@
+[
+  {
+    "id": "ra-comments",
+    "site": "RetroAchievements",
+    "title": "Sword Art Online: Infinity Moment — RetroAchievements community comments",
+    "url": "https://retroachievements.org/game/22488",
+    "kind": "ra-comments",
+    "file": "ra-comments.txt",
+    "chars": 77716,
+    "collected_at": "2026-10-21T15:22:24.743Z"
+  },
+  {
+    "id": "wiki1",
+    "site": "atwiki SAO IM Wiki",
+    "title": "ストーリー攻略 (Story Walkthrough)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/22.html",
+    "kind": "guide",
+    "file": "wiki1.txt",
+    "chars": 20952,
+    "collected_at": "2026-10-21T15:25:17.196938+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "same",
+      "counts": {
+        "psp": 1
+      }
+    }
+  },
+  {
+    "id": "xneo1",
+    "site": "XNEO",
+    "title": "ソードアート・オンライン インフィニティ・モーメント完全攻略",
+    "author": null,
+    "url": "https://xneo.jp/swordart-online-im/",
+    "kind": "guide",
+    "file": "xneo1.txt",
+    "chars": 14846,
+    "collected_at": "2026-10-21T15:25:23.548673+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "other",
+      "counts": {
+        "xbox": 6,
+        "psp": 4,
+        "ps1": 3,
+        "wii": 2,
+        "ps2": 2,
+        "neogeo": 2,
+        "msx": 2,
+        "gb": 1,
+        "gamecube": 1,
+        "switch": 1,
+        "gamegear": 1,
+        "dreamcast": 1,
+        "mobile": 1
+      }
+    },
+    "use": true,
+    "decision": "user-approved"
+  },
+  {
+    "id": "sk1",
+    "site": "saokouryaku.com",
+    "title": "SAO IM 攻略サイト floors 76-100",
+    "author": null,
+    "url": [
+      "https://saokouryaku.com/kouryaku/76sou.html",
+      "https://saokouryaku.com/kouryaku/77sou.html",
+      "https://saokouryaku.com/kouryaku/78sou.html",
+      "https://saokouryaku.com/kouryaku/79sou.html",
+      "https://saokouryaku.com/kouryaku/80sou.html",
+      "https://saokouryaku.com/kouryaku/81sou.html",
+      "https://saokouryaku.com/kouryaku/82sou.html",
+      "https://saokouryaku.com/kouryaku/83sou.html",
+      "https://saokouryaku.com/kouryaku/84sou.html",
+      "https://saokouryaku.com/kouryaku/85sou.html",
+      "https://saokouryaku.com/kouryaku/86sou.html",
+      "https://saokouryaku.com/kouryaku/87sou.html",
+      "https://saokouryaku.com/kouryaku/88sou.html",
+      "https://saokouryaku.com/kouryaku/89sou.html",
+      "https://saokouryaku.com/kouryaku/90sou.html",
+      "https://saokouryaku.com/kouryaku/91sou.html",
+      "https://saokouryaku.com/kouryaku/92sou.html",
+      "https://saokouryaku.com/kouryaku/93sou.html",
+      "https://saokouryaku.com/kouryaku/94sou.html",
+      "https://saokouryaku.com/kouryaku/95sou.html",
+      "https://saokouryaku.com/kouryaku/96sou.html",
+      "https://saokouryaku.com/kouryaku/97sou.html",
+      "https://saokouryaku.com/kouryaku/98sou.html",
+      "https://saokouryaku.com/kouryaku/99sou.html",
+      "https://saokouryaku.com/kouryaku/100sou.html",
+      "https://saokouryaku.com/kouryaku/charaepisode.html",
+      "https://saokouryaku.com/kouryaku/quest.html",
+      "https://saokouryaku.com/kouryaku/partner.html",
+      "https://saokouryaku.com/kouryaku/check.html"
+    ],
+    "kind": "guide",
+    "file": "sk1.txt",
+    "chars": 125543,
+    "collected_at": "2026-10-21T15:25:29.250466+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki2",
+    "site": "atwiki SAO IM Wiki",
+    "title": "クエスト (Quests)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/23.html",
+    "kind": "guide",
+    "file": "wiki2.txt",
+    "chars": 12733,
+    "collected_at": "2026-10-21T15:28:23.621888+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki3",
+    "site": "atwiki SAO IM Wiki",
+    "title": "隠しイベント一覧 (Hidden Events)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/86.html",
+    "kind": "guide",
+    "file": "wiki3.txt",
+    "chars": 11594,
+    "collected_at": "2026-10-21T15:28:29.410187+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki4",
+    "site": "atwiki SAO IM Wiki",
+    "title": "ボス攻略 (Bosses)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/32.html",
+    "kind": "guide",
+    "file": "wiki4.txt",
+    "chars": 28886,
+    "collected_at": "2026-10-21T15:28:35.647296+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki5",
+    "site": "atwiki SAO IM Wiki",
+    "title": "パートナー (Partners)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/58.html",
+    "kind": "guide",
+    "file": "wiki5.txt",
+    "chars": 23202,
+    "collected_at": "2026-10-21T15:28:41.655171+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki6",
+    "site": "atwiki SAO IM Wiki",
+    "title": "武器 (Weapons)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/24.html",
+    "kind": "guide",
+    "file": "wiki6.txt",
+    "chars": 10554,
+    "collected_at": "2026-10-21T15:28:47.523120+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki7",
+    "site": "atwiki SAO IM Wiki",
+    "title": "小ネタ (Tips)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/35.html",
+    "kind": "guide",
+    "file": "wiki7.txt",
+    "chars": 21222,
+    "collected_at": "2026-10-21T15:28:53.481648+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki8",
+    "site": "atwiki SAO IM Wiki",
+    "title": "よくある質問 (FAQ)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/19.html",
+    "kind": "guide",
+    "file": "wiki8.txt",
+    "chars": 22131,
+    "collected_at": "2026-10-21T15:28:59.442193+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki9",
+    "site": "atwiki SAO IM Wiki",
+    "title": "パッチ・DLC",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/79.html",
+    "kind": "guide",
+    "file": "wiki9.txt",
+    "chars": 11226,
+    "collected_at": "2026-10-21T15:29:05.335090+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki10",
+    "site": "atwiki SAO IM Wiki",
+    "title": "フレンド (Friends)",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/41.html",
+    "kind": "guide",
+    "file": "wiki10.txt",
+    "chars": 9297,
+    "collected_at": "2026-10-21T15:29:11.224458+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "wiki11",
+    "site": "atwiki SAO IM Wiki",
+    "title": "フレンドリスト",
+    "author": null,
+    "url": "https://w.atwiki.jp/sao-im/pages/60.html",
+    "kind": "guide",
+    "file": "wiki11.txt",
+    "chars": 15652,
+    "collected_at": "2026-10-21T15:29:17.196515+00:00",
+    "platform": {
+      "target": "psp",
+      "match": "unknown",
+      "counts": {}
+    }
+  }
+]

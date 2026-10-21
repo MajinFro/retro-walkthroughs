@@ -1,0 +1,27 @@
+[
+  {
+    "fact_id": "sk1-95-1",
+    "resolution": "accept",
+    "rationale": "sk1 says Protect the Farm Crop (狙われた農作物) needs 8 Frenzy Boars; wiki2 says 10. No third source settles it. The route kills 10 Frenzy Boars, which satisfies either count; extra kills cost nothing."
+  },
+  {
+    "fact_id": "wiki2-6-14",
+    "resolution": "accept",
+    "rationale": "Kept as the higher, safe count (10 Frenzy Boars) for Protect the Farm Crop; sk1 says 8. The route kills 10."
+  },
+  {
+    "fact_id": "sk1-95-4",
+    "resolution": "accept",
+    "rationale": "sk1 says The Poisonous Spider (毒グモが来た) needs 10 Mad Tarantulas; wiki2 says 8. No third source settles it. The route kills 10, which satisfies either count."
+  },
+  {
+    "fact_id": "wiki2-6-2",
+    "resolution": "accept",
+    "rationale": "wiki2's 8 Mad Tarantulas is kept as a single-source variant; the route uses sk1's higher count of 10 so the quest completes either way."
+  },
+  {
+    "fact_id": "sk1-1-9",
+    "resolution": "accept",
+    "rationale": "Not a conflict: sk1 states the Last Attack Bonus exists on floor 76, wiki4 names the drop (Rage Ring). Same pattern for sk1-4-3/wiki4-11-1, sk1-5-6/wiki4-12-1 and sk1-5-5/wiki4-12-4; the other flagged quest pairs give matching counts or add prerequisites."
+  }
+]

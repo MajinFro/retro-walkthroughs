@@ -1,0 +1,3876 @@
+{
+  "nodes": [
+    {
+      "id": "Arc_Sophia",
+      "label": "Arc Sophia",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-57-1",
+        "ra-comments-57-4",
+        "wiki2-5-1",
+        "wiki7-13-1"
+      ]
+    },
+    {
+      "id": "Floor_76",
+      "label": "Floor 76",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-2-1",
+        "sk1-2-2",
+        "sk1-1-1",
+        "sk1-1-2"
+      ]
+    },
+    {
+      "id": "Floor_77",
+      "label": "Floor 77",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-3-1",
+        "sk1-3-2",
+        "sk1-3-3",
+        "sk1-3-4"
+      ]
+    },
+    {
+      "id": "Floor_78",
+      "label": "Floor 78",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-25-1",
+        "sk1-5-1",
+        "sk1-5-2",
+        "sk1-5-3"
+      ]
+    },
+    {
+      "id": "Floor_79",
+      "label": "Floor 79",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-91-1",
+        "sk1-91-2",
+        "sk1-95-11",
+        "sk1-95-12"
+      ]
+    },
+    {
+      "id": "Floor_80",
+      "label": "Floor 80",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-92-2",
+        "sk1-95-14",
+        "sk1-95-15",
+        "sk1-95-16"
+      ]
+    },
+    {
+      "id": "Floor_81",
+      "label": "Floor 81",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-95-17",
+        "sk1-95-18",
+        "sk1-15-1",
+        "sk1-15-2"
+      ]
+    },
+    {
+      "id": "Floor_82",
+      "label": "Floor 82",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "ra-comments-60-3",
+        "sk1-18-1"
+      ]
+    },
+    {
+      "id": "Floor_83",
+      "label": "Floor 83",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-22-1",
+        "sk1-22-2",
+        "sk1-21-1",
+        "sk1-21-2"
+      ]
+    },
+    {
+      "id": "Floor_84",
+      "label": "Floor 84",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-25-1",
+        "sk1-25-2",
+        "sk1-25-3",
+        "sk1-25-4"
+      ]
+    },
+    {
+      "id": "Floor_85",
+      "label": "Floor 85",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-30-1",
+        "sk1-30-2",
+        "sk1-30-3",
+        "sk1-30-4"
+      ]
+    },
+    {
+      "id": "Floor_86",
+      "label": "Floor 86",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-33-1",
+        "sk1-33-2",
+        "sk1-33-3",
+        "sk1-33-4"
+      ]
+    },
+    {
+      "id": "Floor_87",
+      "label": "Floor 87",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-35-1",
+        "sk1-35-2",
+        "sk1-35-3",
+        "sk1-35-4"
+      ]
+    },
+    {
+      "id": "Floor_88",
+      "label": "Floor 88",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-37-1",
+        "sk1-37-2",
+        "sk1-37-3",
+        "sk1-37-4"
+      ]
+    },
+    {
+      "id": "Floor_89",
+      "label": "Floor 89",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-41-1",
+        "sk1-41-2",
+        "sk1-41-3",
+        "sk1-41-4"
+      ]
+    },
+    {
+      "id": "Floor_90",
+      "label": "Floor 90",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-46-1",
+        "sk1-47-1",
+        "sk1-47-2",
+        "sk1-47-3"
+      ]
+    },
+    {
+      "id": "Floor_91",
+      "label": "Floor 91",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-52-1",
+        "sk1-52-2",
+        "sk1-52-3",
+        "sk1-52-4"
+      ]
+    },
+    {
+      "id": "Floor_92",
+      "label": "Floor 92",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-56-1",
+        "sk1-56-2",
+        "sk1-57-3",
+        "sk1-57-4"
+      ]
+    },
+    {
+      "id": "Floor_93",
+      "label": "Floor 93",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-61-1",
+        "sk1-95-48",
+        "sk1-102-37",
+        "sk1-102-38"
+      ]
+    },
+    {
+      "id": "Floor_94",
+      "label": "Floor 94",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-64-1",
+        "sk1-64-2",
+        "sk1-65-1",
+        "sk1-65-2"
+      ]
+    },
+    {
+      "id": "Floor_95",
+      "label": "Floor 95",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-68-1",
+        "sk1-68-2",
+        "sk1-69-1",
+        "sk1-69-2"
+      ]
+    },
+    {
+      "id": "Floor_96",
+      "label": "Floor 96",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-71-1",
+        "sk1-71-2",
+        "sk1-72-1",
+        "sk1-72-2"
+      ]
+    },
+    {
+      "id": "Floor_97",
+      "label": "Floor 97",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-76-1",
+        "sk1-76-13",
+        "sk1-75-1",
+        "sk1-75-2"
+      ]
+    },
+    {
+      "id": "Floor_98",
+      "label": "Floor 98",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-151-1",
+        "sk1-78-1",
+        "sk1-78-2",
+        "sk1-79-1"
+      ]
+    },
+    {
+      "id": "Floor_99",
+      "label": "Floor 99",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-84-1",
+        "sk1-84-2",
+        "sk1-84-3",
+        "sk1-84-4"
+      ]
+    },
+    {
+      "id": "Floor_100",
+      "label": "Floor 100",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-88-1",
+        "sk1-88-2",
+        "sk1-88-3",
+        "sk1-88-4"
+      ]
+    },
+    {
+      "id": "Boss_76",
+      "label": "Ghastly Gaze",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-1-7",
+        "sk1-1-8",
+        "sk1-1-9",
+        "wiki1-6-16"
+      ],
+      "note": "Floor 76 boss, Cauldron Dungeon"
+    },
+    {
+      "id": "Boss_77",
+      "label": "Crystallize Claw",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-4-1",
+        "sk1-4-2",
+        "sk1-4-3",
+        "wiki1-7-9"
+      ],
+      "note": "Floor 77 boss, Treasure Maze"
+    },
+    {
+      "id": "Boss_78",
+      "label": "Madness Horn",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-5-3",
+        "sk1-5-4",
+        "sk1-5-5",
+        "sk1-5-6"
+      ],
+      "note": "Floor 78 boss, Demons' Cave"
+    },
+    {
+      "id": "Boss_79",
+      "label": "Tri-Tempest",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-10-16",
+        "wiki4-13-1",
+        "wiki4-13-3"
+      ],
+      "note": "Floor 79 boss, Dragon Palace"
+    },
+    {
+      "id": "Boss_80",
+      "label": "Guilty Scythe",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-13-30",
+        "wiki4-13-2",
+        "wiki4-13-4"
+      ],
+      "note": "Floor 80 boss, Monster Maze"
+    },
+    {
+      "id": "Boss_81",
+      "label": "The Knight of Darkness",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-15-20",
+        "wiki4-14-1",
+        "wiki4-14-2"
+      ],
+      "note": "Floor 81 boss, Halls Strong"
+    },
+    {
+      "id": "Boss_82",
+      "label": "Grand Legacy",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-19-2",
+        "sk1-19-3",
+        "wiki4-15-1"
+      ],
+      "note": "Floor 82 boss, Solid Grotto"
+    },
+    {
+      "id": "Lab_82",
+      "label": "Solid Grotto",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-19-2",
+        "sk1-19-3",
+        "sk1-19-13",
+        "sk1-19-14"
+      ]
+    },
+    {
+      "id": "Boss_83",
+      "label": "Furious Horn",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-22-3",
+        "sk1-22-4"
+      ],
+      "note": "Floor 83 boss, Kingdom Bandits"
+    },
+    {
+      "id": "Lab_83",
+      "label": "Kingdom Bandits",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-22-3",
+        "sk1-22-4",
+        "sk1-22-16",
+        "sk1-22-17"
+      ]
+    },
+    {
+      "id": "Boss_84",
+      "label": "Ant Queen",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-25-6",
+        "sk1-25-7",
+        "sk1-25-8",
+        "wiki1-9-9"
+      ],
+      "note": "Floor 84 boss, Dwell Devour"
+    },
+    {
+      "id": "Boss_85",
+      "label": "Tri-Maelstrom",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-31-1",
+        "sk1-31-19"
+      ],
+      "note": "Floor 85 boss, Stream Grotto"
+    },
+    {
+      "id": "Boss_86",
+      "label": "Skeleton King",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-33-8",
+        "sk1-33-9"
+      ],
+      "note": "Floor 86 boss, Forgotten Tower"
+    },
+    {
+      "id": "Lab_86",
+      "label": "Forgotten Tower",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-33-6",
+        "sk1-33-7",
+        "sk1-34-29",
+        "sk1-34-30"
+      ]
+    },
+    {
+      "id": "Boss_87",
+      "label": "Radiance Eater",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-36-1",
+        "sk1-36-34",
+        "wiki1-10-2"
+      ],
+      "note": "Floor 87 boss, Stronghold"
+    },
+    {
+      "id": "Lab_87",
+      "label": "Stronghold",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-36-19",
+        "sk1-36-20",
+        "sk1-36-21",
+        "sk1-36-22"
+      ]
+    },
+    {
+      "id": "Boss_88",
+      "label": "Rebellious Eyes",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-38-1",
+        "sk1-38-35"
+      ],
+      "note": "Floor 88 boss, Tenants' Work"
+    },
+    {
+      "id": "Lab_88",
+      "label": "Tenants' Work",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-38-19",
+        "sk1-38-20",
+        "sk1-38-21",
+        "sk1-38-22"
+      ]
+    },
+    {
+      "id": "Boss_89",
+      "label": "Murderer Fang",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-41-4",
+        "sk1-41-5",
+        "sk1-41-6"
+      ],
+      "note": "Floor 89 boss, Temple Turbid"
+    },
+    {
+      "id": "Boss_90",
+      "label": "Blade Ruler",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-47-24"
+      ],
+      "note": "Floor 90 boss, Tower Monster"
+    },
+    {
+      "id": "Boss_91",
+      "label": "Absolute Gazer",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-52-10",
+        "sk1-52-11"
+      ],
+      "note": "Floor 91 boss, Groto Enlighten"
+    },
+    {
+      "id": "Boss_92",
+      "label": "Chaos Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-56-2",
+        "sk1-57-1",
+        "sk1-57-2"
+      ],
+      "note": "Floor 92 boss, Guardian Maze"
+    },
+    {
+      "id": "Lab_92",
+      "label": "Guardian Maze",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-57-1",
+        "sk1-57-2",
+        "sk1-57-20",
+        "sk1-57-21"
+      ]
+    },
+    {
+      "id": "Boss_93",
+      "label": "Lava Creeper",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-61-4",
+        "sk1-61-5"
+      ],
+      "note": "Floor 93 boss, Magic Building"
+    },
+    {
+      "id": "Lab_93",
+      "label": "Magic Building",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-61-2",
+        "sk1-61-3",
+        "sk1-61-4",
+        "sk1-62-1"
+      ]
+    },
+    {
+      "id": "Boss_94",
+      "label": "Blazing Knight",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-64-3",
+        "sk1-64-4",
+        "sk1-64-5"
+      ],
+      "note": "Floor 94 boss, Dark Knight"
+    },
+    {
+      "id": "Lab_94",
+      "label": "Dark Knight Labyrinth",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-64-3",
+        "sk1-64-4",
+        "sk1-64-5",
+        "sk1-65-38"
+      ]
+    },
+    {
+      "id": "Boss_95",
+      "label": "Genocide Eyes",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-69-15",
+        "sk1-69-16",
+        "sk1-69-17",
+        "sk1-69-18"
+      ],
+      "note": "Floor 95 boss, Beast Master"
+    },
+    {
+      "id": "Boss_96",
+      "label": "Slaughter Fang",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-72-23",
+        "sk1-72-24",
+        "sk1-72-25"
+      ],
+      "note": "Floor 96 boss, Hall Paladin"
+    },
+    {
+      "id": "Lab_96",
+      "label": "Hall Paladin",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-72-21",
+        "sk1-72-22",
+        "sk1-72-29",
+        "sk1-72-30"
+      ]
+    },
+    {
+      "id": "Boss_97",
+      "label": "Emperor of Death",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-76-1",
+        "sk1-76-14"
+      ],
+      "note": "Floor 97 boss, Death King"
+    },
+    {
+      "id": "Lab_97",
+      "label": "Death King Labyrinth",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-76-2",
+        "sk1-76-3",
+        "sk1-76-4",
+        "sk1-76-5"
+      ]
+    },
+    {
+      "id": "Boss_98",
+      "label": "Hollow Avatar",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-80-1",
+        "sk1-80-2",
+        "sk1-80-3",
+        "sk1-80-4"
+      ],
+      "note": "Floor 98 boss, Trial of Ruby / Ruby Site"
+    },
+    {
+      "id": "Lab_98",
+      "label": "Trial of Ruby",
+      "kind": "area",
+      "fact_ids": [
+        "sk1-80-1",
+        "sk1-80-2",
+        "sk1-80-3"
+      ]
+    },
+    {
+      "id": "Boss_99",
+      "label": "Floor 99 boss rush (Reverse bosses)",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-84-5",
+        "sk1-84-6",
+        "sk1-84-7",
+        "sk1-85-3"
+      ]
+    },
+    {
+      "id": "Boss_100",
+      "label": "Floor 100 final battles (Ruby Palace)",
+      "kind": "boss",
+      "fact_ids": [
+        "sk1-88-1",
+        "sk1-88-2",
+        "sk1-88-3",
+        "sk1-88-4"
+      ]
+    },
+    {
+      "id": "Strea_Deadline",
+      "label": "Strea bond deadline (finishing Floor 94)",
+      "kind": "missable",
+      "fact_ids": [
+        "ra-comments-57-2"
+      ]
+    },
+    {
+      "id": "Ach_370240",
+      "label": "Onii",
+      "kind": "achievement",
+      "achievement_id": 370240
+    },
+    {
+      "id": "Ach_365724",
+      "label": "This World Is Not The Real World",
+      "kind": "achievement",
+      "achievement_id": 365724
+    },
+    {
+      "id": "Ach_365708",
+      "label": "Lizzard Man's Cave",
+      "kind": "achievement",
+      "achievement_id": 365708
+    },
+    {
+      "id": "Ach_365709",
+      "label": "Treasure Valley",
+      "kind": "achievement",
+      "achievement_id": 365709
+    },
+    {
+      "id": "Ach_365710",
+      "label": "The Gift for the Girl",
+      "kind": "achievement",
+      "achievement_id": 365710
+    },
+    {
+      "id": "Ach_365711",
+      "label": "Poisonous Needles",
+      "kind": "achievement",
+      "achievement_id": 365711
+    },
+    {
+      "id": "Ach_365712",
+      "label": "Protect the Farm Crop",
+      "kind": "achievement",
+      "achievement_id": 365712
+    },
+    {
+      "id": "Ach_365713",
+      "label": "The Poisonous Spider",
+      "kind": "achievement",
+      "achievement_id": 365713
+    },
+    {
+      "id": "Ach_365714",
+      "label": "Black Swordsman",
+      "kind": "achievement",
+      "achievement_id": 365714
+    },
+    {
+      "id": "Ach_365715",
+      "label": "GhastlyGaze",
+      "kind": "achievement",
+      "achievement_id": 365715
+    },
+    {
+      "id": "Ach_365716",
+      "label": "The Terrifying Slime",
+      "kind": "achievement",
+      "achievement_id": 365716
+    },
+    {
+      "id": "Ach_365717",
+      "label": "The Gift of the Forest",
+      "kind": "achievement",
+      "achievement_id": 365717
+    },
+    {
+      "id": "Ach_365718",
+      "label": "The Sweetness Challe",
+      "kind": "achievement",
+      "achievement_id": 365718
+    },
+    {
+      "id": "Ach_365719",
+      "label": "Lonely Fairy",
+      "kind": "achievement",
+      "achievement_id": 365719
+    },
+    {
+      "id": "Ach_365720",
+      "label": "Treasaure Labyrinth",
+      "kind": "achievement",
+      "achievement_id": 365720
+    },
+    {
+      "id": "Ach_365721",
+      "label": "Fat Slime",
+      "kind": "achievement",
+      "achievement_id": 365721
+    },
+    {
+      "id": "Ach_365722",
+      "label": "Fat Slime II",
+      "kind": "achievement",
+      "achievement_id": 365722
+    },
+    {
+      "id": "Ach_365723",
+      "label": "The Crystalize Claw",
+      "kind": "achievement",
+      "achievement_id": 365723
+    },
+    {
+      "id": "Ach_365725",
+      "label": "Flare Dragon",
+      "kind": "achievement",
+      "achievement_id": 365725
+    },
+    {
+      "id": "Ach_365726",
+      "label": "The Flying Dragon",
+      "kind": "achievement",
+      "achievement_id": 365726
+    },
+    {
+      "id": "Ach_365727",
+      "label": "Focusing on a Single Blow",
+      "kind": "achievement",
+      "achievement_id": 365727
+    },
+    {
+      "id": "Ach_365728",
+      "label": "The Horn of Madness",
+      "kind": "achievement",
+      "achievement_id": 365728
+    },
+    {
+      "id": "Ach_365729",
+      "label": "Wood Materials",
+      "kind": "achievement",
+      "achievement_id": 365729
+    },
+    {
+      "id": "Ach_365730",
+      "label": "Treasure Cave",
+      "kind": "achievement",
+      "achievement_id": 365730
+    },
+    {
+      "id": "Ach_365731",
+      "label": "Zain Lizardman",
+      "kind": "achievement",
+      "achievement_id": 365731
+    },
+    {
+      "id": "Ach_365732",
+      "label": "Huge Poison Crab",
+      "kind": "achievement",
+      "achievement_id": 365732
+    },
+    {
+      "id": "Ach_365733",
+      "label": "Unforgivable Song",
+      "kind": "achievement",
+      "achievement_id": 365733
+    },
+    {
+      "id": "Ach_365734",
+      "label": "Arrival of Chef",
+      "kind": "achievement",
+      "achievement_id": 365734
+    },
+    {
+      "id": "Ach_365735",
+      "label": "The Endless Crab Roe",
+      "kind": "achievement",
+      "achievement_id": 365735
+    },
+    {
+      "id": "Ach_365736",
+      "label": "The Tempest of Trihead",
+      "kind": "achievement",
+      "achievement_id": 365736
+    },
+    {
+      "id": "Ach_365737",
+      "label": "Treasure Palace",
+      "kind": "achievement",
+      "achievement_id": 365737
+    },
+    {
+      "id": "Ach_365738",
+      "label": "The Lady's Secret",
+      "kind": "achievement",
+      "achievement_id": 365738
+    },
+    {
+      "id": "Ach_365739",
+      "label": "Bone Collector",
+      "kind": "achievement",
+      "achievement_id": 365739
+    },
+    {
+      "id": "Ach_365740",
+      "label": "Secrets",
+      "kind": "achievement",
+      "achievement_id": 365740
+    },
+    {
+      "id": "Ach_365741",
+      "label": "How Long Do These Corridors Go On?",
+      "kind": "achievement",
+      "achievement_id": 365741
+    },
+    {
+      "id": "Ach_365742",
+      "label": "Darkness",
+      "kind": "achievement",
+      "achievement_id": 365742
+    },
+    {
+      "id": "Ach_365743",
+      "label": "The Guilty Scythe",
+      "kind": "achievement",
+      "achievement_id": 365743
+    },
+    {
+      "id": "Ach_365744",
+      "label": "Papa!",
+      "kind": "achievement",
+      "achievement_id": 365744
+    },
+    {
+      "id": "Ach_365745",
+      "label": "Asuna",
+      "kind": "achievement",
+      "achievement_id": 365745
+    },
+    {
+      "id": "Ach_365746",
+      "label": "Silica",
+      "kind": "achievement",
+      "achievement_id": 365746
+    },
+    {
+      "id": "Ach_365747",
+      "label": "Leafa",
+      "kind": "achievement",
+      "achievement_id": 365747
+    },
+    {
+      "id": "Ach_365748",
+      "label": "Lisbeth",
+      "kind": "achievement",
+      "achievement_id": 365748
+    },
+    {
+      "id": "Ach_365749",
+      "label": "Shinon",
+      "kind": "achievement",
+      "achievement_id": 365749
+    },
+    {
+      "id": "Ach_365750",
+      "label": "The Life Reaping Scythe",
+      "kind": "achievement",
+      "achievement_id": 365750
+    },
+    {
+      "id": "Ach_365751",
+      "label": "Kirito",
+      "kind": "achievement",
+      "achievement_id": 365751
+    },
+    {
+      "id": "Ach_365752",
+      "label": "Treasure Maze",
+      "kind": "achievement",
+      "achievement_id": 365752
+    },
+    {
+      "id": "Ach_365753",
+      "label": "Mimicry",
+      "kind": "achievement",
+      "achievement_id": 365753
+    },
+    {
+      "id": "Ach_365754",
+      "label": "Block Puzzle",
+      "kind": "achievement",
+      "achievement_id": 365754
+    },
+    {
+      "id": "Ach_365755",
+      "label": "Evil Trial",
+      "kind": "achievement",
+      "achievement_id": 365755
+    },
+    {
+      "id": "Ach_365756",
+      "label": "The Deadly Desert",
+      "kind": "achievement",
+      "achievement_id": 365756
+    },
+    {
+      "id": "Ach_365757",
+      "label": "The Knight of Darkness",
+      "kind": "achievement",
+      "achievement_id": 365757
+    },
+    {
+      "id": "Ach_365758",
+      "label": "Goblin Collector's Cry",
+      "kind": "achievement",
+      "achievement_id": 365758
+    },
+    {
+      "id": "Ach_365759",
+      "label": "Goblin Collector's Cry II",
+      "kind": "achievement",
+      "achievement_id": 365759
+    },
+    {
+      "id": "Ach_365760",
+      "label": "Goblin Collector's Cry III",
+      "kind": "achievement",
+      "achievement_id": 365760
+    },
+    {
+      "id": "Ach_365761",
+      "label": "Yui",
+      "kind": "achievement",
+      "achievement_id": 365761
+    },
+    {
+      "id": "Ach_365762",
+      "label": "Strea",
+      "kind": "achievement",
+      "achievement_id": 365762
+    },
+    {
+      "id": "Ach_365763",
+      "label": "Treasure Strong",
+      "kind": "achievement",
+      "achievement_id": 365763
+    },
+    {
+      "id": "Ach_365764",
+      "label": "Greater Bandit",
+      "kind": "achievement",
+      "achievement_id": 365764
+    },
+    {
+      "id": "Ach_365765",
+      "label": "Goblin Collector's Cry IV",
+      "kind": "achievement",
+      "achievement_id": 365765
+    },
+    {
+      "id": "Ach_365766",
+      "label": "The Legendary Gem",
+      "kind": "achievement",
+      "achievement_id": 365766
+    },
+    {
+      "id": "Ach_365767",
+      "label": "The Legacy of Grand",
+      "kind": "achievement",
+      "achievement_id": 365767
+    },
+    {
+      "id": "Ach_365768",
+      "label": "The Walking Mushroom",
+      "kind": "achievement",
+      "achievement_id": 365768
+    },
+    {
+      "id": "Ach_365769",
+      "label": "Treasure Grotto",
+      "kind": "achievement",
+      "achievement_id": 365769
+    },
+    {
+      "id": "Ach_365770",
+      "label": "Fear Tree",
+      "kind": "achievement",
+      "achievement_id": 365770
+    },
+    {
+      "id": "Ach_365771",
+      "label": "Survivor",
+      "kind": "achievement",
+      "achievement_id": 365771
+    },
+    {
+      "id": "Ach_365772",
+      "label": "Hurry to Destination!",
+      "kind": "achievement",
+      "achievement_id": 365772
+    },
+    {
+      "id": "Ach_365773",
+      "label": "Return My Memory",
+      "kind": "achievement",
+      "achievement_id": 365773
+    },
+    {
+      "id": "Ach_365774",
+      "label": "The Horn of Furious",
+      "kind": "achievement",
+      "achievement_id": 365774
+    },
+    {
+      "id": "Ach_365775",
+      "label": "Treasure Kingdom",
+      "kind": "achievement",
+      "achievement_id": 365775
+    },
+    {
+      "id": "Ach_365776",
+      "label": "Legendary Black Swordsman",
+      "kind": "achievement",
+      "achievement_id": 365776
+    },
+    {
+      "id": "Ach_365777",
+      "label": "Treasure Fight",
+      "kind": "achievement",
+      "achievement_id": 365777
+    },
+    {
+      "id": "Ach_365778",
+      "label": "Ant Extermination",
+      "kind": "achievement",
+      "achievement_id": 365778
+    },
+    {
+      "id": "Ach_365779",
+      "label": "The Ant's Nest",
+      "kind": "achievement",
+      "achievement_id": 365779
+    },
+    {
+      "id": "Ach_365780",
+      "label": "Hot Spring Area",
+      "kind": "achievement",
+      "achievement_id": 365780
+    },
+    {
+      "id": "Ach_365781",
+      "label": "The Queen of Ant",
+      "kind": "achievement",
+      "achievement_id": 365781
+    },
+    {
+      "id": "Ach_365782",
+      "label": "Klein",
+      "kind": "achievement",
+      "achievement_id": 365782
+    },
+    {
+      "id": "Ach_365783",
+      "label": "Treasure Devour",
+      "kind": "achievement",
+      "achievement_id": 365783
+    },
+    {
+      "id": "Ach_365784",
+      "label": "General Orc",
+      "kind": "achievement",
+      "achievement_id": 365784
+    },
+    {
+      "id": "Ach_365785",
+      "label": "Oh, It's This!",
+      "kind": "achievement",
+      "achievement_id": 365785
+    },
+    {
+      "id": "Ach_365786",
+      "label": "Difficult Path",
+      "kind": "achievement",
+      "achievement_id": 365786
+    },
+    {
+      "id": "Ach_365787",
+      "label": "Difficult Path II",
+      "kind": "achievement",
+      "achievement_id": 365787
+    },
+    {
+      "id": "Ach_365788",
+      "label": "Difficult Path III",
+      "kind": "achievement",
+      "achievement_id": 365788
+    },
+    {
+      "id": "Ach_365789",
+      "label": "The Bewildering Forest",
+      "kind": "achievement",
+      "achievement_id": 365789
+    },
+    {
+      "id": "Ach_365790",
+      "label": "Insomnia",
+      "kind": "achievement",
+      "achievement_id": 365790
+    },
+    {
+      "id": "Ach_365791",
+      "label": "Drop of Flower",
+      "kind": "achievement",
+      "achievement_id": 365791
+    },
+    {
+      "id": "Ach_365792",
+      "label": "The Maelstrom of Thrihead",
+      "kind": "achievement",
+      "achievement_id": 365792
+    },
+    {
+      "id": "Ach_365793",
+      "label": "The Treasure Blade",
+      "kind": "achievement",
+      "achievement_id": 365793
+    },
+    {
+      "id": "Ach_365794",
+      "label": "The Undead Return",
+      "kind": "achievement",
+      "achievement_id": 365794
+    },
+    {
+      "id": "Ach_365795",
+      "label": "Treasure Stream",
+      "kind": "achievement",
+      "achievement_id": 365795
+    },
+    {
+      "id": "Ach_365796",
+      "label": "Collect in Field",
+      "kind": "achievement",
+      "achievement_id": 365796
+    },
+    {
+      "id": "Ach_365797",
+      "label": "The King of Skeleton",
+      "kind": "achievement",
+      "achievement_id": 365797
+    },
+    {
+      "id": "Ach_365798",
+      "label": "The Monster's Fangs",
+      "kind": "achievement",
+      "achievement_id": 365798
+    },
+    {
+      "id": "Ach_365799",
+      "label": "Treasure Tower",
+      "kind": "achievement",
+      "achievement_id": 365799
+    },
+    {
+      "id": "Ach_365800",
+      "label": "The Underground Crystal",
+      "kind": "achievement",
+      "achievement_id": 365800
+    },
+    {
+      "id": "Ach_365801",
+      "label": "The Radiance Eater",
+      "kind": "achievement",
+      "achievement_id": 365801
+    },
+    {
+      "id": "Ach_365802",
+      "label": "Treasure Stronghold",
+      "kind": "achievement",
+      "achievement_id": 365802
+    },
+    {
+      "id": "Ach_365803",
+      "label": "Expert Player",
+      "kind": "achievement",
+      "achievement_id": 365803
+    },
+    {
+      "id": "Ach_365804",
+      "label": "Necro Dragon",
+      "kind": "achievement",
+      "achievement_id": 365804
+    },
+    {
+      "id": "Ach_365805",
+      "label": "Walking Flower of Pollen Doom",
+      "kind": "achievement",
+      "achievement_id": 365805
+    },
+    {
+      "id": "Ach_365806",
+      "label": "Little Wings",
+      "kind": "achievement",
+      "achievement_id": 365806
+    },
+    {
+      "id": "Ach_365807",
+      "label": "Glowing Eyes in the Darkness",
+      "kind": "achievement",
+      "achievement_id": 365807
+    },
+    {
+      "id": "Ach_365808",
+      "label": "The Rebellious Eyes",
+      "kind": "achievement",
+      "achievement_id": 365808
+    },
+    {
+      "id": "Ach_365809",
+      "label": "A Fonte Dos Desejos",
+      "kind": "achievement",
+      "achievement_id": 365809
+    },
+    {
+      "id": "Ach_365810",
+      "label": "Treasure Tenants",
+      "kind": "achievement",
+      "achievement_id": 365810
+    },
+    {
+      "id": "Ach_365811",
+      "label": "The Tower of Lizards",
+      "kind": "achievement",
+      "achievement_id": 365811
+    },
+    {
+      "id": "Ach_365812",
+      "label": "Spell of the Tree Man",
+      "kind": "achievement",
+      "achievement_id": 365812
+    },
+    {
+      "id": "Ach_365813",
+      "label": "Treasure Turbid",
+      "kind": "achievement",
+      "achievement_id": 365813
+    },
+    {
+      "id": "Ach_365814",
+      "label": "The Murderer Fang",
+      "kind": "achievement",
+      "achievement_id": 365814
+    },
+    {
+      "id": "Ach_365815",
+      "label": "Professional Player",
+      "kind": "achievement",
+      "achievement_id": 365815
+    },
+    {
+      "id": "Ach_365817",
+      "label": "Impregnable",
+      "kind": "achievement",
+      "achievement_id": 365817
+    },
+    {
+      "id": "Ach_365818",
+      "label": "Project Honey",
+      "kind": "achievement",
+      "achievement_id": 365818
+    },
+    {
+      "id": "Ach_365819",
+      "label": "The Love Kitchen",
+      "kind": "achievement",
+      "achievement_id": 365819
+    },
+    {
+      "id": "Ach_365820",
+      "label": "Love and Ingredients",
+      "kind": "achievement",
+      "achievement_id": 365820
+    },
+    {
+      "id": "Ach_365821",
+      "label": "The Ruler of Blade",
+      "kind": "achievement",
+      "achievement_id": 365821
+    },
+    {
+      "id": "Ach_365822",
+      "label": "Treasure Monster",
+      "kind": "achievement",
+      "achievement_id": 365822
+    },
+    {
+      "id": "Ach_365823",
+      "label": "The Fur Collection",
+      "kind": "achievement",
+      "achievement_id": 365823
+    },
+    {
+      "id": "Ach_365824",
+      "label": "The Absolute Gazer",
+      "kind": "achievement",
+      "achievement_id": 365824
+    },
+    {
+      "id": "Ach_365825",
+      "label": "Make! Wing of Armour",
+      "kind": "achievement",
+      "achievement_id": 365825
+    },
+    {
+      "id": "Ach_365826",
+      "label": "Treasure Enlighten",
+      "kind": "achievement",
+      "achievement_id": 365826
+    },
+    {
+      "id": "Ach_365827",
+      "label": "Blink Like I Blink",
+      "kind": "achievement",
+      "achievement_id": 365827
+    },
+    {
+      "id": "Ach_365828",
+      "label": "Guardian Dragon and the Boy",
+      "kind": "achievement",
+      "achievement_id": 365828
+    },
+    {
+      "id": "Ach_365829",
+      "label": "The Chaos Dragon",
+      "kind": "achievement",
+      "achievement_id": 365829
+    },
+    {
+      "id": "Ach_365830",
+      "label": "Treasure Guardian",
+      "kind": "achievement",
+      "achievement_id": 365830
+    },
+    {
+      "id": "Ach_365831",
+      "label": "Crystal Repair",
+      "kind": "achievement",
+      "achievement_id": 365831
+    },
+    {
+      "id": "Ach_365832",
+      "label": "The Top Grade Meat",
+      "kind": "achievement",
+      "achievement_id": 365832
+    },
+    {
+      "id": "Ach_365833",
+      "label": "The Lava Creeper",
+      "kind": "achievement",
+      "achievement_id": 365833
+    },
+    {
+      "id": "Ach_365834",
+      "label": "Treasure Magic",
+      "kind": "achievement",
+      "achievement_id": 365834
+    },
+    {
+      "id": "Ach_365835",
+      "label": "Inferno Sword",
+      "kind": "achievement",
+      "achievement_id": 365835
+    },
+    {
+      "id": "Ach_365836",
+      "label": "Heavenly Sword",
+      "kind": "achievement",
+      "achievement_id": 365836
+    },
+    {
+      "id": "Ach_365837",
+      "label": "The Ant Army!",
+      "kind": "achievement",
+      "achievement_id": 365837
+    },
+    {
+      "id": "Ach_365838",
+      "label": "Jam SOS",
+      "kind": "achievement",
+      "achievement_id": 365838
+    },
+    {
+      "id": "Ach_365839",
+      "label": "The Knight of Blazing",
+      "kind": "achievement",
+      "achievement_id": 365839
+    },
+    {
+      "id": "Ach_365840",
+      "label": "Perished Lives",
+      "kind": "achievement",
+      "achievement_id": 365840
+    },
+    {
+      "id": "Ach_365841",
+      "label": "Treasure Dark",
+      "kind": "achievement",
+      "achievement_id": 365841
+    },
+    {
+      "id": "Ach_365842",
+      "label": "The Goblin Farm",
+      "kind": "achievement",
+      "achievement_id": 365842
+    },
+    {
+      "id": "Ach_365843",
+      "label": "Horror of the Lizard",
+      "kind": "achievement",
+      "achievement_id": 365843
+    },
+    {
+      "id": "Ach_365844",
+      "label": "The Flower of Life",
+      "kind": "achievement",
+      "achievement_id": 365844
+    },
+    {
+      "id": "Ach_365845",
+      "label": "The Genocide Eyes",
+      "kind": "achievement",
+      "achievement_id": 365845
+    },
+    {
+      "id": "Ach_365846",
+      "label": "Treasure Beast",
+      "kind": "achievement",
+      "achievement_id": 365846
+    },
+    {
+      "id": "Ach_365847",
+      "label": "Remains of Demon's Dwelling",
+      "kind": "achievement",
+      "achievement_id": 365847
+    },
+    {
+      "id": "Ach_365848",
+      "label": "The Suspicious Client",
+      "kind": "achievement",
+      "achievement_id": 365848
+    },
+    {
+      "id": "Ach_365849",
+      "label": "Thrill of the Giant Spider",
+      "kind": "achievement",
+      "achievement_id": 365849
+    },
+    {
+      "id": "Ach_365850",
+      "label": "The Slaughter Fang",
+      "kind": "achievement",
+      "achievement_id": 365850
+    },
+    {
+      "id": "Ach_365851",
+      "label": "Treasure Paladin",
+      "kind": "achievement",
+      "achievement_id": 365851
+    },
+    {
+      "id": "Ach_365852",
+      "label": "The Target Crystal",
+      "kind": "achievement",
+      "achievement_id": 365852
+    },
+    {
+      "id": "Ach_365853",
+      "label": "Defeat That Knight!",
+      "kind": "achievement",
+      "achievement_id": 365853
+    },
+    {
+      "id": "Ach_365854",
+      "label": "Saw The Dragon's Figure",
+      "kind": "achievement",
+      "achievement_id": 365854
+    },
+    {
+      "id": "Ach_365855",
+      "label": "The Emperor of Death",
+      "kind": "achievement",
+      "achievement_id": 365855
+    },
+    {
+      "id": "Ach_365856",
+      "label": "Treasure King",
+      "kind": "achievement",
+      "achievement_id": 365856
+    },
+    {
+      "id": "Ach_365857",
+      "label": "Hell Walls",
+      "kind": "achievement",
+      "achievement_id": 365857
+    },
+    {
+      "id": "Ach_365858",
+      "label": "Hollow Fragment",
+      "kind": "achievement",
+      "achievement_id": 365858
+    },
+    {
+      "id": "Ach_365859",
+      "label": "The Ruler of Deities",
+      "kind": "achievement",
+      "achievement_id": 365859
+    },
+    {
+      "id": "Ach_365860",
+      "label": "Treasure Red",
+      "kind": "achievement",
+      "achievement_id": 365860
+    },
+    {
+      "id": "Ach_365861",
+      "label": "Sword Art Online",
+      "kind": "achievement",
+      "achievement_id": 365861
+    },
+    {
+      "id": "Ach_365862",
+      "label": "You Should Be Feeling Warmer By Now",
+      "kind": "achievement",
+      "achievement_id": 365862
+    },
+    {
+      "id": "Ach_365863",
+      "label": "Hey! Where Are You Looking!",
+      "kind": "achievement",
+      "achievement_id": 365863
+    },
+    {
+      "id": "Ach_365864",
+      "label": "Hehe...",
+      "kind": "achievement",
+      "achievement_id": 365864
+    },
+    {
+      "id": "Ach_365865",
+      "label": "I Won't Look! I Won't Look! At All!",
+      "kind": "achievement",
+      "achievement_id": 365865
+    },
+    {
+      "id": "Ach_365866",
+      "label": "Wow L-Liz!",
+      "kind": "achievement",
+      "achievement_id": 365866
+    },
+    {
+      "id": "Ach_365867",
+      "label": "... I'm Sorry For Causing You Trouble.",
+      "kind": "achievement",
+      "achievement_id": 365867
+    },
+    {
+      "id": "Ach_365868",
+      "label": "Ohh.......!",
+      "kind": "achievement",
+      "achievement_id": 365868
+    },
+    {
+      "id": "Ach_365869",
+      "label": "Your Armor... Is... Melting!",
+      "kind": "achievement",
+      "achievement_id": 365869
+    },
+    {
+      "id": "Ach_365870",
+      "label": "Oh... I Really Feel Good...",
+      "kind": "achievement",
+      "achievement_id": 365870
+    },
+    {
+      "id": "Ach_365871",
+      "label": "Unsurper of Nest Mabethck",
+      "kind": "achievement",
+      "achievement_id": 365871
+    },
+    {
+      "id": "Ach_365872",
+      "label": "Onii-Chan...!",
+      "kind": "achievement",
+      "achievement_id": 365872
+    },
+    {
+      "id": "Ach_365873",
+      "label": "Before the Gods",
+      "kind": "achievement",
+      "achievement_id": 365873
+    },
+    {
+      "id": "Ach_365874",
+      "label": "Whoa! S... Shinon!",
+      "kind": "achievement",
+      "achievement_id": 365874
+    },
+    {
+      "id": "Ach_365875",
+      "label": "Close... Close Your Eyes...",
+      "kind": "achievement",
+      "achievement_id": 365875
+    },
+    {
+      "id": "Ach_365876",
+      "label": "Kirito, O Rei Delas!",
+      "kind": "achievement",
+      "achievement_id": 365876
+    },
+    {
+      "id": "Ach_365877",
+      "label": "Happy Ending",
+      "kind": "achievement",
+      "achievement_id": 365877
+    },
+    {
+      "id": "Ach_365878",
+      "label": "What a Happy Sleeping Face...",
+      "kind": "achievement",
+      "achievement_id": 365878
+    },
+    {
+      "id": "Ach_365879",
+      "label": "Phew... It's Really Special",
+      "kind": "achievement",
+      "achievement_id": 365879
+    },
+    {
+      "id": "Ach_365880",
+      "label": "Phew, Finally We Can Take A Break",
+      "kind": "achievement",
+      "achievement_id": 365880
+    },
+    {
+      "id": "Ach_365881",
+      "label": "Long Time No See, Papa, Mama...",
+      "kind": "achievement",
+      "achievement_id": 365881
+    }
+  ],
+  "edges": [
+    {
+      "from": "Arc_Sophia",
+      "to": "Floor_76",
+      "kind": "leads_to",
+      "label": "Teleport gate",
+      "fact_ids": [
+        "wiki1-6-1"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Boss_76",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-1-7"
+      ]
+    },
+    {
+      "from": "Boss_76",
+      "to": "Floor_77",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-1-7"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Boss_77",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-4-1"
+      ]
+    },
+    {
+      "from": "Boss_77",
+      "to": "Floor_78",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-4-1"
+      ]
+    },
+    {
+      "from": "Floor_78",
+      "to": "Boss_78",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-5-3"
+      ]
+    },
+    {
+      "from": "Boss_78",
+      "to": "Floor_79",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-5-3"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Boss_79",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-10-16"
+      ]
+    },
+    {
+      "from": "Boss_79",
+      "to": "Floor_80",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-10-16"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Boss_80",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-13-30"
+      ]
+    },
+    {
+      "from": "Boss_80",
+      "to": "Floor_81",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-13-30"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Boss_81",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-15-20"
+      ]
+    },
+    {
+      "from": "Boss_81",
+      "to": "Floor_82",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-15-20"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Lab_82",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-19-2"
+      ]
+    },
+    {
+      "from": "Lab_82",
+      "to": "Boss_82",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-19-2"
+      ]
+    },
+    {
+      "from": "Boss_82",
+      "to": "Floor_83",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-19-2"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Lab_83",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-22-3"
+      ]
+    },
+    {
+      "from": "Lab_83",
+      "to": "Boss_83",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-22-3"
+      ]
+    },
+    {
+      "from": "Boss_83",
+      "to": "Floor_84",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-22-3"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Boss_84",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-25-6"
+      ]
+    },
+    {
+      "from": "Boss_84",
+      "to": "Floor_85",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-25-6"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Boss_85",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-31-1"
+      ]
+    },
+    {
+      "from": "Boss_85",
+      "to": "Floor_86",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-31-1"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Lab_86",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-33-6"
+      ]
+    },
+    {
+      "from": "Lab_86",
+      "to": "Boss_86",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-33-8"
+      ]
+    },
+    {
+      "from": "Boss_86",
+      "to": "Floor_87",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-33-8"
+      ]
+    },
+    {
+      "from": "Floor_87",
+      "to": "Lab_87",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-36-19"
+      ]
+    },
+    {
+      "from": "Lab_87",
+      "to": "Boss_87",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-36-1"
+      ]
+    },
+    {
+      "from": "Boss_87",
+      "to": "Floor_88",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-36-1"
+      ]
+    },
+    {
+      "from": "Floor_88",
+      "to": "Lab_88",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-38-19"
+      ]
+    },
+    {
+      "from": "Lab_88",
+      "to": "Boss_88",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-38-1"
+      ]
+    },
+    {
+      "from": "Boss_88",
+      "to": "Floor_89",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-38-1"
+      ]
+    },
+    {
+      "from": "Floor_89",
+      "to": "Boss_89",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-41-4"
+      ]
+    },
+    {
+      "from": "Boss_89",
+      "to": "Floor_90",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-41-4"
+      ]
+    },
+    {
+      "from": "Floor_90",
+      "to": "Boss_90",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-47-24"
+      ]
+    },
+    {
+      "from": "Boss_90",
+      "to": "Floor_91",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-47-24"
+      ]
+    },
+    {
+      "from": "Floor_91",
+      "to": "Boss_91",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-52-10"
+      ]
+    },
+    {
+      "from": "Boss_91",
+      "to": "Floor_92",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-52-10"
+      ]
+    },
+    {
+      "from": "Floor_92",
+      "to": "Lab_92",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-57-1"
+      ]
+    },
+    {
+      "from": "Lab_92",
+      "to": "Boss_92",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-56-2"
+      ]
+    },
+    {
+      "from": "Boss_92",
+      "to": "Floor_93",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-56-2"
+      ]
+    },
+    {
+      "from": "Floor_93",
+      "to": "Lab_93",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-61-2"
+      ]
+    },
+    {
+      "from": "Lab_93",
+      "to": "Boss_93",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-61-4"
+      ]
+    },
+    {
+      "from": "Boss_93",
+      "to": "Floor_94",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-61-4"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Lab_94",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-64-3"
+      ]
+    },
+    {
+      "from": "Lab_94",
+      "to": "Boss_94",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-64-3"
+      ]
+    },
+    {
+      "from": "Boss_94",
+      "to": "Floor_95",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-64-3"
+      ]
+    },
+    {
+      "from": "Floor_95",
+      "to": "Boss_95",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-69-15"
+      ]
+    },
+    {
+      "from": "Boss_95",
+      "to": "Floor_96",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-69-15"
+      ]
+    },
+    {
+      "from": "Floor_96",
+      "to": "Lab_96",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-72-21"
+      ]
+    },
+    {
+      "from": "Lab_96",
+      "to": "Boss_96",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-72-23"
+      ]
+    },
+    {
+      "from": "Boss_96",
+      "to": "Floor_97",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-72-23"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Lab_97",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-76-2"
+      ]
+    },
+    {
+      "from": "Lab_97",
+      "to": "Boss_97",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-76-1"
+      ]
+    },
+    {
+      "from": "Boss_97",
+      "to": "Floor_98",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-76-1"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Lab_98",
+      "kind": "leads_to",
+      "label": "Labyrinth",
+      "fact_ids": [
+        "sk1-80-1"
+      ]
+    },
+    {
+      "from": "Lab_98",
+      "to": "Boss_98",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "sk1-80-1"
+      ]
+    },
+    {
+      "from": "Boss_98",
+      "to": "Floor_99",
+      "kind": "leads_to",
+      "label": "Floor cleared",
+      "fact_ids": [
+        "sk1-80-1"
+      ]
+    },
+    {
+      "from": "Floor_99",
+      "to": "Boss_99",
+      "kind": "leads_to",
+      "label": "Boss rush",
+      "fact_ids": [
+        "sk1-84-5"
+      ]
+    },
+    {
+      "from": "Boss_99",
+      "to": "Floor_100",
+      "kind": "leads_to",
+      "fact_ids": [
+        "sk1-85-3"
+      ]
+    },
+    {
+      "from": "Floor_100",
+      "to": "Boss_100",
+      "kind": "leads_to",
+      "label": "Final battles",
+      "fact_ids": [
+        "sk1-88-1"
+      ]
+    },
+    {
+      "from": "Strea_Deadline",
+      "to": "Boss_94",
+      "kind": "missable_before",
+      "fact_ids": [
+        "ra-comments-57-2"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_370240",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki8-7-1"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365724",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki1-5-1"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365708",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-1-1",
+        "wiki1-6-3",
+        "xneo1-1-1"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365709",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-2-3",
+        "sk1-2-4",
+        "sk1-2-5"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365710",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-2",
+        "sk1-102-6",
+        "wiki2-6-4"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365711",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-3",
+        "wiki2-6-6",
+        "wiki2-6-20"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365712",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-1",
+        "wiki2-6-1",
+        "wiki2-6-14"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365713",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-4",
+        "sk1-102-7",
+        "wiki2-6-2"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365714",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki7-12-4",
+        "wiki7-13-4"
+      ]
+    },
+    {
+      "from": "Boss_76",
+      "to": "Ach_365715",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-1-7",
+        "sk1-1-8",
+        "sk1-1-9"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Ach_365716",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-5",
+        "wiki2-6-7",
+        "wiki2-6-21"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Ach_365717",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-6",
+        "wiki2-6-8",
+        "wiki2-6-22"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Ach_365718",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-7",
+        "sk1-102-8",
+        "wiki2-6-9"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365719",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki1-6-17",
+        "wiki1-6-901"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Ach_365720",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-4-4",
+        "sk1-4-5",
+        "sk1-4-6"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Ach_365721",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-4-28",
+        "wiki1-7-5",
+        "wiki4-11-5"
+      ]
+    },
+    {
+      "from": "Floor_77",
+      "to": "Ach_365722",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-3-5",
+        "sk1-4-33",
+        "wiki1-7-6"
+      ]
+    },
+    {
+      "from": "Boss_77",
+      "to": "Ach_365723",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-4-1",
+        "sk1-4-2",
+        "sk1-4-3"
+      ]
+    },
+    {
+      "from": "Floor_78",
+      "to": "Ach_365725",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-5-2",
+        "sk1-5-3",
+        "sk1-102-11"
+      ]
+    },
+    {
+      "from": "Floor_78",
+      "to": "Ach_365726",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-8",
+        "sk1-102-10",
+        "wiki1-7-7"
+      ]
+    },
+    {
+      "from": "Floor_78",
+      "to": "Ach_365727",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-10",
+        "wiki2-6-12",
+        "wiki2-6-27"
+      ]
+    },
+    {
+      "from": "Boss_78",
+      "to": "Ach_365728",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-5-3",
+        "sk1-5-4",
+        "sk1-5-5"
+      ]
+    },
+    {
+      "from": "Floor_78",
+      "to": "Ach_365729",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-9"
+      ]
+    },
+    {
+      "from": "Floor_78",
+      "to": "Ach_365730",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-25-1",
+        "sk1-6-2",
+        "sk1-6-3"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Ach_365731",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-9-1",
+        "sk1-102-13",
+        "xneo1-1-10"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Ach_365732",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-9-901"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Ach_365733",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-11",
+        "sk1-102-12",
+        "xneo1-1-9"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Ach_365734",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-12"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Ach_365735",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-13"
+      ]
+    },
+    {
+      "from": "Boss_79",
+      "to": "Ach_365736",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-10-16",
+        "wiki4-13-1",
+        "wiki4-13-3"
+      ]
+    },
+    {
+      "from": "Floor_79",
+      "to": "Ach_365737",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-10-1",
+        "sk1-10-2",
+        "sk1-10-3"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365738",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-15",
+        "sk1-102-14"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365739",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-16"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365740",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-12-3",
+        "wiki1-9-1"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365741",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-12-1",
+        "wiki1-9-2"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365742",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-12-2",
+        "sk1-102-15",
+        "xneo1-1-12"
+      ]
+    },
+    {
+      "from": "Boss_80",
+      "to": "Ach_365743",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-13-30",
+        "wiki4-13-2",
+        "wiki4-13-4"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365744",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-13-20"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365745",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki5-11-3",
+        "xneo1-3-3",
+        "xneo1-3-4"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365746",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki5-12-1",
+        "wiki5-12-2",
+        "xneo1-3-3"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365747",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki5-13-1",
+        "wiki5-13-2",
+        "xneo1-3-3"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365748",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki5-12-3",
+        "wiki5-12-4",
+        "xneo1-3-3"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365749",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki5-13-3",
+        "wiki5-13-4",
+        "wiki5-13-5"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365750",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-18"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365751",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki7-12-4",
+        "wiki7-13-4"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365752",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-13-1",
+        "sk1-13-2",
+        "sk1-13-3"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365753",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-15-11",
+        "sk1-14-10",
+        "sk1-14-11"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365754",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-15-4"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365755",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-102-17"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365756",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-17",
+        "sk1-102-16",
+        "xneo1-1-13"
+      ]
+    },
+    {
+      "from": "Boss_81",
+      "to": "Ach_365757",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-15-20",
+        "wiki4-14-1",
+        "wiki4-14-2"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365758",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-20"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365759",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-21"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365760",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-22"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365761",
+      "kind": "unlocks",
+      "fact_ids": [
+        "xneo1-3-3",
+        "xneo1-3-4"
+      ]
+    },
+    {
+      "from": "Floor_93",
+      "to": "Ach_365762",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-57-1",
+        "ra-comments-57-2",
+        "ra-comments-57-3"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365763",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-15-1",
+        "sk1-15-2",
+        "sk1-15-3"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365764",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-19-1",
+        "sk1-102-19",
+        "xneo1-1-16"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365765",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "ra-comments-60-3"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365766",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-19",
+        "sk1-102-18"
+      ]
+    },
+    {
+      "from": "Boss_82",
+      "to": "Ach_365767",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-19-2",
+        "sk1-19-3",
+        "wiki4-15-1"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365768",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-25",
+        "sk1-102-20"
+      ]
+    },
+    {
+      "from": "Floor_82",
+      "to": "Ach_365769",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-18-1",
+        "sk1-18-3",
+        "sk1-19-4"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365770",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-21-1",
+        "sk1-102-21",
+        "xneo1-1-18"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365771",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-21-4",
+        "sk1-21-5"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365772",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-22-17"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365773",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-24",
+        "wiki1-12-10"
+      ]
+    },
+    {
+      "from": "Boss_83",
+      "to": "Ach_365774",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-22-3",
+        "sk1-22-4"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365775",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-22-1",
+        "sk1-21-2",
+        "sk1-21-3"
+      ]
+    },
+    {
+      "from": "Floor_83",
+      "to": "Ach_365776",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki7-12-4",
+        "wiki7-13-4"
+      ]
+    },
+    {
+      "from": "Floor_80",
+      "to": "Ach_365777",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-14"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365778",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-27"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365779",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-28",
+        "sk1-102-1"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365780",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-26-1",
+        "sk1-26-2",
+        "sk1-95-26"
+      ]
+    },
+    {
+      "from": "Boss_84",
+      "to": "Ach_365781",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-25-6",
+        "sk1-25-7",
+        "sk1-25-8"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365782",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki5-14-1",
+        "wiki5-14-2",
+        "xneo1-3-3"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365783",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-26-4",
+        "sk1-26-5",
+        "sk1-26-6"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365784",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-30-1",
+        "xneo1-1-21"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365785",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-92-4"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365786",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-30-4"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365787",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-30-4"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365788",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-30-4"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365789",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-29",
+        "sk1-102-23",
+        "xneo1-1-22"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365790",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-30"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365791",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-31-7",
+        "sk1-95-31"
+      ]
+    },
+    {
+      "from": "Boss_85",
+      "to": "Ach_365792",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-31-1",
+        "sk1-31-19"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365793",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-34"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365794",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-32",
+        "sk1-102-25",
+        "xneo1-1-24"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365795",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-31-2",
+        "sk1-31-3",
+        "sk1-31-4"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365796",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-33"
+      ]
+    },
+    {
+      "from": "Boss_86",
+      "to": "Ach_365797",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-33-8",
+        "sk1-33-9"
+      ]
+    },
+    {
+      "from": "Floor_87",
+      "to": "Ach_365798",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-36",
+        "sk1-102-27"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365799",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-34-1",
+        "sk1-34-2",
+        "sk1-34-3"
+      ]
+    },
+    {
+      "from": "Floor_87",
+      "to": "Ach_365800",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-35",
+        "wiki1-12-5"
+      ]
+    },
+    {
+      "from": "Boss_87",
+      "to": "Ach_365801",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-36-1",
+        "sk1-36-34",
+        "wiki1-10-2"
+      ]
+    },
+    {
+      "from": "Floor_87",
+      "to": "Ach_365802",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-36-2",
+        "sk1-36-3",
+        "sk1-36-4"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Ach_365803",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki7-12-4",
+        "wiki7-13-4",
+        "wiki7-13-5"
+      ]
+    },
+    {
+      "from": "Floor_88",
+      "to": "Ach_365804",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-37-5",
+        "wiki7-13-3",
+        "xneo1-2-3"
+      ]
+    },
+    {
+      "from": "Floor_88",
+      "to": "Ach_365805",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-37"
+      ]
+    },
+    {
+      "from": "Floor_88",
+      "to": "Ach_365806",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-38",
+        "sk1-102-29"
+      ]
+    },
+    {
+      "from": "Floor_88",
+      "to": "Ach_365807",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-39"
+      ]
+    },
+    {
+      "from": "Boss_88",
+      "to": "Ach_365808",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-38-1",
+        "sk1-38-35"
+      ]
+    },
+    {
+      "from": "Floor_89",
+      "to": "Ach_365809",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-41-3",
+        "xneo1-2-6",
+        "sk1-41-901"
+      ]
+    },
+    {
+      "from": "Floor_88",
+      "to": "Ach_365810",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-38-3",
+        "sk1-38-4",
+        "sk1-38-7"
+      ]
+    },
+    {
+      "from": "Floor_89",
+      "to": "Ach_365811",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-40",
+        "sk1-102-31",
+        "xneo1-2-5"
+      ]
+    },
+    {
+      "from": "Floor_89",
+      "to": "Ach_365812",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-41"
+      ]
+    },
+    {
+      "from": "Floor_89",
+      "to": "Ach_365813",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-42-1",
+        "sk1-42-2",
+        "sk1-42-3"
+      ]
+    },
+    {
+      "from": "Boss_89",
+      "to": "Ach_365814",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-41-4",
+        "sk1-41-5",
+        "sk1-41-6"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Ach_365815",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki7-12-4",
+        "wiki7-13-4",
+        "wiki7-13-5"
+      ]
+    },
+    {
+      "from": "Floor_90",
+      "to": "Ach_365817",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-46-1",
+        "sk1-102-33",
+        "xneo1-2-7"
+      ]
+    },
+    {
+      "from": "Floor_90",
+      "to": "Ach_365818",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-47-1",
+        "sk1-95-42",
+        "sk1-102-2"
+      ]
+    },
+    {
+      "from": "Floor_90",
+      "to": "Ach_365819",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-43"
+      ]
+    },
+    {
+      "from": "Floor_90",
+      "to": "Ach_365820",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-44"
+      ]
+    },
+    {
+      "from": "Boss_90",
+      "to": "Ach_365821",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-47-24"
+      ]
+    },
+    {
+      "from": "Floor_90",
+      "to": "Ach_365822",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-47-1",
+        "sk1-47-2",
+        "sk1-47-3"
+      ]
+    },
+    {
+      "from": "Floor_91",
+      "to": "Ach_365823",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-45",
+        "sk1-102-3"
+      ]
+    },
+    {
+      "from": "Boss_91",
+      "to": "Ach_365824",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-52-10",
+        "sk1-52-11"
+      ]
+    },
+    {
+      "from": "Floor_92",
+      "to": "Ach_365825",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-46"
+      ]
+    },
+    {
+      "from": "Floor_91",
+      "to": "Ach_365826",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-52-1",
+        "sk1-52-2",
+        "sk1-52-3"
+      ]
+    },
+    {
+      "from": "Floor_92",
+      "to": "Ach_365827",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-56-1",
+        "xneo1-2-10"
+      ]
+    },
+    {
+      "from": "Floor_92",
+      "to": "Ach_365828",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-47",
+        "sk1-102-35"
+      ]
+    },
+    {
+      "from": "Boss_92",
+      "to": "Ach_365829",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-56-2",
+        "sk1-57-1",
+        "sk1-57-2"
+      ]
+    },
+    {
+      "from": "Floor_92",
+      "to": "Ach_365830",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-57-3",
+        "sk1-57-4",
+        "sk1-57-5"
+      ]
+    },
+    {
+      "from": "Floor_93",
+      "to": "Ach_365831",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-61-2",
+        "sk1-62-3",
+        "xneo1-2-11"
+      ]
+    },
+    {
+      "from": "Floor_93",
+      "to": "Ach_365832",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-48",
+        "sk1-102-37"
+      ]
+    },
+    {
+      "from": "Boss_93",
+      "to": "Ach_365833",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-61-4",
+        "sk1-61-5"
+      ]
+    },
+    {
+      "from": "Floor_93",
+      "to": "Ach_365834",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-62-1",
+        "sk1-62-2",
+        "sk1-62-5"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Ach_365835",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-64-2",
+        "sk1-102-40",
+        "xneo1-2-12"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Ach_365836",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-64-1",
+        "sk1-102-39",
+        "xneo1-2-12"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Ach_365837",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-49"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Ach_365838",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-50"
+      ]
+    },
+    {
+      "from": "Boss_94",
+      "to": "Ach_365839",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-64-3",
+        "sk1-64-4",
+        "sk1-64-5"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Ach_365840",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-134-1",
+        "ra-comments-134-2",
+        "ra-comments-134-3"
+      ]
+    },
+    {
+      "from": "Floor_94",
+      "to": "Ach_365841",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-65-1",
+        "sk1-65-4",
+        "sk1-65-5"
+      ]
+    },
+    {
+      "from": "Floor_95",
+      "to": "Ach_365842",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-52"
+      ]
+    },
+    {
+      "from": "Floor_95",
+      "to": "Ach_365843",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-53"
+      ]
+    },
+    {
+      "from": "Floor_95",
+      "to": "Ach_365844",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-54",
+        "sk1-102-41",
+        "wiki1-11-1"
+      ]
+    },
+    {
+      "from": "Boss_95",
+      "to": "Ach_365845",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-69-15",
+        "sk1-69-16",
+        "sk1-69-17"
+      ]
+    },
+    {
+      "from": "Floor_95",
+      "to": "Ach_365846",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-69-1",
+        "sk1-69-2",
+        "sk1-69-4"
+      ]
+    },
+    {
+      "from": "Floor_96",
+      "to": "Ach_365847",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-55"
+      ]
+    },
+    {
+      "from": "Floor_96",
+      "to": "Ach_365848",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-56",
+        "sk1-102-43"
+      ]
+    },
+    {
+      "from": "Floor_96",
+      "to": "Ach_365849",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-143-1",
+        "ra-comments-143-2",
+        "ra-comments-143-3"
+      ]
+    },
+    {
+      "from": "Boss_96",
+      "to": "Ach_365850",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-72-23",
+        "sk1-72-24",
+        "sk1-72-25"
+      ]
+    },
+    {
+      "from": "Floor_96",
+      "to": "Ach_365851",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-72-2",
+        "sk1-72-3",
+        "sk1-72-4"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Ach_365852",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-59"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Ach_365853",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-95-58",
+        "sk1-102-4",
+        "xneo1-2-15"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Ach_365854",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-148-1",
+        "ra-comments-148-2",
+        "ra-comments-148-3"
+      ]
+    },
+    {
+      "from": "Boss_97",
+      "to": "Ach_365855",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-76-1",
+        "sk1-76-14"
+      ]
+    },
+    {
+      "from": "Floor_97",
+      "to": "Ach_365856",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-76-2",
+        "sk1-76-3",
+        "sk1-76-4"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365857",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-151-1",
+        "sk1-79-3",
+        "sk1-79-4"
+      ]
+    },
+    {
+      "from": "Boss_98",
+      "to": "Ach_365858",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-80-1",
+        "sk1-80-2",
+        "sk1-80-3"
+      ]
+    },
+    {
+      "from": "Boss_98",
+      "to": "Ach_365859",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-80-4",
+        "sk1-80-5"
+      ]
+    },
+    {
+      "from": "Floor_98",
+      "to": "Ach_365860",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-81-1",
+        "sk1-81-2",
+        "sk1-81-3"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_365861",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-88-1",
+        "sk1-88-2",
+        "sk1-88-3"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365863",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki1-6-17"
+      ]
+    },
+    {
+      "from": "Floor_76",
+      "to": "Ach_365864",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-158-1"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365865",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-91-4",
+        "sk1-91-902"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365868",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-91-5"
+      ]
+    },
+    {
+      "from": "Floor_81",
+      "to": "Ach_365869",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-92-1",
+        "sk1-92-901"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365870",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-92-3"
+      ]
+    },
+    {
+      "from": "Floor_84",
+      "to": "Ach_365871",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-25-1",
+        "sk1-26-3",
+        "wiki7-13-2"
+      ]
+    },
+    {
+      "from": "Floor_85",
+      "to": "Ach_365872",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-93-2"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365873",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-91-4",
+        "sk1-91-902"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365874",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-93-901"
+      ]
+    },
+    {
+      "from": "Floor_86",
+      "to": "Ach_365875",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-92-6"
+      ]
+    },
+    {
+      "from": "Floor_87",
+      "to": "Ach_365876",
+      "kind": "unlocks",
+      "fact_ids": [
+        "sk1-91-901"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_365877",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki8-7-1"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_365878",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki8-7-1"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_365879",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki8-7-1"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_365880",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki8-7-1"
+      ]
+    },
+    {
+      "from": "Boss_100",
+      "to": "Ach_365881",
+      "kind": "unlocks",
+      "fact_ids": [
+        "wiki8-7-1"
+      ]
+    },
+    {
+      "from": "Strea_Deadline",
+      "to": "Ach_365762",
+      "kind": "missable_before",
+      "fact_ids": [
+        "ra-comments-57-2"
+      ]
+    }
+  ]
+}

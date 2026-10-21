@@ -1,0 +1,26 @@
+{"fact_id":"sk1-95-5","source_id":"wiki2","chunk_id":"wiki2#6","quote":"77 | 恐怖の溶解液 | グリーンスライム\n8匹討伐 | ─ | 12,000 Col","stance":"supports","note":"Same quest requirement in wiki2-6-21"}
+{"fact_id":"wiki2-6-21","source_id":"sk1","chunk_id":"sk1#95","quote":"5 | 恐怖の溶解液| 77層空臨む蛇の尻尾にいるグリーンスライムを8匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-5"}
+{"fact_id":"sk1-95-6","source_id":"wiki2","chunk_id":"wiki2#6","quote":"森の贈り物 | 高級キノコ\n5個採取 | ─ | 15,000Col\nEXP:4,500 | 77層森エリアで採集","stance":"supports","note":"Same quest requirement in wiki2-6-22"}
+{"fact_id":"wiki2-6-22","source_id":"sk1","chunk_id":"sk1#95","quote":"6 | 森の贈り物| 77層の静寂なる新緑の林道にある「高級キノコ」  \nを5個を取ってくる","stance":"supports","note":"Same quest requirement in sk1-95-6"}
+{"fact_id":"sk1-95-7","source_id":"wiki2","chunk_id":"wiki2#6","quote":"未知なる甘みへの挑戦 | あまーい樹液\n3個収集 | SPハイポーション × 8 | 13,340Col\nEXP:5,600 | 77層ウィズダムトレントのドロップ","stance":"supports","note":"Same quest requirement in wiki2-6-23"}
+{"fact_id":"wiki2-6-23","source_id":"sk1","chunk_id":"sk1#95","quote":"7 | 未知なる甘みへの挑戦| 77層の静寂なる新緑の林道などにいるウィズダムトレント  \n(木の形の敵)のドロップアイテム「あまーい樹液」を3個集める","stance":"supports","note":"Same quest requirement in sk1-95-7"}
+{"fact_id":"sk1-95-8","source_id":"wiki2","chunk_id":"wiki2#6","quote":"78 | 飛竜無法地帯 | ワイバーン\n8体討伐 | ─ | 13,000Col","stance":"supports","note":"Same quest requirement in wiki2-6-25"}
+{"fact_id":"wiki2-6-25","source_id":"sk1","chunk_id":"sk1#95","quote":"8| 飛竜無法地帯| 78層穿たれた地平(街を出てすぐ)にいるワイバーンを8匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-8"}
+{"fact_id":"sk1-95-8","source_id":"wiki1","chunk_id":"wiki1#7","quote":"転移門前で78層のボス攻略情報に必要な【討伐】飛竜無法地帯のクエストを受けておこう","stance":"supports","note":"Same quest requirement in wiki1-7-7"}
+{"fact_id":"wiki1-7-7","source_id":"sk1","chunk_id":"sk1#95","quote":"8| 飛竜無法地帯| 78層穿たれた地平(街を出てすぐ)にいるワイバーンを8匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-8"}
+{"fact_id":"sk1-95-9","source_id":"wiki2","chunk_id":"wiki2#6","quote":"木材頂きます！ | 硬質な木片\n6個採取 | ─ | 16,250 Col\nEXP:6,150 | 78層森エリアで採集","stance":"supports","note":"Same quest requirement in wiki2-6-26"}
+{"fact_id":"wiki2-6-26","source_id":"sk1","chunk_id":"sk1#95","quote":"9| 木材頂きます！| 78層芳葉たる迷道にある「硬質な木材」を6個採取する","stance":"supports","note":"Same quest requirement in sk1-95-9"}
+{"fact_id":"sk1-95-2","source_id":"wiki2","chunk_id":"wiki2#6","quote":"少女への贈り物 | 谷間に咲く薬草\n3個採集 | 解毒結晶x5 | 13,750Col\nEXP:2,900 | ボス情報フラグにつきクリア必須\n76層 敗者達の峡谷で採集。","stance":"supports","note":"Same quest requirement in wiki2-6-16"}
+{"fact_id":"wiki2-6-16","source_id":"sk1","chunk_id":"sk1#95","quote":"2 | 少女への贈り物 | 76層の敗者達の峡谷に落ちている「谷間に咲く薬草」  \nを3個採取する","stance":"supports","note":"Same quest requirement in sk1-95-2"}
+{"fact_id":"sk1-95-11","source_id":"xneo1","chunk_id":"xneo1#1","quote":"◎クエスト _『許されざる歌声』_ の**「セイレーン」** は、79層出てすぐの**「平伏せし落陽の勾配」** の敵のみが対象","stance":"supports","note":"Same quest requirement in xneo1-1-9"}
+{"fact_id":"xneo1-1-9","source_id":"sk1","chunk_id":"sk1#95","quote":"11| 許されざる歌声| 79層平伏せし落陽の勾配にいるセイレーンを7体倒す","stance":"supports","note":"Same quest requirement in sk1-95-11"}
+{"fact_id":"sk1-95-17","source_id":"xneo1","chunk_id":"xneo1#1","quote":"◎クエスト _『砂漠に散った無数の命』_ の**「スコーピオン」** は、81層出てすぐの**「陽光注ぐ熱波の砂漠」** の敵のみが対象","stance":"supports","note":"Same quest requirement in xneo1-1-13"}
+{"fact_id":"xneo1-1-13","source_id":"sk1","chunk_id":"sk1#95","quote":"17| 砂漠に散った無数の命| 81層陽光注ぐ熱波の砂漠にいるスコーピオンを10匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-17"}
+{"fact_id":"sk1-95-29","source_id":"xneo1","chunk_id":"xneo1#1","quote":"◎クエスト _『迷いの森から来た男』_ の**「オークウォーリア」** は**「さざめく豊穣の林道」** の敵のみが対象","stance":"supports","note":"Same quest requirement in xneo1-1-22"}
+{"fact_id":"xneo1-1-22","source_id":"sk1","chunk_id":"sk1#95","quote":"29| 迷いの森から来た男| 85層さざめく豊穣の林道にいるオークウォーリアを9匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-29"}
+{"fact_id":"sk1-95-32","source_id":"xneo1","chunk_id":"xneo1#1","quote":"◎クエスト _『アンデッドはふたたび』_ の**「ロストソルジャー」** は86層出てすぐの**「兵士達が歩みし谷」** の敵のみが対象","stance":"supports","note":"Same quest requirement in xneo1-1-24"}
+{"fact_id":"xneo1-1-24","source_id":"sk1","chunk_id":"sk1#95","quote":"32| アンデッドはふたたび| 86層兵士達が歩みし谷にいるロストソルジャーを13匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-32"}
+{"fact_id":"sk1-95-40","source_id":"xneo1","chunk_id":"xneo1#2","quote":"◎クエスト**「塔を守るトカゲ」** のエルダーリザードマンは、**「奔流を御す片塔」** の敵のみが対象","stance":"supports","note":"Same quest requirement in xneo1-2-5"}
+{"fact_id":"xneo1-2-5","source_id":"sk1","chunk_id":"sk1#95","quote":"40 | 塔を守るトカゲ| 89層奔流を御す片塔にいるエルダーリザードマンを10匹倒す","stance":"supports","note":"Same quest requirement in sk1-95-40"}
+{"fact_id":"sk1-95-54","source_id":"wiki1","chunk_id":"wiki1#11","quote":"### 95層[](/sao-im/pedit/22/0-16 \"部分編集\") ... クエストボードで「命の花に祈りを込めて」と言うクエストを取っておこう。内容は９５層の双璧の交わる戦場での《命の花》を４個入手するものです。報酬は：コル：37500col 経験値：67000がもらえます。","stance":"supports","note":"Same quest requirement in wiki1-11-1"}
+{"fact_id":"wiki1-11-1","source_id":"sk1","chunk_id":"sk1#95","quote":"54 | 命の花に祈りを込めて| 95層双璧の交わる戦場にある「命の花」を4個採取する","stance":"supports","note":"Same quest requirement in sk1-95-54"}

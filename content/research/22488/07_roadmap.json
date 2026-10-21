@@ -1,0 +1,1185 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Action RPG (dungeon crawler with dating-sim events)",
+    "categories": [
+      {
+        "name": "Floors and labyrinths",
+        "description": "Clear every floor from 76 to 100, including each labyrinth and floor boss.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Floor chest sweeps",
+        "description": "Open every treasure chest on floors 76-98 (one RA achievement per floor).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Quests and named monsters",
+        "description": "Every Arc Sophia quest, the high-difficulty quests, and the named monsters (NMs) the set tracks.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Character episodes, bonds and endings",
+        "description": "All heroine character episodes and hidden events, maximum bond with every heroine, Yui, Strea and Klein, and all six endings.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "floors",
+      "chests",
+      "quests",
+      "character_episodes"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough. The six endings depend on the partner taken into the Floor 100 battles, so chapter 24 keeps a save from before Floor 99 and chapter 25 reloads it for each remaining heroine. Whether a second playthrough is needed for any ending is not settled by the sources (see open questions).",
+  "settings_notes": "Hard Mode exists only for a second playthrough after the 2013-06-06 patch; nothing in the set requires it. The RA set uses fan-translation names; this guide uses those names with the Japanese originals where helpful.",
+  "fact_ids": [
+    "wiki8-7-1",
+    "xneo1-2-17",
+    "ra-comments-57-2",
+    "ra-comments-1-1",
+    "wiki9-5-1"
+  ],
+  "counter_totals": {
+    "Floors cleared": 25,
+    "Floor chest sweeps": 23
+  },
+  "missables": [
+    {
+      "achievement_id": 365762,
+      "label": "Strea bond",
+      "deadline": "Before finishing Floor 94",
+      "chapter": 18,
+      "fact_ids": [
+        "ra-comments-57-2",
+        "ra-comments-57-4"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Finishing Floor 94",
+      "chapter": 19,
+      "warning": "Strea's bond can no longer be raised for her achievement once Floor 94 is finished.",
+      "fact_ids": [
+        "ra-comments-57-2"
+      ]
+    },
+    {
+      "label": "Dwell Devour 2F",
+      "chapter": 9,
+      "warning": "On the 84F labyrinth 2F Strea joins the party until the boss room and you cannot go back.",
+      "fact_ids": [
+        "wiki1-12-901"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Floor 76: Cauldron Dungeon",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_76",
+        "Boss_76"
+      ],
+      "achievement_ids": [
+        365724,
+        365708,
+        365709,
+        365710,
+        365711,
+        365712,
+        365713,
+        365714,
+        365715,
+        365719,
+        365862,
+        365863,
+        365864
+      ],
+      "fact_ids": [
+        "wiki1-5-1",
+        "sk1-1-1",
+        "wiki1-6-3",
+        "xneo1-1-1",
+        "sk1-2-3",
+        "sk1-2-4",
+        "sk1-2-5",
+        "sk1-2-6",
+        "sk1-95-2",
+        "sk1-102-6",
+        "wiki2-6-4",
+        "wiki2-6-16",
+        "sk1-95-3",
+        "wiki2-6-6",
+        "wiki2-6-20",
+        "sk1-95-1",
+        "wiki2-6-1",
+        "wiki2-6-14",
+        "sk1-95-4",
+        "sk1-102-7",
+        "wiki2-6-2",
+        "wiki2-6-3",
+        "wiki7-12-4",
+        "wiki7-13-4",
+        "sk1-1-7",
+        "sk1-1-8",
+        "sk1-1-9",
+        "wiki1-6-16",
+        "wiki1-6-17",
+        "wiki1-6-901",
+        "ra-comments-158-1"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Tutorial, Arc Sophia hub (all quests are accepted from NPCs in Arc Sophia), Greed Hole sealed gem, Cauldron Dungeon floors 1-4, Ghastly Gaze. After the boss: Silica event on leaving the room, Klein's fairy rumour at the teleport gate, then Poison-Woven Forest for the Leafa event (Lonely Fairy) followed directly by the Sinon event (Hey! Where Are You Looking!). Kirito level 100 has no sourced timing; it unlocks whenever reached. Start raising every heroine's bond now (talk, walk together, gifts, food) - the bond achievements are planned in chapter 23 but there is no reason to wait. Open the chest sweep for Floor 76 before leaving."
+    },
+    {
+      "n": 2,
+      "title": "Floor 77: Treasure Maze",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_77",
+        "Boss_77"
+      ],
+      "achievement_ids": [
+        365716,
+        365717,
+        365718,
+        365720,
+        365721,
+        365722,
+        365723
+      ],
+      "fact_ids": [
+        "sk1-95-5",
+        "wiki2-6-7",
+        "wiki2-6-21",
+        "sk1-95-6",
+        "wiki2-6-8",
+        "wiki2-6-22",
+        "sk1-95-7",
+        "sk1-102-8",
+        "wiki2-6-9",
+        "wiki2-6-23",
+        "sk1-4-4",
+        "sk1-4-5",
+        "sk1-4-6",
+        "sk1-4-7",
+        "sk1-4-28",
+        "wiki1-7-5",
+        "wiki4-11-5",
+        "wiki7-12-1",
+        "sk1-3-5",
+        "sk1-4-33",
+        "wiki1-7-6",
+        "sk1-4-1",
+        "sk1-4-2",
+        "sk1-4-3",
+        "wiki1-7-9"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Fat Slime trio in the Treasure Maze floors, Crystallize Claw. Lisbeth episode 1 becomes available after clearing Floor 77 (Kirito alone, talk to the Lisbeth shop NPC)."
+    },
+    {
+      "n": 3,
+      "title": "Floor 78: Demons' Cave",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_78",
+        "Boss_78"
+      ],
+      "achievement_ids": [
+        365725,
+        365726,
+        365727,
+        365728,
+        365729,
+        365730
+      ],
+      "fact_ids": [
+        "sk1-5-2",
+        "sk1-5-3",
+        "sk1-102-11",
+        "wiki1-8-4",
+        "sk1-95-8",
+        "sk1-102-10",
+        "wiki1-7-7",
+        "wiki2-6-10",
+        "sk1-95-10",
+        "wiki2-6-12",
+        "wiki2-6-27",
+        "sk1-5-4",
+        "sk1-5-5",
+        "sk1-5-6",
+        "sk1-95-9",
+        "ra-comments-25-1",
+        "sk1-6-2",
+        "sk1-6-3",
+        "sk1-6-4"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Flare Dragon NM, Demons' Cave, Madness Horn. After clearing Floor 78: Lisbeth episode 2 (Kirito alone at the shop)."
+    },
+    {
+      "n": 4,
+      "title": "Floor 79: Dragon Palace",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_79",
+        "Boss_79"
+      ],
+      "achievement_ids": [
+        365731,
+        365732,
+        365733,
+        365734,
+        365735,
+        365736,
+        365737,
+        365866
+      ],
+      "fact_ids": [
+        "sk1-9-1",
+        "sk1-102-13",
+        "xneo1-1-10",
+        "sk1-9-901",
+        "sk1-95-11",
+        "sk1-102-12",
+        "xneo1-1-9",
+        "sk1-95-12",
+        "sk1-95-13",
+        "sk1-10-16",
+        "wiki4-13-1",
+        "wiki4-13-3",
+        "sk1-10-1",
+        "sk1-10-2",
+        "sk1-10-3",
+        "sk1-10-5"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Zain Lizardman NM, Flowing Water Corridor device puzzle and the Huge Poison Crab, Dragon Palace, Tri-Tempest. After clearing Floor 79: Silica (Pina growth item), Lisbeth \"a place with a nice view\", Sinon \"combat training\" (daytime, alone, Kirito's room), Yui \"wants to help\" (daytime). \"Wow L-Liz!\" is unverified; it is placed here as a guess because it sits between the Asuna ring and Sinon events in the set order - do every Lisbeth episode as it unlocks."
+    },
+    {
+      "n": 5,
+      "title": "Floor 80: Monster Maze",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_80",
+        "Boss_80"
+      ],
+      "achievement_ids": [
+        365738,
+        365739,
+        365740,
+        365741,
+        365742,
+        365743,
+        365744,
+        365751,
+        365752,
+        365777
+      ],
+      "fact_ids": [
+        "sk1-95-15",
+        "sk1-102-14",
+        "sk1-95-16",
+        "sk1-12-3",
+        "wiki1-9-1",
+        "sk1-12-1",
+        "wiki1-9-2",
+        "sk1-12-2",
+        "sk1-102-15",
+        "xneo1-1-12",
+        "sk1-13-30",
+        "wiki4-13-2",
+        "wiki4-13-4",
+        "sk1-13-20",
+        "wiki7-12-4",
+        "wiki7-13-4",
+        "sk1-13-1",
+        "sk1-13-2",
+        "sk1-13-3",
+        "sk1-13-4",
+        "sk1-95-14"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Sacrifice Level keys, Darkness NM, Monster Maze (Yui event on 2F: Papa!), Guilty Scythe. Quest Treasure Fight (80F mole iron) belongs to this floor. Kirito level 110 has no sourced timing. After clearing Floor 80: Leafa \"S-class ingredient\", Yui \"wants a stone\" (Diamond from any labyrinth 2F)."
+    },
+    {
+      "n": 6,
+      "title": "Floor 81: Halls Strong",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_81",
+        "Boss_81"
+      ],
+      "achievement_ids": [
+        365750,
+        365753,
+        365754,
+        365755,
+        365756,
+        365757,
+        365763,
+        365869
+      ],
+      "fact_ids": [
+        "sk1-95-18",
+        "sk1-15-11",
+        "sk1-14-10",
+        "sk1-14-11",
+        "sk1-15-4",
+        "sk1-102-17",
+        "sk1-95-17",
+        "sk1-102-16",
+        "xneo1-1-13",
+        "sk1-15-20",
+        "wiki4-14-1",
+        "wiki4-14-2",
+        "sk1-15-1",
+        "sk1-15-2",
+        "sk1-15-3",
+        "sk1-92-1",
+        "sk1-92-901"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "From Floor 81 the partner is free to choose. Mimicry / Blocking / Evil Wipeout trials, Halls Strong, The Knight of Darkness. After clearing Floor 81: Asuna ring chain starts (talk in the shopping street, Yui at Agil's gives quest Ritual of Blessing, any labyrinth 2F event, 79F church by day, NM Ring Guarder on 79F, church again for the colourless ring); Silica gives the Evolution Ore lead - with Silica as partner go to the 78F labyrinth (Demons' Cave) 2F (Your Armor... Is... Melting!); Lisbeth secret book; Sinon shooting skill; Yui event."
+    },
+    {
+      "n": 7,
+      "title": "Floor 82: Solid Grotto",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_82",
+        "Lab_82",
+        "Boss_82"
+      ],
+      "achievement_ids": [
+        365758,
+        365759,
+        365760,
+        365764,
+        365765,
+        365766,
+        365767,
+        365769
+      ],
+      "fact_ids": [
+        "sk1-95-20",
+        "sk1-95-21",
+        "sk1-95-22",
+        "sk1-19-1",
+        "sk1-102-19",
+        "xneo1-1-16",
+        "ra-comments-60-1",
+        "ra-comments-60-2",
+        "ra-comments-60-3",
+        "sk1-95-23",
+        "sk1-95-19",
+        "sk1-102-18",
+        "sk1-19-2",
+        "sk1-19-3",
+        "wiki4-15-1",
+        "sk1-18-1",
+        "sk1-18-3",
+        "sk1-19-4",
+        "sk1-19-5"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Goblin Collector's Cry I-IV (Goblin King on the top floor of the 82F dungeon arena; sleep at the inn to repeat until the item drops), Greater Bandit, Solid Grotto, Grand Legacy. Strea can be talked to at Agil's inn after the 82F boss: start her bond now (deadline: before finishing Floor 94). After clearing Floor 82: Asuna lake ring, Silica shopping, Lisbeth Relation Ore (80F hidden research prison, NM Darkness Ruler), Sinon bow test, Yui event."
+    },
+    {
+      "n": 8,
+      "title": "Floor 83: Kingdom Bandits",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_83",
+        "Lab_83",
+        "Boss_83"
+      ],
+      "achievement_ids": [
+        365768,
+        365770,
+        365771,
+        365772,
+        365773,
+        365774,
+        365775,
+        365776
+      ],
+      "fact_ids": [
+        "sk1-95-25",
+        "sk1-102-20",
+        "sk1-21-1",
+        "sk1-102-21",
+        "xneo1-1-18",
+        "sk1-21-4",
+        "sk1-21-5",
+        "sk1-22-17",
+        "sk1-95-24",
+        "wiki1-12-10",
+        "sk1-22-3",
+        "sk1-22-4",
+        "sk1-22-1",
+        "sk1-21-2",
+        "sk1-21-3",
+        "wiki7-12-4",
+        "wiki7-13-4"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Fear Tree NM, Wise Demon Settlement 1-2 keys (Survivor: the room trap in Agile Monsters 2 is not described by the guides; clear Settlement 2 including the Goblin King room), Kingdom Bandits interrupt mission, Furious Horn. Kirito level 120 has no sourced timing. After clearing Floor 83: Asuna scenic-spot event and ask Agil to build the log house, Silica nap, Leafa fortune teller and sun pendant (83F), Yui iris flower."
+    },
+    {
+      "n": 9,
+      "title": "Floor 84: Dwell Devour",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_84",
+        "Boss_84"
+      ],
+      "achievement_ids": [
+        365778,
+        365779,
+        365780,
+        365781,
+        365783,
+        365867,
+        365868,
+        365870,
+        365871
+      ],
+      "fact_ids": [
+        "sk1-95-27",
+        "sk1-95-28",
+        "sk1-102-1",
+        "sk1-26-1",
+        "sk1-26-2",
+        "sk1-95-26",
+        "wiki1-12-3",
+        "sk1-25-6",
+        "sk1-25-7",
+        "sk1-25-8",
+        "wiki1-9-9",
+        "sk1-26-4",
+        "sk1-26-5",
+        "sk1-26-6",
+        "sk1-26-7",
+        "sk1-91-5",
+        "sk1-92-3",
+        "sk1-25-1",
+        "sk1-26-3",
+        "wiki7-13-2"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Unearthed Grotto 1 NM Mabethck, Dwell Devour (Strea joins on 2F-3F, no way back), Ant Queen. A commenter reports a freeze after the 84F boss with the translation patch - see open questions. After clearing Floor 84: Asuna to the log house on 83F (Ohh.......!), Silica big Pina (83F), Lisbeth holy fire in Unearthed Grotto 2 (Oh... I Really Feel Good...), Sinon battle event on Agil's stairs (daytime, alone) - \"Save Shinon\" is unverified and placed here as the best guess, Yui hot spring."
+    },
+    {
+      "n": 10,
+      "title": "Floor 85: Stream Grotto",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_85",
+        "Boss_85"
+      ],
+      "achievement_ids": [
+        365784,
+        365785,
+        365786,
+        365787,
+        365788,
+        365789,
+        365790,
+        365791,
+        365792,
+        365795,
+        365872
+      ],
+      "fact_ids": [
+        "sk1-30-1",
+        "xneo1-1-21",
+        "sk1-92-4",
+        "sk1-30-4",
+        "sk1-95-29",
+        "sk1-102-23",
+        "xneo1-1-22",
+        "sk1-95-30",
+        "sk1-31-7",
+        "sk1-95-31",
+        "sk1-31-1",
+        "sk1-31-19",
+        "sk1-31-2",
+        "sk1-31-3",
+        "sk1-31-4",
+        "sk1-31-5",
+        "sk1-93-2"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "General Orc, Sylvern pairs in Stream Grotto 1-3, Tri-Maelstrom. After clearing Floor 85: Asuna pair-look clothes, Silica thank-you, Lisbeth Vellund Hammer at the Hermit Residence (Oh, It's This!), Leafa sun pendant / NM Crescent Wing moon pendant (Onii-Chan...!) / dance on 83F, Yui swimsuit."
+    },
+    {
+      "n": 11,
+      "title": "Floor 86: Forgotten Tower",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_86",
+        "Lab_86",
+        "Boss_86"
+      ],
+      "achievement_ids": [
+        365793,
+        365794,
+        365796,
+        365797,
+        365799,
+        365865,
+        365873,
+        365874,
+        365875
+      ],
+      "fact_ids": [
+        "sk1-95-34",
+        "sk1-95-32",
+        "sk1-102-25",
+        "xneo1-1-24",
+        "sk1-95-33",
+        "sk1-33-8",
+        "sk1-33-9",
+        "sk1-34-1",
+        "sk1-34-2",
+        "sk1-34-3",
+        "sk1-34-4",
+        "sk1-91-4",
+        "sk1-91-902",
+        "sk1-93-901",
+        "sk1-92-6"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Forward Base of the Living Dead, Forgotten Tower, Skeleton King. After clearing Floor 86: Asuna Ritual of Blessing finale - NM Knight of Oath at Forward Base 1, wedding, Marriage Ring (Before the Gods, I Won't Look!); Lisbeth gives Remains Heart (Close... Close Your Eyes...); Sinon: Klein, Kirito's room quest, NM Scarlet Disaster at Forward Base 3F (Whoa! S... Shinon!); Yui console event."
+    },
+    {
+      "n": 12,
+      "title": "Floor 87: Stronghold",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_87",
+        "Lab_87",
+        "Boss_87"
+      ],
+      "achievement_ids": [
+        365798,
+        365800,
+        365801,
+        365802,
+        365876
+      ],
+      "fact_ids": [
+        "sk1-95-36",
+        "sk1-102-27",
+        "sk1-95-35",
+        "wiki1-12-5",
+        "sk1-36-1",
+        "sk1-36-34",
+        "wiki1-10-2",
+        "sk1-36-2",
+        "sk1-36-3",
+        "sk1-36-4",
+        "sk1-36-5",
+        "sk1-91-901"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Underground Crystal quest (87F lower layer crystal pillars), Stronghold, Radiance Eater. After clearing Floor 87: talk to the downcast Asuna, then by day take her to the 83F scenic spot (Kirito, O Rei Delas!); Lisbeth and Yui final events."
+    },
+    {
+      "n": 13,
+      "title": "Floor 88: Tenants' Work",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_88",
+        "Lab_88",
+        "Boss_88"
+      ],
+      "achievement_ids": [
+        365804,
+        365805,
+        365806,
+        365807,
+        365808,
+        365810
+      ],
+      "fact_ids": [
+        "sk1-37-5",
+        "wiki7-13-3",
+        "xneo1-2-3",
+        "sk1-95-37",
+        "sk1-95-38",
+        "sk1-102-29",
+        "sk1-95-39",
+        "sk1-38-1",
+        "sk1-38-35",
+        "sk1-38-3",
+        "sk1-38-4",
+        "sk1-38-7",
+        "sk1-38-8"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      }
+    },
+    {
+      "n": 14,
+      "title": "Floor 89: Temple Turbid",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_89",
+        "Boss_89"
+      ],
+      "achievement_ids": [
+        365809,
+        365811,
+        365812,
+        365813,
+        365814
+      ],
+      "fact_ids": [
+        "sk1-41-3",
+        "xneo1-2-6",
+        "sk1-41-901",
+        "sk1-95-40",
+        "sk1-102-31",
+        "xneo1-2-5",
+        "sk1-95-41",
+        "sk1-42-1",
+        "sk1-42-2",
+        "sk1-42-3",
+        "sk1-42-4",
+        "sk1-41-4",
+        "sk1-41-5",
+        "sk1-41-6"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "A Fonte Dos Desejos: reach the Floating Cloud Corridor (after the twin towers, from the Spring of Twin Streams); NM Blaze Armor is at its far end; Temple Turbid follows."
+    },
+    {
+      "n": 15,
+      "title": "Floor 90: Tower Monster",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_90",
+        "Boss_90"
+      ],
+      "achievement_ids": [
+        365817,
+        365818,
+        365819,
+        365820,
+        365821,
+        365822
+      ],
+      "fact_ids": [
+        "sk1-46-1",
+        "sk1-102-33",
+        "xneo1-2-7",
+        "sk1-47-1",
+        "sk1-95-42",
+        "sk1-102-2",
+        "wiki1-10-3",
+        "sk1-95-43",
+        "sk1-95-44",
+        "sk1-47-24",
+        "sk1-47-2",
+        "sk1-47-3",
+        "sk1-47-4"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      }
+    },
+    {
+      "n": 16,
+      "title": "Floor 91: Groto Enlighten",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_91",
+        "Boss_91"
+      ],
+      "achievement_ids": [
+        365823,
+        365824,
+        365826
+      ],
+      "fact_ids": [
+        "sk1-95-45",
+        "sk1-102-3",
+        "sk1-52-10",
+        "sk1-52-11",
+        "sk1-52-1",
+        "sk1-52-2",
+        "sk1-52-3",
+        "sk1-52-4"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      }
+    },
+    {
+      "n": 17,
+      "title": "Floor 92: Guardian Maze",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_92",
+        "Lab_92",
+        "Boss_92"
+      ],
+      "achievement_ids": [
+        365825,
+        365827,
+        365828,
+        365829,
+        365830
+      ],
+      "fact_ids": [
+        "sk1-95-46",
+        "sk1-56-1",
+        "xneo1-2-10",
+        "sk1-95-47",
+        "sk1-102-35",
+        "sk1-56-2",
+        "sk1-57-1",
+        "sk1-57-2",
+        "sk1-57-3",
+        "sk1-57-4",
+        "sk1-57-5",
+        "sk1-57-6"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      }
+    },
+    {
+      "n": 18,
+      "title": "Floor 93: Magic Building",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_93",
+        "Lab_93",
+        "Boss_93"
+      ],
+      "achievement_ids": [
+        365762,
+        365831,
+        365832,
+        365833,
+        365834
+      ],
+      "fact_ids": [
+        "ra-comments-57-1",
+        "ra-comments-57-2",
+        "ra-comments-57-3",
+        "ra-comments-57-4",
+        "sk1-61-2",
+        "sk1-62-3",
+        "xneo1-2-11",
+        "sk1-95-48",
+        "sk1-102-37",
+        "sk1-61-4",
+        "sk1-61-5",
+        "sk1-62-1",
+        "sk1-62-2",
+        "sk1-62-5",
+        "sk1-62-6"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Strea bond deadline: max Strea's bond in this chapter at the latest - finishing Floor 94 locks it out (RA comment). Buying snacks raises it quickly."
+    },
+    {
+      "n": 19,
+      "title": "Floor 94: Dark Knight",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_94",
+        "Lab_94",
+        "Boss_94"
+      ],
+      "achievement_ids": [
+        365835,
+        365836,
+        365837,
+        365838,
+        365839,
+        365840,
+        365841
+      ],
+      "fact_ids": [
+        "sk1-64-2",
+        "sk1-102-40",
+        "xneo1-2-12",
+        "sk1-64-1",
+        "sk1-102-39",
+        "sk1-95-49",
+        "sk1-95-50",
+        "sk1-64-3",
+        "sk1-64-4",
+        "sk1-64-5",
+        "ra-comments-134-1",
+        "ra-comments-134-2",
+        "ra-comments-134-3",
+        "ra-comments-134-4",
+        "sk1-65-1",
+        "sk1-65-4",
+        "sk1-65-5",
+        "sk1-65-6"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Inferno Sword / Heavenly Sword at Aged Treasure West / East. Perished Lives is a high-difficulty quest (50 points); the RA comments give the dodge pattern."
+    },
+    {
+      "n": 20,
+      "title": "Floor 95: Beast Master",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_95",
+        "Boss_95"
+      ],
+      "achievement_ids": [
+        365842,
+        365843,
+        365844,
+        365845,
+        365846
+      ],
+      "fact_ids": [
+        "sk1-95-52",
+        "sk1-95-53",
+        "sk1-95-54",
+        "sk1-102-41",
+        "wiki1-11-1",
+        "wiki1-11-4",
+        "sk1-69-15",
+        "sk1-69-16",
+        "sk1-69-17",
+        "sk1-69-18",
+        "sk1-69-1",
+        "sk1-69-2",
+        "sk1-69-4",
+        "sk1-69-5"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      }
+    },
+    {
+      "n": 21,
+      "title": "Floor 96: Hall Paladin",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_96",
+        "Lab_96",
+        "Boss_96"
+      ],
+      "achievement_ids": [
+        365847,
+        365848,
+        365849,
+        365850,
+        365851
+      ],
+      "fact_ids": [
+        "sk1-95-55",
+        "sk1-95-56",
+        "sk1-102-43",
+        "ra-comments-143-1",
+        "ra-comments-143-2",
+        "ra-comments-143-3",
+        "ra-comments-143-4",
+        "sk1-72-23",
+        "sk1-72-24",
+        "sk1-72-25",
+        "sk1-72-2",
+        "sk1-72-3",
+        "sk1-72-4",
+        "sk1-72-5"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Thrill of the Giant Spider is a high-difficulty quest: cancelling it at NPC Kirby before turning it in lets the Crimson Spinner be fought again."
+    },
+    {
+      "n": 22,
+      "title": "Floor 97: Death King",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_97",
+        "Lab_97",
+        "Boss_97"
+      ],
+      "achievement_ids": [
+        365803,
+        365815,
+        365852,
+        365853,
+        365854,
+        365855,
+        365856
+      ],
+      "fact_ids": [
+        "wiki7-12-4",
+        "wiki7-13-4",
+        "wiki7-13-5",
+        "sk1-95-59",
+        "sk1-95-58",
+        "sk1-102-4",
+        "xneo1-2-15",
+        "ra-comments-148-1",
+        "ra-comments-148-2",
+        "ra-comments-148-3",
+        "ra-comments-148-4",
+        "sk1-76-1",
+        "sk1-76-14",
+        "sk1-76-2",
+        "sk1-76-3",
+        "sk1-76-4",
+        "sk1-76-5"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Kirito level 130 and 140: use the high-difficulty NM farming method - accept Saw The Dragon's Figure, trap the Inferno Dragon in Death King 1F, cancel at NPC Kirby and re-accept to repeat, about 38400 EXP per kill near Lv.130; turn the quest in only after level 140."
+    },
+    {
+      "n": 23,
+      "title": "Floor 98: Trial of Ruby / Ruby Site",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_98",
+        "Lab_98",
+        "Boss_98"
+      ],
+      "achievement_ids": [
+        365745,
+        365746,
+        365747,
+        365748,
+        365749,
+        365761,
+        365782,
+        365857,
+        365858,
+        365859,
+        365860
+      ],
+      "fact_ids": [
+        "wiki5-11-3",
+        "xneo1-3-3",
+        "xneo1-3-4",
+        "wiki5-12-1",
+        "wiki5-12-2",
+        "wiki5-13-1",
+        "wiki5-13-2",
+        "wiki5-12-3",
+        "wiki5-12-4",
+        "wiki5-13-3",
+        "wiki5-13-4",
+        "wiki5-13-5",
+        "wiki5-14-1",
+        "wiki5-14-2",
+        "ra-comments-151-1",
+        "sk1-79-3",
+        "sk1-79-4",
+        "sk1-80-1",
+        "sk1-80-2",
+        "sk1-80-3",
+        "sk1-80-4",
+        "sk1-80-5",
+        "sk1-81-1",
+        "sk1-81-2",
+        "sk1-81-3",
+        "sk1-81-4"
+      ],
+      "counters": {
+        "Floors cleared": 1,
+        "Floor chest sweeps": 1
+      },
+      "notes": "Hell Walls, Trial of Ruby, Ruby Site, Hollow Avatar. Last chance before the boss rush: finish every bond achievement (Asuna, Silica, Leafa, Lisbeth, Sinon, Yui, Klein rank) and every quest still open."
+    },
+    {
+      "n": 24,
+      "title": "Floors 99 and 100: The Final Battles and Asuna Ending",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_99",
+        "Boss_99",
+        "Floor_100",
+        "Boss_100"
+      ],
+      "achievement_ids": [
+        365861,
+        365877
+      ],
+      "fact_ids": [
+        "sk1-88-1",
+        "sk1-88-2",
+        "sk1-88-3",
+        "sk1-88-4",
+        "wiki8-7-1"
+      ],
+      "counters": {
+        "Floors cleared": 2,
+        "Floor chest sweeps": 0
+      },
+      "notes": "Floor 99 boss rush (no dungeon) and the Floor 100 Ruby Palace final battles; the ending follows the partner chosen. Before starting Floor 99, save and keep that save: it is reloaded in chapter 25. That save must already have every non-ending achievement (all bonds, all chest sweeps, all quests, Kirito Lv.140). Take Asuna for the Asuna ending here."
+    },
+    {
+      "n": 25,
+      "title": "The Other Five Endings",
+      "areas": [
+        "Arc_Sophia",
+        "Floor_100",
+        "Boss_100"
+      ],
+      "achievement_ids": [
+        370240,
+        365878,
+        365879,
+        365880,
+        365881
+      ],
+      "fact_ids": [
+        "wiki8-7-1"
+      ],
+      "counters": {
+        "Floors cleared": 0,
+        "Floor chest sweeps": 0
+      },
+      "notes": "Reload the chapter-24 save and repeat the Floor 99-100 battles once per remaining heroine: Silica, Lisbeth, Leafa, Sinon. The Yui ending condition is not given by any source - see open questions."
+    }
+  ],
+  "unverifiable_achievement_ids": [
+    365862,
+    365866,
+    365867
+  ],
+  "open_questions": [
+    {
+      "question": "Do the character-episode tiers (\"N層まで攻略\") open when Floor N is reached or when it is cleared?",
+      "guidance": "Do each tier's events after defeating Floor N's boss; they are listed at the end of that floor's chapter. If one has not triggered yet, continue and retry after the next boss.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "question": "How is the Yui ending (Long Time No See, Papa, Mama...) reached, and can one pre-Floor-99 save be reloaded for every ending?",
+      "guidance": "Unconfirmed. The route keeps a save from before Floor 99 and reloads it once per heroine. Max Yui's bond before that save. If the Yui ending does not come from any partner choice, a further playthrough may be needed.",
+      "chapters": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "question": "Does the English/Portuguese translation patch freeze after the Floor 84 boss?",
+      "guidance": "One commenter reports it. Keep a separate save from before the Ant Queen fight; if the game freezes, continue from that save without the patch. Never overwrite your only save before this boss.",
+      "chapters": [
+        9
+      ]
+    },
+    {
+      "question": "At what point does Kirito reach levels 100, 110 and 120 in normal play?",
+      "guidance": "No source says. They unlock automatically; the chapters follow the set order. If not reached by chapter 22, finish them with the Inferno Dragon farming method there.",
+      "chapters": [
+        1,
+        5,
+        8,
+        22
+      ]
+    },
+    {
+      "question": "Which events trigger \"You Should Be Feeling Warmer By Now\", \"Hehe...\", \"Wow L-Liz!\" and \"... I'm Sorry For Causing You Trouble.\"?",
+      "guidance": "Not identified in the guides. Do every character episode and hidden event as it unlocks (Agil's shop, Kirito's room, the plaza and the shopping street, both by day and by night). One RA commenter says \"Hehe...\" did not pop on a story cutscene in a second playthrough.",
+      "chapters": [
+        1,
+        4,
+        9
+      ]
+    },
+    {
+      "question": "What is the room trap for \"Survivor\" in Agile Monsters 2 (Wise Demon Settlement 2)?",
+      "guidance": "The guides describe the keys and the Goblin King room but no trap by name. Clear every room of Settlement 2 and defeat everything that locks you in.",
+      "chapters": [
+        8
+      ]
+    },
+    {
+      "question": "Protect the Farm Crop and The Poisonous Spider: 8 or 10 kills?",
+      "guidance": "The guides disagree. Kill 10 of each target; extra kills are harmless.",
+      "chapters": [
+        1
+      ]
+    }
+  ]
+}
