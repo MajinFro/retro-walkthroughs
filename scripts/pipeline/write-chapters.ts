@@ -5,7 +5,8 @@
  *
  * Default: every chapter file that does not exist yet (overview + 1..N). Name chapters to limit the run;
  * --force rewrites chapters that already exist.
- * --fix: runs rw:assemble + rw:qa, then revises every chapter with QA errors (or score-affecting warnings),
+ * --fix: runs rw:assemble + rw:qa, then revises every chapter with QA errors (with --warnings, also chapters
+ *        that only have score-affecting warnings),
  *        plus, with --note "<finding>", the named chapters for a review finding QA cannot see;
  *        sending the current draft, its QA findings and the packet. Use it instead of fixing chapters by hand.
  *
@@ -95,6 +96,15 @@ if (fixMode) {
       else qaFindings.delete(t);
       if (keep.length < list.length) skippedWarnings += list.length - keep.length;
     }
+  // Chapters with only warnings are rewritten only with --warnings. In 91470 one stale citation triggered a pass
+  // that rewrote 13 chapters (0.64M tokens, 14% of the run) for warnings, and blind readers saw no difference
+  // against a run without it. A chapter that has an error still gets its warnings in the same call.
+  if (!flag("warnings"))
+    for (const [t, list] of qaFindings)
+      if (!list.some((f) => !f.startsWith("WARNING:"))) {
+        skippedWarnings += list.length;
+        qaFindings.delete(t);
+      }
 }
 // --note "<review finding>": an adversarial-review finding QA cannot detect, applied to the named chapters
 const note = flag("note");
@@ -271,7 +281,7 @@ const resumed = Object.keys(pending).filter((t) => all.includes(t) && !targets.i
 for (const t of Object.keys(pending)) if (!resumed.includes(t)) delete pending[t]; // rewritten now, or gone
 
 console.log(`Stage 8 writing for game ${id}: ${targets.length ? targets.map(fileOf).join(", ") : "nothing to do"}`);
-if (skippedWarnings) console.log(`  ${skippedWarnings} warning(s) skipped: an earlier --fix pass already tried them (add --force to retry)`);
+if (skippedWarnings) console.log(`  ${skippedWarnings} warning(s) not revised: chapters with only warnings need --warnings, warnings an earlier --fix pass tried need --force`);
 if (!targets.length && !resumed.length) {
   savePending();
   console.log(fixMode ? "✅ No chapter has QA errors or untried score-affecting warnings." : "All chapter files exist (use --force or name chapters to rewrite).");

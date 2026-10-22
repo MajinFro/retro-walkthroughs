@@ -153,7 +153,7 @@ if (exists(P.roadmap)) {
         if (seenLock.has(k)) continue;
         seenLock.add(k);
         rWarn.push(
-          `return trip: ${f.location} is visited only in chapter(s) ${visits.join(", ")}, but ${name} (chapter ${got}) opens part of it ("${(f.text ?? "").slice(0, 90)}" [${f.id}]) — add ${f.location} to the areas of chapter ${got} or later so that content is written, or say in the early chapter when to come back`,
+          `return trip: ${f.location} is visited only in chapter(s) ${visits.join(", ")}, but ${name} (chapter ${got}) opens part of it ("${(f.text ?? "").slice(0, 90)}" [${f.id}]) — add ${f.location} to the areas of an existing chapter from ${got} on (never a new chapter just for this) so that content is written, or say in the early chapter when to come back`,
         );
       }
     }
