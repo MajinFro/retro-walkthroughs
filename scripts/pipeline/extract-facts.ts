@@ -45,7 +45,7 @@ import {
 const MAX_BATCH_CHARS = 16_000;
 const MAX_BATCH_CHUNKS = 8;
 const MAX_MAP_BATCH = 40; // map sources are one tiny chunk each
-const FOCUS_MIN_CHARS = 60_000; // was 100k: 70-93k secondary walkthroughs (1470 gf4, 1471 gf3/gf5, 1984 gf2) ran in full mode
+const FOCUS_MIN_CHARS = 100_000; // 60k was tried (91470): the focused 93k gf4 lost 6 of 9 Charlock B7F facts
 
 const id = gameIdArg();
 const P = paths(id);
@@ -64,7 +64,7 @@ const sourceById = new Map(sources.map((s) => [s.id, s]));
 // ---------------------------------------------------------------------------
 // The primary guide is extracted in full: the one marked "primary": true in sources.json, else the largest
 // guide. (It used to be the first one registered: 22488's 126k floor-by-floor walkthrough ran focused behind
-// a 21k wiki page, 1470's 144k guide behind an 85k one.) Other full walkthroughs of 60k+ mostly repeat it,
+// a 21k wiki page, 1470's 144k guide behind an 85k one.) Other full walkthroughs of 100k+ mostly repeat it,
 // so they get the focused prompt; checklists are lists of exactly what focused mode keeps, and stay full.
 const guides = sources.filter((s) => s.kind === "guide");
 const primaryGuide = (guides.find((s) => (s as { primary?: boolean }).primary) ?? [...guides].sort((a, b) => (b.chars ?? 0) - (a.chars ?? 0))[0])?.id;

@@ -9,7 +9,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { achievementMermaid, chapterMermaid, chapterTitle, type Graph, progressionMermaid, type Roadmap } from "./graph.ts";
+import { achievementMermaid, chapterMermaid, chapterTitle, type Graph, nodeChapter, progressionMermaid, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -144,7 +144,9 @@ const bosses = graph.nodes.filter((n) => n.kind === "boss");
 if (bosses.length) {
   L.push("## Boss Index", "", "Full strategies are in each chapter.", "", "| Boss | Chapter |", "|---|---|");
   for (const b of bosses) {
-    const ch = roadmap.chapters.find((c) => c.areas.includes(b.id) || graph.edges.some((e) => (e.to === b.id && c.areas.includes(e.from)) || (e.from === b.id && c.areas.includes(e.to))));
+    const direct = roadmap.chapters.find((c) => c.areas.includes(b.id) || graph.edges.some((e) => (e.to === b.id && c.areas.includes(e.from)) || (e.from === b.id && c.areas.includes(e.to))));
+    const near = direct ? null : nodeChapter(graph, roadmap, b.id);
+    const ch = direct ?? (near ? roadmap.chapters.find((c) => c.n === near.n) : undefined);
     L.push(`| ${b.label} | ${ch ? `[${ch.n}. ${chapterTitle(ch)}](${anchor(ch.n)})` : "—"} |`);
   }
   L.push("");

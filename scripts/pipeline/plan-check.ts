@@ -4,7 +4,7 @@
  *   npx tsx scripts/pipeline/plan-check.ts <gameId>
  */
 import path from "node:path";
-import { achievementMermaid, chapterMermaid, duplicateMap, type Graph, packetFactIds, progressionMermaid, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
+import { achievementMermaid, chapterMermaid, duplicateMap, type Graph, nodeChapter, packetFactIds, progressionMermaid, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -116,6 +116,47 @@ if (exists(P.roadmap)) {
         (keyLost.length ? ` Key facts among them: ${keyLost.slice(0, 12).map((f) => f.id).join(", ")}${keyLost.length > 12 ? " …" : ""}.` : "") +
         ` Place what a chapter needs: add its location as an alias of a chapter area, or its id to that chapter's fact_ids in 07_roadmap.json; reference lists (bestiary, rosters) may stay out.`,
     );
+  }
+
+  // Bosses the Boss Index can only reach through other bosses or items (91470: Hargon five steps from any area)
+  const farBosses = graph.nodes.filter((n) => n.kind === "boss").filter((b) => (nodeChapter(graph, roadmap!, b.id)?.steps ?? 99) > 1);
+  if (farBosses.length)
+    rWarn.push(`${farBosses.length} boss node(s) are not in a chapter's areas or next to one: ${farBosses.map((b) => b.id).join(", ")} — add each to the areas of the chapter where it is fought, or link it to that area`);
+
+  // Return trips: a place the route visits only before the key that opens part of it (91470: Leftwyne's
+  // Silver Door lottery sat in chapter 1, the Silver Key came in chapter 2, and no chapter went back).
+  {
+    const chaptersOfPlace = new Map<string, number[]>();
+    for (const c of roadmap.chapters)
+      for (const a of c.areas) {
+        const k = canon(aliases, nodeById.get(a)?.label);
+        if (k) chaptersOfPlace.set(k, [...(chaptersOfPlace.get(k) ?? []), c.n]);
+      }
+    // each key name once, at the earliest chapter it is obtained (1984 has one Tetrad node per chapter)
+    const firstChapter = new Map<string, number>();
+    for (const n of graph.nodes.filter((x) => x.kind === "key_item" || /\bkey\b/i.test(x.label))) {
+      const got = nodeChapter(graph, roadmap, n.id)?.n;
+      const name = n.label.replace(/\s*\(.*\)$/, "").trim();
+      if (got !== undefined && got < (firstChapter.get(name) ?? Infinity)) firstChapter.set(name, got);
+    }
+    const seenLock = new Set<string>();
+    for (const [name, got] of firstChapter) {
+      const key = { id: name };
+      // a lock word shortly before the key's name: "locked ... requires the Silver Key", "door ... opened with the Golden Key"
+      const esc = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const lockRe = new RegExp(`\\b(locked|lock|door|doors|requires?|needs?|opened|opens?|unlocks?)\\b[^.]{0,40}\\b${esc}\\b`, "i");
+      for (const f of usableFacts) {
+        if (!f.location || f.status === "duplicate" || !lockRe.test(f.text ?? "")) continue;
+        const visits = chaptersOfPlace.get(canon(aliases, f.location)) ?? [];
+        if (!visits.length || visits.some((n) => n >= got)) continue;
+        const k = `${canon(aliases, f.location)}|${key.id}`;
+        if (seenLock.has(k)) continue;
+        seenLock.add(k);
+        rWarn.push(
+          `return trip: ${f.location} is visited only in chapter(s) ${visits.join(", ")}, but ${name} (chapter ${got}) opens part of it ("${(f.text ?? "").slice(0, 90)}" [${f.id}]) — add ${f.location} to the areas of chapter ${got} or later so that content is written, or say in the early chapter when to come back`,
+        );
+      }
+    }
   }
 
   // Achievement placement: an achievement whose supporting facts all sit in areas of OTHER chapters is probably in the wrong chapter

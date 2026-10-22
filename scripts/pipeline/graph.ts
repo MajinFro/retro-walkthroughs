@@ -151,6 +151,31 @@ export function collectibleMentionRe(counter: string): RegExp {
 const NODE_KINDS = new Set(["area", "boss", "npc", "item", "key_item", "quest", "achievement", "missable", "ponr", "save_point"]);
 const EDGE_KINDS = new Set(["leads_to", "requires", "unlocks", "contains", "missable_before"]);
 
+/**
+ * The chapter a node belongs to: the first chapter listing it as an area, else the chapter of the nearest node
+ * (following edges either way, up to maxSteps) that is one. Bosses linked only to keys or to other bosses
+ * (91470: Evil Clown <- Jailor's Key, Atlas -> Bazuzu -> Zarlox -> Hargon) got "—" in the Boss Index.
+ */
+export function nodeChapter(g: Graph, r: Roadmap, nodeId: string, maxSteps = 6): { n: number; steps: number } | null {
+  const chapterOf = new Map<string, number>();
+  for (const c of r.chapters) for (const a of c.areas) if (!chapterOf.has(a)) chapterOf.set(a, c.n);
+  const seen = new Set([nodeId]);
+  let frontier = [nodeId];
+  for (let steps = 0; steps <= maxSteps && frontier.length; steps++) {
+    const hits = frontier.filter((x) => chapterOf.has(x)).map((x) => chapterOf.get(x)!);
+    if (hits.length) return { n: Math.min(...hits), steps };
+    const next: string[] = [];
+    for (const e of g.edges)
+      for (const [a, b] of [[e.from, e.to], [e.to, e.from]] as const)
+        if (frontier.includes(a) && !seen.has(b)) {
+          seen.add(b);
+          next.push(b);
+        }
+    frontier = next;
+  }
+  return null;
+}
+
 /** Ids a graph, roadmap or chapter may reference: usable facts, plus duplicates (they resolve to the fact they merged into). */
 export function usableFactIds(facts: VerifiedFact[]): Set<string> {
   return new Set(facts.filter((f) => ["verified", "single_source", "resolved", "duplicate"].includes(f.status)).map((f) => f.id));
