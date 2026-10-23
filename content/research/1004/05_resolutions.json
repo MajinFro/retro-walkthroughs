@@ -1,0 +1,242 @@
+[
+  {
+    "fact_id": "gf-boss-1-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|erim|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-1-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|gades|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-1-5",
+    "resolution": "accept",
+    "rationale": "Gades is fought in Sheran (scripted loss) and again at the Doom Island fortress at the end. Different encounters, not contradictory."
+  },
+  {
+    "fact_id": "gf-boss-1-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|demon lords|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-1-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|goblins|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-1-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|apprentice|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-1-13",
+    "resolution": "accept",
+    "rationale": "gf1 lists no elemental weakness; gf-boss only recommends Mid Arrows as the strongest attack. A tactic, not a contradiction. Writers: no listed elemental weakness, Mid Arrows recommended."
+  },
+  {
+    "fact_id": "gf-boss-2-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantasm|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-2-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|follower|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-2-4",
+    "resolution": "accept",
+    "rationale": "gf-boss Bolt and gf4 Flash are both recommended spells; gf1 value is a location. Complementary."
+  },
+  {
+    "fact_id": "gf-boss-2-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|dark ghost|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-2-7",
+    "resolution": "accept",
+    "rationale": "Bolt (gf-boss) and Thunder (gf1) are both lightning spells; the gf2 value is a location. Agreeing claims."
+  },
+  {
+    "fact_id": "gf-boss-2-8",
+    "resolution": "accept",
+    "rationale": "gf-boss says at least level 20, gf4 says 25 or more. Both are author recommendations; the route uses the safer 25."
+  },
+  {
+    "fact_id": "gf-boss-2-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|guardian|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-3-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|bosun|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-3-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|oil dragon|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-3-7",
+    "resolution": "accept",
+    "rationale": "gf1 lists no elemental weakness; gf3 recommends Lufia's Sunder and gf-boss Jerin's Glacier as damage spells. Tactics, not contradictory weakness claims; all kept."
+  },
+  {
+    "fact_id": "gf-boss-3-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|nazeby|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-4-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|amon|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-4-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|daos|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-4-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|guard daos|countered by): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-4-14",
+    "resolution": "accept",
+    "rationale": "Lufia joins in Alekia after the first return from Sheran (gf2, gf4 agree on the sequence); gf-boss-4-14 is a different event (she joins for the final battle at the Fortress of Doom). Complementary."
+  },
+  {
+    "fact_id": "gf-boss-4-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|guard daos|weak to): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf-boss-4-16",
+    "resolution": "accept",
+    "rationale": "Fortress of Doom and Doom Island are the same final dungeon. Agreeing."
+  },
+  {
+    "fact_id": "gf-treasure-7-44",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|lufia|triggers): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-4-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|gades|weak to): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-4-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|amon|weak to): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-15-1",
+    "resolution": "accept",
+    "rationale": "gf1 lists no weakness; gf3 fact is a location. Not contradictory."
+  },
+  {
+    "fact_id": "gf1-26-7",
+    "resolution": "accept",
+    "rationale": "Cave North of Kirof is the Ghost Cave (aliased); the Phantasm is fought inside. Complementary."
+  },
+  {
+    "fact_id": "gf1-27-1",
+    "resolution": "accept",
+    "rationale": "gf1 value is the boss HP (657), gf3 value a location; no level contradiction."
+  },
+  {
+    "fact_id": "gf1-27-2",
+    "resolution": "accept",
+    "rationale": "gf1 names the Ghost Ring as the counter, gf3 says physical attacks work best. Complementary tactics; all kept."
+  },
+  {
+    "fact_id": "gf1-44-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|green jade|triggers): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-44-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|red sapphire|triggers): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-51-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|piron|triggers): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-53-24",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|miracle gem|sold at): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-55-2",
+    "resolution": "accept",
+    "rationale": "Both say visiting Bakku before the Tower of Light loses the Might Helmet. Agreeing."
+  },
+  {
+    "fact_id": "gf1-62-1",
+    "resolution": "accept",
+    "rationale": "All facts agree: the Tower of Light Might Helmet is lost if Bakku is visited first. Agreeing."
+  },
+  {
+    "fact_id": "gf1-81-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|falcon|triggers): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf1-86-1",
+    "resolution": "accept",
+    "rationale": "gf3 recommends physical attacks; gf1 fact is a location. Not contradictory."
+  },
+  {
+    "fact_id": "gf2-11-7",
+    "resolution": "accept",
+    "rationale": "Aguro joins in Treck (gf1, gf2, gf4); gf2-14-4 is him rejoining in Lorbenia after a story separation. Complementary."
+  },
+  {
+    "fact_id": "gf2-27-8",
+    "resolution": "accept",
+    "rationale": "Lost Forest and its Guide Station are the same place (aliased). Agreeing."
+  },
+  {
+    "fact_id": "gf2-39-7",
+    "resolution": "accept",
+    "rationale": "Odel Cave (gf3) is the Arus Cave bridge cave (aliased). Agreeing."
+  },
+  {
+    "fact_id": "gf2-42-8",
+    "resolution": "accept",
+    "rationale": "Old Cave 5th floor is a floor of the Old Cave. Agreeing at different precision."
+  },
+  {
+    "fact_id": "gf3-23-19",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|falcon|unlocks): the listed values are complementary details (different tactics, items, phases, encounters, or a location filed as the value), not contradictory claims; all facts kept."
+  },
+  {
+    "fact_id": "gf3-29-20",
+    "resolution": "accept",
+    "rationale": "Prologue fight at the Fortress of Doom and the Sheran encounter are different events. Complementary."
+  },
+  {
+    "fact_id": "gf3-5-14",
+    "resolution": "accept",
+    "rationale": "gf3 and gf4 agree he gives a Speed Potion; one fact left the object null. Agreeing."
+  },
+  {
+    "fact_id": "gf3-29-1",
+    "resolution": "reject",
+    "rationale": "gf3 alone says the Dragon offers a Might Armor. gf1 (gf1-81-8), gf2 (gf2-60-7, gf2-60-8) and gf4 (gf4-21-135) all list the four wishes as 2 levels for everyone, 3 of each stat potion, a Might Shield or a Might Bow. Might Armor comes from Fire/Flame Plate drops (gf3-23-1, ra-comments 41-x)."
+  },
+  {
+    "fact_id": "gf3-26-12",
+    "resolution": "reject",
+    "rationale": "Claims Might Bows and Might Armors are exclusive Dragon wishes. The Might Bow part matches gf1/gf2/gf4, but Might Armor is not a wish (gf1-81-8, gf2-60-8, gf4-21-135) and drops from Fire/Flame Plates (gf3-23-1, ra-comments). Rejected as a whole; the Might Bow wish stays supported by gf1-81-8, gf2-60-7, gf4-4-6."
+  }
+]

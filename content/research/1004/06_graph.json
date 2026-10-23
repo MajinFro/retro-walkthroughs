@@ -1,0 +1,3105 @@
+{
+  "nodes": [
+    {
+      "id": "Fortress_of_Doom",
+      "label": "Fortress of Doom",
+      "kind": "area",
+      "fact_ids": [
+        "gf-boss-1-1",
+        "gf-treasure-11-38",
+        "gf-treasure-11-39",
+        "gf-treasure-11-40",
+        "gf-treasure-11-41",
+        "gf-treasure-11-44"
+      ]
+    },
+    {
+      "id": "Gades_Prologue",
+      "label": "Gades (prologue)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-1-4",
+        "gf-boss-4-1",
+        "gf-boss-4-2",
+        "gf1-4-1",
+        "gf1-4-2",
+        "gf2-3-30"
+      ]
+    },
+    {
+      "id": "Amon_Prologue",
+      "label": "Amon (prologue)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-4-4",
+        "gf1-4-3",
+        "gf1-4-4",
+        "gf2-3-34",
+        "gf2-3-35",
+        "gf3-29-21"
+      ]
+    },
+    {
+      "id": "Erim",
+      "label": "Erim",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-1-3",
+        "gf1-4-5",
+        "gf1-4-6",
+        "gf2-3-37",
+        "gf2-3-38"
+      ]
+    },
+    {
+      "id": "Daos_Prologue",
+      "label": "Daos (prologue)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-4-7",
+        "gf-boss-4-8",
+        "gf-boss-4-9",
+        "gf2-3-40",
+        "gf2-3-41",
+        "gf3-29-22"
+      ]
+    },
+    {
+      "id": "Alekia",
+      "label": "Alekia",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-3-1",
+        "gf-shop-3-2",
+        "gf-shop-3-3",
+        "gf-shop-3-4",
+        "gf-shop-3-6",
+        "gf-shop-3-7"
+      ]
+    },
+    {
+      "id": "Chatam",
+      "label": "Chatam",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-6-2",
+        "gf1-6-3",
+        "gf1-6-4",
+        "gf1-9-3",
+        "gf2-5-5",
+        "gf2-5-6"
+      ]
+    },
+    {
+      "id": "Cave_North_of_Chatam",
+      "label": "Cave North of Chatam",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-5-29",
+        "gf-treasure-1-36",
+        "gf-treasure-1-37",
+        "gf3-2-2",
+        "gf4-5-28",
+        "gf4-5-30"
+      ]
+    },
+    {
+      "id": "Cave_to_Sheran",
+      "label": "Cave to Sheran",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-8-7",
+        "gf-treasure-1-38",
+        "gf-treasure-1-39",
+        "gf1-7-1",
+        "gf1-7-2",
+        "gf1-7-3"
+      ]
+    },
+    {
+      "id": "Sheran",
+      "label": "Sheran",
+      "kind": "area",
+      "fact_ids": [
+        "gf-boss-1-5",
+        "gf1-8-3",
+        "gf1-8-5",
+        "gf1-8-8",
+        "gf1-8-10",
+        "gf1-87-11"
+      ]
+    },
+    {
+      "id": "Gades_Sheran",
+      "label": "Gades (Sheran)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-1-5",
+        "gf4-5-49"
+      ]
+    },
+    {
+      "id": "Treck",
+      "label": "Treck",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-2-8",
+        "gf-treasure-2-14",
+        "gf1-10-1",
+        "gf1-10-2",
+        "gf1-10-3",
+        "gf1-10-4"
+      ]
+    },
+    {
+      "id": "East_Cave",
+      "label": "East Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-59",
+        "gf1-11-2",
+        "gf1-11-3",
+        "gf-treasure-2-15",
+        "gf-treasure-2-16",
+        "gf1-11-1"
+      ]
+    },
+    {
+      "id": "Guys_House",
+      "label": "Guy's House",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-12-2",
+        "gf1-12-3",
+        "gf2-9-17",
+        "gf-treasure-2-17",
+        "gf1-12-1",
+        "gf2-9-15"
+      ]
+    },
+    {
+      "id": "Demon_Lords",
+      "label": "Demon Lords",
+      "kind": "boss",
+      "fact_ids": [
+        "gf3-3-11",
+        "gf-boss-1-6",
+        "gf-boss-1-7",
+        "gf-boss-1-8",
+        "gf1-13-1",
+        "gf4-26-1"
+      ]
+    },
+    {
+      "id": "Cave_to_Maberia",
+      "label": "Cave to Maberia",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-14-3",
+        "gf1-14-4",
+        "gf1-14-5",
+        "gf1-14-6",
+        "gf2-92-29",
+        "gf3-4-3"
+      ]
+    },
+    {
+      "id": "Goblins",
+      "label": "Goblins",
+      "kind": "boss",
+      "fact_ids": [
+        "gf3-4-3",
+        "gf-boss-1-9",
+        "gf-boss-1-10",
+        "gf1-15-1",
+        "gf2-11-15",
+        "gf3-4-2"
+      ]
+    },
+    {
+      "id": "Lorbenia",
+      "label": "Lorbenia",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-16-2",
+        "gf1-16-3",
+        "gf1-16-4",
+        "gf-shop-5-1",
+        "gf-shop-5-2",
+        "gf-shop-5-3"
+      ]
+    },
+    {
+      "id": "Grenoble",
+      "label": "Grenoble",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-17-2",
+        "gf1-17-3",
+        "gf1-17-4",
+        "gf2-16-2",
+        "gf2-19-1",
+        "gf2-31-13"
+      ]
+    },
+    {
+      "id": "Old_Cave",
+      "label": "Old Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-60",
+        "gf1-59-2",
+        "gf1-60-6",
+        "gf3-5-3",
+        "gf3-6-2",
+        "gf-treasure-2-46"
+      ]
+    },
+    {
+      "id": "Old_Cave_2",
+      "label": "Old Cave 2nd Level",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-60",
+        "gf3-5-3",
+        "gf-treasure-2-46",
+        "gf-treasure-2-47",
+        "gf-treasure-2-48",
+        "gf-treasure-2-49"
+      ]
+    },
+    {
+      "id": "Old_Cave_3",
+      "label": "Old Cave 3rd Level",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-92-13",
+        "gf-treasure-3-1",
+        "gf-treasure-3-2",
+        "gf-treasure-3-3",
+        "gf-treasure-3-4",
+        "gf-treasure-3-5"
+      ]
+    },
+    {
+      "id": "Old_Cave_4",
+      "label": "Old Cave 4th Level",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-3-19",
+        "gf-treasure-3-20",
+        "gf-treasure-3-22",
+        "gf-treasure-3-36",
+        "gf-treasure-3-37",
+        "gf2-27-19"
+      ]
+    },
+    {
+      "id": "Old_Cave_5",
+      "label": "Old Cave 5th Level",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-3-45",
+        "gf-treasure-3-49",
+        "gf-treasure-3-50",
+        "gf-treasure-3-51",
+        "gf-treasure-3-52",
+        "gf-treasure-3-53"
+      ]
+    },
+    {
+      "id": "Old_Cave_6",
+      "label": "Old Cave 6th Level",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-4-1",
+        "gf-treasure-4-2",
+        "gf-treasure-4-3",
+        "gf-treasure-4-4",
+        "gf-treasure-4-5",
+        "gf-treasure-4-6"
+      ]
+    },
+    {
+      "id": "Old_Cave_7",
+      "label": "Old Cave 7th Level",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-4-33",
+        "gf-treasure-4-34",
+        "gf-treasure-4-36",
+        "gf-treasure-4-37",
+        "gf-treasure-4-38",
+        "gf-treasure-4-39"
+      ]
+    },
+    {
+      "id": "Fairy_Kiss",
+      "label": "Fairy Kiss",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-treasure-2-58",
+        "gf1-18-17",
+        "gf1-18-18",
+        "gf2-15-9",
+        "gf3-5-8",
+        "gf4-21-13"
+      ]
+    },
+    {
+      "id": "Northwest_Tower",
+      "label": "Northwest Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-19-2",
+        "gf1-19-3",
+        "gf1-19-4",
+        "gf1-19-5",
+        "gf1-19-6",
+        "gf1-19-7"
+      ]
+    },
+    {
+      "id": "Apprentice",
+      "label": "Apprentice",
+      "kind": "boss",
+      "fact_ids": [
+        "gf4-26-3",
+        "gf4-8-15",
+        "gf-boss-1-11",
+        "gf-boss-1-12",
+        "gf-boss-1-13",
+        "gf1-20-1"
+      ]
+    },
+    {
+      "id": "Kirof",
+      "label": "Kirof",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-4-72",
+        "gf-treasure-4-74",
+        "gf-treasure-4-75",
+        "gf-treasure-4-76",
+        "gf-treasure-4-77",
+        "gf-treasure-4-78"
+      ]
+    },
+    {
+      "id": "Medan",
+      "label": "Medan",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-5-2",
+        "gf-treasure-5-3",
+        "gf-treasure-5-4",
+        "gf-treasure-5-5",
+        "gf-treasure-5-31",
+        "gf3-6-8"
+      ]
+    },
+    {
+      "id": "Ghost_Cave",
+      "label": "Ghost Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-boss-2-2",
+        "gf-treasure-5-8",
+        "gf-treasure-5-13",
+        "gf-treasure-5-14",
+        "gf-treasure-5-15",
+        "gf-treasure-5-17"
+      ]
+    },
+    {
+      "id": "Phantasm",
+      "label": "Phantasm",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-2-2",
+        "gf-boss-2-1",
+        "gf1-27-1",
+        "gf1-27-2",
+        "gf1-27-3",
+        "gf1-27-4"
+      ]
+    },
+    {
+      "id": "Medan_Mine",
+      "label": "Medan Mine",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-41",
+        "gf-treasure-6-42",
+        "gf-treasure-6-43",
+        "gf-treasure-6-45",
+        "gf1-42-2",
+        "gf1-42-3"
+      ]
+    },
+    {
+      "id": "Cave_East_of_Medan",
+      "label": "Cave East of Medan",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-21-22",
+        "gf2-21-23",
+        "gf1-27-11",
+        "gf2-21-24",
+        "ra-comments-50-12"
+      ]
+    },
+    {
+      "id": "Belgen",
+      "label": "Belgen",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-51",
+        "gf-treasure-5-34",
+        "gf-treasure-5-35",
+        "gf-treasure-5-36",
+        "gf-treasure-5-38",
+        "gf-treasure-5-39"
+      ]
+    },
+    {
+      "id": "Southwest_Cave",
+      "label": "Southwest Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-53",
+        "gf-treasure-5-41",
+        "gf-treasure-5-42",
+        "gf-treasure-5-43",
+        "gf-treasure-5-44",
+        "gf-treasure-5-45"
+      ]
+    },
+    {
+      "id": "Dais_Key",
+      "label": "Dais Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-treasure-5-54",
+        "gf1-30-17"
+      ]
+    },
+    {
+      "id": "Cave_to_Dais",
+      "label": "Cave to Dais",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-5-56",
+        "gf-treasure-5-57",
+        "gf-treasure-5-58",
+        "gf-treasure-5-60",
+        "gf-treasure-5-61",
+        "gf-treasure-5-62"
+      ]
+    },
+    {
+      "id": "Dais",
+      "label": "Dais",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-24-12",
+        "gf2-24-13",
+        "gf2-24-14",
+        "gf2-24-15",
+        "map-dais-1-1"
+      ]
+    },
+    {
+      "id": "North_Tower",
+      "label": "North Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-5-66",
+        "gf-treasure-5-67",
+        "gf-treasure-5-68",
+        "gf-treasure-5-69",
+        "gf-treasure-5-70",
+        "gf-treasure-5-71"
+      ]
+    },
+    {
+      "id": "Follower",
+      "label": "Follower",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-35-2",
+        "gf2-24-32",
+        "gf-boss-2-3",
+        "gf-boss-2-4",
+        "gf-boss-2-5",
+        "gf1-35-1"
+      ]
+    },
+    {
+      "id": "Surinagal",
+      "label": "Surinagal",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-9-1",
+        "gf-shop-9-2",
+        "gf-shop-9-3",
+        "gf-shop-9-4",
+        "gf-shop-9-5",
+        "gf-shop-9-6"
+      ]
+    },
+    {
+      "id": "Lost_Forest_Guide_Station",
+      "label": "Lost Forest Guide Station",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-8",
+        "gf-treasure-6-9",
+        "gf-treasure-6-10",
+        "gf2-27-8",
+        "gf1-36-1",
+        "gf1-36-5"
+      ]
+    },
+    {
+      "id": "Lost_Forest",
+      "label": "Lost Forest",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-36-6",
+        "gf1-36-7",
+        "gf1-36-8",
+        "gf1-36-9",
+        "gf2-28-1",
+        "gf2-28-2"
+      ]
+    },
+    {
+      "id": "Jenoba",
+      "label": "Jenoba",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-10-1",
+        "gf-shop-10-2",
+        "gf-shop-10-3",
+        "gf-shop-10-4",
+        "gf-shop-10-5",
+        "gf-shop-10-7"
+      ]
+    },
+    {
+      "id": "Blue_Tower",
+      "label": "Blue Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-17",
+        "gf-treasure-6-18",
+        "gf-treasure-6-19",
+        "gf-treasure-6-20",
+        "gf-treasure-6-22",
+        "gf1-39-4"
+      ]
+    },
+    {
+      "id": "Green_Tower",
+      "label": "Green Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-24",
+        "gf-treasure-6-25",
+        "gf-treasure-6-26",
+        "gf-treasure-6-27",
+        "gf-treasure-6-28",
+        "gf1-40-2"
+      ]
+    },
+    {
+      "id": "Ruan",
+      "label": "Ruan",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-33",
+        "gf-treasure-6-34",
+        "gf-treasure-6-37",
+        "gf-treasure-6-38",
+        "gf1-41-1",
+        "gf1-41-4"
+      ]
+    },
+    {
+      "id": "Red_Sapphire",
+      "label": "Red Sapphire",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-treasure-6-46",
+        "gf1-42-5",
+        "gf1-44-8",
+        "gf2-33-4",
+        "gf4-11-34"
+      ]
+    },
+    {
+      "id": "Red_Tower",
+      "label": "Red Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-48",
+        "gf-treasure-6-49",
+        "gf-treasure-6-50",
+        "gf-treasure-6-51",
+        "gf-treasure-6-52",
+        "gf-treasure-6-53"
+      ]
+    },
+    {
+      "id": "Dark_Ghost",
+      "label": "Dark Ghost",
+      "kind": "boss",
+      "fact_ids": [
+        "gf-boss-2-6",
+        "gf-boss-2-7",
+        "gf-boss-2-8",
+        "gf1-44-1",
+        "gf2-32-9",
+        "gf2-32-10"
+      ]
+    },
+    {
+      "id": "Elfrea",
+      "label": "Elfrea",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-11-4",
+        "gf-shop-11-5",
+        "gf-shop-11-6",
+        "gf-shop-11-7",
+        "gf-shop-11-9",
+        "gf-shop-11-12"
+      ]
+    },
+    {
+      "id": "Ranqs",
+      "label": "Ranqs",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-12-1",
+        "gf-shop-12-2",
+        "gf-shop-12-3",
+        "gf-shop-12-4",
+        "gf-shop-12-5",
+        "gf-shop-12-6"
+      ]
+    },
+    {
+      "id": "Odel_Tunnel",
+      "label": "Odel Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "map-cave-east-of-ranqs-1-1",
+        "gf1-47-2",
+        "gf1-47-3",
+        "gf2-35-4",
+        "gf2-35-5",
+        "gf3-13-4"
+      ]
+    },
+    {
+      "id": "Odel",
+      "label": "Odel",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-6-72",
+        "gf-treasure-6-77",
+        "gf-treasure-7-1",
+        "gf1-48-1",
+        "gf1-48-2",
+        "gf1-48-3"
+      ]
+    },
+    {
+      "id": "Lyden",
+      "label": "Lyden",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-14-2",
+        "gf-shop-14-4",
+        "gf-treasure-11-61",
+        "gf-treasure-7-9",
+        "gf-treasure-7-10",
+        "gf-treasure-7-11"
+      ]
+    },
+    {
+      "id": "Arus_Cave",
+      "label": "Arus Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-7-16",
+        "gf-treasure-7-18",
+        "gf-treasure-7-20",
+        "gf-treasure-7-22",
+        "gf-treasure-7-23",
+        "gf-treasure-7-27"
+      ]
+    },
+    {
+      "id": "Arus",
+      "label": "Arus",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-52-14",
+        "gf1-52-15",
+        "gf-shop-14-8",
+        "gf-shop-14-9",
+        "gf-shop-14-10",
+        "gf-shop-14-11"
+      ]
+    },
+    {
+      "id": "Tower_of_Grief",
+      "label": "Tower of Grief",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-7-39",
+        "gf-treasure-7-40",
+        "gf-treasure-7-41",
+        "gf-treasure-7-42",
+        "gf1-54-1",
+        "gf1-54-2"
+      ]
+    },
+    {
+      "id": "Platina",
+      "label": "Platina",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-7-2",
+        "gf-treasure-7-3",
+        "gf-treasure-7-4",
+        "gf1-49-3",
+        "gf1-49-1",
+        "gf1-49-2"
+      ]
+    },
+    {
+      "id": "Falcon",
+      "label": "Falcon",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-81-7",
+        "gf2-40-20",
+        "gf2-47-7",
+        "gf2-54-7",
+        "gf2-58-4",
+        "gf2-60-5"
+      ]
+    },
+    {
+      "id": "Carbis",
+      "label": "Carbis",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-55-1",
+        "gf1-73-6",
+        "gf1-55-2",
+        "gf1-55-3",
+        "gf1-55-4",
+        "gf1-55-5"
+      ]
+    },
+    {
+      "id": "Forfeit",
+      "label": "Forfeit",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-7-50",
+        "gf1-56-2",
+        "gf1-56-4",
+        "gf2-42-19",
+        "gf2-42-20",
+        "gf2-42-21"
+      ]
+    },
+    {
+      "id": "Tower_of_Light",
+      "label": "Tower of Light",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-7-77",
+        "gf1-57-9",
+        "gf1-57-10",
+        "gf1-57-13",
+        "gf2-43-16",
+        "gf2-43-18"
+      ]
+    },
+    {
+      "id": "Might_Helmet",
+      "label": "Might Helmet (Tower of Light roof)",
+      "kind": "missable",
+      "fact_ids": [
+        "gf-treasure-7-77",
+        "gf1-57-12",
+        "gf1-62-1",
+        "gf4-13-17",
+        "ra-comments-22-1",
+        "ra-comments-22-3"
+      ]
+    },
+    {
+      "id": "Bakku",
+      "label": "Bakku",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-15-1",
+        "gf-shop-15-2",
+        "gf-shop-15-3",
+        "gf-shop-15-4",
+        "gf-shop-15-5",
+        "gf-shop-15-6"
+      ]
+    },
+    {
+      "id": "Guardian",
+      "label": "Guardian",
+      "kind": "boss",
+      "fact_ids": [
+        "gf4-14-5",
+        "gf-boss-2-9",
+        "gf1-63-1",
+        "gf2-43-28",
+        "gf2-43-29",
+        "gf2-43-30"
+      ]
+    },
+    {
+      "id": "Light_Key",
+      "label": "Light Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf4-14-4",
+        "gf1-63-3",
+        "gf2-43-35",
+        "gf3-17-4"
+      ]
+    },
+    {
+      "id": "Linze",
+      "label": "Linze",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-17-1",
+        "gf-shop-17-2",
+        "gf-shop-17-3",
+        "gf-shop-17-4",
+        "gf-shop-17-5",
+        "gf-shop-17-6"
+      ]
+    },
+    {
+      "id": "Gayas_Island_Cave",
+      "label": "Gayas Island Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-8-11",
+        "gf-treasure-8-14",
+        "gf-treasure-8-15",
+        "gf-treasure-8-17",
+        "gf-treasure-8-20",
+        "gf-treasure-8-21"
+      ]
+    },
+    {
+      "id": "Cave_to_Marse",
+      "label": "Cave to Marse",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-54",
+        "gf1-65-19",
+        "gf3-19-19",
+        "gf3-26-18",
+        "gf4-15-4",
+        "map-cave-to-marse-1-1"
+      ]
+    },
+    {
+      "id": "Marse",
+      "label": "Marse",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-18-1",
+        "gf-shop-18-2",
+        "gf-shop-18-3",
+        "gf-shop-18-4",
+        "gf-shop-18-5",
+        "gf-shop-18-8"
+      ]
+    },
+    {
+      "id": "Loire_Island_Cave",
+      "label": "Loire Island Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-8-36",
+        "gf-treasure-8-39",
+        "gf-treasure-8-42",
+        "gf-treasure-8-45",
+        "gf-treasure-8-46",
+        "gf-treasure-8-48"
+      ]
+    },
+    {
+      "id": "Elba_Ulupp_Caves",
+      "label": "Elba & Ulupp Island Caves",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-55",
+        "gf-treasure-8-65",
+        "gf-treasure-8-66",
+        "gf-treasure-8-68",
+        "gf-treasure-8-70",
+        "gf-treasure-8-71"
+      ]
+    },
+    {
+      "id": "Herat",
+      "label": "Herat",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-19-7",
+        "gf-shop-19-8",
+        "gf-shop-19-9",
+        "gf-shop-19-10",
+        "gf-shop-19-11",
+        "gf-shop-19-12"
+      ]
+    },
+    {
+      "id": "Herat_Castle",
+      "label": "Herat Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-17-1",
+        "gf4-17-2",
+        "gf4-17-3",
+        "gf4-17-4",
+        "gf4-17-5",
+        "gf4-17-6"
+      ]
+    },
+    {
+      "id": "Purple_Newt_Cave",
+      "label": "Purple Newt Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-62",
+        "gf1-71-3",
+        "gf1-71-4",
+        "gf1-71-6",
+        "gf1-71-7",
+        "gf1-71-9"
+      ]
+    },
+    {
+      "id": "Purple_Newt",
+      "label": "Purple Newt",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf4-16-5",
+        "gf-treasure-9-33",
+        "gf2-52-26",
+        "gf3-22-1"
+      ]
+    },
+    {
+      "id": "Aisen_Tower",
+      "label": "Aisen Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-72-7",
+        "gf1-72-8",
+        "gf1-72-9",
+        "gf1-72-10",
+        "gf1-72-11",
+        "gf1-72-13"
+      ]
+    },
+    {
+      "id": "Bosun",
+      "label": "Bosun",
+      "kind": "boss",
+      "fact_ids": [
+        "gf4-26-8",
+        "gf-boss-3-2",
+        "gf3-23-15",
+        "gf4-17-30"
+      ]
+    },
+    {
+      "id": "Soshette",
+      "label": "Soshette",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-20-1",
+        "gf-shop-20-2",
+        "gf-shop-20-3",
+        "gf-shop-20-4",
+        "gf-shop-20-5",
+        "gf-shop-20-6"
+      ]
+    },
+    {
+      "id": "Under_Ring_Island",
+      "label": "Under Ring Island",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-9-68",
+        "gf-treasure-9-74",
+        "gf-treasure-10-1",
+        "gf-treasure-10-2",
+        "gf-treasure-10-3",
+        "gf-treasure-10-5"
+      ]
+    },
+    {
+      "id": "Doom_Island",
+      "label": "Doom Island",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-89-4",
+        "gf1-90-4",
+        "gf2-56-23",
+        "gf2-64-14",
+        "gf2-64-15",
+        "gf4-20-10"
+      ]
+    },
+    {
+      "id": "Dual_Blade",
+      "label": "Dual Blade",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-56-23",
+        "gf2-71-3",
+        "gf4-23-3",
+        "gf-treasure-10-11",
+        "gf1-76-1",
+        "gf1-92-8"
+      ]
+    },
+    {
+      "id": "Epro",
+      "label": "Epro",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-21-17",
+        "gf-shop-21-18",
+        "gf-shop-21-19",
+        "gf-shop-21-20",
+        "gf-shop-21-21",
+        "gf-shop-21-22"
+      ]
+    },
+    {
+      "id": "East_Lagoon",
+      "label": "East Lagoon",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-10-17",
+        "gf-treasure-10-18",
+        "gf-treasure-10-19",
+        "gf-treasure-10-21",
+        "gf-treasure-10-23",
+        "gf1-78-1"
+      ]
+    },
+    {
+      "id": "Oil_Cave",
+      "label": "Oil Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-10-32",
+        "gf-treasure-10-41",
+        "gf-treasure-10-43",
+        "gf1-79-2",
+        "gf1-79-3",
+        "gf1-79-7"
+      ]
+    },
+    {
+      "id": "Oil_Dragon",
+      "label": "Oil Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf4-18-34",
+        "gf-boss-3-5",
+        "gf-boss-3-7",
+        "gf1-80-1",
+        "gf1-80-2",
+        "gf3-25-32"
+      ]
+    },
+    {
+      "id": "Power_Oil",
+      "label": "Power Oil",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf-treasure-10-43",
+        "gf2-58-34",
+        "gf3-25-34",
+        "gf4-18-32"
+      ]
+    },
+    {
+      "id": "Frederia",
+      "label": "Frederia",
+      "kind": "area",
+      "fact_ids": [
+        "gf-shop-22-7",
+        "gf-shop-22-8",
+        "gf-shop-22-9",
+        "gf-shop-22-10",
+        "gf-shop-22-11",
+        "gf-shop-22-12"
+      ]
+    },
+    {
+      "id": "Dragon_Shrine",
+      "label": "Dragon Shrine",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-81-8",
+        "gf1-81-9",
+        "gf1-87-1",
+        "gf1-87-10",
+        "gf2-60-5",
+        "gf2-60-6"
+      ]
+    },
+    {
+      "id": "Arubus",
+      "label": "Arubus",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-82-3",
+        "gf1-82-4",
+        "gf1-82-5",
+        "gf-shop-23-1",
+        "gf-shop-23-2",
+        "gf-shop-23-3"
+      ]
+    },
+    {
+      "id": "Cave_North_of_Glasdar",
+      "label": "Cave North of Glasdar",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-83-5",
+        "gf1-83-6",
+        "gf1-83-7",
+        "gf1-83-8",
+        "gf1-83-9",
+        "gf1-83-10"
+      ]
+    },
+    {
+      "id": "Glasdar_Key",
+      "label": "Glasdar Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-83-21",
+        "gf-treasure-10-64",
+        "gf1-84-24",
+        "gf2-61-27",
+        "gf3-27-13"
+      ]
+    },
+    {
+      "id": "Cave_to_Glasdar_Tower",
+      "label": "Cave to Glasdar Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-1",
+        "gf-treasure-11-2",
+        "gf-treasure-11-4",
+        "gf-treasure-11-5",
+        "gf-treasure-11-6",
+        "gf-treasure-11-8"
+      ]
+    },
+    {
+      "id": "Glasdar_Tower",
+      "label": "Glasdar Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf-treasure-11-17",
+        "gf-treasure-11-18",
+        "gf-treasure-11-20",
+        "gf-treasure-11-21",
+        "gf-treasure-11-22",
+        "gf-treasure-11-24"
+      ]
+    },
+    {
+      "id": "Nazeby",
+      "label": "Nazeby",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-86-2",
+        "gf2-63-14",
+        "gf-boss-3-8",
+        "gf-boss-3-9",
+        "gf-boss-3-10",
+        "gf-boss-3-11"
+      ]
+    },
+    {
+      "id": "Gades_Final",
+      "label": "Gades (Doom Island)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-64-14",
+        "gf4-20-10",
+        "gf1-89-1"
+      ]
+    },
+    {
+      "id": "Amon_Final",
+      "label": "Amon (Doom Island)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-89-4",
+        "gf2-64-15",
+        "gf1-89-3"
+      ]
+    },
+    {
+      "id": "Daos_Final",
+      "label": "Daos (Doom Island)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf4-20-12",
+        "gf4-26-13",
+        "gf1-5-1",
+        "gf1-90-1"
+      ]
+    },
+    {
+      "id": "Guard_Daos",
+      "label": "Guard Daos",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-90-4",
+        "gf-boss-4-11",
+        "gf-boss-4-12",
+        "gf-boss-4-15",
+        "gf-boss-4-16",
+        "gf1-90-3"
+      ]
+    },
+    {
+      "id": "Ach_196711",
+      "label": "First Encounter",
+      "kind": "achievement",
+      "achievement_id": 196711
+    },
+    {
+      "id": "Ach_196718",
+      "label": "And So It Begins...",
+      "kind": "achievement",
+      "achievement_id": 196718
+    },
+    {
+      "id": "Ach_196717",
+      "label": "Lufia",
+      "kind": "achievement",
+      "achievement_id": 196717
+    },
+    {
+      "id": "Ach_196719",
+      "label": "Sheran Rescue",
+      "kind": "achievement",
+      "achievement_id": 196719
+    },
+    {
+      "id": "Ach_196720",
+      "label": "Imminent Defeat",
+      "kind": "achievement",
+      "achievement_id": 196720
+    },
+    {
+      "id": "Ach_196721",
+      "label": "Aguro",
+      "kind": "achievement",
+      "achievement_id": 196721
+    },
+    {
+      "id": "Ach_196722",
+      "label": "Demon Horde",
+      "kind": "achievement",
+      "achievement_id": 196722
+    },
+    {
+      "id": "Ach_196723",
+      "label": "Goblin Horde",
+      "kind": "achievement",
+      "achievement_id": 196723
+    },
+    {
+      "id": "Ach_187954",
+      "label": "Fairy Kiss",
+      "kind": "achievement",
+      "achievement_id": 187954
+    },
+    {
+      "id": "Ach_196724",
+      "label": "Artea's Apprentice",
+      "kind": "achievement",
+      "achievement_id": 196724
+    },
+    {
+      "id": "Ach_196725",
+      "label": "The Exorcist",
+      "kind": "achievement",
+      "achievement_id": 196725
+    },
+    {
+      "id": "Ach_196726",
+      "label": "Amon's Follower",
+      "kind": "achievement",
+      "achievement_id": 196726
+    },
+    {
+      "id": "Ach_196727",
+      "label": "Jerin",
+      "kind": "achievement",
+      "achievement_id": 196727
+    },
+    {
+      "id": "Ach_196728",
+      "label": "Who You Gonna Call?",
+      "kind": "achievement",
+      "achievement_id": 196728
+    },
+    {
+      "id": "Ach_187955",
+      "label": "The Elven Village",
+      "kind": "achievement",
+      "achievement_id": 187955
+    },
+    {
+      "id": "Ach_187957",
+      "label": "Building Bridges",
+      "kind": "achievement",
+      "achievement_id": 187957
+    },
+    {
+      "id": "Ach_187958",
+      "label": "All Aboard!",
+      "kind": "achievement",
+      "achievement_id": 187958
+    },
+    {
+      "id": "Ach_187956",
+      "label": "Mighty Intelligence",
+      "kind": "achievement",
+      "achievement_id": 187956
+    },
+    {
+      "id": "Ach_187966",
+      "label": "Escape Artist",
+      "kind": "achievement",
+      "achievement_id": 187966
+    },
+    {
+      "id": "Ach_196739",
+      "label": "World's Greatest",
+      "kind": "achievement",
+      "achievement_id": 196739
+    },
+    {
+      "id": "Ach_196730",
+      "label": "Guardian",
+      "kind": "achievement",
+      "achievement_id": 196730
+    },
+    {
+      "id": "Ach_187967",
+      "label": "Holes, Holes, and a Brant",
+      "kind": "achievement",
+      "achievement_id": 187967
+    },
+    {
+      "id": "Ach_187960",
+      "label": "We're Off to See the Wizard... Of Taste!",
+      "kind": "achievement",
+      "achievement_id": 187960
+    },
+    {
+      "id": "Ach_187968",
+      "label": "Riddle Me This...",
+      "kind": "achievement",
+      "achievement_id": 187968
+    },
+    {
+      "id": "Ach_196732",
+      "label": "For Freedom!",
+      "kind": "achievement",
+      "achievement_id": 196732
+    },
+    {
+      "id": "Ach_187969",
+      "label": "Under the Sea, Under the Sea",
+      "kind": "achievement",
+      "achievement_id": 187969
+    },
+    {
+      "id": "Ach_196734",
+      "label": "Sin Slayer",
+      "kind": "achievement",
+      "achievement_id": 196734
+    },
+    {
+      "id": "Ach_196735",
+      "label": "Power the Falcon",
+      "kind": "achievement",
+      "achievement_id": 196735
+    },
+    {
+      "id": "Ach_187970",
+      "label": "Soaring the Skies",
+      "kind": "achievement",
+      "achievement_id": 187970
+    },
+    {
+      "id": "Ach_187971",
+      "label": "The Glasdar Key",
+      "kind": "achievement",
+      "achievement_id": 187971
+    },
+    {
+      "id": "Ach_196736",
+      "label": "The Agent of Daos",
+      "kind": "achievement",
+      "achievement_id": 196736
+    },
+    {
+      "id": "Ach_196733",
+      "label": "One-Hundred Years",
+      "kind": "achievement",
+      "achievement_id": 196733
+    },
+    {
+      "id": "Ach_187959",
+      "label": "I Feel Like Having Dragon Eggs for Breakfast",
+      "kind": "achievement",
+      "achievement_id": 187959
+    },
+    {
+      "id": "Ach_187961",
+      "label": "Stronger Than the Sword of Legends",
+      "kind": "achievement",
+      "achievement_id": 187961
+    },
+    {
+      "id": "Ach_187964",
+      "label": "Elven Warfare",
+      "kind": "achievement",
+      "achievement_id": 187964
+    },
+    {
+      "id": "Ach_187962",
+      "label": "A Hero's Mightiest Shield",
+      "kind": "achievement",
+      "achievement_id": 187962
+    },
+    {
+      "id": "Ach_187963",
+      "label": "Armor of Might",
+      "kind": "achievement",
+      "achievement_id": 187963
+    },
+    {
+      "id": "Ach_187965",
+      "label": "The Black Market",
+      "kind": "achievement",
+      "achievement_id": 187965
+    },
+    {
+      "id": "Ach_196731",
+      "label": "Dragon's Wish",
+      "kind": "achievement",
+      "achievement_id": 196731
+    },
+    {
+      "id": "Ach_196712",
+      "label": "Heavy Pockets",
+      "kind": "achievement",
+      "achievement_id": 196712
+    },
+    {
+      "id": "Ach_196729",
+      "label": "Item Burden",
+      "kind": "achievement",
+      "achievement_id": 196729
+    },
+    {
+      "id": "Ach_196713",
+      "label": "Better Than a Knife",
+      "kind": "achievement",
+      "achievement_id": 196713
+    },
+    {
+      "id": "Ach_196714",
+      "label": "Level 5!",
+      "kind": "achievement",
+      "achievement_id": 196714
+    },
+    {
+      "id": "Ach_196715",
+      "label": "Level 25!",
+      "kind": "achievement",
+      "achievement_id": 196715
+    },
+    {
+      "id": "Ach_196716",
+      "label": "Level 50!",
+      "kind": "achievement",
+      "achievement_id": 196716
+    },
+    {
+      "id": "Ach_196738",
+      "label": "Treasure Seeker",
+      "kind": "achievement",
+      "achievement_id": 196738
+    },
+    {
+      "id": "Ach_196737",
+      "label": "Treasure Hunter",
+      "kind": "achievement",
+      "achievement_id": 196737
+    }
+  ],
+  "edges": [
+    {
+      "from": "Fortress_of_Doom",
+      "to": "Gades_Prologue",
+      "kind": "leads_to",
+      "label": "Bridge",
+      "fact_ids": [
+        "gf-boss-1-4",
+        "gf-boss-4-1"
+      ]
+    },
+    {
+      "from": "Gades_Prologue",
+      "to": "Amon_Prologue",
+      "kind": "leads_to",
+      "label": "Heal, go north",
+      "fact_ids": [
+        "gf-boss-4-4",
+        "gf1-4-3"
+      ]
+    },
+    {
+      "from": "Amon_Prologue",
+      "to": "Erim",
+      "kind": "leads_to",
+      "label": "Heal, continue",
+      "fact_ids": [
+        "gf-boss-1-3",
+        "gf1-4-5"
+      ]
+    },
+    {
+      "from": "Erim",
+      "to": "Daos_Prologue",
+      "kind": "leads_to",
+      "label": "Last Sinistral",
+      "fact_ids": [
+        "gf-boss-4-7",
+        "gf-boss-4-8"
+      ]
+    },
+    {
+      "from": "Daos_Prologue",
+      "to": "Alekia",
+      "kind": "leads_to",
+      "label": "99 years later",
+      "fact_ids": [
+        "gf2-4-33",
+        "gf2-4-34"
+      ]
+    },
+    {
+      "from": "Alekia",
+      "to": "Chatam",
+      "kind": "leads_to",
+      "label": "North",
+      "fact_ids": [
+        "gf2-4-37"
+      ]
+    },
+    {
+      "from": "Chatam",
+      "to": "Cave_North_of_Chatam",
+      "kind": "leads_to",
+      "label": "North entrance",
+      "fact_ids": [
+        "gf4-5-29",
+        "gf-treasure-1-36"
+      ]
+    },
+    {
+      "from": "Chatam",
+      "to": "Cave_to_Sheran",
+      "kind": "leads_to",
+      "label": "West entrance",
+      "fact_ids": [
+        "gf1-7-1",
+        "gf1-8-7"
+      ]
+    },
+    {
+      "from": "Cave_to_Sheran",
+      "to": "Sheran",
+      "kind": "leads_to",
+      "label": "West exit",
+      "fact_ids": [
+        "gf2-6-8",
+        "gf2-6-10"
+      ]
+    },
+    {
+      "from": "Sheran",
+      "to": "Gades_Sheran",
+      "kind": "leads_to",
+      "label": "Unwinnable battle",
+      "fact_ids": [
+        "gf-boss-1-5",
+        "gf4-5-49"
+      ]
+    },
+    {
+      "from": "Gades_Sheran",
+      "to": "Alekia",
+      "kind": "leads_to",
+      "label": "Wake in Alekia",
+      "fact_ids": [
+        "gf2-4-33",
+        "gf2-4-34"
+      ]
+    },
+    {
+      "from": "Alekia",
+      "to": "Treck",
+      "kind": "leads_to",
+      "label": "Via Chatam",
+      "fact_ids": [
+        "gf2-12-1",
+        "gf2-11-7"
+      ]
+    },
+    {
+      "from": "Treck",
+      "to": "East_Cave",
+      "kind": "leads_to",
+      "label": "East",
+      "fact_ids": [
+        "gf2-9-13",
+        "gf1-11-1"
+      ]
+    },
+    {
+      "from": "East_Cave",
+      "to": "Guys_House",
+      "kind": "leads_to",
+      "label": "Cave exit",
+      "fact_ids": [
+        "gf2-9-15",
+        "gf1-12-1"
+      ]
+    },
+    {
+      "from": "Treck",
+      "to": "Demon_Lords",
+      "kind": "leads_to",
+      "label": "Docks",
+      "fact_ids": [
+        "gf3-3-11",
+        "gf-boss-1-6"
+      ]
+    },
+    {
+      "from": "Demon_Lords",
+      "to": "Cave_to_Maberia",
+      "kind": "leads_to",
+      "label": "North cave",
+      "fact_ids": [
+        "gf4-6-13",
+        "gf3-4-3"
+      ]
+    },
+    {
+      "from": "Cave_to_Maberia",
+      "to": "Goblins",
+      "kind": "leads_to",
+      "label": "Ship ambush",
+      "fact_ids": [
+        "gf3-4-3",
+        "gf-boss-1-9"
+      ]
+    },
+    {
+      "from": "Goblins",
+      "to": "Lorbenia",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-14-5",
+        "gf2-14-1"
+      ]
+    },
+    {
+      "from": "Lorbenia",
+      "to": "Grenoble",
+      "kind": "leads_to",
+      "label": "Road",
+      "fact_ids": [
+        "gf2-14-5"
+      ]
+    },
+    {
+      "from": "Grenoble",
+      "to": "Old_Cave",
+      "kind": "leads_to",
+      "label": "Old Cave",
+      "fact_ids": [
+        "gf2-18-2",
+        "gf1-59-2"
+      ]
+    },
+    {
+      "from": "Old_Cave",
+      "to": "Old_Cave_2",
+      "kind": "contains",
+      "label": "Level 5 needed",
+      "fact_ids": [
+        "gf2-15-4",
+        "gf2-15-5"
+      ]
+    },
+    {
+      "from": "Old_Cave_2",
+      "to": "Fairy_Kiss",
+      "kind": "contains",
+      "label": "Women-only room",
+      "fact_ids": [
+        "gf2-15-9"
+      ]
+    },
+    {
+      "from": "Grenoble",
+      "to": "Northwest_Tower",
+      "kind": "leads_to",
+      "label": "Tower",
+      "fact_ids": [
+        "gf2-16-4"
+      ]
+    },
+    {
+      "from": "Northwest_Tower",
+      "to": "Apprentice",
+      "kind": "leads_to",
+      "label": "Top floor",
+      "fact_ids": [
+        "gf4-26-3",
+        "gf4-8-15"
+      ]
+    },
+    {
+      "from": "Old_Cave",
+      "to": "Old_Cave_3",
+      "kind": "contains",
+      "label": "Level 10 needed",
+      "fact_ids": [
+        "map-old-cave-3rd-level-1-1"
+      ]
+    },
+    {
+      "from": "Apprentice",
+      "to": "Kirof",
+      "kind": "leads_to",
+      "label": "Warp shrine",
+      "fact_ids": [
+        "gf2-19-2",
+        "gf2-19-8"
+      ]
+    },
+    {
+      "from": "Kirof",
+      "to": "Medan",
+      "kind": "leads_to",
+      "label": "Road",
+      "fact_ids": [
+        "gf2-19-8",
+        "gf2-20-7"
+      ]
+    },
+    {
+      "from": "Kirof",
+      "to": "Ghost_Cave",
+      "kind": "leads_to",
+      "label": "North cave",
+      "fact_ids": [
+        "gf2-20-10"
+      ]
+    },
+    {
+      "from": "Ghost_Cave",
+      "to": "Phantasm",
+      "kind": "leads_to",
+      "label": "Boss room",
+      "fact_ids": [
+        "gf-boss-2-2",
+        "gf1-26-7"
+      ]
+    },
+    {
+      "from": "Medan",
+      "to": "Medan_Mine",
+      "kind": "leads_to",
+      "label": "Mine",
+      "fact_ids": [
+        "gf2-31-8"
+      ]
+    },
+    {
+      "from": "Medan",
+      "to": "Cave_East_of_Medan",
+      "kind": "leads_to",
+      "label": "East",
+      "fact_ids": [
+        "gf2-21-21"
+      ]
+    },
+    {
+      "from": "Cave_East_of_Medan",
+      "to": "Belgen",
+      "kind": "leads_to",
+      "label": "Bridge guards",
+      "fact_ids": [
+        "gf2-21-24"
+      ]
+    },
+    {
+      "from": "Belgen",
+      "to": "Southwest_Cave",
+      "kind": "leads_to",
+      "label": "Southwest",
+      "fact_ids": [
+        "gf2-23-11"
+      ]
+    },
+    {
+      "from": "Southwest_Cave",
+      "to": "Dais_Key",
+      "kind": "contains",
+      "label": "Last chest",
+      "fact_ids": [
+        "gf-treasure-5-54",
+        "gf1-30-17"
+      ]
+    },
+    {
+      "from": "Dais_Key",
+      "to": "Cave_to_Dais",
+      "kind": "requires",
+      "label": "Opens the way",
+      "fact_ids": [
+        "gf2-24-11",
+        "gf1-32-13"
+      ]
+    },
+    {
+      "from": "Cave_to_Dais",
+      "to": "Dais",
+      "kind": "leads_to",
+      "label": "Cave exit",
+      "fact_ids": [
+        "gf2-24-11",
+        "gf1-32-13"
+      ]
+    },
+    {
+      "from": "Dais",
+      "to": "North_Tower",
+      "kind": "leads_to",
+      "label": "North",
+      "fact_ids": [
+        "gf2-24-15"
+      ]
+    },
+    {
+      "from": "North_Tower",
+      "to": "Follower",
+      "kind": "leads_to",
+      "label": "Top",
+      "fact_ids": [
+        "gf1-35-2",
+        "gf2-24-32"
+      ]
+    },
+    {
+      "from": "Follower",
+      "to": "Belgen",
+      "kind": "leads_to",
+      "label": "Return with Jerin",
+      "fact_ids": [
+        "gf2-23-11",
+        "gf2-26-3"
+      ]
+    },
+    {
+      "from": "Belgen",
+      "to": "Surinagal",
+      "kind": "leads_to",
+      "label": "Road",
+      "fact_ids": [
+        "gf2-26-3"
+      ]
+    },
+    {
+      "from": "Surinagal",
+      "to": "Lost_Forest_Guide_Station",
+      "kind": "leads_to",
+      "label": "Guide station",
+      "fact_ids": [
+        "gf2-27-7"
+      ]
+    },
+    {
+      "from": "Old_Cave",
+      "to": "Old_Cave_4",
+      "kind": "contains",
+      "label": "Level 15 needed",
+      "fact_ids": [
+        "gf2-27-13",
+        "map-old-cave-4th-level-1-1"
+      ]
+    },
+    {
+      "from": "Lost_Forest_Guide_Station",
+      "to": "Lost_Forest",
+      "kind": "leads_to",
+      "label": "Guide",
+      "fact_ids": [
+        "gf2-28-3",
+        "gf4-3-2"
+      ]
+    },
+    {
+      "from": "Lost_Forest",
+      "to": "Jenoba",
+      "kind": "leads_to",
+      "label": "Forest exit",
+      "fact_ids": [
+        "gf2-28-3"
+      ]
+    },
+    {
+      "from": "Jenoba",
+      "to": "Blue_Tower",
+      "kind": "leads_to",
+      "label": "Tower",
+      "fact_ids": [
+        "gf2-29-6"
+      ]
+    },
+    {
+      "from": "Jenoba",
+      "to": "Green_Tower",
+      "kind": "leads_to",
+      "label": "Tower",
+      "fact_ids": [
+        "gf2-29-15"
+      ]
+    },
+    {
+      "from": "Green_Tower",
+      "to": "Ruan",
+      "kind": "leads_to",
+      "label": "Road",
+      "fact_ids": [
+        "gf2-30-9"
+      ]
+    },
+    {
+      "from": "Ruan",
+      "to": "Medan_Mine",
+      "kind": "leads_to",
+      "label": "Return to mine",
+      "fact_ids": [
+        "gf4-26-4",
+        "gf-treasure-6-41"
+      ]
+    },
+    {
+      "from": "Medan_Mine",
+      "to": "Red_Sapphire",
+      "kind": "contains",
+      "label": "Old man",
+      "fact_ids": [
+        "gf-treasure-6-46",
+        "gf1-42-5"
+      ]
+    },
+    {
+      "from": "Old_Cave",
+      "to": "Old_Cave_5",
+      "kind": "contains",
+      "label": "Level 20 needed",
+      "fact_ids": [
+        "map-old-cave-5th-level-1-1",
+        "ra-comments-50-23"
+      ]
+    },
+    {
+      "from": "Red_Sapphire",
+      "to": "Red_Tower",
+      "kind": "requires",
+      "label": "Roof pedestal",
+      "fact_ids": [
+        "gf1-44-8",
+        "gf2-33-4"
+      ]
+    },
+    {
+      "from": "Red_Tower",
+      "to": "Dark_Ghost",
+      "kind": "leads_to",
+      "label": "Roof",
+      "fact_ids": [
+        "gf-boss-2-6",
+        "gf-boss-2-7"
+      ]
+    },
+    {
+      "from": "Dark_Ghost",
+      "to": "Elfrea",
+      "kind": "unlocks",
+      "label": "Three jewels placed",
+      "fact_ids": [
+        "gf1-44-8",
+        "gf2-32-12"
+      ]
+    },
+    {
+      "from": "Elfrea",
+      "to": "Ranqs",
+      "kind": "leads_to",
+      "label": "Sail/road",
+      "fact_ids": [
+        "gf2-34-5",
+        "gf2-35-3"
+      ]
+    },
+    {
+      "from": "Ranqs",
+      "to": "Odel_Tunnel",
+      "kind": "leads_to",
+      "label": "Tunnel",
+      "fact_ids": [
+        "gf2-35-3"
+      ]
+    },
+    {
+      "from": "Odel_Tunnel",
+      "to": "Odel",
+      "kind": "leads_to",
+      "label": "Tunnel exit",
+      "fact_ids": [
+        "gf2-35-5"
+      ]
+    },
+    {
+      "from": "Odel",
+      "to": "Lyden",
+      "kind": "leads_to",
+      "label": "Road",
+      "fact_ids": [
+        "gf2-36-11"
+      ]
+    },
+    {
+      "from": "Odel",
+      "to": "Arus_Cave",
+      "kind": "leads_to",
+      "label": "Bridge cave",
+      "fact_ids": [
+        "gf2-38-15",
+        "gf3-14-5"
+      ]
+    },
+    {
+      "from": "Arus_Cave",
+      "to": "Arus",
+      "kind": "leads_to",
+      "label": "Repaired bridge",
+      "fact_ids": [
+        "gf1-52-14",
+        "gf1-52-15"
+      ]
+    },
+    {
+      "from": "Old_Cave",
+      "to": "Old_Cave_6",
+      "kind": "contains",
+      "label": "Level 25 needed",
+      "fact_ids": [
+        "map-old-cave-6th-level-1-1",
+        "ra-comments-51-3"
+      ]
+    },
+    {
+      "from": "Arus",
+      "to": "Tower_of_Grief",
+      "kind": "leads_to",
+      "label": "Small cave east",
+      "fact_ids": [
+        "gf-treasure-7-44",
+        "gf1-54-8"
+      ]
+    },
+    {
+      "from": "Tower_of_Grief",
+      "to": "Platina",
+      "kind": "leads_to",
+      "label": "Warp",
+      "fact_ids": [
+        "gf1-54-9",
+        "gf2-40-20"
+      ]
+    },
+    {
+      "from": "Platina",
+      "to": "Falcon",
+      "kind": "unlocks",
+      "label": "Raile",
+      "fact_ids": [
+        "gf2-40-20",
+        "gf3-16-2"
+      ]
+    },
+    {
+      "from": "Falcon",
+      "to": "Carbis",
+      "kind": "leads_to",
+      "label": "Sail west",
+      "fact_ids": [
+        "gf2-54-7",
+        "gf3-23-19"
+      ]
+    },
+    {
+      "from": "Carbis",
+      "to": "Forfeit",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-42-14",
+        "gf2-43-12"
+      ]
+    },
+    {
+      "from": "Forfeit",
+      "to": "Tower_of_Light",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf1-56-5"
+      ]
+    },
+    {
+      "from": "Tower_of_Light",
+      "to": "Might_Helmet",
+      "kind": "contains",
+      "label": "Roof chest",
+      "fact_ids": [
+        "gf-treasure-7-77",
+        "gf1-57-12"
+      ]
+    },
+    {
+      "from": "Might_Helmet",
+      "to": "Bakku",
+      "kind": "missable_before",
+      "label": "Visit Bakku only after the helmet",
+      "fact_ids": [
+        "ra-comments-22-4"
+      ]
+    },
+    {
+      "from": "Tower_of_Light",
+      "to": "Bakku",
+      "kind": "leads_to",
+      "label": "Next town",
+      "fact_ids": [
+        "gf2-43-13",
+        "ra-comments-22-4"
+      ]
+    },
+    {
+      "from": "Old_Cave",
+      "to": "Old_Cave_7",
+      "kind": "contains",
+      "label": "Level 30 needed",
+      "fact_ids": [
+        "map-old-cave-7th-level-1-1",
+        "ra-comments-51-9"
+      ]
+    },
+    {
+      "from": "Bakku",
+      "to": "Guardian",
+      "kind": "leads_to",
+      "label": "Back to Tower of Light",
+      "fact_ids": [
+        "gf4-14-5",
+        "gf-boss-2-9"
+      ]
+    },
+    {
+      "from": "Guardian",
+      "to": "Light_Key",
+      "kind": "unlocks",
+      "label": "Chest",
+      "fact_ids": [
+        "gf3-17-4"
+      ]
+    },
+    {
+      "from": "Light_Key",
+      "to": "Linze",
+      "kind": "leads_to",
+      "label": "Next",
+      "fact_ids": [
+        "gf2-44-36",
+        "gf2-45-1"
+      ]
+    },
+    {
+      "from": "Linze",
+      "to": "Gayas_Island_Cave",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-44-36",
+        "gf2-45-25"
+      ]
+    },
+    {
+      "from": "Gayas_Island_Cave",
+      "to": "Cave_to_Marse",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf4-15-4",
+        "gf-treasure-11-54"
+      ]
+    },
+    {
+      "from": "Cave_to_Marse",
+      "to": "Marse",
+      "kind": "leads_to",
+      "label": "North",
+      "fact_ids": [
+        "gf2-47-5",
+        "gf2-47-6"
+      ]
+    },
+    {
+      "from": "Marse",
+      "to": "Loire_Island_Cave",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-47-5",
+        "gf2-47-7"
+      ]
+    },
+    {
+      "from": "Loire_Island_Cave",
+      "to": "Elba_Ulupp_Caves",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-48-1",
+        "gf2-48-7"
+      ]
+    },
+    {
+      "from": "Elba_Ulupp_Caves",
+      "to": "Herat",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-50-4",
+        "gf2-51-12"
+      ]
+    },
+    {
+      "from": "Herat",
+      "to": "Herat_Castle",
+      "kind": "contains",
+      "label": "Castle",
+      "fact_ids": [
+        "gf3-21-31",
+        "gf3-21-32"
+      ]
+    },
+    {
+      "from": "Herat",
+      "to": "Purple_Newt_Cave",
+      "kind": "leads_to",
+      "label": "East",
+      "fact_ids": [
+        "gf2-52-9",
+        "gf1-71-1"
+      ]
+    },
+    {
+      "from": "Purple_Newt_Cave",
+      "to": "Purple_Newt",
+      "kind": "contains",
+      "label": "Warp-pad chest",
+      "fact_ids": [
+        "gf4-16-5",
+        "gf-treasure-9-33"
+      ]
+    },
+    {
+      "from": "Purple_Newt",
+      "to": "Lyden",
+      "kind": "requires",
+      "label": "Wizard of Taste",
+      "fact_ids": [
+        "gf3-22-1"
+      ]
+    },
+    {
+      "from": "Herat",
+      "to": "Aisen_Tower",
+      "kind": "leads_to",
+      "label": "Aisen Island",
+      "fact_ids": [
+        "gf3-23-17",
+        "gf4-26-8"
+      ]
+    },
+    {
+      "from": "Aisen_Tower",
+      "to": "Bosun",
+      "kind": "leads_to",
+      "label": "Top floor",
+      "fact_ids": [
+        "gf4-26-8",
+        "gf-boss-3-2"
+      ]
+    },
+    {
+      "from": "Bosun",
+      "to": "Carbis",
+      "kind": "leads_to",
+      "label": "Submarine refit",
+      "fact_ids": [
+        "gf2-42-12",
+        "gf2-54-7"
+      ]
+    },
+    {
+      "from": "Carbis",
+      "to": "Soshette",
+      "kind": "leads_to",
+      "label": "Sail",
+      "fact_ids": [
+        "gf2-55-2",
+        "gf2-56-16"
+      ]
+    },
+    {
+      "from": "Soshette",
+      "to": "Under_Ring_Island",
+      "kind": "leads_to",
+      "label": "Eddies",
+      "fact_ids": [
+        "gf2-55-2",
+        "gf2-56-16"
+      ]
+    },
+    {
+      "from": "Under_Ring_Island",
+      "to": "Doom_Island",
+      "kind": "leads_to",
+      "label": "Fortress ruins",
+      "fact_ids": [
+        "gf2-56-21"
+      ]
+    },
+    {
+      "from": "Doom_Island",
+      "to": "Dual_Blade",
+      "kind": "contains",
+      "label": "Throne room",
+      "fact_ids": [
+        "gf2-56-23",
+        "gf-treasure-10-11"
+      ]
+    },
+    {
+      "from": "Dual_Blade",
+      "to": "Epro",
+      "kind": "leads_to",
+      "label": "Next",
+      "fact_ids": [
+        "gf2-58-4",
+        "gf1-77-17"
+      ]
+    },
+    {
+      "from": "Epro",
+      "to": "East_Lagoon",
+      "kind": "leads_to",
+      "label": "Underwater",
+      "fact_ids": [
+        "gf2-58-4"
+      ]
+    },
+    {
+      "from": "East_Lagoon",
+      "to": "Oil_Cave",
+      "kind": "leads_to",
+      "label": "Cave",
+      "fact_ids": [
+        "gf2-58-15",
+        "ra-comments-41-5"
+      ]
+    },
+    {
+      "from": "Oil_Cave",
+      "to": "Oil_Dragon",
+      "kind": "leads_to",
+      "label": "Boss",
+      "fact_ids": [
+        "gf4-18-34",
+        "gf-boss-3-5"
+      ]
+    },
+    {
+      "from": "Oil_Dragon",
+      "to": "Power_Oil",
+      "kind": "unlocks",
+      "label": "Chest",
+      "fact_ids": [
+        "gf3-25-34"
+      ]
+    },
+    {
+      "from": "Power_Oil",
+      "to": "Frederia",
+      "kind": "requires",
+      "label": "Raile refit",
+      "fact_ids": [
+        "gf2-59-1",
+        "gf1-81-7"
+      ]
+    },
+    {
+      "from": "Frederia",
+      "to": "Dragon_Shrine",
+      "kind": "leads_to",
+      "label": "Fly southwest of Herat",
+      "fact_ids": [
+        "gf2-60-5",
+        "gf1-87-10"
+      ]
+    },
+    {
+      "from": "Dragon_Shrine",
+      "to": "Arubus",
+      "kind": "leads_to",
+      "label": "Fly",
+      "fact_ids": [
+        "gf2-60-9",
+        "gf1-82-6"
+      ]
+    },
+    {
+      "from": "Arubus",
+      "to": "Cave_North_of_Glasdar",
+      "kind": "leads_to",
+      "label": "North cave",
+      "fact_ids": [
+        "gf2-61-10",
+        "gf1-83-18"
+      ]
+    },
+    {
+      "from": "Cave_North_of_Glasdar",
+      "to": "Glasdar_Key",
+      "kind": "contains",
+      "label": "Basement",
+      "fact_ids": [
+        "gf1-83-21",
+        "gf-treasure-10-64"
+      ]
+    },
+    {
+      "from": "Glasdar_Key",
+      "to": "Cave_to_Glasdar_Tower",
+      "kind": "requires",
+      "label": "South cave",
+      "fact_ids": [
+        "gf1-84-24"
+      ]
+    },
+    {
+      "from": "Cave_to_Glasdar_Tower",
+      "to": "Glasdar_Tower",
+      "kind": "leads_to",
+      "label": "Exit",
+      "fact_ids": [
+        "gf1-84-24",
+        "gf2-62-21"
+      ]
+    },
+    {
+      "from": "Glasdar_Tower",
+      "to": "Nazeby",
+      "kind": "leads_to",
+      "label": "Top floor",
+      "fact_ids": [
+        "gf1-86-2",
+        "gf2-63-14"
+      ]
+    },
+    {
+      "from": "Nazeby",
+      "to": "Dragon_Shrine",
+      "kind": "leads_to",
+      "label": "Egg quest",
+      "fact_ids": [
+        "gf2-60-5",
+        "gf1-87-10"
+      ]
+    },
+    {
+      "from": "Nazeby",
+      "to": "Doom_Island",
+      "kind": "leads_to",
+      "label": "Doom Island",
+      "fact_ids": [
+        "gf2-64-5",
+        "gf1-89-4"
+      ]
+    },
+    {
+      "from": "Doom_Island",
+      "to": "Gades_Final",
+      "kind": "leads_to",
+      "label": "Final fortress",
+      "fact_ids": [
+        "gf2-64-14",
+        "gf4-20-10"
+      ]
+    },
+    {
+      "from": "Gades_Final",
+      "to": "Amon_Final",
+      "kind": "leads_to",
+      "label": "Next",
+      "fact_ids": [
+        "gf1-89-4",
+        "gf2-64-15"
+      ]
+    },
+    {
+      "from": "Amon_Final",
+      "to": "Daos_Final",
+      "kind": "leads_to",
+      "label": "Next",
+      "fact_ids": [
+        "gf4-20-12",
+        "gf4-26-13"
+      ]
+    },
+    {
+      "from": "Daos_Final",
+      "to": "Guard_Daos",
+      "kind": "leads_to",
+      "label": "Final battle",
+      "fact_ids": [
+        "gf1-90-4",
+        "gf-boss-4-11"
+      ]
+    },
+    {
+      "from": "Fortress_of_Doom",
+      "to": "Ach_196711",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-3-1",
+        "gf2-4-1"
+      ]
+    },
+    {
+      "from": "Daos_Prologue",
+      "to": "Ach_196718",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-boss-1-1"
+      ]
+    },
+    {
+      "from": "Alekia",
+      "to": "Ach_196717",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-6-4",
+        "gf4-2-1"
+      ]
+    },
+    {
+      "from": "Sheran",
+      "to": "Ach_196719",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-7-1",
+        "gf2-6-8"
+      ]
+    },
+    {
+      "from": "Gades_Sheran",
+      "to": "Ach_196720",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-boss-1-5",
+        "gf1-9-1",
+        "gf2-6-10"
+      ]
+    },
+    {
+      "from": "Treck",
+      "to": "Ach_196721",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-11-7",
+        "gf4-6-8"
+      ]
+    },
+    {
+      "from": "Demon_Lords",
+      "to": "Ach_196722",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-3-11",
+        "gf-boss-1-6",
+        "gf1-13-1"
+      ]
+    },
+    {
+      "from": "Goblins",
+      "to": "Ach_196723",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-4-3",
+        "gf-boss-1-9",
+        "gf1-15-1"
+      ]
+    },
+    {
+      "from": "Fairy_Kiss",
+      "to": "Ach_187954",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-2-30",
+        "gf1-18-18",
+        "gf2-15-9"
+      ]
+    },
+    {
+      "from": "Apprentice",
+      "to": "Ach_196724",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-26-3",
+        "gf4-8-15",
+        "gf-boss-1-11"
+      ]
+    },
+    {
+      "from": "Phantasm",
+      "to": "Ach_196725",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-boss-2-2",
+        "gf-boss-2-1",
+        "gf1-27-1"
+      ]
+    },
+    {
+      "from": "Follower",
+      "to": "Ach_196726",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-35-2",
+        "gf2-24-32",
+        "gf-boss-2-3"
+      ]
+    },
+    {
+      "from": "North_Tower",
+      "to": "Ach_196727",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-27-8",
+        "gf1-36-5",
+        "gf3-9-5"
+      ]
+    },
+    {
+      "from": "Dark_Ghost",
+      "to": "Ach_196728",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-boss-2-6",
+        "gf1-44-1",
+        "gf2-32-9"
+      ]
+    },
+    {
+      "from": "Elfrea",
+      "to": "Ach_187955",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-6-22",
+        "gf-treasure-6-60",
+        "gf2-32-12"
+      ]
+    },
+    {
+      "from": "Arus_Cave",
+      "to": "Ach_187957",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-14-5",
+        "gf1-51-15",
+        "gf2-39-7"
+      ]
+    },
+    {
+      "from": "Falcon",
+      "to": "Ach_187958",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-54-9",
+        "gf2-40-20",
+        "gf3-16-2"
+      ]
+    },
+    {
+      "from": "Might_Helmet",
+      "to": "Ach_187956",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-7-77",
+        "gf2-92-4",
+        "gf1-57-12"
+      ]
+    },
+    {
+      "from": "Old_Cave_5",
+      "to": "Ach_187966",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-59-2",
+        "gf3-16-6",
+        "gf4-14-3"
+      ]
+    },
+    {
+      "from": "Old_Cave_7",
+      "to": "Ach_196739",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-27-19",
+        "gf3-19-1",
+        "gf-treasure-4-54"
+      ]
+    },
+    {
+      "from": "Guardian",
+      "to": "Ach_196730",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-14-4",
+        "gf4-14-5",
+        "gf-boss-2-9"
+      ]
+    },
+    {
+      "from": "Loire_Island_Cave",
+      "to": "Ach_187967",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-68-29",
+        "gf3-20-26",
+        "gf4-16-4"
+      ]
+    },
+    {
+      "from": "Purple_Newt",
+      "to": "Ach_187960",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-16-5",
+        "gf-treasure-9-33",
+        "gf2-52-26"
+      ]
+    },
+    {
+      "from": "Aisen_Tower",
+      "to": "Ach_187968",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-boss-3-1",
+        "gf1-72-15",
+        "gf2-54-19"
+      ]
+    },
+    {
+      "from": "Bosun",
+      "to": "Ach_196732",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-26-8",
+        "gf-boss-3-2",
+        "gf2-54-20"
+      ]
+    },
+    {
+      "from": "Under_Ring_Island",
+      "to": "Ach_187969",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-73-6",
+        "gf2-56-16",
+        "gf4-17-31"
+      ]
+    },
+    {
+      "from": "Dual_Blade",
+      "to": "Ach_196734",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-56-23",
+        "gf4-23-3",
+        "gf-treasure-10-11"
+      ]
+    },
+    {
+      "from": "Oil_Dragon",
+      "to": "Ach_196735",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-10-43",
+        "gf4-18-34",
+        "gf-boss-3-5"
+      ]
+    },
+    {
+      "from": "Frederia",
+      "to": "Ach_187970",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-81-7",
+        "gf3-26-5",
+        "gf4-18-35"
+      ]
+    },
+    {
+      "from": "Glasdar_Key",
+      "to": "Ach_187971",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-83-21",
+        "gf-treasure-10-64",
+        "gf2-61-27"
+      ]
+    },
+    {
+      "from": "Nazeby",
+      "to": "Ach_196736",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-86-2",
+        "gf2-63-14",
+        "gf-boss-3-8"
+      ]
+    },
+    {
+      "from": "Guard_Daos",
+      "to": "Ach_196733",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-90-4",
+        "gf4-20-12",
+        "gf-boss-4-16"
+      ]
+    },
+    {
+      "from": "Dragon_Shrine",
+      "to": "Ach_187959",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-11-53",
+        "gf-treasure-11-61",
+        "gf-treasure-5-13"
+      ]
+    },
+    {
+      "from": "East_Lagoon",
+      "to": "Ach_187961",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-23-5",
+        "ra-comments-38-5",
+        "gf1-60-1"
+      ]
+    },
+    {
+      "from": "Dragon_Shrine",
+      "to": "Ach_187964",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-81-8",
+        "gf1-87-10",
+        "gf2-60-7"
+      ]
+    },
+    {
+      "from": "Dragon_Shrine",
+      "to": "Ach_187962",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-81-8",
+        "gf1-87-10",
+        "gf2-60-8"
+      ]
+    },
+    {
+      "from": "East_Lagoon",
+      "to": "Ach_187963",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-92-16",
+        "gf3-23-1",
+        "gf3-29-12"
+      ]
+    },
+    {
+      "from": "Forfeit",
+      "to": "Ach_187965",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-56-3",
+        "gf3-16-4",
+        "gf4-13-16"
+      ]
+    },
+    {
+      "from": "Dragon_Shrine",
+      "to": "Ach_196731",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-11-51",
+        "gf-treasure-11-53",
+        "gf-treasure-11-54"
+      ]
+    },
+    {
+      "from": "East_Lagoon",
+      "to": "Ach_196712",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-91-1",
+        "gf1-95-32",
+        "gf4-6-15"
+      ]
+    },
+    {
+      "from": "Forfeit",
+      "to": "Ach_196729",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-45-1"
+      ]
+    },
+    {
+      "from": "Alekia",
+      "to": "Ach_196713",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-23-2",
+        "gf1-5-4",
+        "gf1-92-2"
+      ]
+    },
+    {
+      "from": "Treck",
+      "to": "Ach_196714",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-10-1",
+        "gf1-11-1",
+        "gf1-12-1"
+      ]
+    },
+    {
+      "from": "Old_Cave_6",
+      "to": "Ach_196715",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-38-2"
+      ]
+    },
+    {
+      "from": "East_Lagoon",
+      "to": "Ach_196716",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-2-6"
+      ]
+    },
+    {
+      "from": "Old_Cave_5",
+      "to": "Ach_196738",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-13-16",
+        "ra-comments-50-1",
+        "ra-comments-50-2"
+      ]
+    },
+    {
+      "from": "Aisen_Tower",
+      "to": "Ach_196737",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf-treasure-13-16",
+        "ra-comments-51-1",
+        "ra-comments-51-2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "beginner_friendliness": 96,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/16.md",
+      "line": 45,
+      "description": "Removed two citations to rejected fact gf3-29-1 (erroneous claim about Dragon wish granting Might Armor) in the Cave North of Glasdar Tower and Cave to Glasdar Tower Dragon Egg descriptions."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 38,
+      "description": "Removed two uncited chunk-reference notes ([[gf1#73 not cited]], [[gf1#75 not cited]]) in Chapter 13 and one malformed chunk citation ([[gf1#75]]) in Chapter 15."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 175,
+      "description": "Added missing VGMaps links in Chapters 3, 4, 6, and 7 (Cave East Of Ranqs Map, Old Cave 1st-7th Level Maps, and Cave North Of Glasdar Tower Map)."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 96,
+      "description": "Expanded sparse area sections in Chapter 2 (Cave to Sheran second pass), Chapter 5 (Kirof return), Chapter 6 (Old Cave), Chapter 7 (Red Sapphire and Old Cave), and Chapter 14 (Power Oil) with full step-by-step routing and prerequisites."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 63,
+      "description": "Aligned area headings in Chapter 10 (Might Helmet (Tower of Light roof)) and Chapter 15 (Elba & Ulupp Island Caves) with the roadmap labels and added the missing Chapter Checklist heading in Chapter 10."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 37,
+      "description": "Added source citations to uncited overview and Chapter 17 statements, removed drafting phrasing ('Packet sources do not state...'), fixed low-overlap citations across Chapters 1, 2, 3, 5, 8, 11, 12, and 14, and relabeled chest-overwrite/one-time item warnings so only the true roadmap missable uses 'Missable Warning'."
+    }
+  ]
+}

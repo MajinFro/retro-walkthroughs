@@ -1,0 +1,1021 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Turn-Based RPG",
+    "categories": [
+      {
+        "name": "Treasure chests",
+        "description": "Open every treasure chest in every town and dungeon, counted with TheJuice's RA chest checklist (637 chests; the game's own counter shows 655 opened boxes and 136 hidden items in gf-treasure's 100% save, so a few chests are not on the checklist).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Dragon Eggs and wishes",
+        "description": "Collect all 24 Dragon Eggs (three sets of 8) and make all three wishes at the Dragon Shrine.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Might equipment and side tasks",
+        "description": "Might Helmet (missable), Might Bow and Might Shield by wish, Might Sword and Might Armor by drops; Fairy Kiss, Old Cave floors and Crown Jewels, the Purple Newt, the Black Market.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "chests",
+      "dragon_eggs",
+      "sidequests"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough covers all 47 achievements. The only missable is the Might Helmet (go to the Tower of Light before Bakku). The three wishes do not exclude each other as long as the first two are the Might Bow and a Might Shield (three Might Shields lock out the bow, per an RA commenter). The Might Sword and Might Armor are random drops that can take hours; farm them in chapter 14 while Lufia is still in the party.",
+  "settings_notes": "Hardcore mode. No difficulty setting is involved. Chest counts follow TheJuice's checklist posted in the RA comments; the in-game counter (655) differs slightly.",
+  "fact_ids": [
+    "gf-treasure-13-16",
+    "ra-comments-50-26",
+    "ra-comments-51-28",
+    "ra-comments-3-5",
+    "gf1-17-5",
+    "gf4-21-135",
+    "gf1-2-2",
+    "gf1-2-3",
+    "gf1-2-4",
+    "gf1-2-5",
+    "ra-comments-1-2",
+    "ra-comments-4-1",
+    "ra-comments-4-3",
+    "gf1-94-11"
+  ],
+  "counter_totals": {
+    "Treasure Chests": 637,
+    "Dragon Eggs": 24
+  },
+  "missables": [
+    {
+      "achievement_id": 187956,
+      "label": "Might Helmet on the Tower of Light roof",
+      "deadline": "Before entering Bakku for the first time (chapter 10). Go to the Tower of Light straight after Carbis/Forfeit.",
+      "chapter": 10,
+      "fact_ids": [
+        "gf1-62-1",
+        "ra-comments-22-6",
+        "ra-comments-22-4",
+        "gf1-55-2",
+        "gf1-56-5",
+        "gf1-57-12"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Visiting Bakku",
+      "chapter": 10,
+      "warning": "Entering Bakku before taking the Might Helmet from the Tower of Light roof removes the helmet for good.",
+      "fact_ids": [
+        "ra-comments-22-6",
+        "gf1-55-2",
+        "gf1-62-1"
+      ]
+    },
+    {
+      "label": "Defeating Nazeby",
+      "chapter": 16,
+      "warning": "Lufia leaves the party until the final battle and the Dual Blade is lost; farming the Might drops gets harder.",
+      "fact_ids": [
+        "gf4-20-1",
+        "gf4-20-3"
+      ]
+    },
+    {
+      "label": "Defeating Daos on Doom Island",
+      "chapter": 18,
+      "warning": "After Daos you cannot leave the fortress or heal before Guard Daos, the final boss.",
+      "fact_ids": [
+        "gf-boss-4-6",
+        "gf-boss-4-10"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Prologue: The Fortress of Doom",
+      "areas": [
+        "Fortress_of_Doom",
+        "Gades_Prologue",
+        "Amon_Prologue",
+        "Erim",
+        "Daos_Prologue"
+      ],
+      "achievement_ids": [
+        196711,
+        196718
+      ],
+      "fact_ids": [
+        "gf-boss-1-1",
+        "gf2-3-1",
+        "gf-treasure-11-38",
+        "gf-treasure-11-39",
+        "gf-boss-1-4",
+        "gf-boss-4-1",
+        "gf-boss-4-2",
+        "gf-boss-4-4",
+        "gf1-4-3",
+        "gf1-4-4",
+        "gf-boss-1-3",
+        "gf1-4-5",
+        "gf1-4-6",
+        "gf-boss-4-7",
+        "gf-boss-4-8",
+        "gf-boss-4-9"
+      ],
+      "counters": {
+        "Treasure Chests": 0,
+        "Dragon Eggs": 0
+      },
+      "notes": "Maxim, Selan, Guy and Artea at about level 78-80 fight the four Sinistrals one at a time (Gades, Amon, Erim, Daos). Prologue items are not kept, so chests here are optional and are not in TheJuice's chest checklist. First Encounter should pop on the first battle won here (see open questions). Hydras roam this fortress: RA commenters (tn5421, Sanctos) got the Might Sword (187961) from a prologue Hydra, so a short hunt here is a free chance at it; the achievement itself is placed in chapter 14 where the reliable farm is."
+    },
+    {
+      "n": 2,
+      "title": "Alekia, Chatam and the Fall of Sheran",
+      "areas": [
+        "Alekia",
+        "Chatam",
+        "Cave_North_of_Chatam",
+        "Cave_to_Sheran",
+        "Sheran",
+        "Gades_Sheran"
+      ],
+      "achievement_ids": [
+        196713,
+        196720,
+        196717,
+        196719
+      ],
+      "fact_ids": [
+        "gf1-5-4",
+        "gf2-6-4",
+        "gf2-6-8",
+        "gf-boss-1-5",
+        "gf2-5-7",
+        "gf2-5-8",
+        "gf2-5-9",
+        "gf2-5-10",
+        "gf2-6-5",
+        "gf-shop-3-1",
+        "gf-shop-3-2",
+        "gf-shop-3-3",
+        "gf1-6-2",
+        "gf1-6-3",
+        "gf1-6-4",
+        "gf4-5-29",
+        "gf-treasure-1-36",
+        "gf-treasure-1-37",
+        "gf1-8-7",
+        "gf-treasure-1-38",
+        "gf-treasure-1-39",
+        "gf1-8-3",
+        "gf1-8-5",
+        "gf4-5-49"
+      ],
+      "counters": {
+        "Treasure Chests": 18,
+        "Dragon Eggs": 0
+      },
+      "notes": "Buy the Dagger (50 gold) at Alekia's weapon shop and equip it on the hero at once for Better Than a Knife. Loot Alekia Castle (4 chests, plus shelves such as the Revive behind the Commander). Chatam's north cave has 2 chests (200 Gold, Potion) and is blocked by rocks; the west cave leads to Sheran. In Sheran the hero is defeated by Gades in an unwinnable fight (Imminent Defeat) and wakes in Alekia; Lufia joins when you leave Alekia after talking to her. Return to Sheran Castle (12 chests) and free the King, Lilah and the other girl on the bottom floor (Sheran Rescue). Treasure counter uses TheJuice's RA checklist: Alekia Castle 4, Sheran north cave 2, Sheran Castle 12."
+    },
+    {
+      "n": 3,
+      "title": "Treck, Aguro and the Goblin Pirates",
+      "areas": [
+        "Treck",
+        "East_Cave",
+        "Guys_House",
+        "Demon_Lords",
+        "Cave_to_Maberia",
+        "Goblins",
+        "Lorbenia"
+      ],
+      "achievement_ids": [
+        196714,
+        196721,
+        196722,
+        196723
+      ],
+      "fact_ids": [
+        "gf1-10-1",
+        "gf2-11-7",
+        "gf-boss-1-6",
+        "gf-boss-1-9",
+        "gf2-11-9",
+        "gf2-11-10",
+        "gf2-11-12",
+        "gf2-11-13",
+        "gf2-11-14",
+        "gf-treasure-2-8",
+        "gf-treasure-2-14",
+        "gf-treasure-11-59",
+        "gf1-11-2",
+        "gf1-11-3",
+        "gf1-12-2",
+        "gf1-12-3",
+        "gf2-9-17",
+        "gf3-3-11",
+        "gf-boss-1-7",
+        "gf1-14-3",
+        "gf1-14-4",
+        "gf1-14-5",
+        "gf3-4-3",
+        "gf-boss-1-10",
+        "gf1-16-2",
+        "gf1-16-3",
+        "gf1-16-4"
+      ],
+      "counters": {
+        "Treasure Chests": 10,
+        "Dragon Eggs": 0
+      },
+      "notes": "Recommended level 5 here (gf1), so Level 5! pops on the way to Treck or in East Cave. East Cave (2 chests) leads to Guy's House. At the Treck docks, talking to Aguro triggers the four Demon Lords (Demon Horde); Aguro joins afterwards. The cave north of Treck (4 chests, Daze Ring) leads to the ship where three Goblins ambush the party (Goblin Horde). In Lorbenia (1 chest) Aguro is separated by the story and rejoins after the inn. Chests: Treck 3, East Cave 2, cave north of Treck 4, Lorbenia 1."
+    },
+    {
+      "n": 4,
+      "title": "Grenoble, the Old Cave and Artea's Apprentice",
+      "areas": [
+        "Grenoble",
+        "Old_Cave",
+        "Old_Cave_2",
+        "Fairy_Kiss",
+        "Northwest_Tower",
+        "Apprentice",
+        "Old_Cave_3"
+      ],
+      "achievement_ids": [
+        187954,
+        196724
+      ],
+      "fact_ids": [
+        "gf1-17-5",
+        "gf1-18-18",
+        "ra-comments-13-1",
+        "gf1-17-2",
+        "gf1-17-3",
+        "gf1-17-4",
+        "gf-treasure-11-60",
+        "gf1-59-2",
+        "gf1-60-6",
+        "gf3-5-3",
+        "gf-treasure-2-46",
+        "gf-treasure-2-58",
+        "gf1-18-17",
+        "gf1-19-2",
+        "gf1-19-3",
+        "gf1-19-4",
+        "gf4-26-3",
+        "gf4-8-15",
+        "gf-boss-1-11",
+        "gf2-92-13",
+        "gf-treasure-3-1",
+        "gf-treasure-3-2"
+      ],
+      "counters": {
+        "Treasure Chests": 66,
+        "Dragon Eggs": 1
+      },
+      "notes": "The Old Cave opens one floor per 5 levels on any party member (2nd floor at level 5, 3rd at 10, and so on); take each task from the man at the Grenoble counter and claim rewards from the woman. Old Cave 2nd floor (22 chests): Lufia enters the women-only room for the Fairy Kiss; give it to the old man in Grenoble for the Letter (Fairy Kiss achievement; RA dev Ryudo says it can be done after returning from the first Old Cave trip). Northwest Tower (14 chests; TheJuice's checklist calls it 'North tower') ends with the Apprentice, who gives a Speed Potion and tells you where Artea is. Old Cave 3rd floor: 30 chests. Dragon Egg #1 of the first set is on the Old Cave 2nd floor, south of the Fairy Kiss room. Chests this chapter: 22 + 14 + 30."
+    },
+    {
+      "n": 5,
+      "title": "Kirof, Medan and the Phantasm",
+      "areas": [
+        "Kirof",
+        "Medan",
+        "Ghost_Cave",
+        "Phantasm",
+        "Medan_Mine"
+      ],
+      "achievement_ids": [
+        196725
+      ],
+      "fact_ids": [
+        "gf-boss-2-1",
+        "gf1-27-1",
+        "gf4-9-2",
+        "gf2-19-3",
+        "gf-treasure-4-72",
+        "gf-treasure-4-74",
+        "gf-treasure-4-75",
+        "gf-treasure-5-2",
+        "gf-treasure-5-3",
+        "gf-treasure-5-4",
+        "gf-boss-2-2",
+        "gf-treasure-5-8",
+        "gf-treasure-5-13",
+        "gf-treasure-6-41",
+        "gf-treasure-6-42",
+        "gf-treasure-6-43"
+      ],
+      "counters": {
+        "Treasure Chests": 24,
+        "Dragon Eggs": 1
+      },
+      "notes": "Take the hidden Hi Potion in the old man's house in Medan before leaving town (gf4 says it is lost otherwise). The Ghost Cave north of Kirof (24 chests, Ghost Ring) ends with the Phantasm; rescuing Reyna gives The Exorcist. A first visit to the Medan Mine gets Foul Water, Sweet Water and a Bomb only (the old man blocks the rest until chapter 7). A Dragon Egg (initial set) is in the Ghost Cave after the upper stairs in the Hi Potion room."
+    },
+    {
+      "n": 6,
+      "title": "Belgen, Dais and the Rescue of Jerin",
+      "areas": [
+        "Cave_East_of_Medan",
+        "Belgen",
+        "Southwest_Cave",
+        "Dais_Key",
+        "Cave_to_Dais",
+        "Dais",
+        "North_Tower",
+        "Follower",
+        "Surinagal",
+        "Lost_Forest_Guide_Station",
+        "Old_Cave",
+        "Old_Cave_4"
+      ],
+      "achievement_ids": [
+        196726,
+        196727
+      ],
+      "fact_ids": [
+        "gf1-35-1",
+        "ra-comments-1-1",
+        "gf1-36-5",
+        "gf2-21-22",
+        "gf2-21-23",
+        "gf1-27-11",
+        "gf-treasure-11-51",
+        "gf-treasure-5-34",
+        "gf-treasure-5-35",
+        "gf-treasure-11-53",
+        "gf-treasure-5-41",
+        "gf-treasure-5-42",
+        "gf-treasure-5-54",
+        "gf1-30-17",
+        "gf-treasure-5-56",
+        "gf-treasure-5-57",
+        "gf-treasure-5-58",
+        "gf2-24-12",
+        "gf2-24-13",
+        "gf2-24-14",
+        "gf-treasure-5-66",
+        "gf-treasure-5-67",
+        "gf-treasure-5-68",
+        "gf1-35-2",
+        "gf2-24-32",
+        "gf-boss-2-3",
+        "gf-shop-9-1",
+        "gf-shop-9-2",
+        "gf-shop-9-3",
+        "gf-treasure-6-8",
+        "gf-treasure-6-9",
+        "gf-treasure-6-10",
+        "gf-treasure-11-60",
+        "gf1-59-2",
+        "gf1-60-6",
+        "gf-treasure-3-19",
+        "gf-treasure-3-20",
+        "gf-treasure-3-22"
+      ],
+      "counters": {
+        "Treasure Chests": 66,
+        "Dragon Eggs": 0
+      },
+      "notes": "Cave east of Medan (2 chests) leads to Belgen (2 chests). The Southwest Cave (14 chests) holds the Dais Key. Cave to Dais (10 chests), Dais, then the North Tower by Dais (10 chests; TheJuice calls it 'Dais north tower' - his 'North tower: 14' entry is the Northwest Tower of chapter 4). Amon's Follower waits at the top; the Jerin achievement triggered for an RA commenter when Jerin was first saved here, not when she later joins at the Lost Forest Guide Station. Back through Belgen to Surinagal and the Guide Station, where Jerin joins. Old Cave 4th floor (level 15): 28 chests, including the Crown (2000 Gold reward). Chests: 2 + 2 + 14 + 10 + 10 + 28."
+    },
+    {
+      "n": 7,
+      "title": "Lost Forest, the Three Towers and Elfrea",
+      "areas": [
+        "Lost_Forest",
+        "Jenoba",
+        "Blue_Tower",
+        "Green_Tower",
+        "Ruan",
+        "Medan_Mine",
+        "Red_Sapphire",
+        "Red_Tower",
+        "Dark_Ghost",
+        "Elfrea",
+        "Old_Cave",
+        "Old_Cave_5"
+      ],
+      "achievement_ids": [
+        196728,
+        187955,
+        196738
+      ],
+      "fact_ids": [
+        "gf1-44-7",
+        "gf1-44-8",
+        "gf4-11-21",
+        "ra-comments-50-24",
+        "gf1-44-1",
+        "gf1-44-2",
+        "gf1-44-3",
+        "gf1-44-4",
+        "gf1-44-5",
+        "gf1-36-6",
+        "gf1-36-7",
+        "gf1-36-8",
+        "gf-shop-10-1",
+        "gf-shop-10-2",
+        "gf-shop-10-3",
+        "gf-treasure-6-17",
+        "gf-treasure-6-18",
+        "gf-treasure-6-19",
+        "gf-treasure-6-24",
+        "gf-treasure-6-25",
+        "gf-treasure-6-26",
+        "gf-treasure-6-33",
+        "gf-treasure-6-34",
+        "gf-treasure-6-37",
+        "gf-treasure-6-41",
+        "gf-treasure-6-42",
+        "gf-treasure-6-43",
+        "gf-treasure-6-46",
+        "gf1-42-5",
+        "gf-treasure-6-48",
+        "gf-treasure-6-49",
+        "gf-treasure-6-50",
+        "gf-boss-2-6",
+        "gf-boss-2-7",
+        "gf-boss-2-8",
+        "gf-shop-11-4",
+        "gf-shop-11-5",
+        "gf-shop-11-6",
+        "gf-treasure-11-60",
+        "gf1-59-2",
+        "gf1-60-6",
+        "gf-treasure-3-45",
+        "gf-treasure-3-49",
+        "gf-treasure-3-50"
+      ],
+      "counters": {
+        "Treasure Chests": 68,
+        "Dragon Eggs": 1
+      },
+      "notes": "Through the Lost Forest to Jenoba. Blue Tower (7 chests, Blue Jade) and Green Tower (8 chests, Green Jade); place each jade on its roof pedestal. Ruan, then the Medan Mine again (7 chests) where the old man hands over the Red Sapphire. In the Red Tower (15 chests) collect the basement poison-marsh items BEFORE beating the Dark Ghost (gf4 says they are lost afterwards); the Dark Ghost on the roof gives Who You Gonna Call?, placing the Red Sapphire opens Elfrea (The Elven Village). Elfrea 2 chests. Old Cave 5th floor (level 20, Golden Pawn task): 29 chests. On TheJuice's checklist the running count reaches 252 at the end of the 5th floor, so Treasure Seeker (250) pops here at the latest. A Dragon Egg (initial set) is the left chest on the Red Tower's bottom floor after the Dark Ghost. Chests: 7 + 8 + 7 + 15 + 2 + 29."
+    },
+    {
+      "n": 8,
+      "title": "Ranqs, Odel and Piron's Bridge",
+      "areas": [
+        "Ranqs",
+        "Odel_Tunnel",
+        "Odel",
+        "Lyden",
+        "Arus_Cave",
+        "Arus",
+        "Old_Cave",
+        "Old_Cave_6"
+      ],
+      "achievement_ids": [
+        187957,
+        196715
+      ],
+      "fact_ids": [
+        "gf1-51-15",
+        "gf4-12-22",
+        "gf2-38-2",
+        "gf4-11-33",
+        "gf-shop-12-1",
+        "gf-shop-12-2",
+        "gf-shop-12-3",
+        "map-cave-east-of-ranqs-1-1",
+        "gf1-47-2",
+        "gf1-47-3",
+        "gf-treasure-6-72",
+        "gf-treasure-6-77",
+        "gf-treasure-7-1",
+        "gf-shop-14-2",
+        "gf-shop-14-4",
+        "gf-treasure-11-61",
+        "gf-treasure-7-16",
+        "gf-treasure-7-18",
+        "gf-treasure-7-20",
+        "gf1-52-14",
+        "gf1-52-15",
+        "gf-shop-14-8",
+        "gf-treasure-11-60",
+        "gf1-59-2",
+        "gf1-60-6",
+        "gf-treasure-4-1",
+        "gf-treasure-4-2",
+        "gf-treasure-4-3"
+      ],
+      "counters": {
+        "Treasure Chests": 56,
+        "Dragon Eggs": 1
+      },
+      "notes": "Odel Tunnel east of Ranqs (1 chest) to Odel (2 chests; Shaia Lab 2). Piron in Odel will not fix the Arus Cave bridge until you inspect it from the cliff and talk to his partner in Lyden; then watch them build it (Building Bridges). Arus Cave has four entrances and 18 chests; a Dragon Egg (initial set) is the left chest through the entrance with the broken bridge. Arus beyond. Old Cave 6th floor needs level 25 (Level 25! pops by then): 35 chests. Chests: 1 + 2 + 18 + 35."
+    },
+    {
+      "n": 9,
+      "title": "Tower of Grief, the Falcon and Forfeit",
+      "areas": [
+        "Tower_of_Grief",
+        "Platina",
+        "Falcon",
+        "Carbis",
+        "Forfeit"
+      ],
+      "achievement_ids": [
+        187958,
+        187965
+      ],
+      "fact_ids": [
+        "gf1-54-9",
+        "gf1-55-2",
+        "gf1-56-3",
+        "gf1-56-5",
+        "gf-treasure-7-39",
+        "gf-treasure-7-40",
+        "gf-treasure-7-41",
+        "gf-treasure-7-2",
+        "gf-treasure-7-3",
+        "gf-treasure-7-4",
+        "gf1-81-7",
+        "gf2-40-20",
+        "gf2-47-7",
+        "gf1-55-1",
+        "gf1-73-6",
+        "gf-treasure-7-50",
+        "gf1-56-2",
+        "gf1-56-4"
+      ],
+      "counters": {
+        "Treasure Chests": 10,
+        "Dragon Eggs": 1
+      },
+      "notes": "Tower of Grief (9 chests; a Dragon Egg of the initial set behind the middle path). Warp to Platina and meet Professor Raile Shaia upstairs: you receive the Falcon (All Aboard!). Sail west to Carbis (Shaia Lab 3); Raile sends you to Bakku - DO NOT GO TO BAKKU YET (see missables). Forfeit (1 chest): the secret stairwell behind a building leads to the shop that sells back everything you sold (The Black Market). This shop is also the easiest way to buy the many different items Item Burden needs later (chapter 17). Chests: 9 + 1."
+    },
+    {
+      "n": 10,
+      "title": "Tower of Light, Bakku and the Old Cave's Last Floor",
+      "areas": [
+        "Tower_of_Light",
+        "Might_Helmet",
+        "Bakku",
+        "Old_Cave",
+        "Old_Cave_5",
+        "Old_Cave_7",
+        "Guardian",
+        "Light_Key"
+      ],
+      "achievement_ids": [
+        187956,
+        187966,
+        196739,
+        196730
+      ],
+      "fact_ids": [
+        "gf1-57-12",
+        "ra-comments-22-6",
+        "gf1-59-2",
+        "gf1-60-10",
+        "gf1-63-3",
+        "gf-treasure-7-77",
+        "gf1-57-9",
+        "gf1-57-10",
+        "gf1-62-1",
+        "gf-shop-15-1",
+        "gf-shop-15-2",
+        "gf-shop-15-3",
+        "gf-treasure-11-60",
+        "gf1-60-6",
+        "gf-treasure-3-45",
+        "gf-treasure-3-49",
+        "gf-treasure-3-50",
+        "gf-treasure-4-33",
+        "gf-treasure-4-34",
+        "gf-treasure-4-36",
+        "gf4-14-5",
+        "gf-boss-2-9",
+        "gf1-63-1",
+        "gf4-14-4",
+        "gf2-43-35"
+      ],
+      "counters": {
+        "Treasure Chests": 64,
+        "Dragon Eggs": 0
+      },
+      "notes": "Go to the Tower of Light BEFORE setting foot in Bakku: the Might Helmet chest on the roof is gone for good once Bakku is visited (Mighty Intelligence, the set's only missable). Sweet Water avoids most encounters (RA commenter at level 25). Tower of Light: 22 chests. Then Bakku. Cooper is found in the last room of the Old Cave 5th floor, across the swamp (Escape Artist). Old Cave 7th floor (level 30): 41 chests, including the Crown Jewels in the back room; clearing it gives World's Greatest. Back in the Tower of Light, the Guardian (1489 HP) guards the chest with the Light Key (the checklist counts 1 chest for this boss room). Chests: 22 + 41 + 1."
+    },
+    {
+      "n": 11,
+      "title": "Linze, the Alumina Hunt and Brant",
+      "areas": [
+        "Linze",
+        "Gayas_Island_Cave",
+        "Cave_to_Marse",
+        "Marse",
+        "Loire_Island_Cave",
+        "Elba_Ulupp_Caves"
+      ],
+      "achievement_ids": [
+        187967
+      ],
+      "fact_ids": [
+        "gf1-68-29",
+        "ra-comments-26-1",
+        "ra-comments-26-2",
+        "gf-shop-17-1",
+        "gf-shop-17-2",
+        "gf-shop-17-3",
+        "gf-treasure-8-11",
+        "gf-treasure-8-14",
+        "gf-treasure-8-15",
+        "gf-treasure-11-54",
+        "gf1-65-19",
+        "gf3-19-19",
+        "gf-shop-18-1",
+        "gf-shop-18-2",
+        "gf-shop-18-3",
+        "gf-treasure-8-36",
+        "gf-treasure-8-39",
+        "gf-treasure-8-42",
+        "gf-treasure-11-55",
+        "gf-treasure-8-65",
+        "gf-treasure-8-66"
+      ],
+      "counters": {
+        "Treasure Chests": 84,
+        "Dragon Eggs": 3
+      },
+      "notes": "Linze (3 chests; a Dragon Egg in the middle chest on the red path). Gayas Island Cave (26 chests, Alumina, a Dragon Egg east on the lower floor). The cave south of Linze toward Marse has 1 chest (a Power Potion; it becomes a Dragon Egg after the first wish, so open it now). Marse. Loire Island Cave (30 chests): keep falling through the holes to reach Brant on the third floor and agree to help (Holes, Holes, and a Brant). RA commenters: talk to Brant as soon as everyone is outside the cave; warping to Marse straight away leaves him behind and you must go back for him. Elba Cave (14 chests) and the Ulupp cave (10 chests); a Dragon Egg (initial set) is in the south-east corner chest. Chests: 3 + 26 + 1 + 30 + 14 + 10."
+    },
+    {
+      "n": 12,
+      "title": "Herat, the Purple Newt and Aisen Tower",
+      "areas": [
+        "Herat",
+        "Herat_Castle",
+        "Lyden",
+        "Purple_Newt_Cave",
+        "Purple_Newt",
+        "Aisen_Tower",
+        "Bosun"
+      ],
+      "achievement_ids": [
+        187960,
+        187968,
+        196732,
+        196737
+      ],
+      "fact_ids": [
+        "gf2-53-8",
+        "gf-boss-3-1",
+        "gf3-23-17",
+        "ra-comments-51-29",
+        "gf-shop-19-7",
+        "gf-shop-19-8",
+        "gf-shop-19-9",
+        "gf4-17-1",
+        "gf4-17-2",
+        "gf4-17-3",
+        "gf-shop-14-2",
+        "gf-shop-14-4",
+        "gf-treasure-11-61",
+        "gf-treasure-11-62",
+        "gf1-71-3",
+        "gf1-71-4",
+        "gf4-16-5",
+        "gf-treasure-9-33",
+        "gf2-52-26",
+        "gf1-72-7",
+        "gf1-72-8",
+        "gf1-72-9",
+        "gf4-26-8",
+        "gf-boss-3-2",
+        "gf3-23-15"
+      ],
+      "counters": {
+        "Treasure Chests": 47,
+        "Dragon Eggs": 0
+      },
+      "notes": "Herat Castle (14 chests). The cave east of Herat (Purple Newt Cave, 14 chests; the Engage Ring, which cuts shop prices by 25%, is in a hidden room) holds the Purple Newt in a warp-pad chest; take it to the Wizard of Taste in Lyden's basement for the Magic Flavor (We're Off to See the Wizard...). Lyden has 4 chests on the checklist. Aisen Tower (15 chests): step on the switches in the right order to open the door without a fight (Riddle Me This...), then defeat Bosun and the pirates to free Lou (For Freedom!). On TheJuice's checklist the running count reaches 513 in Aisen Tower, so Treasure Hunter (500) pops here at the latest. Chests: 14 + 14 + 4 + 15."
+    },
+    {
+      "n": 13,
+      "title": "Under the Sea: Soshette and the Dual Blade",
+      "areas": [
+        "Carbis",
+        "Soshette",
+        "Under_Ring_Island",
+        "Doom_Island",
+        "Dual_Blade"
+      ],
+      "achievement_ids": [
+        187969,
+        196734
+      ],
+      "fact_ids": [
+        "gf1-73-6",
+        "gf2-56-16",
+        "gf1-76-1",
+        "gf2-56-23",
+        "gf1-55-1",
+        "gf1-55-2",
+        "gf-shop-20-1",
+        "gf-shop-20-2",
+        "gf-shop-20-3",
+        "gf-treasure-9-68",
+        "gf-treasure-9-74",
+        "gf-treasure-10-1",
+        "gf1-89-4",
+        "gf1-90-4",
+        "gf2-71-3",
+        "gf4-23-3"
+      ],
+      "counters": {
+        "Treasure Chests": 20,
+        "Dragon Eggs": 0
+      },
+      "notes": "Talk to Raile in Carbis: he and Cooper refit the Falcon to dive at whirlpools (eddies). Soshette on Ring Island (1 chest). Dive at an eddy to the caves under Ring Island (Under the Sea, Under the Sea): the south-west cave has 7 chests and the north and south-east caves 12. They lead to the risen Fortress of Doom (Doom Island); climb to the throne room for the Dual Blade (Sin Slayer). The Flame Plates in these underwater caves can drop the Might Armor (RA commenters). This visit to Doom Island is not the final dungeon. Chests: 1 + 7 + 12."
+    },
+    {
+      "n": 14,
+      "title": "Epro, the Oil Dragon and the Might Farm",
+      "areas": [
+        "Epro",
+        "East_Lagoon",
+        "Oil_Cave",
+        "Oil_Dragon",
+        "Power_Oil",
+        "Frederia"
+      ],
+      "achievement_ids": [
+        196735,
+        187970,
+        187961,
+        187963,
+        196716,
+        196712
+      ],
+      "fact_ids": [
+        "gf1-80-2",
+        "gf1-81-7",
+        "gf1-60-1",
+        "gf3-23-1",
+        "ra-comments-38-12",
+        "ra-comments-2-6",
+        "gf4-6-15",
+        "gf1-95-32",
+        "gf-shop-21-17",
+        "gf-shop-21-18",
+        "gf-shop-21-19",
+        "gf-treasure-10-17",
+        "gf-treasure-10-18",
+        "gf-treasure-10-19",
+        "gf-treasure-10-32",
+        "gf-treasure-10-41",
+        "gf-treasure-10-43",
+        "gf4-18-34",
+        "gf-boss-3-5",
+        "gf-boss-3-7",
+        "gf2-58-34",
+        "gf3-25-34",
+        "gf-shop-22-7",
+        "gf-shop-22-8",
+        "gf-shop-22-9"
+      ],
+      "counters": {
+        "Treasure Chests": 27,
+        "Dragon Eggs": 0
+      },
+      "notes": "Epro, then the underwater East Lagoon (10 chests, Oil Key, Grand Blade) to the Oil Cave (17 chests). Beat the Oil Dragon (no listed elemental weakness in gf1; gf3 recommends Lufia's Sunder and Jerin's Glacier; it casts Mirror) for the Power Oil (Power the Falcon). Before Frederia, farm the underwater area just outside the Oil Cave: Hydras drop the Might Sword (about 1/256 per commenters) and Flame/Fire Plates drop the Might Armor. Commenters needed from minutes to six hours and went from level 44 to 60-84, so Level 50! pops during this farm. The farm also gives a lot of gold (Fire Plate 460 Gold per fight in gf2); keep at least 200,000 Gold in hand at one time for Heavy Pockets (selling a Miracle gives 2500, a Royal Statue 2500), and only then shop. Lufia is still in the party here; she leaves after Nazeby (chapter 16), which makes farming later harder (gf4). Then take the Power Oil to Raile in Frederia to make the Falcon fly (Soaring the Skies). Chests: 10 + 17."
+    },
+    {
+      "n": 15,
+      "title": "The First Dragon Wish and the Second Egg Hunt",
+      "areas": [
+        "Dragon_Shrine",
+        "Alekia",
+        "Belgen",
+        "Northwest_Tower",
+        "Southwest_Cave",
+        "Cave_to_Marse",
+        "Elba_Ulupp_Caves",
+        "Under_Ring_Island",
+        "Oil_Cave",
+        "Arubus"
+      ],
+      "achievement_ids": [
+        196731,
+        187964
+      ],
+      "fact_ids": [
+        "gf1-81-8",
+        "gf2-60-7",
+        "gf1-81-9",
+        "gf4-21-112",
+        "ra-comments-1-4",
+        "gf1-87-1",
+        "gf-shop-3-1",
+        "gf-shop-3-2",
+        "gf-shop-3-3",
+        "gf-treasure-11-51",
+        "gf-treasure-5-34",
+        "gf-treasure-5-35",
+        "gf1-19-2",
+        "gf1-19-3",
+        "gf1-19-4",
+        "gf-treasure-11-53",
+        "gf-treasure-5-41",
+        "gf-treasure-5-42",
+        "gf-treasure-11-54",
+        "gf1-65-19",
+        "gf3-19-19",
+        "gf-treasure-11-55",
+        "gf-treasure-8-65",
+        "gf-treasure-8-66",
+        "gf-treasure-9-68",
+        "gf-treasure-9-74",
+        "gf-treasure-10-1",
+        "gf-treasure-10-32",
+        "gf-treasure-10-41",
+        "gf-treasure-10-43",
+        "gf1-82-3",
+        "gf1-82-4",
+        "gf1-82-5"
+      ],
+      "counters": {
+        "Treasure Chests": 2,
+        "Dragon Eggs": 8
+      },
+      "notes": "Only make a wish after the Oil Cave is done and every chest so far is opened: each wish turns 8 chests into Dragon Egg chests and an unopened chest's original item is lost (gf1, gf4). Fly to the Dragon Shrine south-west of Herat with the 8 eggs of the first set and wish for the Might Bow (Dragon's Wish + Elven Warfare). The four wishes per gf1, gf2 and gf4 are: 2 levels for everyone, 3 of each stat potion, a Might Shield, or a Might Bow. Never take three Might Shields (it locks out the bow). The eggs scatter to: Alekia Castle (secret first-floor room, the old Revive chest), Belgen (back cave), Northwest Tower (top floor, pair of chests behind the man's room), Southwest Cave (down the middle stairs of the first room), the cave south of Linze toward Marse (its only chest), Elba Cave (lowest left corner), the caves under Ring Island (by the Ex Potion and Spell Potion chests near the north exit of the left cave) and the Oil Cave (2nd floor, the Ex Bomb chest). Collect all 8 but do not wish yet: the next set lands partly in the Glasdar dungeons. Arubus (2 chests)."
+    },
+    {
+      "n": 16,
+      "title": "Glasdar: the Key, the Cave and Nazeby",
+      "areas": [
+        "Cave_North_of_Glasdar",
+        "Glasdar_Key",
+        "Cave_to_Glasdar_Tower",
+        "Glasdar_Tower",
+        "Nazeby"
+      ],
+      "achievement_ids": [
+        187971,
+        196736
+      ],
+      "fact_ids": [
+        "gf1-83-21",
+        "gf-boss-3-8",
+        "gf1-86-1",
+        "gf4-20-1",
+        "gf1-83-5",
+        "gf1-83-6",
+        "gf1-83-7",
+        "gf-treasure-10-64",
+        "gf1-84-24",
+        "gf-treasure-11-1",
+        "gf-treasure-11-2",
+        "gf-treasure-11-4",
+        "gf-treasure-11-17",
+        "gf-treasure-11-18",
+        "gf-treasure-11-20",
+        "gf1-86-2",
+        "gf2-63-14"
+      ],
+      "counters": {
+        "Treasure Chests": 63,
+        "Dragon Eggs": 0
+      },
+      "notes": "The cave north of Glasdar Tower (17 chests; gf3 calls it Arubus Cave) is full of Gorgons (bring Stone Cures). Its basement has the Glasdar Key (The Glasdar Key), which also opens the fourth warp shrine. The cave to Glasdar Tower (20 chests) leads to the tower (26 chests; switch puzzles). Nazeby waits on the top floor (gf1 4980 HP, gf-boss 5600 HP; give Lufia the Flash Ring) - The Agent of Daos. After this fight Lufia leaves the party until the final battle and the Dual Blade is lost (gf4). Chests: 17 + 20 + 26."
+    },
+    {
+      "n": 17,
+      "title": "The Last Two Wishes and the Might Set",
+      "areas": [
+        "Dragon_Shrine",
+        "Sheran",
+        "East_Cave",
+        "Old_Cave_7",
+        "Lyden",
+        "Purple_Newt_Cave",
+        "Cave_North_of_Glasdar",
+        "Cave_to_Glasdar_Tower",
+        "Glasdar_Tower",
+        "Forfeit"
+      ],
+      "achievement_ids": [
+        187962,
+        187959,
+        196729
+      ],
+      "fact_ids": [
+        "gf2-60-8",
+        "gf1-87-10",
+        "gf2-64-4",
+        "ra-comments-45-1",
+        "gf1-81-8",
+        "gf1-81-9",
+        "gf1-87-1",
+        "gf-boss-1-5",
+        "gf1-8-3",
+        "gf1-8-5",
+        "gf-treasure-11-59",
+        "gf1-11-2",
+        "gf1-11-3",
+        "gf-treasure-4-33",
+        "gf-treasure-4-34",
+        "gf-treasure-4-36",
+        "gf-shop-14-2",
+        "gf-shop-14-4",
+        "gf-treasure-11-61",
+        "gf-treasure-11-62",
+        "gf1-71-3",
+        "gf1-71-4",
+        "gf1-83-5",
+        "gf1-83-6",
+        "gf1-83-7",
+        "gf-treasure-11-1",
+        "gf-treasure-11-2",
+        "gf-treasure-11-4",
+        "gf-treasure-11-17",
+        "gf-treasure-11-18",
+        "gf-treasure-11-20",
+        "gf-treasure-7-50",
+        "gf1-56-2",
+        "gf1-56-4"
+      ],
+      "counters": {
+        "Treasure Chests": 0,
+        "Dragon Eggs": 8
+      },
+      "notes": "Turn in the second set at the Dragon Shrine and wish for a Might Shield (A Hero's Mightiest Shield). The last set scatters to: Sheran Castle (throne room chest), East Cave (first chest), Old Cave 7th floor, Lyden (center house basement, the Wizard's), the cave east of Herat (the first-floor Stun Arrow chest), the cave north of Glasdar Tower (portal on the 2nd floor with the switch up), the cave to Glasdar Tower (left side of the 2nd-floor plateaus) and Glasdar Tower's hidden treasure room (it only appears once the other 7 are collected, per an RA commenter). Make the third wish (any choice; gf1 and gf2 suggest another Might Shield) for I Feel Like Having Dragon Eggs for Breakfast. Item Burden: fill every item slot across all 5 pages of the item list (RA commenter); the Forfeit black market and town shops sell cheap different items. If the Might Sword or Might Armor have not dropped yet, farm them now (chapter 14). Dragon Eggs: 24 total across the game (gf-treasure)."
+    },
+    {
+      "n": 18,
+      "title": "Doom Island: One Hundred Years Later",
+      "areas": [
+        "Doom_Island",
+        "Fortress_of_Doom",
+        "Gades_Final",
+        "Amon_Final",
+        "Daos_Final",
+        "Guard_Daos"
+      ],
+      "achievement_ids": [
+        196733
+      ],
+      "fact_ids": [
+        "gf1-90-3",
+        "gf-boss-4-6",
+        "gf-boss-4-10",
+        "gf-boss-4-14",
+        "gf3-29-11",
+        "gf1-89-4",
+        "gf1-90-4",
+        "gf2-56-23",
+        "gf-boss-1-1",
+        "gf-treasure-11-38",
+        "gf-treasure-11-39",
+        "gf2-64-14",
+        "gf4-20-10",
+        "gf1-89-1",
+        "gf2-64-15",
+        "gf1-89-3",
+        "gf4-20-12",
+        "gf4-26-13",
+        "gf1-5-1",
+        "gf-boss-4-11",
+        "gf-boss-4-12"
+      ],
+      "counters": {
+        "Treasure Chests": 12,
+        "Dragon Eggs": 0
+      },
+      "notes": "Finish every other achievement first. The fortress on Doom Island has 12 chests. Gades, Amon and Daos are fought in turn; after Amon you can still walk out to save, but not after beating Daos (gf-boss). Heal fully before finishing Daos: there is no chance to heal before Guard Daos, the final boss (6500 HP, weak to Thunder; Lufia rejoins for this fight but her equipment cannot be changed). Defeating him gives One-Hundred Years."
+    }
+  ],
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    {
+      "question": "Does First Encounter trigger on a prologue battle (Maxim's party), or only on the young hero's first win?",
+      "guidance": "No source says. RA unlock counts (3097 for First Encounter vs 2188 for completing the prologue) suggest it pops in the prologue. If it has not popped by the end of the prologue, win one fight outside Alekia.",
+      "chapters": [
+        1,
+        2
+      ]
+    },
+    {
+      "question": "Does Item Burden count a stack of one item as one slot, and must the slots hold different items?",
+      "guidance": "The only source (an RA commenter) says it is 5 pages of items. Fill every slot on all 5 pages with different items; buy cheap ones from town shops or the Forfeit black market.",
+      "chapters": [
+        17
+      ]
+    },
+    {
+      "question": "Does Heavy Pockets check gold on hand at any moment, or does spending first matter?",
+      "guidance": "The description says 'Have at least 200,000 Gold'. Hold 200,000 Gold at one time before any big purchase.",
+      "chapters": [
+        14
+      ]
+    }
+  ]
+}
