@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Shared helpers for the evidence-first walkthrough pipeline.
  *
  * Every stage reads/writes files under content/research/<gameId>/ so that
@@ -219,6 +219,7 @@ export function paths(gameId: string | number) {
     corroborations: j("05_corroborations.jsonl"),
     resolutions: j("05_resolutions.json"),
     verified: j("05_verified.json"),
+    planDigest: j("06_plan_digest.md"),
     graph: j("06_graph.json"),
     graphMermaid: j("06_graph.md"),
     roadmap: j("07_roadmap.json"),
@@ -226,6 +227,7 @@ export function paths(gameId: string | number) {
     chaptersDir: j("08_chapters"),
     cited: j("08_cited.md"),
     qa: j("09_qa.json"),
+    auditDigest: j("09_audit_digest.md"),
     review: j("09_review.json"),
     score: j("10_score.json"),
     final: path.join(root, "content", "walkthroughs", `${gameId}.md`),

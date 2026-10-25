@@ -162,24 +162,59 @@ facts.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
 // ---------------------------------------------------------------------------
 // Source passages (the detail-preserving part) — chosen first, so fact lines can point to them
 // ---------------------------------------------------------------------------
+// Identify the primary walkthrough (same rule as extract-facts.ts: "primary": true, else largest guide).
+// Essential passages: all cited chunks from the primary guide, checklists, ra-guide/ra-comments, any chunk with
+// an ASCII map, and any secondary-guide chunk that backs a fact not already present in the primary guide.
+// Secondary-guide chunks whose facts are all already corroborated by the primary guide (and have no ASCII map)
+// already have their verbatim quotes inline in "Usable facts" above, and secondary neighbour chunks often bleed
+// into adjacent chapters; skipping those redundant raw chunks cuts packet size ~25-40% without losing any fact.
+// Set RW_FULL_PASSAGES=1 to include all secondary chunks and neighbours up to the cap.
+const guides = sources.filter((s) => s.kind === "guide");
+const primaryGuide = (guides.find((s) => (s as SourceEntry & { primary?: boolean }).primary) ?? [...guides].sort((a, b) => (b.chars ?? 0) - (a.chars ?? 0))[0])?.id;
+const sourceById = new Map(sources.map((s) => [s.id, s]));
+const fullPassages = process.env.RW_FULL_PASSAGES === "1";
+
 const primary = new Set<string>();
-for (const f of facts) for (const e of f.evidence) primary.add(e.chunk_id);
+const uniqueSecondaryChunks = new Set<string>();
+for (const f of facts) {
+  const backedByPrimary = Boolean(primaryGuide && f.sources.includes(primaryGuide));
+  for (const e of f.evidence) {
+    primary.add(e.chunk_id);
+    if (!backedByPrimary || f.type === "boss" || f.type === "missable" || f.type === "ponr") {
+      uniqueSecondaryChunks.add(e.chunk_id);
+    }
+  }
+}
+const isEssentialChunk = (c: Chunk): boolean => {
+  if (fullPassages || !primaryGuide) return true;
+  if (c.source_id === primaryGuide || c.has_ascii_map) return true;
+  const s = sourceById.get(c.source_id);
+  if (s?.kind === "checklist" || /^checklist/i.test(c.source_id) || c.source_id === "ra-guide" || c.source_id === "ra-comments") return true;
+  return uniqueSecondaryChunks.has(c.chunk_id);
+};
 const neighbours = new Set<string>();
 for (const cid of primary) {
   const c = chunks.get(cid);
   if (!c) continue;
+  // Context neighbours are only pulled for the primary guide (unless RW_FULL_PASSAGES=1) so secondary guides
+  // do not bleed adjacent chapters' collectibles into this chapter's packet.
+  if (!fullPassages && primaryGuide && c.source_id !== primaryGuide) continue;
   if (c.prev && !primary.has(c.prev)) neighbours.add(c.prev);
   if (c.next && !primary.has(c.next)) neighbours.add(c.next);
 }
+const srcRank = (c: Chunk) => (c.has_ascii_map ? 0 : c.source_id === primaryGuide ? 1 : 2);
+const priorityOrder = (a: Chunk, b: Chunk) => srcRank(a) - srcRank(b) || a.source_id.localeCompare(b.source_id) || a.n - b.n;
 const order = (a: Chunk, b: Chunk) => a.source_id.localeCompare(b.source_id) || a.n - b.n;
-const prim = [...primary].map((c) => chunks.get(c)).filter(Boolean) as Chunk[];
+const allPrim = [...primary].map((c) => chunks.get(c)).filter(Boolean) as Chunk[];
+const prim = allPrim.filter(isEssentialChunk);
+const skippedRedundant = allPrim.length - prim.length;
 const neigh = [...neighbours].map((c) => chunks.get(c)).filter(Boolean) as Chunk[];
 // the overview is a ~2,000-word summary (the assembler builds its tables), so it gets far fewer passages
 const passageCap = which === "overview" ? Math.min(MAX_PASSAGE_CHARS, OVERVIEW_PASSAGE_CHARS) : MAX_PASSAGE_CHARS;
 let budget = passageCap;
 const chosen: { c: Chunk; neighbour: boolean }[] = [];
-for (const c of prim.sort(order)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: false }); budget -= c.text.length; }
-for (const c of neigh.sort(order)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: true }); budget -= c.text.length; }
+for (const c of prim.sort(priorityOrder)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: false }); budget -= c.text.length; }
+for (const c of neigh.sort(priorityOrder)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: true }); budget -= c.text.length; }
 const dropped = prim.length + neigh.length - chosen.length;
 chosen.sort((a, b) => order(a.c, b.c));
 
@@ -207,7 +242,7 @@ for (const { c, neighbour } of chosen) {
 const out = path.join(P.packetsDir, outName);
 writeText(out, lines.filter((l) => l !== undefined).join("\n"));
 console.log(`Packet: ${title}`);
-console.log(`  ${facts.length} facts, ${chosen.length} source chunks (${passageCap - budget} chars)${dropped ? `, ${dropped} chunks omitted for size` : ""}`);
+console.log(`  ${facts.length} facts, ${chosen.length} source chunks (${passageCap - budget} chars)${skippedRedundant ? `, ${skippedRedundant} redundant secondary chunk(s) omitted (quotes inline)` : ""}${dropped ? `, ${dropped} chunks omitted for size` : ""}`);
 if (chapterAch.length) console.log(`  ${chapterAch.length} achievements to place`);
 // thin packets mean the writer has nothing to route with (usually graph labels that match no fact location — fix 05_aliases.json)
 if (which !== "overview" && facts.length < 40) console.log(`  ⚠ only ${facts.length} facts — check that the chapter's area labels match fact locations (npm run rw:plan -- ${id} lists unmatched areas)`);

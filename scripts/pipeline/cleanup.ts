@@ -84,6 +84,13 @@ function cleanGamePackets(gameId: string) {
     console.log(`📦 Removed ${count} temporary packet file(s) from ${path.relative(root, P.packetsDir)}`);
   }
 
+  for (const digest of [P.planDigest, P.auditDigest]) {
+    if (exists(digest)) {
+      fs.unlinkSync(digest);
+      console.log(`🧹 Removed temporary digest ${path.relative(root, digest)}`);
+    }
+  }
+
   cleanScratch(gameId);
 }
 

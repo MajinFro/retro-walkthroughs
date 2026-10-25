@@ -18,7 +18,7 @@ import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { chapterMermaid, checkpointTotals, duplicateMap, type Graph, type Roadmap, usableFactIds } from "./graph.ts";
-import { type LlmRequest, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, runAll, skillText, unwrapMarkdown } from "./llm.ts";
+import { type LlmRequest, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, parseJsonReply, runAll, skillText, unwrapMarkdown } from "./llm.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -214,6 +214,103 @@ function fixCites(text: string): { text: string; fixed: number } {
   return { text: out, fixed };
 }
 
+/**
+ * Deterministically fixes structural/checkpoint issues that would otherwise trigger a full-chapter repair call:
+ *  1. Demotes interior top-level `## ` headings (outside code blocks) to `### ` in non-overview chapters.
+ *  2. Inserts `[MERMAID]` under the chapter title if the chapter has a route diagram and omitted the placeholder.
+ *  3. Appends or updates the `> [!IMPORTANT] Cumulative 100% Checkpoint` block with the exact roadmap totals.
+ */
+function tidyStructure(t: string, text: string): { text: string; notes: string[] } {
+  const notes: string[] = [];
+  const eol = text.includes("\r\n") ? "\r\n" : "\n";
+  let lines = text.split(/\r?\n/);
+
+  if (t !== "overview") {
+    let inCode = false;
+    let h2Fixed = 0;
+    lines = lines.map((l) => {
+      if (/^\s*```/.test(l)) inCode = !inCode;
+      if (!inCode && /^## (?!Chapter\b)/.test(l)) {
+        h2Fixed++;
+        return `#${l}`;
+      }
+      return l;
+    });
+    if (h2Fixed) notes.push(`demoted ${h2Fixed} interior "## " heading(s) to "### "`);
+
+    const n = Number(t);
+    const ch = roadmap.chapters.find((c) => c.n === n);
+    if (ch && chapterMermaid(graph, ch.areas) && !lines.some((l) => l.includes("[MERMAID]"))) {
+      const firstH3 = lines.findIndex((l) => /^###\s/.test(l));
+      const insertAt = firstH3 > 0 ? firstH3 : Math.min(2, lines.length);
+      lines.splice(insertAt, 0, "[MERMAID]", "");
+      notes.push("inserted missing [MERMAID] placeholder");
+    }
+
+    if (ch) {
+      const tot = checkpointTotals(roadmap, n, ach.achievements);
+      const achLine = `> - **RetroAchievements Unlocked:** ${tot.achievements} / ${tot.achievements_total} (${tot.points} / ${tot.points_total} points)`;
+      const cpRe = /(cumulative\s*(100%|progress)\s*checkpoint|true\s*100%\s*checkpoint)/i;
+      const inCallout = lines.findIndex((l) => l.trim().startsWith(">") && cpRe.test(l));
+      const cpAt = inCallout > -1 ? inCallout : lines.findIndex((l) => cpRe.test(l));
+      if (cpAt === -1) {
+        if (lines.length && lines[lines.length - 1].trim() !== "") lines.push("");
+        lines.push(
+          "> [!IMPORTANT]",
+          "> **Cumulative 100% Checkpoint**",
+          achLine,
+          ...tot.counters.map((c) => `> - **${c.name}:** ${c.done} / ${c.total}`),
+        );
+        notes.push("appended missing Cumulative 100% Checkpoint block");
+      } else {
+        let cpEnd = cpAt + 1;
+        while (cpEnd < lines.length && cpEnd < cpAt + 30 && lines[cpEnd].trim().startsWith(">")) cpEnd++;
+        let achUpdated = false;
+        for (let i = cpAt; i < cpEnd; i++) {
+          if (/retroachievements|achievements unlocked/i.test(lines[i])) {
+            const am = lines[i].match(/(\d+)\s*\/\s*(\d+)/);
+            if (!am || Number(am[1]) !== tot.achievements || Number(am[2]) !== tot.achievements_total || !lines[i].includes(`${tot.points} / ${tot.points_total}`)) {
+              lines[i] = achLine;
+              notes.push("corrected checkpoint achievement/point totals");
+            }
+            achUpdated = true;
+            break;
+          }
+        }
+        if (!achUpdated) {
+          lines.splice(cpAt + 1, 0, achLine);
+          cpEnd++;
+          notes.push("inserted missing achievement total line in checkpoint");
+        }
+        const labelOf = (l: string) => l.match(/\*\*([^*]+)\*\*/)?.[1].toLowerCase() ?? "";
+        for (const c of tot.counters) {
+          const wantLine = `> - **${c.name}:** ${c.done} / ${c.total}`;
+          let idx = -1;
+          for (let i = cpAt; i < cpEnd; i++) {
+            if (labelOf(lines[i]).includes(c.name.toLowerCase()) || (!labelOf(lines[i]) && lines[i].toLowerCase().includes(c.name.toLowerCase()))) {
+              idx = i;
+              break;
+            }
+          }
+          if (idx > -1) {
+            const cm = lines[idx].match(/(\d+)\s*\/\s*(\d+)/);
+            if (!cm || Number(cm[1]) !== c.done || Number(cm[2]) !== c.total) {
+              lines[idx] = wantLine;
+              notes.push(`corrected checkpoint counter "${c.name}" to ${c.done} / ${c.total}`);
+            }
+          } else {
+            lines.splice(cpEnd, 0, wantLine);
+            cpEnd++;
+            notes.push(`inserted checkpoint counter "${c.name}" (${c.done} / ${c.total})`);
+          }
+        }
+      }
+    }
+  }
+
+  return { text: lines.join(eol), notes };
+}
+
 function problems(t: string, text: string): string[] {
   const out: string[] = [];
   const bad = [...new Set([...text.matchAll(CITE_RE)].flatMap((m) => m[1].split(/\s*,\s*/)).filter((f) => !usable.has(f)))];
@@ -320,11 +417,99 @@ const opts = { concurrency: Number(flag("concurrency") ?? defaultConcurrency()),
 let usage: Usage = { input: 0, output: 0, cache_read: 0, cache_write: 0 };
 const drafts = new Map<string, { text: string; problems: string[] }>();
 const repairs: string[] = [];
+// Line-local problems (bad/malformed citations, drafting notes, save-state advice, "(passage only)") only touch a few
+// lines in a 5,000-word chapter. Asking for a JSON line-patch instead of regenerating the entire chapter cuts repair
+// output tokens by ~90% and avoids introducing new errors in unrelated sections.
+const LINE_LOCAL_PROBLEM = /^(cites source passages|cites fact ids|malformed citations|contains a drafting note|suggests save states|contains "\(passage only\)"|"Unable to verify from collected sources" is run into a sentence|\d+ table row\(s\) with an empty)/;
+
+function findProblemLines(text: string): string[] {
+  const badCites = new Set([...text.matchAll(CITE_RE)].flatMap((m) => m[1].split(/\s*,\s*/)).filter((f) => !usable.has(f)));
+  const out: string[] = [];
+  for (const l of text.split(/\r?\n/)) {
+    const hasBadCite = [...l.matchAll(CITE_RE)].some((m) => m[1].split(/\s*,\s*/).some((f) => badCites.has(f)));
+    const hasMalformed = malformedCites(l).length > 0;
+    const hasDrafting = DRAFTING_RE.test(l);
+    const hasSave = saveStateAdvice(l).length > 0;
+    const hasPassageOnly = /\(passage only\)/i.test(l);
+    const hasRunOnUnable = /unable to verify from collected sources\s+(?:for|about|on|regarding|of)\b/i.test(l);
+    if (hasBadCite || hasMalformed || hasDrafting || hasSave || hasPassageOnly || hasRunOnUnable) {
+      out.push(l);
+    }
+  }
+  return [...new Set(out)];
+}
+
+function buildRepairReq(t: string): LlmRequest {
+  const d = drafts.get(t)!;
+  const canPatch = d.problems.every((p) => LINE_LOCAL_PROBLEM.test(p));
+  const badLines = canPatch ? findProblemLines(d.text) : [];
+  if (canPatch && badLines.length > 0 && badLines.length <= 15) {
+    return {
+      key: t,
+      tier: "write",
+      system,
+      maxTokens: 4096,
+      effort,
+      user: [
+        factsOnly(t),
+        "",
+        "---",
+        "",
+        `# Surgical line-patch repair for ${fileOf(t)}`,
+        "",
+        "Fix these line-level problems without rewriting the rest of the chapter:",
+        ...d.problems.map((p) => `- ${p}`),
+        "",
+        "Offending lines in the current draft:",
+        ...badLines.map((l, i) => `${i + 1}. \`${l}\``),
+        "",
+        "Reply with ONLY a fenced JSON block of exact line replacements (set `\"replace\": \"\"` to delete a line that has no supporting fact):",
+        "```json",
+        '{"patches": [{"find": "<exact offending line from above>", "replace": "<corrected line citing only usable fact ids, or empty string>"}]}',
+        "```",
+      ].join("\n"),
+    };
+  }
+  // Structural problems (missing achievement tag, missing missable/PONR callout) rewrite the chapter
+  return req(
+    t,
+    `${factsOnly(t)}\n\n---\n\n# Your draft of ${fileOf(t)}\n\n${d.text}\n\n---\n\n# Fix these problems\n\n${d.problems.map((p) => `- ${p}`).join("\n")}\n\nReply with the complete corrected chapter.`,
+  );
+}
+
+function applyRepairReply(t: string, rawReply: string, beforeText: string): string {
+  try {
+    const parsed = parseJsonReply<{ patches?: { find: string; replace: string }[] }>(rawReply);
+    if (Array.isArray(parsed?.patches) && parsed.patches.length > 0) {
+      const eol = beforeText.includes("\r\n") ? "\r\n" : "\n";
+      const map = new Map(parsed.patches.map((p) => [p.find.trim(), p.replace]));
+      const nextLines: string[] = [];
+      for (const l of beforeText.split(/\r?\n/)) {
+        if (map.has(l.trim())) {
+          const rep = map.get(l.trim())!;
+          if (rep.trim()) nextLines.push(rep);
+        } else {
+          nextLines.push(l);
+        }
+      }
+      return nextLines.join(eol);
+    }
+  } catch {
+    // Not a JSON patch; treat as full markdown chapter below
+  }
+  return unwrapMarkdown(rawReply);
+}
+
 for (const t of resumed) {
-  const text = readText(path.join(P.chaptersDir, fileOf(t)));
-  const ps = problems(t, text); // re-checked: the draft or the packet may have changed since
+  const raw = readText(path.join(P.chaptersDir, fileOf(t)));
+  const { text: sText, notes: sNotes } = tidyStructure(t, raw);
+  if (sNotes.length) {
+    writeText(path.join(P.chaptersDir, fileOf(t)), sText);
+    console.log(`  ${fileOf(t)}: ${sNotes.join("; ")}`);
+  }
+  const ps = problems(t, sText); // re-checked: the draft or the packet may have changed since
   if (ps.length) {
-    drafts.set(t, { text, problems: ps });
+    drafts.set(t, { text: sText, problems: ps });
     repairs.push(t);
     console.log(`  ${fileOf(t)}: repair cut off last run, resuming: ${ps.join(" | ").slice(0, 200)}`);
   }
@@ -340,9 +525,11 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
       return;
     }
     const { text: tagged, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
-    const { text, fixed: recited } = fixCites(tagged);
+    const { text: cited, fixed: recited } = fixCites(tagged);
+    const { text, notes: sNotes } = tidyStructure(r.key, cited);
     if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
     if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
+    if (sNotes.length) console.log(`  ${fileOf(r.key)}: ${sNotes.join("; ")}`);
     const ps = problems(r.key, text);
     drafts.set(r.key, { text, problems: ps });
     writeText(path.join(P.chaptersDir, fileOf(r.key)), text);
@@ -359,10 +546,7 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
 if (repairs.length) {
   console.log(`\nRepair pass: ${repairs.map(fileOf).join(", ")}`);
   await runAll(
-    repairs.map((t) =>
-      // repair problems are structural (tags, callouts, checkpoint, citation ids): facts are enough
-      req(t, `${factsOnly(t)}\n\n---\n\n# Your draft of ${fileOf(t)}\n\n${drafts.get(t)!.text}\n\n---\n\n# Fix these problems\n\n${drafts.get(t)!.problems.map((p) => `- ${p}`).join("\n")}\n\nReply with the complete corrected chapter.`),
-    ),
+    repairs.map((t) => buildRepairReq(t)),
     {
       ...opts,
       stage: `${opts.stage}-repair`,
@@ -373,12 +557,15 @@ if (repairs.length) {
           savePending();
           return void console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)} (first draft kept; the next rw:write or --fix retries the repair)`);
         }
-        const { text: tagged, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
-        const { text, fixed: recited } = fixCites(tagged);
-        if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
-    if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
-        const ps = problems(r.key, text);
         const before = drafts.get(r.key)!;
+        const candidate = applyRepairReply(r.key, r.text, before.text);
+        const { text: tagged, fixed } = tidyTags(r.key, candidate);
+        const { text: cited, fixed: recited } = fixCites(tagged);
+        const { text, notes: sNotes } = tidyStructure(r.key, cited);
+        if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
+        if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
+        if (sNotes.length) console.log(`  ${fileOf(r.key)}: ${sNotes.join("; ")}`);
+        const ps = problems(r.key, text);
         if (ps.length <= before.problems.length) writeText(path.join(P.chaptersDir, fileOf(r.key)), text);
         console.log(`  ${fileOf(r.key)}: ${ps.length ? `${ps.length} problem(s) left: ${ps.join(" | ").slice(0, 300)}` : "✅"}`);
       },

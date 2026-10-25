@@ -1,4 +1,4 @@
-﻿---
+---
 name: ra-qa-auditor
 description: Stage 9 of the walkthrough pipeline. Ruthlessly audits the walkthrough for omissions, missing warnings, unsupported claims, and beginner friendliness, producing 09_review.json.
 ---
@@ -32,7 +32,7 @@ This verifies:
 
 If `rw:qa` reports errors or score-affecting warnings, run `npm run rw:write -- <gameId> --fix`: it revises only the affected chapters with a model call each (draft + findings + packet) and re-runs QA. Do not fix chapters by hand in your own context except for one-line edits; that is the most expensive way to fix them.
 
-The review below is for what the scripts cannot see. Do not re-check what `rw:qa` already checks. When you find a problem, log it in `09_review.json`, then fix it with `rw:write -- <gameId> <N> --fix` (it reads the QA findings) or, for a targeted change the QA does not flag, a short `Edit` of the chapter.
+The review below is for what the scripts cannot see. Do not re-check what `rw:qa` already checks. **Start by reading `content/research/<gameId>/09_audit_digest.md`** (generated automatically by `rw:qa`, or via `npm run rw:audit-prep -- <gameId>`): it pre-computes every chapter's word/section breakdown, missing visual map links, `ra-comments.txt` lockout lines, and every high-value packet fact (`boss`, `item`, `quest`, `missable`, `ponr`, chest/puzzle facts) whose `[[fact-id]]` and key terms are unmentioned in `08_chapters/<NN>.md`. Use that digest to jump straight to candidate omissions and thin sections instead of grepping packets and raw sources from scratch. When you find a problem, log it in `09_review.json`, then fix it with `rw:write -- <gameId> <N> --fix` (it reads the QA findings) or, for a targeted change the QA does not flag, a short `Edit` of the chapter.
 
 ---
 

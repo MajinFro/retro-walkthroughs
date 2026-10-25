@@ -1,4 +1,4 @@
-﻿---
+---
 name: generate-walkthrough
 description: Orchestrates the evidence-first RetroAchievements walkthrough pipeline (10 stages; bulk extraction and writing run as scripts that call a model directly, judgment stages are done by the coding agent in Antigravity or Claude Code). Use when the user asks to generate, resume, or check progress on a walkthrough for a game ID.
 ---
@@ -29,11 +29,11 @@ It prints what is done, the exact **NEXT** action, and a **WHO** line: run it yo
 | 2 | Guide collection | `rw-stage` agent + script | skill **ra-source-collector** → `npm run rw:collect -- …` | `02_sources/*.txt`, `sources.json` |
 | 3 | Source parsing | script | `npm run rw:chunk -- <id>` | `03_chunks.jsonl` |
 | 4 | Fact extraction | **script (model calls)** | `npm run rw:extract -- <id>` (rules: **ra-fact-extractor**) | `04_facts/*.jsonl` |
-| 5 | Verification | script; real conflicts only: `rw-stage` agent (alias cleanup happens in Stages 6–7) | `npm run rw:verify -- <id>`, skill **ra-fact-verifier** | `05_verified.json` |
-| 6 | Knowledge graph | `rw-stage` agent | skill **ra-route-planner** | `06_graph.json` |
+| 5 | Verification | script; real conflicts only: `rw-stage` agent (alias cleanup happens in Stages 6–7) | `npm run rw:verify -- <id>`, skill **ra-fact-verifier** | `05_verified.json`, `06_plan_digest.md` |
+| 6 | Knowledge graph | `rw-stage` agent | skill **ra-route-planner** (`npm run rw:plan-prep -- <id>`) | `06_graph.json` |
 | 7 | Roadmap | `rw-stage` agent + script | skill **ra-route-planner**, `npm run rw:plan -- <id>` | `07_roadmap.json`, `06_graph.md` |
 | 8 | Writing | **script (model calls)** | `npm run rw:write -- <id>` (rules: **ra-walkthrough-writer**) | `08_chapters/*.md` |
-| 9 | QA | script; review: `rw-stage` agent | `rw:write` runs `rw:assemble` + `rw:qa`; fixes via `npm run rw:write -- <id> --fix`; skill **ra-qa-auditor** | `09_qa.json`, `09_review.json` |
+| 9 | QA | script; review: `rw-stage` agent | `rw:write` runs `rw:assemble` + `rw:qa`; fixes via `npm run rw:write -- <id> --fix`; skill **ra-qa-auditor** | `09_qa.json`, `09_audit_digest.md`, `09_review.json` |
 | 10 | Scoring | script | `npm run rw:score -- <id>` | `10_score.json` (rejects < 90%) |
 | 11 | Post-Approval Cleanup | script | `npm run rw:clean -- <id>` | Purges intermediate draft packets & scratch files |
 
@@ -50,7 +50,7 @@ Stages 4 and 8 are most of a run's volume. `rw:extract` and `rw:write` send each
 
 ## Coordinator mode (cost control)
 
-Every turn of a long conversation re-reads the whole conversation, so a stage that runs on top of earlier stages' context costs many times more than the same stage in a fresh context. You therefore act as a **thin coordinator**: you run commands and hand every judgment stage to a fresh subagent. Your own context should stay at a few tens of thousands of tokens for the whole game.
+Every turn of a long conversation re-reads the whole conversation, so a stage that runs on top of earlier stages' context costs many times more than the same stage in a fresh context. You therefore act as a **thin coordinator** (run the top-level coordinator session on **Sonnet** while `rw-stage` uses Opus for judgment stages): you run commands and hand every judgment stage to a fresh subagent. Your own context should stay at a few tens of thousands of tokens for the whole game.
 
 `rw:status` prints a `WHO:` line under NEXT:
 

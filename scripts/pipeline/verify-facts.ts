@@ -16,6 +16,7 @@
  *  - any valid "contradicts" evidence -> CONFLICT (blocks writing until resolved in 05_resolutions.json)
  */
 import path from "node:path";
+import { buildPlanDigest } from "./plan-prep.ts";
 import {
   type Chunk,
   type Evidence,
@@ -317,3 +318,5 @@ if (unresolved.length) {
   process.exit(2);
 }
 if (!exists(P.aliases)) console.log(`\n  Tip: create 05_aliases.json ({"Canonical": ["alias"]}) to merge naming differences between guides.`);
+const digestOut = buildPlanDigest(id);
+console.log(`  plan digest -> ${path.relative(P.root, digestOut)}`);

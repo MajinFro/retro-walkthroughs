@@ -7,6 +7,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { buildAuditDigest } from "./audit-prep.ts";
 import { chapterMaps, chapterMermaid, checkpointTotals, collectibleMentionRe, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
@@ -497,13 +498,14 @@ for (const aid of placements.keys()) if (!ach.achievements.some((a) => a.id === 
 // inputs fingerprint lets rw:status tell when facts, graph, roadmap or chapters changed after this QA run
 const inputs = fingerprintFiles(qaInputFiles(P, roadmap.chapters.map((c) => c.n)));
 writeJson(P.qa, { generated_at: new Date().toISOString(), inputs, metrics: m, errors, warnings });
+const auditDigestOut = buildAuditDigest(id);
 const pct = (a: number, b: number) => (b ? Math.round((a / b) * 100) : 100);
 console.log(`QA for game ${id}: ${m.chapters_present}/${m.chapters_expected} files, ${m.words.toLocaleString()} words`);
 console.log(`  achievements placed correctly: ${m.achievements_placed_correctly}/${m.achievements_total}`);
 console.log(`  cited paragraphs: ${m.paragraphs_cited}/${m.paragraphs} (${pct(m.paragraphs_cited, m.paragraphs)}%), broken citations: ${m.citations_broken}/${m.citations}`);
 console.log(`  missables warned: ${m.missables_warned}/${m.missables}, PONR warned: ${m.ponr_warned}/${m.ponr}, areas mentioned: ${m.areas_mentioned}/${m.areas}`);
 console.log(`  code blocks verbatim: ${m.code_blocks_verbatim}/${m.code_blocks}, "Unable to verify": ${m.unable_to_verify}`);
-console.log(`  ${errors.length} error(s), ${warnings.length} warning(s) -> ${path.relative(P.root, P.qa)}`);
+console.log(`  ${errors.length} error(s), ${warnings.length} warning(s) -> ${path.relative(P.root, P.qa)} (audit digest -> ${path.relative(P.root, auditDigestOut)})`);
 for (const e of errors.slice(0, 40)) console.log(`  ❌ ${e}`);
 if (errors.length > 40) console.log(`  … ${errors.length - 40} more errors`);
 for (const w of warnings.slice(0, 20)) console.log(`  ⚠ ${w}`);
