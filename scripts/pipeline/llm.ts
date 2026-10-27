@@ -278,12 +278,32 @@ function callAgy(req: LlmRequest, model: string): Promise<LlmResult> {
       idle = setTimeout(() => { stalled = true; child.kill(); }, AGY_IDLE_MS);
     };
     armIdle();
-    child.stdout.on("data", (d) => { out += d; armIdle(); });
+    // agy often finishes its turn and then does not exit (its log shows "stream input closed" within a minute,
+    // then only background polling until the print timeout; 1449: every "stall" we tested was this). The answer
+    // is complete once the result event is printed, so settle on it and kill the lingering process instead of
+    // treating the silence after it as a stall and throwing the answer away.
+    let sawResult = false;
+    let killTimer: NodeJS.Timeout | undefined;
+    child.stdout.on("data", (d) => {
+      out += d;
+      if (!sawResult) {
+        if (/"event"\s*:\s*"result"/.test(out.slice(-(String(d).length + 40)))) {
+          sawResult = true;
+          clearTimeout(idle);
+          killTimer = setTimeout(() => child.kill(), 5000); // the result line may still be arriving
+        } else armIdle();
+      }
+      // the result line is complete once the output ends in a newline; 'close' parses it as usual
+      if (sawResult && out.endsWith("\n")) {
+        clearTimeout(killTimer);
+        killTimer = setTimeout(() => child.kill(), 300);
+      }
+    });
     child.stderr.on("data", (d) => (err += d));
     child.on("close", (code) => {
       clearTimeout(timer);
       clearTimeout(idle);
-      if (stalled) return resolve({ key: req.key, text: "", usage: zero(), error: `agy stall timeout: no output for ${AGY_IDLE_MS / 1000}s` });
+      if (stalled && !sawResult) return resolve({ key: req.key, text: "", usage: zero(), error: `agy stall timeout: no output for ${AGY_IDLE_MS / 1000}s` });
       const events = out.split(/\r?\n/).filter((l) => l.startsWith("{")).map((l) => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
       const result = events.find((e: any) => e.event === "result")?.result;
       // any tool call means the agent ignored the preamble; the reply cannot be trusted as plain output
@@ -336,6 +356,7 @@ async function callOnce(req: LlmRequest, model: string): Promise<LlmResult> {
  * 42 first stalls stalled again on the agy retry, and each extra stall cost 3-5 minutes plus the backoff
  * (1449: ~11,300 s of the 13,500 s logged as extract/claude-cli was agy stalls and sleeps before Haiku ran).
  */
+// (Most of those stalls were agy finishing its answer and not exiting, which callAgy now handles; this covers real hangs.)
 const AGY_STALLS_BEFORE_FALLBACK = 1;
 function agyFallback(): Backend | undefined {
   const f = process.env.RW_AGY_FALLBACK;
