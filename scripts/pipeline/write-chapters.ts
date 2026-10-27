@@ -201,6 +201,10 @@ function tidyTags(t: string, text: string): { text: string; fixed: number } {
 
 // A citation with a stray suffix ("gf4-27-skip", "gf3-37-1-unavailable") is mapped to the fact id inside it
 // before any repair call (remapCitation in lib.ts); anything else is left for problems() to report.
+// A cited id that is no fact (a placeholder or an invented id, 1449: "gf61-placeholder") is dropped when the same
+// citation still names usable facts; if it is the only one the claim has no source, so it stays for a repair call.
+// A sentence that talks about the packet or the writer ("the packet did not provide...") is a drafting note, not
+// guidance: it goes, with its line if nothing else is on it. Headings and table rows are left to the repair call.
 function fixCites(text: string): { text: string; fixed: number } {
   let fixed = 0;
   const out = text.replace(CITE_RE, (_all: string, list: string) => {
@@ -210,9 +214,24 @@ function fixCites(text: string): { text: string; fixed: number } {
       const m = remapCitation(f, usable);
       return m ? (fixed++, m) : f;
     });
-    return `[[${[...new Set(mapped)].join(", ")}]]`;
+    const ids = [...new Set(mapped)];
+    const good = ids.filter((f) => usable.has(f));
+    const keep = good.length ? good : ids;
+    fixed += ids.length - keep.length;
+    return `[[${keep.join(", ")}]]`;
   });
-  return { text: out, fixed };
+  const lines: string[] = [];
+  for (const l of out.split(/\r?\n/)) {
+    if (!DRAFTING_RE.test(l) || /^\s*(#|\|)/.test(l)) {
+      lines.push(l);
+      continue;
+    }
+    const kept = l.split(/(?<=[.!?])\s+/).filter((s) => !DRAFTING_RE.test(s));
+    if (kept.length === l.split(/(?<=[.!?])\s+/).length) lines.push(l);
+    else if (kept.length) lines.push(kept.join(" ")), fixed++;
+    else fixed++;
+  }
+  return { text: lines.join(text.includes("\r\n") ? "\r\n" : "\n"), fixed };
 }
 
 /**
@@ -539,7 +558,7 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
     const { text: tagged, fixed } = tidyTags(r.key, unwrapMarkdown(r.text));
     const { text: cited, fixed: recited } = fixCites(tagged);
     const { text, notes: sNotes } = tidyStructure(r.key, cited);
-    if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
+    if (recited) console.log(`  ${fileOf(r.key)}: fixed ${recited} citation or drafting-note issue(s) without a repair call`);
     if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
     if (sNotes.length) console.log(`  ${fileOf(r.key)}: ${sNotes.join("; ")}`);
     const ps = problems(r.key, text);
@@ -577,7 +596,7 @@ if (repairs.length) {
         const { text: tagged, fixed } = tidyTags(r.key, candidate);
         const { text: cited, fixed: recited } = fixCites(tagged);
         const { text, notes: sNotes } = tidyStructure(r.key, cited);
-        if (recited) console.log(`  ${fileOf(r.key)}: mapped ${recited} garbled citation(s) to packet fact ids`);
+        if (recited) console.log(`  ${fileOf(r.key)}: fixed ${recited} citation or drafting-note issue(s) without a repair call`);
         if (fixed) console.log(`  ${fileOf(r.key)}: removed ${fixed} duplicate or unassigned [ACHIEVEMENT] tag(s)`);
         if (sNotes.length) console.log(`  ${fileOf(r.key)}: ${sNotes.join("; ")}`);
         const ps = problems(r.key, text);
