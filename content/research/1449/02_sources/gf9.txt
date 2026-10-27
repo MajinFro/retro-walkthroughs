@@ -1,0 +1,2410 @@
+Final Fantasy Walkthrough
+Written by Brian Lennon, aka Edge
+Bowie_Knife@hotmail.com
+Feel free to ICQ me at 38278886 or Email me at Bowie_Knife@hotmail.com  
+Remember, this is to help everyone.  If you have a question, ask me!  This is 
+here for YOU!
+Copyright by Brian Lennon, 7/28/2000.  This work may not be reproduced without 
+permission form the author.  This work may not be sold or profited from in any 
+way.  Feel free to link my site to yours, just keep your site updated so that 
+everyone may have access to the latest versions.
+[NOTE]-If you have anything to contribute to my site, feel free to email or ICQ 
+me, and I will accredit you accordingly.
+
+Versions
+
+v 0.3
+7/28/2000/12:30-2:30 AM- Started this project.  Got the general outline done and 
+finished the Introduction, getting started, and stat explanations.  Started the 
+characters section.
+
+7/28/2000/1:30-4:45 PM- Finished the characters section.  Did the FAQ and the 
+[Coneria] section of the walkthrough (Just that took 3 hours ugh).
+          5:30-7:00 PM- Finished the [Arrrr Matey!] part of the walkthrough and 
+added a special trick to power up levels
+          7:00-8:00 PM-Started [Time for a Nap!] section of the walkthrough and 
+made price estimates for all the characters.
+8/05/2000/9:00-10:00 PM-Just got back from vacation.  Finished [King of the 
+"Marshians"] section, and did [Northwest Castle].
+8/06/2000/1:00-2:30 PM-Did some revisions and corrections.  Finished Lists/ 
+Analysis for all Magic up to L4.  Added some more detail to other sections.
+          7:30-9:00 PM-Finished the [Time for a Nap!] subsections and did the 
+[Kaboom!] section.
+8/07/2000/8:00-9:30 PM-Did [Side Trip to Crescent Lake] Section
+8/08/2000/1:30-2:00 AM-Finished the Weapons, Armor, and Magic for Crescent Lake.
+8/09/2000/1:00-1:30 AM-Did some refining on the [Statistics] Section and started 
+[The First Orb] section.
+          9:30-11:00 PM-Finished [The First Orb] section.  Did [The Titan and 
+the Ruby] section.
+ v 1.0
+8/10/2000/8:00-8:45 PM-  Did [The Earth Cave] section
+8/11/2000/7:00-8:30 PM-  Did [A Choice] Section and started [Gurgu Volcano]
+8/12/2000/10:30-11:00 PM- Finished [Gurgu Volcano] Section
+8/13/2000/9:30-11:00 PM- Did [The Ice Cave] Section
+8/17/2000/4:30-5:00 PM- Added a guide for the Marsh Cave
+8/18/2000/3:30-4:30 PM- Did [Fly like and Eagle] Section and most of [Tale of a 
+Rat] section. 
+          10:30-11:00 PM- Finished [Tale of a Rat] section
+8/25/2000/9:45-10:30 AM- Did [Stuff to Do] and started the [Shopping] sections 
+of the walkthrough.
+          9:15-9:45 PM-  Updated some information about statistics.
+8/26/2000/10:00-11:00 PM- Updated some more information about stats, corrected a 
+few mistakes, and added lots more to the [Shopping] section of the walkthrough.
+          12:00-2:45 AM- Started [Techno-Waterfall], added more to [Shopping],  
+finished Magic sections (ugh), and did [The Loot Root].
+8/28/2000/3:00-3:30 PM- Finished [Techno-Waterfall] and did [The Oasis] section.
+8/30/2000/5:30-6:15 PM- Did [The Submarine] and [Lefein] sections, and started 
+[The Mirage Tower] Section.
+8/31/2000/7:00-7:30 PM- Worked on [The Mirage Tower] section.
+9/05/2000/8:00-9:00 PM- Finished [The Mirage Tower] section.
+9/16/2000/9:30-11:30 PM-After 43 pages, an 11 day break, and 2 hours tonight, I 
+finally completed my walkthrough, so all may read and enjoy.
+-----------------------------------------------------------------------------
+I.    Introduction
+
+II.   FAQ/What you should know  
+
+III.  Getting Started
+        What you need
+        Statistics
+        Characters
+        Choosing a Party
+
+
+IV.   Walkthrough
+        Coneria/Temple of Fiends
+        Arrrr Matey!!
+           Power Peninsula
+        Time for a Nap!
+           King of the "Marshians"
+           Northwest Castle
+           Crystal Clear vision/Wake up and smell the Herbal tea!
+           Cleaning Up
+        Kaboom!
+           A side trip to Crescent Lake
+        The First Orb
+           The Titan and the Ruby
+           The Earth Cave
+        A Choice
+           The Gurgu Volcano
+           A Tale of a Rat
+           The Ice Cave
+           Fly, on your wings, like an Eagle, Flies High as the Sun...
+        Stuff to do
+           King of the Dragons
+           Shopping
+           [Extra]-The "Loot Root"
+        Techno-Waterall
+        The Oasis
+        The Loot Root
+        The Submarine
+        LeFein 
+        The Mirage Tower
+        Earth! Fire! Wind! Water! Heart!
+
+V.    Epilogue: Comments, questions, and answers
+-----------------------------------------------------------------------------
+
+
+
+I.    Introduction
+
+     Before familiarizing you with the Final Fantasy itself and its operating 
+system, you should get a good idea of the walkthrough itself before you go on at 
+all.  This is the perfect walkthrough for the beginner, because there is 
+ABSOLTELY NO EXPERIENCE NECESSARY.  This walkthough is good for the beginner 
+because of the level of detail it provides in the tough spots, as well as in-
+depth advice to guide anyone through the most important of decisions.  However, 
+this walkthrough is not just for the Beginner, because the level of detail, and 
+the plentiful pointers can make any player better, regardless of experience.
+    I also feel that you should be introduced to the starter or the epic Final 
+Fantasy series, as well is the actual Nintendo system, so that you may be 
+familiar with the game before starting.  Final Fantasy is a classic RPG made by 
+Squaresoft in Japan.  This game is what started the whole series, which now 
+numbers up to 9, on the good old 8-bit Nintendo.  Well, in 13 years since the 
+game came out, both video games in general and Final Fantasy have made 
+incredible advances.  There have been seven sequels to Final Fantasy, and Final 
+Fantasy 9 is due out soon.  There is also one more Final Fantasy known as Final 
+Fantasy Tactics, which retraces its roots to classic RPGs, rather than become 
+involving with complex plots and long storylines like the later Final Fantasies.  
+I have played every single Final Fantasy ever made, but there is just nothing 
+that can compare to the original.  This is the first walkthrough I have ever 
+written, and I do not plan to write any more.  I am dedicating my time to the 
+best FF ever made, Final Fantasy 1. 
+     You will notice 2 things absent from my walkthrough.  On most FAQs that 
+I've read, I always see a monster list (bestiary) and a Magic list.  I thought 
+about adding these, but I thought to myself:  I have already covered these 
+sections in the midst of the walkthrough to a level of detail and usefulness 
+unsurpassed by any FAQ I've ever seen.  Rather than just listing Magic and its 
+function, I gave advice on which spells to buy, and when to use them.  Instead 
+of writing a monster list, I told you about every single monster in the entire 
+game that might give you trouble, told you how to beat them.
+     There was one thing that was eating away at me the every time I read an 
+FAQ.  There was always one of 2 faults.  One, the walkthrough was only for a 
+certain party, like 4 White Mages.  It told you how to get through the game with 
+4 White Mages.  But, how do you do it with 4 Black Belts?  The other fault was 
+generic information.  Some people gave information good for any party, but none 
+enough to really help a beginner.  My walkthrough gives DETAILED IHFORMATION for 
+EVERY PARTY you can think of--from buying equipment and equipping it, to what 
+spells to buy for different parties.  
+Read and Enjoy!
+
+
+II.   FAQ
+     Well, this thing isn't posted on the internet (as of the time I'm writing 
+this), so I don't actually have any "asked" questions.  However, I included some 
+miscellaneous questions that I know I'm going to be asked someday anyway, and 
+other things that I've seen come up on the Message Board on GameFAQs.  Speaking 
+of GameFAQs, although it implies that its files are based on the FAQ, this one 
+will be much more focused on the walkthrough rather than the FAQ.  [NOTE] READ 
+THIS ENTIRE SECTION BEFORE ASKING ME ANY QUESTIONS!!!
+
+1.  Why Final Fantasy 1?
+     I love this game.  I've been playing it ever since I was a kid.  This thing 
+started the whole spur of Final Fantasy, and I wanted to dedicate my time to 
+such and awesome game.  I especially like the fact that you can choose your 
+party.  This adds tons of replay value that you can't get from other Final 
+Fantasies.  You can experiment to find the best party, or challenge yourself 
+with the worst.  This was the best game ever made. 
+
+2.  I heard about [this rumor].  Is it true? 
+     No.  People make up tons of weird things just so they can laugh when their 
+friends spend hours in vain trying to find something stupid.  I even heard of 
+some stupid hidden vendor in the Temple of Fiends that sells you a Masmune for 
+100,000 GP.  Nice Try.  However, if you would like to tell me about something, 
+and have reasonable proof of it (screen shot, savestate, or something like 
+that), I will gladly post your secret and credit you accordingly.
+
+3.  Uh, you spelled Masamune and Excalibur wrong.  What's up?
+     Final Fantasy has only so many letters for their Weapons and Armor.  So, 
+that's there XCalber and Masmune come from.
+
+4.  I heard that specialized weapons like the Were, Rune, Coral, Dragon, Giant, 
+Fire, and Ice Swords have no bonus effect at all on any monster.  Is this true?  
+     Well, this is very tough to say.  Is there a huge difference?  No.  
+However, even though the Fire Sword has a smaller damage rating than the Ice 
+Sword, I have seen the Fire Sword work better than the Ice Sword on undead and 
+Ice creatures.  But, as for most of the specialized swords, you will find that 
+you will already have a much stronger sword anyway.  For example, you will have 
+the Silver Sword much sooner than you will get the Were Sword, and even against 
+Were monsters, you will find the Silver Sword to work much better because it is 
+so much stronger.
+     As for specialized armor, there is definitely a very noticeable difference.  
+Ice armors provide protection against Fire, and Fire armors likewise against 
+Ice.  The Ribbon also gives protection against all the elements.  Also, I read 
+on Ben Siron's FF1 Handbook that the Aegis Shield provides protection against 
+poison status, as long as it is not inflicted with the regular attack.
+
+5.  Anything you need to know that's not on here?
+
+[Stuff you should Know]
+     There are a few things that you should know before you go straight to the 
+walkthrough.  You will find new words that you've never seen before, or you will 
+find some words used in completely different ways than you've ever seen them.  
+To avoid confusion in the future, here is a list of some out-of-the-ordinary 
+words you will find throughout the walkthrough:
+
+CAPITAL LETTERS-  You will find many words in all capitals.  Many times, this is 
+either for emphasis, or more commonly, a way of setting a spell or item aside 
+from the rest of the walkthrough.  All spells and Items will be found in capital 
+letters.  Also, if you see a capital letter like in the word Fighter, this means 
+the class, Fighter.  If you see fighter without the capital, it's a general term 
+for a fighting character, such as a Fighter class, Thief, or Black Belt.
+
+Spiked Square-  Normally, you will encounter enemies randomly if you are in a 
+cave or tower.  However, sometimes, there are special squares where you can step 
+where you will always find the same battle, every time you step there.  
+Sometimes, you will find the enemies to vary slightly in type or number.  
+However, one thing that you can rest assured- there WILL ALWAYS be a battle on a 
+spiked square.
+
+Critical Hit-  Sometimes, your characters will hit the enemy for more than usual 
+damage, and it will say Critical Hit.  If one of your hits is a Critical Hit, it 
+will do twice your Damage rating, regardless of the enemy's defense.
+
+Gold and Experience-  When you win a battle, you will get gold and experience 
+for your efforts.  Each enemy gives a certain amount of gold and experience upon 
+its demise.  When you get gold, it will be added to your party's pool, which it 
+will share.  When you get experience, the set number will be divided equally 
+amongst the number of non-stoned surviving members of the party, those who cheer 
+when the battle is over.  Note a few things:  If the experience is less than 
+one, you will get one.  Otherwise, it will be rounded down.  
+
+III.   Getting Started
+
+      For starters, you will need a copy of Final Fantasy and a Nintendo, or at 
+least an Emulator with the Final Fantasy ROM.  Once you get this far, start it 
+up, and it's time to play!  Watch the mini-intro and read the story line.  It 
+will let you choose a Respond Rate.  1 is painfully slow if and is nice if you 
+can't read for crap, but I recommend at least 7 or 8.  Now, start a new game and 
+you get to pick your characters.  Each character has his own strengths and 
+weaknesses, and you will need a perfect balance of power to get the party you 
+want.  Read the outline of the following characters and abilities, and then 
+choose a party that best suits your style of fighting. 
+
+Statistics
+     Stats affect many aspects of the game, and basically differentiate the 
+powers of each class.  Every stat has several functions that affect your 
+characters' abilities.  There are six main stats and four other stats that will 
+be important throughout the game.  There is a great "Handbook" made by Ben Siron 
+on gamefaqs.com that explains in detail all the formulas for determining derived 
+stats such as Hit% and Evade%.  I read through this, and I picked up some useful 
+information.  Since I some of this information in here, and I cannot call it my 
+own work, any sentence containing any of Ben Siron's work is noted with an 
+asterisk (*).  
+
+
+Hit Points
+     Hit Points are (duh) non-existent in real life.  In Final Fantasy, they 
+determine how much "Life Force" a character has. When a character is hit, he 
+loses Hit Points.  When he loses all his Hit Points, he dies.  
+
+Strength
+     Strength is pure power.  A strong character will be able to do lots of 
+damage with the Fight command, if equipped with a good weapon to compliment.  
+Strength does determine your base DAMAGE stat, but the formula is rather 
+complicated and varies from class to class.  Either way, a higher Strength stat 
+will boost the DAMAGE stat.
+
+Agility
+     Agility is the ability to move around.  In Final Fantasy, Agility will have 
+the function of determining your Evade stat.  Add 48 to this number to get your 
+base Evade, then subtract your armor*.  I had one theory in an earlier version 
+that it might affect who acts first in battle.  I can not really back this up, 
+nor am I sure myself that it's true, but I thought it was worth mentioning.  
+
+Intelligence
+     Intelligence is a measure of the ability of the brain.  As of this point, I 
+am quite unsure of the function of Intelligence in Final Fantasy.  It is 
+certainly not apparent, but I am still trying to find something definite.  
+Either way, I will still present my theories until I find out some more 
+information.  As far as I can tell, intelligence will mainly affect magic.  I 
+have several theories that stem off of this.  My first is susceptibility to 
+magic.  I think that a character with high Intelligence will be more susceptible 
+to magic of all types.  Magical attacks will hurt a smarter character much more 
+than a dimmer one, but Healing spells will restore more HP as well.  If this is 
+true, this would explain why White and Black Mages always get pelted so bad by 
+magical attacks, even though ABSORB has nothing to do with magic.  My second 
+theory is more common, but still not proven, nor is there enough information to 
+do so.  I think Intelligence might affect the ability of a character to use 
+magic.  For example, CURE always restores somewhere in between 16 and 32 HP.  My 
+theory is that a character with higher intelligence will get closer to 32 HP 
+back.
+
+Vitality
+     Vitality is the energy of life.  This is more or less the idea of Vitality 
+in Final Fantasy.  When you get a level up, you gain a certain amount of Hit 
+Points.  While the formula that determines the gain is rather complex (and 
+variable for that matter), Vitality does play a role in determining Hit Point 
+gain.  Basically, 1 more Hit Point will be added to the formula for every 4 
+points of Vitality you gain*.  However, in addition to that, I do have another 
+theory of a secondary function of Vitality.  I noticed that Black Belts, and 
+Fighters for the most part, seem to have more resistance to poison and related 
+status attacks than Black Mages and other characters with low Vitality.  So, I 
+developed my theory that maybe Vitality might also have an affect on status 
+resistance as well.  This was my best guess before I learned that Vitality plays 
+a definite part in Hit Point gaining.
+
+Luck
+     Luck scientifically does not exist in real life, but is used as a term for 
+the happenings of random events in favor or detriment to a person.  While the 
+actual function of Luck in Final Fantasy is unknown, well, to me at least, there 
+are several theories.  In an earlier version, I stated that Luck determined 
+Evade, among other things.  I was wrong in saying that, as Evade is strictly 
+proportional to Agility.  I also thought that it had something to do with Hit%, 
+which was also wrong*.  Hit% is determined by your level and class*.  Yet 
+another theory I had was that it was like a "god" skill, that affected all 
+others, by basically favoring chance along with the effects of other stats.  I'm 
+not sure if this is completely wrong, but I don't know for sure either way, and 
+I have little to back it up.  I have just one more theory that is not quite 
+tried and true, but is accurate as far as I know.  I think Luck might have 
+something to do with the ability to escape battles.  I do have a background for 
+this theory, yet still not hard evidence.  I was thinking about the Thief and 
+his ability to almost flawlessly escape battles.  Then I considered the one 
+thing that he had that others didn't:  a high Luck stat.  Hence, my theory about 
+Luck was created.
+
+Damage
+     Damage directly affects how much damage your character will do when he is 
+attacking.  Damage is equal to your weapon's Damage value plus half your 
+strength.
+
+Hit
+     Hit percent determines whether you will hit an enemy or not.  Furthermore, 
+if you have a very high Hit Percent, you may actually hit the enemy several 
+times, not just once.  You will notice your characters will start to make more 
+than one hit around Level 8 or 9.  Your weapon has a determined Hit value, which 
+will raise your Hit Percent.  Your Level will affect Hit% somewhat, but that 
+depends on your class*.
+
+Absorb
+     Absorb is how much damage will be blocked from an enemy's attack.  Someone 
+with a higher Absorb stat will take less damage from monsters.  Absorb is 
+determined by the sum of the Absorb values of all your armors put together.  
+Your other stats have absolutely no effect on Absorb.  Without any armor, your 
+Absorb value will be zero.  
+[BUG] In Final Fantasy, there is a bug in the Absorb stat.  For Black Belts and 
+Masters, after you visit your armor screen, you will see that a Black 
+Belt/Master's Absorb will equal his level, as long as you have no armor 
+equipped.  If you do have armor on, Absorb will be equal to the armor's value, 
+whether this is higher of lower.  However, this is intended.  But, for Masters, 
+if you equip a piece of armor, then level up, the Absorb value will revert to 
+your level until you visit your armor screen again.  Even if you turn the system 
+off, or use a piece of armor in battle, your Absorb will still be your level 
+until you hit start, then go to armor and press A.  So, you will be able to get 
+the benefits of the Ribbon and ProRing without forfeiting the Master's naturally 
+high Absorb value.
+
+Evade
+     Evade determines whether an enemy will hit you or not.  Also, it can 
+actually determine how many times an enemy hits you.  If an enemy is capable of 
+hitting your 4 times at once, if you have a high Evade stat, he might only hit 
+you twice, once, or maybe not at all.  Each character has an Evade value equal 
+to his Agility plus 48*.  Your Evade value equals your characters basic Evade 
+value MINUS all the Evade values of your armors put together.  So, heavy Armor 
+like Iron Armor and Steel Armor have a high Evade value which is bad.
+     
+
+          Characters
+
+     Fighting Characters- These guys are generally tuned to fighting and brute 
+strength.
+
+
+Fighter
+     The Fighter is true to his name, no more, no less.  He is your typical 
+powerhouse that can equip all kinds of weapons and armors.  He has very high 
+strength and vitality, and will eventually become very agile as you Level up, 
+plus he gets tons and tons of Hit Points, seemingly to no end.  The Fighter is 
+good because he is a real survivor.  He has high HP, and can equip lots of Armor 
+and defense, so each Hit Point will be worth a lot.  With the combination of 
+high HP and high defense, the fighter can take huge beatings and still remain 
+standing.  However, he has very little speed at the beginning of the game, is 
+rather dumb, and cannot use magic.
+
+Thief
+     The Thief is, uh, not really a Thief.  He can't really do much, and he 
+doesn't have much Strength or Hit Points, but he is considered more of a 
+fighting character only because he can't use magic.  The Thief has a very high 
+luck stat, but that only affects the ability to run (and even that I'm not 
+completely sure of).  So, while other characters are fighting and earning 
+experience, the Thief is running away and staying weak.  Since he never has a 
+good attack, Hit Percent won't matter much.  Evade won't do him much good, as 
+most enemies will hit you no matter what.  Also, with his low Absorb rating and 
+low HP, any hit WILL be devastating.  He does develop good speed later in the 
+game, but not even as much as a Fighter.  I strongly recommend against using a 
+Thief, since he really has no strong points.
+
+Black Belt
+     The Black Belt is a very unique character.  He fights very well with his 
+bare hands, and gets good Hit Points, with OK strength, which will increase 
+rapidly as you level up.  The two most unique things about him are ABSORB and 
+DAMAGE.  For some reason, his DAMAGE always equals twice his level, provided he 
+has no weapon equipped.  Much unlike any other character as well, his ABSORB 
+equals his level if he does not have any armor equipped.  This is especially 
+weird because most characters have an ABSORB rating of Zero without armor.  
+While his Absorb can get up to 50, provided he is at Level 50, he does have 
+pretty good defense.  However, that doesn't really help much, because he will 
+always suffer, as through the vast majority of the game he will NOT be at Level 
+50.  What's worse?  He can't equip much of any armor at all to compensate!  All 
+in all, his defense will always be fairly low.    He really stinks at low 
+levels, but the Black Belt can serve you well later in the game.  The weirdest 
+thing about the Black Belt is how he opens up.  In the beginning, he doesn't get 
+many Hit Points.  But, since he gains Vitality every level, no questions asked, 
+he will very steadily gain more HP every level he gets.  Not only that, by level 
+8 or 9 or so, he gains the ability to very efficiently fight with his hands.  
+While he will be weak against many powerful bosses or any other monster with 
+high defense for a while, the "opening up" theme WILL kick in.  While it will 
+take time, by Level 30, he'll be able to do over 1000 damage to just about any 
+monster there is!  So, to make a long story short, if your Black Belt isn't good 
+enough, level him up a bit, and he'll be a LOT better.  He is also good because 
+you will not have to spend much money on him, which can save lots of time.  
+However, there is much Armor that he cannot equip, making him rather vulnerable 
+to attack.  He can do good damage without a weapon, but when you come to fight a 
+boss with high defense, you will find him rather useless when he cannot do much 
+damage at all unless he as at a VERY high level, and will always be very open to 
+a boss's tough offense.  
+
+     Magic Users- These guys are generally tuned to magic and intelligence
+
+Red Mage
+     Now this is your star player.  He has no super high stats, but likewise, no 
+low stats.  Hence, you will almost never find him in a situation that he cannot 
+handle.  The Red Mage gets exceptionally high Hit Points in the beginning of the 
+game, although the rate of increase will slowly curve off, but not until much 
+later in the game.  Even still, he will always have enough HP to take some heavy 
+beatings, although not quite like a fighter.  Also, a Red Mage gets good 
+Strength, especially for a Magic User.  This Strength, combined with a good long 
+list of weapons and armor that he can use, make him useful for fighting as well 
+as using magic.  Also, his agility, intelligence, vitality, and luck will always 
+be above average.  Now, besides being a pretty good fighter, the combinations of 
+magic he can use are phenomenal.  He gets both White and Black Magic, for the 
+ultimate combination of attack, curing, and support magics, which can also boost 
+the other characters' usefulness.
+
+White Mage
+     The White Mage is your typical healer in a classic RPG.  As you would 
+expect, he gets a lot of Intelligence and spell casting ability. He has very 
+little offense, defense, Strength, or equipment that he can use, but he can use 
+a plethora of support and healing spells that help both himself and other 
+characters.  He is good to have around on long trips when potions just aren't 
+enough to keep your party going, or when you are facing a fierce enemy where you 
+need quick defensive spells.  He gets fair Vitality, and HP, but without being 
+able to equip much good armor, he tends not to be very survivable, and you will 
+often find is lack of offense frustrating in long caves and fortresses.
+
+Black Mage
+     The Black Mage is also a typical dark magician in a good classic RPG.  He 
+has very high intelligence, and his powerful magic can cripple a big horde of 
+attacking enemies in a flash.  However, he only gets so many magic points, so 
+you will have to conserve this on long adventures, and you will find that he has 
+very little offense other than magic.  Also, his HP, Vitality, and Defense are 
+utterly pathetic, and you will often find yourself coughing up tons of cash for 
+healing potions one after another, or exhausting other mages' magic to keep 
+curing him.  He really cannot equip much of anything at all, so you will find 
+him about as survivable as a slug in a salt mine.
+
+
+
+Well, that about does it for all the major characters in FF1.  However, a bit 
+past halfway through the game, your characters will evolve, and you will get a 
+"Class Change".  This opens up a whole new world of possibilities for some 
+characters, so I thought it would be helpful to put this in before your choose 
+your party, just so you have something else to consider before making your final 
+decision about your party.
+
+Fighter -> Knight
+     Well, the Knight is pretty much the same as the Fighter, save a few things.  
+The Knight now gets to equip all kinds of Weapons and Armor.  Now more than 
+ever, he will be your star fighting character, and with these new weapons and 
+armor, he is ready to pound anything, or take a pounding just as bad.  What's 
+more?  He can use some White Magic!!! Well, it's not much, but having some extra 
+cure magic does help.  He can get magic such as CURE and CUR2, but his lack of 
+intelligence makes his magic somewhat ineffective.
+
+Thief > Ninja
+     Oh my God!! The Thief actually became USEFUL!! The Ninja can equip almost 
+every single weapon in the entire game, which significantly increases his 
+firepower.  Also, he can also handle lots of armor, giving him some good 
+defense.  The Ninja can also use some Black Magic, including FAST, probably the 
+best magic in the game.  However, other than this, he is little different than 
+the Knight, except his strength is much lower.  This, combined with how tough it 
+was to actually keep him alive this long, cuts into his usefulness a whole lot.
+
+
+Black Belt > Master
+     Well, this guy uh, almost doesn't change at all!  he still can't equip many 
+weapons or much armor, which really hurts.  His low defense will always plague 
+you, but his offense can be a different story.  Technically, at Level 50 (the 
+highest) it is "possible" to get 20 hits, with critical hit, causing over 8000 
+damage, so he can kill ANY guy in one shot.  However, he can only do NEAR this 
+much damage to the most wimpy and crippled monsters (even then he still never 
+does 8000 damage), and he will still have a lot of trouble doing much damage at 
+all to a boss or tough monster.  He is also the only character in the game after 
+the class change who can't use magic.  I noticed when I was fighting Lich with 
+Level 15 Black Belts that they hit 4 times, but only got around 30 damage!  Even 
+with a Critical Hit, they only got around 50.  I'm not sure why this is, even 
+though he can do tons of damage to just about any wimpy monster in the game.  
+However, when I advanced him to a Master at around Level 30, he started doing 
+around 1000 damage to any monster, regardless of defense!  He really is a unique 
+character, as always.
+
+Red Mage > Red Wizard
+     The Red Wizard, still your star player.  Well, his usefulness drops off 
+slightly toward the end of the game, when his HP gains start to slow, and he 
+kind of becomes stuck in the middle.  He is neither a super-power fighter, like 
+the 3 fighters who now become very effective with the Fight command, and there 
+is a lot of high-level magic that he can't use. However, he STILL is good.  He 
+will always be strong enough to knock and obnoxious enemy out cold, and the 
+powerful combination of White and Black magic will always dominate.
+
+White Mage > White Wizard
+     Well, he doesn't really change much.  He still can't equip very good 
+weapons or armor, and will always be somewhat weak.  However, he can learn ANY 
+White Magic spell in the game. There is one spell of the highest level that will 
+actually give him some firepower.  FADE will cause about 200-400 damage on all 
+enemies, which can be helpful at times when you just want to get rid of a bunch 
+of guys without worrying about defense, but rater how fast you can kill them all 
+(4 Frost Dragons can never be good).
+
+Black Mage > Black Wizard
+     Much like the White Wizard, the Black Wizard does not change much through 
+the class change.  The Strategy Guide says he gains strength, but I really don't 
+know where that came from.  All stats remain the same through the class change, 
+and he actually gains strength slower than he did as a Black Mage.  The best 
+thing is, he can learn ANY Black Magic spell in the game.  Even still, his 
+Strength, Vitality, and HP will always hold you back, and he always seems to be 
+either dead or really close to it.  
+
+
+          Choosing a Party
+     Alright, now that you have a good idea of what all the characters are like, 
+it's time to pick your 4 favorites.  Keep in mind that any 4 of one character 
+will NEVER give you the best party.  However, I have outlined a list of 
+suggestions for you to base your party on, keeping in mind your style of 
+fighting.
+
+The Classic Party:  Fighter, Black Belt, White Mage, Black Mage
+     Well, this is the party of balance.  All things are moderated.  It has some 
+firepower, and all types of magic.  However, I do not like it at all.  The Black 
+Mage is always weak, and the Black Belt always seems to lose all his power when 
+it's time for a boss fight.  Also, on long trips, the mages will usually get hit 
+just once or twice for 100-200 damage each time, and you will quickly find them 
+sapping up your heal potions and cure spells.  Then, when they're finally 
+healed, they'll get whacked again, and they'll either die or suck up some more 
+heals.  Then, to top it off, on long trips away from home, you will have to 
+conserve your magic, so they will end up fighting most of the time, and will 
+always slow you down in battle.
+
+The "Default" Party:  Fighter, Thief, Black Belt, Red Mage
+     Well, this is pretty good if it's your first time.  The Thief and Black 
+Belt will save you money from equipment and magic, but will be relatively 
+useless other than that.  The Red Mage will always serve you well, with spells 
+like CUR2 and FAST.  Not only will he be able to heal your guys, he gets tons of 
+support magic to make your fighters even better.  Well, this party just needs to 
+switch a few guys around, and you can get great combinations of characters, as 
+what most of the following are based on.
+My Party:  2 Fighters, 2 Red Mages
+     This is my  personal favorite.  These guys are POWERFUL.  Not only do you 
+have lots of good magic, you also have tons of firepower.  Every guy can pack a 
+mean punch against any monster.  FAST will come to be beyond value, and 
+FIR2/LIT2/CUR2 will push you through the game to the bitter end.  The only 
+disadvantage is money.  You will always find yourself in a pinch for cash.  
+However, these guys are so powerful, you can get along just fine with only 
+second-rate weapons and magic.  This is what you want to go for if you want the 
+perfect balance of fighting, magic, and defense.
+
+Superpower Party:  2 Fighters, Black Belt, Red Mage
+     This is a variation on my favorite party.  These guys have tons of fighting 
+ability.  They make up for their lack of magic with a complete lack of need for 
+it. These guys are aimed a little more toward economy and fighting and less 
+toward magic.  Some people love Black Belts.  While I don't personally like 
+them, I won't deny their usefulness in this party.  Like my personal favorite 
+party, these guys will last and last through tough caves over and over.
+
+The Defense Party:  Fighter, 2 Red Mages, White Mage
+     This party is good if you are facing a few tough bosses on short trips 
+where you don't need to worry too much about Magic Points.  The firepower of the 
+Fighter and 2 Red Mages really can knock out a WarMech no problem when combined 
+with the support of INV2, ARUB, FOG2, FAST, and CUR3 from your Mages.  This 
+party is way too complicated if this is your first time playing, but if you know 
+how to manipulate these guys, you can really pack a mean punch against any boss 
+you want.  However, these guys will take put a nasty sting on your wallet, so be 
+careful where your dump all your cash.
+
+The Magician's Party: 2 Red Mages, White Mage, Black Mage -OR- Red Mage, White 
+Mage, 2 Black Mages
+     Well, I don't really like this combination very much, but I suppose you 
+could make use of it if you love magic.  These guys will always be weak, and you 
+weapons and armor WILL suffer throughout the entire game.  However, I suppose 
+they would be useful in annihilating a huge pack of Frost Wolves, but their 
+magic points would thin out quickly.  Also, tell your wallet to prepare to die, 
+cause you'll be spending tons and tons of cash on magic and expensive yet 
+ineffective bracelets for your whole party.  
+The Challenge Party:  4 White Mages
+     Well, these guys, uh, suck.  However, that's the whole idea for the avid 
+Final Fantasy player.  These guys will NEVER have good offense, at least until 
+you get the Masmune at the end of the game.  Your defense will never prosper, 
+but you will always have plenty of defensive magic, and spells like RUSE will 
+always keep tough guys missing you.  Uh, be prepared for a challenge.  There are 
+detailed walk-throughs for this party, but I'm not going to bother with specific 
+party walkthroughs.
+
+
+
+
+
+IV.  Walkthrough-This is not complete at this time.  Please have patience, as 
+such a piece of work cannot be done in a day.  Thank you.
+
+YAY!! We have our parties, it's time to start!!
+[Coneria/Temple of Fiends]
+     You will start out in the plains, just south of a bunch of towns and a 
+castle.  Immediately head up into one of the towns (they're all the same, it 
+doesn't matter which).  It's time to buy equipment and Magic!
+Fighter:    Buy Rapier and Chain Armor
+Thief:      Buy Rapier and Wooden Armor
+Black Belt: Buy Wood Chucks and Wooden Armor
+Red Mage:   Buy Rapier and Chain Armor
+White Mage: Buy Iron Hammer and Cloth
+Black Mage: Buy Small Knife and Cloth
+Now that you have weapons and armor, it's time to fight and earn money.
+Go out of the town.  You can go to the castle and talk to everyone to learn some 
+stuff, but there's nothing really to do here.  Walk around and fight guys for a 
+while, at least until Level 2.  Now, you should have some extra cash.  Stay at 
+the Inn, and then buy some magic:
+Red Mage:   CURE FOG  FIRE or SLEP or LOCK
+White Mage: CURE HARM RUSE or FOG
+Black Mage: FIRE LIT  SLEP or LOCK
+ [NOTE] CURE will always be useful, even later in the game.  For now, it works 
+just like a HEAL potion, but you don't have to spend money to use it.  Later in 
+the game, you will notice that even 99 HEAL potions will quickly wear thin, so 
+CURE will be a good supplement to potions.  For the White Mage, you should have 
+HARM, which will ALWAYS be useful for pesky undead monsters, plus this gives the 
+White Mage a gateway to actually mount a good offense sometimes.  I suggest 
+getting FOG instead of RUSE, as most of the time, enemies will hit you no matter 
+what, and you will need defense rather than evade.  Plus, RUSE only works on the 
+caster, and a more useful spell, INVS, will appear in Level 2, which will have 
+the same effect, but on any character.  On the other hand, a spell like FOG will 
+not appear until L7 Magic (FOG2), and that will not be for a long time.  
+However, if you combine RUSE and INVS against a Giant from Power Peninsula, with 
+about 8-10 layers of RUSE/INVS, you will be almost impossible to hit.  It's a 
+tough decision, but it's your choice.  For the Red Mage, CURE will be a definite 
+choice without second thought.  I suggest FOG, as the Red Mage cannot learn RUSE 
+until the class change, when it will be obsolete anyway.  Unlike the Black Mage, 
+FIRE and LIT will be bad choices because they only work on one guy, and for over 
+99% of battles, a Red Mage's regular attack will be far more powerful than a 
+casting of FIRE or LIT.  However, there is ONE MONSTER in the ENTIRE game, that 
+you MIGHT want FIRE for.  Muck will take one damage from an attack (except 
+critical hit), but will be knocked out by FIRE.  However, I don't feel buying 
+FIRE is worth it for the one place this monster pops up.  SLEP or LOCK would be 
+better choices than FIRE.  The Black Mage has very low fighting damage, so FIRE 
+and LIT will be very useful for the beginning of the game, and even toward the 
+middle of the game when you don't want to waste a L3 Magic Point on just one 
+guy.  SLEP or LOCK are both OK choices, but neither are really that great 
+anyway.
+
+Now that you have some good Magic and higher Levels, buy a tent, and go 
+northwest to the Temple of Fiends.  Save before entering.  Now, go to the left 
+and into the treasure room for find a cap.  Equip it on one of your characters, 
+whoever is getting beat up the worst.  Then, go up to the other treasure chests 
+and pick up a CABIN and a HEAL potion.  Now, exit the Temple and just fight 
+around it for a while.  When you're feeling bold, go ahead and fight inside the 
+Temple.  When you're ready, go back to the Inn in Coneria and buy whatever magic 
+you didn't have before. Then go back to the temple.  Go straight up and talk to 
+the man there, who will be...
+
+BOSS FIGHT-Garland
+HP: 80-100 or something like that
+    This guy shouldn't be too hard.  He can to some heavy damage to some of your 
+ill-equipped mages, but you can just cast RUSE, FOG, and CURE to help that.  
+Just keep pounding him and he should pass away with little difficulty.
+
+Now that you beat Garland, fight some guys around the Temple until your HP and 
+Magic start to get really low.  When they do, talk to the girl and...
+
+Free trip back to Coneria Castle!!  Go up and talk to the King and then his 
+daughter. YAY! Part one complete!
+
+[Arrrr Matey!]
+     Ok, go to the Inn to rest up and buy a tent at the Item shop.  Go across 
+the bridge north of Coneria.  Watch the little "movie scene" (not quite like 
+those in FF8).  Then go North to Matoya's Cave.  A broom there will say HSUP B 
+TCELES.  Read it backward to see the message "Push B Select"  Do this in the 
+outer world to see a world map.  Walk over the Skulls and pick up 2 Heals and a 
+Pure Potion.  Then, go south to just north of the bridge, and fight for a little 
+while.  When your HP get low, go back to Coneria's Inn one more time.  Then, 
+it's time to go to Provoka.  Go northeast then east, then finally southeast and 
+south.  Use the tent on the way if you need to get 30 HP and a save.  Go in the 
+town and walk straight up to the Inn and stay there.  Then, go to the left and 
+talk to the pirate there...
+
+BOSS FIGHT-Pirate x9
+HP: 6 
+     Any one of these guys is easy, but together, they can reek havoc on a wimpy 
+little mage.  Before you come in, buy SLOW if you have a Red or Black Mage.  One 
+shot of SLOW will send every pirate into vast stupidity, and you will notice 
+that most of them either miss or do only one damage.  Still hurting you?  Use it 
+again!  After the Pirates are crippled, have a White Mage and a Black Mage team 
+up on one guy, and have a Fighter, Thief, Black Belt, or Red Mage each attack a 
+different guy.  If your Black Mage can't seem to attack for crap, just use LIT 
+or FIRE to put one guy away quickly.  Use defensive magic as needed and they 
+will all soon be dead.
+
+With the Pirates dead, and some extra gold and experience, you are ready for 
+some shopping. First, talk to the pirate to get his ship.  I do not recommend 
+buying any weapons or armor here, other than a Cap for everyone except the 
+Fighter.  Instead, buy the INVS spell here, you won't need anything else for 
+now.
+Here is what your magic screen should eventually look like:
+Red Mage:   INVS, SLOW, ALIT or MUTE or TMPR
+White Mage: INVS, ALIT, MUTE
+Black Mage: SLOW, TMPR, ICE
+[NOTE] You only really need one party member to have ALIT.  So, if you have 2 
+Red Mages and a White Mage, for example, neither Red Mage would need ALIT, so 
+you should give them MUTE or TMPR.
+
+[SPECIAL TRICK-Power Peninsula] Hop on the ship and head southwest to Elfland.  
+Buy FIR2 for all your Red and Black Mages.  You should also buy some Iron Armor, 
+a shield, and a helmet for your Fighter(s), and Caps for everyone else.  If you 
+have the cash, you might want to buy Copper Bracelets for any White or Black 
+Mages you have.  Don't worry about anything else for now.  Head back to Provoka 
+and stay at the Inn.  Buy at least 2 Tents, and some gloves for everyone.  Now, 
+go southeast a little bit from Provoka, until your see a port to the North.  
+Make your way Northeast until you come to a Peninsula.  The top 2x2 squares 
+contain REALLY powerful enemies, and they will probably knock you out for your 
+first couple tries.  So, use a TENT before you fight.  You will need really good 
+tactics or really high levels if you want to win.  Here are some tactics I use 
+when fighting these guys:  Have a White Mage constantly cast RUSE on himself.  
+When those spells are exhausted, use INVS on him.  One time I had about 12 
+castings of RUSE/INVS on my White Mage.  All other guys were dead against 4 
+Giants.  I put a chair leg on the A button, and let it there for half an hour.  
+The White Mage killed all 4 Giants without losing a single Hit Point.  Wow!  
+Also, have any fighting characters attack, as they can do little else.  Now, 
+from here on out, the most important thing is what you're up against.  If you 
+encounter Giants, which is likely, you're probably out of luck.  You can reset 
+the game or choose to fight.  If you want to fight:  Try casting SLOW a lot to 
+reduce their power.  Try to concentrate on the Giants who have not "Lost 
+Intelligence".  Cast FIR2 as much as you can and protect your weaker characters. 
+This one is really tough.  You can also encounter ZomBULLs and TROLLS.  These 
+guys are tough, but they're weak against fire, so protect your weak characters, 
+have your fighters fight, and cast FIR2 to the bitter end.  They should go down 
+fairly easily.  Another possibility is a pack of Frost Wolves (varying numbers).  
+They have very little attack damage (relatively speaking).  They will use FROST 
+on you, which will cause a lot of damage to everyone.  If this kills you, reset.  
+Otherwise, just 1-2 FIR2 spells will knock them all out, regardless of their 
+numbers.  You can also encounter a Tyro.  Beware, he can easily do 90-100 damage 
+points even to a fully armored fighter.  Use defensive tactics on him, as FIR2 
+won't be much help.  Use TMPR, RUSE, INVS, and FOG for support.  I'm not sure if 
+SLOW works, but it will make the battle a joke if you can get it to work on him.  
+One time, I also encountered 3 Wyverns, but these are very rare.  They can be 
+tough, but I did kill all of them in one try with a L10 Red Mage, with all other 
+characters already dead.  Well, they can poison you with their attack, and the 
+attack alone is fierce.  To fight them, start off with SLEP.  Then, use SLOW and 
+keep casting INVS, RUSE, and FOG.  With any luck, they will die.  When you win 
+your first battle (my first one took me 4 tries), save with a TENT and head back 
+to Provoka.  If you can't win at first, keep trying, don't get discouraged.  If 
+you simply just can't win at all, no matter what you do, get some more spells 
+and equipment from Elfland or just charge up around Provoka for a while.  
+Anyway, beef up here for a while.
+
+[Time for a Nap!]
+     The plot thickens.  At this point, I think your adventure really starts, 
+rather than just wondering aimlessly from town to town.  Soon, you will actually 
+see a story develop, and the game gets much more interesting.  Now that you're 
+all beefed up from fighting the extra powerful enemies, you should have some 
+extra cash.  Believe me, you will need it all!  Head to Elfland again.  You can 
+talk to the people in the castle to learn that the Prince is sleeping and he 
+needs HERB to wake him up.  However, you don't need anything in the castle for 
+now.  Now onto the town.  This will open up a huge new world of weapons, armor, 
+and magic.  However, none of these are free.  Here is a cost per character of 
+supplies you will eventually need:
+
+Fighter: 4000(silver sword)+800(iron armor)+100(iron shield)+100(wood 
+helm)+60(gloves)= 5060 GP
+Black Belt: By now, he should not even need a weapon -5(sell Wood 
+Chucks)+60(gloves)=60 GP 
+Thief: 450(rapier)+60(gloves)=510GP
+Red Mage: 4000(silver sword)+60(gloves)+4500(L3 magic [1500/spellx3 
+spells])+12000(L4 Magic)=20,560 GP
+White Mage: 1000(copper bracelet)+60(gloves)+4500(L3 Magic)+12000(L4M)=17,560 GP
+Black Mage: 1000(copper bracelet)+60(gloves)+4500(L3 Magic)+12000(L4 
+Magic)+275(Large Knife)=17,560 GP
+
+WOW! That's a lot of money!  Although it's not much, you should sell all your 
+old equipment to get a small amount of cash back.  Either way, you'll be really 
+poor for a really long time.  However, some things are not essential, especially 
+not right up front.  Well, your Mages probably don't have L4 Magic points yet, 
+so you can hold that off for a while.  Also, L4 White Magic REALLY stinks, so 
+you won't need to bother with that until you have more than enough cash to go 
+around.  Well, FIR2, LIT2 and CUR2 are really good choices to start off with, 
+and FAST is also a great choice after you have enough cash for a Silver Sword 
+for your Fighter(s).  Nevertheless, you will eventually get a full set of Magic 
+for both Levels 3 and 4.  Your Magic menu should look something like this:
+
+L3:  These are some of the most useful spells for a long time, and even toward 
+the end of the game, you will still find yourself using most of these.  Choose 
+carefully.
+Red Mage:   CUR2 FIR2 LIT2 or AFIR
+White Mage: CUR2 HRM2 AFIR or HEAL
+Black Mage: FIR2 LIT2 LOK2
+
+[NOTE] Well, as with ALIT, only one member of your party really needs this, so 
+only give this to one character, preferably the White Mage, as HEAL is not 
+really a very good spell.  By this time, the healing power of CURE is not enough 
+to really help your characters, even if it does work on all allies.  The Red 
+Mage will have a VERY tough time deciding on Magic for L3, especially if you 
+don't have a White Mage.  CUR2 is ABSOLUTELY essential, as later in the game, 
+you will notice your HEAL potions will quickly start to wear thin.  Also, at 
+this point, you will need a more potent form of healing than CURE or a HEAL 
+potion.  There are many enemies weak against FIRE in this game, including the 
+undead, which usually attack in groups and often inflict paralysis on you.  FIR2 
+will be desperately needed to quickly take out huge packs of these pests.  Also, 
+FIR2 will become beyond value in the Ice Cave, probably the toughest endeavor of 
+the game.  I suggest displacing LIT2, as it is much less useful than FIR2, and 
+AFIR is essential to have at least one of.  The sea monsters are easy enough 
+without LIT2, and by the time you get to tougher monsters in the Submarine way 
+later in the game, casting LIT2 will be obsolete with the Zeus Gauntlet (casts 
+LIT2 when USED in battle), and by this time, you will also have LIT3.  I suppose 
+if you had a Black Mage, you could choose HOLD instead of LOK2, but HOLD only 
+works on one guy unlike SLEP, and they are often quickly freed.  On top of that, 
+it often only works on the wimpy enemies that you don't even need it for.  
+However, LOK2 will increase hits on any enemy, and magnify the effects of FAST, 
+TMPR, and SABR.  Nonetheless, neither of these will be as useful as FIR2 or 
+LIT2.
+
+L4:  If you want to know the truth, most of these spells are much worse than L3 
+Magic, and you might want to hold off buying these until you have tons of cash 
+to throw away.
+Red Mage:   FAST ICE2 AICE or AMUT or CONF or SLP2
+White Mage: AICE AMUT PURE or FEAR
+Black Mage: FAST ICE2 CONF or SLP2
+ [NOTE] The White Mage has very little useful Magic in L4, but AICE will be 
+essential for at least one character.  AMUT would me much more useful than it is 
+if there were more than 2 or 3 guys in the whole game that actually use MUTE, 
+but you might want it anyway.  PURE is no better than a PURE potion, so that's 
+quite a waste.  FEAR will make annoying wolves scatter, but will never actually 
+be useful.  Choose what you want here, but none of these will be important at 
+all except AICE.  As for the Black Mage, L4 Magic is okay, but nothing to get 
+exited about.  FAST will give a fighting character an incredible boost in attack 
+power, and ICE2 will always come in handy, especially in the Gurgu Volcano.  
+Neither CONF nor SLP2 will ever work against tough enemies (the only time you 
+actually need them to), so they will never be important.  Choose whichever is 
+more appealing to your style.  For once, not even the Red Mage will have a tough 
+time choosing Magic.  FAST and ICE2 are definites, and you will need AICE unless 
+someone else has it.  Otherwise, CONF, SLP2, and AMUT are up for grabs, but I 
+never use any of them anyway.
+
+[King of the "Marshians"]
+     The time has come.  This will be your first big endeavor in this game.  
+When you think you have enough equipment and magic (definitely 1-2 Silver Swords 
+and 3 Magic Points for LIT2), buy some items.  At the very LEAST, you will need 
+50 HEAL potions [3000 GP], 20 PURE potions [1500], a CABIN [250], and a TENT 
+[75] = 4825 GP.  Stay at the Inn.  Now, head to the Marsh Cave (south, west, 
+north, west, south, east) without using any Magic.  Save with either the CABIN 
+or TENT, whichever will give you full HP.  Now, head into the Marsh Cave.  Try 
+to run away from all monsters you meet, as most of them will cause extensive 
+damage and poison, without giving you much EXP or GP  If you encounter a Muck 
+and can't run, use FIRE or FIR2 on them, as any regular attack will only do 1 
+damage.  You will also find some Shadows.  Run if you would like, but otherwise, 
+just one or two HARM spells will knock them out,  and they'll be easy EXP and 
+GP.  
+     On the first floor, you will have several choices to make as to which way 
+to go.  You can do up, but it's just a dead-end with a little cash and some 
+second-rate treasure.  Instead, go down until you find a room.  Go in and go 
+down the ladder.  There is no treasure on this floor, although there are many 
+rooms and treasure chests.  Go down as far as you can, then make your way to the 
+right.  You will be in a somewhat large room with two doors.  Exit through the 
+other door and go downstairs.  This floor is like a grid of rooms.  There are 4 
+columns and 4 rows.  The 2 columns on the right have no good treasure, so don't 
+bother exploring them.  Most of the other rooms have some good treasure.  Get it 
+or don't, but your real destination is the 3rd row down, and the 2nd column from 
+the left.  Here, there will be some odd structure that looks like a throne, with 
+a treasure chest in the middle.  But when you step up to the treasure chest...
+
+[semi] BOSS FIGHT-WIZARDS
+     Well, these guys aren't exactly bosses, but they'll give you as much hassle 
+as one.  They come in packs of 2-5.  They don't have many HP, but their attacks 
+are VERY powerful.  A lightly armored White or Black Mage can take as much as 
+120 damage from one Wizard.  Although they usually don't do that much, even a 
+Fighter can easily take as much as 50 damage.  If you spend too much time 
+healing and protecting your weak ones, they'll quickly eat you alive.  Use RUSE, 
+FOG, or INVS on weak members, then have your fighting characters attack.  Have 
+Black and Red Mages use LIT2.  About 2 shots of LIT2 will be enough to take out 
+all the Wizards.  
+[NOTE]- This square with Wizards on it is what I call a "spiked square."  Every 
+time you step on a spiked square, you will encounter the same group of enemies.  
+There can be several different types of enemies here, and their numbers vary.  
+Nonetheless, every time you step here, you will get an encounter of generally 
+the same battle.
+[Extra]- I used to use this trick more than I do when I play now, but it's still 
+worth mentioning.  Sometimes when I have some extra HEAL potions, LIT2's, and 
+HP, I like to walk back and forth to the Wizards' square by the throne.  Each 
+Wizard gives you 400 GP and a considerable amount of EXP, so just 3-4 battles 
+will be enough to buy a Silver Sword or a L4 Magic spell.  So, if your party is 
+more geared toward fighting, try fighting these guys for a while if you didn't 
+get all the cash you wanted from the Power Peninsula by Provoka.  Fight some 
+more Wizards (or don't), retrieve the CROWN from the treasure chest, and exit 
+the cave.  
+
+[Northwest Castle/Crystal Clear Vision]
+     If you came here before, the King here told you that Astos stole the CROWN, 
+and he told you to get it for him.  Well, now that you have the CROWN, the King 
+tells you to give it to him (he'll also note that he has Matoya's CRYSTAL), but 
+this "king" turns out to be...
+
+[BOSS FIGHT]-ASTOS- HP-168
+     Astos is tough.  He is by far the most difficult boss you have fought so 
+far.  He has very high defense, and you'll find any Black Belts rather useless 
+unless they have some Iron chucks.  He also seems to have a pretty good 
+resistance to just about every spell you have, so your fighting characters will 
+be useful here.  For starters, try using FAST and TMPR on your fighting 
+characters, then use INVS, FOG, and RUSE to protect against some of his rather 
+fierce attacks.  Astos has several spells that can really hurt.  First, he will 
+probably start off with RUB, which, if it works (very likely), will knock out 
+one of your guys, probably the one on top.  Your level does have something to do 
+with the success rate of RUB and other auto-kill attacks, so if you can't stand 
+to have someone die, go charge up some levels if it keeps working.  Next, he 
+will probably use SLO2.  If this happens, just use FAST and TMPR to regain some 
+power, and cast LOCK to increase the number of hits you.  This is really a 
+problem, because your 2 best attackers are always at the top.  One will be dead, 
+the other too stupid to do more than 10 damage.  On top of that, I have seen him 
+use FIR2 and LIT2, so AFIR and ALIT will help immensely.  Also, he might use 
+FAST on himself, and if he does, be really careful.  Any characters but Fighters 
+will be in significant danger here.  Use lots of defensive spells and watch your 
+HP.  He doesn't have too high HP, so if some of your fighting characters are 
+still in working condition, keep your HP up, but concentrate on offense rather 
+than defense to take him out before he can cause much more trouble.
+     Astos might take you a couple of tries to kill, especially if your levels 
+are low.  Anyway, after you kill him, he'll cough up the CRYSTAL (it's in your 
+inventory).  You will also have retained the CROWN, which you will need later in 
+the Castle of Ordeal
+
+[Crystal Clear vision/Wake up and Smell the Herbal Tea!]
+     Take the CRYSTAL back to Matoya's Cave.  She'll say that see again and give 
+you the HERB.  If you talk to her again, she'll tell you to get out (don't be 
+too appreciative that you got your vision back and all).  Head back to Elfland 
+Castle and talk to the Prince's Servant, who will administer the HERB to the 
+prince.  Talk to the prince and he will give you the MYSTIC KEY.
+
+[Cleaning Up]
+     Finally, you got the Mystic Key.  You've been waiting for this for so long! 
+Now, you can get all the treasure chests you wanted to badly before.  Head back 
+to the Northwest segment of Castle Coneria, and you will be able to get the TNT 
+from the left treasure room.  Also there is a Silver Hammer which will power-up 
+you White Mage.  
+[NOTE] From here on out, there will be a rather long and tedious quest to hunt 
+for the treasure that you missed before. Everything here is nonessential for the 
+game, so if you don't really need weapons, armor, or money, you can skip this 
+part.  Here is a list of some locations and semi-complete lists of the treasure 
+there.  
+ Temple of Fiends:  There are 2 treasure rooms on the right that contain the 
+Were Sword and the Rune Sword among other things.  These are the best weapons 
+for the Thief up to this point.  If you don't have a Thief, these sell for about 
+3000 a piece if you need some cash.  There is a spiked square in the upper right 
+with varying numbers of Gargoyles (no problem).
+Northwest Castle:
+Marsh Cave:  This is a long journey for some mediocre treasure.  You can go to 
+the top floor and get some treasure if you didn't bother the first time; the 
+doors aren't locked here.  Now, head to the bottom floor.  On the three rooms on 
+the bottom, there are locked doors.  There is a Silver Bracelet here that a 
+Thief, Black Belt, White Mage, or Black Mage could make good use of.  I think 
+there is also a Silver Knife.  Among the treasure chests are a few GPs and a few 
+spiked squares.
+
+[Kaboom!]
+     Now that you have the TNT, hop on your ship and make your way to the 
+westernmost part of the Aldi Sea.  Follow the coast to the North until you come 
+upon a port.  Land there and make your way Southwest to the Dwarf Cave.  Talk to 
+the locals, and they'll tell you some rather useless information, but there are 
+treasure chests with a small amount of GP in the unlocked rooms.  Talk to the 
+Blacksmith, who will ask for ADAMANT.  You do not have this right now, nor will 
+you for a very long time.  Head down and left to a thin hallway with a treasure 
+room on the left.  It is locked, but you have the MYSTIC KEY now.  Go in to find 
+a Dragon Sword.  I forget if the Thief can equip this or not, but if it is, it's 
+the best weapon for him so far, and will be until he becomes a Ninja.  There 
+will also be some Silver Armor which will be great for a Red Mage.  Silver Armor 
+has a lower evade decrease than Iron Armor, but it also has a lower Absorb, so 
+the Fighter should stick with Iron.  There will also be some different Silver 
+armors (gauntlets, helmets, etc).  Once you have all the treasure, go down to 
+the dwarf who will ask for the TNT.  He will blast a straight that will lead to 
+the outer world.
+
+[A Side Trip to Crescent Lake]
+     Well, the game takes another big step here.  The battles will become 
+harder, and you will soon face the FIEND of Earth, a boss far more powerful than 
+anyone you have encountered so far.  Now that the rest of the sea is opened up, 
+your options of what to do take a huge jump.  Now, the next place to go 
+according to the plot would be Melmond, which is just Northeast of the outlet to 
+the ocean.  Instead, we're going to head south a little bit then far to the 
+west.  Hit B and Select at the same time to see the world map.  All the way at 
+the bottom of the map on the right side, you will see a desert.  A bit above the 
+desert, you will see a town, you destination.  To get there, follow these 
+directions:  From the outlet to the ocean, go west about 4 squares or so. Go 
+south until you hit land, then west until you hit land again.  Follow the 
+coastline to the south until it ends.  Then, go west for a while.  You will 
+eventually find yourself slightly above a port.  Hook around and land there.  
+You will have quite a hike to Crescent Lake from here.  Make sure you save your 
+game here.  Just head southwest; it's pretty linear.  You will find some tough 
+battles here, much like those on Power Peninsula.  You will also find some 
+others.  Cobras can do a lot of damage in quantity to someone will low defense 
+and HP, but just use ICE2 once or twice and they shouldn't bother you.  One more 
+thing, use ICE2 sparingly, you will find that you will need it a lot, and your 
+L4 Magic Points will quickly wear thin.  You will find some ZomBulls, Trolls, 
+and Giants here as well, but you should be able to knock them out pretty easily.  
+Also here are Pedes, who will most likely cause some trouble.  They are pretty 
+tough, much like Giants, only with slightly higher attack power.  They also have 
+poison mixed into their attack, so you will find yourself struggling with that.  
+What's worse, they tend to attack in packs of 4, which does not help at all.  
+However, you can beat them if you're strong enough.  Have all your fighting 
+characters pummel one of them, and Red and Black Mages use ICE2 or FIR2.  White 
+Mages and Thieves should use Pure potions to keep your HP from decreasing, and 
+White Mages should keep your HP up.  Use INVS and RUSE for support.  Finally, 
+you will encounter some scorpions along the way.  These guys also attack in 
+packs, and can also poison you when they hit you.  They're more of a nuisance 
+than anything, they always poison at least one guy somehow, and they don't give 
+you much Exp or GP either.  If you want to fight them, ICE2 works well, but it's 
+best to run.  
+     Ok, you'll get to Crescent eventually.  When you do, save immediately at 
+the inn.  Now, it's time to buy Magic and Equipment.  Red Mages will not be able 
+to learn any L6 Magic Until the class change.  White Mages should buy FOG2 and 
+INV2, and save one slot for EXIT, which can only be learned after the class 
+change.  My manual and magic/monster/weapon/armor lists have long since 
+disappeared and I'm not sure what spells the Black Mage can learn at this time.  
+However, I'm pretty sure he can learn LIT3, but all the other spells are just a 
+waste of money, and you won't ever use any of them anyway, so don't bother 
+buying them now, as you will be very pressed for money right now.  Note that you 
+may have some of the items here, especially if you completed the [cleaning up] 
+section of the walkthrough.  Here is what your budget will look like for each of 
+your characters:
+ Fighter: 2500GP(Silver Shield) + 2500GP(Silver Helmet)+ 2500GP(Silver Tie) 
+(Come on, like that actually looks like a Gauntlet)=7500GP
+ Thief: 2500(Buckler)
+ Black Belt: YAY!! No charge for this guy!
+ Red Mage: 7500(Silver Armor) + 2500(Buckler)=10,000 GP
+ White Mage: 2500(Silver Hammer) + 40,000 (INV2 and FOG2)=42,500GP
+ Black Mage: 2500(Silver Knife) + 20,000 (LIT3)=22,500GP
+
+L6 Magic: L6 Magic is very powerful.  It is perhaps not quite as useful as L5 
+with LIFE, FIR3, and HRM3, but it has one of the most arguably best spells in 
+the game, EXIT, which is the only way to get out of some dungeons.  Although 
+your list of L6 Magic will be very incomplete at this time, here is what it 
+should look like after the class change:
+Red Wizard:   INV2 EXIT FOG2 or LIT3
+White Wizard: INV2 FOG2 EXIT
+Black Wizard: LIT3 RUB  QAKE
+
+     L6 Magic will help you tremendously in the battles soon to come if you have 
+a White Mage.  INV2 will be invaluable to protect you against attacks from 
+fierce monsters and bosses, like Kraken, who can get 8 hits at a time.  INV2 
+will either make the bad guys miss, or at least decrease their number or hits on 
+you.  Not only is INV2 stronger than its predecessor, it also works on all 
+allies.  However, there are some enemies that will hit you no matter how much 
+invisibility you have.  So, you can use FOG2 to help increase your armor rating 
+for tough fighters like Earth.  I'm not sure if you can get ARUB as a White Mage 
+before the class change (god I need my Nintendo Power Strategy Guide), but if he 
+can, you might want this for fighting Mages and Eye in the Ice Cave to protect 
+against RUB.  However, when you use ARUB, it says "Defend Magic".  If this is 
+true, it might actually reduce the amount of damage you take from magical 
+attacks instead of immunity to RUB.  I'll have to check up on that.  Either way, 
+it would only be useful in the Ice Cave, because once you get the FLOATER, you 
+will be able to buy Prorings, which have the same protection against RUB and 
+related attacks.  As for EXIT, MAKE SURE TO LEAVE A SLOT OPEN FOR EXIT.  This 
+will be the most important magic in the game, because it is the only way to get 
+out of the upper floors of the last dungeon.  WARP could also do this, but on 
+the upper floors, your magic will have been worn down, and you will need to cast 
+WARP up to 5 times to get out, which may not be feasible.  I think it would be 
+beneficial to give more than one person EXIT if you can.  One time, I was 
+playing with the White Wizard as the only character with EXIT.  He died, and my 
+Red Wizard's L5 Magic was exhausted, and I could not revive anyone, or get out 
+of the last dungeon.  Ouch.  As for Black Magic, L6 is probably the most 
+horrible, relatively speaking for how good the magic is compared to the level. 
+LIT3 would be beneficial to the Black Mage because it lets him mount an offense 
+against Kraken, the Water Fiend, and gives him more power for other water 
+enemies, even though they are not very common.  As for the Red Wizard, LIT3 is 
+not very useful.  What few water enemies there are in the game are really not 
+ideal for using LIT3 against.  Big powerful monsters, such as SeaTrolls and 
+Kraken, do not attack in quantity, and attacking would be just as effective.  
+However, the water enemies that attack in swarms do not require the use of LIT3.  
+Usually, it would just be an overkill.  It would be more beneficial to use the 
+Zeus Gauntlet or just cast LIT2.  FOG2 would be a better choice.  As for the 
+other spells for the Black Mage, it doesn't really matter what you pick.  I 
+don't like HOLD because it never works on the tough enemies you actually need it 
+to.  Also, its effect seems to be on the same lines as the L1 spell, SLEP.  The 
+only 2 leftovers are QAKE and RUB.  QAKE usually doesn't work on the guys you 
+need it to either, but at least it kills them, rather than disables them for 
+about 2 rounds.  RUB is like QAKE, but only works on one guy.  It does work more 
+often, but still isn't worth 20,000 GP.  The Strategy Guide says it's worth the 
+money, but I never actually use it.  As always, it's your choice, but choose 
+wisely!
+
+[The First Orb]
+     Alright, you had your fun at Crescent Lake, but it's time to get back on 
+track of the plot.  Now, it's time to head to Melmond.  From the outlet to the 
+ocean, there will be a long, thin island that stretches to the Northwest.  
+Follow this island until you find a port to land on, with Melmond not far away.  
+There will not be quite as much to do in Melmond as in Crescent Lake, but there 
+are some things that you need.  Melmond is especially annoying because of its 
+lack of an Item shop.  So, you will have to travel all the way to Elfland to get 
+your HEAL potions.  You will need to buy a Silver Bracelet for each of your 
+Black Belts, Thieves, White Mages, and Black Mages.  If you would like, you may 
+buy Steel Armor for your Fighter, but don't bother unless you have incredible 
+amounts of money to blow away.  Here is what your budget will look like:
+
+Fighter: 45,000(Steel Armor)
+Thief: 4000(Silver Bracelet)
+Black Belt: 4000(Silver Bracelet)
+Red Mage: 8000 or 16000 depending on what Magic Spells you will buy now.
+White Mage: 4000(Silver Bracelet) + 24,000 (L5 Magic x 3 Spells) = 28,000 GP
+Black Mage: 4000(Silver Bracelet) + 16,000 (L5 Magic x 2 Spells) = 20,000 GP
+
+I suppose I have to make you a Magic guide also.  
+
+L5 Magic:  Level 5 is some of the best magic in the game, and, without surprise, 
+will be the toughest to choose from by far.  
+
+Red Mage:   CUR3 LIFE WARP or FIR3
+White Mage: CUR3 LIFE HRM3 or HEL2
+Black Mage: FIR3 WARP BANE or SLO2
+
+Wow, tough decision.  Whatever you decide, if you want WARP, you will have to 
+wait for the class change, but it's well worth it.  WARP takes your party back 
+to the starting point of the floor they were just on.  Fortunately, it doesn't 
+just keep alternating between 2 floors, either.  So, technically, in any 
+dungeon, you could keep casting WARP until your party makes it out safely.  
+However, this technique assumes that you have enough Magic Points, which, in 
+many cases, is not likely.  Either way, this spell is very useful.  LIFE is also 
+a vital spell for any party, especially if you have a lot of magic users, whose 
+days are always numbered.  LIFE revives a dead party member (duh!).  However, 
+this party member will only have one HP left when they get revived, so be 
+careful, or you'll find yourself soon casting it again.  Also, this does not 
+work in battle.  There are only 3 ways to revive someone in this game: Go to a 
+clinic (located in every town), cast LIFE, or cast LIF2.  Going to the clinic is 
+expensive and very inconvenient, especially one room away from the end of a 
+really long cave.  Sorry Red Mages, but you'll have to wait until the class 
+change to get LIFE.  However, since a Red Mage or Wizard can never learn LIF2, 
+LIFE will always be beyond value.  [EXTRA]: Try to get 2 people to learn LIFE.  
+That way, if one dies, the other can revive him, and vice-versa.  If only one 
+person has LIFE, and he gets knocked out, he stays out, and so does anyone else 
+who dies.  As for CUR3, with all CURE spells, you will need this, no questions 
+asked.  None.  Sorry.  As a White Mage, you might find yourself wondering 
+whether to get HRM3 or HEL2.  It's a tough decision.  I really don't think 
+there's that much power difference between HRM2 and 3.  Furthermore, I never 
+really saw any monster(s) that you needed to cast HRM3 on when HRM2 just would 
+not do.  Also, I have heard that there is a bug in HEL2 that causes the same 
+effect as HEL3.  However, it just does not seem to work as well, but HEL2 does 
+seem a little too powerful considering that it works on everyone.  Even still, I 
+would rather save my super valuable L5 Magic for LIFE or CUR3.  As for HEL2, it 
+has a lot in common with its predecessor.  It basically casts CUR2 on your whole 
+party.  However, as with its subordinate, CUR2 is somewhat obsolete when you're 
+really in a pinch at this time.  Chances are, if you're in danger of dying, and 
+you cast HEL2, you'll probably still be in danger.  As with HRM3, I usually do 
+not cast any of these because I would rather save my L5 Magic for something more 
+important.  As usual, the Red Mage will have one hell of a time deciding what 
+Magic to buy.  And as usual, CUR3 is beyond question.  There will never be a 
+substitute for LIFE, as the Red Mage cannot learn LIF2, and you always need to 
+revive people, particularly later in the game.  As for FIR3 vs. WARP, this will 
+be really tough.  I suppose it really depends who you have in your party.  If 
+your party lacks powerful black magic, FIR3 would be a good choice.  But if you 
+have a White Mage with HRM3, you will find little use for FIR3 as a good-
+attacking Red Mage.  I would say there are few enemies weak against FIRE, but 
+the undead make up a very large percentage of the enemies you encounter.  Even 
+in the Ice Cave, you will find pretty few non-undead enemies weak against FIRE.  
+Still, FIR3 is very powerful, and believe me, if you don't get it, you will miss 
+it.  On the other hand, WARP is not to be disregarded.  It can be really good in 
+a pinch when you need to get out of a cave and you don't have an extra L6 Magic 
+Point for EXIT.  Better yet, if you have 2 Red Mages, your best choice will be 
+to give one WARP and one FIR3.  Finally, the Black Mage.  He will certainly be 
+the easiest, thankfully.  Your Black Mage will need FIR3 to keep his offense 
+sharp, and definitely save room for WARP after the class change.  As for the 
+other spell, neither is too important.  BANE is good at knocking off pesky 
+enemies like Scorpions and Grey Wolves, but it will rarely serve you well in a 
+pinch.  As usual, all the enemies that you desperately need it to work on will 
+most likely be immuned to BANE.  SLO2, on the other hand, works against almost 
+any non-undead monster in the game, including some bosses.  I once got it to 
+work on LICH and KARY, to fiends that get really wasted when they can't attack.  
+SLO2 only works on one enemy, but if it works, this guy will be VERY 
+incapacitated.  YAY!! We're done!! No more choosing magic for a LONG time!!!
+
+[The Titan and the RUBY]
+     If you talk to some of the locals in Melmond, they will tell you some vital 
+information.  First, make sure you remember where Dr. Unne is; he will be very 
+important to remember later in the game.  I forget if they actually tell you or 
+not, but you will need to know that you must see Sarda the Sage to get the 
+STAFF, which will smash open the stone plate in the Earth Cave.  So, the plot 
+directs you to Titan's Tunnel, but I'll save you the trouble of going there just 
+to find out that the Titan won't let you pass unless you give him a RUBY.  So, 
+you need a RUBY.  Where do you get one?  The Earth Cave of course!  (God knows 
+why it would be there, of all places, and of all the women in Melmond, not one 
+single one has a RUBY).  Anyway, make your way to the Earth Cave.  Make sure you 
+have 99 HEAL potions and at least 40 PURE potions before you enter.  There will 
+be an enemy that can turn you to stone, so pick up about 5 Softs.  You will find 
+that both tend to run out very quickly.   If you go to your left, you will find 
+the HALL OF GIANTS.  Every square here is spiked with a varying number of Giants 
+and Iguanas.  This is a great place to charge up if you have a strong fighting 
+team.  If you go up from the entrance, you will find a treasure room with some 
+GP in a chest.  Watch out, one of the squares is spiked with an Earth, a 
+powerful enemy.  He can only attack, but he's mighty good at it.  He can easily 
+do 90 damage to a Fighter fully loaded with Steel Armor and all the goodies you 
+can think of.  He can also knock out a White or Black Mage in one hit, 
+regardless of what they're equipped with.  He gives some good Experience, but 
+it's not worth it.  Anyway, go right from the entrance, and you'll find yourself 
+on the way down.  Along the way down, watch for Cockatrice.  They can use 
+squint, which will cause Stone status.  This is a fatal attack, so if everyone 
+is stoned (haha, the Light Warriors all stoned) or dead, the game is over.  If 
+you encounter a Cockatrice (the usually come in packs of at least 4), use ICE2, 
+and they should all die quickly.  If you don't think you can kill them before 
+they SQUINT you too many times, just run.  There's no real valuable treasure 
+along the way, except a Coral Sword.  I think this might be the best weapon for 
+your Thief until the class change.  Otherwise, it's worth quite a bundle if 
+you're short on cash.  Once you get to the bottom floor, you will see a long, 
+narrow hallway stretching to the right.  One time a bat got stuck there, and he 
+wouldn't come out for half and hour.  Dumb pieces of $%&*, you should be able to 
+kill those stupid things anyway.  Anyway, at the end of the hallway, there is a 
+room.  Inside is...
+
+[semi]BOSS FIGHT- Vampire
+HP-About 150
+He's kind of a boss.  Now anyway.  Later, you will find large groups of these 
+guys in random battles.  But for now, you gotta put this guy away quickly.  He 
+has a lot of attack power, and can really pound you if you dilly-dally too much.  
+So, don't bother with any defensive spells, just get him out.  Have fighting 
+characters and Red Mages just attack.  White Mages should use HRM2.  You could 
+use HRM3, but that's kind of overkill.  He doesn't have that many HP.  Have a 
+Black Mage use FIR2 or 3.  You should take him out in one round.  If not, don't 
+worry about your HP, just keep attacking.  He'll probably beat you up faster 
+than you can heal yourself.  He shouldn't be too hard.  
+
+     He should die in 2-3 rounds (so much for that immortal stake-through-the-
+heart crap).  When he does, take his RUBY from the chest and exit the same way 
+you came.  When you're out, make your way northeast to the Titan's tunnel.  In 
+there you can give the Titan his RUBY (hmph, I wanted to fight him too).  There 
+is a treasure room on the other side.  There's nothing real valuable there, but 
+you can pick up some stuff that'll sell for a small bundle.  Make your way out 
+the other side and to Sarda's Cave.  When you get there, you'll notice you're 
+welcomed, and the Sage gives you the STAFF you need to break the plate in the 
+Earth Cave. I just want to know why he lives in the middle of nowhere, rather 
+than in Melmond.  Ok, time to go.  Head back to Elfland and get 99 HEAL potions 
+and 50 PURE potions.  Head back to Melmond and stay at the Inn.
+
+[The Earth Cave]
+     Make sure you save before you enter, it's for real this time.  Continue 
+through the cave until you reach the bottom level.  I think there are some good 
+treasures along the way, with some spiked spots.  I think one is a Manticore or 
+something like that.  He can use STINGER, which will cause all your party 
+members to get poisoned.  There is also one more spiked square near a treasure 
+chest.  It consists of a Wizard Ogre, and a mix of Hyenas and other Ogres.  The 
+WzOgre can really be a problem.  My first time, he killed me in one of the most 
+agonizingly boring fights of my life.  First, he used MUTE and he shut my mages 
+up.  Then, he used SLOW and disabled my fighters.  Then, so the mages couldn't 
+attack him, he kept using RUSE on himself.  He slowly killed me after 20 long 
+minutes.  So, to fight him, use MUTE if you have it.  If he uses RUSE too much, 
+use FAST on your fighters or cast LOCK on him.  You could also use AMUT to stop 
+him from being a problem in the first place.  Either way, just keep pummeling 
+him and he should go down without too much trouble.  His accomplices will not 
+cause any problem either.  Ok, once you make your way to the bottom, you will 
+find a mysterious orb in a room that looks different from the rest.  Heal your 
+party to Max HP.  Then, Examine the orb closer and...
+
+[BOSS FIGHT]-LICH
+HP-400 I think
+Ok, this guy is certainly by far the toughest boss you have encountered so far.  
+LICH is an all around tough little bitch.  He (it, whatever) can certainly hit 
+you many times at once and maybe put a weak Mage out of commission in no time.  
+Compensate for this with defensive spells such as RUSE, INVS, FOG, FOG2, and 
+INV2, whatever you have.  Also, LICH will use FIR2 and ICE2, so make sure you 
+use AFIR and AICE to help out a bit.  LICH has very high defense, and you will 
+find out quickly that Thieves, Black Belts without weapons, and White and Black 
+Mages will have a very tough time making good hits on LICH.  Nintendo Power says 
+that LICH is weak against Fire, but even FIR3 will never do more than 40-50 
+damage, so don't bother with that.  Instead, use FAST and curing or defensive 
+spells on your party rather than attacking instead of attack if you have a low 
+Damage rating.  One time, I even got SLO2 to work on LICH.  Wow, that helped 
+immensely.  Well, other than that, just use normal strategy and caution as you 
+would against any tough monster, and LICH should expire without too much of a 
+quarrel. 
+
+[A Choice]
+     YAY!! You defeated the first of the 4 Fiends.  Now, step on the alter, and 
+the power of the first ORB will be revived!  Congratulations, one down, 3 to go!    
+Take another step forward, and you will be warped out of the dungeon.  Save when 
+you exit, and continue your journey back to Melmond.  Stay at the Inn and head 
+back to Crescent Lake.  Now it's time to talk go to the Circle of Sages.  They 
+will tell you some semi-important information, but the real thing you're after 
+is the CANOE.  Although it may not seem like it, the game actually makes a big 
+turning point here.  You will quickly notice that pretty much all of your best 
+weapons and armors will not be sold in stores anymore, and you will have to find 
+most of them.  Also, as you are about to see, from this point on, the game gets 
+much less linear.  Rather, you will have many more options and choices about 
+what to do next.  After you defeat LICH, one of the Sages will congratulate you 
+and tell you to take you take the CANOE to defeat KARY, the Fire Fiend.  
+However, there are actually three choices from here:
+ You can follow the plot, and take the CANOE into the lake itself and find your 
+way to the Gurgu Volcano.  I recommend doing this second, as it is much easier 
+than the Ice cave.  I recommend waiting for the Castle of Ordeal for this, 
+mainly because it is so long, and you could use the extra equipment and Magic 
+points that you will get from getting treasure chests and leveling up the Castle 
+of Ordeal.  Although this is easier than the Castle of Ordeal pound for pound, 
+this is so much longer, and you will find yourself struggling for HEAL potions 
+and Magic Points.  The funny thing about the Gurgu Volcano is that it has 
+absolutely nothing to do with the plot.  So, you can put this off pretty much 
+until the end of the game, even much later than the class change.  The only 
+thing is, you will need to have the ORB lit in order to finish the game.  You 
+CAN put this off for a long time, but I don't recommend it.  It's not THAT hard 
+that you actually NEED to put it off for so long.  In fact, you really should do 
+this before the Ice Cave, mostly because you will need every piece of equipment 
+and every level you can get before the Ice Cave.  But, hey, it's your decision.  
+-OR-
+ The Ice Cave comes in the plot after the Gurgu Volcano.  If you want to do the 
+Ice Cave next, go to [The Ice Cave] section, then [Fly, on your Wings, Like and 
+Eagle, Flies High as the Sun] section.  You can do the Ice cave now if you want 
+to, but this is the absolute hardest cave in the game, because many of the 
+enemies use RUB and other related auto-kill attacks and you do not have a 
+Proring at this time to prevent them.  I recommend doing this last.  This is a 
+long hard cave, and you will need all the equipment from the other caves to get 
+out of this alive.
+ The Castle of Ordeal is actually last in line of the plot, but I recommend 
+going here first.  If you wish to do this, skip to the [Tale of a Rat] section  
+The Castle of Ordeal can be VERY tough, as it is quite a maze.  Also, you will 
+find some enemies here that are more powerful than you have seen anywhere except 
+the Ice Cave.  There will be Medusas that travel in packs and can easily turn 
+your whole party to stone in just a round or two.  Sounds REALLY tough, right?  
+Wrong!!  If you learn your way around, it's so short, it's more luck than skill 
+or power!!  That's right, it all depends pretty much on you knowing your way 
+around, and on chance of whether you encounter Medusas or not, and what they'll 
+do if you see them.  This is the best adventure to do first because it is short, 
+yet there is tons of treasure here that's better than most anything you will 
+find anywhere else up to this point.  To get here, take your ship to the Elfland 
+area, and head South.  Use your map to hook around the peninsula in your way, 
+and then when you're in the bay, find the spot where a small river lets out into 
+the sea.  Just take your ship and try to head up to the river.  You will see 
+that the ship stays at the mouth and you are in your CANOE.  Head Southwest to 
+the castle.  Save before you enter.
+
+ Well, I'm going to walk you through the dungeons in order of the plot.  If you 
+choose to take my advice and skip around, then just go to the section where you 
+want.  Good Luck!!
+
+[The Gurgu Volcano]
+     This is the second "Theme" dungeon in the game.  As you saw with the Earth 
+Cave, many of the surroundings and enemies were earth based.  Here, (almost) 
+everything is fire-based.  Accordingly, magic such as AFIR and ICE2 will become 
+very useful.  If you put this off until the class change, ICE3 will also come in 
+handy here and there, but for most of the weak enemies in here, it will be quite 
+an overkill.  Anyway, as with other dungeons, there are a bunch of particularly 
+perilous enemies that you'll have to keep a special eye out for.  WzOgres will 
+be back, but by now, he's just more of a nuisance than a threat.  You will find 
+some Red Gargoyles, these will cause you problems no matter what you do.  They 
+cast FIR2 almost incessantly, and have pretty high attack power too.  Just use 
+AFIR as soon as you encounter them.  They have high HP and defense, so you can't 
+just knock them off right away.  What's better?  They're not weak against 
+anything!  And, to top it off, they usually travel in packs in 3-6 and usually 
+get the first attack.  FIR2 can do as little as 20 damage, or as much as 40-50.  
+Multiply that times 4, 5, or 6, and you're hurting.  Just run if you see any.  
+If you have any Mages, have them cast AFIR instead of run in case you can't run 
+right away.  The only good thing about these guys is that you don't encounter 
+them very frequently and if you do, they're only really on the top levels (you 
+start up top and work your way down).  So, if you get pelted, go out, restore 
+HP, save, and enter again.  I guess you should note Agama also.  He can use a 
+move called HEAT, which is pretty much like FIR2, except it only does about 20-
+30 damage to your party.  There are a few spiked squares with Agama.  I 
+recommend fighting, because he gives you some good Exp.  Plus, he has fairly low 
+HP and Defense, so with a full-party attack, you should be able to knock him off 
+in one round.  Also, there is a monster called Fire.  He looks and acts much 
+like Earth.  He can't do anything but attack, but, like Earth, he does that very 
+well.  Fire can be a threat to your characters if they have low HP and/or 
+defense.  You can't run, so just attack and use ICE2 if you want.  Also in the 
+Gurgu Volcano, you will find Cockatrices, who will use SQUINT on you and turn 
+you to stone.  There will also be Perilisks that hang out with them.  These guys 
+will use something like squint, I forget what it's called, but it will kill you 
+instantly.  Just use a blast of ICE2 and you will find any Cockatrices and 
+Perilisks paying you big bucks for killing them.
+     Now that you know who to fight and who not to, it's time to get some 
+treasure.  I'm not going to bother telling you where every single thing is, as 
+such would be almost impossible without a diagram.  However, there are some good 
+things to find here, as with any dungeon.  On the first couple floors, you won't 
+find much, except maybe a Flame shield (or is that lower?).  You will find some 
+armor that you've seen before and some cash; watch for spiked squares.  You will 
+also find the Giant Sword, which is supposed to give you an edge against Giants, 
+but most any other sword you have by this time will do much better than the 
+Giant Sword.  As you get lower, you will find a MUCH better weapon, the Ice 
+Sword.  This is a Fighter or Red Mage's pride and joy.  This will be the most 
+powerful weapon for them for a LONG time.  It seems to have an extra boost 
+against fire enemies, but it doesn't seem at all ineffective against Ice enemies 
+for some reason.  You will also find some Flame Equipment which will provide 
+good defense overall for a Fighter and will protect against Ice attacks.  Just 
+keep exploring everywhere and you'll find some great treasure, which will either 
+help you a lot, or sell for some cold cash later.  
+     Make your way down to the last level.  You will know it when you see it.  
+You will be surrounded by lava, and you can choose to go in one of 8 directions.  
+However, most lead to either crappy treasure or dead ends.  To start, head west 
+(left), but only if you dare.  You will find yourself in a room with candles 
+enclosing a treasure chest.  Just before you enter this little "cage", you will 
+find a square spiked with Agama.  He shouldn't cause you too much trouble.  
+Then, right before the treasure chest...
+
+[Semi] BOSS FIGHT- Red Dragon
+ He's not quite a boss, but sure fights like one.  In fact, he's very dangerous.  
+He can use BLAZE, which is like FIR3.  This does about 50-80 damage to every 
+single member of your party.  Use AFIR immediately to reduce this to 20-40 
+damage per character (still, ouch).  His attack isn't quite as dangerous, but 
+provides no relief.  He can do about 30-90 damage, much depending on who he's 
+attacking.  To kill him, make sure you keep your HP up.  HEL2 is nice, but it 
+may not completely counteract a shot of BLAZE.  Use defensive spells, but use 
+FAST and keep attacking to put him away before he really becomes a problem.  You 
+will be well rewarded for your endeavor when he dies, but it's still not worth 
+it to charge up on, especially considering the danger he poses, and how long it 
+took you to get here, not to mention how much longer it will take to get back.  
+So, get your prize, the Flame Armor, and proceed East back to where you started 
+on this level.
+     Now, it's time to finish the Volcano.  From the center of the room, go 
+southwest, and you will find a mysterious yet familiar room.  Max out your HP, 
+get ready cause here comes...
+
+BOSS FIGHT- KARY
+HP-600?
+Much like LICH, Kary is an all around pain in the butt.  Kary has no weak 
+points.  The manual says that she's weak against Ice, but it really doesn't work 
+much better than a Fire spell.  Use regular boss tactics.  Kary can get lots of 
+hits on you, sometimes up to 6 or 7, so make sure you use INV2 plenty of times 
+if you have it, or at least use RUSE or INVS on your weak ones.  You will find 
+that only Fighters and Red Mages with powerful weapons will be able to do even 
+remote damage to Kary.  Black Belts are ok I suppose, but they just don't seem 
+to have enough firepower.  Make sure you use AFIR.  Don't forget ALIT, as I've 
+seen Kary use powerful Lit spells before, I've even seen her use ICE2, so AICE 
+should be helpful.  As always, FAST will be helpful.  I was able to get SLO2 to 
+work on Kary once or twice, so that should help a lot if you can get it to work.  
+Just keep fighting, she shouldn't be too hard, just watch your HP.
+     Well, Kary should vanquish sooner or later, and when she does, put the ORB 
+on the alter and exit through the portal.  Save your game and return to Crescent 
+Lake, cause it's time for your next adventure...
+
+[The Ice Cave]
+     Alright, get ready, hold your breath, cause this is about the hardest part 
+of the whole game so far.  Go onto your ship and hook around the peninsula and 
+follow the land to the North until you find a bay with a river.  Sail directly 
+into the river and follow it until you get to the mouth of the Ice Cave.  Save 
+your game and enter.  This cave is loaded with treasure.  I rushed through this 
+place, fighting the absolute least number of monsters I could, but I got all the 
+treasure chests, and I ended up gaining over 50,000 GP here.  You will also find 
+the Flame Sword, which will give you a boost against undead and Ice Monsters.  
+You will also find a full set of Ice armors, much like the Flame set in the 
+Gurgu Volcano.  
+     Well, you will get a lot of treasure in this cave, but it is certainly not 
+free.  You will find you will have much trouble defeating the enemies in here.  
+As usual, here comes the list.  There will be tons of undead enemies in here, 
+but you will find that many of the groups will be more hybrid.  You will see 
+Mummies, Wraiths, Images, Cockatrices, and Perilisks mixed into one gruesome 
+battle.  Mummies can put you to sleep with their attack, which will send you off 
+to la-la land for a long time, while you keep getting pelted.  Perilisks and 
+Cockatrices will be here too, so you'll find that you may be stoned or dead very 
+quickly.  While neither of these two are undead, you will see them mixed in the 
+groups, so mix a blast of ICE2 in with your FIR2's and HRM2's.  Also in this 
+little group will be Wraiths and Images, who have a lot of attack power.  Other 
+than that, they are little different from their subordinates, but can still 
+Paralyze you.  Also in the Ice Cave are Sorcerers, who will cause you much pain.  
+They do little other than attack, and when they do, they only do about 1-2 
+damage.  However, the kicker is that they have RUB in their attack.  You could 
+have 400 hit points and one of them could hit you for 1 damage, and you could be 
+down for the count.  I advise you to run, but I suppose you can't all the time.  
+To fight these guys, you'll need a lot of luck (not the skill).  Well, INV2 and 
+INVS work wonders if you keep using them, because they can't kill you if they 
+can't hit you.  They don't have very many Hit Points or defense, so if you 
+attack fiercely, you might be able to put them away before they cause too much 
+trouble.  Now, onto your biggest problem.  You might encounter some Mages.  
+These guys will yield no relief no matter what.  You will probably have trouble 
+running from them, but if you think you can, it's worth a shot.  Even though 
+they are really hard, they will usually come in packs of 4, and could easily 
+wipe out your entire party in a snap.  Their worst attack is RUB, and you can't 
+do much about that except die.  Use ALIT to counter their powerful LIT3 spell.  
+Even with ALIT, you will still find yourself hurting.  Mages have no weaknesses, 
+but use your most powerful magic and attack with all your might if you can't 
+run.  Their attack is somewhat mild, but it doesn't make them much easier.  
+Although they're not as perilous as Mages, you will also stumble upon Frost 
+Wolves.  They will usually attack in large packs.  Their attack is mild, but 
+they have a move called FROST, which causes Ice-based damage.  It can easily do 
+up to 60 damage without AICE, and multiplied by 6 Frost wolves WILL cause 
+problems.  One or two shots of FIR2 should knock them out though, but still use 
+AICE for defense.  
+     Ok, this Cave is pretty confusing.  Ok, make your way down to the bottom 
+floor, it's pretty linear up to this point.  At the bottom, you will find 
+yourself on top of a set of stairs to go up, and you will see another upstairs 
+close to you, with nowhere else to go.  When you go up, you will see yourself 
+above a room.  Go around to the bottom and enter through the door.  You will see 
+3 treasure chests, partially surrounded by a number of holes.  Go to the one on 
+the left, without stepping on any of the holes.  You will get a Flame Sword, 
+which will help you with undead and Ice monsters.  Do NOT get the chest on the 
+right!!!  It is guarded by several Mages who will probably wipe you out.  The 
+chest only contains Cloth, such a waste.  You can't get the chest in the center 
+right now, so jump down the hole.  You will find yourself in a rather small 
+room.  The spot above the door is spiked with a mix of undead monsters.  After 
+you get out of the room, you can go to the left side and find a room with the 
+Ice Armor.  If you make your way all the way to the bottom left, there will be a 
+room with 8 treasure chests filled with TONS of GP.  There is a spiked square 
+with Frost Wolves at the end, so watch out.  On the right, you will find a way 
+upstairs.  Collect the treasure on the way.  Find your way to a tall, narrow 
+room.  Above that is a staircase, but DON'T go there yet.  This is the way out.  
+Instead, go in the room with 3 treasure chests and a hole.  Get the treasure 
+chests, and hop in the hole.  I'm sure you can guess where it leads.  You will 
+find yourself in the room with the treasure chest that is surrounded by holes.  
+This time, you can get the chest in the middle.  But before you can get to the 
+chest...
+
+[semi] BOSS FIGHT- EYE
+Eye- HP about 150 or so
+     Ok, I suppose the Eye isn't really much of a threat to a full party, but he 
+is devastating to a solo character.  He will start off using RUB or similar 
+spell, which will most likely knock one of your guys out right away.  He has a 
+lot of tricks up his sleeve.  He has a very weak attack, so if he does attack, 
+consider that a relief.  He can also use Glance, which will turn you to stone.  
+He also uses many auto-kill spells like XXXX and Brak.  However, he will not use 
+any spells that will kill your WHOLE party.  Not all at once, anyway.  What's 
+the best way to beat him?  Kill him before he kills you!  Do NOT worry about 
+your HP, not even a little bit.  Do NOT use any defensive spells.  I think MUTE 
+might work on him, but I'm not sure.  You might want to use FAST, but don't 
+dilly-dally.  Use your most powerful magic and attacks and put him away quickly.  
+You should be able to get him in one round, maybe two.  
+
+     Yay!! You get the FLOATER!  Now you get a free ticket out of the Ice Cave!  
+Right?  WRONG!  You still have to fight your way out.  Jump in a hole and make 
+your way back up to the tall, narrow room.  Above the room is a set of stairs, 
+the one you weren't supposed to go in before.  Go in there now.  You will be out 
+of the deadly Ice Cave.  Make your way back to Crescent Lake and save at the 
+Inn.  
+
+[Fly, on your Wings, Like and Eagle, Flies High as the Sun...]
+     Little Iron Maiden there, Flight of Icarus.  Well, you get the picture, 
+it's time to fly!  Hit B Select.  All the way on the bottom right corner of the 
+island, you will see a desert.  Take you ship just below there.  Dock it at the 
+mouth of the river, and walk into the desert.  Use the FLOATER you got from the 
+Ice Cave.  Watch in awe as the Airship appears before your very eyes!  Now, you 
+can explore the North.  You will find a group of islands.  Explore them for some 
+GP.  After you pillage them, find the one where Bahamut is.  He will tell you to 
+go to the Castle of Ordeal and get something to prove your courage.  Now, it's 
+time for...
+
+
+[The Tale of a Rat]
+     Ok, time to go to the Castle of Ordeal.  If you are following the plot, you 
+will know that Bahamut told you to come here.  Or, you might have skipped here 
+from [A Choice] section.  There is a way to get here by Airship, but there's a 
+much better way.  Take your ship to the port to the South of Elfland.  Go 
+straight down until you hit land.  This is actually a peninsula.  Go to the 
+right to hook around it.  Head into the bay.  You will come across a river 
+junction right below you.  Dock your boat there and head southwest to the Castle 
+of Ordeal.  Save before you enter, and make sure you have full HP and MP.  As 
+you enter, you will see a man that tells you that you need a CROWN to take the 
+courage test (God knows why you COULDN'T have the CROWN at this point in the 
+game).  Make your way to the room on the upper left and jump in the sofa.  Here, 
+you are in a room, and outside you will notice some column-shaped teleporters.  
+Go out of the room and to the right to the first teleporter.  Then, right and up 
+to the next one.  Now, you will have a choice.  If you pick the right one, 
+you'll move on, but if you pick the wrong one, you'll teleport back to somewhere 
+you were before.  Go into the bottom one.  Then, hook left and down into the 
+next teleporter.  Next, you will have a choice again.  Take the one on the 
+bottom.  Follow the little hallway to the next teleporter and go in.  Then, you 
+will have another choice.  Take the one on the bottom right, closest to you.  
+Here comes the biggest choice of all.  You will be at the beginning of 2 large 
+hallways.  Take the one on top.  You will come to a room.  Enter it.  There will 
+be a treasure chest there.  The square next to it is spiked with a Mud Golem.  
+He can use FAST on himself, and that will make him a very formidable attacker, 
+but just keep hitting him, and he shouldn't be too much trouble.  You will get a 
+Zeus Gauntlet for winning.  This is a great item.  No one can equip it yet, but 
+after the class change, you can give it to a Knight, Red Wizard, or Ninja.  The 
+best thing about this is that you can use it in battle, whether it's equipped or 
+not.  In battle, go to ITEM, and select the Zeus Gauntlet and hit A.  It will 
+cast LIT2 in battle.  What's better?  It doesn't use up ANY magic points and you 
+can use it an INFINITE number of times!  I usually give this to a weak attacker.  
+That way, they can at least mount some kind of offense.  A White Mage or Thief 
+are good choices.  Ok, make your way out of the room.  This can get confusing.  
+Directly below you is a teleporter, but do NOT take it.  Take two steps to the 
+right, and go down the hallway.  There will be a teleporter right below you as 
+you walk straight down.  This is the one you want.  You will see the hallway 
+extend to the left, but that just leads to another teleporter you don't want.  
+If you're confused, take two steps to the left from right outside the room, and 
+go straight down.  Whew!  The big maze done!  I'm sure you can find your way to 
+the stairs, and it gets pretty linear form here.  You will find yourself at the 
+bottom of a long hallway.  Make your way up until you find a door to a room.  As 
+soon as you step into the room, there will be a spiked square with Nightmares 
+(cousins or MadPony).  Nightmares are more of a nuisance than a threat, but I 
+suppose they could cause trouble.  They are pretty hard to hit, and they use 
+SNORTING, which causes Darkness.  However, they can't really hit very hard, but 
+use FAST so you can get some good hits in.  If you can't hit them for some 
+reason, use the Zeus Gauntlet for some extra damage.  Kill them, and get the 
+treasure chests above you.  Among other things, you will find a Heal Staff.  
+Much like the Zeus Gauntlet, you can use the Heal Staff in battle to cast HEAL 
+and restore some HP to everyone.  Head to the left, and you will find and Ice 
+Sword and a Gold Bracelet.  The Ice Sword is the best weapon for your Fighter or 
+Red Mage at this point, and will be for a while.  The Gold Bracelet is the best 
+Armor most Mages can have with the exception of the Opal Bracelet.  Make your 
+way down to the last set of treasure chests.  There is some money, a HOUSE, and 
+an empty treasure chest.  Anyway, go to the right, and you will see a treasure 
+chest and a sofa.  Get the treasure chest from the bottom.  It's the TAIL!!!  
+Head to the sofa.  Oh, come on, like you didn't SEE it coming, you KNOW there's 
+gonna be a spiked square there...
+
+[semi] BOSS FIGHT- Zombie Dragon
+
+     Well, I suppose he isn't really a boss, nor does he nearly as dangerous as 
+one.  Although he can be somewhat of a threat to a weakly armored warrior, he is 
+not much or a problem other than that.  Well, every dungeon has to have a boss 
+at the end (Wizards in the Marsh cave, Eye in the Ice Cave), so The Castle or 
+Ordeal has to have something.  The funny thing is, he's easier than most of the 
+monsters in here!
+     Alright, time to kick some dead butt (argh, there's another word I wanna 
+say, but ya gotta keep it clean with gamefaqs).  Contrary to most bosses,  
+Zombie D can't do anything other than attack, and that he doesn't even do that 
+well.  Rather than use tough boss strategy, just attack and use Harm spells.  If 
+your HP gets low, Cure yourself.  He shouldn't be a problem.
+     Now, with the Zombie D dead, you can hop on the couch and leave... But, 
+HOLE ON!  This is a great place to charge up and boost your levels.  The Zombie 
+D is quite weak, but he gives you tons of EXP and GP.  I usually slay at least 
+10-20 of them before I leave.
+ 
+[Stuff to Do]
+    Ok, it's time to leave.  Hop back in the ship and head back to Elfland.  If 
+you haven't already done the Ice Cave yet, do so.
+     Ok, after you do the [Ice Cave] and [Fly on your Wings] sections, you will 
+have the airship, and will have plenty to do.  Well, the plot of course has its 
+own order that you're supposed to do things in, but with the airship, the game 
+is totally chaotic, and any traces of the linear beginning are completely gone.  
+So, basically, you can do almost anything in any order from here on out.  Since 
+I don't even know the real order off hand, I'll just give it to you in what I 
+think is the best order.  
+
+[King of the Dragons]
+     We all know Bahamut, king of the dragons, one of the few characters to 
+appear in every single Final Fantasy ever made.  While he plays a rather minor 
+role in this game, it's still very helpful.  He is located on the Cardia 
+Islands, which is a rather simple maze.  To get to him, find the island with 2 
+holes that's covered with forest.  His hole is on the bottom right of this 
+island.  Go see him and get the...
+     WAIT!!!  There are advantages to delaying the class change.  While there 
+are obvious reasons to get the class change early, such as more Magic and better 
+Weapons and Armor, there are downs to hurrying.  Do they outweigh the 
+advantages?  I don't know, that's for you to decide.  If this is your first time 
+playing, you might as well go for it, as it'll make things easier for the time 
+being.  But, if you know what you're doing, you might want to wait.  Although I 
+have nothing concrete to prove it, I have noticed some down sides to forcing the 
+class change.  I have noticed that particularly for wizards, but certainly not 
+excluding fighters, particularly Fighter/Knights and Thief/Ninjas, my Hit Point 
+gains started to drop off slightly.  One time,  I had a Knight who only had 
+around 950 Hit Points at Level 50.  Then, I played another game through and 
+delayed the class change until Level 30, and I had 999 HP by L 47.  Even worse, 
+I noticed stat gains sloped off.  From my experience, I NEVER had a Fighter who 
+failed to gain Strength, Agility, and Vitality on every single level, even up to 
+30.  However, in another game, when I advanced to a Knight at Level 13, right 
+away he stopped gaining Agility and Vitality every level.  I do not have 
+anything to prove this to anyone, but I'm just passing on advice from my own 
+personal experience, which I value, as I've played through this game, front to 
+back, beginning to end, at LEAST 7 or 8 times.
+     Well, I suppose it's your option to change now or wait, but I recommend 
+waiting, as it will pay off in the long run.  If you think you can hold it out, 
+I recommend to do so.  Take my advice or don't, but it's your loss (or gain).
+
+     Wow, big turning point.  Now, you get better magic and armor, more powerful 
+weapons, and an overall boost in power.  Not only that, now you will notice that 
+some weak enemies will start to run away from you!  That leaves one less 
+nuisance in the world.  When you hit L16, you will notice that more enemies will 
+start to run away, such as Sahags.  And, although it's far away now, even really 
+powerful enemies like trolls will start to run away at L50.  
+     
+[Shopping]
+    Now that you have advanced classes and the ability to equip better weapons 
+and armor, you will need to go shopping.  First, head to Gaia.  That's the town 
+in the upper right corner of the map, surrounded by mountains, northeast of the 
+Mirage Desert.  You should buy ProRings for everyone, as they prevent RUB and 
+like spells.  Also, a CatClaw will be mildly helpful for boosting a Black 
+Wizard's attack power.  Furthermore, you should buy a Gold Bracelet for everyone 
+who needs one, such as White Wizards, Black Wizards, Red Wizards, and Masters if 
+they are under L25 or so, which they probably are.  Well, you might have gone to 
+Onrac, and if you didn't notice, they don't have any Weapon or Armor shops.  So, 
+by now, for the most part, you either have most of the good weapons and armors, 
+or you'll have to find them, not buy them.  However, Gaia does have some very 
+useful things that you might want.  Gaia is an expensive place, so you might 
+want to earn some money first.  Here are general price estimates per capita:
+Knight: Proring(20,000)
+Ninja: Proring(20,000)
+Master: Proring(20,000) + Goldring(50,000)=70,000 GP
+Red Wizard: Proring(20,000) + Goldring(50,000)=70,000 GP
+White Wizard: Proring(20,000) + GoldRing(50,000)=70,000 GP
+Black Wizard: Proring(20,000) + GoldRing(50,000) + CatClaw(65,000)=135,000 GP
+
+Wow!  That's a lot of money!  This place is different because unlike most 
+places, Black Wizards and Masters will be very expensive.  Usually Black 
+Wizards/Mages are cheap equipment-wise, as with Black Belts/Masters, who are 
+almost always free.  For sure, you'll be scraping the bottom of your pockets to 
+pay the fees of the northern world.  Speaking of magic...
+    In Gaia, there will be 3 out of 4 Level 8 Spells to choose from, plus 2 
+Level 7 Spells for each color.  As if it's a big secret, there is a semi-secret 
+passage in Lefien that leads to the 2 "best" magic spells in the game.  If you 
+go to Lefien, go to the upper right section of town.  There will be a notch in 
+the town gates for you to walk through.  Go to the right to find 2 small shops 
+right next to each other... The LOST L8 MAGICS!  The White side has LIF2 and the 
+Black Side has NUKE.  These 2 are definitely worth getting, but are unique to 
+the Wizard of according color.  Speaking of choices, you will have some of the 
+hardest to make here, provided you're not a Red Wizard.
+
+Level 7 Magic:  Wow, it's been a long time since you bought magic.  Not to fear, 
+magic is here!! If you haven't noticed, the odd numbered magics in this game are 
+all of the same nature... CURE, HARM, and HEAL.  L7 is no real exception.  
+You'll mostly see familiar spells here, but the choice will be no easier.  Ok, 
+maybe it'll be a different story for the Red Wizard, but these spells will be 
+very important.
+
+Red Wizard:   ICE3 ARUB ----
+White Wizard: CUR4 HRM4 ARUB or HEL3
+Black Wizard: ICE3 SABR BRAK
+
+     Well, like I said before, it'll be a tough choice unless you're a Red 
+Wizard.  The Red Wizard can only get 2 L7 spells, ICE3 and ARUB.  Well, ICE3 is 
+really nothing new, only it's very powerful.  I think it can do up to 240 damage 
+to all enemies, and even more than that if they're weak against it.  ARUB is 
+simple ARUB.  Enough said, right?  WRONG!  Well, yeah, it does prevent auto-kill 
+attacks much like a ProRing except to the whole party.  However, there is 
+something else I needed to mention.  When you use it, it says "Defend Magic".  I 
+think this is very misleading.  I used to think that it might protect you from 
+all magic spells, but I tried out, and it doesn't work.  I casted it 4 times 
+between 2 Red Wizards, and FIR2 from the ManCats still did the same amount of 
+damage.  Well, 'nuff said for the Red Wiz.
+     Haha, another joke coming!  It will be tough to choose not because these 
+spells are so good and you want them all, but because you DON'T want them all!  
+Isn't that funny, the second best level mostly stinks.  Well, the White Wizard 
+will definitely want CUR4, which you've been waiting the whole game for.  This 
+spell restores your HP to the Max, no questions asked as long as you're not 
+stoned or dead.  The Black Wizard, of course, will want his best Ice spell, as 
+always.  However, after that, it's more of a tossup.  I really don't ever use 
+any other L7 spells.  Well, HRM4 is just overkill, and you won't need that.  
+Soon, you'll have 2 Light Axes and a Mage staff which cast HRM2 and FIR2, so you 
+won't need magic points to kill the undead by the masses.  As for HEL3, if you 
+read about the bug in the L5 Magic, HEL2 effectively has the same effect as 
+HEL3, so using a Level 7 Magic point I obsolete when you could get the same 
+spell in a L5 Magic Point.  Plus, HEL3 just isn't worth it, as it can't even 
+restore 100 HP per warrior, and can get as low as 50.  The problem with this is 
+that many enemies can do more than that to your whole party at once, like a Red 
+Dragon with BLAZE.  As for ARUB, you always have ProRings.  If you don't, it's 
+still more of a waste of a powerful spell for the chance that you'll get hit 
+with a RUB spell, and it still doesn't work on the sorcerer's slay, so it's 
+quite useless.  The Black Wizard is not a much different story.  You'll want 
+ICE3 of course, but nothing else is really necessary, unless you'd like to have 
+it just to have it, but believe me, it won't save your life.  SABR works to make 
+his weapon better, but it only works on the caster, and the caster can not 
+attack anyway, making this spell completely useless.  As far as I can tell, this 
+only has the same effect as TMPR, the Level 2 Spell that works on anyone, and 
+I'm not even sure that does anything.  Likewise with BLND, I did not notice any 
+change in the enemy's attack pattern, a reduction in number of hit, OR a 
+reduction in damage from each hit.  I realize that in Final Fantasy Legend, 
+Blind meant that you do less damage, but I did not find that to be the case in 
+FF1.  As far as I can tell, Blind does nothing.  I suppose BRAK is the only one 
+left, which isn't exactly gold itself, but still costs plenty of it.  BRAK is 
+much like RUB, I see no difference myself, but rather a higher magic point is 
+used.  In fact, even RUB doesn't seem to work any better than the L5 spell BANE, 
+which works on all enemies, not one.  Now, even Bane will become obsolete when 
+you get the Bane sword in the Sky Castle, which casts BANE upon the using.  
+You'll hear the same story with BRAK, it never works on the guys you need it to 
+(WarMech).    
+
+Level 8 Magic:  This is it.  This is the best magic in the game.  Well, for the 
+White Wizard at least.  I noticed that just about every single high level magic 
+spell for the Black Wizard either involves auto-kill or some status change.  I 
+was disappointed to find out the uselessness of Level 8 Black Magic.  White 
+Magic, on the other hand, was phenomenal.  All the best spells are here, 
+including many spells that turned out to be predecessors to many spells in later 
+Final Fantasies.  On another note, because these spells are so wonderful, the 
+poor Red Wizard will be completely left out :(  Poor Red Wizard.
+
+Black Wizard: NUKE ZAP! XXXX
+White Wizard: LIF2 FADE WALL   
+
+     Well, L8 will be another tough decision, much like the way L7 was.  With 
+the White Wizard, you will find Level 8 Magic to be very useful.  LIF2 will 
+probably one of the best spells you can come across, when your L50 Knight gets 
+killed, and you don't want to cast LIFE and waste 998 HP worth of CUREs and HEAL 
+potions.  LIF2 will revive a dead warrior to full health, no questions asked.  
+FADE is an excellent spell.  It can do up to a little over 300 damage per 
+monster, and unlike HARM, works on any enemy, not just undead.  You will 
+definitely want this spell.  As for the last spell, it's not really important, 
+you probably won't use it much anyway.  WALL is pretty good, because it defends 
+against all elements and auto-kill, but Ribbon and ProRing basically do that.  
+Plus, WALL only works on one ally at a time.  As for XFER, that is better known 
+as Dispel in later Final Fantasies, which depletes good status, but ignores 
+ailments.  However, there will rarely be a case where you will actually find an 
+enemy that can use things like FAST, and even if they do, it's not that 
+dangerous that you actually need to cast it.  Moving on, Black Magic isn't much 
+better.  Nuke packs a mean punch up to 400 damage, but I thought that's what 
+your Knights and Masters were for.  Besides, a Master can easily do 1000 Damage 
+WITHOUT wasting magic.  Furthermore, the rest of the L8 Black Magic is utterly 
+pathetic.  STOP is much like HOLD, just stuns the enemies for a while, but helps 
+very little.  XXXX is just like RUB, which is inferior to BANE, which itself is 
+even obsolete.  ZAP! is just another name for BANE, much like QAKE.  Same story 
+with all these, they just don't work on guys you need them to.  So, NUKE might 
+give you a run for your money, but I don't think anything else will in this 
+spell level.
+
+[EXTRA-FINAL FANTASY LORE]-The spell FADE will play a huge part in future Final 
+Fantasies.  The oddest thing is that I have never see any other RPG where a die-
+hard cure-type magic user ever got one and only one offensive spell.  I really 
+like the idea of FADE, because it lets the White Wizard get some offense.  FADE 
+was the only spell that lasted as the White Wizard's solely offensive spell.  In 
+all other Final Fantasies but #1, you could use the CURE spell on you enemies, 
+including the Undead, which eliminated HARM.  FADE was the only magic to be 
+carried over to other games.  In US Final Fantasy 2, the tradition of FADE, 
+which was the White Wizard's sole offensive spell that could hurt anyone, got 
+its own element, Holy, and was renamed White.  In Final Fantasy 5 Jap, it was 
+the forbidden magic, Holy, also with its own element.  Even in Final Fantasy 3 
+US, it was still there, only as Pearl, yet still with its own element as well, 
+Holy.  Even in Final Fantasy 7, it FADEd out (I'm so punny), but the Holy 
+element still existed, and a summon god still had it.  Finally in Final Fantasy 
+8, they revived it, with Holy elemental, a GF to compliment it, and the Holy 
+spell was there again.  Wow, who would think FADE would last for that long?
+     XFER never FADEd either, even through 8 Final Fantasies.  XFER removed 
+special status bonuses without curing the ailments in FF1, and still does in 
+every other Final Fantasy ever made.  However, the name was changed to a better 
+one in my opinion, and still exists in Final Fantasy 8 as Dispel.
+     Ok, we can't forget WALL either.  In Final Fantasy 1, WALL protected an 
+ally form magical attacks.  In later Final Fantasies, it went so far as to 
+reflect it.  Then, it reverted back to protection, this time with protection 
+from physical damage too.  Even in Final Fantasy 8, this Limit Break for Selphie 
+grants protection from physical and Magical attacks.
+
+     Wow, all done with Magic!!  Now that you got your equipment and Magic, it's 
+time to Rock!!!
+     When you go from town to town, you will notice the horrifyingly steep 
+prices of magic.  If you did not charge up levels enough, you might have to end 
+up saving up.  So, I'll tell you about a few good places to earn some experience 
+and cash before I go into magic too much.
+     I'm sure I mentioned it before, but now would be a good time to go to the 
+Hall of Giants again in the Earth Cave.  I'm sure I mentioned it before, but if 
+you got the class change and some new equipment, any of your characters might be 
+able to knock out a Giant or Iguana in one hit, making this much more efficient.
+     However, there's an even better place.  To prepare, you must load up 
+everyone with ProRings, or you will find this trip rather unpleasant.  Now, 
+venture back into the Ice Cave.  You will be amazed how much easier this place 
+is with a little better equipment and magic, plus resistance to auto-kill 
+attacks.  Now, go fight the Eye.  He used to be perilous because of his plethora 
+of auto-kill attacks, but now they're just wasted turns for you to kick the crap 
+out of him.   He will give you 3228 Experience and GP, the EXP of course divided 
+amongst the survivors.  The best thing about fighting the Eye is that he's easy, 
+he has low HP so he doesn't take long to kill, has low defense so the Hit Points 
+don't last as long, low attack power to reduce danger, and only one significant 
+danger.  He can use Glance and turn you to stone.  However, he seldom uses it, 
+and it usually doesn't work anyway.  If it's still a problem, equip a Ribbon to 
+block it completely.  It's well worth the small risk for the amount of Exp you 
+get combined with how little he hurts you.  Since he doesn't hurt you much, you 
+can keep killing more and more without stopping to heal yourself (and god knows 
+why anything that could reproduce this quickly hasn't taken over the entire 
+world already).  Anyway, this way is quicker and safer than any other way I know 
+to get up to level 50 and get the maximum amount of money, 999,999 GP.  
+     There is another good place to charge up, but more for Gold rather than 
+experience.  I'll give you more details about this in [The "Loot Root"] section 
+of the walkthrough.
+
+[Extra-the "Loot Root"] Ha ha.  Little pun reliant on pronunciation.  
+     This is an extra trip that you might want to take if you've played this 
+game before and you know what you're doing, but otherwise, just skip this 
+section and move on.  Well, while probably hundreds of people claim they 
+invented this trick, which involves scavenging the treasure out of all the major 
+dungeons without really beating any that they don't have to.  I have to say that 
+I invented it, but I think the case was just about everyone who ever played FF1 
+invented it themselves, but never told anyone until they invented it too.  Now, 
+it's more common knowledge, but in case you know stuff other than the common, I 
+suppose it's worth mentioning.  
+     Since this route is not official or linear, nor does it follow the plot for 
+that matter, there really is no set way to do this, and there are many 
+variations.  The main purpose of this is to get all the good treasure as quickly 
+as possible so that you can use it to your advantage for all the stuff you 
+skipped before.  I use this route a lot to save time, mostly because I'm too 
+impatient to actually play through the game right.  Well, this is the way I 
+invented the loot route, and I'm sure you might have invented it differently, 
+but here goes the undetailed walkthrough of the LOOT ROOT:
+   After you get the canoe, head over to the Castle of Ordeal and get the tail.
+   Skip the Volcano, and get the FLOATER from the Ice Cave
+   Get the Airship, and buy stuff you need
+   Pick up stuff from the Waterfall and get the CUBE
+   Pick up stuff from the top 2 floors of the Sea Shrine, then floor B1 and B2, 
+after getting the OXYALE from the fairy
+   Learn Lefienish with the SLAB and get the CHIME
+   Get the stuff from the Mirage Tower/Sky Castle and kill Tiamat
+   Kill Kraken, then Kary.
+
+     Well, that's the Loot Root.  While I'm not too much of a fan of it myself, 
+I have heard a lot about how great it is from many other people.  The one thing 
+that really gets me, though, is the Sea Shrine.  It's pretty long, but if you 
+just go to the top 2 levels, then the level right below that, you get all the 
+best Knight gowns (Opal Armor), and you get the Mage Staff, and both Light Axes.  
+This way, you can go back to the Waterfall if you would like to charge up on the 
+undead monsters.  If you don't want to, head straight to the Mirage Tower to get 
+the treasures there like the ADAMANT for Xcalbur.
+
+[Techno-Waterfall] 
+     Speaking of the Waterfall, it's time to go here next.  This is one thing 
+that sets a classic RPG aside from just about all the others.  There's ALWAYS 
+something behind the waterfall.  From the not-quite-RPG's like The Legend of 
+Zelda, to the more modern classics like DragonView for Super Nintendo, and even 
+Dragon Warrior 4 for the NES.  There's just always something behind the 
+waterfall.  Period.  While the plot directs you toward the Sea Shrine, or the 
+Submarine, I feel that it's much easier to go to the waterfall first, since it's 
+so short, and the monsters are easier.  
+     Wow, it's been a long time since you were in a big dungeon.  Well, although 
+this is still not a big dungeon, it's still something to be looked upon 
+likewise.  
+     Perilous enemies are scarce here, and certainly nothing new.  You'll see 
+Nightmares, but they're more of a pain than a threat.  MudGols will show up 
+again, but they're no more of a threat than the Nightmares, unless they cast 
+FAST on themselves and manage to get a few hits off, which is very unlikely at 
+this point.  I suppose big packs of undead could be a hazard to a solo warrior, 
+but there's nothing different about them here than anywhere else.  Your friends 
+Cockatrices and Perilisks will be back, but with ProRings, Perilisks just don't 
+seem to be much of a threat anymore.  Oh yeah, VERY rarely, you might find a Gad 
+Dragon.  I suppose he could be a problem, but a round of good attacks should put 
+him down quickly.  Maybe it's just me, but he seems to be much less of a threat 
+than other Dragons.  
+     While dangerous monsters are rare, good treasure is anything but hard to 
+find.  This place is a maze with a treasure room at the end.  Just walk around 
+for a while, you'll find your way around fairly easily.  Now, as soon as you 
+enter the treasure room, there will be a spiked square filled with undead 
+monsters.  You'll find combinations of mainly WzMummies and Mummies mixed with a 
+couple Cockatrices and maybe a couple Perilisks.  I really don't like the name 
+Wizard mummy, since they can't use magic and all.  I guess that's the best they 
+could think of, I just don't think Green Mummy or Were Mummy would cut it.  
+Anyway, this is a great place to charge up.  Each battle yields about 4000 GP, 
+which will quickly add up to enough to buy at least one Level 8 Magic Spell or 
+another Gold Bracelet.  However, you might not find this very convenient right 
+now, as FIR2, FIR3, and HARM spells will quickly deplete, and attacking just 
+isn't efficient for those big numbers of enemies.  If you would like to charge 
+up here later, it will be really easy, as you will have a Mage Staff, 2 Light 
+Axes, and the Zeus Gauntlet.  With the Zeus Gauntlet and the Mage Staff, you'll 
+kill all the Perelisks and Cockatrices, then the supplementary Light Axes will 
+kill any number of Mummies and Wizard Mummies.
+     Although dangerous enemies are scarce, good treasure is a completely 
+different story.  First, talk to the robot to get the CUBE, which you need to 
+get into the Sky Castle, but you won't need that for a while.  You will find 
+some good stuff in the treasure chests.  First, there is the Defense sword, 
+which is the third best weapon for the Red Wizard, besides the Sun Sword, and 
+the Masmune, of course, neither of which you have at this point.  The Defense 
+sword casts RUSE in battle.  You will also find the Wizard Staff.  This is 
+relatively useless, so you can sell it for 25,000 GP.  If you don't need the 
+cash, you can keep it, as it casts CONF when used in battle.  Now, the grand 
+finale! There's a Ribbon in here!  The Ribbon equips as a helmet, accessible to 
+any class.  It only gives 1 or 2 defense, but the defense isn't half the story.  
+First, it provides resistance to all the elements including poison-based 
+attacks, such as Gas D and Tiamat's POISON.  Also, it provides resistance to 
+just about all types of status ailments, not including Stone and Death.  
+However, if the enemy inflicts this status with their attack, such as Asp with 
+poison, you will still be liable to the status attack.  There is some other 
+stuff in here, but I'll have to get back to you on that.
+     Make your way out as easily as you went in, and it will be time for...
+
+[The Oasis]
+     Ok, this section is hardly worth mentioning, but it's still important, so 
+I'll keep it short.  As you should know, you cannot land your airship right next 
+to Onrac. You will have to land it just below the river leading to the 
+waterfall.  Now, follow this up to the desert until you see a tiny patch of 
+desert next to a couple trees.  You can land your airship on one of the desert 
+patches, just look for the full sand-covered square in the tiny patch.  Now, 
+take one step in any direction, and go back to your airship.  You will find 
+yourself in the Oasis store.  The guy there will sell you a BOTTLE for 50,000 
+GP.  Buy it.  You can buy several if you want, but you only get one regardless 
+of how many you buy.  Exit the store.  Go to the item menu and use the BOTTLE.  
+It will tell you that a fairy popped out, then is gone.  Now, go back to Gaia.  
+All the way in the northeast corner of the town, you will find the fairy waiting 
+for you there.  Talk to her, and she will give you OXYALE.  You will need this 
+to breathe in...
+
+[The Submarine]
+     Now that you have completed the Earth Cave, and the Fire Volcano, it's time 
+for the next theme dungeon with a corresponding Fiend.  As you could guess from 
+the name SEA Shrine and submarine, this place will be water based.  In here, the 
+monsters will generally be weak against LIT, so the Zeus Gauntlet will be useful 
+here, as well as the Thor Hammer if you have it at this point from [The Loot 
+Root].  Otherwise, LIT2/3 will come in handy, and the Mage Staff will be a small 
+help, although most enemies are resistant to Fire.  Most of the enemies in here 
+have pretty good attack power, but a lack of other strong attacks, so you will 
+find that White/Black Wizards and Low-Level Masters, as well as ill-equipped Red 
+Wizards will suffer here.  Good HP and Armor are musts.  
+     The enemies in this shrine are quite a bit harder than anything else you've 
+seen so far.  Unlike the Temple of Fiends and the Ice Cave, you will not find 
+many, if any, horrible status attacks or related problems.  On the other hand, 
+these guys are tough.  They have a lot of HP and defense, as well as crippling 
+attack power.  For the most part, there aren't too many particular enemies to 
+watch out for, but they will all wear you down substantially.  However, there 
+are a couple treacherous guys to watch for.  Waters are probably the worst.  
+They are quite hard to hit with their good evade, and what few hits you get will 
+not hurt them much.  What little damage you do manage will still be a small 
+chunk out of their high HP.  Yet, they have a nasty bite (or however the hell a 
+little swirl can really hurt you), and can easily do 90+ to a well-armored 
+Knight.  Use Ice for these little pricks.  Ghosts will not provide any relief 
+either.  They usually don't stun as much as Geists hit-for-hit, but they can 
+really pack a punch.  The can even do about 150 to a Master/Red Wizard, and 
+maybe knock out a Black Wizard in one shot.  Don't bother with defense against 
+these guys.  I usually use the Mage Staff, 2 Light Axes, and Zeus gauntlet, 
+which should knock them all out.  If you'd like, you could even substitute the 
+Zeus Gauntlet with HRM2 or FIR2.  You could use HARM3/4, but that would be a 
+real overkill with all the other stuff you're using.  Lobsters are a nuisance as 
+well, as they will poison you quite frequently, but Sea Snakes won't (Somebody 
+had better fire whoever programmed this retarded game).  Most other enemies will 
+be more of a bother than anything else.  
+     Scavengers will be in paradise here.  This place has some good Knight 
+gowns, including a full set of Opal accessories, although the body armor is 
+below deck.  Equipped with all of it, a Knight will have 74 Absorb, enough to 
+keep him alive through just about anything when combined with his high HP.  On 
+the top floor with all the Mermaids (where most of the Mermaids are), you will 
+find the Opal equipment, and the SLAB, which you must give to Dr. Unne in 
+Melmond to learn the Lefeinish language, which will be important later.  
+     Once you get all the stuff from the top two floors, I suggest you go back 
+to the Inn and rest, and buy more HEAL potions if need be.  Then, head right 
+back into the shrine and get the rest of the treasure.
+     Now, we head to the bottom.  You will find the Opal Armor, as well as 2 
+Light Axes, the Mage Staff, and a Ribbon.  The Light Axes will be very useful 
+against the undead as they cast HRM2.  The Mage Staff will also be good against 
+the undead, as it casts FIR2.  Although the Mage Staff will not be very useful 
+in here except for Ghosts, it will come in handy in many places where enemies 
+are weak against Fire.  
+     Wiggle your way through the maze until you get to the bottom floor, where 
+you will find the usually mysterious room, and someone will be waiting for 
+you...
+
+[Boss Fight]-KRAKEN
+   HP-600
+     Kraken is the third of the 4 fiends.  He will pose to be quite a threat to 
+the weakly armored.  Rather than use nasty spells and horrible status ailments 
+like RUB and BRAK, he mostly just attacks.  The bad thing about this is that he 
+can ATTACK.  He will be able to get 8 hits on you at once, and nail you for over 
+400 damage sometimes, enough to send a White/Black Wizard or a weak Master to 
+the floor in a hurry.  Because of his high Hit%, no amount of RUSE or INVS will 
+be able to completely protect you from his attack.  Even with 255 Evade, he will 
+be able to hit you about once every 4 attacks, which always seems to be a 
+Critical hit.  So, that eliminates the practicality of FOG, because Critical 
+hits are not affected by defense.  He does cast LIT2/3 sometimes (seems odd 
+seeing as he's weak against it), and that can hurt.  He will also use INK, which 
+will Blind all characters, provided that they don't have a Ribbon on.  For some 
+reason, Dark doesn't seem to have any effect on you.  It does not lower your 
+Hit% at all.  However, in Final Fantasy Legend for Game Boy, Dark lowers your 
+attack power by 25%.  However, I have not seen any impact on my attack power, 
+despite being Blind.
+     Kraken can be dangerous, but you should be able to get him without too much 
+trouble.  His offense is very powerful, and he has a lot of HP, so you should 
+concentrate on defense before offense.  Since his attack is clearly the biggest 
+threat, start with 2-3 layers of INV2 to help reduce his attack power.  After 
+about 3 shots of INV2, the biggest threat now will be LIT3.  Cast ALIT to 
+nullify the danger of that.  Follow that up by FASTing your warriors, then 
+continue with INV2 and healing.  
+     If you have a high level Master, or more than one, you might want to change 
+your game plan.  Try to FAST them first, and hope you can take the oversized 
+octopus out before he can become a problem.
+     Either way, you should be able to kill him without too much trouble.  He's 
+really not that hard if you know how to fight him.  Do the orb-exit routine and 
+get out of there.  When you are outside of Onrac, go right back in and stay at 
+the Inn to save and rest.
+
+[Lefein]
+     Lefein seems to be very important to thin plot of Final Fantasy.  However, 
+It seemed odd that it was just thrown in out of nowhere pretty late in the game.  
+Anyway, if you go to this lost wooded town, you will find that they have a 
+seemingly unintelligible way of talking.  To save you the effort of coming here 
+in vain, take the SLAB to Dr. Unne in Melmond.  He will teach you the Lefeinish 
+language.  Now, head to the ghostish town north of Provoka.  You will have to 
+land you airship far to the northwest and hike down.  You will find some enemies 
+familiar from power peninsula, plus some FrGiants.  
+     Make your way into the town.  If you didn't figure it out by now, or you 
+didn't know already, there is a secret Magic shop in the upper-right part of 
+town.  This secret is so well-known, it makes me laugh just calling it a secret.  
+Find the notch in the gate and head to the right to get NUKE and LIF2.  
+     In the town, talk to everyone, who all learned to speak English when you 
+were out learning Lefeinish.  You can talk to everyone to learn some interesting 
+things about the plot.  However, all you really need to do is go to the top, 
+head right, down, and talk to the guy standing still on the bottom left corner.  
+He will give you the CHIME to unlock the Mirage Tower.  I never understood how 
+that worked, but you need it for some reason or another.
+
+[The Mirage Tower/Sky Castle]
+     Wow.  This place is really loaded.  It's got everything: treasure, danger, 
+cool new bosses (one of whom is harder than the end boss himself), and lots of 
+new enemies.
+     Boy, is this place loaded with treachery and nasty enemies!  Among others 
+you will see your friend the Vampire from the Earth Cave, only in numbers this 
+time, and in random encounters.  [NOTE-You can run away from these Vampires, 
+unlike the Earth Cave].  A bite in the neck really hurts, causing at least 80 
+damage a shot, which isn't pretty seeing as there can be up to 8 of them 
+attacking at once.  You will see them hanging around with their superior 
+friends, WzVamps.  WzVamps can cast a couple spells, none of which you should be 
+worried about.  They can cast AFIR, which triples resistance to Fire.  However, 
+seeing as they have no resistance to Fire in the first place, it will not do 
+anything at all.  To beat these guys, just use your Light Axes, Mage Staff, and 
+Zeus gauntlet to send these guys back into their coffins.  They should have a 
+stake in this game, it would actually make a Hammer DO something!  You will also 
+see Chimeras.  They will use BLAZE on you (or something to that effect), which 
+will cause Fire damage.  Rather than waste an AFIR spell, just take them out 
+before they can cause any trouble.  They are weak against Ice if you are 
+inclined to use magic.  Worst of all, you will find ManCats.  These guys are 
+really nasty, and don't play games.  They have a formidable attack for starters, 
+but they will start out casting FIR2, which can really wear you down when they 
+attack in sets of 8, even with AFIR.  They are not weak against anything.  Use 
+NUKE if you have it, run, or take them out ASAP.  Although you will see many 
+more guys in the Sky Castle, these are all you need to worry about for now.  Do 
+not underestimate anyone in here, as they can wear you down very quickly.
+     Head into the treasure room on the first floor where you'll find some 
+interesting yet simple mazes to get tons of cool treasure.  I really don't know 
+what is where, but there are some cool things on this floor.  Among Gold and 
+HOUSEs, you will find a Vorpal, which only a Knight, Ninja, or Red Wiz can 
+equip.  I find it odd because it doesn't do anything, and it's even weaker than 
+the Ice Sword.  Anyway, it's worth some cash, if nothing else.  You will also 
+find the Sun Sword, the best weapon for the Red Wiz save the Masmune, and the 
+best for the Knight or Ninja up to this point.  Also on this floor is a Heal 
+Helmet, which is just a tad weaker than the Opal helmet, but it casts HEAL in 
+battle.  You will also find the best weapon (save the Masmune) for the White 
+Wizard, the Thor Hammer.  You can actually hurt an enemy with this if you Attack 
+(unlike other hammers), or USE it to cast LIT3, a great choice for undead or sea 
+creatures.  As you progress up to the first floor of the Sky Castle, you will 
+find the Bane Sword among other things.  The Sword itself is rather weak, but it 
+casts BANE in battle, which will wipe out a whole group of enemies provided it 
+works.  You should also find a Ribbon here, if not a floor above, same for the 
+Dragon Armor.  On the next floor, you will find the ADAMANT on the southwest 
+branch, which you need to give to the Dwarf Blacksmith in the Dwarf Cave (as if 
+you couldn't figure out where it was) to get the Xcalbur, the best weapon that 
+the Knight alone can use.  On the southwest corner, you will find the White 
+Shirt, which only the White Wizard can equip, which he should.  This shirt will 
+be VERY important regardless of who you have in your party.  Oddly enough, this 
+cotton garment protects better than most Armors that the Fighter can bear, but 
+that's hardly its strong point.  This wonder-cotton blouse casts INV2 when you 
+USE it in battle, which is one of the most useful defensive spells in the game.  
+Right next to this treasure chest is another White Shirt, only this time dyed 
+black, and is complementary color Wizard.  The magic black dye in here causes 
+ICE2 to be cast in battle when USEd instead of INV2.  I think there's another 
+Heal Helmet here, but I'm not sure.  Don't worry, almost done, one more floor of 
+treasure to go.  One more level up, you will find some second-rate treasure 
+compared to what you got before.  Beware, in the upper right treasure room, on 
+the left treasure column, there are two treasure chests containing Armor.  The 
+one on top is the ProCape.  Do not pick up the lower one, which is a Cloth.  
+Many times, I have thrown out a useful Armor to see what was in the chest, and 
+it turned out to be quite a miserable surprise.  Other things on this floor 
+include more second-rate stuff and a Katana, the ideal weapon for the Ninja.  
+     Wow, what a long dungeon!  EIGHT floors of madness!  I'll spare you too 
+many details and get on with it.  As you enter, you will see a room.  Go up into 
+that room and collect the treasure, then go out of the room and take the 
+upstairs near where you came in.  For this room, you will have to make your way 
+up around the right side of the room (after getting the treasure) to get 
+upstairs.  Once upstairs, you will find yourself above another room.  Hook down 
+and enter but watch out for...
+
+[Semi] Boss Fight-Blue Dragon
+     Well, he's kind of a boss, so I have to mention him.  He can use POISON, a 
+rather nasty attack that really hurts.  Not to fear!  He's rather wimpy, just 
+pound him with your whole team and he should go down almost instantly
+
+     Head up to the teleporter.  You can't get through here unless you have the 
+CUBE.  You will now be in the sky castle.  You will find 4 branches around you, 
+with you in the center.  Collect the treasure and go up to the next floor.  
+Similarly, collect the treasure and head to the south branch to go up.  Again, 
+this is pretty simple.  Get the treasure and head left until you find the     
+up-arrow-teleporter-stair-thing.  This next room seems rather weird, it's really 
+a maze, more of a grid than anything.  The weird thing is, that it overlaps, so 
+if you go too far one way, you will end up on the other side, much like the 
+Airship on the world map.  Go right 2 spaces and up 2 spaces, or zig-zag until 
+you find the up-arrow-teleporter-stair-thing.  Now, you be at the bottom of a 
+long hallway.  If you read Nintendo Power, you will know that you can encounter 
+a WarMech here.  It says there is a 1 in 64 chance, but I think that's the 
+probability of every step you take.  So...
+
+[Maybe] SUPER BOSS FIGHT- WarMech
+HP-1000
+     This guy is NO JOKE.  Although this guy is much less elaborate than the 
+Ultimate Weapons in Final Fantasy 7 or Omega in Final Fantasy 5/8, or Shinryuu 
+in FF5, he is tougher than the end boss like many of the super bosses in the 
+later Final Fantasies.  He has 50 Absorb, which can be quite hard to handle.  A 
+Level 25 Master will score 1 damage per hit if he doesn't get a Critical.  He is 
+VERY tough.  Chaos, the end boss, has about every trick in the bag, which he 
+uses rather foolishly.  He uses ICE3 for 50 damage when he should use NUCLEAR 
+for 300.  WarMech is much different.  He either attacks for 200-400 damage, or 
+he uses NUCLEAR, which does up to 400 damage to you whole party.  I would say to 
+wipe him out quickly before he causes harm, but you really can't.  FAST any 
+fighting characters.  Have Red and White Wizards use INV2 to ease the pressure 
+from his attack.  Use the White Shirt to help also.  NUKE and FADE make good 
+attack for White and Black Wizards.  The Jack of all trades, the Red Wizard will 
+be relatively useless except for using INV2, FAST, and CUR3.  If you have a 
+White Wizard, use CUR4 if you HP gets low.  
+     With any luck, WarMech will fall sooner or later.  When I played a solo 
+White Mage walkthrough, this was the only enemy in the entire game that I could 
+not defeat.  You will be well rewarded-32,000 GP and 32,000 EXP.
+
+     Head on up the hallway to find the familiar scene with the fiend.  When you 
+go up to the orb (oh come on! You've got to be stupid if this is actually a 
+surprise by now)...
+
+[BOSS FIGHT]-Tiamat
+HP-1000
+     The last of the 4 Fiends, and perhaps the hardest, is upon you now.  He 
+kinda looks retarded, like a snake-dragon thing tangled up in itself.  He has 
+some nasty auto-kill attacks, so equip ProRings beforehand or cast ARUB.  He 
+also has a THUNDER attack, a nasty move that's like LIT3, only more powerful.  
+He can also use POISON a nasty damaging attack.  The Aegis shield or the Dragon 
+Armor can help protect against this.  He has 50 defense like WarMech, so only 
+high level fighters will beuseful for hand/sword-to-whatever-he-has.  Use NUKE, 
+FADE, CUR4, INV2, FOG2, ALIT, FAST, and related spells as usual.  He shouldn't 
+be too much trouble.  Revive the ORB and exit, then head to the Airship.
+
+
+
+Earth, Fire, Wind, Water, Heart!
+     The time of trial is upon you, great Light Warriors.  Lick you wounds from 
+Tiamat, rest up, and restock Heal Potions to the max, and buy at least 25 PURE 
+and SOFT potions.  If you went to the circle of sages again as directed, or you 
+read this, you will know to go to the Temple of Fiends.  Make sure you have the 
+LUTE from the Princess from the beginning of the game.  
+     Hm... Not much treasure in here considering where you are in the game.  As 
+you may know, the legendary Masmune is here, on the second to top floor.  Also, 
+you will find another Procape, and another Katana in case you have more than one 
+Ninja (as if you could make it this far with 2 Thieves...).  Otherwise, this 
+place is rather empty.
+     Ah, danger, what can I say?  You'll find everything here.  Every single guy 
+you've ever seen will come back to haunt you here, except the easy guys.  I'm 
+pretty sure that you will find just about every single dragon here, except maybe 
+the Blue D from the Sky Castle.  You will find Frost D's in packs of 4, who can 
+freeze as many as 800HP out of you in a single round.  Gas D's will be back in 
+full forced packs of 4 as well, whose Poison can cause 1200 damage Max on the 
+whole party per round.  There really aren't that many new enemies who cause any 
+particular problem in here, it's just the powerful and tough enemies really wear 
+you down quickly if you don't know how to fight.  You will find Worms, who, 
+unlike out segmented friends in the real world, could cause some problems.  They 
+have pretty good HP, and can pack a mean punch, especially in packs of 4.  
+What's worse?  You can't run!  You're stuck fighting.  You will be revisited by 
+Elements, Earth and Fire, who will attack in 4's, and Water and Air, who will 
+show up in up to nine at a time.  You can't run from any of these guys, and they 
+have a merciless attack.  For solo players, the only way I found to survive was 
+to use Defense/White Shirt repeatedly, no matter how hard they hit.  Eventually, 
+they stopped hitting me, and I could kill them off, and restore some HP with my 
+Heal Staff.
+     Needless to say, this will be the hardest endeavor of the entire game, save 
+maybe for the Ice Cave.  I say the Ice Cave is tough because you will be at the 
+mercy of auto-kill attacks, so the journey is based on luck, not skill, levels, 
+equipment, or strength.  In the Ice Cave, if you do not make it, you can go 
+right back in and probably beat it.  In the Temple of Fiends, if you don't make 
+it, you probably will have to charge up to stand much of a second chance.  The 
+Temple of Fiends is hard because of the tons of enemies that will ruthlessly 
+pound you.  Because of these enemies, you will find that luck plays a very small 
+part in this dungeon.  Instead, Levels, attack power, defense, and magic will be 
+important here.   
+     Perhaps this might be ruining the challenge of this dungeon, but I suppose 
+my job is to guide you through the whole game, especially the toughest parts, 
+which I will do without fail.  Needless to say, this will be the longest dungeon 
+in the entire game, and the hardest to navigate as well.  When you enter, you 
+will not notice anything different than before.  Then, go into the room where 
+Garland used to be and talk to the bats.  They'll have something more 
+interesting than "Kee... Kee..." to say.  Go up to the Orb and Hit A to reveal a 
+passage.  Note that when you step through here, the only way out is to reset, 
+die, cast EXIT, or cast WARP several times.  You will find yourself in a room 
+with a similar structure to the one you were just in.  Go up the stairs to the 
+bottom right of the floor.  You will be in a small fenced off area, where you 
+will go right to the next stairs.  You will be on another floor much like the 
+one you started at.  Head to the bottom center of the floor and head up into the 
+room.  Surprise...
+
+[Semi] BOSS FIGHT- Phantom
+
+     Phantom can be a rather tough enemy.  I heard a lot of nasty stuff about 
+him, but I never failed to kill him in one round with a full-party attack.  If 
+you're too insecure to fight, he's undead, so FIR3 or HRM3,4 will do nicely.  I 
+would give you some more strategy, but he's just too easy to be worth it.  You 
+will be rewarded a generous 1 EXP and GP for your efforts.
+
+     Ok, you'll be in a room again.  Off to the right is a treasure chest with a 
+small amount of GP, and a more significant amount to the left.  Either way, I 
+have absolutely no need for money at this point, even if I was going to go out 
+again.  You will find another stone plate at the top of the room, much like the 
+one in the Earth Cave, only you will have to use the LUTE to open it.  Go in, 
+and (surprise) you'll be on another generic-looking floor.  Head to the upper 
+left corner to the stairs.  Then, follow the corridor to the left and up to yet 
+another set of stairs.  This will lead you down to the Earth floor.  Head up, 
+over, and down to get to the next set of stairs, which is neatly marked by 
+columns and...
+
+[BOSS FIGHT]-Lich revisited
+HP-500
+     This Lich is different than before.  He/she/it is stronger, has more 
+defense and attack, and a nasty lineup of spells.  This Lich has NUKE, which can 
+easily cause over 300 damage per character.  Have Knights/Masters/Ninjas/Red 
+Wizards attack, and Black Wizards NUKE.  White Wizards should cast HRM3 or 4.  
+You really want to put Lich away as quickly as possible to avoid getting NUKEd.  
+If you think it's going to be a long battle, you may want to FAST instead if 
+your levels are low.  
+      You will be skimpily rewarded with 500 EXP and a GP.  Keep in mind that 
+Lich and all the Fiends in here are spiked squares rather than physical enemies 
+on the map.  I think this is stupid seeing as they regenerate instantly, yet in 
+the present, there's only one of each.  Little logic error there.
+
+     Go down the stairs to the Fire floor.  I always have trouble finding the 
+little doors here, so here's a mini-detailed walkthrough.  Go down to the wall, 
+left to the wall, up 3 steps, left 2 steps, and up to the wall.  Enter the door 
+a step to your right.  Then, go up a few steps until you can do right.  Head 
+down the hallway until you see 2 statues below you.  Go down to the wall.  Take 
+s step right, then five down.  Head down-left into the mini-room.  You can go 
+down to find a few treasures, or go up to the stairs...
+
+[BOSS FIGHT]- Kary revisited
+HP- 700
+     Again, Kary has a 100 HP boost and more power.  She will only cast FIR3 and 
+HOLD (I think), so AFIR should be sufficient for defense.  Just attack and use 
+normal boss tactics, but go easy on the Magic; you'll need it for later.
+
+     As you might guess, you'll now go to the Water floor.  Head down a little, 
+then all the way to the right, and in the bottom-right door.  Follow that down.  
+Go out and up to the next room.  Follow that left to the first entrance.  Head 
+down and into the corridor.  Beware, only about 3 steps into the corridor is...
+
+[BOSS FIGHT]- Kraken revisited
+HP-900
+     Like the others, Kraken has stat boosts and 100+ HP.  Kraken can be very 
+dangerous; he has a really nasty attack.  To kill him, have your fighters 
+attack.  Red Mages and White Mages should use the White Shirt or cast INV2 or 
+FOG2.  Black Wizards won't really be much help here, but he can use the White 
+Shirt if he has it.  Otherwise, you can cast NUKE if you have the Magic Points 
+to spare, or cast LIT3 instead.  Kraken is tough, but he'll go down, giving you 
+your skimpy reward in return.
+
+     In case you haven't figured this out by now, you will find the Air floor 
+next.  You should go all the way down and right to get the Masmune, the best 
+sword in the game by a huge margin.  It has 56 Damage and 50 Hit%.  You will 
+then have to backtrack to pretty much where you started from.  From the 
+beginning, if you go right through one corridor, in the next you will find...
+
+[BOSS FIGHT]- Tiamat revisited
+HP-1100
+     This guy is pretty tough, and he might catch you by surprise with low HP if 
+you're not careful.  Well, Level 40+ Masters can take him out in one hit, but 
+let's not assume you have one.  Tiamat will be tough.  He has a nasty arsenal of 
+spells and special attacks.  He has high HP, so you most likely won't be able to 
+remove him in one round.  You should start with INV2 to avoid his attack, and 
+FAST will be helpful here.  You should most likely let off a NUKE here.  If you 
+are at level 26 or higher, a Black Wizard will have 2 Magic Points for Level 8, 
+so you should use one now and one for Chaos.  However, the White Wizard should 
+not use FADE, because you want to save all your level 8 Magic for Chaos.  
+Otherwise, just fight away and Heal as needed.
+
+     The pressure's on!  Head up-right to the last set of stairs, no suprises 
+here, just the last floor.  There are no enemies up here, just wonder around for 
+a while; this place was just so interesting for some reason.  If I have to tell 
+you, HEAL UP TO MAX HP.  (As if you'll be using the extra Heal potions after the 
+battle anyway).  Head into the room.  You'll see ???, who will tell you about 
+how ???.  Finally, you'll fight the final battle, go for the gold...
+
+[BOSS FIGHT]   ---CHAOS---
+HP-2000
+
+     Well, I'm sure you've heard about all the horror stories about how hard 
+this guy is, but I found Chaos rather disappointingly easy, even at Level 29 
+with a Knight, Ninja, White Wizard, and Black Wizard.  You, on the other hand, 
+might not see him as quite a cinch.  He has a nasty attack, and solo characters 
+will rely on luck here more than anything.  Chaos has nearly every mean attack 
+in the game, but the combination if them makes them much less dangerous.  He 
+will use ICE3, FIR3, and LIT3, which will waste his turns doing little damage to 
+you, and give you that much more of an opportunity to hit him back.  
+     Strategy is very important here.  Chaos's worst attack is CUR4.  He will 
+use it about every 7-8 rounds, and he'll get all his HP back.  Instant reaction: 
+kill him: quick.  This is a bad plan.  Take your time.  See, all magic enemies 
+have a cycle of spells.  When they use a spell, they move on, and don't use it 
+until the cycle comes back to that spell again.  So, Take your time.  Don't 
+attack.  Instead, POWER UP.  FAST all your Knights/Ninjas/Masters/Red Wizards.  
+Use the Power Gauntlet if you have it.  Cast SABR, TMPR, INVS, FOG.  If your 
+White Wizard has the Magic Points left, WALL himself, then the person in the 
+lead, and maybe the other 2 if you want to blow off your MP.  Use the White 
+Shirt, INV2, and FOG2 until it comes out your ears.  Cast ARUB, AICE, AFIR, 
+ALIT, and AMUT.  Heal up as needed  Then, as soon as he casts CUR4, start your 
+attack.  Go all out.  Be ruthless, merciless.  Explode: This is it.  Swing your 
+swords and fight with flying fists.  Fry him with FADE and NUKE.
+     Keep attacking, don't let up.  Use CUR3/4 when you need to.  Chaos should 
+go down far before he gets the chance to use CUR4 again.  If he doesn't, you'll 
+just have to try again.  If you made it this far, I don't see any possibility 
+that you wouldn't be able to put Chaos away.
+     I won't ruin the ending when you beat Chaos, sorry, you'll just have to see 
+it yourself.  I won't tell you if it's disappointing of the best ever, nor will 
+I tell you what happens, or say anything more.  It's up to you!
+[THE END]
+
+
+
+V.  Epilogue- Comments, questions, and answers
+
+     I still remember the cold fall morning when I beat Chaos for the first 
+time.  I was 6 years old, and had been playing this game nonstop for the 2 weeks 
+after I got this game for my birthday.  I got up real early on Saturday morning 
+to play.  After a long journey to the temple, I finally marveled at how amazing 
+he looked, as that was about as real as NES graphics got.  I started the fight, 
+and was so happy to finally defeat the end boss.  However, I was the slightest 
+bit sad because this was it, no more.  I couldn't believe the game was over- all 
+over!  I wanted more.  I started playing again instantly, experimenting with 
+different parties, and playing over and over again.  I knew this game was really 
+something special.
+     It never occurred to me at the time how big this game was.  Most of my 
+friends never even heard of it, and most of them told me how stupid it was when 
+they first played it.  I have to admit, I didn't really like it that much when I 
+first picked up the controller, but I was very intrigued by the class system, 
+and quickly got very involved in the game.  I had anticipated getting this game 
+for the longest time.  I rented the game one time before I got it for my 
+birthday, and I played it all day.  This was definitely something to be 
+remembered for a long time.  I had no idea how big this game was, and not a 
+single clue as to how big it was going to be.  10 long years later, here I am, 
+writing a walkthrough for the original game I so loved.  Now, Final Fantasy goes 
+up to 8, but hasn't stopped there.  There is also Final Fantasy Tactics, a newer 
+game aimed more at the classic RPG style.  On top of this, there are 3 Game Boy 
+Games from the same makers, under the name Final Fantasy Legend, FFL2, and FFL3.  
+Long live the continual episodes of the last Fantasy!

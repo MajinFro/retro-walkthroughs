@@ -1,0 +1,34 @@
+gf1#1 title, author bio, copyright, and donation request
+gf1#2 version history
+gf1#3 version history and table of contents
+ra-comments#11 server admin log only: no gameplay info
+ra-comments#13 server admin log only: no gameplay info
+ra-comments#14 server log lines only (upload, promote, edit): no gameplay info
+ra-comments#17 server log lines only (edits and logic changes): no gameplay info
+ra-comments#18 server log lines only (upload, promote, edit): no gameplay info
+ra-comments#34 server metadata only: no gameplay info
+ra-comments#35 server metadata only: no gameplay info
+ra-comments#40 achievement edit log only: no gameplay info
+ra-comments#22 server log lines only (achievement edit history); no gameplay information
+ra-comments#24 server log lines and description line only; no gameplay information
+ra-comments#25 server log lines only (achievement edit history); no gameplay information
+ra-comments#26 server log lines only (achievement edit history); no gameplay information
+ra-comments#29 server log lines only (achievement edit history); no gameplay information
+gf2#41 secondary source: author commentary and post-game musings
+gf1#144 version history only: no gameplay information
+gf1#145 version history only: no gameplay information
+gf1#146 version history only: no gameplay information
+gf1#147 copyright, contact and credits text: no gameplay information
+gf8#1 table of contents and author introduction
+gf9#1 author contact information, copyright notice, and version history
+gf9#2 table of contents
+gf9#3 general walkthrough overview, introductory remarks, and FAQ overview without specific gameplay mechanics
+gf8#14 author bio, quote, and file download URLs with no gameplay information
+gf9#36 secondary source: author retrospective and series history with no gameplay info
+gf2#117 monster list format legend only: field definitions with no monster data or gameplay information
+gf10#1 author introduction and contact information
+gf10#2 credits and version history
+gf10#3 copyright notice
+gf10#4 table of contents and Wonderswan port differences
+gf2#176 copyright notice only: no gameplay info
+gf10#141 credits, completion time, and copyright

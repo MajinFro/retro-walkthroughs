@@ -1,0 +1,854 @@
+                            --------/   --------/   /-------/
+                           /  /----/   /  /----/   /-------/
+                          /  /        /  /           / /
+                         /  /----/   /  /----/      / /
+                        /  /----/   /  /----/      / /
+                       /  /        /  /           / /
+                      /  /        /  /         /-------/
+                     /--/        /--/         /-------/
+                   The Final Fantasy Walkthrough Version 3.1
+                              By: Zach Keene
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Table Of Contents ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+    Table of Contents   .       .       .       .       .       .       13
+01: Introduction        .       .       .       .       .       .       45
+02: Revision History    .       .       .       .       .       .       80
+03: Creating a Party Mix        .       .       .       .       .       103
+04: Suddenly Appearing in Front of a Castle for no Apparent Reason      149
+   [covers: Coneria, Temple of Fiends, and Garland]
+05: What in the Hey is TCELES B HSUP?   .       .       .       .       253
+   [covers: Matoya's Cave, Provoka, Pirates, Peninsula NE of Provoka]
+06: The Land of the Elves       .       .       .       .       .       241
+   [covers: Elfland, Northwest Castle, Marsh Cave, Dwarven Cave]
+07: Has Someone Been Leaking Toxic Wastes Into The Ground Again?        323
+   [covers: Melmond, Earth Cave, Lich, Titan's Tunnel, Sarda's Cave]
+08: Is It Hot In Here, or Is it Just Me?       .       .       .        403
+   [covers: Crescent Lake, Gurgu Volcano, Kary]
+09: Where Do We Keep the Rat's Tails?   .       .       .       .       471
+   [covers: Ice Cave, FLOATER, Ryukahn Desert, Cardia Islands, Bahamut,
+            Castle of Ordeal, promotion]
+10: Below Sea Level     .       .       .       .       .       .       576
+   [covers: Gaia, Caravan, Onrac, Sea Shrine, Kraken]
+11: Castle of the Winds .       .       .       .       .       .       645
+   [covers: Waterfall, Lefein, Mirage Tower/Floating Castle, Tiamat]
+12: Chaos Extreme       .       .       .       .       .       .       738
+   [covers: Temple of Fiends 2000, Chaos]
+13: Shhhh, The Secrets! .       .       .       .       .       .       802
+   [covers: Sliding Puzzle game]
+14: Miscellaneous Junk  .       .       .       .       .       .       819
+15: The End     .       .       .       .       .       .       .       837
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 1 - Introduction :::::::::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+   Welcome to the third (and possibly final) edition FF1 Walkthrough! If you
+already have version 2.5, you'll find little new here. If you only had version
+1.0 or so, then what were you waiting for? :) 
+   Notice that my E-mail address has changed. If you've E-mailed me anytime in
+the last year or two, and I never responded, that's because my AOL spambox ate
+it. Seriously though, I don't check it anymore, so use the new one below.
+   Also notice that MarioMax did an HTML version of version 2.5, which is
+avaliable at http://www.geocities.com/TimesSquare/Arcade/1805/.
+
+   Anyways, all the information in this guide has come from these sources:
+     *  Nintendo Power's Final Fantasy Strategy Guide
+     *  The FF1 'Handbook' by Ben Siron (bensiron@cco.caltech.edu) - a MUST
+        read for FFI, this details how level ups work, how damage is figured,
+        some neat bugs and tricks, and a detailed FF1 monster guide. Available
+        at good FTP sites everywhere (and mine too. :)
+     *  My own personal experience. 
+     *  Contributions from people whose Emails got lost in my AOL spambox.   
+        Fortunately, since I don't use it anymore, I shouldn't have that
+        problem anymore.
+
+  This Walkthrough was still written in the MS-DOS editor. For best results
+view with a monospace font, 78 characters per line, and 8 characters per tab.
+
+  Send any comments, additions, suggestions, or better ascii art intros to:
+zjkeene@bellsouth.net. Hell, if you've even read this, drop me a line.
+
+            Where to get the most up-to-date version of this guide:
+           ----------------------------------------------------------
+           ftp://members.aol.com/fnlfanatic/games/square/ff1faqxx.txt
+                         where xx is the version number. 
+                                                             
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 2 - Revision History :::::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Version 1.0 (14 Jun 1996) - First Version of the FF1 Walkthrough.
+
+Version 2.0 (26 Jul 1996) - Rewrote or added to some sections
+                            Added walkthrough for the Temple of Fiends 2000
+
+Version 2.1 (27 Jul 1996) - Corrected a few mistakes.
+
+Version 2.5 (29 Jul 1996) - Corrected a few more mistakes.
+                            Added Table of Contents
+                            Added Revision History.
+
+Version 3.0 (31 Dec 1996) - Corrected a few minor misspellings, mistakes, etc.
+                          - Changed the neat (but useless) percentage markers
+                            in the Table of Contents to more useful line
+                            numbers. (Never Publicly Released)
+
+Version 3.1 (8 Jun 1998)  - Two year anniversary! Miscellaneous section added.
+Version 3.1H (8 Jun 1998) - Win96 Help File Version
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 3 - Creating a Party Mix :::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+   Okay. When you start a new game, you have four characters for which you 
+must choose a character class. The Classes available are:
+
+Class       | Description
+------------------------------------------------------------------------------
+Fighter     |Can use the most powerful weapons and armor in the game. IMHO,
+            |every party you send through the game should have at least one
+            |of these. They usually have the best HPs. 
+Thief       |Thieves aren't as strong as fighters and can't use as many 
+            |weapons, but they are useful in getting your party out of sticky
+            |situations. They have the best Agility ratings, and moderate
+            |attacks.
+Black Belt  |I had understated this class before. The Black Belt is *THE*
+            |fighter, with *THE* best attacks _unarmed_. Arming him actually
+            |weakens him somewhat, especially later on. They have HP ratings
+            |(usually) second only to the Fighter.
+Red Mage    |Red Mages can learn both White and Black Magic spells, and can
+            |even fight fairly well. However, a Red Mage cannot learn some of
+            |the most powerful spells.  
+White Mage  |Can use any White magic spells, a poor fighter, however.
+Black Mage  |Can use any Black magic spells, an even worse fighter.
+------------------------------------------------------------------------------
+
+  There is no "wrong" way to combine these classes, however, some party mixes
+will do better than others. I personally like having two fighters, a white 
+mage, and a black mage. This is a expensive party to maintain however, with
+having to buy some of the most expensive weapons and armor. Twice. Not to 
+mention magic spells. But it does force me to gain some levels, and it is a
+well balanced party. A party of all Black mages, however, could make 
+equipping the previous party look like going to the Salvation Army. First,
+this party has no way of healing itself. It would HAVE to buy tons of Heal
+potions right off. They would have to buy tons of spells, and they would 
+pretty much have to rely on magic the whole game. If you can beat the game
+with this party, then you don't need to read my walkthrough.
+  For the record, four White Mages would be even worse. The Black Mages at
+least had the benefit of attack magic, something White Mages don't get, until
+FADE.
+  For beginners I would recommend either my previous party (FI/FI/WM/BM) if
+you're really patient or a party of one fighter, one black belt, one white
+mage, and one black or red mage. The following walkthrough is going to assume
+you're using one of these parties or something similar.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 4 - Suddenly Appearing in Front of a Castle for no Apparent Reason
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  Now that you have selected a party and given them names, the screen will  
+open up to a castle with a surrounding town. Any of the six town icons will 
+take you to the same town, Coneria. First, enter the castle. You can walk 
+around the castle if you wish, talking to the people. (You can find an 
+invisible man if you search around.) Or just walk straight up into the stairs,
+and from there to the King. Talk to him to learn the Princess has been 
+kidnapped by some dude called Garland. The horror!
+  Now go visit the town. You start the game with a little amount of cash, so
+you should go to the weapon and armor shops to get equipped. Make sure you 
+equip everything you buy, or else your gonna find yourself in the situation 
+where you have this nice, powerful sword, but you left it at home. Here's a 
+list of what you should buy for each character class:
+                                               
+                Class    | Weapon   | Armor   
+                ---------------------------------
+                Fighter  |Rapier    |Chain Armor
+                Bl. Belt*|Iron Nchks|Wooden Armor
+                Thief    |Rapier    |Wooden Armor
+                R. Mage  |Rapier    |Chain Armor
+                Wh. Mage |Iron Hmmr |Cloth
+                Bl. Mage |Small Dgr.|Cloth
+
+  * - Equipping the Black Belt this early might help, but it actually hinders
+      later on, especially after his hit % surpasses 32%. An unarmed BB's
+      attack rating is always 2 x level, and he can do 4 hits a turn after he
+      reaches 32% for hit % rating. 
+  With what money you have left, buy magic spells for anyone in your party
+capable of using magic. CURE is a MUST, if you have a white or red mage. You
+should also get HARM, if you have a white mage. For black mages get FIRE and  
+LIT, and SLEP. Of course, with spells at 100 GP a pop, you're going to run out
+of gold before you get all that. So, when a lack of green puts you out of the
+scene, leave town and wander around the town. Don't roam too far just yet. 
+Fight until all your people reach Lv. 2 and you can finish buying spells. You
+might want to buy some Heal and Pure potions.
+  Now head north until you reach the Temple of Fiends (the ruins). Wander
+around the perimeter clockwise. You should find three treasures in this order:
+a Cap (equip to whoever has the lowest Absorb rating; check your Status 
+screen), a Cabin and a Heal potion. If you continue around, you'll find two
+locked doors. You may have found the locked doors in the Castle. Ignore them
+for now; you'll get the key later. When you reach Lv. 3 (or are about to die)
+head back to town and rest at the Inn, and revive any dead members at the 
+Clinic, if necessary. Then head back to the Temple, but this time head 
+straight up through the door. Talk to Garland, who will fling a few insults
+your way and then attack.
+  Garland shouldn't be too much of a problem. Have fighters, black belts, or 
+thieves attack, Black or Red mages should flame the sucker (with the FIRE 
+spell, not with E-Mail), and White mages should either attack or CURE, 
+whatever the situation should dictate. If you run out of Magic Power, or don't
+have a White mage to begin with, or if you just plain don't feel like using
+magic, use the drink command to heal.
+  After beating Garland, talk to the princess. You'll be teleported back to 
+the castle. Talk to the king and to the princess, and the princess will give
+you the Lute.  A Lute???
+  The King will show his gratitude by ordering a bridge built to the mainland.
+Rest at the Inn, and then head for the bridge.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 5 - What in the Hey is TCELES B HSUP? ::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  Cross the bridge and head north until you find a cave. Enter the cave and 
+explore. You will find two heal potions, a pure potion, a bunch of talking
+brooms that say, "TCELES B HSUP." (?uoy t'nac ,sdrawkcab daer nac uoY). You'll
+also find Matoya the Witch, who seems to have lost her Crystal, which allowed
+her to see. You can't do much for her now, however.
+  In case you didn't figure out the broom's clue, when you leave the cave, 
+hold down B on the controller and push SELECT. This will bring up a world map,
+showing your current location. See all those blinking dots? You're gonna hafta
+visit (almost) every single one to finish the game. You'd better get moving!
+  Head back south until the mountain range, then head east past the desert
+until you find a town. You enter the town of Pravoka to find it... deserted? 
+Well, almost, except for a guy with a mohawk. Talk to him to learn that the 
+town's been invaded by pirates. Stay at the inn, and then talk to the head 
+pirate on the west side of town. He'll order his crew of nine to attack!
+  These pirates are total wusses. However, the fact that they outnumber you
+2 to 1 is nothing to laugh at. Use the same tactics that you used on Garland,
+but DO NOT have any two people attack the same pirate, unless there's only
+three pirates. That will more than likely result in a wasted attack.
+  Winning nets you 360 GP and a ship. It's waiting for you in the dock just
+outside of town, but don't leave just yet. It's time to upgrade your weaponry!
+It's also probably a good time to stay at the Inn.
+  First, buy everyone a pair of gloves. Then buy fighters a wooden shield. Now
+you're probably low on money, but I'll address that later. When you get more,
+buy a Scimitar if you have any thieves, and either a Short Sword or a Hand Axe
+for fighters. They both cost the same (550 GP), but the Hand Axe does slightly
+more damage than the sword, but the sword gives a better chance of hitting. 
+The sword is probably the best buy. Also pick up some iron armor. As for 
+magic, be sure to pick up ICE and SLOW (black), and MUTE, ALIT, and INVS
+(white). Red Mages should pick up at least ICE and MUTE.
+  You're gonna need a ton of gold to buy all this, head east into the
+mountains a good bit, where Ogres tend to show up more often. At first, they
+will be a difficult bunch to fight, so don't take any chances out here. But
+beating them does yield a decent amount of gold. If you're really feeling
+lucky, then leave the town, head east into the mountains, then as far north as
+you can go. Due to a bug in the game, the top part of this (two-block wide) 
+peninsula contains FrWOLFs, GIANTs, TYROs, and other relatively stronger
+enemies. If you can defeat them at this lower level, you get more for your
+troubles, but I still recommend fighting the Ogres.
+  When you're fully equipped and ready to go, step into your new ship.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 6 - The Land of the Elves :::::::::::::::::::::::::::::::::::::::: 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  
+  Well, so you're in your new ship, and sailing around. You can float around
+the Aldi Sea awhile, fighting wussy enemies, you can go back to Coneria for a
+cheap inn, or you can push A and B together 55 times to play a sliding puzzle
+game. After you get tired of that, head due south of Coneria, and then west 
+into a port. This lets you off a short walk's distance from Elfland and the
+Castle of Elf. Let's visit the Castle, shall we?
+  Here you'll find that the Prince of the Elves is under a sleeping spell cast
+on him by Astos, the dark elf. You'll also hear that only a Herb will wake him
+up. You'll also hear that Matoya has such an herb. You'll also find out how to
+unlock these blasted locked doors that keep turning up.
+  Before you can put any of this newfound knowledge to use, visit the town of
+Elfland. Buy Fighters a Silver sword, an Iron shield, and a Wooden helmet. Buy
+anyone else a cap, if they don't already have one. You can buy Iron Nunchucks
+for any Black Belts (but I don't recommend it). Buy Copper Bracelets for any
+Mages of any color except Red. Buy a Dagger for your Black Mage, if you have
+one, and another Silver Sword for a Red Mage.
+  As far as spells go, CUR2, FIR2, and LIT2 are musts for level 3 magic. If
+you have a White Mage, buy HRM2 as well. AFIR is useful as well. For level
+4 magic, buy PURE, FAST, and ICE2 for sure, and then just buy whatever floats
+your boat, if you want to come up with the cash.
+  This IS gonna be expensive. If you want to be equipped with the best money
+can buy, you're gonna have to beat up on the Ogres nearby, again. Either that,
+or go back to the Peninsula NE of Provoka (Pneop), which will net you quicker
+money.
+  When you're up a good level or three and are bored of gaining money, head
+northwest of Elfland to a place called (get this) the Northwest Castle. Enter
+and you'll find a deserted castle filled with bats, some more of those famous
+locked doors, and a lone King, who claims that Astos has stolen his crown.
+You're gonna be heading into the Marsh Cave after the crown, so finish 
+geting your party equipped, stock up on some HEAL potions, and definitely some
+PURE potions as well.
+  When you first enter the Marsh Cave, you'll have the option to go north or 
+south. The north path leads to a room with a few treasure chests, with nothing
+of value. Head south, take the stairs to another room. Make your way to the 
+little room at the bottom, where more stairs await.
+  Here in the third basement, you'll find a four by four arrangement of little
+rooms. Three of the bottom four contain some of Final Fantasy's Famous Locked
+Doors. Ignore them for now, but go into the room third from the top, and 
+second from the left. You'll have to fight a group of Wizards. Wizards have 84
+hit points, and a weakness for LIT (you did buy LIT2 before you came here,
+didn't you?). After defeating them take the crown and run.
+  After healing up at an inn or with a HOUSE or something, return to the
+Northwest Castle. Talk to the King again and he will reveal that he is really
+Astos, the SOB that stole Matoya's crystal and casted the sleeping spell on 
+the prince. You're gonna have to fight him. (I hope you've saved!)
+  Astos has 168 HP and an attitude to boot. Keep nailing him with your
+strongest attacks and magic, healing if necessary (or if possible. This dude
+knows RUB!) When (or if) you win, you'll get Matoya's CRYSTAL.
+  Return to her cave, give her the CRYSTAL in exchange for the HERB. Go back
+to the Castle of Elves, give the Prince the HERB. When he wakes up, he'll give
+your party the Mystic KEY, which will open up all those blasted locked doors.
+  Go on a door unlocking spree if you like, but definitely unlock the doors in
+Castle Coneria, for some TNT. After you get it, head west from the port of 
+Coneria, to the next port you find. This will put you a short way away from
+the Dwarven Cave. Talk to all the Dwarves, and take the treasures. The Iron
+Helmet is worth keeping if you've got a Fighter, but sell everything else. The
+Silver Armor is much more expensive than Iron, but it's also a lot weaker. It
+is useful for Red Mages, however. The Dragon Sword might be good for thieves,
+but contrary to popular belief, FF1 weapons have no racial modifers.
+(Translation: this dragon sword will do no better for you against dragons than
+a Silver Sword.) Make note of the Blacksmith whose looking for ADAMANT.
+  You'll eventually find Nerrick, who is trying to make a canal between the
+Aldi Sea and the Western Sea. He's short on TNT at the moment, so if you're
+nice enough to lend him some (like you really have a choice), he can complete
+the job and you can move on.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 7 - Has Someone Been Leaking Toxic Wastes Into The Ground Again? :
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  
+  Sail your ship through the newly formed canal, and dock up next to Melmond.
+Enter the town, and have a look around. 
+  This place is a mess. Most of the ground has turned into desert, buildings
+are demolished, and there are gravesites aplenty. The surviving townspeople 
+will tell you of the Vampire who caused the destruction.
+  On a more practical issue, there is no clinic here, so be careful. The
+weapon shop has nothing of use. The armor shop has Steel Armor, one of the
+best in the game for Fighters. However, it comes with a 45000 GP price tag. 
+Ouch!
+  Where are you going to get that kind of money? Well, there are a few good
+places. The Locked Door of the Northwest Castle is one such place. The three
+treasure chests contain nothing of use (sell them!), but walking in front of
+them always triggers an attack by Undead creatures. Defeating them will
+usually net you a decent amount of cash, and Undead creatures are easily
+undone by HARM or FIRE type spells. This isn't the best place for dough, by
+now you should be able to use Pneop and survive.
+  After getting some money, buy Silver Bracelets for your black or white
+mages, if any, and some Iron Gauntlets for fighters. And even some Steel, if
+you're really patient.
+  Let's talk magic. Namely let's talk CUR3, FIR3. If you have a White Mage, do
+get LIFE and HRM3 as well. If you have a Red or Black Mage, leave a spot for
+WARP. You can't use it yet, but you will be able to later.
+  Make note of Dr. Unne's spot in town (you'll need his help later), and then
+leave Melmond and head south past the rotting earth to the Earth Cave. Since
+the people couldn't find Simon Belmont, you'll have to get rid of the Vampire
+instead (besides, Richter's cooler anyway... um, never mind.)
+  Basement 1: Be warned of the western hall when you enter the cave. Known as
+"The Hall of Giants", It contains nothing but Giants and Iguanas. Strong
+enemies, and a good place for earning Gold and experience. But I prefer the
+Earth elementals for this purpose: enter any of the three treasure rooms and
+step in front of a chest. Most of the chests have an automatic fight with an
+Earth elemental, which has a weakness against FIRE, and give about twice the
+experience of a Giant, and only slightly less gold. But, when you win, just
+back up a step, step forward again, and repeat. You can get many more battles
+accomplished this way than with the random Giants. However, Earths are a bit
+more powerful than Giants.
+  The whole purpose of this expedition was not to find gold gaining places,
+but to do some vampire hunting. So, head east from the stairs, and descend a
+level.
+  Basement 2: This basement is made of several connecting chambers. Generally
+head to the right and down, and you should make your way through.
+  Basement 3: This basement is pretty simple, too. Just try to head clockwise through the
+level until you meet the Vampire.
+  The Vampire is pretty easy. He has 156 HP, and weaknesses against FIRE and
+HARM. Just keep hitting him with FIR2 and HRM2 (or even FIR3 and HRM3, if you
+can. It'll be overkill either way!) You'll win a RUBY for your troubles.
+  You can try to continue, if you like, but you'll soon be stopped by a stone
+plate. There's nothing you can do about it now, just leave the Earth cave, and
+rest at an inn.
+  When you're ready to adventure again, head to the Southwest this time.
+You'll enter the Titan's Tunnel. Feed the Titan the RUBY, and he'll let you
+pass through. The treasure chests in the cave contain a Great Axe and a Silver
+Helmet for your fighter.  (Sell the Axe if your fighter has the Silver Sword.)
+  At the other exit of the Tunnel, head south to Sarda's Cave. He'll give you
+the ROD and tell you to use it on the stone plate to find the source of the
+earth's rot.
+  Back to the Earth Cave for you, after resting at the inn, restocking on
+potions (a couple of SOFT potions would be a good idea), or any other party
+maintenance you wish to do. Head back to the stone plate, use the ROD, and
+continue downward.
+  Basement 4: The Fourth basement has the same interconnecting chambers of the
+past two levels. Be careful of the Cockatrices here; they have a habit getting
+your characters stoned. Just keep heading left. Also there's a Silver Shield
+to be found here.
+  Basement 5: The Fifth basement is more complicated than necessary. Just head
+up until you can head left, then turn downward until you arrive at a closed
+off chamber. Use your HEAL potions to get your party at full strength, and
+then enter the room and talk to the orb. It will shatter, leaving you to do
+battle with Lich, the Fiend of the Earth.
+  Here are his vitals: 400 HP, weak against FIRE, and HARM type spells do a
+good bit of damage as well. Here's where FAST may come in handy as well, used
+on your Fighters or Black Belts. Heal your party as need arises.
+  If you defeat Lich, step foward onto the throne, which will automatically
+warp you out of the cave. Check out your subscreen when you leave: one of your
+ORBS will have regained it's light.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 8 - Is It Hot In Here, or Is it Just Me? :::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  When you've recovered from the battle from Lich, take to your ship and head
+east, but don't go back through the canal. You should pass south of Elfland,
+but keep on going. Follow the shore to a dock to the northeast of Crescent
+Lake (noted chiefly for its proximity to a crecent-shaped lake). In this
+town, you'll find some Silver equipment, buy some, but avoid that Silver Armor
+like the rot of the earth. The Silver Axe is good for your fighter.
+  There are some good magic spells here, but they are getting expensive. Buy
+SOFT if you have a white mage. Buy INV2 now if you have a white mage, later if
+you have a Red mage (He can't use it now, be he'll be able to later.) Leave a
+slot for EXIT, be your white magic user White or Red (same story: not now, but
+later.) For a black mage get LIT3, and pick two more of your choice, if you'd
+like to spend more hard-earned gold. In case you hadn't noticed, Red mages
+can't use any of these spells... yet.
+  By now you're probably wondering what great event will take place that will
+let your Mages use all these wonderful spells. You'll find out soon enough.
+But for now, just explore the city until you find the Circle of Sages. Talk
+to each one of them. One of them will give you a CANOE, which will allow you
+to row your way through rivers.
+  When you're done equipping your people and stocking up on potions (I
+recommend no less than 99 HEAL for the rest of the game), crank up your CANOE
+and explore the river. Watch out for the river monsters. Eventually you'll
+find yourself at the Gurgu Volcano. Here's a good spot to use a HOUSE or
+something, if you'd like. Go ahead and enter, if you dare.
+  (Note: Some people have recommended that you should skip the Volcano for
+now to do either of the following:
+
+   Suggestion 1: Go through the Ice Cave. This gets you some Ice armor which
+   is useful in the Volcano. You'll also get the FLOATER which lets you get
+   the AIRSHIP which in turn lets you...
+
+   Suggestion 2: Go through the Castle of Ordeal and get class change.
+
+   I've never had any major problems with tackling the volcano before the Ice
+cave, but if you'd like, skip ahead to Chapter 9 then come back here.)
+
+  Basement 1: The first basement of the volcano is not difficult to navigate.
+Just beware that the lava does damage to you at every step, but you can't
+avoid it. That's why I said to bring 99 HEAL potions.
+  Basement 2: The second basement is really easy: just head straight to the
+left. You can explore the treasure room if you wish, 3 Silver Helmets, a
+silver shield, a silver axe, some potions, and a bit of gold will be your
+reward. Just watch out for the Fire elementals that guard most of the
+treasure.
+  Basement 3A: This level is easy too. Head Right until you can't no more,
+then take the stairs.
+  Basement 4A: This floor presents no mazes, just completely filled with lava.
+The stairs will take you up to Basement 3B.
+  Basement 3B: Walk down, take the first left, then down again, then all the
+way left.
+  Basement 4B: This level is filled with treasure rooms. The one in the
+northwest corner contains the Ice Sword, which should be equipped on your
+Fighter (or Red Mage, if you wish). It also has a Flame Shield, which is good
+against Ice attacks (no need to worry about that now!). Head south for the
+exit to Basement 5.
+  Basement 5: This room is simple. It has 8 branches. The west branch leads to
+the Flame Armor (good against Ice attacks), and the southwest branch leads
+to Kary, the fiend of Fire. (The others are wastes of time and energy.)
+  HEAL up before you enter Kary's room. Kary has 600 HP, and is resistant to
+all Elementals. Use FAST on your Fighters, Thieves, Black Belts, or whoever
+you want using physical attacks. Use AFIR or INV2 if you have them. Go ahead
+and attack with elemental spells if you'd like; they still do some damage.
+  After victory, step on the throne to exit the Volcano. You'll see that yet
+another ORB has lighted.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 9 - Where Do We Keep the Rat's Tails? ::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  I've moved the stuff about the Ice Cave to this chapter, because of the
+suggestion that you should do this and Class Change before the Gurgu Volcano.
+I personally don't see too much of an advantage in this, but there's really
+no disadvantage either. It's all a matter of taste, actually.
+  Return to Crescent Lake to restock and talk to the Sages again. When you're
+done there, take your ship and follow the coastline to the north. Dock your
+ship at the mouth of a river, and take the CANOE for a spin. Explore these
+rivers until you reach the Ice Cave. If you're ready, go inside.
+  If you've kept any of the Flame stuff from the Volcano, assuming you've gone
+to the Volcano, put it on now. Some of these creatures use Ice attacks, so it
+will help. Although it seems funky, the Ice sword is still a good thing to
+have. Weapons don't have racial or elemental modifers, so your Ice sword is
+actually better than the Flame sword you'll find deeper in the cave.
+  Watch out for the enemies: Frost Wolves, Frost Giants, even a Frost Dragon
+or two... FIRE spells will come in handy. Sorcerers have the annoying habit of
+stunning your characters, so be warned.
+  Basement 1: Head right, head down, head left, take stairs.
+  Basement 2A: Either Left then down, or down then left. Take Stairs.
+  Basement 3A: I'll let you figure this one on your own.
+  Basement 2B: Circle around and enter the treasure room. You'll be able to
+get to the Flame Sword (useless, unless you have a second Fighter or Red
+Mage), and a Cloth (completely worthless!). The pitfalls will prevent you from
+getting the last one though... Drop into a pitfall to get to:
+  Basement 3B: You'll end up in a little room, and the next step will always
+lead to a battle with a legion of Undead creatures. Take them out with FIRE
+and HARM as usual and move on. The level has some treasure rooms, mostly good
+amounts of gold. You'll find the stairs in a southeastern corner.
+  Basement 1 revisited: You'll end up on the far side of Basement one.
+Explore the treasure rooms: one has a single pitfall. Step in it to get to:
+  Basement 2B revisited: You'll be within reach of the treasure chest you
+couldn't get to earlier. When you step in front of it, you'll have to battle
+the Eye.
+  The Eye has 162 HP and can use XXXX, BRAK, RUB, and other instant death
+spells. For now, do whatever it takes to get him out of the picture ASAP.
+You'll get 3225 EXP (divided among surviving characters) and 3225 GP. Whew!
+This IS a definite gold-and-XP-gaining area, although it's best to get a few
+ProRings before you come back here for this purpose.
+  Take the treasure from the chest (the all-important FLOATER), and drop into
+a pitfall. You'll find yourself back at floor Basement 3B again. Just follow
+your tracks as above, but instead of taking the pitfall, just use the stairs
+to the far right of the treasure room. This takes you out of the cave.
+  Take the river back to your ship, then follow the coastline south until you
+reach a river mouth south of Crescent Lake. Dock your ship here, but don't
+take the river. Instead, walk on land to the nearby Ryukahn* Desert. Step
+inside the desert and use the FLOATER to get the AIRSHIP. Step on the AIRSHIP, push A, and you can fly anywhere much quicker than you could walk, sail or CANOE. Take some time to fly around (remember the backwards talking brooms? If you get lost flying around, hold down B and push Select to see the world map.)
+  You'll eventually (maybe) run into a group of small islands with pitfalls
+in them. Take some time to visit them all. You'll find caves inhabited by
+Dragons (friendly ones, don't worry.) In one cave you'll find Bahamut, the
+King of the Dragons of Cardia.
+  The Dragons speak of tests of courage and the nearby Castle of Ordeals. You
+might want to check this place out. (This whole chapter is really optional,
+except for the Ice Cave, but if you don't do it, the game will be a lot more
+difficult.)
+  The Castle of Ordeal is to the northeast of the Islands, but the nearest
+place you can park your Airship is in a plain far to the east. I hope you're
+prepared for a bit of a walk. (I also hope you have 99 HEAL potions).
+  Be prepared for some of the enemies here. Medusae can turn characters to
+stone, Mancats can use FIR2 and will cause damage (AFIR, anyone?)
+  Floor 1: No enemies, just take the northwest room to get to Floor 2.
+  Floor 2: This is a maze. The columns warp you to various other parts of the
+maze. Here's how to get out: You start in a room in the middle. Head out to
+the only column you can reach. This will warp you to another part of the room.
+Again, take the only pillar. This warps you to a choice of two pillars. Take
+the bottom. After this warp, take the only column you can reach. This will
+again take you to a choice of two. Again, take the bottom. This places you
+in a long corridor leading south. It leads to only one column, so take it.
+You have again a choice of two pillars. Take the one on the right. This places
+you in a corridor leading east. Head east to a treasure room. It contains a
+gold bracelet. Equip it on anyone who can't use better armor (read that as
+black or white mages). There are two columns directly south of the door to
+the treasure room; don't take either of them. Take the leftmost corridor
+heading south and take the leftmost pillar. This warps you to a little room
+with one set of stairs. Do you need an ingraved invitation?
+  Floor 3: There are no mazes or branching paths here, just some stronger
+enemies and some treasure, including an Ice sword (equip on second fighter or
+Red Mage, or just keep it if you have a thief... you'll need it soon enough),
+a Heal Staff (keep it but don't equip.. casts the spell of HEAL if used as an
+item in battle), and the Zeus Gauntlet (keep but don't equip, casts LIT2 if
+used in battle). Eventually you'll reach a throne with a treasure chest in
+front. Stepping in front of the chest will start a fight with Zombie Dragons
+(268 HP each, weak vs. FIRE and HARM as usual.) Collect the Rat's TAIL and
+step on the throne to warp back to floor one and exit.
+  Return to Bahamut's throne and present him the TAIL. He will then upgrade
+your characters' class as follows:
+
+Class:   | New Class     | Benefits:
+------------------------------------------------------------------------------
+Fighter  | Knight        | Can equip all the strongest weapons and armor. Also
+         |               | can use some low-level White Magic spells.
+Thief    | Ninja         | Can now use many more weapons and armor and can use
+         |               | up to Level 4 Black Magic.
+BlackBelt| Master        | Just kicks butt as usual.
+Red Mage | Red Wizard    | Can now use some more weapons and spells.
+WhiteMage| White Wizard  | Can now use all White Magic Spells
+BlackMage| Black Wizard  | Can now use all Black Magic Spells.
+------------------------------------------------------------------------------
+
+  Go back now and get all those spells that you've left spaces for (EXIT,
+WARP, etc.) Also, if you'd like, get some magic for any Knights or Ninjas in
+your party. (BTW, about that second Ice Sword, your thief can use it now.)
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 10 - Below Sea Level :::::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  Stuff is getting REALLY expensive now, so check in to the town of Gaia
+(inside a narrow mountain valley in the northeastern continent). There's some
+good stuff to be found here, like a Catclaw for your Black Wizard (but not the
+Black Mage), and some good Level 7 and Level 8 Magic. But for now buy ProRings
+for everybody (20000GP each, ouch). They count as Gauntlets, they might not
+have the best absorb rating, but protection from instant death attacks (RUB,
+XXXX, and SQUINT) is definitely worth it! When everyone's decked with the
+ProRings, it's now pretty safe to go back to the Ice Cave, and battle the Eye
+repeatedly. If you don't want to take the trouble to find him again, let me
+repeat: 3225 Gold, 3225 Exp. It doesn't get better than that, and the Airship
+and EXIT make it a bit easier to get in and get out.
+  Also check out the Northwestern continent. Check out the desert there. A
+little piece of desert will surrounded by forests. That's where the Caravan
+is, and the dude there is selling a BOTTLE for 50000GP. Buy it, and use it,
+and the Fairy will show up in the spring in the northeast corner of Gaia.
+Talk to her and you'll get the OXYALE, which you need to enter the Sea Shrine.
+  When you've got good money, the best magic to buy at Gaia is CUR4 and HRM4
+for White Wizards, and ICE3 for Black or Red Wizards. If you have Black or
+White Wizards, buy some level 8 magic: FADE and WALL for White, and at least
+ZAP! and STOP for Black. Do NOT buy all three level 8 spells here; later
+you'll get some very powerful level 8 magic spells.
+  The River of the Northwestern continent leads up to the town of Onrac.
+There's nothing of interest here shop-wise, except some sucky level 7 magic,
+but a submarine can be found here that leads to the Sea Shrine, if you've got
+the OXYALE.
+
+  (Note: Here's where I suggest skipping something. I suggest traveling up
+  the river to the Waterfall before going here. You'll get a Ribbon and the
+  Defense Sword (second best for Knights and Ninjas, best for Red Mages.) )
+
+  When you do have the goods and are ready to move on, take the submarine.
+  Sea Shrine, Floor 3A: Simple level. Enemies here are (usually) weak against
+LIT. Use the Zeus Gauntlet here in battle liberally. There are two sets of
+stairs here, in the top two rooms. Take the ones on the right.
+  Floor 4A: This level is kind of loopy but not hard. Take time to visit all
+the treasure rooms. You'll get Opal Armor (equip on your Knight), a Light Axe
+(keep this: casts HRM2 if used in battle), and a Mage Staff (keep it: casts
+FIR2 if used in battle). Stairs are in the southeastern corner.
+  Floor 5: No enemies, just mermaids and lots of treasure. Equip the Opal
+stuff on your Knight (except the Gauntlets... ProRings have the same Absorb
+and protect vs. instant death to boot.) Walk to the Northwestern corner and
+head to the left through a long corridor to get to the treasure room on the
+northeaster corner (off one side of the screen and on to the other...). It
+contains the SLAB, which is very important. When you're done here, backtrack
+to floor 3.
+  Floor 3A revisited: Take the left set of stairs this time.
+  Floor 2A: Head generally north and take the stairs.
+  Floor 3B: Very small room.
+  Floor 4B: Just walk around the room and take the stairs.
+  Floor 3C: Enter the treasure room, head north, then take the other exit to
+find the stairs.
+  Floor 2B: Another loopy room. Look through all the treasure rooms for
+another Light Axe and a Ribbon (Equip on somebody NOW. Counts as a helmet,
+very weak (absorb of 1, evade% of 1), but protects against ICE, FIRE, LIT,
+FLASH, HOLD, GLANCE, DARK, INK, STINGER, STOP, and POISON. (Whew!) Stairs are
+at one of the westernmost branches.
+  Floor 1: Head left when you can, up when you can't, until you reach a big
+room. Find the door, head up, and then exit. You'll soon find your way to
+a room with an orb. As usual, HEAL up before you face Kraken, the Fiend of
+the Water.
+  Vitals: 800 HP, weak vs. LIT, and strong against QAKE and FIRE. Use the
+same tactics as usual: Strong LIT spells, FAST on your fighting characters
+CURE when necessary, etc.
+  When you win, do the throne thing to exit. Yet another ORB has lighted up.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 11: Castle of the Winds ::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  When you've rested at the inn, restock and travel north up the river near
+Onrac. You'll eventuallly run into the Waterfall.
+  The Waterfall is a one level maze, with one treasure room. Beware the Gas
+Dragons, 352 HP, weak vs. Ice, and has a nasty Poison attack.
+  The only treasure room has a robot, and six treasures. Talk to the robot,
+and he'll give you a CUBE, and tell you to use it to gain access to the
+Floating Castle.
+  The treasures include another Ribbon (equip it on someone else, fast!), a
+Wizard Staff (casts CONF when used in battle, I'd sell it.), and a Defense
+sword (casts RUSE when used in battle. It's also a good weapon for a second
+Knight, Ninja, or Red Wizard.).
+  All you need is the CUBE, so get it and EXIT this place.
+  When you're back at your Airship, head back to Melmond. Remember Dr. Unne?
+Well, find him and give him the SLAB. He'll teach you the language of Lefein.
+(Don't you just love people who can learn a second language in two seconds
+flat?)
+  Speaking of Lefein, that's where you need to go. Remember Pneop? Head
+directly north from there and you should pass Lefein. However, the only place
+you can land your airship is a good way to the northwest, near a lake, and
+right up next to a mountain. After a long walk south to Lefein, and talk to
+the people. They'll tell you of the Floating Castle, the Sky Warriors, and of
+Tiamat. One will give you the CHIME, which is the key to the Mirage Tower.
+  A break in the western wall leads to two secret magic shops. They have only
+one spell each: the Level 8 White Magic spell of LIF2 (buy it, if you have a
+White Wizard), and the Level 8 Black Magic spell of NUKE (buy it, if you have
+a Black Wizard).
+  There is no Inn here, but when you get back in your airship and find one,
+come back, and find a place to land your airship inside the mountain range
+that encircles a huge desert. You'll find the Mirage Tower in the middle of
+the desert (not EXACTLY in the middle, but a little to the northeast.)
+  When you're in the Mirage Tower/Floating Castle, you might want to EXIT a
+few times to get rid of excess treasure, collect the second most powerful
+sword in the game, etc.
+  MT Floor 1: Simple. The Treasure room here contains the Aegis Shield (equip
+on your Knight, resistant to poison), and a Heal Helmet (casts HEAL when used
+during battle.)
+  MT Floor 2: A bit more elaborate, but just circle counterclockwise. The
+treasure room contains Thor's Hammer (equip on White Wizard if you've got one,
+otherwise, keep it. Casts LIT2 in battle), Sun Sword (a bit better than
+Defense for a second Knight, Ninja, or Red Wizard), and Dragon Armor
+(just as good as Opal, but without the resistance to Lightning. Good for a
+second Knight only.)
+  MT Floor 3: Straightfoward. Circle around, enter the room, battle a Blue
+Dragon the minute you do (454 HP, weak vs. Fire, has a THUNDER attack). If you
+have the CUBE you can use the transporter to enter the Floating Castle.
+  FC Floor 1: You start in the center, and you've got four branches. The top
+one leads to Floor 2, left leads to GP, down leads to the Bane Sword (casts
+BANE when used in battle, keep if you wish), right leads to another Heal
+Helmet, a ProRing, and some GP.
+  FC Floor 2: You've got 8 branches this time, and you start at the top.
+Southwest leads to ADAMANT (EXIT now and go to the Dwarven Blacksmith to get
+Xcalber, the second most powerful sword in the game, usable only by a Knight.)
+South leads to Floor 3, southwest leads to the Black Shirt (casts ICE2 when
+used in battle), and the White Shirt (casts INV2 when used in battle.).
+West leads to another Ribbon and another Opal Shield.
+  FC Floor 3: This floor looks loopy, but there's four main branches. Check
+out the window while you're there. Head right for a treasure room. One of the
+treasures here is the ProCape. It's basically works like the ProRing, but it
+counts as a shield, and a halfway decent one at that. Equip it on someone who
+could use a shield (Mages come to mind, Black Belts can't use them). The West
+branch leads to a treasure room with a Katana (Best sword for a Ninja) and to
+Floor 4
+  FC Floor 4: There are some powerful enemies here. Walk left and take the
+second intersection up until you reach a teleporter. Or walk down and take the
+second intersection right until you reach a teleporter. Or, walk right and
+take the second intersection down until you reach a teleporter. (By now,
+you should get the idea or be hopelessly confused. ;) )
+  FC Floor 5: A long corridor straight up. Watch out, because you have a one
+in 64* chance of meeting up with hell itself: the WarMech (1000 HP, has no
+strengths or weaknesses, but can do up to 256 damage to one character with
+a physical attack, and his NUCLEAR blast can do up to 400 damage to all
+characters. If you can manage to defeat him (FAST, NUKE, FADE, some timely
+CUR4, and some good physical attacks), you are very well rewarded: 32000 XP
+and GP. The moral of this story is: don't mess around here. Head straight up
+and prey you don't meet him.
+
+(* - NP claims 1 in 64, I disagree. While chances are you won't meet him if
+    you just head straight up the bridge. If you walk back and forth, you'll
+    meet up with it relatively often.)
+
+   Tiamat, the Fiend of Wind, is the toughest of the Fiends. 1000 HP, and
+strong against elementals. (Both NP and Ben Siron's guides claim that he is
+also weak against BRAK and BANE. If you've got somebody with a Bane Sword that
+isn't really helping the cause much, the go ahead and try, it does
+occasionally work, but don't waste any spell charges on it.) As usual, FAST,
+Strong spells (FADE, NUKE, etc.) and so on work well. WALL might be a good
+choice on the unlucky soul who doesn't have a Ribbon.
+  Do the Throne Thing again when you win.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 12 - Chaos Extreme :::::::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  Well, you've succeeded in relighting all of the ORBs, but your quest is not
+over yet. You can talk to the Circle of Sages in Crescent Lake to find out
+what to do now, or you can just skip that and head for the one place that's
+equidistant from all of the fiend's lairs.
+  The Temple of Fiends.
+  You can now talk to the bats, who were the Sky Warriors. When you're through
+messing around, talk to Garland's Black Orb, and you'll be teleported to the
+Temple of Fiends, 2000 years ago. Be warned: the only exit from here is EXIT,
+so if your Wizard dies who can use this, um, you're kinda stuck. <Insert
+lecture about the importance of saving your game here.>
+  Floor 1: Head south and to the right, then take the stairs. Watch out for
+the Frost Dragons, they come 3 or 4 at a time and will Frost you to death if
+you're not careful.
+  Floor 2: Just head right, for now.
+  Floor 3: Head for the central room. When you enter you'll fight the Phantom,
+who's easily dispatched (he's undead, if that helps). The two treasure chests
+are worth 45000 and 65000 GP. Another Stone plate is here, but remember the
+LUTE you've been carrying from the beginning?
+  Floor 2 Revisited: You'll find yourself in the central room here, exit and
+circle the room until you find the stairs (you'll forgive me for not
+remembering exactly which corner they're in, won't you?)
+  Floor 1 Revisited: Head generally left.
+  Basement 1: This floor contains enemies from the Earth Cave, just in greater
+quantity. This floor is simple; just follow it. The two big rooms are empty;
+one of them you can't reach from here, but it's not worth reaching period.
+Right before the stairs you'll run into your good pal Lich, the Earth Fiend.
+Same tactics generally work, except he can use NUKE now.
+  Basement 2: This floor contains enemies from the Gurgu Volcano, just in
+greater quantity. You can find another ProCape on this level, if you take the
+time to explore. When you start out head left then up to the big room. Travel
+to the right then take the exit and head south then left to the stairs to get
+out. You'll fight Kary again before you leave.
+  Basement 3: This floor contains enemies from the Sea Shrine, just in greater
+quantity. Make your way south, and take out Kraken again on the way out.
+  Basement 4: This floor contains enemies from the Sky Castle, just in greater
+quantity. It's divided into four squares, with the southeastern one having a
+'tail' which has a small room with the Masmune. This sword plain kicks butt.
+Equip it on someone who's not really a fighter (White Mages are a good choice)
+to turn them into one. When you've got it, head for the Northeastern square,
+and say 'hola' (or 'adios' if you prefer) to Tiamat on the way down.
+  Basement 5: This floor contains no enemies, in any quantity. It's got a room
+in the center. Enter it and prepare to face...
+  Garland!?! Yep, he'll fling more insults your way, and he'll lead you into
+the fight with... Chaos.
+   NP recommends you be at least Level 27 to fight him. I recommend about 35.
+At any rate, he has 2000 HP, resistance to everything, some killer magic
+(including an annoying CUR4 which is his fourth regular spell he uses), some
+killer attacks (Crack - Instant death to all warriors [ProRing, anyone?],
+Inferno - Up to 384 points of Fire damage to all warriors [Ribbon or WALL],
+Swirl - Up to 256 physical damage to all warriors... you get the idea.)
+  All I can say is FAST, WALL to anyone without a Ribbon, INV2, strong attack
+spells (FADE and NUKE), and prey for miracles.
+  Or gain up to about 35-39, with a KN/KN/WW/BW, at which point he's dead in
+about two or three turns.
+  NOTE: I have been taken to task for recommending having level 35 to beat
+Chaos. I didn't really think that was unreasonable, but if you just can't
+stand to gain levels that high, it is not really necessary. In fact, level 35
+makes things too easy. If you want a challenge, by all means attack at a lower
+level.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 13 - Shhhh, The Secrets! :::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  What secrets? There's really only one, in case you missed it before, get in
+the sailing ship, press A and B together 55 times to play a sliding puzzle
+game. 
+  NOTE: I have received quite a bit of contradictory mail on this topic. I
+once received an E-mail from somebody who said that this puzzle (and its
+real-world counterparts) were unsolvable, and went on to describe why.
+Unfortunately, I have somehow managed to lose that E-mail, and I can't
+remember who sent it, but if they would E-mail me again I would sure
+appreciate it.
+  Others have said that yes, the thing is solvable, and that in fact you do
+receive a small GP reward if you do. I've never tried enough to confirm or
+deny any of this, however.
+   
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 14 - Miscellaneous Junk ::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  Well, this section lists some stuff that people have sent me, but I've never
+taken the time to confirm. (Not counting sliding puzzle stuff.) Anyway...
+ 
+* - Dave Connoy reports that the Dragon Armour makes its wearer resistant to
+Fire/Ice/Lightning. Sort of like it does on SaGa/FFL 2, I guess. He also
+suggests raiding places like the Waterfall/Mirage Castle/Castle of Ordeals
+ASAP. I could see how this could result in some very sick gameplay. :)
+
+* - Somebody reported that ARUB granted resistance to all magic, not just
+instant-death spells. This was based on the fact that a "resist magic" message
+pops up when you use it. (If you know who you are, please E-mail me if you
+want me to credit you for this. You were also the one who criticized me for
+sticking too close to the NP guide for this walkthrough.)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+::: Chapter 15 - Conclusion ::::::::::::::::::::::::::::::::::::::::::::::::::
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+  Well, that's it for now. There probably will be few, if any, more updates to
+this guide anymore. I may start working on some other FAQs now, so we'll see.
+Also, sooner or later, I need to update my website, which hasn't been touched
+since MarioMax did the HTML version of this FAQ.
+
+Zach Keene 
+8 Jun 1998
+-----------------------------------------------------------------------
+"The freedom we lost cannot be re-conquered cheaply, but however high,
+ it's a price worth paying."
+        - Robert Miles
+
+Author of the FF1 Walkthrough - Just Updated 8 Jun 1998!
+- ftp://members.aol.com/fnlfanatic/games/square/ff1faq31.txt [text]
+- ftp://members.aol.com/fnlfanatic/games/square/ff1faq31.hlp [Win95 Helpfile]

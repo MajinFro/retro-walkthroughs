@@ -1,0 +1,1289 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Turn-Based RPG",
+    "categories": [
+      {
+        "name": "Treasure chests",
+        "description": "Every treasure chest in the nine RA chest groups (Coneria/Elfland/Northwest castles; Marsh, Dwarf and Matoya's caves; Earth Cave and Titan's Tunnel; Gurgu Volcano; Ice Cave; Castle of Ordeals and Cardia caves; Sea Shrine and Waterfall; Mirage Tower and Floating Castle; Temple of Fiends present and past), all opened in Playthrough 1. Playthrough 2 opens only the plot chests.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Fiends and story key items",
+        "description": "All four Orbs relit (Lich, Kary, Kraken, Tiamat) in each playthrough, every key item from the Lute to the Chime, and Chaos defeated twice: with the promoted, fully equipped party in Playthrough 1 and with the unpromoted, chestless party in Playthrough 2.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Optional quests, ultimate weapons and challenges",
+        "description": "Playthrough 1: class change, 24 spells on one mage, Excalibur, Masamune, Katana, Thor's Hammer, WarMech, the ship slider puzzle, the Elfland grave and Floating Castle window easter eggs, the Peninsula of Power win and the no-healing Chaos kill. Playthrough 2: the four Fiend challenges and the no-chests, no-class-change Chaos kill.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "chests",
+      "orbs",
+      "sidequests"
+    ]
+  },
+  "playthroughs": 2,
+  "playthrough_notes": "Two separate playthroughs, each from a new game. Playthrough 1 (chapters 1-13) is the full True 100% run: every chest, the class change, 24 spells, the ultimate weapons, WarMech, all the easter eggs, and Chaos beaten without healing, which also earns Heroes That Never Were. Playthrough 2 (chapters 14-19) is the challenge run on a new file: open only the five plot chests (Crown, TNT, Ruby, Floater, Slab; the Tail is allowed but not needed), never hand Bahamut the Tail, earn the four Fiend challenges (Lich with nobody dying, Kary by fire, Kraken in 8 or fewer actions, Tiamat by Bane's poison smoke), and beat Chaos for Don't Change For Anyone and Merchandise Madness. The mutually exclusive pairs (every chest-sweep achievement vs. Merchandise Madness; Class Upgrade and Of Mighty Magic vs. Don't Change For Anyone) are why the runs are separate files. The Fiend challenges are planned for Playthrough 2, but any of them that unlocks during Playthrough 1 is already done. Finish and check every Playthrough 1 achievement before starting Playthrough 2. A party created without a White Mage or Black Mage in Playthrough 1 locks Of Mighty Magic for that file (RA commenters had to replay for it).",
+  "settings_notes": "Hardcore mode. Playthrough 1 party: at least one White Mage or Black Mage is mandatory for Of Mighty Magic; the RA guide recommends prioritising a Black Mage and taking a Black Belt and a Fighter (e.g. Fighter, Black Belt, White Mage, Black Mage). Playthrough 2 party: take a Black Mage, whose Fire spells finish Kary and whose Bane spell finishes Tiamat without the optional Flame Sword and Bane Sword chests; the same four-class party works. Class choices are permanent for each file.",
+  "fact_ids": [
+    "ra-guide-1-3",
+    "ra-comments-43-2",
+    "ra-comments-53-1",
+    "ra-comments-47-1",
+    "ra-comments-42-4",
+    "ra-comments-38-4",
+    "ra-comments-45-3"
+  ],
+  "counter_totals": {
+    "Orbs relit, Playthrough 1": 4,
+    "Orbs relit, Playthrough 2": 4,
+    "Chest-sweep achievements": 9
+  },
+  "missables": [
+    {
+      "achievement_id": 398471,
+      "label": "Win a Peninsula of Power battle",
+      "deadline": "Playthrough 1: before talking to Bikke in Pravoka (chapter 2).",
+      "chapter": 2,
+      "fact_ids": [
+        "ra-guide-3-4",
+        "gf7-5-1",
+        "gf1-57-6",
+        "gf2-11-3"
+      ]
+    },
+    {
+      "achievement_id": 27656,
+      "label": "Start with a White Mage or Black Mage",
+      "deadline": "Party creation at the start of Playthrough 1 (chapter 1); the spells themselves are bought in chapter 11.",
+      "chapter": 1,
+      "fact_ids": [
+        "ra-guide-1-3",
+        "ra-comments-42-2",
+        "gf1-78-1",
+        "gf1-78-2",
+        "gf1-78-3",
+        "ra-comments-42-4"
+      ]
+    },
+    {
+      "achievement_id": 398940,
+      "label": "Lich with nobody dying",
+      "deadline": "Playthrough 2: the first Lich fight on Earth Cave B5 (chapter 15); save before and reset on a death. Also unlocks in Playthrough 1 (chapter 6) if nobody dies there.",
+      "chapter": 15,
+      "fact_ids": [
+        "ra-comments-15-4",
+        "ra-guide-5-12",
+        "gf11-16-3",
+        "gf1-74-1"
+      ]
+    },
+    {
+      "achievement_id": 398941,
+      "label": "Kary killed by fire",
+      "deadline": "Playthrough 2: the first Kary fight in the Gurgu Volcano (chapter 16). Also unlocks in Playthrough 1 (chapter 7) if a fire spell lands the kill.",
+      "chapter": 16,
+      "fact_ids": [
+        "ra-guide-9-2",
+        "ra-comments-19-1",
+        "gf7-10-2",
+        "gf1-125-5",
+        "ra-guide-9-1"
+      ]
+    },
+    {
+      "achievement_id": 398942,
+      "label": "Kraken in 8 actions or fewer",
+      "deadline": "Playthrough 2: the first Kraken fight in the Sea Shrine (chapter 17). Also unlocks in Playthrough 1 (chapter 10) if the kill takes 8 or fewer actions.",
+      "chapter": 17,
+      "fact_ids": [
+        "ra-comments-27-1",
+        "ra-comments-27-13",
+        "gf9-30-2",
+        "ra-guide-13-1",
+        "gf7-13-13"
+      ]
+    },
+    {
+      "achievement_id": 398486,
+      "label": "Tiamat killed by Bane poison smoke",
+      "deadline": "Playthrough 2: the first Tiamat fight in the Floating Castle (chapter 18). Also unlocks in Playthrough 1 (chapter 12) with the Bane spell or the Bane Sword used as an item.",
+      "chapter": 18,
+      "fact_ids": [
+        "ra-comments-38-4",
+        "ra-comments-38-6",
+        "gf11-19-2",
+        "ra-guide-15-5",
+        "gf2-32-5"
+      ]
+    },
+    {
+      "achievement_id": 398475,
+      "label": "Never hand Bahamut the Tail on the Playthrough 2 file",
+      "deadline": "Playthrough 2: from the new game in chapter 14 until Chaos falls in chapter 19. The Playthrough 1 class change (chapter 9) does not affect the new file.",
+      "chapter": 19,
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-guide-11-7",
+        "gf10-139-1",
+        "ra-comments-47-2"
+      ]
+    },
+    {
+      "achievement_id": 398476,
+      "label": "No optional chests on the Playthrough 2 file until Chaos is beaten",
+      "deadline": "Playthrough 2: from the first chest in chapter 14 until Chaos falls in chapter 19; only the Crown, TNT, Ruby, Floater, Slab (and the Tail) may be opened.",
+      "chapter": 19,
+      "fact_ids": [
+        "ra-comments-53-1",
+        "ra-comments-53-9",
+        "ra-comments-52-13",
+        "gf10-139-1",
+        "gf11-12-8",
+        "ra-guide-2-1"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Class change with Bahamut (Playthrough 1)",
+      "chapter": 9,
+      "warning": "Handing over the Tail promotes the whole party for good, so the Playthrough 1 file can never earn Don't Change For Anyone; that achievement is earned on the new Playthrough 2 file.",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-guide-11-7"
+      ]
+    },
+    {
+      "label": "Beating Chaos (Playthrough 1)",
+      "chapter": 13,
+      "warning": "The game cannot be saved after Chaos. Exit and save once the past temple chests are open, so the no-healing Chaos kill can be retried from that save.",
+      "fact_ids": [
+        "ra-comments-43-2",
+        "ra-comments-45-6",
+        "ra-comments-45-3"
+      ]
+    },
+    {
+      "label": "Through the time gate (Playthrough 2)",
+      "chapter": 19,
+      "warning": "Once in the past there is no way back except Exit or Warp, which need the class change; the challenge-run party must win or reset. Save outside first.",
+      "fact_ids": [
+        "gf1-111-3",
+        "gf9-33-7",
+        "ra-comments-47-8"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Coneria and the Rescue of Princess Sara",
+      "areas": [
+        "Coneria",
+        "Coneria_Castle",
+        "Temple_of_Fiends",
+        "Garland",
+        "Princess_Sara",
+        "Lute",
+        "Bridge"
+      ],
+      "achievement_ids": [
+        3569
+      ],
+      "fact_ids": [
+        "gf1-129-1",
+        "gf10-118-3",
+        "gf7-3-5",
+        "gf11-12-5",
+        "gf1-112-7",
+        "gf1-139-9",
+        "gf10-47-2",
+        "gf1-42-3",
+        "gf1-42-4",
+        "gf10-8-9",
+        "gf10-8-8",
+        "gf10-136-3",
+        "gf11-12-1",
+        "gf1-135-2",
+        "gf1-135-6",
+        "gf11-20-5",
+        "gf2-43-2",
+        "gf2-44-1",
+        "gf2-44-2",
+        "ra-guide-1-3",
+        "ra-comments-42-2",
+        "gf1-20-1",
+        "gf1-23-2",
+        "gf1-24-2",
+        "gf1-27-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 1 (full run). Start a new game. Party creation is permanent: put at least one White Mage or Black Mage in the party, or Of Mighty Magic (27656) can never be earned on this file (Red Mages top out at 20 spells). The RA guide recommends Fighter, Black Belt, White Mage, Black Mage. This playthrough opens every chest, so take the three free chests in the Temple of Fiends' left corner rooms now; its two Mystic Key rooms wait for chapter 4, and the past temple for chapter 13. Garland is fought in the centre room of the Temple of Fiends; talk to Sara until she hands over the Lute, then the King builds the bridge north. Coneria Castle's two locked rooms also wait for the Mystic Key (chapter 4)."
+    },
+    {
+      "n": 2,
+      "title": "Matoya's Cave, Pravoka and the Pirate Ship",
+      "areas": [
+        "Matoyas_Cave",
+        "Matoya",
+        "Pravoka",
+        "Peninsula_of_Power",
+        "Pirates",
+        "Ship_Item",
+        "Ship",
+        "Slider_Puzzle"
+      ],
+      "achievement_ids": [
+        398471,
+        3570,
+        27654
+      ],
+      "fact_ids": [
+        "gf8-5-15",
+        "gf2-48-2",
+        "gf2-70-3",
+        "gf2-70-5",
+        "gf11-20-11",
+        "gf11-20-9",
+        "gf1-44-4",
+        "gf2-10-4",
+        "gf10-138-2",
+        "gf10-35-6",
+        "gf10-35-7",
+        "gf1-57-6",
+        "gf2-11-3",
+        "gf11-19-5",
+        "gf1-141-1",
+        "gf11-12-16",
+        "gf1-42-6",
+        "gf1-43-5",
+        "gf7-3-8",
+        "gf7-3-12",
+        "gf7-5-1",
+        "gf8-6-1",
+        "ra-guide-3-4"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 1 (full run). Open Matoya's three chests (they count toward Cave Dweller, finished in chapter 4). Punching Above Your Weight must be won on the last grass tiles of the Peninsula of Power BEFORE talking to Bikke in the top-left corner of Pravoka; save with a Tent first, and the single ZomBull is the most survivable encounter. After Bikke hands over the ship, do the slider puzzle on the ship at once (hold A, press B 55 times) for Puzzle Fantasy and 100 G."
+    },
+    {
+      "n": 3,
+      "title": "Elfland, the Marsh Cave and Astos",
+      "areas": [
+        "Elfland",
+        "Gravestone",
+        "Elfland_Castle",
+        "Elf_Prince",
+        "Marsh_Cave",
+        "Wizards_Crown",
+        "Crown",
+        "Northwest_Castle",
+        "Astos",
+        "Crystal",
+        "Herb",
+        "Mystic_Key"
+      ],
+      "achievement_ids": [
+        398472,
+        3571
+      ],
+      "fact_ids": [
+        "gf1-128-2",
+        "gf1-133-5",
+        "ra-comments-9-2",
+        "ra-guide-4-1",
+        "gf2-15-3",
+        "gf2-15-5",
+        "gf10-137-1",
+        "gf10-10-1",
+        "gf10-11-8",
+        "gf1-140-15",
+        "ra-guide-2-1",
+        "gf10-12-1",
+        "gf11-16-1",
+        "gf9-15-11",
+        "gf2-47-2",
+        "gf2-48-2",
+        "gf7-6-14",
+        "gf9-16-3",
+        "ra-comments-9-1",
+        "gf10-15-1",
+        "gf10-135-2",
+        "gf10-136-1",
+        "gf10-136-2",
+        "gf11-12-3",
+        "gf11-12-4",
+        "gf7-4-10",
+        "gf8-6-2",
+        "gf7-5-5",
+        "gf7-5-7",
+        "gf7-5-8"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 1 (full run). Talk to the left gravestone north of the Elfland inn (one commenter needed two tries) for May Thou Rest in Peace. Marsh Cave B1 to B3: open every chest you can reach, including the Crown on B3 (the pillar room 3 rows down and 1 column right of the stairs; Wizards attack as you approach). The locked Marsh Cave rooms, the Elfland Castle treasury and the Northwest Castle locked room need the Mystic Key and are cleared in chapter 4. Take the Crown to the king of Northwest Castle, who is Astos; beat him for the Crystal, give it to Matoya for the Herb, give the Herb to the attendant beside the sleeping prince in Elfland Castle for the Mystic Key. Keep the Crown: the Castle of Ordeals throne needs it in chapter 9."
+    },
+    {
+      "n": 4,
+      "title": "Mystic Key Treasures, the TNT and the Canal",
+      "areas": [
+        "Elfland_Castle",
+        "Northwest_Castle",
+        "Marsh_Cave",
+        "Coneria_Castle",
+        "Temple_of_Fiends",
+        "TNT",
+        "Dwarf_Cave",
+        "Nerrick",
+        "Canal"
+      ],
+      "achievement_ids": [
+        398477,
+        398478
+      ],
+      "fact_ids": [
+        "gf1-112-7",
+        "gf1-139-9",
+        "gf2-15-3",
+        "gf2-15-5",
+        "gf11-16-1",
+        "gf9-15-11",
+        "gf10-11-8",
+        "gf1-140-15",
+        "gf1-125-17",
+        "gf1-58-3",
+        "gf8-5-15",
+        "gf7-3-5",
+        "gf11-12-5",
+        "gf2-15-15",
+        "ra-guide-4-10",
+        "gf1-125-4",
+        "gf8-6-21",
+        "gf1-62-1",
+        "gf2-52-4",
+        "gf7-4-15",
+        "gf8-6-18"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 2
+      },
+      "notes": "Playthrough 1 (full run). With the Mystic Key, open every locked room: the Elfland Castle treasury (four chests), the Northwest Castle locked room (three), the three locked rooms on Marsh Cave B3, both Coneria Castle locked rooms (six chests, one of them the TNT) for Plundered the Keeps, and the two Mystic Key rooms (top-right, bottom-right) of the Temple of Fiends, which count toward What's Old Is New Again (finished in chapter 13). Sail to the Dwarf Cave: open the two entrance chests and the eight chests of the locked south chamber; with Matoya's and the Marsh Cave chests that finishes Cave Dweller. Give the TNT to Nerrick to blast the canal."
+    },
+    {
+      "n": 5,
+      "title": "Melmond, the Earth Cave and the Vampire",
+      "areas": [
+        "Melmond",
+        "Earth_Cave",
+        "Vampire",
+        "Ruby"
+      ],
+      "achievement_ids": [
+        3572
+      ],
+      "fact_ids": [
+        "gf1-131-12",
+        "gf1-139-18",
+        "gf1-139-46",
+        "gf7-7-14",
+        "ra-guide-2-3",
+        "gf1-119-5",
+        "gf1-68-2",
+        "gf7-7-4",
+        "gf1-70-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 1 (full run). Sail through the canal to Melmond. Earth Cave B1 to B3: open every chest on the way (they count toward Gaia's Greed, finished in chapter 6); the Giants loop on B1 is a strong EXP spot. Beat the Vampire on B3 and open the chest behind him for the Ruby (Blood Ruby)."
+    },
+    {
+      "n": 6,
+      "title": "Titan's Tunnel, Sarda and Lich",
+      "areas": [
+        "Titans_Tunnel",
+        "Titan",
+        "Sardas_Cave",
+        "Sarda",
+        "Rod",
+        "Earth_Cave",
+        "Lich"
+      ],
+      "achievement_ids": [
+        3573,
+        398479
+      ],
+      "fact_ids": [
+        "gf1-72-1",
+        "gf1-134-5",
+        "gf10-137-3",
+        "gf10-19-7",
+        "gf1-136-12",
+        "gf7-8-4",
+        "gf1-139-18",
+        "gf1-139-46",
+        "ra-guide-5-12",
+        "gf11-16-3",
+        "gf1-119-9",
+        "gf1-119-10",
+        "gf1-71-4",
+        "gf1-70-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 1,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). Give the Ruby to the Titan and open the Titan's Tunnel treasure room, get the Rod from Sarda, use it on the stone plate past the Vampire's room on Earth Cave B3, then clear Earth Cave B4 and go down to Lich on B5. Opening every Earth Cave and Titan's Tunnel chest earns Gaia's Greed. Oh, Death, Where is Thy Sting? (nobody dies in the Lich fight) is planned for Playthrough 2 (chapter 15), but it unlocks here too if nobody falls, which saves a retry later. Step on the altar behind Lich to light the Earth Orb."
+    },
+    {
+      "n": 7,
+      "title": "Crescent Lake and the Gurgu Volcano",
+      "areas": [
+        "Crescent_Lake",
+        "Circle_of_Sages",
+        "Canoe",
+        "Gurgu_Volcano",
+        "Kary"
+      ],
+      "achievement_ids": [
+        3574,
+        398480,
+        3575
+      ],
+      "fact_ids": [
+        "gf10-126-1",
+        "gf1-75-1",
+        "gf10-134-1",
+        "gf2-20-2",
+        "gf10-64-1",
+        "gf1-139-13",
+        "gf7-10-2",
+        "gf2-36-1",
+        "gf10-21-5",
+        "gf1-125-5",
+        "gf11-12-17",
+        "gf7-8-10",
+        "gf7-9-5",
+        "gf1-94-2",
+        "gf1-95-3"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 1,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). The Circle of Sages give the Canoe only after Lich. Gurgu Volcano B1 to B5: open every chest (Hot Take), including the Giant Sword on the second floor and the Flame Armor in the Red Dragon and Agama side room. Kary resists fire; Fight Fire With Fire is planned for Playthrough 2 (chapter 16), but if you finish her with Fire/Fir2/Fir3 here it unlocks now."
+    },
+    {
+      "n": 8,
+      "title": "The Ice Cave and the Airship",
+      "areas": [
+        "Ice_Cave",
+        "Eye",
+        "Floater",
+        "Ryukahn_Desert",
+        "Airship"
+      ],
+      "achievement_ids": [
+        398481,
+        3576
+      ],
+      "fact_ids": [
+        "gf11-12-8",
+        "gf10-42-2",
+        "gf8-9-11",
+        "gf9-23-2",
+        "gf10-25-1",
+        "gf2-45-2",
+        "gf11-12-18",
+        "gf9-23-3",
+        "gf10-135-6",
+        "gf1-84-3",
+        "gf7-10-6",
+        "gf1-88-6",
+        "gf2-24-1",
+        "gf9-23-4",
+        "gf7-10-20",
+        "gf1-125-5",
+        "gf2-108-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). Ice Cave: open every chest (Cold Hard Cash, Mostly), including the Flame Sword and Ice Shield. The Floater chest sits in a B2 treasure room you reach by dropping through a hole from the floor above; the Eye attacks when you step in front of it. Use the Floater in the Ryukahn Desert south of Crescent Lake to raise the Airship. RA commenters farm the Eye (806 EXP each) once the party has about 300 HP; bring Softs."
+    },
+    {
+      "n": 9,
+      "title": "The Castle of Ordeals, Cardia and the Class Change",
+      "areas": [
+        "Castle_of_Ordeals",
+        "Zombie_Dragon",
+        "Tail",
+        "Cardia_Islands",
+        "Bahamut",
+        "Class_Change"
+      ],
+      "achievement_ids": [
+        398482,
+        3577
+      ],
+      "fact_ids": [
+        "gf10-139-1",
+        "gf9-24-1",
+        "gf1-84-1",
+        "gf1-141-4",
+        "gf2-52-2",
+        "ra-guide-11-5",
+        "gf10-27-1",
+        "gf1-88-10",
+        "gf1-80-6",
+        "gf7-11-4"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). Castle of Ordeals: place the Crown on the 1F throne, cross the teleporter maze on 2F and the 3F spiral; the Tail chest is in the throne room (Zombie Dragon fight). Open every chest here and the 13 chests across the three Cardia Isles caves (Regal Recon), then give Bahamut the Tail in the long hall for the class change (Class Upgrade). The class change is permanent for this file, which is why Don't Change For Anyone is earned on a fresh file in Playthrough 2. Promoted mages can now buy spells up to level 8 (chapter 11) and cast Exit and Warp."
+    },
+    {
+      "n": 10,
+      "title": "Gaia, Onrac, the Waterfall and the Sea Shrine",
+      "areas": [
+        "Caravan",
+        "Bottle",
+        "Gaia",
+        "Fairy",
+        "Oxyale",
+        "Onrac",
+        "Waterfall",
+        "Robot",
+        "Cube",
+        "Sea_Shrine",
+        "Kraken",
+        "Slab"
+      ],
+      "achievement_ids": [
+        3578,
+        398483,
+        3579
+      ],
+      "fact_ids": [
+        "gf10-28-1",
+        "gf11-12-10",
+        "gf10-137-2",
+        "gf1-92-5",
+        "gf2-82-2",
+        "gf1-99-14",
+        "gf8-10-10",
+        "gf10-116-2",
+        "gf10-48-1",
+        "gf2-47-3",
+        "gf10-30-1",
+        "gf1-139-31",
+        "gf1-139-50",
+        "gf10-56-1",
+        "gf9-30-2",
+        "gf2-29-10",
+        "ra-guide-2-5",
+        "ra-guide-13-1",
+        "gf8-10-20",
+        "gf9-17-5",
+        "gf11-12-11",
+        "gf7-12-7",
+        "gf7-12-8",
+        "gf7-13-14",
+        "gf10-28-3",
+        "gf11-20-18",
+        "gf11-20-19",
+        "gf10-102-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 1,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). Buy the Bottle at the desert Caravan, open it at the spring behind Gaia for the Oxyale. Canoe north from Onrac into the Waterfall: open its chests (one holds a Ribbon) and talk to the robot for the Cube. Take Onrac's submarine to the Sea Shrine and open every chest on every floor, including the Slab, a Ribbon on B2 and the Opal gear on the top-right path; with the Waterfall that earns Sunken Treasures. One for Each Arm (Kraken in 8 or fewer actions) is planned for Playthrough 2 (chapter 17), but it unlocks here too if you manage it."
+    },
+    {
+      "n": 11,
+      "title": "Melmond, Lefein, the Spell Shops and the Mirage Tower",
+      "areas": [
+        "Melmond",
+        "Dr_Unne",
+        "Lefein",
+        "Chime",
+        "Spell_Shops",
+        "Mirage_Tower",
+        "Thors_Hammer"
+      ],
+      "achievement_ids": [
+        3651,
+        27656,
+        27659
+      ],
+      "fact_ids": [
+        "gf2-29-10",
+        "gf1-63-1",
+        "gf2-46-2",
+        "gf2-83-2",
+        "gf10-134-3",
+        "gf2-51-4",
+        "gf1-92-5",
+        "gf2-82-2",
+        "gf8-10-10",
+        "gf10-116-2",
+        "gf1-78-1",
+        "gf1-78-2",
+        "ra-guide-11-10",
+        "gf1-8-6",
+        "gf10-129-1",
+        "gf10-129-3",
+        "gf10-129-5",
+        "gf10-130-1",
+        "gf7-17-53",
+        "gf7-18-17",
+        "gf7-18-25",
+        "gf7-18-29",
+        "ra-comments-42-1",
+        "ra-comments-42-4",
+        "gf1-139-14",
+        "gf8-11-17",
+        "gf2-98-1",
+        "gf10-92-1",
+        "gf1-125-13",
+        "gf1-125-14",
+        "gf11-20-20"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 1 (full run). Take the Slab to Dr. Unne in Melmond (Bilingual), then get the Chime in Lefein. Of Mighty Magic counts spells bought (3 per level, 8 levels = 24), not casts: fill every level on the White or Black Wizard; level 8 sells in Gaia and Lefein (Lefein adds Lif2 and Nuke), level 7 in Gaia and Onrac, lower levels in Coneria, Pravoka, Elfland, Melmond and Crescent Lake. The Chime opens the Mirage Tower: open every chest (Thor's Hammer on 2F for Mjolnir Cometh, Sun Sword, Vorpal, a Ribbon on 5F); the Mirage Tower chests count toward Sky Raider, finished in chapter 12."
+    },
+    {
+      "n": 12,
+      "title": "The Floating Castle, WarMech, Tiamat and Excalibur",
+      "areas": [
+        "Floating_Castle",
+        "Window",
+        "Katana",
+        "Adamant",
+        "WarMech",
+        "Tiamat",
+        "Dwarf_Cave",
+        "Excalibur"
+      ],
+      "achievement_ids": [
+        398473,
+        398474,
+        398484,
+        27655,
+        3580,
+        27658
+      ],
+      "fact_ids": [
+        "gf1-139-14",
+        "gf8-11-17",
+        "gf10-75-15",
+        "gf11-15-3",
+        "gf10-32-4",
+        "gf1-108-21",
+        "gf11-19-2",
+        "ra-guide-15-5",
+        "gf1-110-3",
+        "gf1-110-7",
+        "gf7-19-5",
+        "gf11-12-13",
+        "gf1-110-5",
+        "gf7-13-17",
+        "gf7-13-18",
+        "gf1-126-2",
+        "gf10-31-1",
+        "gf2-45-1",
+        "gf2-99-2",
+        "gf9-10-1",
+        "gf10-140-2",
+        "gf11-12-15"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 1,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). Use the Cube teleporter on Mirage Tower 3F to reach the Floating Castle and open every chest (Sky Raider), including the Adamant (2F bottom-left path) and the Katana (Slice and Dice). On 3F look out of the window from the south opening of the walled centre area (God's Eye View). WarMech is a rare encounter in the long 5F corridor before Tiamat (Rage Against the Machine). Choking Hazard is planned for Playthrough 2 (chapter 18), but Tiamat killed here by the Bane Sword used as an item or the Bane spell unlocks it now; attacking with an equipped Bane Sword or casting Brak does not count. Take the Adamant to the smith in the Dwarf Cave for Excalibur (The True King)."
+    },
+    {
+      "n": 13,
+      "title": "The Past Temple Treasures, Masamune and Chaos",
+      "areas": [
+        "Temple_of_Fiends",
+        "Time_Gate",
+        "Temple_of_Fiends_Past",
+        "Masamune",
+        "Fiend_Refights",
+        "Chaos"
+      ],
+      "achievement_ids": [
+        398485,
+        27657,
+        398943,
+        3655
+      ],
+      "fact_ids": [
+        "gf1-112-7",
+        "gf1-139-9",
+        "gf10-39-2",
+        "gf10-35-2",
+        "gf10-140-1",
+        "gf10-34-6",
+        "gf10-56-2",
+        "gf7-16-6",
+        "gf10-35-1",
+        "gf1-41-1",
+        "gf1-41-3",
+        "gf2-99-3",
+        "ra-comments-45-1",
+        "ra-comments-45-2",
+        "gf10-35-3",
+        "gf10-35-4",
+        "gf1-123-1",
+        "gf1-123-2",
+        "gf1-123-3",
+        "gf1-123-4",
+        "gf2-124-2",
+        "gf2-124-3",
+        "gf7-18-45",
+        "ra-comments-3-14",
+        "ra-comments-4-7",
+        "ra-comments-46-4",
+        "ra-comments-46-5",
+        "ra-comments-46-6",
+        "ra-comments-47-5",
+        "ra-comments-49-21",
+        "ra-comments-50-1",
+        "ra-comments-52-7",
+        "ra-comments-52-10",
+        "ra-comments-54-9",
+        "ra-comments-54-20",
+        "ra-comments-55-5",
+        "ra-comments-55-8",
+        "ra-comments-55-9",
+        "ra-comments-47-16",
+        "gf11-20-6",
+        "gf11-20-21",
+        "gf10-102-2",
+        "ra-comments-45-3",
+        "gf1-20-1"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 1
+      },
+      "notes": "Playthrough 1 (full run). Enter the past through the black Orb with the promoted party; Exit and Warp let you leave and save. Open every chest of the past temple, including the Masamune on the Tiamat floor (Blade of Purity); with the present-day chests from chapters 1 and 4 that earns What's Old Is New Again. Expect refights of Lich, Kary, Kraken and Tiamat on the way down. Once every chest is open and the route is known, Exit and save so Chaos can be retried. Beat Chaos without healing anyone during the fight for Balmless Battler of Cruel Chaos (Ribbons stop Crack); the same kill earns Heroes That Never Were. The game cannot be saved after Chaos: reload and retry if anyone heals. Playthrough 1 is then complete; check that every Playthrough 1 achievement has unlocked before starting the new game for Playthrough 2."
+    },
+    {
+      "n": 14,
+      "title": "Challenge Run: New Party, Coneria to the Mystic Key",
+      "areas": [
+        "Coneria",
+        "Coneria_Castle",
+        "Temple_of_Fiends",
+        "Garland",
+        "Princess_Sara",
+        "Lute",
+        "Bridge",
+        "Matoyas_Cave",
+        "Matoya",
+        "Pravoka",
+        "Pirates",
+        "Ship",
+        "Elfland",
+        "Elfland_Castle",
+        "Elf_Prince",
+        "Marsh_Cave",
+        "Wizards_Crown",
+        "Crown",
+        "Northwest_Castle",
+        "Astos",
+        "Crystal",
+        "Herb",
+        "Mystic_Key"
+      ],
+      "achievement_ids": [],
+      "fact_ids": [
+        "gf1-129-1",
+        "gf10-118-3",
+        "gf7-3-5",
+        "gf11-12-5",
+        "gf1-112-7",
+        "gf1-139-9",
+        "gf10-47-2",
+        "gf1-42-3",
+        "gf1-42-4",
+        "gf10-8-9",
+        "gf10-8-8",
+        "gf10-136-3",
+        "gf11-12-1",
+        "gf1-135-2",
+        "gf1-135-6",
+        "gf11-20-5",
+        "gf2-43-2",
+        "gf2-44-1",
+        "gf2-44-2",
+        "gf2-48-2",
+        "gf1-44-4",
+        "gf10-138-2",
+        "gf11-12-16",
+        "gf1-42-6",
+        "gf1-43-5",
+        "gf1-128-2",
+        "gf1-133-5",
+        "ra-comments-9-2",
+        "ra-guide-4-1",
+        "gf2-15-3",
+        "gf2-15-5",
+        "gf10-137-1",
+        "gf10-10-1",
+        "gf10-11-8",
+        "gf1-140-15",
+        "ra-guide-2-1",
+        "gf10-12-1",
+        "gf11-16-1",
+        "gf9-15-11",
+        "gf2-47-2",
+        "gf7-6-14",
+        "gf9-16-3",
+        "ra-comments-9-1",
+        "gf10-15-1",
+        "gf10-135-2",
+        "gf10-136-1",
+        "gf10-136-2",
+        "gf11-12-3",
+        "gf11-12-4",
+        "gf7-4-10",
+        "gf8-6-2",
+        "gf7-5-5",
+        "gf7-5-7",
+        "gf7-5-8",
+        "ra-comments-53-1",
+        "ra-comments-53-9",
+        "ra-comments-52-13",
+        "gf1-20-1",
+        "gf1-23-2",
+        "gf1-24-2",
+        "gf1-27-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 2 (challenge run, new game). Start a new game. This run earns the four Fiend challenges and, at Chaos in chapter 19, Don't Change For Anyone and Merchandise Madness. Take a Black Mage: Fire/Fir2/Fir3 finish Kary (chapter 16) and Bane finishes Tiamat (chapter 18) without the Flame Sword or Bane Sword chests; the RA guide's Fighter, Black Belt, White Mage, Black Mage works. From the very first step, open NO chest except the five plot chests (Crown, TNT, Ruby, Floater, Slab; the Tail is allowed but not needed): leave the three Temple of Fiends chests (Cap, Cabin, Heal potion) and Matoya's three chests shut. RA commenters show the Merchandise Madness icon vanishing when the party faces a chest it must not open; buying consumables in shops is allowed. Route: Garland, Sara's Lute, the bridge, Pravoka's pirates for the ship (Peninsula of Power and the slider puzzle are already done), Elfland, Marsh Cave B3 (open ONLY the Crown chest), Astos in Northwest Castle for the Crystal, Matoya's Herb, the Mystic Key from the Elf Prince. Do not open the locked rooms' chests in Elfland Castle or Northwest Castle."
+    },
+    {
+      "n": 15,
+      "title": "Challenge Run: TNT, the Earth Cave and Lich",
+      "areas": [
+        "Coneria_Castle",
+        "TNT",
+        "Dwarf_Cave",
+        "Nerrick",
+        "Canal",
+        "Melmond",
+        "Earth_Cave",
+        "Vampire",
+        "Ruby",
+        "Titans_Tunnel",
+        "Titan",
+        "Sardas_Cave",
+        "Sarda",
+        "Rod",
+        "Lich"
+      ],
+      "achievement_ids": [
+        398940
+      ],
+      "fact_ids": [
+        "gf7-3-5",
+        "gf11-12-5",
+        "gf2-15-15",
+        "ra-guide-4-10",
+        "gf1-125-4",
+        "gf8-6-21",
+        "gf1-62-1",
+        "gf2-52-4",
+        "gf2-29-10",
+        "gf1-131-12",
+        "gf1-139-18",
+        "gf1-139-46",
+        "gf7-7-14",
+        "ra-guide-2-3",
+        "gf1-72-1",
+        "gf1-119-5",
+        "gf7-4-15",
+        "gf8-6-18",
+        "gf1-68-2",
+        "gf7-7-4",
+        "gf1-134-5",
+        "gf10-137-3",
+        "gf10-19-7",
+        "gf1-136-12",
+        "gf7-8-4",
+        "ra-guide-5-12",
+        "gf11-16-3",
+        "gf1-119-9",
+        "gf1-119-10",
+        "gf1-71-4",
+        "ra-comments-15-4"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 1,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 2 (challenge run, new game). Coneria Castle: enter the LEFT locked room and open ONLY its right-hand chest (TNT); leave the other locked-room chests and the two Dwarf Cave entrance chests alone. Give the TNT to Nerrick to blast the canal, sail to Melmond. Earth Cave B1 to B3 with no chests; the Giants loop on B1 is a strong EXP spot. Beat the Vampire and open only the chest behind him (Ruby). Give the Ruby to the Titan (leave the Titan's Tunnel treasure room shut), get the Rod from Sarda, shatter the plate on B3 and go down to Lich on B5. Oh, Death, Where is Thy Sting?: nobody may die in the Lich fight (a petrified ally does not count as dead); skip if it already unlocked in Playthrough 1. The RA guide suggests level 15-16, AIce on turn one and Fir3/Hrm3; save before the cave and reset if anyone falls."
+    },
+    {
+      "n": 16,
+      "title": "Challenge Run: Crescent Lake, Kary and the Airship",
+      "areas": [
+        "Crescent_Lake",
+        "Circle_of_Sages",
+        "Canoe",
+        "Gurgu_Volcano",
+        "Kary",
+        "Ice_Cave",
+        "Eye",
+        "Floater",
+        "Ryukahn_Desert",
+        "Airship"
+      ],
+      "achievement_ids": [
+        398941
+      ],
+      "fact_ids": [
+        "gf10-126-1",
+        "gf1-75-1",
+        "gf10-134-1",
+        "gf2-20-2",
+        "gf10-64-1",
+        "gf1-139-13",
+        "gf7-10-2",
+        "gf2-36-1",
+        "gf10-21-5",
+        "gf1-125-5",
+        "gf11-12-17",
+        "gf7-8-10",
+        "gf7-9-5",
+        "gf11-12-8",
+        "gf10-42-2",
+        "gf8-9-11",
+        "gf9-23-2",
+        "gf10-25-1",
+        "gf2-45-2",
+        "gf11-12-18",
+        "gf9-23-3",
+        "gf10-135-6",
+        "gf1-84-3",
+        "gf7-10-6",
+        "gf1-88-6",
+        "gf2-24-1",
+        "gf9-23-4",
+        "gf7-10-20",
+        "ra-guide-9-2",
+        "ra-comments-19-1"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 1,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 2 (challenge run, new game). Canoe from the Circle of Sages. Gurgu Volcano B1-B5 with no chests (no Flame Armor, no Giant Sword). Fight Fire With Fire: Kary resists fire, so chip her to 500+ damage with physical attacks, count her 600 HP, and finish with Fire/Fir2/Fir3 (AFir and Inv2 help); the Flame Sword is an optional Ice Cave chest and is off-limits in this run. Save before the volcano and reset if a non-fire hit kills her; skip if it already unlocked in Playthrough 1. Ice Cave: open ONLY the Floater chest on B2 (drop through the hole from the floor above; the Eye guards it), then raise the Airship in the Ryukahn Desert. Do not take the Tail to Bahamut at any point in this playthrough; the Castle of Ordeals and Cardia Isles are skipped."
+    },
+    {
+      "n": 17,
+      "title": "Challenge Run: Oxyale, the Cube and Kraken",
+      "areas": [
+        "Caravan",
+        "Bottle",
+        "Gaia",
+        "Fairy",
+        "Oxyale",
+        "Onrac",
+        "Waterfall",
+        "Robot",
+        "Cube",
+        "Sea_Shrine",
+        "Kraken",
+        "Slab"
+      ],
+      "achievement_ids": [
+        398942
+      ],
+      "fact_ids": [
+        "gf10-28-1",
+        "gf11-12-10",
+        "gf10-137-2",
+        "gf1-92-5",
+        "gf2-82-2",
+        "gf1-99-14",
+        "gf8-10-10",
+        "gf10-116-2",
+        "gf10-48-1",
+        "gf2-47-3",
+        "gf10-30-1",
+        "gf1-139-31",
+        "gf1-139-50",
+        "gf10-56-1",
+        "gf9-30-2",
+        "gf2-29-10",
+        "ra-guide-2-5",
+        "ra-guide-13-1",
+        "gf8-10-20",
+        "gf9-17-5",
+        "gf11-12-11",
+        "gf7-12-7",
+        "gf7-12-8",
+        "gf7-13-14",
+        "ra-comments-27-1",
+        "ra-comments-27-13",
+        "ra-comments-55-20"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 1,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 2 (challenge run, new game). Buy the Bottle at the desert Caravan, open it at Gaia's spring for the Oxyale. Waterfall: talk to the robot for the Cube and open no chests. Sea Shrine: on the mermaid floor open ONLY the right chest of the three in the top-right room (Slab); RA commenters warn the other chests in the TNT and Slab rooms must not be grabbed. One for Each Arm: kill Kraken in 8 or fewer actions; every spell counts once per target (Inv2 = 4 actions), running is free. One commenter's exactly-8 kill did not register, so plan for 7 or fewer. Hasted physical attackers while the rest run is the commenters' method. Skip if it already unlocked in Playthrough 1."
+    },
+    {
+      "n": 18,
+      "title": "Challenge Run: Lefein, the Mirage Tower and Tiamat",
+      "areas": [
+        "Melmond",
+        "Dr_Unne",
+        "Lefein",
+        "Chime",
+        "Mirage_Tower",
+        "Floating_Castle",
+        "Tiamat"
+      ],
+      "achievement_ids": [
+        398486
+      ],
+      "fact_ids": [
+        "gf2-29-10",
+        "gf1-131-12",
+        "gf1-63-1",
+        "gf2-46-2",
+        "gf2-83-2",
+        "gf10-134-3",
+        "gf1-139-14",
+        "gf8-11-17",
+        "gf10-75-15",
+        "gf11-15-3",
+        "gf10-32-4",
+        "gf1-108-21",
+        "gf11-19-2",
+        "ra-guide-15-5",
+        "ra-guide-2-5",
+        "gf1-110-3",
+        "gf1-110-7",
+        "gf2-51-4",
+        "gf7-19-5",
+        "ra-comments-49-13",
+        "ra-comments-50-5",
+        "gf11-12-13",
+        "gf1-110-5",
+        "gf7-13-17",
+        "gf7-13-18",
+        "ra-comments-38-4",
+        "ra-comments-38-6"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 1,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 2 (challenge run, new game). Slab to Dr. Unne in Melmond, Chime from Lefein, then climb the Mirage Tower to 3F and use the Cube teleporter to the Floating Castle; open no chests in either (no Bane Sword, no Ribbons). Choking Hazard: Tiamat must die to Bane's poison smoke: the Black Mage's Bane spell, or the Bane Sword used as an item; attacking with an equipped Bane Sword or casting Brak does not count. Skip if it already unlocked in Playthrough 1. WarMech roams the 5F corridor; avoid it, it was earned in Playthrough 1."
+    },
+    {
+      "n": 19,
+      "title": "Challenge Run Finale: Chaos with No Class Change and No Chests",
+      "areas": [
+        "Temple_of_Fiends",
+        "Time_Gate",
+        "Temple_of_Fiends_Past",
+        "Fiend_Refights",
+        "Chaos"
+      ],
+      "achievement_ids": [
+        398475,
+        398476
+      ],
+      "fact_ids": [
+        "gf1-112-7",
+        "gf1-139-9",
+        "gf8-12-2",
+        "gf10-136-4",
+        "gf10-39-2",
+        "gf10-35-2",
+        "gf10-56-2",
+        "gf7-16-6",
+        "gf10-35-1",
+        "gf11-19-4",
+        "gf10-139-1",
+        "ra-comments-47-1",
+        "gf11-12-8",
+        "gf10-130-4",
+        "gf10-131-4",
+        "gf10-132-4",
+        "ra-comments-47-6",
+        "ra-comments-47-7",
+        "ra-comments-47-8",
+        "ra-comments-47-14",
+        "gf1-135-1",
+        "gf1-135-3",
+        "gf1-135-6",
+        "gf10-33-1",
+        "gf10-33-2",
+        "gf10-33-3",
+        "gf10-33-4",
+        "gf10-35-3",
+        "gf10-35-4",
+        "gf1-110-2",
+        "gf1-110-6",
+        "gf1-118-1",
+        "gf1-118-2",
+        "gf1-118-8",
+        "gf1-118-9",
+        "gf1-119-4",
+        "gf1-119-7",
+        "gf1-119-8",
+        "gf1-120-7",
+        "gf1-120-8",
+        "gf1-120-13",
+        "gf1-120-14",
+        "gf1-120-15",
+        "gf1-121-1",
+        "gf1-121-2",
+        "gf1-121-3",
+        "gf1-121-7",
+        "gf1-121-8",
+        "gf1-121-9",
+        "gf1-121-10",
+        "gf1-121-11",
+        "gf1-121-13",
+        "gf1-122-1",
+        "gf1-122-2",
+        "gf1-122-3",
+        "gf1-122-5",
+        "gf1-122-7",
+        "gf1-122-9",
+        "gf1-122-10",
+        "gf1-122-11",
+        "gf1-122-12",
+        "gf1-123-1",
+        "gf1-123-2",
+        "gf1-123-3",
+        "gf1-123-4",
+        "gf2-124-2",
+        "gf2-124-3",
+        "gf2-144-8",
+        "gf2-144-9",
+        "gf2-144-10",
+        "gf2-144-11",
+        "gf7-18-36",
+        "gf7-18-45",
+        "gf7-18-53",
+        "gf7-18-80",
+        "gf7-18-83",
+        "gf7-18-102",
+        "gf7-19-19",
+        "gf9-17-6",
+        "ra-comments-3-14",
+        "ra-comments-4-7",
+        "ra-comments-45-1",
+        "ra-comments-46-4",
+        "ra-comments-46-5",
+        "ra-comments-46-6",
+        "ra-comments-47-5",
+        "ra-comments-49-20",
+        "ra-comments-49-21",
+        "ra-comments-50-1",
+        "ra-comments-52-6",
+        "ra-comments-52-7",
+        "ra-comments-52-10",
+        "ra-comments-52-11",
+        "ra-comments-54-9",
+        "ra-comments-54-20",
+        "ra-comments-55-2",
+        "ra-comments-55-5",
+        "ra-comments-55-8",
+        "ra-comments-55-9",
+        "ra-comments-47-2"
+      ],
+      "counters": {
+        "Orbs relit, Playthrough 1": 0,
+        "Orbs relit, Playthrough 2": 0,
+        "Chest-sweep achievements": 0
+      },
+      "notes": "Playthrough 2 (challenge run, new game). Save outside the Temple of Fiends before using the black Orb. Without a class change there is no Exit or Warp, so the past temple is one way: carry 99 Heal potions, run from optional fights, and expect refights of Lich, Kary, Kraken and Tiamat before Chaos on the bottom floor (commenters cleared it around level 30-40; one recommends level 40). Open none of the past temple chests. The Lute opens the stone plate. Beating Chaos with no class change and no optional chests earns Don't Change For Anyone and Merchandise Madness together (Heroes That Never Were already unlocked in Playthrough 1). Healing is allowed here."
+    }
+  ],
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    {
+      "question": "What counts as \"healing yourself\" for Balmless Battler of Cruel Chaos: only Cure/Heal spells, or also potions, the Heal Staff/Helmet and Life?",
+      "guidance": "Use no healing of any kind in the Chaos fight: no spells, potions, healing items or revives. Enter at full HP with buffs only (Fast, Inv2, Fog2, Ribbons).",
+      "chapters": [
+        13
+      ]
+    },
+    {
+      "question": "Does One for Each Arm register on exactly 8 actions? One commenter killed Kraken in exactly eight single-target actions and it did not pop.",
+      "guidance": "Plan the kill for 7 or fewer actions, count every multi-target spell once per target, and run with anyone not attacking.",
+      "chapters": [
+        10,
+        17
+      ]
+    },
+    {
+      "question": "Does opening an empty chest (the Marsh Cave B2 south rooms have some) break Merchandise Madness?",
+      "guidance": "Treat every chest as off-limits in the challenge run except the five plot chests and the Tail; watch the on-screen challenge icon, which vanishes when you face a chest you must not open.",
+      "chapters": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3852 @@
+      ##### # #   #  ##  #      #####  ##  #   # #####  ##   ### #   #
+      #     # ##  # #  # #      #     #  # ##  #   #   #  # ##    # #
+      ###   # # # # #### #      ##    #### # # #   #   ####  ##    #
+      #     # #  ## #  # #  #   #     #  # #  ##   #   #  #   ##   #
+      #     # #   # #  # ####   #     #  # #   #   #   #  # ###    #
+
+
+Dingo Jellybean                       -    My super cool, gotta have it alias
+www.vfaqs.net                         -                   My personal website
+December 30th, 2000                   -    The date I FIRST started the guide
+Last                                  -          Current Version of the Guide
+95%                                   -       Projected progress of the guide
+Famicom/Wonderswan/NES                -              System the game plays on
+dingo_jellybean - @ - AsianAvenue.com -       My email address I seldom check
+
+*****************************************************************************
+
+Message Board: http://pub44.ezboard.com/bdingojellybean
+
+If you have questions, post there and I will answer it when I can. Sorry
+if you can't contact me on AIM anymore...if it weren't for people warning
+me up to 70% at times AFTER HELPING THEM, then I wouldn't have to close off
+AIM to those who need help with a certain game. Thank you.
+
+*****************************************************************************
+
+=============================================================================
+-------------------------------- [ Credits ] --------------------------------
+=============================================================================
+
+-+- Squaresoft(www.squaresoft.com)
+    What can I say? It's the first ever Final Fantasy!
+
+-+- Nintendo(www.nintendo.com)
+    Their guide provided the extensive monster lists and it's a very good
+    guide indeed. Danke. (^_^)
+
+-+- JL Lee(sleeping_psycho@hotmail.com)
+    Thanks for his help towards a few errors in this guide.
+
+-+- GameFAQs(www.gamefaqs.com)
+    For hosting and respecting this guide.
+
+-+- Dingo Jellybean(www.vfaqs.net)
+    For typing up this guide.
+
+=============================================================================
+
+Version Last: The first and last release of this guide, I've pretty much
+              included everything that needs to be included in this game
+              and if you can't find it in here, try the other guides at
+              GameFAQs. If it's not in this guide, then I most definitely
+              won't know about it.
+
+=============================================================================
+=================================Copyright===================================
+=============================================================================
+
+  This FAQ was solely intended for the public use on the www. It cannot be
+  reproduced, retransmitted, or re-written in any other form except by the
+  notice  of the author.  Any violation of this code will result in strict
+  penalty---and high fines susceptible  by law.  If this legal document is
+  portrayed  in any  commercial use,  you are therefor  stricten under the
+  code of law----and will be---punished.  In full contrast,  this document
+  portrayed in the website found (www.gamefaqs.com) is to be used and only
+  used by the public itself and cannot be sold.  Revisions of this FAQ are
+  only to be done with notice of the author before hand and may be done so
+  as long as the name of the author of the document appears in due credit.
+  You may juxatpose this---document with other---documents as well without
+  notice of the  author but it must not be used for sales and broadcasting
+  or commercial  use.  This FAQ may not be---included in a promotional CD,
+  magazine, or any other use of monetary product. This FAQ may not be used
+  in a password protected area nor---in a high security area.  This FAQ is
+  solely used and ONLY used for public---use only and may not be used in a
+  promotional ad that sponsors any type of monetary use. This FAQ is to be
+  used  "just like a book" meaning that it can be read over and over again
+  by anybody who wishes to do so.  Just like a book it can be moved around
+  from one person to another, but unlike a book the document can be viewed
+  by more than one person at---once.  This FAQ is in no way possible to be
+  plagerized,  doing so not only damages the person you had  intentionally
+  forged,  but it also damages yourself in terms of self guilt or in terms
+  of law,  whether the punishment be civil or  criminal law.  To put it at
+  best, DON'T DO ANYTHING WITH THIS OR ANYTHING INVOLVING THIS FAQ WITHOUT
+  MY PERMISSION!
+
+This document is (C) Dingo Jellybean; 2000
+
+=============================================================================
+==============================End of Copyright===============================
+=============================================================================
+
+- Introduction and Wonderswan/NES differences
+- Useful Tips
+- Characters and Classes
+- Walkthrough
+- Bestiary
+- Armors/Weapons Listing
+- Magic Listing
+- Item Listing
+- Special Item Listing
+- FAQ
+- Credits
+
+=============================================================================
+------------------------------ [ Introudction ] -----------------------------
+=============================================================================
+
+NOTE: This guide is based on the NES version of Final Fantasy, but the
+      Wonderswan version CAN BE USED with this guide.
+
+Welcome all to my Final Fantasy guide for the Nintendo Entertainment System
+and the handheld Wonderswan. This is probably the most recognized RPG of all
+time, it was Square's last ditch effort for success and it has paid off...in
+more ways than one. This game has inspired the RPG genre...to allow more
+characters to be used at the same time, to expand the world of an RPG by
+including airships and other modes of transportation. Sure the graphics are
+far from top notch but when it all boils down to gameplay and adventure, this
+is what Final Fantasy is all about.
+
+The Wonderswan release of this game was not just a Final Fantasy Anthology
+rehash, it was more like a super upgrade. Here are the new features added to
+the Wonderswan edition of the game:
+
+- The battle backgrounds have backgrounds in them, so do the inns.
+
+- New music has been added, mainly just small remixes of a few tunes.
+
+- You can have a Quick Save feature, meaning that you can save at any time
+  during the game but it is deleted when the power is turned off.
+
+- There is no longer a text box in battle scenes(well there is but you'll see
+  what I mean if you get the game), instead numbers flash by over the
+  character's head displaying the damage or life recovery.
+
+- The Mini Game now gives you 10000 Gold rather than 100 Gold.
+
+- There is also supposedly more dialogue direct from the characters that you
+  control, but I'm not sure about this since my knowledge of the Japanese
+  language is poor.
+
+- You can also do a soft reset, by pressing the A, B, X1, and Y3 buttons
+  at the same time.
+
+Bottom line, the Wonderswan version of Final Fantasy simply rocks. Trust me,
+if there is one title that you should get if you have a Wonderswan, it's
+Final Fantasy. Even after playing Final Fantasy on the NES, the Wonderswan
+version makes it all feel new again. Thank you Square!
+
+=============================================================================
+------------------------------ [ Useful Tips ] ------------------------------
+=============================================================================
+
+- Save often, although you can only save in inns or use Tents, Cabins, and
+  Houses...try to save with every chance that you get.
+
+- Buy plenty of items but don't over stock. Only over stock on items if you
+  know for sure you have the Gil to spare.
+
+- When gaining levels and gold, stay around an inn and fight the monsters
+  near there. This way you won't have to worry about random encounters on
+  your way back through long walks to recover yourself.
+
+- Think carefully about which spells you are going to buy. You have 3 slots
+  but 4 spells...once spell from each level will have to be negated. So
+  choose wisely...otherwise you'll find yourself in a major slump since the
+  magic you learn is permanent!
+
+- Don't equip every new weapon that you get, you may want to test them out
+  first(like use them against weaker opponents) before you actually start
+  using them on your repetoire.
+
+- When you get your airship, take the time to explore...and also always save
+  at the inn in Corneria. It's the cheapest for the same return.
+
+- Don't wander too far off from your mode of transportation, otherwise you
+  can easily get cut off from your vehicle.
+
+- Always keep a close eye on your HP, you never want to let it drop to low
+  so that even a simple hit from the weakest enemy will dispatch your party.
+
+- Talk to everyone around town...even a little bit of information leaked
+  can go a long way to advancing your quest.
+
+=============================================================================
+------------------------- [ Characters And Classes ] ------------------------
+=============================================================================
+
+---- [ Figher - > Knight ] ----
+
+The Fighter is strong and powerful, he can pretty much equip any metallic
+weapon and armor in the game. Once he becomes a Knight he can use low level
+white magic(1-3), which becomes incredibly useful outside of battles.
+
+---- [ Theif - > Ninja ] ----
+
+The theif is a quick and agile character and will evade more attacks than
+anyone else. The theif isn't superiorly strong like the Fighter, but once
+he becomes a Ninja, his attack power is increased significantly and he can
+begin to use low level black magic.
+
+---- [ Black Belt - > Master ] ----
+
+A pretty strong fighter, he's pretty much a bargin in terms of gold and such
+because he can stand his ground pretty well without the use of armor and
+gold. Once he levels up to the Master...he comes very reliable, but also
+very lethal.
+
+---- [ Red Mage - > Red Wizard ] ----
+
+The most versatile player in the game. The Red Mage/Wizard has more attack
+power then the other mages but less power than the Fighter or Black Belt,
+but it can use more higher level black and white magics but not all the
+spells. The Red Mage is a mix of everything.
+
+---- [ White Mage - > White Wizard ] ----
+
+Weak fighter but a strong magic user...he'll be able to use higher level
+spells as he advances to a Wizard.
+
+---- [ Black Mage - > Black Wizard ] ----
+
+Weak fighter, strong offensive magic user. He'll be able to use higher
+level spells as he is promoted.
+
+=============================================================================
+------------------------------ [ Walkthrough ] ------------------------------
+=============================================================================
+
+=============================================================================
+CORNERIA
+Party's level: 1
+Items: None
+Monsters: Imp, Werewolf, Creep
+=============================================================================
+
+As you put in your cart, select your preferences and then your characters.
+Now you're probably wondering...what should I choose?
+
+I would suggest two fighters, 1 White Mage, and 1 Black mage. This was the
+first party I went with and it's pretty much the strongest party that you can
+have IMHO. 4 fighters would leave you at a disadvantage when you want to
+attack multiple targets at the same time and heal your party early on,
+having four white mages leaves you at a serious disposition offensively
+and defensively. Another good combination would be one fighter, one
+black belt, one red mage, and one black mage. Balance is key to winning this
+game because it is considered by many to be the toughest Final Fantasy
+game.
+
+As you start you may want to go to the shops in Corneria and purchase a few
+items. Stay outside around Corneria castle and start to gain your levels to
+3, any higher you'll easily win the upcoming battle ahead. Inside the castle
+you will learn that Princess Sara was captured by Garland and you cannot
+get to the other side unless you help save her. So browse through and talk
+to people before you leave.
+
+Once you're done, feel free to save your game at the inn and then head up top
+to the Temple of Fiends.
+
+=============================================================================
+Temple of Fiends
+Party's level: 3
+Items: Cabin, Heal Potion, Cap, Were Sword, Soft Potion, Rune Sword
+Monsters: Bone, Spider, Zombie, Ghoul, Wolf, Grey Wolf, Garland
+=============================================================================
+
+Atop northwest from Corneria lies a battered temple. Inside make sure you
+pick up all the items about and equip them. Head to the center and you'll
+encounter Garland.
+-----------------------------------------------------------------------------
+Boss Battle: Garland       HP: 106
+-----------------------------------------------------------------------------
+This battle will be somewhat easy depending on your characters and levels.
+With 4 fighters at level 1 you can easily win this match, but luckily a more
+intelligent person like you would know that 4 fighters is a bad thing. Have
+the white mage heal, the black mage user fire, the red mage use fire if he
+has it and the rest attack as normal. After a short while...Garland will be
+done for...for now.
+
+Congratulations! You have saved the princess from Garland...you are
+automatically taken back to the the throne room of Corneria where you are
+given a Lute from the princess. You won't need it for a LONG time. Now the
+King will build you the bridge to allow you to pass over to the next
+island.
+
+=============================================================================
+Pravoka
+Party's level: 3
+Items: Sailship
+Monsters: Pirates
+=============================================================================
+
+Up north of Corneria castle is a bridge that was recently built for the
+party...you'll see the credits roll. Afterwards, head to the east until
+you see a town encased in a surrounding wall.
+
+Upon arriving here...head to the top left part of town and speak with the
+pirate. He'll later tell his pirates to come after you. The battle isn't
+hard, although there are 9 pirates, they have 6 HP each and you should be
+able to take them out in a few rounds without much hassle.
+
+After the battle the pirate becomes very intimidated by your presense and
+offers you his ship. Feel free to wander about the town and pick up any new
+weapons and armors if you like. Try to gather up any valuable information
+that you can gather and then head out. You may want to gain some levels
+around here as well. Then head out to the sailship.
+
+=============================================================================
+Castle of Elf
+Party's level: 4
+Items: None
+Monsters: None
+=============================================================================
+
+Take your sailship and head down south and you should find a dock. Head to
+the Elf Castle inside and you notice inside that the Prince has undergone a
+deep sleep trance. The only way to wake him up is the herb that Matoya has
+but she needs her Crystal Ball, otherwise she won't give anything up.
+
+For now you can just look around the castle, make sure to visit the Elfland
+town just outside and upgrade your weapons and armor if needed. I suggest
+getting the spell Hrm2 for the White or Red Mage because your upcoming
+journey ahead will deal with a lot of undead monsters. You can fight around
+outside of Elfland against Ogre to gain a significant gold and EXP boost
+in your stats. Once your done, buy maybe two or three tents with you along
+the way.
+
+=============================================================================
+Marsh Cave
+Party's level: 6
+Items: 680 G, Short Sword, Large Daggar, 620 G, Iron Armor, 295 G, 385 G,
+       House, Copper Bracelet, Crown, Silver Knife, Silver Bracelet, 1020 G
+Monsters: Red Bone, Zombie, Ghoul, Grey Wolf, Were Wolf, Wizard, Scorpion,
+          Crawl, Scum, Muck, Shadow, Gargoyle, Arachnid, Bone, Spider
+=============================================================================
+
+From the Elfland town, head to the east, go around the mountain range and
+then go down, it's a long path and you probably encountered some tough
+opponents...so you may want to save using the tent in front of the Marsh
+Cave. The Marsh Cave looks like a tiny black hole on the ground, so it's
+more like an underground tunnel rather than a cave.
+
+When you reach inside here you can take the top path or the bottom path, the
+bottom path is your main destination but the top path leads to some valuable
+items that you may want to pick up(Large Daggar and 620 G). The bottom path
+will lead to another room containing a Short Sword and 680 G...in that same
+room, it will lead to the next floor. When you arrive at the 3rd floor your
+only concern here is the Crown. The crown is located 1 room to the right and
+then 3 rooms down(those little boxes are rooms). Inside you'll have to fight
+anywhere from 2 to 5 Wizards.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Wizard    HP: 84(Each)
+-----------------------------------------------------------------------------
+The Wizard's main weakness is lighting. So LIT spells with your Red or Black
+Mage are a great benefactor in this battle. Have the white mage be the healer
+if you have one and have everyone else attack as normal. Try to focus on one
+target at a time, it's easier this way since you won't get a ton of attacks
+bombarding you every round.
+
+After you picked up the Crown you are free to leave, but you are also
+welcomed to pick up the other items in the room. Once you are all done head
+outside of the Marsh Cave and it would be wise to save your game once you
+immediately head outside.
+
+=============================================================================
+Northwest Castle
+Party's level: 10
+Items: None
+Monsters: Astos
+=============================================================================
+
+From the Marsh Cave entrance, head directly up north. Head to the throne room
+and talk to the King, who later reveals himself to be the Dark Elf Astos.
+It looks like he wants that crown, but knowing you, you're not just about to
+hand it over to him without a fight.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Astos       HP: 168
+-----------------------------------------------------------------------------
+This battle isn't too difficult...assuming your levels are high enough. His
+most potent and dangerous weapon is his Rub attack, which is able to knock
+out any one party member with a single blow. He doesn't have any weaknesses,
+so it's a grit 'em out fight till the end. Have all fighters, black belts,
+and theifs attack as normal.
+
+After the battle you will have recieved the Crystal from Astos. Now head over
+to Matoya's Cave.
+
+=============================================================================
+Matoya's Cave
+Party's level: 11
+Items: Heal Potion(3)
+Monsters: None
+=============================================================================
+
+Matoya's Cave is directly north of Corneria. Yes that's right, you'll have
+to take your sailship all the way back through the sea of monsters and walk
+all the way to the top. You can dock your ship just below Corneria and walk
+your way upwards, you should find a cave at the shore area of the main
+continent.
+
+Inside pick up the items and talk to Matoya(nice music eh?), she notices that
+you have her Crystal, so she'll lend you the herb in exchange for the
+Crystal.
+
+=============================================================================
+Prince of Elfland
+Party's level: 12
+Items: Silver Hammer, 400 G, 330 G, Copper Gauntlet
+Monsters: None
+=============================================================================
+
+Head back to Castle of Elf and use the Herb on the sleeping prince. When the
+Prince awakens, he will give you the Mystic Key and allow you to open all
+the locked doors in the game. Fortunately there are a couple of locked doors
+in the Castle of Elf. To get to the treasure chests, go to the right part
+of the castle and walk out on that small opening and stay along the edge of
+the wall to reach the top rigth room.
+
+=============================================================================
+Path Open To The Western Sea
+Party's level: 12
+Items: Were Sword, Soft Potion, Rune Sword, Iron Armor, Iron Shield, T.N.T.,
+       Iron Staff, Sabre, Silver Knife, 450 G, 575 G, Cabin, Iron Helmet,
+       Dragon Sword, Silver Knife, Wooden Helmet, Silver Armor, 575 G, House
+Monsters: None
+=============================================================================
+
+Check the lock doors in Corneria Castle, Temple of Fiends, and the Dwarf
+Cave and get all the items that you see. When you get the T.N.T. from
+Corneria Castle, take it to the Dwarf that is at the very end of the Dwarf
+Cave. Once he recieves the T.N.T. you can head outside and then the canal
+that was previously blocking your path to the Western Sea is now gone. You
+are free to explore a greater area of the world, but be warned...once you
+step outside the boundaries around Corneria you better be ready to face
+enemies ahead.
+
+=============================================================================
+Melmond and the Earth Cave
+Party's level: 12
+Items: Silver Helmet, 450 G, 620 G, Great Axe, 1975 G, 880 G, Pure Potion,
+       795 G, Heal Potion(2), 3400 G, 1020 G, Ruby, Tent, Wooden Staff,
+       Cabin, Silver Shield, 1455 G, 1250 G, 1520 G, 5450 G, 3400 G
+Monsters: Vampire, Lich, Giant, Cobra, Image, Geist, Earth, Wizard
+=============================================================================
+
+Head your ship to the west past the canal and keep goung left until you see
+a dock port. A town should be directly to the right of that dock port. Now
+is an important time to restock your party with better weapons and definitely
+new spells. Also gain some levels around here, you'll definitely need all the
+stat boosts that you can attain. Once you're done, head down south to the
+cave inside.
+
+Once inside the Earth Cave you are given four directions. The path to the
+left is the "Hall of Giants" meaning that every step you take in that small
+corridor will prompt you to fight a battle with either one or several Giants.
+This can either be extremely beneficial or completely the opposite. Up top
+is a path that heads to 1975 G, and at the bottom leads to four treasure
+chests which contains 880 G, Heal Potion, Pure Potion, and 795 G.
+
+Your next destination is to the right of the staircase leading back outside,
+and in the next room collect the treasure chests about and the staircase to
+the next area is at the bottom right part of the room...either path you take
+from the start of the room will lead to that path.
+
+Now when you reach the next floor, it'll be a long walk to the center room.
+In the center room is a Vampire, which you will have to defeat for the Ruby.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Vampire      HP: 156
+-----------------------------------------------------------------------------
+This battle will be a bit tough. It'll be hard as heck to not get it and be
+affected by his Dazzle attack, which can stun any given party member. Have
+a white mage or red mage attack with Hrm2 or Hrm if you have them and have
+the other party members attack like normal. The black mage should use Fire
+or lightning if he has it.
+
+After the battle the stone plate blocks your path from advancing any further,
+however you attain the Ruby. Once you have the Ruby head out of here and save
+your game with a tent or go back to Melmond and save your game.
+
+=============================================================================
+Titan's Tunnel and the Fiend of Earth
+Party's level: 17
+Items: Silver Helmet, 450 G, 620 G, Great Axe
+Monsters: Green Ogre, Grey Wolf, Tiger, Arachnid, Ooze, Mummy, Bull, Troll
+=============================================================================
+
+Inside here feed the Titan a ruby and he will move out of the way for you
+to past to Sarda's Cave. Once through head to Sarda's Cave outside and south
+and then talk to him and he will give you the Rod to help you complete your
+quest through the Earth Cave. So head back out and head back to the Earth
+Cave.
+
+Once inside the Earth Cave it's the same bit as usual, head back to where you
+last defeated the Vampire and then use the Rod to move away the stone plate
+that is impeding your progress. Once you advance through it's still pretty
+straight forward, the next staircase to the next room is at the top left.
+Continue on through until you reach Lich...and prepare for your toughest
+battle yet.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Lich      HP: 400
+-----------------------------------------------------------------------------
+Fire is your best bet to winning this match. Use fire spells from your mages
+and have the other party members attack as normal. Watch for Lich to cast
+Fast on himself...after that once he hits you, you're out...or almost out.
+Cast slow on Lich to lessen the effects of his physical attacks(because they
+are rather powerful). Keep your HP up above 70 and attack constantly.
+
+After the battle step up to the black orb and your orb will shine(on your
+status screen), then you will be teleported outside automatically, so thank
+goodness you don't have to make your way back out.
+
+=============================================================================
+Cresent Lake and the Gurgu Volcano
+Party's level: 20
+Items: 750 G, 895 G, Giant Sword, 4150 G, Silver Helmet(3), 1520 G, Heal
+       Potion(2), Cabin, 1760 G, 1520 G, Silver Shield, 1455 G, Silver Axe,
+       1975 G, Pure Potion
+Monsters: Sphinx, Green Ogre, Scorpion, Bull, Muck, Giant, Iguana, Pede,
+          Perilisk, Red Giant, Red Dragon, Fire, Red Gargoyle, Cerebus,
+          Agama, Grey Worm, Wizard Ogre, Red Hydra, Hyena
+=============================================================================
+
+Cresent Lake is located on the same continent as Pravoka, except it's on the
+far bottom right of the continent. To get there you must take your sailship
+and sail around to the bottom and you should see a port. Take that port and
+walk your way around to Cresent Lake...which is to the left. Notice how
+Square makes you walk the long way by extending the moat?
+
+Once inside talk to the 12 sages...one of them will give you a canoe to
+travel around in. In this town it's extremely important that you attain the
+spell "Exit." The Gurgu Volcano is full of tougher monsters and lava floors
+that drain your HP each time that you step on them. Once you are all done
+head out and just walk onto the river leading to the west.
+
+Take the canoe upwards once you see the first opening and then take a right,
+then left and left again until you reach the Gurgu Volcano.
+
+It's important that you save your game outside the Volcano, so what you
+might want to do is fight some battles before using your tent or cabin, maybe
+get a head start on your levels or gain a level before heading in. Once
+inside, the searing pools of lava will drain your HP for every movement that
+you take on them. Meaning that even if you stand on the floors, you will
+not gradually decrease in HP. When you make your way to the next floor, keep
+an eye on the middle treasure chest on the right part of the room. If you
+can, try to pick up that treasure chest by going around it and pick it up
+from the left...otherwise you will have to fight two Fires to obtain it.
+Also keep note that there will always be a monster in that specified spot,
+so always keep a close eye on where you are walking. Usually monsters are
+close to the treasure chest guarding them...always keep this in mind and keep
+your HP up before entering the battle.
+
+After you have passed through the first room the volcano starts to become a
+sort of a maze. It's not entirely confusing but you can easily find yourself
+walking in circles if you don't keep track of where you are walking and
+which direction that you were walking in. From here the next area is to the
+right, in the next room head two small rooms to the left, then directly down
+and to the left. Watch out for the pits though, you want to take the least
+possible amount of steps in the pools, otherwise you can find yourself in an
+unexpected battle with extremely low HP.
+
+Once through in the next room, head to the bottom right. Now when you enter
+here, there are several treasure chests in this room, always keep alert that
+a monster will guard it. You can avoid it or you may not, just as long as
+you are prepared you will do fine. Now in this room the next area is to the
+bottom of the room, so if you want to skip all the treasures, then head down
+to the bottom.
+
+When you reach the ubiquitous room there are eight different paths set up,
+you're wondering to yourself "Damn! Which way should I go?" Relax, the Dingo
+Meister is here to help. :P There are only two paths that are really
+important, that's the west path(which leads to the Flame Armor) and the
+southwest path, which leads to Kary. I highly suggest you acquire the Flame
+Armor first, then take the bottom left path to Kary.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Kary      HP: 600
+-----------------------------------------------------------------------------
+Surprisingly, ice does not work well in this battle. You're best bet to
+winning this battle is to hope that Kary uses her fire magic on any character
+that is wearing the Flame Armor(hopefully you were smart enough to equip it
+on as you had recieved it :P ). This way the damage is lessened and the party
+can constantly barrage her with attacks. Fire, surprisingly, does damage to
+Kary as well...it's odd but eh. Attack with magic like Lit2 or Ice2 and cast
+Slow on Kary and Fast on your fighters, black belts, and theifs.
+
+After the battle step up to the black orb and you will automatically be
+teleported outside. It is highly suggested that you save your game, if you
+don't have anything to save with...then you better hope you're in very good
+condition or you are lucky enough to avoid random encounters as much as
+possible.
+
+=============================================================================
+Ice Cave
+Party's level: 22
+Items: Heal Potion, 10000 G, 9500 G, Tent, Ice Shield, Flame Sword, Cloth,
+       Floater, Ice Armor, Silver Gauntlet, 7900 G, 5450 G, 180 G, 9900 G,
+       5000 G, 12350 G
+Monsters: Spector, Mage, Wraith, Greate Pede, Sorcerer, Frost Giant, Eye,
+          Frost Dragon, Coctrice, Frost Wolf
+=============================================================================
+
+The path to the ice cave is even more complex than the path to the Gurgu
+Volcano. Head back to your sailship and from the Volcano and directly up
+north from the port that lead to the Cresent Lake and to another port up
+north. Then take your canoe west and then go up and then a bit to the right,
+then keep going west until you reach the end goind down and then take the
+first left that you see and head around to the ice cave. Once again, you may
+want to save your game here just in case something goes wrong inside.
+
+Before you go anywhere in this ice cave, it is imperative that you equip your
+Flame Sword but de-equip any Flame Armor that you may have. If not you can
+suffer a lot of damage since ice will null any fire defense and attack. When
+you reach inside go around to the next staircase, in the next room you will
+see warp tiles on the floor along with three treasure chests, while the
+third treasure chest(the one in the middle) is your main perogative, you
+can't acquire it just yet, drop down to the 2nd warp tile on the left from
+the top left treasure chest and continue onwards.
+
+In here you will encounter a batch of enemies before you can even get out of
+the room that you are in. To the left of where you are is Ice Armor, which
+is extremely valuable in a place like this since you can protect yourself
+from ice attacks from the monsters here. The room at the south part of this
+area is just nuts, it's 6 treasure chests with a flock of gold, definitely
+make sure you pick it up before heading onto the right staircase.
+
+Now in this next room there is a room with three staircases and a warp tile,
+take the three treasure chests and drop into the warp tile and it will lead
+you to the Eye, which you will have to defeat to get the Floater.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Eye      HP: 162
+-----------------------------------------------------------------------------
+Not a lot of HP, but a lot of instant death attacks. He has virtually no
+weaknesses whatsoever. Have one party member equipped with the Rune Sword,
+it'll do a good deal of damage against this guy since he is categorized in
+the magic class. Other than that have your magic users use magic and fighters
+attack as normal. His only real threat besides his instant death spells is
+the Lit2 spell, which can deal quite a bit of damage to the party, so make
+sure you have a Hel2 ready for that.
+
+After the battle pick up the Floater and head out of there.
+
+=============================================================================
+Ryukahn Desert
+Party's level: 24
+Items: Airship
+Monsters: None
+=============================================================================
+
+Head to the Ryukahn Desert which is directly south of Cresent Lake, there
+should be a river next to the semi-large desert. Port your ship near the
+river and use your canoe to make it to the mainland(since there are no ports)
+and then use the floater near the desert. This will prompt the airship to
+rise from the sand and made available for you to use.
+
+Congratulations! You have acquired the last vehicle in the game, but your
+journey and adventure is still far from over.
+
+=============================================================================
+Castle of Ordeals
+Party's level: 24
+Items: Zeus Guantlet, Gold Bracelet, Ice Sword, Iron Guantlet, Heal Staff,
+       House, 1455 G, 7340 G, Tail
+Monsters: Tiger, Sphinx, Wyrm, Sauria, Manitcore, Sandworm, Giant, Iguana,
+          Saber Tooth, Catman, Great Pede, Red Ankylo
+=============================================================================
+
+The Castle of Ordeals is located on the northern continent directly north
+of Corneria. It's pretty much a castle to the right of the Cardia Islands.
+Inside talk to the wizard and he will move out of the way for you, but be
+wary that this place isn't called "Castle of Ordeals" for nothing. It's
+extremely tough to get by unless you are properly equipped and have enough
+levels to sustain and deal out hits.
+
+Inside here the podiums are warp tiles to other places in the room. The first
+two warp podiums aren't too hard to manuver past since they are straight
+forward, after that take the bottom warp podium and collect the Zeus
+Guantlet and head to the third floor and then go around and pick up the rest
+of the treasure chests and the Tail. Watch for the treasure chest near the
+chair, it's protected by Zombie Dragon(s). Defeat the Dragons by using the
+Hrm3 spell(if you have it) and Fire3(if you have it) and have the rest of
+your fighters attack as normal.
+
+Soon after that leave the place and travel to Cardia Islands, which are the
+islands to the left of the castle.
+
+=============================================================================
+Cardia Islands
+Party's level: 26
+Items: Cabin, 575 G, Soft Potion, 10 G, House, 500 G, 160 G, 9500 G, 2750 G,
+       1520 G, 2750 G, 1455 G, 2000 G
+Monsters: None
+=============================================================================
+
+In these islands here there are six entrances to the Cardia Islands. There
+are practically no monsters below the islands and it's pretty straight-
+forward throughout, so a walkthrough isn't neccessary. Just grab all the
+items and then speak with Bahamut in the long hall and tell him that you wish
+to be promoted and he will do so. I suggest you do so either because your
+promotional classes are everything that you were previously, and more. Your
+stats are a bit more polished than before and you can now basically acquire
+and use any spell and any weapon and armor in the game...assuming you have
+the appropriate class for it.
+
+=============================================================================
+Sea Shrine
+Party's level: 26
+Items: 9900 G, 2000 G, 110 G, 450 G, 2750 G, 10000 G, 4150 G, 5000 G, 9000 G,
+       1760 G, 10 G, Opal Helmet, Opal Guantlet, Opal Bracelet, Pure Potion,
+       Opal Shield, Slab, Opal Armor, Light Axe(2), 12350 G, Mage Staff,
+       20 G, Ribbon, 9900 G, 5450 G, 7340 G, 2750 G, 8135 G, 7690 G, 385 G,
+       Power Guantlet
+Monsters: Kraken, Lobstar, Ghost, Wizard Sahag, Big Eye, Naga, Sea Snake,
+          Grey Shark, Sea Troll, Water, Rock Gol, Red Sahag, Shark
+=============================================================================
+
+On the Northern West continent lies a giant desert. Head to that desert and
+depart your ship south of it on a suitable area(you will have to walk, gasp
+I know). Head up to the Caravan(which is the small desert area seperate from
+the larger desert next to a small batch of forest) and pruchase the Bottle
+for 50000 G. You're probably wondering..."Wa sa fa?!" But eh, check the
+bottle and it will release a fairy. The fairy will wander off but don't fret,
+take your airship and head to the northeast continent and head for the town
+that is completely encased by surrounding mountains.
+
+Inside here are some powerful magic and weapons, but don't worry about the
+weapons now...head straight for the Fairy Spring which is on the upper right
+most corner of Gaia. Talk to the Fairy and it will give you Oxyale, which
+is the only way you even stand a chance of surviving in the Sea Shrine.
+
+With that said and done head to Onrac, which is a town located on the same
+continent as the Caravan, you'll have to walk a long way to the east though.
+When you reach in here, head to the bottom right part of town and talk to
+the maiden and she will allow you to pass since you have the Oxyale. Make
+sure you save your game at the inn though.
+
+This will be probably the biggest place you will have visited in the game
+as of now. It's a bit complex and confusing at times. When you enter here,
+head to the top left path(you can take the top right path to collect various
+treasures, which is HIGHLY reccommended) so you can collect the Opal Armors
+and weaponry, but more importantly pick up the Slab as well.
+
+On the right path when you reach a room that has many minature rooms it seems
+nearly impossible to get to them, but go to the top right and walk along that
+long path and you will reach the other side of the room, much like going
+around in a circle. Pick up the items there which include the Slab, Opal
+Helmet, and Opal Guantlet. Then head back to the first room and take the left
+staircase.
+
+This path is practically straight forward, after the first room take the
+upper right staircase, then in the small room take the next staircase and
+then take the bottom right staircase in the next room. You should find
+yourself in a long hall(sort of), head down and collect the treasure chests
+and head to the next room at the top. In here you definitely would want to
+collect the ribbon(which is located at the top right room of this area)
+and then head to the top left staircase to the next area which will
+eventually lead to Kraken.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Kraken       HP: 800
+-----------------------------------------------------------------------------
+This battle isn't too hard actually. You should use Lit3 constantly if you
+have it or any lit spell(avoid Lit1 if you have a stronger other elemental
+spell like Fir2 or Ice2). Cast Slow on Kraken and cast Fast on your fighters
+and if Kraken uses Ink, use Lamp(if you have it) to counteract the effects.
+Attack and keep your HP up basically.
+
+After the battle step up to the bacl orb and then you will be warped outside,
+head to the inn at Onrac and save your game.
+
+=============================================================================
+The Waterfall
+Party's level: 30
+Items: Wizard Staff, Ribbon, 13450 G, 6400 G, 5000 G, Defense
+Monsters: Gas Dragon, Nitemare, Mud Gol, Mummy, Wizard Mummy, Perilisk,
+          Coctrice
+=============================================================================
+
+Once you head outside of Onrac, take the river upwards to the waterfall, it's
+a pretty straight forward path. Inside here walk around to the top left and
+then head down left and collect the treasure chests. One of them contains
+a Cube which you will need to complete your next quest. After you have
+collected the Cube(which you will need to talk to the robot for) head out of
+here and go back to your airship.
+
+Head back to the town of Melmond(yes, that's right...Melmond) and then talk
+to Dr. Unne and show him the Slab. He will translate the language for you
+and then head to the town of Lefein...which is on the Northeast continent.
+
+The bad part is that you will have to walk a long way again, and you will
+have to dock your airship near the small lake and then walk down south.
+
+=============================================================================
+Lefein, the Mirage Tower, and the Floating Castle
+Party's level: 30
+Items: Vorpal, Heal Helmet, Cabin, Aegis Shield 880 G, 2750 G, 3400 G,
+       18010 G, 13000 G, 12350 G, 7900 G, 8135 G, House, 7690 G, 10000 G,
+       Sun Sword, Dragon Armor, 9900 G, Heal Potion, 4150 G, 7900 G, 5000 G,
+       ProRing, 6720 G, Heal Helmet, 180 G, Bane Sword, Silver Helmet, House,
+       Opal Guantlet, 880 G, 13000 G, Ribbon, Opal Shield, Adamant, White
+       Shirt, Black Shirt, 9000 G, Heal Potion, ProRing, 5450 G, Soft Potion,
+       Katana, 6400 G, Cloth, ProCape, Soft Potion, 9500 G, 8135 G, 3400 G,
+       4150 G
+Monsters: Tiamat, Air, Slime, Sentry, Jimera, Wizard Vampire, Grey Naga,
+          Green Medusa, Fighter, Evilman, Warmech, Eye, Mancat, Manticor,
+          Sorcerer, Nitemare, Guard, Batman, Rock Gol, Red Hydra, Mud Gol,
+          Naocho, Cerebus, Blue Dragon, Saber Tooth Tiger, Chimera, Mummy,
+          Wizard Mummy, Vampire, Perilisk, Guard
+=============================================================================
+
+When you head to Lefein, talk to the man in the bottom left part of town,
+he will give you the Chute needed to get inside the Mirage Tower. Also you
+learn that the Sky Warriors had used that airship to travel to the Floating
+Castle. They had also left the airship and floater down south but has never
+returned since then. This doesn't sound too goof for a party that is about
+to attempt to complete their 4th elemental quest.
+
+Head to the left desert and dock your airship somewhere...then walk towards
+the center and use the Chute to let you inside the Mirage Tower. Inside
+here head up and collect all the treasure chests inside and then head to the
+next floor, in here head your way towards the top staircase and then use
+the Cube in the next room to transport you to the Floating Castle.
+
+In here you are given four paths, the top path is your next destination but
+the other three paths leads to items and a lot of gold, collect them and
+then head on, in the next room are 7 different paths. The bottom path is the
+next destination, but the most important item here is at the bottom left
+which contains the Adamant. In the next area you can ignore the bottom path,
+the top, left, and right paths all contain items and gold. Also if you look
+down the window you can get a clue as to where to go to next after you have
+completed this quest...it appears that the four flowing altars all seem to
+flow into the center of the Temple of Fiends...how odd...
+
+Now when you reacht his next floor, it gets a bit complex...much like an
+enigma. But luckily you've got Super Dingo Jellybean to help you out! :P
+Now when you first enter the room, move two columns down and then two columns
+right and you will enter the long corridor(not that hard eh?). Be wary in
+this corridor though, you may encounter the Warmech and have your long
+journey come to an end right there and then. So be prepared for whatever may
+happen, once you reach Kraken...it's time to settle things.
+-----------------------------------------------------------------------------
+BOSS BATTLE: Kraken       HP: 1000
+-----------------------------------------------------------------------------
+This will be a very tough battle indeed. Attack with your strongest elemental
+magic(Nuke is EXTREMELY helpful here, able to deal anywhere from 200-600 HP
+of damage!!!) and have the rest of your characters attack as normal. Use Fast
+on your party members and Slow on Tiamat. His physical attacks hurt pretty
+badly, so you may want to cast Invs or Inv2 on the party to avoid some of his
+attacks.
+
+After the battle step onto the black orb and you will be teleported outside.
+Congratulations again! You have restored power to all four orbs...but yet
+something doesn't seem quite right.
+
+=============================================================================
+Excalibur and the Temple of Fiends
+Party's level: 35
+Items: Masamune, Excalibur
+Monsters: Worm, Phantom, Iron Gol, Frost Dragon, Chimera, Zombie Dragon,
+          Frost Giant, Slime, Gas Dragon, Badman, Mage, Fighter, Kraken,
+          Tiamat, Earth, Green Medusa, Mud Gol, Rock Gol, Lich, Agama, Grey
+          Worm, Red Giant, Kary, Sea Troll, Lobster, Sea Snake, Water, Grey
+          Shark, Wizard Sahag, Big Eye, Iron Gol, Sorcerer, Air, Vampire,
+          Wizard Vampire
+=============================================================================
+
+Head back to your airship, then head to the Dwarf cave and speak with the
+Dwarf that exhausted his supply of Adamant earlier. Give him the Adamant and
+in return you get an extremely powerful sword for your Knight.
+
+Head back to the Temple of Fiends but make sure to restock on everything and
+get 99 Pure Potions, 99 Cure Potions, and 99 Soft Potions. Make sure you have
+all your magic slots filled up and maybe boost a little more in levels. Once
+your ready, head inside.
+
+You notice 5 bats flying around...these five are the Sky Warriors that the
+people of Lefein had been talking about. They were turned into bats by a
+powerful force...and it looks like the party will have their hands full.
+
+Head to the black orb and then you will be transported 2000 years back into
+the past...that's quite a long time. The Temple of Fiends(Past) is a pretty
+straight forward place...no funny mazes or loopholes. You will go through
+several floors that attain a certain element in them...like Earth, Fire,
+Water, and Wind. You will also have to fight an enhanced version of each
+fiend again...the tactics for them are no more different than before...just
+use stronger magic. On the floor when you reach Tiamat there is a Masamune
+sword at the bottom right part of the room...PICK IT UP. It is insanely
+powerful and can make a wizard come close to matching the strength of a
+Knight. Equip it on a Knight and with your levels at 50, you can literally
+deal 1400 HP of damage! Once you reach the final room you will encounter
+Garland...who traveled 2000 years into the past in which in turn he sent
+the fiends 2000 years into the future where the fiends of that time would
+send back Garland creating an endless loophole. This fight WILL NOT be easy.
+-----------------------------------------------------------------------------
+Final Battle: Chaos     HP: 2000
+-----------------------------------------------------------------------------
+Chaos has every spell in the book and has no weaknesses and is incredibly
+durable to virtually ANY attack. Have your White Wizard or Red Wizard be the
+healer...have your Black Wizard cast Nuke every time, it'll do about 150-300
+HP of damage against him depending on your levels. Your other fighters should
+attack as normal and keep their HP up, there is one seriously downside to an
+already tough battle though. Chaos can use Cur4 on himself at ANY TIME,
+meaning that even if you are 200 HP away from putting this guy to rest...he
+becomes a fight all over again...much like fighting two Chaos. There isn't
+anything that you can do about this except hope that he doesn't use it.
+Keeping your HP to the max is extremely crucial and having Hel3 being cast
+every round from your White or Red Wizard will help.
+
+Congratulations for the last time! You have beaten one of the toughest RPGs
+and one fo the best RPGs in history! The ending isn't too shabby(although it
+is mainly text) but it does leave a sense of passion in your heart and a
+sense of completeness(forgive the cornballness) and it shows what a true
+warrior you are! Thank you for using this guide and thank you for playing the
+best game on one of the best consoles ever.
+
+- Dingo Jellybean
+
+------- [ Mini Game ] -------
+
+This is a mini game that is optional but it's really a waste of your time.
+Anyways, while you are on your sailship hold down A and press B 55 times and
+a number blocks game will show up. If you move the number tiles in order from
+1 to 15, you win...yep...that's right...100 G. That's it. *cries*
+
+=============================================================================
+-------------------------------- [ Bestiary ] -------------------------------
+=============================================================================
+
+------- [ A ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Air
+HP:         | 358
+Attack Avg: | 53-106
+Attack Eff. | NA
+EXP:        | 1614
+Gold:       | 807
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake, Rub, Bane, Brak, Stun, Slep
+Location:   | Sky Castle
+-----------------------------------------------------------------------------
+Monster:    | Ankylo
+HP:         | 352
+Attack Avg: | 98-196
+Attack Eff. | NA
+EXP:        | 2610
+Gold:       | 1
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Mirage Tower, World Map near Caravan
+-----------------------------------------------------------------------------
+Monster:    | Arachnid
+HP:         | 64
+Attack Avg: | 5-10
+Attack Eff. | Poison
+EXP:        | 141
+Gold:       | 50
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Titan's Tunnel
+-----------------------------------------------------------------------------
+Monster:    | Asp
+HP:         | 56
+Attack Avg: | 6-12
+Attack Eff. | Poison
+EXP:        | 123
+Gold:       | 50
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Astos
+HP:         | 168
+Attack Avg: | 26-52
+Attack Eff. | NA
+EXP:        | 2250
+Gold:       | 2000
+Class:      | Undead
+Weaknesses: | Fire
+Attacks:    | Rub, Slo2, Lit2, Slow, Fast, Fir2, Dark, Slep
+Strong vs.: | NA
+Location:   | Northwest Castle
+-----------------------------------------------------------------------------
+
+------- [ B ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Badman
+HP:         | 260
+Attack Avg: | 44-88
+Attack Eff. | NA
+EXP:        | 1263
+Gold:       | 1800
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Mirage Tower
+-----------------------------------------------------------------------------
+Monster:    | Big Eye
+HP:         | 304
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 3591
+Gold:       | 3591
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | Stun, Dark
+Strong vs.: | Qake, Fire
+Location:   | Sea Shrine
+-----------------------------------------------------------------------------
+Monster:    | Blue Dragon
+HP:         | 454
+Attack Avg: | 92-184
+Attack Eff. | NA
+EXP:        | 3274
+Gold:       | 2000
+Class:      | Dragon
+Weaknesses: | Fire
+Attacks:    | Thunder
+Strong vs.: | Qake, Lit
+Location:   | Temple of Fiends(Past), Mirage Tower
+-----------------------------------------------------------------------------
+Monster:    | Bone
+HP:         | 10
+Attack Avg: | 10-20
+Attack Eff. | NA
+EXP:        | 9
+Gold:       | 3
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Temple of Fiends(Present), World Map - Early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Bull
+HP:         | 164
+Attack Avg: | 22-44
+Attack Eff. | NA
+EXP:        | 489
+Gold:       | 489
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Titan's Tunnel, Earth Cave, Gurgu Volcano, Temple of Fiends
+            | (past)
+-----------------------------------------------------------------------------
+
+------- [ C ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Caribe
+HP:         | 92
+Attack Avg: | 22-44
+Attack Eff. | NA
+EXP:        | 240
+Gold:       | 20
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Rivers
+-----------------------------------------------------------------------------
+Monster:    | Catman
+HP:         | 160
+Attack Avg: | 30-60
+Attack Eff. | Poison
+EXP:        | 780
+Gold:       | 780
+Class:      | Were
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Mirage Tower, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Cerebus
+HP:         | 192
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 1182
+Gold:       | 600
+Class:      | NA
+Weaknesses: | Ice
+Attacks:    | Scorch
+Strong vs.: | Fire
+Location:   | Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Chaos
+HP:         | 2000
+Attack Avg: | 100-500
+Attack Eff. | NA
+EXP:        | NA
+Gold:       | NA
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | Ice3, Cur4, Lit3, Slo2, Fir3, Fast, Nuke, Qake
+Strong vs.: | Qake, Lit, Ice, Fire, Bane, Slep, Brak, Stun, Zap
+Location:   | Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Chimera
+HP:         | 300
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 2064
+Gold:       | 2500
+Class:      | Dragon
+Weaknesses: | Ice
+Attacks:    | Cremate
+Strong vs.: | Qake, Fire
+Location:   | Temple of Fiends(Past), Mirage Tower
+-----------------------------------------------------------------------------
+Monster:    | Cobra
+HP:         | 80
+Attack Avg: | 22-44
+Attack Eff. | 165
+EXP:        | 50
+Gold:       | Dragon
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Earth Cave
+-----------------------------------------------------------------------------
+Monster:    | Coctrice
+HP:         | 50
+Attack Avg: | 1-2
+Attack Eff. | Stone
+EXP:        | 186
+Gold:       | 200
+Class:      | NA
+Weaknesses: | Ice
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Ice Cave, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Crawl
+HP:         | 84
+Attack Avg: | 1-2
+Attack Eff. | Stun
+EXP:        | 186
+Gold:       | 200
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Creep
+HP:         | 56
+Attack Avg: | 17-34
+Attack Eff. | NA
+EXP:        | 63
+Gold:       | 15
+Class:      | NA
+Weaknesses: | Fire
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+
+------- [ E ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Earth
+HP:         | 288
+Attack Avg: | 66-132
+Attack Eff. | NA
+EXP:        | 1536
+Gold:       | 738
+Class:      | NA
+Weaknesses: | Fire
+Attacks:    | NA
+Strong vs.: | Qake, Lit, Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Earth Cave
+-----------------------------------------------------------------------------
+Monster:    | Evilman
+HP:         | 190
+Attack Avg: | 55-110
+Attack Eff. | NA
+EXP:        | 2700
+Gold:       | 3000
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | XFer, Nuke, ZZZZ, Blnd
+Strong vs.: | Rub, Bane, Brak, Stun, Slep
+Location:   | Sky Castle, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Eye
+HP:         | 182
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 3225
+Gold:       | 3225
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | XXXX, Brak, Rub, Lit2, Hold, Lamp, Slow, Sleep
+Strong vs.: | Qake
+Location:   | Ice Cave
+-----------------------------------------------------------------------------
+
+------- [ F ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Fighter
+HP:         | 200
+Attack Avg: | 40-80
+Attack Eff. | NA
+EXP:        | 3420
+Gold:       | 3420
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | Wall, XFer, Hel3, Fog2, Inv2, Cur4, Hel2, Cur3
+Strong vs.: | NA
+Location:   | Sky Castle, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Fire
+HP:         | 276
+Attack Avg: | 50-100
+Attack Eff. | NA
+EXP:        | 1620
+Gold:       | 800
+Class:      | NA
+Weaknesses: | Ice
+Attacks:    | NA
+Strong vs.: | Qake, Fire, Rub, Bane, Brak, Stun, Slep
+Location:   | Gurgu Volcano, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Frost Dragon
+HP:         | 200
+Attack Avg: | 53-106
+Attack Eff. | NA
+EXP:        | 1701
+Gold:       | 2000
+Class:      | Dragon
+Weaknesses: | Fire, Lit
+Attacks:    | Blizzard
+Strong vs.: | Qake, Ice, Bane, Brak
+Location:   | Temple of Fiends(Past), Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Frost Gator
+HP:         | 142
+Attack Avg: | 56-112
+Attack Eff. | NA
+EXP:        | 1890
+Gold:       | 2000
+Class:      | Water/Dragon
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | World Map near Caravan, Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Frost Giant
+HP:         | 336
+Attack Avg: | 60-120
+Attack Eff. | NA
+EXP:        | 1752
+Gold:       | 1752
+Class:      | Gaint
+Weaknesses: | Fire
+Attacks:    | NA
+Strong vs.: | Ice
+Location:   | Temple of Fiends(Past), Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Frost Wolf
+HP:         | 92
+Attack Avg: | 25-50
+Attack Eff. | NA
+EXP:        | 402
+Gold:       | 200
+Class:      | NA
+Weaknesses: | Fire
+Attacks:    | Frost
+Strong vs.: | Ice
+Location:   | Ice Cave, Temple of Fiends(past)
+-----------------------------------------------------------------------------
+
+-------- [ G ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Gargoyle
+HP:         | 80
+Attack Avg: | 12-24
+Attack Eff. | NA
+EXP:        | 132
+Gold:       | 80
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Garland
+HP:         | 106
+Attack Avg: | 15-30
+Attack Eff. | NA
+EXP:        | 130
+Gold:       | 250
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Temple of Fiends(Present)
+-----------------------------------------------------------------------------
+Monster:    | Gas Dragon
+HP:         | 352
+Attack Avg: | 72-144
+Attack Eff. | NA
+EXP:        | 4068
+Gold:       | 5000
+Class:      | Dragon
+Weaknesses: | Ice
+Attacks:    | Poison Gas
+Strong vs.: | Qake
+Location:   | Temple of Fiends(Past), Waterfall
+-----------------------------------------------------------------------------
+Monster:    | Gator
+HP:         | 184
+Attack Avg: | 42-84
+Attack Eff. | NA
+EXP:        | 816
+Gold:       | 900
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Rivers
+-----------------------------------------------------------------------------
+Monster:    | Geist
+HP:         | 56
+Attack Avg: | 8-16
+Attack Eff. | Stun
+EXP:        | 117
+Gold:       | 117
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Earth Cave, Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Ghost
+HP:         | 180
+Attack Avg: | 93-186
+Attack Eff. | NA
+EXP:        | 990
+Gold:       | 990
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Slep
+Location:   | Sea Shrine, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Ghoul
+HP:         | 48
+Attack Avg: | 8-16
+Attack Eff. | Stun
+EXP:        | 93
+Gold:       | 50
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Temple of Fiends(Present), World Map - Early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Giant
+HP:         | 240
+Attack Avg: | 38-76
+Attack Eff. | NA
+EXP:        | 879
+Gold:       | 879
+Class:      | Giant
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Earth Cave, Gurgu Volcano, Northern Continent World Map,
+            | World Map south of Matoya's Cave
+-----------------------------------------------------------------------------
+Monster:    | Great Pede
+HP:         | 320
+Attack Avg: | 73-146
+Attack Eff. | NA
+EXP:        | 2244
+Gold:       | 1000
+Class:      | NA
+Weaknesses: | Ice, Fire
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Green Medusa
+HP:         | 96
+Attack Avg: | 11-22
+Attack Eff. | Stun
+EXP:        | 1218
+Gold:       | 1218
+Class:      | NA
+Weaknesses: | Fire
+Attacks:    | Glance
+Strong vs.: | Qake, Ice
+Location:   | Sky Castle
+-----------------------------------------------------------------------------
+Monster:    | Green Ogre
+HP:         | 132
+Attack Avg: | 23-46
+Attack Eff. | NA
+EXP:        | 282
+Gold:       | 300
+Class:      | Giant
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Elfland World Map
+-----------------------------------------------------------------------------
+Monster:    | Grey Imp
+HP:         | 16
+Attack Avg: | 8-16
+Attack Eff. | NA
+EXP:        | 18
+Gold:       | 18
+Class:      | Giant
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Grey Naga
+HP:         | 420
+Attack Avg: | 7-14
+Attack Eff. | Poison
+EXP:        | 3489
+Gold:       | 4000
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | Ruse, Lamp, Slow, Dark, Slep, fire, Lit, Heal
+Strong vs.: | NA
+Location:   | Sky Castle
+-----------------------------------------------------------------------------
+Monster:    | Grey Shark
+HP:         | 344
+Attack Avg: | 50-100
+Attack Eff. | NA
+EXP:        | 2361
+Gold:       | 600
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Sea Shrine
+-----------------------------------------------------------------------------
+Monster:    | Grey Wolf
+HP:         | 72
+Attack Avg: | 14-28
+Attack Eff. | NA
+EXP:        | 93
+Gold:       | 22
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Temple of Fiends(Present), World Map - Early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Guard
+HP:         | 200
+Attack Avg: | 25-50
+Attack Eff. | Stun
+EXP:        | 1224
+Gold:       | 400
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Rub, Bane, Stun, Brak, Slep
+Location:   | Mirage Tower
+-----------------------------------------------------------------------------
+
+------- [ H ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Hydra
+HP:         | 212
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 915
+Gold:       | 150
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Rivers
+-----------------------------------------------------------------------------
+Monster:    | Hyena
+HP:         | 120
+Attack Avg: | 22-44
+Attack Eff. | NA
+EXP:        | 288
+Gold:       | 72
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Gurgu Volcano
+-----------------------------------------------------------------------------
+
+------- [ I ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Iguana
+HP:         | 92
+Attack Avg: | 18-36
+Attack Eff. | 153
+EXP:        | 50
+Gold:       | Dragon
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Image
+HP:         | 86
+Attack Avg: | 22-44
+Attack Eff. | Stun
+EXP:        | 231
+Gold:       | 231
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Slep
+Location:   | Earth's Cave, Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Imp
+HP:         | 8
+Attack Avg: | 4-8
+Attack Eff. | NA
+EXP:        | 6
+Gold:       | 6
+Class:      | Giant
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Iron Gol
+HP:         | 304
+Attack Avg: | 93-186
+Attack Eff. | NA
+EXP:        | 6717
+Gold:       | 3000
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | Poison Gas
+Strong vs.: | Qake, Icem Fire, Rub, ane, Brak, Stun, Slep
+Location:   | Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+
+------- [ J ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Jimera
+HP:         | 350
+Attack Avg: | 40-80
+Attack Eff. | NA
+EXP:        | 4584
+Gold:       | 5000
+Class:      | Dragon
+Weaknesses: | Ice
+Attacks:    | Cremate, Poison Gas
+Strong vs.: | Qake, Fire
+Location:   | Sky Castle
+-----------------------------------------------------------------------------
+
+------- [ K ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Kraken
+HP:         | 800
+Attack Avg: | 50-100
+Attack Eff. | NA
+EXP:        | 4245
+Gold:       | 5000
+Class:      | Dragon
+Weaknesses: | Ink(Dark), Lit2
+Attacks:    | Lit
+Strong vs.: | Qake, Fire
+Location:   | Sea Shrine
+-----------------------------------------------------------------------------
+Monster:    | Kraken
+HP:         | 1000
+Attack Avg: | 120-360
+Attack Eff. | NA
+EXP:        | 500
+Gold:       | 2
+Class:      | Dragon
+Weaknesses: | Ink(Dark), Lit2, Lit3
+Attacks:    | Lit
+Strong vs.: | Qake, Fire
+Location:   | Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Kyzoku
+HP:         | 50
+Attack Avg: | 14-28
+Attack Eff. | NA
+EXP:        | 60
+Gold:       | 120
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Waters
+-----------------------------------------------------------------------------
+
+------- [ L ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Lich
+HP:         | 400
+Attack Avg: | 40-80
+Attack Eff. | NA
+EXP:        | 2200
+Gold:       | 3000
+Class:      | Undead
+Weaknesses: | Fire
+Attacks:    | Ice2, Slp2, Fast, Lit2, Hold, Fir2, Slow, Slep
+Strong vs.: | Ice, Rub, Bane, Stun, Slep, Brak
+Location:   | Earth Cave
+-----------------------------------------------------------------------------
+Monster:    | Lich
+HP:         | 800
+Attack Avg: | 90-256
+Attack Eff. | NA
+EXP:        | 0
+Gold:       | 500
+Class:      | Undead
+Weaknesses: | Fire
+Attacks:    | Ice2, Ice3, Slp2, Fast, Lit2, Lit3, Hold, Fir2, Slow, Slep
+Strong vs.: | Ice, Rub, Bane, Stun, Slep, Brak
+Location:   | Temple of Fiends(Past).
+-----------------------------------------------------------------------------
+Monster:    | Lobster
+HP:         | 148
+Attack Avg: | 35-70
+Attack Eff. | Poison
+EXP:        | 639
+Gold:       | 300
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Sea Shrine, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+
+------- [ M ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Mad Pony
+HP:         | 64
+Attack Avg: | 10-20
+Attack Eff. | NA
+EXP:        | 63
+Gold:       | 15
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Mage
+HP:         | 105
+Attack Avg: | 26-52
+Attack Eff. | NA
+EXP:        | 1095
+Gold:       | 1095
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | Rub, Lit3, Fir3, Bane, Slo2, Stun
+Strong vs.: | NA
+Location:   | Temple of Fiends(past), Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Manticore
+HP:         | 164
+Attack Avg: | 22-44
+Attack Eff. | NA
+EXP:        | 1317
+Gold:       | 650
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | Stinger(poison)
+Strong vs.: | Qake
+Location:   | Castle of Ordeal
+-----------------------------------------------------------------------------
+Monster:    | Muck
+HP:         | 76
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 255
+Gold:       | 70
+Class:      | NA
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Fire, Rub, Bane, Brak, Stun, Slep
+Location:   | Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Mud Gol
+HP:         | 176
+Attack Avg: | 64-128
+Attack Eff. | NA
+EXP:        | 1257
+Gold:       | 800
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | Fast
+Strong vs.: | Lit, Ice, Fire, Rub, Bane, Brak, Stun, Slep
+Location:   | Waterfall, Temple of Fiends(past)
+-----------------------------------------------------------------------------
+Monster:    | Mummy
+HP:         | 80
+Attack Avg: | 30-60
+Attack Eff. | Sleep
+EXP:        | 300
+Gold:       | 300
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Castle of Ordeals, Titan's Tunnel
+-----------------------------------------------------------------------------
+
+------- [ N ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Naga
+HP:         | 356
+Attack Avg: | 9-18
+Attack Eff. | Poison
+EXP:        | 2355
+Gold:       | 2355
+Class:      | Magic/Water
+Weaknesses: | Lit
+Attacks:    | Lit2, Hold, Lit, Lock, Slep, Dark
+Strong vs.: | Qake, Fire
+Location:   | Sea Shrine, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Naocho
+HP:         | 344
+Attack Avg: | 35-70
+Attack Eff. | Poison
+EXP:        | 3189
+Gold:       | 500
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map near Caravan
+-----------------------------------------------------------------------------
+Monster:    | Nightmare
+HP:         | 200
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 1272
+Gold:       | 700
+Class:      | NA
+Weaknesses: | Ice
+Attacks:    | Snorting(Dark)
+Strong vs.: | Qake, Fire, Rub, Bane, Stun, Slep
+Location:   | Waterfall
+-----------------------------------------------------------------------------
+
+------- [ O ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Ocho
+HP:         | 208
+Attack Avg: | 20-40
+Attack Eff. | Poison
+EXP:        | 1224
+Gold:       | 102
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Rivers
+-----------------------------------------------------------------------------
+Monster:    | Odd Eye
+HP:         | 10
+Attack Avg: | NA
+Attack Eff. | 4-8
+EXP:        | 42
+Gold:       | 10
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | Stun
+Strong vs.: | Qake, Fire
+Location:   | Waters
+-----------------------------------------------------------------------------
+Monster:    | Ogre
+HP:         | 100
+Attack Avg: | 18-36
+Attack Eff. | NA
+EXP:        | 195
+Gold:       | 195
+Class:      | Giant
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map, early part of game.
+-----------------------------------------------------------------------------
+Monster:    | Ooze
+HP:         | 76
+Attack Avg: | 32-64
+Attack Eff. | NA
+EXP:        | 252
+Gold:       | 70
+Class:      | NA
+Weaknesses: | Ice, Fire
+Attacks:    | NA
+Strong vs.: | Qake, Lit, Rub, Bane, Brak, Stun, Slep
+Location:   | Ice Cave, Titan's Tunnel
+-----------------------------------------------------------------------------
+
+------- [ P ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Pede
+HP:         | 222
+Attack Avg: | 38-78
+Attack Eff. | Poison
+EXP:        | 1194
+Gold:       | 300
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Perilisk
+HP:         | 44
+Attack Avg: | 20-40
+Attack Eff. | NA
+EXP:        | 423
+Gold:       | 500
+Class:      | NA
+Weaknesses: | Ice
+Attacks:    | Squint(Rub)
+Strong vs.: | Qake
+Location:   | Gurgu Volcano, Ice Cave, Castle of Ordeals
+-----------------------------------------------------------------------------
+Monster:    | Phantom
+HP:         | 360
+Attack Avg: | 120-240
+Attack Eff. | Stun
+EXP:        | 1
+Gold:       | 1
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | Stop, Zap1, XFer, Brak, Rub, Hold, Lamp, Slow
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Slep
+Location:   | Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Pirates
+HP:         | 6
+Attack Avg: | 8-16
+Attack Eff. | NA
+EXP:        | 40
+Gold:       | 40
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Pravoka
+-----------------------------------------------------------------------------
+
+------- [ R ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Red Ankylo
+HP:         | 256
+Attack Avg: | 60-120
+Attack Eff. | NA
+EXP:        | 1428
+Gold:       | 300
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map near Mirage Tower
+-----------------------------------------------------------------------------
+Monster:    | Red Bone
+HP:         | 144
+Attack Avg: | 26-52
+Attack Eff. | NA
+EXP:        | 378
+Gold:       | 378
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Red Caribe
+HP:         | 172
+Attack Avg: | 37-74
+Attack Eff. | NA
+EXP:        | 546
+Gold:       | 46
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map near Caravan
+-----------------------------------------------------------------------------
+Monster:    | Red Giant
+HP:         | 300
+Attack Avg: | 73-146
+Attack Eff. | NA
+EXP:        | 1506
+Gold:       | 1506
+Class:      | Giant
+Weaknesses: | Ice
+Attacks:    | NA
+Strong vs.: | Fire
+Location:   | Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Red Gargoyle
+HP:         | 94
+Attack Avg: | 10-20
+Attack Eff. | NA
+EXP:        | 387
+Gold:       | 387
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | Fir2, Hold, Fire
+Strong vs.: | Qake, Ice, Fire
+Location:   | Castle of Ordeal, Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Red Hydra
+HP:         | 182
+Attack Avg: | 20-40
+Attack Eff. | NA
+EXP:        | 1215
+Gold:       | 400
+Class:      | Dragon
+Weaknesses: | Ice
+Attacks:    | Cremate
+Strong vs.: | Fire
+Location:   | Rivers, Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Red Sahag
+HP:         | 64
+Attack Avg: | 15-30
+Attack Eff. | NA
+EXP:        | 105
+Gold:       | 105
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Waters
+-----------------------------------------------------------------------------
+Monster:    | Rock Gol
+HP:         | 200
+Attack Avg: | 70-140
+Attack Eff. | NA
+EXP:        | 2385
+Gold:       | 1000
+Class:      | Magic
+Weaknesses: | NA
+Attacks:    | Slow
+Strong vs.: | Qake, Lit, Ice, Fir, Rub, Bane, Brak, Stun, Slep
+Location:   | Sea Shrine, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+
+------- [ S ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Saber Tooth Tiger
+HP:         | 200
+Attack Avg: | 24-46
+Attack Eff. | NA
+EXP:        | 843
+Gold:       | 500
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Mirage Tower
+-----------------------------------------------------------------------------
+Monster:    | Sahag
+HP:         | 28
+Attack Avg: | 10-20
+Attack Eff. | NA
+EXP:        | 30
+Gold:       | 30
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Waters
+-----------------------------------------------------------------------------
+Monster:    | Sand Worm
+HP:         | 200
+Attack Avg: | 46-92
+Attack Eff. | NA
+EXP:        | 2683
+Gold:       | 900
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | Qake
+Strong vs.: | Qake
+Location:   | Castle of Ordeals, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Sauria
+HP:         | 196
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 1977
+Gold:       | 658
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | Glance(stone)
+Strong vs.: | NA
+Location:   | Castle of Ordeals
+-----------------------------------------------------------------------------
+Monster:    | Scorpion
+HP:         | 84
+Attack Avg: | 22-44
+Attack Eff. | Poison
+EXP:        | 225
+Gold:       | 70
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Elfland World Map
+-----------------------------------------------------------------------------
+Monster:    | Scum
+HP:         | 24
+Attack Avg: | 1-2
+Attack Eff. | Poison
+EXP:        | 84
+Gold:       | 20
+Class:      | NA
+Weaknesses: | Ice, Fire
+Attacks:    | NA
+Strong vs.: | Qake, Lit, Rub, Bane, Brak, Stun, Slep
+Location:   | Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Sea Snake
+HP:         | 224
+Attack Avg: | 35-70
+Attack Eff. | NA
+EXP:        | 957
+Gold:       | 600
+Class:      | Water/Dragon
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Sea Shrine
+-----------------------------------------------------------------------------
+Monster:    | Sea Troll
+HP:         | 216
+Attack Avg: | 40-80
+Attack Eff. | NA
+EXP:        | 852
+Gold:       | 852
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Sea Shrine, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Sentry
+HP:         | 400
+Attack Avg: | 102-204
+Attack Eff. | NA
+EXP:        | 4000
+Gold:       | 2000
+Class:      | NA
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Fire, Rub, Bane, Brak, Stun, Slep
+Location:   | Sky Castle
+-----------------------------------------------------------------------------
+Monster:    | Shadow
+HP:         | 50
+Attack Avg: | 10-20
+Attack Eff. | Dark
+EXP:        | 90
+Gold:       | 45
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Slep
+Location:   | Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Shark
+HP:         | 120
+Attack Avg: | NA
+Attack Eff. | 22-24
+EXP:        | 267
+Gold:       | 66
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Qake, Fire
+Location:   | Waters
+-----------------------------------------------------------------------------
+Monster:    | Slime
+HP:         | 156
+Attack Avg: | 49-98
+Attack Eff. | Poison
+EXP:        | 1101
+Gold:       | 900
+Class:      | NA
+Weaknesses: | Fire
+Attacks:    | NA
+Strong vs.: | Qake, Lit, Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Sky Castle
+-----------------------------------------------------------------------------
+Monster:    | Sorcerer
+HP:         | 112
+Attack Avg: | 1-2
+Attack Eff. | Rub
+EXP:        | 822
+Gold:       | 999
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | (stun)
+Strong vs.: | NA
+Location:   | Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Specter
+HP:         | 52
+Attack Avg: | 20-40
+Attack Eff. | Stun
+EXP:        | 150
+Gold:       | 150
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Rub, Bane, Brak, Stun, Slep
+Location:   | Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Sphinx
+HP:         | 228
+Attack Avg: | 23-46
+Attack Eff. | NA
+EXP:        | 1160
+Gold:       | 1160
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Castle of Ordeals
+-----------------------------------------------------------------------------
+Monster:    | Spider
+HP:         | 28
+Attack Avg: | 10-20
+Attack Eff. | NA
+EXP:        | 30
+Gold:       | 8
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Temple of Fiends(Present)
+-----------------------------------------------------------------------------
+
+------- [ T ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Tiger
+HP:         | 132
+Attack Avg: | 22-44
+Attack Eff. | NA
+EXP:        | 438
+Gold:       | 108
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Castle of Ordeals
+-----------------------------------------------------------------------------
+Monster:    | T Rex
+HP:         | 600
+Attack Avg: | 115-230
+Attack Eff. | NA
+EXP:        | 7200
+Gold:       | 600
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map near Mirage Tower
+-----------------------------------------------------------------------------
+Monster:    | Troll
+HP:         | 184
+Attack Avg: | 24-48
+Attack Eff. | NA
+EXP:        | 621
+Gold:       | 621
+Class:      | NA
+Weaknesses: | Fire
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Earth's Cave, Titan's Tunnel, Gurgu Volcano
+-----------------------------------------------------------------------------
+Monster:    | Tyro
+HP:         | 480
+Attack Avg: | 65-130
+Attack Eff. | NA
+EXP:        | 3387
+Gold:       | 502
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | World Map near Mirage Tower
+-----------------------------------------------------------------------------
+
+------- [ V ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Vampire
+HP:         | 156
+Attack Avg: | 76-152
+Attack Eff. | NA
+EXP:        | 1200
+Gold:       | 2000
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | Dazzle(causes Stun)
+Strong vs.: | Qake, Ice, Rub, Bane, Brak, Slep, Stun
+Location:   | Gurgu Volcano, Temple of Fiends(past), Earth Cave
+-----------------------------------------------------------------------------
+
+------- [ W ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Warmech
+HP:         | 1000
+Attack Avg: | 128-256
+Attack Eff. | NA
+EXP:        | 32000
+Gold:       | 32000
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | Nuclear
+Strong vs.: | NA
+Location:   | Longer vertical Tower before Tiamat(1-64 chance of battle)
+-----------------------------------------------------------------------------
+Monster:    | Water
+HP:         | 300
+Attack Avg: | 69-138
+Attack Eff. | NA
+EXP:        | 1962
+Gold:       | 800
+Class:      | NA
+Weaknesses: | Ice
+Attacks:    | NA
+Strong vs.: | Qake, Fire, Rub, Bane, Brak, Stun, Slep
+Location:   | Temple of Fiends(Past), Sea Shrine
+-----------------------------------------------------------------------------
+Monster:    | Wizard
+HP:         | 84
+Attack Avg: | 30-60
+Attack Eff. | NA
+EXP:        | 276
+Gold:       | 300
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | Ice, Fire, Bane, Brak, Stun, Slep
+Location:   | Earth Cave, Marsh Cave
+-----------------------------------------------------------------------------
+Monster:    | Wizard Ogre
+HP:         | 144
+Attack Avg: | 23-46
+Attack Eff. | NA
+EXP:        | 723
+Gold:       | 723
+Class:      | Giant/Magic
+Weaknesses: | NA
+Attacks:    | Ruse, Dark, Slep, Hold, Ice
+Strong vs.: | Qake
+Location:   | Gurgu Volcano, Temple of Fiends(Past), Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Wizard Sahag
+HP:         | 204
+Attack Avg: | 47-94
+Attack Eff. | NA
+EXP:        | 882
+Gold:       | 882
+Class:      | Water
+Weaknesses: | Lit
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Sea Shrine, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Wizard Vampire
+HP:         | 300
+Attack Avg: | 90-180
+Attack Eff. | Stun
+EXP:        | 2385
+Gold:       | 3000
+Class:      | Undead/Magic
+Weaknesses: | Fire, Harm
+Attacks:    | Afir, Lamp, Ice2, Lit2, Fir2
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Brak, Slep
+Location:   | Sky Castle, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Wolf
+HP:         | 20
+Attack Avg: | 8-16
+Attack Eff. | NA
+EXP:        | 24
+Gold:       | 6
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | NA
+Location:   | Temple of Fiends(Present)
+-----------------------------------------------------------------------------
+Monster:    | Worm
+HP:         | 448
+Attack Avg: | 65-130
+Attack Eff. | NA
+EXP:        | 4344
+Gold:       | 1000
+Class:      | NA
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Monster:    | Wraith
+HP:         | 114
+Attack Avg: | 40-80
+Attack Eff. | Stun
+EXP:        | 432
+Gold:       | 432
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Slep
+Location:   | Ice Cave
+-----------------------------------------------------------------------------
+Monster:    | Wyrm
+HP:         | 260
+Attack Avg: | 40-80
+Attack Eff. | NA
+EXP:        | 1218
+Gold:       | 502
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | Temple of Fiends(past), Castle of Ordeals
+-----------------------------------------------------------------------------
+Monster:    | Wyvern
+HP:         | 212
+Attack Avg: | 30-60
+Attack Eff. | Poison
+EXP:        | 1173
+Gold:       | 50
+Class:      | Dragon
+Weaknesses: | NA
+Attacks:    | NA
+Strong vs.: | Qake
+Location:   | World Map near Caravan
+-----------------------------------------------------------------------------
+
+------- [ Z ] -------
+
+-----------------------------------------------------------------------------
+Monster:    | Zombie
+HP:         | 20
+Attack Avg: | 10-20
+Attack Eff. | NA
+EXP:        | 24
+Gold:       | 12
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Qake, Ice, Rub, Bane, Stun, Slep
+Location:   | Temple of Fiends(Present)
+-----------------------------------------------------------------------------
+Monster:    | Zombull
+HP:         | 224
+Attack Avg: | 40-80
+Attack Eff. | NA
+EXP:        | 1050
+Gold:       | 1050
+Class:      | Undead
+Weaknesses: | Fire, Harm
+Attacks:    | NA
+Strong vs.: | Ice, Brak, Bane, Stun, Slep, Rub
+Location:   | World Map near Mirage Tower, Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+
+=============================================================================
+--------------------------- [ Weapons and Armors ] --------------------------
+=============================================================================
+
+------- [ Weapons ] -------
+
+-----------------------------------------------------------------------------
+Weapon:   | Bane Sword
+Cost:     | NA
+Sell:     | 30000
+Damage:   | 22
+Hit%:     | 20
+Who:      | Knight, Ninja, Red Wizard
+Location: | Floating Castle
+-----------------------------------------------------------------------------
+Weapon:   | Cat Claw
+Cost:     | 65000
+Sell:     | 32500
+Damage:   | 22
+Hit%:     | 35
+Who:      | Knight, Ninja, Red Wizard, Black Wizard
+Location: | Gaia Town
+-----------------------------------------------------------------------------
+Weapon:   | Coral Sword
+Cost:     | NA
+Sell:     | 4000
+Damage:   | 19
+Hit%:     | 15
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Earth Cave
+-----------------------------------------------------------------------------
+Weapon:   | Defense
+Cost:     | NA
+Sell:     | 20000
+Damage:   | 30
+Hit%:     | 35
+Who:      | Knight, Ninja, Red Wizard
+Location: | Casts the spell of RUSE when used as item during battle.
+-----------------------------------------------------------------------------
+Weapon:   | Dragon Sword
+Cost:     | NA
+Sell:     | 4000
+Damage:   | 19
+Hit%:     | 15
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Dwarf Cave
+-----------------------------------------------------------------------------
+Weapon:   | Falchion
+Cost:     | 450
+Sell:     | 225
+Damage:   | 15
+Hit%:     | 10
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Northwest Castle
+-----------------------------------------------------------------------------
+Weapon:   | Flame Sword
+Cost:     | NA
+Sell:     | 5000
+Damage:   | 26
+Hit%:     | 20
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Ice Cave
+Comment:  | Particulary effective against Ice monsters.
+-----------------------------------------------------------------------------
+Weapon:   | Giant Sword
+Cost:     | NA
+Sell:     | 4000
+Damage:   | 21
+Hit%:     | 20
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Gurgu Volcano
+Comment:  | Particulary effective against monsters in the Giant category.
+-----------------------------------------------------------------------------
+Weapon:   | Great Axe
+Cost:     | NA
+Sell:     | 1000
+Damage:   | 22
+Hit%:     | 5
+Who:      | Fighter, Knight, Ninja
+Location: | Titan's Tunnel
+-----------------------------------------------------------------------------
+Weapon:   | Hand Axe
+Cost:     | 550
+Sell:     | 275
+Damage:   | 16
+Hit%:     | 5
+Who:      | Fighter, Knight, Ninja
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Weapon:   | Head Staff
+Cost:     | NA
+Sell:     | 12500
+Damage:   | 0
+Hit%:     | 0
+Who:      | Ninja, White Mage, White Wizard
+Location: | Castle of Ordeal
+-----------------------------------------------------------------------------
+Weapon:   | Ice Sword
+Cost:     | NA
+Sell:     | 7500
+Damage:   | 29
+Hit%:     | 25
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Gurgu Volcano
+Comment:  | Particulary effective against Fire monsters.
+-----------------------------------------------------------------------------
+Weapon:   | Iron Hammer
+Cost:     | 10
+Sell:     | 5
+Damage:   | 9
+Hit%:     | 0
+Who:      | Fighter, Knight, Ninja, White Mage, White Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Weapon:   | Iron Nunchuk
+Cost:     | 200
+Sell:     | 100
+Damage:   | 16
+Hit%:     | 0
+Who:      | Ninja, Black Belt, Master
+Location: | Elfland
+-----------------------------------------------------------------------------
+Weapon:   | Iron Staff
+Cost:     | 200
+Sell:     | 100
+Damage:   | 14
+Hit%:     | 0
+Who:      | Fighter, Knight, Ninja, Black Belt, Master
+Location: | Elfland
+-----------------------------------------------------------------------------
+Weapon:   | Katana
+Cost:     | NA
+Sell:     | 30000
+Damage:   | 33
+Hit%:     | 35
+Who:      | Ninja
+Location: | Floating Castle
+-----------------------------------------------------------------------------
+Weapon:   | Large Daggar
+Cost:     | 175
+Sell:     | 87
+Damage:   | 7
+Hit%:     | 10
+Who:      | Fighter. Knight, Theif, Ninja, Red Mage, Red Wizard, Black Mage,
+          | Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Weapon:   | Light Axe
+Cost:     | NA
+Sell:     | 5000
+Damage:   | 28
+Hit%:     | 15
+Who:      | Fighter, Knight, Ninja
+Location: | Sea Shrine
+Comment:  | Casts the spell of HRM2 during battle, if used as item.
+-----------------------------------------------------------------------------
+Weapon:   | Long Sword
+Cost:     | 1500
+Sell:     | 750
+Damage:   | 20
+Hit%:     | 10
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Weapon:   | Mage Staff
+Cost:     | NA
+Sell:     | 12500
+Damage:   | 12
+Hit%:     | 10
+Who:      | Ninja, Black Mage, Black Wizard
+Location: | Sea Shrine
+Comment:  | Casts the spell of FIR2 when used as an item in battle.
+-----------------------------------------------------------------------------
+Weapon:   | Masamune
+Cost:     | NA
+Sell:     | 30000
+Damage:   | 56
+Hit%:     | 50
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard, White Mage, White Wizard, Black Mage, Black Wizard
+Location: | Temple of Fiends(Past)
+-----------------------------------------------------------------------------
+Weapon:   | Power Staff
+Cost:     | NA
+Sell:     | 12345
+Damage:   | 12
+Hit%:     | 0
+Who:      | Fighter, Knight, Ninja, Black Belt, Master, White Mage, White
+          | Wizard, Black Mage, Black Wizard
+Location: | Northwest Castle
+-----------------------------------------------------------------------------
+Weapon:   | Rapier
+Cost:     | 10
+Sell:     | 5
+Damage:   | 9
+Hit%:     | 5
+Who:      | Fighter, Knight, Ninja, Theif, Red Mage, Red Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Weapon:   | Rune Sword
+Cost:     | NA
+Sell:     | 2500
+Damage:   | 18
+Hit%:     | 15
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Temple of Fiends(Present)
+Comment:  | Effective against magic users.
+-----------------------------------------------------------------------------
+Weapon:   | Sabre
+Cost:     | 450
+Sell:     | 225
+Damage:   | 13
+Hit%:     | 5
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Weapon:   | Scimitar
+Cost:     | 200
+Sell:     | 100
+Damage:   | 10
+Hit%:     | 10
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Weapon:   | Short Sword
+Cost:     | 550
+Sell:     | 275
+Damage:   | 15
+Hit%:     | 10
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Weapon:   | Silver Axe
+Cost:     | 4500
+Sell:     | 2250
+Damage:   | 25
+Hit%:     | 10
+Who:      | Fighter, Knight, Ninja
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Weapon:   | Silver Hammer
+Cost:     | 2500
+Sell:     | 1250
+Damage:   | 12
+Hit%:     | 5
+Who:      | Fighter, Knight, Ninja, White Mage, White Wizard
+Location: | Castle of Elf
+-----------------------------------------------------------------------------
+Weapon:   | Silver Knife
+Cost:     | 800
+Sell:     | 400
+Damage:   | 10
+Hit%:     | 05
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard, Black Mage,
+          | Black Wizard
+Location: | Marsh Cave
+-----------------------------------------------------------------------------
+Weapon:   | Silver Sword
+Cost:     | 4000
+Sell:     | 2000
+Damage:   | 23
+Hit%:     | 15
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Weapon:   | Small Dagger
+Cost:     | 5
+Sell:     | 2
+Damage:   | 5
+Hit%:     | 10
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard, White Mage,
+          | White Wizard, Black Mage, Black Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Weapon:   | Sun Sword
+Cost:     | NA
+Sell:     | 10000
+Damage:   | 32
+Hit%:     | 30
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Mirage Tower
+Comment:  | Particulary effective against Undead monsters.
+-----------------------------------------------------------------------------
+Weapon:   | Thor's Hammer
+Cost:     | NA
+Sell:     | 20000
+Damage:   | 18
+Hit%:     | 15
+Who:      | Knight, Ninja, White Wizard
+Location: | Mirage Tower
+Comment:  | Casts the spell of LIT2 when used as an item in battle.
+-----------------------------------------------------------------------------
+Weapon:   | Vorpal
+Cost:     | NA
+Sell:     | 15000
+Damage:   | 24
+Hit%:     | 25
+Who:      | Knight, Ninja, Red Wizard
+Location: | Mirage Tower
+-----------------------------------------------------------------------------
+Weapon:   | Were Sword
+Cost:     | NA
+Sell:     | 3000
+Damage:   | 18
+Hit%:     | 15
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Temple of Fiends(Present)
+Comment:  | Effective against monsters in the WERE category.
+-----------------------------------------------------------------------------
+Weapon:   | Wizard Staff
+Cost:     | NA
+Sell:     | 25000
+Damage:   | 15
+Hit%:     | 15
+Who:      | Black Wizard
+Location: | Waterfall
+Comment:  | Casts the spell of CONF when used as item during battle.
+-----------------------------------------------------------------------------
+Weapon:   | Wooden Nunchuck
+Cost:     | 10
+Sell:     | 5
+Damage:   | 12
+Hit%:     | 0
+Who:      | Ninja, Black Belt, Master
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Weapon:   | Wooden Staff
+Cost:     | 5
+Sell:     | 2
+Damage:   | 6
+Hit%:     | 0
+Who:      | Fighter, Knight, Ninja, Black Mage, Blackbelt, Master, Black
+          | Wizard, Red Wizard, Red Mage
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Weapon:   | XCalibur
+Cost:     | NA
+Sell:     | 30000
+Damage:   | 45
+Hit%:     | 35
+Who:      | Knight
+Location: | Give Dwarf ADAMANT in Dwarf Cave.
+-----------------------------------------------------------------------------
+
+------- [ Armors ] -------
+
+-----------------------------------------------------------------------------
+Armor:    | Aegis Shield
+Cost:     | NA
+Sell:     | 20000
+Absorb:   | 16
+Evade%:   | 0
+Who:      | Knight
+Location: | Mirage Tower
+Comment:  | Protects against Glance, Dark, Brak, and Rub.
+-----------------------------------------------------------------------------
+Armor:    | Black Shirt
+Cost:     | NA
+Sell:     | 1
+Absorb:   | 24
+Evade%:   | 2
+Who:      | Black Wizard
+Location: | Floating Castle
+Comment:  | Casts the spell of Ice2 when used in battle.
+-----------------------------------------------------------------------------
+Armor:    | Buckler
+Cost:     | 2500
+Sell:     | 1250
+Absorb:   | 2
+Evade%:   | 0
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Armor:    | Cap
+Cost:     | 80
+Sell:     | 40
+Absorb:   | 8
+Evade%:   | 2
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard, White Mage,
+          | White Wizard, Black Mage, Black Wizard
+Location: | Temple of Fiends(Present)
+-----------------------------------------------------------------------------
+Armor:    | Chain Armor
+Cost:     | 80
+Sell:     | 40
+Absorb:   | 15
+Evade%:   | 15
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Armor:    | Cloth
+Cost:     | 10
+Sell:     | 5
+Absorb:   | 1
+Evade%:   | 2
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Armor:    | Copper Bracelet
+Cost:     | 1000
+Sell:     | 500
+Absorb:   | 4
+Evade%:   | 1
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard, White MAge, White Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Armor:    | Copper Guantlet
+Cost:     | 200
+Sell:     | 100
+Absorb:   | 2
+Evade%:   | 3
+Who:      | Fighter, Knight, Ninja
+Location: | Castle of Elf
+-----------------------------------------------------------------------------
+Armor:    | Flame Armor
+Cost:     | NA
+Sell:     | 1500
+Absorb:   | 34
+Evade%:   | 10
+Who:      | Fighter, Knight, Ninja
+Location: | Gurgu Volcano
+Comment:  | Particulary effective against Ice attacks.
+-----------------------------------------------------------------------------
+Armor:    | Flame Shield
+Cost:     | NA
+Sell:     | 5000
+Absorb:   | 12
+Evade%:   | 0
+Who:      | Fighter, Knight, Ninja
+Location: | Particulary effective against Ice attacks.
+-----------------------------------------------------------------------------
+Armor:    | Gloves
+Cost:     | 60
+Sell:     | 30
+Absorb:   | 1
+Evade%:   | 1
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard, White Mage, White Wizard, Black Mage, Black Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Armor:    | Gold Bracelet
+Cost:     | 50000
+Sell:     | 25000
+Absorb:   | 34
+Evade%:   | 1
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard, White Mage, White Wizard, Black Mage, Black Wizard
+Location: | Castle of Ordeal
+-----------------------------------------------------------------------------
+Armor:    | Heal Helmet
+Cost:     | NA
+Sell:     | 10000
+Absorb:   | 6
+Evade%:   | 3
+Who:      | Knight, Ninja
+Location: | Mirage Tower
+Comment:  | Restores some lost HP to warriors when used in battle.
+-----------------------------------------------------------------------------
+Armor:    | Ice Armor
+Cost:     | NA
+Sell:     | 15000
+Absorb:   | 34
+Evade%:   | 10
+Who:      | Fighter, Knight, Ninja
+Location: | Ice Cave
+Comment:  | Particulary effective against Fire attacks.
+-----------------------------------------------------------------------------
+Armor:    | Ice Shield
+Cost:     | NA
+Sell:     | 5000
+Absorb:   | 12
+Evade%:   | 0
+Who:      | Fighter, Knight, Ninja
+Location: | Particulary effective against Fire attacks.
+-----------------------------------------------------------------------------
+Armor:    | Iron Armor
+Cost:     | 800
+Sell:     | 400
+Absorb:   | 24
+Evade%:   | 23
+Who:      | Fighter, Knight, Ninja
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Armor:    | Iron Guantlet
+Cost:     | 750
+Sell:     | 375
+Absorb:   | 4
+Evade%:   | 5
+Who:      | Fighter, Knight, Ninja
+Location: | Northwest Castle
+-----------------------------------------------------------------------------
+Armor:    | Iron Helmet
+Cost:     | 450
+Sell:     | 225
+Absorb:   | 5
+Evade%:   | 5
+Who:      | Fighter, Knight, Ninja
+Location: | Dwarf Cave
+-----------------------------------------------------------------------------
+Armor:    | Iron Shield
+Cost:     | 100
+Sell:     | 50
+Absorb:   | 4
+Evade%:   | 0
+Who:      | Fighter, Knight, Ninja
+Location: | Elfland
+-----------------------------------------------------------------------------
+Armor:    | Opal Armor
+Cost:     | NA
+Sell:     | 30000
+Absorb:   | 42
+Evade%:   | 10
+Who:      | Knight
+Location: | Sea Shrine
+-----------------------------------------------------------------------------
+Armor:    | Opal Guantlet
+Cost:     | NA
+Sell:     | 10000
+Absorb:   | 8
+Evade%:   | 3
+Who:      | Knight
+Location: | Sea Shrine
+-----------------------------------------------------------------------------
+Armor:    | Opal Helmet
+Cost:     | NA
+Sell:     | 50000
+Absorb:   | 8
+Evade%:   | 3
+Who:      | Knight
+Location: | Sea Shrine
+-----------------------------------------------------------------------------
+Armor:    | Opal Sheild
+Cost:     | NA
+Sell:     | 7500
+Absorb:   | 16
+Evade%:   | 0
+Who:      | Knight
+Location: | Sea Shrine
+-----------------------------------------------------------------------------
+Armor:    | Power Guantlet
+Cost:     | NA
+Sell:     | 5000
+Absorb:   | 6
+Evade%:   | 3
+Who:      | Fighter, Knight, Ninja, Red Mage
+Location: | Sea Shrine
+Comment:  | Protects against the use of SABR.
+-----------------------------------------------------------------------------
+Armor:    | ProCape
+Cost:     | NA
+Sell:     | 10000
+Absorb:   | 8
+Evade%:   | 2
+Who:      | Fighter, Knight, Theif, Ninja, Red Mage, Red Wizard, White Mage,
+          | White Wizard, Black Mage, Black Wizard
+Location: |
+-----------------------------------------------------------------------------
+Armor:    | ProRing
+Cost:     | 20000
+Sell:     | 10000
+Absorb:   | 8
+Evade%:   | 1
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard, White Mage, White Wizard, Black Mage, Black Wizard
+Location: | Gaia Town
+Comment:  | Blocks effects of the RUB spell when used in battle.
+-----------------------------------------------------------------------------
+Armor:    | Ribbon
+Cost:     | NA
+Sell:     | 1
+Absorb:   | 1
+Evade%:   | 1
+Who:      | Fighter, Knight, Theif, Black Belt, Ninja, Master, Red Mage,
+          | Red Wizard, White Mage, White Wizard, Black Mage, Black Wizard
+Location: | Waterfall, Sea Shrine, Floating Castle
+Comment:  | Protects against special attacks when used in battle.
+-----------------------------------------------------------------------------
+Armor:    | Silver Armor
+Cost:     | 7500
+Sell:     | 3750
+Absorb:   | 18
+Evade%:   | 8
+Who:      | Fighter, Knight, Ninja, Red Mage, Red Wizard
+Location: | Dwarf Cave
+-----------------------------------------------------------------------------
+Armor:    | Silver Bracelet
+Cost:     | 5000
+Sell:     | 2500
+Absorb:   | 15
+Evade%:   | 1
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard, White Mage, White Wizard, Black Mage, Black Wizard
+Location: | Marsh Cave
+-----------------------------------------------------------------------------
+Armor:    | Silver Guantlet
+Cost:     | 2500
+Sell:     | 1250
+Absorb:   | 6
+Evade%:   | 3
+Who:      | Fighter, Knight, Ninja, Red Mage
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Armor:    | Silver Helmet
+Cost:     | 250
+Sell:     | 125
+Absorb:   | 8
+Evade%:   | 3
+Who:      | Fighter, Knight, Ninja
+Location: | Titan's Tunnel
+-----------------------------------------------------------------------------
+Armor:    | Silver Shield
+Cost:     | 2500
+Sell:     | 1250
+Absorb:   | 8
+Evade%:   | 0
+Who:      | Fighter, Knight, Ninja
+Location: | Earth Cave
+-----------------------------------------------------------------------------
+Armor:    | Steel Armor
+Cost:     | 45000
+Sell:     | 22500
+Absorb:   | 34
+Evade%:   | 33
+Who:      | Fighter, Knight
+Location: | Melmond
+-----------------------------------------------------------------------------
+Armor:    | White Shirt
+Cost:     | NA
+Sell:     | 1
+Absorb:   | 24
+Evade%:   | 2
+Who:      | White Wizard
+Location: | Floating Castle
+Comment:  | Casts the spell of INV2 when used in battle.
+-----------------------------------------------------------------------------
+Armor:    | Wooden Armor
+Cost:     | 50
+Sell:     | 25
+Absorb:   | 4
+Evade%:   | 8
+Who:      | Fighter, Knight, Theif, Ninja, Black Belt, Master, Red Mage,
+          | Red Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Armor:    | Wooden Helmet
+Cost:     | 100
+Sell:     | 50
+Absorb:   | 3
+Evade%:   | 3
+Who:      | Fighter, Knight, Ninja
+Location: | Elfland
+-----------------------------------------------------------------------------
+Armor:    | Wooden Shield
+Cost:     | 15
+Sell:     | 7
+Absorb:   | 2
+Evade%:   | 0
+Who:      | Fighter, Knight, Ninja
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Armor:    | Zeus Guantlet
+Cost:     | NA
+Sell:     | 7500
+Absorb:   | 6
+Evade%:   | 3
+Who:      | Fighter, Knight, Red Mage
+Location: | Castle of Ordeal
+Comment:  | Helps protect against attacks by lightning.
+-----------------------------------------------------------------------------
+
+=============================================================================
+----------------------------- [ Magic Listings ] ----------------------------
+=============================================================================
+
+------- [ Black Magic ] -------
+
+---- [ Level 1 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Fire
+Cost:     | 100
+Comment:  | A ball of fire inflicts between 10 and 40 HP of damage to an
+          | enemy.
+Affect:   | One Enemy
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Spell:    | Lit
+Cost:     | 100
+Comment:  | A bolt of lightning inflicts between 10 and 40 HP of damage on
+          | an enemy.
+Affect:   | One enemy
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Spell:    | Lock
+Cost:     | 100
+Comment:  | Keeps your attack "Locked on target." Your hit % increases by 10.
+Affect:   | One opponent
+User:     | Ninja, Black Mage, Black Wizard, Red Mage, Red Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Spell:    | Slep
+Cost:     | 100
+Comment:  | The spell puts all enemies to sleep so that they are vulnerable
+          | to attack.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+
+---- [ Level 2 ] ----
+
+
+-----------------------------------------------------------------------------
+Spell:    | Dark
+Cost:     | 400
+Comment:  | All the enemies are blinded, this reducing the effectiveness of
+          | their attacks.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Pravoka
+-----------------------------------------------------------------------------
+Spell:    | Ice
+Cost:     | 400
+Comment:  | A freezing wind blasts all the enemies, inflicting between 20 to
+          | 80 HP of damage to each.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Pravoka
+-----------------------------------------------------------------------------
+Spell:    | Slow
+Cost:     | 400
+Comment:  | All enemies lose intelligence and their attacks are less
+          | effective.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Pravoka
+-----------------------------------------------------------------------------
+Spell:    | Tmpr
+Cost:     | 400
+Comment:  | The strength of a warrior's weapon is increased by 14 points.
+Affect:   | One Ally
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Pravoka
+-----------------------------------------------------------------------------
+
+---- [ Level 3 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Fir2
+Cost:     | 1500
+Comment:  | The second fire spell inflicts between 30 to 120 damage points on
+          | each enemy.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Hold
+Cost:     | 1500
+Comment:  | Similar to slep, Hold can put one enemy into catatonic stupor.
+Affect:   | One opponent
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Lit2
+Cost:     | 1500
+Comment:  | The second lightning attack jolts all enemies, partifularly those
+          | in the Water category.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Lok2
+Cost:     | 1500
+Comment:  | Locks in your aim on all the enemies attacking, which increases
+          | your success.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+
+---- [ Level 4 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Conf
+Cost:     | 4000
+Comment:  | Confuses all enemies so much that they begin attacking each
+          | other.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Fast
+Cost:     | 4000
+Comment:  | Increases the number of hits per attack and counteracts Slow.
+Affect:   | One party member
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Ice2
+Cost:     | 4000
+Comment:  | A blizzard capable of 40 to 160 points of damage is hurled at
+          | all enemies.
+Affect:   | All opponents
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Slp2
+Cost:     | 4000
+Comment:  | The second and most powerful sleep spell is more effective than
+          | Slep.
+Affect:   | One opponent
+User:     | Ninja, Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+
+---- [ Level 5 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Bane
+Cost:     | 8000
+Comment:  | A poisonous cloud descends on all your enemies, utterly defeating
+          | many of them.
+Affect:   | All opponents
+User:     | Red Wizard, Black Mage, Black Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Spell:    | Fir3
+Cost:     | 8000
+Comment:  | The strongest fire spell causes damage of 50 to 200 points.
+Affect:   | All opponents
+User:     | Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Spell:    | Slo2
+Cost:     | 8000
+Comment:  | The most powerful Slow spell leaves the enemy mindless and
+          | ineffective.
+Affect:   | One opponent
+User:     | Red Mage, Red Wizard, Black Mage, Black Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Spell:    | Warp
+Cost:     | 8000
+Comment:  | The Light Warriors are magically transported to the previous
+          | level of a dungeon or cave.
+Affect:   | All party members
+User:     | Red Wizard, Black Mage, Black Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+
+---- [ Level 6 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Lit3
+Cost:     | 20000
+Comment:  | Strongest lightning spell damages all enemies from between 60 to
+          | 240 points.
+Affect:   | All opponents
+User:     | Black Mage, Black Wizard, Red Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Spell:    | Qake
+Cost:     | 20000
+Comment:  | Chasms open wide in the ground and swallow all the enemies whole.
+Affect:   | All opponents
+User:     | Black Mage, Black Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Spell:    | Rub
+Cost:     | 20000
+Comment:  | Erases an enemy completely, but does not work on Undead monsters.
+Affect:   | One opponent
+User:     | Black Mage, Black Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Spell:    | Stun
+Cost:     | 20000
+Comment:  | An enemy with up to 300 HP will be paralized, maing it an easy
+          | target.
+Affect:   | One opponent
+User:     | Black Mage, Black Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+
+---- [ Level 7 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Brak
+Cost:     | 45000
+Comment:  | Shatters an enemy into tiny pieces of monster kibble.
+Affect:   | One opponent
+User:     | Black Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+Spell:    | Blnd
+Cost:     | 45000
+Comment:  | Blinds an enemy so that it cannot see well enough to attack
+          | effectively.
+Affect:   | One opponent
+User:     | Black Mage, Black Wizard
+Location: | Onrac
+-----------------------------------------------------------------------------
+Spell:    | Ice3
+Cost:     | 45000
+Comment:  | Damages from the most powerful Ice attack range from 70 to 280
+          | points.
+Affect:   | All opponents
+User:     | Red Wizard, Black Mage, Black Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+Spell:    | Sabr
+Cost:     | 45000
+Comment:  | Strengthens your weapon resulting in a 40% increase in hits and
+          | 15% increase in damages.
+Affect:   | Self
+User:     | Black Wizard
+Location: | Onrac
+-----------------------------------------------------------------------------
+
+---- [ Level 8 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Nuke
+Cost:     | 60000
+Comment:  | Generates tremendous heat, like a Super Fire spell.
+Affect:   | All opponents
+User:     | Black Wizard
+Location: | Lefein
+-----------------------------------------------------------------------------
+Spell:    | Stop
+Cost:     | 60000
+Comment:  | Freeze time for the enemies so you can attack without
+          | retaliation.
+Affect:   | All opponents
+User:     | Black Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+Spell:    | XXXX
+Cost:     | 60000
+Comment:  | Similar to the Rub attack, an enemy is utterly destroyed.
+Affect:   | One opponent
+User:     | Black Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+Spell:    | Zap!
+Cost:     | 60000
+Comment:  | Zaps all enemies into an extra dimension from which they can't
+          | escape.
+Affect:   | All opponents
+User:     | Black Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+
+------- [ White Magic ] -------
+
+---- [ Level 1 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Cure
+Cost:     | 100
+Comment:  | Restores a warrior's Hit Points from between 10 to 30 points.
+Affect:   | One Warrior
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Spell:    | Fog
+Cost:     | 100
+Comment:  | A thick protective fog adds 8 points to a warrior's armor rating.
+Affect:   | One Warrior
+User:     | Knight, Red Mage, Red Warrior, White Mage, White Warrior
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+Spell:    | Harm
+Cost:     | 100
+Comment:  | Inflicts damage (20-80 Attack points) on each monster in the
+          | undead category.
+Affect:   | All enemies
+User:     | White Mage, White Wizard
+-----------------------------------------------------------------------------
+Spell:    | Ruse
+Cost:     | 100
+Comment:  | As in a hall of mirrors, the enemy sees the spell caster as
+          | multiple targets. Evade increases 40%.
+Affect:   | Self
+User:     | Knight, Red Wizard, White Mage, White Wizard
+Location: | Corneria Town
+-----------------------------------------------------------------------------
+
+---- [ Level 2 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Alit
+Cost:     | 400
+Comment:  | Damages inflicted by lightning are reduced from between 25 to
+          | 50%.
+Affect:   | All party members
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Spell:    | Invs
+Cost:     | 400
+Comment:  | A warrior becomes invisible and his ability to dodge attacks
+          | increases by 20%.
+Affect:   | One Party member
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Spell:    | Lamp
+Cost:     | 400
+Comment:  | Provides a light to a warrior in the dark. Conteracts an enemy's
+          | Dark spell.
+Affect:   | One party member
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+Spell:    | Mute
+Cost:     | 400
+Comment:  | All enemy magic users are unable to speak or cast their spells
+          | against you.
+Affect:   | All opponents
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Pravoka Town
+-----------------------------------------------------------------------------
+
+---- [ Level 3 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Afir
+Cost:     | 1500
+Comment:  | Reduces the damage to all Light Warriors from fire attacks by
+          | 25 to 50%.
+Affect:   | All party members
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Cur2
+Cost:     | 1500
+Comment:  | A warrior will recover rom between 32 to 64 points of lost HP.
+Affect:   | One party member
+User:     | Knight, Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Heal
+Cost:     | 1500
+Comment:  | The light warriors regain 12 to 24 points of HP each.
+Affect:   | All party members
+User:     | White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Hrm2
+Cost:     | 1500
+Comment:  | Inflicts between 40 to 160 damage points on all Undead enemies.
+Affect:   | All opponents
+User:     | White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+
+---- [ Level 4 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Aice
+Cost:     | 4000
+Comment:  | Helps protect all Warriors against icey attacks, reducing the
+          | effects by 25 to 50%.
+Affect:   | All opponents
+User:     | Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Amut
+Cost:     | 4000
+Comment:  | Counteracts the Mute spell of an enemy magic user, allowing you
+          | to use magic again.
+Affect:   | One party member
+User:     | Red Wizard, White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Fear
+Cost:     | 4000
+Comment:  | Causes fear and loathing in some enemies. They may flee in
+          | terror.
+Affect:   | All opponents
+User:     | White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+Spell:    | Pure
+Cost:     | 4000
+Comment:  | An antidote to poison. The magical equivalent of the Pure Potion.
+Affect:   | One party member
+User:     | Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Elfland
+-----------------------------------------------------------------------------
+
+---- [ Level 5 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Cure3
+Cost:     | 8000
+Comment:  | A warrior will recover between 64 to 128 points of loss HP.
+Affect:   | One party member
+User:     | Red Mage, Red Wizard, White Mage, White Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Spell:    | Hrm3
+Cost:     | 8000
+Comment:  | Inflict between 60 and 240 points of damage to all Undead
+          | monsters.
+Affect:   | All opponents
+User:     | White Mage, White Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Spell:    | Hel2
+Cost:     | 2000
+Comment:  | Revitalize each warrior with 24 to 48 points of regained HP.
+Affect:   | All party members
+User:     | White Mage, White Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+Spell:    | Life
+Cost:     | 8000
+Comment:  | Revives a dead warrior, but does not work during battle. HP only
+          | recovers by 1.
+Affect:   | One party member OUTSIDE of battle.
+User:     | Red Wizard, White Mage, White Wizard
+Location: | Melmond
+-----------------------------------------------------------------------------
+
+---- [ Level 6 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Exit
+Cost:     | 20000
+Comment:  | Transport all the warriors from the depths of any dungeon except
+          | during a battle.
+Affect:   | All opponents
+User:     | Red Wizard, White Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Spell:    | Fog2
+Cost:     | 20000
+Comment:  | All the warriors' defensive armor rating is increased by 12
+          | points.
+Affect:   | All party members
+User:     | Red Wizard, White Mage, White Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Spell:    | Invs2
+Cost:     | 20000
+Comment:  | Hidden from view, all the warriors are subject to a 40% decrease
+          | in the enemy attack.
+Affect:   | All party members
+User:     | Red Wizard, White Mage, White Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+Spell:    | Soft
+Cost:     | 20000
+Comment:  | A warrior who has been turned to stone will be restored to a
+          | normal state.
+Affect:   | One party member
+User:     | White Mage, White Wizard
+Location: | Cresent Lake
+-----------------------------------------------------------------------------
+
+---- [ Level 7 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Arub
+Cost:     | 45000
+Comment:  | Protects all Warriors against an enemies deadly Rub spell.
+Affect:   | All party members
+User:     | Red Wizard, White Mage, White Wizard
+Location: | Onrac
+-----------------------------------------------------------------------------
+Spell:    | Cur4
+Cost:     | 45000
+Comment:  | Most powerful of the cure spells, a warrior's HP will be fully
+          | recovered.
+Affect:   | One party member
+User:     | White Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+Spell:    | Hel3
+Cost:     | 45000
+Comment:  | The most powerful of the Heal spells recovers 48 to 96 HP for the
+          | entire party.
+Affect:   | All party members
+User:     | White Mage, White Wizard
+Location: | Onrac
+-----------------------------------------------------------------------------
+Spell:    | Hrm4
+Cost:     | 45000
+Comment:  | The most powerful Harm spell inflicts 80 to 320 HP on all Undead
+          | monsters.
+Affect:   | All opponents
+User:     | White Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+
+---- [ Level 8 ] ----
+
+-----------------------------------------------------------------------------
+Spell:    | Fade
+Cost:     | 60000
+Comment:  | Eradicates evil at the source.
+Affect:   | All opponents
+User:     | White Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+Spell:    | Lif2
+Cost:     | 60000
+Comment:  | Brings a warrior back to life with his HP fully restored.
+Affect:   | One party member
+User:     | White Wizard
+Location: | Lefein
+-----------------------------------------------------------------------------
+Spell:    | Wall
+Cost:     | 60000
+Comment:  | Erects a protective wall around a warrior that prevents the use
+          | of magic against him.
+Affect:   | One party member
+User:     | White Wizard
+Location: | Gaia
+-----------------------------------------------------------------------------
+
+=============================================================================
+----------------------------- [ Item Listing ] ------------------------------
+=============================================================================
+
+All items in the game can be found among various towns.
+
+-----------------------------------------------------------------------------
+Item:        | Cabin
+Cost:        | 250
+Description: | Use a cabin in the wilds to save your progress and recover
+             | much lost HP for all your Light Warriors.
+-----------------------------------------------------------------------------
+Item:        | Heal Potion
+Cost:        | 60
+Description: | Heal potion helps revive lost Hit Points(HP) up to 30 HP per
+             | dose.
+-----------------------------------------------------------------------------
+Item:        | House
+Cost:        | 3000
+Description: | Use the house when you're far away from civilization. It saves
+             | the game and recovers the party's HP and Magic.
+-----------------------------------------------------------------------------
+Item:        | Pure Potion
+Cost:        | 75
+Description: | Pure Potion cleanses poison from the body of an afflicted
+             | Light Warrior.
+-----------------------------------------------------------------------------
+Item:        | Soft Potion
+Cost:        | 800
+Description: | If turned to stone, a Light Warrior can become human again if
+             | he is given a dose of the Soft Potion.
+-----------------------------------------------------------------------------
+Item:        | Tent
+Cost:        | 75
+Description: | Save your progress in the game while away from an Inn by using
+             | the tent.
+-----------------------------------------------------------------------------
+
+=============================================================================
+--------------------------- [ Rare Item Listing ] ---------------------------
+=============================================================================
+
+-----------------------------------------------------------------------------
+Item:        | Adamant
+Where Found: | Floating Castle
+Description: | Adamant is an incredibly strong compound used to make XCalber
+             | by a Dwarfish Blachsmith.
+-----------------------------------------------------------------------------
+Item:        | Airship
+Where Found: | Use Floater on Ryukahn Desert.
+Description: | With the Airship, the Light Warriors expand their horizon once
+             | more. Now they can fly to the North or anywhere in the world
+             | in just a matter of seconds.
+-----------------------------------------------------------------------------
+Item:        | Bottle
+Where Found: | Caravan, desert west of Onrac.
+Description: | If the Fairy in the Bottle is released at the Fairy's Spring
+             | in Gaia, you will receive Oxyale for use in the Submarine.
+-----------------------------------------------------------------------------
+Item:        | Canoe
+Where Found: | After defeating Lich, talk with the 12 Sages of Cresent Lake.
+Description: | This will allow you to travel in the rivers.
+-----------------------------------------------------------------------------
+Item:        | Chime
+Where Found: | After you have learned Lefenish, talk to the man in Lefein in
+             | the bottom left part of town.
+Description: | Only rhe precise harmonic tones of the Chime will open the
+             | door to the Mirage Tower.
+-----------------------------------------------------------------------------
+Item:        | Crown
+Where Found: | In Marsh Cave, floor B3.
+Description: | Asto's Crown was stolen by Wizards. Return it to the Dark Elf.
+-----------------------------------------------------------------------------
+Item:        | Crystal
+Where Found: | Defeat Astos for the Crystal.
+Description: | The Crystal once belonged to Matoya and helped her vision.
+             | You'll need this item for the herb to wake the prince, which
+             | in turn will give you the key to get the TNT to continue.
+-----------------------------------------------------------------------------
+Item:        | Cube
+Where Found: | Waterfall
+Description: | The Cube is a sort of key that opens the way to the Fiend of
+             | Wind. Use it in the top floor of the Mirage Tower.
+-----------------------------------------------------------------------------
+Item:        | Floater
+Where Found: | Find inside the Ice Cave.
+Description: | The Floater is used to raise the Airship from the desert sands
+             | and allows it to fly.
+-----------------------------------------------------------------------------
+Item:        | Herb
+Where Found: | Obtain the Crystal back from Astos and give it to Matoya.
+Description: | Matoya's magical herb has the effect of counteracting the
+             | sleeping curse Astos put on the Prince.
+-----------------------------------------------------------------------------
+Item:        | Lute
+Where Found: | Defeat Garland
+Description: | Through all your adventures you'll carry the Lute. You'll use
+             | this towards the end of the game to break free of a seal that
+             | blocks your path in the Temple of Fiends 2000 years into the
+             | past. This item will be with you for a LONG while.
+-----------------------------------------------------------------------------
+Item:        | Mystic Key
+Where Found: | When you awake the Prince, he will give you the Key.
+Description: | The key will open any locked door, but you must awaken the
+             | Prince of Elfland to get it.
+-----------------------------------------------------------------------------
+Item:        | Oxyale
+Where Found: | Fairy's Spring in Gaia, buy Bottle from Caravan
+Description: | Available only from the Fairy's Spring in Gaia, and from the
+             | hands of the Fairy herself, Oxyale is used to provide fresh
+             | air in the submarine.
+-----------------------------------------------------------------------------
+Item:        | Rod
+Where Found: | Get the Ruby, feed it to the Titan and he'll move and let you
+             | pass to get to Sarda the Sage.
+Description: | The rod gives you the strength of a dozen men, enough to lift
+             | the heavy Stone Plate.
+-----------------------------------------------------------------------------
+Item:        | Ruby
+Where Found: | Earth Cave
+Description: | Rubies taste great and are less filling than regular gems.
+-----------------------------------------------------------------------------
+Item:        | Sailship
+Where Found: | Defeat Pirates in Pravoka
+Description: | The speedy pirate ship is your means of reaching the southern
+             | lands across the sea.
+-----------------------------------------------------------------------------
+Item:        | Slap
+Where Found: | Sea Shrine
+Description: | The Slab contains important translations from Lefeinish. Give
+             | it to Dr. Unne and he will teach you the language.
+-----------------------------------------------------------------------------
+Item:        | Tail
+Where Found: | Castle of Ordeals
+Description: | Optional, but if you wish to be promoted to a higher class,
+             | obtaining this item is neccessary. Hand it over to Bahamut in
+             | the Cardia Islands.
+-----------------------------------------------------------------------------
+Item:        | T.N.T.
+Where Found: | Coneria Castle after receiving Mystic Key from Dwarf.
+Description: | This volatile explosive has been kept in the Treasure Vault
+             | for 400 years. Give this to the Dwarf in the Dwarf Cave to
+             | detonate rubble to clear a path for a canal.
+-----------------------------------------------------------------------------
+
+=============================================================================
+---------------------------------- [ FAQ ] ----------------------------------
+=============================================================================
+
+1Q. Is Final Fantasy a prequel to Final Fantasy IX?
+1A. As far as I can tell after playing through both games, no. Sure, FF9
+    might go as far as to making some references and even as far as bringing
+    back an old character(Garland) and employ it into the plot of FF9, but
+    FF is not a prequel to FF9.
+
+2Q. How do a I get the Masamune?
+2A. At the Temple of Fiends Revisted on floor B4, head to the bottom right
+    part of the room(the room where you fight Tiamat in) and check the room
+    inside to pick up the Masamune.
+
+3Q. How do I get the XCalibur?
+3A. Find the Adamant in the floating castle and take it to the Dwarf in
+    the Dwarf cave.
+
+4Q. What is a Warmech and how do I find him?
+4A. The WarMech is a monster only found in the long corridor leading up to
+    Tiamat. Defeating the WarMech is no easy task though, some people say he
+    is harder to defeat than Chaos...but rather it's about the same. There is
+    a 1-64 chance of encountering this guy...and if you meet him, I highly
+    suggest you have levels of at least 35. The strategy for him is basically
+    a grind it out street fight. No tricks involved, no weaknesses or
+    strengths...use whatever magic and whatever attack to win and keep your
+    HP up.
+
+5Q. Oh no! I'm stuck in the Temple of Fiends 2000 years into the past, how
+    do I get back?
+5A. Use the Exit spell.
+
+6Q. There are 3 slots for us to use magic from each level of 4 spells, can
+    you reccommend some that we should really buy?
+6A. Exit and Warp. These two spells are highly essential for getting yourself
+    out of trouble...say you've traveled deep into the Ice Cave and found
+    what you were looking for...but you are terribly wounded and you can't
+    take another battle...but you can only leave the place by going back
+    where you came in. Luckily with the Exit spell you can just head outside
+    to the entrance of the Ice Cave. The rest of the spells are really up to
+    you to decide, but if you have Rub, don't bother with XXXX since they are
+    pretty much the same thing.
+
+7Q. How come the battles go so slow/fast?
+7A. The text message speed will determine the overall speed of the battle, if
+    the text moves too slow...you will have to wait for it until your next
+    action in battle. You should leave the text speed at the highest speed
+    since it'll make the battle go quicker and the text dialogue usually
+    stops and doesn't continue until you hit the "A" button anyways.
+
+8Q. What is the maximum amount of levels that you can gain in this game?
+8A. 50
+
+=============================================================================
+-------------------------------- [ Credits ] --------------------------------
+=============================================================================
+
+-+- Squaresoft(www.squaresoft.com)
+    What can I say? It's the first ever Final Fantasy!
+
+-+- Nintendo(www.nintendo.com)
+    Their guide provided the extensive monster lists and it's a very good
+    guide indeed. Danke. (^_^)
+
+-+- JL Lee(sleeping_psycho@hotmail.com)
+    Thanks for his help towards a few errors in this guide.
+
+-+- GameFAQs(www.gamefaqs.com)
+    For hosting and respecting this guide.
+
+-+- Dingo Jellybean(www.vfaqs.net)
+    For typing up this guide.
+
+=============================================================================
+
+Time of completion: 28 hours, 43 minutes, 09 seconds
+
+This document is copyright Dingo Jellybean (C) 2000-2001.

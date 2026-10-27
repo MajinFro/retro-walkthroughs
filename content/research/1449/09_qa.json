@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-10-27T10:50:02.611Z",
+  "inputs": "b503287ec75a3b4f",
+  "metrics": {
+    "chapters_expected": 20,
+    "chapters_present": 20,
+    "paragraphs": 1043,
+    "paragraphs_cited": 1039,
+    "paragraphs_plan_logic": 29,
+    "citations": 2935,
+    "citations_broken": 0,
+    "missables": 8,
+    "missables_warned": 8,
+    "ponr": 3,
+    "ponr_warned": 3,
+    "areas": 168,
+    "areas_mentioned": 168,
+    "code_blocks": 2,
+    "code_blocks_verbatim": 2,
+    "unable_to_verify": 14,
+    "achievements_total": 40,
+    "achievements_placed_correctly": 40,
+    "achievements_supported": 40,
+    "words": 40649,
+    "chapters_with_checkpoints": 19,
+    "maps_available": 29,
+    "map_links_present": 67,
+    "sparse_areas": 0
+  },
+  "errors": [],
+  "warnings": [
+    "overview:74: uncited statement: \"Play everything in Hardcore Mode. The emulator's save states, rewinds and cheats are off, …\"",
+    "overview:122: uncited statement: \"Each chapter routes you area by area, listing chests, spell shops and boss tactics, and a …\"",
+    "ch2:152: uncited statement: \"- There are no ports in the northern part of the world.…\"",
+    "ch6:71: no factual overlap with cited facts (gf1-70-11) — check for unverified claims: \"3. Backtrack up the long passage to the fork, then take the right fork along its…\"",
+    "ch8:45: uncited statement: \"Floor labels differ between guides. This route uses the labels from the guide that runs 1s…\"",
+    "ch12:175: no factual overlap with cited facts (gf2-32-5) — check for unverified claims: \"1. Round 1: Red and Black Wizards cast Fast on your fighters, who attack [[gf2-3…\""
+  ]
+}

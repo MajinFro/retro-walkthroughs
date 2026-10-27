@@ -1,0 +1,317 @@
+RetroAchievements achievement guide: Final Fantasy
+Source: https://github.com/RetroAchievements/guides/wiki/Final-Fantasy-(NES)
+
+# 1) Introduction
+This guide will cover the missables and optional collectibles in Final Fantasy (NES), the 1987 original that started the series. The set currently has 40 achievements, including 13 goals that are obtained through standard plot progression, 20 non-missable collection and side content achievements, and 7 missable achievements including 2 full-game challenges. No treasure collection achievements are missable. The set can be mastered without ever starting over on a new file, but the full-game challenges add some additional complications to a single run mastery.
+
+# 2) Starting Team
+
+Your four party slots will be filled by selecting from six types of character, with repeats allowed; you must commit to your team comp as soon as you start the file and cannot change party members to a different role. The classes in question are Fighter, Thief, Black Belt, Black Mage, White Mage, and Red Mage. If you are aiming to master the set in one run, Of Mighty Magic [achievement 27656] means that starting with at least one party member as a White Mage or Black Mage is a hard requirement; Red Mages cannot learn any level 8 spells and will max out at 20 spells learned even after their class upgrade. Due to their relevance for multiple boss challenges later on, I recommend prioritizing the Black Mage, but taking both Black and White is not a bad idea either.
+
+The Black Belt is highly convenient for challenge runs because it doesn't require equipment scaling or a class change to function. A Fighter is also
+still one of the stronger choices even with all challenges stacked, but being stuck with buyable equipment will cause his offensive power to fall off somewhat later in the game. Bringing one is still recommended just for the high early game power and the usefulness of having a heavily armored party member in front.
+
+# 3) Full-Game Challenges
+Two of the missable achievements in this set merit special mention, because they are technically active from the moment you start until the final boss's HP hits 0.
+
+Merchandise Madness (25) [achievement 398476]
+_Defeat Chaos without opening any optional treasure chests, except the Tail if desired._
+
+The list of non-optional treasure chests includes:
+- the Crown found on the third floor of the Marsh Cave (in a chest surrounded by pillars, you will be attacked by a group of WIZARDs when you approach);
+- the TNT found in Coneria Castle after obtaining the magic key (there are two treasure rooms locked by the magic key; enter the left one and open the right-hand chest);
+- the Ruby found on the third floor of the Earth Cave (Vampire is standing in the way, enter the room and take the chest after defeating him [achievement 3572]);
+- the Floater, found in the treasure room on the second floor of the Ice Cave (you'll have to drop through a hole on the floor above to get to the place where it's located, and when you step in front of the chest you'll be attacked by the Eye);
+- the Slab, found in the highest floor of the Sea Shrine where the mermaids live (the room in the top-right corner of this floor, reached by wrapping around from the top-left corner, has three treasure chests in it; only open the right chest in this room)
+
+The Tail is not required for story progression and you don't have to go for it if you're also aiming for Don't Change For Anyone [achievement 398475], but if you wish to obtain it, it's on the third floor of the Castle of Ordeals, the sole chest in the room with the throne and the forced ZombieD encounter.
+
+Don't Change For Anyone (25) [achievement 398475]
+_Defeat Chaos without changing classes._
+
+The class change is triggered by turning in the Tail to Bahamut and earning Class Upgrade [achievement 3577].
+
+Merchandise Madness [achievement 398476] is relevant as early as the first dungeon area in the game, while Don't Change For Anyone [achievement 398475] only becomes an issue after beating Lich [achievement 3573] and gaining access to the ability to change classes; the lack of access to non-buyable equipment starts to become a considerable restriction at around the same point, however. 
+
+Merchandise Madness is the most challenging achievement in the set overall, since you will be unable to acquire elemental resistances, high-end unique weapons, and spellcasting items. These factors compound to result in battles that take longer, deal more damage to your party, and don't give you as many options to sustain yourself. Don't Change For Anyone also limits your access to high tier equipment somewhat, though spellcasting equipment does not need to be equipped to use its effects, and you can still wear Ribbons without undergoing a class change (a major pain factor in the no-chests run is not having any Ribbon wearers). The main consequence of skipping the class change is that your ability to use high-end magic will be very limited; in particular, you'll never learn a spell that revives dead allies or allows you to escape dungeons immediately.
+
+If you choose to tackle these and attempt to clear out the missable boss challenges in the same run, it is possible to do all of them while fully respecting the restrictions, but it will take some specific setup; alternatively, you can choose to save before picking up a relevant item, fight the boss with its help, get the challenge done, and then reset to do the progress again without the chest.
+
+Notably, Final Fantasy 1 never prevents you from accessing an area after your party's business there is concluded, so none of the treasure collection achievements are missable. After obtaining Merchandise Madness, it is possible to load your save from before entering the game's final dungeon, go backtracking through the world, and get 100% of the game's treasure chests. This is what makes mastering the set in a single run possible. 
+***
+
+# 4) Walkthrough
+
+## Pre-Earth Crystal
+
+What's Old Is New Again (10) [achievement 398485]
+_Open all treasure chests in the Temple of Fiends._
+
+If you're not doing Merchandise Madness [achievement 398476], or if you just finished it and are doing a victory lap, you can pick up a few chests here right away. As soon as you enter the Temple of Fiends to the northwest of Coneria, you can find 3 chests on the left corners of the main floor, which contain a Cap, a Cabin, and a Heal potion. The upper right and upper left corner of this area also have some chests, but they require the magic key to get to.
+
+Cave Dweller (5) [achievement 398478]
+_Open all treasure chests in the Marsh, Dwarf and Matoya's caves._
+
+Once you've knocked down Garland and obtained Sara's gift [achievement 3569] (don't forget to talk to her until you get the Lute!), you can now cross the bridge north of Coneria to a new landmass. If you cross the bridge and keep heading straight north until you can't anymore, you'll bump into Matoya's Cave, which contains 3 chests with a Heal potion, another Heal potion, and a Pure potion. Afterwards, head eastwards to Pravoka, where you can restock and get a few new pieces of equipment before bumping into the first missable challenge.
+
+Punching Above Your Weight (10) [achievement 398471]
+_Win a battle on the Peninsula of Power before confronting the pirates in Pravoka._
+
+This must be done before talking to Bikke and his two pirate buddies in the top left corner of the town of Pravoka (earning Pirate Bay [achievement 3570]). The Peninsula of Power is an area reached by walking south of Pravoka, east through the mountain pass, turning north as soon as you can, and then continuing north past the boat dock until you reach the edge of the landmass. The two grass tiles at the very end of this peninsula have bugged encounter data and contain enemies from the Lefein area that you are meant to encounter much later in the game. You'll want to use a Tent or other saving item before walking on those tiles, as many of the potential encounters on the Peninsula of Power are highly dangerous. The encounter you're most likely to make it out alive from is a single ZomBull, which is blessedly not that uncommon; exploit its weakness to fire if possible and hope you get through its 224 HP before it finishes chewing through your team with its melee attacks.
+
+Cave Dweller (5) [achievement 398478]
+_Open all treasure chests in the Marsh, Dwarf and Matoya's caves._
+
+Once you have the ship, you can make a bit more progress on this right away. Sailing west from Pravoka, south around Coneria, and then continuing northwest, you'll come upon a dock that allows you to walk southwest to the Dwarf Cave. Most of the chests here are locked away until you have the magic key, but you can open two near the entrance for 450 G and 575 G.
+
+Puzzle Fantasy (5) [achievement 27654]
+_Complete the secret slider puzzle._
+
+Speaking of the ship, you can clean this out at any time after you can board it. Holding A and then pressing B 55 (fifty-five) times while on the ship will trigger a sliding puzzle minigame to occur. There are 15 blocks with numbers on them, and your goal is to slide them until they've been sorted into order. Successfully do so, and you'll get 100 G and this achievement.
+
+May Thou Rest in Peace (2) [achievement 398472]
+_Pay respects to a rival hero._
+
+The southern port you can access with the ship at this point will drop you off in the vicinity of Elfland. Go into the town and head around north of the inn to happen on some graves; interact with them to find an easter egg.
+
+Cave Dweller (5) [achievement 398478]
+_Open all treasure chests in the Marsh, Dwarf and Matoya's caves._
+
+You can't quite sweep the Marsh Cave on your first visit, as you won't have the magic key until after you're done here. You can still pick up most of the chests, though. The northern side of the second floor has 4 chests (680 G, Large Knife, Short Sword, 620 G); the south part of the floor has a few empty chests inside the rooms. The third floor has 6 non-empty chests you can open at this point, including Iron Armor, 295 G, Copper Bracelet, House, 385 G, and a **required chest** (in the room down 3 rows and right 1 column from the entrance stairs) containing the CROWN. There's three more chests along the bottom of this floor, but all of them are in locked rooms.
+
+Plundered the Keeps (5) [achievement 398477]
+_Open all treasure chests in Coneria, Elfland and the Northwest castles._
+
+Speaking of locked rooms, once you've taken the Crown to Astos and defeated him, you can trade off the Crystal he dropped to Matoya, who will give you the Herb, which will wake up the prince of Elfland [achievement 3571] to give you the magic key. The key will open up a couple dozen new treasures. Starting with the Elfland region, walking around the outside edge of the castle to the top-right corner of the map will lead you to a locked door containing 4 chests (Silver Hammer, 400 G, 330 G, Copper Gauntlet). Making your way back to Astos' castle northwest of Elfland will allow you to crack open a room with several forced encounter tiles and three more chests (Power Staff, Falchon, Iron Gauntlet).
+
+Cave Dweller (5) [achievement 398478]
+_Open all treasure chests in the Marsh, Dwarf and Matoya's caves._
+
+After cleaning out Elfland castle and the northwest castle, the Marsh Cave isn't too far off, and we can now grab the last three chests along the south edge of the third floor (Silver Bracelet, Silver Dagger, 1020 G).
+
+Plundered the Keeps (5) [achievement 398477]
+_Open all treasure chests in Coneria, Elfland and the Northwest castles._
+
+We're done with magic key chests in the Elfland region now, so sail back to Coneria; the castle contains six chests that are available now that we have the key, including one **required** chest. The left locked room in Coneria Castle contains three chests (from left to right: Iron Armor, Iron Shield, **TNT**-which you must obtain to progress). The right room contains another three chests (Iron Staff, Sabre, Silver Dagger). This collection achievement should be completed now if you've been keeping up.
+
+What's Old Is New Again (10) [achievement 398485]
+_Open all treasure chests in the Temple of Fiends._
+
+While we're in the Coneria region, you can clear out the last few chests currently accessible in the Temple of Fiends; the rest won't be available until much later on. Unlock the doors in the top right and bottom right corners of the temple for a total of 3 chests (Were Sword, Soft potion, Rune Sword).
+
+Cave Dweller (5) [achievement 398478]
+_Open all treasure chests in the Marsh, Dwarf and Matoya's caves._
+
+We'll be sailing back to the Dwarf Cave to progress the plot anyway at this point; you can open up a treasure trove there now that you have the magic key. The south chamber of the Dwarf Cave is locked; opening it up reveals a bounty of 8 chests (Cabin, Iron Helmet, Dragon Sword, Silver Dagger, Wooden Helmet, Silver Armor, 575 G, House). Talking to the nearby Dwarf while in possession of TNT will result in a new sea passage being opened, meaning you can now sail to Melmond and the Earth Cave.
+
+Gaia's Greed (5) [achievement 398479]
+_Open all treasure chests in the Earth Cave and Titan's Tunnel._
+
+You could go to the Titan's Tunnel as soon as you arrive in the Melmond region, but there's nothing doable there until you have the RUBY. Heading into the Earth Cave, you can go three floors in on the first visit; the first floor contains 5 chests (1975 G, Pure potion, 795 G, 880 G, Heal potion). Heading west from the entrance on this floor will lead you through a looping hallway where you repeatedly encounter Giants each step; these enemies are sturdy and hit hard, but don't do anything special otherwise and have large EXP rewards compared to the average encounter, so if you can survive a few rounds of them you can get some quick levels on your party. 
+
+Floor 2 of the Earth Cave contains another 6 chests split between two treasure rooms (Coral Sword, Cabin, 330 G, 5000 G, Wooden Shield, 575 G). The lowest floor we can access right now is floor 3, which includes four chests before reaching the boss room (Tent, Heal potion, 3400 G, 1020 G), and one additional **required** chest which can be opened after beating Vampire (the one in the left corner of Vampire's room; contains **Ruby** required to proceed further).
+
+After managing to make it back out of the Earth Cave the long way, you're next bound out of this peninsula and then west to Titan's Tunnel. Talking to Titan with the Ruby in your possession will clear it out of the way. You are now free to access the treasure room in the south chamber of Titan's Tunnel, containing 4 chests (Silver Helmet, 450 G, 620 G, Great Axe). Take the other exit out of Titan's Tunnel now, head down to Sarda's Cave, and talk to the sage to get the Rod.
+
+Taking the Rod back to the Earth Cave will unlock the weird slab accessible from the right exit of Vampire's room on floor 3. You can now proceed down to floor 4, which has two treasure rooms and a total of 8 chests (top treasure room: 5450 G, 1520 G, Wooden Staff, 3400 G, 1455 G; southwest treasure room: 1250 G, Silver Shield, Cabin). That should account for all the chests in this region; all that's left is to defeat Lich [achievement 3573].
+
+Oh, Death, Where is Thy Sting? (5) [achievement 398940]
+_Defeat Lich in the Earth Cave without anyone dying._
+
+Lich statistics: 400 HP, Weak to Fire, Susceptible to Harm spells, Neutral to Lightning and Earth, Resistant to Ice, Status, Poison, and Death, physical attacks can inflict Paralysis (Fire-elemental)
+
+This will be a bit of a stat check no matter what, but understanding Lich's AI script can help you make it out of a prolonged engagement if you can't deal enough damage to it. Lich has a 25% chance to spend its turn using a physical attack and a 75% chance of casting a spell. Enemies that cast spells in pre-Pixel Remaster versions of Final Fantasy 1 do not select their spells randomly or by any sort of AI consideration; they simply have a list of spells that starts in the same place every time and then advances by one spell each time the AI rolls its chance of casting magic. Lich's spell list is Ice2 -> Slp2 -> Fast -> Lit2 -> Hold -> Fir2 -> Slow -> Slep.
+
+What this means for you is that Lich will most likely spend its first turn casting Ice2, which can deal anywhere from 80 to 160 damage if you don't resist it. Ice2 has 96% base hit rate and most characters at this stage will have somewhere between 40% and 60% magic defense, so the chances of having your whole party flattened by a 160 roll are pretty slim, but at least one character is liable to take a big hit here. If you have access to level 4 white magic, you can try casting AIce immediately to cut in front of Lich and grant your party ice resistance, but you'll be gambling on your white magic user getting to go before Lich does. Fortunately, if you survive Ice2 you'll be granted a brief reprieve to regroup. The next two spells in his list are Slp2 and Fast, which are relatively non-threatening; Slp2 can disable a party member for one turn but due to the wonky mechanics of the Sleep status ailment they will only fail to wake up immediately if they have less than 80 maximum HP, and Fast would be more threatening if Lich weren't so prone to cast spells instead of taking swings at you. White magic users can cast ALit upon seeing Fast to significantly reduce the damage of the upcoming Lit2.
+
+You should probably not try to outlast Lich, given the limits of healing in battle at this point in the game. If you brought a White Mage, dropping a Hel2 after the initial Ice2 is probably a good idea, but outside of that your efforts should mainly be focused on making sure Lich is dead before it gets around to casting something dangerous again. Black magic users who can cast Fir3 should consider buying the spell here; a high roll from Fir3 can take out over half of Lich's health in one cast, and even a low roll does a significant chunk. The White Mage's Hrm3 is also capable of solid results and probably the best thing they could be doing if the party is at high health. Fighters and Black Belts may have trouble with Lich's physical defense at this point; having Fast cast on them can help to fish for critical hits. 
+
+Ultimately, due to the relative lack of options available at this point, this fight can be a stat check even if you aren't playing with any other restrictions. Level 15 to 16 should be doable for most parties, but if you are losing a lot, you can consider going to the giant's hallway on the first floor of the Earth Cave or returning to the Peninsula of Power. A good HP level and a bit more magic resistance can make the difference between failing to a high roll and making it out alive.
+
+## Quest for the Airship
+
+At this point in the game, we have multiple options of what progression objective to pursue next for the first time. Any route taken after the Earth Crystal is restored will first take you to the opposite side of the continent and the town of Crescent Lake, where you'll grab the canoe [achievement 3574]. Getting the Canoe opens up three dungeon areas immediately: Gurgu Volcano, Ice Cave, and the Castle of Ordeals. All three of these areas can be cleaned out with the tools we currently have. Gurgu Volcano is a required area but has no progression items in it; the Castle of Ordeals is entirely optional, containing the item required for class changing but leaving us unable to turn it in until we finish the Ice Cave anyway. The Ice Cave is the only dungeon here that actually gates further progression in the plot. You can tackle these three areas in any order, but for the moment I will be listing them in the order Castle of Ordeals (a section you can skip entirely if you are stacking Merchandise Madness [achievement 398476] and Don't Change For Anyone [achievement 398475]), then Gurgu Volcano, then Ice Cave. Notably, Gurgu Volcano is the easiest of the three to get through and has a convenient spot for grinding levels, so if you aren't confident in your party's strength you may want to go there first even if you are planning to clear out the Castle of Ordeals as well.
+
+Regal Recon (5) [achievement 398482]
+_Open all treasure chests in the Castle of Ordeals and Cardia caves._
+
+Getting to the Castle of Ordeals from Crescent Lake will be one of the longest sailing trips you've taken thus far. Follow the coastline north from where you parked your ship near Crescent Lake until you see the familiar Peninsula of Power; go west through the gap, then proceed northwest past the large area of desert. The castle can be reached by sailing into the inlet above it and then trying to move down onto the darker green river; if you have the Canoe, you'll automatically anchor the ship and move onto the river in the canoe instead. From there, just move left to get onto solid ground and head through the western forest to arrive at the castle.
+
+The Castle of Ordeals consists of an entryway followed by a teleporter maze floor and then a boss floor. The entry floor is empty; you'd be stopped from proceeding if you didn't have the Crown, but you got here in the first place, so you did indeed go get it. Floor 2 (the teleporter maze) contains one chest in the top right room (containing the Zeus Gauntlets, which cast Lit2 when used in battle). The "maze" is relatively simple; there are four steps and only the last one gives you more than one incorrect option. Choosing the wrong one will send you back to the start. The correct choices are southern pillar at the first choice, southern pillar again at the second choice, eastern pillar at the third choice, and the pillar furthest south for the fourth.
+
+Getting through the teleporter maze will let you reach floor 3. This simple spiral-shaped map has three groups of treasure chests (top right: Heal Staff, grabbing it will require you to refight the guaranteed Nightmare encounter, casts HEAL on use; top left: Gold Bracelet, Ice Sword, Iron Gauntlet; bottom left: House, 1455 G, 7340 G). Once you've gone around the floor counterclockwise, you'll arrive at a final room with a throne. The chest in here contains the **Tail**, which you're allowed to pick up even if you're running Merchandise Madness [achievement 398476]. Walking towards the throne will require you to fight a fixed encounter with one or two ZombieD; if you make it out of that, you can step on the throne to be teleported back to the first floor and leave the castle.
+
+Hot Take (5) [achievement 398480]
+_Open all treasure chests in the Gurgu Volcano._
+
+Getting back to Crescent Lake (or starting from there, if you're not planning to get to the Castle of Ordeals yet), take your new Canoe onto the river above the town and head west. When you get to forks in the river, take the west fork, then the north one, then east, then west twice more, then follow the path when it bends south to arrive at the volcano.
+
+Gurgu Volcano's first floor has nothing interesting except lava floors that will sap your health when you walk on them but will also not trigger random encounters. The second floor has a straight shot west to the next floor, but if you go into the doors (other than the furthest west one, which is a dead end), you'll enter a labyrinth of passages containing a staggering 15 chests. 9 of these are in one treasure chamber (containing 6710 G, Heal Potion, Heal Potion, Pure Potion, Cabin, Silver Gauntlet, Silver Helmet, Silver Shield, and Silver Axe). The other 6 are scattered throughout the rest of the tunnels and usually guarded by forced encounters; you'll find 1520 G, Silver Helmet, 4150 G, Giant Sword, 795 G, and 650 G.
+
+Floor 3 has no chests on it; proceed east from the floor 2 entrance to get down to floor 4 (south). This section of Floor 4 also has nothing interesting in it, so go to the southeast corner to go back to Floor 3. Floor 3 continues to have nothing going on, so proceed south, west, south again, and west to the Floor 4 stairs.
+
+Floor 4 (North) has a treasure room near the stairs you just went down (2 chests, Soft potion, 2750 G). Another treasure room you'll bump into along the path (one chest, 1760 G). Heading northwest from there leads you to a room with 5 chests in it (7340 G, Flame Shield, Ice Sword, 880 G, Pure potion). Leaving here and backtracking along the path, you'll run into a room at the fork of the path with two more chests (10 G, 155 G). Northeast of here is another chest room with two non-empty chests (House, 2000 G). Go back to the fork again and head south along the path to find the last chest room on this floor (2 chests, Wooden Staff, 1250 G). This room is notable for having two guaranteed encounter tiles immediately adjacent to each other, so you can guarantee an encounter every step by walking up and down between them, which makes for a convenient way to grind some levels if you can kill the enemies quickly. The end of the line is the stairs down to Floor 5. 
+
+Floor 5 has one chest, to the west of the entrance; you'll have to fight an Agama at the start of the candle-lined passage up to the chest, and the tile in front of the chest forces a further encounter with a Red D (significantly more dangerous). The chest contains the Flame Armor. After securing that last chest, the only thing we still need to do here is fight Kary [achievement 3575].
+
+Fight Fire With Fire (5) [achievement 398941]
+_Defeat Kary in the Gurgu Volcano with a Fire spell or the Flame Sword._
+
+Kary statistics: 600 max HP, Weak to Status, Neutral to Earth, Time and Death, Resistant to Fire, Cold, Lightning, and Poison, physical attacks hit 6 times
+
+For the first time, Kary's challenge requires tools that not all characters have access to; if your entire party consists of some combination of White Mages and Black Belts, or your only potential fire user is a Thief and you're not allowing him to undergo a class change, you're probably not going to have a great time grabbing this one. Kary has a 62.5% chance to make a physical attack and a 37.5% chance to cast magic, with her spell cycle being Fir2 -> Dark -> Fir2 -> Dark -> Fir2 -> Hold -> Fir2 -> Hold. If you happen to have learned Hold yourself, casting it on her isn't a terrible idea, along with Slow; thanks to her weakness to Status, these spells will have about a 1/3 chance of landing and will give you plenty of free breathing room if they do. Hold will Paralyze her, giving you completely free turns until Kary hits the roughly 10% chance to recover from it, while Slow will indefinitely reduce her number of attacks per round to 1, significantly blunting their impact.
+
+Overall, you prefer to see Kary cast spells, since her Fir2 isn't actually any stronger than Lich's was and isn't nearly as impressive when your party is at a higher level (potentially carrying resistance to the fire element as well). The main point of contention here is dealing with her beefy physical attacks while also trying to defeat her with fire damage. This is the first time Merchandise Madness [achievement 398476] demands a potential change in strategy, so we'll cover that first.
+
+*No optional chests*: You're not getting the Flame Sword unless you do a bit of save scumming that would involve going through a dungeon and a half on a forked save just for this one thing, so unless your party has no black magic access at all you should probably try and use fire magic instead. The main issue is that Kary resists fire, so your spell's damage range is going to get halved by the elemental resistance, and then halved again by the fact that your spell is not going to pass the magic resistance check. This means Fire's damage range is roughly 5-10, Fir2 only manages 15-30, and Fir3 can get around 25-50. Counting Kary's HP carefully and doing anything possible to protect your black magic users (AFir, physical protection buffs like Invs or Fog, maybe trying a Slow on her) will be important. Fast-boosted physical fighters can be good for chipping down Kary's health, but be wary of criticals. Lit3 and other offensive spells that don't take up a fire slot can be used to deal reliable damage, though since they'll also get resisted their damage range will be pretty similar to the fire ones listed above.
+
+*Optional chests allowed*: If you haven't been to the Ice Cave yet, your options will basically look like the ones above, but you've got the advantage of better defenses all around and a few pieces of equipment that resist fire. You'll be focusing on slugging it out until Kary's taken 500+ damage and then stalling until you can manage to do enough damage with fire magic to finish her off. If you *have* been to the Ice Cave already, your Fighter/Red Mage/Ninja can swing a Flame Sword. This weapon, like all other weapons that are supposed to be elementally aligned or super-effective against a family of monsters, is instead entirely generic because its special property doesn't function correctly, so you won't be doing any less damage than with any other 26-attack-power sword; just buff up your sword wielder of choice (as long as you didn't choose Thief, because they don't get to equip it until after class changing) and swing until you win. Who needs a calculator anyway?
+
+Cold Hard Cash, Mostly (5) [achievement 398481]
+_Open all treasure chests in the Ice Cave._
+
+Speaking of having been to the Ice Cave, if you're done with Gurgu Volcano or have decided to put it off for the moment, you're heading here. It's also located in the Crescent Lake area, but you'll have to enter the river maze from a different area. Sail north from the Crescent Lake port and either dock at the next port up or just sail directly into the river in the bay; either way you'll be getting on your canoe to head west into the interior of the continent again. From the four-way river intersection, head north, go east at the next fork, continue around the corner and keep west, take the west fork when you get to it, and continue south around the next corner to arrive at the Ice Cave.
+
+Ice Cave's first floor has nothing immediately accessible, so take the stairs down to Floor 2 (west). Nothing interesting here either, just proceed to the bottom left corner of the floor to reach Floor 3 (East). This room's just two sets of stairs up, so go to the ones you didn't come from. This will lead to Floor 2 (east). The interior treasure room of this floor has 3 treasure chests, but you're only going to be able to grab two of them coming from this entrance; walking around the holes to the top-left chest will earn you the Flame Sword (which, if you haven't beaten Kary yet, could be taken out of here and used to fight her more conveniently as long as you have somebody who can wield it). Going around to the top-right chest will result in a forced encounter with some Mages (particularly nasty random encounter foes) and a chest that contains Clothes (particularly insulting reward for the trouble). In order to get that last one, you'll have to step into one of the pits in the treasure room, which all land in the same place: the starting room of Floor 3 (West).
+
+Floor 3 (West) has a couple more treasure rooms in it, one to the west of the starting room (2 chests, Silver Gauntlet, Ice Armor, guarded by forced encounter with Frost D x1-2) and one at the far south of this floor (6 chests, 7900 G, 5450 G, 180 G, 9900 G, 5000 G, 12350 G, forced FrWolf gang encounter between the two right side chests). The stairs up are at the southeast part of the room, leading back to Floor 1 but in the west portion this time. This part of the floor has 5 total chests (Heal potion, 10000 G, 9500 G, Tent, Ice Shield) and a hole to drop through. Going down this pit will lead you to Floor 2 (East) again, placed in a position to go grab the **required** chest containing the Floater; you'll have to fight an Eye when you step in front of the chest. Getting back out after getting the Floater will be a process; you'll have to fall down a pit in this room again to get back to Floor 3 (West), make it through that floor again, take the stairs back up to Floor 1 (West), and take the stairs leading up in the top-right corner of this area to leave the cave.
+
+## Post-Airship Exploration
+
+After using the Floater to summon the Airship [achievement 3576], you technically don't have to defeat any further bosses to open up the rest of the game world; the chain of progression items implies you should defeat the fiend of water and then the fiend of wind, but you can fight Kary, Kraken and Tiamat in any order if you wish. First things first, though: if you haven't done the Castle of Ordeals and you're planning on going through a class change before the final boss, this is a good time to go do it. 
+
+Regal Recon (5) [achievement 398482]
+_Open all treasure chests in the Castle of Ordeals and Cardia caves._
+
+The Cardia Isles had nowhere for us to dock the normal ship, but with the airship we can enter the island caves and grab some easy treasure. There are 13 chests in total, spread across 3 caves (one with Cabin, 575 G, and Soft potion; one with 10 G, House, and 500 G; and a last one with 160 G, 9500 G, 2750 G, 1520 G, another 2750 G, 2000 G, and 1455 G). 
+
+Class Upgrade (25) [achievement 3577]
+_Receive King Bahamut's praise and his reward._
+
+If you went out and got the Tail from the Castle of Ordeals, here's where you can turn in that seemingly important but also seemingly useless sidequest reward. Find Bahamut in the Cardia Isles cave that's a long hallway with a staircase leading down at the end; if you have the Tail on hand, he'll grant your party a class upgrade, giving them the ability to use high-level equipment, the power to use magic (for knights and ninjas) or the higher tiers of magic that have thus far been inaccessible (for the mage classes), and the Black Belt gets... a different outfit, mostly. Doing this last step of the class change sidequest before Don't Change For Anyone [achievement 398475] will stop that achievement.
+
+Of Mighty Magic (10) [achievement 27656]
+_Have a character learn 24 spells._
+
+If you've gone through the class change, it's viable to do this without any further progression items, though being able to use the magic shop in Lefein (locked behind the Slab) will unlock a couple of very useful level 8 spells. The first 6 levels of magic were buyable before having the airship - level 1 in Coneria, level 2 in Pravoka, levels 3 and 4 in Elfland, level 5 in Melmond, level 6 in Crescent Lake. Level 7 spells are split between Gaia, a town in the mountains at the northeast corner of the world map only accessible by flight, and Onrac, which is on the eastern edge of the continent to the west of the Cardia Isles (also requiring flight to get to). Gaia sells three level 8 white and black magic spells each. However, if you fill up here you'll be missing out on the fourth options Lefein offers, which are Lif2 for the White Wizard (fully revives a fallen ally outside of combat, could do literally anything and would be a superior option to Xfer which does nothing) and Nuke for the Black Wizard (deals significant, reliable damage; all the level 8 black spells in Gaia are gimmicky instakills). This is a good time to round out your magic capabilities in general, since you can visit every town that sells lower level magic easily and some of your party may have just gained the ability to use low level spells. Bonus: if you have a wizard now, you can finally make use of those Warp/Exit spells that have been staring you in the face promising quality of life for a while.
+
+Sunken Treasures (5) [achievement 398483]
+_Open all treasure chests in the Sea Shrine and waterfall._
+
+The most immediate things we can do at this point are either clear out the Waterfall or make our way to the Sea Shrine. Since the Waterfall gives us an item that's only useful after we also have the Chime, which is only accessible after we have the Slab, which is in the Sea Shrine anyway, we will of course be addressing the Waterfall first.
+
+Flying west from the Cardia Isles will bring us to the continent that Onrac is located in. Land on the patch of brighter green grass at the south end and canoe up the river; this time it's just a straight shot to the waterfall, and canoeing into it will put you in Waterfall Cave.
+
+Waterfall Cave is basically just a long series of blocky intersections with a treasure room located at the southwest corner. Walking through the door will result in a fight with a mob of annoying but individually weak enemies which you can blast with spells at your leisure; the room contains 6 chests (Wizard Staff, Ribbon, 13450 G, 6400 G, 5000 G, Defense sword). It also contains some sort of weird robot; you'll have to talk to it to obtain the Cube, then leave.
+
+We've got no immediate options of things to do that don't require going to the Sea Shrine now, so purchase the Bottled Fairy from the caravan west of Onrac, release it in the springs at Gaia to receive Oxyale [achievement 3578], and go back to Onrac to take the submarine down to the Sea Shrine.
+
+You enter the Sea Shrine on Floor 3 (West). There are two immediately available chests here (9900 G, 2000 G). We have a choice of going up or down; there's more treasure and a progression item on the higher floors, so we'll start out with the stairs leading up on the right side of this floor. This brings you to the main portion of Floor 2, which contains 5 more treasures scattered around the rooms (Opal Armor, 20 G, Light Axe, Mage Staff, 12350 G). Taking the stairs up at the bottom right corner of Floor 2 will lead you to Floor 1.
+
+Floor 1 features no random encounters and 13 treasure chests, one of which is **required** for progression. The required chest room is found by making your way to the northwest corner of the floor from your starting position and walking west along the passage until you wrap around to the northeast corner. The treasure room that's only accessible from here contains 3 chests. The left one is an Opal Helmet, the middle one is Opal Armor, and the right one is the **Slab**, which you must get in order to unlock the next dungeon. After that, you can go back around the passage and collect the other 10 chests at your leisure (2750 G, 10000 G, 10 G, 4150 G, 5000 G, 9000 G, 1760 G, Opal Bracelet, Pure potion, Opal Shield).
+
+At this point, you don't actually need to finish the dungeon; once you have the Slab, you can learn the language of Lefein [achievement 3651] from an NPC in Melmond. Doing so will enable you to grab the Chime from Lefein and access the next dungeon, as well as hit up the last two magic shops in the game (see earlier notes on Of Mighty Magic [achievement 27656]). Whenever you're ready to progress through the rest of Sea Shrine, return to Floor 3 (West) and take the downward stairs.
+
+The path down on Floor 3 (West) leads to a long and empty stretch of Floor 4; don't bother with the door and head north to the next stairs. These will take you to an island on Floor 3 with a different set of stairs leading up. Taking these will put you on Floor 2; walk around the square island to take another set of down stairs and enter Floor 3 (East), a relatively small area with 2 chests out in the open (110 G, 450 G). Head out the south door and take the stairs down to enter the main part of Floor 4.
+
+Floor 4 (West) has four treasure rooms; the northeast one has 4 chests (Ribbon, 9900 G, 7340 G, 2750 G), the northwest one has one chest (Light Axe), southeast has 2 chests (7690 G, 8135 G), and southwest has 3 chests (5450 G, 385 G, Power Gauntlet). The stairs leading to Floor 5 are northwest of the room with 4 chests. Floor 5 looks like it might have something to it, but there's nothing interesting except the path up to Kraken [achievement 3579].
+
+One for Each Arm (5) [achievement 398942]
+_Defeat Kraken in the Sea Shrine in 8 or fewer actions. Running does not count as an action._
+
+Kraken statistics: 800 HP, weak to Lightning, neutral to Cold, Status, Poison, Time, and Death, resists Fire and Earth; attacks hit 8 times
+
+Kraken's game-plan is very simple: 75% of the time he will use a regular attack, 25% of the time he will use Ink to try and blind your party. The nature of the challenge here is that you are engaging Kraken in a damage race; at this point the tools that you have to do that will vary pretty significantly based on the other restrictions you are dealing with. It should also be noted early on that due to the logic of the challenge, casting spells that target your whole party will count as one action for each target affected - don't go pressing Inv2 or Hel2 here. You can feasibly Slow Kraken to make its physical damage less threatening, but don't expect it to work reliably, and if you can go without spending the action then you might be better off for it.
+
+*Chests and class changing allowed*: Most physical attackers should have the gear and stats to punch through Kraken's defense at this point. Spending turns casting Fast is still most likely a good idea, but if your attackers are capable of doing without it, your wizards may have a chance to burn some slots on attack magic instead; Lit3 can potentially do up to 360 damage per cast, though somewhere in the 200 range is more likely. White Wizards can either just run or try Fade (if you've got it by now). Most characters should be able to contribute enough damage that running to conserve actions shouldn't be necessary; just hit Kraken as hard as possible and it should keel over within two full rounds with room to spare.
+
+*No optional chests*: Depending on your party composition, beating Kraken with raw physical damage may not be ideal; if you have some Wizards to work with, high level offensive magic may be more of a core strat, since Kraken's 60 Absorb is making the Knight's good old fashioned Silver Sword look a bit outdated. Running to save actions is more of a concern here. If you're going to put Fast on a physical attacker and try to swing for game, I'd recommend spending your attacker's first turn running so you don't spend actions on relatively ineffectual non-hasted attacks. 
+
+*No optional chests and no class change*: If you have a Black Mage on this team (which you likely should), Lit3 can still put in the same work as it does in any other situation. Besides that, the Black Belt can put in a great showing of not caring about this set of restrictions at all; a decently leveled black belt with Fast dropped on him can turn this boss into paste within a couple rounds at most, and if it doesn't work out you just need more levels. This runs the risk of getting blinded but is the fastest way to do the challenge even moreso than usual.
+
+Of Mighty Magic (10) [achievement 27656]
+_Have a character learn 24 spells._
+
+If you didn't do this in the middle of the Sea Shrine, there's no further reason to put it off, since once you can speak Lefeinish you've got access to all the spells you're ever going to have. Go pick up Lif2 and Nuke and nab the Chime while you're at it. White Wizards can run back to Gaia and fill in the rest of their slots with Fade and Wall (Xfer doesn't do anything when cast); Black Wizards can do the same with any two of the 8th level spells there (you're most likely not going to do anything with them either way).
+
+Sky Raider (5) [achievement 398484]
+_Open all treasure chests in the Mirage Tower and Floating Castle._
+
+Now that we have the Chime and the Cube, we have access to the last fiend dungeon. Mirage Tower's located in the vast desert northwest of Lefein and you'll have to land the airship on a small patch of grass to the south then walk the rest of the way in order to get there. After entering Mirage Tower, there are 8 chests accessible in the interior of floor 1 (Cabin, Aegis Shield, 2750 G, 3400 G, 18010 G, Vorpal sword, Heal Helmet, 880 G). The stairs up to Floor 2 are just across the wall from the entrance.
+
+You'll have to make it through a bit of a pillar maze upon entering Floor 2; getting to the stairs and the treasure room requires going counterclockwise around half the room, then weaving your way through the rows of pillars to get to the interior of the floor.
+
+Mjolnir Cometh (5) [achievement 27659]
+_Obtain Thor's Hammer._
+
+Found in the treasure room in the middle of Floor 2 of the Mirage Tower; it's the middle-left chest, specifically.
+
+Sky Raider (5) [achievement 398484]
+_Open all treasure chests in the Mirage Tower and Floating Castle._
+
+After that specific treasure, crack open the rest in this floor 2 treasure room (13000 G, 12350 G, 7900 G, 8135 G, Dragon Armor, 10000 G, Sun Sword, 7690 G, House). Continue up the stairs to the north and get to Floor 3. Floor 3 doesn't actually have anything on it besides a teleporter that goes up to the Floating Castle and requires the Cube to operate (hopefully you have it; if not, it's in the Waterfall Cave near Onrac).
+
+Teleporting to the first floor of the Floating Castle, there's a treasure room to the west (4 chests, 9900 G, Heal potion, 4150 G, 7900 G), a treasure room to the east (5 chests, 5000 G, ProRing, 6720 G, Heal Helmet, 180 G), and a treasure room to the south (1 chest, Bane Sword). The teleporter to Floor 2 is up north. Floor 2 is laid out like a compass; northwest is a room containing 2 chests (Silver Helmet, House). West contains 2 more chests (880 G, 13000 G). Southwest contains 1 chest (Adamant). Southeast has 2 chests (Black Shirt, White Shirt). East has 2 chests (Opal Shield, Ribbon). Northeast contains 1 chest (Opal Gauntlet). Directly south from the starting teleporter is the teleporter to Floor 3, which has a couple standalone tasks to deal with right away.
+
+God's Eye View (3) [achievement 398473]
+_Get a glimpse of where the four forces are flowing together._
+
+As soon as you teleport up to Floor 3, you can talk to the green robot nearby and then examine the hole in the bottom of the rectangular "window" to get this bit of text.
+
+Slice and Dice (5) [achievement 398474]
+_Obtain a Katana._
+
+Found in the treasure room along the left-hand path from where you got the previous achievement; there's 4 chests, it's the one furthest to the right.
+
+Sky Raider (5) [achievement 398484]
+_Open all treasure chests in the Mirage Tower and Floating Castle._
+
+Continuing on from the room where we just grabbed the Katana, there's three other chests in there (Soft potion, 4150 G, 3400 G). Heading back to the teleporter from Floor 2 and going north this time, there's another room with 4 chests (9000 G, Heal potion, ProRing, 5450 G). This floor's east wing has one more treasure room containing 6 chests (6400 G, Cloth, ProCape, Soft potion, 9500 G, 8135 G). That should do it for this zone's chests. Go up to Floor 4 via the teleporter under the room where you got the Katana. Floor 4 is massive but also empty; go east past one grid intersection, then once you reach a second intersection head south to find the Floor 5 teleporter.
+
+Rage Against the Machine (25) [achievement 27655]
+_Defeat a Warmech in the Floating Castle._
+
+Floor 5 of the Floating Castle has a 4.7% chance of spawning a Warmech as a random encounter. This creature is something of a bonus boss; its 1000 max HP and 80 absorb make it bulkier than any boss you've seen thus far and it resists every element except Time (you have a 7% chance to hit it with Stop and a 0% chance to hit it with Zap!, so that defensive gap isn't doing much). Warmech also has a pair of extremely accurate physical attacks that hit harder than even Chaos' and has a 25% chance to blast your party with a slightly buffed version of the Black Wizard's Nuke spell, potentially hitting for over 300 AOE non-resistable damage. Considering its ridiculous offense and 100% magic evade, the main strategy here is to buff up a physical attacker and hope they can kill it before it kills you. There's no shame in leaving this one for after the final dungeon and hoping Warmech doesn't come to visit while you're trying to fight Tiamat instead.
+
+Choking Hazard (5) [achievement 398486]
+_Defeat Tiamat in the Floating Castle with poison gas._
+
+Tiamat statistics: 1000 HP, weak to Poison, neutral to Status, Time and Death, resists Fire, Cold, Lightning, and Earth, attacks hit 4 times
+
+Tiamat has a 50% chance of attacking you and a 50% chance of cycling through a set of special attacks that do Lightning, Poison, Cold, and Fire damage, in that order. She has 100% magic evade and is neutral to Status, so most spells that inflict status ailments won't reasonably work. The way this fight will go down is pretty heavily influenced by whether you're allowing optional chests; not only do Ribbon-wearers have an easier time living out her waves of elemental attacks, you also hopefully picked up the Bane Sword in this dungeon.
+
+Essentially, your one means of offense in this challenge is the Bane spell, which is a Poison-elemental level 5 black magic spell that instantly kills an enemy which fails to resist it. Tiamat is weak to Poison, which makes it *possible* for the spell to connect, but not terribly likely - the chance of any given cast connecting is around 20%. If you didn't pick up the Bane Sword, your amount of tries is the amount of level 5 black magic slots you went into the fight with. With class changing allowed, Red Wizards and Black Wizards can both learn Bane; if you're banning both optional chests and class changing, Red Mages can't use it at all, so only Black Mages can even try to win here. You'll have to be past level 32 to have enough level 5 spell slots for the odds to be in your favor. Considering how long it takes to run back, and the possibility of having your black mage killed by Tiamat due to bad equipment/HP before they can even run out of those spell slots, this is one case where I say "just go for the Bane Sword and deal with the extra dungeon run". The Bane Sword's use effect is exactly as likely to hit as the black magic spell and you can use it unlimited times per fight; you also don't need to be able to equip it to cast Bane with it. Just spam the sword and have everybody else focus on keeping the party alive as long as possible and eventually it'll connect.
+
+## Heading For The Finale
+
+The True King (5) [achievement 27658]
+_Obtain Excalibur._
+
+If you got the Adamant from the chest in the Floating Castle, deliver it to the blacksmith in the Dwarf Cave and he'll whip up the Excalibur for you.
+
+Time to head on into the final dungeon. There's not much else to be done on the world map at this point; just make sure you have the Lute before you go back into the Temple of Fiends.
+
+What's Old Is New Again (10) [achievement 398485]
+_Open all treasure chests in the Temple of Fiends._
+
+After defeating all four fiends, a black orb will manifest in the Temple of Fiends near Coneria; touching it will send you back to the Temple of Fiends (Past). Once you go in, you'll need to have Exit or Warp to get out, so for no-class-change runs (or any team comp otherwise lacking a Wizard) this is a one way trip. 
+
+You start the Temple of Fiends (Past) on Floor 3. No chests here, aim for the bottom right corner of the floor and take the stairs to Floor 2. This small interior chamber has another set of stairs leading up to Floor 1. Head to the central room of this floor to find two chests (45000 G, 65000 G), then use the Lute on the stone plate to uncover a ladder leading down. The ladder will drop you off in the main part of Floor 2; make tracks for the northwest corner of this floor to get back to Floor 3, then take the path heading west to find another set of stairs down leading to Floor 4. 
+
+Nothing useful on Floor 4, follow the path along the outside of the floor to reach the southeast corner and refight Lich to proceed down to floor 5. Floor 5 has 4 treasures; head through the door to the north and around to get to the east side of this area. Don't approach the stairs yet, take the path south to reach a pair of doors. The left one leads to two chests (a ProRing and a Katana), the right one leads to another two chests (ProCape, 26000 G). Afterwards, retrace your steps to the stairs down, approach them to refight Kary, and make it down to floor 6.
+
+Floor 6 has no treasures to worry about and making your way through is just a matter of navigating the rooms with multiple doors; your goal and the Kraken refight are in the southeast corner of the floor.
+
+Blade of Purity (10) [achievement 27657]
+_Obtain Masamune._
+
+Pick this up on Floor 7 of the Temple of Fiends (Past). From the entry stairs, head south and then east through a couple of the boxy rooms; you'll see a corridor extending from the southeast corner of the southeast room. Follow it to pick up the Masamune, then take out Tiamat again and move down to Floor 8. This should also finish off your treasure completion for the Temple of Fiends.
+
+Balmless Battler of Cruel Chaos (5) [achievement 398943]
+_Defeat Chaos without healing yourself._
+
+Chaos Statistics: 2000 HP, Resistant to All Elements, Attack hits twice, Attack can inflict paralysis (non-elemental)
+
+Chaos has a 25% chance of attacking you physically, a 25% chance to use a special attack from a list of Crack (Earth-elemental instant KO), Inferno (heavy fire magic damage to all allies), Swirl, and Tornado (identical non-elemental full party magic attacks, not as much raw power as Inferno but can't be resisted), and a 50% chance of cycling through a spell list of Ice3 -> Lit3 -> Slo2 -> Cur4 -> Fir3 -> Ice2 -> Fast -> Nuke. That Cur4 is a particularly nasty trick that will negate any damage he's taken so far, so protracted engagements would be likely to end in his favor anyway. Chaos has a 100% magic resistance on top of his full suite of elemental resists, so offensive magic is suboptimal here. White magic users should focus on improving the party's physical durability or patching up any elements they may not resist; black magic users should prioritize buffing physical attackers with Fast and then either attacking if they have a decent attack stat to work with, or throwing whatever high level damage spells they may have left (the effects will be moderate even for Nuke, but it's better than doing nothing).
+
+It should be noted that Chaos is technically a fully repeatable fight, and a run that beat him without picking up any optional items will have a considerable victory lap to mastery anyway since they will have to go clear out every dungeon (including the Temple of Fiends). If you find that you need healing to win in the no-optional-chests fight, you can go back and do this after your collecting spree, putting a pretty fitting cap on your mastery.

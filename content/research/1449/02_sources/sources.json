@@ -1,0 +1,577 @@
+[
+  {
+    "id": "ra-comments",
+    "site": "RetroAchievements",
+    "title": "Final Fantasy — RetroAchievements community comments",
+    "url": "https://retroachievements.org/game/1449",
+    "kind": "ra-comments",
+    "file": "ra-comments.txt",
+    "chars": 107544,
+    "collected_at": "2026-10-27T02:32:30.401Z"
+  },
+  {
+    "id": "ra-guide",
+    "site": "RetroAchievements Guides Wiki",
+    "title": "Final Fantasy (NES)",
+    "url": "https://github.com/RetroAchievements/guides/wiki/Final-Fantasy-(NES)",
+    "kind": "ra-guide",
+    "file": "ra-guide.txt",
+    "chars": 54618,
+    "collected_at": "2026-10-27T02:32:30.617Z"
+  },
+  {
+    "id": "gf1",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "brian_sulpher",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/25809",
+    "kind": "guide",
+    "file": "gf1.txt",
+    "chars": 281409,
+    "collected_at": "2026-10-27T02:33:17.769427+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "gf2",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "Caldor",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/19902",
+    "kind": "guide",
+    "file": "gf2.txt",
+    "chars": 259806,
+    "collected_at": "2026-10-27T02:33:22.071988+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 4,
+        "gba": 1,
+        "ps1": 1
+      }
+    }
+  },
+  {
+    "id": "gf3",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "GhostOfLegault",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/55625",
+    "kind": "guide",
+    "file": "gf3.txt",
+    "chars": 406124,
+    "collected_at": "2026-10-27T02:33:26.244243+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "other",
+      "counts": {},
+      "set_by": "agent (--hold)"
+    },
+    "use": false
+  },
+  {
+    "id": "gf4",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "Shady_Knight",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/47690",
+    "kind": "guide",
+    "file": "gf4.txt",
+    "chars": 305368,
+    "collected_at": "2026-10-27T02:33:30.367710+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "other",
+      "counts": {
+        "nes": 8,
+        "gba": 1
+      },
+      "set_by": "agent (--hold)"
+    },
+    "use": false
+  },
+  {
+    "id": "map-world",
+    "site": "VGMaps",
+    "title": "World Map",
+    "author": "Rick Bruns",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-World.png",
+    "kind": "map",
+    "file": "map-world.txt",
+    "chars": 167,
+    "collected_at": "2026-10-27T02:33:48.704916+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-World.png"
+  },
+  {
+    "id": "map-world-in-game-map",
+    "site": "VGMaps",
+    "title": "World(In Game Map) Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-World(In-GameMap).png",
+    "kind": "map",
+    "file": "map-world-in-game-map.txt",
+    "chars": 198,
+    "collected_at": "2026-10-27T02:33:49.026037+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-World(In-GameMap).png"
+  },
+  {
+    "id": "map-coneria",
+    "site": "VGMaps",
+    "title": "Coneria Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Coneria.png",
+    "kind": "map",
+    "file": "map-coneria.txt",
+    "chars": 167,
+    "collected_at": "2026-10-27T02:33:49.356184+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Coneria.png"
+  },
+  {
+    "id": "map-coneria-castle",
+    "site": "VGMaps",
+    "title": "Coneria Castle Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-ConeriaCastle.png",
+    "kind": "map",
+    "file": "map-coneria-castle.txt",
+    "chars": 186,
+    "collected_at": "2026-10-27T02:33:49.676866+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-ConeriaCastle.png"
+  },
+  {
+    "id": "map-temple-of-fiends-present",
+    "site": "VGMaps",
+    "title": "Temple Of Fiends(Present) Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-TempleOfFiends(Present).png",
+    "kind": "map",
+    "file": "map-temple-of-fiends-present.txt",
+    "chars": 217,
+    "collected_at": "2026-10-27T02:33:50.006363+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-TempleOfFiends(Present).png"
+  },
+  {
+    "id": "map-matoyas-cave",
+    "site": "VGMaps",
+    "title": "Matoya's Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Matoya'sCave.png",
+    "kind": "map",
+    "file": "map-matoyas-cave.txt",
+    "chars": 183,
+    "collected_at": "2026-10-27T02:33:50.327104+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Matoya'sCave.png"
+  },
+  {
+    "id": "map-pravoka",
+    "site": "VGMaps",
+    "title": "Pravoka Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Pravoka.png",
+    "kind": "map",
+    "file": "map-pravoka.txt",
+    "chars": 167,
+    "collected_at": "2026-10-27T02:33:50.649801+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Pravoka.png"
+  },
+  {
+    "id": "map-elfland",
+    "site": "VGMaps",
+    "title": "Elfland Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Elfland.png",
+    "kind": "map",
+    "file": "map-elfland.txt",
+    "chars": 167,
+    "collected_at": "2026-10-27T02:33:50.971302+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Elfland.png"
+  },
+  {
+    "id": "map-elfland-castle",
+    "site": "VGMaps",
+    "title": "Elfland Castle Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-ElflandCastle.png",
+    "kind": "map",
+    "file": "map-elfland-castle.txt",
+    "chars": 186,
+    "collected_at": "2026-10-27T02:33:51.299370+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-ElflandCastle.png"
+  },
+  {
+    "id": "map-northwest-castle",
+    "site": "VGMaps",
+    "title": "Northwest Castle Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-NorthwestCastle.png",
+    "kind": "map",
+    "file": "map-northwest-castle.txt",
+    "chars": 192,
+    "collected_at": "2026-10-27T02:33:51.624984+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-NorthwestCastle.png"
+  },
+  {
+    "id": "map-marsh-cave",
+    "site": "VGMaps",
+    "title": "Marsh Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-MarshCave.png",
+    "kind": "map",
+    "file": "map-marsh-cave.txt",
+    "chars": 174,
+    "collected_at": "2026-10-27T02:33:51.945111+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-MarshCave.png"
+  },
+  {
+    "id": "map-dwarf-cave",
+    "site": "VGMaps",
+    "title": "Dwarf Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-DwarfCave.png",
+    "kind": "map",
+    "file": "map-dwarf-cave.txt",
+    "chars": 174,
+    "collected_at": "2026-10-27T02:33:52.270777+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-DwarfCave.png"
+  },
+  {
+    "id": "map-melmond",
+    "site": "VGMaps",
+    "title": "Melmond Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Melmond.png",
+    "kind": "map",
+    "file": "map-melmond.txt",
+    "chars": 167,
+    "collected_at": "2026-10-27T02:33:52.598507+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Melmond.png"
+  },
+  {
+    "id": "map-earth-cave",
+    "site": "VGMaps",
+    "title": "Earth Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-EarthCave.png",
+    "kind": "map",
+    "file": "map-earth-cave.txt",
+    "chars": 174,
+    "collected_at": "2026-10-27T02:33:52.930911+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-EarthCave.png"
+  },
+  {
+    "id": "map-titans-cave",
+    "site": "VGMaps",
+    "title": "Titan's Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Titan'sCave.png",
+    "kind": "map",
+    "file": "map-titans-cave.txt",
+    "chars": 180,
+    "collected_at": "2026-10-27T02:33:53.257887+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Titan'sCave.png"
+  },
+  {
+    "id": "map-sardas-cave",
+    "site": "VGMaps",
+    "title": "Sarda's Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Sarda'sCave.png",
+    "kind": "map",
+    "file": "map-sardas-cave.txt",
+    "chars": 180,
+    "collected_at": "2026-10-27T02:33:53.578924+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Sarda'sCave.png"
+  },
+  {
+    "id": "map-crescent-lake",
+    "site": "VGMaps",
+    "title": "Crescent Lake Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-CrescentLake.png",
+    "kind": "map",
+    "file": "map-crescent-lake.txt",
+    "chars": 183,
+    "collected_at": "2026-10-27T02:33:53.905490+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-CrescentLake.png"
+  },
+  {
+    "id": "map-gurgu-volcano",
+    "site": "VGMaps",
+    "title": "Gurgu Volcano Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-GurguVolcano.png",
+    "kind": "map",
+    "file": "map-gurgu-volcano.txt",
+    "chars": 183,
+    "collected_at": "2026-10-27T02:33:54.227586+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-GurguVolcano.png"
+  },
+  {
+    "id": "map-ice-cave",
+    "site": "VGMaps",
+    "title": "Ice Cave Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-IceCave.png",
+    "kind": "map",
+    "file": "map-ice-cave.txt",
+    "chars": 168,
+    "collected_at": "2026-10-27T02:33:54.554009+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-IceCave.png"
+  },
+  {
+    "id": "map-cardia-islands",
+    "site": "VGMaps",
+    "title": "Cardia Islands Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-CardiaIslands.png",
+    "kind": "map",
+    "file": "map-cardia-islands.txt",
+    "chars": 186,
+    "collected_at": "2026-10-27T02:33:54.873462+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-CardiaIslands.png"
+  },
+  {
+    "id": "map-castle-of-ordeals",
+    "site": "VGMaps",
+    "title": "Castle Of Ordeals Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-CastleOfOrdeals.png",
+    "kind": "map",
+    "file": "map-castle-of-ordeals.txt",
+    "chars": 193,
+    "collected_at": "2026-10-27T02:33:55.193986+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-CastleOfOrdeals.png"
+  },
+  {
+    "id": "map-gaia",
+    "site": "VGMaps",
+    "title": "Gaia Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Gaia.png",
+    "kind": "map",
+    "file": "map-gaia.txt",
+    "chars": 158,
+    "collected_at": "2026-10-27T02:33:55.519681+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Gaia.png"
+  },
+  {
+    "id": "map-onrac",
+    "site": "VGMaps",
+    "title": "Onrac Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Onrac.png",
+    "kind": "map",
+    "file": "map-onrac.txt",
+    "chars": 161,
+    "collected_at": "2026-10-27T02:33:55.841102+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Onrac.png"
+  },
+  {
+    "id": "map-waterfall",
+    "site": "VGMaps",
+    "title": "Waterfall Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Waterfall.png",
+    "kind": "map",
+    "file": "map-waterfall.txt",
+    "chars": 173,
+    "collected_at": "2026-10-27T02:33:56.160227+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Waterfall.png"
+  },
+  {
+    "id": "map-sea-shrine",
+    "site": "VGMaps",
+    "title": "Sea Shrine Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-SeaShrine.png",
+    "kind": "map",
+    "file": "map-sea-shrine.txt",
+    "chars": 174,
+    "collected_at": "2026-10-27T02:33:56.480560+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-SeaShrine.png"
+  },
+  {
+    "id": "map-lefein",
+    "site": "VGMaps",
+    "title": "Lefein Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Lefein.png",
+    "kind": "map",
+    "file": "map-lefein.txt",
+    "chars": 164,
+    "collected_at": "2026-10-27T02:33:56.809402+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-Lefein.png"
+  },
+  {
+    "id": "map-mirage-tower",
+    "site": "VGMaps",
+    "title": "Mirage Tower Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-MirageTower.png",
+    "kind": "map",
+    "file": "map-mirage-tower.txt",
+    "chars": 180,
+    "collected_at": "2026-10-27T02:33:57.132349+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-MirageTower.png"
+  },
+  {
+    "id": "map-sky-castle",
+    "site": "VGMaps",
+    "title": "Sky Castle Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-SkyCastle.png",
+    "kind": "map",
+    "file": "map-sky-castle.txt",
+    "chars": 174,
+    "collected_at": "2026-10-27T02:33:57.457914+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-SkyCastle.png"
+  },
+  {
+    "id": "map-temple-of-fiends-past",
+    "site": "VGMaps",
+    "title": "Temple Of Fiends(Past) Map",
+    "author": "Paco",
+    "url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-TempleOfFiends(Past).png",
+    "kind": "map",
+    "file": "map-temple-of-fiends-past.txt",
+    "chars": 208,
+    "collected_at": "2026-10-27T02:33:57.779746+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/NES/FinalFantasy-TempleOfFiends(Past).png"
+  },
+  {
+    "id": "gf5",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "Action",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/46853",
+    "kind": "guide",
+    "file": "gf5.txt",
+    "chars": 235027,
+    "collected_at": "2026-10-27T02:34:01.641955+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "other",
+      "counts": {
+        "nes": 1,
+        "gba": 1
+      },
+      "set_by": "agent (--hold)"
+    },
+    "use": false
+  },
+  {
+    "id": "gf6",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "The_Mattinator",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/33863",
+    "kind": "guide",
+    "file": "gf6.txt",
+    "chars": 139715,
+    "collected_at": "2026-10-27T02:34:05.588609+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "other",
+      "counts": {},
+      "set_by": "agent (--hold)"
+    },
+    "use": false
+  },
+  {
+    "id": "gf7",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "JHarring",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/3006",
+    "kind": "guide",
+    "file": "gf7.txt",
+    "chars": 77434,
+    "collected_at": "2026-10-27T02:34:19.113672+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 1
+      }
+    }
+  },
+  {
+    "id": "gf8",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "Zach_Keene",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/3008",
+    "kind": "guide",
+    "file": "gf8.txt",
+    "chars": 54907,
+    "collected_at": "2026-10-27T02:34:23.012371+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "unknown",
+      "counts": {
+        "arcade": 1,
+        "pc": 1
+      }
+    }
+  },
+  {
+    "id": "gf9",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "Edge",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/8880",
+    "kind": "guide",
+    "file": "gf9.txt",
+    "chars": 159690,
+    "collected_at": "2026-10-27T02:34:26.880315+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 2,
+        "gb": 2,
+        "snes": 1
+      }
+    }
+  },
+  {
+    "id": "gf10",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "DJellybean",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/10145",
+    "kind": "guide",
+    "file": "gf10.txt",
+    "chars": 142430,
+    "collected_at": "2026-10-27T02:34:30.795556+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 6
+      }
+    }
+  },
+  {
+    "id": "gf11",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "BSiron",
+    "url": "https://gamefaqs.gamespot.com/nes/522595-final-fantasy/faqs/3005",
+    "kind": "guide",
+    "file": "gf11.txt",
+    "chars": 62930,
+    "collected_at": "2026-10-27T02:34:34.660797+00:00",
+    "platform": {
+      "target": "nes",
+      "match": "same",
+      "counts": {
+        "nes": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{"at":"2026-10-27T02:32:30.652Z","kind":"step","label":"npm run rw:fetch -- 1449","active_ms":49699,"exit":0}
+{"at":"2026-10-27T02:34:50.056Z","kind":"agent","label":"2 sources","active_ms":130603,"tokens":42780,"tool_uses":13,"model":"sonnet"}
+{"at":"2026-10-27T03:15:58.477Z","kind":"step","label":"npm run rw:extract -- 1449","active_ms":2466910,"exit":0}
+{"at":"2026-10-27T03:16:00.434Z","kind":"step","label":"npm run rw:verify -- 1449","active_ms":963,"exit":0}
+{"at":"2026-10-27T03:28:19.153Z","kind":"agent","label":"6-7 route","active_ms":726615,"tokens":226226,"tool_uses":69,"model":"opus"}
+{"at":"2026-10-27T03:30:40.871Z","kind":"step","label":"npm run rw:write -- 1449","active_ms":140088,"exit":0,"limit":true}
+{"at":"2026-10-27T04:32:45.569Z","kind":"step","label":"npm run rw:write -- 1449 --fix","active_ms":54148,"exit":0}
+{"at":"2026-10-27T04:42:43.177Z","kind":"agent","label":"9 review","active_ms":587361,"tokens":172057,"tool_uses":97,"model":"opus"}
+{"at":"2026-10-27T10:38:58.806Z","kind":"agent","label":"6-7 replan","active_ms":365694,"tokens":113326,"tool_uses":26,"model":"opus"}
+{"at":"2026-10-27T10:50:20.106Z","kind":"agent","label":"9 re-review","active_ms":442604,"tokens":158834,"tool_uses":85,"model":"opus"}

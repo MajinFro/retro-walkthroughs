@@ -1,0 +1,1307 @@
+[
+  {
+    "fact_id": "gf11-16-4",
+    "resolution": "reject",
+    "rationale": "Lich refight HP outlier: gf11's table gives 500 HP and 'not weak vs fire', but gf2's bestiary (Lich (2): HP 800) and gf10-57-2 (800 HP, weak to Fire) agree on 800 HP, and gf1-122-5 says the second form is still hurt by Fire and Harm."
+  },
+  {
+    "fact_id": "gf11-17-3",
+    "resolution": "reject",
+    "rationale": "Kary refight HP outlier: gf11 gives 700 HP; gf2's bestiary entry 'Kary (2)' gives HP 800."
+  },
+  {
+    "fact_id": "gf11-18-2",
+    "resolution": "reject",
+    "rationale": "Kraken refight HP outlier: gf11 gives 900 HP; gf2's bestiary 'Kraken (2)' and gf10-56-2/gf10-33-1 (corroborated by gf7, gf8) give 1000 HP."
+  },
+  {
+    "fact_id": "gf1-115-1",
+    "resolution": "reject",
+    "rationale": "Kraken refight HP: gf1 lists 800 HP (the Sea Shrine figure) for the Temple of Fiends refight; gf2 ('Kraken (2)' HP 1,000) and gf10 (1000 HP) agree on 1000."
+  },
+  {
+    "fact_id": "gf2-128-2",
+    "resolution": "reject",
+    "rationale": "Eye HP outlier: 182 HP; gf7 bestiary ('Eye 162'), gf10's own boss box ('BOSS BATTLE: Eye HP: 162') and gf11 (162) agree on 162. Its 'weak to Fire, Harm' line is also unsupported elsewhere."
+  },
+  {
+    "fact_id": "gf10-44-2",
+    "resolution": "reject",
+    "rationale": "Eye HP outlier: this gf10 table says 182 HP while gf10's walkthrough boss box, gf7 and gf11 say 162."
+  },
+  {
+    "fact_id": "gf2-35-1",
+    "resolution": "reject",
+    "rationale": "gf2 marks Kary's weakness as 'Ice?' (uncertain); ra-guide ('Resistant to Fire, Cold, Lightning, and Poison') and gf11 (rF,rI,rL) both say Kary resists Ice."
+  },
+  {
+    "fact_id": "gf2-39-3",
+    "resolution": "reject",
+    "rationale": "Claims the Temple of Fiends Tiamat refight dies to one hit of Bane/Brak; gf1-122-11 says the refight is no longer weak to Bane, and gf11's TIAMAT* entry drops the w(BANE,BRAK) of the Floating Castle Tiamat."
+  },
+  {
+    "fact_id": "gf10-8-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|garland|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-118-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|garland|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-42-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|garland|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-8-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|bridge|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-42-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|bridge|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-18-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|vampire|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-18-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|vampire|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-20-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-113-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-119-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-19-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-19-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-5-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-20-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|black orb|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-15-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|black orb|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-22-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-22-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-114-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-120-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-35-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-22-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-34-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-16",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-17",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-19",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-19-20",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-20-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-20-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-20-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-20-16",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-20-19",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-9-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-24-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-88-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-24-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-120-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-53-16",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-53-17",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-25-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|airship|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-88-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|airship|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-27-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|bahamut|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-88-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|bahamut|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-52-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|bahamut|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-29-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-13-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-10-20",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-13-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-32-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|mirage tower|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-105-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|mirage tower|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-33-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|has hp): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-33-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-33-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-33-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-115-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-121-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-36-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-17-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-30-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-34-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-33-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|black orb|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-12-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|black orb|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-34-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|garland|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-47-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|garland|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-3-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|garland|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-35-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-16-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-35-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-123-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-35-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-46-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-46-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-16-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-9-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-56-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-56-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-13-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-16-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-57-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-119-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-19-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-7-17",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-20-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-5-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf10-13-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-14-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-6-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-15-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf11-16-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-113-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf11-17-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-114-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-114-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf11-18-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-23-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-102-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-115-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-115-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kraken|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf11-19-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-110-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-121-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-32-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-12-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-39-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-15-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf11-19-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-110-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-110-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-116-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-49-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-49-20",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf11-19-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-117-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-3-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-47-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-49-21",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-50-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-52-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-52-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-54-20",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-55-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|defeated by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-109-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-15-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-16-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-112-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantom|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantom|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-18-102",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantom|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-12-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantom|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-116-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|garland|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-16-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|garland|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-118-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-14-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-15-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-15-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-15-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-15-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|astos|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-121-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|warmech|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-32-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|warmech|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-121-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-32-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-35-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-46-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-15-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-15-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|tiamat|countered by): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantom|drops): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-34-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|phantom|drops): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-140-26",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|vampire|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-71-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|vampire|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-42-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|king of coneria|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-3-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|king of coneria|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-43-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|matoya|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-50-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|matoya|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-3-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|matoya|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-5-16",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|matoya|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-43-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|matoya's cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-3-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|matoya's cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-60-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|astos|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-14-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|astos|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-68-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|melmond|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-71-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|melmond|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-74-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|melmond|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-7-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|melmond|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-74-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-15-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-12-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-16-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|lich|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-74-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|earth crystal|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-20-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|earth crystal|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-84-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zombie dragon|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-19-19",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zombie dragon|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-24-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|zombie dragon|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-84-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|throne|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-7-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|throne|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-8-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|throne|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-84-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|ice cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-88-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|ice cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-53-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|ice cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-9-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|ice cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-98-7",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|waterfall|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-99-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|waterfall|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-11-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|waterfall|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-100-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|sea shrine|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-101-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|sea shrine|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-37-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|sea shrine|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-124-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|stats): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-124-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|stats): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-16-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|stats): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-18-45",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|stats): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-16-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|nerrick|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-4-18",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|nerrick|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-6-21",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|nerrick|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-26-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|bahamut|unlocks): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-9-23",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|bahamut|unlocks): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-29-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|dr unne|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-13-17",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|dr unne|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-31-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|window|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-14-17",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|window|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-20-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-9-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|weak to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-36-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|fire crystal|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-10-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|fire crystal|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-40-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-45-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-50-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|earth cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-7-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|earth cave|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-52-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|nerrick|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-7-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|nerrick|triggers): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-16-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-10-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-16-9",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|kary|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf7-8-10",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|crescent lake|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-7-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|crescent lake|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-8-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|crescent lake|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-5-13",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|princess sara|drops): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-3-2",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|princess sara|drops): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-12-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|recommended level): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-52-11",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|recommended level): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-comments-55-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|chaos|recommended level): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-7-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|titan|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-19-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (quest|titan|requires): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-9-12",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|airship|unlocks): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-23-4",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (event|airship|unlocks): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-9-14",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|bahamut|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-24-3",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|bahamut|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-11-5",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (npc|bahamut|located in): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf8-9-15",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|castle of ordeal|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf9-23-8",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|castle of ordeal|leads to): the listed values are complementary details (different tactics, encounters, phases, or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf2-23-4",
+    "resolution": "reject",
+    "rationale": "Only gf2 claims the Eye is weak to Fire and Harm (the same gf2 bestiary entry also has the outlier 182 HP); gf11 data table lists the EYE with only a Quake immunity and no weakness, and gf1/gf10 recommend weapons, Mute, or the Rune Sword instead."
+  },
+  {
+    "fact_id": "gf10-24-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (boss|eye|located in): complementary details (directions or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-80-6",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|castle of ordeals|leads to): complementary details (directions or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "ra-guide-12-1",
+    "resolution": "accept",
+    "rationale": "Possible-conflict triage (transition|waterfall|leads to): complementary details (directions or a location filed as the value), not contradictory claims; kept."
+  },
+  {
+    "fact_id": "gf1-122-4",
+    "resolution": "reject",
+    "rationale": "Lich refight: gf1 repeats the Earth Cave figure (400 HP); gf2 bestiary Lich (2) HP 800 and gf10-57-2 (800 HP) agree on 800. The strategy in the neighbouring gf1-122 facts is kept."
+  },
+  {
+    "fact_id": "gf1-122-6",
+    "resolution": "reject",
+    "rationale": "Kary refight: gf1 repeats the Gurgu figure (600 HP); gf2 bestiary Kary (2) gives HP 800. The strategy in the neighbouring gf1-122 facts is kept."
+  },
+  {
+    "fact_id": "gf1-122-8",
+    "resolution": "reject",
+    "rationale": "Kraken refight: gf1 repeats the Sea Shrine figure (800 HP); gf2 Kraken (2) and gf10 give 1000 HP. The strategy in the neighbouring gf1-122 facts is kept."
+  }
+]

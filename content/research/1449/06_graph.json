@@ -1,0 +1,2776 @@
+{
+  "nodes": [
+    {
+      "id": "Coneria",
+      "label": "Coneria",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-129-1",
+        "gf10-118-3",
+        "gf10-119-1",
+        "gf10-119-2",
+        "gf10-91-2"
+      ]
+    },
+    {
+      "id": "Coneria_Castle",
+      "label": "Coneria Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf7-3-5",
+        "gf11-12-5",
+        "gf1-42-4",
+        "gf2-15-15",
+        "gf10-139-2"
+      ]
+    },
+    {
+      "id": "Temple_of_Fiends",
+      "label": "Temple of Fiends",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-112-7",
+        "gf1-139-9",
+        "gf1-139-32",
+        "gf10-47-2",
+        "gf10-56-2"
+      ]
+    },
+    {
+      "id": "Matoyas_Cave",
+      "label": "Matoya's Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf8-5-15",
+        "gf2-48-2",
+        "gf7-3-9",
+        "gf7-3-10",
+        "gf7-6-14"
+      ]
+    },
+    {
+      "id": "Pravoka",
+      "label": "Pravoka",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-70-3",
+        "gf2-70-5",
+        "gf2-71-1",
+        "gf2-71-3",
+        "gf10-105-3"
+      ]
+    },
+    {
+      "id": "Peninsula_of_Power",
+      "label": "Peninsula of Power",
+      "kind": "area",
+      "fact_ids": [
+        "gf11-20-11",
+        "gf11-20-9",
+        "gf11-20-10",
+        "gf1-141-3",
+        "gf9-12-7"
+      ]
+    },
+    {
+      "id": "Elfland",
+      "label": "Elfland",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-128-2",
+        "gf1-133-5",
+        "gf9-13-2",
+        "gf10-122-1",
+        "gf10-122-2"
+      ]
+    },
+    {
+      "id": "Elfland_Castle",
+      "label": "Elfland Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-15-3",
+        "gf2-15-5",
+        "gf10-90-2",
+        "gf10-96-3",
+        "gf10-10-1"
+      ]
+    },
+    {
+      "id": "Marsh_Cave",
+      "label": "Marsh Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-11-8",
+        "gf1-140-15",
+        "ra-guide-2-1",
+        "gf10-59-3",
+        "gf10-65-2"
+      ]
+    },
+    {
+      "id": "Northwest_Castle",
+      "label": "Northwest Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf11-16-1",
+        "gf9-15-11",
+        "gf10-13-2",
+        "gf1-125-17",
+        "gf2-47-2"
+      ]
+    },
+    {
+      "id": "Dwarf_Cave",
+      "label": "Dwarf Cave",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-4-10",
+        "gf1-125-4",
+        "gf1-134-3",
+        "gf1-62-2",
+        "gf2-99-2"
+      ]
+    },
+    {
+      "id": "Melmond",
+      "label": "Melmond",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-29-10",
+        "gf1-131-12",
+        "gf10-125-1",
+        "gf10-125-2",
+        "gf2-16-7"
+      ]
+    },
+    {
+      "id": "Earth_Cave",
+      "label": "Earth Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-139-18",
+        "gf1-139-46",
+        "gf1-140-19",
+        "gf1-140-24",
+        "gf7-7-14"
+      ]
+    },
+    {
+      "id": "Titans_Tunnel",
+      "label": "Titan's Tunnel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-72-1",
+        "gf1-134-5",
+        "gf1-72-2",
+        "gf1-72-5",
+        "ra-guide-5-7"
+      ]
+    },
+    {
+      "id": "Sardas_Cave",
+      "label": "Sarda's Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-19-7",
+        "gf1-136-12",
+        "gf1-72-7",
+        "gf2-18-9",
+        "gf2-50-1"
+      ]
+    },
+    {
+      "id": "Crescent_Lake",
+      "label": "Crescent Lake",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-126-1",
+        "gf1-75-1",
+        "gf10-126-2",
+        "gf10-127-2",
+        "gf1-77-1"
+      ]
+    },
+    {
+      "id": "Gurgu_Volcano",
+      "label": "Gurgu Volcano",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-64-1",
+        "gf1-139-13",
+        "gf1-139-22",
+        "gf7-10-2",
+        "gf10-66-2"
+      ]
+    },
+    {
+      "id": "Ice_Cave",
+      "label": "Ice Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf11-12-8",
+        "gf10-42-2",
+        "gf10-46-1",
+        "gf10-46-2",
+        "gf10-50-2"
+      ]
+    },
+    {
+      "id": "Ryukahn_Desert",
+      "label": "Ryukahn Desert",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-25-1",
+        "gf2-45-2",
+        "gf7-10-19",
+        "gf8-9-12"
+      ]
+    },
+    {
+      "id": "Castle_of_Ordeals",
+      "label": "Castle of Ordeals",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf9-24-1",
+        "gf10-69-2",
+        "gf10-73-13",
+        "gf10-98-2"
+      ]
+    },
+    {
+      "id": "Cardia_Islands",
+      "label": "Cardia Islands",
+      "kind": "area",
+      "fact_ids": [
+        "ra-guide-11-5",
+        "gf10-27-1",
+        "gf10-27-2",
+        "gf1-88-7",
+        "gf1-88-8"
+      ]
+    },
+    {
+      "id": "Caravan",
+      "label": "Caravan",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-28-1",
+        "gf11-12-10",
+        "gf1-136-2",
+        "gf1-99-11",
+        "gf10-133-5"
+      ]
+    },
+    {
+      "id": "Gaia",
+      "label": "Gaia",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-92-5",
+        "gf2-82-2",
+        "gf10-128-2",
+        "gf10-137-2",
+        "gf10-102-1"
+      ]
+    },
+    {
+      "id": "Onrac",
+      "label": "Onrac",
+      "kind": "area",
+      "fact_ids": [
+        "gf8-10-10",
+        "gf10-116-2",
+        "gf10-117-1",
+        "gf2-65-3",
+        "gf11-8-12"
+      ]
+    },
+    {
+      "id": "Waterfall",
+      "label": "Waterfall",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-48-1",
+        "gf2-47-3",
+        "gf10-30-1",
+        "gf10-60-1",
+        "gf10-61-3"
+      ]
+    },
+    {
+      "id": "Sea_Shrine",
+      "label": "Sea Shrine",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-139-31",
+        "gf1-139-50",
+        "gf1-139-59",
+        "gf1-140-16",
+        "ra-guide-2-5"
+      ]
+    },
+    {
+      "id": "Lefein",
+      "label": "Lefein",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-46-2",
+        "gf2-83-2",
+        "gf9-30-5",
+        "gf10-134-3",
+        "gf10-32-1"
+      ]
+    },
+    {
+      "id": "Mirage_Tower",
+      "label": "Mirage Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-139-14",
+        "gf8-11-17",
+        "gf1-125-13",
+        "gf1-125-14",
+        "gf1-134-2"
+      ]
+    },
+    {
+      "id": "Floating_Castle",
+      "label": "Floating Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-75-15",
+        "gf11-15-3",
+        "gf11-19-2",
+        "gf1-139-48",
+        "gf1-140-14"
+      ]
+    },
+    {
+      "id": "Temple_of_Fiends_Past",
+      "label": "Temple of Fiends (Past)",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-39-2",
+        "gf10-35-2",
+        "gf2-172-4",
+        "gf2-37-3",
+        "gf10-34-6"
+      ]
+    },
+    {
+      "id": "Ship",
+      "label": "Ship",
+      "kind": "area",
+      "fact_ids": [
+        "gf10-35-6",
+        "gf10-35-7",
+        "ra-comments-56-1",
+        "ra-comments-56-2",
+        "ra-comments-56-3"
+      ]
+    },
+    {
+      "id": "Garland",
+      "label": "Garland",
+      "kind": "boss",
+      "fact_ids": [
+        "gf10-47-2",
+        "gf1-42-3",
+        "gf8-5-12",
+        "gf8-12-2",
+        "gf9-12-1"
+      ]
+    },
+    {
+      "id": "Pirates",
+      "label": "Pirates (Bikke)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-44-4",
+        "gf2-10-4",
+        "gf10-138-2",
+        "gf10-9-1",
+        "gf10-9-2"
+      ]
+    },
+    {
+      "id": "Wizards_Crown",
+      "label": "Wizards (Crown guard)",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-guide-2-1",
+        "gf10-12-1",
+        "gf10-12-4",
+        "gf2-13-10"
+      ]
+    },
+    {
+      "id": "Astos",
+      "label": "Astos",
+      "kind": "boss",
+      "fact_ids": [
+        "gf11-16-1",
+        "gf9-15-11",
+        "gf10-13-2",
+        "gf2-47-2",
+        "gf8-6-14"
+      ]
+    },
+    {
+      "id": "Vampire",
+      "label": "Vampire",
+      "kind": "boss",
+      "fact_ids": [
+        "gf7-7-14",
+        "ra-guide-2-3",
+        "gf1-140-26",
+        "gf8-7-10",
+        "gf10-18-1"
+      ]
+    },
+    {
+      "id": "Lich",
+      "label": "Lich",
+      "kind": "boss",
+      "fact_ids": [
+        "ra-guide-5-12",
+        "gf11-16-3",
+        "gf1-74-1",
+        "gf8-7-17",
+        "gf10-20-3"
+      ]
+    },
+    {
+      "id": "Kary",
+      "label": "Kary",
+      "kind": "boss",
+      "fact_ids": [
+        "gf7-10-2",
+        "gf2-36-1",
+        "gf9-22-4",
+        "ra-guide-9-1",
+        "ra-guide-9-2"
+      ]
+    },
+    {
+      "id": "Eye",
+      "label": "Eye",
+      "kind": "boss",
+      "fact_ids": [
+        "gf8-9-11",
+        "gf9-23-2",
+        "gf9-23-3",
+        "gf10-24-1",
+        "gf10-24-2"
+      ]
+    },
+    {
+      "id": "Zombie_Dragon",
+      "label": "Zombie Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-84-1",
+        "gf1-141-4",
+        "gf1-84-2",
+        "gf2-25-9",
+        "gf8-9-21"
+      ]
+    },
+    {
+      "id": "Kraken",
+      "label": "Kraken",
+      "kind": "boss",
+      "fact_ids": [
+        "gf10-56-1",
+        "gf9-30-2",
+        "ra-guide-13-1",
+        "gf2-36-15",
+        "gf8-10-20"
+      ]
+    },
+    {
+      "id": "Tiamat",
+      "label": "Tiamat",
+      "kind": "boss",
+      "fact_ids": [
+        "gf11-19-2",
+        "ra-guide-15-5",
+        "gf1-109-3",
+        "gf2-32-5"
+      ]
+    },
+    {
+      "id": "WarMech",
+      "label": "WarMech",
+      "kind": "boss",
+      "fact_ids": [
+        "gf10-75-15",
+        "gf9-10-1",
+        "gf11-19-1",
+        "gf11-6-1",
+        "gf2-32-4"
+      ]
+    },
+    {
+      "id": "Fiend_Refights",
+      "label": "Lich, Kary, Kraken and Tiamat refights",
+      "kind": "boss",
+      "fact_ids": [
+        "gf10-56-2",
+        "gf7-16-6",
+        "gf7-16-9",
+        "gf10-34-6",
+        "gf10-57-2",
+        "gf1-116-1"
+      ]
+    },
+    {
+      "id": "Chaos",
+      "label": "Chaos",
+      "kind": "boss",
+      "fact_ids": [
+        "gf10-35-1",
+        "gf10-35-2",
+        "gf11-19-4",
+        "gf8-12-14",
+        "gf10-41-2"
+      ]
+    },
+    {
+      "id": "Lute",
+      "label": "Lute",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-112-7",
+        "gf7-3-5",
+        "gf10-8-8",
+        "gf10-136-3",
+        "gf10-136-4"
+      ]
+    },
+    {
+      "id": "Ship_Item",
+      "label": "Pirate Ship",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-44-4",
+        "gf10-138-2",
+        "gf10-9-2",
+        "gf2-51-1"
+      ]
+    },
+    {
+      "id": "Crown",
+      "label": "Crown",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf10-11-8",
+        "ra-guide-2-1",
+        "gf2-47-2",
+        "gf10-134-5"
+      ]
+    },
+    {
+      "id": "Crystal",
+      "label": "Crystal",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-47-2",
+        "gf2-48-2",
+        "gf7-6-14",
+        "gf8-5-16"
+      ]
+    },
+    {
+      "id": "Herb",
+      "label": "Herb",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-48-2",
+        "gf7-6-14",
+        "gf10-15-1",
+        "gf2-15-1"
+      ]
+    },
+    {
+      "id": "Mystic_Key",
+      "label": "Mystic Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf9-16-3",
+        "gf10-137-1",
+        "gf10-139-2",
+        "gf10-15-1"
+      ]
+    },
+    {
+      "id": "TNT",
+      "label": "TNT",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf11-12-5",
+        "gf2-15-15",
+        "gf8-6-21",
+        "gf10-139-2"
+      ]
+    },
+    {
+      "id": "Ruby",
+      "label": "Ruby",
+      "kind": "key_item",
+      "fact_ids": [
+        "ra-guide-2-3",
+        "gf1-72-1",
+        "gf8-7-10",
+        "gf10-137-3"
+      ]
+    },
+    {
+      "id": "Rod",
+      "label": "Rod",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf7-8-4",
+        "gf10-137-3",
+        "gf10-19-7",
+        "gf10-19-8"
+      ]
+    },
+    {
+      "id": "Canoe",
+      "label": "Canoe",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf10-134-1",
+        "gf2-20-2",
+        "gf2-21-1",
+        "gf2-46-1"
+      ]
+    },
+    {
+      "id": "Floater",
+      "label": "Floater",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf11-12-8",
+        "gf8-9-11",
+        "gf10-24-4",
+        "gf2-22-1"
+      ]
+    },
+    {
+      "id": "Airship",
+      "label": "Airship",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf10-25-1",
+        "gf2-45-2",
+        "gf7-10-19",
+        "gf8-9-12"
+      ]
+    },
+    {
+      "id": "Tail",
+      "label": "Tail",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf2-52-2",
+        "gf7-11-10",
+        "gf8-9-22"
+      ]
+    },
+    {
+      "id": "Bottle",
+      "label": "Bottle",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf10-137-2",
+        "gf10-28-1",
+        "gf11-12-10",
+        "gf1-136-2"
+      ]
+    },
+    {
+      "id": "Oxyale",
+      "label": "Oxyale",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf8-10-10",
+        "gf10-137-2",
+        "gf1-99-14",
+        "gf10-133-6"
+      ]
+    },
+    {
+      "id": "Cube",
+      "label": "Cube",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-47-3",
+        "gf10-30-1",
+        "gf1-99-10",
+        "gf10-135-4"
+      ]
+    },
+    {
+      "id": "Slab",
+      "label": "Slab",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-29-10",
+        "ra-guide-2-5",
+        "gf10-28-3",
+        "gf2-29-8"
+      ]
+    },
+    {
+      "id": "Chime",
+      "label": "Chime",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-46-2",
+        "gf10-134-3",
+        "gf11-12-13",
+        "gf2-30-4"
+      ]
+    },
+    {
+      "id": "Adamant",
+      "label": "Adamant",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-45-1",
+        "gf2-99-2",
+        "gf10-133-2",
+        "gf10-140-2"
+      ]
+    },
+    {
+      "id": "Thors_Hammer",
+      "label": "Thor's Hammer",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-98-1",
+        "gf10-92-1",
+        "gf1-106-11",
+        "gf1-129-3"
+      ]
+    },
+    {
+      "id": "Katana",
+      "label": "Katana",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-126-2",
+        "gf10-31-1",
+        "gf10-86-1",
+        "gf1-108-35"
+      ]
+    },
+    {
+      "id": "Excalibur",
+      "label": "Excalibur",
+      "kind": "item",
+      "fact_ids": [
+        "gf2-99-2",
+        "gf10-140-2",
+        "gf10-34-2",
+        "gf10-94-1"
+      ]
+    },
+    {
+      "id": "Masamune",
+      "label": "Masamune",
+      "kind": "item",
+      "fact_ids": [
+        "gf10-140-1",
+        "gf10-34-6",
+        "gf10-34-7",
+        "gf10-87-3"
+      ]
+    },
+    {
+      "id": "Princess_Sara",
+      "label": "Princess Sara",
+      "kind": "npc",
+      "fact_ids": [
+        "gf7-3-5",
+        "gf1-42-4",
+        "gf10-8-8",
+        "gf10-8-9"
+      ]
+    },
+    {
+      "id": "Matoya",
+      "label": "Matoya",
+      "kind": "npc",
+      "fact_ids": [
+        "gf8-5-15",
+        "gf2-48-2",
+        "gf7-3-9",
+        "gf7-3-10"
+      ]
+    },
+    {
+      "id": "Elf_Prince",
+      "label": "Elf Prince",
+      "kind": "npc",
+      "fact_ids": [
+        "gf10-137-1",
+        "gf10-10-1",
+        "gf10-14-6",
+        "gf10-14-7"
+      ]
+    },
+    {
+      "id": "Nerrick",
+      "label": "Nerrick",
+      "kind": "npc",
+      "fact_ids": [
+        "gf8-6-21",
+        "gf1-62-1",
+        "gf2-52-4",
+        "gf7-4-18"
+      ]
+    },
+    {
+      "id": "Titan",
+      "label": "Titan",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-72-1",
+        "gf10-137-3",
+        "gf10-19-6",
+        "gf8-7-12"
+      ]
+    },
+    {
+      "id": "Sarda",
+      "label": "Sarda",
+      "kind": "npc",
+      "fact_ids": [
+        "gf10-19-7",
+        "gf1-136-12",
+        "gf1-72-7",
+        "gf2-18-9"
+      ]
+    },
+    {
+      "id": "Circle_of_Sages",
+      "label": "Circle of Sages",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-75-1",
+        "gf10-134-1",
+        "gf10-21-5",
+        "gf1-110-9"
+      ]
+    },
+    {
+      "id": "Bahamut",
+      "label": "Bahamut",
+      "kind": "npc",
+      "fact_ids": [
+        "gf10-139-1",
+        "ra-guide-11-5",
+        "gf10-27-1",
+        "gf1-88-10"
+      ]
+    },
+    {
+      "id": "Fairy",
+      "label": "Fairy",
+      "kind": "npc",
+      "fact_ids": [
+        "gf10-137-2",
+        "gf1-99-14",
+        "gf11-12-11",
+        "gf1-99-13"
+      ]
+    },
+    {
+      "id": "Dr_Unne",
+      "label": "Dr. Unne",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-29-10",
+        "gf1-63-1",
+        "gf9-30-3"
+      ]
+    },
+    {
+      "id": "Robot",
+      "label": "Robot",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-47-3",
+        "gf10-30-1",
+        "gf1-99-10",
+        "gf2-28-7"
+      ]
+    },
+    {
+      "id": "Gravestone",
+      "label": "Elfland gravestone",
+      "kind": "quest",
+      "fact_ids": [
+        "ra-comments-9-2",
+        "ra-guide-4-1"
+      ]
+    },
+    {
+      "id": "Slider_Puzzle",
+      "label": "Ship slider puzzle",
+      "kind": "quest",
+      "fact_ids": [
+        "gf10-35-6",
+        "gf10-35-7",
+        "ra-comments-56-1",
+        "ra-comments-56-2"
+      ]
+    },
+    {
+      "id": "Window",
+      "label": "Floating Castle window",
+      "kind": "quest",
+      "fact_ids": [
+        "gf10-32-4",
+        "gf1-108-21",
+        "gf2-31-14",
+        "gf2-31-16"
+      ]
+    },
+    {
+      "id": "Spell_Shops",
+      "label": "Level 7-8 spell shops",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-92-5",
+        "gf2-83-2",
+        "gf1-104-1",
+        "gf1-105-1"
+      ]
+    },
+    {
+      "id": "Class_Change",
+      "label": "Class change",
+      "kind": "quest",
+      "fact_ids": [
+        "gf10-27-1",
+        "gf1-88-10",
+        "gf2-26-1",
+        "gf8-9-23"
+      ]
+    },
+    {
+      "id": "Time_Gate",
+      "label": "Time gate to the past",
+      "kind": "ponr",
+      "fact_ids": [
+        "gf8-12-2",
+        "gf10-136-4",
+        "gf10-140-4",
+        "gf1-111-1"
+      ]
+    },
+    {
+      "id": "Bridge",
+      "label": "Coneria bridge",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-42-4",
+        "gf10-8-9",
+        "gf8-5-14",
+        "ra-guide-3-2"
+      ]
+    },
+    {
+      "id": "Canal",
+      "label": "Dwarf canal",
+      "kind": "quest",
+      "fact_ids": [
+        "gf8-6-21",
+        "gf2-52-4",
+        "gf7-4-18",
+        "gf7-7-1"
+      ]
+    },
+    {
+      "id": "Ach_3569",
+      "label": "A Seemingly Useless Trinket",
+      "kind": "achievement",
+      "achievement_id": 3569
+    },
+    {
+      "id": "Ach_398471",
+      "label": "Punching Above Your Weight",
+      "kind": "achievement",
+      "achievement_id": 398471
+    },
+    {
+      "id": "Ach_3570",
+      "label": "Pirate Bay",
+      "kind": "achievement",
+      "achievement_id": 3570
+    },
+    {
+      "id": "Ach_398472",
+      "label": "May Thou Rest in Peace",
+      "kind": "achievement",
+      "achievement_id": 398472
+    },
+    {
+      "id": "Ach_3571",
+      "label": "Sleeping Prince",
+      "kind": "achievement",
+      "achievement_id": 3571
+    },
+    {
+      "id": "Ach_398477",
+      "label": "Plundered the Keeps",
+      "kind": "achievement",
+      "achievement_id": 398477
+    },
+    {
+      "id": "Ach_398478",
+      "label": "Cave Dweller",
+      "kind": "achievement",
+      "achievement_id": 398478
+    },
+    {
+      "id": "Ach_3572",
+      "label": "Blood Ruby",
+      "kind": "achievement",
+      "achievement_id": 3572
+    },
+    {
+      "id": "Ach_398479",
+      "label": "Gaia's Greed",
+      "kind": "achievement",
+      "achievement_id": 398479
+    },
+    {
+      "id": "Ach_398940",
+      "label": "Oh, Death, Where is Thy Sting?",
+      "kind": "achievement",
+      "achievement_id": 398940
+    },
+    {
+      "id": "Ach_3573",
+      "label": "Rotten Earth",
+      "kind": "achievement",
+      "achievement_id": 3573
+    },
+    {
+      "id": "Ach_3574",
+      "label": "Canoodling",
+      "kind": "achievement",
+      "achievement_id": 3574
+    },
+    {
+      "id": "Ach_398480",
+      "label": "Hot Take",
+      "kind": "achievement",
+      "achievement_id": 398480
+    },
+    {
+      "id": "Ach_398941",
+      "label": "Fight Fire With Fire",
+      "kind": "achievement",
+      "achievement_id": 398941
+    },
+    {
+      "id": "Ach_3575",
+      "label": "Molten Fire",
+      "kind": "achievement",
+      "achievement_id": 3575
+    },
+    {
+      "id": "Ach_3576",
+      "label": "Flotation",
+      "kind": "achievement",
+      "achievement_id": 3576
+    },
+    {
+      "id": "Ach_398481",
+      "label": "Cold Hard Cash, Mostly",
+      "kind": "achievement",
+      "achievement_id": 398481
+    },
+    {
+      "id": "Ach_398482",
+      "label": "Regal Recon",
+      "kind": "achievement",
+      "achievement_id": 398482
+    },
+    {
+      "id": "Ach_3577",
+      "label": "Class Upgrade",
+      "kind": "achievement",
+      "achievement_id": 3577
+    },
+    {
+      "id": "Ach_3578",
+      "label": "Oxypower",
+      "kind": "achievement",
+      "achievement_id": 3578
+    },
+    {
+      "id": "Ach_398942",
+      "label": "One for Each Arm",
+      "kind": "achievement",
+      "achievement_id": 398942
+    },
+    {
+      "id": "Ach_3579",
+      "label": "The Lost City",
+      "kind": "achievement",
+      "achievement_id": 3579
+    },
+    {
+      "id": "Ach_398483",
+      "label": "Sunken Treasures",
+      "kind": "achievement",
+      "achievement_id": 398483
+    },
+    {
+      "id": "Ach_3651",
+      "label": "Bilingual",
+      "kind": "achievement",
+      "achievement_id": 3651
+    },
+    {
+      "id": "Ach_27659",
+      "label": "Mjolnir Cometh",
+      "kind": "achievement",
+      "achievement_id": 27659
+    },
+    {
+      "id": "Ach_398473",
+      "label": "God's Eye View",
+      "kind": "achievement",
+      "achievement_id": 398473
+    },
+    {
+      "id": "Ach_398474",
+      "label": "Slice and Dice",
+      "kind": "achievement",
+      "achievement_id": 398474
+    },
+    {
+      "id": "Ach_398484",
+      "label": "Sky Raider",
+      "kind": "achievement",
+      "achievement_id": 398484
+    },
+    {
+      "id": "Ach_27655",
+      "label": "Rage Against the Machine",
+      "kind": "achievement",
+      "achievement_id": 27655
+    },
+    {
+      "id": "Ach_398486",
+      "label": "Choking Hazard",
+      "kind": "achievement",
+      "achievement_id": 398486
+    },
+    {
+      "id": "Ach_3580",
+      "label": "Floating Fortress",
+      "kind": "achievement",
+      "achievement_id": 3580
+    },
+    {
+      "id": "Ach_27658",
+      "label": "The True King",
+      "kind": "achievement",
+      "achievement_id": 27658
+    },
+    {
+      "id": "Ach_27656",
+      "label": "Of Mighty Magic",
+      "kind": "achievement",
+      "achievement_id": 27656
+    },
+    {
+      "id": "Ach_27657",
+      "label": "Blade of Purity",
+      "kind": "achievement",
+      "achievement_id": 27657
+    },
+    {
+      "id": "Ach_398485",
+      "label": "What's Old Is New Again",
+      "kind": "achievement",
+      "achievement_id": 398485
+    },
+    {
+      "id": "Ach_398943",
+      "label": "Balmless Battler of Cruel Chaos",
+      "kind": "achievement",
+      "achievement_id": 398943
+    },
+    {
+      "id": "Ach_3655",
+      "label": "Heroes That Never Were",
+      "kind": "achievement",
+      "achievement_id": 3655
+    },
+    {
+      "id": "Ach_398475",
+      "label": "Don't Change For Anyone",
+      "kind": "achievement",
+      "achievement_id": 398475
+    },
+    {
+      "id": "Ach_398476",
+      "label": "Merchandise Madness",
+      "kind": "achievement",
+      "achievement_id": 398476
+    },
+    {
+      "id": "Ach_27654",
+      "label": "Puzzle Fantasy",
+      "kind": "achievement",
+      "achievement_id": 27654
+    }
+  ],
+  "edges": [
+    {
+      "from": "Coneria",
+      "to": "Coneria_Castle",
+      "kind": "leads_to",
+      "label": "Castle north of town",
+      "fact_ids": [
+        "gf7-3-5",
+        "gf11-12-5"
+      ]
+    },
+    {
+      "from": "Coneria_Castle",
+      "to": "Temple_of_Fiends",
+      "kind": "leads_to",
+      "label": "North through plains, forest and swamp",
+      "fact_ids": [
+        "gf1-136-9",
+        "gf1-40-9"
+      ]
+    },
+    {
+      "from": "Temple_of_Fiends",
+      "to": "Garland",
+      "kind": "contains",
+      "label": "Centre room",
+      "fact_ids": [
+        "gf10-47-2",
+        "gf1-42-3"
+      ]
+    },
+    {
+      "from": "Garland",
+      "to": "Princess_Sara",
+      "kind": "unlocks",
+      "label": "Rescue",
+      "fact_ids": [
+        "gf7-3-5",
+        "gf1-42-4"
+      ]
+    },
+    {
+      "from": "Princess_Sara",
+      "to": "Lute",
+      "kind": "unlocks",
+      "label": "Talk to her",
+      "fact_ids": [
+        "gf1-112-7",
+        "gf7-3-5"
+      ]
+    },
+    {
+      "from": "Lute",
+      "to": "Ach_3569",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf7-3-5",
+        "gf10-8-8",
+        "gf11-12-1"
+      ]
+    },
+    {
+      "from": "Princess_Sara",
+      "to": "Bridge",
+      "kind": "unlocks",
+      "label": "King builds the bridge",
+      "fact_ids": [
+        "gf1-42-4",
+        "gf10-8-9"
+      ]
+    },
+    {
+      "from": "Bridge",
+      "to": "Matoyas_Cave",
+      "kind": "leads_to",
+      "label": "North across the bridge",
+      "fact_ids": [
+        "gf8-5-15",
+        "gf2-48-2"
+      ]
+    },
+    {
+      "from": "Matoyas_Cave",
+      "to": "Pravoka",
+      "kind": "leads_to",
+      "label": "East",
+      "fact_ids": [
+        "gf1-43-5",
+        "gf7-3-12"
+      ]
+    },
+    {
+      "from": "Matoyas_Cave",
+      "to": "Matoya",
+      "kind": "contains",
+      "fact_ids": [
+        "gf8-5-15",
+        "gf2-48-2"
+      ]
+    },
+    {
+      "from": "Pravoka",
+      "to": "Peninsula_of_Power",
+      "kind": "leads_to",
+      "label": "South, east through the pass, then north",
+      "fact_ids": [
+        "gf11-20-11",
+        "gf1-57-6"
+      ]
+    },
+    {
+      "from": "Peninsula_of_Power",
+      "to": "Ach_398471",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-57-6",
+        "gf2-11-3",
+        "gf7-5-1"
+      ]
+    },
+    {
+      "from": "Ach_398471",
+      "to": "Pirates",
+      "kind": "missable_before",
+      "label": "Win there before talking to Bikke",
+      "fact_ids": [
+        "ra-guide-3-4"
+      ]
+    },
+    {
+      "from": "Pravoka",
+      "to": "Pirates",
+      "kind": "contains",
+      "label": "Top-left corner",
+      "fact_ids": [
+        "gf1-44-4",
+        "gf2-10-4"
+      ]
+    },
+    {
+      "from": "Pirates",
+      "to": "Ship_Item",
+      "kind": "unlocks",
+      "label": "Talk to Bikke again",
+      "fact_ids": [
+        "gf1-44-4",
+        "gf10-138-2"
+      ]
+    },
+    {
+      "from": "Ship_Item",
+      "to": "Ach_3570",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-44-4",
+        "gf10-138-2",
+        "gf11-12-16"
+      ]
+    },
+    {
+      "from": "Ship_Item",
+      "to": "Ship",
+      "kind": "leads_to",
+      "label": "Board and sail",
+      "fact_ids": [
+        "gf10-35-6",
+        "gf10-35-7"
+      ]
+    },
+    {
+      "from": "Ship",
+      "to": "Slider_Puzzle",
+      "kind": "contains",
+      "label": "Hold A, press B 55 times",
+      "fact_ids": [
+        "gf10-35-6",
+        "gf10-35-7"
+      ]
+    },
+    {
+      "from": "Slider_Puzzle",
+      "to": "Ach_27654",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf11-19-5",
+        "gf1-141-1",
+        "gf1-141-2"
+      ]
+    },
+    {
+      "from": "Ship_Item",
+      "to": "Elfland",
+      "kind": "leads_to",
+      "label": "Sail south-west to the Elfland port",
+      "fact_ids": [
+        "gf1-49-4",
+        "gf7-4-10"
+      ]
+    },
+    {
+      "from": "Elfland",
+      "to": "Gravestone",
+      "kind": "contains",
+      "label": "North of the inn",
+      "fact_ids": [
+        "ra-comments-9-2",
+        "ra-guide-4-1"
+      ]
+    },
+    {
+      "from": "Gravestone",
+      "to": "Ach_398472",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-9-1",
+        "ra-comments-9-2",
+        "ra-comments-9-3"
+      ]
+    },
+    {
+      "from": "Elfland",
+      "to": "Elfland_Castle",
+      "kind": "leads_to",
+      "label": "Castle north of town",
+      "fact_ids": [
+        "gf2-15-3",
+        "gf2-15-5"
+      ]
+    },
+    {
+      "from": "Elfland",
+      "to": "Marsh_Cave",
+      "kind": "leads_to",
+      "label": "West between the mountain ranges from Elfland",
+      "fact_ids": [
+        "gf7-5-7",
+        "gf1-58-1"
+      ]
+    },
+    {
+      "from": "Marsh_Cave",
+      "to": "Wizards_Crown",
+      "kind": "contains",
+      "label": "B3 pillar room",
+      "fact_ids": [
+        "ra-guide-2-1",
+        "gf10-12-1"
+      ]
+    },
+    {
+      "from": "Wizards_Crown",
+      "to": "Crown",
+      "kind": "unlocks",
+      "label": "Chest behind them",
+      "fact_ids": [
+        "gf10-11-8",
+        "ra-guide-2-1"
+      ]
+    },
+    {
+      "from": "Elfland",
+      "to": "Northwest_Castle",
+      "kind": "leads_to",
+      "label": "North-west of Elfland",
+      "fact_ids": [
+        "gf7-5-5"
+      ]
+    },
+    {
+      "from": "Crown",
+      "to": "Astos",
+      "kind": "unlocks",
+      "label": "Hand the Crown to the \"king\"",
+      "fact_ids": [
+        "gf11-16-1",
+        "gf9-15-11"
+      ]
+    },
+    {
+      "from": "Northwest_Castle",
+      "to": "Astos",
+      "kind": "contains",
+      "fact_ids": [
+        "gf11-16-1",
+        "gf9-15-11"
+      ]
+    },
+    {
+      "from": "Astos",
+      "to": "Crystal",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-47-2",
+        "gf2-48-2"
+      ]
+    },
+    {
+      "from": "Crystal",
+      "to": "Matoya",
+      "kind": "unlocks",
+      "label": "Return her Crystal",
+      "fact_ids": [
+        "gf8-5-15",
+        "gf2-48-2"
+      ]
+    },
+    {
+      "from": "Matoya",
+      "to": "Herb",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-48-2",
+        "gf7-6-14"
+      ]
+    },
+    {
+      "from": "Herb",
+      "to": "Elf_Prince",
+      "kind": "unlocks",
+      "label": "Give it to the attendant",
+      "fact_ids": [
+        "gf10-137-1",
+        "gf10-10-1"
+      ]
+    },
+    {
+      "from": "Elf_Prince",
+      "to": "Mystic_Key",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf9-16-3",
+        "gf10-137-1"
+      ]
+    },
+    {
+      "from": "Mystic_Key",
+      "to": "Ach_3571",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-137-1",
+        "gf10-15-1",
+        "gf11-12-4"
+      ]
+    },
+    {
+      "from": "Elfland_Castle",
+      "to": "Elf_Prince",
+      "kind": "contains",
+      "fact_ids": [
+        "gf10-137-1",
+        "gf10-10-1"
+      ]
+    },
+    {
+      "from": "Mystic_Key",
+      "to": "Coneria_Castle",
+      "kind": "unlocks",
+      "label": "Opens the two locked rooms",
+      "fact_ids": [
+        "gf7-3-5",
+        "gf11-12-5"
+      ]
+    },
+    {
+      "from": "Coneria_Castle",
+      "to": "TNT",
+      "kind": "contains",
+      "label": "Left locked room, right chest",
+      "fact_ids": [
+        "gf11-12-5",
+        "gf2-15-15"
+      ]
+    },
+    {
+      "from": "Dwarf_Cave",
+      "to": "Nerrick",
+      "kind": "contains",
+      "fact_ids": [
+        "gf8-6-21",
+        "gf1-62-1"
+      ]
+    },
+    {
+      "from": "TNT",
+      "to": "Nerrick",
+      "kind": "unlocks",
+      "label": "Give TNT",
+      "fact_ids": [
+        "gf8-6-21",
+        "gf1-62-1"
+      ]
+    },
+    {
+      "from": "Nerrick",
+      "to": "Canal",
+      "kind": "unlocks",
+      "label": "Blasts the canal",
+      "fact_ids": [
+        "gf8-6-21",
+        "gf2-52-4"
+      ]
+    },
+    {
+      "from": "Canal",
+      "to": "Melmond",
+      "kind": "leads_to",
+      "label": "Sail west through the canal",
+      "fact_ids": [
+        "gf8-7-1"
+      ]
+    },
+    {
+      "from": "Melmond",
+      "to": "Earth_Cave",
+      "kind": "leads_to",
+      "label": "South past the rotting land",
+      "fact_ids": [
+        "gf1-68-2",
+        "gf8-7-6"
+      ]
+    },
+    {
+      "from": "Earth_Cave",
+      "to": "Vampire",
+      "kind": "contains",
+      "label": "B3",
+      "fact_ids": [
+        "gf7-7-14",
+        "ra-guide-2-3"
+      ]
+    },
+    {
+      "from": "Vampire",
+      "to": "Ruby",
+      "kind": "unlocks",
+      "label": "Chest behind him",
+      "fact_ids": [
+        "ra-guide-2-3",
+        "gf1-72-1"
+      ]
+    },
+    {
+      "from": "Ruby",
+      "to": "Ach_3572",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf7-7-14",
+        "ra-guide-2-3",
+        "gf8-7-10"
+      ]
+    },
+    {
+      "from": "Titans_Tunnel",
+      "to": "Titan",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-72-1",
+        "gf10-137-3"
+      ]
+    },
+    {
+      "from": "Ruby",
+      "to": "Titan",
+      "kind": "unlocks",
+      "label": "Titan eats the Ruby",
+      "fact_ids": [
+        "gf1-72-1",
+        "gf10-137-3"
+      ]
+    },
+    {
+      "from": "Titans_Tunnel",
+      "to": "Sardas_Cave",
+      "kind": "leads_to",
+      "label": "Exit south, then east",
+      "fact_ids": [
+        "gf10-137-3",
+        "gf10-19-6"
+      ]
+    },
+    {
+      "from": "Sardas_Cave",
+      "to": "Sarda",
+      "kind": "contains",
+      "fact_ids": [
+        "gf10-19-7",
+        "gf1-136-12"
+      ]
+    },
+    {
+      "from": "Sarda",
+      "to": "Rod",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf7-8-4",
+        "gf10-137-3"
+      ]
+    },
+    {
+      "from": "Rod",
+      "to": "Lich",
+      "kind": "unlocks",
+      "label": "Breaks the stone plate on B3",
+      "fact_ids": [
+        "ra-guide-5-12",
+        "gf11-16-3"
+      ]
+    },
+    {
+      "from": "Earth_Cave",
+      "to": "Lich",
+      "kind": "contains",
+      "label": "B5 altar",
+      "fact_ids": [
+        "ra-guide-5-12",
+        "gf11-16-3"
+      ]
+    },
+    {
+      "from": "Lich",
+      "to": "Ach_3573",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-5-12",
+        "gf11-16-3",
+        "gf1-74-1"
+      ]
+    },
+    {
+      "from": "Lich",
+      "to": "Ach_398940",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-5-12",
+        "gf11-16-3",
+        "gf1-74-1"
+      ]
+    },
+    {
+      "from": "Earth_Cave",
+      "to": "Crescent_Lake",
+      "kind": "leads_to",
+      "label": "Sail south from Melmond, then walk to Crescent Lake",
+      "fact_ids": [
+        "gf1-74-5"
+      ]
+    },
+    {
+      "from": "Crescent_Lake",
+      "to": "Circle_of_Sages",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-75-1",
+        "gf10-134-1"
+      ]
+    },
+    {
+      "from": "Lich",
+      "to": "Circle_of_Sages",
+      "kind": "unlocks",
+      "label": "Sages give the Canoe only after Lich",
+      "fact_ids": [
+        "gf1-75-1",
+        "gf10-134-1"
+      ]
+    },
+    {
+      "from": "Circle_of_Sages",
+      "to": "Canoe",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-134-1",
+        "gf2-20-2"
+      ]
+    },
+    {
+      "from": "Canoe",
+      "to": "Ach_3574",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-75-1",
+        "gf10-21-5",
+        "gf11-12-17"
+      ]
+    },
+    {
+      "from": "Canoe",
+      "to": "Gurgu_Volcano",
+      "kind": "leads_to",
+      "label": "Paddle the river to the volcano",
+      "fact_ids": [
+        "gf7-9-5",
+        "ra-guide-8-1",
+        "gf8-8-4"
+      ]
+    },
+    {
+      "from": "Gurgu_Volcano",
+      "to": "Kary",
+      "kind": "contains",
+      "label": "B5 south-west room",
+      "fact_ids": [
+        "gf7-10-2",
+        "gf2-36-1"
+      ]
+    },
+    {
+      "from": "Kary",
+      "to": "Ach_3575",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf7-10-2",
+        "gf2-36-1",
+        "gf9-22-4"
+      ]
+    },
+    {
+      "from": "Kary",
+      "to": "Ach_398941",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf7-10-2",
+        "gf1-125-5",
+        "ra-guide-9-1"
+      ]
+    },
+    {
+      "from": "Canoe",
+      "to": "Ice_Cave",
+      "kind": "leads_to",
+      "label": "Canoe up the river",
+      "fact_ids": [
+        "gf1-84-3",
+        "ra-guide-9-4"
+      ]
+    },
+    {
+      "from": "Ice_Cave",
+      "to": "Eye",
+      "kind": "contains",
+      "label": "B2 treasure room",
+      "fact_ids": [
+        "gf8-9-11",
+        "gf9-23-2"
+      ]
+    },
+    {
+      "from": "Eye",
+      "to": "Floater",
+      "kind": "unlocks",
+      "label": "Chest he guards",
+      "fact_ids": [
+        "gf11-12-8",
+        "gf8-9-11"
+      ]
+    },
+    {
+      "from": "Ryukahn_Desert",
+      "to": "Airship",
+      "kind": "contains",
+      "fact_ids": [
+        "gf10-25-1",
+        "gf2-45-2"
+      ]
+    },
+    {
+      "from": "Floater",
+      "to": "Airship",
+      "kind": "unlocks",
+      "label": "Use it in the desert",
+      "fact_ids": [
+        "gf10-25-1",
+        "gf2-45-2"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Ach_3576",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf11-12-18",
+        "gf9-23-3",
+        "ra-guide-11-1"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Caravan",
+      "kind": "leads_to",
+      "label": "Fly to the desert west of Onrac",
+      "fact_ids": [
+        "gf10-28-1",
+        "gf11-12-10"
+      ]
+    },
+    {
+      "from": "Caravan",
+      "to": "Bottle",
+      "kind": "contains",
+      "label": "50,000 G",
+      "fact_ids": [
+        "gf10-137-2",
+        "gf10-28-1"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Gaia",
+      "kind": "leads_to",
+      "label": "Mountains in the north-east corner",
+      "fact_ids": [
+        "gf1-99-14",
+        "gf1-99-12"
+      ]
+    },
+    {
+      "from": "Gaia",
+      "to": "Fairy",
+      "kind": "contains",
+      "label": "Spring behind town",
+      "fact_ids": [
+        "gf10-137-2",
+        "gf1-99-14"
+      ]
+    },
+    {
+      "from": "Bottle",
+      "to": "Fairy",
+      "kind": "unlocks",
+      "label": "Open the Bottle",
+      "fact_ids": [
+        "gf10-137-2",
+        "gf1-99-14"
+      ]
+    },
+    {
+      "from": "Fairy",
+      "to": "Oxyale",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf8-10-10",
+        "gf10-137-2"
+      ]
+    },
+    {
+      "from": "Oxyale",
+      "to": "Ach_3578",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-137-2",
+        "gf1-99-14",
+        "gf11-12-11"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Onrac",
+      "kind": "leads_to",
+      "label": "Land on the grass near town",
+      "fact_ids": [
+        "gf1-96-7",
+        "gf1-98-6"
+      ]
+    },
+    {
+      "from": "Onrac",
+      "to": "Waterfall",
+      "kind": "leads_to",
+      "label": "Canoe north up the river",
+      "fact_ids": [
+        "ra-guide-12-1",
+        "gf1-96-7"
+      ]
+    },
+    {
+      "from": "Waterfall",
+      "to": "Robot",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-47-3",
+        "gf10-30-1"
+      ]
+    },
+    {
+      "from": "Robot",
+      "to": "Cube",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-47-3",
+        "gf10-30-1"
+      ]
+    },
+    {
+      "from": "Oxyale",
+      "to": "Sea_Shrine",
+      "kind": "unlocks",
+      "label": "Submarine at Onrac",
+      "fact_ids": [
+        "gf1-139-31",
+        "gf1-139-50"
+      ]
+    },
+    {
+      "from": "Onrac",
+      "to": "Sea_Shrine",
+      "kind": "leads_to",
+      "label": "Submarine",
+      "fact_ids": [
+        "gf8-10-10",
+        "gf7-12-5"
+      ]
+    },
+    {
+      "from": "Sea_Shrine",
+      "to": "Kraken",
+      "kind": "contains",
+      "label": "Lowest floor",
+      "fact_ids": [
+        "gf10-56-1",
+        "gf9-30-2"
+      ]
+    },
+    {
+      "from": "Kraken",
+      "to": "Ach_3579",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-56-1",
+        "gf8-10-20",
+        "gf10-29-3"
+      ]
+    },
+    {
+      "from": "Kraken",
+      "to": "Ach_398942",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf9-30-2",
+        "ra-guide-13-1",
+        "gf7-13-13"
+      ]
+    },
+    {
+      "from": "Sea_Shrine",
+      "to": "Slab",
+      "kind": "contains",
+      "label": "Mermaid floor, right chest",
+      "fact_ids": [
+        "gf2-29-10",
+        "ra-guide-2-5"
+      ]
+    },
+    {
+      "from": "Slab",
+      "to": "Dr_Unne",
+      "kind": "unlocks",
+      "label": "Bring it to him",
+      "fact_ids": [
+        "gf2-29-10",
+        "gf1-63-1"
+      ]
+    },
+    {
+      "from": "Melmond",
+      "to": "Dr_Unne",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-29-10",
+        "gf1-63-1"
+      ]
+    },
+    {
+      "from": "Dr_Unne",
+      "to": "Ach_3651",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-29-10",
+        "ra-guide-2-5",
+        "gf10-28-3"
+      ]
+    },
+    {
+      "from": "Dr_Unne",
+      "to": "Lefein",
+      "kind": "leads_to",
+      "label": "Fly to Lefein; the townsfolk now talk",
+      "fact_ids": [
+        "gf2-46-2",
+        "gf2-83-2"
+      ]
+    },
+    {
+      "from": "Lefein",
+      "to": "Chime",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-46-2",
+        "gf10-134-3"
+      ]
+    },
+    {
+      "from": "Chime",
+      "to": "Mirage_Tower",
+      "kind": "unlocks",
+      "label": "Opens the tower door",
+      "fact_ids": [
+        "gf1-139-14",
+        "gf8-11-17"
+      ]
+    },
+    {
+      "from": "Cube",
+      "to": "Floating_Castle",
+      "kind": "unlocks",
+      "label": "Teleporter on Mirage Tower 3F",
+      "fact_ids": [
+        "gf10-75-15",
+        "gf11-15-3"
+      ]
+    },
+    {
+      "from": "Mirage_Tower",
+      "to": "Floating_Castle",
+      "kind": "leads_to",
+      "label": "Teleporter on 3F",
+      "fact_ids": [
+        "gf10-135-4",
+        "gf10-32-2"
+      ]
+    },
+    {
+      "from": "Floating_Castle",
+      "to": "Window",
+      "kind": "contains",
+      "label": "3F",
+      "fact_ids": [
+        "gf10-32-4",
+        "gf1-108-21"
+      ]
+    },
+    {
+      "from": "Window",
+      "to": "Ach_398473",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-32-4",
+        "gf1-108-21",
+        "gf2-31-14"
+      ]
+    },
+    {
+      "from": "Floating_Castle",
+      "to": "Tiamat",
+      "kind": "contains",
+      "label": "5F",
+      "fact_ids": [
+        "gf11-19-2",
+        "ra-guide-15-5"
+      ]
+    },
+    {
+      "from": "Tiamat",
+      "to": "Ach_3580",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf11-19-2",
+        "ra-guide-15-5",
+        "gf2-32-5"
+      ]
+    },
+    {
+      "from": "Tiamat",
+      "to": "Ach_398486",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf11-19-2",
+        "ra-guide-15-5",
+        "gf2-32-5"
+      ]
+    },
+    {
+      "from": "Tiamat",
+      "to": "Time_Gate",
+      "kind": "unlocks",
+      "label": "All four Orbs lit",
+      "fact_ids": [
+        "gf8-12-2",
+        "gf10-136-4"
+      ]
+    },
+    {
+      "from": "Temple_of_Fiends",
+      "to": "Time_Gate",
+      "kind": "contains",
+      "fact_ids": [
+        "gf8-12-2",
+        "gf10-136-4"
+      ]
+    },
+    {
+      "from": "Time_Gate",
+      "to": "Temple_of_Fiends_Past",
+      "kind": "leads_to",
+      "label": "2000 years into the past",
+      "fact_ids": [
+        "gf10-56-2",
+        "gf8-12-2"
+      ]
+    },
+    {
+      "from": "Time_Gate",
+      "to": "Temple_of_Fiends_Past",
+      "kind": "missable_before",
+      "label": "No way back without Exit or Warp",
+      "fact_ids": [
+        "gf1-111-3",
+        "gf9-33-7"
+      ]
+    },
+    {
+      "from": "Lute",
+      "to": "Temple_of_Fiends_Past",
+      "kind": "unlocks",
+      "label": "Lute opens the stone plate",
+      "fact_ids": [
+        "gf10-39-2",
+        "gf10-35-2"
+      ]
+    },
+    {
+      "from": "Temple_of_Fiends_Past",
+      "to": "Fiend_Refights",
+      "kind": "contains",
+      "fact_ids": [
+        "gf10-56-2",
+        "gf7-16-6"
+      ]
+    },
+    {
+      "from": "Fiend_Refights",
+      "to": "Chaos",
+      "kind": "leads_to",
+      "label": "Floor B5 centre",
+      "fact_ids": [
+        "gf1-116-6",
+        "gf7-16-10"
+      ]
+    },
+    {
+      "from": "Chaos",
+      "to": "Ach_3655",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-35-2",
+        "gf11-19-4",
+        "gf1-117-11"
+      ]
+    },
+    {
+      "from": "Chaos",
+      "to": "Ach_398475",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-139-1",
+        "ra-comments-47-1",
+        "ra-comments-47-2"
+      ]
+    },
+    {
+      "from": "Chaos",
+      "to": "Ach_398476",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf11-12-8",
+        "ra-guide-2-1"
+      ]
+    },
+    {
+      "from": "Coneria_Castle",
+      "to": "Ach_398477",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-125-17",
+        "gf2-15-3",
+        "gf2-15-5"
+      ]
+    },
+    {
+      "from": "Elfland_Castle",
+      "to": "Ach_398477",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-125-17",
+        "gf2-15-3",
+        "gf2-15-5"
+      ]
+    },
+    {
+      "from": "Northwest_Castle",
+      "to": "Ach_398477",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-125-17",
+        "gf2-15-3",
+        "gf2-15-5"
+      ]
+    },
+    {
+      "from": "Marsh_Cave",
+      "to": "Ach_398478",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-11-8",
+        "gf1-58-3",
+        "gf2-13-4"
+      ]
+    },
+    {
+      "from": "Dwarf_Cave",
+      "to": "Ach_398478",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-11-8",
+        "gf1-58-3",
+        "gf2-13-4"
+      ]
+    },
+    {
+      "from": "Matoyas_Cave",
+      "to": "Ach_398478",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-11-8",
+        "gf1-58-3",
+        "gf2-13-4"
+      ]
+    },
+    {
+      "from": "Earth_Cave",
+      "to": "Ach_398479",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-134-5",
+        "gf1-70-2",
+        "gf1-70-4"
+      ]
+    },
+    {
+      "from": "Titans_Tunnel",
+      "to": "Ach_398479",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-134-5",
+        "gf1-70-2",
+        "gf1-70-4"
+      ]
+    },
+    {
+      "from": "Gurgu_Volcano",
+      "to": "Ach_398480",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-94-2",
+        "gf1-95-3",
+        "gf2-103-1"
+      ]
+    },
+    {
+      "from": "Ice_Cave",
+      "to": "Ach_398481",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-125-5",
+        "gf2-108-2",
+        "gf2-103-2"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Castle_of_Ordeals",
+      "kind": "leads_to",
+      "label": "Sail or fly north past the Peninsula of Power",
+      "fact_ids": [
+        "gf1-80-6",
+        "ra-guide-7-2"
+      ]
+    },
+    {
+      "from": "Crown",
+      "to": "Castle_of_Ordeals",
+      "kind": "unlocks",
+      "label": "Crown on the 1F throne",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf9-24-1"
+      ]
+    },
+    {
+      "from": "Castle_of_Ordeals",
+      "to": "Zombie_Dragon",
+      "kind": "contains",
+      "label": "3F throne room",
+      "fact_ids": [
+        "gf1-84-1",
+        "gf1-141-4"
+      ]
+    },
+    {
+      "from": "Castle_of_Ordeals",
+      "to": "Tail",
+      "kind": "contains",
+      "label": "3F throne room",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf2-52-2"
+      ]
+    },
+    {
+      "from": "Castle_of_Ordeals",
+      "to": "Ach_398482",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf9-24-1",
+        "gf10-98-2"
+      ]
+    },
+    {
+      "from": "Cardia_Islands",
+      "to": "Ach_398482",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-139-1",
+        "gf9-24-1",
+        "gf10-98-2"
+      ]
+    },
+    {
+      "from": "Cardia_Islands",
+      "to": "Bahamut",
+      "kind": "contains",
+      "fact_ids": [
+        "gf10-139-1",
+        "ra-guide-11-5"
+      ]
+    },
+    {
+      "from": "Tail",
+      "to": "Bahamut",
+      "kind": "unlocks",
+      "label": "Give him the Tail",
+      "fact_ids": [
+        "gf10-139-1",
+        "ra-guide-11-5"
+      ]
+    },
+    {
+      "from": "Bahamut",
+      "to": "Class_Change",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-27-1",
+        "gf1-88-10"
+      ]
+    },
+    {
+      "from": "Class_Change",
+      "to": "Ach_3577",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-139-1",
+        "ra-guide-11-5",
+        "gf10-27-1"
+      ]
+    },
+    {
+      "from": "Class_Change",
+      "to": "Ach_398475",
+      "kind": "missable_before",
+      "label": "Only after Chaos is beaten",
+      "fact_ids": [
+        "gf10-139-1",
+        "ra-comments-47-1",
+        "ra-comments-47-2"
+      ]
+    },
+    {
+      "from": "Class_Change",
+      "to": "Spell_Shops",
+      "kind": "unlocks",
+      "label": "Wizards can buy level 8",
+      "fact_ids": [
+        "gf1-92-5",
+        "gf2-83-2"
+      ]
+    },
+    {
+      "from": "Gaia",
+      "to": "Spell_Shops",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-92-5",
+        "gf2-83-2"
+      ]
+    },
+    {
+      "from": "Lefein",
+      "to": "Spell_Shops",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-92-5",
+        "gf2-83-2"
+      ]
+    },
+    {
+      "from": "Spell_Shops",
+      "to": "Ach_27656",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-78-1",
+        "gf1-78-2",
+        "gf1-78-3"
+      ]
+    },
+    {
+      "from": "Sea_Shrine",
+      "to": "Ach_398483",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-28-3",
+        "gf10-30-1",
+        "gf10-93-1"
+      ]
+    },
+    {
+      "from": "Waterfall",
+      "to": "Ach_398483",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf10-28-3",
+        "gf10-30-1",
+        "gf10-93-1"
+      ]
+    },
+    {
+      "from": "Mirage_Tower",
+      "to": "Thors_Hammer",
+      "kind": "contains",
+      "label": "2F",
+      "fact_ids": [
+        "gf2-98-1",
+        "gf10-92-1"
+      ]
+    },
+    {
+      "from": "Thors_Hammer",
+      "to": "Ach_27659",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-98-1",
+        "gf10-92-1",
+        "gf11-10-5"
+      ]
+    },
+    {
+      "from": "Mirage_Tower",
+      "to": "Ach_398484",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-125-13",
+        "gf1-125-14",
+        "gf1-126-2"
+      ]
+    },
+    {
+      "from": "Floating_Castle",
+      "to": "Ach_398484",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-125-13",
+        "gf1-125-14",
+        "gf1-126-2"
+      ]
+    },
+    {
+      "from": "Floating_Castle",
+      "to": "Katana",
+      "kind": "contains",
+      "label": "3F left hall",
+      "fact_ids": [
+        "gf1-126-2",
+        "gf10-31-1"
+      ]
+    },
+    {
+      "from": "Katana",
+      "to": "Ach_398474",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-126-2",
+        "gf10-31-1",
+        "gf10-86-1"
+      ]
+    },
+    {
+      "from": "Floating_Castle",
+      "to": "WarMech",
+      "kind": "contains",
+      "label": "5F corridor",
+      "fact_ids": [
+        "gf10-75-15",
+        "gf9-10-1"
+      ]
+    },
+    {
+      "from": "WarMech",
+      "to": "Ach_27655",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf10-75-15",
+        "gf9-10-1",
+        "gf2-168-2"
+      ]
+    },
+    {
+      "from": "Floating_Castle",
+      "to": "Adamant",
+      "kind": "contains",
+      "label": "2F",
+      "fact_ids": [
+        "gf2-45-1",
+        "gf2-99-2"
+      ]
+    },
+    {
+      "from": "Adamant",
+      "to": "Excalibur",
+      "kind": "unlocks",
+      "label": "Smith in the Dwarf Cave",
+      "fact_ids": [
+        "gf2-99-2",
+        "gf10-140-2"
+      ]
+    },
+    {
+      "from": "Dwarf_Cave",
+      "to": "Excalibur",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-99-2",
+        "gf10-140-2"
+      ]
+    },
+    {
+      "from": "Excalibur",
+      "to": "Ach_27658",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-45-1",
+        "gf2-99-2",
+        "gf10-140-2"
+      ]
+    },
+    {
+      "from": "Temple_of_Fiends_Past",
+      "to": "Masamune",
+      "kind": "contains",
+      "label": "Tiamat floor",
+      "fact_ids": [
+        "gf10-140-1",
+        "gf10-34-6"
+      ]
+    },
+    {
+      "from": "Masamune",
+      "to": "Ach_27657",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-99-3",
+        "gf10-140-1",
+        "gf10-34-6"
+      ]
+    },
+    {
+      "from": "Temple_of_Fiends",
+      "to": "Ach_398485",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-41-1",
+        "gf1-41-3",
+        "gf9-15-18"
+      ]
+    },
+    {
+      "from": "Temple_of_Fiends_Past",
+      "to": "Ach_398485",
+      "kind": "unlocks",
+      "label": "Every chest",
+      "fact_ids": [
+        "gf1-41-1",
+        "gf1-41-3",
+        "gf9-15-18"
+      ]
+    },
+    {
+      "from": "Chaos",
+      "to": "Ach_398943",
+      "kind": "unlocks",
+      "label": "No healing in the fight",
+      "fact_ids": [
+        "ra-comments-45-1",
+        "ra-comments-45-2",
+        "ra-comments-45-3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 67,
+      "description": "Playthrough 2 (no class change) told the player to leave the Waterfall and Sea Shrine with Exit, which only a White Wizard can learn. Rewrote via rw:write --fix: walk back out, and Exit is unavailable on this file."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 94,
+      "description": "Route from the Slab to Kraken was vague ('Unable to verify whether a second descent is needed'). Added the 13-step second-trip route (gf1-101-1..10, gf10-28-4, gf10-56-1) with every chest marked off-limits."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 17,
+      "description": "Challenge-run finale relied on things the no-chest, no-class-change party cannot have: Heal Staff/Heal Helmet (chest items), Ribbons against Bane and Crack (chest items), Nuke (level 8, promoted only), and Knight/Master/White Wizard tactics. Rewrote those lines for an unpromoted Fighter/Black Belt/White Mage/Black Mage party."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 7,
+      "description": "Line said 'Ribbons can be worn without a class change' with no caveat; the same source (ra-guide-2-9) says the no-chest run has no Ribbon wearers. Added the caveat here and in the overview."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/18.md",
+      "line": 5,
+      "description": "Said to 'skip the Tiamat kill' if Choking Hazard already unlocked in Playthrough 1, but Tiamat must die on the new file to relight the fourth Orb for the time gate. Now says to kill her any way you like in that case."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/16.md",
+      "line": 32,
+      "description": "Crescent Lake shop text presented Exit as a useful buy and mentioned a White Wizard healing in the Kary plan, on the no-class-change file. Now says not to buy Exit (White Wizard only) and has the White Mage heal."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "beginner",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 24,
+      "description": "The challenge run never told the player to take the Black Belt's weapon off. RA commenters lost hours to nunchucks in this exact run; unarmed Black Belts get 2x level attack and double hits. Added the tip to ch14, ch19 and the overview (gf8-3-3, gf8-5-7, ra-comments-50-2)."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 102,
+      "description": "Peninsula warning said talking to Bikke 'earns Pirate Bay'; Pirate Bay is for first sailing the ship. Reworded to name Punching Above Your Weight. Also fixed the garbled Exit/Warp sentence: in Playthrough 2 the party must win or reset once inside the past temple."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/18.md",
+      "line": 1,
+      "description": "Chapter 18 was missing its '## Chapter 18' heading. Added it. Also replaced Knight/Master/Wizard advice in the Blue Dragon and Tiamat sections with the unpromoted party."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "format",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 18,
+      "description": "Two 'Point of No Return' callouts for the same Bahamut event (the roadmap lists one). Turned the early one into an IMPORTANT ordering note; kept the CAUTION at the Bahamut section."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "format",
+      "status": "fixed",
+      "file": "08_chapters/11.md",
+      "line": 8,
+      "description": "Of Mighty Magic callout was labelled 'Missable' in a chapter with no roadmap missable and repeated the name. Relabelled as an Achievement Trigger Warning that points back to the Chapter 1 party choice."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 98,
+      "description": "Closing tip suggested going back for chests after Chaos, which makes no sense on the challenge file (chest sweeps were done in Playthrough 1, and you cannot save after Chaos). Rewrote it."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "format",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 5,
+      "description": "'Three achievements' introduced a list of four. Corrected the count."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "format",
+      "status": "fixed",
+      "file": "08_chapters/15.md",
+      "line": 16,
+      "description": "Removed the 'Correction to the above:' drafting leftover in the TNT directions."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 44,
+      "description": "Thin sections (ch1 Princess Sara, ch3 Getting to Elfland, ch4 TNT/Nerrick, ch12 Dwarf Cave, ch13 Masamune, ch14 Princess Sara/Lute/Matoya/Crystal, ch15 Sarda's Cave) expanded with sourced directions and chest-rule reminders. Linked the Temple of Fiends (Past) map from ch14."
+    },
+    {
+      "id": "ISS-16",
+      "severity": "minor",
+      "category": "route",
+      "status": "fixed",
+      "file": "08_chapters/19.md",
+      "line": 40,
+      "description": "Roadmap areas never named in prose (Dwarf canal, Level 7-8 spell shops, Floating Castle window, Time gate to the past, the past Fiend refights). Named them in ch4, ch11, ch12, ch13, ch15 and ch19. Fixed the ch17 step 11 citation (gf10-28-4) and added citations to the uncited checkpoints in ch4, ch7, ch17 and ch19."
+    }
+  ]
+}

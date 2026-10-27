@@ -1,0 +1,3606 @@
+**************************************************
+Final Fantasy I&II - Dawn of Souls Walkthrough/FAQ
+Written by The Mattinator
+E-Mail: mattinatorsfaqs@hotmail.com
+Started on: December 2, 2004
+Last version completion date: December 10, 2004
+Version: 0.6
+**************************************************
+
+0) Introduction
+
+Hello, and welcome to my Final Fantasy I&II - Dawn of Souls
+Walkthrough/FAQ If you are reading this now, then that means I have had
+my first Walkthrough/FAQ published! Yes! Fear not though, as I have played
+this game many times over to ensure this is as accurate as possible.
+
+I hope you get what you're coming for.
+
+Table of Contents
+
+(This Table of Contents is search-friendly, meaning you can copy an item
+from it, and search for it in the guide, and find it.)
+
+********
+*Part 1*
+********
+0) Introduction
+1) Revision History
+2) Rules/Disclaimer
+3) FAQ that are not game specific.
+
+********
+*Part 2*
+********
+4) Basic information for FF1
+   4.1) Controls for FF1
+   4.2) Classes for FF1
+5) Frequently Asked Questions for FF1
+6) Walkthrough for FF1
+   6.1) Beginnings
+   6.2) A ship, a curse an eye and a key
+   6.3) The grass is not greener... the hunt for the Earth Crystal
+   6.4) Is it a bird? Is it a plane? No, it's...
+   6.5) I... have... THE POWER! 
+   6.6) Full steam ahead to the Fire Crystal!
+   6.7) The quest flows on... searching for the Water Crystal!
+   6.8) This place is no breeze... going after the Wind Crystal!
+   6.9) Time to change history...
+7) The ending, and Clear Game mode
+8) Soul of Chaos
+9) Additional Quests, Challenges and Games
+   9.1) The ship game
+   9.2) Single character type challenge
+   9.3) Low level challenge
+   9.4) Solo character challenge
+   9.5) No upgrade challenge
+   9.6) Diabolical challenge
+10) Tips and Tricks
+   10.1) Unlimited magic
+   10.2) Maximizing stats - the low level class change
+11) Lists
+   11.1) Item List
+   11.2) White Magic List
+   11.3) Black Magic List
+   11.4) Weapons List
+   11.5) Armor List
+   11.6) Shields, Helmets and Gloves List
+12) Thank you, and credits
+
+********
+*Part 1*
+********
+
+1) Revision History
+
+Version 0.6: Completed FF1 walkthrough, put in spell information, weapon
+listing, controls, class information, item information, a few tips and tricks,
+and two of the SoC dungeons. Next up will be the armor listings, and the other
+two SoC dungeons, before I head into writing for FF2.
+
+2) Rules/Disclaimer
+
+This is the boring part of the guide, but sadly it's necessary. 
+
+This guide is copyrighted 2004 by Matthew Peterson. It may not be used
+for anything other than private use. This means you cannot distribute it to
+friends, or sell it for any reason (However, feel free to tell friends about
+it and give them the address of a site holding it). This Walkthrough/FAQ may
+not be put on any web site or otherwise distributed publicly without my
+permission. Use of this guide on any site without my permission is a breach
+of copyright, and I will be forced to take action.
+
+However, I do not have any copyright over the game, and FFI&II: DoS, along
+with all names and such, are held by their respective copyright holders.
+
+Sites are currently allowed to use this guide...
+
+www.gamefaqs.com
+
+Requests for use can be sent to the email I listed above.
+
+3) FAQ that are not game specific.
+
+This section is dedicated to FAQ that are not FFI or FFII specific. For
+game-specific questions look at the FAQ for those games.
+
+Q. Can I use this guide on my site?
+A. Possibly. I won't give a definite answer to this. Send me an email to the
+   address listed above and we will see. It'll depend on how you ask, and my
+   impressions of your site.
+
+Q. Can you give me the address to find a ROM for this/anything else ROM
+   related.
+A. No, no, no no no. I will not condone ROM usage at all. Find your own ROM's.
+
+My email is at the top of the guide. Feel free to send me any question.
+
+For you discerning readers who realize this is the first release, and thus I
+cannot have had any emails yet, yes I did make these up. However, these are
+fairly generic FAQ for any game.
+
+********
+*Part 2*
+********
+
+4) Basic information for FF1
+
+This is where you'll find basic information about the game, such as Controls,
+and class information. If you think I am missing anything, feel free to email
+me.
+
+   4.1) Controls for FF1
+
+A - Accept/Talk
+B - Cancel/Exit Menu/Dash (Dash only in towns, dungeons)
+Start - Enter Menu
+B+Select - Enter Map
+L - Cycle through characters when in menu
+R - Cycle through characters when in menu
+Directional Pad - Move characters, or cursor when in menu.
+A+B+Start+Select - Reset
+
+   4.2) Classes for FF1
+
+Warrior - A physical character, with high HP, DEF and ATK. New players should
+always have one on their team. Upgrades to Knight, who can use all the best
+armor/weapons in the game, and some low level White Magic (levels 1-3).
+
+Monk - A heavy hitter, doing more damage than the Warrior. However, he has
+less HP and def than the Warrior, and cannot equip much (Never equip a weapon
+on him, he does more damage bare-handed). The upgrade doesn't change him much.
+
+Thief - A quick attacker. Has slightly lower attack than the Warrior, but
+because he has great accuracy, will do just as much damage as the Warrior
+early in the game, as he will get in extra hits. Has the highest AGL of any
+character, which means he is good at evading attacks and fleeing battle. On
+upgrade, he becomes a Ninja, which allows him to equip more weapons and armor
+he couldn't before, and allows him to cast low level (levels 1-4) Black Magic.
+This includes the Haste and Temper, which he can cast on himself to become a
+killing machine.
+
+White Mage - The healer of the classes. Has one of the highest HP's out of all
+the classes (Only Warrior and Thief are higher). Casts great support magic
+that helps out the whole team. Upgrades to White Wizard, and gains access to
+more White Magic.
+
+Black Mage - The offensive spellcaster of the classes. learns some great
+spells, and can devastate foes with attacks. Upgrades to Black Wizard, and
+gains access to more Black Magic.
+
+Red Mage - Like a combination of the Warrior, the White Mage and the Black
+Mage, but cannot do any of them as good as the characters themselves. Can
+equip most the weapons and armor the Warrior can (thus gets a high def), and
+can use a fair amount (but not all) of White and Black Magic. Upgrades to
+Red Wizard, which gives him more White and Black Magic, and a lot more
+weapons and armor.
+
+5) Frequently Asked Questions for FF1
+
+Again, I made these up, but these are generic questions that people seem to
+ask a lot.
+
+Q. What are the changes between this and the original FF, and FF Origins?
+A. There have been many. These are the ones I can think of.
+
+Spell charge system dropped for the MP system used later on in the FF series.
+A lot of things were renamed.
+A heap of new items were added.
+Leveling was made easier.
+A lot of bosses had their HP increased significantly
+New dungeons put in - Soul of Chaos.
+You can now save anywhere you want.
+New graphics
+B-Button Dash added.
+
+If you can think of more, tell me, and I will put them in.
+
+Q. This game seems easier than the original. Did you find this to be true?
+A. Yes, I did, as did many others. There are some challenges listed in my
+guide to help alleviate that a little. However, don't whine to me about it.
+
+Q. How do I get help with "insert location or boss here"?
+A. Look in the FAQ. If it's in Whisperwind Cove or Lifespring Grotto, too bad
+for the moment, as I have not fully completed writing out about them. Also,
+I won't help for bosses in the Earthgift Shrine or Hellfire Chasm - They're
+just too easy.
+
+6) Walkthrough
+
+Note: Any EXP gained shown for bosses is not how much each individual
+character will receive. The total experience each monster gives is divided up
+by the amount of characters alive at the end of the battle
+
+For example, if a monster gives 240 exp, and you have all four characters
+alive at the end of battle, each character will receive 60 exp points (240/4).
+However, if one died during battle and wasn't revived before the end, each
+characters would receive 80 (240/3) exp points, and the characters that is
+dead would receive none.
+
+This section DOES CONTAIN SPOILERS as to the story of the game.
+
+Advance at your own discretion.
+
+I claim no responsibility for any loss of excitement in this game due to
+spoilers in this guide. Any complaints of that nature will be ignored, and may
+get your email address blocked.
+
+Anyway, on with the Walkthrough!!
+
+   6.1) Beginnings
+
+<Well, it is the beginning of the quest, so why not name it as such?>
+
+The game starts with a FMV. You can not watch it by pressing the Start
+button. Here it is if you have some weird desire to re-read it.
+
+
+The world lies shrouded in darkness
+The winds die...
+The seas rage...
+The earth decays...
+But the people believe in a prophecy, patiently awaiting it's fulfillment.
+"When darkness veils the world, four Warriors of Light shall come"
+After a long journey, four young travelers did indeed appear...
+...and in the hand of each was clutched a crystal.
+
+
+Cornelia Castle
+---------------
+The game now starts. You will appear just outside the walls of a town with a
+castle. While there are many things you can do, the only important thing to do
+at the moment is to head to the castle. Once in the castle, go up to the
+second floor (the stairs are straight from the door) and talk to the soldier
+guarding the door. He will tell you the king is searching for the Warriors of
+Light from the prophecy. He will then notice the crystals you are holding and
+get very excited, taking you to the king.
+
+The king sees the crystals and immediately believes, but the chancellor is
+wary, not convinced you are the Warriors of Light. The king is still convinced
+you are the Warriors however, and asks you to complete a task for him: to
+save his daughter Sarah. You will find out she has been kidnapped by the
+finest swordsman in the land, and ex-soldier of the king, Garland. If you can
+do this for him; he will rebuild the bridge to the north, which will allow you
+to continue on with your quest.
+
+Now you have set events into motion, feel free to explore the rest of the
+castle. You will find that years ago the ancestors of Cornelia built weapons
+and locked them in rooms in the castle, giving the key to the elf king to hold
+onto. Sounds like something we will have to see to later. Also, you will find
+out Garland is holding Sarah in Chaos Shrine to the north of this continent,
+That's about all the useful information in the castle, so exit. Enter Cornelia
+Castle.
+
+Cornelia
+--------
+Entering the town, there is a Weapon, Armor, Items, Black Magic and White
+Magic shops. First stop is the weapons shop.
+
+These are the weapons characters should be given:
+Fighters - Rapier
+Thieves - Rapier
+Monks - Nothing. The Monk/Master does more damage without weapons.
+Red Mages - Rapier
+White Mages - Hammer
+Black Mages - Staff
+
+(don't bother buying a staff for your Black Mage, your Monk or White Mage
+will already have one equipped, so just give him that one)
+
+Next stop should be the magic shops. You can only have 3 spells per spell
+level (which means you need to decide not to use one spell from each spell
+level). Choose wisely. Put spells on your Black and White Mages first. Once
+you have them fitted out with magic, fit out your Red Mage as you need. I
+recommend this setup.
+
+>If you don't have any mages but a Red Mage, or have both a Black and
+White Mage, put Cure and an attacking spell on your Red Mage, and choose
+one other spell to go on them.
+>If you have a Black Mage and a Red Mage, but no White Mage, put Cure,
+another white magic spell and an attacking black magic spell.
+>If you have a White Mage and a Red Mage, but no Black Mage, put Cure, and
+attacking black magic spell and another black magic spell of your choice on.
+
+Now buy the best armour you can afford (you can always get gil from killing
+monsters and come back if you need more for the best armour), any items
+you see fit, and head out of town. You should have the Cure spell, but if you
+don't, be sure to buy as many potions as you can afford, as you will need
+them. Also, make sure to familiarize yourself with the menu system. When
+you're done, exit the town, to the area I will call the overland from now on.
+
+Overland
+--------
+Build up the levels of your heroes to 3 or 4. This will net you a reasonable
+amount of gil too. Once you are done, stock up on items as you need, rest
+up in the inn, and head north to Chaos Shrine. Along the way you will see a
+cave in the landscape: Don't worry about this yet, there's nothing you can do
+there for now. Instead, keep heading up to the Shrine: It's very distinctive,
+so you don't need to worry about missing it.
+
+Chaos Shrine
+------------
+You can go straight up and beat Garland, but there are some items you
+should get first. The monsters are harder in here, but nothing that you can't
+handle. From the entrance, head left at the first opportunity, and then go
+down a bit. You will see a door. In the door is a treasure chest with a
+Leather Cap inside. Equip it on whoever has the lowest defense. Then, head up,
+and you will reach another room with a Potion and Tent in it. That's all you
+can get for now (the other doors are locked), so go to the centre room. There
+you will find Garland. Talk to him, and he will reveal he has kidnapped Sarah
+to force the king to hand him the kingdom. He will then attack you.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Boss: Garland
+HP: 212
+
+He's not too hard if you're on L3 onwards. Just beat on him, trying to make
+sure no-one dies. When you're done, you will receive 130 EXP points, and you
+will get 250 gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The princess will thank you for saving her, and ask you to escort her back
+home.
+
+Cornelia Castle
+---------------
+You will be taken back to the castle automatically. The king will tell you
+Lukahn's prophecy in its entirety. He will then tell you that a Crystal can
+be found to the north of here, over the bridge, which he will now have
+repaired. Talk to Sarah for the Lute, a key item. Head out of the castle,
+and you will see a scene of the bridge being built. Restock items if you
+need to (it's a long trip to the next town), and head out of the castle.
+
+Overland
+--------
+Head to the bridge. When you walk on it, a FMV will occur. There's no new
+information here, but you can't avoid it. It doesn't take too long.
+
+   6.2) A ship, a curse, an eye and a key
+
+<Quite an abstract section title, isn't it. However, it's much better than the
+ones coming up...>
+
+Overland
+--------
+The monsters here are the same as the ones you would have faced in the Chaos
+Shrine, so if you were alright there you will be here. You will be given two
+paths to take here. Go left, and then up. Eventually you will reach a cave. Go
+in.
+
+Matoya's cave
+-------------
+As you go in, you will see a broom sweeping on its own, with no-one touching
+it. You can "talk" to it, but it says nothing of consequence, so you don't
+need to bother. Head in, and you will see a person on a broom hit a wall,
+then go on about how they are missing a crystal eye of hers. This will mean
+absolutely nothing to you at the moment, but remember it for later. You will
+need to visit Matoya again. For now, grab the two potions and the antidote,
+and head right to Pravoka.
+
+Pravoka
+-------
+First thing you should do is to head to the Inn, and heal up, as you will most
+likely need it after that trip. now, do some shopping, stocking up on
+magic, new equipment and items. Now, start talking to people around town.
+Seems the pirates have been causing trouble round here. Let's go and talk to
+them. The pirate leader, Bikake, is in the north-west of town. When you talk
+to him, he'll send 9! pirates against you. They've each only got 24 HP each,
+and Fighters/Monks/Thieves/Red Mages should have no problem taking them
+out with physical attacks. Heck, even White Mages may be able to take them
+out. Black Mages should use attack magic. When you've defeated them,
+your heroes should all get 90 EXP, and you will get 360 gil. There is also a
+possibility of dropped items: I managed to get a Leather Shield one time I
+beat them. I've only managed to get it once out of many times defeating them
+though, so don't count on it. Once you've defeated them, Bikake, the pirate
+chief will be suitably scared, and offer to reform himself, even giving you
+his ship! Woohoo!
+
+Buy anything you still need with the gil from that fight. You should now have
+the best equipment. If you don't, never fear though. Just get the best you
+can. Now, head out to the Overland.
+
+Overland
+--------
+See that ship there? It's yours. Feel free to take it out for a spin. As you
+do, you will realize that there are enemies on the sea. Some are quite good
+for gil, so feel free to spend some time cashing in and gaining levels. When
+you want to go back onto land however, you can't dock just anywhere. You will
+need to go to the white docks that are situated around the map, just like the
+one outside of Pravoka, and the one outside of Cornelia. Once you are done
+leveling up, getting gil and buying equipment, go to the Cornelia dock, and
+then go straight down. When you start seeing land again, head to your left
+just a little and you will see a white dock. Land there. The enemies here
+may be a bit tougher, but you should be able to handle them. Go south, and
+you will reach another castle with a town surrounding it. This is Elfheim,
+and the castle is the Elven Castle. Enter Elfheim.
+
+Elfheim
+-------
+Cool town. However, it is very expensive. This place has the Level 3 and
+Level 4 spells for both White and Black Magic. However, it is 1000 gil per
+Level 3 spell and 2500 gil per Level 4 spell. Meaning, if you want to buy up
+all the Level 3 AND Level 4 spells you can carry, you will have to dish out
+21,000 gil. That's a lot for this stage of the game. You should also get as
+many Copper armlets as you need, because your Mages need the defense.
+Also, while not necessary, you can pick up the Dagger for your Black Mage if
+you want. All in all a very costly affair. You probably don't need everything
+though. From the Black Magic, get the Level 2 elemental spells (Fira,
+Thundara, Blizzara), and Haste. From the White Magic, go for Cura, Heal,
+and NulBlaze/NulFrost if you really have the money. If you need more money,
+head out to the ship and go around getting more. Thundara does wonderful
+things to these enemies - I was getting 100+ damage to all enemies using
+Thundara when on the ship. Once you are done buying, go to the castle.
+
+(As a side note, if you go behind the Inn, you will find a set of gravestones.
+If you go look at the left-most one, it will say "Here lies Link", Link of
+course being the main character of the "Legend of Zelda" series. Perhaps this
+place is really Hyrule, but has lost that name over the generations? Who
+knows).
+
+Elven Castle
+------------
+As you go in, talk to the elves standing around. They'll tell you that a dark
+Elf king named Astos came in, cursed the prince (who was to become the king),
+and ran off with the kingdoms treasures. You'll also be told by one elf on the
+west side of the rumor of a witch who can brew potions for any situation. He
+thinks their name is Matoya... Wait, didn't we see them earlier, just before
+Pravoka? It is no matter anyway, as from what we saw of Matoya, they aren't
+in a state to be brewing anything at the moment. Head up to the Princes
+room and you will be told he has been sleeping under the curse for five years
+now. He must be a very heavy sleeper! Since there doesn't appear to be any
+way of curing the prince at the moment, while Matoya is still missing the
+crystal eye, lets go after Astos. But first, we'll make a few detours. Go out
+of the castle.
+
+Overland
+--------
+Head back to the ship, and go to the west and then up from Cornelia. There
+will be a dock there. Head to the left from the dock, and then go down on the
+right hand side of the water. Keep going down and you will find an opening in
+the mountain range. Head left into the opening, then into the caves. This is
+Mount Duergar, and there are dwarves here.
+
+Mount Duergar
+-------------
+The main thing to get here is the two chests right near the entrance. They
+contain 575 and 450 gil respectively. That's a serious cash haul. If you talk
+to some of the dwarves, you'll also find out that even the blind can see with
+a crystal eye, and that Astos "Pilked" (meaning stole) Matoya's crystal eye.
+Also, there is a dwarf that tells you he needs Nitro Powder to complete a
+canal, and that it is in a room locked with the Mystic Key. Remember this for
+later.
+
+Now that is done, head back to Elfheim. Now, on to the Western Keep.
+
+Overland
+--------
+The Western Keep is to the North-West of Elfheim. To get there from Elfheim,
+go left, and you will find a place to go up. Do so, going straight up. You
+will run into mountains eventually. When you do, go straight left. You should
+get to a point where you have an opening to the left and a body of water above
+you. Instead of going to the left, head up on the left-hand side of the body
+of water, and then go up. You will reach the Western Keep.
+
+Western Keep
+------------
+There's nothing to get here, however, if you walk around, you will find the
+king. He will request you go to the Marsh Cave to get back his crown off Astos,
+so he can restore his kingdom.
+
+Recapping, we have a sleeping prince in the Elven castle who was cursed by
+Astos, who then proceeded to steal all the castles treasures. We would be able
+to get a cure for the prince, who needs to wake up so he can take the thrown,
+except Astos also stole the crystal eye of the witch who could brew the
+potion. We also need the crown of the king of Western Keep back, who was
+tricked by Astos and lost it to him, and needs it back to rebuild the kingdom.
+It is in Marsh Cave, along with Astos, apparently. It doesn't take a genius to
+realize we're going to have to head to Marsh Cave now to fight Astos. From the
+Western Keep you can just head straight down. However, this is a tough
+dungeon, so if you need healing, or to stock up on items, do so. You can go
+back to Elfheim, and then follow the directions back to the place where
+there was the way to the left and the body of water above, with a narrow
+path leading to the Western Keep. This time, go left and down. The Marsh
+Cave is shown as a dark hole on the map. Enter it.
+
+Marsh Cave
+----------
+You're on Basement Level 1 of the Marsh Cave. Head to the right, and you will
+find two paths. I find it easiest to go up first, so as to collect all the
+items. Let's go there now. Taking the path up, follow it until you reach some
+stairs. Go down them.
+
+You're now on Basement Level 2. Go right to find a door, go in and get the
+dagger in the chest. Go back to the stairs now, but don't go down them. Now,
+from the stairs again go left, and go in the door. Collect the 680 gil in the
+chest, and head back towards the stairs, but again, don't go down them. Now,
+from the stairs again, head down as far as you can go. You should see another
+door. Go in and collect the Broadsword and 620 gil in there. Now, head back to
+the stairs, and this time go back down them. You're now back on Basement Level
+1.
+
+Follow the path back to intersection, and this time go down. Follow the path
+down, and you will come across a door. Head in, and you will find a rope
+ladder going down. You are now Basement Level 2 once more.
+
+From here, go right until you reach the right-most door. Go out it, and down
+as far as you can go. Then go right, and enter the door you see. Go in, and
+then out the door to your right. You will see a set of stairs. Go down them.
+You are now on Basement Level 3.
+
+From here, go down. You will see a door. Go in, and grab the Phoenix down in
+the chest. Now go right, ignoring the first two doors as you go past them. Go
+in the third door, which will be in the top right corner. Grab the 295 gil
+from it. Now, go down, and you will come across another door. Ignore it, and
+go two doors to the left. One chest will be open - It would hold a Phoenix
+Down had you not taken it from the first chest. However, there is a Cottage in
+it. Grab that. Now, go out, and go one door to the left to pick up the Copper
+Armlet. From there, go down to reach another door. Ignore it, and go two doors
+to your left. Pick up the 385 gil. Now, go one door to your left. Heal up
+before you go in, and save, as you will have a boss fight in here. Head in,
+and you will be attacked by a group of Piscodemons (Usually 3, though
+sometimes 2 or 4)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Boss: Piscodemons
+HP: 84 each
+
+While this may be a bit of a struggle, you should be fine. They are quite weak
+to Thunder attacks, and you might even be able to take them out with one shot
+of Thundara from your Black or Red Mage. Just have Fighters/Monks/Thieves
+attack, Red and Black Mages use their most powerful Thunder magic and White
+Mages heal as necessary, and you'll be fine. Be wary though, and at full
+health when you start the battle, as they hit hard. You will get 1200 gil when
+you win, plus 69 EXP for each Piscodemon killed going towards your characters
+(assuming they all live throughout the battle, which they should).
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Open the box and you will get the crown. No sign of Astos though. Hmmmm.
+Perhaps we'll just take the crown back to the Western Keep and see what
+happens. But first, leave the Marsh Cave and go back to Elfheim and heal up,
+because you have a boss battle coming up.
+
+Note: You can keep fighting Piscodemons if you want, even after you have got
+the crown. They appear when you go into the spot in front of the chest, so
+keep walking on and off that spot if you want to keep fighting them for the
+experience and gil. This can be quite profitable, both in terms of leveling
+and gil.
+
+Now, you've been to Elfheim and healed right? And you've also gone back to the
+Western Keep? Excellent. On with the show then.
+
+Western Keep
+------------
+Go and talk to the king. He will reveal himself to be Astos, and tell you of
+his plot. Have to stop him now, don't you. He'll attack.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Astos
+HP: 420
+
+His HP isn't huge, but enough to be the highest you have faced so far. Cast
+Haste on your physical attackers if you have it, or Temper if you don't, and
+this will be over fairly quickly. His attacks don't do too much, but he does
+have one nasty trick: the Death spell. This will auto-kill your characters if
+it hits. Very nasty indeed. Have Phoenix Downs ready to revive anyone who dies
+due to that. He's got 2250 EXP to split as many ways as characters you have
+alive, and 2000 gil, as a prize.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Now that's over, you now have the crystal eye to take to Matoya. Head back
+to Elfheim and heal, and get on your boat.
+
+Overland
+--------
+You could go to Cornelia and go up the continent to get there, but there's a
+quicker way. On the boat, go up towards Cornelia, but instead of going in the
+dock, go up the east coast instead. You will see the bridge after not long. Go
+under it, and up. You will find a dock. Matoya's Cave is just North of here.
+
+Matoya's cave
+-------------
+Talk to her, and you'll give her the crystal eye. In exchange, you will
+receive the Jolt Tonic, her most powerful potion. If you talk to her again,
+she'll just tell you to get lost as she has no more need for you, and grumbles
+about how you're not as attractive as she thought you'd be. Now you have that
+tonic, why not try it on the prince? Head back to the Elven Castle.
+
+Elven Castle
+------------
+Go up to the prince's room and talk to the healer. He will take the Jolt Tonic
+and use it on the prince, instantly healing him. He will wake up, and give you
+the Mystic Key. Wait... is this THE mystic key? The one that opens the sealed
+doors? WoooooBloodyHooooo!!!!!! We finally get to open all those doors that
+are locked with this key and get the items inside. The first door to open is
+in this castle. Exit by the south-east door, and sticking to the wall, head
+up to the north-east corner. There is a locked door there, but you can open
+it now. Go in and grab the Mythril Hammer, 800 gil, 700 gil and some Bronze
+Gloves. Not bad. There are 4 places to head now in search of locked doors:
+Western Keep, Marsh Cave, Cornelia and the Temple of Chaos. We'll go to
+Western Keep first, and the Temple of Chaos last.
+
+Western Keep
+------------
+Three chests here. In them contain a Falchion, A Power Staff and a Steel
+Gloves. If you stand right in front of the chest you will trigger fights with
+Mummies and Wraiths. Wraiths are weak to Thunder spells, Mummies are weak to
+fire spells. Wraiths can paralyze you, which is annoying. However, you could
+always just grab the contents of the chests from the side and not worry about
+the monster encounters. Anyway, on to Marsh Cave.
+
+Marsh Cave
+----------
+There are three items here, all on level 3. Drat. You can use the directions
+from earlier in the guide to get back down there if you need. Look around at
+the bottom of the screen at level 3, all the chests are quite close to the
+bottom. They're not hard to find. There's Piscodemons to fight to get the
+Antidote and 1020 gil, and Anacondas to fight to get the Silver Armlet. Next
+place to go to is Cornelia, but if you need healing desperately you can go to
+Elfheim first. Otherwise, heal in Cornelia, it's cheaper :D. Head to Cornelia
+Castle.
+
+Cornelia Castle
+---------------
+From where you enter, go left. Head round the outside of the castle, until you
+get to the opening in the back. Go in, and go right. There will be a person
+there, ignore him. Go in the treasure rooms. You will receive an Iron Armor, a
+Tent, some Nitro Powder, a Cottage, a Saber and a Mythril Knife. Not bad.
+Equip everything that is worth it, and head up to the Chaos Shrine by foot.
+
+Chaos Shrine
+------------
+There are a couple of items here. Head to the left to get the Rune Blade, then
+to the top right to get the Werebuster and a Gold Needle. That's it for the
+items unlocked by the key for the moment. Now what? Remember the items you got
+from Cornelia Castle? In particular, think of the Nitro Powder. Didn't someone
+say they needed that? The dwarf! Let's go deliver it to them. Directions on
+how to get there were handled earlier, so scroll up to the previous section on
+Mount Duergar if you can't remember.
+
+Mount Duergar
+-------------
+There's a large amount of treasure that is unlockable in the bottom part of
+this area. Here you will find 8 chests! containing a Tent, a Great Helm, a
+Wyrmkiller, an Ether, a Potion, a Mythril Mail, 575gil and a Cottage. The
+Wyrmkiller will be the best weapon for a thief for quite a while, so if you
+have a thief, equip it on them. Once that's done, talk to the dwarf standing
+to the right of there. He will do a classical exclamation mark bubble, and
+take the Nitro Powder off your hands. With it, he will blow a hole in the
+landscape, so now your ship can get through! Head back to the ship, and
+remember to get the two chests near the entrance if you didn't get them last
+time.
+
+   6.3) The grass is not greener... the hunt for the Earth Crystal
+
+<Come on, it wasn't that bad... You could at least pretend to laugh>
+
+Overland
+--------
+You now have a much larger area to explore. However, it is not worth going to
+most of it. Just head a little west from the dwarves cave to find Melmond.
+
+Melmond
+-------
+Some great spells to be picked up here. Grab Curaga, Healara and Life for your
+White Mage. You won't regret them. Also Black Mages should get Firaga. Red
+Mages do whatever. If you have a Red Mage and a White Mage however, let the
+Red Mage grab the spell the White Mage doesn't. All four of those spells are
+good. Also grab some Silver Armlets. Talk to the people round town, and you
+will get news of a vampire, a wise sage and a giant who eats jewels. You have
+no jewels, and the sage can wait. Let's go hunting vampires!
+
+Overland
+--------
+The Cavern of the Earth is to the south, so just keep heading that way until
+you see the cave. If you enter a place called "Giant's Cave", leave, and head
+east a bit before going south again. There's nothing to do in there yet.
+You'll find it eventually.
+
+Cavern of the Earth
+-------------------
+This place is a long journey, teeming with treasure and danger. The enemies
+here are tougher than what you are used to, so you might have to be more
+heal-conscious than you have been before. Also, save often, and be prepared for
+a fight every time you go after a chest. There are monsters guarding a lot of
+the treasure chests here.
+
+First off, go up, and along the path. You'll come across a room with a chest.
+If you try and take the chest from the front, you won't have problems, but try
+and take it from the side and you will have to fight an Earth Elemental. The
+chest contains 1975 gil. Head back to the intersection. If you want, there's
+two rooms to the south with 765 gil, and Antidote, a Potion and 880 gil.
+Whether or not you get them, head to the right once you're done with this
+level. They're, you'll take some stairs down to Basement Level 2.
+
+When you get here, take the path heading downwards to 5000 gil, a Leather
+Shield and 575 gil. Then, go back and take the path leading upwards to a Tent,
+330 gil and a Coral Sword. Then head to the right and down the stairs to
+Basement Level 3.
+
+When you get here, go straight right for a Sleeping Bag. No monsters either!
+Go up. When the path splits in two, you will see a door to the left. There's 
+3400 gil for the taking there, but there's also a monster encounter. However,
+that can be avoided by taking the contents of the chest from the right hand
+side. If you go to the right, there's a Gold Needle, but you'll be hurting by
+now, and it's a long trip, so it's hardly worth it. Keep going left. There's
+1020 gil in the second room you come across, as well as another avoidable
+monster fight. Stay on the right hand side of the room and you will be fine.
+Keep going. You will find another room, but the bat here will be a different
+colour, and won't move. This is the vampire. Heal up and save before fighting
+him (Oh, damn! I forgot my stake!).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Vampire
+HP: 280
+
+Just hit him. He's got low HP. You'll almost kill him with one Firaga. Diara
+and Diaga also work very well. He hits hard, but he should only last a round
+or two. He's got 1200 EXP to be split up, and he will give you 2000 gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Once you've defeated him, grab the item in the chest - It's a Star Ruby. Keep
+going through and you will come across a stone slab. You can't go past there
+yet so let's leave for now. Exit, and go back to Melmond for healing.
+
+Melmond
+-------
+The people say the land is still rotting, even though the vampire is dead.
+Perhaps something else is the cause? Talking to people will give you talk of a
+wise man named Sadda, and a Jewel eating giant. We just got a jewel, didn't
+we? Let's see if we can trade him something for it. Head to Giant's Cave
+
+Giant's Cave
+------------
+Talk to the Giant. He will let you pass if you give him the Star Ruby. You
+give it to him, and true to his word, he leaves. Ignore the stairs on the
+upper path and head onto the lower path. Go in the door you see to get the
+Great Axe, 620 gil, 450 gil and a Mythril Helm. With that, you can go back up
+to the stairs on the upper path. Exit out the stairs.
+
+Overland
+--------
+You'll appear in the sunny overland again. Follow the path, you can't get lost.
+Go in Sage's Cave.
+
+Sage's Cave
+----------
+Just speak to the old man and accept the rod. Nothing else to do here. Head
+back to the Cavern of the Earth.
+
+Cavern of the Earth
+-------------------
+Yes, back here again. Tough luck, isn't it? Head back to where you defeated the
+vampire. Now, go to that stone tablet blocking the way. It will slide away,
+letting you take the stairs. You are now on Basement Level 4
+
+You can go up for some chests, containing a Staff, 3400 gil, 1520 gil,
+1455 gil and 5450 gil. That's 11825 gil total! There are monster traps on the
+chests, but you can avoid all but one if you're careful. For the two
+right-most chests, tackle them from the side. The traps are on the front. For
+the other three chests, just go between them. There is no trap on the top
+right chest of that group of three, and the trap for the bottom chest is to
+the right of it. Grab the gil in the top right chest. Now, there are two
+chests left for this room. Just go between the remaining chests, you will
+fight one or two Sphinx's. You should be able to handle them. Grab the gil,
+then head back to where you had the choice between going left and up.
+
+This time, go left. Head along the path, going left at the next intersection.
+Keep going towards the bottom left corner. Here, you will find a Tent, a
+Mythril Shield and 1250 gil. They're all monster trapped - Take the bottom
+chest from right in front of it, but take the other two chests from the side.
+Now, head up to the top left of the map. The stairs down are there, they're
+not hard to find. Head down to Basement Level 5.
+
+Head onto the path leading up, and then follow it, going left and down when
+you have the chance. Go in the door, and you will see a Brown Orb, and a
+contraption behind it. That's the earth crystal, on the contraption. Heal up,
+and save as you have a boss fight. Touch the brown orb, and it will be
+revealed to be a Lich, who was the one causing the earth to decay. You're
+gonna have to fight it!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lich
+HP: 1200
+
+This guy is tough. He can cast Level 2 attack magic (Blizzara, Thundara), he
+casts Haste on himself and hits you. However, he's not unbeatable. Diara will
+do decent damage to him, and use the highest level Fire spells you can. I was
+consistently doing 272 damage to him with Firaga, which meant when used in
+conjunction with Diara, he was gone in 4 turns. He's got 2200 Exp for you, and
+the health amount of 3000 gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Now you have defeated Lich, you automatically head up to the earth crystal.
+Holding up your crystal shard to the earth crystal, there is a huge flash,
+and the crystal starts shining again! You characters are suitably impressed,
+as they do a little dance. You will then see a FMV of a statue disappearing
+from in front of a door. Now, you are done with this place, so you can leave
+now. No, not out the way you came in, there's a much quicker way. There's a
+spot behind the earth crystal. Step on it, and you will be flashily
+transported right out of the dungeon. Now, head back to Melmond to heal up
+and restock items. Head out of Melmond and onto the ship now, there's three
+more crystals to be saved.
+
+
+   6.4) Is it a bird? Is it a plane? No, it's...
+
+<You'll laugh when you work out why I named it this. That is, if you don't
+groan.>
+
+Overland
+--------
+The next crystal to get is the fire one. To get to the next destination, go
+down, hugging the coast on your left. When the coast starts to disappear to
+your left, go left until you reach land. There is a dock there, just below
+you. Land, and head left. When you have the option of going up or down, go
+down, and follow the path to Crescent Lake.
+
+Crescent Lake
+-------------
+This place has all the Mythril items, which is great for your Fighters, Red
+Mages, and later on Ninjas. Also, there are some good spells here. Pick up
+Thundaga and Quake for you Black Mage, and Protera and Stona for your White
+Mage. Exit is a brilliant spell, but you need a White or Red Wizard for it, so
+you can't get it yet. Stun is useless for your Black Mage, so if you have
+spare money you feel like wasting, get it. You won't be using it much though.
+Anyway, head up past the magic shops and follow the path to the left. You will
+come across twelve men. Apparently their prophets, and their leader in the
+blue is Lukahn. Yes, that Lukahn, the one that made the prophecy. Talk to all
+of them, and you will receive the canoe, which will allow you to travel along
+rivers and shallow waters. You'll find out information about the fiends here,
+and how the fire fiend is very close. However, I feel it is worth taking a
+detour to do a few things. Head out of Crescent Lake and back to the ship.
+
+Overland
+--------
+Head up, hugging the coast. When you see an opening above you, go in and go
+to the left You will see a river. While you can't cross this in the ship,
+what did you just receive from the prophet? That's right, a canoe! With that
+you can cross the river, so head right up to the river with the ship and push
+left, and you will get in the canoe and start going along. This place is
+rather complicated, so I'll try to give good directions. Head left until you
+reach your first intersection. Go up the path closest to you, and then go up
+at the next intersection. Follow the path to the left, and keep going left at
+the next two intersections, following the path. You'll reach land eventually.
+Go along the path and into the Cavern of Ice.
+
+Cavern of Ice
+-------------
+This place is a piece of cake if you are well equipped and have a Fira or
+Firaga. However, watch out for the White Dragons - They can do 100+
+damage to each character with one of their attacks. Follow the path to the
+staircase. There's nothing else you can do here for the moment, so go down.
+You're now on Basement Level 2
+
+This is really small too. The stairs are in the bottom left corner, it doesn't
+really matter which way you go to get there Head down to Basement
+Level 3.
+
+You don't need my help with this level. Go to the next staircase, and Basement
+Level 2.
+
+Go along the path and into the room. There are cracks on the floor: You'll
+fall through them if you stand on them, so don't for the moment. The right
+chest has a Flame Sword. This sword is stronger than the Mythril Sword and
+Mythril Axe, so equip it right away. The right chest has a set of Clothes,
+but is guarded by Dark Wizards, who are powerful and can cast Level 3 magic
+spells. A Level 3 spell will destroy them however, as will continued physical
+abuse. You can leave this, as Clothes are just the armour you started off in.
+However, they're manageable, and give good gil/EXP, so it won't hurt
+to fight them once. It seems this is a dead end. You can't reach the blue
+stone, as the cracks are in the way, and you can't go any further. Perhaps
+it's time to see what is below us. Step on a Crack and head to Basement
+Level 3.
+
+As soon as you take a step, you will be forced into a fight with Specters,
+Ghasts and Wraiths. Beat them up. Go down a bit, and you will see three
+paths, all covered in a type of flooring you have never seen before. There are
+ice shards sticking up out of the ground, and each character will receive one
+damage per step on it. However, there are no random encounters on here
+(Poor monsters don't want their feet hurt!), so don't worry too much. You can
+head to the left to get Ice Armor and Mythril Gloves, but you will have to
+fight White Dragons in battle twice. The Ice Armor has the same defense rating
+as the Knight's Armor, but a much higher Evasion. Equip it. Then head back
+over the spiky floor. There's nothing on the right, so head down. You'll come
+to a fork right away. Go on the right side. You'll come to a three way
+intersection next. There's nothing to the left or the right, so head down.
+There's another fork here. Go down the left side and into the room. All the
+chests have gil in here, for a total of 40,784 gil! Now, head back and take
+the right path here to the stairs going up to Basement Level 1.
+
+Go around and get the Ether from the chest. Head down for 10000 gil from the
+chest in the room, then head to the left. If you want you can go to the
+top-right and exit by the stairs, heal up and come back in, but if you think
+you can survive one last boss fight (it's not hard!), keep going to the right.
+Head in the door, and grab the contents of those three chests, avoiding the
+crack in the floor. The chests have a sleeping bag, 9500 gil and another Ice
+Shield. Now, heal up, and prepare for another boss fight. Step on the crack,
+and you'll fall down to Basement Level 2, with the blue object you couldn't
+grab earlier right in front of you. Go towards it carefully, making sure to
+avoid the cracks. A boss will come up.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Evil Eye
+HP: 162
+
+He's got 162 HP. That's low. Just throw everything at him, he should die in
+one or two hits. The only thing that makes him remotely dangerous is the
+Doom spell he can cast, but you should be able to kill him before he can use
+it. He will give you 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Grab the blue object. It's a Levistone, a mysterious floating stone (or so
+says the key items description). You now need to jump down a crack to get out.
+You'll land in Basement level 3, like last time. Follow the directions from
+earlier to get to Basement level 1 (Ignoring all the items, unless you didn't
+get them last time), and head up to the top-right corner. You'll be back on
+the overland.
+
+Note: The Evil Eye can be battled again as many times as you wish. He will
+appear each time you step on the spot where you first fought him. Since he has
+low HP, and gives good EXP and gil, feel free to fight him as much as you
+want. At the time of writing this note, I had beaten him 71 times.
+
+Overland
+--------
+Heal up. Now head back to the ship. Head back to where you docked to go to
+Crescent Lake, but this time go down further, hugging the coast. You'll come
+across a river. Head into in the canoe, and go south down the river. At the
+end of the river, head to the left and into the desert. As soon as you enter,
+you will be given a cutscene of your party entering the desert, and forming a
+ring around the Levistone. An airship will appear out of nowhere from below
+the sand. That is now yours. It is not only faster than the ship, it can go to
+more places, and there are no random encounters while in it. Woohoo!
+The next thing to do is to Class Change. Go into your airship.
+
+   6.5) I... have... THE POWER!
+
+<Yes, that's my cheesy He-Men reference. It's very appropriate, as you will
+find out>
+
+Overland
+--------
+Just for a moment, open your map. You will see there are four continents, each
+on a different corner of the map. The place we are after is on the continent
+in the top-right corner of the map, so head there. The Citadel of Trials is
+marked as by a yellow dot on the map on the west side of that continent.
+However, you cannot land right below it, as the airship cannot land on swampy
+areas, which are shown on the map by blue/green patches. And there is one
+right below the citadel that stretches up for a long way. There are two
+choices one where to land - You can go to the right, and park just to the
+left of the desert, or you can go up until you find a spot you can land.
+Either way is about the same length, so it's your call. Either way, find
+your way to the citadel, and save before going in.
+
+Citadel of Trials
+-----------------
+This place shouldn't pose a problem if your levels are in the 20's or high
+10's. Head in and talk to the man standing there. He will babble on about how
+you got the crown, your courage cannot be questioned, you can do the trials,
+blah blah blah. Once he leaves, find the room and enter it. There are no
+enemies on the first level, and it's easy to find, so I won't post directions.
+When you find it, go in and sit on the throne. You will be warped to the
+second floor.
+
+This is a warp point maze. To exit, you must follow the correct warp path.
+Along the way, you will be given a choice of two warp points three times.
+If you choose the wrong one, you will be taken back a few warp points.
+However, it's not too hard to navigate. You start in a room. Head out, and go
+to the only warp point there. You will be warped. Now, this path to the next
+warp point is also linear. Head to it, and be warped. You have two warp points
+to pick from for the third warp point. Pick the bottom one. The path to the
+fourth warp point is linear. For the fifth warp point, head to the bottom one.
+The path to the sixth is linear. For the seventh, head to the point on the
+right. Head to the right, and into the room. Grab the Gauntlets from the
+chest, fighting the Clay Golems. They're not too hard. Head out of the room,
+but don't go straight down. Head two spaces to the left (from where you came
+out of the room), and head down there. This will take you to the eighth warp
+point, and you will be warped to a set of stairs. Go up them to Floor 3.
+
+When here, head straight up, and grab the Healing Staff, the best item for
+the White Mage. Yes, I know it has lower attack power than the Mythril
+Hammer, but bear with me. Head to the left and get the Steel Gloves, Ice Brand
+and Ruby Armlet. Head down and receive a Cottage, 1455 gil and 7340 gil. Now,
+head to the right. Heal up before you grab the contents of the chest. Now,
+grab the contents. You will get a rats tail. Head to the throne to leave, but
+before you do, there'll be a boss fight.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Dragon Zombie
+HP: 268 each
+
+You will fight anywhere from 1-3 Dragon Zombie's in my experience. Not too
+hard. This is really more like a normal enemy encounter, except these are
+almost easier than the enemies round here, because they don't stone,
+insta-kill or paralyze you. Just use your most powerful fire attacks and
+Diara, and this will be over quickly. They give 2331 EXP per Dragon Zombie,
+and 999 gil per Dragon Zombie.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+That's it for here. Heal if you need, and head back to the airship.
+
+Overland
+--------
+Now, it's time to get a few items. Head down and to the left, and you will
+reach a cave, surrounded by trees. This is a Dragon Cave
+
+Dragon Cave
+-----------
+Six chests, and no monsters in here. There's 19,975 gil total here, and an
+X-Potion. Head out.
+
+Overland
+--------
+Head up and left. There's a single cave on an island here. There's nothing in
+there though, so head left. There will be an island with marsh covering a lot
+of it. Land in the bottom-right corner, the rest you can't land on. You can't
+do anything in the right-most cave on this island. Go to the left one.
+
+Dragon Cave
+-----------
+Three chests, no monsters. It doesn't matter which way you go, this place is
+set up in a circle. You'll get a Cottage, 500 gil and an Elixir. Head out
+again.
+
+Overland
+--------
+I know you can see an Island above us with two caves, surrounded by trees,
+but ignore that for now. Head left, there's an island with one cave. Head in.
+
+Dragon Cave
+-----------
+Three chests, no monsters. This place isn't hard to navigate. You'll get a
+Dry Ether, a Gold Needle and a Tent. Head out and to the airship.
+
+Overland
+--------
+Now you can head to the island with two caves and trees all around. The left
+cave has nothing for us at the moment. It's the right cave we're going to.
+
+Dragon Cave
+-----------
+Go down the path and head down the stairs to Basement Level 2.
+
+You'll be in a room. Head through the door and straight up. You'll see a giant
+dragon there, talk to him. If you got the Rat's tail, as I showed you how just
+before, he'll give you a class change! Woohoo!
+
+A Fighter becomes a Knight, Monk becomes Master, Thief becomes Ninja, 
+Red Mage becomes Red Wizard, White Mage becomes White Wizard, Black Mage
+becomes Black Wizard.
+
+The Knight has the ability to use low-level White Magic, the Ninja can use low
+level Black Magic. While they don't have any MP at the moment, they will get
+it as they level up. This upgrade also allows you Red, White and Black Wizards
+more spells. Head back to the Overland.
+
+Overland
+--------
+Right now, head back to Cornelia, Pravoka and Elfheim and grab some spells for
+your Knight and Ninja. You'll also want to grab Teleport for your Black Wizard
+if you're up to L5 magic with him, and Exit for your White Wizard if you're up
+to L6 White Magic. I know they're expensive, but they're both worth it. If
+you cannot get them yet, don't worry. You can earn some levels and gil, and
+get them later, if you so need.
+
+   6.6) Full steam ahead to the Fire Crystal!
+
+<Yes, I am aware how lame my section titles are. No need to send me emails
+about them.>
+
+Now that is done, what next? Remember those sages back in Crescent Lake, who
+us about the fiends, and how the fire fiend was aware of our presence. Perhaps
+it's time to pay him a visit. He resides in Mount Gulg, up and to the left of
+Crescent Lake. Go there in the airship next.
+
+Mount Gulg
+----------
+Head in, and one of the first things you will notice is the floor. Lava seems
+to be covering it. You can walk on there, and you will need to walk on it to
+get through this dungeon, though all characters will receive one damage point
+for every step on there. However, you cannot die from standing on the lava, 
+and there are no random encounters on the lava, which is a plus. The first set
+of stairs are at the top-left of this level, go down to Basement Level 2.
+
+There's a whole heap of treasure on this level. Head in the door, and collect
+everything you can find. The treasure on this level is: 13925 gil (total),
+two Mythril Helmets, a Great Sword, a set of Mythril Gloves, a Mythril Axe,
+a Mythril Shield, a Hi Potion, an Antidote, a Tent and a Phoenix Down.  The
+stairs down are to the left of the stairs you entered this level from. Head
+down to Basement Level 3.
+
+There is nothing to the left or below where you start in this level. Just head
+to the right and down the stairs. You're now on Basement Level 4.
+
+Head to the bottom-right corner for the stairs up to Basement Level 3.
+
+From the stairs, head down to the room below you, then head left to that room.
+There's a path at the bottom of that room, head down it, and follow that path
+across the lava to the stairs leading down to Basement Level 4.
+
+Head into the room above you to grab 2750 gil and a Gold Needle. Head along
+the path until you come across another door. This one has a chest with 1760
+gil in it. Go out the room, and head left. At the end of that path there is
+5 chests, with an Antidote, 7340 gil, a Flame Shield, an Ice Brand and 880
+more gil. Go back to the right, and this time go down. Head in the first door
+you see. Grab 155 gil and 10 gil from the chests (You don't need them, but it
+means that those who want to collect every single chest can). Head to the path
+on the right that leads up. Follow it, and you will reach a room that has 2000
+gil, a Cottage and A Gold Needle (It will only have the Gold Needle if you
+didn't get it earlier on this level). Head back along that path, and go down
+this time. Go in the room to get 1250 gil and a Staff, then head out and down.
+The stairs down to Basement Level 5 are round here, so go down them.
+
+There are eight ways to go here. However, most of them have nothing. There
+will be a Gold Needle in the top-left, top-right or bottom-right corners
+!IF! you haven't picked one up on L4 or L5 yet (yes that's right, somehow
+those five chests only have one Gold Needle between them). However, you
+probably grabbed that earlier, so head to the left. Get the Flame Mail from
+the chest, and head to the bottom-left corner. You'll see a scene that is
+very similar to the one that you saw when you had to fight Lich for the Earth
+Crystal. You know what that means? You found the Fire Crystal, and you need to
+heal up before taking on the next Fiend. So do so, and press "A" next to the
+red orb.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Marilith
+HP: 1440
+
+She shouldn't be too hard now you have class changed. Just as you'd think, Ice 
+magic does extra damage to her. However, there are better things your Black
+or Red Mage can do. First thing to do is to cast NulBlaze on your party, to
+halve the damage of the Fira spell she wields. Have your Black or Red Mage
+cast Haste and Temper on your physical attackers in this order - Master, then
+Knight, then Ninja. She's not hard. For beating her, you will get 2475 EXP to
+share between your party members, and 3000 gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+You'll head forward and lift a crystal shard to the Fire Crystal now. There
+will be a flash of light, and the Fire Crystal will start to glow. You'll
+then be given a scene of a statue being destroyed. Congratulations, you are
+now half finished relighting the crystals. That's two down, two to go.
+
+   6.7) The quest flows on... searching for the Water Crystal!
+
+<Pun intended, but hilarity lacking.>
+
+It's time to go to Gaia. Gaia is the town in the top-right corner of the map.
+To get there, you will need to use the airship. Go in here.
+
+Gaia
+----
+While it may seem tempting to head off and buy all the spells and equipment
+you can, wait a moment. You're going to need 40,000 gil to buy a quest item
+very, very soon, so hold of spending it up big. However, feel free to splurge
+with any gil above 40,000. Talk to people around town, and you will find that
+there is a strange liquid called "Oxyale" at the bottom of the lake here, but
+only faeries can retrieve it, and one of the people here sold a bottled faerie
+for money to a caravan. Time to find that caravan.
+
+Overland
+--------
+The place we need to head to now is on the top-left continent of the map,
+which you can get to from Gaia by flying to the right. Fly around the
+continent and find the desert here. You'll see that near the top of the
+desert, there is a patch of desert that is not connected to the rest of the
+desert that has a patch of trees next to it. We want to head to the bit
+of desert to the left of the trees, so park the airship, and head there.
+If you go into the centre of the separate patch of desert, you will find the
+caravan that was talked about by that man who caught the faerie. Buy it, as
+you will need its help. However, it doesn't come cheaply, costing you 40,000
+gil. If you didn't pay attention to me earlier, you can get money by selling
+any old equipment you have, and by beating up on monsters around here. Anyway,
+once you have bought the faerie, head back to Gaia.
+
+Note: Once you have bought the faerie, the man in the caravan doesn't close up
+shop. He now sells Giant Tonics (which boost max HP for one battle), Faerie
+Tonics (which boost max MP for one battle), Strength Tonics (which boost
+strength for one battle), Protect Drinks (which boost defense for one battle),
+and Speed Drinks (which boost agility for one battle). While they're not bad,
+there are better things to do with your money and/or a turn in battle.
+
+Gaia
+----
+As soon as you walk in, the faerie will fly off! No, come back! Don't worry,
+you'll see it again very soon. Find the weapon shop here, but don't go in.
+Instead, go up the path that is to the left of it, past the item shop and to
+the right of the church. You'll come across the lake, and the faerie. She will
+recognise you as the people who saved her, and say sorry for flying off,
+claiming she was scared. As thanks for saving her, she then goes off and gets
+you some Oxyale. This stuff allows people to breathe underwater. This you'll
+need to get to the next Fiend. Now, feel free to buy anything you want from
+this town. You can spend time outside gaining gil if you need to. You should
+start with the Protect Rings, which guard against instant death. They're very
+useful. Ruby Armlets are also good for characters that can do no better. As
+for magic, Gaia has a lot, but there is quite a bit that is not useful. For
+your White Wizard, get Curaia and Diaia for your L7 spell list, and Holy for
+your L8 spell list. That's all that is really needed, as the other two L8
+White magic spells offered in Gaia are useless. If you really want to fill
+out the list, get Dispel. But you won't use it. For your Black Wizard, get
+Blizzaga and Break for the L7 magic, and leave the L8 magic. It all looks
+useful, but really it's not, as all the enemies that are tough enough to
+warrant using them are immune anyway. You'll get a brilliant L8 Black Magic
+spell later on anyway that which more than make up for that, so if you decide
+to buy some L8 Black Magic from Gaia against my advice, at least only buy two,
+to get the third one later. It's worth it. As for weapons, the Cat Claws will
+probably be weaker than anything you have equipped or in your inventory at
+this point anyway, unless you want to buy it for a Black Wizard. Really, it's
+a waste of money, as though the Black Wizard can actually kill things with the
+Cat Claws, there are far more important things for him to do. Also, remember
+to stock up on items. When you're done, head out of town.
+
+Overland
+--------
+Remember where we had to head to get the fairie? Yeah, that place on the
+continent in the top left corner of the map? Well, we have to head to that
+continent again. This time however, we need to go to the town there, and a
+hidden dungeon there with great items. Park your Airship where you did last
+time, and head up the river. You will come to a Waterfall. Go in. This is
+Waterfall Cavern.
+
+Waterfall Cavern
+----------------
+This place isn't terribly dangerous. It has a lot of dead ends, but only one
+room. Talk to the robot in there, and he will give erratic messages, saying he
+has been waiting, and then mention a cube, Tiamat and a flying fortress. He
+will then give you the Warp Cube. After that, he will short out, and while
+he can walk, he can't speak. Grab the chests for a Wizard's Staff, a Ribbon!,
+13450 gil, 6400 gil, 5000 gil and a Defender. Head back out.
+
+Overland
+--------
+Head back down the river, until the mountains on the right shore stop and you
+can land there. Do land there, and head up, to the town of Onrac.
+
+Onrac
+-----
+Head to the White Magic store, and get Healaga. That's about it. Nuldeath is
+useless now you have Protect Rings. Saber would be useful, except it's only
+the caster which gets the bonus. Who wants a beefed up Black Wizard? Blind is
+useless too. There's no weapon/armour shop, but you can head to the items shop
+and buy some remedies. They're very useful. If you need more money, a lot of
+the enemies outside this town drop 1000-2500 gil. Anyway, head back to the
+White Magic shop, without going in. You'll see a bridge leading down. Go over
+that bridge and head right. Eventually, you will come to a lady in front of a
+barrel. She will say how you have Oxyale, so you can go on the barrel, then
+vanish into thin air. Creepy! However, head into the barrel, and it will head
+into the water. You'll see a FMV of the sea, which starts at the surface and
+pans down to a sunken structure on the bottom. You will get out of the
+barrel.
+
+Sunken Shrine
+-------------
+If you talked to people around town, you'll know that this place used to be on
+the surface, but sunk down here. Head up, until you come to a place with three
+choices of direction - up, left and right. Head right and in the door. There's
+2000 gil there. Now head to the left. Go along the path and into the door.
+There's 9900 gil in the chest. That's all the items that you can access at the
+moment. There are two sets of stairs on this level - one in the top left going
+down, one in the top-right going up. We need to go down to get to the water
+fiend, but we'll head up first, as it has a whole heap of rare and wonderful
+items, including a key item, so head to the top-right and go up the stairs to
+the fourth floor (Yes, you started on the third floor).
+
+Go down, and then go to the left until you can no more. Then head up, and once
+again go left until you can no more. Then, head up and into the room. You will
+get a Diamond Armour. Equip it on your Knight right away. There's 20 gil in a
+chest that is in a room in the middle of this floor. In the bottom-left
+corner, there is a room. In that room is a chest with a Light Axe. Head right,
+and go on the upper path for a Mage's Staff, then go back and head on the
+lower one to grab 12350 gil from the chest, before going up the stairs to the
+5th floor.
+
+This place is brilliant. There are 13 chests here, no monster traps on the
+chests, and no random encounters. There are a few mermaids around, but they
+just like to talk. From one you'll find out that a mermaid saw people entering
+Mirage Tower before, and at that time she heard the "most lovely chiming
+sound" at that time, and from another you'll find out that the Water Fiend
+is on the bottom level of the shrine. That's all that's all the useful
+information from them. From the chests, you'll pick up an Antidote, a Diamond
+Shield, a Diamond Gloves, a Diamond Helm, a Diamond Armlet, a Rosetta Stone
+and a total of 32670 gil. You should equip all the diamond items to your
+Knight, except the Diamond Gloves and Diamond Armlet. The Diamond Armlet
+should be given to whoever has the lowest armor, and if two people have equal
+lowest armor, give it to the one who has the least HP between the two. The
+Diamond Gloves is inferior to the Protect Ring you should have bought in Gaia.
+You're done here, so head back to the floor you started on (Floor 3), and go
+down the stairs in the top-left to Floor 2.
+
+There's nothing to do here now, so head up to find stairs up to Floor 3.
+
+Please, you don't need help here. Go to Floor 4.
+
+The room has nothing. Go to Floor 3.
+
+This is a different section of Floor 3. The chests have 110 gil and 450 gil.
+Head out the door at the bottom and go down the stairs to Floor 2.
+
+This is a different part of Floor 2. And this part has treasure! Go down and
+get 8135 gil and 7690 gil. Head left, and grab the contents of the three
+chests. They have 5450 gil, 385 gil and a Giant's Gloves. The Giant's Gloves
+are brilliant, but don't equip them, as their power is in using them in
+battle. When used as an item in battle, they cast the spell "Saber". If you
+remember earlier, I ranted about the way that only the Black Mage/Wizard
+could receive the bonus of Saber, as it could only be used on the caster.
+These gloves mean your Knight/Master/Ninja can cast Saber, and become a
+killing machine. You'll need them. Head out of this room and up to find a room
+with another Light Axe in it, then head to your right to get four chests,
+containing a Ribbon, 9900 gil, 7340 gil and 2750 gil. Now, head up and to the
+left to get to the first floor.
+
+There's no treasure on this floor, but it's fairly easy to find your way to
+the boss. From the stairs, head up and into the door. There is another exit on
+the left side of that room - go out it. Then, head left into the path there,
+and follow the path to the door you find. Go in, and head to the top-left
+corner (you'll need to go up first, not left). The door you need to go out
+of is just below the top-left corner. Head along that path, and you'll see a
+door. The path to the right of the door leads nowhere, so head in. You'll see
+the same scene that you have before every crystal fight. This should prompt
+you to heal and save without me advising it. Now head to the blue orb and
+press Accept. It will morph, revealing the next boss, who looks like a giant
+manic octopus in a cape. He will attack
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Kraken
+HP: 1800
+
+I know, that HP looks like a lot. And it is, to a degree. However, this boss
+is not super hard. It has been said he has Thundara, but I never seem to see
+it. Cast NulBolt if you wish. His main weapon is his physical strength, and
+he can deal out serious physical damage. Feel free to cast Protera with your
+White Wizard, and then just have them heal. Your Black Wizard should be
+casting Haste and then Temper on your physical attackers. With Saber+Haste,
+the Kraken will head down fast. Also, if you cast Confuse on the Kraken, or
+use the Wizard's Staff as an item (you picked this up in Waterfall Cavern),
+you are able to Confuse him (though it isn't 100% accurate), meaning he will
+hit himself for a large amount of damage, and you can heal up and stat up.
+
+When you win you will receive 4245 EXP to share among the party, and 5000 gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Congratulations, you have beaten the third fiend! Horray! Your characters will
+lift up their crystal shard, there will be a flash of light, your party will
+dance, and there will be a FMV of a statue being destroyed that was blocking
+a door. Nothing you haven't seen before. Head onto the teleporter at the back
+of this room.
+
+   6.8) This place is no breeze... going after the Wind Crystal!
+
+<Be patient. The cheesy section titles are almost over.>
+
+You will appear outside of Onrac. head in and heal, restocking on items if you
+need to. Your next destination is Melmond, so check the map, find where it is
+and head there in your airship.
+
+Melmond
+-------
+In the top-right corner, there is a man walking near gravestones. Talk to him,
+and he will examine the Rosetta Stone you got in the Sunken Shrine (you DID
+get it, didn't you? I told you to :/), realising it allows you to translate
+Lufenian. In gratitude for giving him this, he'll teach you how to speak
+Lufenian. You must be pretty smart, as you learn in about two seconds :D. You
+might wonder, why do I need to speak Lufenian? You need it because the place
+where you will be heading next only speaks Lufenian. Head out of Melmond, and
+into the airship.
+
+Overland
+--------
+Our next destination is on the same continent as Gaia, lying at the
+bottom-left corner of the continent. Fly over to it, and you will see trees
+all around it, which you can't land on. You'll also notice if you fly up,
+there is a mountain range separating it from the mainland. So you can't land
+here, right? Wrong. There is one small space to land, a 1x1 square up and to
+the left of the lake, fairly close to the mountain range. Once you find it,
+head down to the town.
+
+Lufenia
+-------
+This town is why you needed to learn Lufenian. You are here for two purposes -
+to grab the great magic here, and to get an item that allows you to advance
+with the game. Lets get the item first. Head to the bottom-right corner of
+this town, and then head onto the platform that is over the water. Talk to all
+four people there, and you will get a Chime from someone, which is a key item.
+Remember that mermaid who said when she saw someone enter the Mirage Tower,
+they heard a "lovely chiming sound". Perhaps this chime will allow you to
+enter Mirage Tower. Now, let's see about our other reason to be here - the new
+magic. Head to the top-right corner, and head up on the right of the house
+that is furthest to the right. There will be a little gap in the wall. From
+here, go right - don't worry, you won't go out of town - and you will find the
+magic shops for this town. Full-Life is brilliant for your White Wizard, as it
+restores your dead characters back to life with FULL HP! And Flare is the
+strongest attack magic spell that this game has, so pick it up for your Black
+Wizard. Now you are done, head back to the airship.
+
+Overland
+--------
+Mirage Tower is up and to the left of Lufenia, and to the lleft of where you
+parked your airship. However, since you cannot land on the desert, head down
+the desert and park on the green patch just below the desert. Head in.
+
+Mirage Tower
+------------
+From where you start, you can see the stairs to the next level. You could just
+head in the door above you, out of the door to the left and up the stairs, but
+then you would miss all the items. Head into the center to grab the Tent,
+Aegis Shield, 2750 gil, 18010 gil, Vorpal Sword, 3400 gil, Healing Helm and
+800 gil. Once that's done, head up to Floor 2.
+
+This floor isn't hard to navigate. In the room in the center there are ten
+chests, containing Thor's Hammer (the best weapon for your White Wizard),
+a Cottage, a Sun Blade, Dragon Mail and a total of 58985 gil. The Dragon Mail
+is the same as the Diamond Armor, so it will be useless unless you have two or
+more Knights. Equip the Sun Blade, as it is more damaging than the Defender
+you should be using. Now, head up the stairs to Floor 3.
+
+Easy floor. There's a door at the bottom of this level. You can get there by
+going to the left or right, as this room is circular. When you go in the door,
+you will face a Blue Dragon.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Blue Dragon
+HP: 454
+
+If you're at a halfway decent level, you will have no problems with this boss.
+Have your physical attackers hit him. There is a chance you will OHKO him.
+For your effort (or lack thereof), you will get 3274 EXP and 2000 gil. He may
+use Thunderbolt on you, which can be damaging, but he shouldn't be able to
+kill anyone.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Once that's done, just head straight up and on to the flashing tile. If you
+picked up the Warp Cube before (Which you should of, I told you to. If not,
+just find that section now and go get it and come back here), you will be
+teleported to the first floor of the Flying Fortress.
+
+Flying Fortress
+---------------
+You start out in a room. You can use the teleporter square there to take you
+out at any time, or your Exit spell. Head out of this room. From where you
+are, there are four paths - up, down, left and right. While the stairs up are
+at the end of the path leading up, It's worth going the other three directions
+first to grab the chests. Heading right, grab another Healing Helm, a Protect
+Ring and 11900 gil. Head back, and down the bottom path for a Razer (not that
+thing you shave with, a Sword). Head back and onto the left path, and grab the
+Potion and a total of 21950 gil. Now, head back and this time head up to the
+2nd floor.
+
+Head down form where you start, and you will come to the center of an eight
+point star. In the top-left corner there is a Mythril Helm and a Cottage,
+Diamond Gloves in the top-right corner, your third Ribbon and a Diamond Shield
+on the right hand side, a total of 13880 gil on the left hand side, a piece
+of Adamantite in the bottom-left corner, and a White and Black Robe in the
+bottom-right corner. Phew, that was a lot of work for 10 items. Once you have
+done that, head back to the center, and go down the bottom path to Floor 3.
+
+You will start out in the center of the floor, next to a weird orb. Talk to
+the robot stading there, and he will tell you that you can look out on the
+entire world from this point. Do so, and as you look, you will realise that
+the forces of earth, fire, wind and water are converging to one point on the
+map, and that point is at the Chaos Shrine. Looks like we will have to head
+there next, to make sure nothing underhanded is going on there. Anyway, there
+are four paths here, much like on the first floor of this dungeon. Heading to
+the right, you'll get a Gold Needle, Clothes, a Protect Cloak and 24035 gil.
+Heading up will net you a Potion, a Protect Cloak and 14400 gil. Heading to
+the left, grab the Gold Needle, Sasuke's Blade and 7550 gil from the room,
+before stepping on the warp tile to head up to Floor 4.
+
+This floor wraps around, so if you keep going in one direction long enough,
+you will end up back where you started. Go south twice, then head either right
+or left twice. You will find the warp tile that heads up to Floor 5.
+
+There's nothing here - except for the boss and air crystal! Head straight up,
+and heal before you press Accept on the green orb. Tiamat, the air fiend, will
+make a speach, then attack!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Tiamat
+HP: 2000
+
+This one has some tough attacks, but you should be able to take him out. He
+casts Thunderbolt, but it doesn't seem to be affected by NulShock. Perhaps it
+is like Flare, which has a Fire name but really is a non-elemental spell. He
+also uses an ability called Poison Gas, which despite the name doesn't seem
+to poison you, just do 90+ damage to all characters, and Ice Storm, which does
+90+ damage to all characters, but doesn't seem to be Ice elemental. He'll also
+physically attack you for reasonable damage. For this battle, just have
+physical attackers use the Giant's Gloves then attack, Black Wizard's use
+Haste on the party, and White mages use Healra/Healaga. You'll take him out in
+the end. He has 5496 EXP to give out, and 6000 gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+You'll walk up to the Wind Crystal, and hold up the piece of Crystal. There
+will be the obligatory flashing light, the crystal will light up, and you will
+dance, before seeing a statue disappear from in front of a door. Nothing new
+here. Head out on the teleporter tile behind the Wind Crystal, and back to the
+airship.
+
+   6.9) Time to change history...
+
+<That's it for my corny/lame titles. Happy?>
+
+Right now, you can head to Chaos Shrine for the final dungeon of this game,
+but there are some things you should do first.
+
+1 - Get Excalibur.
+
+Remember the Adamantite we picked up in the Flying Fortress? There was a dwarf
+in Mount Duergar who offered to make a sword for you if you got some. Head
+back there, and to the smithy dwarf in the room at the top of this place. You
+will put the Adamantite on the table, and he will be very surprised, and say
+from it he will make a great weapon. He works on it, and turns it into a
+sword. This is Excalibur, one of the most powerful weapons in the game. This
+should make your Knight even more damaging than a Master.
+
+2 - Have a go at the Soul of Chaos dungeons.
+
+Granted, I'm not done with explaining them, but just go through them a few
+times, pick up some items and stuff like that. It doesn't matter if you die in
+there, as you will just come back outside, with all characters having 1 HP.
+However, any items, gil or EXP you got in there before dying you get to keep,
+so it's worth going there just to get some items. You just might get one of
+the new, and powerful, crystal items, the Ultima Weapon, or one of the many
+other new and powerful items in there.
+
+3 - Get to a reasonable level
+
+Spending a bit of time in the SoC dungeons can help this a lot. There are more
+places where you can get good experience however. YOu'll want to be at least
+level 35 before taking this place, but if this is your first playthrough
+it's better to play safe and be a bit higher. The Evil Eye that respawns in
+the Ice Cavern is a good source of EXP, as are the Dragon Zombie's in the
+Citadel of Trials.
+
+Other than that, there's nothing else to do. Head to the Chaos Shrine.
+
+Chaos Shrine
+------------
+Head in and into where you found Garland and the princess earlier. Press
+Accept on the black orb, and your characters will each hold up their crystal.
+A scene will happen, and the black orb will disappear. Head to where it was,
+and you will be transported to another part of Floor 1 in the Chaos Shrine.
+
+There are two staircases you can take here - one in the bottom-left corner,
+and one in the bottom-right corner. The bottom-left one leads nowhere, so head
+to the bottom-right one and go up the stairs to Floor 2.
+
+Head to the stairs on the right up to Floor 3.
+
+Here, head down as far as you can go, and then head to the right. The door is
+at the bottom-center of this level. Head in, and you will fight a Death Eye.
+Take it out, and grab the Dry Ether and Elixir. Now, head to the the stone
+tablet, and press Accept. You will play the Lute you got at the start of the
+game, and the Stone Tablet will disappear, replaced by a rope ladder down.
+Head down to Floor 2.
+
+There's nothing here, just head to the top-left corner for stairs down to
+Floor 1.
+
+While you are on the same floor you were in after using the teleporter, you
+are in a previously inaccessable part. You're in the top-right corner. The
+stairs to Basment Level 1 are in the top-left corner. Head down them.
+
+Head up until the path ends, then go right. Don't go down at the first
+opportunity - it's a dead end. Instead, keep going to the right, and then
+head down when applicable. You'll see stairs down. Head towards them, but when
+you get one square away from then, Lich will attack
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lich
+(Or as I like to call him, Lich Version 2.0)
+HP: 2800
+
+While this is a serious upgrade, he's nothing you cannot handle. Be careful,
+as he can now cast Flare. Hiwever, you know how to take out the likes of him
+by now, or at least you should. WInning will net you 2000 EXP and one gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Note: You can fight him an unlimited number of times, by moving to and from
+the square you fought him on. Why you would want to, I don't know, as he
+doesn't give any items, only gives one gil (But you shouldn't need gil by now)
+and only gives 2000 EXP, which is less than an Evil Eye or a Dragon Zombie,
+both of which are significantly easier. Anyway, head down the stairs to
+Basement Level 2.
+
+Go left, and then up. You'll come across a wall. There's a door in the wall,
+which you can miss if you don't look hard, as it blends in (I spent 3 mins
+finding it the first time I went through here, as it was 2AM and my eyes
+weren't working too well!). Head right, and out the door to the right. Head
+down and left, and you will be given the option of going up to the stairs, or
+going down to get a Protect Ring, a Sasuke's Blade, a Protect Cloak and a
+Megalixir. Even if you don't want the rest of the items, it's worth it to get
+the Megalixir, so do so, and then head back and down the stairs. However, you
+will be stopped on your way...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Marilith
+(Marilith Version 2.0)
+HP: 3200
+
+She packs a punch now, doing 300+ damage to a character with her physical
+attack. She can also cast Firaga. Have your White Wizard cast Protera and
+NulBlaze (in that order), and then proceed to heal. Other than that, generic
+boss strategies work here. Wipe the floor with her to receive 2000 EXP and the
+measly one gil.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Once again, you can take her on multiple times, but why bother? Head down the
+stairs to Basement Level 3.
+
+While there are no items on this level, there is a small maze comprised of
+rooms in this level. Just keep heading to the bottom-left, and you'll be fine.
+When you get to the bottom-left, just head right, and you will reach the
+stairs, after first dispensing of...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Kraken
+(Kraken Version 2.0)
+HP: 3600
+
+He's seriously beefed up now, and can give your characters serious pain. Have
+your White Wizard cast Protera, but don't bother with NulShock for Thundara,
+as it shouldn't do too much. You'll get 3600 EXP, one gil and the small odds
+of getting the item "Eye Drops" left behind by him.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Once again, you can waste your time beating Kraken multiple times, but don't.
+Head right and down the stairs to Basement Level 4.
+
+This floor has a weapon BETTER than Excalibur on it, and what's more, EVERYONE
+can use it! From where you start, head down, and then down the narrow opening
+a few steps to your right. From here, go right. Head down and right, and go
+along the path that is heading into the bottom-right corner. Go in the room,
+and get the Masamune from the chest. This weapon can be equipped to anyone,
+and is 11 ATK points stronger than Excalibur.
+
+Now you have that, you need to backtrack to where you started this level. The
+quickest way is to cast the L5 Black Magic spell "Teleport", and head down the
+stairs again, or you can backtrack by foot if you want. Either way, this time
+go right. You will fight the last Fiend, Tiamat, once more.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Tiamat
+(Tiamat Version 2.0)
+HP: 5500
+
+This one's seriously beefed up too. Protera is in order. Just smack him
+around a while, as you should know how, and he'll go down, giving you 2000 EXP
+and one gil. He may also drop Rune Staff's.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+This one may actually be worth beating repeatedly, as the Rune Staff is a
+great in-battle use item - it casts Healara.
+
+Once you are done, hhead right and go down the stairs to Basement Level 5.
+
+There's nothing here.... Nothing, except for the final boss! Heal up, using
+the potions and ethers you have go in, and talk to the man standing there...
+It's Garland?
+
+He'll tell you about the plan he set up with the Four Fiends, and how he plans
+to abuse the powers of the world to become immortal. Obviously, we have to
+stop this. It's time to fight!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Chaos
+HP: 20,000
+
+Yes, he really does have that much HP. To make it worse, he has Curaja, which
+heals 9999 of his HP each time he uses it, and a slew of multi-target
+abilities, such as Cyclone, Tsunami, Blaze, Thundaga, Blizzaga, Firaga
+
+Don't be afraid to completely blow your MP using Healaga, Curaja, Full-Life
+for this battle. Use a Dry Ether if you run out of MP. It doesn't matter now
+
+You'll have to fight hard to win this. Have your physical attackers use Saber,
+and have Haste cast on them. Then, just keep casting Temper on them, to keep
+boosting the damage. Have your White Wizard constantly cast Healaga, to help
+keep your whole parties HP up high, and cast Curaga or Curaja if one person's
+HP gets low.
+
+Good Luck!
+
+Note: The way Chaos is destroyed is quite impressive, so pay close attention!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+7) The ending, and Clear Game mode
+
+After you beat the game, there is a text ending. I've included it here if you
+wish to read it again after beating the game, but don't just read it for the
+sake of it and ruin the surprise.
+
+
+
+The time loop was severed at last...
+
+The endless struggle that raged for over
+two thousand years had ended, and
+peace prevailed once more
+
+The light of the four Crystals
+restored the forces of wind, water
+earth and fire.
+
+It was a mere trick of fate
+that had given rise to the
+chain of Garland's wrath.
+
+But magnified by the four forces
+meant to guide our world,
+that trick of fate also gave birth
+to the Fiends.
+
+Monsters ran rampant and the world
+sank into darkness...
+
+But all that is now past.
+
+With the four forces now returning
+as they were meant,
+the Warriors prepare to cross
+time and return to the world they
+knew - a world where Princess Sarah,
+Queen Jayne and even Garland
+himself await.
+
+When was this fateful day
+that sent time spinning
+into a loop?
+
+None can say.
+
+It seemed the cycle into which
+time had fallen would last forever.
+
+But the bravery of four young
+travelers changed that. They took
+the forces that filled the world with
+darkness, and used them to
+bathe the world in light.
+
+None will ever recall
+the struggle the four endured,
+for the breaking of the chain
+means that it never existed.
+
+But within the tales of fantasy
+that people tell, the memory
+of their deeds will live on...
+
+Tales of dwarves and elves,
+of dragons and shining civilisations
+that reached for the heavens even
+as they fall.
+
+And now their return is on us.
+
+With the memory of their struggle
+buried deep within their hearts, they
+will quietly watch over our world.
+
+Remember always that the forces
+of the world must always be used as
+they were intended - that the
+power of light must never be
+used for dark, and that the true
+Crystals reside in your heart.
+
+For you are the warrior who
+crossed time.
+
+You are the bringer of light...
+
+FINAL FANTASY
+
+
+
+The credits will then roll. Sit back and let them, or maybe get a drink. When
+they are done, it will show "THE END" on the screen. Press the A or Start
+button.
+
+You will be given the option to save with Game Clear. What this means is it
+the save shows the Level, HP and MP you beat the game with, saves the
+Bestiary, and there is a star next to the file save up the top. When you go to
+load this file, you will be asked to start a new game. A new game with new
+characters, no items and basic weapons/armor, just as you did when you started
+your last game. Now, you may be wondering what's so special about saving a
+Game Clear file then. Well, this file isn't completely new. It has the
+Bestiary from your last playthrough, so you will already have data on every
+monster and boss you beat in your last playthrough. This also allows you to
+get a 100% complete Bestiary, as there is no other way to get Chaos in your
+Bestiary.
+
+8) Soul of Chaos
+
+While I have not 100% completed this area, I will give information as I can.
+Please note that the items that are placed on a level are random, and a level
+may have no items, one item two items, four items. It will not neccessarily
+have all the items that are listed for that level. However, all the levels
+that have bosses are an exception to this, as they are predetermined. Also,
+boss drops happen 100% of the time - For example, Echidna from the Earthgift
+Shrine dungeon will drop X-Potions every time you defeat him, and Ahriman
+will drop Dry Ethers every time you beat him. This means that it is worth
+going through each dungeon multiple times, as each time you will get
+different items, and you can stock up on those really useful items like
+X-Potions, Dry Ethers, Elixirs, Megalixirs, etc.
+
+Earthgift Shrine
+----------------
+You can face this dungeon anytime after you beat Lich, the Earth Fiend. This
+dungeon is located in a cave in the mountain range below Chaos Shrine.
+
+There are five levels to this dungeon. Each level will have either a cave,
+forest or desert theme.
+
+From messages on the FF I&II-DoS message boards, it seems as if people are
+having difficulty navigating the desert levels. So, I will write up how to
+navigate them.
+
+When you get to a desert level, wander around until you find three trees close
+together, in a triangle formation, such as this.
+
+   X
+
+
+X     X
+
+Keep in mind that it will not neccessarily be exactly like this - it could be
+rotated 90, 180 or 270 degrees. In any case, these trees are the basis of
+navigating the desert. If you were to draw lines between them, like so...
+
+   X
+  / \
+ /   \
+X-----X
+
+You will have a triangle that points up, down, left or right, much like an
+arrow head. Go in the direction it points. You will come across either another
+arrow head, or the exit. The way to get is to keep following the arrow heads.
+You will reach the exit.
+
+These are the items that are possible to get on each floor.
+
+Level 1 - Spider's Silk, Hi-Potion, Remedy, White Curtain
+
+Level 2 - White Fang, Blue Curtain, Vampire Fang
+
+Level 3 - Black Cowl, Potion, Protect Drink, Speed Drink
+
+Level 4 - Silver Apple, Ether, Elven Cloak, Red Fang
+
+Level 5 - This level is a boss level, and as such is predetermined. There are
+four bosses on this level, and one chest with a Megalixir. However, the
+Megalixir is a one time item. The bosses on this level are...
+
+2-Headed Dragon - 4500 HP, drops Bard's Tunic - top-left room
+Cerberus - 4000 HP, drops Kotetsu - bottom-left room
+Ahriman - 5000 HP, drops Dry Ether - top-right room
+Echidna - 4800 HP, drops X-Potion - bottom-right room
+
+By now you should be able to work out strategies for beating bosses. These
+ones aren't that hard.
+
+Hellfire Chasm
+--------------
+This is the second SoC dungeon. It is a cave among the Dragon Caves. Remember
+where you got your class change from Bahumat? Try the caves around there. As
+a SoC dungeon it's quite short and accessable, especially compared to the
+next two.
+
+A number of people I have spoken to or talked about this game with have
+trouble with the Overland style maps. They are not hard, just a little time
+consuming. This is what you need to do to beat them.
+
+When you get on one of these levels, the first priority is the ship. The ship
+will be on the land mass you are on, but for some of the Overland maps you
+will need to walk around a bit to find it. When you find it, you need to go
+find the pirate.
+
+The pirate will be walking around on an island with a port, or a place that
+is only accessable once you have the ship. He will tell you there is an
+airship at an oasis in a desert on the map, and you need a Levistone to get
+it. While you can find this oasis without talking to him, the game will NOT
+let you proceed and obtain the airship until you talk to the pirate.
+
+Once you have talked to him, sail around the Overland, and find the desert
+with the oasis (You'll know which one it is. It will have a single solitary
+plam tree on it). Find the closest port, dock there, and walk to the desert.
+Go right up to the palm tree, and press Accept facing towards it. The airship
+will pop up, allowing you to get the rest of the treasures that were
+previously inaccessable, and leave via the dark cave symbolised by a black
+hole in the ground. (While for some levels you don't need the airship to exit,
+it is generally worth getting all the items, as you can get Plus items, like
+Power Plus and Speed Plus).
+
+These are the items that are possible to get on each floor.
+
+Level 1 - Remedy, Cockatrice Claw, Stamina Plus, Hermes' Shoes, Speed Plus
+
+Level 2 - X-Potion, Echo Grass, Blue Fang, Hi-Potion
+
+Level 3 - Stamina Plus, Red Fang, Phoenix Down, Mind Plus
+
+Level 4 - Eye Drops, Giant's Tonic, 700 gil, Turbo Ether
+
+Level 5 - This level is a boss level, and as such is predetermined. There are
+two bosses on this level, and no chests.
+
+Scarmiglione - 4000+7046 HP (see note), drops Lunar Curtain - Top Room
+
+Cagnazzo - 7968 HP, drops Light Curtain - Bottom Room
+
+Note: You need to fight Scarmiglione twice to beat them. The first time it has
+4000 HP and drops nothing, the second time it becomes undead (meaning Fire and
+Dia spells are now very effective), has 7046 HP, and drops a Lunar Curtain.
+
+Level 6 - Blue Fang, Strength Tonic, Luck Plus, Red Curtain
+
+Level 7 - Faerie Tonic, Hi-Potion, 150 gil, Twist Headband, Hermes' Shoes
+
+Level 8 - 250 gil, White Curtain, Blue Curtain, Power Plus, Sage's Mitre
+
+Level 9 - Ether, Emergency Exit, War Hammer, Giant's Tonic,  Soma Drop
+
+Level 10 - This level is a boss level, and as such is predetermined. There are
+two bosses on this level, and one chest with a Ribbon in it, which you get
+after defeating Rubicante.
+
+Rubicante - 15000 HP, drops Kikuichimonji - Top Room
+Barbariccia - 12954 HP, drops Braveheart - Bottom Room
+
+Lifespring Grotto
+-----------------
+
+*Under construction*
+
+Whisperwind Cove
+----------------
+
+*Under construction*
+
+9) Additional Quests, Challenges and Games
+
+This section has an easter egg game you can do, and some challenges to make
+this game harder, if you so desire.
+
+   9.1) The ship game
+
+You can access this from when you get the ship in Pravoka. To play, go on the
+ship, hold down "A", and press "B" 22 times. A 15-tile slider game will open
+up. While this may seem useless, you get good prizes for beating it.
+
+   9.2) Single character class challenge
+
+Simple. When you start a game, you can only choose one class type. This means,
+only picking Thieves, or White Mages, or Black Mages, in your party.
+
+   9.3) Low level challenge
+
+You are not allowed to uneccessarily level in this challenge, trying to avoid
+all non-boss fights possible. You will have to level towards the end, as Chaos
+would be simply too hard without it, as he multi-hits for big damage. However,
+the basic premise is still there - beat Chaos on the lowest level possible. I
+know it's possible at L30, but how low can you go?
+
+BTW, there's information on how to get your class change at L11 in the tips
+and tricks section, which will help.
+
+   9.4) Solo character challenge
+
+You pick a party of four at the start, but in the first couple of battles,
+they must die. Your other three members are not allowed to gain any exp, and
+you are not allowed to gain exp in any battle they were alive for part of
+(otherwise, you could just revive them, and keep them at one HP so they die,
+but they also divert attacks away from your solo character, which would be
+against the whole point).
+
+   9.5) No upgrade challenge
+
+Not allowed to get an upgrade from Bahumat. Not at all. Makes the game a fair
+bit harder, as you can no longer gain the really powerful spells, or the
+best armor and weapons.
+
+   9.6) Diabolical challenge
+
+This is a challenge for the veterans. This is a combination of the solo
+character and no upgrade, but with low level thrown in for good measure, and
+what's more - The ship game (which is a good source of income for low level
+games) is banned. If you pass this, send me an email, as well as confirmation.
+
+10) Tips and Tricks
+
+Any tips and tricks you have for this game can go here.
+
+   10.1) Unlimited magic
+
+There are a number of items, weapons and armor pieces that cast spells when
+used as an item in battle. This section will the spells, and the items that
+cast them, for quick reference, as they are very useful for magic
+conservation.
+
+Blink - Defender
+Blizzara - Black Robe, White Fang
+Confuse - Wizard's Staff, Braveheart
+Curaga - Rune Axe
+Death - Deathbringer
+Diara - Light Axe
+Fira - Mage's Staff, Red Fang
+Flare - Judgement Staff, Ragnarok
+Haste - Hermes' Shoes
+Heal - Healing Staff, Healing Helm
+Healara - Rune Staff
+Holy - Lightbringer
+Invisara - White Robe,
+Kill - Assassin Dagger
+Life - Sage's Staff
+NulAll - Light Curtain
+NulBlaze - Red Curtain
+NulDeath - Lunar Curtain
+NulFrost - White Curtain
+NulShock - Blue Curtain
+Protect - Murasame
+Saber - Giant's Gloves
+Scourge - Razer
+Silence - Mage Masher
+Slow - Spider's Silk
+Thundara - Thor's Hammer, Gauntlets, Blue Fang
+
+   10.2) Maximising stats - the low level class change
+
+This section was written up by blackspiner from the Gamefaqs
+FFI&II: Dawn of Chaos board. I have not changed the content in any way, just
+formatted it a little to be more read-friendly, and added a blurb at the
+start. This work is his, and he owns copyright on it. I am simply using it
+with permission.
+
+As you will find out on playing through the game, once you class change, your
+stat gains are higher. This means that the same character can be stronger
+if class changed at an earlier level, as they will get better level ups from
+a lower level. This is a guide on how to do just that, giving boss strategies
+and listing the rules of this. Here are the rules...
+
+Rule 1
+
+--- DO NOT LET ANYONE BE DEAD FOR ANY FIGHT THAT'S REQUIRED ---
+The reason for this is exp. is divided among the people left alive. If you
+kill Lich with just one person alive you will have one person in a much
+higher level than 11.
+
+Rule 2
+
+Get used to flee as thats the only command you'll do in every normal fight
+
+Rule 3
+
+Avoid getting into chest trap fights unless you know for a fact that you'll
+be able to run from it. Even then I suggest you avoid getting any treasure
+until you class change unless you basically can't avoid it.
+
+Rule 4
+
+Buy the best gear for all your people as it is offered
+
+Rule 5
+
+Hmm... what about money right? Yeah your probably wondering "If I can't fight
+any normal fights how the heck can I manage to buy good gear. Well it's really
+simple really. When you get your ship do its mini-game because it gives lots
+and lots of money for record times.
+
+Boss Strategies
+---------------
+Garland - If you can't kill him in level 1 please stop trying this. This is
+the easiest thing of the low level class change challenge.
+
+9 Pirates - Cast sleep and you'll breeze through them like a hot knife through
+butter.
+
+2 Pisco Demons - This fight is a little more challenging. They are weak to
+thunder so exploit that for all its worth. If you fight more than 2 while
+getting the Crown then try again. You need 2 in the fight and only 2.
+
+Astos - He's weak to silence. If he kills anyone try again.
+
+Vampire - He's weak to fire and probably dia. Though I would imagine that
+your white mage will be busy curing for the couple turns this fight will
+take. He's not hard.
+
+Lich - The hardest part of this by far. She's weak to dia and fire. What I
+usually do is cast lots and lots of temper on whoever is strongest in my
+team. If he casts blizzara you will die. You might want to hold off on this
+fight until you get nulfrost but that will mean a level higher than 11 at
+end. This fight seemed, to me, way harder in this version than any other.
+It took me several tries because after he wasted all but my warrior and white
+mage I could never get healed up again before he would cast it again. If you
+have an emulator and can save state be thankful. Don't, however, save state
+in the fight though. Save before you start it or he could open with blizzara
+and thats what he will open with every single time and you'll have wasted a
+lot of time and effort and very possibly you could ruin your file because I
+know that people (me included) when able to save state only save state so
+you'll have nothing to fall back on. This will be the hardest single fight
+in the game for you. Enjoy.
+(If you've done this fight and have a really good way to do it please let all
+of us know as this fight is dramatically harder than anything else in this
+challenge)
+
+After you kill Lich you'll be able to go get a canoe. When you get this it's
+up to you where to go. I suggest the Ice Cavern just to get it done with but
+ if you want you can do the Citadel of Trials first. It doesn't matter which
+order as your doing both anyway.
+
+Evil Eye - He isn't hard at all. Don't accept him killing anyone though as
+it's more than possible to beat him without a loss. The real trial is getting
+trough that ****ing place alive. The fights with Pisco Demons can NOT be ran
+from so if you fight one call it a game over and try again. The Mindflayer
+fights can be ran from though. Yet again you people using the roms will have
+this easier.
+
+Dragon Zombie - Yet another undead so he's weak to dia and fire. If you got
+this far you'll have no trouble kicking his ass. When he's dead you have
+everything you need to get a class change.
+
+If anyone has any tips feel free to point them out. Keep in mind this is a
+LOW LEVEL thing so don't give tips for fights when you have high level magics
+or even already class changed. Oh and if I missed a boss and post which
+required fight I missed but I can't recall any i missed.
+
+You people who like the PoP should enjoy this I think. You might start off
+weaker but when you get the change you can level until your hearts content
+and you'll end up being far far stronger than anything else in the game.
+
+Big thanks once again to blackspiner from the Gamefaqs FFI&II: Dawn of Chaos
+board for allowing me to use this.
+
+11) Lists
+   11.1) Item List
+
+This, as far as I know, is a complete item list for Final Fantasy 1. This is
+the format.
+
+Item: Name of item
+Where used: Is it used out of battle, in battle, or both?
+What it does: The affect it has when you use it.
+Comments: Will be offered where I feel they are needed.
+
+Now, on with the list!
+
+Item: Antidote
+Where used: Both
+What it does: Heals poison from one character.
+Comments: You should always have a few, especially after getting the Mystic
+Key, as money is easier then.
+
+Item: Blue Curtain
+Where used: In battle
+What it does: Casts NulShock
+
+Item: Blue Fang
+Where used: In battle
+What it does: Casts Thundara
+
+Item: Cockatrice Claw
+Where used: In battle
+What it does: Petrifies one foe
+
+Item: Cottage
+Where used: Out of battle (Can only be used outdoors)
+What it does: Fully heals HP and MP
+Comments: Try and keep a few on you at every time so that if you need
+emergency healing on leaving a dungeon, you can get it with this.
+
+Item: Dry Ether
+Where used: Both
+What it does: Fully heals MP
+Comments: Quite useful. An unlimited supply can be gotten from the SoC
+dungeons, and they allow you to go through any dungeon using MP freely.
+
+Item: Echo Grass
+Where used: In battle
+What it does: Heals Silence
+Comments: Not too useful. Don't buy any - you'll find some in dungeons. It's
+not like Silence is a common condition.
+
+Item: Elixir
+Where used: Both
+What it does: Fully heals HP and MP for one character
+Comments: Very useful. There are three you can pick up as part of the main
+story, but you can get more from the ship minigame, in random chests in the
+SoC dungeons, and Doom Gaze (who is on the 30th floor of Whisperwind Cove)
+always drops them.
+
+Item: Emergency Exit
+Where used: Out of battle
+What it does: Casts Exit.
+Comments: Just as with the spell counterpart, is unusable in the SoC dungeon.
+
+Item: Ether
+Where used: Both
+What it does: Heals 50 MP for one character
+Comments: Buy a couple when you can. They're a heap more useful than Potions,
+as you can cast Healaga to get to full HP, and then use an Ether to completely
+restore MP lost, and more.
+
+Item: Eye Drops
+Where used: In battle
+What it does: Cures Darkness for one character
+Comments: Don't bother buying them.
+
+Item: Faerie Tonic
+Where used: In battle
+What it does: Raises max MP by 200 for one battle, on one character.
+Comments: Fairly useless. I can't find a strong reason to use this.
+
+Item: Giant's Tonic
+Where used: In battle
+What it does: Raises max HP by 200 for one battle, on one character.
+Comments: I can't find a strong reason to use this.
+
+Item: Gold Needle
+Where used: Both
+What it does: Cures Stone on one character
+Comments: Keep a few with you.
+
+Item: Golden Apple
+Where used: Out of battle
+What it does: Increases one characters max HP by 10 permanently
+Comments: As soon as you find one, use it as you see fit.
+
+Item: Hermes' Shoes
+Where used: In battle
+What it does: Casts Haste
+Comments: Worth using, as it means you can caste Haste multiple times in
+battle, lowering the turns needed to set up characters.
+
+Item: Hi-Potion
+Where used: Both
+What it does: Heals 150 HP on one character
+Comments: Keep some one you at all times.
+
+Item: Light Curtain
+Where used: In battle
+What it does: Casts NulAll
+Comments: Means you can set up your characters quicker, as NulAll is a single
+character spell. The biggest problem is finding them.
+
+Item: Luck Plus
+Where used: Out of battle
+What it does: Increases one characters Luck by 1 permanently
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Lunar Curtain
+Where used: In battle
+What it does: Casts NulDeath
+Comments: You should have Protect Rings anyway, so this is quite useless...
+
+Item: Megalixir
+Where used: Both
+What it does: Heals the HP and MP of the whole party to the max
+Comments: Brilliant item. Do the ship minigame or the SoC dungeons to find
+them.
+
+Item: Mind Plus
+Where used: Out of battle
+What it does: Increases one characters Int by 1 permanently
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Phoenix Down
+Where used: Both
+What it does: Revives one character from Death to 1 HP
+Comments: Always keep some on you. It's better to use these than the spells
+Life or Full-Life out of battle, as these cost no MP.
+
+Item: Potion
+Where used: Both
+What it does: Heals 150 HP on one character
+Comments: You'll want to keep a few of these on you at the start of the game,
+PARTICUARLY if you are doing a low-level game.
+
+Item: Power Plus
+Where used: Out of battle
+What it does: Increases one characters Str (and thus ATK too) by 1 permanently
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Protect Drink
+Where used: In battle
+What it does: Raises defense for one battle, on one character.
+Comments: I don't know how much it raises defense - If you can find out, I'll
+credit you.
+
+Item: Red Curtain
+Where used: In battle
+What it does: Casts NulBlaze
+
+Item: Red Fang
+Where used: In battle
+What it does: Casts Fira
+
+Item: Remedy
+Where used: Both
+What it does: Heals all status afflictions EXCEPT death.
+Comments: You should always have at least 10 on you from the time when you can
+buy them.
+
+Item: Silver Apple
+Where used: Out of battle
+What it does: Increases one characters max HP by 5 permanently
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Sleeping Bag
+Where used: Out of battle (Can only be used outdoors)
+What it does: Partially restores party's HP.
+Comments: Can be useful, but not nearly as useful as Tents or Cottages
+
+Item: Soma Drop
+Where used: Out of battle
+What it does: Increases one characters max MP by 5 permanently
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Speed Drink
+Where used: In battle
+What it does: Raises agility (and thus evade) for one battle, on one character
+Comments: I don't know how much it raises AGL - If you can find out, I'll
+credit you.
+
+Item: Speed Plus
+Where used: Out of battle
+What it does: Increases one characters AGL (and thus evade) by 1 permanently
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Spider's Silk
+Where used: In battle
+What it does: Casts Slow on all enemies
+Comments: Fairly useless
+
+Item: Stamina Plus
+Where used: Out of battle
+What it does: Raises STA for one battle, on one character
+Comments: Only found in SoC dungeons. Use as soon as you find it, as you see
+fit.
+
+Item: Strength Tonic
+Where used: In battle
+What it does: Raises ATK for one battle, on one character
+Comments: I don't know how much it raises ATK - If you can find out, I'll
+credit you.
+
+Item: Tent
+Where used: Out of battle (Can only be used outdoors)
+What it does: Partially restores party's HP and MP
+Comments: Try and keep a few on you at every time so that if you need
+emergency healing on leaving a dungeon, you can get it with this.
+
+Item: Turbo Ether
+Where used: Both
+What it does: Heals 150 MP for one character
+Comments: Only found in the SoC dungeons and through the ship minigame
+
+Item: Vampire Fang
+Where used: In battle
+What it does: Paralyzes one foe
+
+Item: White Curtain
+Where used: In battle
+What it does: Casts NulFrost
+
+Item: White Fang
+Where used: In battle
+What it does: Casts Blizzara
+
+Item: X-Potion
+Where used: Both
+What it does: Quite useful. An unlimited supply can be gotten from the SoC
+dungeons, and it means you have little to worry about when it comes to HP.
+
+   11.2) White Magic List
+
+Level 1 spells
+--------------
+
+Cure
+
+What it does: Heals an ally for a small amount of HP
+MP: 3
+Cost: 50 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Heals a small amount of HP to one person on your team. A mainstay.
+Significantly more useful with the MP system, as you are able to use it more
+often. You should have at least one character with this at the start of the
+game.
+
+
+Dia
+
+What it does: Hits all undead foes with small damage.
+MP: 5
+Cost: 50 gil
+Who can use: White Mage, White Wizard
+Comments: Does damage to all undead foes, does nothing to all foes that are
+not undead. Is used on the entire enemy party. Has some use at the start of
+the game, but you won't use it much, and shouldn't use the rest of the Dia
+series.
+
+
+Protect
+
+What it does: Raises the defense of one ally
+MP: 3
+Cost: 50 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Does what it says. This, Cure and Dia should be the Level 1 White
+Magic spells you get.
+
+
+Blink
+
+What it does: Raises the evasion of the caster.
+MP: 3
+Cost: 50 gil
+Who can use: White Mage, White Wizard, Red Wizard, Knight
+Comments: Useless, as it can only be used on the caster. Just wait for Invis
+in the level 2 White magic spells.
+
+
+Level 2 spells
+--------------
+
+Blindna
+
+What it does: Cures the status condition darkness on one ally
+MP: 3
+Cost: 250 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Uselss. Darkness isn't used that often by enemies, and it doesn't
+do much anyway.
+
+
+Silence
+
+What it does: Gives all enemeis the condition "Silence", which stops spell
+casting.
+MP: 5
+Cost: 250 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Comes in useful occasionally, such as against Astos. You won't use
+it much though.
+
+
+NulShock
+
+What it does: Halves damage from lightning attacks
+MP: 8
+Cost: 250 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Is useful occasionally. Might as well get it.
+
+
+Invis
+
+What it does: Raises the evasion of one member of your party.
+MP: 5
+Cost: 250 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Quite useful when there is one or two characters on your team you
+just can't let die.
+
+
+Level 3 spells
+--------------
+
+Cura
+
+What it does: Heals an ally for a medium amount of HP
+MP: 10
+Cost: 1000 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: A good, solid spell. At least one character should have this.
+
+
+Diara
+
+What it does: Hits all undead foes with medium damage.
+MP: 12
+Cost: 1000 gil
+Who can use: White Mage, White Wizard
+Comments: To me, the least useful of the L3 White Magic spells. Cura and Heal
+are a must for a White Mage/Wizard, NulBlaze comes in useful, but there are
+more important things for a White Mage/Wizard to do than attack.
+
+
+NulBlaze
+
+What it does: Halves damage from fire attacks
+MP: 8
+Cost: 1000 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard, Knight
+Comments: Comes in handy when facing enemies in Mount Glug, as well as in
+general.
+
+
+Heal
+
+What it does: All allies are healed for an amount of HP comparable to Cure
+MP: 10
+Cost: 1000 gil
+Who can use: White Mage, White Wizard
+Comments: It's like a multi-target Cure, but for less MP than casting Cure
+four times. Useful.
+
+
+Level 4 spells
+--------------
+
+Poisona
+
+What it does: Cures the status condition poison on one ally
+MP: 3
+Cost: 2500 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard
+Comments: I'll say it right out - I don't find the L4 White Magic spells that
+useful. It's juast as easy to use an Antidote, and doesn't take MP which could
+be better used on other spells.
+
+
+Fear
+
+What it does: A spell that attempts to make enemies flee.
+MP: 10
+Cost: 2500 gil
+Who can use: White Mage, White Wizard
+Comments: Fairly useless. I never used it. It's more benificial to fight them,
+and if you don't want to fight, it's easier to use Flee, which doesn't cost
+MP.
+
+
+NulFrost	
+
+What it does: Halves damage from ice attacks
+MP: 8
+Cost: 2500 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard
+Comments: I don't know why the Knight can't get this one - he can get the
+other two Nul spells. Is occasionally useful, and is the best of the L4 White
+Magic spells, but you won't be using it all that much.
+
+
+Vox
+
+What it does: Cures the status condition silence on one ally
+MP: 3
+Cost: 2500 gil
+Who can use: White Mage, White Wizard, Red Wizard
+Comments: You very rarely get silenced in this game. Don't bother with it.
+
+
+Level 5 spells
+--------------
+
+Curaga
+
+What it does: Heals an ally for a large amount of HP
+MP: 20
+Cost: 4000 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard
+Comments: Great spell. Get it, now!
+
+
+Life
+
+What it does: Brings back one ally from the dead with 1 HP.
+MP: 20
+Cost: 4000 gil
+Who can use: White Mage, White Wizard, Red Wizard
+Comments: Strangely enough, I'm not that big a fan. It's just as easy, if not
+easier, to use a Phoenix Down. Besides, you shouldn't be letting your
+characters get killed anyway, you should be healing them so they don't -
+that's the main point of having a White Mage/Wizard on your party! However,
+useful if you run out of Phoenix Downs.
+
+
+Diaga
+
+What it does: Hits all undead foes with medium-large damage.
+MP: 25
+Cost: 4000 gil
+Who can use: White Mage, White Wizard
+Comments: There are more useful things for your White Mage/Wizard to do than
+attack undead. Moderately useful against Lich, but don't bother, as it is the
+least useful of all the L5 White Magic spells.
+
+
+Healara
+
+What it does: All allies are healed for an amount of HP comparable to Cura
+MP: 25
+Cost: 4000 gil
+Who can use: White Mage, White Wizard
+Comments: Like a multi-target Cura. Great spell. You're crazy if you don't get
+this spell.
+
+
+Level 6 spells
+--------------
+
+Stona
+
+What it does: Cures the status condition stone on one ally
+MP: 10
+Cost: 13000 gil
+Who can use: White Mage, White Wizard
+Comments: Near useless. If it was a multi-target spell, it might be different,
+but it's single target, which means you could use Gold Needle's anyway, which
+don't cost MP to use. You start gettings Ribbon's not long after this becomes
+available as well, which lowers the usefulness of this.
+
+
+Exit
+
+What it does: Teleports you out of the dungeon you are in.
+MP: 10
+Cost: 13000 gil
+Who can use: White Wizard, Red Wizard
+Comments: Can be quite useful when you're suffering in a dungeon, to get out
+quickly so you can go heal.
+
+
+Protera
+
+What it does: Raises the defense of the whole party
+MP: 20
+Cost: 13000 gil
+Who can use: White Mage, White Wizard, Red Wizard
+Comments: Useful. Lowers damage
+
+
+Invisira
+
+What it does: Raises the evasion of the whole party
+MP: 25
+Cost: 13000 gil
+Who can use: White Mage, White Wizard, Red Wizard
+Comments:  Quite useful. Use it a few times, enemies will struggle to hit you.
+Pick it up.
+
+
+Level 7 spells
+--------------
+
+Curaja
+
+What it does: Completely heals an ally
+MP: 35
+Cost: 30000 gil
+Who can use: White Mage, White Wizard, Red Mage, Red Wizard
+Comments: 
+
+
+Diaja
+
+What it does: Hits all undead foes with large damage.
+MP: 35
+Cost: 30000 gil
+Who can use: White Wizard
+Comments: As I have said with the last two installments of the Dia range,
+there are more useful things for your White Wizard to do. While it isn't the
+most useless spell
+
+
+NulDeath
+
+What it does: Increases the whole party's resistance to death spells.
+MP: 28
+Cost: 30000 gil
+Who can use: White Mage, White Wizard, Red Wizard
+Comments: One of the most useless spells on the White Magic list. By the time
+you get them, you could have Protect Rings for all of your characters, which
+don't need ot be cast and do the same job.
+
+
+Healaga
+
+What it does: All allies are healed for an amount of HP comparable to Curaga
+MP: 38
+Cost: 30000 gil
+Who can use: White Mage, White Wizard
+Comments: Each character is healed by an amount similar to what Curaga would
+heal, and it costs less than 2x Curaga. Get it, it's very useful.
+
+
+Level 8 spells
+--------------
+
+Holy
+
+What it does: Does high damage to all foes, whether or not they are undead
+MP: 50
+Cost: 40000 gil
+Who can use: White Wizard
+Comments: I don't see why people like this spell so much. The only times it is
+worth using, the White Wizard could be doing more useful things. Sure, it
+turns the WW into a killing machine, but there are just more useful things
+they can do.
+
+
+NulAll
+
+What it does: Halves the damage recieved from spells on one character.
+MP: 40
+Cost: 40000 gil
+Who can use: White Wizard
+Comments: Quite a good spell. Just a pity it's not multi-target.
+
+
+Dispel
+
+What it does: Removes the magic defense of one enemy
+MP: 35
+Cost: 40000 gil
+Who can use: White Wizard
+Comments: You're mainly going to be attacking with physical attackers by the
+time you get this spell, as they simply do more damage, so don't bother.
+
+
+Full-Life
+
+What it does: Brings back one ally from the dead with full HP.
+MP: 40
+Cost: 40000 gil
+Who can use: White Wizard
+Comments: A lot more useful than the Life spell, as it fully heals on revive.
+Get it, as it is a good safeguard.
+
+   11.3) Black Magic List
+
+Level 1 spells
+--------------
+
+Fire
+
+What it does: Does a small amount of fire damage to one foe
+MP: 5
+Cost: 50 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Useful in the battle against Garland
+
+
+Sleep
+
+What it does: Puts all foes to sleep
+MP: 3
+Cost: 50 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: You won't use it all that much, but it is useful at times. Can make
+the battle against the pirates a real piece of cake, among others.
+
+
+Focus
+
+What it does: Lowers the evasion of one foe
+MP: 3
+Cost: 50 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: I never used it. There was just no need.
+
+
+Thunder
+
+What it does: Does a small amount of lightning damage to one foe
+MP: 5
+Cost: 50 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Just as useful as Fire against Garland. Also makes mincemeat of
+enemies that you face while sailing the ship.
+
+
+Level 2 spells
+--------------
+
+Blizzard
+
+What it does: Does a small amount of ice damage to one foe
+MP: 8
+Cost: 250 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: You won't use it much, as there aren't too many foes that are weak
+to ice, and it costs more MP than Fire/Thunder.
+
+
+Dark
+
+What it does: All foes are hit with darkness
+MP: 5
+Cost: 250 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: I never found a use for it.
+
+
+Temper
+
+What it does: Raises the attack of one ally
+MP: 10
+Cost: 250 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Very useful. You'll be using this for most of the game. Apply it
+multiple times to your physical attackers in every battle.
+
+
+Slow
+
+What it does: Halves the number of hits all foes get
+MP: 5
+Cost: 250 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Less enemy attacks means less damage to you. Quite useful.
+
+
+Level 3 spells
+--------------
+
+Fira
+
+What it does: Does a medium amount of fire damage to all foe
+MP: 15
+Cost: 1000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: A good spell. Tears holes in Undead enemies (Including the Vampire,
+and does moderate damage to Lich), and can clear a battlefield fairly fast.
+
+
+Hold
+
+What it does: One foe is paralyzed
+MP: 10
+Cost: 1000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: I bought it, but I never used it. Your Mages/Wizards/Ninja's have
+better things to do.
+
+
+Thundara
+
+What it does: Does a medium amount of lightning damage to all foes
+MP: 15
+Cost: 1000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Lays waste to enemies on the ship. You can gain money very quickly
+by sailing around on the ship, and using this liberally. One shot is almost
+guaranteed to OHKO any enemy party you face while on the ship, so it's an
+easy win, which makes it easy money. Only useful for a while though, as later
+on enemies get more HP, and you can get items which cast Thundara.
+
+
+Focara
+
+What it does: Lowers the evasion of all foes
+MP: 10
+Cost: 1000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: I've never used it. Didn't see a need for it. If anyone has a good
+use for it, email me, but otherwise don't bother.
+
+
+Level 4 spells
+--------------
+
+Sleepra
+
+What it does: Puts one foe to sleep, but with more accuracy than Sleep
+MP: 15
+Cost: 2500 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Yes, I know that this spell targets LESS enemies than it's
+predecessor. However, the effectiveness has been bumped up a few notches.
+
+
+Haste
+
+What it does: Doubles the amount of hits one ally gets
+MP: 15
+Cost: 2500 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: I'll make a bold statement here, and say that this is the most
+useful spell in the entire game, with Saber a close second. You can get it
+very early on in the game, and it makes the power of your physical attackers
+skyrocket. This is a must-have item.
+
+
+Confuse
+
+What it does: Confuses all foes, causing them to hit themselves or each other
+MP: 15
+Cost: 2500 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: Can be useful against large enemy groups, if you need a turn to
+heal, but you won't use it all that much.
+
+
+Blizzara
+
+What it does: Does a medium amount of ice damage to all foes
+MP: 18
+Cost: 2500 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard, Ninja
+Comments: As it costs more MP than Fira/Thundara, and very few foes are weak
+to Ice, you won't use it much.
+
+
+Level 5 spells
+--------------
+
+Firaga
+
+What it does: Does a high amount of fire damage to all foe
+MP: 30
+Cost: 4000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard
+Comments: Decent spell. If your level is high enough to get it before fighting
+Lich, do so, as it takes chunks out of him. However, not necessary by any
+stretch of the imagination.
+
+
+Scourge
+
+What it does: Kills all foes in one shot
+MP: 28
+Cost: 4000 gil
+Who can use: Black Mage, Black Wizard, Red Wizard
+Comments: Only useful against random encounters, as everything else has too
+much resistance, so it's not too useful at all.
+
+
+Teleport
+
+What it does: Teleports your party to the previous level of the dungeon you
+are in
+MP: 5
+Cost: 4000 gil
+Who can use: Black Wizard, Red Wizard
+Comments: This spell has become infinately more useful with the MP system, as
+by the time you get it, 5 MP is very little to you. Get it
+
+
+Slowra
+
+What it does: Halves the number of hits one foe gets, but with more accuracy
+than Slow
+MP: 18
+Cost: 4000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard
+Comments: Like Sleepara, it no longer multi-targets, but it is more accurate,
+meaning it's better for boss battles and the like. Lowering the damage you
+receive is always useful.
+
+
+Level 6 spells
+--------------
+
+Thundaga
+
+What it does: Does a large amount of lightning damage to all foes
+MP: 35
+Cost: 13000 gil
+Who can use: Black Mage, Black Wizard, Red Wizard
+Comments: Looks very useful, but you won't be using it much anymore. Does
+extra damage to Kraken, but you'll be busy layering Haste and Temper on your
+physical attackers against Kraken, so not that useful. If you want a
+hard-hitting multi-target spell, use Firaga, as it costs less MP. 
+
+
+Death
+
+What it does: Kills one foe instantly
+MP: 30
+Cost: 13000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard
+Comments: Anything worth using it on is immune to it. Don't bother.
+
+
+Quake
+
+What it does: Kills all foes in one shot, but with more accuracy than Scourge
+MP: 32
+Cost: 13000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard
+Comments: A powered-up Scourge. Can be useful, but you'll barely use it.
+
+
+Stun
+
+What it does: One foe is paralyzed, with more accuracy than Hold
+MP: 20
+Cost: 13000 gil
+Who can use: Black Mage, Black Wizard, Red Mage, Red Wizard
+Comments: The enemies that it is useful to use it on are either immune or have
+high magic resistance. I wouldn't bother.
+
+
+Level 7 spells
+--------------
+
+Blizzaga
+
+What it does: Does a large amount of ice damage to all foes
+MP: 40
+Cost: 30000 gil
+Who can use: Black Mage, Black Wizard, Red Wizard
+Comments: As I have said with the previous two spells of this range, I don't
+find it all that useful.
+
+
+Break
+
+What it does: One foe is petrified
+MP: 30
+Cost: 30000 gil
+Who can use: Black Wizard
+Comments: Apparently this can take out Tiamat in one shot if you get lucky. I
+haven't bothered trying, as I never had trouble with Tiamat.
+
+
+Saber
+
+What it does: Raises the attack and accuracy of the caster
+MP: 25
+Cost: 30000 gil
+Who can use: Black Wizard
+Comments: You won't have the Black Wizard cast this. It can only be
+self-targeted, so unless you give the Black Wizard the Masamune, there's no
+reason to use this.
+
+
+Blind
+
+What it does: One foe is hit with darkness, but with more accuracy than Dark
+MP: 25
+Cost: 30000 gil
+Who can use: Black Mage, Black Wizard
+Comments: If there's a good use for this, I haven't found it. I'm guessing
+this spell is just Dark with better effectiveness, but no multi-target. If you
+have a good use for it, let me know.
+
+
+Level 8 spells
+--------------
+
+Stop
+
+What it does: Paralyzes all foes by stopping time
+MP: 30
+Cost: 40000 gil
+Who can use: Black Wizard
+Comments: Never used it, never felt the need. If anyone can make a strong case
+for it being useful, I'll put it here and give you credit, but I don't expect
+one.
+
+
+Warp
+
+What it does: Kills all foes in one shot, but with more accuracy than Quake
+MP: 38
+Cost: 40000 gil
+Who can use: Black Wizard
+Comments: An upgraded version of Quake, I believe. I never used it. You can if
+you want, but it's a waste of MP, in my opinion.
+
+
+Kill
+
+What it does: Kills one foe instantly, but with more accuracy than Death
+MP: 40
+Cost: 40000 gil
+Who can use: Black Wizard
+Comments: Upgraded version of Death. Pretty much all the foes it is useful
+against are immune to it. Don't bother.
+
+
+Flare
+
+What it does: Does a very-high amount of non-elemental damage to all foes
+MP: 50
+Cost: 40000 gil
+Who can use: Black Wizard
+Comments: First off, despite what the name and description say, this appears
+to be a non-elemental spell. Secondly, people seem to hold this in high
+regard, but I can't work out why. Sure, it does do high damage against a large
+group of enemies, but very few enemies have 500+ HP, meaning that you'd
+probably have the same affect with a L3 elemental spell, which uses up a lot
+less MP. And against bosses, your Black Wizard is going to be busy casting
+Haste and Temper anyway. Take it for a test run, as by the time you can get it
+you're not going to be needing gil for much longer, but don't make a habit
+of abusing it every battle, as it's simply not worth it.
+
+   11.4) Weapons List
+
+Weapon List
+
+Assassin Dagger
+"A dagger that casts Kill when used."
+Attack: 30
+Accuracy: 43
+Use affect: Casts Kill
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard, Black
+Wizard
+Note: The Assassin Dagger also boots evasion by 13
+
+Asura
+"A sword whose name embodies battle."
+Attack: 25
+Accuracy: 25
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Battle Axe
+"An axe made for battle."
+Attack: 16
+Accuracy: 5
+Use affect: None
+Can be used by: Warrior, Knight, Ninja
+
+Braveheart
+"A sword that casts Confuse when used."
+Attack: 30
+Accuracy: 42
+Use affect: Casts Confuse
+Can be used by: Warrior, Knight, Ninja
+
+Broadsword
+"Sword with a wide, double-edged blade."
+Attack: 15
+Accuracy: 10
+Use affect: None
+Can be used by:
+
+Cat Claws
+"A weapon with razor-sharp blades."
+Attack: 22
+Accuracy: 35
+Use affect: None
+Can be used by: Knight, Ninja, Red Wizard, Black Wizard
+
+Coral Sword
+"A sword effective against aquatic foes."
+Attack: 19
+Accuracy: 15
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Crossier
+"A staff topped with an iron ring."
+Attack: 
+Accuracy: 
+Use affect: 
+Can be used by: Warrior, Knight, Ninja, Monk, Master
+
+Dagger
+"A large knife."
+Attack: 7
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard, Black
+Mage, Black Wizard
+
+Dark Claymore
+"A sword with a shimmering black blade."
+Attack: 40
+Accuracy: 5
+Use affect: None
+Can be used by: Warrior, Knight
+
+Deathbringer
+"A sword that casts Death when used."
+Attack: 36
+Accuracy: 25
+Use affect: Casts Death
+Can be used by: Red Wizard
+Note: The Deathbringer also boosts evasion by 5
+
+Defender
+"A sword that casts Blink when used."
+Attack: 30
+Accuracy: 35
+Use affect: Casts Blink
+Can be used by: Knight, Red Wizard, Ninja
+
+Duel Rapier
+"A rapier refined for battle."
+Attack: 27
+Accuracy: 30
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+Note: The Duel Rapier also boosts evasion by 80
+
+Enhancer
+"An unusual rapier infused with magic."
+Attack: 
+Accuracy: 
+Use affect: 
+Can be used by: Warrior, Knight, Ninja, Red Mage, Red Wizard
+
+Excalibur
+"Sword crafted from a legendary metal."
+Attack: 45
+Accuracy: 35
+Use affect: None
+Can be used by: Knight
+
+Falchion
+"A sword that widens toward its tip."
+Attack: 15
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Flame Sword
+"A sword that dances with flame."
+Attack: 26
+Accuracy: 20
+Use affect: None
+Can be used by: Warrior, Knight, Red Mage, Red Wizard, Ninja
+
+Gigantaxe
+"An axe boasting superb attack power."
+Attack: 44
+Accuracy: 0
+Use affect: None
+Can be used by: Warrior, Knight, Ninja
+
+Gladius
+"A dagger crafted to be feather-light."
+Attack: 23
+Accuracy: 30
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, Monk, Master, White Mage, White
+Wizard, Black Mage, Black Wizard
+Note: The Gladius also boots evasion by 10
+
+Great Axe
+"A large axe made for battle."
+Attack: 22
+Accuracy: 5
+Use affect: None
+Can be used by: Warrior, Knight, Ninja
+
+Great Sword
+"A sword effective against giants."
+Attack: 21
+Accuracy: 20
+Use affect: None
+Can be used by: Warrior, Knight, Red Mage, Red Wizard, Ninja
+
+Hammer
+"A hammer made for battle."
+Attack: 9
+Accuracy: 0
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, White Mage, White Wizard
+
+Healing Staff
+"A staff that casts heal when used."
+Attack: 6
+Accuracy: 0
+Use affect: Casts Heal
+Can be used by: Ninja, White Mage, White Wizard
+
+Ice Brand
+"A sword gripped by winter's chill."
+Attack: 29
+Accuracy: 25
+Use affect: None
+Can be used by: Warrior, Knight, Red Mage, Red Wizard, Ninja
+
+Iron Nunchaku
+"Nunchaku made of iron."
+Attack: 16
+Accuracy: 0
+Use affect: None
+Can be used by: Ninja, Monk, Master
+
+Judgement Staff
+"A staff that casts Flare when used."
+Attack: 26
+Accuracy: 25
+Use affect: Casts Flare
+Can be used by: Black Wizard
+
+Kikuichimonji
+"A chrysanthemum adorns its scabbard."
+Attack: 38
+Accuracy: 25
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Knife
+"A small knife."
+Attack: 5
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard, Black
+Mage, Black Wizard
+
+Kotetsu
+"A small katana designed for easy use."
+Attack: 22
+Accuracy: 20
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Light Axe
+"An axe that casts Diara when used."
+Attack: 28
+Accuracy: 15 
+Use affect: Casts Diara 
+Can be used by: Warrior, Knight, Ninja
+
+Lightbringer
+"A sword that casts Holy when used."
+Attack: 52
+Accuracy: 47
+Use affect: Casts Holy
+Can be used by: Red Wizard
+Note: The Lightbringer also boosts evasion by 57
+
+Longsword
+"A large, double-edged sword."
+Attack: 20
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, Red Mage, Red Wizard
+
+Mage Masher
+"A knife that casts Silence when used."
+Attack: 20
+Accuracy: 30
+Use affect: Casts Silence
+Can be used by: Warrior, Knight, Ninja, Monk, Master, White Mage, White
+Wizard, Black Mage, Black Wizard
+
+Mage's Staff
+"A staff that casts Fira when used."
+Attack: 13
+Accuracy: 10
+Use affect: Casts Fira
+Can be used by: Ninja, Black Mage, Black Wizard
+
+Masamune
+"A legendary katana with no peer."
+Attack: 56
+Accuracy: 50
+Use affect: None
+Can be used by: All
+
+Murasame
+"A sword also known as the Demonblade."
+Attack: 53
+Accuracy: 5
+Use affect: Casts Protect
+Can be used by: Ninja
+Note: The Murasame also boosts evasion by 35
+
+Mythril Axe
+"An axe wrought from mythril."
+Attack: 25
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Ninja
+
+Mythril Hammer
+"A hammer wrought from mythril."
+Attack: 12
+Accuracy: 5
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, White Mage, White Wizard
+
+Mythril Knife
+"A knife wrought from mythril."
+Attack: 10
+Accuracy: 15
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard, Black
+Mage, Black Wizard
+
+Mythril Sword
+"A sword wrought from mythril."
+Attack: 23
+Accuracy: 15
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, Red Mage, Red Wizard
+
+Nunchaku
+"Wooden Nunchaku."
+Attack: 12
+Accuracy: 0
+Use affect: None
+Can be used by: Ninja, Monk, Master
+
+Ogrekiller
+"An axe effective against giants."
+Attack: 30
+Accuracy: 0
+Use affect: None
+Can be used by: Warrior, knight, Ninja
+
+Orichalcum
+"A knife with a gleaming golden blade."
+Attack: 28
+Accuracy: 35
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard, Black
+Wizard
+
+Power Staff
+"A staff with good attack power."
+Attack: 12
+Accuracy: 0
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, Monk, Master, White Mage, White
+Wizard, Black Mage, Black Wizard
+
+Ragnarok
+"A sword etched with words of the gods."
+Attack: 59
+Accuracy: 43
+Use affect: None
+Can be used by: Knight
+Note: The Ragnarok also boosts evasion by 33
+
+Rapier
+"A sword with a slender blade."
+Attack: 9
+Accuracy: 5
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Razer
+"A saber that casts Scourge when used."
+Attack: 22
+Accuracy: 20
+Use affect: Casts Scourge
+Can be used by: Knight, Ninja, Red Wizard
+
+Rune Axe
+"An axe that casts Curaga when used."
+Attack: 40
+Accuracy: 20
+Use affect: Casts Curaga
+Can be used by: Warrior, Knight, Ninja
+
+Rune Blade
+"A sword effective against spellcasters."
+Attack: 18
+Accuracy: 15
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Rune Staff
+"A staff that casts Healara when used."
+Attack: 25
+Accuracy: 25
+Use affect: Casts Healara
+Can be used by: White Wizard
+
+Saber
+"A long sword made for piercing."
+Attack: 13
+Accuracy: 5
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Sage's Staff
+"A staff tha casts Life when used."
+Attack: 20
+Accuracy: 10
+Use affect: Casts Life
+Can be used by: Red Mage, Red Wizard, White Mage, White Wizard, Black Mage,
+Black Wizard
+
+Sasuke's Blade
+"A small katana used by a ninja."
+Attack: 33
+Accuracy: 35
+Use affect: None
+Can be used by: Ninja
+
+Scimitar
+"A sword with a curved blade."
+Attack: 10
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+Staff
+"A wooden staff."
+Attack: 7 for  Black Mage and Black Wizard, 6 for everyone else.
+Accuracy: 0
+Use affect: None
+Can be used by: All but the Thief
+
+Sun Blade
+"A sword effective against the undead."
+Attack: 32
+Accuracy: 30
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, Red Mage, Red Wizard
+
+Thor's Hammer
+"Hammer that casts Thundara when used."
+Attack: 18
+Accuracy: 15
+Use affect: Casts Thundara
+Can be used by: Knight, Ninja, White Wizard
+
+Ultima Weapon
+"A sword bound to its wielders HP."
+Attack: Depends on HP
+Accuracy: 100
+Use affect: None
+Can be used by: Knight, Ninja, Master, Red Wizard, White Wizard, Black Wizard
+
+Viking Axe
+"An axe once used by vikings."
+Attack: 25
+Accuracy: 10
+Use affect: None
+Can be used by: Warrior, Knight, Ninja
+Note: The Ragnarok also lowers evasion by 10
+
+Vorpal Sword
+"A very sharp crescent blade."
+Attack: 24
+Accuracy: 25
+Use affect: None
+Can be used by: Knight, Ninja, Red Wizard
+
+War Hammer
+"A hammer that strikes hard."
+Attack: 30
+Accuracy: 0
+Use affect: None
+Can be used by: Knight, Ninja, White Wizard
+
+Werebuster
+"A sword effective against werebeasts."
+Attack: 18	
+Accuracy: 15
+Use affect: None
+Can be used by: Warrior, Knight, Ninja, Red Mage, Red Wizard
+
+Wizard's Staff
+"A staff that casts Confuse when used."
+Attack: 16
+Accuracy: 15
+Use affect: Casts Confuse
+Can be used by: Black Wizard
+
+Wyrmkiller
+"A sword effective against dragons."
+Attack: 19
+Accuracy: 15
+Use affect: None
+Can be used by: Warrior, Knight, Thief, Ninja, Red Mage, Red Wizard
+
+   11.5) Armor List
+
+*Under construction*
+
+   11.6) Shields, Helmets and Gloves List
+
+*Under construction*
+
+12) Thank you, and credits
+
+First of, thanks to SquareEnix for making this great game.
+
+Thanks to CJayC for having one of, if not the best gaming site on the web
+(GameFAQS), and hosting this guide (hopefully)
+
+Thanks to the people at the Gamefaqs FFI&II: Dawn of Chaos message board for
+helping me with questions I had. I learnt a lot from them.
+
+And, lastly, thanks to me, because without me this guide wouldn't be written.
+
+Thank you for rreading, and happy gaming!
+
+- Matt.
