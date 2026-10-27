@@ -17,8 +17,8 @@ This repo is worked on by both Antigravity and Claude Code. The single source of
 
 - Start every pipeline session with `npm run rw:status -- <gameId>` and do the NEXT action it prints. The orchestrator skill is `generate-walkthrough`.
 - Act as a **thin coordinator** (run the main session on **Sonnet** to save Opus quota and cache-read tokens):
-  - Run command stages (`1`, `3`, `4`, `5` when passing, `8`, `9a`, `10`) via `npm run rw:auto -- <gameId>` and read only its summary lines; never open the facts, packets, or chapters it wrote.
-  - Delegate every judgment stage (`2` source collection on Sonnet; `5` conflict resolution, `6–7` route planning, and `9b` adversarial review on Opus) to a fresh `rw-stage` subagent (`.claude/agents/rw-stage.md`), one stage per agent. Never do judgment work in the coordinator context.
+  - Run command stages (`1`, `3`, `4`, `5` when passing, `8`, the `rw:qa` check in `9`, and `10`) via `npm run rw:auto -- <gameId>` and read only its summary lines; never open the facts, packets, or chapters it wrote.
+  - Delegate every judgment stage (`2` source collection on Sonnet; `5` conflict resolution, `6–7` route planning, and the `9` adversarial review on Opus) to a fresh `rw-stage` subagent (`.claude/agents/rw-stage.md`), one stage per agent. Never do judgment work in the coordinator context.
 - Never hand-edit script-generated files (`05_verified.json`, `09_qa.json`, `10_score.json`); fix the upstream artifact and re-run the stage.
 - `.env` needs `RA_USERNAME` and `RA_API_KEY`.
 - Commit each game's walkthrough and research (`content/`) separately from pipeline changes (scripts, skills, agents, README), so either can be reverted alone.

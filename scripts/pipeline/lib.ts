@@ -93,6 +93,20 @@ export const saveStateAdvice = (text: string): string[] =>
  * a top-level `## ` heading inside a chapter (the assembler's chapter heading is the only one), a blank
  * cell in a Citation/Source table column, and "Unable to verify from collected sources" run into a sentence.
  */
+/** Table rows whose Citation/Source column is empty. */
+export function blankCiteRows(text: string): string[] {
+  const lines = text.split(/\r?\n/);
+  const out: string[] = [];
+  let citeCol = -1;
+  lines.forEach((l, i) => {
+    if (!/^\s*\|/.test(l)) return void (citeCol = -1);
+    const cells = l.trim().replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
+    if (/^\|?\s*:?-{2,}/.test((lines[i + 1] ?? "").trim())) return void (citeCol = cells.findIndex((c) => /^(citation|source|sources|cite)s?$/i.test(c.replace(/\*/g, ""))));
+    if (citeCol >= 0 && !/^[-:| ]+$/.test(l.trim()) && !cells[citeCol]) out.push(l);
+  });
+  return out;
+}
+
 export function layoutProblems(text: string, isOverview: boolean): string[] {
   const out: string[] = [];
   const lines = text.split(/\r?\n/);
@@ -102,14 +116,7 @@ export function layoutProblems(text: string, isOverview: boolean): string[] {
     return !inCode && /^## (?!Chapter\b)/.test(l);
   });
   if (!isOverview && h2.length) out.push(`${h2.length} top-level "## " heading(s) inside the chapter ("${h2[0].slice(3, 60)}") — use ### for areas; ## is the chapter title`);
-  let citeCol = -1;
-  let blank = 0;
-  lines.forEach((l, i) => {
-    if (!/^\s*\|/.test(l)) return void (citeCol = -1);
-    const cells = l.trim().replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
-    if (/^\|?\s*:?-{2,}/.test((lines[i + 1] ?? "").trim())) return void (citeCol = cells.findIndex((c) => /^(citation|source|sources|cite)s?$/i.test(c.replace(/\*/g, ""))));
-    if (citeCol >= 0 && !/^[-:| ]+$/.test(l.trim()) && !cells[citeCol]) blank++;
-  });
+  const blank = blankCiteRows(text).length;
   if (blank) out.push(`${blank} table row(s) with an empty Citation/Source cell — cite the fact or drop the column`);
   const leak = text.match(/unable to verify from collected sources\s+(?:for|about|on|regarding|of)\b[^.\n]{0,40}/i);
   if (leak) out.push(`"Unable to verify from collected sources" is run into a sentence ("${leak[0]}") — write it as its own sentence about one named thing, or say what is missing in plain words`);

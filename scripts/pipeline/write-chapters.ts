@@ -18,7 +18,7 @@ import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { chapterMermaid, checkpointTotals, duplicateMap, type Graph, type Roadmap, usableFactIds } from "./graph.ts";
-import { type LlmRequest, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, parseJsonReply, runAll, skillText, unwrapMarkdown } from "./llm.ts";
+import { type LlmRequest, type LlmResult, type Usage, addUsage, backendFor, defaultConcurrency, formatUsage, modelFor, parseJsonReply, runAll, skillText, unwrapMarkdown } from "./llm.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -38,6 +38,7 @@ import {
   writeText,
   saveStateAdvice,
   layoutProblems,
+  blankCiteRows,
 } from "./lib.ts";
 
 const id = gameIdArg();
@@ -424,7 +425,7 @@ const LINE_LOCAL_PROBLEM = /^(cites source passages|cites fact ids|malformed cit
 
 function findProblemLines(text: string): string[] {
   const badCites = new Set([...text.matchAll(CITE_RE)].flatMap((m) => m[1].split(/\s*,\s*/)).filter((f) => !usable.has(f)));
-  const out: string[] = [];
+  const out: string[] = [...blankCiteRows(text)];
   for (const l of text.split(/\r?\n/)) {
     const hasBadCite = [...l.matchAll(CITE_RE)].some((m) => m[1].split(/\s*,\s*/).some((f) => badCites.has(f)));
     const hasMalformed = malformedCites(l).length > 0;
@@ -439,11 +440,16 @@ function findProblemLines(text: string): string[] {
   return [...new Set(out)];
 }
 
-function buildRepairReq(t: string): LlmRequest {
+// chapters whose repair request asked for a line patch (a reply that patches nothing falls back to a full rewrite)
+const patchRequested = new Set<string>();
+
+function buildRepairReq(t: string, allowPatch = true): LlmRequest {
   const d = drafts.get(t)!;
-  const canPatch = d.problems.every((p) => LINE_LOCAL_PROBLEM.test(p));
+  const canPatch = allowPatch && d.problems.every((p) => LINE_LOCAL_PROBLEM.test(p));
   const badLines = canPatch ? findProblemLines(d.text) : [];
+  patchRequested.delete(t);
   if (canPatch && badLines.length > 0 && badLines.length <= 15) {
+    patchRequested.add(t);
     return {
       key: t,
       tier: "write",
@@ -477,27 +483,33 @@ function buildRepairReq(t: string): LlmRequest {
   );
 }
 
-function applyRepairReply(t: string, rawReply: string, beforeText: string): string {
+// Lines are shown to the model in backticks and it sometimes drops list/quote markers, so matching ignores both.
+const loose = (s: string) => s.trim().replace(/^`+|`+$/g, "").replace(/^(?:>\s*)*(?:[-*+]\s+|\d+\.\s+)?/, "").trim();
+
+/** Applies a line-patch reply, or takes a full-chapter reply as-is. `patched` is null for a full-chapter reply. */
+function applyRepairReply(rawReply: string, beforeText: string): { text: string; patched: number | null } {
+  let patches: { find: string; replace: string }[] | undefined;
   try {
-    const parsed = parseJsonReply<{ patches?: { find: string; replace: string }[] }>(rawReply);
-    if (Array.isArray(parsed?.patches) && parsed.patches.length > 0) {
-      const eol = beforeText.includes("\r\n") ? "\r\n" : "\n";
-      const map = new Map(parsed.patches.map((p) => [p.find.trim(), p.replace]));
-      const nextLines: string[] = [];
-      for (const l of beforeText.split(/\r?\n/)) {
-        if (map.has(l.trim())) {
-          const rep = map.get(l.trim())!;
-          if (rep.trim()) nextLines.push(rep);
-        } else {
-          nextLines.push(l);
-        }
-      }
-      return nextLines.join(eol);
-    }
+    patches = parseJsonReply<{ patches?: { find: string; replace: string }[] }>(rawReply)?.patches;
   } catch {
-    // Not a JSON patch; treat as full markdown chapter below
+    // not a JSON patch: a full markdown chapter
   }
-  return unwrapMarkdown(rawReply);
+  if (!Array.isArray(patches) || !patches.length) return { text: unwrapMarkdown(rawReply), patched: null };
+  const eol = beforeText.includes("\r\n") ? "\r\n" : "\n";
+  const exact = new Map(patches.filter((p) => typeof p.find === "string").map((p) => [p.find.trim().replace(/^`+|`+$/g, ""), p.replace ?? ""]));
+  const fuzzy = new Map(patches.filter((p) => typeof p.find === "string" && loose(p.find)).map((p) => [loose(p.find), p.replace ?? ""]));
+  let patched = 0;
+  const next: string[] = [];
+  for (const l of beforeText.split(/\r?\n/)) {
+    const rep = exact.get(l.trim()) ?? (loose(l) ? fuzzy.get(loose(l)) : undefined);
+    if (rep === undefined) {
+      next.push(l);
+      continue;
+    }
+    patched++;
+    if (rep.trim()) next.push(rep);
+  }
+  return { text: next.join(eol), patched };
 }
 
 for (const t of resumed) {
@@ -545,12 +557,11 @@ await runAll(targets.map((t) => req(t, firstMessage(t))), {
 
 if (repairs.length) {
   console.log(`\nRepair pass: ${repairs.map(fileOf).join(", ")}`);
-  await runAll(
-    repairs.map((t) => buildRepairReq(t)),
-    {
-      ...opts,
-      stage: `${opts.stage}-repair`,
-      onResult: (r) => {
+  const fallback: string[] = [];
+  const repairOpts = {
+    ...opts,
+    stage: `${opts.stage}-repair`,
+    onResult: (r: LlmResult) => {
         usage = addUsage(usage, r.usage);
         if (r.error && !r.text) {
           pending[r.key] = drafts.get(r.key)!.problems;
@@ -558,7 +569,11 @@ if (repairs.length) {
           return void console.log(`  ${fileOf(r.key)}: ❌ ${r.error.slice(0, 120)} (first draft kept; the next rw:write or --fix retries the repair)`);
         }
         const before = drafts.get(r.key)!;
-        const candidate = applyRepairReply(r.key, r.text, before.text);
+        const { text: candidate, patched } = applyRepairReply(r.text, before.text);
+        if (patchRequested.has(r.key) && !patched) {
+          fallback.push(r.key);
+          return void console.log(`  ${fileOf(r.key)}: line patch matched no lines, retrying as a full rewrite`);
+        }
         const { text: tagged, fixed } = tidyTags(r.key, candidate);
         const { text: cited, fixed: recited } = fixCites(tagged);
         const { text, notes: sNotes } = tidyStructure(r.key, cited);
@@ -568,9 +583,13 @@ if (repairs.length) {
         const ps = problems(r.key, text);
         if (ps.length <= before.problems.length) writeText(path.join(P.chaptersDir, fileOf(r.key)), text);
         console.log(`  ${fileOf(r.key)}: ${ps.length ? `${ps.length} problem(s) left: ${ps.join(" | ").slice(0, 300)}` : "✅"}`);
-      },
     },
-  );
+  };
+  await runAll(repairs.map((t) => buildRepairReq(t)), repairOpts);
+  if (fallback.length) {
+    console.log(`\nFull-rewrite repair: ${fallback.map(fileOf).join(", ")}`);
+    await runAll(fallback.map((t) => buildRepairReq(t, false)), repairOpts);
+  }
 }
 
 savePending();
