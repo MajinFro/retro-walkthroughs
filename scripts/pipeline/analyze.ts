@@ -94,8 +94,11 @@ if (timed.length) {
   for (const [k] of countBy(timed, (u) => `${u.stage}/${u.backend}`)) {
     const rows = timed.filter((u) => `${u.stage}/${u.backend}` === k);
     const call = rows.map((u) => u.call_ms).sort((a, b) => a - b);
-    const retried = rows.filter((u) => (u.attempts ?? 1) > 1).length;
-    out.push(`  ${k.padEnd(28)} ${String(rows.length).padStart(3)} calls  ${sec(q(call, 0.5))} / ${sec(q(call, 0.9))}  ${retried ? `${retried} retried, ` : ""}${sec(rows.reduce((s, u) => s + (u.ms ?? 0), 0))} total`);
+    // a row moved here after a stall on another backend (fallback_from) is not this backend retrying
+    const moved = rows.filter((u) => u.fallback_from).length;
+    const retried = rows.filter((u) => !u.fallback_from && (u.attempts ?? 1) > 1).length;
+    const notes = `${moved ? `${moved} moved from ${[...new Set(rows.filter((u) => u.fallback_from).map((u) => u.fallback_from))].join("/")} after a stall, ` : ""}${retried ? `${retried} retried, ` : ""}`;
+    out.push(`  ${k.padEnd(28)} ${String(rows.length).padStart(3)} calls  ${sec(q(call, 0.5))} / ${sec(q(call, 0.9))}  ${notes}${sec(rows.reduce((s, u) => s + (u.ms ?? 0), 0))} total`);
   }
 }
 

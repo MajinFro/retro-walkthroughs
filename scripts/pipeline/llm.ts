@@ -332,8 +332,11 @@ async function callOnce(req: LlmRequest, model: string): Promise<LlmResult> {
  * extraction). Some chunks stall agy on every try (10113: big box-drawn tables in gf2, 29 stalls over four
  * passes, ~2 h), while Haiku did the same 17 chunks in one run for 82k tokens. RW_AGY_FALLBACK=none turns
  * it off; any other backend name picks that backend.
+ * One stall is enough: a batch that stalls agy once almost always stalls it again. On 1004 and 1449, 41 of
+ * 42 first stalls stalled again on the agy retry, and each extra stall cost 3-5 minutes plus the backoff
+ * (1449: ~11,300 s of the 13,500 s logged as extract/claude-cli was agy stalls and sleeps before Haiku ran).
  */
-const AGY_STALLS_BEFORE_FALLBACK = 2;
+const AGY_STALLS_BEFORE_FALLBACK = 1;
 function agyFallback(): Backend | undefined {
   const f = process.env.RW_AGY_FALLBACK;
   if (f === "none") return undefined;
@@ -350,8 +353,10 @@ function agyFallback(): Backend | undefined {
 }
 
 // ms: wall time of the whole call including retries and waits; call_ms: the attempt that answered;
-// attempts: how many calls it took. Logged per row so backends can be compared on speed, not just tokens.
-interface Attempted { r: LlmResult; req: LlmRequest; model: string; timing: { ms: number; call_ms: number; attempts: number } }
+// attempts: how many calls it took; fallback_from: the backend the request started on, when a stall moved it
+// (so a fallback row is not read as the answering backend retrying). Logged per row so backends can be
+// compared on speed, not just tokens.
+interface Attempted { r: LlmResult; req: LlmRequest; model: string; timing: { ms: number; call_ms: number; attempts: number; fallback_from?: Backend } }
 
 async function callWithRetry(req: LlmRequest, model: string): Promise<Attempted> {
   const t0 = Date.now();
@@ -359,22 +364,27 @@ async function callWithRetry(req: LlmRequest, model: string): Promise<Attempted>
   let attempts = 1;
   let r = await callOnce(req, model);
   let stalls = 0;
+  let fallbackFrom: Backend | undefined;
   for (let attempt = 1; attempt <= 3 && r.error && RETRYABLE.test(r.error); attempt++) {
+    let moved = false;
     if (backendOf(req) === "agy" && /stall timeout/.test(r.error) && ++stalls >= AGY_STALLS_BEFORE_FALLBACK) {
       const fb = agyFallback();
       if (fb) {
         console.log(`  ${req.key}: agy stalled ${stalls}x, retrying on ${fb}`);
+        fallbackFrom = "agy";
         req = { ...req, backend: fb };
         model = modelFor(req.tier, undefined, fb);
+        moved = true;
       }
     }
-    await sleep(15_000 * attempt);
+    // the backoff is for rate limits and overload on the same backend; a fresh backend starts at once
+    if (!moved) await sleep(15_000 * attempt);
     tCall = Date.now();
     attempts++;
     r = await callOnce(req, model);
   }
   const end = Date.now();
-  return { r, req, model, timing: { ms: end - t0, call_ms: end - tCall, attempts } };
+  return { r, req, model, timing: { ms: end - t0, call_ms: end - tCall, attempts, ...(fallbackFrom ? { fallback_from: fallbackFrom } : {}) } };
 }
 
 function logUsage(opts: RunOptions, r: LlmResult, model: string, req: LlmRequest, timing?: Attempted["timing"]) {
