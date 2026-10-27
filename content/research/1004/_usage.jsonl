@@ -133,3 +133,6 @@
 {"at":"2026-10-23T00:05:17.787Z","stage":"write","key":"18","backend":"agy","model":"gemini-3.8-flash-medium","input":64436,"output":30476,"cache_read":0,"cache_write":0,"ms":114814,"call_ms":114814,"attempts":1}
 {"at":"2026-10-23T00:22:32.473Z","stage":"write-repair","key":"16","backend":"agy","model":"gemini-3.8-flash-medium","input":0,"output":0,"cache_read":0,"cache_write":0,"ms":1031474,"call_ms":229628,"attempts":4,"error":"agy stall timeout: no output for 180s"}
 {"at":"2026-10-23T00:23:09.941Z","stage":"write-repair","key":"13","backend":"agy","model":"gemini-3.8-flash-medium","input":0,"output":0,"cache_read":0,"cache_write":0,"ms":1068955,"call_ms":261687,"attempts":4,"error":"agy stall timeout: no output for 180s"}
+{"at":"2026-10-27T01:16:09.981Z","stage":"write-fix","key":"1","backend":"claude-cli","model":"sonnet","input":49576,"output":5233,"cache_read":0,"cache_write":0,"ms":32829,"call_ms":32829,"attempts":1}
+{"at":"2026-10-27T01:24:56.926Z","stage":"write-fix","key":"13","backend":"claude-cli","model":"sonnet","input":107196,"output":6742,"cache_read":0,"cache_write":0,"ms":38526,"call_ms":38526,"attempts":1}
+{"at":"2026-10-27T01:25:01.387Z","stage":"write-fix","key":"18","backend":"claude-cli","model":"sonnet","input":94900,"output":6674,"cache_read":0,"cache_write":0,"ms":43005,"call_ms":43005,"attempts":1}

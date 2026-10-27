@@ -1,59 +1,150 @@
 {
-  "beginner_friendliness": 96,
+  "beginner_friendliness": 88,
+  "reviewer": "Stage 9 adversarial review (fresh, independent of the earlier self-review)",
   "issues": [
     {
       "id": "ISS-1",
-      "severity": "major",
-      "category": "accuracy",
+      "severity": "critical",
+      "category": "missable",
       "status": "fixed",
-      "file": "08_chapters/16.md",
-      "line": 45,
-      "description": "Removed two citations to rejected fact gf3-29-1 (erroneous claim about Dragon wish granting Might Armor) in the Cave North of Glasdar Tower and Cave to Glasdar Tower Dragon Egg descriptions."
+      "file": "08_chapters/09.md",
+      "line": 136,
+      "description": "Chapter 9 told the player to reach the Tower of Light 'by warping to Bakku and walking north' (gf2 route), which contradicts the guide's own Might Helmet warning: entering Bakku first loses the only missable. Replaced with gf1's sequence-break route (warp to Soshette, sail west to the shrine, walk west to the tower) and an explicit 'do not warp to Bakku' note."
     },
     {
       "id": "ISS-2",
       "severity": "major",
-      "category": "accuracy",
+      "category": "navigation",
       "status": "fixed",
-      "file": "08_chapters/13.md",
-      "line": 38,
-      "description": "Removed two uncited chunk-reference notes ([[gf1#73 not cited]], [[gf1#75 not cited]]) in Chapter 13 and one malformed chunk citation ([[gf1#75]]) in Chapter 15."
+      "file": "08_chapters/09.md",
+      "line": 86,
+      "description": "Chapter 10's Tower of Light route starts with 'warp back to Soshette', but no chapter before 13 ever visits Soshette, so Warp could not reach it. Added a Chapter 9 step to sail from Carbis to Ring Island and walk into Soshette once (gf2-55-2), matching gf1's Falcon tour."
     },
     {
       "id": "ISS-3",
       "severity": "major",
-      "category": "navigation",
+      "category": "accuracy",
       "status": "fixed",
-      "file": "08_chapters/04.md",
-      "line": 175,
-      "description": "Added missing VGMaps links in Chapters 3, 4, 6, and 7 (Cave East Of Ranqs Map, Old Cave 1st-7th Level Maps, and Cave North Of Glasdar Tower Map)."
+      "file": "08_chapters/00_overview.md",
+      "line": 74,
+      "description": "Overview said 655 treasure boxes while every chapter checkpoint counts to 637. Rewrote the plan intro and the 'Treasure counts' note with one explanation: checkpoints follow TheJuice's 637-chest checklist; the 655 is the game's internal counter read via emulator; the 18-chest gap is most likely unlisted chests; Treasure Hunter only needs 500. Matches the roadmap's settings_notes and true_100 wording."
     },
     {
       "id": "ISS-4",
-      "severity": "major",
-      "category": "navigation",
+      "severity": "minor",
+      "category": "formatting",
       "status": "fixed",
-      "file": "08_chapters/02.md",
-      "line": 96,
-      "description": "Expanded sparse area sections in Chapter 2 (Cave to Sheran second pass), Chapter 5 (Kirof return), Chapter 6 (Old Cave), Chapter 7 (Red Sapphire and Old Cave), and Chapter 14 (Power Oil) with full step-by-step routing and prerequisites."
+      "file": "scripts/pipeline/assemble.ts",
+      "line": 105,
+      "description": "Stray lone citation badge in the assembled Playthrough Planning section: the assembler emitted roadmap.fact_ids as a bare [[...]] line. Fixed upstream in assemble.ts by appending the route-wide citation to the playthrough-notes paragraph (07_roadmap.json fact_ids kept, since graph.ts feeds them into packets). Pipeline change; commit separately from content."
     },
     {
       "id": "ISS-5",
       "severity": "minor",
       "category": "formatting",
       "status": "fixed",
-      "file": "08_chapters/10.md",
-      "line": 63,
-      "description": "Aligned area headings in Chapter 10 (Might Helmet (Tower of Light roof)) and Chapter 15 (Elba & Ulupp Island Caves) with the roadmap labels and added the missing Chapter Checklist heading in Chapter 10."
+      "file": "08_chapters/11.md",
+      "line": 75,
+      "description": "Second lone citation badge in the assembled file: a bare [[gf1-65-2]] line after the Gayas Island Cave ASCII map. Turned into a 'map reproduced from the source guide' caption."
     },
     {
       "id": "ISS-6",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 86,
+      "description": "Chapter 2 gave two conflicting Dragon Egg chests for Alekia Castle (right/Sweet Water per gf-treasure vs left/Revive per gf3) and hard-stated the right chest in its warning. Replaced with one instruction: open all three treasure-room chests now, because one of them becomes an egg after the first wish (Chapter 15 already says to check all three). The town hut Sweet Water chest now says plainly: open it, but it is not on the checklist tally."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 102,
+      "description": "The First Encounter hedge was repeated four times (overview open question, ch1 top tip, ch1 end tip, ch1 checklist, ch2 NOTE). Kept the overview open question and the ch1 tip at the point of play; the ch1 end tip now only points back to it; removed the ch1 checklist line and the ch2 NOTE. Chapter 1 directions were checked line by line against gf2#3 and match."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 138,
+      "description": "Chapter 13 said it was 'unable to verify' whether the Dual Blade is removed, contradicting Chapter 16 and the overview (gf4-20-3: lost when Nazeby is beaten). Now states it is lost after Nazeby in Chapter 16. Checked chapters 17-18: neither tells the player to use the Dual Blade."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "major",
+      "category": "routing",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 187,
+      "description": "Chapter 17 (after the Chapter 16 Nazeby point of no return) still had an 'If Nazeby is still alive' section telling the player to equip Lufia's Flash Ring, plus a tip saying Lufia 'leaves after' Nazeby. Removed the section and reworded the tip: Lufia has already left, and the climb is with Hero, Aguro and Jerin."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 67,
+      "description": "Chapter 17's route to Sheran read 'Unable to verify from collected sources'. Replaced with Jerin's Warp to Sheran (gf3-10-5, any visited town)."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "consistency",
+      "status": "fixed",
+      "file": "08_chapters/17.md",
+      "line": 91,
+      "description": "Chapter 17 said Old Cave 7F 'has 43 chests' while Chapter 10's checkpoint counts 41 (checklist). Now says the floor was cleared in Chapter 10 (41 on the checklist; one older guide counts 43) and only the egg chest is new."
+    },
+    {
+      "id": "ISS-12",
       "severity": "minor",
       "category": "accuracy",
       "status": "fixed",
-      "file": "08_chapters/00_overview.md",
-      "line": 37,
-      "description": "Added source citations to uncited overview and Chapter 17 statements, removed drafting phrasing ('Packet sources do not state...'), fixed low-overlap citations across Chapters 1, 2, 3, 5, 8, 11, 12, and 14, and relabeled chest-overwrite/one-time item warnings so only the true roadmap missable uses 'Missable Warning'."
+      "file": "08_chapters/12.md",
+      "line": 72,
+      "description": "Chapter 12 said the Engage Ring cuts prices by 25% (cited to an unrelated wizard fact), then a tip said no source gives a percentage. gf1-93-3 does give 25%; fixed the citation and removed the contradicting tip."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 55,
+      "description": "Chapter 14's underwater-cave enemy line (Manta Rays, Sea Dragons, Flood) was cited to a chest fact and flagged by QA for zero overlap. Restated with the verified facts (Hydras and Flame Plates outside the Oil Cave; Hydras drop the Might Sword)."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 16,
+      "description": "Removed 'Unable to verify from collected sources' filler in ch2 (Sleep Powder), ch6 (Lufia-only room), ch11 (exit to Marse, now 'exit north and walk to Marse' per gf1), ch14 (five places, including a 'nothing known to be lost' tip that ignored the Oil Cave egg chest) and ch18 (Hero's weapon). QA now reports 0 'Unable to verify' lines."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "minor",
+      "category": "maps",
+      "status": "open",
+      "file": "08_chapters/01.md",
+      "line": 14,
+      "description": "QA warns that 'Fortress Of Doom Ruins Map' covers Chapter 1. This is a false positive: the ruins map is the risen fortress of Chapter 13 (linked there and in Chapter 18); Chapter 1 correctly links the intact 'Fortress Of Doom Map'. chapterMaps() matches on the shared 'Fortress of Doom' graph label, which also drives packet fact matching, and there is no per-chapter map exclusion, so it cannot be fixed upstream without a graph/roadmap rework or a new exclusion field. Deliberately left unlinked in Chapter 1."
+    },
+    {
+      "id": "ISS-16",
+      "severity": "minor",
+      "category": "checkpoints",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 199,
+      "description": "Verified checkpoint arithmetic: ch3 adds 10 (Treck 3, passage 2, north cave 4, Lorbenia 1) to reach 28; ch7 adds 68 (Blue 7, Green 8, Medan Mine 7, Red Tower 15, Elfrea 2, Old Cave 5F 29) to reach 252; ch10 adds 64 (Tower of Light 22 + Guardian chest 1 + Old Cave 7F 41) to reach 382. All match the roadmap and the per-area checklist. No change needed beyond ISS-11."
     }
   ]
 }

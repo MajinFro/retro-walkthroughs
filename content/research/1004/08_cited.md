@@ -87,11 +87,11 @@ No difficulty setting is involved. Some achievements are reported to be sticky, 
 
 #### The 100% plan in plain language
 
-One playthrough covers all 47 achievements, with 655 treasure boxes and 24 Dragon Eggs tracked across the world [[gf-treasure-13-16, ra-comments-1-2]]. The parts that need planning are these.
+One playthrough covers all 47 achievements, with 637 checklist chests and 24 Dragon Eggs tracked across the world (see the treasure note below for why the game's own counter says 655) [[gf-treasure-13-16, ra-comments-1-2]]. The parts that need planning are these.
 
 **1. The only missable: the Might Helmet.** A chest on the roof of the Tower of Light holds the Might Helmet, and it is the only one in the game [[gf1-57-12]]. Do not go to Bakku when Raile first tells you to. Doing so means permanently missing a very rare and powerful item [[gf1-55-2]]. A commenter says that visiting Bakku means the helmet disappears forever [[ra-comments-22-6]]. The Forfeit section repeats the warning: advancing the plot at the next town before the Tower of Light costs you one of the best pieces of equipment in the game [[gf1-56-5]]. If you reach the Tower of Light after missing it, the helmet is gone for good [[gf1-62-1]]. Chapter 10 handles this. Another player reportedly got it by accident while playing blind [[ra-comments-3-5]].
 
-**2. Treasure counts.** The game tracks 655 findable chests and 136 findable "got items" [[gf-treasure-1-1]]. The in-game counter has been checked and reads 655/655 and 136/136 when all are found [[gf-treasure-13-16]]. Note two caveats. The chest checklist by TheJuice posted in the RA comments may contain errors, because a chest or two may have been missed [[ra-comments-50-26]]. One player also says Treasure Hunter does not require every chest in the game [[ra-comments-51-28]]. Do not rely on either claim alone: open every chest you route past. Chests in the prologue do not count toward the totals [[gf-treasure-1-1]]. Empty chests exist only in the Old Cave [[gf-treasure-12-1]].
+**2. Treasure counts.** Two numbers appear in this guide, and they count different things. Every chapter checkpoint counts toward **637**, the total of TheJuice's per-area chest checklist posted in the RA comments; this guide follows that list area by area. The game's own hidden counter tracks **655** findable chests and 136 findable "got items" [[gf-treasure-1-1]], and reads 655/655 and 136/136 in a fully cleared save [[gf-treasure-13-16]]. The gap of 18 is most likely chests the checklist does not list; its author warns it may contain errors, because a chest or two may have been missed [[ra-comments-50-26]]. That 655 was read from the game's memory with an emulator, so you will not see it during normal play. Treat 637 / 637 at the final checkpoint as the guide's tally, and open every chest you route past, listed or not. Treasure Hunter only needs 500 chests, so the achievements themselves do not need every chest in the game [[ra-comments-51-28]]. Chests in the prologue do not count toward the totals [[gf-treasure-1-1]]. Empty chests exist only in the Old Cave [[gf-treasure-12-1]].
 
 **3. Dragon Eggs and the three wishes.** Bring 8 Dragon Eggs to the Dragon Shrine for one wish [[gf4-21-109]]. The four wishes are two levels for everyone, three of each stat potion, a Might Shield, or a Might Bow [[gf2-60-6]]. The second set of eggs only becomes obtainable after the first wish, and the third set only after the second [[gf4-21-110]]. Per the roadmap, the three wishes do not exclude each other as long as the first two are the Might Bow and a Might Shield; an RA commenter reports that three Might Shields lock out the bow. Chapters 15 and 17 route this. Note that the Might Bow is ten points weaker than the Zircon Rod but lets Jerin hit all enemies [[gf3-26-13]].
 
@@ -135,11 +135,9 @@ Follow the chapters in order. Each one routes its town or dungeon room by room, 
 
 **Playthroughs required:** 1
 
-One playthrough covers all 47 achievements. The only missable is the Might Helmet (go to the Tower of Light before Bakku). The three wishes do not exclude each other as long as the first two are the Might Bow and a Might Shield (three Might Shields lock out the bow, per an RA commenter). The Might Sword and Might Armor are random drops that can take hours; farm them in chapter 14 while Lufia is still in the party.
+One playthrough covers all 47 achievements. The only missable is the Might Helmet (go to the Tower of Light before Bakku). The three wishes do not exclude each other as long as the first two are the Might Bow and a Might Shield (three Might Shields lock out the bow, per an RA commenter). The Might Sword and Might Armor are random drops that can take hours; farm them in chapter 14 while Lufia is still in the party. [[gf-treasure-13-16,ra-comments-50-26,ra-comments-51-28,ra-comments-3-5,gf1-17-5,gf4-21-135,gf1-2-2,gf1-2-3,gf1-2-4,gf1-2-5,ra-comments-1-2,ra-comments-4-1,ra-comments-4-3,gf1-94-11]]
 
 **Settings:** Hardcore mode. No difficulty setting is involved. Chest counts follow TheJuice's checklist posted in the RA comments; the in-game counter (655) differs slightly.
-
-[[gf-treasure-13-16,ra-comments-50-26,ra-comments-51-28,ra-comments-3-5,gf1-17-5,gf4-21-135,gf1-2-2,gf1-2-3,gf1-2-4,gf1-2-5,ra-comments-1-2,ra-comments-4-1,ra-comments-4-3,gf1-94-11]]
 
 ## True 100% In-Game Completion Criteria
 
@@ -552,43 +550,19 @@ flowchart TD
   class Gades_Prologue,Amon_Prologue,Erim,Daos_Prologue,Gades_Sheran,Demon_Lords,Goblins,Apprentice,Phantasm,Follower,Dark_Ghost,Guardian,Bosun,Oil_Dragon,Nazeby,Gades_Final,Amon_Final,Daos_Final,Guard_Daos boss;
 ```
 
-### Area Overview & Preparation
+You start as Maxim, Selan, Guy and Artea at the Fortress of Doom, and you fight the four Sinistrals one at a time: Gades, Amon, Erim and Daos [[gf-boss-1-1]]. The recommended level is 78 [[gf1-3-5]]. Three of the four heroes already know numerous spells [[gf2-3-11]]. The chests here are optional and do not add to your final treasure count [[gf1-3-9]]. They are all listed below, numbered, in case you want the items for the fights.
 
-The game opens with Maxim, Selan, Guy and Artea at the Fortress of Doom. You fight the four Sinistrals one at a time here: Gades, Amon, Erim and Daos [[gf-boss-1-1]]. The party is already at very high level: the recommended level is 78 [[gf1-3-5]]. All four characters are very strongly equipped, and three of the four already know numerous spells [[gf2-3-1, gf2-3-11]].
-
-Chests in this prologue can be skipped. They do not contribute to your final treasure count [[gf1-3-9]]. Nothing you collect here is kept after the scene [[gf-treasure-11-38]]. This chapter lists them anyway, in case you want them for the fights.
-
-Two achievements are available here: **First Encounter** (win your first battle) and **And So It Begins...** (complete the prologue). There are no missables and no points of no return in this chapter.
+Two achievements come from this chapter: **First Encounter** (defeat your first enemy) and **And So It Begins...** (complete the Prologue). There are no missables and no points of no return here.
 
 > [!TIP]
-> **Hydra hunt (optional):** Hydras roam this fortress [[gf2-3-2]]. The Might Sword is carried by Hydras [[gf-treasure-7-77]]. A short hunt for it here is optional; the Might Sword achievement itself is handled in a later chapter.
-
-> [!WARNING]
-> **Achievement Trigger Warning:** First Encounter should pop on the first battle you win here, but whether it triggers on a prologue battle is unconfirmed from collected sources. If it has not popped by the end of the prologue, win one fight outside Alekia in the next chapter, where Jellyfish are among the enemies [[gf2-4-1]].
-
-### Chapter Items to Collect (Optional, 12 Chests)
-
-The Island Fortress has 12 chests [[gf2-3-7]]. None of them count toward the main chest total [[gf1-3-9]].
-
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Power Potion | Room through the west door near the start | Optional | [[gf-treasure-11-38]] |
-| Speed Potion | Left chest of the three, north from the split downstairs | Optional | [[gf-treasure-11-39]] |
-| Mind Potion | Middle chest of the three | Optional | [[gf-treasure-11-40]] |
-| Great Potion | Right chest of the three | Optional | [[gf-treasure-11-41]] |
-| Spell Potion | East room (first one) | Optional | [[gf-treasure-1-8, gf-treasure-11-44]] |
-| Power Potion | Room east of the split, north from the start | Optional | [[gf-treasure-1-7]] |
-| Spell Potion | Room west of the split, after the second Power Potion | Optional | [[gf-treasure-11-44]] |
-| Miracle x2 | Back of the third floor | Optional | [[gf-treasure-1-10, gf1-3-5]] |
-| Miracle x3 | Around the edges of the fourth-floor room | Optional | [[gf-treasure-11-49]] |
+> **First Encounter:** it should pop on your first battle win in this fortress. No collected source confirms that it triggers on a prologue battle. If it has not popped by the end of the prologue, win one fight outside Alekia in the next chapter, where Jellyfish are among the enemies [[gf2-4-1]].
 
 ### Fortress of Doom
 
-🗺️ **Map:** [View Fortress Of Doom Ruins Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoomRuins.png)
-
 🗺️ **Map:** [View Fortress Of Doom Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoom.png)
 
-Enemies here: Mad Knight, Hydra, Efreet, Mad Wolf, Mega Frog and Rock Golem [[gf2-3-1, gf2-3-2, gf2-3-3, gf2-3-4, gf2-3-5, gf2-3-6]]. Efreet is weak to Water, Mad Knight to Thunder and Mega Frog to Frost [[gf1-3-6, gf1-3-7, gf1-3-8]]. Fight whatever you meet; your first win should unlock the achievement.
+The fortress has 12 chests [[gf2-3-7]]. Enemies are Mad Knight, Hydra, Efreet, Mad Wolf, Mega Frog and Rock Golem [[gf2-3-1, gf2-3-2, gf2-3-3, gf2-3-4, gf2-3-5, gf2-3-6]]. Efreet is weak to Water, Mad Knight to Thunder and Mega Frog to Frost [[gf1-3-6, gf1-3-7, gf1-3-8]].
+Win your first fight with any of these enemies:
 
 
 > [!ACHIEVEMENT]
@@ -597,68 +571,83 @@ Enemies here: Mad Knight, Hydra, Efreet, Mad Wolf, Mega Frog and Rock Golem [[gf
 > *Defeat your first enemy*
 
 
-#### Start and first floor
+#### 1F (start)
 
-1. Move north and you will find two gold notes. Read the one to the west; both say the same thing about moving the pointer to a spell and pressing X to see what it does [[gf2-3-1]]. Look over your spells now if you like [[gf2-3-11]].
-2. Enter the door next to the west note and open the chest for a **Power Potion** [[gf2-3-13, gf-treasure-11-38]].
-3. Take the stairs to the west. Go south, then east, then north as soon as possible [[gf2-3-14]].
-4. Enter the door to a room with three chests: **Speed Potion** (left), **Mind Potion** (middle) and **Great Potion** (right) [[gf2-3-15, gf2-3-16, gf2-3-17, gf-treasure-11-39, gf-treasure-11-40, gf-treasure-11-41]].
-5. Leave the room and take the stairs to the east. Open the chest for a **Spell Potion**, then exit through the door to find yourself back at the beginning [[gf2-3-20, gf-treasure-11-44]].
+1. Move north from the start. You will see two gold notes. Read the one to the west. Both say the same thing: move the pointer to a spell and press X to see what it does [[gf2-3-1]]. You can look over your spells now [[gf2-3-11]].
+2. Enter the door next to the west note. Open the chest for a **Power Potion** (Chest 1/12) [[gf2-3-13]].
+3. Leave the room and enter the stairs to the west. They take you down to the basement [[gf2-3-14, gf-treasure-1-4]].
 
-#### Second floor
+#### B1F (basement)
 
-1. Proceed north up the stairs. Go east first through the door and open the chest in the first room for another **Power Potion** [[gf2-3-13, gf-treasure-11-38, gf-treasure-1-7]].
-2. Exit and follow the north hallway west to the second room. Open the chest behind the west door for another **Spell Potion**, then take the stairs to the south [[gf2-3-20, gf-treasure-11-44, gf-treasure-1-8]].
+1. From the foot of the stairs, go south, then east, then north as soon as possible [[gf2-3-14]].
+2. Enter the door. It leads to a room with three chests [[gf2-3-15]]:
+   - Left chest: **Speed Potion** (Chest 2/12) [[gf2-3-15, gf-treasure-1-5]].
+   - Middle chest: **Mind Potion** (Chest 3/12) [[gf2-3-16, gf-treasure-1-4]].
+   - Right chest: **Great Potion** (Chest 4/12) [[gf2-3-17, gf-treasure-1-6]].
+3. Exit the room and enter the stairs to the east [[gf2-3-20]].
 
-#### Third floor
+#### 1F east room
 
-1. Ignore the ladders and head to the top of the room by either path. Two chests each hold a **Miracle** [[gf2-3-1, gf2-3-22]].
-2. Return to the beginning and take the first ladder. Stairs at the top of that floor lead to a room with floor panels that restore HP and MP when you stand on them [[gf2-3-23]].
+1. The stairs bring you up into a room with a chest. Open it for a **Spell Potion** (Chest 5/12) [[gf2-3-20, gf-treasure-1-8]].
+2. Exit through the door of this room. You are back at the beginning [[gf2-3-20]].
+
+#### 2F
+
+1. From the start, go north up the stairs. At the top the path splits north and east. Go east first and enter the door. Open the chest for another **Power Potion** (Chest 6/12) [[gf2-3-13, gf-treasure-1-7]].
+2. Exit the room and take the north path this time. Enter another door [[gf2-3-20]].
+3. You can only go left. Follow the hallway to its end and leave through the door [[gf2-3-20]].
+4. Here there are stairs to the south and a door to the west. Go through the west door and open the chest for another **Spell Potion** (Chest 7/12) [[gf2-3-20, gf-treasure-1-8]].
+5. Take the stairs to the south [[gf2-3-20]].
+
+#### 3F
+
+1. Ignore the ladders and head to the top of the room by either path. Two chests there each hold a **Miracle** (Chests 8/12 and 9/12) [[gf2-3-22, gf-treasure-1-10]].
+2. Return to the beginning and take the first ladder. Stairs at the top of that floor lead to a room with floor panels that restore HP and MP when you stand on them. Use them if you like [[gf2-3-23]].
 3. When ready, take the second ladder and enter the stairs at the top of that floor [[gf2-3-24]].
 
-#### Fourth floor and the bridge
+#### 4F
 
 1. Go through the door into a room with three paths [[gf2-3-25]].
-2. Go either west or east and follow the path all the way around, opening three chests that each hold a **Miracle** [[gf2-3-22, gf-treasure-11-49]].
-3. Go north to the bridge, which triggers dialogue [[gf2-3-26]].
-4. When you regain control, step into the portal. You will be transported to a room with another bridge [[gf2-3-27]].
-5. Heal all characters before crossing the bridge, because crossing triggers more dialogue [[gf2-3-29]].
+2. Go either west or east and follow the path all the way around. You pick up three chests that each hold a **Miracle** (Chests 10/12, 11/12 and 12/12) [[gf2-3-22, gf-treasure-1-10]].
+3. With all chests open, go north to the bridge. This triggers dialogue [[gf2-3-26]].
+4. When you regain control, step into the portal. Your party is transported to a room with another bridge [[gf2-3-27]].
+5. Heal all your characters before crossing the bridge. Crossing triggers more dialogue [[gf2-3-29]].
 
 ### Gades (prologue)
 
-After the dialogue, the fight with Gades begins [[gf2-3-30]]. This is the prologue, so you do not need to hold back.
+When you regain control after the dialogue, you are in a boss fight with Gades [[gf2-3-30]].
 
 - **Weakness:** Thunder [[gf1-4-1]].
-- **Behavior:** he uses only physical attacks that strike one character per turn [[gf2-3-31, gf-boss-1-4]].
-- **Strategy:** Maxim and Guy attack. Selan casts Thunder every round. Artea casts Trick to boost Maxim and Guy, then Champion (one ally to max HP) or Valor (all allies) as needed [[gf1-4-2]].
+- **Behavior:** he uses only physical attacks, one character per turn. He does not use magic [[gf2-3-31, gf-boss-1-4]].
+- **Strategy:** Maxim and Guy attack. Selan casts Thunder every round. Artea casts Trick to boost Maxim and Guy, then Champion (one ally to max HP) or Valor (all allies to max HP) as needed [[gf1-4-2]].
 - Watch HP and heal when needed [[gf2-3-32]].
 
-Restore HP before moving on, because heading north triggers the next fight [[gf2-3-33, gf-boss-1-1]].
+Restore everyone's HP between battles. Heading north after this fight triggers Amon [[gf2-3-33, gf-boss-1-1]].
 
 ### Amon (prologue)
 
 - **Weakness:** Fire [[gf1-4-3]].
-- **Behavior:** he uses Sunder, a magic attack that hits every character [[gf2-3-34]]. Mirror is very useful against him [[gf-boss-1-4]].
-- **Strategy:** Maxim and Guy attack every round. Selan and Artea cast Mirror on themselves, then the others, and keep recasting it for the whole battle [[gf1-4-4]]. Selan's Thunder is also effective against him [[gf-boss-1-2]].
-- He is not dangerous; just watch HP [[gf2-3-35]].
+- **Behavior:** he uses only Sunder, a magic attack that strikes every character [[gf2-3-34]]. Mirror is very useful against him [[gf-boss-1-4]].
+- **Strategy:** Maxim and Guy attack every round. Selan and Artea cast Mirror on themselves, then the others, and keep recasting it all battle so his spells reflect back at him [[gf1-4-4]]. Selan's Thunder is also highly effective against him [[gf-boss-1-2]].
+- Watch your HP and he should be no problem [[gf2-3-35]].
 
-Heal after the battle, because proceeding triggers Erim [[gf2-3-36]].
+Heal after the fight. Proceeding triggers Erim [[gf2-3-36]].
 
 ### Erim
 
 - **Weakness:** none [[gf1-4-5]].
-- **Behavior:** she attacks with Thunder on one character [[gf2-3-37]]. She is virtually immune to magic damage and may cast Mirror on herself, so do not cast magic at her. Selan's Thunder is the exception to avoid [[gf-boss-1-2, gf-boss-1-3]].
-- **Strategy:** use the same plan as Amon, with Mirror up and Maxim and Guy attacking [[gf1-4-6]]. Selan can simply attack instead of casting Thunder [[gf4-5-1]].
-- She should not be a problem if you watch HP [[gf2-3-38]].
+- **Behavior:** she attacks with Thunder on one character [[gf2-3-37]]. She is virtually immune to magic damage and may cast Mirror on herself [[gf-boss-1-3]].
+- **Strategy:** do not cast Thunder or any other magic at her. Selan's Thunder works on every Sinistral except Erim [[gf-boss-1-2, gf4-5-1]]. Use the Amon plan with Mirror up and Maxim and Guy attacking [[gf1-4-6]].
+- Watch your HP and she should not be a problem [[gf2-3-38]].
 
-Heal after defeating Erim. Then proceed and battle Daos [[gf2-3-39]].
+Heal after defeating Erim. Then proceed to battle Daos [[gf2-3-39]].
 
 ### Daos (prologue)
 
-- **Behavior:** he uses a couple of magic attacks that hit all characters. This is the easiest of the four battles [[gf2-3-40, gf2-3-41]].
-- **Strategy:** Mirror is useful against him as well [[gf-boss-1-4]]. Use the same Mirror plan, with Artea healing when needed [[gf1-4-4, gf1-4-2]]. Keep Maxim and Guy attacking, and have Selan cast Thunder [[gf4-5-1, gf-boss-1-2]].
+- **Behavior:** he uses a couple of different magic attacks that hit all your characters. This is the easiest of the four battles [[gf2-3-40, gf2-3-41]].
+- **Strategy:** Mirror is useful against him too [[gf-boss-1-4]]. Maxim and Guy attack. Selan casts Thunder. Artea attacks, casts Trick, or heals with Valor when needed [[gf4-5-1]].
 
-After defeating him, the scene plays out [[gf2-3-42]].
+When he falls, the scene plays out [[gf2-3-42]].
 
 
 > [!ACHIEVEMENT]
@@ -668,7 +657,7 @@ After defeating him, the scene plays out [[gf2-3-42]].
 
 
 > [!TIP]
-> **Before you leave the Fortress of Doom:** make sure First Encounter has unlocked. Its trigger on a prologue battle is unconfirmed from collected sources. If it has not popped, win one fight outside Alekia after the prologue ends [[gf2-4-1]]. You can also still take any chests you skipped, but only until the last Sinistral falls, since nothing here is kept [[gf-treasure-11-38]].
+> **Before you leave the Fortress of Doom:** check that both achievements have unlocked (see the First Encounter tip at the top of this chapter).
 
 > [!IMPORTANT]
 > ### Chapter 1 Cumulative 100% Checkpoint
@@ -679,13 +668,12 @@ After defeating him, the scene plays out [[gf2-3-42]].
 ### Chapter Checklist
 
 - [ ] Read the gold note and review your spells
-- [ ] (Optional) Open the prologue chests
+- [ ] (Optional) Open all 12 prologue chests
+- [ ] Win a first battle (First Encounter, 196711)
 - [ ] Heal, cross the bridge and defeat Gades
 - [ ] Heal and defeat Amon
-- [ ] Heal and defeat Erim
-- [ ] Defeat Daos and finish the prologue
-- [ ] Confirm First Encounter (196711) unlocked
-- [ ] Confirm And So It Begins... (196718) unlocked
+- [ ] Heal and defeat Erim (no magic at her)
+- [ ] Defeat Daos and finish the prologue (And So It Begins..., 196718)
 
 ---
 
@@ -739,14 +727,11 @@ This chapter has four achievements:
 
 The chest counter for this chapter uses the community checklist: Alekia Castle 4, Sheran north cave 2 and Sheran Castle 12, for 18 in total [[ra-comments-50-1, ra-comments-50-2, ra-comments-50-3]].
 
-> [!NOTE]
-> **First Encounter is unconfirmed.** No source says whether it pops on a prologue battle or only on the young hero's first win. Its unlock count suggests it popped during the prologue. If it has not popped by now, win one fight outside Alekia against the local monsters [[gf2-4-1]].
-
 > [!WARNING]
 > **One-Time Item Warning:** The Princess's 100 Gold in Alekia Castle is permanently lost after you enter Sheran [[gf-treasure-1-22]]. Collect it on your first castle visit, before you walk into Sheran.
 
 > [!WARNING]
-> **Chest Overwrite Warning:** The right-hand chest in Alekia Castle's first-floor treasure room holds Sweet Water, and it becomes a Dragon Egg after the first egg scatter [[gf-treasure-1-31]]. Open it now.
+> **Chest Overwrite Warning:** One of the three chests in Alekia Castle's first-floor treasure room becomes a Dragon Egg after the first egg scatter, and the item inside it is then lost [[gf-treasure-1-31]]. Open all three chests now.
 
 #### Chests counted this chapter
 
@@ -797,12 +782,12 @@ Go to the weapon shop and buy a Dagger for the hero. It costs 50 gold [[gf1-5-4,
 1. **Inn, upstairs:** Go up and search the shelf for a **Dress** [[gf1-5-3, gf-treasure-1-16]]. One guide calls it a dresser [[gf2-4-7]].
 2. **Between the weapon and item shops:** Search the shelf for a **Potion** [[gf1-5-14, gf-treasure-1-14]].
 3. **West house, far left past the flower-field intersection:** Climb the steps and enter the house. Search the bookshelf for a **Revive** [[gf-treasure-1-15, gf1-5-10]].
-4. **Secret passage and hut chest:** Take the steps through the passage to the chest. It holds **Sweet Water** [[gf1-5-17, gf2-4-21]]. This chest is not one of the four castle chests.
+4. **Secret passage and hut chest:** Take the steps through the passage to the chest. It holds **Sweet Water** [[gf1-5-17, gf2-4-21]]. Open it, but do not add it to the checkpoint tally: this town chest is not on the community checklist, which counts only the four Alekia Castle chests below.
 5. **North bridge, then left:** The flowers to the left of the house hide a **Power Potion** [[gf1-5-8, gf-treasure-1-18]].
 6. **Same house:** Search the bookshelf for a **Cloth Helm** and equip it on the hero [[gf1-5-9, gf2-4-10, gf4-5-9]]. You do not need to buy one at the armor shop [[gf4-5-9]].
 7. **Town talk:** Townspeople mention Chatam and Sheran to the north [[gf1-5-9]].
 
-Sleep Powder is listed among Alekia's items [[gf3-1-8]]. Unable to verify from collected sources where it is.
+Sleep Powder is listed among Alekia's items, but no source says where it is hidden [[gf3-1-8]].
 
 #### Alekia Castle (4 chests)
 
@@ -819,7 +804,7 @@ Enter the castle north of the first bridge [[gf1-5-9]]. Two staircases sit just 
    - **Antidote** (middle chest) [[gf-treasure-1-30]] (Chest 3/4).
    - **Sweet Water** (right chest) [[gf-treasure-1-31]] (Chest 4/4).
 
-The Alekia Castle egg chest later sits in this secret treasure room, in the chest where the Revive was [[gf3-26-14]]. A guide places that egg's chest at the end of a roof route, up two flights of stairs to the roof, then to the upper right corner and down two flights [[gf1-87-2]].
+Open all three chests now. After the first Dragon Shrine wish (Chapter 15), one of these three chests refills with a Dragon Egg and its old item is gone; Chapter 15 brings you back here for it [[gf1-87-2, gf-treasure-1-31]].
 
 Finally, after exploring Alekia Castle, backtrack and exit the town to leave for Sheran [[gf2-4-36]].
 
@@ -1647,7 +1632,7 @@ flowchart TD
 This chapter takes you from the cave east of Medan to Belgen, through the Southwest Cave for the Dais Key, up through the Cave to Dais and the North Tower, and into the fight with the Follower that rescues Jerin. You then go back through Belgen to Surinagal and the Lost Forest Guide Station, where Jerin joins, and finish with the fourth level of the Old Cave and its Crown. The recommended levels are 14 for Belgen, Surinagal and the Southwest Cave [[gf1-28-1, gf1-29-1, gf1-30-1]], 15 for Old Cave 4th Level [[gf1-31-1]], 16 for the Cave to Dais and the North Tower [[gf1-32-1, gf1-33-1]], and 17 for the Guide Station [[gf1-36-1]].
 
 > [!WARNING]
-> **One-Time Item Warning (Old Cave 2nd floor):** The Dress, Earring, Heeled Shoes and Hair Band in the Lufia-only room on the Old Cave 2nd floor cannot be collected once you obtain Jerin [[gf-treasure-2-56, gf-treasure-2-57, gf-treasure-2-59, gf-treasure-2-60]]. If you skipped them earlier, the source says nothing about how to get them afterward. Unable to verify from collected sources.
+> **One-Time Item Warning (Old Cave 2nd floor):** The Dress, Earring, Heeled Shoes and Hair Band in the Lufia-only room on the Old Cave 2nd floor cannot be collected once you obtain Jerin [[gf-treasure-2-56, gf-treasure-2-57, gf-treasure-2-59, gf-treasure-2-60]]. If you skipped them, no source describes a way to get them afterward, so treat them as lost.
 
 > [!WARNING]
 > **Chest Overwrite Warning (Dragon Egg chests):** The Float chest in the Belgen cave and the right-hand Float chest in the Southwest Cave each become a Dragon Egg after the first egg scatter [[gf-treasure-5-36, gf-treasure-5-42]]. Take both Floats now.
@@ -2616,6 +2601,8 @@ Enemies outside: Ghoul, Crazy Jar, Giant Oak, Ice Snake and Blue Wisp [[gf2-42-1
 
 That is all you can do in Carbis for now [[gf2-42-13]].
 
+4. **Register Soshette for Warp now.** Board the Falcon, sail slightly east and then north from Carbis to Ring Island, and enter the town of Soshette at its northernmost part [[gf2-55-2]]. You only need to walk in once so Warp can take you back; the route to the Tower of Light at the end of this chapter starts from Soshette [[gf1-56-5]]. Chapter 13 covers Soshette in full.
+
 > [!TIP]
 > **Before you leave Carbis:** The Mind Potion is the only item here. Collect it before moving on [[gf1-55-1]].
 
@@ -2671,7 +2658,7 @@ The man behind the counter makes one Gloom Voice for every Long Nail and Straw D
 2. Buy something cheap: Empty Bottle 2, Ear Tip 5, Goblet 10, Gown 100 [[gf-shop-16-28, gf-shop-16-27, gf-shop-16-26, gf-shop-16-29]].
 3. Search the bookshelves for a **Ribbon** and a **Gown** [[gf1-56-4, gf-treasure-7-53, gf-treasure-7-54, gf2-43-10]].
 
-When ready, exit and warp onward. Do not advance the plot at the next town yet [[gf1-56-5]]. Per the route, the next stop is the Tower of Light, reached by warping to Bakku and walking north (see the next chapter) [[gf2-43-12, gf4-13-16]].
+When ready, exit and warp onward. Do not advance the plot at the next town yet [[gf1-56-5]]. The next stop is the Tower of Light. Do **not** warp to Bakku to reach it, even though one guide routes that way [[gf2-43-12]]: entering Bakku first loses the Might Helmet. Instead, warp back to Soshette, sail straight west from the southern edge of the island to a shrine, and walk straight west of the shrine to the tower in a canyon across a bridge (Chapter 10 picks up from the Tower of Light) [[gf1-56-5]].
 
 > [!TIP]
 > **Before you leave Forfeit:** Make sure you have the Mind Ring, Hi Potion, Hi Magic, Ribbon and Gown, and have found the second-floor sell-back shop [[gf1-56-2, gf1-56-3, gf1-56-4, gf2-43-2]].
@@ -3051,7 +3038,8 @@ Enemies are SabresPook, Cave Rok, Werefrog, Mad Lily, Werewolf and Zaurus [[gf2-
  |   |
   ---
 ```
-[[gf1-65-2]]
+
+*ASCII map reproduced from the source guide* [[gf1-65-2]].
 
 #### Entrance floor
 
@@ -3094,7 +3082,7 @@ Enemies are SabresPook, Cave Rok, Werefrog, Mad Lily, Werewolf and Zaurus [[gf2-
 
 🗺️ **Map:** [View Shrine South Of Linze Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-ShrineSouthOfLinze.png)
 
-East of the Tower of Light, cross the northern bridge to this cave. It is a hallway, and the chest on the right holds a **Power Potion** [[gf1-65-19, gf3-19-19]]. This is the chest that turns into a Dragon Egg after the first wish, so take the Power Potion now [[gf4-15-4]]. The enemies here are Green Magi, Red Wolf, Troll, Demon Mace and Manticore [[gf3-19-19]]. After the first scatter, this chest holds one of the 2nd-set Dragon Eggs [[gf-treasure-11-54]]. For the exact path out of the cave toward Marse: Unable to verify from collected sources.
+East of the Tower of Light, cross the northern bridge to this cave. It is a hallway, and the chest on the right holds a **Power Potion** [[gf1-65-19, gf3-19-19]]. This is the chest that turns into a Dragon Egg after the first wish, so take the Power Potion now [[gf4-15-4]]. The enemies here are Green Magi, Red Wolf, Troll, Demon Mace and Manticore [[gf3-19-19]]. After the first scatter, this chest holds one of the 2nd-set Dragon Eggs [[gf-treasure-11-54]]. To continue, exit the hallway to the north and walk to Marse; the Cave To Marse map above shows the exit [[gf1-65-19]].
 
 ### Marse
 
@@ -3343,10 +3331,7 @@ Warp to Herat, sail the Falcon north and land west after the mountain ends. Walk
 6. Left room: follow the path up the stairs to a chest with a **Revive** [[gf1-71-11, gf2-52-21]].
 7. Exit and go left to a chest with a **Stone Cure** [[gf1-71-12, gf-treasure-9-22]].
 8. Go to the far right and up the ladder to the **Stun Arrow** chest. It becomes a Dragon Egg after the 2nd scatter, so take it now [[gf1-71-13, gf-treasure-9-31]].
-9. Climb back down and take the narrow path up to the intersection. Continue straight up to what looks like a dead end to find a hidden room with the **Engage Ring** [[gf1-71-14, gf3-22-10, gf-treasure-9-21]]. It cuts shop prices by 25%, and a guide says to equip it before buying [[gf4-16-7]].
-
-> [!TIP]
-> Unable to verify from collected sources: the exact 25% figure in the sources; they only say the Engage Ring lowers the price of things.
+9. Climb back down and take the narrow path up to the intersection. Continue straight up to what looks like a dead end to find a hidden room with the **Engage Ring** [[gf1-71-14, gf3-22-10, gf-treasure-9-21]]. It reduces item cost by 25%, so equip it before buying [[gf1-93-3]].
 
 10. Back at the intersection, take the right path to a room with a switch and flip it down [[gf1-71-18, gf2-52-24, gf4-16-5]].
 11. Return to the intersection, climb the left ladder to the **Gloom Arrow** chest [[gf1-71-15, gf-treasure-9-20]].
@@ -3489,11 +3474,11 @@ flowchart TD
 This chapter refits the Falcon so it can dive, then takes you through Soshette and the underwater caves beneath Ring Island to the risen Fortress of Doom, where you pick up the Dual Blade. Raile and Cooper fix the ship so it can go underwater through the eddies (whirlpools) on the world map [[gf1-73-6, gf4-17-31]]. The route is Carbis, Soshette, the caves under Ring Island, then the Fortress of Doom ruins and the Dual Blade [[gf2-56-16, gf2-56-21, gf2-56-23]]. This visit to Doom Island is not the final dungeon.
 
 > [!TIP]
-> **Recommended level:** The guide lists level 39 for Soshette and Under Ring Island [[gf1-74-1, gf1-75-9]]. The underwater enemies are weak to Fire [[gf1-55-3, gf1-55-4, gf1-55-5, gf1-55-6, gf1-55-7]].
+> **Recommended level:** The guide lists level 39 for Soshette and Under Ring Island [[gf1-74-1, gf1-75-9]]. The underwater enemies Jelly Bolt, Killer Eel, Lobsteron, Psychoclam and Red Star are weak to Fire [[gf1-55-3, gf1-55-4, gf1-55-5, gf1-55-6, gf1-55-7]].
 
-### Chapter Items to Collect
+### Chapter Items to Collect (7 Fixed Pickups Plus 19 Cave Chests)
 
-Soshette has 1 chest, the north and southeast caves have 12, and the southwest cave has 7 [[ra-comments-51-18, ra-comments-51-20]]. The tables below list the fixed items.
+Soshette has 1 chest, the north and southeast caves have 12, and the southwest cave has 7 [[ra-comments-51-18, ra-comments-51-20]]. The table lists the non-cave pickups. Each cave's chests are routed below.
 
 | Item | Where Found | Action / Requirement | Citation |
 |---|---|---|---|
@@ -3509,28 +3494,31 @@ Soshette has 1 chest, the north and southeast caves have 12, and the southwest c
 
 🗺️ **Map:** [View Carbis Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-Carbis.png)
 
-Warp back to Carbis, head downstairs and talk to Raile. Cooper and he will fix the submarine so you can go underwater via an eddy on the world map [[gf1-73-6]].
+Monsters outside Carbis are Ghoul, Crazy Jar, Giant Oak, Ice Snake and Blue Wisp [[gf2-42-11]].
+
+If you have not yet taken the Mind Potion from the locker in the Carbis building, examine it now [[gf1-55-1]]. You can rest for free by speaking to the girl on the west side of the bottom floor of Shai Lab 3 [[gf2-55-1]].
+
+Go downstairs and talk to Raile. Cooper and he will fix the submarine so you can go underwater via an eddy on the world map [[gf1-73-6]].
+
 
 > [!ACHIEVEMENT]
 > **Under the Sea, Under the Sea (1 Points)**
 > ![Badge](https://retroachievements.org/Badge/208809.png)
 > *Darling it's better, down where it's wetter, take it from me*
 
-The achievement is attached to this refit and the dive that follows [[gf1-73-6, gf2-56-16, gf4-17-31]]. The Falcon can only go underwater at whirlpools [[gf4-17-31]].
 
-If you have not yet taken the Mind Potion from the locker in the Carbis building, examine it now [[gf1-55-1]]. You can rest for free by speaking to the girl on the west side of the bottom floor of Shai Lab 3 [[gf2-55-1]].
+The achievement is tied to this refit and the dive that follows [[gf1-73-6, gf2-56-16, gf4-17-31]]. The Falcon can only go underwater at whirlpools [[gf4-17-31]].
 
 ### Soshette
 
 🗺️ **Map:** [View Soshette Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-Soshette.png)
 
-Sail slightly east and then a good distance north to reach Ring Island. Ignore all the eddies for now and enter the town of Soshette at the northernmost section of the island [[gf2-55-2]].
+Sail slightly east and then a good distance north to reach Ring Island. Ignore all the eddies for now and enter the town of Soshette at the northernmost section of the island [[gf2-55-2]]. Monsters outside are Mega Frog, Megaturtle, Griffon and Mad Wolf [[gf2-55-3]].
 
-Monsters outside are Mega Frog, Megaturtle, Griffon and Mad Wolf [[gf2-55-3]].
+Work through the town in this order:
 
-Items in town:
 1. The inn is on the hill to the left of the entrance and costs 40 Gold [[gf1-74-1, gf-shop-20-12]].
-2. Enter the door north of the inn and open the chest for a **Miracle** [[gf2-56-13, gf1-74-16]].
+2. Enter the door north of the inn (the cave to the left) and open the chest for a **Miracle** [[gf2-56-13, gf1-74-16]].
 3. Go downstairs and search the bookshelves for a **Straw Doll** and a **Gloom Arrow** [[gf2-56-14, gf1-74-17, gf1-74-18]].
 4. Enter the hut and search to the west and east of the cleric for a hidden **Sweet Water** and **Revive** [[gf2-56-15, gf-treasure-9-66, gf-treasure-9-67]].
 
@@ -3553,7 +3541,8 @@ The General Shop sells the following [[gf-shop-20-1]]:
 
 One guide suggests Catwhips for the girls, a Carbo Shield for the Hero, a Carbo Shield and Carbo Helm for Aguro, and two Carbo Caps for the girls [[gf3-23-20]].
 
-When ready, exit town and go down one of the eddies [[gf2-56-16]].
+> [!TIP]
+> **Before you leave Soshette:** Rest at the 40 Gold inn [[gf-shop-20-12]] and stock up on Hi Potions at 400 Gold each [[gf-shop-20-9]]. Check that you have taken the Miracle, Straw Doll, Gloom Arrow, Sweet Water and Revive [[gf2-56-13, gf2-56-14, gf2-56-15]]. When ready, exit town and go down one of the eddies [[gf2-56-16]]. You can return to Soshette to rest between caves [[gf1-75-9]].
 
 ### Under Ring Island
 
@@ -3563,20 +3552,18 @@ When ready, exit town and go down one of the eddies [[gf2-56-16]].
 
 🗺️ **Map:** [View Southwest Cave To Fortress Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-SouthwestCaveToFortress.png)
 
-Monsters here are Magura, Fire Plate, Sea Snake and Evil Clam [[gf2-56-17]]. Magura have about 270 HP and deal around 100 damage per attack [[gf3-24-1]].
+Monsters here are Magura, Fire Plate, Sea Snake and Evil Clam [[gf2-56-17]]. Magura have about 270 HP and deal around 100 damage per attack [[gf3-24-1]]. There are currents in these caves that force you along a path. Only take them when told to, or you may pass a chest [[gf1-75-9]]. The southwest entrance is not connected to the others, so explore it first [[gf4-17-40]].
 
-There are currents in these caves that force you along a path. Only take them when told to, or you may pass a chest [[gf1-75-9]]. The southwest entrance is not connected to the others, so explore it first [[gf4-17-40]].
-
-Flame Armors can spawn underwater at Ring Island and can drop the Might Armor [[ra-comments-41-1]]. One commenter suggests buying 100 Sweet Water and equipping the Monster Ring for this method [[ra-comments-41-2]]. Another got it on the 3rd encounter while looking for the Dragon Egg [[ra-comments-41-6]]. It is unconfirmed how reliable this is.
+Flame Armors can spawn underwater at Ring Island and can drop the Might Armor [[ra-comments-41-1]]. One commenter suggests buying 100 Sweet Water and equipping the Monster Ring for this method [[ra-comments-41-2]]. Another got it on the 3rd encounter while looking for the Dragon Egg underwater [[ra-comments-41-6]].
 
 #### Southwest (West) Cave: 7 chests
 
 Take the lower current to the eddy to the main area. Take the current up to a four-way intersection, then follow the path left to a chest with a **Hi Potion** [[gf1-75-9, gf-treasure-10-2]]. From the intersection, go right for **Arrows** [[gf-treasure-10-5]]. Continue right, avoiding the current, and down for a **Power Potion** [[gf-treasure-10-6]].
 
-Go back to the intersection, walk up a little, then left, avoiding the current, for a **Mystery Pin** [[gf-treasure-10-7]]. Then head up for a **Potion** [[gf-treasure-10-8]]. Hug the wall to your right until you can walk into a current that takes you to the last two chests: an **Ex Potion** and a **Spell Potion** [[gf-treasure-10-9, gf-treasure-10-10]].
+Go back to the intersection, walk up a little, then left, avoiding the current, for a **Mystery Pin** [[gf-treasure-10-7]]. Then head up for a **Potion** [[gf-treasure-10-8]]. Hug the wall to your right until you can walk into a current that takes you to the last two chests: an **Ex Potion** and a **Spell Potion** [[gf-treasure-10-9, gf-treasure-10-10]]. You can then take the current back to the entrance [[gf-treasure-10-10]].
 
 > [!TIP]
-> **Dragon Egg:** After the first egg scatter, the Ex Potion chest becomes a Dragon Egg chest. It is in the northeast corner of this cave [[gf-treasure-10-9, gf1-87-8]]. Per the guide, go up past the first intersection, up to the next, then head northeast and ride the current [[gf1-87-8]].
+> **Dragon Egg:** After the first egg scatter, the Ex Potion chest becomes a Dragon Egg chest in the northeast corner of this cave [[gf-treasure-10-9, gf1-87-8]]. The guide's route is to go up past the first intersection, up to the next, then head northeast and ride the current to the chest [[gf1-87-8]]. In the second set the egg sits near the north exit of the left cave, by the pair of chests holding the Ex Potion and Spell Potion [[gf3-26-20]].
 
 #### Northern and Eastern caves: 12 chests
 
@@ -3596,7 +3583,7 @@ Return to Soshette to rest, then take the same eddy but head east to that cave [
 From below the chests, walk left to the middle current and the eddy to the center of Ring Island, where the Fortress of Doom ruins stand [[gf1-75-18]].
 
 > [!TIP]
-> **Before you leave:** All three caves lead to the fortress, and the guide says this list contains every item here [[gf3-24-1, gf4-17-40]]. Check that you have opened all 19 chests before entering the fortress.
+> **Before you leave the caves:** The checklist counts 7 chests in the southwest cave and 12 in the north and southeast caves, 19 in all [[ra-comments-51-20]]. Open all of them before entering the fortress [[gf2-56-21]].
 
 ### Doom Island
 
@@ -3610,27 +3597,28 @@ From below the chests, walk left to the middle current and the eddy to the cente
 
 🗺️ **Map:** [View Fortress Of Doom Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoom.png)
 
-Monsters in the fortress are Megaturtle, Mad Wolf, Mega Frog, Rock Golem and Griffon [[gf2-56-22]]. The guide suggests equipping Jerin with the Frost Ring for her Blizzard spell [[gf1-76-1]]. The guide says the treasure chests in this ruin are empty [[gf3-24-21]].
+Monsters in the fortress are Megaturtle, Mad Wolf, Mega Frog, Rock Golem and Griffon [[gf2-56-22]]. The guide suggests equipping Jerin with the Frost Ring for her Blizzard spell [[gf1-76-1]]. The guide says all the treasure chests in this ruin are empty, so do not detour for them [[gf3-24-21]].
 
-Walk north and up the stairs, then continue to the second floor. Go around the balcony and straight down and up to the throne room [[gf2-56-23, gf3-24-21]]. Climb the stairs to the third floor and walk up to the Dual Blade, which triggers a lot of dialogue [[gf1-76-1, gf2-56-23]].
+Walk north and go up the stairs, continue north and enter the door, walk east and enter the next door, then walk south and go up the stairs [[gf2-56-23]]. Go up to the second floor, around the balcony, and straight down and up to the throne room [[gf3-24-21]]. Climb the stairs to the third floor and walk up to the Dual Blade, which triggers a lot of dialogue [[gf1-76-1, gf2-56-23]].
 
 ### Dual Blade
 
 The Dual Blade lies where the ancient battle with the Sinistrals took place [[gf3-24-21]]. It is handed over automatically at the end of the path [[gf-treasure-10-11]].
+
 
 > [!ACHIEVEMENT]
 > **Sin Slayer (5 Points)**
 > ![Badge](https://retroachievements.org/Badge/208780.png)
 > *Acquire the Dual Blade*
 
-It gives 300 ATP, 0 WGT, is equippable only by the Hero, and cannot be sold [[gf2-71-3, gf4-23-3]]. Afterwards you are back at Soshette; warp to Carbis to continue [[gf1-76-1, gf2-56-23]].
 
-> [!TIP]
-> **Before you leave Doom Island:** The Hero should equip the Dual Blade [[gf1-92-8]]. The guide says Hydras drop the Might Sword, which beats the Dual Blade [[gf4-17-54]].
+It gives 300 ATP and 0 WGT, is equippable only by the Hero, and cannot be sold [[gf2-71-3, gf4-23-3]]. Afterwards you are automatically back at Soshette; warp to Carbis to continue [[gf1-76-1, gf2-56-23]].
+
+Do not plan on keeping the Dual Blade for the endgame: it is lost when you beat Nazeby in Chapter 16 [[gf4-20-3]]. The guide notes that Hydras drop the Might Sword, which is better than the Dual Blade [[gf4-17-54]].
 
 > [!IMPORTANT]
 > ### Chapter 13 Cumulative 100% Checkpoint
-> - **Treasure Chests:** 533 / 637
+> - **Treasure Chests:** 533 / 637 (Soshette 1, southwest cave 7, north and southeast caves 12) [[ra-comments-51-18, ra-comments-51-20]]
 > - **Dragon Eggs:** 8 / 24
 > - **RetroAchievements Unlocked:** 33 / 47 (175 / 343 points)
 
@@ -3677,12 +3665,12 @@ This chapter takes you from the town of Epro, through the underwater East Lagoon
 
 - **Chests:** The underwater cave has 10 chests and the Oil Cave has 17 [[ra-comments-51-21, ra-comments-51-22]].
 - **Power Oil:** It sits in a chest that opens only after you beat the Oil Dragon [[gf-treasure-10-43]].
-- **Party:** Lufia is still with you in this chapter. She leaves after Nazeby, which is two chapters ahead. That makes farming harder later [[gf4-18-34]]. Unable to verify from collected sources: the exact reason she cannot farm later.
+- **Party:** Lufia is still with you in this chapter. She leaves after Nazeby, which is two chapters ahead. That makes farming harder later [[gf4-18-34]].
 - **Dragon Eggs:** One chest in the Oil Cave (the Ex Bomb chest on the upper level) turns into a Dragon Egg after the first egg scatter [[gf-treasure-10-41, gf1-87-9]]. If you have already made that wish, treat that chest as an egg chest.
 - **Gear for the dive:** The guide equips Jerin with the Flame Ring before the underwater trip. Before the Oil Cave it has you swap Jerin back to the Frost Ring and give Lufia the Flash Ring [[gf1-77-17, gf1-78-1]].
 
 > [!TIP]
-> **Before you leave each area:** Unable to verify from collected sources whether anything here is lost for good if you leave early. Finish the chests anyway, so you do not have to come back.
+> **Before you leave each area:** Finish every chest, so you do not have to come back. The one chest at risk is the Oil Cave Ex Bomb chest noted above, which becomes a Dragon Egg after the first wish.
 
 ### Epro
 
@@ -3721,7 +3709,7 @@ A walkthrough author suggests Sword Shoes and Cat Heels from the armor shop [[gf
 
 **Getting there:** Board the Falcon outside Epro. Sail east along the coast and pass through the opening between the mountains. Head north into the eddy, then sail around to the east and enter the cave [[gf2-58-4, gf3-25-2]]. Equip Jerin with the Flame Ring first [[gf1-77-17]].
 
-**Enemies:** Hydras, Manta Rays and Sea Dragons. Sea Dragons can cast Flood. Vulcan is a quick way to kill anything weak to fire [[gf1-78-1]]. Unable to verify from collected sources: which of them is worth fighting for items.
+**Enemies:** The underwater area outside the Oil Cave has Hydras and Flame Plates [[ra-comments-38-5]]. The Hydras here are the Might Sword droppers you farm later in this chapter [[ra-comments-38-6]].
 
 There are two paths heading north and one heading west from the entrance [[gf2-58-4]]. The 10 chests are listed below in a sensible order, with the fork where each branches off.
 
@@ -3858,13 +3846,13 @@ Hydras and Plates give lots of XP. Players reached level 60 to 84 during this fa
 
 #### Heavy Pockets (200,000 Gold)
 
-Fire Plates pay about 460 Gold each fight [[gf2-92-16]]. The open question: Unable to verify from collected sources whether Heavy Pockets checks gold on hand at any moment, or whether spending first matters. So hold 200,000 Gold at one time before any big purchase.
+Fire Plates pay about 460 Gold each fight [[gf2-92-16]]. No source says whether Heavy Pockets checks gold on hand at any moment or whether spending first matters, so hold 200,000 Gold at one time before any big purchase.
 
 Ways to raise gold:
 
 - Sell a **Miracle** for 2,500 Gold [[gf4-6-15]]. Miracles can be bought again in Frederia for 2,500 [[gf4-4-9]].
 - Sell a **Royal Statue** for 2,500 Gold [[gf1-91-1]].
-- Sell the **Dragon Ring** from the Oil Cave 1st floor chest near the 850 Gold chest [[gf-treasure-10-32, gf1-79-1]]. Unable to verify from collected sources: its sale price.
+- Sell the **Dragon Ring** from the Oil Cave 1st floor chest near the 850 Gold chest [[gf-treasure-10-32, gf1-79-1]].
 - Green Core gives 65,000 EXP and 8,400 Gold, but drops no item [[gf1-95-32]].
 
 Only after you hold 200,000 Gold should you shop.
@@ -4681,7 +4669,7 @@ These are the eight third-set Dragon Eggs scattered by the second wish [[gf1-87-
 
 🗺️ **Map:** [View Sheran Castle Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-SheranCastle.png)
 
-The travel route to Sheran from the Dragon Shrine: Unable to verify from collected sources.
+Have Jerin cast Warp and pick Sheran; Warp reaches any town you have visited [[gf3-10-5]].
 
 #### Sheran Castle throne room
 
@@ -4705,7 +4693,7 @@ The grey area outside the cave damages your HP if you walk on it [[gf3-3-6]]. Lo
 
 🗺️ **Map:** [View Old Cave 7th Level Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-OldCave-7thLevel.png)
 
-Monsters on this floor are Mega Frog, Mad Wolf, Griffon and Megaturtle [[gf2-44-1]]. The floor has 43 chests [[gf2-44-2]].
+Monsters on this floor are Mega Frog, Mad Wolf, Griffon and Megaturtle [[gf2-44-1]]. You cleared this floor in Chapter 10 (41 checklist chests; one older guide counts 43), so only the egg chest is new [[gf2-44-2]].
 
 1. Climb the ladder to the door into the main area. Walk around to the stairs in the upper right corner and climb down the ladder to the chest below [[gf-treasure-11-60]].
 2. This chest is near the Wind Flute room [[gf-treasure-11-60]]. The Clear Silk chest sits at the bottom of a ladder [[gf-treasure-4-41]]. The Wind Flute chest is reached by going east at the split and into the door, then returning to the split and going west [[gf-treasure-4-42]].
@@ -4770,7 +4758,7 @@ This is the northernmost of three caves around Glasdar Tower [[gf2-61-10]]. The 
 🗺️ **Map:** [View Glasdar Tower Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-GlasdarTower.png)
 
 > [!TIP]
-> Lufia leaves the party after the Nazeby fight and only rejoins for the final battle, which makes leveling harder without her [[gf4-20-1, gf3-28-16]].
+> Lufia left the party when you beat Nazeby in Chapter 16 and only rejoins for the final battle, so this climb is with Hero, Aguro and Jerin [[gf4-20-1, gf3-28-16]].
 
 The egg is in the hidden treasure room. Per an RA commenter, it only appears once the other 7 eggs are collected [[ra-comments-37-1]]. The recommended level for the tower is 46 [[gf1-85-1]].
 
@@ -4800,10 +4788,6 @@ There are four switches. The one on the red carpet resets the other three, and t
 
 > [!TIP]
 > Before you leave Glasdar Tower, confirm that you hold all 8 third-set Dragon Eggs from the eight locations above before flying back to the Dragon Shrine [[gf1-87-10, gf1-87-18]].
-
-#### If Nazeby is still alive
-
-Reset the switches and step on only the middle one, then take the warp point to the roof [[gf2-63-19, gf1-85-16]]. Equip Lufia with her Flash Ring before the fight [[gf-boss-3-8]]. Sources disagree on Nazeby's HP: 5600 in one guide [[gf-boss-3-8]], 4980 in another [[gf1-86-1]]. Keep Mirror up on everyone and watch for his instant-kill Mace [[gf-boss-3-10, gf-boss-3-11]].
 
 ### Dragon Shrine — the final wish
 
@@ -4935,134 +4919,120 @@ flowchart TD
 
 ### Area Overview & Preparation
 
-The final confrontation of the game takes place high above the world on Doom Island and inside the legendary Fortress of Doom [[gf2-64-5]]. After gathering the ultimate weapons and completing all worldly sidequests, the party ascends to finish what Maxim and his companions began a century ago [[gf-boss-1-1, gf2-64-5]]. The recommended level for tackling Doom Island is level 48 [[gf1-88-1]], though players who have followed the intended route will already be at an appropriate level for the finale [[ra-comments-36-2]]. 
+The finale takes place on Doom Island, inside the Fortress of Doom. You fight Gades, Amon and Daos in turn, then Guard Daos, the final boss [[gf2-64-5, gf2-64-17]]. Finish every other achievement first. Beating Daos locks you in, and defeating Guard Daos earns **One-Hundred Years**, the last achievement of the set [[gf-boss-4-6, gf-boss-4-16]].
 
-Before departing from the mainland, ensure your inventory and equipment setups are completely finalized [[gf1-86-2, gf1-90-4]]. The Hero should wield the Dual Blade, which offers 300 Attack Power with 0 Weight and cannot be sold [[gf1-92-8, gf2-71-3, gf4-23-3]], or the Might Sword dropped by Hidras [[gf4-17-54]]. Aguro should carry his best heavy gear, and Jerin must keep both her primary bow and her original Elven Bow in inventory [[gf-boss-4-13, gf1-90-4]]. Most importantly, ensure Lufia is still equipped with the Flash Ring obtained earlier in Glasdar Tower, as she will rejoin during the final battle with whatever equipment she held previously and cannot have her loadout adjusted beforehand [[gf-boss-3-8, gf-boss-4-14, gf-boss-4-15]]. Stockpile a supply of Shrieks to quickly snap party members out of confusion during boss encounters [[gf-boss-4-5, gf1-90-4]].
-
-The Fortress of Doom contains exactly 12 treasure chests across its multi-level interior, consisting of 2 Power Potions, 1 Speed Potion, 1 Mind Potion, 1 Great Potion, 2 Spell Potions, and 5 Miracles [[gf2-3-7, gf2-3-8, gf2-3-9, gf2-3-10, gf4-20-4, gf4-20-5, gf4-20-6, gf4-20-7, gf4-20-8, gf4-20-9, ra-comments-51-27]].
+- **Level:** The recommended level for Doom Island is 48 [[gf1-88-1]]. A commenter says a casual playthrough is already at the right level [[ra-comments-36-2]].
+- **Hero's weapon:** Hydras on Doom Island drop the Might Sword, which a guide calls the best sword for both fighters [[gf4-17-54]]. Equip it on the Hero (and Aguro) if you have it. Otherwise use your strongest sword.
+- **Jerin's bow:** Equip Jerin with her original Elven Bow before facing Daos. It does little damage to your own party. If you sold it, you can get it back at the Isle of Forfeit [[gf-boss-4-13]].
+- **Lufia's gear:** Lufia rejoins for the last fight, and you cannot change her equipment beforehand [[gf-boss-4-14]]. Hopefully she is still wearing the Flash Ring from Glasdar Tower, which makes her Thunder far stronger [[gf-boss-3-8, gf-boss-4-15]].
+- **Shrieks:** Bring Shrieks to cure confusion on a single character [[gf-boss-4-5, gf1-90-4]].
+- **Chests:** The fortress has 12 chests holding 2 Power Potions, 1 Speed Potion, 1 Mind Potion, 1 Great Potion, 2 Spell Potions and 5 Miracles [[gf2-3-7, gf2-3-8, gf2-3-9, gf2-3-10, gf4-20-4, gf4-20-5, gf4-20-6, gf4-20-7, gf4-20-8, gf4-20-9, ra-comments-51-27]].
+- **Layout:** The fortress layout is the same as in the prologue [[gf1-88-1]].
 
 ### Chapter Items to Collect (12 Items Total)
 
 | Item | Where Found | Action / Requirement | Citation |
 |---|---|---|---|
-| Power Potion | Fortress of Doom 1F, west room | Open chest | [[gf-treasure-11-38, gf1-88-7, gf2-64-9]] |
-| Speed Potion | Fortress of Doom B1F, left chest north from intersection | Open chest | [[gf-treasure-11-39, gf1-88-3, gf2-3-15, gf2-64-7]] |
-| Mind Potion | Fortress of Doom B1F, middle chest north from intersection | Open chest | [[gf-treasure-11-40, gf1-88-4, gf2-3-16, gf2-64-7]] |
-| Great Potion | Fortress of Doom B1F, right chest north from intersection | Open chest | [[gf-treasure-11-41, gf1-88-5, gf2-3-17, gf2-64-7]] |
-| Spell Potion | Fortress of Doom 1F, eastern room past B1F stairs | Open chest | [[gf-treasure-11-44, gf1-88-6, gf2-3-20, gf2-64-10]] |
-| Power Potion | Fortress of Doom 2F, first room along corridor | Open chest | [[gf-treasure-11-38, gf1-88-7, gf2-64-9]] |
-| Spell Potion | Fortress of Doom 2F, second room along corridor | Open chest | [[gf-treasure-11-44, gf1-88-6, gf2-64-10]] |
-| Miracle | Fortress of Doom 3F, north corner behind platform, left chest | Open chest | [[gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]] |
-| Miracle | Fortress of Doom 3F, north corner behind platform, right chest | Open chest | [[gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]] |
-| Miracle | Fortress of Doom 4F, outer perimeter before glass bridge | Open chest | [[gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]] |
-| Miracle | Fortress of Doom 4F, outer perimeter before glass bridge | Open chest | [[gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]] |
-| Miracle | Fortress of Doom 4F, outer perimeter before glass bridge | Open chest | [[gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]] |
+| Power Potion | Room through the west door at the start | **TAKE** | [[gf-treasure-11-38, gf2-64-9]] |
+| Speed Potion | Three-chest room, left chest | **TAKE** | [[gf-treasure-11-39, gf2-64-7]] |
+| Mind Potion | Three-chest room, middle chest | **TAKE** | [[gf-treasure-11-40, gf2-64-7]] |
+| Great Potion | Three-chest room, right chest | **TAKE** | [[gf-treasure-11-41, gf2-64-7]] |
+| Spell Potion | Room up the stairs to the east of the three-chest room | **TAKE** | [[gf-treasure-11-44, gf2-64-10]] |
+| Power Potion | Room through the east door after the next staircase | **TAKE** | [[gf-treasure-11-38, gf2-64-9]] |
+| Spell Potion | Room through the west door after the far-east door | **TAKE** | [[gf-treasure-11-44, gf2-64-10]] |
+| Miracle x2 | Two chests around the north side before the first steps | **TAKE** | [[gf-treasure-11-49, gf2-64-13]] |
+| Miracle x3 | Three chests around the room before the glass bridge | **TAKE** | [[gf-treasure-11-49, gf2-64-13]] |
 
 ### Doom Island
 
 🗺️ **Map:** [View Doom Island Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-DoomIsland.png)
+
 🗺️ **Map:** [View Doom Island Shrine Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-DoomIslandShrine.png)
 
-#### Arrival and Approach
+1. Warp to Arus and fly northwest into Doom Island. Land on the circle [[gf2-64-5]].
+2. Enter the door to the north and then the next door [[gf2-64-5]].
+3. Walk north and speak to the old man. He heals you for free and lets you save [[gf2-64-5, gf3-29-11]].
+4. Enter the door to the north, continue north, climb the steps and enter the Fortress [[gf2-64-5]].
 
-To reach Doom Island, cast Warp to travel to Arus, board your airship, and fly northwest toward the floating landmass [[gf2-64-5]]. Descend upon the landing circle located on the lower plateau of Doom Island [[gf1-88-1, gf2-64-5]]. Random encounters on the island exterior include dangerous foes such as Act Demon, Act Dragon, Act Hydra, Electromaz, Fire Wave, Gold Golem, Green Core, Mega Atlas, Waterspout, and Whirlwind [[gf1-88-1, gf2-64-5]]. Defeating Hidra enemies can yield the powerful Might Sword [[gf4-17-54]].
-
-From the landing zone, walk south and loop around the plateau hills to reach the entrance of the shrine structure [[gf1-88-1, gf2-64-5]]. Enter the door to the north, then pass through the subsequent inner door [[gf2-64-5]]. Proceed directly north through the corridor and speak to the old man standing inside [[gf2-64-5]]. This warp attendant restores the entire party to full health and offers to save your game free of charge [[gf3-29-11]]. 
-
-Once refreshed and saved, step through the doorway to the north [[gf2-64-5]]. Continue heading north across the elevated outdoor terrain, climb up the stone steps, and enter the grand doorway leading directly into the Fortress of Doom [[gf1-88-1, gf2-64-5]].
+Enemies on the island include Act Demon, Act Dragon, Act Hydra, Electromaz, Fire Wave, Gold Golem, Green Core, Mega Atlas, Waterspout and Whirlwind [[gf1-88-1, gf2-64-4]]. Hydras drop the Might Sword, so kill a few if you still lack one [[gf4-17-54]].
 
 ### Fortress of Doom
 
 🗺️ **Map:** [View Fortress Of Doom Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoom.png)
+
 🗺️ **Map:** [View Fortress Of Doom Ruins Map by FlyingArmor](https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoomRuins.png)
 
-The internal floor layout of the endgame Fortress of Doom is identical to the fortress explored during the game's prologue [[gf1-88-1]].
+#### Entrance and the first chests
 
-#### 1F — Entrance Hall
+1. Enter the door to the west and open the chest for a **Power Potion** (✅ Chest 1/12) [[gf-treasure-11-38, gf2-64-9]].
+2. Follow the path and enter the door to find three chests: left **Speed Potion** (✅ 2/12), middle **Mind Potion** (✅ 3/12), right **Great Potion** (✅ 4/12) [[gf-treasure-11-39, gf-treasure-11-40, gf-treasure-11-41, gf2-64-7]].
+3. Walk around to the east and go up the stairs. Open the chest for a **Spell Potion** (✅ 5/12), then go through the door [[gf-treasure-11-44, gf2-64-10]].
 
-Upon stepping into the ground floor entrance hall, ignore the central staircase for a moment and head through the door directly to the west [[gf-treasure-11-38, gf1-88-7, gf2-64-9]]. Inside this western chamber sits a treasure chest containing a **Power Potion** (✅ Item 1/12) [[gf-treasure-1-7, gf-treasure-11-38, gf1-88-7, gf2-3-13, gf2-64-9]]. Collect the potion, exit the room, and take the stairs leading down to the basement floor [[gf1-88-7, gf2-3-14]].
+#### Second floor rooms
 
-#### B1F — Basement Vault
+1. Head north and take the stairs up. Enter the door to the east and open the chest for a **Power Potion** (✅ 6/12) [[gf-treasure-11-38, gf2-64-9]].
+2. Enter the door to the north. Walk east and enter the door when you reach the end [[gf2-64-10]].
+3. Enter the door to the west and open the chest for a **Spell Potion** (✅ 7/12) [[gf-treasure-11-44, gf2-64-10]].
+4. Go up the stairs to the south [[gf2-64-10]].
 
-From the base of the western stairs, follow the corridor south, then turn east, and proceed north as soon as the path permits [[gf2-3-14]]. You will arrive at an intersection leading north to an enclosed vault containing three side-by-side treasure chests [[gf1-88-3, gf2-3-14, gf2-3-15, gf2-64-7]]. 
+#### Platforms and recovery panels
 
-Open the left chest to claim a **Speed Potion** (✅ Item 2/12) [[gf-treasure-1-5, gf-treasure-11-39, gf1-88-3, gf2-3-15, gf2-64-7]]. Open the middle chest to receive a **Mind Potion** (✅ Item 3/12) [[gf-treasure-1-4, gf-treasure-11-40, gf1-88-4, gf2-3-16, gf2-64-7]]. Finally, open the right chest to obtain a **Great Potion** (✅ Item 4/12) [[gf-treasure-1-6, gf-treasure-11-41, gf1-88-5, gf2-3-17, gf2-64-7]]. 
+1. Do not go up the steps yet. First walk around to the north and open the two chests for two **Miracles** (✅ 8/12 and 9/12) [[gf-treasure-11-49, gf2-64-13]].
+2. Go up the first steps. If you want, walk around and take the steps on that level to reach floor panels that restore HP and MP [[gf2-64-12]].
+3. Go up the second set of steps [[gf2-64-13]].
 
-After emptying all three chests, step out of the room, return to the hallway, and follow the eastern passage to find a staircase leading back up to the first floor [[gf1-88-3, gf2-3-20, gf2-64-10]].
+#### Glass bridge room
 
-#### 1F — Eastern Corridor
+1. Walk north and go up the flight of stairs. Enter the door but do not cross the bridge yet [[gf2-64-13]].
+2. Walk around the room and open the three chests for three **Miracles** (✅ 10/12, 11/12 and 12/12) [[gf-treasure-11-49, gf2-64-13]]. That empties all 12 chests [[gf2-3-7, ra-comments-51-27]].
+3. Cross the bridge and step on the warp pad. Cross another bridge and keep walking north until dialogue triggers [[gf2-64-13, gf2-3-26, gf2-3-27]].
 
-Ascend the stairs to arrive in an eastern room on the first floor [[gf1-88-6, gf2-3-20, gf2-64-10]]. Open the treasure chest in this room to collect a **Spell Potion** (✅ Item 5/12) [[gf-treasure-1-8, gf-treasure-11-44, gf1-88-6, gf2-3-20, gf2-64-10]]. Exit through the doorway to return to the central entrance hall [[gf1-88-6, gf2-3-20]]. Walk north through the main hall and ascend the wide staircase leading up to the second floor [[gf1-88-6, gf2-3-20]].
-
-#### 2F — Upper Corridor
-
-On the second floor, you are faced with a straightforward path featuring two enclosed side rooms [[gf1-88-7, gf2-64-9, gf2-64-10]]. Head east into the first enclosed room and open the chest inside to secure a **Power Potion** (✅ Item 6/12) [[gf-treasure-1-7, gf-treasure-11-38, gf1-88-7, gf2-64-9]]. 
-
-Step back out, follow the corridor north and west, and enter the second enclosed chamber [[gf1-88-7, gf2-64-10]]. Open the chest here to collect another **Spell Potion** (✅ Item 7/12) [[gf-treasure-1-8, gf-treasure-11-44, gf1-88-6, gf2-3-20, gf2-64-10]]. Exit this chamber and head south along the hallway to reach the stairs leading up to the third floor [[gf1-88-6, gf2-3-20, gf2-64-10]].
-
-#### 3F — Great Platform and Recovery Tiles
-
-Upon reaching the third floor, do not ascend the central platforms immediately [[gf1-88-10, gf2-64-13]]. Instead, navigate around the perimeter of the room to the northern back corner [[gf1-88-10, gf2-64-13]]. Here you will discover two treasure chests: open the left chest for a **Miracle** (✅ Item 8/12), and open the right chest for a second **Miracle** (✅ Item 9/12) [[gf-treasure-1-10, gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]].
-
-Return to the southern base of the room and climb the first ladder or steps onto the lower platform [[gf1-88-10, gf2-3-23, gf2-64-12]]. If your party is low on health or magic, follow the path on this level to reach a secluded chamber containing glowing floor panels that completely restore party HP and MP upon stepping on them [[gf2-3-23, gf2-64-12]]. 
-
-Once fully refreshed, return to the main platform area and climb the second ladder or flight of stairs to the top of the floor, entering the doorway to ascend to the fourth floor [[gf1-88-10, gf2-3-24, gf2-64-12, gf2-64-13]].
-
-#### 4F — Balcony and Glass Bridge
-
-Entering the fourth floor brings you to a hall with paths diverging around the perimeter [[gf2-3-25, gf2-64-13]]. Do not cross the central glass bridge yet [[gf2-64-13]]. Instead, walk all the way around the outer perimeter of the room to gather the final three treasure chests placed along the edges [[gf1-88-10, gf2-3-22, gf2-64-13]]. 
-
-Open each of the three chests scattered around the perimeter to collect a **Miracle** (✅ Item 10/12), a **Miracle** (✅ Item 11/12), and another **Miracle** (✅ Item 12/12) [[gf-treasure-1-10, gf-treasure-11-49, gf1-88-10, gf2-3-22, gf2-64-13]]. Opening these three chests concludes all 12 treasure chests inside the fortress [[gf2-3-7, gf2-3-10, gf4-20-9, ra-comments-51-27]].
-
-With every chest cleared, walk across the glass bridge to trigger story dialogue [[gf1-88-10, gf2-3-26, gf2-64-13]]. Step onto the glowing portal pad to be teleported across into the Sinistral sanctum [[gf2-3-27, gf2-64-13]].
+> [!TIP]
+> Heal fully after the dialogue, because walking forward again starts the battle with Gades [[gf2-3-29, gf2-64-14]].
 
 ### Gades (Doom Island)
 
-#### Boss Encounter: Gades
+Gades has 4200 HP and is weak to Thunder [[gf1-89-1]]. He uses only physical-type attacks against one character at a time: a normal attack, Destroy (a stronger version of it, roughly 200-300 damage), or Undead, which raises his attack power [[gf-boss-4-1, gf2-3-31, gf3-29-19, gf3-29-20]].
 
-Cross the northern bridge inside the inner sanctum to trigger dramatic dialogue before the battle begins [[gf2-3-29, gf2-3-30, gf2-64-13]]. Ensure the entire party is at full strength prior to stepping forward [[gf2-3-29, gf2-64-13]].
-
-Gades has 4,200 HP and is weak to Thunder [[gf1-89-1]]. Unlike other Sinistrals, Gades does not rely on magic attacks [[gf-boss-1-4]]. On each turn, he chooses between a standard physical attack, his devastating "Destroy" technique which inflicts 200 to 300 damage to a single party member, or "Undead", which drastically amplifies his Attack Power [[gf-boss-4-1, gf2-3-31, gf2-64-14, gf3-29-19, gf3-29-20]]. 
-
-To counter Gades, maintain every character's HP strictly above 300 so that no single ally falls victim to Destroy [[gf1-89-1]]. Whenever Gades boosts his strength with Undead, immediately counter by having the Hero cast Courage to increase party defense [[gf-boss-4-2, gf4-20-10]]. The Hero should cast Drain during the opening round, then attack physically alongside Aguro in all following turns [[gf1-89-1]]. Jerin should cast Trick on both fighters to maximize physical damage output, then dedicate her turns to casting Champion or Valor to heal whoever took damage [[gf-boss-4-3, gf1-89-1, gf2-64-14, gf3-29-19]]. If anyone falls in combat, have Jerin revive them immediately using Rally [[gf-boss-4-3]].
-
-After defeating Gades, fully restore party HP and MP using spells or items before proceeding north [[gf-boss-4-3, gf2-3-33, gf2-64-14]].
+- Keep everyone's HP above 300 so Destroy cannot kill anyone. Jerin's Champion is good for healing [[gf1-89-1, gf4-20-10]].
+- When he uses Undead, have the Hero cast Courage to raise defense [[gf-boss-4-2, gf4-20-10]].
+- Hero and Aguro attack. Jerin casts Trick on them, heals with Champion or Valor, or revives with Rally if someone falls [[gf-boss-4-3, gf2-64-14]].
+- Restore HP, and MP if needed, after the fight [[gf-boss-4-3]].
 
 ### Amon (Doom Island)
 
-#### Boss Encounter: Amon
+Walking further triggers the Amon fight [[gf2-64-14]]. He has 4000 HP and is weak to Fire, but the guide advises not relying on that [[gf1-89-3, gf1-89-4]]. He casts Sunder (about 100 damage to the whole party) and Chaos (confusion). Mirror blocks both [[gf-boss-4-4, gf3-29-21]].
 
-Advancing north past the site of Gades's defeat instantly initiates the battle against Amon [[gf2-3-33, gf2-64-14]].
-
-Amon possesses 4,000 HP and possesses an elemental weakness to Fire [[gf1-89-3]]. Rather than attempting to exploit his Fire vulnerability, defense is your priority [[gf1-89-4]]. Amon assaults the entire party using powerful magical attacks such as Sunder, which deals around 100 damage to everyone, and casts Chaos, which can confuse party members and cause fighters to attack each other [[gf-boss-4-4, gf2-3-34, gf2-64-15, gf3-29-21]]. 
-
-Fortunately, both Sunder and Chaos can be completely neutralized and reflected back at Amon by using the Mirror spell [[gf-boss-4-4, gf1-89-4]]. Have Jerin continuously cast Mirror on every character in a steady cycle every single round, even on allies who have not yet lost their barrier [[gf1-89-4]]. This perpetual cycle ensures that Amon's offensive spells never penetrate your defenses [[gf1-89-4]]. 
-
-Meanwhile, the Hero should cast Drain on the first turn to soften Amon's defenses, then attack every subsequent turn alongside Aguro [[gf1-89-4, gf2-64-15, gf4-20-12]]. If Jerin has free turns between buff cycles, her Vulcan spell can deal respectable offensive damage [[gf3-29-21]]. If any character is struck by confusion, instantly cure them using a Shriek [[gf-boss-4-5]].
+- Jerin casts Mirror every round on each character in a cycle, even on those who still have it, so no spell gets through [[gf1-89-4, gf4-20-10]].
+- The Hero casts Drain first and then attacks with Aguro every round [[gf1-89-4]].
+- If someone is confused, use a Shriek on that character. If Jerin needs to keep casting Mirror, the Hero can heal with Valor [[gf-boss-4-5, gf-boss-4-4]].
+- If someone loses Mirror and gets hit, the Hero can heal them with Champion [[gf4-20-10]].
 
 > [!TIP]
-> After defeating Amon, you have your final opportunity to turn around, exit the Fortress of Doom, and save your progress at the shrine [[gf-boss-4-6]]. Once you engage and defeat Daos in the next chamber, you will be permanently locked into the endgame sequence [[gf-boss-4-6, gf-boss-4-10]].
-
-Before stepping forward to face Daos, fully restore everyone's HP and MP with Miracles [[gf1-90-4]]. Equip Jerin with her original, low-power Elven Bow now so that she is prepared for the final battle's confusion mechanics [[gf-boss-4-13, gf1-90-4]].
+> After beating Amon you can still walk away from the fortress to save, but not after beating Daos [[gf-boss-4-6]]. Heal everyone after Amon [[gf2-64-15]].
 
 ### Daos (Doom Island)
 
-#### Boss Encounter: Daos
+Daos has 4200 HP (another guide says around 4400) and no elemental weakness [[gf1-90-1, gf-boss-4-9, gf1-5-1]]. He casts party-wide spells such as Flood, Glacier and Thunder, plus Dread and Amnesia, which paralyzes. Mirror reflects them [[gf-boss-4-7, gf2-3-40, gf3-29-22]]. When he is low on HP he casts Stronger to heal, which costs him a turn [[gf-boss-4-8]].
 
-Stepping forward into the throne area initiates the confrontation against Daos [[gf2-3-39, gf2-64-13]].
-
-Daos has approximately 4,200 to 4,400 HP and possesses no elemental weaknesses [[gf-boss-4-9, gf1-90-1]]. Daos primarily attacks using party-hitting spells such as Flood, Vulcan, Glacier, and Thunder, dealing around 100 HP damage per cast, while also throwing status ailments such as Dread and Amnesia, which inflicts paralysis [[gf-boss-4-7, gf2-3-40, gf3-29-22]]. When Daos drops low on health, he will cast Stronger to restore his HP; treat this as an opening to deal sustained damage [[gf-boss-4-8]].
-
-The strategy against Daos mirrors the battle against Amon [[gf4-20-12]]. Have Jerin continuously cast and cycle Mirror across party members to reflect Daos's elemental and status magic right back at him [[gf-boss-4-7, gf1-90-4, gf4-20-12]]. Hero and Aguro should attack relentlessly with physical blows [[gf1-90-4, gf4-20-12]]. Defeating Daos awards 65,000 EXP and 0 GP [[gf4-26-13]].
+Use exactly the same strategy as against Amon [[gf4-20-12]]. Jerin cycles Mirror while Hero and Aguro attack. Be ready to cure paralysis [[gf2-64-14, gf4-20-12]]. Defeating him gives 65000 XP and 0 GP [[gf4-26-13]].
 
 > [!CAUTION]
-> **Point of No Return:** Defeating Daos permanently seals your path and prevents leaving the Fortress of Doom or healing before facing Guard Daos [[gf-boss-4-6, gf-boss-4-10]]. Fully replenish HP and MP before delivering the finishing blow to Daos [[gf-boss-4-10]].
+> **Point of No Return:** After Daos you cannot leave the fortress or heal before Guard Daos, the final boss [[gf-boss-4-6, gf-boss-4-10]]. Before you finish Daos, make sure the party has high HP and MP, and use Miracles on everyone if needed [[gf-boss-4-10, gf1-90-4]]. Have Jerin's Elven Bow equipped [[gf-boss-4-13]].
 
 ### Guard Daos
 
-#### Final Boss Encounter: Guard Daos
+After Daos you go directly into the final battle. Lufia joins you, and you cannot change her equipment [[gf2-64-17, gf-boss-4-14]].
 
-Immediately following Daos's defeat, the story transitions directly into the final battle without any chance to pause, heal, or enter menus [[gf-boss-4-10, gf2-64-17]]. Lufia rejoins your active party for this supreme challenge, but you cannot alter her equipment before the battle begins [[gf-boss-4-14, gf3-29-23]].
+Guard Daos has 6500 HP and is weak to Thunder [[gf1-90-3]]. Each turn he casts either Flood or Figual. Figual hits the whole party and either misses or confuses. Mirror blocks both [[gf-boss-4-11, gf-boss-4-12]]. A commenter says the confuse attack is deflected by casting Mirror on the entire party [[ra-comments-36-1]].
+
+- **Jerin:** She casts Mirror on herself first, since a confused Jerin cannot cast it on others. Then she casts it on everyone else, even confused characters [[gf-boss-4-12, gf1-90-4, gf4-20-10]].
+- **Lufia:** She casts Thunder, up to 500 damage with the Flash Ring. Aguro and the Hero attack [[gf-boss-4-15, gf1-90-4]].
+- **Confusion:** For one confused character, use a Shriek. If many are confused and HP is fine, have Jerin attack the party with her Elven Bow to cure them all at once [[gf-boss-4-13, gf1-90-4]].
+- **Healing:** Use Miracles if needed. They also revive [[gf4-20-10]].
+- **Alternative:** Another guide has Lufia and Jerin casting Boost while Hero and Aguro attack [[gf2-64-17]].
+
+Keep this up until about 6600 damage has been dealt. Then Guard Daos falls and the game is beaten [[gf-boss-4-16]].
 
 
 > [!ACHIEVEMENT]
@@ -5071,41 +5041,22 @@ Immediately following Daos's defeat, the story transitions directly into the fin
 > *End Daos' reign of terror and bring back peace to the world*
 
 
-Guard Daos is the true final boss of the game, possessing 6,500 HP (requiring roughly 6,600 total damage to defeat) and a critical weakness to Thunder [[gf-boss-4-16, gf1-90-3]]. Guard Daos yields 0 EXP and 0 GP upon defeat [[gf4-26-14]].
-
-On every turn, Guard Daos performs one of only two actions: casting the devastating elemental spell Flood, or executing Figual, a party-wide attack that attempts to inflict confusion on all party members [[gf-boss-4-11, gf-boss-4-12, gf1-90-4]]. Both Flood and Figual are blocked and deflected by the Mirror spell [[gf-boss-4-12, gf1-90-4, ra-comments-36-1]].
-
-Jerin must maintain Mirror on as many allies as possible, prioritizing herself first so she cannot be disabled by confusion [[gf-boss-4-12, gf1-90-4]]. Jerin should also maintain Mirror on the Hero, allowing him to cast Valor if group healing becomes necessary [[gf1-90-4]]. If multiple party members become confused at once, command Jerin to target your own party with her equipped Elven Bow; because its base damage is low, the multi-target strike will safely snap everyone out of confusion simultaneously without endangering their HP [[gf-boss-4-13, gf1-90-4]]. If only a single ally is confused, use a Shriek to restore their senses [[gf1-90-4]].
-
-Offensively, if Lufia is wearing the Flash Ring from Glasdar Tower, her Thunder spell is your primary weapon, inflicting upwards of 500 points of damage per cast against Guard Daos's elemental weakness [[gf-boss-4-15, gf3-29-23]]. Aguro and the Hero should attack every round with their strongest weapons, while Jerin supports with Mirror, Boost, or emergency healing [[gf-boss-4-15, gf1-90-4, gf2-64-17]]. 
-
-Maintain this defensive barrier and relentless offensive pressure until Guard Daos collapses, vanquishing the Sinistrals, earning **One-Hundred Years**, and restoring lasting peace to the world [[gf-boss-4-16, gf2-64-17]].
-
 > [!IMPORTANT]
 > ### Chapter 18 Cumulative 100% Checkpoint
-> - **RetroAchievements Unlocked:** 47 / 47 (343 / 343 points)
-> - **Treasure Chests:** 637 / 637
+> - **Treasure Chests:** 637 / 637 [[ra-comments-51-27]]
 > - **Dragon Eggs:** 24 / 24
-> 
-> Collecting all 12 treasure chests inside the Fortress of Doom completes the worldwide tally of 637 treasure chests [[gf2-3-7, gf2-64-5, ra-comments-51-27]].
+> - **RetroAchievements Unlocked:** 47 / 47 (343 / 343 points)
 
 ### Chapter Checklist
 
-- [ ] Flew to Doom Island and landed on the southern circle [[gf2-64-5]].
-- [ ] Rested and saved at the Doom Island Warp Shrine attendant [[gf2-64-5, gf3-29-11]].
-- [ ] Entered the Fortress of Doom and collected the Power Potion on 1F west [[gf-treasure-11-38, gf1-88-7]].
-- [ ] Visited B1F and looted the Speed Potion, Mind Potion, and Great Potion [[gf-treasure-11-39, gf-treasure-11-40, gf-treasure-11-41, gf1-88-3, gf1-88-4, gf1-88-5]].
-- [ ] Ascended to 1F east and collected the Spell Potion [[gf-treasure-11-44, gf1-88-6]].
-- [ ] Explored 2F to retrieve the Power Potion and Spell Potion [[gf-treasure-11-38, gf-treasure-11-44, gf1-88-7, gf1-88-6]].
-- [ ] Explored 3F to collect two Miracles behind the main platform [[gf-treasure-11-49, gf1-88-10]].
-- [ ] Restored HP and MP on the 3F recovery floor panels [[gf2-3-23, gf2-64-12]].
-- [ ] Circled 4F to collect three Miracles around the perimeter, completing all 12 chests [[gf-treasure-11-49, gf1-88-10, gf2-3-7, ra-comments-51-27]].
-- [ ] Defeated Gades on the sanctum bridge by managing Destroy and countering Undead with Courage [[gf-boss-4-1, gf-boss-4-2, gf1-89-1]].
-- [ ] Defeated Amon by using Jerin's Mirror cycle to reflect Sunder and Chaos [[gf-boss-4-4, gf1-89-4]].
-- [ ] Equipped Jerin with the Elven Bow and topped off party HP/MP before Daos [[gf-boss-4-10, gf-boss-4-13, gf1-90-4]].
-- [ ] Defeated Daos while maintaining full party health for the consecutive transition [[gf-boss-4-7, gf-boss-4-10, gf1-90-1]].
-- [ ] Welcomed Lufia back with the Flash Ring and sustained Mirror against Flood and Figual [[gf-boss-4-12, gf-boss-4-14, gf-boss-4-15, gf1-90-4]].
-- [ ] Destroyed Guard Daos with Thunder and physical strikes to trigger the ending and unlock **One-Hundred Years** [[gf-boss-4-16, gf1-90-3, gf2-64-17]].
+- [ ] Landed on Doom Island, healed and saved with the old man
+- [ ] Equipped the Might Sword if available, and Jerin's Elven Bow
+- [ ] Opened all 12 chests (2 Power Potions, Speed, Mind, Great, 2 Spell Potions, 5 Miracles)
+- [ ] Beat Gades (Courage against Undead)
+- [ ] Beat Amon (Mirror cycle)
+- [ ] Healed fully before finishing Daos
+- [ ] Beat Daos
+- [ ] Beat Guard Daos and unlocked **One-Hundred Years**
 
 ---
 

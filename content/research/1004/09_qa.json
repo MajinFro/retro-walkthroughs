@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T02:16:43.244Z",
-  "inputs": "51d4e562cf13f51f",
+  "generated_at": "2026-10-27T01:36:23.743Z",
+  "inputs": "ca78c847e67da803",
   "metrics": {
     "chapters_expected": 19,
     "chapters_present": 19,
-    "paragraphs": 1358,
-    "paragraphs_cited": 1358,
-    "paragraphs_plan_logic": 28,
-    "citations": 3955,
+    "paragraphs": 1352,
+    "paragraphs_cited": 1352,
+    "paragraphs_plan_logic": 29,
+    "citations": 3758,
     "citations_broken": 0,
     "missables": 1,
     "missables_warned": 1,
@@ -17,16 +17,18 @@
     "areas_mentioned": 130,
     "code_blocks": 2,
     "code_blocks_verbatim": 2,
-    "unable_to_verify": 10,
+    "unable_to_verify": 0,
     "achievements_total": 47,
     "achievements_placed_correctly": 47,
     "achievements_supported": 47,
-    "words": 49068,
+    "words": 47963,
     "chapters_with_checkpoints": 18,
     "maps_available": 94,
-    "map_links_present": 160,
+    "map_links_present": 159,
     "sparse_areas": 0
   },
   "errors": [],
-  "warnings": []
+  "warnings": [
+    "ch1: visual map \"Fortress Of Doom Ruins Map\" covers this chapter but is not linked (https://www.vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoomRuins.png)"
+  ]
 }
