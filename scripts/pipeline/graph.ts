@@ -48,7 +48,7 @@ export interface Roadmap {
    * collectibles: for a counter whose items the guides number ("Gold Skulltula [012]"), the numbers this
    * chapter collects, e.g. {"Gold Skulltulas": [8, 9, 10]}; rw:qa warns when a chapter routes to another's.
    */
-  chapters: { n: number; title: string; game_chapter?: number; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number>; collectibles?: Record<string, number[]> }[];
+  chapters: { n: number; title: string; game_chapter?: number; areas: string[]; achievement_ids: number[]; fact_ids: string[]; notes?: string; counters?: Record<string, number>; collectibles?: Record<string, number[]>; no_optional_chests?: boolean }[];
   unverifiable_achievement_ids?: number[];
   /**
    * Questions no source answers (e.g. "are in-game codes allowed during the V.Hard run?"). Every packet

@@ -731,6 +731,8 @@ export function checkFact(f: Fact, ctx: FactCheckContext): { problems: string[];
   const problems: string[] = [];
   const fid = f.id ?? "";
   if (!/^[a-z0-9][a-z0-9\-]*-\d+-\d+$/.test(fid)) problems.push(`bad id format (want <source>-<chunk n>-<k>)`);
+  // models invent "tactic" for boss counter-strategies; the schema calls them tips (Final Fantasy 1449: 25 rejects)
+  if (f.type === ("tactic" as string)) f.type = "tip";
   if (!FACT_TYPES.has(f.type)) problems.push(`unknown type "${f.type}"`);
   if (!f.text || !f.subject || !f.predicate) problems.push("missing text/subject/predicate");
   for (const a of f.achievement_ids ?? []) if (!ctx.achIds.has(Number(a))) problems.push(`unknown achievement id ${a}`);

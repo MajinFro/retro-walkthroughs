@@ -264,6 +264,12 @@ function audit(file: string, chapterN: number | null) {
   if (!chapterN) return;
   const ch = roadmap.chapters.find((c) => c.n === chapterN)!;
 
+  // a chapter of a no-chest challenge run must not tell the player to take optional chests (Final Fantasy 1449: 3 critical lockouts)
+  if (ch.no_optional_chests) {
+    const take = lines.filter((l) => /^\s*\|.*\|\s*\**TAKE\**\s*\|/.test(l) || /\bopen (them|all|every)\b.*\bchests?\b/i.test(l));
+    if (take.length) warnings.push(`${tag}: roadmap marks this chapter no_optional_chests but ${take.length} line(s) tell the player to take/open chests, e.g. "${take[0].trim().slice(0, 80)}"`);
+  }
+
   // unverifiable achievements must say so near the placeholder
   for (const aid of ch.achievement_ids) {
     if (!achLines.has(aid)) continue;
