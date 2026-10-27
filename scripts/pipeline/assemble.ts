@@ -100,9 +100,11 @@ for (const c of roadmap.chapters) {
 L.push("");
 
 // 3. Playthrough planning
-L.push("## Playthrough Planning", "", `**Playthroughs required:** ${roadmap.playthroughs}`, "", roadmap.playthrough_notes, "");
+// Route-wide citations go at the end of the notes paragraph, not on a line of their own
+// (a bare `[[...]]` line renders as a lone citation badge).
+const routeCite = roadmap.fact_ids?.length ? ` [[${roadmap.fact_ids.join(",")}]]` : "";
+L.push("## Playthrough Planning", "", `**Playthroughs required:** ${roadmap.playthroughs}`, "", `${roadmap.playthrough_notes}${routeCite}`, "");
 if (roadmap.settings_notes) L.push(`**Settings:** ${roadmap.settings_notes}`, "");
-if (roadmap.fact_ids?.length) L.push(`[[${roadmap.fact_ids.join(",")}]]`, "");
 
 // 3b. True 100% Completion Criteria
 if (roadmap.true_100_criteria) {
