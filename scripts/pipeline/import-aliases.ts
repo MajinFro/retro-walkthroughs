@@ -12,7 +12,7 @@
  * Existing entries are kept; a name that already belongs to another canonical name is skipped and listed.
  */
 import path from "node:path";
-import { type AchievementsFile, type SourceEntry, exists, readUsedSources, flag, gameIdArg, norm, paths, readJson, readJsonOr, readText, writeJson } from "./lib.ts";
+import { type AchievementsFile, exists, readUsedSources, flag, gameIdArg, norm, paths, readJson, readJsonOr, readText, writeJson } from "./lib.ts";
 
 const id = gameIdArg();
 const P = paths(id);

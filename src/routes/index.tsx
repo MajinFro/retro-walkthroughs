@@ -23,7 +23,7 @@ function Index() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {recentGames.map(game => (
-          <Link key={game.id} to={`/walkthroughs/${game.id}`} className="group block">
+          <Link key={game.id} to="/walkthroughs/$gameId" params={{ gameId: String(game.id) }} className="group block">
             <div className="bg-slate-900/80 p-5 rounded-2xl border border-slate-700/50 hover:border-indigo-500/80 transition-all duration-300 hover:shadow-[0_0_25px_rgba(99,102,241,0.25)] hover:-translate-y-1 h-full flex flex-col">
               <div className="w-full h-48 bg-slate-950 rounded-xl mb-5 overflow-hidden flex items-center justify-center relative shadow-inner">
                 {game.boxArt ? (

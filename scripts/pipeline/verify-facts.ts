@@ -18,7 +18,6 @@
 import path from "node:path";
 import { buildPlanDigest } from "./plan-prep.ts";
 import {
-  type Chunk,
   type Evidence,
   type Fact,
   type FactStatus,

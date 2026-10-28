@@ -10,7 +10,6 @@ import fs from "node:fs";
 import path from "node:path";
 import {
   type Chunk,
-  type SourceEntry,
   type VerifiedFact,
   chapterInputFiles,
   chunkProgress,

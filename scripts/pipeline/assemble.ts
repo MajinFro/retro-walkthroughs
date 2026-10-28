@@ -15,7 +15,6 @@ import {
   type AchievementsFile,
   CITE_RE,
   MERMAID_RE,
-  type SourceEntry,
   type VerifiedFact,
   chapterFile,
   flag,

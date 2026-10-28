@@ -5,7 +5,6 @@
  *
  * Prints which stages are complete and the exact next action.
  */
-import fs from "node:fs";
 import path from "node:path";
 import { type Graph, type Roadmap, usableFactIds, validateGraph, validateRoadmap } from "./graph.ts";
 import {
@@ -27,7 +26,6 @@ import {
   gameIdArg,
   loadFacts,
   loadSkipped,
-  nextBatch,
   paths,
   qaInputFiles,
   verifyInputFiles,

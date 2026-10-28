@@ -127,7 +127,7 @@ ${reviewerSkill}
     console.log(`Found ${achievements.length} achievements for ${gameTitle}.`);
 
     const outPath = path.join(process.cwd(), 'content', 'walkthroughs', `${gameId}.md`);
-    let outContent = `---\ntitle: ${gameTitle}\ngame_id: ${gameId}\nauthor: API-Orchestrator\n---\n\n# ${gameTitle} - Walkthrough\n\n`;
+    // (initial header content removed: unused)
     // Resuming from chunk 35, so do not wipe the file
     // fs.writeFileSync(outPath, outContent);
 

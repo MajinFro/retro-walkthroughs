@@ -15,7 +15,6 @@ import {
   type AchievementsFile,
   type Chunk,
   type SourceEntry,
-  exists,
   type VerifiedFact,
   canon,
   chapterFile,

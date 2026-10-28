@@ -17,7 +17,6 @@ import {
   loadFacts,
   loadSkipped,
   paths,
-  readJson,
   readJsonl,
   readText,
   requireFile,
