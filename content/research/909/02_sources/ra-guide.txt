@@ -1,0 +1,493 @@
+RetroAchievements achievement guide: Final Fantasy: Mystic Quest
+Source: https://github.com/RetroAchievements/guides/wiki/Final-Fantasy:-Mystic-Quest
+
+# Synopsis
+|   |   |
+|:--|:--|
+|Set Difficulty|5/10|
+|Approximate time to master|15-20 Hours|
+|Minimum numbers of playthroughs needed|1-2|
+|Number of missable achievements|8|
+|Does difficulty affect achievements?|Not applicable|
+|Hardest achievement of the set|Illiterate [achievement 449400] (25 points)|
+|Set Developers|UNHChabo (https://retroachievements.org/user/UNHchabo) suspect15 (https://retroachievements.org/user/suspect15)
+
+# Introduction
+Final Fantasy: Mystic Quest is a role-playing video game developed and published by Square for the SNES. Originally released in North America in 1992, Final Fantasy: Mystic Quest was meant to serve as "Entry-Level Role Playing Adventure" and is heavily simplified compared to it's predecessors. Such simplifications includes a reduced two character party system, the ability to have the 2nd character act automatically, and the ability to save anywhere and retry battles.
+
+The game itself focuses on a young man named Benjamin who meets a mysterious old man as his home is destroyed by an earthquake. He must then fulfill his destiny by traveling the world to collect the four crystals and bring light back to the world. Along the way he will meet a variety of allies who will help him on his quest.
+
+# General Tips
+
+ - Brown chests reset and can be looted again by exiting and re-entering an area. This allows you to always keep a full stock of healing items on hand. Worth noting is that all optional chest achievements must be completed without leaving the area.
+ - Monsters also respawn upon exiting and re-entering and can be use to grind levels if needed.
+ - Red Chests contain equipment upgrades and spells. Be sure to save before opening if going for the Illiterate [achievement 449400] achievement and not referencing a guide.
+ - In general, it's worth picking up all equipment upgrades as you progress as they provide not only a boost to your stats but protection against status ailments.
+ - The "Defend" command causes the party member defending to take the attacks directed at the character they are covering. This can be useful to protect you ally on a turn they are setting up to heal to avoid wiping. 
+ - Life magic both revives a party member but also provides a full heal regardless of status. This is generally the better choice for single target healing.
+ - Weapons also have overworld interactions depending on the one equipped. Swords can be used to hit swtiches, axes can cut trees, claws can be used to climb some walls, and bombs can be used to destroy breakable walls.
+ - Only Benjamin will gain experience throughout the quest and allies will join and remain at fixed levels. It's still usually worth progressing to find your next ally if you don't have one before clearing optional battlefields. 
+ 
+# Illiterate Achievement
+
+Illiterate (25) [achievement 449400]
+_Defeat the Dark King without having learned any spells. **(Missable)**_
+
+Of all the missable achievements this is the only one that spans the entire game and limits your abilities within the game. Magic in Final Fantasy: Mystic Quest is extremely strong and trivializes most of the fights (assuming you keep an adequate supply of seeds on hand). Playing without magic provides an additional challenge and changes the strategy needed for some fights. In particular you will be relying more heavily on the "Defend" command as you are reliant on your allies to heal in battle with their magic supply. 
+
+This achievement also interferes with The Bright Side (10) [achievement 449365] which is also missable as you get locked out of the Heal Spell after obtaining the second crystal. You can either do two playthroughs (1 100% and 1 without magic) or you can make an extra save before getting the Heal Spell and revert back once you have all the white magic obtained. 
+
+# Walkthrough (Progression/Missables)
+
+The following sections will a rough guide to the game including where to go next and will contain some spoilers. Available rewards and missable achievements will be listed at the top of each section for easy review. 
+
+## Part 1 - The Crystal of Earth
+Available Equipment:
+* Steel Sword - Starting equipment
+* Axe - Given by Kaeli upon clearing Alive Forest
+* Bomb - Given by Tristam in the Bone Dungeon
+* Steel Armor - Starting equipment
+* Steel Shield **(Missable)** - Found in a chest in Bone Dungeon B1 (Can no longer be obtained after getting Jumbo Bombs in the next section)
+* Charm - Obtained from a Battlefield west of the Sand Temple
+
+Available Spells:
+* Cure - Found in a chest in Foresta
+* Quake - Found in a chest in Bone Dungeon B2
+* Fire - Found in a chest in Focus Tower 2F
+
+Missable Achievements: No Grinding Allowed (10) [achievement 8133], Bone Collector (10) [achievement 449394]
+
+### Hill of Destiny
+You start your adventure on the Hill of Destiny. This area is linear and just consists of some exposition and a boss fight against a Behemoth. Not much to do here besides attack until it's dead and move on.
+
+### Level Forest
+Again not much to do since you don't have an axe to clear the trees. Read the story and keep moving.
+
+### Foresta
+Here you'll meet your first ally, Kaeli. She comes equipped with the axe we need to progress through the forest as well as Life magic. The Cure magic is available in one of the houses if you so choose.
+
+She Talks to Trees... Then Cuts Them Down (2) [achievement 7531]
+_Be joined by Kaeli._
+
+### Level Forest
+Progress through the forest and defeat the Minotaur at the end (Try the Life spell). Avoid extra encounters to avoid over-leveling if you are going for No Grinding Allowed (10) [achievement 8133]. Upon finishing the fight, Kaeli will leave the party and gift you her axe. You can now cut down trees. It may be worth returning to Foresta at this time and farming some cure potions for the next dungeon.
+
+### Sand Temple
+Just some more plot. You will be joined by Tristam at this point as well. He is equipped with bombs and has access to Life magic.
+ 
+
+But Isolde is Nowhere to be Found (3) [achievement 7534]
+_Be joined by Tristam._
+
+### Battlefield
+The Battlefield west of the Sand Temple provides you with the Charm equipment which provides a small defense boost. Skip this and return later if you are going for No Grinding Allowed (10) [achievement 8133]
+
+Battlefield Tourist (3) [achievement 7512]
+_Clear out a battlefield._
+
+### Bone Dungeon
+Your first major dungeon and home of the Crystal of Earth. This dungeon is relatively straight forward. Half way through you will be given access to bombs from Tristam. As in the prior areas, avoid extra encounters if you are going for No Grinding Allowed (10) [achievement 8133]. 
+
+Collecting all chests inside the Bone Dungeon will grant the following acheivement. Make sure you pick up the Steel Armor on your first run through as well as it becomes missable once you get the next level of bombs. There is the Quake spell in one of the chests so either reset after getting the achievement or make sure you get the armor and come back later for the rest.
+
+Bone Collector (10) [achievement 449394]
+_Open all optional treasure chests in the Bone Dungeon. **(Missable)**_
+
+Defeating the boss of the area, Flamerus Rex, will grant you the Sand Coin and the Crystal of Earth restoring life to the region. You will also be given the Elixir to heal Kaili. Beating the boss under level four is required for another missable achievement. This is the only level cap achievement in the set so you are free to grind and clear Battlefields after this. 
+
+But What About the Dragon Claw? (3) [achievement 449394]
+_Obtain the Sand Coin._
+
+No Grinding Allowed (10) [achievement 8133]
+_Defeat Flamerus Rex before reaching level 5. **(Missable)**_
+
+### Foresta
+You're alone again. Return the Elixir to Kaeli and continue on.
+
+### Focus Tower
+This tower serves as the main hub that connects all the regions in the game. You will receive coins in your travels that will unlock the doors to new regions (Like the Sand Coin from the Bone Dungeon). The Sand Coin will let you travel up the tower to the next area. During this visit you can collect the Fire Spell from a chest. 
+
+## Part 2 - The Crystal of Water
+Available Equipment:
+* Knight's Sword - Found in a chest in Ice Pyramid B1
+* Cat Claw - Given by Phoebe in the Wintry Cave
+* Jumbo Bomb - Given by Phoebe in Falls Basin
+* Noble Armor - Found in a chest in Ice Pyramid 4F
+* Venus Shield - Found in a chest in Focus Tower 2F
+* Steel Helm - Bought in Aquaria
+* Magic Ring - Obtained from a Battlefield south of Aquaria
+
+Available Spells:
+* Heal **(Missable)** - Found in a chest in Falls Basin (This area becomes unavailable after clearing the Ice Pyramid)
+* Exit - Obtained from a Battlefield north of Libra Temple
+* Blizzard - Found in a chest in Focus Tower 2F
+
+Missable Achievements: Never Saw It Coming (10) [achievement 449391], The Bright Side (10) [achievement 449365]
+
+### Libra Temple
+Here you'll meet your next ally, Phoebe. She comes equipped with the Cat Claw and a larger variety of magic then your previous allies. There is a strange symbol on the floor but you can't currently do anything with it. This would be a good time to clear out the surrounding Battlefields and net yourself the Magic Ring. 
+
+She Predates 'Friends' by Two Years (4) [achievement 7547]
+_Be joined by Phoebe._
+
+### Aquaria
+The town here is completely frozen over since the disappearance of the Crystal of Water. Here you will be directed to the next dungeon of the game in order to find a crest. You can buy the Steel Helm while you are here.
+
+### Wintry Cave
+While progressing through the cave you will fall to the bottom floor and Phoebe will give you the Cat Claw. Claws can be used to climb the textured walls you see throughout dungeons going forward. Upon reaching the end of the dungeon you will find and fight the Squidite and receive the Libra Crest you came here for. These crests can be used to teleport by stepping on a tile with the same symbol. 
+
+Captain Nemo (5) [achievement 8512]
+_Defeat the Squidite._
+
+### Libra Temple/Life Temple
+Returning to the temple and stepping on the symbol here will now let you teleport to the Life Temple. Here you will some Wakewater to take back to Aquaria. 
+
+If you walk outside of the Life Temple you can get another achievement. 
+
+Hope You're Not Afraid of Heights! (1) [achievement 8514]
+_Stand outside the Life Temple._
+
+### Aquaria
+Here you will use the Wakewater on the tree in the center of town but it has little effect. 
+
+### Falls Basin
+This dungeon consists of a small pillar moving puzzle. It is also home to the Heal Spell and where you will receive the Jumbo Bomb upgrade upon clearing the dungeon. (**Missable: If you haven't gotten the Steel Shield from the Bone Dungeon you will no longer be able to after getting the Jumbo Bombs**)
+
+Beating the boss of Falls Basin will net you the following
+
+An Arctic Specialty (5) [achievement 8586]
+_Defeat the Snow Crab._
+
+Fun fact: This area crashes on earlier revisions of the game on certain hardware due to an issue with the music track. As a kid I had to beat this game by saving a resetting the console after every fight.
+
+### Ice Pyramid
+The Ice Pyramid serves as the home of the Crystal of Water. You can activate the switches within the statues by using your sword and stabbing them. You'll also note that the enemies in this dungeon are invisible. This is fixed by grabbing the Magic Mirror from a chest. If you are going for all the achievements you'll want to avoid grabbing the Magic Mirror until you've beaten the boss of the dungeon. Make sure you grab the two equipment upgrades on the way to make your time here easier. 
+
+Beating the boss here will grant you the Crystal of Water and the River Coin to continue progressing through the Focus Tower. If you beat the boss without having grabbed the Magic Mirror you will be granted another achievement. **(Missable: Beating the boss here will lock you out of Falls Basin and obtaining the Heal Spell. Make a backup here if you are trying to avoid a full 2nd playthough)**
+
+Let It Flow (5) [achievement 8601]
+_Obtain the River Coin._
+
+Never Saw It Coming (10) [achievement 449391]
+_Defeat the Ice Golem without the Magic Mirror._
+
+You are now free to collect all the treasures as you are leaving the dungeon as there are no spells obtainable here. 
+
+Narcissus (3) [achievement 8591]
+_Obtain the Magic Mirror._
+
+Fridge Raider (10) [achievement 449395]
+_Open all optional treasure chests in the Ice Pyramid._
+
+### Aquaria
+There world is now no longer covered in ice and snow. Returning to Aquaria you will meet with Spencer and be given the Venus Key.
+
+### Focus Tower
+The River Coin you received in the Ice Pyramid will allow you to continue through the tower and into the next region of the game. You can also get both the Venus Shield and the Blizzard Spell during the visit. 
+
+## Part 3 - The Crystal of Fire
+Available Equipment:
+* Battle Axe - Bought in Fireburg
+* Charm Claw - Found in a chest in the Mine
+* Mega Grenade - Found in a house in Fireburg
+* Moon Helm - Found in  chest in Lava Dome
+
+Available Spells:
+* Life - Found in a chest in Lava Dome
+* Aero - Found in a chest in Doom Castle B2
+* Thunder - Found in Battlefield south of the Mine
+* White - Found in a chest in the Volcano
+
+### Fireburg
+Here you'll get your last new ally, Reuben. Your goal is to get into the house in the center of town to get the final bomb upgrade, Mega Grenades. To do this you'll need a Multi-Key given by Tristam at the hotel. You can also get the Battle Axe by buying it in one of the houses here. If you listen to the band in hotel here you can also get another achievement. 
+
+Hold the Sauerkraut (5) [achievement 8607]
+_Be joined by Reuben._
+
+Rock 'n' Roll (1) [achievement 8607]
+_Dance to a rockin' beat._
+
+### Mine
+This area contains a lot of one way sections with the conveyors only moving one direction as do the elevators spread throughout. You can find the Charm Claw in a cave near the top of the area. Upon getting to the end and beating the boss, you are able to bomb the boulder trapping Reuben's father and allow access to the later areas. 
+
+Got to Word Your Wish Just Right (5) [achievement 8793]
+_Defeat the Jinn._
+
+Fun fact: This area also uses the music track found in Falls Basin and is also prone to freezing on older revisions. 
+
+### Sealed Temple
+Assuming you've been clearing Battlefield as you go you should have gotten the Gemini Crest. Using this crest you can get the chests here and unlock another achievement.
+
+Breaking the Seal (1) [achievement 8795]
+_Pick up the treasure from the Wintry Temple._
+
+### Volcano
+Another dungeon with poor visibility and invisible enemies. This can be remedied by finding the Mask within the dungeon. The White Spell can also be found in a chest here near the entrance.
+
+See Through the Smoke (2) [achievement 8840]
+_Obtain the Gas Mask._
+
+Perseus (5) [achievement 8859]
+_Defeat Medusa._
+
+### Lava Dome
+The Lava Dome is the last dungeon in the region and home to the Crystal of Fire. The missable achievement here requires you to beat the dungeon without using any magic except Reuben's Life Spell. Strongly recommended to enter the area after clearing all the Battlefields you can for experience (worth grinding beyond that) and a full stock of items. Additional seeds can be purchased in Fireburg if needed while the rest can be farmed throughout the world. You'll want to make liberal use of the defense command to keep Reuben alive and utilize Reuben as your main damage dealer/healer. Exiting and re-entering the area will reset this achievement. 
+
+The dungeon is also home to both the Moon Helm as well as Life Magic (this is the final White magic available if your using a second save for that).
+
+The final boss of the area is the Dualhead Hydra. Defeating it will grant you both the Crystal of Fire as well as the Sun Coin needed to progress through the tower some more. 
+
+Praise the Sun (5) [achievement 9054]
+_Obtain the Sun Coin._
+
+Speak No Evil (10) [achievement 449392]
+_Traverse the Lava Dome and defeat the Hydra without using any magic besides Reuben's Life spell. May not load a save file during attempt._
+
+Like the other large dungeons there is also an achievement for opening all the chests in the area.
+
+Hot Take (10) [achievement 449396]
+_Open all optional treasure chests in the Lava Dome._
+
+### Focus Tower
+The Sun Coin you received in the Lava Dome will allow you to continue through the tower and into the next region of the game. You can also get the Aero Spell as you are passing through. 
+
+## Part 4 - The Crystal of Wind
+Available Equipment:
+* Excalibur - Found in a chest in Pazuzu's Tower 4F
+* Giant's Axe - Found in a chest in Alive Forest
+* Dragon Claw - Given by Tristam in Aquaria
+* Apollo Helm - Found in a chest in Mount Gale
+* Cupid Locket - Purchased in Windia
+
+Available Spells:
+* Meteor - Found in a chest in Giant Tree 2F
+* Flare - Found in a chest in Pazuzu's Tower 6F
+
+### Rope Bridge
+While crossing the bridge, Reuben will get attacked and fall. Tristam will then join you again.
+
+### Alive Forest
+Not much to here on your first visit. You attempt to talk to the big tree and are ignored prompting a return to Aquaria to find someone who can speak with the trees. 
+
+### Aquaria
+After speaking to a few characters, Kaeli will join you again. Tristam will also give you the Dragon Claw. The Dragon Claw is special in that it can both climb walls and grapple distant hooks to cross gaps. 
+
+### Alive Forest
+During this visit you can get the Giant's Axe from on of the chests in the forest. This time Kaeli can talk with the giant tree and he will grant to access to clear out the infestation inside of him. 
+
+### Giant Tree
+You will need to progress through this dungeon making liberal use of the Dragon Claw to grapple the branches to cross gaps. You can go back to a lower floor by dropping in holes and will need to do so for progress. Within the dungeon you can find the Meteor Spell within a chest. By beating the boss, Gidrah, the tree with assist you in getting through the rest of the forest to Windia. 
+
+Named for a Kaiju Villain (5) [achievement 9456]
+_Defeat Gidrah the chimera._
+
+### Windia
+Some more plot here needed to progress. You are asked to assist in rescuing Otto's daughter but in order to do so you must find the source of the wind in the area. During your visit you can buy the Cupid Locket from one of the residents. 
+
+### Mount Gale
+Another pretty straight forward dungeon. You can find the Apollo Helm in a chest near the top of the area. Your goal here is to defeat the boss, Dullahan, in order to stop the wind.
+
+Celtic Faerie (5) [achievement 9494]
+_Defeat Dullahan._
+
+### Windia 
+With the wind stopped, Otto can now build a bridge for you to Pazuzu's Tower.
+
+### Pazuzu's Tower
+Pazuzu's Tower is home to the Crystal of Wind and the final coin, the Sky Coin. Upon entering you will find Norma and send her home. 
+
+You'd Better Have Done This First... (2) [achievement 9508]
+_Rescue Norma from Pazuzu's Tower._
+
+There is a missable achievement here as well for beating the boss without losing a single battle. The enemies in the tower utilize a lot of status effects that can quickly end a battle in their favor. It is worth collecting all the equipment you can up until this point as well as grinding to make fights easier. Getting to the boss requires trapping them using the switches in the dungeon. You can finish the dungeon up to this point and exit and re-enter to make clearing it without losing easier as the boss will remain stuck on the floor they were on. It is possible to get Pazuzu stuck on the first floor but probably isn't worth the effort so long as you grinding up and have a good supply of items.
+
+In the dungeon you can find Excalibur as well as the Flare Spell
+
+Trapping and defeating Pazuzu will grant you the last crystal and the Sky Coin.
+
+What Goes Up Must Come Down (5) [achievement 9649]
+_Obtain the Sky Coin._
+
+Death Unbecomes Us (10) [achievement 449393]
+_Traverse Pazuzu's Tower and defeat him without losing a battle._
+
+Like the other large dungeons there is also an achievement for opening all the chests in the area.
+
+Finders Keepers (10) [achievement 449397]
+_Open all optional treasure chests in Pazuzu's Tower._
+
+## Part 5 - Saving the World
+Available Equipment:
+* Gaia's Armor - Found in a chest in Mac's Ship B1
+* Aegis Shield - Found in a chest in Focus Tower B2
+
+Available Spells:
+* None
+
+### Windia
+After some more plot, Reuben will rejoin you. You will now be traveling the world in order to get Mac's Ship which will give you access to Doom Castle.
+
+### Fireburg
+Receive the Thunder Rock from Reuben's father
+
+### Windia
+Giving the Thunder Rock to Otto will open a bridge back to Spencer's Place
+
+### Spencer's Place
+Travel through and grab the Mobius Crest from the chest.
+
+### Kaidge Temple
+With the Mobius Crest you can teleport to the Light Temple. Waling outside will give you another achievement. 
+
+Lonely Island (3) [achievement 9655]
+_Visit the Light Temple._
+
+### Windia 
+Kaeli will give you the Captain's Cap. There is a Mobius Crest tile in the basement of one of the buildings that will teleport you to the Dock and let you enter Mac's Ship
+
+### Mac's Ship
+Travel through the ship fighting more enemies. When you get to the front of the ship you will find the Gaia's Armor as well as Captain Mac himself. Talking to him will grant you access to sail his ship to Doom Castle. 
+
+### Windia
+Reuben will leave you and be replaced by Phoebe for the remainder of the game. Another good time to go back and clear out any dwelling battlefields and get to max level. You should also have all equipment except for the final shield by now. 
+
+### Focus Tower/Doom Castle
+The final dungeon of the game. The dungeon consists of 4 floors that are stylized like the crystal dungeons ending in a fight against a re-skinned (and more powerful) version of the same bosses you beat as you progressed through the game. The Aegis Shield can be found in the area resembling the Bone Dungeon and should be your final piece of equipment.
+
+Beating the bosses will grant you the following
+
+Bleached Bones (5) [achievement 9713]
+_Defeat Skullrus Rex._
+
+Much Harder to Melt Stone (5) [achievement 9714]
+_Defeat the Stone Golem._
+
+It Only Has Two Legs, So It's Not a Dragon (5) [achievement 9781]
+_Defeat the Twinhead Wyvern._
+
+Zuh? (10) [achievement 9782]
+_Defeat Zuh._
+
+You will now find yourself on the top floor of the castle faced against the final boss of the game. In the room before you will find chests to max you on all items. Make sure you are in good health before progressing. Upon beating the final boss you will receive your achievement and the credits.
+
+With Guidance from the Crystals (25) [achievement 9793]
+_Defeat the Dark King and restore peace to the world._
+
+Assuming you beat the game without collecting any magic of your own you will also unlock the following
+
+Illiterate (25) [achievement 449400]
+_Defeat the Dark King without having learned any spells._
+
+Having Benjamin cast Cure on the final boss also grants an achievement
+
+He Found Out (2) [achievement 449399]
+_Exploit the Dark King's weakness._
+
+The final dungeon also has one last achievement for getting all the chests. Make sure you have the Aero chest opened already as it is required and leaving to grab it will reset all the optional chests. 
+
+The Black Hand (10) [achievement 449398]
+_Exploit the Dark King's weakness._
+
+Assuming you've done all of the above. **Congratulations on beating Final Fantasy: Mystic Quest!!!**
+
+# Collectable Achievements
+
+These achievements are all related to having each version of a specific type of equipment
+
+## Weapons
+
+En Garde (5) [achievement 449367]
+_Obtain all Swords._
+
+* Steel Sword - Starting equipment
+* Knight's Sword - Found in a chest in Ice Pyramid B1
+* Excalibur - Found in a chest in Pazuzu's Tower 4F
+
+Chop Chop (5) [achievement 449368]
+_Obtain all Axes._
+
+* Axe - Given by Kaeli upon clearing Level Forest
+* Battle Axe - Purchased in Fireburg
+* Giant's Axe - Found in a chest in Alive Forest
+
+Great Value Vega (5) [achievement 449370]
+_Obtain all Claws._
+
+* Cat Claw - Given by Phoebe in Wintry Cave
+* Charm Claw - Found in a chest in the Mine
+* Dragon Claw - Given by Tristam in Aquaria
+
+Just Throw It (5) [achievement 449369]
+_Obtain all Bombs._
+
+* Bomb - Given by Tristam in the Bone Dungeon
+* Jumbo Bomb - Given by Phoebe in Falls Basin
+* Mega Grenade - Found in a house in Fireburg
+
+## Armor
+
+Looking Sharp (5) [achievement 449372]
+_Obtain all armors._
+
+* Steel Armor - Starting equipment
+* Noble Armor - Found in a chest in Ice Pyramid 4F
+* Gaia's Armor - Found in a chest in Mac's Ship B1
+
+Duck and Cover (5) [achievement 449373]
+_Obtain all shields. **(Missable)**_
+
+* Steel Shield **(Missable)** - Found in a chest in Bone Dungeon B1
+* Venus Shield - Found in a chest in Focus Tower 2F
+* Aegis Shield - Found in a chest in Focus Tower B2
+
+Can't Be Too Careful (5) [achievement 449371]
+_Obtain all Helmets._
+
+* Steel Helm - Bought in Aquaria
+* Moon Helm - Found in a chest in Lava Dome
+* Apollo Helm - Found in a chest in Mount Gale
+
+Blinged Out (5) [achievement 449374]
+_Obtain the Sand Coin._
+
+* Charm - Obtained from a Battlefield west of the Sand Temple
+* Magic Ring - Obtained from a Battlefield south of Aquaria
+* Cupid Locket - Purchased in Windia
+
+## Magic
+
+The Bright Side (10) [achievement 449365]
+_Obtain all White magic spellbooks. **(Missable)**_
+
+* Exit - Obtained from a Battlefield north of Libra Temple
+* Cure - Found in a chest in Foresta
+* Heal **(Missable)** - Found in a chest in Falls Basin
+* Life - Found in a chest in Lava Dome
+
+The Dark Side (10) [achievement 449364]
+_Obtain all Black magic spellbooks._
+
+* Quake - Found in a chest in Bone Dungeon 2F
+* Blizzard - Found in a chest in Focus Tower 2F
+* Fire - Found in a chest in Focus Tower 2F
+* Aero - Found in a chest in Doom Castle B2
+
+Wild Wizardry (10) [achievement 449366]
+_Obtain all Wizard magic spellbooks._
+
+* Thunder - Found in Battlefield south of the Mine
+* White - Found in a chest in the Volcano
+* Meteor - Found in a chest in Giant Tree 2F
+* Flare - Found in a chest in Pazuzu's Tower 6F
+
+# Miscellaneous Achievements
+
+Well, Now You Can Afford it (4) [achievement 9012]
+_Accumulate enough GP to afford an elixir._
+
+Have more then 9000 GP at any given time. Should come naturally while progressing through the mid to late game
+
+Battlefield Expert (5) [achievement 7513]
+_Clear all battlefields._
+
+There are 20 Battlefields throughout the game. Recommend completing these as you come across them (with the exception of the ones containing spells) in order to keep Benjamin at an appropriate level.

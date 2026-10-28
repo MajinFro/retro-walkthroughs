@@ -1,0 +1,1438 @@
+~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~
+Final Fantasy: Mystic Quest FAQ                                                                     
+Version 3.0
+By: Mystery Moogle                                    E-Mail Address: 
+mysterymoogle@yahoo.com
+Created On: October 28, 1999
+~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~
+
+This is another one of those games that has been considered a flop.  It really 
+wasn't a flop, it was just the first RPG Squaresoft made for the SNES.  It may 
+be a bit primative compared to today's standards, but certainly not a flop.  
+This is a beginner's RPG, and should be treated a such.  It may be for 
+beginners, but veteran RPG players can find some enjoyment in it.  I have 
+played Square games for about 7 years now, and I still liked this game.  So, 
+with that said, let's get to the walkthrough.
+
+Contents:
+1)  Updates
+2)  Characters
+3)  Walkthrough List
+4)  Tough Spots 
+5)  Armor List (For The Hero)
+6)  Armor List (For The Hero's Companions)
+7)  Weapon List (For The Hero)
+8)  Weapon List (For The Hero's Companions)
+9)  Item List
+10) Battlefields
+11) Magic List (For Hero And Companions)
+12) Monster Class List
+13) Monster Magic List
+14) Bosses
+15) Monster List 
+16) FAQ- Actual Questions I Have Been Asked
+17) Odds And Ends
+18) Author's Notes
+19) Credits
+
+1) Updates:
+-Created on: October 28, 1999- No Updates
+-Version 2.0- November 1, 1999 Updated Walkthrough Section.  Added most of the 
+treasure found in each dungeon.  Also, the monsters found in each. Added a new 
+thing to my Odds And Ends Section.  Added Defensive Power to the Excalibur 
+Sowrd in my Hero's Weapon Section.  Added Ether Sheld to my Companion's Armor 
+Section.  Added Defensive Power to Gaia's Armor in my Hero's Armor Section.
+-Version 3.0- December 8, 1999  Added a new section... An actual FAQ section- 
+this is a section dedicated to the questions actual people have E-Mailed me 
+with- hope this helps!
+-Version 4.0- January 28, 2000 Added Boss Strategies.  Updated FAQ's Section. 
+Changed The Look Of Both The Boss Section And The Monster Section.  Updated 
+Item List.   Added Links To The Other Places To See This Walkthrough/FAQ- And 
+A List Of The Other FAQ's I Have Written.
+
+2) Characters:
+[NOTE: In ALL of my Walkthroughs, the hero is referred to as Jason (Named 
+after my husband.)  I got a semi nasty E-Mail about not naming the hero in one 
+of my Walkthroughs correctly.  But I assure you, my readers, that I do know 
+the real names of the hero in every game I have written about.  Thank you and 
+enjoy!]
+
+*Hero (Refered to from now on as Jason)- When you first meet Jason, he is 
+climbing the Hill of Destiny (well, I guess when your village is destroyed, 
+you have nothing better to do...).  Jason meets a Owl Like creature that 
+informs him that he is the Knight of the ancient Prophecy (you know, you'll 
+save the world, bring peace, all that...).  The Prophecy states that four 
+monsters have locked the four doors (wow, four monsters- four doors!) of the 
+Focus Tower and fled with the four keys.  You know what you have to do, save 
+the world!  What else is new?
+*Kaeli- This is the first character that joins your party (Not sure you can 
+really call it a party, there are only two of you at any given time).  Kaeli 
+has the ability to talk to trees, a trait that comes in handy both early on in 
+the game and again later on in the game.  She hails from Foresta and when she 
+joins you for the first time she has 120 Hit Points, attacks with an axe, and 
+knows the spell of Life.  After the fight with Minotaur in the Level Forest, 
+she leaves the group (she is poisoned in the attack) and gives you her axe!  
+Kaeli will join you again later on in the game, when Phoebe blows up Spencer's 
+Place.  When she rejoins you she is Level 31 and has 1280 Hit Points.
+*Tristam- This character joins you in the Sand Temple.  Tristam is a treasure 
+hunter (Hmmm....  Or is he a Thief????? Heeee)  and forces you to accompany 
+him to the Bone Dungeon.  If he gets the treasure he seeks, he will give you 
+the Elixir which you need to heal Kaeli from the fight with Minotaur.  Tristam 
+takes his leave of you shortly after you fight Flamerus Rex.  He is good to 
+his word, he gets his treasure, you get the Elixir.  Also while you are in the 
+Bone Dungeon with Tristam, he teaches you to use Bombs, and will sell you 50 
+explosives for 30 GP.  Tristam gives you some useful things: He gives you the 
+Multi Key when you get to Fireburg, and the Dragon Claw later on in Spencer's 
+Place.  Tristam joins you again on the Rope Bridge after Reuben falls.  
+Tristam is now Level 23 and has 1120 Hit Points.
+*Phoebe- You first meet Phoebe un the Libra Temple.  She originally hails from 
+Aquaria.  She attacks with a Cat Claw at first, but once you get in the Wintry 
+Cave, she gives it to you and starts to use the Bow of Grace.  She also 
+teaches you to use Jumbo Bombs in the Falls Basin.  She leaves you sometime 
+soon after the Ice Pyramid.  She joins you again in Windia after completing 
+Mac's Ship.  She is then Level 34 and has 1480 Hit Points, and now knows the 
+Spells of Cure, Heal, Life, Aero, Fire, Thunder, and White!  She will stay 
+with you for the remainder of the game.
+*Reuben- You meet Reuben in Fireburg where he joins you for the first time.  
+He is Level 23 and has 1040 Hit Points.   He leaves you when he falls off the 
+Rope Bridge.  He will join you again in Windia after the defeat of Pazuzu.  He 
+will then be leve 31 and have 1320 Hit Points.  He knows the Spells of Life 
+and White on your second meeting.
+*Arion- He is Reuben's father.  You rescue him by completing the Mine quest 
+and moving a large rock with Mega Grenades.  You learn to use Mega Grenades 
+from the man in the locked home in Fireburg.
+*Spencer- Spencer is Phoebe's grandfather.  He helps out with information a 
+few times in the game.  His Place is where you find the Mobius Crest late in 
+the game.
+*Captain Mac- Mac is Kaeli's father.  His ship was caught on a ledge when 
+water drained from a lake.  You rescue him and his ship late in the game and 
+reunite Kaeli and her father.  He lets you take his ship in the ending 
+sequences.
+*Otto- You meet Otto in Windia.  He bulids you a Rainbow Road to get to 
+Pazuzu's Tower so you can rescue his daughter Norma.  And another Rainbow Road 
+to get back into Spencer's Place toward the end of the game.
+*Norma- Otto's daughter.  You rescue her from Pazuzu's Tower later in the 
+game.
+
+3) Walkthrough List
+As I have said in the other Walkthrough I have written- Secret Of Evermore 
+that appears on Games FAQ, I do not write out every little twist and turn you 
+need to make in a dungeon.  The point of a RPG is to think and problem solve 
+for yourself.  I am just giving you a reference of where you should be at a 
+given point in the game.  I hope it is helpful.  Really confusing parts are 
+explained further in my Tough Spots section.
+1.  Opening Scenes- Hill Of Destiny
+2.  Level Forest
+3.  Jump Over Rock
+4.  Foresta
+-Treasure: Cure Potions x9, Cure Spell
+5.  Get Cure Spell
+6.  Go To Kaeli's House
+7.  Show Her The Tree Whither
+8.  Kaeli Joins
+9.  Level Forest
+-Monsters: Slime, Brownie, Boss: Minotaur.
+-Treasures: Cure Potions x6, Heal Potions x6, Axe From Kaeli
+10. Kaeli Cuts Down Tree
+11. Find Red Tree
+12. Fight Minotaur (You Should Be At Level 3 Before Fighting This)
+13. Kaeli Leaves After Being Poisoned- Gives You Her Axe
+14. Sand Temple
+15. Look For Elixir In Red Chest
+16. Tristam Joins
+17. Battlefield North of Level Forest- Win 54 Experience Points
+18. Battlefield West Of Sand Temple- Win Charm
+19. Bone Dungeon
+-Monsters: Basilisk, Poison Toad, Sand Worm, Skeleton, Roc, Gorgon, Minotaur 
+Zombie, Boss: Flamerus Rex
+-Treasures: Steel Shield, Quake Spell, Ninja Stars x60, Cure Potions x6, 
+Explosives x20, Seeds x3.
+20. Fight Flamerus Rex (You Should Be Level 8 Before Fighting This)
+21. Crystal Of Earth Restored
+22. Tristam Gives You Elixir
+23. Tristam Leaves
+24. Go To Foresta To Heal Kaeli
+25. Go To Aquaria Via Focus Tower
+26. Libra Temple/Life Temple
+-Treasures: Arrows x10, Wakewater, Cure x3
+27. Phoebe Joins
+28. Aquaria
+-Treasures: Heal x3, Refreshers x3, Purchase Steel Helm
+29. Go To Wintry Cave To Get Libra Crest
+30. Battlefield East Of Sand Temple- Win 150 Gold Pieces
+31. Battlefield East Of Focus Tower- Win 99 Experience Points
+32. Battlefield East Of Libra Temple- Win 300 Gold Pieces
+33. Battlefield South Of Aquaria- Win Magic Ring
+34. Battlefield South Of Wintry Cave- Win 99 Experience Points
+35. Wintry Cave
+-Monsters: Land Turtle, Land Worm, Centaur, Edgehog, Giant Toad, Scorpion, 
+Sparna,  Boss: Squidite.
+-Treasures: Arrows x50, Cure Potions x9, Heal Potions x6, Refreshers x3
+36. Fight Squidite (You Should Be Level 13 Before Fighting This)
+37. Take Libra Crest
+38. Go Back To Libra Temple And Warp To Life Temple
+39. Go To Aquaria
+40. Battlefield West Of Wintry Cave- Win 600 Gold Pieces
+41. Go To Falls Basin
+-Monsters: Desert Hag, Lamia.  Boss: Snow Crab
+-Treasures: Coming Soon!
+42. Fight Snow Crab (You Should Be Level 15 Before Fighting This)
+43. Learn To Use Jumbo Bombs
+44. Battlefield North Of Falls Basin- Win 540 Experience Points
+45. Ice Pyramid
+-Monsters: Desert Hag, Lamia, Mage, Phanquid, Sphinx, Gather, Freezer Crab.  
+Boss: Ice Golem.
+-Treasure: Magic Mirror, Knight Sword, Noble Armor, Arrows x140, Heal Potions 
+x12, Cure Potions x9, Refreshers x6, Explosives x70, River Coin.
+46. Collect Magic Mirror
+47. Collect Noble Armor
+48. Fight Ice Golem (You Should Be Level 16 Before Fighting This)
+49. Crystal Of Water Restored
+50. Go Back To Aquaria
+51. Go To Spenser's Place And Get Venus Key
+52. Go To Focus Tower- Yellow Door
+53. Go To Fireburg
+-Treasures: Purchase Battle Axe, Refreshers x3
+54. Meet Reuben- He Joins
+55. Learn To Use Mega Grenades From Arion- Buy Seeds
+56. Battlefield North Of Libra Temple- Win Exit Spell
+57. Battlefield North Of Wintry Temple- Win 744 Experience Points
+58. Battlefield West Of Focus Tower (Fireburg Side)- Win 900 Gold Pieces
+59. Next Battlefield North- Win Gemini Crest
+60. Battlefield East of Fireburg- Win 816 Experience Points
+61. Battlefield West Of Fireburg- Win 1200 Gold Pieces
+62. Battlefield South Of Mine- Win Thunder Spell
+63. Mine
+-Monsters: Zombie, Red Bone, Flazzard, Boss: Jinn.
+-Treasure: Charm Claw, Heal Potions x6, Cure Potions x6, Explosives x60.
+64. Collect Charm Claw
+65.  Fight Jinn (You Should Be Level 20 Before Fighting This)
+66. Sealed Temple
+-Treasures: Cure Potions x3, Heal Potions x3
+67. Back To Fireburg- Talk To Arion
+68. Battlefield West Of Volcano- Win 1200 Experience Points
+69. Volcano
+-Monsters: Nitemare, Were Wolf, Ghost, Red Bone, Boss: Medusa.
+-Treasure: Mask, White Spell, Cure Potions x9, Heal Potion x9, Refreshers x3, 
+Explosives x10.
+70. Collect White Spell
+71. Collect Mask
+72. Fight Medusa (You Should Be Level 22 Before You Fight This)
+73. Lava Dome
+-Monsters: Hot Wings, Ninja, Fangpire, Avizzard, Adamant Turtle, Iflyte, 
+Stheno, Salamand, Boss: Dualhead Hydra.
+-Treasure: Moon Helm, Life Spell, Sun Coin, Cure Potions x39, Heal Potions 
+x27, Explosives x60, Refreshers x3.
+74. Collect Life Spell
+75. Collect Moon Helm
+76. Fight Dualhead Hydra (You Should Be Level 23 Before You Fight This)
+77. Crystal Of Fire Restored
+78. Battlefield East Of Volcano- Win 1068 Experience Points
+79. Focus Tower- Purple Door
+80. Doom Castle Basement 1- Collect Aero Spell
+81. Rope Bridge- Lose Reuben
+82. Tristam Joins
+83. Alive Forest
+-Monsters: Mummy, Spector
+-Tresures: Giant's Axe, Cure Potions x6, Heal Potions x3, Arrows x10
+84. Collect Giant's Axe
+85. Find Kaeli In Aquaria
+86. Tristam Gives You Dragon Claw And Leaves
+87. Kaeli Joins
+88. Alive Forest
+89. Giant Tree
+-Monsters: Mummy, Spector, Live Oak, Snipion, Mad toad, Leech, Ooze, Skuldier, 
+Boss: Gidrah.
+-Treasure: Meteor Spell, Cure Potions x30, Heal Potions x30, Explosives x30, 
+Refreshers x6.
+90. Collect Meteor Spell
+91. Fight Gidrah (You Sheold Be Level 30 Before Fighting This)
+92. Kaidge Temple
+-Treasures: Cure x3
+93. Windia
+-Treasures: Purchase Cupid Locket, Heal Potions x6, Refreshers x3
+94. Buy Cupid Locket
+95. Talk To Otto
+96. Battlefield West Of Kaidge Temple- Win 2808 Experience Points
+97. Battlefield South Of Windia- Win 2700 Experience Points
+98. Windhole Temple
+-Treasures: Heal x3
+99. Mount Gale
+-Monsters: Water Hag, Vampire, Skuldier, Boss: Dullahan.
+-Treasure: Apollo Helm, Heal Potions x3, Refreshersx3.
+100. Collect Apollo Helm
+101. Fight Dullahan (You Should Be Level 32 Before You Fight This)
+102. Back To Windia
+103. Talk To Otto- He Opens Rainbow Road
+104. Pazuzu's Tower
+-Monsters: Garuda, Beholder, Manticor, Chimera, Sorceror, Thanatos, Naga, 
+Gargoyle, Boss: Pazuzu.
+-Treasure: Flare Spell, Excalibur Sword, Sky Coin, Cure Potions x18, Heal 
+Potions x9, Refreshers x3, Explosives x30.
+105. Collect Flare Spell
+106. Collect Excalibur Sword
+107. Fight Pazuzu (You Should Be Level 34 Before You Fight This)
+108. Crystal Of Wind Restored
+109. Collect Coin- Cast Exit
+110. Back To Windia
+111. Kaeli Leaves- Reuben Joins
+112. Back To Fireburg- Get Thunder Rock From Arion
+113. Back To Windia- Talk To Otto
+114. Spencer's Place- Collect Mobius Crest
+-Treasures: Dragon Claw 
+115. Windia- Collect Captain's Cap From Kaeli- Step On Mobius Crest
+116. Captain Mac's Ship
+-Monsters: Naga, Thanatos, Beholder, Manticor, Gargoyle, Shadow.
+-Treasure: Gaia Armor, Arrows x50, Heal x9
+117. Collect Gaia's Armor
+118. Windia- Phoebe Joins
+119. Doom Castle
+-Monsters: Shadow, Minotaur, Zombie, Stheno, Gorgon, Chimera, Phanquid, 
+Cerebus, Freezer Crab, Iflyte, Bosses: Skullerus Rex, Stone Golem, Zuh, Dark 
+King.
+-Treasure: Seeds x25, Cure Potions x34, Heal Potions x31, Refreshers x3, 
+Arrows x65. 
+120. Fight Skullerus Rex (You Should Be Level 35 Before You Fight This)
+121. Fight Stone Golem (You Should Be Level 35 Before You Fight This)
+122. Fight Zuh (You Should Be Level 35 Before You Fight This)
+123. Fight Dark King (You Should Be Level 35 Before You Fight This)
+124. VICTORY!
+
+4) Tough Spots
+Well, there aren't really any spots in this game that are considered tough...  
+Well, that is in my opinion.  If things do get too tough for you, feel free to 
+E-Mail me, or there are other walkthroughs that will give you step by step 
+instructions.
+
+5) Armor List (For The Hero)
+Steel Armor- You have this at the beginning of the game  Defensive Power- 6
+Noble Armor- Received In Ice Pyramid   Defensive Power- 12
+Gaia Armor- Received on Mac's Ship   Defensive Power- 15
+Steel Helm- Can be purchased in Aquaria for 300 GP  Defensive Power- 4
+Moon Helm- Received in the Lava Dome   Defensive Power- 9
+Apollo Helm- Received On Mount Gale   Defensive Power- 15
+Steel Shield- Received In The Bone Dungeon   Defensive Power- 6
+Venus Shield- Received On 2F of Focus Tower   Defensive Power- 10
+Aegis Shield- Have yet to find it.   Defensive Power-
+Charm- Battlefield W Of Sand Temple   Defensive Power- 1
+Magic Ring- Received in the Battlefield SW of Aquaria   Defensive Power- 3
+Cupid Locket- Can be purchased in Windia for 300 GP   Defensive Power- 6
+
+6) Armor List (For The Hero's Companions)
+Relica Armor- Kaeli Equpis   Defensive Power- 15
+Mystic Robe- Phoebe Equips   Defensive Power- 13   Protects against Water 
+Attacks
+Flame Armor- Reuben Equips   Defensive Power- 14  Protects against Fire 
+Attacks
+Black Robe- Tristam Equips   Defensive Power- 13
+Ether Shield- Phoebe Equips- Defensive Power-12 Protects against Sleep and 
+Confusion
+
+7)  Weapon List (For The Hero)
+Steel Sword- Have at the beginning of the game   Attack Power- 90
+Knight's Sword- Received at the Ice Pyramid  Attack Power- 132
+Excalibur Sword- Received at Pazuzu's Tower  Attack Power- 227
+Axe- Given to you by Kaeli after the fight with Minotaur  Attack Power- 94
+Battle Axe- Can be purchased in Fireburg for 500 GP   Attack Power- 147
+Giant's Axe- Received in the Alive Forest   Attack Power- 190
+Bomb- Tristam teaches you to use these in the Bone Dungeon   Attack Power- 63
+Jumbo Bomb- Phoebe teaches you to use these in the Falls Basin  Attack Power- 
+112
+Mega Grenade- Aroin's friend teaches you to use these in Fireburg  Attack 
+Power- 162
+Cat Claw- Phoebe gives this to you in the Wintry Cave   Attack Power- 87
+Charm Claw- Received in the Mine   Attack Power- 122
+Dragon Claw- Tristam gives this to you in Spencer's Place   Attack Power- 165
+
+8)  Weapon List (For The Hero's Companions)
+Morning Star- Reuben Equips   Attack Power-197
+Bow Of Grace- Phoebe Equips   Attack Power- 86  Causes Blindness For Enemy
+Ninja Stars- Tristam Equips   Attack Power- 45  Causes Poison To Enemy
+Giant's Axe- Kaeli Equips   Attack Power- 190
+
+9)  Item List 
+Cure Potion- Recovers Hit Points
+Heal Potions- Heal Status Ailments
+Seeds- Recovers your ability to cast spells
+Refreshers- Boost stats when a monster drops them (like drops magic attack...)
+Libra Crest- Located In The Wintry Cave
+Gemini Crest- Located in the 2nd Battlefield North of Focus Tower (Fireburg 
+Level)
+Mobius Crest- Located In Spencer's Place
+Sand Coin- Located In The Bone Dungeon
+River Coin- Located In The Ice Pyramid
+Sun Coin- Located In The Lava Dome
+Sky Coin- Located In Pazuzu's Tower
+Tree Wither- Show this to Kaeli, and she will join you in the beginning of the 
+game.
+Exilir- Give this to Kaeli to heal her from the fight with Minotaur.
+Wakewater- It is supposed to melt the ice in Aquaria, but doesn't.
+Venus Key- Spencer gives this to you.
+Multi Key- Opens the locked home in Fireburg.  Tristam gives it to you in 
+Fireburg.
+
+10) Battlefields
+Battlefields are good for raising levels and getting treasure that is useful 
+for upcoming battles and dungeons.  This is a listing of every battlefield in 
+the game and the treasure or reward received from each and what you fight in 
+each one.
+*1st Battlefield North of the Level Forest
+-Mad Plant
+-Poison Toads
+-Reward: 54 Experience Points
+*Battlefield West of the Sand Temple
+-Poison Toads
+-Mad Plant
+-Basilisk
+-Reward: Charm
+*Battlefield East of the Sand Temple
+-Sand Worm
+-Reward: 150 GP
+*2nd Battlefield after the 1st Battlefield, 2nd Level of the Focus Tower
+-Mintmint
+-Giant Toad
+-Reward: 300 GP
+*Battlefield South West of Aquaria
+-Mintmint
+-Giant Toad
+-Scorpion
+-Reward: Magic Ring
+*Battlefield South of Ice Pyramid
+-Lamia
+-Mage
+-Reward: 54 Experience Points
+*Battlefield North of Libra Temple
+-Phanquid
+-Sphinx
+-Reward: Exit Spell!
+*Battlefield North West of Libra Temple
+-Freezer Crab
+-Gather
+-Reward: 744 Experince Points
+*Battlefield East of Aquaria
+-Scorpion
+-Giant Toad
+-Edgehog
+-Reward: 99 Experince Points
+*Battlefield West of Wintry Cave
+-ALL Desert Hags
+-Reward: 600 GP
+*1st Battlefield North of Focus Tower (Fireburg Level)
+-ALL Jelly
+-Reward: 900 GP
+*2nd Battlefield North of Focus Tower (Fireburg Level)
+-ALL Sting Rats
+-Reward: Gemini Crest!
+*3rd Battlefield North of Focus Tower (Fireburg Level)
+-ALL Plant Men
+-Reward: 816 Experience Points
+*Battlefield West of Fireburg
+-Flazzard
+-Plant Man
+-Sting Rat
+-Reward: 1200 GP
+*2nd Battlefield West of Fireburg
+-Red Cap
+-Flazzard
+-Reward: Thunder Spell
+*Battlefield East of the Mine
+-Ghost
+-Red Bone
+-Zombie
+-Reward: 1200 Experience Points
+*Battlefield South East of Lava Dome/Volcano
+-Stheno
+-Iflyte
+-Reward: 1200 Experience Points
+*Battlefield South East of Giant Tree
+-Skuldier
+-Water Hag
+-Reward: 2808 Experience Points
+*Battlefield South of Windia
+-Water Hag
+-Vampire
+-Reward: 2700 Experince Points
+
+11) Magic List (For Hero And Companions)
+WHITE MAGIC:
+Exit- Received in the Battlefield North of Libra Temple
+Cure- Received in Foresta
+Heal- Received in the Falls Basin
+Life- Received in the Lava Dome
+BLACK MAGIC:
+Aero- Received on the 2nd level of the Basement of the Doom Castle
+Fire- Received on the 2nd floor of the Focus Tower
+Quake- Received in the Bone Dungeon
+Blizzard- Received on the 2nd floor of the Focus Tower
+WIZARD MAGIC:
+White- Received at the Volcano
+Flare- Received in Pazuzu's Tower
+Meteor- Received in the Giant Tree
+Thunder- Received in the 2nd Battlefield West of Fireburg
+
+12) Monster Class List
+Every monster in Final Fantasy: Mystic Quest belongs to a specific class.  Any 
+monster in a similar class will be weak against the same things, and usually 
+attack you with the same things.
+Class 1: Hooded Men
+-Brownie
+-MintMint
+-Red Cap
+They attack with: Punch, Kick, Stare, and Hypno-Sleep.
+I have yet to find a weakness for these types of monsters.
+Class 2: Slime Bodied
+-Jelly
+-Ooze
+-Slime
+They attack with: Dissolve, Hydro-Acid, and Stab.
+This type of monster is weak against bombs.
+Class 3: Turtles
+-Adamant Turtle
+-Land Turtle
+They attack with: Blinder, Para-Claw, Body Slam, Rapier, and Wraparound.
+This type of monster is weak against Axe attacks.
+Class 4: Frogs 
+-Giant Toad
+-Mad Toad
+-Poison Toad
+They attack with: Poison Fluid, Body Odor, Whip Tongue, Stone Gaze, 
+Electrapulse, and Poison-Touch.
+This type of monster is weak against Blizzard.
+Class 5: Worms
+-Land Worm
+-Leech
+-Sand Worm
+They attack with: Quake, Scrunch, and Quicksand.
+This type of monster is weak against an Axe attack.
+Class 6: Trees
+-Live Oak
+-Mad Plant
+-Plant Man
+They attack with: Corrode Gas, Full Nelson, Branch, and Bad Breath.
+Class 7: Lizards
+- Basilisk
+-Flazzard
+-Salamand
+They attack with: Fang, Claw, Thunder, and Poison Breath.
+They are weak against Blizzard.
+Class 8: Birds
+-Garuda
+-Hot Wings
+-*Pazuzu
+-Roc
+-Sparna
+-Stoney Roost
+-*Zuh
+They attack with: Muffle, Iron Nail, Typhoon, Blinder, Flame Sweep, Dive, 
+Windstorm, Hurricane, Psychshield, Stone, Beak, Sky Attack, Beak, Tornado, 
+Petri-Touch, Coldness, and Doom Dance.
+They are weak against a shoot attack (arrows or stars) and the Spell Aero.
+Class 9: Man/Horse
+-Centaur
+-Nitemare
+They attack with: Riddle, Double Kick, Bow And Arrows, and Hypno-Sleep.
+I have yet to find a weakness for these types of monsters.
+Class 10: Skeletons
+-*Flamerus Rex
+-Red Bone
+-Skeleton
+-Skuldier
+-*Skullerus Rex
+They attack with: Chew Off, Poison Flour, Sleep Powder, Bone Missile, Rip 
+Earth, Sword, Head Butt, Doom Powder, Spooky Laugh, Quake, Stone Gas, and Twin 
+Fang.
+They are weak against the Spell of Aero.
+Class 11: Hag Creatures
+-Desert Hag
+-Water Hag
+They attack with: Double Hit, they counter when you attack them with a close 
+range weapon, Fin, Neck Choke, and Whirlwater.
+They are weak against the magic of Fire.
+Class 12: Porcupine Creatures
+-Edgehog
+-Sting Rat
+They attack with: Para-Needle, Sting, Blinder, and Rapier.
+They are weak against the magic of Fire.
+Class 13: Squid Like Creatures
+-Phanquid
+-*Squidite
+They attack with: Electrapulse, Ice Breath, Blackness, Sucker Stick, and Choke 
+Up.
+They are weak against the magic of Fire.
+Class 14: Dual Headed Creatures
+-*Dualhead Hydra
+-*Twinhead Wyvern
+They attack with: Firebreath, Para-Breath, Thunder, Stone Gas, Scrunch, Poison 
+Breath, and Tornado.
+I just recommend using your best attacks!
+Class 15: Multi Headed Creatures
+-Chimera
+-*Gidrah
+They attack with: Poison Touch, Tornado, Para-Gas, Three Heads, and Quake.
+They are weak against the Spell of Aero.
+Class 16: Furry Multi Headed Creatures
+-Cerebus
+-Were Wolf
+They attack with: Triple Fang, Quake, and Body Odor.
+They are weak against the Magic of Fire.
+Class 17: The Sphinx
+-Manticor
+-Sphinx
+They attack you (repeatedly) with: Lightning, Stone Gas, Bite, Fireball, 
+Thunder, Riddle, and Ice Breath.
+They have NO WEAKNESS! Use your VERY BEST ATTACKS!
+Class 18: Large Eyes
+-Beholder
+-Gather
+They attack with: Blind Flash, Thunder Beam, Para-Stare, and Selfdestruct.
+They are weak against bombs.
+Class 19: Crabs
+-Freezer Crab
+-*Snow Crab
+They attack with: Full Nelson, Whirlwater, Stare, and Giant Blade.
+They are weak against the Magic of Fire.
+Class 20: Cyclops
+-Iflyte
+-*Jinn
+They attack with: Dragon Cut, Flame Sweep, Beam, Flame Pillar, Hypno-Sleep, 
+and Fire.
+Not Sure On Weakness. 
+Class 21: Headless Beings
+–*Dullahan
+-Thanatos
+They attack with: Headdoomerang, Doom Gaze, Boomerang, Thunder Beam, and 
+Rapier.
+Not Sure on weakness.
+Class 22: The Undead
+-Mummy
+-Zombie
+They attack with: Sleep Powder, Body Slam, Neck Choke, Poison Flour, Para-
+Touch, Rotten Mucus, Mucus, and Bad Breath.
+They are weak against the Magic of Fire.
+Class 23: Bloodsuckers
+-Fangpire
+-Vampire
+They attack with: Drain, Uppercut, Sonic Boom, Tornado, Typhoon, and Blizzard.
+They are weak against the Spell of Aero.
+Class 24: Bull Like Creatures
+-Behemoth
+-Gorgon
+They attack with: Horn and Dash.
+Not sure on weakness.
+Class 25: Snake Ladies
+-Lamia
+-Naga
+They attack with: Gaze, Sleep Lure, and Wraparound.
+Not sure on weakness.
+Class 26: Minotaurs
+-*Minotaur
+-Minotaur Zombie
+They attack with: Scream, Roundhouse, Stare, and Blinder
+Not sure on weakness.
+Class 27: Apparitions
+-Ghost
+-Spector
+They attack with: Confu-Touch, Attatch, Power Drain, and Coldness. 
+Not sure on weakness.
+Class 28: Magicians
+-Mage
+-Sorceror
+They attack with: Muffle and Blizzard.  They also like to Cure themselves (and 
+companions) quite frequently!
+Not sure on weakness.
+Class 29: Gargoyles
+-Avizzard
+-Gargoyle
+They attack with: Double Sword, Fire, Silence Song, Spooky Laugh, Thunder, 
+Drain, and Blizzard.
+Not sure on weakness.
+Class 30: Ninjas
+-Ninja
+-Shadow
+The attack with: Scimitar, Lullaby, Blow Dart, and Smokescreen.
+Not sure on weakness.
+Class 31: Scorpions
+-Scorpion
+-Snipion
+They attack with: Tail, Scissors, Rapier, Quicksand, Doom Powder, and Poison 
+Sting.
+Not sure on weakness.
+Class 32: Golems
+-*Ice Golem
+-*Stone Golem
+They attack with: Stomp Stomp, Mega Punch, Ice Block, Snowstorm, Corrode Gas, 
+Thunder, Stare, and Stone Block.
+Ice Golem is weak against the Magic of Fire.  Stone Golem is weak against the 
+Spell of White.
+Class 33: Miscellaneous Monsters
+-*Dark King 
+He attacks with: Spark, and Dark Cane.
+He is weak against the Hero's Magic of Cure (But that's a cheap way to win, 
+now isn't it?)
+
+13) Monster Magic List
+This is a listing of the spells that Monsters can attack YOU with.  Some are 
+very powerful- and can even cause instant death if they hit their mark.  When 
+a spell is described as a Physical Attack, it means that no magic is really 
+involved in the attack.
+Attatch- Physical Attack
+Bad Breath- Causes Paralyze
+Beam- Lightning Based Attack
+Bite- Physical Attack
+Blackness- Causes Blind
+Blinder- Causes Blind
+Blind Flash- Causes Blindness
+Blizzard- Ice/Water Based Attack
+Blow Dart- Physical Attack
+Body Odor- Causes Paralyze
+Body Slam- Physical Attack
+Bone Missile- Physical Attack
+Boomerang- Physical Attack
+Bow and Arrows- Physical Attack
+Branch- Physical Attack
+Chew Off- Physical Attack
+Claw- Physical Attack
+Coldness- Ice/Water Based Attack
+Confusion- Causes Confusion (Duh!)
+Confu-Touch- Causes Confusion
+Corrode Gas- INSTANT DEATH!
+Dark Cane- Physical Attack
+Dash- Physical Attack
+Dissolve- Physical Attack
+Dive- Physical Attack
+Doom Dance- INSTANT DEATH!
+Doom Powder- INSTANT DEATH!
+Double Kick- Physical Attack
+Double Sword- Physical Attack
+Dragon Cut- Physical Attack
+Drain- Physical Attack
+Electrapulse- Magic Down
+Fang- Physical Attack
+Fin- Physical Attack
+Flame Pillar- Fire Based Attack
+Flame Sweep- Fire Based Attack
+Fire- Fire Based Attack (One would hope so!)
+Full Nelson- Physical Attack
+Giant Blade- Physical Attack
+Head Butt- Physical Attack
+Headdoomerang- Physical Attack
+Horn- Physical Attack
+Hydro-Acid- Not sure
+Hypno-Sleep- Causes Sleep
+Ice Block- Ice/Water Based Attack
+Ice Breath- Ice/Water Based Attack
+Icy Foam- Ice/Water Based Attack
+Iron Nail- Physical Attack
+Lullaby- Causes Sleep
+Mega Punch- Physical Attack
+Mucus- Physical Attack
+Muffle- Causes Silence
+Neck Choke- Physical Attack
+Para-Needle- Causes Paralyze
+Para-Snake- Causes Paralyze
+Para-Stare- Causes Paralyze
+Petri-Touch- Causes Petrify
+Poison Breath- Causes Poison
+Poison Fluid- Causes Poison
+Poison Flour- Causes Poison
+Poison Snake- Causes Poison
+Poison Sting- Causes Poison
+Poison Touch- Causes Poison
+Power Drain- Physical Attack
+Psudopod- Physical Attack
+Quake- Earth Based Attack
+Quicksand- Wind/Earth Based Attack
+Rapier- Physical Attack
+Riddle- Causes Confusion
+Rip Earth- Quake Style Attack
+Rotten Mucus- Physical Attack
+Scissors- Physical Attack
+Screechvoice- Causes Confusion
+Scrunch- Physical Attack
+Selfdestruct- Enemy blows up, sometimes taking you with it
+Silence Song- Causes Silence
+Sky Attack- Physical Attack
+Sleep Powder- Causes Sleep
+Smokescreen- Causes Blind
+Snake Head- Physical Attack
+Snowstorm- Ice/Water Based Attack
+Sonic Boom- Physical Attack
+Spooky Laugh- Causes Confusion
+Stab- Physical Attack
+Sting- Physical Attack
+Stomp Stomp- Physical Attack
+Stone Beak- Causes Petrify
+Stone Gaze- Causes Petrify
+Sucker Stick- Physical Attack
+Sword- Physical Attack
+Tail- Physical Attack
+Thunder Beam- Lightning Based Attack
+Triple Fang- Physical Attack
+Typhoon- Wind Based Attack
+Uppercut- Physical Attack
+Whip Tongue- Physical Attack
+Whirlwater- Water Based Attack
+Wraparound- Physical Attack
+
+14) Bosses
+______________________________________________________________
+*Dark King    
+Location: Doom Castle 
+(End Boss)   
+HP: 65,000
+Party: Jason And Phoebe
+Strategy: Now, for being a Final Boss this guy is CAKE!  There is a chicken 
+way
+to beat him (but any self deserving hero wouldn't use it...right?)  Have Jason 
+ONLY-
+now I say Jason only because Phoebe doing this will undo everything Jason has 
+done.  Have Jason ONLY cast Cure on the Dark King.  This does an outrageous 
+amount of damage to him, like 30,000 points!  While Jason is using Cure on the
+Dark King Phoebe should hit him with White or Flare.  If you are a real 
+adventurer
+have Jason and Phoebe use Flare or White the entire time, and Phoebe should 
+heal
+herself or Jason as necessary.
+______________________________________________________________
+*Dualhead Hydra   
+Location: Lava Dome   
+HP: 15,000   
+EXP: 429   
+GP: None
+Party: Jason And Reubin
+Strategy: The strategy here is simple- have Jason use the spell of White and 
+Reubin should use the Spell of Life (since that's all he knows) to heal the 
+party, or give
+Jason Seeds as he needs them.
+______________________________________________________________
+*Dullahan   
+Location: Mount Gale   
+HP: 13,000   
+EXP: 750   
+GP: 21
+Party: Jason And Kaeli
+Strategy: Dullahan will appear with the company of 2 Vampires on either side 
+of him.
+Both Jason and Kaeli should use the Spell Of Aero to take out the Vampires.  
+After 
+the 2 Vampires are gone, Jason should use the Spell of Meteor and Kaeli should 
+use 
+the Spell of Aero, or Cure if necessary. 
+______________________________________________________________
+*Flamerus Rex   
+Location: Bone Dungeon   
+HP: 400    
+EXP: 120    
+GP: None
+Party: Jason And Tristam
+Strategy: The key to this Boss is the Quake Magic you find in this dungeon.  
+Jason
+should use the Spell of Quake and Tristam should attack.  Jason should Cure 
+both
+himself and Tristam as necessary.
+______________________________________________________________
+*Gidrah   
+Location: Giant Tree   
+HP: 13,000   
+EXP: 729   
+GP: 18
+Party: Jason And Kaeli
+Strategy: This battle is simple- Jason should use the Spell of Meteor and 
+Kaeli
+should use the Spell of Aero.  Both should heal as necessary.
+______________________________________________________________
+*Ice Golem   
+Location: Ice Pyramid   
+HP:  600     
+EXP: 246   
+GP: None
+Party: Jason And Phoebe
+Strategy: This battle leaves little to explain- Ice Golem.......ICE!  USE 
+FIRE!  It
+will MELT him!  Cure as necessary as always.
+______________________________________________________________
+*Jinn   
+Location: Mine   
+HP: 6,000   
+EXP: 504   
+GP: 15
+Party: 
+Strategy: When you fight Jinn he is flanked by 2 Red Bones- take them out 
+first
+by using the Spell of Aero.  After they are gone, concentrate on Jinn.  Use 
+the Spell
+of Thunder on him, and use the Spell of Cure and take Seeds as necessary.
+______________________________________________________________
+*Medusa   
+Location: Volcano   
+HP: 6,800   
+EXP: 510   
+GP: 15
+Party: Jason And Reubin
+Strategy: First things first... Take out Medusa's companions and then 
+concentrate your
+efforts on her.  Jason should use the Spell of White and Reubin should attack 
+or Cure
+and use Seeds as necessary.
+______________________________________________________________
+*Minotaur   
+Location: Level Forest   
+HP: 240   
+EXP: 102   
+GP: 30
+Party: Jason And Kaeli
+Strategy: As with the Dark King, there is a cheap way here to beat Minotaur.  
+Have
+Jason use the Spell of Cure on him- but Kaeli shouldn't.  Otherwise, to play 
+fair,
+just attack and Cure as necessary.
+______________________________________________________________
+*Pazuzu   
+Location: Pazuzu's Tower   
+HP: 26,000   
+EXP: 618   
+GP: None
+Party: Jason And Kaeli
+Strategy: Watch out when he uses his Psychshield!  DO NOT ATTACK HIM 
+WHEN IT IS UP!  When it is not up (it goes down after 2 rounds usually)  Jason
+should use the Spell of Flare and Kaeli should use the Spell of Aero and Cure
+as necessary.
+______________________________________________________________
+*Skullerus Rex   
+Location: Doom Castle   
+HP: 12,000   
+EXP: 759   
+GP: None
+Party: Jason And Phoebe
+Strategy: Easy strategy (what hasn't been easy?)- Have jason cast the Spell of 
+Flare and have Phoebe cast the Spell of White.  Cure as necessary.
+______________________________________________________________
+*Snow Crab   
+Location: Falls Basin   
+HP:  750   
+EXP: 234   
+GP: 6
+Party: Jason And Phoebe
+Strategy: Snow Crab is flanked by 2 Desert Hags- but don't focus on them like 
+you 
+have been on the other monsters flanking Jinn and Dullahan.  Use the Spell of 
+Fire
+on the whole bunch!  The Desert Hags are weak against Fire and so is Snow 
+Crab!
+Cure as necessary.
+______________________________________________________________
+*Squidite   
+Location: Wintry Cave   
+HP:  700   
+EXP: 219   
+GP: 6
+Party: Jason And Phoebe
+Strategy: First things first... Have Phoebe take out the 2 Sparnas flanking 
+Squidite
+with her Bow Of Grace while Jason attacks Squidite with regular attacks.  Once
+the Sparnas are gone, Phoebe can use the Spell of Thunder on Squidite.  Cure 
+as
+necessary.
+______________________________________________________________
+*Stone Golem   
+Location: Doom Castle   
+HP: 10,000   
+EXP: 762   
+GP: None
+Party: Jason And Phoebe
+Strategy: Both Jason and Phoebe should use the Spell of White here.  And as 
+always Cure as necessary.
+______________________________________________________________
+*Twinhead Wyvern   
+Location: Doom Castle   
+HP: 15,000   
+EXP: 600   
+GP: None
+Party: Jason And Phoebe
+Strategy: Jason should cast the Spell of Meteor here while Phoebe casts the 
+Spell
+of White.  Cure as necessary.
+______________________________________________________________
+*Zuh   
+Location: Doom Castle   
+HP: 22,000   
+EXP: 750   
+GP: None 
+Party: Jason And Phoebe
+Strategy: Have both Jason and Phoebe cast the Spell of White here to get rid 
+of
+the monsters flanking Zuh- the magic will damage Zuh as well.  Once they die
+concentrate on Zuh.  Have Jason cast the Spell of Flare and Phoebe cast the 
+Spell
+of White.  Remember- like Pazuzu, Zuh has that annoying Psychshield.  DO NOT
+ATTACK HIM WHILE IT IS UP!  It will go down in about 2 rounds like Pazuzu's
+did.  Cure as necessary.
+______________________________________________________________
+
+15) Monster List 
+______________________________________________________________
+Adamant Turtle   
+Location: Lava Dome   
+HP: 750   
+EXP: 420 
+Gold Pieces: 15  
+______________________________________________________________
+Avizzard   
+Location: Lava Dome   
+HP: 700   
+EXP: 402   
+GP: 15
+______________________________________________________________
+Basilisk    
+Location: Bone Dungeon    
+HP: 100    
+EXP: 81   
+GP: 3
+______________________________________________________________
+Behemoth   
+Location: Hill Of Destiny   
+HP: 150   
+EXP: 84   
+GP: 3
+______________________________________________________________
+Beholder   
+Location: Pazuzu's Tower   
+HP: 800   
+EXP: 576   
+GP: 18
+______________________________________________________________
+Brownie   
+Location: Level Forest   
+HP: 50   
+EXP: 66   
+GP: 3
+______________________________________________________________
+Centaur   
+Location: Wintry Cave   
+HP: 300   
+EXP: 123   
+GP: 6
+______________________________________________________________
+Cerebus   
+Location: Doom Castle   
+HP: 1,000   
+EXP: 675    
+GP: 21
+______________________________________________________________
+Chimera   
+Location: Pazuzu's Tower    
+HP: 900   
+EXP: 684    
+GP: 21
+______________________________________________________________
+Desert Hag   
+Location: Ice Pyramid   
+HP: 300   
+EXP: 168   
+GP:6 
+______________________________________________________________
+Edgehog    
+Location: Ice Pyramid    
+HP: 200   
+EXP: 135   
+GP: 3
+______________________________________________________________
+Fangpire   
+Location: 
+Lava Dome   
+HP: 650   
+EXP: 381   
+GP: 15
+______________________________________________________________
+Flazzard   
+Location: Mine   
+HP: 450    
+EXP: 261   
+GP: 9
+______________________________________________________________
+Freezer Crab   
+Location: Ice Pyramid    
+HP: 400   
+EXP: 237   
+GP: 9 
+______________________________________________________________
+Gargoyle    
+Location: Pazuzu's Tower    
+HP: 1,000    
+EXP: 669    
+GP: 21 
+______________________________________________________________
+Garuda    
+Location: Pazuzu's Tower    
+HP: 1,000    
+EXP:        
+GP:   
+______________________________________________________________
+Gather    
+Location: Ice Pyramid   
+HP: 350   
+EXP: 192
+______________________________________________________________
+Ghost   
+Location: Volcano    
+HP: 600   
+EXP: 330   
+GP: 12
+______________________________________________________________
+Giant Toad    
+Location: Wintry Cave   
+HP: 200   
+EXP: 114   
+GP: 3
+______________________________________________________________
+Gorgon   
+Location: Bone Dungeon   
+HP: 150   
+EXP: 114    
+GP: 3
+______________________________________________________________
+Hot Wings   
+Location: Lava Dome    
+HP: 650   
+EXP: 372   
+GP: 12
+______________________________________________________________
+Iflyte   
+Location: Lava Dome    
+HP: 700   
+EXP: 420   
+GP: 12
+______________________________________________________________
+Jelly   
+Location: 1st Battlefield North Of Fireburg   
+HP: 400   
+EXP: 243   
+GP: 12
+______________________________________________________________
+Lamia    
+Location: Ice Pyramid    
+HP: 300   
+EXP: 150   
+GP: 6
+______________________________________________________________
+Land Turtle    
+Location: Wintry Cave   
+HP: 250   
+EXP: 144   
+GP: 6 
+______________________________________________________________
+Land Worm   
+Location: Wintry Cave    
+HP: 250   
+EXP: 144   
+GP: 6
+______________________________________________________________
+Leech   
+Location: Giant Tree   
+HP: 800   
+EXP: 504   
+GP: 18
+______________________________________________________________
+Live Oak   
+Location: Giant Tree   
+HP: 700   
+EXP: 447   
+GP: 15
+______________________________________________________________
+Mad Plant   
+Location: Battlefield South Of Sand Temple   
+HP: 100   
+EXP: 57   
+GP: 3
+______________________________________________________________
+Mad Toad   
+Location: Giant Tree   
+HP: 800   
+EXP: 480   
+GP: 18
+______________________________________________________________
+Mage    
+Location: Ice Pyramid   
+HP: 300   
+EXP: 186   
+GP: 6
+______________________________________________________________
+Manticor   
+Location: Pazuzu's Tower   
+HP: 1,200   
+EXP: 612   
+GP: 21
+______________________________________________________________
+Minotaur Zombie   
+Location: Bone Dungeon   
+HP: 200   
+EXP: 120   
+GP: 3
+______________________________________________________________
+Mintmint   
+Location: Battlefield SW Of Aquaria   
+HP: 200   
+EXP: 117   
+GP: 3 
+______________________________________________________________
+Mummy   
+Location: Alive Forest   
+HP: 700   
+EXP: 459   
+GP: 15
+______________________________________________________________
+Naga   
+Location: Pazuzu's Tower   
+HP:  850    
+EXP: 627   
+GP: 21
+______________________________________________________________
+Ninja   
+Location: Lava Dome   
+HP: 650   
+EXP: 396   
+GP: 12
+______________________________________________________________
+Nitemare   
+Location: 
+Volcano    
+HP: 650    
+EXP: 330    
+GP: 12
+______________________________________________________________
+Ooze   
+Location: Giant Tree    
+HP: 800   
+EXP: 540   
+GP: 18
+______________________________________________________________
+Phanquid   
+Location: Ice Pyramid   
+HP: 500   
+EXP: 231   
+GP: 9
+______________________________________________________________
+Plant Man   
+Location: 3rd Battlefield N Of Focus Tower   
+HP: 450   
+EXP: 258   
+GP: 9
+______________________________________________________________ 
+Poison Toad   
+Location: Bone Dungeon   
+HP: 60   
+EXP: 63   
+GP: 3
+______________________________________________________________
+Red Bone   
+Location: Mine    
+HP: 500   
+EXP: 315    
+GP: 12
+______________________________________________________________
+Red Cap   
+Location: Mine    
+HP: 500   
+EXP: 294   
+GP: 12
+______________________________________________________________
+Roc   
+Location: Bone Dungeon    
+HP: 100   
+EXP: 96   
+GP: 3
+______________________________________________________________
+Slamand    
+Location: Lava Dome   
+HP: 650   
+EXP: 411   
+GP: 15
+______________________________________________________________
+Sand Worm   
+Location: Bone Dungeon   
+HP: 150   
+EXP: 99   
+GP: 3
+______________________________________________________________
+Scorpion    
+Location: Ice Pyramid   
+HP: 200   
+EXP: 129   
+GP: 3
+______________________________________________________________
+Shadow   
+Location: Doom Castle   
+HP: 1,000   
+EXP: 675   
+GP: 21
+______________________________________________________________
+Skeleton   
+Location: Bone Dungeon   
+HP: 100   
+EXP: 93   
+GP: 3
+______________________________________________________________
+Skuldier   
+Location: Giant Tree   
+HP: 800   
+EXP: 513   
+GP: 18
+______________________________________________________________
+Slime   
+Location: Level Forest   
+HP: 50   
+EXP: 72   
+GP: 3
+______________________________________________________________
+Snipion   
+Location: Giant Tree   
+HP: 700   
+EXP: 459   
+GP: 15
+______________________________________________________________
+Sorceror   
+Location: Pazuzu's Tower   
+HP: 1,000   
+EXP: 624   
+GP: 21
+______________________________________________________________
+Sparna   
+Location: Wintry Cave   
+HP: 250   
+EXP: 153   
+GP: 6
+______________________________________________________________
+Spector   
+Location: Giant Tree   
+HP: 650   
+EXP: 453   
+GP: 15
+______________________________________________________________
+Sphinx   
+Location: Ice Pyramid   
+HP: 300   
+EXP: 201   
+GP: 9
+______________________________________________________________
+Stheno   
+Location: Lava Dome   
+HP: 650    
+EXP: 432   
+GP: 15 
+______________________________________________________________
+Sting Rat   
+Location: 2nd Battlefield N of Focus Tower   
+HP: 400   
+EXP: 252   
+GP: 15
+______________________________________________________________
+Stoney Roost   
+Location: Mine   
+HP: 300   
+EXP: 165   
+GP: 6
+______________________________________________________________
+Thanatos   
+Location: Pazuzu's Tower   
+HP: 1,100   
+EXP: 654   
+GP: 21
+______________________________________________________________
+Vampire   
+Location: Mount Gale   
+HP: 850   
+EXP: 561   
+GP: 18
+______________________________________________________________
+Water Hag   
+Location: Battlefield S Of Windia   
+HP: 850   
+EXP: 576   
+GP: 18
+______________________________________________________________
+Were Wolf    
+Location: Volcano   
+HP: 650   
+EXP: 354   
+GP: 12
+______________________________________________________________
+Zombie   
+Location: Mine   
+HP: 400    
+EXP: 324   
+GP: 12
+______________________________________________________________
+
+16) FAQ- Actual Questions I Have Been Asked
+*How do you get the Sky Coin?
+This is gained after the defeat of Pazuzu- climb to the top of the tower and 
+it is in the red chest.
+*How do you get to the top of the Focus Tower?
+You need the Sky Coin to gain access to the top of the Focus Tower.
+*How do you find the secret passage in the Rope Bridge?
+Now, this one I don't know- I had no idea there was one.  I'll have to try to 
+find the answer to this one.
+*If you look at the back of the game box, you will see some pictures- one is 
+of a new/secret character to join with the hero, I forgot her name, she has a 
+morning star and full HP.  Do you know how to get this character?
+Again, I have no idea.  I have lost my game box.  But, I'll see what I can do 
+about finding anything out about her.  
+*Howdo you open the mouths of the trees in the Giant Tree?
+All you need to do it poke at them with your sword.
+
+
+17) Odds And Ends
+*There is a free bed in Foresta in the tree stump house on your right at the 
+bottom. Once inside it is the left bed.
+*There is a very easy way to kill the Dark King (the end boss).  Just have 
+Jason cast Cure on him.  But don't have your companion do the same.  Your 
+companion will only undo the damage done by the hero.  But, now real 
+adventurers will have no need for this, right?
+*One tip, if you get to a dead end (well, one blocked by a chest) just jump 
+over the obstacle.
+*There are certain spells later in the game that monsters hit you with that 
+can cause instant death if they connect.  These spells are: Corrode Gas, Doom 
+Dance,  and Doom Powder.
+*All Inns cost the same price to stay: 95 GP.
+*After clearing Mac's Ship, and preparing to fight through the Doom Castle, in 
+the lower levels of Mac's Ship, you can purchase Seeds and Cure Potions!  
+Seeds Cost 50 GP for 1 and Cure Potions cost 25 for 1.
+
+18) Author's Notes
+This Walkthrough was made COMPLETELY by me.  I had No help with it.  If you 
+would like to use my Walkthrough ASK MY PERMISSION!  There is nothing I hate 
+more than using someone elses things without asking.  I worked very hard on 
+this and played through the game a many times to get the information.  Also, I 
+will not give permission to only use parts of my Walkthroughs as parts of 
+someone else's projects.  Since I work so hard on my walkthroughs, I know 
+other people writing one can work equally hard on theirs.  Thank you and I 
+hope you have found it useful.  I will update this page as I can or as I feel 
+necessary.  
+
+My Walkthroughs can now be found on other sites that just GameFAQ's!  I have 
+gotten great response from Webmasters wanting to use my Walkthroughs!  Here 
+are the other places to see my Final Fantasy: Mystic Quest Walkthrough!
+http://www.gamewar.com/ffmq
+http://www.vgstrategies.about.com  just go into the SNES section and look for 
+the Final Fantasy:Mystic Quest section.
+
+My other Walkthroughs include:
+Secret Of Evermore
+Blood Omen: Legacy Of Kain
+Sanitairum
+Super Mario RPG: Legend Of The Seven Stars
+Final Fantasy 5
+
+19) Credits
+I have written this Walkthrough on my own, but I still would like to thank a 
+few people:
+First of all, my Husband Jason.  I have no idea how he puts up with me kicking 
+him off the computer so I can work on this stuff.  Thanks Jason!
+And also my parents Bonnie and Ken.  They take interest when I bounce ideas 
+off them every Friday Night ay Midnight when I call them long distance.  I'm 
+sure I drive them crazy, but they never let on that I do.  Thanks Mom and Dad.
+Also- thank you to all of the people that have E-Mailed me questions.  This is 
+where I got the questions for the FAQ section- they are actual people.  Thanks 
+for reading my FAQs!
+
+This FAQ is Copyright MysteryMoogle 1999

@@ -1,0 +1,2487 @@
+{
+  "nodes": [
+    {
+      "id": "Hill_of_Destiny",
+      "label": "Hill of Destiny",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-5-2",
+        "gf1-9-1",
+        "gf1-9-2"
+      ]
+    },
+    {
+      "id": "Level_Forest",
+      "label": "Level Forest",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-2",
+        "checklist-items-2-8",
+        "gf1-10-1"
+      ]
+    },
+    {
+      "id": "Foresta",
+      "label": "Foresta",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-4-1",
+        "gf1-8-2",
+        "gf1-17-1"
+      ]
+    },
+    {
+      "id": "Sand_Temple",
+      "label": "Sand Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-8-5",
+        "gf1-13-2",
+        "gf2-8-1"
+      ]
+    },
+    {
+      "id": "Bone_Dungeon",
+      "label": "Bone Dungeon",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-6",
+        "checklist-items-3-5",
+        "checklist-items-4-8"
+      ]
+    },
+    {
+      "id": "Battlefield_No1",
+      "label": "Battlefield #1",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-76-1",
+        "gf3-76-2"
+      ]
+    },
+    {
+      "id": "Battlefield_No2",
+      "label": "Battlefield #2",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-76-3"
+      ]
+    },
+    {
+      "id": "Battlefield_No3",
+      "label": "Battlefield #3",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-27-1",
+        "gf3-77-1"
+      ]
+    },
+    {
+      "id": "Focus_Tower",
+      "label": "Focus Tower",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-3-2",
+        "checklist-items-4-6",
+        "checklist-items-4-7"
+      ]
+    },
+    {
+      "id": "Battlefield_No4",
+      "label": "Battlefield #4",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-11-3",
+        "gf3-27-2",
+        "gf3-27-3"
+      ]
+    },
+    {
+      "id": "Libra_Temple",
+      "label": "Libra Temple",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-4-2",
+        "checklist-items-6-14",
+        "gf1-8-7"
+      ]
+    },
+    {
+      "id": "Battlefield_No5",
+      "label": "Battlefield #5",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-12-2",
+        "gf3-27-4",
+        "gf3-77-4"
+      ]
+    },
+    {
+      "id": "Aquaria",
+      "label": "Aquaria",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-3",
+        "checklist-items-5-1",
+        "checklist-items-5-11"
+      ]
+    },
+    {
+      "id": "Battlefield_No6",
+      "label": "Battlefield #6",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-83-5",
+        "gf2-12-3",
+        "gf2-12-4"
+      ]
+    },
+    {
+      "id": "Battlefield_No7",
+      "label": "Battlefield #7",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-72-8",
+        "gf2-13-5",
+        "gf3-28-3"
+      ]
+    },
+    {
+      "id": "Battlefield_No8",
+      "label": "Battlefield #8",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-15-2",
+        "gf2-15-3",
+        "gf3-32-1"
+      ]
+    },
+    {
+      "id": "Wintry_Cave",
+      "label": "Wintry Cave",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-3-1",
+        "checklist-items-6-8",
+        "gf1-23-1"
+      ]
+    },
+    {
+      "id": "Life_Temple",
+      "label": "Life Temple",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-9",
+        "gf1-25-3",
+        "gf1-25-4"
+      ]
+    },
+    {
+      "id": "Falls_Basin",
+      "label": "Falls Basin",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-6-12",
+        "gf1-26-2",
+        "gf1-26-5"
+      ]
+    },
+    {
+      "id": "Battlefield_No9",
+      "label": "Battlefield #9",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-17-8",
+        "gf2-17-9",
+        "gf3-33-5"
+      ]
+    },
+    {
+      "id": "Ice_Pyramid",
+      "label": "Ice Pyramid",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-12",
+        "checklist-items-3-4",
+        "checklist-items-6-3"
+      ]
+    },
+    {
+      "id": "Battlefield_No10",
+      "label": "Battlefield #10",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-39-1",
+        "gf3-79-3"
+      ]
+    },
+    {
+      "id": "Battlefield_No11",
+      "label": "Battlefield #11",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-39-2"
+      ]
+    },
+    {
+      "id": "Spencers_Place",
+      "label": "Spencer's Place",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-5",
+        "checklist-items-2-11",
+        "checklist-items-3-3"
+      ]
+    },
+    {
+      "id": "Battlefield_No12",
+      "label": "Battlefield #12",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-39-3",
+        "gf4-16-6"
+      ]
+    },
+    {
+      "id": "Battlefield_No13",
+      "label": "Battlefield #13",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-80-1",
+        "gf4-22-6"
+      ]
+    },
+    {
+      "id": "Battlefield_No14",
+      "label": "Battlefield #14",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-19-6"
+      ]
+    },
+    {
+      "id": "Fireburg",
+      "label": "Fireburg",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-4",
+        "checklist-items-2-7",
+        "checklist-items-2-10"
+      ]
+    },
+    {
+      "id": "Battlefield_No15",
+      "label": "Battlefield #15",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-23-8",
+        "gf2-23-9",
+        "gf2-23-10"
+      ]
+    },
+    {
+      "id": "Mine",
+      "label": "Mine",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-6-9",
+        "gf1-36-1",
+        "gf1-36-2"
+      ]
+    },
+    {
+      "id": "Battlefield_No16",
+      "label": "Battlefield #16",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-23-11",
+        "gf2-23-12",
+        "gf3-41-1"
+      ]
+    },
+    {
+      "id": "Sealed_Temple",
+      "label": "Sealed Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-37-3",
+        "gf1-38-1",
+        "gf1-38-2"
+      ]
+    },
+    {
+      "id": "Wintry_Temple",
+      "label": "Wintry Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-38-3",
+        "gf4-2-24"
+      ]
+    },
+    {
+      "id": "Battlefield_No17",
+      "label": "Battlefield #17",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-25-4",
+        "gf2-25-5",
+        "gf3-82-1"
+      ]
+    },
+    {
+      "id": "Volcano",
+      "label": "Volcano",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-2-13",
+        "checklist-items-4-12",
+        "gf1-40-1"
+      ]
+    },
+    {
+      "id": "Battlefield_No18",
+      "label": "Battlefield #18",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-29-1",
+        "gf2-29-2",
+        "gf3-82-2"
+      ]
+    },
+    {
+      "id": "Lava_Dome",
+      "label": "Lava Dome",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-3-7",
+        "checklist-items-4-4",
+        "checklist-items-5-2"
+      ]
+    },
+    {
+      "id": "Doom_Castle_B2",
+      "label": "Doom Castle B2",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-30-1",
+        "ra-guide-11-9"
+      ]
+    },
+    {
+      "id": "Rope_Bridge",
+      "label": "Rope Bridge",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-44-1",
+        "gf1-44-2",
+        "gf1-44-3"
+      ]
+    },
+    {
+      "id": "Alive_Forest",
+      "label": "Alive Forest",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-6-7",
+        "gf1-45-2",
+        "gf1-45-3"
+      ]
+    },
+    {
+      "id": "Giant_Tree",
+      "label": "Giant Tree",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-4-10",
+        "gf1-47-5",
+        "gf1-47-6"
+      ]
+    },
+    {
+      "id": "Kaidge_Temple",
+      "label": "Kaidge Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-49-1",
+        "gf1-49-2",
+        "gf2-34-1"
+      ]
+    },
+    {
+      "id": "Battlefield_No19",
+      "label": "Battlefield #19",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-53-1",
+        "gf3-83-1",
+        "gf3-83-2"
+      ]
+    },
+    {
+      "id": "Windia",
+      "label": "Windia",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-51-1",
+        "gf1-51-2",
+        "gf1-51-3"
+      ]
+    },
+    {
+      "id": "Battlefield_No20",
+      "label": "Battlefield #20",
+      "kind": "area",
+      "fact_ids": [
+        "gf3-53-2",
+        "gf3-83-3",
+        "gf4-23-4"
+      ]
+    },
+    {
+      "id": "Windhole_Temple",
+      "label": "Windhole Temple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-52-1",
+        "gf2-36-1"
+      ]
+    },
+    {
+      "id": "Mount_Gale",
+      "label": "Mount Gale",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-5-3",
+        "gf1-52-2",
+        "gf1-52-3"
+      ]
+    },
+    {
+      "id": "Pazuzus_Tower",
+      "label": "Pazuzu's Tower",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-3-6",
+        "checklist-items-4-9",
+        "checklist-items-6-4"
+      ]
+    },
+    {
+      "id": "Light_Temple",
+      "label": "Light Temple",
+      "kind": "area",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "ra-comments-47-3"
+      ]
+    },
+    {
+      "id": "Ship_Dock",
+      "label": "Ship Dock",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-40-1"
+      ]
+    },
+    {
+      "id": "Macs_Ship",
+      "label": "Mac's Ship",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-5-6",
+        "gf1-59-1",
+        "gf1-59-3"
+      ]
+    },
+    {
+      "id": "Doom_Castle",
+      "label": "Doom Castle",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-4-5",
+        "checklist-items-5-9",
+        "gf1-43-4"
+      ]
+    },
+    {
+      "id": "Behemoth",
+      "label": "Behemoth",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-9-2"
+      ]
+    },
+    {
+      "id": "Minotaur",
+      "label": "Minotaur",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-12-3",
+        "ra-guide-5-3"
+      ]
+    },
+    {
+      "id": "Flamerus_Rex",
+      "label": "Flamerus Rex",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-16-1",
+        "gf2-10-4"
+      ]
+    },
+    {
+      "id": "Squidite",
+      "label": "Squidite",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-23-11",
+        "gf2-48-7"
+      ]
+    },
+    {
+      "id": "Snow_Crab",
+      "label": "Snow Crab",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-17-6",
+        "gf3-33-1"
+      ]
+    },
+    {
+      "id": "Ice_Golem",
+      "label": "Ice Golem",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-29-6",
+        "gf2-19-7"
+      ]
+    },
+    {
+      "id": "Jinn",
+      "label": "Jinn",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-24-4",
+        "gf3-42-1"
+      ]
+    },
+    {
+      "id": "Medusa",
+      "label": "Medusa",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-26-10",
+        "gf2-54-1"
+      ]
+    },
+    {
+      "id": "Dualhead_Hydra",
+      "label": "Dualhead Hydra",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-42-3",
+        "gf3-47-1"
+      ]
+    },
+    {
+      "id": "Gidrah",
+      "label": "Gidrah",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-48-3",
+        "gf2-33-5"
+      ]
+    },
+    {
+      "id": "Dullahan",
+      "label": "Dullahan",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-52-5",
+        "gf2-36-5"
+      ]
+    },
+    {
+      "id": "Pazuzu",
+      "label": "Pazuzu",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-38-2",
+        "gf3-57-1"
+      ]
+    },
+    {
+      "id": "Skullrus_Rex",
+      "label": "Skullrus Rex",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-60-7",
+        "gf2-42-3"
+      ]
+    },
+    {
+      "id": "Stone_Golem",
+      "label": "Stone Golem",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-61-5",
+        "gf2-43-4"
+      ]
+    },
+    {
+      "id": "Twinhead_Wyvern",
+      "label": "Twinhead Wyvern",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-61-6",
+        "gf2-43-8"
+      ]
+    },
+    {
+      "id": "Zuh",
+      "label": "Zuh",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-62-6",
+        "gf2-44-2"
+      ]
+    },
+    {
+      "id": "Dark_King",
+      "label": "Dark King",
+      "kind": "boss",
+      "fact_ids": [
+        "gf2-51-1",
+        "gf1-71-12"
+      ]
+    },
+    {
+      "id": "Tree_Wither",
+      "label": "Tree Wither",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-items-2-8",
+        "gf1-11-1"
+      ]
+    },
+    {
+      "id": "Sand_Coin",
+      "label": "Sand Coin",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-16-4",
+        "gf2-48-1"
+      ]
+    },
+    {
+      "id": "Libra_Crest",
+      "label": "Libra Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-items-3-1",
+        "gf1-25-2"
+      ]
+    },
+    {
+      "id": "Wakewater",
+      "label": "Wakewater",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-25-4",
+        "gf1-26-1"
+      ]
+    },
+    {
+      "id": "Magic_Mirror",
+      "label": "Magic Mirror",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-18-1",
+        "ra-comments-18-4"
+      ]
+    },
+    {
+      "id": "River_Coin",
+      "label": "River Coin",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf2-20-1",
+        "gf2-47-4"
+      ]
+    },
+    {
+      "id": "Venus_Key",
+      "label": "Venus Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-30-2",
+        "gf1-32-2"
+      ]
+    },
+    {
+      "id": "Multi_Key",
+      "label": "Multi-Key",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-items-2-10",
+        "gf1-64-6"
+      ]
+    },
+    {
+      "id": "Gemini_Crest",
+      "label": "Gemini Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "checklist-items-3-2",
+        "ra-guide-12-4"
+      ]
+    },
+    {
+      "id": "Sun_Coin",
+      "label": "Sun Coin",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-42-2",
+        "gf2-48-3"
+      ]
+    },
+    {
+      "id": "Dragon_Claw",
+      "label": "Dragon Claw",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-46-1",
+        "ra-guide-15-6"
+      ]
+    },
+    {
+      "id": "Sky_Coin",
+      "label": "Sky Coin",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-55-4",
+        "gf4-23-8"
+      ]
+    },
+    {
+      "id": "Thunder_Rock",
+      "label": "Thunder Rock",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-56-2",
+        "ra-guide-17-5"
+      ]
+    },
+    {
+      "id": "Mobius_Crest",
+      "label": "Mobius Crest",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-57-5",
+        "ra-guide-17-7"
+      ]
+    },
+    {
+      "id": "Captain_Cap",
+      "label": "Captain Cap",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-58-1",
+        "gf1-64-1"
+      ]
+    },
+    {
+      "id": "Ach_7531",
+      "label": "She Talks to Trees... Then Cuts Them Down",
+      "kind": "achievement",
+      "achievement_id": 7531
+    },
+    {
+      "id": "Ach_7512",
+      "label": "Battlefield Tourist",
+      "kind": "achievement",
+      "achievement_id": 7512
+    },
+    {
+      "id": "Ach_7534",
+      "label": "But Isolde is Nowhere to be Found",
+      "kind": "achievement",
+      "achievement_id": 7534
+    },
+    {
+      "id": "Ach_8133",
+      "label": "No Grinding Allowed!",
+      "kind": "achievement",
+      "achievement_id": 8133
+    },
+    {
+      "id": "Ach_449394",
+      "label": "Bone Collector",
+      "kind": "achievement",
+      "achievement_id": 449394
+    },
+    {
+      "id": "Ach_7533",
+      "label": "But What About the Dragon Claw?",
+      "kind": "achievement",
+      "achievement_id": 7533
+    },
+    {
+      "id": "Ach_7547",
+      "label": "She Predates 'Friends' by Two Years",
+      "kind": "achievement",
+      "achievement_id": 7547
+    },
+    {
+      "id": "Ach_8512",
+      "label": "Captain Nemo",
+      "kind": "achievement",
+      "achievement_id": 8512
+    },
+    {
+      "id": "Ach_8514",
+      "label": "Hope You're Not Afraid of Heights!",
+      "kind": "achievement",
+      "achievement_id": 8514
+    },
+    {
+      "id": "Ach_8586",
+      "label": "An Arctic Specialty",
+      "kind": "achievement",
+      "achievement_id": 8586
+    },
+    {
+      "id": "Ach_8591",
+      "label": "Narcissus",
+      "kind": "achievement",
+      "achievement_id": 8591
+    },
+    {
+      "id": "Ach_449395",
+      "label": "Fridge Raider",
+      "kind": "achievement",
+      "achievement_id": 449395
+    },
+    {
+      "id": "Ach_449391",
+      "label": "Never Saw It Coming",
+      "kind": "achievement",
+      "achievement_id": 449391
+    },
+    {
+      "id": "Ach_8601",
+      "label": "Let It Flow",
+      "kind": "achievement",
+      "achievement_id": 8601
+    },
+    {
+      "id": "Ach_8607",
+      "label": "Rock 'n' Roll!",
+      "kind": "achievement",
+      "achievement_id": 8607
+    },
+    {
+      "id": "Ach_8786",
+      "label": "Hold the Sauerkraut",
+      "kind": "achievement",
+      "achievement_id": 8786
+    },
+    {
+      "id": "Ach_449369",
+      "label": "Just Throw It",
+      "kind": "achievement",
+      "achievement_id": 449369
+    },
+    {
+      "id": "Ach_8793",
+      "label": "Got to Word Your Wish Just Right",
+      "kind": "achievement",
+      "achievement_id": 8793
+    },
+    {
+      "id": "Ach_8795",
+      "label": "Breaking the Seal",
+      "kind": "achievement",
+      "achievement_id": 8795
+    },
+    {
+      "id": "Ach_8840",
+      "label": "See Through the Smoke",
+      "kind": "achievement",
+      "achievement_id": 8840
+    },
+    {
+      "id": "Ach_8859",
+      "label": "Perseus",
+      "kind": "achievement",
+      "achievement_id": 8859
+    },
+    {
+      "id": "Ach_449365",
+      "label": "The Bright Side",
+      "kind": "achievement",
+      "achievement_id": 449365
+    },
+    {
+      "id": "Ach_449396",
+      "label": "Hot Take",
+      "kind": "achievement",
+      "achievement_id": 449396
+    },
+    {
+      "id": "Ach_449392",
+      "label": "Speak No Evil",
+      "kind": "achievement",
+      "achievement_id": 449392
+    },
+    {
+      "id": "Ach_9054",
+      "label": "Praise the Sun",
+      "kind": "achievement",
+      "achievement_id": 9054
+    },
+    {
+      "id": "Ach_449364",
+      "label": "The Dark Side",
+      "kind": "achievement",
+      "achievement_id": 449364
+    },
+    {
+      "id": "Ach_449368",
+      "label": "Chop Chop",
+      "kind": "achievement",
+      "achievement_id": 449368
+    },
+    {
+      "id": "Ach_449370",
+      "label": "Great Value Vega",
+      "kind": "achievement",
+      "achievement_id": 449370
+    },
+    {
+      "id": "Ach_9456",
+      "label": "Named for a Kaiju Villain",
+      "kind": "achievement",
+      "achievement_id": 9456
+    },
+    {
+      "id": "Ach_7513",
+      "label": "Battlefield Expert",
+      "kind": "achievement",
+      "achievement_id": 7513
+    },
+    {
+      "id": "Ach_449374",
+      "label": "Blinged Out",
+      "kind": "achievement",
+      "achievement_id": 449374
+    },
+    {
+      "id": "Ach_449371",
+      "label": "Can't Be Too Careful",
+      "kind": "achievement",
+      "achievement_id": 449371
+    },
+    {
+      "id": "Ach_9494",
+      "label": "Celtic Faerie",
+      "kind": "achievement",
+      "achievement_id": 9494
+    },
+    {
+      "id": "Ach_9508",
+      "label": "You'd Better Have Done This First...",
+      "kind": "achievement",
+      "achievement_id": 9508
+    },
+    {
+      "id": "Ach_449366",
+      "label": "Wild Wizardry",
+      "kind": "achievement",
+      "achievement_id": 449366
+    },
+    {
+      "id": "Ach_449367",
+      "label": "En Garde",
+      "kind": "achievement",
+      "achievement_id": 449367
+    },
+    {
+      "id": "Ach_449397",
+      "label": "Finders Keepers",
+      "kind": "achievement",
+      "achievement_id": 449397
+    },
+    {
+      "id": "Ach_449393",
+      "label": "Death Unbecomes Us",
+      "kind": "achievement",
+      "achievement_id": 449393
+    },
+    {
+      "id": "Ach_9649",
+      "label": "What Goes Up Must Come Down",
+      "kind": "achievement",
+      "achievement_id": 9649
+    },
+    {
+      "id": "Ach_9655",
+      "label": "Lonely Island",
+      "kind": "achievement",
+      "achievement_id": 9655
+    },
+    {
+      "id": "Ach_449372",
+      "label": "Looking Sharp",
+      "kind": "achievement",
+      "achievement_id": 449372
+    },
+    {
+      "id": "Ach_449373",
+      "label": "Duck and Cover",
+      "kind": "achievement",
+      "achievement_id": 449373
+    },
+    {
+      "id": "Ach_9713",
+      "label": "Bleached Bones",
+      "kind": "achievement",
+      "achievement_id": 9713
+    },
+    {
+      "id": "Ach_9714",
+      "label": "Much Harder to Melt Stone",
+      "kind": "achievement",
+      "achievement_id": 9714
+    },
+    {
+      "id": "Ach_9781",
+      "label": "It Only Has Two Legs, So It's Not a Dragon",
+      "kind": "achievement",
+      "achievement_id": 9781
+    },
+    {
+      "id": "Ach_9782",
+      "label": "Zuh?",
+      "kind": "achievement",
+      "achievement_id": 9782
+    },
+    {
+      "id": "Ach_449398",
+      "label": "The Black Hand",
+      "kind": "achievement",
+      "achievement_id": 449398
+    },
+    {
+      "id": "Ach_449399",
+      "label": "Paper Tiger",
+      "kind": "achievement",
+      "achievement_id": 449399
+    },
+    {
+      "id": "Ach_9793",
+      "label": "With Guidance from the Crystals",
+      "kind": "achievement",
+      "achievement_id": 9793
+    },
+    {
+      "id": "Ach_9012",
+      "label": "Well, Now You Can Afford It",
+      "kind": "achievement",
+      "achievement_id": 9012
+    },
+    {
+      "id": "Ach_449400",
+      "label": "Illiterate",
+      "kind": "achievement",
+      "achievement_id": 449400
+    }
+  ],
+  "edges": [
+    {
+      "from": "Hill_of_Destiny",
+      "to": "Level_Forest",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-2"
+      ]
+    },
+    {
+      "from": "Level_Forest",
+      "to": "Foresta",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-4-1"
+      ]
+    },
+    {
+      "from": "Foresta",
+      "to": "Sand_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-8-5"
+      ]
+    },
+    {
+      "from": "Sand_Temple",
+      "to": "Bone_Dungeon",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-6"
+      ]
+    },
+    {
+      "from": "Bone_Dungeon",
+      "to": "Battlefield_No1",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-76-1"
+      ]
+    },
+    {
+      "from": "Battlefield_No1",
+      "to": "Battlefield_No2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-76-3"
+      ]
+    },
+    {
+      "from": "Battlefield_No2",
+      "to": "Battlefield_No3",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-27-1"
+      ]
+    },
+    {
+      "from": "Battlefield_No3",
+      "to": "Focus_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-2"
+      ]
+    },
+    {
+      "from": "Focus_Tower",
+      "to": "Battlefield_No4",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-11-3"
+      ]
+    },
+    {
+      "from": "Battlefield_No4",
+      "to": "Libra_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-4-2"
+      ]
+    },
+    {
+      "from": "Libra_Temple",
+      "to": "Battlefield_No5",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-12-2"
+      ]
+    },
+    {
+      "from": "Battlefield_No5",
+      "to": "Aquaria",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-3"
+      ]
+    },
+    {
+      "from": "Aquaria",
+      "to": "Battlefield_No6",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-83-5"
+      ]
+    },
+    {
+      "from": "Battlefield_No6",
+      "to": "Battlefield_No7",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-72-8"
+      ]
+    },
+    {
+      "from": "Battlefield_No7",
+      "to": "Battlefield_No8",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-15-2"
+      ]
+    },
+    {
+      "from": "Battlefield_No8",
+      "to": "Wintry_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-1"
+      ]
+    },
+    {
+      "from": "Wintry_Cave",
+      "to": "Life_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-9"
+      ]
+    },
+    {
+      "from": "Life_Temple",
+      "to": "Falls_Basin",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-6-12"
+      ]
+    },
+    {
+      "from": "Falls_Basin",
+      "to": "Battlefield_No9",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-17-8"
+      ]
+    },
+    {
+      "from": "Battlefield_No9",
+      "to": "Ice_Pyramid",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-12"
+      ]
+    },
+    {
+      "from": "Ice_Pyramid",
+      "to": "Battlefield_No10",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-39-1"
+      ]
+    },
+    {
+      "from": "Battlefield_No10",
+      "to": "Battlefield_No11",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-39-2"
+      ]
+    },
+    {
+      "from": "Battlefield_No11",
+      "to": "Spencers_Place",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-5"
+      ]
+    },
+    {
+      "from": "Spencers_Place",
+      "to": "Focus_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-2"
+      ]
+    },
+    {
+      "from": "Focus_Tower",
+      "to": "Battlefield_No12",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-39-3"
+      ]
+    },
+    {
+      "from": "Battlefield_No12",
+      "to": "Battlefield_No13",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-80-1"
+      ]
+    },
+    {
+      "from": "Battlefield_No13",
+      "to": "Battlefield_No14",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-19-6"
+      ]
+    },
+    {
+      "from": "Battlefield_No14",
+      "to": "Fireburg",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-4"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Battlefield_No15",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-23-8"
+      ]
+    },
+    {
+      "from": "Battlefield_No15",
+      "to": "Mine",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-6-9"
+      ]
+    },
+    {
+      "from": "Mine",
+      "to": "Battlefield_No16",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-23-11"
+      ]
+    },
+    {
+      "from": "Battlefield_No16",
+      "to": "Sealed_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-37-3"
+      ]
+    },
+    {
+      "from": "Sealed_Temple",
+      "to": "Wintry_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-38-3"
+      ]
+    },
+    {
+      "from": "Wintry_Temple",
+      "to": "Battlefield_No17",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-25-4"
+      ]
+    },
+    {
+      "from": "Battlefield_No17",
+      "to": "Volcano",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-13"
+      ]
+    },
+    {
+      "from": "Volcano",
+      "to": "Battlefield_No18",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-29-1"
+      ]
+    },
+    {
+      "from": "Battlefield_No18",
+      "to": "Lava_Dome",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-7"
+      ]
+    },
+    {
+      "from": "Lava_Dome",
+      "to": "Focus_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-2"
+      ]
+    },
+    {
+      "from": "Focus_Tower",
+      "to": "Doom_Castle_B2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-30-1"
+      ]
+    },
+    {
+      "from": "Doom_Castle_B2",
+      "to": "Rope_Bridge",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-44-1"
+      ]
+    },
+    {
+      "from": "Rope_Bridge",
+      "to": "Alive_Forest",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-6-7"
+      ]
+    },
+    {
+      "from": "Alive_Forest",
+      "to": "Spencers_Place",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-5"
+      ]
+    },
+    {
+      "from": "Spencers_Place",
+      "to": "Giant_Tree",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-4-10"
+      ]
+    },
+    {
+      "from": "Giant_Tree",
+      "to": "Kaidge_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-49-1"
+      ]
+    },
+    {
+      "from": "Kaidge_Temple",
+      "to": "Battlefield_No19",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-53-1"
+      ]
+    },
+    {
+      "from": "Battlefield_No19",
+      "to": "Windia",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-51-1"
+      ]
+    },
+    {
+      "from": "Windia",
+      "to": "Battlefield_No20",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-53-2"
+      ]
+    },
+    {
+      "from": "Battlefield_No20",
+      "to": "Windhole_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-52-1"
+      ]
+    },
+    {
+      "from": "Windhole_Temple",
+      "to": "Mount_Gale",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-5-3"
+      ]
+    },
+    {
+      "from": "Mount_Gale",
+      "to": "Pazuzus_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-6"
+      ]
+    },
+    {
+      "from": "Pazuzus_Tower",
+      "to": "Spencers_Place",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-2-5"
+      ]
+    },
+    {
+      "from": "Spencers_Place",
+      "to": "Light_Temple",
+      "kind": "leads_to",
+      "fact_ids": [
+        "ra-comments-47-1"
+      ]
+    },
+    {
+      "from": "Light_Temple",
+      "to": "Ship_Dock",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-40-1"
+      ]
+    },
+    {
+      "from": "Ship_Dock",
+      "to": "Macs_Ship",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-5-6"
+      ]
+    },
+    {
+      "from": "Macs_Ship",
+      "to": "Focus_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-3-2"
+      ]
+    },
+    {
+      "from": "Focus_Tower",
+      "to": "Doom_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "checklist-items-4-5"
+      ]
+    },
+    {
+      "from": "Hill_of_Destiny",
+      "to": "Behemoth",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-9-2"
+      ]
+    },
+    {
+      "from": "Level_Forest",
+      "to": "Minotaur",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-12-3"
+      ]
+    },
+    {
+      "from": "Bone_Dungeon",
+      "to": "Flamerus_Rex",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-16-1"
+      ]
+    },
+    {
+      "from": "Wintry_Cave",
+      "to": "Squidite",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-23-11"
+      ]
+    },
+    {
+      "from": "Falls_Basin",
+      "to": "Snow_Crab",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-17-6"
+      ]
+    },
+    {
+      "from": "Ice_Pyramid",
+      "to": "Ice_Golem",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-29-6"
+      ]
+    },
+    {
+      "from": "Mine",
+      "to": "Jinn",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-24-4"
+      ]
+    },
+    {
+      "from": "Volcano",
+      "to": "Medusa",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-26-10"
+      ]
+    },
+    {
+      "from": "Lava_Dome",
+      "to": "Dualhead_Hydra",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-42-3"
+      ]
+    },
+    {
+      "from": "Giant_Tree",
+      "to": "Gidrah",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-48-3"
+      ]
+    },
+    {
+      "from": "Mount_Gale",
+      "to": "Dullahan",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-52-5"
+      ]
+    },
+    {
+      "from": "Pazuzus_Tower",
+      "to": "Pazuzu",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-38-2"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Skullrus_Rex",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-60-7"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Stone_Golem",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-61-5"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Twinhead_Wyvern",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-61-6"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Zuh",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-62-6"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Dark_King",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-51-1"
+      ]
+    },
+    {
+      "from": "Level_Forest",
+      "to": "Tree_Wither",
+      "kind": "contains",
+      "fact_ids": [
+        "checklist-items-2-8"
+      ]
+    },
+    {
+      "from": "Tree_Wither",
+      "to": "Foresta",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-11-1"
+      ]
+    },
+    {
+      "from": "Flamerus_Rex",
+      "to": "Sand_Coin",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-16-4"
+      ]
+    },
+    {
+      "from": "Sand_Coin",
+      "to": "Focus_Tower",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-48-1"
+      ]
+    },
+    {
+      "from": "Squidite",
+      "to": "Libra_Crest",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-3-1"
+      ]
+    },
+    {
+      "from": "Libra_Crest",
+      "to": "Life_Temple",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-25-2"
+      ]
+    },
+    {
+      "from": "Life_Temple",
+      "to": "Wakewater",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-25-4"
+      ]
+    },
+    {
+      "from": "Wakewater",
+      "to": "Aquaria",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-26-1"
+      ]
+    },
+    {
+      "from": "Ice_Pyramid",
+      "to": "Magic_Mirror",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-18-1"
+      ]
+    },
+    {
+      "from": "Ice_Golem",
+      "to": "River_Coin",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-20-1"
+      ]
+    },
+    {
+      "from": "River_Coin",
+      "to": "Focus_Tower",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-47-4"
+      ]
+    },
+    {
+      "from": "Spencers_Place",
+      "to": "Venus_Key",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-30-2"
+      ]
+    },
+    {
+      "from": "Venus_Key",
+      "to": "Focus_Tower",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-32-2"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Multi_Key",
+      "kind": "contains",
+      "fact_ids": [
+        "checklist-items-2-10"
+      ]
+    },
+    {
+      "from": "Battlefield_No13",
+      "to": "Gemini_Crest",
+      "kind": "contains",
+      "fact_ids": [
+        "checklist-items-3-2"
+      ]
+    },
+    {
+      "from": "Gemini_Crest",
+      "to": "Sealed_Temple",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-12-4"
+      ]
+    },
+    {
+      "from": "Dualhead_Hydra",
+      "to": "Sun_Coin",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-42-2"
+      ]
+    },
+    {
+      "from": "Sun_Coin",
+      "to": "Focus_Tower",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-48-3"
+      ]
+    },
+    {
+      "from": "Spencers_Place",
+      "to": "Dragon_Claw",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-46-1"
+      ]
+    },
+    {
+      "from": "Dragon_Claw",
+      "to": "Giant_Tree",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-15-6"
+      ]
+    },
+    {
+      "from": "Pazuzu",
+      "to": "Sky_Coin",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-55-4"
+      ]
+    },
+    {
+      "from": "Sky_Coin",
+      "to": "Focus_Tower",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-23-8"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Thunder_Rock",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-56-2"
+      ]
+    },
+    {
+      "from": "Thunder_Rock",
+      "to": "Spencers_Place",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-17-5"
+      ]
+    },
+    {
+      "from": "Spencers_Place",
+      "to": "Mobius_Crest",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-57-5"
+      ]
+    },
+    {
+      "from": "Mobius_Crest",
+      "to": "Light_Temple",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-guide-17-7"
+      ]
+    },
+    {
+      "from": "Windia",
+      "to": "Captain_Cap",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-58-1"
+      ]
+    },
+    {
+      "from": "Captain_Cap",
+      "to": "Macs_Ship",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-64-1"
+      ]
+    },
+    {
+      "from": "Foresta",
+      "to": "Ach_7531",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-2-8",
+        "gf1-8-1",
+        "gf1-46-4"
+      ]
+    },
+    {
+      "from": "Battlefield_No1",
+      "to": "Ach_7512",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-17-3",
+        "gf1-20-3",
+        "gf1-27-2"
+      ]
+    },
+    {
+      "from": "Sand_Temple",
+      "to": "Ach_7534",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-8-5",
+        "gf1-13-2"
+      ]
+    },
+    {
+      "from": "Flamerus_Rex",
+      "to": "Ach_8133",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-48-6",
+        "gf2-10-4",
+        "gf2-10-5"
+      ]
+    },
+    {
+      "from": "Bone_Dungeon",
+      "to": "Ach_449394",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-3-5",
+        "checklist-items-4-8",
+        "checklist-items-5-7"
+      ]
+    },
+    {
+      "from": "Sand_Coin",
+      "to": "Ach_7533",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-3-5",
+        "gf1-16-4",
+        "gf2-48-1"
+      ]
+    },
+    {
+      "from": "Libra_Temple",
+      "to": "Ach_7547",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-8-7",
+        "gf1-59-6",
+        "gf2-12-5"
+      ]
+    },
+    {
+      "from": "Squidite",
+      "to": "Ach_8512",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-23-11",
+        "gf1-23-12",
+        "gf1-85-10"
+      ]
+    },
+    {
+      "from": "Life_Temple",
+      "to": "Ach_8514",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-25-3",
+        "ra-comments-14-1",
+        "ra-guide-9-3"
+      ]
+    },
+    {
+      "from": "Snow_Crab",
+      "to": "Ach_8586",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-84-10",
+        "gf2-17-6",
+        "gf3-33-1"
+      ]
+    },
+    {
+      "from": "Magic_Mirror",
+      "to": "Ach_8591",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-2-12",
+        "gf2-18-1",
+        "gf2-47-2"
+      ]
+    },
+    {
+      "from": "Ice_Pyramid",
+      "to": "Ach_449395",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-6-3",
+        "gf1-28-4",
+        "gf1-28-5"
+      ]
+    },
+    {
+      "from": "Ice_Golem",
+      "to": "Ach_449391",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-35-1",
+        "gf3-35-2",
+        "ra-comments-16-3"
+      ]
+    },
+    {
+      "from": "River_Coin",
+      "to": "Ach_8601",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-3-4",
+        "gf2-20-1",
+        "gf2-47-4"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Ach_8607",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "ra-guide-11-15"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Ach_8786",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-8-10",
+        "gf1-56-1",
+        "gf3-38-1"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Ach_449369",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-6-11",
+        "checklist-items-6-12",
+        "checklist-items-6-13"
+      ]
+    },
+    {
+      "from": "Jinn",
+      "to": "Ach_8793",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-76-3",
+        "gf2-24-4",
+        "gf2-24-5"
+      ]
+    },
+    {
+      "from": "Wintry_Temple",
+      "to": "Ach_8795",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-38-3",
+        "ra-comments-24-1",
+        "ra-comments-24-2"
+      ]
+    },
+    {
+      "from": "Volcano",
+      "to": "Ach_8840",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-2-13",
+        "gf1-40-8",
+        "gf2-26-5"
+      ]
+    },
+    {
+      "from": "Medusa",
+      "to": "Ach_8859",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-40-12",
+        "gf2-26-10",
+        "gf3-71-2"
+      ]
+    },
+    {
+      "from": "Lava_Dome",
+      "to": "Ach_449365",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-4-1",
+        "checklist-items-4-2",
+        "checklist-items-4-4"
+      ]
+    },
+    {
+      "from": "Lava_Dome",
+      "to": "Ach_449396",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-41-2",
+        "gf1-41-3",
+        "gf1-41-5"
+      ]
+    },
+    {
+      "from": "Dualhead_Hydra",
+      "to": "Ach_449392",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-28-8",
+        "gf2-28-9",
+        "gf3-47-1"
+      ]
+    },
+    {
+      "from": "Sun_Coin",
+      "to": "Ach_9054",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-3-7",
+        "gf1-42-2",
+        "gf2-28-10"
+      ]
+    },
+    {
+      "from": "Doom_Castle_B2",
+      "to": "Ach_449364",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-4-5",
+        "checklist-items-4-6",
+        "checklist-items-4-7"
+      ]
+    },
+    {
+      "from": "Alive_Forest",
+      "to": "Ach_449368",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-6-5",
+        "checklist-items-6-6",
+        "checklist-items-6-7"
+      ]
+    },
+    {
+      "from": "Dragon_Claw",
+      "to": "Ach_449370",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-6-8",
+        "checklist-items-6-9",
+        "checklist-items-6-10"
+      ]
+    },
+    {
+      "from": "Gidrah",
+      "to": "Ach_9456",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-48-3",
+        "gf1-48-4",
+        "gf1-75-2"
+      ]
+    },
+    {
+      "from": "Battlefield_No20",
+      "to": "Ach_7513",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-83-5",
+        "gf2-2-2",
+        "gf2-21-4"
+      ]
+    },
+    {
+      "from": "Windia",
+      "to": "Ach_449374",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-5-10",
+        "checklist-items-5-11",
+        "gf1-20-3"
+      ]
+    },
+    {
+      "from": "Mount_Gale",
+      "to": "Ach_449371",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-5-1",
+        "checklist-items-5-2",
+        "checklist-items-5-3"
+      ]
+    },
+    {
+      "from": "Dullahan",
+      "to": "Ach_9494",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-52-5",
+        "gf1-72-4",
+        "gf1-72-5"
+      ]
+    },
+    {
+      "from": "Pazuzus_Tower",
+      "to": "Ach_9508",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-54-1",
+        "gf2-37-1",
+        "gf3-56-2"
+      ]
+    },
+    {
+      "from": "Pazuzus_Tower",
+      "to": "Ach_449366",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-4-9",
+        "checklist-items-4-10",
+        "checklist-items-4-11"
+      ]
+    },
+    {
+      "from": "Pazuzus_Tower",
+      "to": "Ach_449367",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-6-2",
+        "checklist-items-6-3",
+        "checklist-items-6-4"
+      ]
+    },
+    {
+      "from": "Pazuzus_Tower",
+      "to": "Ach_449397",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-54-5",
+        "gf1-54-10",
+        "gf1-54-11"
+      ]
+    },
+    {
+      "from": "Pazuzu",
+      "to": "Ach_449393",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-45-1",
+        "ra-comments-45-2",
+        "ra-comments-45-3"
+      ]
+    },
+    {
+      "from": "Sky_Coin",
+      "to": "Ach_9649",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-3-6",
+        "gf1-55-4",
+        "gf2-38-3"
+      ]
+    },
+    {
+      "from": "Light_Temple",
+      "to": "Ach_9655",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-47-1",
+        "ra-comments-47-2",
+        "ra-comments-47-3"
+      ]
+    },
+    {
+      "from": "Macs_Ship",
+      "to": "Ach_449372",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-5-4",
+        "checklist-items-5-6",
+        "gf1-28-10"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Ach_449373",
+      "kind": "unlocks",
+      "fact_ids": [
+        "checklist-items-5-7",
+        "checklist-items-5-8",
+        "checklist-items-5-9"
+      ]
+    },
+    {
+      "from": "Skullrus_Rex",
+      "to": "Ach_9713",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-60-7",
+        "gf2-42-3",
+        "gf2-42-4"
+      ]
+    },
+    {
+      "from": "Stone_Golem",
+      "to": "Ach_9714",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-61-5",
+        "gf2-43-3",
+        "gf2-43-4"
+      ]
+    },
+    {
+      "from": "Twinhead_Wyvern",
+      "to": "Ach_9781",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-61-6",
+        "gf1-87-4",
+        "gf2-43-7"
+      ]
+    },
+    {
+      "from": "Zuh",
+      "to": "Ach_9782",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-62-6",
+        "gf1-88-10",
+        "gf1-88-11"
+      ]
+    },
+    {
+      "from": "Doom_Castle",
+      "to": "Ach_449398",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-43-4",
+        "gf1-60-1",
+        "gf1-60-2"
+      ]
+    },
+    {
+      "from": "Dark_King",
+      "to": "Ach_449399",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-71-12",
+        "gf2-2-4",
+        "gf3-142-1"
+      ]
+    },
+    {
+      "from": "Dark_King",
+      "to": "Ach_9793",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-62-5",
+        "gf2-44-6",
+        "gf2-51-1"
+      ]
+    },
+    {
+      "from": "Macs_Ship",
+      "to": "Ach_9012",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-57-1",
+        "ra-comments-57-2",
+        "ra-comments-57-3"
+      ]
+    },
+    {
+      "from": "Dark_King",
+      "to": "Ach_449400",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-31-15",
+        "ra-comments-58-2",
+        "ra-comments-58-3"
+      ]
+    },
+    {
+      "from": "Bone_Dungeon",
+      "to": "Falls_Basin",
+      "kind": "missable_before",
+      "label": "Steel Shield chest before the Jumbo Bombs",
+      "fact_ids": [
+        "checklist-items-5-7",
+        "ra-guide-9-8"
+      ]
+    },
+    {
+      "from": "Falls_Basin",
+      "to": "Ice_Golem",
+      "kind": "missable_before",
+      "label": "Heal spellbook before beating the Ice Golem",
+      "fact_ids": [
+        "ra-guide-7-10",
+        "ra-guide-10-8"
+      ]
+    },
+    {
+      "from": "Ice_Golem",
+      "to": "Magic_Mirror",
+      "kind": "missable_before",
+      "label": "Leave the Magic Mirror until after the Ice Golem",
+      "fact_ids": [
+        "ra-comments-18-1",
+        "ra-comments-18-4"
+      ]
+    },
+    {
+      "from": "Aquaria",
+      "to": "Lava_Dome",
+      "kind": "missable_before",
+      "label": "Buy the Steel Helm before the Moon Helm",
+      "fact_ids": [
+        "ra-comments-39-1"
+      ]
+    },
+    {
+      "from": "Fireburg",
+      "to": "Alive_Forest",
+      "kind": "missable_before",
+      "label": "Buy the Battle Axe before the Giant's Axe",
+      "fact_ids": [
+        "ra-comments-34-1"
+      ]
+    },
+    {
+      "from": "Focus_Tower",
+      "to": "Alive_Forest",
+      "kind": "missable_before",
+      "label": "Venus Shield before talking to the giant tree",
+      "fact_ids": [
+        "ra-comments-49-1"
+      ]
+    },
+    {
+      "from": "Doom_Castle_B2",
+      "to": "Pazuzu",
+      "kind": "missable_before",
+      "label": "Aero chest before the Wind Crystal",
+      "fact_ids": [
+        "ra-comments-54-3",
+        "ra-comments-54-2"
+      ]
+    }
+  ]
+}

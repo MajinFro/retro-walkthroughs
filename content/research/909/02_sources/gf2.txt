@@ -1,0 +1,3286 @@
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+               -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+                          Final Fantasy Mystic Quest
+                                FAQ/Walkthrough
+                           By: Dark Vortex (Quan Jin)
+                            darkvortexfaqs@ymail.com
+                                  Version 1.2
+               -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+This guide may be found on the following sites:
+
+[http://www.gamefaqs.com]--------------------------------------------[GameFAQs]
+[http://www.gamespot.com]--------------------------------------------[GameSpot]
+[http://faqs.ign.com]------------------------------------------------[IGN FAQs]
+[http://www.neoseeker.com]------------------------------------------[Neoseeker]
+[http://www.dlh.net]--------------------------------------[Dirty Little Helper]
+[http://www.cheats.de]----------------------------------------------[Cheats.de]
+[http://www.supercheats.com]--------------------------------------[SuperCheats]
+[http://www.honestgamers.com]------------------------------------[HonestGamers]
+
+This guide is copyright (c)2005-2006 Quan Jin
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- Table Of Contents ---                                
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+      1. Introduction...............................................[1000]
+      2. FAQ........................................................[2000]  
+      3. Basics.....................................................[3000]
+            3.1. Controls...........................................[3100]
+            3.2. Battle Screen......................................[3200]
+      4. Walkthrough................................................[4000]
+            4.1. The Knight.........................................[4100]
+            4.2. Dungeon Of Bones...................................[4200]
+            4.3. Wakewater!.........................................[4300]
+            4.4. Burning Hot........................................[4400]
+            4.5. The Final Sector...................................[4500]
+            4.6. D-D-Doom Castle....................................[4600]
+      5. Equipment Listing..........................................[5000]
+            5.1. Weapons............................................[5100]
+            5.2. Armor..............................................[5200]
+      6. Magic Listing..............................................[6000]
+            6.1. White Magic........................................[6100]
+            6.2. Black Magic........................................[6200]
+            6.3. Wizard Magic.......................................[6300]
+      7. Item Listing...............................................[7000]
+            7.1. Items..............................................[7100]
+            7.2. Key Items..........................................[7200]
+      8. Boss Listing...............................................[8000]
+      9. Bestiary...................................................[9000]
+      10. Version History..........................................[10000]
+      11. Legal Information........................................[11000]
+      12. Credits and Closing......................................[12000]
+
+      To find a section quickly, press Ctrl-F and type in either the name 
+      of the section along with its content number (ie. 1., 2., 3., etc.)
+      OR you can use the codes on the far right. Simply type in the 
+      brackets with the code number to get a jump. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 1. Introduction ---                                      [1000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Final Fantasy Mystic Quest is like the idiot's Final Fantasy. 
+
+Even so, that doesn't make this game bad. Sure, a blindfolded monkey could 
+beat it with one hand (exaggeration alert!), but that's not the point. It's a 
+good game in general that differentiates from the "real" Final Fantasy. I 
+like its style. Being a very "simple" RPG, it's a great game to play when I'm 
+too lazy to use my brain and such. 
+
+This guide will walk you through the game (if you need it of course), as 
+well as provide appendices and the like to help you master the game. Enjoy. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 2. FAQ ---                                               [2000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
++-----------------------------------------------------------------------------+
+
+        [Q] What are battlefields?
+
+        [A] Battlefields are places on the world map in which you can fight
+            monsters. Beat 10 rounds of them, and you can win prizes or EXP
+            and GP. 
+
++-----------------------------------------------------------------------------+
+
+        [Q] How many battlefields are there?
+
+        [A] There are 20 in all. You can check the walkthrough and seek out
+            the one you're looking for. 
+
++-----------------------------------------------------------------------------+
+
+        [Q] What exactly does "Auto" or "Manual" mean?
+
+        [A] If you're talking about this game, "Auto" and "Manual" has either
+            the computer control your ally or not. Auto will allow an ally to
+            automatically attack while Manual forces you to make moves. 
+
++-----------------------------------------------------------------------------+
+
+        [Q] How come my ally doesn't level up?
+
+        [A] Your allies have a set level when they join your party and when
+            they leave. I don't think it's possible to have them level up 
+            without the use of a cheat device. 
+
++-----------------------------------------------------------------------------+
+
+        [Q] How do I use Refreshers and what do they do?
+
+        [A] Refreshers will regain any stats lost in-battle. For example, if
+            a monster lowers your attack stats, then Refresher will regain 
+            them. To use them, just select them from the "Item" bar.
+
++-----------------------------------------------------------------------------+
+
+        [Q] I heard there was a really quick way of defeating the Dark King.
+            How so?
+
+        [A] Yeah, you can easily deal 30000 HP damage by just casting Cure on
+            him. It's still cheap though. Besides, he's easy anyway. 8)
+
++-----------------------------------------------------------------------------+
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 3. Basics ---                                            [3000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Basic information that should be in your "brain" before actually playing is
+below. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              3.1. Controls                                            [3100]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+For those that got the game without the manual, the controls are below. I
+assume you know what a SNES controller looks like. 
+
+
+                                    #|---- Start Button
+             L Button --|          ##|        |-- R Button
+                     ___|__________#_|________|___
+                   ,'                |        _   `.
+                  /    _             |       |_|-------------- X Button
+                 /   _| |_           |     _     _   \                
+          |-------- |_ O _|          | |--|_|   |_|------ A Button
+          |      \    |_|       //  // |      _      /
+     Control Pad  \           __|______|_    |_|    /
+                   `._______,'  |      | `.___|___,'
+                                |  Y Button   |
+                                |             |-------- B Button
+                                |------- Select Button
+
+Control Pad ~
+-----------
+     ~ Move your character.
+     ~ Change cursor to select items. 
+
+Select Button ~
+-------------
+     ~ Not used. 
+ 
+Start Button ~
+------------
+     ~ Pause the game. 
+     ~ Bring up in-game menu. 
+
+L Button ~
+--------
+     ~ Switch character's weapons. 
+
+R Button ~
+--------
+     ~ Switch character's weapons. 
+
+A Button ~
+--------
+     ~ Confirm action.
+     ~ Examine. 
+     ~ Engage in conversation. 
+
+B Button ~
+--------
+     ~ Jump.
+     ~ Cancel selection. 
+
+X Button ~
+--------
+     ~ Save the game. 
+ 
+Y Button ~
+--------
+     ~ Change Battle Mode between Auto and Manual. (Choose whether or not 
+       computer controls your characters.) 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              3.2. Battle Screen                                       [3200]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+         Whenever you engage in battle, these three boxes will pop up;
+                  ____________   ____________   ____________
+                 |[1]BATTLE   | |[2]  RUN    | |[3]CONTROL  |
+                  ¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯
+
+                 [1] Battle -- By choosing Battle, you can 
+                     fight. A separate menu will come up. 
+                     Look below for descriptions on each. 
+                 [2] Run -- If you're a wuss, you can choose
+                     to run. Keep in mind that you can't run
+                     from every single fight. 
+                 [3] Control -- Use this toggle computer
+                     control of your allies. If you let it 
+                     run on AUTO, your units will fight
+                     automatically. If MANUAL, you control
+                     their actions. 
+
+                 The Battle options consist of these four boxes; 
+                          ____________   ____________
+                         |[4]ATTACK   | |[5] SPELL   |
+                          ¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯
+                          ____________   ____________
+                         |[6] ITEM    | |[7]DEFENSE  |
+                          ¯¯¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯¯
+  
+                 [4] Attack -- This is obvious. Select this to
+                     have the selected character attack. 
+                 [5] Spell -- To cast a spell, just select this
+                     option. 
+                 [6] Item -- This is obvious. To use an item,
+                     select this option.
+                 [7] Defense -- A character can defend to null
+                     some of the damage taken. By defending, 
+                     a unit can do nothing else until next turn.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 4. Walkthrough ---                                       [4000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+                                   DISASTER!!
+
+             The Focus Tower, at the center of the earth, had once 
+             connected the world. It represented  the union of the
+             land and all its  inhabitants.  For years and  years, 
+             this tower had stood unscathed. 
+ 
+             Very recently however, four monsters had stormed  the
+             Focus Tower, and stole the four Crystals. Also stolen
+             were the coins that kept  the Focus Tower open to all 
+             the world. Without the Focus Tower and the  Crystals, 
+             the earth slowly decayed. Quakes ravaged  the  lands, 
+             and  dangerous  monsters appeared -- terrorizing  all 
+             that was ever good. 
+
+             No  one could have ever believed that some  boy could 
+             save their world...
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              4.1. The Knight                                          [4100]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+The first task is naming your character. Choose whatever suits your fancy. I
+personally don't care what you decide to name him. I'll refer to him as
+Benjamin for the most part. When you're finished, select the End option, 
+orjust press the Start Button...
+
+                         __________________________
+                    ---=|      Hill Of Destiny     |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    
+
+An earthquake has driven Benjamin from his home up to the Hill Of Destiny 
+(nice name). Coming across some random man, he demands to know what's going
+on. The two will climb up to the top of the hill. A gap lies between Benjamin
+and the man. Jump across with the B Button to get to the other side. The 
+strange man will show you the Focus Tower, once the heart of the world. He'll
+speak a bit about the situation at hand. 
+
+[Insert Name Here], only you can save the Crystals and the World.
+
+Obviously, Benjamin's a bit confused. Suddenly, a Behemoth will appear out of
+nowhere. This is your first fight. Luckily, it's nothing too difficult. Since
+regular attacks are really your only option at this point, just pound it with
+that. It is possible to lose here, but you can always restart the battle. If
+you manage to get a critical hit, you've basically killed the thing. 
+
+The man will notice that the place is becoming dangerous (oh really?). Before
+he flies away, he'll mention the Level Forest. Well, that's the only place
+you can go...
+
+                         __________________________
+                    ---=|       Level Forest       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    
+
+The man appears just as he promised. He'll tell you your first objective; save
+the Crystal of Earth. And with that, he runs/flies off. That helped. You can
+talk to the blue guy a bit to the north. That boulder is blocking his way.
+He asks if you could shove it aside, but considering that he himself is kind 
+of blocking your way, that might be a bit difficult. 
+
+So what do you do? Use the B Button to jump over him. Simply push it up, and
+he'll thank you. He will also tell you to bring the Tree Wither to Kaeli in
+Foresta. Push the boulder up one more tile, and open the nearby chest for a 
+few Cure Potions. Don't use them yet though. Walk east to leave the Level 
+Forest. 
+
+See the flashing arrow? Walk in the direction that its point to reach Foresta.
+Let's deliver that Tree Wither to Kaeli now. 
+
+                         __________________________
+                    ---=|         Foresta          |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    
+
+Houses here are made out of tree trunks. You can talk to some of the people
+hanging around to learn some nifty information. An old lady will tell you that
+the Crystal of Earth can be found to the north in the Bone Dungeon. Kaeli's
+house was the first house you saw (when you entered Foresta). It's in the
+lower-left corner of town. Enter her house and walk up to the two beds. Open
+the chest for some more Cure Potions. Yeah, let's walk into more strangers'
+houses and steal their drugs!
+
+Talk to Kaeli and she'll mention a tree that is blocking the north exit of
+the Level Forest. You agree to help out, and Kaeli decides to tag along. Her
+mother gets a bit anxious though. But hey, who doesn't like some random 
+stranger taking out their daughter? Before you joins, Kaeli picks up her axe. 
+Obviously, she's a woman with attitude. 
+
+Leave Kaeli's house and head north. At the northeast corner is a house. Inside
+is that man you helped out. He'll allow you take the contents of the chest 
+above him. However, the barrels are kind of blocking your way. Wow, what weird
+people. Leave his house, and walk north over the wooden bridge. See the blocks 
+of wood in the water? You can jump onto them. Use them to get to the back of 
+his house and enter. Inside the chest is your first spell: Cure. It heals HP. 
+Now move the barrels out of your way and leave his house. 
+
+Before we skedaddle out of here, enter the house to your south. The bed on the
+left will restore your HP. Don't forget to pick up the three Cure Potions in
+the nearby chest. With that collected, you can finally leave Foresta. Head
+west to return to the Level Forest. Yippee! 
+
+As you re-enter the forest, Kaeli will appear and chop down some trees with 
+her Axe. Of course, you're now obligated to fight a Brownie. You'll notice how
+much more powerful Kaeli is than your main character. You have two ways to
+go from this point. First, head left. Defeat the two Slimes and (soon) a 
+Brownie. At the end of the path here are some more Cure Potions. Return to
+the intersection and go right. See the red tree up ahead? Don't touch it just
+yet. First, defeat the Slime and Brownie to the east. Pick up the Heal Potions
+also. 
+
+Heal up your team with Cure Potions. Examine the glowing tree and Kaeli will
+cut it out of her way effortlessly. He'll poison Kaeli, but you two still put
+up a fight. 
+
+     Boss Fight: Minotaur ~
+     =------------------=
+          First, I'll tell you the cheap method of winning. Simply have Kaeli 
+          cast Life on the Minotaur to immediately put him out of commission.
+          If you'd rather just attack the conventional way though, you might
+          have a tiny bit of trouble. Use Cure to heal up your units. The 
+          Minotaur hits pretty hard, so you'll need it. Obviously, if Benjamin
+          dies, you'll need Kaeli's Life spell to revive him. Just remember
+          that. 
+
+Once he's down for the count, Kaeli's mom, for some reason, appears. Kaeli
+seems to be pretty confident in her survival. All she needs is Elixir... found
+in the depths of the Sand Temple. Benjamin has to be a good boy, and says that
+he will get it. Kaeli will hand you her Axe. Now you can chop down trees and
+kick monster butt! 
+
+Before continuing, check the southwest corner. You'll find a Brownie behind
+some trees. Chop them down and fight it. Some Heal Potions can be found in the
+chest behind it. If you'd like, you can exit and re-enter the Level Forest. 
+The chests all respawn with the same items. It's not required, but it's always
+a good idea to stock up on Cure Potions. When you're done fooling around, head
+over to where you fought the Minotaur and continue onward. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              4.2. Dungeon Of Bones                                    [4200]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+Simply go north, and you'll reach your first battlefield. Since you'll probably
+die without the help of another member, bypass it. Continue north to reach 
+the Sand Temple. 
+
+                         __________________________
+                    ---=|       Sand Temple        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Simply walk up until you find a chest. Open it to find the Elixir... gone? A
+dude will walk in. Apparently, he got here before you did. He'll offer to sell
+it to you for 9000 GP. Deal!! You probably don't have that much money at the
+moment. Anyhow, Tristam will offer another, more reasonable deal. Get him 
+through the Bone Dungeon. Help him find the treasure and you get the Elixir.
+It's as simple as that. 
+
+Tristam mentioned Battlefields right? You have two that are accessible at the
+moment. There's one to the south (the one that you passed), and one to the 
+west. Basically, Battlefields pits you up against monsters in 10 rounds. Beat 
+them all for EXP, GP and items. Start with the one just south of your current 
+position. If you ever need healing, head back to Foresta to heal up. 
+
+     Battlefield One ~
+     =-------------=
+          Monsters: Mad Plant, Poison Toad
+          Prize: 54 EXP
+           ~ Pretty simple here. Tristam kicks incredible amounts of butt with
+             his shurikens. I managed to breeze through all 10 rounds without
+             even breaking a sweat. Benjamin and Tristam should be able to
+             kill each monster within one hit. Mad Plants are weak against
+             Axes, so Benjamin should really win out. Trust me, it's THAT 
+             easy. If you managed to get poisoned, return to Foresta and use
+             the bed to heal up. Heal Potions work too. 
+
+     Battlefield Two ~
+     =-------------=
+          Monsters: Mad Plant, Poison Toad, Basilisk
+          Prize: Charm
+           ~ This one is a tad bit harder than the above, but that's only
+             because of the Basilisks. Also, a lot of the battles put you up
+             against three monsters and not just two. Sure, it's a step up,
+             but nothing you can't handle. Have Benjamin kill off the Mad
+             Plants while Tristam takes care of the rest. If you managed to 
+             get poisoned, return to Foresta and use the bed to heal up. Heal
+             Potions work too. 
+
+Once you finish both Battlefields, return to Foresta for healing and whatnot.
+Take advantage of the re-appearing chests in the Level Forest as well. When 
+you're done, proceed to the Bone Dungeon, of which is north of the Sand 
+Temple. 
+
+                         __________________________
+                    ---=|      Bone Dungeon        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+See the moving sand just ahead of you? Step onto it and you'll be carried to
+a chest. Open it for some Cure Potions. Now, fight the monsters on either
+side to get past them. I would suggest fighting them all for the experience.
+They're not difficult either. The monsters here consists mostly of those you
+already fought in the Battlefields. Anyway, the skull thingy is the door to
+the next room. However, there are more items here to pick up.
+
+Will you go left or right? Go left first because... that path's kind of what
+I'll describe right now. Beat up the Sand Worm in your way along with the 
+other monsters here. A Sand Worm guards the chest in the northwest corner. It
+contains 10 Ninja Stars for Tristam. Now, if you head over to the right side
+of the room, you can find another 10 Ninja Stars directly opposite the last
+chest. Pick that up and go through the skull doorway. 
+
+Walk up a bit to be stopped by some water. Luckily, some stones are in the 
+perfect position for you to jump over them. Use them (jump to them) to get to
+the other side. See the steps to your right? Have Benjamin go into the water.
+Now, if he could just walk on water like (???), what was the point of using
+those stones? Anyway, trudge over to the west side of the water to find a 
+skeleton with an abnormally large rib-cage. 
+
+Follow the skeleton until you reach open water again. Walk up the nearby steps
+to find a door. Tristam will appear and blow the crap out of the door for you.
+Afterwards, he tries to sell you some bombs for 30G. Decline the first time,
+and he'll cut the price in half. 15G is the lowest you can get them at. Before
+continuing, return through the skeleton back to the first part of this room.
+Walk back up the steps onto dry land. A bit to your north is a skull. Blow it
+out of the way with your newly acquired bomb. Past it is a Steel Shield. 
+Return to the door that Tristam blew up for you and continue. 
+
+Uh oh, more monsters. Boy, this room is loaded. Beat up the various Rocs, 
+Skeletons, and Sand Worms. First, blow up the cracked door at the upper-right
+corner. In the chest is another 10 Ninja Stars for Tristam. Head over to the
+northeast corner and continue onwards. The staircase there will bring you down
+to B2. From the staircase, head east. Defeat the Gorgon that is blocking the
+chest. Inside is 10 Bombs. 
+
+To your north is a Skeleton. Beat it up. Continue up to find a rather long
+skeleton. Place a bomb at the weak part of the skeleton to blow up the entire
+thing. First, head right to find a secret doorway leading to a chamber with
+a chest. Use the stones to hop across the water. The chest contains 10 Ninja
+Stars. Return to the shattered rib-cage (poor thing) and advance west. Walk
+through the skeletal head. 
+
+To your south are two monsters. You only need to defeat one to reach the chest 
+at the south end. It contains another 10 Ninja Stars for Tristam. Geez, this 
+game doesn't have much faith in you, does it? Head north to find some moving 
+sand. The only part that you can cross is lined with monsters. Defeat them all 
+and make your way to the other side. Don't step on the moving sand, or else
+you'll go back. Instead, blow a hole in the weak part of the nearby skeleton
+with a bomb. 
+
+Kill the Minotaur Zombie that is blocking your path. Now, move south. Don't
+step on the moving sand unless you want to be carried back. See the staircase?
+Descend them to B2. Shove the Skeleton out of the way. To your immediate left
+is a Minotaur Zombie guarding a chest containing 10 Ninja Stars. Return back
+and look up. The skeletal head has its mouth closed. Of course, a little bomb
+can easily blow it back up. Do just that and continue. 
+
+You'll reach a fork while still in the rib-cage. Don't go left just yet. 
+Instead, go north through the doorway. Take the three Seeds and return to
+the split. Go left to find some more moving sand. The only safe passage is
+lined with monsters. Clear the pathway and check the next skeleton. The mouth
+is closed once more. Repeat what you did a few minutes ago to open it. Once
+more, you'll reach a fork. Go up first. The Quake spell can be found in here.
+You don't want to miss out.
+
+Back at the fork, head right. Get the Minotaur Zombie out of the way and
+advance. Once again, place a bomb on the skull to open up a passage. Enter the
+next room. Before continuing, heal up a bit. A difficult monster is just up
+ahead. See the big, red thingy? Yeah, that's it. Jump across the water (using
+the stone) to face it. *battle cry*
+
+     Boss Fight: Flamerus Rex ~
+     =----------------------=
+          You know, they could have at least come up with a better name. 
+          Assuming you didn't already use up all your Quakes, now would be a
+          great time for Benjamin to use them. The Flamerus Rex can deal 100+
+          damage with most of his attacks, so make sure that Benjamin or 
+          Tristam heals up occasionally. Both Life and Cure heal HP so use
+          them. Because the Flamerus Rex is strong against poison, don't count
+          on Tristam dealing too much damage. Have him heal and revive Benjamin
+          with Life if need be. When the boss's HP gets pretty low, he can use
+          Rip Earth, which deals a good amount of damage to both of them. Like
+          always, heal when your HP gets too low. Have Benjamin use Quake until
+          he runs out. Then throw some bombs to finish the Flamerus Rex off.
+
+Once the freak is defeated, Tristam will immediately run to get his treasure.
+A crystal rises from the corpse of the Flamerus Rex. You have already fulfilled
+your first objective; to release the first crystal. Tristam will play around
+with a weapon reminiscent of the Hookshot in Zelda games. He'll also give you
+the Elixir he promised. For some reason, Tristam didn't take _all_ of the 
+treasures. Be sure to open the last three for some Cure Potions, more 
+Explosives, and the Sand Coin. Do not forget the last item!!
+
+You will want to return to Foresta now to give Kaeli the Elixir. As you exit
+the Bone Dungeon, Tristam will leave you. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              4.3. Wakewater!                                          [4300]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+By releasing the last crystal, Foresta has been restored. The grass is green
+again and people are young. Head over to Kaeli's house to give her the Elixir.
+For such a terminally ill person, she doesn't seem very sick... Kaeli will 
+state that she will head off to Aquaria to see Spencer. Why don't we get over
+there first? If you need to heal, go ahead to the house at the southeast 
+corner. Sleep in the bed. 
+
+To reach Aquaria, you'll have to go through the Focus Tower. First, head east
+from the Sand Temple. You'll hit a Battlefield. If you want to fight here, go
+ahead. 
+
+     Battlefield Three ~
+     =---------------=
+          Monsters: Basilisk, Sand Worm, Minotaur Zombie
+          Prize: 150 GP
+           ~ If you chose to fight here by yourself, you might have some
+             trouble. Even so, the monsters are nothing new as you've already
+             battled them in the Bone Dungeon. Minotaur Zombies are the more
+             dangerous foe here. They can confuse, paralyze, and blind you. It 
+             really sucks when Benjamin (out of confusion) happens to cast 
+             Quake on himself only to die instantly. If you can keep those
+             status ailments off your back, this Battlefield should be easy. 
+
+You will find the Focus Tower west of the Battlefield. The smart thing to do
+here would would be to enter. 
+
+                         __________________________
+                    ---=|  Focus Tower to Aquaria  |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Simply follow the path until you reach the strange man. Yes, he's here waiting
+for you. He'll mention Captain Mac and a girl named Phoebe. Suddenly, the
+freak flies off again without clarifying what the hell he just said. Nice...
+
+Going any further south leads to nothing. Just enter the nearby opening. Pick
+up the 10 bombs and check the gold seal on the wall. Because you have the Sand
+Coin, you can open it. The other seals cannot be opened because you (duh!) do
+not have the Coin for their respective doors. The path will lead you to a 
+staircase. Ascend them to 2F. Turn to your left and head south to reach a 
+chest. Yay, you've just picked up your second Black Magic spell.  
+
+Although there appears to be a bunch of other staircases around and such, those
+are not accessible at the moment. Return to the stairs that you took up here
+and go through the doorway. You will appear back outside, but in a different
+part of the world. Continue east and reach another Battlefield. If you want to
+wait until you get another member in your team, skip it. If you want to fight
+RIGHT NOW (!!), just do it. 
+
+     Battlefield Four ~
+     =--------------=
+          Monsters: Mintmint
+          Prize: 99 EXP
+           ~ Mintmints will be the only monster encountered here. They aren't 
+             terrifyingly tough, but they can deal some good damage. I can 
+             tell you that they're less annoying than those crazy Minotaur 
+             Zombies from the last Battlefield. For such easy monsters, they 
+             sure give quite a bit of EXP. Quake works well along with some 
+             bombs. 
+
+North of the Battlefield is the Libra Temple. Enter. 
+
+                         __________________________
+                    ---=|       Libra Temple       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Up ahead is a white tile with an omega symbol on it. Ignore it at the moment.
+Above it is a chest and a girl standing next to it. Take some Explosives from
+the chest and talk to the other. You'll learn some depressing news. It seems
+that Aquaria is now frozen, the people are sick, and to top it all off,
+her grandpa is trapped! Benjamin will ask her about Spencer. It seems that HE
+is her grandpa! As Phoebe tries to leave, Benjamin kidnaps her. You now have a 
+new member who is actually GOOD with magic. 
+
+Leave the Libra Temple and head east to find two consecutive Battlefields in a
+row! 
+
+     Battlefield Five ~
+     =--------------=
+          Monsters: Giant Toad, Mintmint
+          Prize: 300 GP
+           ~ I hate Giant Toads with a passion. They can poison and paralyze
+             you effortlessly. Phoebe has the Heal spell which cures status 
+             ailments though. Giant Toads also give a lot of EXP -- always a
+             good thing. Simply have Phoebe cast Thunder or Fire while 
+             Benjamin just attacks. When you need to heal up, check in at the 
+             inn at Aquaria. 
+
+     Battlefield Six ~
+     =-------------=
+          Monsters: Giant Toad, Mintmint, Scorpion
+          Prize: Magic Ring
+           ~ Giant Toads and Mintmints galore. Plus a new monster; the 
+             Scorpion. Fire magic is your best friend here. Luckily, both
+             Benjamin and Phoebe should have it. Scorpions are weak against
+             Fire, so those are easily vanquished. If you're poisoned or
+             paralyzed, use Phoebe's Heal spell to get rid of those. 
+
+Past those two Battlefields is the town that we were originally looking for;
+Aquaria! Enter the now-frozen town. 
+
+                         __________________________
+                    ---=|         Aquaria          |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The inn up ahead can restore your HP and stuff. However, you'll have to pay a
+hefty fee of 95 GP. Ouch. Also at the inn is a girl who will sell you some
+Explosives. Only buy some if you're low. West of the inn is Phoebe's house. 
+Phoebe will explain a little bit more about Spencer's predicament. To melt the
+ice here, you'll need Wakewater from the Libra Temple. However, we'll need the
+Libra Crest first. 
+
+If you'd like, you can steal some Heal Potions from Phoebe's house. Before 
+heading out, check the house behind Phoebe's. The woman will sell you a Steel
+Helmet for 200 GP. Trust me, you want this. Don't forget to pick up the 
+Refreshers by the beds. There's nothing interesting in her basement. Leave
+Aquaria and head further west to hit yet another Battlefield!
+
+     Battlefield Seven ~
+     =---------------=
+          Monsters: Edgehog, Scorpion, Giant Toad
+          Prize: 99 EXP
+           ~ Edgehog is the new monster in this Battlefield. Like the Scorpion,
+             Edgehogs are weak against the Fire spell. They pack quite a 
+             punch, so watch out for them. If you're poisoned by the Giant
+             Toads, use Phoebe's Heal spell. It beats having to pay 95 GP for
+             the inn back in Aquaria. This should be an easy-peasy Battlefield.
+
+North of that Battlefield is the Wintry Cave. Here, we should find the Libra
+Crest so we can actually enter the Libra Temple. 
+
+                         __________________________
+                    ---=|       Wintry Cave        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+At the start, you have two ways to go. Head left first and beat up the 
+monsters in your way. The chest contains 10 bombs. Return to the split and
+head in the opposite direction. Clear the Scorpion out of your way. Follow the
+path and trudge up the steps. Meet the Edgehog at the top. Continue along, 
+clearing out the Land Worms in your way. 
+
+The floor will collapse and Benjamin tumbles down. Phoebe saves only herself. 
+She'll let you use her Cat Claws. With them, you can climb walls, but only if
+they have steps. Let's put it to use. A little bit to your right is a climb-
+able wall. Pick up the Heal Potions. Keep on climbing up. As long as you hold
+the A Button, you can't fall. Move yourself so that you can climb to the upper
+ledge -- the one that you just fell from. Now back up here, continue west. 
+
+A Centaur blocks your path here. Be careful of them as Centaurs can confuse
+you. Inspect the wall behind where he once stood. At one point is a cracked
+wall. Yeah, you guessed it. Bomb time!! Blow it up and continue. There are a 
+bunch of monsters here. If you want the Cure Potions and Arrows, beat them all
+to clear a path to the chests. If you don't, beat them up anyway for the EXP.
+After getting the Arrows, climb down the shiny wall. Walk around to the other
+side of the room so you can access the Cure Potions. 
+
+When you're done with that, leave the room. Continue east to find two monsters
+guarding a chest. Take three more Cure Potions from the chest. Now, head back
+west and climb the wall. Position yourself so that you are along the other 
+wall. Let go of the A Button to fall onto a separate platform. Kill off the
+Edgehog and keep going. After getting rid of another Land Worm, the path will
+begin to widen up a bit. 
+
+Keep going south to find a chest. Get the Centaur out of the way first. Three
+Refreshers can be found inside. Head northwest from there to find a Scorpion
+blocking a wall. Getting boring, eh? Climb the wall behind its corpse. Move
+one or two spaces to the left and drop down. Defeat the Edgehog a little bit
+up ahead. Climb the nearby wall to the next platform. A Scorpion guards the
+wall here. Once it's gone, climb the wall behind it. 
+
+Well, what do you know? Another monster! Clear the Edgehog out of the way to 
+reveal a cracked door. Place a bomb and blow it to smithereens. Inside is 
+another batch of monsters. There are some items here. The two chests you see
+at the entrance three Cure Potions and 10 Arrows. Fight your way north along
+the path. Obviously, this is going to take a while. In the next open section
+of this room, you can go northeast to advance or southeast to find two more
+chests. Snag the Heal Potions and Arrows. Proceed to the northeast portion of
+this room to find the staircase leading OUTTA here. 
+
+Before you can fight the boss, you'll have to vanquish the monsters below him.
+The sheet of ice above you makes it kind of hard to see. Clear a way to the
+center platform, of which the boss stands upon. The chest nearby contains 
+Arrows. If you'd like, you can defeat all the monsters for EXP. However, I 
+don't really see a point to doing all of that work. Anyway, the boss awaits
+your company. Heal up before you fight! 
+
+     Boss Fight: Squidite ~
+     =------------------=
+          Yeah, it's a gigantic squid. Got a problem with that? Squidite 
+          starts the battle with two Sparna allies. Phoebe can easily shoot
+          them down with her Bow of Grace. Once those are taken care of, you
+          can focus on Squidite itself. Use Phoebe's Thunder spell to take
+          advantage of Squidite's weakness to that element. However, don't
+          think it's just going to sit there. Squidite can deal some heavy
+          damage as well as inflict certain status ailments upon your units.
+          Needless to say, if Phoebe needs to use Heal, USE IT! Once Phoebe
+          runs out of Thunder, just start pounding it with physical attacks
+          to bring it down. 
+
+Defeating the Squidite will reveal a chest. Open it for the Libra Crest. With
+it, you can warp to the Life Temple from the Libra Temple. Backtrack all the
+way out of this dungeon. Return to Aquaria for some healing. From the Wintry 
+Cave, head west to find another Battlefield. 
+ 
+     Battlefield Eight ~
+     =---------------=
+          Monsters: Desert Hag
+          Prize: 600 GP
+           ~ The problem with Desert Hags is their counter-attack. If you use
+             a physical attack (that doesn't kill in one hit), you'll most 
+             likely eat a nasty counter-attack. Desert Hags can deal quite a 
+             bit of damage if you don't defeat them quickly. Fire magic is 
+             your best bet here. Desert Hags are weak against that. 
+
+I assume that you remember where the Libra Temple is. Head back over there. 
+Now that you have the Libra Crest, stepping on the omega tile will bring you
+to the Life Temple. 
+
+                         __________________________
+                    ---=|       Life Temple        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Oh noes! The water has dried up. That sucks. There is someone else here who
+might be able to help though. Walk north through the opening. It's that strange
+man that's been terrorizing you since forever! Luckily, he managed to save 
+what was left of the Wakewater in a tiny bag. He'll fly off like always. Don't
+forget to pick up the Cure Potions. When ready, return to Aquaria. 
+
+Phoebe will use the Wakewater on the plant at the center of town. The plant
+unfreezes... but everything else stays frozen (???). To unfreeze the rest of
+town, you need to release the next crystal. Since there's not much left to do
+here in Aquaria, head north to reach the Falls Basin. Before you can reach the
+Ice Pyramid, you'll need to traverse through the Falls Basin. 
+
+                         __________________________
+                    ---=|        Falls Basin       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Phoebe will appear and tell you push the block. Move the ice block nine spaces 
+up, seven spaces to the left, and one space up. Once you finish that task, it 
+should be in-between the two platforms. If you were to jump from one to the 
+ice block, you would be able to get across. For now, just go through the 
+opening up ahead. 
+
+Defeat the Desert Hag to clear the way. Walk to the other end of this small
+room to find another opening. Use the ice block you pushed before. Jump onto
+it. From there, jump to the opposite platform. Continue south and beat up 
+another Desert Hag. I wonder what a _Desert_ Hag is doing here. Walk down
+the tiny steps and fight the Lamia to reveal another ice block. Ready for some
+more shoving around?
+
+Push the ice block four spaces to the right and one space up. Like before, 
+this block should act as a stepping stone between the two platforms. Head back
+west and walk up the tiny steps. Head east and use the ice block to get 
+across the gap. Keep going east and fight the Lamia. With this block, move it
+four spaces to the left, one space up, two more spaces to the left, six
+spaces up, and ten spaces right. 
+
+Take the other ice block at the south end of the screen. Push it four spaces
+up, eight spaces to the right, one space down, and three spaces to the right.
+Have it rest right below the last ice block. Re-locate the third ice block.
+Push it one square to the right, one square down, eight squares right, one
+square up, three more squares to the right, and one square up. Phew!
+
+Walk over to the southeastern corner of this chamber. Use the stairs and 
+head north. Hop over the gap and onto the two ice blocks you put into place.
+Kill off the Desert Hag and continue. Open the chest for some more bombs. 
+Defeat the nearby Lamia and follow the path. You'll come to the point where
+you placed the third ice block. Hop over the gap onto the block. The boss is
+up ahead but before fighting it, snag the Heal spell from the chest nearby. 
+Replenish your HP and battle the giant crap... I mean crab. 
+
+     Boss Fight: Snow Crab ~
+     =-------------------=
+          The Snow Crap has two Desert Hags to help him out. Have Benjamin
+          and Phoebe use Fire to take them down quickly. The Snow Crab has 
+          some tough attacks. He can easily deal 200+ damage, so make sure
+          that you heal when necessary. Thunder works the best in this battle.
+          Have Phoebe cast that while Benjamin either heals or uses Quake. 
+          When the Snow Crab's HP is low, he'll begin to use Tornado for very 
+          heavy damage. Heal whenever necessary, and you should be fine. 
+          Mmm, seafood! 
+
+Head up to the cracked door and Phoebe will appear to tell you about Jumbo
+Bombs. These upgraded explosives deal more damage to enemies while still 
+blowing up cracked doors and the like. Use it on the wall just ahead of you.
+Now that you're back outside, return to Aquaria for some healing. When you're
+done with that, walk past the Falls Basin to yet another Battlefield. 
+
+     Battlefield Nine ~
+     =--------------=
+          Monsters: Lamia, Desert Hag, Mage
+          Prize: 540 EXP
+           ~ Desert Hags have counter-attacks that you should already be 
+             familiar with. Just blast them with a Fire spell or kill them
+             with a physical attack. Your choice. Lamias on the other hand,
+             can put a unit to sleep or confuse them. Have your Heal spell 
+             handy for that. Use Thunder to take them down quickly. The Mages
+             that you fight are capable of casting various spells including 
+             Blizzard and Cure. Blizzard is their main attack spell. When 
+             their HP is low though, they will cast Cure to heal themselves. 
+
+And just ahead of that Battlefield is (surprise, surprise) the Ice Pyramid!
+Make sure that your team is refreshed and fully healed before attempting to 
+take it on. 
+
+                         __________________________
+                    ---=|       Ice Pyramid        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+A wall blocks any further progress. Check the oddly-colored statue on the 
+right. Take your Steel Sword and poke the switch to open the wall. Continue
+into the main room. Begin by head east first. Follow the path until you reach
+a fork. Continue east to the lower-left corner of this chamber. Walk a little
+bit north. You have two ways to go, left or right? The path on the right is 
+the way to go. Do not be surprised if a battle suddenly begins. Monsters here 
+are invisible at the moment.
+
+At the end of this path is a chest containing a Magic Mirror. With it, you 
+can see the invisible enemies here! Backtrack to the split. Take the path on
+the left this time. Defeat the Desert Hags and take the Explosives from the
+chest. Return to the pyramid's entrance. Go southwest and open the two chests
+for some Refreshers an Arrows. Avert your gaze to the other two paths. Not
+counting the one you took to reach these chests, take the path on the right. 
+
+Slay the Desert Hag and proceed. A Mage blocks a staircase up ahead. On the
+next floor, head a little bit north to find some Heal Potions guarded by a 
+Phanquid. With that in your pack, head back downstairs. Now back at the two 
+empty chests, take the left path. After a bit of walking, a Lamia will appear.
+From here, you have three possible paths to take; northeast, southeast, and
+northwest. Whee, I love choices!
+
+Take the southeast path first. Get the monster out of the way and continue. 
+Defeat another Mage blocking the staircase. Ascend the steps to the next 
+floor. Dead end? Defeat the Lamia and walk into the wall that she was 
+originally in front of. It seems that you can walk into the wall here. Steal
+the Arrows in the chest and return to the three-way fork. 
+
+Now, head to the northeast fork. A Desert Hag blocks the way, so defeat it. 
+Keep going east past another monster. Advance until you hit another set
+of stairs blocked by a Mage... again. You know the drill. Kick him out of your
+way. On the next floor, head south to find a blue-tinged statue. It's pretty
+obvious that it's really a switch. Use your Steel Sword to hit it. The wall
+will open up to reveal a chest containing some arrows. 
+
+Look a little bit to your left. Another Lamia blocks the path here. Keep 
+walking and defeat any unlucky monsters that happen to cross your path. At the
+end, you'll reach another staircase. This one leads to 3F. Begin here by 
+moving right first. What do you know? MORE monsters! Stoney Roosts, Gathers,
+and Freezer Crabs are some new faces you might see. A Freezer Crab guards a 
+chest containing more Arrows. By now, you're probably running low on those. 
+
+Further south is another chest with some more Arrows. Jump over that chest to
+keep going. Take care of another Gather and continue along. At the end is a 
+suspicious statue -- poke it! The wall to your left will rise revealing a 
+path. Backtrack to the entrance stairs and head west. Take care of the monster
+blocking your path. All you have to do now is follow the path. But as always, 
+enemies will get in your way. This is really getting annoying, isn't it?
+
+When you reach the south end of this room, you should see an opening on the
+wall. Walk through to immediately be pushed into a battle with some Stoney
+Roosts. These birds are annoying as they can petrify you on a whim. After 
+clipping their wings, you can find some bombs and Arrows ahead. Exit this area
+and keep going east. Soon enough, you will reach the area where you had to
+hit the switch to raise the wall. Turn left and head through the doorway. 
+Ta-da, stairs!
+
+Now on 4F, begin by heading left. After killing the Mage, you'll have to walk
+around to the southeastern corner where a staircase is located. A Sphinx 
+guards it, so make sure to take care of that. Head up the stairs and walk
+forward so that you FALL off the floor. You will find yourself in the middle
+of 4F. Now that you're surrounded by chests and monsters, why not have some
+fun? There are multiple chests here. If you choose to open them all, you'll
+find 40 Arrows, 3 Refreshers, 3 Heal Potions, 3 Cure Potions, and the Noble
+Armor. DO NOT FORGET THE LAST ITEM!! The monsters around also give a helluva
+lot of EXP. 
+
+To continue, you need to locate the statue. It's at the northwest corner of
+this area. Hit it with your Steel Sword to open a door on the opposite side.
+Retrace your steps to the southeast corner. Return to 5F, but don't fall this
+time. Begin by heading left. After getting rid of the monster, you can access
+the two chests. To get the second one, you'll need to jump over the first. 
+They both contain bombs. Kill the Stoney Roost and continue north. Defeat the
+Gather. You have two ways to go from here. 
+
+Begin by heading north. Kill off the Freezer Crab and walk past it. Carefully
+walk to the other end and pick up the bombs. Return to the middle platform and
+head left. The only way to reach that chest at the opposite end is by jumping.
+Keep in mind that the darker blue line IS NOT a path. It's a wall. Therefore,
+you'll have to walk north and jump at the chest from behind it. Open it for
+some Cure Potions. 
+
+Go back to the middle platform once more. See the cracked tile in the middle?
+Place a bomb on top of it to blow a hole in the platform. This should be fun.
+Fall down and KEEP falling down until you reach 1F. When you do, stop! Above
+you are six statues. Poke any one of them to open up the floor. Now resume
+your falling. When you hit B1, you will find yourself in an uncomfortable
+situation. Haha, surrounded by enemies? Whether or not you choose to clear
+them all out or not, don't forget about the chests. Snag some more Arrows,
+Heal Potions, and Cure Potions. Also, remember to pick up the Knight Sword. 
+Whoo!
+
+Climb the platform above you with the Cat Claws to find a very ugly creature.
+Apparently, he's enjoying your little game. Head over to the southeast corner.
+Locate the staircase and use it to get "under" the ice sheet. Go northwest to
+find a Lamia guarding a doorway. Defeat it and head through the opening. Oh
+dear, more monsters! You don't have to beat them all though. Just clear out
+the one standing in front of the wall. Use the Cat Claws to climb it. Waiting
+for you at the top is a Sphinx. Slay it and keep walking. 
+
+Simply go straight until you reach a doorway. If you hit the statue on the
+right, you can reveal two chests. However, you'll have to drop off all the 
+way to 5F to get it. If you really need it, then get them. If not, ignore them
+for later. Heal up, and head through the opening. Follow the icy path to the
+Ice Golem. Bwahaha!
+
+     Boss Fight: Ice Golem ~
+     =-------------------=
+          Oh no; a giant made of ice! So scary. The key to this fight is Fire
+          magic. Luckily, both Benjamin and Phoebe should have that spell 
+          available. Simply roast the Ice Golem with some of that. Be wary of
+          his attacks though. They can deal a considerable bit of damage to
+          your units. When necessary have either of your units heal. There's
+          only one of him, so the Ice Golem can easily be overpowered. When
+          your Black Magic runs dry, start pounding him with physical attacks.
+          Keep your team healed up and you should be fine. 
+
+Once the Ice Golem is melted, another crystal will appear. That's two for 
+four. At least now, half of the world is peaceful once more. Aquaria should 
+also be fixed. Phoebe will leave to check it out. Before you call it quits, 
+pick up the River Coin from the chest. You don't want to forget that. Make 
+your way out of here. 
+
+You should immediately notice how green everything looks. Gone is the snow 
+that once had this region covered. Make your way back to Aquaria. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              4.4. Burning Hot                                         [4400]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+Check it out. Aquaria is no longer frozen. First, head over to Phoebe's pad
+and talk to her. She'll thank you for your help, and tell you that Spencer is
+in the tunnel under her house. Use the steps right in front of the inn. Your
+magical ability to walk on water (???) should help out here. Walk over toward
+Phoebe's house and head underneath. 
+
+                         __________________________
+                    ---=|     Spencer's Place      |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Phoebe's gramps sure has a big place here. At the start of the tunnel, use
+the steps to climb back onto dry land. Proceed south across a bridge and down
+a long staircase. Cross some more bridges and should eventually reach the 
+foot of the waterfall. Go through the opening into the next area. Ignore the
+first bridge leading west for now. The other bridge leads to Spencer. As you
+can see, he just realized that the ice had melted. After a bit of surprising
+news, Spencer will hand you the Venus Key. With it, you can pick up this 
+supposed shield that was located by Captain Mac. 
+
+North of Spencer is a doorway. Follow it to the other side of the wall. You
+can climb the nearby wall with the Cat Claws. Drop down to the chest and pick
+up some Cure Potions. That's basically it for here. Make your way out of this
+cave. 
+
+Our next destination is the Focus Tower. However, you could make a stop at the
+inn. An old guy will offer to sell some Cure Potions for 25 GP each. The other
+dude still sells Explosives at the same price as always. Head over to the
+Libra Temple and go north. There are two Battlefields here. Battle here now
+or later. They're not going to disappear or anything. 
+
+     Battlefield Ten ~
+     =-------------=
+          Monsters: Phanquid, Sphinx
+          Prize: Exit Spell
+           ~ This Battlefield should be a cakewalk with your newfound Knight
+             Sword. Monsters usually don't come in groups here (two at most), 
+             so you should have no problem ripping away. The Sphinx is the
+             more dangerous opponent. Be sure to take them down first. Riddle
+             can easily confuse your unit. Phanquids can also blind you, so 
+             be wary of that too. 
+
+     Battlefield Eleven ~
+     =----------------=
+          Monsters: Gather, Freezer Crab
+          Prize: 744 EXP
+           ~ The Gathers are very easy to defeat. Freezer Crabs, on the other
+             hand, might take a few hits to put down. Jumbo Bombs work great
+             against Gathers as they're weak to them. For Freezer Crabs, just
+             hack away with your Knightsword. Be careful of counter-attacks
+             from these crustaceans as well. Just hope they don't deal too
+             much damage before going down. 
+
+Past those two is the Wintry Temple. Entering will just bring you to a dead
+end. Ignore it for now and keep going. The Focus Tower is up ahead. 
+
+                         __________________________
+                    ---=|  Focus Tower to Fireburg |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You begin on 3F with a staircase right in front of you. A familiar person will
+greet you downstairs. "Some awful news made Captain Mac race from his home."
+Your objective now is to seek Reuben who can be found in Fireburg. Just before
+he proceeds with his daily "fly away" routine, he'll mention a statue. 
+
+Now you're by yourself again. Bomb the wall to your immediate left to make an
+opening. Walk through this passage to a chest containing the shield that 
+Spencer was talking about. Equip your Venus Shield with pride and return to
+the stairs. If you head over to the other side of the room, you will locate a 
+Blizzard spell in a chest. Return to the statue that the man mentioned and
+get ready to move it. Where, you ask? Push it two squares to the left. Now
+move it down until it hits the south wall and left until it's stopped by a
+stone thingy. 
+
+Leave the Focus Tower and circle around it so that you reach it through its
+OTHER entrance. Enter once more. Walk through the opened door to the set of
+four colored doors. With the River Coin, you can unlock the blue door. Do
+just that and continue up the next set of stairs. Head down and jump the gap
+using the statue you moved previously. Turn west and follow the path to a 
+staircase. 
+
+Use your brain and climb up. Pick up the Cure Potions from the chest to the
+south. The exit is just due north of the chest. You'll appear in a different
+portion of the world. Walk to the next area and the ground will shake. Damn.
+Well, you just hit a row of Battlefields, so why not battle?
+
+     Battlefield Twelve ~
+     =----------------=
+          Monsters: Jelly
+          Prize: 900 GP
+           ~ Okay, this is simple. Unless you're out of Explosives, 10 rounds
+             should go by easily if you know what to do. Jellies are extremely
+             weak to Jumbo Bombs. Simply throw one at them. There you go,
+             mission accomplished. 
+
+     Battlefield Thirteen ~
+     =------------------=
+          Monsters: Jelly, Sting Rat
+          Prize: Gemini Crest
+           ~ Sting Rats have a weakness. That weakness is Blizzard. If you'd 
+             prefer to conserve your black magic though, just cut them up
+             with your Knight Sword. Sting Rats can get pretty annoying with
+             their Poison Sting attacks and such. But assuming that you can
+             kill them before they have a chance to attack, you should be 
+             fine. Jellies are vulnerable to Jumbo Bombs. Plain and simple.
+             If you need to, stop at Fireburg to heal up. 
+
+     Battlefield Fourteen ~
+     =------------------=
+          Monsters: Plant Man
+          Prize: 816 EXP
+           ~ Swap that Knight Sword for an Axe when fighting. Plant Mans are
+             weak against Axes. These ugly trees can inflict various status
+             ailments upon your unit with Bad Breath. Obviously, have Heal
+             ready just in case you need to relieve an ailment. Just chop down
+             the Plant Man with an Axe and you should breeze through this
+             Battlefield. 
+
+Fireburg is just ahead in case you didn't know that. Well, you might have
+already been here to heal up... or not. 
+
+                         __________________________
+                    ---=|          Fireburg        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Fireburg doesn't have an inn. Oh no. Fireburg has a HOTEL which is infinitely
+cooler than any old inn. Apparently, the hotel currently has a live rock
+show (just look at all those posters), which is strange to see in a Final 
+Fantasy game...
+
+Anyway, you can stay for 95 GP. Now, we have to find Reuben. The old guy 
+outside the hotel will sell you Explosive (damn pyromaniac). See the house to
+the left of the hotel? That's Reuben's house. Talk to the guy in armor and
+he'll tell you his predicament. He has to help his dad from behind a boulder.
+Benjamin agrees to help, so Reuben joins. 
+
+Don't forget to get the Refreshers from the chest before heading on out. Climb
+down the wall in front of the hotel (Cat Claws) to reach the locked house. 
+Since it's locked, there's nothing much we can do. Return to the hotel and
+look for Tristam. He's over by the bar. Tristam hands you the Multi-Key which
+opens locks. Before you barge into the guy's house, you can listen to the band
+(for no reason), buy Cure Potions, or buy some Seeds. 
+
+Go check out the locked house. With the Multi-Key, you can open the door. Talk
+to the man and he'll mention Arion and the gigantic boulder. He'll also teach
+you how to use a Mega Grenade. Just throw it. You can try it out a bit. Before
+heading out, go to the house in lower-left corner of town. A woman will sell
+you a Battle Axe for 500 GP. You will definitely want this. If you check out
+her basement, you'll find a strange tile. Stepping on it will warp to a house
+in Aquaria. This is great if you don't feel like walking all the way back.
+
+Leave Fireburg and head west. Two more Battlefields are up ahead. With your
+newfound Mega Grenades and Battle Axe, why don't you kick some monster butt?
+
+     Battlefield Fifteen ~
+     =-----------------=
+          Monsters: Sting Rat, Flazzard, Plant Man
+          Prize: 1200 GP
+           ~ Plant Men are weak against the Battle Axe (And Reuben's Morning
+             Star). Sting Rats can be obliterated with Blizzard. Flazzards are
+             probably a new monster to you. They're weak to Blizzard as well.
+             Be careful of the Sting Rat's Poison Sting. Reuben's only spell
+             is Life, so you'll have to rely on Benjamin's Heal spell to take
+             care of that. 
+
+     Battlefield Sixteen ~
+     =-----------------=
+          Monsters: Flazzard, Red Cap
+          Prize: Thunder Spell
+           ~ When up against Flazzards, simply cast Blizzard. Reuben should be
+             able to take each monster out within one hit. Benjamin, on the
+             other hand, should be a bit weaker. Don't hesitate to use magic 
+             often. Red Caps are easy to beat too, but they can use Stare to
+             confuse your units or Hypno-sleep to put someone to sleep. 
+
+Walk past those two Battlefields to reach the Mine. Reuben's dad is trapped
+somewhere here...
+
+                         __________________________
+                    ---=|           Mine           |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This area is a bit confusing. You'll find conveyor belts along with pulley
+systems. Note that if you go in one direction on one of these, you cannot go
+back without finding the alternative route to return. 
+
+You have three ways to go from the start. The conveyor belt to your east is
+not accessible because it's moving toward you. Head north first and fight a 
+Red Bone. Continue and use a Mega Grenade to clear the cracked wall. There
+are some chests in here, but they're blocked off. Walk forward and climb the
+wall. Monsters block these chests, but they provide good EXP. Fight them all
+and pick up the Heal Potions and Cure Potions. With those collected, return
+to the previous platform. 
+
+Since we can't head back south, continue by stepping onto the moving belt to
+your east. Further east is a pulley system. Use the cart to get yourself to 
+the bottom. Defeat the two Red Bones nearby and get the cracked door open. Go
+through. The path on the left leads to nothing, so head right. Clear the 
+monsters out of the way and move through the opening at the end. A Red Bone
+guards a single chest. Inside is a Charm Claw; a very useful weapon that can
+inflict multiple status ailments upon an enemy. 
+
+Make your back to the previous area. Head south using the conveyor belt. You
+will fall right onto a Zombie! Eww. Slay the Zombie and continue south and
+west. Use a Mega Grenade to bomb the cracked wall. Head left and defeat the
+various monsters in your way. Climb the wall at the end to the lower area.
+Kill off the Red Bone and climb the other wall to the chest. It contains some
+Explosives. Leave this cave. 
+
+To your immediate right is a climb-able wall. Use the Charm Claw to get to the
+top. Go west across the conveyor belt all the way back to the entrance area. 
+Head south and use the pulley system to get to the bottom. Take the next
+conveyor belt southbound. Get rid of the Zombie that you land upon and keep
+going. Head east (across another conveyor belt) and climb up the wall. Take
+the north conveyor belt to another Zombie. Keep going north until you reach
+a belt leading east. Take it and fight the Red Bone. 
+
+To the south is Jinn, a yellow freak blocking a door. 
+
+      Boss Fight: Jinn ~
+      =--------------=
+           Begin the battle by clearing out the Red Bones that Jinn has next
+           to him. Even though Jinn is fire-based, Blizzard doesn't seem to be
+           super-effective against him. Jinn's Flame Pillar move is the one
+           you will want to watch out for. 200+ damage will be dealt to both
+           of your units. Both Benjamin and Reuben should have Life, so be
+           sure to use it when the other falls. Use Mega Grenade or the Wizard
+           spell, Thunder, to deal heavy damage. With the Charm Claw, you can
+           poison Jinn. Simply keep your units alive with Cure and Life to win 
+           out. 
+
+Jinn will die without even uttering a word. Go through the door he was sitting
+in front of. Outside, take the contents of the four chests and look across the
+chasm. On the other side is Reuben's dad. Reuben will appear and chuck a Mega
+Grenade to clear the boulder out of the way. He'll throw it and miss (???). 
+The boulder still rolls away though. With the rock now clear, a whole new path
+is clear. 
+
+Now all you have to do is return to the entrance. Because all the conveyor
+belts here are one-way, that might take some thought. Go north and defeat the
+Red Bone blocking the other conveyor belt. Simply follow the belts until you
+get back to the entrance. Remember that you have to climb the wall by the 
+bombed door. Leave and head south, east, and south. You'll reach the Sealed
+Temple that was previously inaccessible. 
+
+                         __________________________
+                    ---=|      Sealed Temple       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Here is the strange man once more along with a strange tile and some chests. 
+Talk to him and he'll ask for some coffee money...? Anyway! Take the Heal
+Potions and Cure Potions from the chests and check out that weird tile. You
+will be warped to the Wintry Temple. There are two chests here as well. Pick
+up some more potions for the road. Step back onto the warp and return to the
+Sealed Temple. Head off to Fireburg. 
+
+You're probably itching for some healing. Sleep at the hotel if you need to.
+Return to Reuben's house to find Arion. He must be psychic because he 
+immediately tells you that the Crystal of Fire can be found in the Lava Dome.
+Whatever. Leave Fireburg and head west and north. Another Battlefield awaits
+your blade. 
+
+     Battlefield Seventeen ~
+     =-------------------=
+          Monsters: Red Bone, Zombie, Ghost
+          Prize: 1200 EXP
+           ~ Red Bones and Zombies are pushovers as you probably already know.
+             The only real danger with Zombies is the fact that they can
+             regenerate themselves if you take too long. The Cure spell can
+             deal heavy damage if you use it against them. Ghosts can be a 
+             bit tough though. They might take multiple hits to take down.
+             Also, Ghosts are capable of multiplying, which basically 
+             introduces another Ghost into the battle. Luckily, Ghosts 
+             sometimes have a tendency to "not do anything" so you shouldn't 
+             have a problem.
+
+Head past the Battlefield to reach the Volcano. After getting through this, we
+can head over to the Lava Dome at last. 
+
+                         __________________________
+                    ---=|          Volcano         |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Northeast from the entrance is a staircase. Start off by climbing it to the
+top. First, defeat the Were Wolf guarding the cave. Proceed through. You can't
+see your position, but you should be able to tell where you are. Head a tiny
+bit to the left and exit through the other opening. The chest contains the
+White spell; a very powerful Wizard spell. 
+
+Go back to the entrance area and defeat the Ghost to your left. You'll reach
+another staircase. To the left of it are some monsters guarding a single chest.
+Inside are some Cure Potions. Now, head up the steps and look to your right. 
+A gap lies in-between you and the next ledge. Jump across it to the other 
+side. A bunch of monsters will block your way forward. Clear them out and head
+up the stairs to reach the next area of the Volcano. 
+
+A thick shroud of gas prevents you from being able to see any nearby monsters.
+In order to see through, you'll need the Mask, of which is hidden somewhere 
+around. Walk up a little bit and turn left. Simply follow the path until you
+hit an opening in the wall. Again, you can't see yourself. Head right to get
+out. Steal some Heal Potions and keep going. Once at the next area, you have
+two ways to go. Some Explosives are straight ahead. To get the Mask, head
+left. 
+
+Don't be surprised if you suddenly run into monsters. Walk up the stairs to
+the next area. Amazing, the gas has suddenly disappeared! Defeat the monster
+to your left and trot up the steps. Kill off the Were Wolf and snag the Mask
+from the chest. Before you return to the previous area, defeat the Nitemare
+to your left. The chest behind it contains some more Cure Potions. Now, 
+backtrack to the first area with the gas. Return all the way to the entrance
+of that room. 
+
+This time, go straight ahead to a staircase. Defeat the Nitemare in front of 
+it and proceed to the next area. Defeat another Nitemare and continue. Use
+the opening and move eastward. Keep on heading east until you reach another
+set of stairs. Climb it to the top and get rid of the Ghost that greets you.
+You can choose to take the path on the right for some Cure Potions before
+climbing the steps. There are a bunch of monsters on this ledge. Before 
+continuing up the stairs to your left, you can beat up some more enemies for
+some Heal Potions. 
+
+You will reach the top of the volcano after climbing up the stairs. Heal up
+before fighting Medusa!
+
+     Boss Fight: Medusa ~
+     =----------------=
+          Begin by taking out the Were Wolves that join the fight. Benjamin
+          should use White while Reuben just attacks with his Morning Star.
+          Try to take them out before they manage to pull off a Quake or 
+          something. White deals a lot of damage. Only a few castings are
+          needed to put her down. Be sure to have Reuben heal when needed.
+          Keep Benjamin alive while Reuben heals and attacks. Beware of her
+          Screech Voice move; it's capable of confusing a unit. Stone Voice
+          can petrify and Para-snake can paralyze. Ouch. 
+
+Well, with her out of the way, you can descend the stairs to finally get out
+of the Volcano. Now you can continue onward to the Lava Dome. However, you
+might want to return to Fireburg for some healing. Buy any last-minute items
+that you might need before venturing into the core of the cinder-cone. 
+
+                         __________________________
+                    ---=|        Lava Dome         |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Begin by heading east. Defeat the Hot Wings and descend the staircase that it 
+was blocking. At the bottom, continue eastward and fight the Ninja (*ahem* a
+PINK Ninja). Once more, head down the steps and go through the opening to your
+west. Inside this cave, simply go right. Get rid of the various monsters and
+continue until you are stopped by some lava. Jump across the steps. Demolish
+the cracked rock a Mega Grenade and beat up the Medusa-wannabe. The chest she
+was guarding contains the Life spell!
+
+Return to the entrance of the cave and head north. Climb the wall and continue
+northwest. A bunch of enemies here will make life much harder for you. At the
+end of the northwest path are some Explosives -- 20 to be exact. Return to the
+wall and move southwest. Clear the monsters out of the way and leave through 
+this alternative exit. Three Refreshers can be found in the chest. With those
+collected, simply climb down and drop off. 
+
+Going east from here will lead you to the original cave entrance. Defeat the
+Avizzards and drop down the wall it was blocking. You have two ways to go from
+here. Let's head west. Defeat another Iflyte and climb the stairs leading UP.
+Another pink Ninja awaits. Move west and ignore the next set of stairs. Keep
+going in that direction and kill the next Ninja. Another cave entrance is just
+ahead. Enter. 
+
+Proceed north and do whatever you'd like with the Hot Wings. The next area is
+absolutely infested with monsters. Fight them for the valuable EXP and pick up
+some Refreshers, Heal Potions, and Cure Potions. Now, look to your left. In
+the lava is a collection of platforms that can be jumped. Head north and jump
+onto the first block. Head downward until you see the two boulders. Throw a 
+Mega Grenade to blast them out of the way. Move over to the northwest corner 
+and kill off another monster blocking the door. 
+
+Ugh, another line of monsters. Keep going north until you reach two chests.
+The one to the far northwest contains a Moon Helm. The other holds some Cure
+Potions. Do not forget the former! With that, return to the previous room. 
+Jump over the platforms and head southeast. Follow the path until you reach
+an Avizzard in front of some stairs. Head down and descend the other staircase
+to the next floor. Just keep going and you'll eventually find yourself back
+outside. To your west is a monster blocking a strange tile. Step on it and
+the door to the right will open. 
+
+Okay, with the door open, we can now access the boss. Drop off the ledge and
+kill off the Avizzard. Head down the steps that it was blocking. To your south
+is the switch you just pressed. See the cave on your ledge? Enter it for some
+items. The first chest has some Cure Potions. If you keep heading in deeper, 
+you'll reach another opening. Go through to the next chamber. At the split,
+head north. Upon reaching the end of this path, you'll be rewarded with some
+Heal Potions and Cure Potions. Return to the fork. This time, take the left
+branch. 
+
+Keep heading north until you reach the steps leading up to the ledge. Walk up 
+and go left and south. Jump the gap at the end and fight the Salamand. Jump
+the next gap and kill off the Stheno to access the chest. Take the Heal 
+Potions and return to the stairs. Go east and follow the path. Ignore the
+first gap jump across the second. After getting rid a Adamant Turtle, you can
+pick up some Heal Potions. Return to that other gap and jump across it. 
+
+Now that we're on the right track, continue northbound. Defeat the Salamand
+that is sitting at the corner. Advance west and you will finally reach the 
+door leading out of here. In the next room, there are two chests. Both are
+haphazardly surrounded by monsters though. If you aren't at level 24 yet, I'd
+suggest beating up monsters until you are. Both chests contain Cure Potions, 
+so you're not missing out on anything if you don't open them. Anyway, keep 
+going and enter the next room. 
+
+Instead of climbing the wall, just climb the staircase to your left. Another
+Avizzard will await you at the top. Enter the next cave. You will have to 
+travel down some stairs before you even get anywhere. Defeat the Hot Wings
+to your right and proceed down the steps. There are a bunch of chests in this
+room. Likewise, there are also a bunch of monsters. Head south until you find
+some steps. Defeat the Salamand and get ready to do a lot of jumping around. 
+
+The first gap to your left will take you to a chest (Heal Potions). Return to
+the other path. If you keep going, you'll come across two gaps. Jump across
+the left one and open the chest for some Cure Potions. Now, hop across the gap 
+on the right and beat up the monster. Step down to the lower area and go down. 
+Clear out the Hot Wings. To the west are some Heal Potions. The right path 
+will reveal some Cure Potions. Head back north and step up to the ledge with 
+the Ninja on it. 
+
+Defeat the Ninja and jump to the other ledge. Proceed and kill off the Ninja
+guarding the chest containing Heal Potions. To continue, you can just walk
+through the nearby doorway. However, if you want some more items, you can
+explore the rest of this room. When you're done, exit through the said 
+doorway. You will appear just before the big doors that you have opened 
+before. Clear out the single Salamand up ahead. 
+
+Yay, more jumping. First, hop to the right. At the fork, jump south. Defeat
+the Stheno and open the chest for some (once again) Cure Potions. Jump all
+the way back to the center platform. This time, go left. At the fork, head
+north. Get rid of the Stheno and go west. The northwest platform has some
+more Cure Potions for you. Head east and you'll finally reach the big man
+himself. Meet the Dualhead Hydra. 
+
+     Boss Fight: Dualhead Hydra ~
+     =------------------------=
+          The White spell will be your salvation in this battle. Although you
+          obviously can't cast it forever, it still will deal a considerable 
+          amount of damage to the Dualhead Hydra. Reuben is useful for healing,
+          so have him use Life to replenish your party's HP. The Dualhead 
+          Hydra is capable of quite a few different attacks. Para-Breath and
+          Poison Breath will paralyze and poison, respectively. Stone Gas will
+          petrify. Heal Potions will clear a unit of those annoying ailments.
+          Fire Breath deals heavy damage as well. Although a Moon Helm can 
+          help defend against Fire Breath, Reuben (without any fire protection)
+          will surely be fried. It's not imperative that he survives, but he 
+          really helps out with his Life spell. 
+
+From the ashes of its corpse, the third crystal will materialize. Reuben will
+congratulate you and mention Windia, the sector of the fourth crystal. A 
+sudden earthquake will ravage the land and some lava will blast out of the
+volcano. Pick up the Sun Coin before hopping out of here. 
+
+Well, the land hasn't really changed. However, there are no more earthquakes
+despite the fact that the volcano is still standing. Strange. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              4.5. The Final Sector                                    [4500]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+The recent eruption created a new path to another Battlefield and an 
+alternative route to the northeast sector. Before you continue, tackle the
+Battlefield. 
+
+     Battlefield Eighteen ~
+     =------------------=
+          Monsters: Iflyte, Stheno
+          Prize: 1068 EXP
+           ~ Monsters here are basically the same ones that you have already
+             fought in the Lava Dome. Even by now, you might have a bit of
+             trouble taking these down. If you want to clear them quickly, 
+             just use White every single turn. Seeds will replenish your
+             Wizard magic counter. This is a somewhat difficult Battlefield,
+             so don't hesitate to go back to Fireburg for a rest when it's
+             needed. Be sure to heal any status ailments that the Sthenos or
+             Iflytes might inflict on you. 
+
+Head over to the Focus Tower. Be sure to take the entrance that puts you in
+front of the four "special" doors. 
+
+                         __________________________
+                    ---=|   Focus Tower to Windia  |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Now, with the Sun Coin, you can open the purple door. That man is waiting for
+you past the door. Be on the lookout for Captain Mac's ship! Anyway, the exit
+is past the staircase. However, if you want the Aero spell, descend the steps
+into the Doom Castle. This castle, for some reason, is underground. Anyway, 
+defeat the single monster and pick up your Aero spell. We'll access the rest
+of this castle later. Return and leave the Focus Tower. 
+
+                         __________________________
+                    ---=|        Rope Bridge       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This bridge is in major need of repair as you can see. Begin by walking ahead
+and a Mummy will materialize out of thin air. Reuben will step up to the plate
+and take care of this monster. You can probably predict what will happen next.
+Yep, the monster knocks him off the bridge. And of course, you're left to put
+this Mummy in its place. It seems that Reuben is fine. He'll catch up later. 
+Tristam will also appear and decides to join your party. NOOO! I want Reuben
+back!!
+
+You can climb down some of the vines to find cool stuff in chests. However,
+there's really nothing you DESPERATELY need. Make it to the end of the bridge
+and leave. You'll reach the Alive Forest afterwards. 
+
+                         __________________________
+                    ---=|       Alive Forest       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+There are a few monsters here. For some Cure Potions, look to your north and
+cut down some trees. Fight the two monsters and open the chest. Now, cut the
+trees south of the group of trees in the shape of an arrow pointing left. 
+Continue and fight the Mummy. Head down the steps and you'll reach a giant 
+tree stump with a strange tile on it. Continue east from there to meet two
+more monsters by a tree with a face on it. 
+
+Talk to it and Tristam will recommend getting Kaeli here because she can 
+obviously talk to trees... Head southeast from the talking tree to find 
+another gigantic tree stump. South of it is a chest containing the Giant's
+Axe; the most powerful axe in the game! Of course, monsters guard it. To find
+Kaeli, you'll have to head over to Phoebe's house in Aquaria. Do just that. 
+
+Phoebe will state that Kaeli is still asleep. Blargh. Head over to Spencer's
+Place underneath her house. Find the old man and talk to him. Tristam will
+appear and gets sidetracked by Spencer's offer. Looks like he'll be leaving 
+you, thankfully. Also, you get his Dragon Claw (that he found earlier in the
+game). This, my friends, is a HOT weapon. Wield it with pride. Leave Spencer's
+Place and check on Kaeli. She'll join with awesome stats. 
+
+Now it's time to return to the Alive Forest. Check on that big, talking tree
+and he'll be like, "Yo, wassup." Then Kaeli will say some stuff. The big tree
+will let you go through if you whack some monsters in him. 
+
+                         __________________________
+                    ---=|        Giant Tree        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+So you're inside a giant tree. Not exactly the most creative thing ever, but
+I guess it'll do. 
+
+Begin by heading right. Defeat the monsters blocking the path. The chest at 
+the end contains some Cure Potions. Return to the entrance and head straight. 
+At the fork, head right. Of course, some more enemies will try to block you. 
+A Live Oak guards a chest full of Refreshers. Head back to the split and take
+the left fork this time. 
+
+Clear out the monsters and continue west until you hit the wall. There are two
+chests above and below you. Steal the Cure Potions and Heal Potions and 
+continue north. Follow the path east and climb the wall. Here's where it gets
+fun. Take out your Dragon Claw and aim at the little stub to your south. Use
+it and you'll be grappled to the other platform. Repeat this process with the
+platform south of that one. Look to your west and use the Dragon Claw to get
+to the following ledge. Keep doing this until you reach a door. Go right
+through. 
+
+Head east first. Kill off the Snipion and snag some Heal Potions from the
+chest. From your current position, you should be able to see a special chest
+to your southeast. How do we get there? You'll soon see. Keep going south and
+defeat the next row of enemies. After finishing off the Mad Toad, go through
+the doorway a tiny bit to the right. Whoa, mushroom paradise! This room is
+also infested with Mad Toads. Apparently, frogs in this game love mushrooms
+for some reason. 
+
+Use the Giant's Axe and cut a path to the two chests. Defeat the Mad Toad and 
+steal some Cure Potions and Explosives. Backtrack a little bit and slice a 
+path to the south end of the room. This next part will be sure to take a long
+time. Defeat each and every Mad Toad while you progress around the room. Use
+Blizzard as they're weak against water (for some reason). Eventually, you'll 
+reach the exit door. The last monster that you'll fight before the chest is a 
+Snipion. Finally, you can open it for the well-deserved Meteor spell. 
+
+Return to the entrance of this floor. Head west this time and follow that 
+path. You can use the Dragon Claw to get across the gap in the floor. Kill off
+the Live Oak and continue onwards. If you go all the way east, you can pick up
+some more Cure Potions. Climb the wall nearby and walk west. Use the Dragon
+Claw to reach the door. Alternatively, you could have climbed the other wall,
+but you would have never gotten to Cure Potions. Clear the Mad Frog out of the
+way. The door appears to be closed. Simply poke it with a sword to force it
+open. 
+
+Before climbing down, take some Heal Potions from the chest. Climb down and
+defeat the two monsters on your left. Open the two chests for some more Cure
+Potions and Heal Potions (I'm getting tired of saying those words). Climb
+back up to the starting position and get rid of the Leech on the left. Grapple
+to the platform on your left. Continue south until you meet some more Leeches.
+Kill 'em all. 
+
+Keep going until you reach a door. Like before, just poke it with a sword to
+force it open. Yes, it's another mushroom room. The Leeches hanging around 
+are sure to give you a headache. Begin by heading west. Remember that Leeches
+are weak against axe attacks. Make your way to the northwest corner. Once
+there, climb the wall and drop down to the lower area. Fight the two Leeches
+and proceed south. Simply go through the door to get out of that hellhole. 
+
+Back out here, go southwest to a vine. Climb it down and drop off. Down here,
+walk north a bit to find another closed door. You know the drill. Stab it and
+head through. On this floor, you will find yourself on a ledge. A Mad Toad
+will block a wall that you can climb. Bring it down and climb the following
+wall. This next part is a bit tough. You'll have to drop off by releasing the
+A Button. When you hit the other part, hit the A Button so that you latch on.
+Repeat this process until you reach another door. Stab it and proceed. 
+
+We're almost done, luckily. Head south at first and defeat the various monsters
+and such. You will come to three doors. You can enter either the door in
+the middle or the one on the left. There are various items scattered in the
+following mushroom room. If you want them, then seek them out. Hack your way
+through the mushrooms while following the path. You should not get too much
+interference from the Oozes. Climb the wall and exit through the nearby 
+opening. 
+
+Immediately kill off the nearby Leech. Advance northward while taking care of
+more monsters. You will have to walk clockwise around this platform to 
+actually get anywhere. You should reach a climb-able wall. You can use the
+Dragon Claw to grapple on the stub to the south. Two chests can be found on
+that platform. If you want Explosives or some more Cure Potions, open those
+chests. Finally, climb the wall and stab the door to force it open. Proceed. 
+
+Ah crap, more monsters. To your immediate south are some chests containing
+Cure Potions and Heal Potions. If you'd prefer to go out of your way for some
+more chests, head over to the northwest corner for some Explosives and more
+Heal Potions. Before you climb the wall to the boss (at the north end of the
+room), remember to heal up. 
+
+     Boss Fight: Gidrah ~
+     =----------------=
+          Get rid of the two Skuldiers by using Aero. Once they are cleared
+          out, have Benjamin use Meteor or White while Kaeli continues to
+          blast Gidrah with Aero. Gidrah can paralyze and petrify your team,
+          so watch out for those. Remember to use Heal in order to clear
+          status ailments. If both units are petrified, then you lose. Make
+          sure that doesn't happen. 
+
+Walk up to the final door and examine it. It will offer to carry you to 
+Windia. Enjoy the "ride" on the tree's branch as he transports you off. Use 
+Exit to get out of there and continue. Next stop; the Kaidge Temple. 
+
+                         __________________________
+                    ---=|       Kaidge Temple      |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Climb up the wall and meet the strange man once more. He'll mention Captain
+Mac again and fly off. Proceed deeper into the cave if you need some Cure
+Potions. If not, just skedaddle out of there. Up ahead are two more 
+Battlefields. These are the last ones. Rejoice!!
+
+     Battlefield Nineteen ~
+     =------------------=
+          Monsters: Skuldier, Water Hag, Ooze
+          Prize: 2808 EXP
+           ~ Skuldiers are easy enough to beat. They're weak against Aero,
+             so use that if you need to. Don't use magic against Oozes though,
+             as they simply bounce off (and hit you back). Skuldiers appear
+             the most, which is a good thing. You might consider Mega Grenades
+             as well. Choose whichever way works best, and clean out the
+             Battlefield. 
+
+     Battlefield Twenty ~
+     =----------------=
+          Monsters: Water Hag, Vampire
+          Prize: 2700 EXP
+           ~ Intimidating as they may be (Haha, yeah right), Vampires can
+             be shut down painlessly with Aero. Take advantage of their wind
+             weakness and shut 'em out. Water Hags are weak against the Fire
+             spell. However, it seems that the Giant's Axe deals more damage
+             than that. Either way, Water Hags should be nothing. Vampires
+             might cause some problems, but Aero should take them down before 
+             they can even attack. Beware of the occasional "Unexpected 
+             Attack."
+
+Just ahead of these two Battlefields is Windia, capital of the southeast. 
+Let's check it out, yo. 
+
+                         __________________________
+                    ---=|          Windia          |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Windia sure is windy. I mean, that weathervane on the house to your right must
+be moving at least 100 mph! Begin by entering the house to your left. Talk to
+the girl inside to buy the Cupid Locket. Trust me, you want this. For 300 GP,
+you can have protection against silence status, confusion (HOORAY!), and 
+blindness. It also adds to your defense, which isn't a bad deal. 
+
+Check in the basement of the northeast house to find two chests. Inside are
+some Heal Potions and bombs. There's one more house you should visit before
+heading on out. The house below the inn (with the weathervane on it) is the
+residence of Otto. He'll state that his daughter had went up north using the
+Rainbow Road. Norma was blown off by the wind and is stuck down there. If the
+wind doesn't die down, she'll be stuck there for all eternity. You can go
+upstairs for some Heal Potions. 
+
+Before going, you might want to stop at the inn. Upstairs, where the beds are,
+are two chests. Inside are some Refreshers and Heal Potions. Upon leaving 
+Windia, head south and east. The Windhole Temple is up ahead. 
+
+                         __________________________
+                    ---=|     Windhole Temple      |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+There's really nothing interesting here. In fact, none of the temples 
+throughout this world serve that much of a purpose. Get the Heal Potions in the 
+middle before heading out. North of the Windhole Temple is Mount Gale. 
+
+                         __________________________
+                    ---=|        Mount Gale        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Ignore the first staircase you see. Continue along and ignore the second 
+staircase unless you want a chest of Heal Potions. Ascend and beat up the
+Water Hag. Climb the multiple stairsets until you reach a Skuldier blocking
+your way. Defeat it and advance. At the gap, use the Dragon Claw to grapple
+yourself across. 
+
+Jump the next gap (there's no point in using the Dragon Claw for that). Head
+south and defeat another Water Hag. You'll now be on the opposite side of the
+rocks. Continue descending the staircase and follow the path to come across a 
+Vampire. Kill it and take the steps down. If you'd like, you can go north to
+find a chest of Refreshers across the gap. Keep going south and climb down
+another staircase. Go northeast and up the stairs. 
+
+Kill off another Skuldier and proceed. Head up the next long staircase you see.
+To your west is a messed-up bridge reminiscent of the Rope Bridge you crossed
+before. Walk across to the opposite side and defeat the monster blocking your
+way. Look north and grapple yourself across the chasm. Here, you'll find the
+Apollo Helm; the strongest helmet you'll pick up. Defeat the Vampire, and take 
+your prize. Well, you can't just go back south because Benjamin can't jump 
+that far AND there is no grappling hook. Instead, look to your west. Get the
+Water Hag out of the way and jump across that gap. 
+
+Now just use the Dragon Claw and circle around. Proceed south and get back on
+the other half of the bridge. Use it to get to Vampire just below you. Ben
+will automatically assume that he holds the fourth crystal... for some
+reason... Nah, it's Pazuzu. 
+
+     Boss Fight: Dullahan ~
+     =------------------=
+          So this Dullahan is some headless knight in shining armor, eh? 
+          First thing's first; get rid of the two Vampires he has at his side. 
+          That should be instinct by now. Aero will get rid of them easily.
+          The best way to defeat Dullahan is through pounding him with magic.
+          That means casting Meteor, White, etc. Kaeli won't be too useful in
+          this fight, but she's a good healer. Use her to heal Benjamin if he
+          loses a lot of HP. She can also heal the various status ailments
+          that Dullahan might cast upon you. The one move you want to watch 
+          out for is Doom Dance. It is capable of automatically killing one 
+          of your units regardless of their HP. Needless to say, it can get
+          pretty annoying. All you basically need to do is use Meteor until
+          that ugly Dullahan dies. 
+
+Well, this dungeon was kind of pointless. At least we got the Apollo Helm out
+of it. Pazuzu holds the last crystal. He can be found in Pazuzu's Tower, named
+after him of course. Use the Exit spell and return to Windia. 
+
+Hmm, it seems that the wind has stopped. You can have some fun by getting on
+top of the inn's roof using the Dragon Claw but there's no point in doing 
+that. Give Otto a visit and he'll power up the rainbow road for you. Before 
+you go though, he'll tell you to hit the switches with your axe to work the
+elevator. I wonder how he knows that...
+
+                         __________________________
+                    ---=|      Pazuzu's Tower      |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Now inside Pazuzu's Tower, you should see a little girl to the right. Walk up
+the steps and talk to her. Well, now that you've rescued her, you might as
+well continue. 
+
+With that, begin walking into the middle area of the room. You'll have to
+fight through some monsters obviously. You don't have to beat them all up. 
+Just clear a path to the big bird up ahead. Yep, that's Pazuzu. Before you
+can kick his butt, he'll fly off. Damn. Return to the entrance and head right
+past the area where you found Norma. Go through the opening and defeat the 
+Beholder blocking the doorway. Continue along. 
+
+Get rid of the monster blocking the staircase up ahead. Proceed and kill off
+another annoying Garuda and then another one at the end. Continue west and 
+you will see the elevator of Pazuzu's Tower. Defeat the Beholder and head 
+south. There's a staircase to your left. Don't take it just yet. Kill off the 
+Manticor followed by a Chimera. Beware of Chimeras as they are capable of 
+petrifying you. That would suck. Last, but not least, get rid of the Beholder 
+blocking the doorway. A line of four monsters block two chests. You will find 
+20 bombs for the picking. With those collected, return to the staircase I told
+you to ignore previously. Walk up the following stairs all the way to 5F. 
+
+A Garuda up ahead is just asking to be vanquished. Do just that and continue.
+Walk through the doorway and you'll reach another set of stairs and a door.
+Go through. Once more, climb all the stairs to the very end. Monsters guard
+each stop so clear them out of your way. Once you finally reach the top, you
+will appear on 7F. Head west and use your Dragon Claw to get to the platform
+to your north. Get rid of the Thanatos and step onto the ledge. Advance this
+way until you see a staircase leading down. This will bring you to 6F.
+
+Proceed south and get rid of the Sorcerer that is blocking your path. Walk a 
+tiny bit to the right and kill the Naga after the steps. Be careful of
+their Sleep Lure attack. They can also confuse Kaeli, but not Benjamin due to
+his Apollo Helm. Go south and through the doorway. Here, you have a staircase,
+a chest containing Cure Potions, and a cracked door. Pick up the Cure Potions
+and continue left. Pop open the chest for the Flare spell!
+
+Return to the cracked wall and throw a Mega Grenade to blast it out of the 
+way. Continue and defeat the two monsters that are blocking your way. At the
+north end, you'll find Pazuzu YET AGAIN! Once more, he flies off. Pazuzu sure
+is good at running away. Backtrack and hit the purple switch on the wall with
+your Giant's Axe. Head back south and move through the opening by the Flare
+chest. Kill the Naga just ahead and follow the path to a staircase. 
+
+You should be on 5F upon descending the stairs. Begin by getting rid of the
+Thanatos. Head south and east. Slay the monsters ahead and jump the gap. Go
+north from here and kill another Thanatos. Ahead is a staircase leading down.
+The smart thing to do would be to take them. The new monster you see is a 
+Gargoyle. In my book, monsters that are *pink* are weaklings. Defeat it and
+continue south. 
+
+After killing off a Chimera, you will appear at a staircase along with two 
+doorways to your left and right. First, defeat the Sorcerer blocking the one
+on the right. Inside is a chest containing the... Excalibur! Now that's a
+friggin' powerful weapon!! With that collected, go through the opening on the
+left. Blow a hole in the cracked wall and proceed through it. A line of 
+Gargoyles have to be defeated before you get anywhere. Get the Heal Potions
+and Cure Potions. Talk to Pazuzu and he'll fly off. Typical...
+
+Return through the door you bombed open and head west a little bit. After
+defeating the monster, go north through the doorway. A Chimera blocks the next
+switch that you have to hit. Use that axe and smack it. Walk down the nearby
+steps (to your immediate left). A Thanatos will pop up right in front of your
+face. Slay it and continue all the way down the stairs. At the end, you should
+appear on 2F. 
+
+A staircase is nearby. There's no point in descending though. Defeat the two
+monsters and proceed south through the doorway. Ignore the cracked door and 
+defeat the next line of monsters. It's a lot, but shouldn't take that much
+time. After killing the last Naga, go through the doorway and through the 
+other opening to the right. Ignore the staircase here as well. Steal some Heal
+Potions and Cure Potions and leave the room. Head north past another line of
+monsters. At the end, a switch can be found. Once more, hit it with your axe.
+
+The elevator now has Pazuzu on 5F. Head back south and descend the stairs to
+the first floor. Use the Dragon Claw to grapple to the opposite hook. You
+should know how to get to 5F from here. Head east and through the doorway. 
+Walk up the steps and repeat this process on 3F. You will find Pazuzu waiting
+at 5F. Playtime's over, pal. 
+
+     Boss Fight: Pazuzu ~
+     =----------------=
+          The birdman is weak against wind attacks, so Aero works wonders.
+          Flare deals more damage though. Those two spells should deal the
+          most damage against Pazuzu. A lot of his attacks deal 500+ damage.
+          Keep Kaeli's HP high as she seems to die very often. Psychshield
+          makes it so that if you attack Pazuzu while it is up, you will eat
+          a nasty counter-attack. Do not attack with his shield up for that
+          very reason. When the Psychshield is down, it is safe to kick his
+          butt. Take caution with that one move and you shouldn't die THAT
+          often. If you send a constant barrage of Flare and Aero, the battle
+          will go much quicker. Aero (assuming Kaeli casts it) deals 1500+ 
+          damage while Flare can deal 2000+ damage. Those are some pretty 
+          figures if you ask me. 
+
+Afterwards, Benjamin will take the elevator and ride it up to the top of 
+Pazuzu's Tower. The screen will darken and the final crystal will appear in
+all of its glory. Of course, you can't forget the Sky Coin in the chest. That
+is all four crystals. However, there is one more task we must accomplish 
+before we can call it quits. Cast Exit and leave the tower. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              4.6. D-D-Doom Castle                                     [4600]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+Return back to Windia and get your butt to Otto's house. Talk to him to hear
+that Captain Mac is still stuck. Reuben manages to barge in. Looks like
+he's back just as he said he would. He'll explain his finding on a stairwell
+to the top of the Focus Tower. In order to save Captain Mac, you'll have to
+blast Spencer's Place to drain the water into the lake. However, you'll need
+a Thunder Rock so Otto can build the rainbow road. Reuben's dad knows about
+this. 
+
+Kaeli leaves the party to take care of Norma and Reuben joins! Arion lives in
+Fireburg, remember? Head over to Reuben's house and talk to Arion, who is 
+currently resting in bed. Upon asking him about Thunder Rock, he hands it 
+over to you. Now you can head back to Windia and talk to Otto again. He'll
+go upstairs with the Thunder Rock and power up his machine. With the new
+rainbow road, you can now get over to Spencer's Place. Do just that. 
+
+Use the new rainbow road past Pazuzu's Tower to get to Spencer's Place. You
+might notice a ship to your left. You'll reach that soon enough. Enter 
+Spencer's Place and Reuben will use a Mega Grenade and blow up the area. The
+water will flow free and form a gigantic lake outside. Captain Mac's ship will
+float toward the landmass. Before you go though, head north and climb into
+the water. Keep going and climb back onto the ground. Throw a Mega Grenade to
+blow a hole in the wall...
+
+Now, return to the entrance and hop on the platform to your left and proceed. 
+You'll see a white tile on the ground. Bomb the nearby wall with a Mega 
+Grenade. Take the warp with the Gemini Crest and you'll teleport just before a
+cave. Follow it through the hole you blew in the wall. At the end is the 
+Mobius Crest. With it, you can warp on the respective tile. Try it out on the
+mobius tile nearby. You'll teleport near the entrance of Spencer's Place. Now,
+return to Windia. 
+
+Head to Otto's House and talk to Kaeli, who is currently tending to Norma. She
+will hand you the Captain's Cap to show Captain Mac. Okay, so we have all of
+that done. Now, how do we get to his ship? The key is the house at the 
+northeast corner. Proceed to its basement and step on the tile. With the 
+Mobius Crest, you will warp to the Ship Dock. 
+
+                         __________________________
+                    ---=|        Ship Dock         |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Although it doesn't really look like much of a dock, Captain Mac's ship is
+up ahead anyway. Step onto the boardwalk to his ship. Notice the gigantic size
+difference between you and his ship. (Benjamin is bigger than the entire 
+ship!!)
+
+                         __________________________
+                    ---=|           Deck           |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Well, here we are. Now to look for Captain Mac. There are a bunch of stairs
+on the deck. Ignore them for now. Begin by heading to the middle of the deck;
+where the steering wheel is located. Go north from there and go right. See the
+barrel that's blocking the upper-right corner of the tiny center room? Push
+it down and get the Heal Potions. Then climb up the big pole. See the 
+intersection of the two masts? Move a bit to the right and up the abnormally
+thick piece of rope. 
+
+At the top of the rope, head left and down the middle mast. You will drop in-
+between two Thanatos. Defeat either one (or both) and open the chest for some
+more Heal Potions. With that, head over to the stairs in the upper-left 
+corner. 
+
+                         __________________________
+                    ---=|        Mac's Ship        |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Obviously, you should take the next stairs leading down. You will reach B2.
+Simply follow the path, defeating any monsters that get in your way. You 
+will reach another staircase at the end. Here, you'll have two ways to go;
+left or right? The right path has a chest containing Refreshers. Just make
+sure that you DO NOT fall down the hole. The left path will let you proceed.
+Take the stairs at the end of that. 
+
+Once again, you appear on B2. Advance southbound and clear out that ugly 
+Gargoyle. The stairs to Mac's floor awaits. Take it up. Be sure to take the
+Gaia's Armor before getting to Captain Mac. You can tell that he's pretty
+nervous. Before Kaeli takes her dad back to Windia, Captain Mac will mention
+the Prophecy... 
+
+Suddenly, Reuben will faint. You are going to have to take him back to Windia.
+You will come to the Ship Dock. Spencer will appear along with Tristam. Now
+isn't this a happy reunion? It seems that Phoebe is looking for you. The two
+will skedaddle and you're free to step on the tile to get back to Windia. Get
+your butt to the inn and you'll find Phoebe there. Reuben will limp his way to
+bed and Phoebe joins. 
+
+Walk upstairs and check on Captain Mac. Apparently, he has discovered a lost
+part of the Prophecy. "The one behind the 4 is darker than the night, and 
+rises midst the land." The Dark King must be defeated, or else the world still
+will not be safe. Mac will lend you his ship. Use it to get to the Focus Tower
+and finish this fight. 
+
+Get back to Mac's Ship and step up to the steering wheel. Sail to the Focus
+Tower. This is the entrance to Doom Castle. Before entering, make sure that
+you are PREPARED. You can't be more safe with 99 Cure Potions, Seeds, and
+Heal Potions. This is the final dungeon after all. 
+
+                         __________________________
+                    ---=|        Doom Castle       |=---
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Ignore the steps leading into the moving sand. Defeat the Shadow and proceed.
+There are a bunch of steps leading into the sand here. You will need to go 
+down a particular one. You are looking for the last one (the one on the far
+east). Take them down and you'll be stopped by some bones. Walk a bit to the
+left until you are moving along the wall. You will stop by a skull and a 
+staircase. Bomb the former and defeat the Gorgon. You will find the Aegis
+Shield on this platform. Wield it with pride. 
+
+It's easy to return to the entrance from there. Simply walk west along the
+moving sand to reach the first steps you saw. Repeat the process of walking
+to the far-east staircase. Let yourself go down and stop at the bones. Use the
+Dragon Claw to grapple onto the hook to your east. Climb the stairs and defeat
+the Gorgon. Use the Dragon Claw again to get yourself to the next platform (to
+the west). Jump over the hook and grapple onto the next platform to the left.
+
+Clear out the Minotaur Zombie and climb down the wall. You will automatically
+move to another skull and a chest containing Cure Potions. Now, make sure that
+you are one tile above the chest (and not the skull). Look to your left and
+throw a Mega Grenade to blow up the bones blocking the hook. Then use the 
+Dragon Claw to get to the stairs. Upon getting across, climb up the stairs.
+Oh noes! It's the Skullrus Rex!!
+
+     Boss Fight: Skullrus Rex ~
+     =----------------------=
+          Of course, begin by getting rid of the two Shadows. They won't be
+          tough to take down. I'd suggest casting Flare or something to 
+          damage both at the same time. Upon taking down the Shadows, begin
+          pounding the Skullrus Rex with Flare (Benjamin) and White (Phoebe).
+          If you can deal 2000+ damage with each move, the Skullrus Rex will
+          die within 2.5 turns. The only move you will want to watch out for
+          is Sleep Powder. Luckily, Benjamin can't be put to sleep. The 
+          Skullrus Rex is easily defeated. 
+
+Once that thing is out of the way, climb the stairs that was behind it and 
+proceed. Follow the path to another staircase. This one will bring you right
+before the green door in the Focus Tower. Open it and enter the depths of the
+Doom Castle. 
+
+The first room is icy. You will also see the statues that were originally 
+found in the Ice Pyramid. Defeat the Shadow on the left and stab the statue
+with your Excalibur. The door will thus open. Go through and move left. Hop
+over the narrow gap and continue. Once again, poke the statue and proceed.
+Get the Phanquid out of the way and stab the statue that it was originally
+blocking. This will pop open a door on the opposite side. It will prove to
+be very useful later. Return to the entrance and head east. 
+
+Jump over the hook and use the Dragon Claw to get to the eastern platform. 
+Simply go through the door and open the chest for some Heal Potions. Continue
+through the opening. You will appear at a four-way intersection separated by
+a hole in the middle. Jump over it and keep going. When you see the hook to
+your south, grapple to it and hit the nearby switch (stab it). Head east and
+jump the hole. 
+
+There are two paths here. Take the path that doesn't have the Phanquid 
+blocking it. Stab the statue and return to the Phanquid. Defeat it and walk
+past it. Pick up the Arrows from the chest and move through the door you 
+opened previously. A Freezer Crab blocks yet another statue to poke. Do just
+that and backtrack to the four-way intersection (hole in middle). A bit to 
+the west of that is the hook you used before. Use the Dragon Claw to grapple
+onto the hook by the entrance. 
+
+Jump over the hook you just used. Now, grapple onto the platform to the east.
+Basically, all we're doing is just circling around. When you reach the open
+door, go through. Poke the statue in the next room to open the door on the 
+right. Ignore that door for now. Instead, head left. Stab the statue you 
+find. Accomplishing that, head south and jump left over the hole. Follow the
+path east to a four-way split again. Once more, hop over and circle around.
+You'll come to a chest containing Refreshers on your way. 
+
+Keep going forward and you'll enter the room that you opened. Pick up the 
+Arrows and defeat the Freezer Crab. Keep moving and use the Dragon Claw to 
+get across the next chasm. Heal up and prepare to fight the Stone Golem. 
+
+     Boss Fight: Stone Golem ~
+     =---------------------=
+          Two Cerberus's accompany the Stone Golem in all of his... well...
+          stoniness! The faster you take care of them, the better. You don't
+          want Doom Gaze (instant KO) to get the best of you before you even
+          begin to fight the Stone Golem. Don't use Flare or Meteor or the 
+          Stone Golem is strong against those two spells. Beware of any status
+          ailments he might inflict upon you. Use Heal to dispatch any problems
+          away. As a side note, how does a "Stone" Golem melt?
+
+Once the Stone Golem is down for the count, backtrack to the entrance area. 
+You will have to leave the icy area altogether to get to the next floor. Once
+you're out of it, you will notice that the next two stairs have been unlocked.
+Ascend them to the next portion of Doom Castle. 
+
+You should see a pattern going on here. The first area was ground-ish to 
+resemble the style of the Bone Dungeon. The second was icy to resemble the
+Ice Pyramid. Now the third style is that of the Lava Dome. Interesting... 
+
+Start off by heading east until you reach the lower-right corner. Jump onto
+the nearby block and follow the blocks (because you can't jump diagonally, you
+only have one path to take). Soon, you will jump to some stairs. Follow them
+up the ledge and proceed to defeat the Iflyte. Go down the stairs and then
+jump onto the block to the west. Kill the Stheno and open both chests for some
+Arrows and Cure Potions. Hop on the blocks to your south and defeat the 
+Cerberus. The two chests contain Arrows and Heal Potions. 
+
+Use the Dragon Claw to grapple onto the stub to the left. Once again, jump
+across the blocks in the lava to reach a staircase. Defeat the Iflyte and
+continue. At the north-south fork, go down. Ignore the Cerberus and walk up
+to the open wall. Grapple onto the stub and jump over it. Kill the Stheno
+and advance. Hop over the block and battle the Twinhead Wyvern! 
+
+     Boss Fight: Twinhead Wyvern ~
+     =-------------------------=
+          The Twinhead Wyvern enters the fight with a Stheno and Iflyte as
+          allies. Do what you have to do first obviously. The Iflyte and 
+          Stheno are easily defeated with magic or plain physical strikes.
+          Do not use Flare or Fire in this fight. The Twinhead Wyvern is 
+          strong against flame-based spells. Instead, use Meteor or White. I
+          find it best for Benjamin to cast Meteor while Phoebe casts White.
+          The battle should be over within a few turns. You shouldn't have 
+          much trouble with status problems, but use Heal if needed. 
+
+Now that that's over with, you can return to the entrance. Like before, the
+next stairset will now be available. 6F is the second to last floor. However,
+it will prove to be pretty long (and maybe a little bit confusing). Needless 
+to say, it isn't over just yet. 
+
+Note that you can easily fall off the side here down into the abyss. You will
+land in the previous floor if you happen to do that. Begin by heading north.
+Soon, you will reach a fork. Head right and go down at the next split. Walk 
+up the steps and get rid of the Cerberus. Begin moving east once more and 
+follow the pathway, making sure that you don't fall off, until you reach a 
+monster. 
+
+Dispose of the Chimera and continue west. Ignore the path leading north. 
+Eventually, you will reach a Thanatos blocking some steps. Defeat the monster
+and head down the steps and through the doorway. A Cerberus blocks your path
+further ahead. Kill it as well. Go through the opening and proceed east. You
+should be able to see yourself through the glass (HI!). Of course, you'll be
+fighting various monsters while in that tunnel. 
+
+Soon enough, you will reach an opening. Head south and kill the Chimera in 
+your path. When you reach the next opening, turn right and enter the tunnel
+path (you should see yourself in the glass again). Walk a tiny bit to the next
+doorway. Then head north and through the opening. Kill the Cerberus and step
+up. Simply follow this path to the end. A Pazuzu lookalike can be found on 
+the middle platform. This is Zuh!
+
+     Boss Fight: Zuh ~
+     =-------------=
+          This is basically Pazuzu all over again. Begin the fight by killing
+          off his Chimera and Thanatos allies. Luckily for you, all three of
+          your enemies are weak to Aero. Start off the battle by casting that
+          and repeat until both Thanatos and Chimera are dead. For the
+          remainder of the battle, you can easily win by casting Flare over
+          and over again. Be wary of the Psychshield. When it's up, DO NOT 
+          attack unless you want to die young. To win, all you really have to
+          do is repeatedly use Flare and White. Use Cure when necessary and
+          Life if someone happens to fall in battle. 
+
+With Zuh defeated, you'll have to leave this area. I found it faster to just
+fall off the edge of a platform and leave from fiery floor. But whichever way
+you choose, simply make your way to 7F. Walk up to the statue and the crystals
+shall speak to you. The walls surrounding the nearby chests will go down for
+your access. They contain 25 of whatever they are holding. You probably won't
+even need it at this point. When you're done looting, go through the final
+door to meet the Dark King. Oh man, what a cool place! 
+
+     Boss Fight: Dark King ~
+     =-------------------=
+          The Dark King begins in his regular form; lookin' all cool in his
+          attire. Begin by using White and Flare and other powerful spells.
+          This part of the fight is the easiest, so don't use Cure just yet. 
+          When he starts to mock you (he'll actually say something), the Dark
+          King will grow some new arms. Each of them is armed with a dangerous
+          weapon. Now this is where it starts to get a little bit tough. Watch
+          out for his stronger attacks that can deal a heavy amount of damage.
+          I would just give Phoebe the role of healer now while Benjamin
+          blasts away with Flare. Be patient and concentrate more on keeping
+          Phoebe and Benjamin alive than actually damaging him. If you are
+          diligent, you should deal about 2000 HP damage every turn at the
+          least. Repeat this process for a bunch of turns until the Dark King
+          speaks again. Yeah, he turns into a spider. Use the same routine
+          with Phoebe curing and Benjamin using Flare. At this point, begin to
+          watch out for Mega Flare and Laser. Trust me, it's not fun getting 
+          hit by those moves. At long lasts, he'll finally transform into his
+          final form; an octopussy-looking thing. Have Phoebe continue to heal
+          the two. A few more Flares will finally put the Dark King in his
+          place. 
+
+Congratulations, you have defeated the Dark King and saved the world from a 
+certain demise. Enjoy your ending! 
+
+                    _______ _              _______           _ 
+                   (_______) |            (_______)         | |
+                       _   | |__  _____    _____   ____   __| |
+                      | |  |  _ \| ___ |  |  ___) |  _ \ / _  |
+                      | |  | | | | ____|  | |_____| | | ( (_| |
+                      |_|  |_| |_|_____)  |_______)_| |_|\____|
+
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 5. Equipment Listing ---                                 [5000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Listed below are the weapons and armor that Benjamin is able to equip through
+the game. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              5.1. Weapons                                             [5100]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Steel Sword ~
+     =---------=
+          Type: Sword
+          Description: This is the sword that you start with. 
+
+     Knight Sword ~
+     =----------=
+          Type: Sword
+          Description: Powerful sword. It deals a good amount of damage. 
+
+     Excalibur ~
+     =-------=
+          Type: Sword
+          Description: This is the most powerful sword (and weapon) in the 
+                       game. 
+
+     Axe ~
+     =-=
+          Type: Axe
+          Description: Basic axe. It can chop down trees. 
+
+     Battle Axe ~
+     =--------=
+          Type: Axe
+          Description: Powerful axe. It can chop down trees. 
+
+     Giant's Axe ~
+     =---------=
+          Type: Axe
+          Description: The best axe you'll find in the game. It can chop down 
+                       trees. 
+
+     Cat Claw ~
+     =------=
+          Type: Claw
+          Description: These claws can inflict a few status ailments on the
+                       enemy. Out of battle, they can be used to climb walls. 
+ 
+     Charm Claw ~
+     =--------=
+          Type: Claw
+          Description: These claws can inflict a number of status ailments on
+                       the enemy. Out of battle, they can be used to climb 
+                       walls. 
+
+     Dragon Claw ~
+     =---------=
+          Type: Claw
+          Description: These claws can inflict a large number of status 
+                       ailments on the enemy. Out of battle, they can be used
+                       to climb walls. They are also used as a grappling 
+                       device. 
+
+     Bomb ~
+     =--=
+          ATP: 63
+          Type: Explosive
+          Description: The most basic explosive. It can be used to blow open
+                       weak walls and doors.
+
+     Jumbo Bomb ~
+     =--------=
+          ATP: 112
+          Type: Explosive
+          Description: This is a bigger bomb that deals more damage. It can be
+                       used to blow open weak walls and doors.
+
+     Mega Grenade ~
+     =----------=
+          ATP: 162
+          Type: Explosive
+          Description: The most powerful explosive. It can be used to blow
+                       open weak walls and doors. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              5.2. Armor                                               [5200]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Steel Armor ~
+     =---------=
+          DEF: 6
+          Type: Body Armor
+          Description: Basic armor. Offers light protection. 
+
+     Noble Armor ~
+     =---------=
+          DEF: 12
+          Type: Body Armor
+          Description: Strong armor. Offers medium protection.
+
+     Gaia's Armor ~
+     =----------=
+          DEF: 15
+          Type: Body Armor
+          Description: The strongest armor. Offers lots of protection and 
+                       is strong against various elements. 
+
+     Steel Shield ~
+     =----------=
+          DEF: 5
+          Type: Shield
+          Description: Basic shield. Offers light protection.
+
+     Venus Shield ~
+     =----------=
+          DEF: 10
+          Type: Shield
+          Description: Strong shield. Offers medium protection. Prevents 
+                       paralysis attacks. 
+
+     Aegis Shield ~
+     =----------=
+          DEF: 14
+          Type: Shield
+          Description: The strongest shield. Offers lots of protection and
+                       is strong against petrify/paralyze attacks. 
+
+     Steel Helmet ~
+     =----------=
+          DEF: 4
+          Type: Helmet
+          Description: Basic helmet. Offers some protection.
+
+     Moon Helmet ~
+     =---------=
+          DEF: 9
+          Type: Helmet
+          Description: Strong helmet. Offers good protection. 
+
+     Apollo Helmet ~
+     =-----------=
+          DEF: 15
+          Type: Helmet
+          Description: The strongest helmet. Strong protection against fire
+                       as well. 
+
+     Charm ~
+     =---=
+          DEF: 1
+          Type: Accessory
+          Description: Basic accessory. Offers light protection.
+
+     Magic Ring ~
+     =--------=
+          DEF: 3
+          Type: Accessory
+          Description: This ring offers some protection. You also cannot be
+                       silenced. 
+
+     Cupid Locket ~
+     =----------=
+          DEF: 6
+          Type: Accessory
+          Description: This locket offers some defense and protection against
+                       some status ailments. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 6. Magic Listing ---                                     [6000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Final Fantasy Mystic Quest gives you access to 12 different magic spells in
+all. They are split into three categories with four spells to each group;
+White, Black, and Wizard. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              6.1. White                                               [6100]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Cure ~
+     =--=
+          Description: Use this on a single target to fully heal HP. If you
+                       heal both units, than only partial HP is restored. 
+
+     Exit ~
+     =--=
+          Description: Use this spell during battle to "teleport" a monster
+                       out of the battle for no EXP and GP. Exit's most useful
+                       task is transporting your party out of dungeons. 
+
+     Heal ~
+     =--=
+          Description: Use this spell to immediately cure all status ailments
+                       for one unit. 
+
+     Life ~
+     =--=
+          Description: Life can raise a KOed unit. If the unit you cast it on
+                       isn't dead, then it will replenish max HP. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              6.2. Black                                               [6200]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Aero ~
+     =--=
+          Description: Deals wind damage. You can select one target for 
+                       maximum damage or multiple targets for weaker, more
+                       spread out damage. 
+
+     Blizzard ~
+     =------=
+          Description: Deals water damage. You can select one target for 
+                       maximum damage or multiple targets for weaker, more
+                       spread out damage. 
+
+     Fire ~
+     =--=
+          Description: Deals fire damage. You can select one target for 
+                       maximum damage or multiple targets for weaker, more
+                       spread out damage. 
+
+     Quake ~
+     =---=
+          Description: Deals earth damage. It affects all enemy units on-
+                       screen. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              6.3. Wizard                                              [6100]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Flare ~
+     =---=
+          Description: Deals large amounts of fire damage. All enemies 
+                       on-screen are affected. 
+
+     Meteor ~
+     =----=
+          Description: This spell rains meteors down upon your foes. All 
+                       enemies on-screen are affected. 
+
+     Thunder ~
+     =-----=
+          Description: Deals lightning damage. You can select one target for 
+                       maximum damage or multiple targets for weaker, more
+                       spread out damage. 
+
+     White ~
+     =---=
+          Description: Deals heavy damage. All enemies on-screen are 
+                       affected. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 7. Item Listing ---                                      [7000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Each of the below listed items will help you with your quest. Key Items are
+items that are necessary to complete your quest. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              7.1. Items                                               [7100]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Cure Potion ~
+     =---------=
+          Description: This potion restores 1/4 of a unit's HP. 
+
+     Heal Potion ~
+     =---------=
+          Description: This potion recovers a unit from status ailments.
+
+     Refresher ~
+     =-------=
+          Description: This potion recovers status loss during battle. 
+
+     Seed ~
+     =--=
+          Description: This item will restore all magic counters. 
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+              7.2. Key Items                                           [7200]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~--~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+     Captain Cap ~
+     =---------=
+          Description: Show this to Captain Mac. 
+
+     Elixir ~
+     =----=
+          Description: This is used to help Kaeli recover from her poison. 
+
+     Magic Mirror ~
+     =----------=
+          Description: Used to see monsters in the Ice Pyramid. 
+
+     Mask ~
+     =--=
+          Description: Used to see monsters in the Volcano.
+
+     Multi-Key ~
+     =-------=
+          Description: Used to open a door in Fireburg to get Mega Grenades.
+
+     River Coin ~
+     =--------=
+          Description: This coin opens the blue door in the Focus Tower. 
+    
+     Sand Coin ~
+     =-------=
+          Description: This coin opens the gold door in the Focus Tower. 
+
+     Sky Coin ~
+     =------=
+          Description: This coin opens the green door in the Focus Tower. 
+
+     Sun Coin ~
+     =------=
+          Description: This coin opens the purple door in the Focus Tower. 
+
+     Thunder Rock ~
+     =----------=
+          Description: Used to build rainbow road. 
+
+     Tree Wither ~
+     =---------=
+          Description: You must show this to Kaeli. 
+
+     Venus Key ~
+     =-------=
+          Description: Used to open the chest containing the Venus Shield. 
+
+     Wakewater ~
+     =-------=
+          Description: Use this unfreeze Aquaria. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 8. Boss Listing ---                                      [8000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+The bosses of Final Fantasy Mystic Quest are listed below. Included are 
+strategies and HP statistics. 
+
+[-----------------------------------------------------------------------------]
+
+     Minotaur -- 240 HP ~
+     =----------------=
+          First, I'll tell you the cheap method of winning. Simply have Kaeli 
+          cast Life on the Minotaur to immediately put him out of commission.
+          If you'd rather just attack the conventional way though, you might
+          have a tiny bit of trouble. Use Cure to heal up your units. The 
+          Minotaur hits pretty hard, so you'll need it. Obviously, if Benjamin
+          dies, you'll need Kaeli's Life spell to revive him. Just remember
+          that. 
+
+     Flamerus Rex -- 2200 HP ~
+     =---------------------=
+          You know, they could have at least come up with a better name. 
+          Assuming you didn't already use up all your Quakes, now would be a
+          great time for Benjamin to use them. The Flamerus Rex can deal 100+
+          damage with most of his attacks, so make sure that Benjamin or 
+          Tristam heals up occasionally. Both Life and Cure heal HP so use
+          them. Because the Flamerus Rex is strong against poison, don't count
+          on Tristam dealing too much damage. Have him heal and revive Benjamin
+          with Life if need be. When the boss's HP gets pretty low, he can use
+          Rip Earth, which deals a good amount of damage to both of them. Like
+          always, heal when your HP gets too low. Have Benjamin use Quake until
+          he runs out. Then throw some bombs to finish the Flamerus Rex off.
+
+     Squidite -- 2500 HP ~
+     =-----------------=
+          Yeah, it's a gigantic squid. Got a problem with that? Squidite 
+          starts the battle with two Sparna allies. Phoebe can easily shoot
+          them down with her Bow of Grace. Once those are taken care of, you
+          can focus on Squidite itself. Use Phoebe's Thunder spell to take
+          advantage of Squidite's weakness to that element. However, don't
+          think it's just going to sit there. Squidite can deal some heavy
+          damage as well as inflict certain status ailments upon your units.
+          Needless to say, if Phoebe needs to use Heal, USE IT! Once Phoebe
+          runs out of Thunder, just start pounding it with physical attacks
+          to bring it down. 
+
+     Snow Crab -- 3000 HP ~
+     =------------------=
+          The Snow Crap has two Desert Hags to help him out. Have Benjamin
+          and Phoebe use Fire to take them down quickly. The Snow Crab has 
+          some tough attacks. He can easily deal 200+ damage, so make sure
+          that you heal when necessary. Thunder works the best in this battle.
+          Have Phoebe cast that while Benjamin either heals or uses Quake. 
+          When the Snow Crab's HP is low, he'll begin to use Tornado for very 
+          heavy damage. Heal whenever necessary, and you should be fine. 
+          Mmm, seafood! 
+
+     Ice Golem -- 6500 HP ~
+     =------------------=
+          Oh no; a giant made of ice! So scary. The key to this fight is Fire
+          magic. Luckily, both Benjamin and Phoebe should have that spell 
+          available. Simply roast the Ice Golem with some of that. Be wary of
+          his attacks though. They can deal a considerable bit of damage to
+          your units. When necessary have either of your units heal. There's
+          only one of him, so the Ice Golem can easily be overpowered. When
+          your Black Magic runs dry, start pounding him with physical attacks.
+          Keep your team healed up and you should be fine. 
+
+      Jinn -- 6000 HP ~
+      =-------------=
+           Begin the battle by clearing out the Red Bones that Jinn has next
+           to him. Even though Jinn is fire-based, Blizzard doesn't seem to be
+           super-effective against him. Jinn's Flame Pillar move is the one
+           you will want to watch out for. 200+ damage will be dealt to both
+           of your units. Both Benjamin and Reuben should have Life, so be
+           sure to use it when the other falls. Use Mega Grenade or the Wizard
+           spell, Thunder, to deal heavy damage. With the Charm Claw, you can
+           poison Jinn. Simply keep your units alive with Cure and Life to win 
+           out. 
+
+     Medusa -- 7000 HP ~
+     =---------------=
+          Begin by taking out the Were Wolves that join the fight. Benjamin
+          should use White while Reuben just attacks with his Morning Star.
+          Try to take them out before they manage to pull off a Quake or 
+          something. White deals a lot of damage. Only a few castings are
+          needed to put her down. Be sure to have Reuben heal when needed.
+          Keep Benjamin alive while Reuben heals and attacks. Beware of her
+          Screech Voice move; it's capable of confusing a unit. Stone Voice
+          can petrify and Para-snake can paralyze. Ouch. 
+
+     Dualhead Hydra -- 14000 HP ~
+     =------------------------=
+          The White spell will be your salvation in this battle. Although you
+          obviously can't cast it forever, it still will deal a considerable 
+          amount of damage to the Dualhead Hydra. Reuben is useful for healing,
+          so have him use Life to replenish your party's HP. The Dualhead 
+          Hydra is capable of quite a few different attacks. Para-Breath and
+          Poison Breath will paralyze and poison, respectively. Stone Gas will
+          petrify. Heal Potions will clear a unit of those annoying ailments.
+          Fire Breath deals heavy damage as well. Although a Moon Helm can 
+          help defend against Fire Breath, Reuben (without any fire protection)
+          will surely be fried. It's not imperative that he survives, but he 
+          really helps out with his Life spell. 
+
+     Gidrah -- 13000 HP ~
+     =----------------=
+          Get rid of the two Skuldiers by using Aero. Once they are cleared
+          out, have Benjamin use Meteor or White while Kaeli continues to
+          blast Gidrah with Aero. Gidrah can paralyze and petrify your team,
+          so watch out for those. Remember to use Heal in order to clear
+          status ailments. If both units are petrified, then you lose. Make
+          sure that doesn't happen. 
+
+     Dullahan -- 14000 HP ~
+     =------------------=
+          So this Dullahan is some headless knight in shining armor, eh? 
+          First thing's first; get rid of the two Vampires he has at his side. 
+          That should be instinct by now. Aero will get rid of them easily.
+          The best way to defeat Dullahan is through pounding him with magic.
+          That means casting Meteor, White, etc. Kaeli won't be too useful in
+          this fight, but she's a good healer. Use her to heal Benjamin if he
+          loses a lot of HP. She can also heal the various status ailments
+          that Dullahan might cast upon you. The one move you want to watch 
+          out for is Doom Dance. It is capable of automatically killing one 
+          of your units regardless of their HP. Needless to say, it can get
+          pretty annoying. All you basically need to do is use Meteor until
+          that ugly Dullahan dies. 
+
+     Pazuzu -- 25000 HP ~
+     =----------------=
+          The birdman is weak against wind attacks, so Aero works wonders.
+          Flare deals more damage though. Those two spells should deal the
+          most damage against Pazuzu. A lot of his attacks deal 500+ damage.
+          Keep Kaeli's HP high as she seems to die very often. Psychshield
+          makes it so that if you attack Pazuzu while it is up, you will eat
+          a nasty counter-attack. Do not attack with his shield up for that
+          very reason. When the Psychshield is down, it is safe to kick his
+          butt. Take caution with that one move and you shouldn't die THAT
+          often. If you send a constant barrage of Flare and Aero, the battle
+          will go much quicker. Aero (assuming Kaeli casts it) deals 1500+ 
+          damage while Flare can deal 2000+ damage. Those are some pretty 
+          figures if you ask me. 
+
+     Skullrus Rex -- 10000 HP ~
+     =----------------------=
+          Of course, begin by getting rid of the two Shadows. They won't be
+          tough to take down. I'd suggest casting Flare or something to 
+          damage both at the same time. Upon taking down the Shadows, begin
+          pounding the Skullrus Rex with Flare (Benjamin) and White (Phoebe).
+          If you can deal 2000+ damage with each move, the Skullrus Rex will
+          die within 2.5 turns. The only move you will want to watch out for
+          is Sleep Powder. Luckily, Benjamin can't be put to sleep. The 
+          Skullrus Rex is easily defeated. 
+
+     Stone Golem -- 10000 HP ~
+     =---------------------=
+          Two Cerberus's accompany the Stone Golem in all of his... well...
+          stoniness! The faster you take care of them, the better. You don't
+          want Doom Gaze (instant KO) to get the best of you before you even
+          begin to fight the Stone Golem. Don't use Flare or Meteor or the 
+          Stone Golem is strong against those two spells. Beware of any status
+          ailments he might inflict upon you. Use Heal to dispatch any problems
+          away. As a side note, how does a "Stone" Golem melt?
+
+     Twinhead Wyvern -- 15000 HP ~
+     =-------------------------=
+          The Twinhead Wyvern enters the fight with a Stheno and Iflyte as
+          allies. Do what you have to do first obviously. The Iflyte and 
+          Stheno are easily defeated with magic or plain physical strikes.
+          Do not use Flare or Fire in this fight. The Twinhead Wyvern is 
+          strong against flame-based spells. Instead, use Meteor or White. I
+          find it best for Benjamin to cast Meteor while Phoebe casts White.
+          The battle should be over within a few turns. You shouldn't have 
+          much trouble with status problems, but use Heal if needed. 
+
+     Zuh -- 20000 HP ~
+     =-------------=
+          This is basically Pazuzu all over again. Begin the fight by killing
+          off his Chimera and Thanatos allies. Luckily for you, all three of
+          your enemies are weak to Aero. Start off the battle by casting that
+          and repeat until both Thanatos and Chimera are dead. For the
+          remainder of the battle, you can easily win by casting Flare over
+          and over again. Be wary of the Psychshield. When it's up, DO NOT 
+          attack unless you want to die young. To win, all you really have to
+          do is repeatedly use Flare and White. Use Cure when necessary and
+          Life if someone happens to fall in battle. 
+
+     Dark King -- 40000 HP ~
+     =-------------------=
+          The Dark King begins in his regular form; lookin' all cool in his
+          attire. Begin by using White and Flare and other powerful spells.
+          This part of the fight is the easiest, so don't use Cure just yet. 
+          When he starts to mock you (he'll actually say something), the Dark
+          King will grow some new arms. Each of them is armed with a dangerous
+          weapon. Now this is where it starts to get a little bit tough. Watch
+          out for his stronger attacks that can deal a heavy amount of damage.
+          I would just give Phoebe the role of healer now while Benjamin
+          blasts away with Flare. Be patient and concentrate more on keeping
+          Phoebe and Benjamin alive than actually damaging him. If you are
+          diligent, you should deal about 2000 HP damage every turn at the
+          least. Repeat this process for a bunch of turns until the Dark King
+          speaks again. Yeah, he turns into a spider. Use the same routine
+          with Phoebe curing and Benjamin using Flare. At this point, begin to
+          watch out for Mega Flare and Laser. Trust me, it's not fun getting 
+          hit by those moves. At long lasts, he'll finally transform into his
+          final form; an octopussy-looking thing. Have Phoebe continue to heal
+          the two. A few more Flares will finally put the Dark King in his
+          place. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 9. Bestiary ---                                          [9000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Ta-da! It's the bestiary. All the boss and non-boss monsters you will ever 
+come across are listed here along with some technical information. Monsters 
+are listed in alphabetical order. 
+
+[-----------------------------------------------------------------------------]
+
+      Adamant Turtle ~
+      =------------=
+           HP ................................................. 630
+           EXP ................................................ 420
+           GP .................................................. 15
+
+      Avizzard ~
+      =------=
+           HP ................................................. 666
+           EXP ................................................ 402
+           GP .................................................. 15
+
+      Basilisk ~
+      =------=
+           HP .................................................. 90
+           EXP ................................................. 81
+           GP ................................................... 3
+
+      Behemoth ~
+      =------=
+           HP .................................................. 80
+           EXP ................................................. 84
+           GP ................................................... 3
+
+      Beholder ~
+      =------=
+           HP ................................................. 810
+           EXP ................................................ 576
+           GP .................................................. 18
+
+      Brownie ~
+      =-----= 
+           HP .................................................. 50
+           EXP ................................................. 66
+           GP ................................................... 3
+
+      Centaur ~
+      =-----=
+           HP ................................................. 230
+           EXP ................................................ 123
+           GP ................................................... 6
+
+      Cerebus ~
+      =-----=
+           HP ................................................. 935
+           EXP ................................................ 675
+           GP .................................................. 21
+
+      Chimera ~
+      =-----=
+           HP ................................................. 870
+           EXP ................................................ 684
+           GP .................................................. 21
+
+      Dark King ~
+      =-------=
+           HP ............................................... 40000
+           EXP .................................................. 0
+           GP ................................................... 0
+
+      Desert Hag ~
+      =--------=
+           HP ................................................. 280
+           EXP ................................................ 168
+           GP ................................................... 6
+
+      Dualhead Hydra ~
+      =------------=
+           HP ............................................... 14000
+           EXP ................................................ 429
+           GP ................................................... 0
+
+      Dullahan ~
+      =------=
+           HP ............................................... 14000
+           EXP ................................................ 750
+           GP .................................................. 21
+
+      Edgehog ~
+      =-----=
+           HP ................................................. 220
+           EXP ................................................ 135
+           GP ................................................... 3
+
+      Fangpire ~
+      =------=
+           HP ................................................. 600
+           EXP ................................................ 381
+           GP .................................................. 15
+
+      Flamerus Rex ~
+      =----------=
+           HP ................................................ 2200
+           EXP ................................................ 120
+           GP ................................................... 0
+
+      Flazzard ~
+      =------=
+           HP ................................................. 450
+           EXP ................................................ 261
+           GP ................................................... 9
+
+      Freezer Crab ~
+      =----------=
+           HP ................................................. 410
+           EXP ................................................ 237
+           GP ................................................... 9
+
+      Gargoyle ~
+      =------=
+           HP ................................................. 888
+           EXP ................................................ 669
+           GP .................................................. 21
+
+      Garuda ~
+      =----=
+           HP ................................................. 825
+           EXP ................................................ 588
+           GP .................................................. 18
+
+      Gather ~
+      =----=
+           HP ................................................. 360
+           EXP ................................................ 192
+           GP ................................................... 9
+
+      Ghost ~
+      =---=
+           HP ................................................. 550
+           EXP ................................................ 330
+           GP .................................................. 12
+
+      Giant Toad ~
+      =--------=
+           HP ................................................. 180
+           EXP ................................................ 114
+           GP ................................................... 3
+
+      Gidrah ~
+      =----=
+           HP ............................................... 13000
+           EXP ................................................ 729
+           GP .................................................. 18
+
+      Gorgon ~
+      =----=
+           HP ................................................. 150
+           EXP ................................................ 114
+           GP ................................................... 3
+
+      Hot Wings ~
+      =-------=
+           HP ................................................. 585
+           EXP ................................................ 372
+           GP .................................................. 12
+
+      Ice Golem ~
+      =-------=
+           HP ................................................ 6500
+           EXP ................................................ 246
+           GP ................................................... 0
+
+      Iflyte ~
+      =----=
+           HP ................................................. 660
+           EXP ................................................ 420
+           GP .................................................. 12
+
+      Jelly ~
+      =---=
+           HP ................................................. 420
+           EXP ................................................ 243
+           GP .................................................. 12
+
+      Jinn ~
+      =--=
+           HP ................................................ 6000
+           EXP ................................................ 504
+           GP .................................................. 15
+
+      Lamia ~
+      =---=
+           HP ................................................. 300
+           EXP ................................................ 150
+           GP ................................................... 6
+
+      Land Turtle ~
+      =---------=
+           HP ................................................. 270
+           EXP ................................................ 144
+           GP ................................................... 6
+
+      Land Worm ~
+      =-------=
+           HP ................................................. 265
+           EXP ................................................ 144
+           GP ................................................... 6
+
+      Leech ~
+      =---=
+           HP ................................................. 745
+           EXP ................................................ 504
+           GP .................................................. 18
+
+      Live Oak ~
+      =------=
+           HP ................................................. 710
+           EXP ................................................ 447
+           GP .................................................. 15
+
+      Mad Plant ~
+      =-------=
+           HP .................................................. 60
+           EXP ................................................. 57
+           GP ................................................... 3
+
+      Mad Toad ~
+      =------=
+           HP ................................................. 740
+           EXP ................................................ 480
+           GP .................................................. 18
+
+      Mage ~
+      =--=
+           HP ................................................. 330
+           EXP ................................................ 186
+           GP ................................................... 6
+
+      Manticor ~
+      =------=
+           HP ................................................. 840
+           EXP ................................................ 612
+           GP .................................................. 21
+
+      Medusa ~
+      =----=
+           HP ................................................ 7000
+           EXP ................................................ 510
+           GP .................................................. 15
+
+      Minotaur ~
+      =------=
+           HP ................................................. 240
+           EXP ................................................ 102
+           GP .................................................. 30
+ 
+      Minotaur Zombie ~
+      =-------------=
+           HP ................................................. 190
+           EXP ................................................ 120
+           GP ................................................... 3
+
+      Mint Mint ~
+      =-------=
+           HP ................................................. 160
+           EXP ................................................ 117
+           GP ................................................... 3
+
+      Mummy ~
+      =---=
+           HP ................................................. 685
+           EXP ................................................ 459
+           GP .................................................. 15
+
+      Naga ~
+      =--=
+           HP ................................................. 870
+           EXP ................................................ 627
+           GP .................................................. 21
+
+      Nightmare ~
+      =-------=
+           HP ................................................. 535
+           EXP ................................................ 330
+           GP .................................................. 12
+
+      Ninja ~
+      =---=
+           HP ................................................. 580
+           EXP ................................................ 396
+           GP .................................................. 12
+
+      Ooze ~
+      =--=
+           HP ................................................. 750
+           EXP ................................................ 540
+           GP .................................................. 18
+
+      Pazuzu ~
+      =----=
+           HP ............................................... 25000
+           EXP ................................................ 618
+           GP ................................................... 0
+
+      Phanquid ~
+      =------=
+           HP ................................................. 400
+           EXP ................................................ 231
+           GP ................................................... 9
+
+      Plant Man ~
+      =-------=
+           HP ................................................. 460
+           EXP ................................................ 258
+           GP ................................................... 9
+
+      Poison Toad ~
+      =---------=
+           HP .................................................. 70
+           EXP ................................................. 63
+           GP ................................................... 3
+
+      Red Bone ~
+      =------=
+           HP ................................................. 510
+           EXP ................................................ 315
+           GP .................................................. 12
+
+      Red Cap ~
+      =-----=
+           HP ................................................. 480
+           EXP ................................................ 294
+           GP .................................................. 12
+
+      Roc ~
+      =-=
+           HP ................................................. 100
+           EXP ................................................. 96
+           GP ................................................... 3
+
+      Salamander ~
+      =--------=
+           HP ................................................. 640
+           EXP ................................................ 411
+           GP .................................................. 15
+
+      Sand Worm ~
+      =-------=
+           HP ................................................. 140
+           EXP ................................................. 99
+           GP ................................................... 3
+
+      Scorpion ~
+      =------=
+           HP ................................................. 210
+           EXP ................................................ 129
+           GP ................................................... 3
+
+      Shadow ~
+      =----=
+           HP ................................................. 925
+           EXP ................................................ 675
+           GP .................................................. 21
+
+      Skeleton ~
+      =------=
+           HP ................................................. 120
+           EXP ................................................. 93
+           GP ................................................... 3
+
+      Skuldier ~
+      =------=
+           HP ................................................. 750
+           EXP ................................................ 513
+           GP .................................................. 18
+
+      Skullrus Rex ~
+      =----------=
+           HP ............................................... 10000
+           EXP ................................................ 759
+           GP ................................................... 0
+
+      Slime ~
+      =---=
+           HP .................................................. 55
+           EXP ................................................. 72
+           GP ................................................... 3
+
+      Snipion ~
+      =-----=
+           HP ................................................. 690
+           EXP ................................................ 459
+           GP .................................................. 15
+
+      Snow Crab ~
+      =-------=
+           HP ................................................ 3000
+           EXP ................................................ 234
+           GP ................................................... 6
+
+      Sorcerer ~
+      =------=
+           HP ................................................. 840
+           EXP ................................................ 627
+           GP .................................................. 21
+
+      Sparna ~
+      =----=
+           HP ................................................. 260
+           EXP ................................................ 153
+           GP ................................................... 6
+
+      Specter ~
+      =-----=
+           HP ................................................. 690
+           EXP ................................................ 453
+           GP .................................................. 15
+
+      Sphinx ~
+      =----=
+           HP ................................................. 360
+           EXP ................................................ 201
+           GP ................................................... 9
+
+      Squidite ~
+      =------=
+           HP ................................................ 2500
+           EXP ................................................ 219
+           GP ................................................... 6
+
+      Stheno ~
+      =----=
+           HP ................................................. 360
+           EXP ................................................ 432
+           GP .................................................. 15
+
+      Sting Rat ~
+      =-------=
+           HP ................................................. 420
+           EXP ................................................ 252
+           GP ................................................... 9
+
+      Stone Golem ~
+      =---------=
+           HP ............................................... 10000
+           EXP ................................................ 762
+           GP ................................................... 0
+
+      Stoney Roost ~
+      =----------=
+           HP ................................................. 350
+           EXP ................................................ 165
+           GP ................................................... 6
+
+      Thanatos ~
+      =------=
+           HP ................................................. 900
+           EXP ................................................ 654
+           GP .................................................. 21
+
+      Twinhead Wyvern ~
+      =-------------=
+           HP ............................................... 15000
+           EXP ................................................ 600
+           GP ................................................... 0
+
+      Vampire ~
+      =-----=
+           HP ................................................. 780
+           EXP ................................................ 561
+           GP .................................................. 18
+
+      Water Hag ~
+      =-------=
+           HP ................................................. 765
+           EXP ................................................ 576
+           GP .................................................. 18
+
+      Were Wolf ~
+      =-------=
+           HP .................................................. 55
+           EXP ................................................ 354
+           GP .................................................. 12
+
+      Zombie ~
+      =----=
+           HP ................................................. 500
+           EXP ................................................ 324
+           GP .................................................. 12
+
+      Zuh ~
+      =-=
+           HP ............................................... 20000
+           EXP ................................................ 750
+           GP .................................................. 15
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 10. Version History ---                                 [10000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+     Version 0.1 -- Guide skeleton completed. First version. 10 KB
+
+     Version 0.2 -- Walkthrough is completed up to Libra Temple. Some work
+                    has been done on the various listings and such. 30 KB
+ 
+     Version 0.3 -- Equipment listing is complete. 50 KB
+
+     Version 0.4 -- Two crystal down. Two more to go. Progress has been made
+                    on the bestiary. 75 KB
+
+     Version 0.5 -- Walkthrough is completed up to the third crystal. 89 KB
+
+     Version 0.6 -- Walkthrough completed past the third crystal and onto 
+                    Windia. 105 KB
+
+     Version 0.7 -- Multiple listings are complete. Some progress has been
+                    made on the bestiary. 115 KB
+
+     Version 0.8 -- More progress has been made on the bestiary. Expect all
+                    appendices to be completed by next update. 127 KB
+
+     Version 0.9 -- All listings are now complete. There is one portion of
+                    the walkthrough yet to be completed. 143 KB
+
+     Version 1.0 -- All parts of the guide are now complete. I'll have to say,
+                    it was much more interesting writing for the final dungeon
+                    than any other part of the walkthrough. 164 KB
+
+     Version 1.1 -- I added a few FAQ questions. 166 KB
+
+     Version 1.2 -- Legal Information updated. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 11. Legal Information ---                               [11000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+This FAQ is the property of its author, Quan Jin. All rights reserved. 
+
+Any stealing, selling for profit or altering of this document without the
+author's expressed consent is strictly prohibited. You may download this file 
+for personal and private use only. 
+
+Final Fantasy Mystic Quest is a registered trademark of Squaresoft. The author
+(Quan Jin) is not affiliated with Squaresoft in any way or form. All other 
+trademarks are the property of their respective owners. 
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+          --- 12. Credits and Closing ---                             [12000]
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+If you know me, then you should know that I suck with closings. Haha. So yeah, 
+hope you enjoyed the guide. It was a pleasure to write... Actually, not
+really. 
+
+[-----------------------------------------------------------------------------]
+
+Square - Just because it's only courteous to thank the developers of the game.
+         Without these guys, would there have ever been a Mystic Quest guide?
+
+Psycho Penguin - For being a cool dude. I probably would never have 
+                 actually written this guide without his recommendation. His
+                 guide also provided some HP values that I couldn't get 
+                 myself. Thanks!
+
+Astro Blade - For being another cool dude. Although he's kind of a small
+              writer at the moment, he has lots of potential. He just needs
+              to be less picky with his games. 8)
+
+GameFAQs - The largest FAQ archive on the net. Thanks to CJayC for accepting
+           this piece of work. He hasn't failed us yet. 
+
+Y.T.W.S.R. - Only a few selected people might know what I'm talking about here.
+             Since I'm not one to give it away, I would still like to thank
+             this group for their support and motivation throughout the 
+             lifespan of this entire FAQ.
+
+The FCSB - They didn't help too much but what can I say, where would I be 
+           without a few of them? Major props to these great board members who 
+           are also prized FAQ writers. Some examples being; Crazyreyn, Psycho
+           Penguin, Gbness, Karpah, SinirothX, Meowthnum1, Guitarfreak86, 
+           Joni Philips, War Doc, Merca, and last but definitely not least, 
+           Gobicamel. You all rock!
+
+- All outside sources which have contributed to the making of this guide in
+some form have been cited in this section. Any sources that have provided any
+information at all are listed in the credits. I am not taking credit for others
+hard work and I hope they do the same. Not giving proper credit is plagiarism
+and it's against the law.
+
+[-----------------------------------------------------------------------------]
+              ____             __      _    __           __           
+             / __ \____ ______/ /__   | |  / /___  _____/ /____  _  __
+            / / / / __ `/ ___/ //_/   | | / / __ \/ ___/ __/ _ \| |/_/
+           / /_/ / /_/ / /  / ,<      | |/ / /_/ / /  / /_/  __/>  <  
+          /____.'\__,_/_/  /_/|_|     |___/\____/_/   \__/\___/_/|_|  
+
+                             -= Game on Forever =-

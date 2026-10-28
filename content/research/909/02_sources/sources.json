@@ -1,0 +1,348 @@
+[
+  {
+    "id": "ra-comments",
+    "site": "RetroAchievements",
+    "title": "Final Fantasy: Mystic Quest — RetroAchievements community comments",
+    "url": "https://retroachievements.org/game/909",
+    "kind": "ra-comments",
+    "file": "ra-comments.txt",
+    "chars": 86064,
+    "collected_at": "2026-10-28T00:40:29.957Z"
+  },
+  {
+    "id": "ra-guide",
+    "site": "RetroAchievements Guides Wiki",
+    "title": "Final Fantasy: Mystic Quest",
+    "url": "https://github.com/RetroAchievements/guides/wiki/Final-Fantasy:-Mystic-Quest",
+    "kind": "ra-guide",
+    "file": "ra-guide.txt",
+    "chars": 26788,
+    "collected_at": "2026-10-28T00:40:30.146Z"
+  },
+  {
+    "id": "gf1",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "SayainPrince",
+    "url": "https://gamefaqs.gamespot.com/snes/532476-final-fantasy-mystic-quest/faqs/29181",
+    "kind": "guide",
+    "file": "gf1.txt",
+    "chars": 218227,
+    "collected_at": "2026-10-28T00:42:19.389678+00:00",
+    "platform": {
+      "target": "snes",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "gf2",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "Dark_Vortex",
+    "url": "https://gamefaqs.gamespot.com/snes/532476-final-fantasy-mystic-quest/faqs/38120",
+    "kind": "guide",
+    "file": "gf2.txt",
+    "chars": 167409,
+    "collected_at": "2026-10-28T00:42:23.644993+00:00",
+    "platform": {
+      "target": "snes",
+      "match": "same",
+      "counts": {
+        "snes": 1
+      }
+    }
+  },
+  {
+    "id": "gf3",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "PsychoPenguin",
+    "url": "https://gamefaqs.gamespot.com/snes/532476-final-fantasy-mystic-quest/faqs/13399",
+    "kind": "guide",
+    "file": "gf3.txt",
+    "chars": 152794,
+    "collected_at": "2026-10-28T00:42:27.957488+00:00",
+    "platform": {
+      "target": "snes",
+      "match": "same",
+      "counts": {
+        "snes": 1
+      }
+    }
+  },
+  {
+    "id": "gf4",
+    "site": "GameFAQs",
+    "title": "Guide and Walkthrough",
+    "author": "MMoogle",
+    "url": "https://gamefaqs.gamespot.com/snes/532476-final-fantasy-mystic-quest/faqs/10731",
+    "kind": "guide",
+    "file": "gf4.txt",
+    "chars": 47487,
+    "collected_at": "2026-10-28T00:42:32.150717+00:00",
+    "platform": {
+      "target": "snes",
+      "match": "same",
+      "counts": {
+        "snes": 2
+      }
+    }
+  },
+  {
+    "id": "checklist-items",
+    "site": "GameFAQs",
+    "title": "Item/Spell/Armor/Weapon Guide",
+    "author": "Roughdawg4",
+    "url": "https://gamefaqs.gamespot.com/snes/532476-final-fantasy-mystic-quest/faqs/29628",
+    "kind": "guide",
+    "file": "checklist-items.txt",
+    "chars": 16594,
+    "collected_at": "2026-10-28T00:42:36.280561+00:00",
+    "platform": {
+      "target": "snes",
+      "match": "unknown",
+      "counts": {}
+    }
+  },
+  {
+    "id": "map-mystic-quest-world",
+    "site": "VGMaps",
+    "title": "Mystic Quest World Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-World.png",
+    "kind": "map",
+    "file": "map-mystic-quest-world.txt",
+    "chars": 212,
+    "collected_at": "2026-10-28T00:42:51.297398+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-World.png"
+  },
+  {
+    "id": "map-mystic-quest-towns",
+    "site": "VGMaps",
+    "title": "Mystic Quest Towns Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Towns.png",
+    "kind": "map",
+    "file": "map-mystic-quest-towns.txt",
+    "chars": 212,
+    "collected_at": "2026-10-28T00:42:51.672505+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Towns.png"
+  },
+  {
+    "id": "map-mystic-quest-temples",
+    "site": "VGMaps",
+    "title": "Mystic Quest Temples Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Temples.png",
+    "kind": "map",
+    "file": "map-mystic-quest-temples.txt",
+    "chars": 218,
+    "collected_at": "2026-10-28T00:42:52.049539+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Temples.png"
+  },
+  {
+    "id": "map-mystic-quest-level-forest",
+    "site": "VGMaps",
+    "title": "Mystic Quest Level Forest Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-LevelForest.png",
+    "kind": "map",
+    "file": "map-mystic-quest-level-forest.txt",
+    "chars": 231,
+    "collected_at": "2026-10-28T00:42:52.439490+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-LevelForest.png"
+  },
+  {
+    "id": "map-mystic-quest-bone-dungeon",
+    "site": "VGMaps",
+    "title": "Mystic Quest Bone Dungeon Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-BoneDungeon.png",
+    "kind": "map",
+    "file": "map-mystic-quest-bone-dungeon.txt",
+    "chars": 231,
+    "collected_at": "2026-10-28T00:42:52.817913+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-BoneDungeon.png"
+  },
+  {
+    "id": "map-mystic-quest-wintry-cave",
+    "site": "VGMaps",
+    "title": "Mystic Quest Wintry Cave Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-WintryCave.png",
+    "kind": "map",
+    "file": "map-mystic-quest-wintry-cave.txt",
+    "chars": 228,
+    "collected_at": "2026-10-28T00:42:53.182379+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-WintryCave.png"
+  },
+  {
+    "id": "map-mystic-quest-falls-basin",
+    "site": "VGMaps",
+    "title": "Mystic Quest Falls Basin Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-FallsBasin.png",
+    "kind": "map",
+    "file": "map-mystic-quest-falls-basin.txt",
+    "chars": 228,
+    "collected_at": "2026-10-28T00:42:53.543811+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-FallsBasin.png"
+  },
+  {
+    "id": "map-mystic-quest-ice-pyramid",
+    "site": "VGMaps",
+    "title": "Mystic Quest Ice Pyramid Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-IcePyramid.png",
+    "kind": "map",
+    "file": "map-mystic-quest-ice-pyramid.txt",
+    "chars": 228,
+    "collected_at": "2026-10-28T00:42:53.903608+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-IcePyramid.png"
+  },
+  {
+    "id": "map-mystic-quest-mine",
+    "site": "VGMaps",
+    "title": "Mystic Quest Mine Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Mine.png",
+    "kind": "map",
+    "file": "map-mystic-quest-mine.txt",
+    "chars": 209,
+    "collected_at": "2026-10-28T00:42:54.283998+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Mine.png"
+  },
+  {
+    "id": "map-mystic-quest-volcano",
+    "site": "VGMaps",
+    "title": "Mystic Quest Volcano Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Volcano.png",
+    "kind": "map",
+    "file": "map-mystic-quest-volcano.txt",
+    "chars": 218,
+    "collected_at": "2026-10-28T00:42:54.642557+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Volcano.png"
+  },
+  {
+    "id": "map-mystic-quest-lava-dome",
+    "site": "VGMaps",
+    "title": "Mystic Quest Lava Dome Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-LavaDome.png",
+    "kind": "map",
+    "file": "map-mystic-quest-lava-dome.txt",
+    "chars": 222,
+    "collected_at": "2026-10-28T00:42:55.008652+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-LavaDome.png"
+  },
+  {
+    "id": "map-mystic-quest-level-alive-forest",
+    "site": "VGMaps",
+    "title": "Mystic Quest Level Alive Forest Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Level-AliveForest.png",
+    "kind": "map",
+    "file": "map-mystic-quest-level-alive-forest.txt",
+    "chars": 249,
+    "collected_at": "2026-10-28T00:42:55.376647+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Level-AliveForest.png"
+  },
+  {
+    "id": "map-mystic-quest-rope-bridge",
+    "site": "VGMaps",
+    "title": "Mystic Quest Rope Bridge Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-RopeBridge.png",
+    "kind": "map",
+    "file": "map-mystic-quest-rope-bridge.txt",
+    "chars": 228,
+    "collected_at": "2026-10-28T00:42:55.741662+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-RopeBridge.png"
+  },
+  {
+    "id": "map-mystic-quest-giant-tree",
+    "site": "VGMaps",
+    "title": "Mystic Quest Giant Tree Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-GiantTree.png",
+    "kind": "map",
+    "file": "map-mystic-quest-giant-tree.txt",
+    "chars": 225,
+    "collected_at": "2026-10-28T00:42:56.103029+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-GiantTree.png"
+  },
+  {
+    "id": "map-mystic-quest-mount-gale",
+    "site": "VGMaps",
+    "title": "Mystic Quest Mount Gale Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-MountGale.png",
+    "kind": "map",
+    "file": "map-mystic-quest-mount-gale.txt",
+    "chars": 225,
+    "collected_at": "2026-10-28T00:42:56.462460+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-MountGale.png"
+  },
+  {
+    "id": "map-mystic-quest-pazuzus-tower",
+    "site": "VGMaps",
+    "title": "Mystic Quest Pazuzu's Tower Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Pazuzu'sTower.png",
+    "kind": "map",
+    "file": "map-mystic-quest-pazuzus-tower.txt",
+    "chars": 237,
+    "collected_at": "2026-10-28T00:42:56.835719+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Pazuzu'sTower.png"
+  },
+  {
+    "id": "map-mystic-quest-spencers-place",
+    "site": "VGMaps",
+    "title": "Mystic Quest Spencer's Place Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Spencer'sPlace.png",
+    "kind": "map",
+    "file": "map-mystic-quest-spencers-place.txt",
+    "chars": 240,
+    "collected_at": "2026-10-28T00:42:57.229905+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Spencer'sPlace.png"
+  },
+  {
+    "id": "map-mystic-quest-macs-ship",
+    "site": "VGMaps",
+    "title": "Mystic Quest Mac's Ship Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Mac'sShip.png",
+    "kind": "map",
+    "file": "map-mystic-quest-macs-ship.txt",
+    "chars": 225,
+    "collected_at": "2026-10-28T00:42:57.598933+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Mac'sShip.png"
+  },
+  {
+    "id": "map-mystic-quest-focus-tower-doom-castle",
+    "site": "VGMaps",
+    "title": "Mystic Quest Focus Tower&Doom Castle Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-FocusTower&DoomCastle.png",
+    "kind": "map",
+    "file": "map-mystic-quest-focus-tower-doom-castle.txt",
+    "chars": 262,
+    "collected_at": "2026-10-28T00:42:57.965443+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-FocusTower&DoomCastle.png"
+  },
+  {
+    "id": "map-mystic-quest-miscellaneous",
+    "site": "VGMaps",
+    "title": "Mystic Quest Miscellaneous Map",
+    "author": "Tropicon",
+    "url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Miscellaneous.png",
+    "kind": "map",
+    "file": "map-mystic-quest-miscellaneous.txt",
+    "chars": 236,
+    "collected_at": "2026-10-28T00:42:58.328477+00:00",
+    "image_url": "https://www.vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-Miscellaneous.png"
+  }
+]

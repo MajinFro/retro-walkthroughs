@@ -1,0 +1,131 @@
+{
+  "beginner_friendliness": 88,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 46,
+      "description": "Focus Tower first visit said to enter 'from the Libra Temple side', but gf1#32/gf2#22 say the Libra Temple entrance is the SECOND entrance used after the statue puzzle. Rewritten to start on 3F with the stairs ahead and to say the Libra Temple entrance comes second. Also removed two dangling 'Unable to verify' fragments and a miscited Phoebe's-house sentence (gf2-20-1 is the River Coin fact)."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 49,
+      "description": "Gear table cited the wrong facts: Apollo Helm cited checklist-items-5-9 (Aegis Shield) and Gaia's Armor cited gf1-60-1 (Doom Castle Aegis Shield), and placed Gaia's Armor 'on the upper floor' without support. Re-cited to checklist-items-5-3 and gf1-59-5/checklist-items-5-6, with the sourced location (fancy chest in plain sight just before Captain Mac)."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/14.md",
+      "line": 95,
+      "description": "The Dark King warning told the player not to use the Cure trick 'because this achievement is about the plain fight'. That is not the reason, and the Hero cannot cast Cure on a no-spell run anyway. Rewritten: the trick needs the Hero's Cure spell, which he never learns on this run. Also reworded the claim that Illiterate 'locks you out of The Bright Side' to say the spell achievements are earned in the main run, and noted on the checkpoint that #10 and #16 stay unfinished on this run."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "completeness",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 115,
+      "description": "The Black Hand needs every Doom Castle chest. The wind-floor paragraph was a first-person drafting note ('I cannot give more than the confirmed list above'). None of the collected guides list wind-floor chests (gf1#61-62 and gf2#44 route straight to Zuh), but ra-comments-54-4 says that floor has the hardest chests. Replaced it with a sourced warning, an explicit unverified note, and an instruction to check the linked Focus Tower & Doom Castle map before fighting Zuh and to recheck the shifting-sand chest (ra-comments-54-5). The source gap itself remains (see the report)."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "missable",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 77,
+      "description": "The overview's list of permanently lost items left out three roadmap missables: the Steel Helm (Aquaria shop), the Venus Shield (before the Alive Forest tree) and the Battle Axe (Fireburg, before the Giant's Axe). Added them with citations, cited the two uncited overview statements, and removed an 'Unable to verify' story note."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "minor",
+      "category": "structure",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 74,
+      "description": "Chapter 5 had three Point of No Return callouts, but the roadmap lists two. The early duplicate Ice Golem/Heal PONR at Falls Basin was turned into a 'Before you leave Falls Basin' tip; the real PONR stays at the Ice Golem."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 67,
+      "description": "The Snow Crab bullet about Phoebe's arrows cited gf1-26-6 (the Heal spell chest). No extracted fact supports it, so the bullet was removed."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "minor",
+      "category": "structure",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 8,
+      "description": "Chapter 10 had a 'Missable' callout for the Steel Helm, whose deadline (before the Moon Helm) passed in chapter 8. Relabelled it as an Achievement Trigger Warning that points back to the chapter 4 purchase. The same fix was applied to chapter 13's Duck and Cover callout, which also had the achievement name duplicated ('Duck and Cover **Duck and Cover**')."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "structure",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 144,
+      "description": "Chapter 9 had no end-of-chapter checklist heading, and its Focus Tower steps skipped from 1 to 3. Added '### Chapter Checklist' and renumbered."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 11,
+      "description": "The NOTE ended with a drafting sentence ('Whether Kaeli's Life on the Minotaur works at a low level is stated by the guides'). It now states the sourced shortcut: Kaeli's Life defeats the Minotaur instantly."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/11.md",
+      "line": 65,
+      "description": "Removed drafting noise ('Unable to verify... the grapple tool is not named in the first guide') and said directly that a guide names the Dragon Claw for the grapple. Similar 'Unable to verify' filler was removed from 02.md (Bone Collector) and 14.md (Apollo Helm)."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 23,
+      "description": "The Battlefield #11 section was thin. Added its position (just left of Battlefield #10, north of Libra Temple) and a note that it counts toward Battlefield Expert."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "navigation",
+      "status": "open",
+      "file": "08_chapters/10.md",
+      "line": 72,
+      "description": "The Windhole Temple section is short (31 words). The sources (gf1#52, gf2#36) describe the temple as empty except for one chest of Heal Potions in the center, so the section matches the evidence. Kept on purpose."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/12.md",
+      "line": 72,
+      "description": "The remaining 'no factual overlap' QA warnings (ch3, ch4, ch5, ch6, ch12, ch13) were spot-checked against gf1#59, gf1#61-62, gf2#14 and gf2#22. The prose matches the source passages, and the warnings come from short fact summaries. No change needed."
+    }
+  ]
+}

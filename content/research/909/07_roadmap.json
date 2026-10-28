@@ -1,0 +1,995 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Turn-Based RPG",
+    "categories": [
+      {
+        "name": "Battlefields",
+        "description": "Clear all 20 Battlefields (10 rounds each) for their prizes, including the Charm, Magic Ring, Gemini Crest, Exit and Thunder spellbooks.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Spellbooks",
+        "description": "All 12 of the Hero's spellbooks: White (Cure, Heal, Life, Exit), Black (Quake, Blizzard, Fire, Aero) and Wizard (Thunder, White, Meteor, Flare).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Dungeon Chests",
+        "description": "Every optional chest in the Bone Dungeon, Ice Pyramid, Lava Dome, Pazuzu's Tower and Doom Castle (one achievement each).",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Equipment",
+        "description": "All three of every weapon (swords, axes, claws, bombs) and armor (helmets, armors, shields, accessories) class, including the shop-only Steel Helm, Battle Axe and Cupid Locket.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "Battlefields",
+      "Spellbooks",
+      "chests",
+      "equipment"
+    ]
+  },
+  "playthroughs": 2,
+  "playthrough_notes": "Illiterate (defeat the Dark King without learning any spells) is incompatible with The Bright Side, The Dark Side and Wild Wizardry, which need every spellbook (ra-guide-3-2), so it takes a second playthrough from a new game (chapter 14). Achievements cannot be earned from a completed-game save (ra-comments-3-4). Chapters 1-13 are the True 100% run and earn the other 50 achievements; within it, No Grinding Allowed! (chapter 2), Never Saw It Coming (chapter 5), Speak No Evil (chapter 8) and Death Unbecomes Us (chapter 11) are challenge segments handled in place.",
+  "settings_notes": "Hardcore mode. Speak No Evil forbids loading a save during the Lava Dome attempt, and Death Unbecomes Us breaks if a save is reloaded inside Pazuzu's Tower. Beating the Dark King forces a reset after the credits.",
+  "fact_ids": [
+    "ra-guide-3-2",
+    "ra-comments-3-4",
+    "ra-comments-2-5",
+    "gf2-2-2",
+    "ra-guide-22-2"
+  ],
+  "counter_totals": {
+    "Battlefields": 20,
+    "Spellbooks": 12
+  },
+  "missables": [
+    {
+      "achievement_id": 8133,
+      "label": "Flamerus Rex before level 5",
+      "deadline": "Beat Flamerus Rex in the Bone Dungeon before the Hero reaches level 5; skip the battlefields and avoidable fights until then",
+      "chapter": 2,
+      "fact_ids": [
+        "ra-guide-6-6",
+        "ra-comments-8-7",
+        "ra-guide-5-4",
+        "ra-comments-9-4"
+      ]
+    },
+    {
+      "achievement_id": 449394,
+      "label": "Bone Dungeon Steel Shield chest",
+      "deadline": "Bomb the wall in the Bone Dungeon's second room for the Steel Shield before getting the Jumbo Bombs from Phoebe in Falls Basin (chapter 5)",
+      "chapter": 2,
+      "fact_ids": [
+        "checklist-items-5-7",
+        "ra-comments-10-4",
+        "ra-guide-9-8"
+      ]
+    },
+    {
+      "achievement_id": 449373,
+      "label": "Steel Shield and Venus Shield",
+      "deadline": "Steel Shield before the Jumbo Bombs (chapter 5); Venus Shield before talking to the giant tree in the Alive Forest (chapter 9)",
+      "chapter": 6,
+      "fact_ids": [
+        "ra-guide-20-4",
+        "ra-comments-49-1",
+        "ra-comments-49-3"
+      ]
+    },
+    {
+      "achievement_id": 449371,
+      "label": "Steel Helm from the Aquaria shop",
+      "deadline": "Buy the Steel Helm in Aquaria before picking up the Moon Helm in the Lava Dome (chapter 8)",
+      "chapter": 4,
+      "fact_ids": [
+        "ra-comments-39-1",
+        "checklist-items-5-1"
+      ]
+    },
+    {
+      "achievement_id": 449365,
+      "label": "Heal spellbook in Falls Basin",
+      "deadline": "Open the Heal chest in Falls Basin before beating the Ice Golem",
+      "chapter": 5,
+      "fact_ids": [
+        "ra-guide-7-10",
+        "ra-guide-21-3",
+        "ra-comments-27-1"
+      ]
+    },
+    {
+      "achievement_id": 449391,
+      "label": "Ice Golem without the Magic Mirror",
+      "deadline": "Leave the Magic Mirror chest closed until the Ice Golem is beaten",
+      "chapter": 5,
+      "fact_ids": [
+        "ra-comments-18-1",
+        "ra-comments-16-3",
+        "ra-comments-18-4"
+      ]
+    },
+    {
+      "achievement_id": 449368,
+      "label": "Battle Axe from the Fireburg shop",
+      "deadline": "Buy the Battle Axe in Fireburg before getting the Giant's Axe in the Alive Forest (chapter 9)",
+      "chapter": 6,
+      "fact_ids": [
+        "ra-comments-34-1",
+        "checklist-items-6-6"
+      ]
+    },
+    {
+      "achievement_id": 449392,
+      "label": "Lava Dome without magic",
+      "deadline": "One attempt from the Lava Dome entrance to the Dualhead Hydra, casting nothing but Reuben's Life and loading no save",
+      "chapter": 8,
+      "fact_ids": [
+        "ra-guide-13-4",
+        "ra-comments-29-1"
+      ]
+    },
+    {
+      "achievement_id": 449398,
+      "label": "Aero chest for The Black Hand",
+      "deadline": "Open the Aero chest in Doom Castle B2 on the way to Windia, before the Wind Crystal and before entering Doom Castle proper",
+      "chapter": 9,
+      "fact_ids": [
+        "ra-comments-54-2",
+        "ra-comments-54-3",
+        "ra-guide-18-14"
+      ]
+    },
+    {
+      "achievement_id": 449393,
+      "label": "Pazuzu's Tower without losing a battle",
+      "deadline": "One attempt through Pazuzu's Tower to Pazuzu with no lost battle and no reload inside the tower",
+      "chapter": 11,
+      "fact_ids": [
+        "ra-guide-16-8",
+        "ra-comments-45-3"
+      ]
+    },
+    {
+      "achievement_id": 449400,
+      "label": "No spellbooks for the whole game",
+      "deadline": "Separate new game: never pick up a spellbook or finish Battlefields #10 and #16",
+      "chapter": 14,
+      "fact_ids": [
+        "ra-guide-18-12",
+        "ra-comments-59-1",
+        "ra-comments-37-3"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Ice Golem defeated",
+      "chapter": 5,
+      "warning": "Beating the Ice Golem locks Falls Basin, and with it the Heal spellbook.",
+      "fact_ids": [
+        "ra-guide-10-8",
+        "ra-comments-27-2"
+      ]
+    },
+    {
+      "label": "Jumbo Bombs received",
+      "chapter": 5,
+      "warning": "Once the bombs upgrade to Jumbo Bombs the Bone Dungeon Steel Shield chest can no longer be obtained.",
+      "fact_ids": [
+        "ra-guide-9-8",
+        "ra-comments-10-4"
+      ]
+    },
+    {
+      "label": "Entering Doom Castle",
+      "chapter": 13,
+      "warning": "Leaving Doom Castle resets its optional chests; get the Aero chest beforehand (chapter 9) and clear the castle in one go.",
+      "fact_ids": [
+        "ra-guide-18-14",
+        "ra-comments-54-2"
+      ]
+    },
+    {
+      "label": "Dark King defeated",
+      "chapter": 13,
+      "warning": "The credits force a reset, and achievements cannot be earned from a completed-game save.",
+      "fact_ids": [
+        "ra-comments-2-5",
+        "ra-comments-3-4"
+      ]
+    }
+  ],
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    {
+      "question": "Which battlefield clear triggers Battlefield Tourist? One player cleared the first two battlefields without it popping (ra-comments-6-1).",
+      "guidance": "Clear Battlefields #1-#5 in order; if it has not popped, keep clearing battlefields, since all 20 are needed for Battlefield Expert anyway.",
+      "chapters": [
+        3
+      ]
+    },
+    {
+      "question": "Does Battlefield Expert need all 20 battlefields? Two players report it popping with one left (ra-comments-37-1, 37-2).",
+      "guidance": "Clear all 20 regardless.",
+      "chapters": [
+        10
+      ]
+    },
+    {
+      "question": "Does casting magic outside battle (e.g. a field Cure) during the Lava Dome void Speak No Evil?",
+      "guidance": "No source says. Cast nothing at all from the Lava Dome entrance until the Hydra dies, except Reuben's Life in battle; heal with items.",
+      "chapters": [
+        8
+      ]
+    },
+    {
+      "question": "Well, Now You Can Afford It did not pop for one player holding 16,842 GP (ra-comments-57-3).",
+      "guidance": "If it has not popped with 9,000+ GP, spend below 9,000 and earn it back (ra-comments-57-2).",
+      "chapters": [
+        12
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Hill of Destiny, Level Forest and Foresta",
+      "areas": [
+        "Hill_of_Destiny",
+        "Level_Forest",
+        "Foresta",
+        "Behemoth",
+        "Minotaur"
+      ],
+      "achievement_ids": [
+        7531
+      ],
+      "fact_ids": [
+        "checklist-items-2-8",
+        "checklist-items-4-1",
+        "gf1-11-4",
+        "ra-guide-5-4",
+        "ra-comments-8-8",
+        "ra-guide-19-4",
+        "gf2-7-9",
+        "gf1-5-2",
+        "gf1-9-1",
+        "checklist-items-2-2",
+        "gf1-8-2"
+      ],
+      "counters": {
+        "Battlefields": 0,
+        "Spellbooks": 1
+      },
+      "notes": "The run starts with No Grinding Allowed! in mind (chapter 2): Flamerus Rex must fall before the Hero reaches level 5, so fight only the unavoidable battles (the Behemoth on the Hill of Destiny and the few forced Level Forest fights per ra-comments-8-8) and do NOT clear Battlefield #1 north of Level Forest yet; it is cleared in chapter 3. Push the boulder for the old man to get the Tree Wither, show it to Kaeli in Foresta (She Talks to Trees... Then Cuts Them Down), and she hands over her Axe (first of three axes for Chop Chop). Take the Cure spellbook from the chest in the back of the top-right Foresta tree home (reached across the logs north of town); Cure is the main weapon against Flamerus Rex at low level. Kaeli leaves the party after Level Forest; the Elixir quest continues in chapter 2.",
+      "collectibles": {
+        "Battlefields": []
+      }
+    },
+    {
+      "n": 2,
+      "title": "Sand Temple and the Bone Dungeon",
+      "areas": [
+        "Sand_Temple",
+        "Bone_Dungeon",
+        "Flamerus_Rex"
+      ],
+      "achievement_ids": [
+        7534,
+        8133,
+        449394,
+        7533
+      ],
+      "fact_ids": [
+        "ra-guide-6-2",
+        "ra-comments-9-4",
+        "ra-comments-8-2",
+        "ra-comments-8-3",
+        "ra-comments-8-7",
+        "ra-comments-8-13",
+        "ra-comments-10-1",
+        "ra-comments-10-4",
+        "ra-comments-10-5",
+        "ra-guide-6-4",
+        "ra-guide-20-4",
+        "checklist-items-5-7",
+        "checklist-items-4-8",
+        "checklist-items-6-11",
+        "gf1-15-3",
+        "gf1-16-3",
+        "gf1-8-5",
+        "gf1-13-2",
+        "checklist-items-2-6",
+        "checklist-items-3-5"
+      ],
+      "counters": {
+        "Battlefields": 0,
+        "Spellbooks": 1
+      },
+      "notes": "Skip Battlefields #2 and #3 beside the Sand Temple for now (ra-guide-6-2): they are cleared in chapter 3 after the boss. Tristam joins at the empty chest in the Sand Temple (But Isolde is Nowhere to be Found). In the Bone Dungeon avoid every optional fight (jump over the first chest, reset multi-enemy encounters, ra-comments-8-2/8-3/8-13) and save before entering so the level-4 cap for No Grinding Allowed! (Flamerus Rex before level 5) can be retried. Buy Tristam's bombs (say no once, then say sorry for the 15 GP price). As soon as you have bombs, go back to the second room and bomb the wall for the Steel Shield chest: it becomes unobtainable once the bombs upgrade to Jumbo Bombs in chapter 5, and it is needed for both Bone Collector and Duck and Cover. Pick up the Quake spellbook (break in the left rib wall). Beat Flamerus Rex with Cure/Quake/bombs, then open the chests after him: Sand Coin (But What About the Dragon Claw?) and the Elixir. Collect every remaining optional chest for Bone Collector before leaving.",
+      "collectibles": {
+        "Battlefields": []
+      }
+    },
+    {
+      "n": 3,
+      "title": "Battlefields, the Focus Tower and Libra Temple",
+      "areas": [
+        "Battlefield_No1",
+        "Battlefield_No2",
+        "Battlefield_No3",
+        "Focus_Tower",
+        "Battlefield_No4",
+        "Libra_Temple",
+        "Battlefield_No5"
+      ],
+      "achievement_ids": [
+        7512,
+        7547
+      ],
+      "fact_ids": [
+        "gf1-17-1",
+        "ra-guide-7-1",
+        "gf3-25-1",
+        "gf2-8-2",
+        "gf2-8-4",
+        "gf2-10-7",
+        "gf4-2-3",
+        "gf4-2-4",
+        "gf4-2-9",
+        "gf4-2-10",
+        "gf4-2-11",
+        "gf2-11-3",
+        "gf2-12-2",
+        "gf1-18-1",
+        "gf1-18-2",
+        "gf1-18-3",
+        "gf3-25-2",
+        "gf3-25-3",
+        "ra-comments-6-1",
+        "gf2-2-1",
+        "gf2-2-2",
+        "gf1-13-1",
+        "gf1-14-1",
+        "gf1-17-3",
+        "gf3-76-1",
+        "gf3-76-2",
+        "gf3-76-3",
+        "gf3-27-1",
+        "gf3-77-1",
+        "checklist-items-3-2",
+        "checklist-items-4-6",
+        "gf3-27-2",
+        "checklist-items-4-2",
+        "checklist-items-6-14",
+        "gf3-27-4"
+      ],
+      "counters": {
+        "Battlefields": 5,
+        "Spellbooks": 1
+      },
+      "notes": "With Flamerus Rex beaten, levels no longer matter. Take the Elixir back to Kaeli in Foresta (chapter 1's town), then clear the skipped Battlefields #1 (north of Level Forest), #2 (west of Sand Temple, Charm accessory) and #3 (east of Sand Temple); the first clear should give Battlefield Tourist (see the open question). Enter the Focus Tower with the Sand Coin: only the first visit's content belongs here (Bombs chest on 1F, Sand Coin door, Fire spellbook on 2F, the cloaked man); the Focus Tower location also holds facts for the Venus Key room (chapter 6), the Sun Coin door and Aero chest (chapter 9) and the summit / Doom Castle (chapter 13), which must not be written here. Clear Battlefield #4 east of the Focus Tower and #5 east of Libra Temple. Phoebe joins in Libra Temple (She Predates 'Friends' by Two Years).",
+      "collectibles": {
+        "Battlefields": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "n": 4,
+      "title": "Aquaria and the Wintry Cave",
+      "areas": [
+        "Aquaria",
+        "Battlefield_No6",
+        "Battlefield_No7",
+        "Battlefield_No8",
+        "Wintry_Cave",
+        "Life_Temple",
+        "Squidite"
+      ],
+      "achievement_ids": [
+        8512,
+        8514
+      ],
+      "fact_ids": [
+        "checklist-items-5-1",
+        "gf1-21-5",
+        "ra-comments-39-1",
+        "checklist-items-5-11",
+        "gf2-12-3",
+        "gf2-13-5",
+        "gf2-15-2",
+        "checklist-items-6-8",
+        "gf1-23-2",
+        "checklist-items-3-1",
+        "checklist-items-2-9",
+        "gf1-25-3",
+        "ra-comments-14-1",
+        "ra-guide-9-3",
+        "gf1-20-2",
+        "gf1-20-3",
+        "gf1-24-2",
+        "gf1-65-3",
+        "checklist-items-2-3",
+        "gf1-83-5",
+        "gf1-72-8",
+        "gf2-15-3"
+      ],
+      "counters": {
+        "Battlefields": 3,
+        "Spellbooks": 0
+      },
+      "notes": "Frozen Aquaria: buy the Steel Helm (200 GP, north-west house) now. If the Moon Helm (chapter 8) or Apollo Helm is picked up first, the woman stops selling it and Can't Be Too Careful is lost (ra-comments-39-1). Clear Battlefield #6 (south of Aquaria, Magic Ring), #7 (south of Wintry Cave) and #8 (west of Wintry Cave). In the Wintry Cave Phoebe gives the Cat Claw (first claw) when you slip; beat the Squidite (Captain Nemo) for the Libra Crest. Warp from Libra Temple to the Life Temple, get the Wakewater from the cloaked man, and step out of the southern exit to stand outside (Hope You're Not Afraid of Heights!). Use the Wakewater on Aquaria's tree; it only partly helps.",
+      "collectibles": {
+        "Battlefields": [
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "n": 5,
+      "title": "Falls Basin and the Ice Pyramid",
+      "areas": [
+        "Falls_Basin",
+        "Battlefield_No9",
+        "Ice_Pyramid",
+        "Snow_Crab",
+        "Ice_Golem"
+      ],
+      "achievement_ids": [
+        8586,
+        449391,
+        8601,
+        8591,
+        449395
+      ],
+      "fact_ids": [
+        "gf2-17-5",
+        "ra-guide-7-10",
+        "ra-guide-10-8",
+        "ra-comments-27-1",
+        "ra-guide-9-8",
+        "checklist-items-6-12",
+        "gf1-27-1",
+        "gf2-17-8",
+        "ra-comments-16-3",
+        "ra-comments-18-1",
+        "ra-comments-18-4",
+        "ra-comments-16-1",
+        "ra-comments-16-2",
+        "checklist-items-6-3",
+        "gf2-19-6",
+        "gf1-28-10",
+        "gf2-20-1",
+        "gf1-27-2",
+        "gf1-26-2",
+        "gf2-17-9",
+        "checklist-items-2-12",
+        "checklist-items-3-4"
+      ],
+      "counters": {
+        "Battlefields": 1,
+        "Spellbooks": 1
+      },
+      "notes": "Falls Basin: open the chest by the Snow Crab for the Heal spellbook. It must be taken before the Ice Golem dies: beating the Ice Golem locks Falls Basin (ra-guide-10-8) and Heal is needed for The Bright Side. Beat the Snow Crab (An Arctic Specialty); Phoebe then gives the Jumbo Bombs, which is the point the Bone Dungeon Steel Shield chest closes (chapter 2 already took it). Clear Battlefield #9 north of Falls Basin. In the Ice Pyramid, do NOT open the Magic Mirror chest (red chest on 1F, right of the entrance) before the Ice Golem: Never Saw It Coming requires beating the Golem without the Mirror (ra-comments-18-1). Collect every other optional chest (Knight Sword, Noble Armor) on the way up, beat the Ice Golem (Never Saw It Coming), open the chest after it for the River Coin (Let It Flow), then walk back to the 1F red chest for the Magic Mirror (Narcissus) and finish any chest still closed for Fridge Raider. ra-comments-16-2 reports Narcissus popping only after reloading; if it does not pop, save and reload.",
+      "collectibles": {
+        "Battlefields": [
+          9
+        ]
+      }
+    },
+    {
+      "n": 6,
+      "title": "Spencer's Place, the Venus Key and Fireburg",
+      "areas": [
+        "Battlefield_No10",
+        "Battlefield_No11",
+        "Spencers_Place",
+        "Focus_Tower",
+        "Battlefield_No12",
+        "Battlefield_No13",
+        "Battlefield_No14",
+        "Fireburg",
+        "Battlefield_No15"
+      ],
+      "achievement_ids": [
+        8786,
+        8607,
+        449369
+      ],
+      "fact_ids": [
+        "gf2-21-4",
+        "gf2-21-5",
+        "gf3-39-1",
+        "checklist-items-4-2",
+        "ra-guide-11-1",
+        "gf1-30-2",
+        "checklist-items-2-11",
+        "gf1-32-2",
+        "gf1-32-3",
+        "checklist-items-4-6",
+        "checklist-items-5-8",
+        "ra-comments-49-1",
+        "gf2-22-6",
+        "gf2-22-7",
+        "gf2-22-8",
+        "gf3-38-1",
+        "checklist-items-2-10",
+        "checklist-items-6-13",
+        "gf1-34-5",
+        "ra-guide-11-13",
+        "checklist-items-6-6",
+        "gf1-34-8",
+        "ra-comments-34-1",
+        "ra-comments-20-1",
+        "ra-comments-20-2",
+        "ra-guide-11-15",
+        "gf2-23-8",
+        "gf1-31-1",
+        "gf1-31-2",
+        "gf1-31-3",
+        "gf1-33-1",
+        "gf1-33-2",
+        "gf1-34-1",
+        "gf1-35-1",
+        "gf1-65-4",
+        "gf1-64-6",
+        "gf1-64-7",
+        "gf3-79-3",
+        "gf3-39-2",
+        "checklist-items-2-5",
+        "checklist-items-3-2",
+        "gf3-39-3",
+        "gf4-16-6",
+        "gf3-80-1",
+        "gf4-22-6",
+        "gf4-19-6",
+        "checklist-items-2-4",
+        "checklist-items-2-7",
+        "gf2-23-9"
+      ],
+      "counters": {
+        "Battlefields": 6,
+        "Spellbooks": 2
+      },
+      "notes": "Clear Battlefield #10 north of Libra Temple (Exit spellbook) and #11 north of the Wintry Temple. In thawed Aquaria go under the house into Spencer's Place for the Venus Key, then in the Focus Tower bomb the wall and unlock the Venus Shield chest and take the Blizzard spellbook in the same room. Take the Venus Shield now: ra-comments-49-1 says talking to the giant tree in the Alive Forest (chapter 9) first makes it unobtainable (Duck and Cover). Open the River Coin door to the Fireburg side, clearing Battlefields #12, #13 (Gemini Crest, needed in chapter 7) and #14. In Fireburg, Reuben joins (Hold the Sauerkraut); talk to the girl in front of the band in the hotel (Rock 'n' Roll!); buy the Battle Axe from the woman in the south house now (500 GP): she will not sell it later (ra-comments-34-1, Chop Chop). Get the Multi-Key from Tristam, then the Mega Grenade in the middle building (the third bomb: Just Throw It). Clear Battlefield #15 west of Fireburg. Do not write the Thunder Rock from Reuben's father here; it is chapter 12.",
+      "collectibles": {
+        "Battlefields": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "n": 7,
+      "title": "The Mine and the Sealed Temple",
+      "areas": [
+        "Mine",
+        "Battlefield_No16",
+        "Sealed_Temple",
+        "Wintry_Temple",
+        "Jinn"
+      ],
+      "achievement_ids": [
+        8793,
+        8795
+      ],
+      "fact_ids": [
+        "checklist-items-6-9",
+        "gf1-36-3",
+        "gf1-36-8",
+        "gf4-2-29",
+        "gf3-41-1",
+        "checklist-items-4-11",
+        "gf1-37-3",
+        "ra-guide-12-4",
+        "ra-comments-24-1",
+        "ra-comments-24-2",
+        "ra-comments-24-3",
+        "gf1-35-2",
+        "gf1-36-1",
+        "gf2-23-11",
+        "gf2-23-12",
+        "gf1-38-1",
+        "gf1-38-3",
+        "gf4-2-24"
+      ],
+      "counters": {
+        "Battlefields": 1,
+        "Spellbooks": 1
+      },
+      "notes": "In the Mine, take the Charm Claw from the fancy chest past the bucket ride (second claw). Beat the Jinn (Got to Word Your Wish Just Right); Reuben's Mega Grenade frees his father and the boulder forms a bridge to the Sealed Temple. Clear Battlefield #16 south of the Mine for the Thunder spellbook. In the Sealed Temple use the Gemini Crest (from Battlefield #13) warp pad to the Wintry Temple and open both visible middle chests (not the hidden wall chests) for Breaking the Seal (ra-comments-24-1).",
+      "collectibles": {
+        "Battlefields": [
+          16
+        ]
+      }
+    },
+    {
+      "n": 8,
+      "title": "The Volcano and the Lava Dome",
+      "areas": [
+        "Battlefield_No17",
+        "Volcano",
+        "Battlefield_No18",
+        "Lava_Dome",
+        "Medusa",
+        "Dualhead_Hydra"
+      ],
+      "achievement_ids": [
+        8840,
+        8859,
+        449392,
+        449396,
+        9054,
+        449365
+      ],
+      "fact_ids": [
+        "gf2-25-4",
+        "gf2-29-1",
+        "checklist-items-2-13",
+        "gf1-40-8",
+        "checklist-items-4-12",
+        "gf1-40-1",
+        "gf2-54-1",
+        "gf4-9-3",
+        "ra-guide-13-4",
+        "ra-guide-13-5",
+        "ra-comments-29-1",
+        "ra-comments-29-2",
+        "ra-comments-29-3",
+        "checklist-items-4-4",
+        "gf1-41-2",
+        "checklist-items-5-2",
+        "gf1-42-2",
+        "gf1-39-1",
+        "gf1-39-2",
+        "gf1-39-3",
+        "gf1-39-4",
+        "gf1-43-1",
+        "gf1-43-2",
+        "gf2-25-5",
+        "gf2-29-2",
+        "checklist-items-3-7"
+      ],
+      "counters": {
+        "Battlefields": 2,
+        "Spellbooks": 2
+      },
+      "notes": "Clear Battlefield #17 west of the Volcano. In the Volcano, the chest past the Were Wolf at the top of the stairs holds the Mask (See Through the Smoke), and the room beyond holds the White spellbook (Wizard). Medusa (Perseus): sources disagree on her HP (gf2 7000, gf4 6,800; gf1's 5,000 is its own estimate), so write roughly 7,000. Clear Battlefield #18 east of the Volcano before the Lava Dome (ra-guide-13-5 recommends all battlefields first). Speak No Evil: before entering the Lava Dome, spend all of the Hero's magic, set Reuben to manual, and save outside; from the entrance to the Dualhead Hydra no one may cast anything except Reuben's Life and no save may be loaded. Picking up spellbooks is fine. Collect every optional chest (Moon Helm, Life spellbook, potions) during the same attempt for Hot Take; Life is the last white spellbook (The Bright Side: Cure, Heal, Exit, Life). Beat the Hydra with the Defend-on-Reuben strategy (ra-comments-29-1..3) and open the Sun Coin chest (Praise the Sun). The Moon Helm here is fine only because the Steel Helm was bought in chapter 4.",
+      "collectibles": {
+        "Battlefields": [
+          17,
+          18
+        ]
+      }
+    },
+    {
+      "n": 9,
+      "title": "Rope Bridge, the Alive Forest and the Giant Tree",
+      "areas": [
+        "Focus_Tower",
+        "Doom_Castle_B2",
+        "Rope_Bridge",
+        "Alive_Forest",
+        "Spencers_Place",
+        "Giant_Tree",
+        "Gidrah"
+      ],
+      "achievement_ids": [
+        449364,
+        449368,
+        449370,
+        9456
+      ],
+      "fact_ids": [
+        "gf1-43-3",
+        "gf2-48-3",
+        "gf1-43-4",
+        "gf2-30-1",
+        "ra-guide-11-9",
+        "ra-guide-21-8",
+        "ra-guide-14-2",
+        "ra-comments-54-1",
+        "ra-comments-54-2",
+        "ra-comments-54-3",
+        "ra-guide-18-14",
+        "gf1-44-2",
+        "checklist-items-6-7",
+        "gf1-45-7",
+        "ra-guide-15-1",
+        "ra-guide-15-2",
+        "gf1-46-1",
+        "checklist-items-6-10",
+        "checklist-items-4-10",
+        "checklist-items-3-2",
+        "checklist-items-4-6",
+        "gf1-44-1",
+        "gf1-45-2",
+        "checklist-items-2-5",
+        "checklist-items-2-11",
+        "gf1-47-5"
+      ],
+      "counters": {
+        "Battlefields": 0,
+        "Spellbooks": 2
+      },
+      "notes": "Open the purple Sun Coin door in the Focus Tower. Take the stairs down into the Doom Castle B2 room on the way to Windia, beat the Minotaur Zombie and open the Aero chest NOW: it counts toward The Black Hand (chapter 13), and fetching it later from inside Doom Castle resets the optional Doom Castle chests (ra-comments-54-2, ra-guide-18-14). Aero completes The Dark Side (Quake, Fire, Blizzard, Aero). At the Rope Bridge Reuben falls and Tristam joins. In the Alive Forest, beat the Specter and Mummy by the big dead tree for the Giant's Axe chest (third axe: Chop Chop; the Battle Axe was bought in chapter 6). Go back to Aquaria: in Spencer's Place Kaeli rejoins and Tristam gives the Dragon Claw (third claw: Great Value Vega). Kaeli talks to the giant tree; climb the Giant Tree with the Dragon Claw, take the Meteor spellbook on the second floor, and beat Gidrah (Named for a Kaiju Villain).",
+      "collectibles": {
+        "Battlefields": []
+      }
+    },
+    {
+      "n": 10,
+      "title": "Kaidge Temple, Windia and Mount Gale",
+      "areas": [
+        "Kaidge_Temple",
+        "Battlefield_No19",
+        "Windia",
+        "Battlefield_No20",
+        "Windhole_Temple",
+        "Mount_Gale",
+        "Dullahan"
+      ],
+      "achievement_ids": [
+        9494,
+        449374,
+        449371,
+        7513
+      ],
+      "fact_ids": [
+        "gf2-34-2",
+        "gf2-34-5",
+        "gf3-83-1",
+        "gf3-83-3",
+        "gf1-51-1",
+        "checklist-items-5-3",
+        "gf1-52-4",
+        "gf1-52-1",
+        "ra-comments-37-1",
+        "ra-comments-37-2",
+        "ra-comments-37-3",
+        "gf1-49-3",
+        "gf1-49-4",
+        "gf1-50-2",
+        "gf1-49-1",
+        "gf1-49-2",
+        "gf3-53-1",
+        "gf1-51-2",
+        "gf3-53-2",
+        "gf2-36-1",
+        "gf1-52-2"
+      ],
+      "counters": {
+        "Battlefields": 2,
+        "Spellbooks": 0
+      },
+      "notes": "Clear Battlefield #19 west of Kaidge Temple and #20 south of Windia; that is all 20 (Battlefield Expert; ra-comments-37 report it popping one early, so clear every one regardless). In Windia buy the Cupid Locket (300 GP) from the blue-haired girl in the left house: with the Charm and Magic Ring it completes Blinged Out. Mount Gale: grapple to the platform past the Vampire for the Apollo Helm (third helmet: Can't Be Too Careful, provided the Steel Helm was bought in chapter 4), then beat Dullahan (Celtic Faerie) to stop the wind. Otto's Rainbow Road to Pazuzu's Tower is chapter 11. Only the first Windia visit belongs here; the Captain Cap, Mobius pad and Mac's Ship are chapter 12.",
+      "collectibles": {
+        "Battlefields": [
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "n": 11,
+      "title": "Pazuzu's Tower",
+      "areas": [
+        "Pazuzus_Tower",
+        "Pazuzu"
+      ],
+      "achievement_ids": [
+        9508,
+        449366,
+        449367,
+        449397,
+        449393,
+        9649
+      ],
+      "fact_ids": [
+        "gf1-53-1",
+        "gf1-54-1",
+        "checklist-items-4-9",
+        "gf1-54-11",
+        "checklist-items-6-4",
+        "gf1-54-14",
+        "ra-comments-45-1",
+        "ra-comments-45-3",
+        "ra-comments-45-4",
+        "ra-comments-45-5",
+        "ra-comments-45-6",
+        "ra-guide-16-8",
+        "gf1-55-4",
+        "checklist-items-3-6"
+      ],
+      "counters": {
+        "Battlefields": 0,
+        "Spellbooks": 1
+      },
+      "notes": "Talk to Otto in Windia for the Rainbow Road. Rescue Norma on the right platform right after entering (You'd Better Have Done This First...). Death Unbecomes Us: no battle may be lost from entering the tower to Pazuzu, and reloading a save inside breaks it. Recommended: hit all the switches, step outside, save, and re-enter to prime the attempt (ra-comments-45-1/45-5). Collect every optional chest for Finders Keepers: the Flare spellbook on the fifth floor (last Wizard book: Thunder, White, Meteor, Flare = Wild Wizardry) and Excalibur (third sword with the Steel and Knight Swords: En Garde). Against Pazuzu never attack while Psychshield is up. Take the Sky Coin from the red chest at the top (What Goes Up Must Come Down).",
+      "collectibles": {
+        "Battlefields": []
+      }
+    },
+    {
+      "n": 12,
+      "title": "The Thunder Rock, Light Temple and Mac's Ship",
+      "areas": [
+        "Spencers_Place",
+        "Light_Temple",
+        "Ship_Dock",
+        "Macs_Ship"
+      ],
+      "achievement_ids": [
+        9655,
+        449372,
+        9012
+      ],
+      "fact_ids": [
+        "gf4-1-15",
+        "gf1-56-1",
+        "gf1-56-2",
+        "ra-guide-17-4",
+        "ra-guide-17-5",
+        "gf1-57-1",
+        "gf1-57-2",
+        "gf1-57-5",
+        "ra-guide-17-6",
+        "ra-guide-17-7",
+        "ra-guide-17-8",
+        "ra-comments-47-2",
+        "ra-comments-47-3",
+        "checklist-items-2-5",
+        "gf1-58-1",
+        "gf1-58-2",
+        "gf2-39-3",
+        "ra-guide-17-10",
+        "gf1-59-5",
+        "gf2-41-2",
+        "gf1-59-6",
+        "gf1-59-7",
+        "ra-comments-57-1",
+        "ra-comments-57-2",
+        "ra-comments-57-3",
+        "ra-guide-22-1",
+        "gf1-65-5",
+        "gf1-64-1",
+        "gf1-64-3",
+        "checklist-items-2-11",
+        "ra-comments-47-1",
+        "gf2-40-1",
+        "checklist-items-5-6",
+        "gf1-59-1"
+      ],
+      "counters": {
+        "Battlefields": 0,
+        "Spellbooks": 0
+      },
+      "notes": "Back in Windia Reuben rejoins at Otto's. Get the Thunder Rock from Reuben's father in Fireburg and give it to Otto for the second rainbow road to Spencer's Place. Reuben's Mega Grenade floods the area and frees the ship; take the Mobius Crest from the fancy chest. Lonely Island: use the Mobius pad in Kaidge Temple to reach the Light Temple, then walk OUT of it onto the world map (ra-comments-47-3). Kaeli gives the Captain Cap at Otto's; the Mobius pad in the north-east Windia basement leads to the Ship Dock. On Mac's Ship take the fancy chest with Gaia's Armor before reaching Captain Mac (third armor with Steel and Noble: Looking Sharp). Phoebe rejoins at the Windia Inn. Well, Now You Can Afford It needs 9,000+ GP at one time; by now the battlefields and bosses should have provided it. If it does not pop at 9,000+, spend below 9,000 and earn it back (ra-comments-57-2). Before sailing to the Focus Tower summit, confirm every earlier collection achievement has popped.",
+      "collectibles": {
+        "Battlefields": []
+      }
+    },
+    {
+      "n": 13,
+      "title": "The Focus Tower Summit and Doom Castle",
+      "areas": [
+        "Focus_Tower",
+        "Doom_Castle",
+        "Skullrus_Rex",
+        "Stone_Golem",
+        "Twinhead_Wyvern",
+        "Zuh",
+        "Dark_King"
+      ],
+      "achievement_ids": [
+        9713,
+        9714,
+        9781,
+        9782,
+        449398,
+        449373,
+        449399,
+        9793
+      ],
+      "fact_ids": [
+        "gf4-23-8",
+        "gf2-48-2",
+        "ra-guide-18-4",
+        "ra-guide-18-5",
+        "checklist-items-5-9",
+        "gf1-60-1",
+        "ra-comments-54-5",
+        "ra-guide-18-14",
+        "ra-guide-18-10",
+        "gf2-42-3",
+        "gf2-43-4",
+        "gf2-43-8",
+        "gf2-44-2",
+        "gf1-71-12",
+        "gf4-23-11",
+        "ra-guide-18-13",
+        "ra-comments-55-2",
+        "ra-comments-2-5",
+        "ra-comments-2-6",
+        "ra-comments-3-4",
+        "checklist-items-3-2",
+        "checklist-items-4-6",
+        "checklist-items-4-5"
+      ],
+      "counters": {
+        "Battlefields": 0,
+        "Spellbooks": 0
+      },
+      "notes": "Mac's ship sails to the Focus Tower; the Sky Coin opens the green door to the summit and Doom Castle. Only the summit / Doom Castle content of the Focus Tower location belongs here. Do not leave Doom Castle once inside: leaving resets the optional chests (ra-guide-18-14); the Aero chest was already taken in chapter 9. Open every chest on all floors, including the shifting-sand floor (ra-comments-54-5), for The Black Hand. The Aegis Shield is in the sand area resembling the Bone Dungeon (third shield with Steel and Venus: Duck and Cover). Bosses: Skullrus Rex (Bleached Bones), Stone Golem (Much Harder to Melt Stone; avoid Flare and Meteor), Twinhead Wyvern (avoid Flare and Fire), Zuh (Zuh?). Dark King: the Hero casts Cure on him for Paper Tiger (do not let the partner cast Cure, gf4-23-11), and his defeat is With Guidance from the Crystals. The credits force a reset; do not overwrite anything you still need, and Illiterate needs a new game anyway (chapter 14).",
+      "collectibles": {
+        "Battlefields": []
+      }
+    },
+    {
+      "n": 14,
+      "title": "Illiterate: a No-Spellbook Run",
+      "areas": [
+        "Doom_Castle"
+      ],
+      "achievement_ids": [
+        449400
+      ],
+      "fact_ids": [
+        "ra-guide-18-12",
+        "ra-guide-3-1",
+        "ra-guide-3-2",
+        "ra-comments-59-1",
+        "ra-comments-59-2",
+        "ra-comments-59-3",
+        "ra-comments-59-4",
+        "ra-comments-59-5",
+        "ra-comments-59-6",
+        "ra-comments-59-7",
+        "ra-comments-59-8",
+        "ra-comments-59-9",
+        "ra-comments-59-10",
+        "ra-comments-37-3",
+        "ra-guide-16-14",
+        "ra-comments-58-2",
+        "ra-comments-58-3",
+        "ra-comments-58-4",
+        "ra-comments-58-5",
+        "ra-comments-58-6",
+        "ra-comments-58-7",
+        "ra-comments-58-8",
+        "ra-comments-3-4",
+        "checklist-items-4-1",
+        "checklist-items-4-2",
+        "checklist-items-4-4",
+        "checklist-items-4-5",
+        "checklist-items-4-6",
+        "checklist-items-4-7",
+        "checklist-items-4-8",
+        "checklist-items-4-9",
+        "checklist-items-4-10",
+        "checklist-items-4-11",
+        "checklist-items-4-12",
+        "gf2-17-5",
+        "checklist-items-5-9"
+      ],
+      "counters": {},
+      "notes": "Second playthrough from a NEW game (achievements cannot be earned from a completed-game save, ra-comments-3-4). Play the same story route as chapters 1-13 but the Hero must never pick up any of the 12 spellbooks: skip the Cure chest in Foresta, the Quake chest in the Bone Dungeon, Fire and Blizzard in the Focus Tower, Heal in Falls Basin, White in the Volcano, Life in the Lava Dome, Aero in the Doom Castle B2 room, Meteor in the Giant Tree and Flare in Pazuzu's Tower, and do NOT finish Battlefield #10 (Exit) or Battlefield #16 (Thunder), because clearing them grants the book automatically. Leaving a battlefield at its last round is allowed (ra-comments-59-5). Partners keep their own spells. Gear up with Excalibur (Pazuzu's Tower), the Apollo Helm (Mount Gale), Gaia's Armor (Mac's Ship), the Aegis Shield (Doom Castle sand area) and the Cupid Locket (Windia). Dark King: Hero attacks or Defends Phoebe while she casts White and Life (ra-comments-58-6..8, 59-6, 59-10). Do not write a full second walkthrough; give the spellbook avoid-list and the final-fight strategy."
+    }
+  ]
+}

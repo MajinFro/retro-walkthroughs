@@ -1,0 +1,47 @@
+[
+  {
+    "fact_id": "gf3-45-1",
+    "resolution": "reject",
+    "rationale": "Medusa HP: gf3 lists 2,500, but gf1 footnotes its Medusa entry with \"It was believed to be 2,500, but that is false\"; gf2 (7000) and gf4 (6,800) both list far higher. EXP 510 / GP 15 survive in gf2-54-1 and gf4-9-3."
+  },
+  {
+    "fact_id": "gf3-71-1",
+    "resolution": "reject",
+    "rationale": "Same 2,500 HP figure for Medusa that gf1 explicitly calls false; gf2-54-1 (7000) and gf4-9-3 (6,800) disagree."
+  },
+  {
+    "fact_id": "gf3-124-3",
+    "resolution": "reject",
+    "rationale": "Same 2,500 HP figure for Medusa that gf1 explicitly calls false; gf2-54-1 (7000) and gf4-9-3 (6,800) disagree."
+  },
+  {
+    "fact_id": "gf1-79-2",
+    "resolution": "reject",
+    "rationale": "gf1's own footnote marks its 5,000 HP Medusa figure as an estimate; the two bestiaries that give exact values say 7000 (gf2) and 6,800 (gf4). Writers should give Medusa's HP as roughly 7,000."
+  },
+  {
+    "fact_id": "gf1-40-12",
+    "resolution": "accept",
+    "rationale": "Strategy (split the Were Wolves, Reuben's Morning Star, Hero's White) is consistent with gf2-26-10 and gf2 bestiary; the parenthetical 5,000 HP is gf1's estimate, superseded by gf2-54-1 (7000) and gf4-9-3 (6,800)."
+  },
+  {
+    "fact_id": "gf2-54-1",
+    "resolution": "accept",
+    "rationale": "Medusa HP 7000 / EXP 510 / GP 15; EXP and GP match gf4-9-3 and gf3, HP close to gf4's 6,800."
+  },
+  {
+    "fact_id": "gf4-9-3",
+    "resolution": "accept",
+    "rationale": "Medusa HP 6,800 / EXP 510 / GP 15; EXP and GP match gf2-54-1. HP differs slightly from gf2 (7000); writers should say roughly 7,000."
+  },
+  {
+    "fact_id": "gf1-26-7",
+    "resolution": "reject",
+    "rationale": "Snow Crab GP: gf1 says 3 GP, but gf2 (gf2-55-2) and gf3 (gf3-33-1, gf3-68-3, gf3-134-3) all say 6 GP. HP 3,000 and EXP 234 are kept through those facts."
+  },
+  {
+    "fact_id": "gf3-33-1",
+    "resolution": "accept",
+    "rationale": "Snow Crab 3,000 HP / 234 EXP / 6 GP agrees with gf2-55-2; gf1's 3 GP is the outlier."
+  }
+]
