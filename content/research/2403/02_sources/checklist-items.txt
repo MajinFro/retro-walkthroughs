@@ -1,0 +1,489 @@
+The Final Fantasy Adventure Item Guide
+By C. Marsh
+E-mail: jellysoup at gmail dot com
+GameFAQs:  jelly soup
+Backloggery: JellySoup
+Copyright 2005 - 2015 C. Marsh
+
+You are currently looking at Version 2.0.
+
+==============================================================================
+Table of Contents
+==============================================================================
+
+1. Copyright Info
+2. Warning
+3. Using Items
+4. Armor List
+5. Helmet List
+6. Shield List
+7. Weapon List
+8. Item List
+9. Q&A
+10. Special Thanks
+
+If you'd like to jump to a particular section or already know what you're
+looking for, you can make use of your browsers search function by pushing
+[Ctrl] + F, then entering the name of the specific item or section you're
+trying to find.
+
+==============================================================================
+
+1. - Copyright Info
+==============================================================================
+
+This document may not be reproduced under any circumstances except for
+personal, private use. It may not be placed on any website or otherwise
+distributed publicly without advance written permission. Use of this guide on
+any other website or as a part of any public display is strictly prohibited,
+and a violation of copyright. Do not copy or alter this guide, and do not
+present it as your own.
+
+The newest version of this text file can always be found at GameFAQs.com.
+
+==============================================================================
+
+2. - Warning
+==============================================================================
+
+This guide contains spoilers, ranging from minor to major.
+For that reason, it is suggested that this guide be used in a suplimental
+fashion, rather than an active checklist.
+
+==============================================================================
+
+3. - Using Items
+==============================================================================
+
+To use Items:
+
+1. Press Start to open the menu, then select ITEM.
+2. Place the cursor next to the item you wish to use.
+3. Press the A Button to select the item. Press A once more to set the item.
+4. Exit all menus and press the B Button when you wish to use said item.
+
+Notes:
+-With Keys, just equip it and walk into the door you wish to open.
+-Most Special/Story items will be automatically used when the time is right.
+
+To use Equipment:
+
+1. Press Start to open the menu, then select EQUIP.
+2. Place the cursor next to the weapon/armor you wish to use.
+3. Press the A Button to select the item. Press A once more to equip it.
+
+Notes:
+-You can only change Armor/Weapons if you have Armor/Weapons to switch with
+ (in other words, you always have to have some kind of Armor/Weapon
+  equipped).
+
+Item Labels:
+
+Buff:     <-- Raises stats temporary.
+Junk:     <-- Can be sold for money.
+Healing:  <-- Restorative items.
+Magic:    <-- Disposable magic spells (uses no MP).
+Special:  <-- Objects required to push the story along.
+Tool:     <-- Utilities, such as Keys.
+
+Location Labels:
+
+Boss:  <-- Obtained from a boss.
+Buy:   <-- Purchasable items.
+Chest: <-- Items found in treasure chests.
+Drop:  <-- Items that monsters drop.
+Story: <-- Items obtained as part of the story.
+
+Some items can be obtained in multiple places/ways.
+
+==============================================================================
+
+4. - Armor List
+==============================================================================
+ _____________ ____________ _____ ___________________________________________
+|    Item     | Buy/Sell   | DEF.|                 Found at                  |
+ ------------- ------------ ----- -------------------------------------------
+ Bronze Armor     -/55   GP  +3    Start with it.
+ Iron Armor     315/157  GP  +8    Buy:   Wendel
+ Silver Armor   700/350  GP  +10   Buy:   Dwarf Cave
+ Gold Armor    1300/650  GP  +16   Buy:   Jade.
+                                   Chest: Cave of Medusa
+ Opal Armor    3000/1500 GP  +19   Buy:   W Mt. Rocks
+ Flame Armor   5625/2812 GP  +21   Buy:   Ish
+ Ice Armor     7350/3675 GP  +29   Buy:   NW Snow Fields
+ Dragon Armor     -/4900 GP  +35   Chest: Dime Tower
+ Samurai Armor    -/7500 GP  +45   Drop:  Samurai
+
+Notes:
+-Flame Armor reduces damage taken from fire attacks by 25% & increases
+ damage from ice attacks by 25%.
+-Ice Armor reduces damage taken from ice attacks by 25% & increases damage
+ from fire attacks by 25%.
+-Silver Armor reduces damage taken from Magic attacks by 25%.
+-The Silver special item has to be obtained before the Silver Armor will be
+ available.
+==============================================================================
+
+5. - Helmet List
+==============================================================================
+ ______________ ____________ _____ __________________________________________
+|    Item      | Buy/Sell   | DEF.|                 Found at                 |
+ -------------- ------------ ----- ------------------------------------------
+ Bronze Helmet     -/32   GP  +2    Start with it.
+ Iron Helmet     140/70   GP  +3    Buy:  Topple
+                                    Buy:  Wendel
+ Silver Helmet   240/120  GP  +8    Buy:  Near Gaia's Cave (exit).
+ Gold Helmet     680/340  GP  +14   Buy:  Jade
+ Opal Helmet    3500/1750 GP  +19   Buy:  W Mt. Rocks
+ Samurai Helmet    -/2100 GP  +25   Drop: Demon/Flying Head
+
+==============================================================================
+
+6. - Shield List
+==============================================================================
+ ______________ ____________ ________________________________________________
+|    Item      | Buy/Sell   |                    Found at                    |
+ -------------- ------------ ------------------------------------------------
+ Bronze Shield     -/20   GP  Start with it.
+ Iron Shield     185/92   GP  Chest: Marsh Cave
+                              Buy:   Wendel
+ Silver Shield   505/252  GP  Buy:   Dwarf Cave (after getting Silver)
+ Gold Shield     920/460  GP  Buy:   Jadd
+ Opal Shield    3900/1950 GP  Buy:   W Mt. Rocks
+ Flame Shield   4400/2200 GP  Buy:   Ish
+ Ice Shield     6200/3100 GP  Buy:   NW Snow Fields
+ Dragon Shield     -/4100 GP  Chest: Cave of Ruins
+ Aegis Shield      -/5265 GP  Drop:  Elephant
+
+-Shields allow the hero to push weaker monsters out of the way by walking into
+ them. The heros level must be higher than that of the target for this to
+ work.
+
+==============================================================================
+
+7. Weapon List
+==============================================================================
+ --
+|Axe\
+ ______________ ____________ _____ __________________________________________
+|    Item      | Buy/Sell   | ATK.|                 Found at                 |
+ -------------- ------------ ----- ------------------------------------------
+ Battle Axe      150/75   GP  +8    Buy:   East of Bogard's House.
+ Were Axe          -/750  GP  +20   Chest: Davias's Mansion
+ Zeus Axe          -/4900 GP  +48   Chest: Undersea Volcano
+
+ Note:
+-Axes can remove trees.
+-Were Axe can kill Werewolfs in one hit.
+
+ ----
+|Flail\
+ ______________ ____________ _____ __________________________________________
+|    Item      | Buy/Sell   | ATK.|                 Found at                 |
+ -------------- ------------ ----- ------------------------------------------
+ Chain Flail       -/-    GP  +10   Chest: Kett's Room
+ Flame Chain    6300/3150 GP  +38   Buy:   Ish
+
+ Note:
+-Flails can attach to poles.
+-Flame Chain does x2 damage to ice monsters & 0 damnage to fire monsters.
+
+ ----
+|Other\
+ ______________ ____________ _____ __________________________________________
+|    Item      | Buy/Sell   | ATK.|                 Found at                 |
+ -------------- ------------ ----- ------------------------------------------
+ Sickle            -/-    GP  +9    Chest: Marsh Cave
+ Morning Star      -/-    GP  +30   Boss:  Cyclops
+ Mantis Sickle     -/-    GP  +58   Boss:  Mantis Ant
+ 
+ Note:
+-Mantis Sickle is exclusive to the mobile remake.
+-Morning Star can do everything a Mattock can.
+-Sickle can remove bushes.
+
+ ----
+|Spear\
+ ______________ ____________ _____ __________________________________________
+|    Item      | Buy/Sell   | ATK.|                 Found at                 |
+ -------------- ------------ ----- ------------------------------------------
+ Wind Spear     1150/575  GP  +16   Buy: Menos
+ Thunder Spear 11250/5625 GP  +46   Buy: Shop in NW Float Rocks.
+
+Note:
+-Thunder Spear has a chance to paralyze monsters & does x2 damage to water
+ monsters.
+-Wind Spear has a chance to throw monsters across the screen (this is
+ supposedly bugged)
+
+ ----
+|Sword\
+ ______________ ____________ _____ __________________________________________
+|    Item      | Buy/Sell   | ATK.|                 Found at                 |
+ -------------- ------------ ----- ------------------------------------------
+ 
+ Broad Sword      60/30   GP  +4    Start with it.
+                                    Buy:   Topple
+                                    Buy:   Wendel
+ Silver Sword    526/281  GP  +14   Buy:   Dwarf Cave (after getting Silver)
+ Rusty Sword       -/-    GP  +20   Boss:  Iflyte
+ Blood Sword       -/937  GP  +26   Chest: Galive Castle (second visit)
+ Ice Sword         -/3750 GP  +40   Boss:  Kary
+ Dragon Sword      -/4000 GP  +56   Chest: Cave of Ruins
+ XCalibur          -/-    GP  +85   Story: Rusty becomes this at Gemma Tower.
+
+ Note:
+-Broad Sword deals 0 damage to undead monsters.
+-Blood Sword heals hero for 25% of damage dealt.
+-Ice Sword deals x2 damage to fire monsters & 0 damage to ice monsters.
+-Rusty Sword will be removed permanently from inventory when it becomes
+ XCalibur. This is part of the story and cannot be avoided.
+-Silver Sword deals x2 damage to undead monsters.
+
+==============================================================================
+
+8. - Item List
+==============================================================================
+
+Note: Selling prices listed are for singles, not multi-use (IE: X-Ether can be
+      used three times each. Selling price for X-Ether is for single use).
+
+ ---------
+|Buff Items\
+ ___________ ___________ ___________________________ ________________________
+|    Item   | Buy/Sell  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Crystal       -/500  GP  Max Attack Gauge.          Drop: Owl
+ 						     Drop: Vampire
+ Nectar        -/23   GP  Temporarily x2 Attack.     Drop: Crab
+ Stamina       -/39   GP  Temporarily x2 Stamina.    Drop: Armadillo
+ Wisdom        -/17   GP  Temporarily x2 Wisdom.     Drop: Pirate
+						     Drop: Ghost
+ Will          -/44   GP  Temporarily x2 Will.       Drop: Swamp Man
+
+ ---------
+|Junk Items\
+ ___________ ___________ ___________________________ ________________________
+|    Item   | Buy/Sell  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Fang          -/14   GP  Sell/Exchang for info      Drop: Gecko
+                               in Jadd.
+ Gold          -/750  GP  Sell                       Drop: Spike Top
+						     Drop: Zombie Rock
+                                                     Drop: Pif Knight
+ Opal          -/1750 GP  Sell.                      Drop: Octopus
+ Ruby          -/100  GP  Sell.                      Drop: Lizard
+						     Drop: Robot
+
+ ----------
+|Magic Items\
+ ___________ ___________ ___________________________ ________________________
+|    Item   | Buy/Sell  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Blaze       240/90   GP  Strong Fire spell.         Buy:  N Mt. Rocks
+                                                     Buy:  Ish
+                                                     Buy:  NW Float Rocks
+ 
+ Blizzard     80/30   GP  Weak Ice spell.            Drop: Walrus
+
+ Flame        60/30   GP  Weak Fire spell.           Buy:  N Mt. Rocks
+                                                     Buy:  Ish
+                                                     Buy:  NW Float Rocks
+                                                     Drop: Vulture
+
+ Frost       320/160  GP  Strong Ice spell.          Buy:  N Mt. Rocks
+						     Buy:  Ish
+						     Buy:  NW Float Rocks
+
+ LitBlt      100/50   GP  Weak Thunder spell.        Buy:  Ish
+                                                     Buy:  NW Float Rocks
+
+ Pillow      100/50   GP  Sleep.                     Drop: Pumpkin
+                                                     Buy:  N Mt. Rocks
+
+ Silence     100/50   GP  Mute.                      Buy:  N Mt. Rocks
+
+ Thunder     400/200  GP  Strong Thunder spell.      Drop: Robot
+						     Drop: Sting Ray
+                                                     Buy:  Ish
+                                                     Buy:  NW Float Rocks
+
+ -------------
+|Healing Items\
+ ___________ ___________ ___________________________ ________________________
+|    Item   | Buy/Sell  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Candy         -/2    GP  Restores 10 HP.            Drop: Black Mice
+                                                     Drop: Flying Cat
+						     Drop: Pig Knight
+						     Drop: Bumblebee
+ 
+ Cure         40/20   GP  Restores 30 HP.            Buy:  Topple
+						     Buy:  Marshes
+                                                     Buy:  Wendel
+                                                     Drop: Lizard Man
+						     Drop: Pig Knight
+						     Drop: White Mouse
+						     Drop: Werewolf
+ 
+ Elixir        -/320  GP  Max HP/MP.                 Drop:  Samurai
+                                                     Drop:  Rabbit
+                                                     Chest: Ice Cave
+ 
+ Ether       320/160  GP  Restores 10 MP.            Buy:   N Mt. Rocks
+                                                     Drop:  Shadow
+						     Drop:  Zombie Mouse
+
+ Eyedrop      60/30   GP  Removes Blind status.      Buy:   Wendel
+						     Buy:   Menos
+						     Buy:   Jadd
+						     Buy:   Ish
+						     Buy:   NW Snow Fields
+						     Buy:   NW Float Rocks
+
+ Moogle      120/60   GP  Removes Moogle status.     Buy:   Menos
+						     Buy:   Jadd
+						     Buy:   Ish
+                                                     Buy:   NW Snow Fields
+						     Buy:   NW Float Rocks
+
+ Pure         30/15   GP  Removes Poison status.     Drop:  Poison Flower
+						     Buy:   Topple
+						     Buy:   Marshes
+						     Buy:   Wendel
+						     Buy:   Menos
+                                                     Buy:   Jadd
+                                                     Buy:   Ish
+                                                     Buy:   NW Snow Fields
+						     Buy:   NW Float Rocks
+
+ Soft         90/45   GP  Removes Stone status.      Buy:   Menos
+						     Buy:   Jadd
+                                                     Buy:   Ish
+						     Buy:   NW Snow Fields
+						     Buy:   NW Float Rocks
+
+ Unicorn       -/150  GP  Removes abnormal           Drop:  Elephant
+                          conditions.                Drop:  Mirror
+
+ X-Cure      160/80   GP  Restores 100 HP.           Drop:  AxeMan
+                                                     Drop:  Big Slug
+                                                     Drop:  BirdMan
+                                                     Drop:  Fireball
+                                                     Drop:  Iron Knight
+                                                     Drop:  Tortoise
+                                                     Buy:   Menos
+						     Buy:   Jadd
+						     Buy:   Ish
+						     Buy:   NW Snow Fields
+						     Buy:   NW Float Rocks
+
+ X-Ether     640/320  GP  Restores 15 MP.            Drop:  Black Mage
+                                                     Drop:  Demon/Flying Head
+                                                     Drop:  Evil Mask
+						     Drop:  Ice Toad
+						     Drop:  Floor Master
+						     Drop:  Stone Spike
+						     Buy:   Ish
+                                                     Buy:   NW Float Rocks
+
+
+ ------------
+|Special Items\
+ ___________ ___________ ___________________________ ________________________
+|    Item   | Buy/Sell  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Amanda's      -/-    GP  Cure Lester of his curse.  Boss:  Medusa
+  Tear
+ Bone Key      -/2    GP  Opens door to Underground. Story: Get from Cibba.
+ Bronze Key    -/2    GP  Opens door to Marsh Cave.  Drop:  One screen south
+                                                            of Marsh Cave.
+ Mystic        -/-    GP  Kill man at Kett's.        Boss:  Hydra
+ Mirror
+ Oil         500/250  GP  Lossen up minecart wheels. Buy:   South of Dwarf
+                                                            Cave
+ Pendant       -/-    GP  Oh, various things...      Story: Airship
+						     Story: Galive Castle
+							    (second visit)
+ Silver        -/-    GP  Used to make special       Boss:  Megapede
+                          armor/weapons.
+
+ ---------
+|Tool Items\
+ ___________ ___________ ___________________________ ________________________
+|    Item   | Buy/Sell  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Key          15/4    GP  Opens locked doors.        Buy:   Topple
+                                                     Buy:   Marshes
+						     Buy:   Wendel
+                                                     Buy:   Menos
+                                                     Buy:   Jadd
+                                                     Buy:   Ish
+                                                     Buy:   NW Snow Fields
+                                                     Buy:   NW Float Rocks
+                                                     Drop:  Skeleton
+
+ Mattock      60/4    GP  Break rocks &              Chest: Bogard's House
+                          unstable walls.            Drop:  Balloon
+						     Drop:  Flying Fish
+                                                     Buy:   Marshes
+                                                     Buy:   Wendel
+                                                     Buy:   Menos
+                                                     Buy:   Jadd
+                                                     Buy:   Ish
+                                                     Buy:   NW Snow Fields
+						     Buy:   NW Float Rocks
+
+Notes:
+-If Mattock is being used to attack a monster, the attack power will be equal
+ to whatever weapon is currently equipped, minus special effects and elemental
+ bonuses.
+
+ ----------
+|Magic Books\
+ ___________ ___________ ___________________________ ________________________
+|    Item   |  MP Cost  |            Use            |        Found at        | 
+ ----------- ----------- --------------------------- ------------------------
+ Cure            2        Recovers HP.               Story: Gift from Heroine.
+ Fire            1        Shoots homing fireball.    Chest: Cave of Marsh
+ Slep            1        Puts monsters to sleep.    Boss:  Mr. Lee
+ Heal            1        Cure status ailment.       Story: Gift from Cibba.
+ Ice             2        Shoots controllable ice.   Chest: Cave of Medusa
+ Mute            1        Block monster magic.       Story: Gift from Lester.
+ Lit             2        Shoots a thunderbolt.      Boss:  Golem
+ Nuke            3        Shoots powerful blast.     Boss:  Sealed Cave
+
+Notes:
+-Magic Books are learned immediately after being obtained.
+
+==============================================================================
+
+9. - Q&A
+==============================================================================
+
+Q: Where did these monster names come from?
+A: I tried to use names that were most popular (Read: Ones that a majority of
+   other FAQs used) to help with crosschecking. In some instances, I had to
+   just make up a descriptive name. Thankfully most monsters are easy enough
+   to figure out and are normally locked to areas that would make sense (IE:
+   ice monster in Snow Fields).
+
+Q: Hey, more than one monster drops [ITEM NAME HERE].
+A: E-Mail it to me, I'll add it and credit you.
+
+Q: Do elemental themed shields and helms not reduce corresponding elemental
+   damage?
+A: No. Helms increase defense and grant no further bonuses. Shields have no
+   stats tied to them and are meant to block certain attacks while also
+   providing the hero with the ability to push weaker monsters out of the way.
+
+==============================================================================
+
+10. - Special Thanks
+==============================================================================
+
+-darkmeetwurst@hotmail.com for various item location data.
+-Knexdude121@aol.com for Mantis Sickle data.
+
+==============================================================================
+End of Document.

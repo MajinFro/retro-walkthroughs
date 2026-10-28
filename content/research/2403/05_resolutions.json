@@ -1,0 +1,412 @@
+[
+  {
+    "fact_id": "gf1-106-1",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: gf1 (H7) and gf3 (G8, northeast of Menos) use different world-map grids; both place the chocobo egg near Menos."
+  },
+  {
+    "fact_id": "gf3-3-29",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: gf1 (H7) and gf3 (G8, northeast of Menos) use different world-map grids; both place the chocobo egg near Menos."
+  },
+  {
+    "fact_id": "gf1-121-3",
+    "resolution": "reject",
+    "rationale": "gf1 map-legend error: this Floor 4 map lists \"Chimera (Boss Monster) - Ice Sword\" in the Ice Cave map set; the Ice Sword boss is Kary (gf1-68-1, gf2-56-3, checklist-items-7-19). Chimera is on Floor 3 of Dark Castle (gf1-119-1, gf3-5-2)."
+  },
+  {
+    "fact_id": "gf3-5-2",
+    "resolution": "accept",
+    "rationale": "Chimera is the first boss of the return to Glaive (Granz = Glaive in the Japanese names); matches gf1-119-1 Dark Castle Floor 3."
+  },
+  {
+    "fact_id": "gf1-27-2",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: the Girl joins at Topple after Hasim dies (gf2-26-3, gf4-2-4) and rejoins after each rescue, including from the Dark Castle cell (gf1-61-4). gf1-27-2 is the character profile."
+  },
+  {
+    "fact_id": "gf1-61-4",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: the Girl joins at Topple after Hasim dies (gf2-26-3, gf4-2-4) and rejoins after each rescue, including from the Dark Castle cell (gf1-61-4). gf1-27-2 is the character profile."
+  },
+  {
+    "fact_id": "gf2-26-3",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: the Girl joins at Topple after Hasim dies (gf2-26-3, gf4-2-4) and rejoins after each rescue, including from the Dark Castle cell (gf1-61-4). gf1-27-2 is the character profile."
+  },
+  {
+    "fact_id": "gf4-2-4",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: the Girl joins at Topple after Hasim dies (gf2-26-3, gf4-2-4) and rejoins after each rescue, including from the Dark Castle cell (gf1-61-4). gf1-27-2 is the character profile."
+  },
+  {
+    "fact_id": "gf1-27-5",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: Menos townspeople describe Lester (gf4-5-7); he is actually found as a parrot in Davias's Mansion in Jadd (gf1-27-5)."
+  },
+  {
+    "fact_id": "gf4-5-7",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: Menos townspeople describe Lester (gf4-5-7); he is actually found as a parrot in Davias's Mansion in Jadd (gf1-27-5)."
+  },
+  {
+    "fact_id": "gf1-27-6",
+    "resolution": "accept",
+    "rationale": "Same event: Watts joins in the Silver Mine (Old Mine in gf4) after the fall."
+  },
+  {
+    "fact_id": "gf4-4-2",
+    "resolution": "accept",
+    "rationale": "Same event: Watts joins in the Silver Mine (Old Mine in gf4) after the fall."
+  },
+  {
+    "fact_id": "gf1-27-7",
+    "resolution": "accept",
+    "rationale": "Same event: Bogard joins on exiting Gaia and helps on the Airship; gf1-27-7 is the character profile naming where he helps."
+  },
+  {
+    "fact_id": "gf2-37-5",
+    "resolution": "accept",
+    "rationale": "Same event: Bogard joins on exiting Gaia and helps on the Airship; gf1-27-7 is the character profile naming where he helps."
+  },
+  {
+    "fact_id": "gf3-3-23",
+    "resolution": "accept",
+    "rationale": "Same event: Bogard joins on exiting Gaia and helps on the Airship; gf1-27-7 is the character profile naming where he helps."
+  },
+  {
+    "fact_id": "gf4-4-6",
+    "resolution": "accept",
+    "rationale": "Same event: Bogard joins on exiting Gaia and helps on the Airship; gf1-27-7 is the character profile naming where he helps."
+  },
+  {
+    "fact_id": "gf1-31-1",
+    "resolution": "accept",
+    "rationale": "Consistent: 8 or 9 hits (gf1) vs 8 slashes (gf2)."
+  },
+  {
+    "fact_id": "gf2-26-1",
+    "resolution": "accept",
+    "rationale": "Consistent: 8 or 9 hits (gf1) vs 8 slashes (gf2)."
+  },
+  {
+    "fact_id": "gf1-33-10",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: three different rescues of the Girl (Topple, Kett's coffin, Glaive return)."
+  },
+  {
+    "fact_id": "gf2-31-6",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: three different rescues of the Girl (Topple, Kett's coffin, Glaive return)."
+  },
+  {
+    "fact_id": "gf3-5-3",
+    "resolution": "accept",
+    "rationale": "Not a contradiction: three different rescues of the Girl (Topple, Kett's coffin, Glaive return)."
+  },
+  {
+    "fact_id": "gf1-34-1",
+    "resolution": "accept",
+    "rationale": "Same place: Bogard's house in the waterfalls area near Topple."
+  },
+  {
+    "fact_id": "gf5-5-4",
+    "resolution": "accept",
+    "rationale": "Same place: Bogard's house in the waterfalls area near Topple."
+  },
+  {
+    "fact_id": "gf1-39-3",
+    "resolution": "accept",
+    "rationale": "Complementary: Hydra gives 94 GP/10 EXP (gf1) and leaves the Fire book and Mirror (gf4)."
+  },
+  {
+    "fact_id": "gf4-3-5",
+    "resolution": "accept",
+    "rationale": "Complementary: Hydra gives 94 GP/10 EXP (gf1) and leaves the Fire book and Mirror (gf4)."
+  },
+  {
+    "fact_id": "gf1-39-5",
+    "resolution": "accept",
+    "rationale": "Complementary Hydra tactics: movement pattern (gf1) and Iron Shield blocking fireballs (gf2)."
+  },
+  {
+    "fact_id": "gf2-31-2",
+    "resolution": "accept",
+    "rationale": "Complementary Hydra tactics: movement pattern (gf1) and Iron Shield blocking fireballs (gf2)."
+  },
+  {
+    "fact_id": "gf1-41-2",
+    "resolution": "accept",
+    "rationale": "Same reward: Mr. Lee (the Vampire) drops the Magic Book of Sleep at Kett's."
+  },
+  {
+    "fact_id": "gf4-3-7",
+    "resolution": "accept",
+    "rationale": "Same reward: Mr. Lee (the Vampire) drops the Magic Book of Sleep at Kett's."
+  },
+  {
+    "fact_id": "gf1-45-2",
+    "resolution": "accept",
+    "rationale": "Same reward: Megapede leaves a chest with Silver in the Silver Mine."
+  },
+  {
+    "fact_id": "gf4-4-3",
+    "resolution": "accept",
+    "rationale": "Same reward: Megapede leaves a chest with Silver in the Silver Mine."
+  },
+  {
+    "fact_id": "gf1-47-3",
+    "resolution": "accept",
+    "rationale": "Different Julius events (Airship attack, prologue dialogue, Wendel reveal); not a contradiction."
+  },
+  {
+    "fact_id": "gf4-1-3",
+    "resolution": "accept",
+    "rationale": "Different Julius events (Airship attack, prologue dialogue, Wendel reveal); not a contradiction."
+  },
+  {
+    "fact_id": "gf4-3-10",
+    "resolution": "accept",
+    "rationale": "Different Julius events (Airship attack, prologue dialogue, Wendel reveal); not a contradiction."
+  },
+  {
+    "fact_id": "gf1-49-2",
+    "resolution": "accept",
+    "rationale": "Same event: the egg hatches into the Chocobo."
+  },
+  {
+    "fact_id": "gf2-38-3",
+    "resolution": "accept",
+    "rationale": "Same event: the egg hatches into the Chocobo."
+  },
+  {
+    "fact_id": "gf1-50-7",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Jadd; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-50-9",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Jadd; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-55-3",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Jadd; not a contradiction."
+  },
+  {
+    "fact_id": "gf3-4-22",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Jadd; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-58-3",
+    "resolution": "accept",
+    "rationale": "Complementary Cyclops advice (Were Axe, Chain, magic build aiming at the eye); writers may present the options."
+  },
+  {
+    "fact_id": "gf2-48-1",
+    "resolution": "accept",
+    "rationale": "Complementary Cyclops advice (Were Axe, Chain, magic build aiming at the eye); writers may present the options."
+  },
+  {
+    "fact_id": "gf5-16-3",
+    "resolution": "accept",
+    "rationale": "Complementary Cyclops advice (Were Axe, Chain, magic build aiming at the eye); writers may present the options."
+  },
+  {
+    "fact_id": "gf1-64-3",
+    "resolution": "accept",
+    "rationale": "Same NPC line: the girl in Wendel says Cibba went to Lorim."
+  },
+  {
+    "fact_id": "gf4-8-7",
+    "resolution": "accept",
+    "rationale": "Same NPC line: the girl in Wendel says Cibba went to Lorim."
+  },
+  {
+    "fact_id": "gf1-65-2",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Lorim; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-66-1",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Lorim; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-68-3",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Lorim; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-70-3",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Lorim; not a contradiction."
+  },
+  {
+    "fact_id": "gf3-5-13",
+    "resolution": "accept",
+    "rationale": "Different destinations reached from Lorim; not a contradiction."
+  },
+  {
+    "fact_id": "gf1-67-2",
+    "resolution": "accept",
+    "rationale": "Kary EXP differs slightly (181 gf1 vs 183 gf2); GP agrees at 129. Writers should give GP only or say about 180 EXP."
+  },
+  {
+    "fact_id": "gf2-56-1",
+    "resolution": "accept",
+    "rationale": "Kary EXP differs slightly (181 gf1 vs 183 gf2); GP agrees at 129. Writers should give GP only or say about 180 EXP."
+  },
+  {
+    "fact_id": "gf1-67-3",
+    "resolution": "accept",
+    "rationale": "Complementary Kary advice: head-only weak point, Flame Chain for weapon builds; immune to Nuke for magic builds."
+  },
+  {
+    "fact_id": "gf5-20-6",
+    "resolution": "accept",
+    "rationale": "Complementary Kary advice: head-only weak point, Flame Chain for weapon builds; immune to Nuke for magic builds."
+  },
+  {
+    "fact_id": "gf1-71-3",
+    "resolution": "accept",
+    "rationale": "Complementary Kraken advice: Thunder Spear (gf1, gf2) or Fire from the bridge (magic build gf5)."
+  },
+  {
+    "fact_id": "gf2-58-1",
+    "resolution": "accept",
+    "rationale": "Complementary Kraken advice: Thunder Spear (gf1, gf2) or Fire from the bridge (magic build gf5)."
+  },
+  {
+    "fact_id": "gf5-21-7",
+    "resolution": "accept",
+    "rationale": "Complementary Kraken advice: Thunder Spear (gf1, gf2) or Fire from the bridge (magic build gf5)."
+  },
+  {
+    "fact_id": "gf1-81-1",
+    "resolution": "accept",
+    "rationale": "Different events: final battle location vs Julius's backstory; not a contradiction."
+  },
+  {
+    "fact_id": "gf4-5-1",
+    "resolution": "accept",
+    "rationale": "Different events: final battle location vs Julius's backstory; not a contradiction."
+  },
+  {
+    "fact_id": "gf2-26-2",
+    "resolution": "accept",
+    "rationale": "Same event: the Dark Lord pushes the hero down the waterfall/cliff at the end of the prologue."
+  },
+  {
+    "fact_id": "gf4-1-4",
+    "resolution": "accept",
+    "rationale": "Same event: the Dark Lord pushes the hero down the waterfall/cliff at the end of the prologue."
+  },
+  {
+    "fact_id": "gf2-36-2",
+    "resolution": "accept",
+    "rationale": "Complementary: head is the only weak point; Chain (weapon build) or Fire (magic build)."
+  },
+  {
+    "fact_id": "gf5-9-6",
+    "resolution": "accept",
+    "rationale": "Complementary: head is the only weak point; Chain (weapon build) or Fire (magic build)."
+  },
+  {
+    "fact_id": "gf2-37-3",
+    "resolution": "accept",
+    "rationale": "Same requirement: equip a Silver item to pass Gaia."
+  },
+  {
+    "fact_id": "gf4-4-5",
+    "resolution": "accept",
+    "rationale": "Same requirement: equip a Silver item to pass Gaia."
+  },
+  {
+    "fact_id": "gf2-51-1",
+    "resolution": "accept",
+    "rationale": "Complementary: Morning Star for weapon builds; for spells, Fire works and Lit does not."
+  },
+  {
+    "fact_id": "gf5-17-2",
+    "resolution": "accept",
+    "rationale": "Complementary: Morning Star for weapon builds; for spells, Fire works and Lit does not."
+  },
+  {
+    "fact_id": "gf2-52-2",
+    "resolution": "accept",
+    "rationale": "gf5 is a magic-only build guide: among spells only Lit hurts the Dark Lord. gf2 recommends the Morning Star for weapon users. Both stand."
+  },
+  {
+    "fact_id": "gf5-18-1",
+    "resolution": "accept",
+    "rationale": "gf5 is a magic-only build guide: among spells only Lit hurts the Dark Lord. gf2 recommends the Morning Star for weapon users. Both stand."
+  },
+  {
+    "fact_id": "gf2-59-1",
+    "resolution": "accept",
+    "rationale": "Complementary: Thunder Spear (weapon) or Lit at the head (magic)."
+  },
+  {
+    "fact_id": "gf5-22-3",
+    "resolution": "accept",
+    "rationale": "Complementary: Thunder Spear (weapon) or Lit at the head (magic)."
+  },
+  {
+    "fact_id": "gf2-61-1",
+    "resolution": "accept",
+    "rationale": "Complementary: Flame Flail (weapon) or charged Lit (magic)."
+  },
+  {
+    "fact_id": "gf5-23-1",
+    "resolution": "accept",
+    "rationale": "Complementary: Flame Flail (weapon) or charged Lit (magic)."
+  },
+  {
+    "fact_id": "gf2-62-3",
+    "resolution": "accept",
+    "rationale": "Complementary: Flame Flail (weapon) or Fire (magic)."
+  },
+  {
+    "fact_id": "gf5-24-8",
+    "resolution": "accept",
+    "rationale": "Complementary: Flame Flail (weapon) or Fire (magic)."
+  },
+  {
+    "fact_id": "gf2-63-2",
+    "resolution": "accept",
+    "rationale": "Route treats entering Dime Tower as the Point of No Return (gf2, the stricter claim); gf3 says the same once it is completed."
+  },
+  {
+    "fact_id": "gf3-7-7",
+    "resolution": "accept",
+    "rationale": "Route treats entering Dime Tower as the Point of No Return (gf2, the stricter claim); gf3 says the same once it is completed."
+  },
+  {
+    "fact_id": "gf3-3-26",
+    "resolution": "accept",
+    "rationale": "Different places: the Girl's cell on the Airship (gf3 Hikuutei) and her coffin at Kett's (gf5)."
+  },
+  {
+    "fact_id": "gf5-7-10",
+    "resolution": "accept",
+    "rationale": "Different places: the Girl's cell on the Airship (gf3 Hikuutei) and her coffin at Kett's (gf5)."
+  },
+  {
+    "fact_id": "gf4-4-8",
+    "resolution": "accept",
+    "rationale": "Different events: Airship cell (gf4) and the first rescue at Topple (gf5)."
+  },
+  {
+    "fact_id": "gf5-5-2",
+    "resolution": "accept",
+    "rationale": "Different events: Airship cell (gf4) and the first rescue at Topple (gf5)."
+  },
+  {
+    "fact_id": "gf1-121-4",
+    "resolution": "reject",
+    "rationale": "Same gf1 map-legend error as gf1-121-3: the Ice Cave Floor 4 map labels the boss Chimera; the Ice Sword comes from Kary (gf1-68-1, gf2-56-3, gf4-9-8)."
+  }
+]

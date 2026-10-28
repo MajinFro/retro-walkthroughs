@@ -1,0 +1,122 @@
+{
+  "beginner_friendliness": 90,
+  "issues": [
+    {
+      "id": "ISS-1",
+      "severity": "critical",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 25,
+      "description": "Removed 'put your first 3 level-ups into Stamina' (not supported by the cited fact gf5-5-1). It contradicted the Power/Wisdom alternation that the four Way of achievements depend on. It now repeats the alternation rule."
+    },
+    {
+      "id": "ISS-2",
+      "severity": "critical",
+      "category": "missable",
+      "status": "fixed",
+      "file": "08_chapters/13.md",
+      "line": 19,
+      "description": "The Aegis Shield/Point of No Return guidance told players to farm the Aegis Shield before the Mana sanctuary, but the Elephants only appear inside the sanctuary, just before Julius (gf3-8-7, ra-comments-53-1). The missable warning, the Aegis section, the PONR caution and the overview plan now say: Samurai gear in the tower before the PONR, then Aegis, Level 50, stats and GP inside the sanctuary before approaching Julius."
+    },
+    {
+      "id": "ISS-3",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 27,
+      "description": "The Dark Castle section claimed no castle map was collected and linked the Ish town map instead. Linked the Glaive Castle map (the same castle as the prologue) and removed the misplaced Ish link."
+    },
+    {
+      "id": "ISS-4",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/06.md",
+      "line": 29,
+      "description": "Removed Flame Armor/Shield/Chain and Opal gear from the Jadd shop list. Flame gear is sold in Ish (chapter 10) and Opal gear at the Mt. Rocks shop (chapter 8); gf1 mislabels a later shop as 'Jadd'."
+    },
+    {
+      "id": "ISS-5",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 16,
+      "description": "Removed the Glaive's Airship map link from the prologue (the Airship is chapter 5, where the link already exists). This keeps the QA 'map not linked' warning on purpose, because the graph maps it to chapter 1 by mistake."
+    },
+    {
+      "id": "ISS-6",
+      "severity": "major",
+      "category": "maps",
+      "status": "fixed",
+      "file": "08_chapters/11.md",
+      "line": 35,
+      "description": "Checked the Cave of Palmy Desert (D15) map against the world grid: the Lich Cave route from Lorim (M6) ends at D15, so the map belongs to the Lich Cave. Labelled it as such in chapter 11. In chapter 6 it is marked as a different cave for later, not Medusa's Cave."
+    },
+    {
+      "id": "ISS-7",
+      "severity": "major",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/01.md",
+      "line": 43,
+      "description": "Removed the unsupported claim that you are healed after the Jackal fight (the cited fact gf1-106-2 is only a map legend)."
+    },
+    {
+      "id": "ISS-8",
+      "severity": "major",
+      "category": "navigation",
+      "status": "fixed",
+      "file": "08_chapters/10.md",
+      "line": 42,
+      "description": "The Wendel revisit said the boy's location could not be verified. It now gives the location (one screen west of the entrance, 'Dwarf Cave is to the west!') with citations, as the War Is Hell fallback before Dime Tower."
+    },
+    {
+      "id": "ISS-9",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "fixed",
+      "file": "08_chapters/12.md",
+      "line": 75,
+      "description": "The pre-Dime Tower check listed To Infinity, and Beyond!, which was already locked by the chapter 8 bridge collapse. Replaced it with the Dragon Sword and Dragon Shield check, in the text and in the checklist."
+    },
+    {
+      "id": "ISS-10",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 38,
+      "description": "Removed leftover 'Unable to verify from collected sources' drafting phrases and unsupported stat figures (chapters 0, 2, 7, 10, 11, 12) and reworded them as clear player instructions."
+    },
+    {
+      "id": "ISS-11",
+      "severity": "minor",
+      "category": "formatting",
+      "status": "fixed",
+      "file": "08_chapters/04.md",
+      "line": 50,
+      "description": "Replaced the raw node-ID headings (Wendel_Boy, Wendel_Area) and renamed several headings to the roadmap area labels (Fang, Were Axe, Lester, Morning Star, Chocobot, Nuke, Zeus Axe, Excalibur, Samurai/Aegis, Julius forms). This clears the 'area never mentioned' warnings. Folded thin sections into their parent sections."
+    },
+    {
+      "id": "ISS-12",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/05.md",
+      "line": 80,
+      "description": "Reworded the garbled 'press the right button to access the left button' Airship tip. Fixed the duplicated achievement name in the chapter 1 checklist."
+    },
+    {
+      "id": "ISS-13",
+      "severity": "minor",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/11.md",
+      "line": 19,
+      "description": "Chapter 11 repeated the Bone Key pickup already done at the end of chapter 10. Marked it 'if not already collected' and removed the drafting note about the unlinked Lorim map."
+    }
+  ]
+}

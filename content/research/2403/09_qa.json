@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-10-28T00:32:03.398Z",
+  "inputs": "f0e7a357a3487706",
+  "metrics": {
+    "chapters_expected": 14,
+    "chapters_present": 14,
+    "paragraphs": 537,
+    "paragraphs_cited": 537,
+    "paragraphs_plan_logic": 6,
+    "citations": 1460,
+    "citations_broken": 0,
+    "missables": 12,
+    "missables_warned": 12,
+    "ponr": 3,
+    "ponr_warned": 3,
+    "areas": 83,
+    "areas_mentioned": 83,
+    "code_blocks": 2,
+    "code_blocks_verbatim": 2,
+    "unable_to_verify": 0,
+    "achievements_total": 50,
+    "achievements_placed_correctly": 50,
+    "achievements_supported": 50,
+    "words": 22351,
+    "chapters_with_checkpoints": 13,
+    "maps_available": 42,
+    "map_links_present": 35,
+    "sparse_areas": 0
+  },
+  "errors": [],
+  "warnings": [
+    "ch1: visual map \"Glaive's Airship(G10) Map\" covers this chapter but is not linked (https://www.vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-Glaive'sAirship(G10).png)",
+    "ch4:11: no factual overlap with cited facts (gf1-93-4, gf2-34-3) — check for unverified claims: \"- The Oil you need costs 500 GP, so carry enough gold before you leave Wendel. I…\"",
+    "ch4:123: no factual overlap with cited facts (gf2-37-3, gf1-45-2) — check for unverified claims: \"Exit the Dwarf Cave, go north twice, west, and north one screen to the cave mout…\"",
+    "ch8:86: no factual overlap with cited facts (gf1-57-4) — check for unverified claims: \"1. Go north, east twice, and use a Mattock on the north wall. Go north, then wes…\"",
+    "ch9:96: no factual overlap with cited facts (gf1-62-1) — check for unverified claims: \"- He runs around and swings his sword, follows your movements, and can use a MAX…\"",
+    "ch9:99: no factual overlap with cited facts (gf5-18-2) — check for unverified claims: \"- If Lit glitches and he flies off the balcony, hit him with the Morning Star to…\"",
+    "ch13:188: no factual overlap with cited facts (gf1-82-3, ra-comments-55-5) — check for unverified claims: \"Defeat the corrupted Mana Tree, finishing with the axe, to earn The End of Every…\""
+  ]
+}

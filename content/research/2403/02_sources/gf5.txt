@@ -1,0 +1,1540 @@
+Final Fantasy Adventure
+
+Mage Walkthrough
+by Crow!
+Written February 2015
+
+Contact:
+Crow! on Speed Demos Archive
+iiCrowii on Twitch: http://www.twitch.tv/iicrowii/
+
+
+v v v v v v v 
+
+IF YOU READ NOTHING ELSE IN THIS GUIDE, READ THIS!
+
+The Heal spell reduces your Defense to 0 (as if you're Moogled) until the next
+time you pause the game.
+
+^ ^ ^ ^ ^ ^ ^
+
+Knowing this glitch can save you from many deaths.
+
+
+-------------------------------
+TABLE OF CONTENTS:
+
+[0] Introduction: Why magic?
+[1] The Build
+[2] Dungeon / Area Walkthroughs
+	[2A] Topple and the Marsh
+	[2B] Marsh Cave
+	[2C] Kett's / Lee's / Vampire's Hotel / Mansion / Dungeon
+	[2D] Wendel Area
+	[2E] The Silver Mine
+	[2F] Gaia
+	[2G] Julius's Airship
+	[2H] Menos Area
+	[2I] Medusa Cave
+	[2J] Jadd / Davias's Mansion
+	[2K] Mt. Rocks: up to Metal Crab
+	[2L] Mt Roks: the climb
+	[2M] Mt Rocks: Golem's Cave
+	[2N] Glaive / The Dark Lord's Castle
+	[2O] From Ish to the Ice Cavern
+	[2P] Ice Cavern
+	[2Q] Floatrocks and Kraken's Cave
+	[2R] Undersea Volcano
+	[2S] Lich's Cave
+	[2T] Ruins
+	[2U] Dime Tower
+	[2V] Tower of Gemma
+	[2W] Mana Tree and Julius
+[3] Math
+[4] Legal
+
+------------------------------
+[0] Introduction: Why Magic?
+
+This game's design will lead most players to lean toward using weapons as
+their primary source of damage.  After all, the big reward inside most
+dungeons is usually a weapon of some kind.  However, it turns out that for
+most of the game, Magic deals far more damage, far more quickly.
+
+Also, Will acts as a damage multiplier - casting a spell with a fully charged
+Will bar deals quadruple damage.  Leveling up Will grants some Wisdom but no
+physical attack power, so fully charged Nukes deal insane damage.
+
+If you haven't tried playing the game as a mage, it's an interesting change of
+pace. Some portions of the game are much easier, while others are much harder.
+
+The linchpin to the strategy in this guide is the fact that getting a level up
+refills your MP.  Therefore, if you keep yourself at a fairly low level but
+high Wisdom, you can kill enough enemies with spells to refund all your MP so
+you can kill even more enemies.  Ethers and Inns aren't usually required.
+
+For what it's worth, as of the writing of this guide, I hold the world record
+for speed running Final Fantasy Adventure, and I use (most of) the strategies
+described in this guide.  Here's a link to that run:
+
+http://www.twitch.tv/iicrowii/c/5793026
+
+A more casual playthrough might stop in additional Inns and Item Shops to make
+things easier, but this guide lists only a few of the the many shop options in
+this game.
+
+
+------------------------------
+[1] The Build
+
+This is a list of which levels you select for each level-up, as well as which
+equipment you pick up.
+
+Level   Build   Notes
+0       N/A     You start the game with 2 of each stat.
+1       Stamina
+2       Stamina Required to fight Imps "safely".
+3       Stamina
+4       Wisdom
+5       Wisdom
+6       Wisdom
+7       Wisdom
+8       Wisdom
+9       Wisdom
+10      Wisdom
+11      Wisdom  Buy Silver Armor from Watts.
+12      Wisdom
+13      Wisdom
+14      Wisdom
+15      Wisdom
+16      Wisdom
+17      Wisdom
+18      Wisdom  Buy Gold Armor, Gold Helmet, and Gold Shield in Jadd.
+19      Wisdom  Once you reach level 20, you will start leveling Will.
+20      Will
+21      Will
+22      Will
+23      Will
+24      Will    Buy Flame Armor in Ish.
+25      Will
+26      Will    Now you have 35 Will, which you need to fight Kary.
+27      Wisdom
+28      Wisdom
+29      Wisdom
+30      Wisdom
+31      Will
+32      Will    Find the Dragon Armor in Dime Tower.
+33+     Will    You can complete the game at level 32 or level 33.
+
+------------------------------
+[2] Dungeon / Area Walkthroughs
+
+Legend:
+
+START: tells where these directions begin from.
+Go N, E, S, and W indicate which direction you should travel off the screen.
+Up, Down, and Door indicate stairways and doors.
+(K) the door requires a Key.
+(M) going this way requires a Mattock, or the Morning Star.
+(Chain), (Sickle), (Axe) going this way requires the indicated weapon.
+* indicates a landmark (so you don't get lost reading N, E, E, S, etc)
+- indicates a general direction.
+--- indicates more specific directions.
+
+For example, here's the prologue:
+
+___________________
+[2Example]
+
+START: after the character naming screens.
+
+BOSS: Jackal 
+--- You will be healed after this fight, so go all out.
+
+Go N, E, Up, W
+BOSS: Jackal
+--- This time, try to avoid damage.
+
+Go W
+- Get knocked down Waterfall.
+
+
+___________________
+[2A] Topple and the Marsh
+
+START: at bottom of Waterfall ("Where am I? Where is this?")
+
+- Goal: rescue the Girl.
+- Kill enemies to gain Experience.
+--- Goblins require 2 hits, while Mushbooms requrie 1.
+--- Both give only 1 experience point.
+--- Goblins drop Candy, which is worth 2G to sell or 8 HP when used.
+- Your first 3 levels go in Stamina.
+
+Go E, E, S, S
+- You'll visit this screen and the screen to the east of it 3 times.
+--- Kill all but 1 enemy on the first and second visit, then clear them all.
+--- The goal is to be around 7 kills past level 2 before rescuing the Girl.
+
+Go E, W, E, W, E, E
+* Here is the Girl.
+- Kill the Mushbooms, then talk to Hasim (the injured man)
+--- You can now use "Ask" to heal, if necessary.
+- Get your second level up and 165G ASAP.
+
+- Goal: visit Bogard in the Waterfalls.
+Go E, E, N, W, W, N, W
+* This is the first screen with Imps and Rabites.
+- Imps are brutal.  Be careful.
+--- Imps take 3 hits to kill if you have only 1 level up, or 2 if you have 2.
+--- Rabites take only 1 hit to kill.
+
+Go W, N, N, S(take U-turn), W, N, Door (Enter house)
+- Talk to Bogard 3x
+Go N
+- Take Chest.
+Go S, S (Exit house)
+
+- Goal: sleep in Kett's place
+Go S, E, N, S(take U-turn), E, E, Door (Enter Cave)
+* This is the Waterfall Cave.
+
+Go S(M), S, Up
+Go E, E, S, E, Door (Enter shop)
+- Enter the shop with 165G.
+- Buy Battle Axe, Key.
+Go S (Exit shop), E
+
+* This is the Marsh.
+- Equip Axe.
+--- Flowers die in a single hit.  Kill them, but ignore their treasure.
+--- Marmablues die in 2 or 3 hits.  Avoid them if you can.
+Go S, W, S, W, W, Door (Enter Kett's)
+Go W, N
+- Sleep in bed.
+--- You will learn Cure but lose the Girl.
+Go S, E, S (Exit Kett's)
+
+- Goal: enter Marsh Cave.
+Go E, E, S
+- Defeat the Lizardmen to get the Bronze Key.
+--- Lizardmen will take 2 or 3 hits to kill.
+--- Lizardmen drop Cure potions.  Take up to 2.
+Go N, E, N, Door (Enter Marsh Cave)
+- Equip the Bronze Key to enter this door.
+
+___________________
+[2B] Marsh Cave
+
+START: Just entered the Marsh Cave; "Man" will be wandering around.
+
+- Recruiting Man is not necessary.
+- Throughout cave: kill all the floating fish enemies, and kill the burrowing
+  tentacle monsters if they get in your way.
+--- Floating fish drop Mattocks, and you need at least one Mattock drop (or an
+      extra trip to the item shop) to get through Kett's.
+--- Floating fish deal a LOT of damage.  Use Cure liberally.
+
+- You probably already got all 3 Stamina levels covered before entering this
+  cave, so all levels will be in Wisdom.
+
+Go N, W, Down
+- Push button to make stairs appear.
+Go E, W (go down vine), Door
+Go E, S(M)
+* This room has a chest surrounded by Ivy.
+- Take Chest, then use Sickle to cut Ivy.
+
+Go N, W, Up
+Go E, W(go up vine), Door
+Go E, S
+* You're back in the room with Man.
+
+Go S, W(M)
+* This room is the first room with Skeletons.
+--- Skletons deal a lot of damage, and aren't worth much experience.
+--- If you run out of Keys, you can farm Skeletons in almost any dungeon.
+--- Bubble Ghosts are not vulnerable to most weapons.  In later dungeons, they
+    can be farmed for Mattocks if you run out.
+Go W, N, N(Sickle), E, Down
+- The rock conceals a stairway; Mattock it.
+Go S, W, Door
+Go W, S, E(K), Down
+- Press the top button, then use two Mattocks to reach the second button to
+  make the Stairs appear.
+
+Go E
+BOSS: Hydra
+--- Hydra deals up to 13 damage; keep your HP above that.
+--- Use Cure Potions and Candy if you have any to conserve MP.
+--- Mash the Attack button to extend your invincibility after being hit for an
+    abnormally long time.
+
+- Take chests
+--- Attack the first chest after opening it to reach the second.
+
+___________________
+[2C] Kett's / Lee's / Vampire's Hotel / Mansion / Dungeon
+
+START: Just after exiting Marsh Cave
+
+- Return to the hotel.
+Go S, W, W, W, Door.
+
+BOSS: Werewolf
+- Equip Mirror and Axe, and talk to butler.
+--- Werewolf deals about 10 damage, and may hit you right at the start.
+--- 4 Axe hits will kill him.
+
+- Goal: find the girl, then backtrack to beginning.
+- Throughout dungeon: Kill Owls and Zombies for drops, and kill Mice or
+  Pumpkins if they are in the way.
+--- Owls drop Crystals, while Zombies drop Ethers or Wisdom Crystals.
+--- Zombies can be killed with Fire, or with 2 Mattocks if you are desperate.
+--- Owls, Pumpkins, and Mice all die to either 2 weapon hits or 1 Fire cast.
+
+Go E, E, N, W, Up, S, E(M), N, E, S, S, W, Down
+- Press button (use Mattock to bust urn) to make the stairs appear.
+
+Go E, N, N(K)
+- Take Chain, then use it to escape the trap.
+Go S, W, Up, Up
+* This is the balcony.
+Go W, W(Chain), S(leaves balcony)
+
+Go N(M), N(M), Down
+- Push the chest on the button to make the stairs appear.
+
+Go Down
+- Mattock the Urn to reveal the stairs.
+
+Go E, S(K)
+- The Girl is in the bottom row, 3 from the left.
+
+- Now backtrack to the entrance of the dungeon.
+Go N, W, Up, Up, S, S(M), Up
+* This is the balcony.
+Go E, E(C), S(leaves balcony)
+Go E, N, N, W, S, W, N, Down, E, S, W, W
+
+BOSS: Vampire
+- Vampire will move left/right half a screen then stop to shoot bats.
+- His middle position is randomly a high position or a low one.
+- Attack with Fire while he's moving.
+--- Bonus points if you enter the fight with a full Will bar (that's 4x damage
+    on the first Fire cast)
+- Attack from a distance below him with the Chain while he's standing still.
+--- Your Chain should destroy the bats as they approach.
+--- Attacking his low center position is dangerous.
+
+___________________
+[2D] Wendel Area
+
+START: Defeated Vampire
+
+- Goal: meet with Cibba
+- Ignore Marsh monsters.
+Go E, E, S, W, S(Sickle), W, N, S(Chain), E, S
+- The Moblin-esque enemies either require 2 Fires or 1 and a Chain hit or two.
+Go S
+- Bees are dangerous.  Kill them with Fire before walking by.
+Go E, N, Door (enters Wendel)
+- Keep going North until Cibba cutscene.
+- Keep going South until Julius cutscene.
+--- You will learn Heal.  Heal sets your defense power to 0 until the next
+    time you pause.
+
+Go S, S(exits interior), S(enters town), S, Door (enters Inn)
+- Sleep in Inn to recover MP.
+Go S (exits Wendel)
+
+START: Just exited Wendel
+
+- Goal: get Oil and enter the Silver Mine.
+- Kill all enemies along the way.
+- Get at least 1, hopefully 2 Nectars from the Crab enemies.
+Go S, W, S, W, W(Axe), W, N, S(Chain)
+Go S, E, Door (Enters shop)
+
+- Buy Oil, 2x Key, and 2x Mattock here.
+--- Fewer Mattocks may be required if you got extra drops in the Marsh Cave,
+    or more may be needed if you spent some on Zombies.
+- If you haven't gotten a Nectar yet, go W then E again after exiting the
+  shop, killing all the Crabs along the way.
+--- You have 2 more chances after Gaia to get Nectar, so don't panic
+    yet if you still don't have any.
+
+Go S(Exits shop), N, N(Chain), N, N(Axe), W(Axe)
+--- Cut a path East, then North to the clearing, then West, North, West to
+    your destination.
+Use Door (Enters Silver Mine)
+
+___________________
+[2E] The Silver Mine
+
+START: Entrance of the Silver Mine
+
+- Goal: survive the mine cart ride.
+--- Equip Oil and walk into the cart.
+--- Attack any Spiders as you pass through them in hopes of avoiding damage.
+--- Hit the second and third switches as you pass by them.
+- If you miss, you'll loop back to the beginning.
+
+START: After meeting Watts
+
+- Goal: Defeat Megapede.
+- Equip the Chain.
+- Kill enemies as you progress.
+--- Spiders can be killed with 1 Fire or 2 Chain hits.  They are not worth
+    much experience.
+--- Fleas are worth a lot of experience.  Kill with 1 Fire.
+--- Ignore Mimics.
+
+Go N, E(M), E(M), Down
+- Smash the pot and press the button to reveal the stairs.
+Go W, W, Door
+Go W, N, Stairs
+Go S, Stairs
+Go S
+
+BOSS: Megapede
+- Megapede follows a set path.
+--- It enters from the right, does some loops, then exits to top.
+--- Then, it enters from bottom, does some loops, and exits to left.  Repeat.
+- If you got a Wisdom Crystal from a Zombie but no Ethers, use the
+  Wisdom Crystal now.
+--- If you got neither, wait for a full Will bar before fighting Megapede.
+- Hit Megapede's head with Fire.
+- Take the chest to exit the cave.
+
+___________________
+[2F] Gaia
+
+START: Just left the Silver Mine
+
+- Goal: get to the Dwarf Cave to buy Silver stuff.
+- You may be low on MP.  If you have an Ether, use it once you're out of MP.
+
+Go E, S(Axe), S(Axe), S, W, Door (Enters Dwarf Village), S
+- Talk to Watts and buy the Silver Armor.
+- If you had no Ether, purchase the Silver Sword in addition to the Silver
+  Armor so you can kill the Crab and Spider enemies easier without MP.
+
+Go N, Up (Exits Dwarf Village), N, N, W, N, Door (Enters Gaia)
+
+Go W, S, S
+- The door here will close when you pass through the pillars.  Enter the
+  pillars a second time to open them again.
+Go Up (Exits Gaia)
+* Bogard shows up here.
+
+Go S
+Depending on your MP and your inventory, you now have 2 options:
+1. If you are in good shape, use Fire + Axe to kill the Werewolves as you chop
+   through the trees.
+2. Head south and get an extra screen's worth of Crab enemies.
+--- The Crabs are nice because they can be killed with the Silver Sword in 2
+    hits, and because they drop Nectar.
+--- If you don't have any Nectar yet, you should farm the Crabs until you do.
+--- Enter and exit a Crabs screen until you get 2 to appear, then kill 1, and
+    repeat the process until you have a Nectar.
+
+Eventually, you'll reach a house.
+This is an Inn, in case you're completely dry on MP.
+
+START: outside the Inn mentioned above
+
+- Goal: get to the Airship.
+- Kill enemies with Fire.
+--- Clouds drop Ethers and Wisdom Crystals.  Ignore the Pebbler's drops.
+--- Do not attack the Sahagins.  They do not give enough experience.
+
+Go W(Axe), N, E, N, E(Axe), E(Chain)
+- This gap requires a full Will meter for the Chain to get across.
+--- Clear any clouds that block your path.
+--- Use a Crystal if you have one.
+
+Go N, E, W(Chain), W, S(Chain), W, N, N(Enter Airship)
+
+___________________
+[2G] Julius's Airship
+
+START: You just entered the Airship, and are climbing the anchor.
+
+- Goal: find the Girl.
+- Kill profitable enemies, and ignore weak ones.
+--- Ignore any enemies that you recognize from Kett's dungeon.
+--- Exception: Kill the Owls with the chain, in case they drop a Crystal.
+--- Ghosts, Eye Spys, Owls, Zombies (if they were blocking your path), and
+    Clouds all drop useful things.
+
+Go N, N, W, S, Door
+Go W, W
+* This is the first Eye Spy room.
+--- Eye Spys may take 1 or 2 Fires to kill; attack when your Will bar is
+    partially full and you'll usually kill them in 1 shot.
+Go W, S, Down
+- Press the right button to access the left button.
+- Kill Werewolves using the same strategy as Eye Spys.
+
+Go W, W, S(K)
+- Talk to the Girl through the Fence.
+- Bogard will leave you now.
+Go N, E, E, Up
+
+Go N, W, N, Up
+Go S, W, W, N, Up(M)
+* You're now on the Airship exterior.
+
+Go E, N, W, W, S, E, S, E
+- Talk to the Girl.
+
+___________________
+[2H] Menos Area
+
+START: Just completed the Airship / Amanda cutscene.
+
+- Goal: Enter Medusa Cave
+- Note: there is a Chocobo near Menos.  This guide does not bother with that
+  Chocobo because there are so many juicy enemies to kill that using it
+  is counterproductive.
+
+Go S (Exits house), S (Exits Menos), S, S, W (Enters Desert)
+
+- Kill Basilisks, ignore everything else.
+--- Basilisks die in a single fire shot.  Ignore their treasure.
+
+Go S, S, W, N, Door (Enters Medusa Cave)
+* This is an Oasis.
+- 2 Palm trees make 3 lanes (between them, to the right of them, to the left
+  of them)
+- Walk up the center, then down the right, then up the center, then down the
+  left to make the entrance to the cave appear.
+
+___________________
+[2I] Medusa Cave
+
+START: Amanda just joined you.
+--- Amanda can cure the Stone status with her ASK command.
+
+- Goal: Find the Ice spell.
+- Kill enemies.
+--- As usual, ignore old enemies.
+--- Biting Lizards are invulnerable to Fire.  Amanda may kill them.
+--- Mummies drop Flame, which is barely stronger than Fire.  Take them if
+    you're feeling desperate for MP.
+--- Shadow Zeroes deal about 50 damage, so keep your HP completely full!
+--- Shadow Zeroes take 2 hits to kill, but grant 2x the experience of
+    everything else.
+--- Shadow Zeroes drop Ethers and Wisdom Crystals.
+--- Did I mention Shadow Zeroes yet?  They're far more dangerous than Medusa.
+
+Go S, S(M), W, W, S, W, W, N
+* This room has a lot of rocks.
+- You can use a Mattock if a Biting Lizard is making progress difficult to the
+  south.
+- The next room has a recovery pond to the West, behind a locked door.  Use it
+  if you need to.
+
+Go N, N, N(Key), E
+- Press the lower button, then use the Chain to escape without sliding onto
+  the second button.
+- In the next room, open the chest to get Ice.
+
+- Goal: Defeat Medusa
+Go W, S, S, S, S, E, N(M), N
+- Push the snowman onto the button.
+Go N
+- Use Ice to freeze a Spider, and push the snowman onto the button.
+--- Don't let Amanda destroy your snowman!
+Go Down, N, Down, W
+
+BOSS: Medusa
+- Medusa moves randomly, then shoots snakes for a random amount of time.
+- Fire will destroy any snakes it passes through.
+- Medusa's head takes much more damage from Fire than does her skirt.
+--- Therefore, you should generally be along the top of the stage, except if
+    her motion forces you away.
+- You should have entered the fight with nearly full MP, from a level shortly
+  before entering the fight.
+--- If you're running out for some reason, wait for the Will meter to fill
+    before each shot for glorious 4x damage.
+
+- Kill Amanda, then walk into her corpse.
+--- Your inventory must have space for the Amanda's Tears item.
+
+___________________
+[2J] Jadd / Davias's Mansion
+
+START: Just completed the Medusa cave.
+
+- Goal: Return to Jadd.
+- Kill Basilisks along the way.
+W, N, E, N, N, W, N, Door (Enters Jadd)
+
+- Buy Gold equipment.
+--- If you are short on money, skip the Gold Shield.
+- Sleep in Inn if needed.
+Go N, 2x Shops, S, W, N, N, Door (Enters Davias's Mansion)
+
+Go Up, E, E, Down
+- Give Amanda's Tears to the parrot in order to make the stairs appear.
+- Lester will join your party.
+
+- Goal: Reach Davias.
+- Kill a few enemies.
+--- Black Mages are invincible, and they deal huge damage.
+--- The Gold Shield can sometimes block Black Mages' fireballs.
+--- Flames can be killed with Fire with a mostly full Will bar.
+--- Demons can be killed with a full Will bar, but they have an erratic shield
+    that often blocks your Fire.
+--- If a Demon does drop treasure, take that Crystal.
+
+Go E, E, N(M), N, N, W(K), S, Up
+- Reach the stairway by going through the room counterclockwise.
+
+Go W, W, W, W, Down
+- Make the stairs appear by pressing the right, up, left, then down button.
+
+Go N, W, S, S, E(M)
+- If you failed to follow the earlier portions of this guide and don't have
+  any Nectar, you can head south to get the Were Axe, then return here and
+  THEN bust the East wall with a Mattock.  You'll need to complete an Ice
+  puzzle and defeat some Fleas.
+
+Go S, Up, N(K), Up (Takes you to roof), W
+
+BOSS: Davias
+- This is one of two bosses in the mid-game that we can't use magic against.
+- Use that Nectar, then equip the Cure spell.
+--- Nectar grants +15 to your attack damage.  Davias normally takes 5 damage
+    from your attacks, so this is x4 damage.
+--- Due to a bug, Nectar doesn't work until you pause (e.g. to equip Cure),
+    and it also won't go away until you pause.  So, as long as you don't pause
+    after selecting Cure, the Nectar will last the whole fight.
+- Walk straight into Davias's face and mash the A button as fast as you can.
+--- Like Hydra, the goal here is to extend your invincibility by continuously
+    attacking.
+- Cast Cure any time your HP is less than 45; his fireballs deal around 25
+  damage but his body deals around 40.
+
+___________________
+[2K] Mt. Rocks: up to Metal Crab
+
+START: Lester starts playing music.
+- If you need to restore MP, rest in the Inn.  Otherwise, exit town.
+
+START: Exited Jadd
+- Kill Molebears, Werewolves, and Gorillas with a single Fire cast.
+--- Molebears and Gorillas are worth crazy high amounts of Experience.
+--- Iffish are invulnerable to fire.
+
+Go S, E, N, E, N, N, E(Axe)
+* You should be walking from a Werewolf room with trees into a lake area.
+
+Go N, N, E, N, W, Door (Enters Metal Crab cave)
+
+START: entered Metal Crab cave
+Go W, N(Axe)
+- This room features Face enemies.
+--- They will presently take 2 hits to kill, but they drop X-Ethers.
+
+Go W
+- This room features rocks and Black Mages.
+--- Consider using a Mattock to get past the Mages faster.
+Go W(Axe), S, W
+
+BOSS: Metal Crab
+- Only his face is vulnerable
+- His face is not accessible when he's on the bottom of the screen.
+--- Therefore, cast with a full Will bar when he is on the top of the arena.
+--- With practice, you can score a second hit each cycle.
+
+- Goal: get out of the cave.
+Go Down, W, W, W, Up (Exits cave)
+
+___________________
+[2L] Mt Rocks: the climb
+
+START: Just exited Metal Crab's cave.
+- Transition from leveling Wisdom to leveling Will.
+--- Once you reach level 20, you will level Will until you have 35 Will.
+- Reach Golem's Cave.
+- Don't die to Springs.
+- Kill Molebears and Gorillas.
+
+Go W, S, E, S, S, S, S, N(Take U-Turn)
+- This is the first screen with Spring enemies.
+--- Springs are invincible, move fast, move unpredictably, kill you in 2 hits,
+    and cause Moogle status.
+--- If in danger, save!
+--- A nearly full Will bar can kill the Orc enemies with Fire.
+- There is a recovery pond to the east.
+--- You probably won't need it (you'll be leveling up every few screens).
+
+Go E, N, E, N, N, W, E(Axe)
+- You'll need to go a bit west before you can find trees that can be cleared.
+- If there are springs blocking your path, consider exiting and reentering
+  the screen until they are in less dangerous positions.
+--- You can also try the unreliable Slep spell if you're feeling brave.
+
+Go N(Axe), N, E, S, S(Axe), E, N, Door (Enters Golem's Cave)
+
+___________________
+[2M] Mt Rocks: Golem's Cave
+
+START: Just entered Golem's Cave.
+
+- Goal: Find Cyclops to get the Morning Star
+- Defeat enemies.
+--- Face enemies can die to one Fire with a partly filled Will meter.
+--- Face enemies drop X-Ethers.
+--- Minotaurs die to one Fire.
+--- Ghosts are still worth killing.
+- Remember to level Will instead of Wisdom.
+--- Once you reach level 20, you will level Will until you have 35 Will.
+
+- If you go the wrong way, you'll return to the start of the cave.
+
+Go N, E, E, N(M), W, N
+- The Werewolf infested puzzle room is solved by pushing a chest onto a button
+  and then destroying it.
+
+Go E, E(K), E(Axe), S, S, E, E, Up, E
+
+BOSS: Cyclops
+- Cyclops's weapon can kill you in one hit.
+- Cyclops has three rows (top, middle, bottom), and may charge forward up to 2
+  times at each position.
+- Hits to Cyclops's eye deal more damage than hits to his feet.
+--- While Cyclops is on the bottom row, let the Will meter fill, and target
+    his eye for your next Fire.
+--- Otherwise, just do rapid Fires; attacking his eye is too dangerous.
+- If you have 2 Wisdom Crystals, spend one here.
+--- If you have only 1, save it for Chimera.
+- Win the Morning Star.
+
+Go W, Down W, W, W
+- You've teleported back to the beginning of the cave, Lost Woods style.
+Go N, N(K)
+
+BOSS: Golem
+- Equip the Morning Star.
+- Golem deals around 45 damage, so keep your HP at 50 or more.
+- Fight Golem like an easier version of Davias.
+--- If you have a Nectar, use it.
+--- As before, mash the A button rapidly to prolong invulnerablility.
+--- Stay close to the Golem and you'll score 2 hits per swing.
+- Win the Lit spell.
+
+Go N, Up(M), E, Door (Enter the Dark Lord's Castle)
+
+___________________
+[2N] Glaive / The Dark Lord's Castle
+
+START: just emerged from behind the waterfall.
+- Goal: Rescue the Girl
+
+Go E, N, W(Axe)
+- There will be some Face enemies; if you have a full Will bar, the Morning
+  Star will kill them in one hit.
+
+Go N, Door
+* You're in the sewers.
+- Ghosts are still worth killing.  Kill other enemies if they block your path.
+
+Go N
+- Take the left path.
+Go E, E
+- Take the lower path.
+Go E
+- Take the upper path.
+Go Up, N, N, Down.
+- If enemies block your path on the vine, re-enter the screen.
+
+Go Down, W
+
+BOSS: Chimera
+- This boss has an attack that cannot be avoided.
+--- Specifically, each time he reaches the center of the screen, he may dive.
+--- This deals about 45 damage; if your HP is below 50, cast Cure.
+- Stay out of the range of the fireballs that his wings drop.
+- Chimera is invulnerable to Lit; Fire must be used.
+--- Cast Fire rapidly.
+- If you have a Wisdom Crystal, now is the time to use it.
+
+Go S (Enters Girl's room)
+- The Girl can heal you with her ASK command.  Do this often.
+
+- Goal: defeat the Dark Lord.
+- Don't die to Wizards.
+--- Wizards can be killed with about 10 Morning Star hits, but are otherwise
+    invincible.
+--- Wizards inflict Stone with their magic, or Moogle from touching them.
+- Get a level or two from Dark Knights.
+--- Dark Knights can be killed with a single Fire cast, but have to be hit
+    from the side or the back.
+
+- This, by far, is the hardest portion of the game for this build.  Good luck!
+
+START: in Girl's room
+
+Go Down, Up
+* You're now on the castle's roof.
+- There is an Item shop / inn to the southwest, if you're desperate.
+--- Reaching and exiting that shop is actually pretty challenging.
+
+Go W, W, S, Door (Enter Castle)
+Go N(K), E
+- There are spikes in the previous two rooms.  They deal lots of damage;
+  either avoid the second set while the Girl heals you from the first, or just
+  cast a lot of Cure.
+
+Go N(M), W
+- The shiny things deal huge damage; don't step on them.
+
+Go Down
+- This is one of the 2 hardest rooms in the game.
+- You must Chain to the middle platform, then use a full Will bar Chain to the
+  left platform to hit the button, then a full Will bar chain to the bottom
+  platform.
+- I suggest entering/exiting the room until you get a room with only 1 Wizard.
+--- Kill the Dark Knights.
+- While you are flashing from damage, you cannot press a button, and you
+  cannot enter Stairs.
+
+Go N, E, S, S
+- Again, don't step in the energy field.
+
+Go W, Down
+- The way this Werewolf room works is, if any of the treasure chests are
+  destroyed or moved, the stairs wil disappear.
+- If you're feeling fancy, you can take damage from a Werewolf to start
+  flashing, then walk through a tresure chest.
+- Otherwise, go through the corridor to the left, and be careful to only cast
+  spells if you're sure they won't hit the chests.
+
+Go E, E, E(M), E, N, Up
+
+Go N(M), E(K), Up
+
+Go S, W, W, Down
+- This is an Ice room.
+- The goal is to push a snowman onto each of the two buttons.
+- Only the Dark Knights can be turned into snowmen.
+--- You cannot push a snowman while flashing from damage.
+--- You should probably enter/exit until there's only one Wizard.
+- Sometimes, the stairs won't appear even when you solve the puzzle.
+--- This is a glitch; the short story is that the Girl is probably to blame.
+--- You can sometimes fix it by pusing both snowmen back off of the buttons,
+    then pushing them back on.
+
+Go W, N, Up
+
+Go N, W
+- This room looks like a throne room.
+- If you are close to a level and low on MP, you should kill a few Dark
+  Knights here before proceeding to the Dark Lord fight.
+
+Go Up
+
+BOSS: Dark Lord
+- Dark Lord deals about 55 damage.  Cast cure if you're below 60 HP.
+- Dark Lord can only be hurt by Lit.
+
+- Our first obejctive is to get Dark Lord's AI stuck.
+- Equip Cure and run off to the upper right or upper left corner of the arena.
+- If Dark Lord is 1/2 tile to the side (rather than exactly aligned with you),
+  he may get stuck rather than actually running into you.
+--- Sometimes this doesn't happen, and I'm not sure why.
+--- If it fails, try again on the other side until it does.
+
+- Now to deal damage.
+- Wait for your Will meter to fill.
+- Equip Lit and walk down into Dark Lord.
+--- This will make him turn away from you.
+- Cast Lit.
+--- This should hit his backside.
+--- If he walks slowly away from you, fire a couple more Lits.
+--- If he dashes away, just return to your safe haven.
+- Cure yourself and use a Crystal if you have any left.
+- Wait for the Will meter to fill, and repeat.
+
+- It is possible that the Lit spell will glitch out and the Dark Lord will go
+  flying off the balcony.
+--- If this happens, attack him with the Morning Star and he'll die.
+--- He'll wrap to the opposite side of the screen than the side he left from.
+
+
+Go S (Exits to previous room)
+
+
+___________________
+[2O] From Ish to the Ice Cavern
+
+START: Just got kicked out of Sara/Bogard's house
+"What's that Gemma? ... It's You!"
+
+- Talk to Sara
+- Enter the Weapon Shop.
+--- Buy Flame Armor
+- Enter the Item shop.
+--- Buy 3x Keys.
+
+Go W, Door
+- Sleep at the Inn.
+Go W, Door
+- You now have the Chocobot.
+
+Go E, S, S (Exits Ish)
+- Talk to your Chocobot to recruit him.
+
+START: Just exited Ish and recruited the Chocobot.
+- Goal: reach the Ice Cavern
+
+Go W, N, N, W, W, E
+- Get in the ocean via the dock.
+Go E, E, S, E, S, S, S, S, N
+- Get on land via the dock.
+
+Go N(Axe), N, N
+* This takes you to the first screen of the Lorim Snowfields.
+- The Chocobo will be kicked to the previous screen.
+
+- Kill some enemies.
+--- Wolves and Snowmen die in one Fire cast, while Walruses will die if the
+    Will meter is mostly full.
+
+Go N, E, E, S, S, W, S, E, E, Door (Enters Ice Cavern)
+
+___________________
+[2P] Ice Cavern
+
+START: Just entered Ice Cavern
+
+- Goal: fight Kary with a Will stat of at least 35
+--- Once Will reaches 35, you can go back to leveling Wisdom for a while.
+- Defeat non-Eye enemies
+--- Eyes are invincible, and they inflict Stone.
+--- Air Elementals die in 1 Fire cast.
+--- Potos (the white jumping things) die in 1 Fire cast, and drop X-Ethers.
+--- Duck Knights die in 2 Fire casts or with a nearly full Will bar.
+
+- Something to understand: ice in this game is actually a 1-way conveyor belt,
+  rather than behaving like you'd expect ice to behave.
+
+Go N, N
+- In each case, use the upper-left available Ice tile.
+
+Go E
+- Press the button to move the snowman, then walk downward, then push the
+  snowman onto the button to open the door.
+
+Go N (Chain)
+- Use a fully charged Will bar to reach the chain post.
+
+Go W(Chain)
+- Either let the Will bar charge to use the chain post, or swing the uncharged
+  chain as you step onto the ice.
+
+Go N(K), E, N
+- You can either step one-half tile onto the right row of ice tiles and cross
+  the ice to the north, or you can go across the (third?) ice tile from the
+  bottom.
+
+Go N(M)
+- Go through the room in a counter clockwise direciton.
+- Bonus points if you use a Mattock, which doesn't spend your Will bar.
+
+Go N(Chain)
+- This requires a fully charged Will bar.
+
+Go W
+- You can either step one-half tile onto the right (or left) side of the ice
+  "box" and exit up or down, or you can exit via the rightmost side of the
+  ice "box".
+
+Go W, Up, S
+- Use the left side of the ice path.
+Go S, E, S, E, W
+- Transfer to the northern side of the ice path.
+Go N, N(M), Up
+
+* You should emerge from the stairs on a screen with two horizontal lines of
+  ice, and an obviously Mattockable wall to the north.
+- There is a recovery pond to the north, if you need it.
+
+Go E, N(K), Up (to Exterior)
+- Go through the room clockwise.
+
+Go E, Door (to Dungeon)
+Go W(Chain)
+- Either use a fully charged Will bar, or attack as you step onto the topmost
+  ice tile.
+
+Go W, S, S
+- The door to the South here is opened by the button on the lower right.
+- To get there, press the button in the center to melt some of the ice.
+- You'll have to hit a chain post while sliding, which works or doesn't work
+  seemingly at random.
+
+Go E, E(Axe), E
+- Use the lower ice path.
+Go E, S
+- Use the rightmost ice path.
+Go S, W
+- Use the lower ice path.
+- Use an UNCHARGED chain.
+- Be very careful not to get hit onto the left side of the ice while reaching
+  the lower ice path.
+
+Go W, W(M)
+- You'll step onto a lower ice path, then be taken into a horrible room where
+  you must hit one of two chain posts on the left side.
+- It helps to make sure your Will meter is NOT full.
+- Save before attempting this; with bad luck, you could die with no ability to
+  do anything about it.
+
+Go Up (to exterior)
+- Use the left chain post with a charged Chain attack.
+- Then use the top chain post.
+
+Go E, Door (to dungeon)
+Go E(Chain), N, Up (Chain, to exterior)
+Go E
+
+BOSS: Kary
+
+- This boss requires some practice to kill with Magic.
+- You MUST have 35 Will.
+--- If you have less, kill some more Ducks Knights and/or Potos.
+- If for some reason you got Nuke before coming here, she is immune to Nuke.
+- Only her head is vulnerable.
+- You will hit her with Fire, then Lit, then Lit again
+
+- Dodge her initial icicles.
+- When she moves down, walk above her, aim to the right.
+--- Shoot her as she starts moving to the right, so that your Fireball hits
+    her head as it turns downward.
+
+- When she moves down again, walk down and right, aim down, and equip Lit.
+--- As she crosses back in front of you, hit her head with Lit.
+--- Retreat to the top again immediately!
+
+- Aim to the right, and start shooting Lit right as her left hands pass you.
+--- With proper timing, you'll hit her head as she stars moving upward again.
+- Walk downward, dodge her charge and icicles, and repeat the pattern.
+
+- Win Ice Sword.
+
+___________________
+[2Q] Floatrocks and Kraken's Cave
+
+START: Just exited Ice Cavern
+
+- Goal: talk to Cibba and get the Bone Key.
+
+Go W, W, N, E, N, N, W, S, W, S
+* This exits the Lorim Snow Fields.
+- Talk to your Chocobo here to re-recruit him.
+
+Go S, E(Axe), S, S, E, N, Door
+* This enters Lorim
+Go E, N
+- Talk to Cibba and you'll get the Bone Key.
+Go S, W, S (Exits Lorim)
+- Talk to your Chocobo agian.
+
+- Goal: go to the Elixir Island and win an Elixir.
+Go S, W, N, N, W, S, N (Use dock to enter ocean)
+Go N, N, N, W, N
+* At this point you're at the mouth of the river.
+
+Go E, E, E, E, E, S, S, E
+* This is Elixir Island.
+- Your goal is to use Lit to kill all the (fire breathing) sea horses.
+--- If the seahorse arrangement is unfavorable, enter / exit until it is more
+    practical.
+- Collect the Elixir that appears.
+
+START: Just completed Elixir Island
+- Goal: go to the Kraken's Cave.
+
+Go S, S, S, S, S, W
+* Going W here takes you into a river.
+Go N, N, W, S, N
+- Use the dock to head North on land.
+
+Go E, N
+- There is a recovery pond here.  Get off the Chocobo and use it.
+--- If you're too close to the usage point when you get off the chocobo, it
+    may not work.  Exit and re-enter the screen to fix it.
+
+* You are now at the Ammonite Coast.
+- The enemies here are incredibly dangerous.
+--- Kill them with Lit if you must, but there are better targets later.
+--- Feel free to hop on the Chocobo for invincibility, even for short
+    distances.
+--- Manta Rays inflict Poison.
+--- Griffin Hands inflict Moogle.  You can un-moogle yourself by hopping on
+    the Chocobo.
+Go S, S(Chain), S, E, S, S, S, W
+
+* This takes you to the Floatrock Fields.
+- Floatrocks can be destroyed by the Morning Star.
+Go S, S, E, S, S, W, N, S(take U-turn), S, W, S, E, S, E, E, N, W
+- Enter this cave by equipping the Bone Key.
+
+START: Kraken's Cave / Cave in the Floatrocks
+- Goal: defeat Kraken.
+
+Go N, N(K), E(M), E, E
+- This room has 2 buttons and a river.
+- Press the first one to open the river, and the second to open the door.
+
+Go N, N, N(M), Down, E
+
+BOSS: Kraken
+- You will defeat this boss with Fire, from safety.
+- Cast one Fire as soon as you enter the room, then run to the second Bridge
+  tile from the right.
+--- This square is as close as you can be to the Kraken's right tentacle
+    without taking damage.
+- Only cast when your Will meter is full.
+- The Tentacles are not vulnerable, only his head is.
+- Kraken will shake a bit, then either extend a tentacle or not.
+--- You can shoot when Kraken decides not to extend a tentacle.
+--- You can shoot while Kraken retracts his left tentacle.
+
+Go in door (Exits Kraken's Cave)
+
+___________________
+[2R] Undersea Volcano
+
+START: Just exited Kraken's Cave.
+
+- Goal: enter the Undersea Volcano
+E, S, W, N, Door (Enter Undersea Volcano)
+
+- Defeat Iflyte.
+- Kill Enemies.
+--- The enemies hit hard in this dungeon.
+--- Earth Elementals die in 1 Lit cast and drop X-Ethers.
+--- Moths die in 1 Lit cast with a partially full Will bar.
+- Don't forget: Level Wisdom until level 31, then level Will again.
+
+Go S, W, N(M), W, W(M)
+
+Go Down (to exterior)
+- This is one of the 2 hardest rooms in the game.
+- You must sickle a path open to each button, then cast Ice on two Dark
+  Knights, and push them onto the buttons.
+--- The game may glitch out and not make the stairs. You'll have to try again.
+- Enter and exit the room until there is only 1 Wizard.
+- Use your best Lolo skills.
+
+Go W, Door (back into the cave)
+Go W, N
+- There is Lava you must cross to go north here.
+- Lava will deal about 3/4 of your health in damage.
+--- You can cross in a single hit, but if you're not confident, cast Cure
+    twice while you cross.
+
+Go N, N, E(M), Down (to exterior)
+Go Door (back into cave)
+Go N, E, E, S, E(K), Down (to exterior)
+- The lower right rock conceals a stairway.
+
+Right Door (back into cave)
+Go S, W, N, Down
+- This is another Ice room.
+- Getting a snowman onto the upper button is harder than the right button.
+- The room may glitch and not give you the stairs.  You'll have to try again.
+--- If you killed all the enemies in the room, save, reset (ABSelectStart) and
+    reload to bring them back.
+
+Go W
+
+BOSS: Iflyte
+- Use Lit.
+- Like Metal Crab, only his head is vulnerable.
+- His head is still vulnerable when he's in ball form; aim for the center and
+  lead your target as he bounces around.
+- Win the Rusty Sword.
+
+___________________
+[2S] Lich's Cave
+
+START: Just received Rusty Sword
+
+- Stock up on supplies.
+- Get the Chocobo.
+--- If he spawned in the upper left corner, you'll need to enter /exit until
+    he's somewhere you can reach.
+
+Go E
+* There is a Magic shop here.
+- Check your X-Ether count and buy until you feel comfortable.
+--- 4 is sufficient if you're good/lucky.
+--- 8 should be sufficient regardless.
+
+- Goal: exit the Floatrocks / Ammonite Coast.
+- This is just backtracking.
+Go S, W, W, N, W, N, E, N, N, S(take U-turn)
+Go E, N, N, W, N, N, E, N, N, W, N, N(Chain)
+- Cross the river using the Chain before going North here.
+
+Go N
+- Use the recovery pond.
+Go S, W, S, N
+- Get into the ocean via the dock.
+Go E, S, S, E
+- This is the mouth of the river.
+
+N until you reach Elixir Island
+- Defeat the sea horses again for another Elixir.
+
+START: Elixir Island
+- Goal: go to Lich's Cave
+
+Go W, W, N, N, W, W, W, W, W, W, W
+* At this point, you're at the Crystal Desert dock.  But don't use it.
+Go N, N, N, W
+- Get on the dock for the Palmy Beach.
+Go S, W, S, W, N, Door (enter Lich's Cave)
+
+Go Down, Down, North
+
+BOSS: Lich
+- This boss deals about 100 damage per hit.
+- Use fully charged Lit spells.
+
+- Lich follows the same movement pattern as Megapede.
+--- First, let him cross under you as you cast Lit from the upper left.
+--- Then, walk down and right, then left as he crosses over you.
+--- Walk up and score another hit as he leaves the screen at the top.
+--- Stay near the upper right, dodging skulls, and hit him as he crosses under
+    you.
+--- Walk left, down, right to let him cross over you.
+--- Score one more Lit hit as he leaves the screen on the left.
+--- Repeat from the beginning.
+
+- Win the Nuke spell.
+
+___________________
+[2T] Ruins
+
+START: Just got Nuke.
+
+- Retreive Chocobo and enter the Ruins.
+Go S, E, N, E, N, E, S
+- Use dock to enter ocean
+Go S, S, E
+- Use dock to get onto the Crystal Desert
+
+Go Down (Enters Ruins)
+- Reveal the entrance by casting Nuke on the right crystal.
+
+- Defeat some enemies.
+--- Mirrors have projectiles.  Snails do not.
+--- Both die in a single Nuke cast.
+--- Nuke is not MP efficient, so keep the killing to a minimum.
+
+Go W, W, S (Enters dungeon)
+
+- Ignore Robots.
+--- If you must kill one, Lit works, while Nuke does not.
+- If low on MP, check if killing Snails/Mirrors/Earth Elementals/Moths is
+  enough to level up.
+--- Each of those enemies is 100-150 Experience, and you can see how close to
+    a level you are on the Status screen or by saving.
+
+Go N, N
+- To go north here, use the left half of the center tiles until you get kicked
+  to the right side, then use the upper right tile.
+Go N, E
+- To go east here, use the left half of the center tiles until you get kicked
+  to the upper side, the use the upper right tile.
+
+Go E, N, N, N, W, N
+
+BOSS: Mantis Ant
+- Don't move.
+- Cast Fire when your Will meter fills.
+- After he's dead, equip Cure, and survive the 100HP damage tiles as you enter
+  the arena then exit to the right.
+
+Go E
+- Equip the Rusty Sword
+- Press the button.
+"The Rusty Sword released it is mystic power..."
+
+
+___________________
+[2U] Dime Tower
+
+START: Just left the Ruins
+"Tower of Dime will appear somewhere in this desert!!"
+
+- Get Chocobo.
+- Goal: arrive at Dime Tower.
+Go S, S, E, S, W
+Door (Enters Dime Tower)
+
+* Marcie joins.
+--- Marcie's ASK command gives you full MP.
+--- Nuke anything that is convenient.
+--- This is your last good opportunity to get levels.
+
+- Goal: find Garuda.
+- Defeat enemies.
+--- Swords are not dangerous, but Gauntlets hurt hard.
+--- Birdmen can poison, while the Beret wearing fuzzballs can Moogle.
+--- Mirrors/Snails are also worth killing.
+
+Go W, N, N, E, E(M), N
+- You should now be in a room with 4 coffins.
+Go W, Up
+
+Go W, S, E, S, S, E, Up (to Exterior)
+Go N, Door (to inside)
+
+Go W, N(K), E
+- Get the Dragon Armor
+Go W, W(M), Up, Up
+
+Go N
+- This is an Ice room.
+- Cut trees so you can freeze the Minotaurs.
+- You can steer the Ice spell to go diagonally.
+--- This can help to avoid having to cut trees that enable Marcie to kill your
+    snowmen.
+
+Go E(K), S, Up (to Exterior), N
+
+BOSS: Garuda
+- Garuda will hang out in an upper corner, shoot some feathers (0-2 sets of 2)
+  then dive diagonally before rising to the opposite corner.
+- When Garuda is on the left side, being in the lower left corner will evade
+  his dive.
+- Likewise, when he is on the right, hide in the lower right.
+- You need to avoid the feathers, though.
+--- Until Garuda is about to dive, stand near the center of the arena, so that
+    his feathers won't be aimed near the corner.
+- Kill Garuda with fully charged Nuke blasts.
+
+- At the end of the fight, use Marcie to top yourself off.
+Go W, W
+
+- Marcie leaves
+Go W, W, W
+- You'll automatically go up the Waterfall.
+
+___________________
+[2V] Tower of Gemma
+
+START: Just arrived at top of waterfall.
+
+Go W, N, Door (Enters Tower of Gemma)
+
+- Goal: defeat the 3 Dragons.
+- DO NOT DEFEAT ENEMIES!
+--- The exception is if you're right about to get a level.
+--- All the enemies here would spells too expensive to justify the kill.
+- Ninjas and Fiend Heads are scary.
+--- Ninjas' projectiles deal around 90 damage.
+--- Fiend Heads and Ninjas can both instantaneously teleport anywhere -
+    including directly on top of you.
+
+S, E, E, N, N, N(K), Up (to Dragon arena), N
+
+BOSS: Dragon
+- Dragon will go through the arena in a circle.
+- Each time he reaches the top center, he will randomly choose whether his
+  next circle is clockwise or counterclockwise.
+- The only vulnerable square is the foot underneath his head.
+--- Do NOT target his head!  His wing will intercept shots that high.
+--- Again: target his FRONT FOOT.
+- Use fully charged Nukes.
+--- Be careful not to let your cast get interrupted by the (weak) fireballs.
+--- Consider intentionally taking a hit from fireballs, then using the
+    invincibility time to cast your spell uninterrupted.
+- When fight is over, use Teleporter.
+
+Go E, Teleport
+Go W, N, W, W(K), Teleport (to Exterior)
+Go E, Teleport (to Interior)
+Go S, W(M), W, S, W, Teleport
+
+Go W, S, S, E
+- This is an Ice room.
+- Steer the Ice spell through the labrynth, across the orb and to the Minotaur
+  on the button.
+--- It may take 2 tries, since there is an extra Minotaur down there.
+Up (to Dragon arena), N
+
+BOSS: Red Dragon
+- This boss has more HP than the last one.  Aside from that, it's identical.
+- Use the Teleporter when done.
+
+Go W, Teleport (to Interior)
+Go N, E, N, Teleport (to Exterior)
+Go E, Teleport (to Interior)
+Go S, E, S, Teleport (to Exterior)
+Go W, Teleport (to Interior)
+Go E, E(K), E, E, E, N
+- This is an Ice room.
+- The correct button is on the left side of the room, second from the bottom.
+
+Go North until stairs.  Take the stairs to the final Dragon arena.
+
+BOSS: Dragon Zombie
+- This boss is like Hydra, except its fireballs aim toward you rather than
+  horizontally.
+- Fire is my choice; Nuke could be okay if you have a lot of X-Ethers left.
+--- If you use Nuke, attack from below so that you don't miss his erratically
+    moving heads.
+- Touching his body hurts really, really bad.
+--- Watch out for his 
+
+___________________
+[2W] Mana Tree and Julius
+
+START: Just teleported after Dragon Zombie
+
+- The path here is one-way, so I won't bother giving directions.
+- You'll get the XCalibr.  Weapons with that ridiculous an abbreviation don't
+  deserve to be equipped.
+
+BOSS: Julius 1
+- This boss remains hard, even if you practice.
+- The 3 Julius clones are equally powerful; there is no "correct" Julius.
+- His Nukes deal about 20 damage, while touching him deals about 100 damage.
+- He can move in a variety of ways, he can slowly fade out and reappear in the
+  destination he was walking to, or he can instantly teleport.
+--- Instant teleporting is allowed to target your current square, so keep
+    yourself above 100 HP.
+- Use fully charged Nukes, and you should kill the Julius clones in 1 hit.
+- He has a shield.  In general, hitting his back will work, but sometimes
+  hitting his side works and sometimes it doesn't.
+
+- You MUST kill the final Julius 1 clone while standing on the left or bottom
+  side of the screen!
+
+
+BOSS: Julius 2
+- This boss is kind of like Golem, only with extra lightning bolts.
+- Julius 2 begins the fight in the center, heading right.
+- On the right side, he may dive down (up to 3 times), and he may dive
+  diagonally.
+--- The diagonal dive is dangerous; don't attack Julius 2 from below when he's
+    on the right or left side or else you cannot avoid the diagonal dive.
+- When he returns to the center from the right side, he may dive down, but
+  will never dive diagonally.
+- When he goes to the left side, he again may dive down (up to 3 times) or
+  dive diagonally.
+- When he returns to the center from the left side, he will never dive; he
+  will always simply move to the right.
+
+
+BOSS: Julius 3
+- This boss has a set pattern; his positions are NOT random.
+- At each position, Julius will raise his hands then fire 2 Nukes toward you.
+- His hands are invincible.
+- Below are instructions.
+--- The format is Enemy Position: Your position, your action.
+
+Top Center: Bottom Center, walk left until shoot up.
+Left: Right Center, shoot left (time shot to intercept Julius's Nukes)
+Upper Right: Upper Left, shoot right (time shot to intercept Julius's Nukes)
+Sort of Right: Upper Left, walk down, shoot right.
+--- This, and the Sort of Left position, are the hardest ones.  Feel free to
+    not attack here.
+Upper Left: Lower Right, walk left, shoot up.
+Sort of Left: Upper Right, walk down, shoot left.
+Upper Right: Lower Left, walk right, shoot up.
+Lower Left: Upper Right, shoot left, walk down to dodge.
+Middle Right: Middle Left, shoot right (time shot to intercept Julius's Nukes)
+Middle Left: Lower Right, walk left, shoot up.
+--- You may win here.
+Lower Right: Upper Left, shoot right, walk down to dodge.
+Lower Middle: Lower Right, take a Nuke hit, shoot left.
+Upper Right: Lower Left, walk right, shoot up.
+Upper Left: Lower Middle, walk left, shoot up.
+
+Julius will then repeat his pattern.
+
+
+--------------------
+[3] Math
+
+This section explains some detail about how combat works in this game.
+
+
+______
+Your max HP = 19 + (Stamina * Stamina) * 0.1
+Fractional HP is truncated.
+
+Each point of Will grants 0.00625 of the Will bar each second.
+
+______
+Enemies have a random amount of HP, varying by about 6%.
+Damage dealt is also is randomized by a few % up or down from the numbers
+below.
+
+______
+When enemies attack you, damage works like this:
+Damage = Enemy's Attack - (Your Stamina + Your Armor + Your Helmet)
+
+Enemies deal different amounts of damage by touching them vs their projectiles.
+--- In general, bosses' projectiles deal less damage than touching them.
+--- In general, normal enemies' projectiles deal more damage than touching.
+Some items (such as the Flame Armor) reduce damage from a certain element.
+
+______
+When you attack an enemy with a physical attack, damage works like this:
+
+Damage = (1 + Will%) * (Power + Weapon Base Power - Enemy's Defense)
+
+Will% is what fraction of the Will meter is full.
+So, if you have a full Will bar, damage is doubled.
+--- The Sword's spinning special attack acts as though Will% = 0.
+--- The Sword's return trip from the Flying Sword Attack acts as though
+    Will% = 0.
+
+Some enemies have an elmental weakness or an elemental resistance.
+Elemental resistance makes attacks of that element deal NO damage.
+Elemental weakness doubles the Weapon's Base Power.
+
+______
+When you attack an enemy with a magical attack, damage works like this:
+
+Damage = (1 + Will%) * (2 * Wisdom + Spell's Base Damage - Magic Resistance)
+         Damage multiplied by 2 if Will% = 100%
+
+So, if you fire uncharged spells, each point of Wisdom grants 2 points of
+damage, whereas for fully charged spells, each Wisdom point grants 8 points of
+damage.
+
+For enemies, Magic Resistance can be different from Defense.
+Elemental resistance and weakness works like it does for weapons.
+
+Although all enemies immune to the Flame Chain are immune to Fire, some
+enemies weak against the Flame Chain are not weak against Fire.
+
+
+--------------------
+[4] Legal
+
+This guide is copyright January 2015 by "Crow!".
+It will be sumbitted to Speed Demos Archive's forum, and for publication on
+GameFAQs.
+Anyone else may not reproduce it in whole or in part without Crow!'s express
+permission.
+
+That said, I'm eager to share.  Just let me know where you want to post this,
+and I'll probably tell you that you can!
+
+Contact:
+Crow! on Speed Demos Archive
+iiCrowii on Twitch: http://www.twitch.tv/iicrowii/

@@ -1,0 +1,911 @@
+{
+  "format": "prose",
+  "true_100_criteria": {
+    "genre": "Action RPG",
+    "categories": [
+      {
+        "name": "Magic Spells",
+        "description": "Learn all eight spells: Cure, Fire, Sleep, Heal, Ice, Mute, Lit and Nuke.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Story Bosses",
+        "description": "Defeat every boss from Jackal to the Mana Tree, including all three dragons of the Tower of Gemma.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Allies",
+        "description": "Recruit every companion: the Girl, the mysterious man, Watts, Bogard, the Chocobo/Chocobot, Amanda, Lester and Marcie.",
+        "tracked_per_chapter": true
+      },
+      {
+        "name": "Achievement Equipment",
+        "description": "Obtain and equip the Were Axe, Morning Star, Blood Sword, Zeus Axe, Dragon Sword, Dragon Armor and Shield, Samurai Armor and Helmet, Aegis Shield and Excalibur.",
+        "tracked_per_chapter": true
+      }
+    ],
+    "chapter_checkpoints": [
+      "spells",
+      "bosses",
+      "allies",
+      "equipment"
+    ]
+  },
+  "playthroughs": 1,
+  "playthrough_notes": "One playthrough earns all 50 achievements. No achievements are mutually exclusive and no chapter replay is needed; the lockouts are timed missables (Fang, Were Axe, Blood Sword, Zeus Axe before Iflyte, Dragon gear and the Wendel boy before Dime Tower, Samurai/Aegis farming and Level/stat/GP grinding before the Mana sanctuary). Commenters advise a second save just before Dime Tower as a safety net.",
+  "settings_notes": "Hardcore mode: no save states. The game's own save is available before every boss. Alternate Power and Wisdom on level-ups so all four stats reach 50.",
+  "fact_ids": [
+    "ra-comments-2-2",
+    "ra-comments-4-2",
+    "ra-comments-5-1",
+    "ra-comments-2-4",
+    "ra-comments-5-3"
+  ],
+  "counter_totals": {
+    "Magic Spells": 8
+  },
+  "missables": [
+    {
+      "achievement_id": 29081,
+      "label": "The Way of the Warrior/Wizard/Tank/Monk (stats to 50)",
+      "deadline": "Every level-up from the first one: alternate Power and Wisdom; over-investing one stat makes the others hard to reach 50",
+      "chapter": 1,
+      "fact_ids": [
+        "ra-comments-2-1",
+        "ra-comments-4-3",
+        "gf1-104-9",
+        "gf3-1-11"
+      ]
+    },
+    {
+      "achievement_id": 29093,
+      "label": "Kill the boy in south-west Wendel",
+      "deadline": "After Julius takes the Girl in Wendel (Glaive's attack), and before entering Dime Tower in chapter 12",
+      "chapter": 4,
+      "fact_ids": [
+        "ra-comments-1-1",
+        "ra-comments-54-1",
+        "ra-comments-54-3",
+        "ra-comments-54-5",
+        "ra-comments-54-8"
+      ]
+    },
+    {
+      "achievement_id": 29023,
+      "label": "Give a Fang to the boy in Jadd",
+      "deadline": "While in Jadd in chapter 6, before the Mt. Rocks bridge collapses in chapter 8",
+      "chapter": 6,
+      "fact_ids": [
+        "gf1-50-6",
+        "ra-comments-18-1",
+        "ra-comments-18-3",
+        "gf2-49-3"
+      ]
+    },
+    {
+      "achievement_id": 29086,
+      "label": "Were Axe in Davias's Mansion",
+      "deadline": "Before defeating Davias (his death warps you to Jadd); keep the axe for Timber!!!",
+      "chapter": 7,
+      "fact_ids": [
+        "gf1-53-6",
+        "gf2-43-3",
+        "gf1-55-1"
+      ]
+    },
+    {
+      "achievement_id": 29087,
+      "label": "Blood Sword in the Dark Castle knight room",
+      "deadline": "Before defeating the Dark Lord in chapter 9",
+      "chapter": 9,
+      "fact_ids": [
+        "gf1-61-8",
+        "gf2-51-4",
+        "ra-comments-48-2",
+        "gf1-62-5"
+      ]
+    },
+    {
+      "achievement_id": 29088,
+      "label": "Zeus Axe in the Undersea Volcano",
+      "deadline": "Before fighting Iflyte; never sell it (needed for Timber!!!)",
+      "chapter": 11,
+      "fact_ids": [
+        "gf1-72-4",
+        "gf2-58-4",
+        "ra-comments-3-2",
+        "ra-comments-55-1"
+      ]
+    },
+    {
+      "achievement_id": 29068,
+      "label": "Iflyte and the Rusty Sword",
+      "deadline": "Get the Zeus Axe before Iflyte and take the Rusty Sword at once; going back afterwards cost one player this achievement",
+      "chapter": 11,
+      "fact_ids": [
+        "ra-comments-3-2",
+        "ra-comments-29-1",
+        "gf1-73-5"
+      ]
+    },
+    {
+      "achievement_id": 29089,
+      "label": "Dragon Sword in the Cave of Ruins",
+      "deadline": "Before entering Dime Tower",
+      "chapter": 12,
+      "fact_ids": [
+        "gf1-74-4",
+        "gf2-62-2",
+        "gf2-63-2"
+      ]
+    },
+    {
+      "achievement_id": 29090,
+      "label": "Dragon Shield (Cave of Ruins) + Dragon Armor (Dime Tower)",
+      "deadline": "Take the Dragon Shield before entering Dime Tower; equip both together in Dime Tower",
+      "chapter": 12,
+      "fact_ids": [
+        "gf1-74-3",
+        "gf1-75-8",
+        "gf2-63-2"
+      ]
+    },
+    {
+      "achievement_id": 29091,
+      "label": "Samurai Armor and Samurai Helmet drops",
+      "deadline": "Before passing the first screens of the Mana sanctuary (no way back)",
+      "chapter": 13,
+      "fact_ids": [
+        "gf1-104-12",
+        "gf2-67-1",
+        "ra-comments-52-2",
+        "gf3-8-8"
+      ]
+    },
+    {
+      "achievement_id": 29092,
+      "label": "Aegis Shield from Elephants",
+      "deadline": "Before passing the first screens of the Mana sanctuary (no way back)",
+      "chapter": 13,
+      "fact_ids": [
+        "gf2-67-3",
+        "ra-comments-53-1",
+        "gf3-8-8"
+      ]
+    },
+    {
+      "achievement_id": 29094,
+      "label": "Final blow on the Mana Tree with an axe",
+      "deadline": "Keep the Were Axe or Zeus Axe until the final battle; without one you must restart the game",
+      "chapter": 13,
+      "fact_ids": [
+        "ra-comments-55-1",
+        "ra-comments-55-3",
+        "ra-comments-55-4"
+      ]
+    }
+  ],
+  "ponr": [
+    {
+      "label": "Mt. Rocks bridge collapse",
+      "chapter": 8,
+      "warning": "Entering the cave past Golem collapses the bridge behind you and you cannot return; you must finish the Glaive Castle events before leaving. Finish the Fang and Were Axe first.",
+      "fact_ids": [
+        "gf2-49-3",
+        "gf1-59-6",
+        "gf3-4-39"
+      ]
+    },
+    {
+      "label": "Entering Dime Tower",
+      "chapter": 12,
+      "warning": "Entering Dime Tower closes off the world map. Afterwards the only route is the waterfall to the Tower of Gemma; Wendel and the Cave of Ruins are gone.",
+      "fact_ids": [
+        "gf2-63-2",
+        "gf3-7-7",
+        "ra-comments-54-5",
+        "ra-comments-54-6"
+      ]
+    },
+    {
+      "label": "Mana sanctuary",
+      "chapter": 13,
+      "warning": "After the first four screens of the Mana sanctuary you are trapped until Julius is beaten. Finish Samurai/Aegis farming, Level 50, all stats 50 and 50,000 GP first, and carry Elixirs.",
+      "fact_ids": [
+        "gf3-8-8"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Escape from Glaive Castle",
+      "areas": [
+        "Glaive_Castle",
+        "Jackal"
+      ],
+      "achievement_ids": [
+        28942
+      ],
+      "fact_ids": [
+        "gf1-30-1",
+        "gf1-30-2",
+        "gf1-31-1",
+        "gf1-31-4",
+        "gf1-32-1",
+        "gf1-32-2",
+        "gf2-26-2",
+        "gf4-1-1",
+        "gf4-1-2",
+        "gf4-1-3",
+        "gf4-1-4",
+        "gf3-2-1",
+        "gf3-2-2",
+        "gf2-25-1",
+        "gf1-29-2",
+        "gf1-28-3"
+      ],
+      "notes": "Prologue only. The Glaive Castle location also holds facts for the second visit (Chimera, Blood Sword, Dark Lord); those belong to chapter 9 and must not be written here. Fight Jackal twice, escape, and get pushed down the waterfall by the Dark Lord (Fall to Earth). Level-up choices start here: see the Way of achievements warning.",
+      "counters": {}
+    },
+    {
+      "n": 2,
+      "title": "Topple, Bogard and Kett's",
+      "areas": [
+        "Topple",
+        "Bogard",
+        "Bogards_House",
+        "East_Cave",
+        "Ketts"
+      ],
+      "achievement_ids": [
+        28943,
+        28944,
+        28945
+      ],
+      "fact_ids": [
+        "gf1-33-10",
+        "gf1-33-13",
+        "gf2-26-3",
+        "gf4-2-4",
+        "gf5-5-2",
+        "gf1-34-1",
+        "gf1-34-2",
+        "gf1-34-4",
+        "gf2-27-1",
+        "gf3-2-8",
+        "gf1-35-1",
+        "gf1-36-4",
+        "gf2-29-1",
+        "gf4-2-7",
+        "gf5-5-7",
+        "checklist-items-7-1",
+        "gf1-28-4",
+        "gf2-28-2",
+        "map-overworld-1-1",
+        "checklist-items-13-1",
+        "gf2-17-2"
+      ],
+      "notes": "Rescue the Girl east of Topple (defeat the monsters, talk to Hasim). Talk to Bogard three times for the Mattock in his back room, use it in the East Cave, then rest at Kett's to learn Cure. The Girl is taken while you sleep. Kett's is visited again in chapter 3 for its dungeon; this chapter covers only the arrival and the rest.",
+      "counters": {
+        "Magic Spells": 1
+      }
+    },
+    {
+      "n": 3,
+      "title": "Marsh Cave and the Vampire",
+      "areas": [
+        "Marshes",
+        "Marsh_Cave",
+        "Hydra",
+        "Ketts",
+        "Werewolf",
+        "Mr_Lee"
+      ],
+      "achievement_ids": [
+        28946,
+        28947,
+        29002,
+        29078
+      ],
+      "fact_ids": [
+        "gf1-37-1",
+        "gf5-5-8",
+        "gf4-3-1",
+        "gf1-38-1",
+        "gf4-3-2",
+        "gf1-38-2",
+        "gf1-38-10",
+        "gf1-108-2",
+        "gf1-39-1",
+        "gf1-39-5",
+        "gf4-3-5",
+        "gf1-40-2",
+        "gf1-40-3",
+        "gf1-40-4",
+        "gf1-40-11",
+        "gf1-41-1",
+        "gf1-41-2",
+        "gf1-109-1",
+        "gf2-31-6",
+        "gf3-10-1",
+        "checklist-items-11-4",
+        "checklist-items-13-3",
+        "gf1-89-1",
+        "gf2-18-1"
+      ],
+      "notes": "Kill all the lizardmen three screens east and one south of Kett's for the Bronze Key, then open Marsh Cave. Talk to the bard-like man near the entrance so he joins (Mysterious Marsh Man). Defeat Hydra for the Fire book and the Mirror, return to Kett's, show the Mirror to the guard (Werewolf), and rescue the Girl from the coffin before beating Mr. Lee. Squire (Level 10, 1101 EXP) normally pops in this chapter; grind on respawning monsters if not.",
+      "counters": {
+        "Magic Spells": 2
+      }
+    },
+    {
+      "n": 4,
+      "title": "Wendel, the Silver Mine and Gaia",
+      "areas": [
+        "Wendel",
+        "Wendel_Boy",
+        "Wendel_Area",
+        "Dwarf_Cave",
+        "Silver_Mine",
+        "Megapede",
+        "Gaia"
+      ],
+      "achievement_ids": [
+        29003,
+        29093,
+        29004,
+        29005
+      ],
+      "fact_ids": [
+        "gf1-42-1",
+        "gf1-42-2",
+        "gf4-3-10",
+        "gf1-42-4",
+        "gf4-3-11",
+        "gf1-42-5",
+        "ra-comments-1-1",
+        "ra-comments-54-1",
+        "ra-comments-54-3",
+        "ra-comments-54-8",
+        "ra-comments-54-9",
+        "gf1-43-1",
+        "gf1-43-2",
+        "gf1-43-3",
+        "gf2-35-1",
+        "gf1-44-1",
+        "gf1-44-2",
+        "gf2-35-3",
+        "gf1-45-1",
+        "gf1-45-2",
+        "gf2-37-3",
+        "gf4-4-5",
+        "gf1-46-2",
+        "gf4-4-6",
+        "gf3-3-23",
+        "checklist-items-5-3",
+        "gf1-104-11",
+        "checklist-items-11-7",
+        "checklist-items-13-4",
+        "gf2-34-3",
+        "gf2-37-5",
+        "gf2-37-6",
+        "gf2-18-3"
+      ],
+      "notes": "In Wendel the man from Marsh Cave reveals himself as Julius, says the town is under attack and takes the Girl (You Spoony Bard!). Glaive's invasion has now happened: kill the boy in the south-west corner of Wendel (the one who says 'Dwarf Cave is to the west') right away for War Is Hell; before this he is invincible. Then buy Oil south of Dwarf Cave, ride the Silver Mine cart, recruit Watts, beat Megapede for Silver, equip any Silver item and cross Gaia; Bogard joins outside.",
+      "counters": {
+        "Magic Spells": 1
+      }
+    },
+    {
+      "n": 5,
+      "title": "The Airship and Menos",
+      "areas": [
+        "Refueling_Lake",
+        "Airship",
+        "Menos"
+      ],
+      "achievement_ids": [
+        29006,
+        29022
+      ],
+      "fact_ids": [
+        "gf1-46-3",
+        "gf1-46-4",
+        "gf2-37-7",
+        "gf1-47-1",
+        "gf1-47-2",
+        "gf1-47-3",
+        "gf2-38-2",
+        "gf4-4-8",
+        "gf4-5-2",
+        "gf5-11-4",
+        "gf4-5-3",
+        "gf1-48-2",
+        "gf1-49-1",
+        "gf1-49-2",
+        "gf2-38-3",
+        "gf3-3-29",
+        "gf4-6-1",
+        "gf1-106-1",
+        "ra-comments-17-1",
+        "gf1-49-3",
+        "gf1-49-4",
+        "gf2-18-4"
+      ],
+      "notes": "Board Glaive's Airship at the refueling lake, talk to the Girl through the window for the Pendant, and get blasted off by Julius (I Believe I Can Fly...). You land in Menos, where Amanda takes the Pendant. Hatch the chocobo egg in the forest north-east of Menos (Familiar Feathered Friend).",
+      "counters": {}
+    },
+    {
+      "n": 6,
+      "title": "Jadd, the Oasis and Medusa's Cave",
+      "areas": [
+        "Jadd",
+        "Fang",
+        "Desert",
+        "Medusas_Cave",
+        "Medusa"
+      ],
+      "achievement_ids": [
+        29023,
+        29058,
+        29079
+      ],
+      "fact_ids": [
+        "gf1-49-5",
+        "gf1-49-6",
+        "gf1-50-5",
+        "gf1-50-6",
+        "gf4-5-10",
+        "ra-comments-18-1",
+        "ra-comments-18-2",
+        "ra-comments-18-3",
+        "ra-comments-18-5",
+        "ra-comments-18-10",
+        "gf1-100-2",
+        "gf1-51-1",
+        "gf2-39-2",
+        "gf3-3-36",
+        "gf5-12-2",
+        "gf1-51-2",
+        "gf1-114-3",
+        "gf1-51-4",
+        "gf1-51-6",
+        "gf1-51-8",
+        "gf1-52-3",
+        "gf1-115-3",
+        "gf2-42-1",
+        "gf3-10-2",
+        "checklist-items-9-1",
+        "gf1-50-7",
+        "gf1-50-8",
+        "gf1-50-9",
+        "gf2-39-1",
+        "checklist-items-11-1",
+        "gf1-104-14"
+      ],
+      "notes": "Get a Fang from the lizards in the desert outside Jadd and give it to the boy next to Jadd's Item Shop for To Infinity, and Beyond!. Do it now, before leaving the Jadd region (the Mt. Rocks bridge in chapter 8 is a Point of No Return); keep spare Fangs in case it does not pop. Walk a figure 8 around the two palm trees to open Medusa's Cave, recruit Amanda, take the Ice spell book on Floor 1, beat Medusa and put Amanda out of her misery for her Tears (Mercy). Knight (Level 25, 16,254 EXP) normally pops around here.",
+      "counters": {
+        "Magic Spells": 1
+      }
+    },
+    {
+      "n": 7,
+      "title": "Davias's Mansion",
+      "areas": [
+        "Davias_Mansion",
+        "Were_Axe",
+        "Lester",
+        "Davias"
+      ],
+      "achievement_ids": [
+        29086,
+        29059,
+        29060
+      ],
+      "fact_ids": [
+        "gf1-53-2",
+        "gf1-53-3",
+        "gf1-53-4",
+        "gf1-53-5",
+        "gf1-53-6",
+        "gf1-53-7",
+        "gf2-43-1",
+        "gf2-43-3",
+        "ra-comments-47-1",
+        "checklist-items-7-3",
+        "gf1-116-4",
+        "gf1-54-1",
+        "gf1-54-2",
+        "gf2-44-1",
+        "gf1-55-1",
+        "gf4-6-9",
+        "gf1-104-10"
+      ],
+      "notes": "On Floor 1 freeze a monster with Ice, push the snowman onto the switch, and clear the room for the Were Axe; equip it at once (Kevin's Worst Nightmare) and never sell it, because an axe is needed for Timber!!! in the final chapter. Equip Amanda's Tears and talk to the parrot to free Lester. Davias's death warps you back to Jadd, so take everything in the mansion first.",
+      "counters": {}
+    },
+    {
+      "n": 8,
+      "title": "Mt. Rocks and the Golem Cave",
+      "areas": [
+        "Cave_North_of_Jadd",
+        "Metal_Crab",
+        "Mt_Rocks",
+        "Golem_Cave",
+        "Cyclops",
+        "Golem",
+        "Morning_Star"
+      ],
+      "achievement_ids": [
+        29061
+      ],
+      "fact_ids": [
+        "gf4-7-1",
+        "gf1-55-3",
+        "gf1-55-5",
+        "gf1-56-1",
+        "gf1-56-3",
+        "gf1-56-4",
+        "gf2-45-1",
+        "gf1-57-5",
+        "gf1-58-1",
+        "gf1-58-7",
+        "gf1-117-5",
+        "gf2-48-3",
+        "gf1-58-6",
+        "gf1-59-1",
+        "gf1-59-4",
+        "gf1-59-5",
+        "gf2-49-1",
+        "gf2-49-3",
+        "gf3-4-39",
+        "gf1-55-4",
+        "gf1-56-5",
+        "gf1-56-6",
+        "gf1-56-7",
+        "gf1-56-8",
+        "gf2-46-1",
+        "gf2-46-2",
+        "checklist-items-13-6",
+        "checklist-items-13-7",
+        "gf1-104-4"
+      ],
+      "notes": "Lester clears the poison gas north of Jadd and teaches Mute. Beat the Metal Crab, climb Mt. Rocks, and in the Golem Cave defeat the Cyclops for the Morning Star; equip it right away (Balls of Steel). Golem gives Lit. Before going on, finish everything in the Jadd/Mt. Rocks region (Fang, Were Axe): entering the cave past Golem collapses the bridge behind you.",
+      "counters": {
+        "Magic Spells": 2
+      }
+    },
+    {
+      "n": 9,
+      "title": "Return to Glaive",
+      "areas": [
+        "Dark_Castle",
+        "Chimera",
+        "Girl_Rescue",
+        "Blood_Sword",
+        "Dark_Lord",
+        "Mana_Waterfall"
+      ],
+      "achievement_ids": [
+        29062,
+        29087,
+        29063,
+        29064
+      ],
+      "fact_ids": [
+        "gf1-59-6",
+        "gf4-7-7",
+        "gf1-60-1",
+        "gf1-60-2",
+        "gf1-60-3",
+        "gf1-60-4",
+        "gf1-60-5",
+        "gf1-119-1",
+        "gf1-61-3",
+        "gf1-61-4",
+        "gf3-5-3",
+        "gf1-61-5",
+        "gf1-61-6",
+        "gf1-61-7",
+        "gf1-61-8",
+        "gf1-61-9",
+        "gf2-51-1",
+        "gf2-51-2",
+        "gf2-51-3",
+        "gf2-51-4",
+        "gf2-51-5",
+        "gf4-7-8",
+        "gf4-7-9",
+        "ra-comments-48-1",
+        "checklist-items-7-18",
+        "gf3-4-40",
+        "gf1-62-1",
+        "gf1-62-4",
+        "gf1-62-5",
+        "gf2-52-2",
+        "gf2-52-3",
+        "gf4-7-10",
+        "gf4-7-11",
+        "gf1-89-3",
+        "checklist-items-11-6"
+      ],
+      "notes": "Coming out by the waterfall after the bridge collapse puts you back in the Glaive Empire on the way to rescue the Girl (Return of the Gemma). Bring at least 3 Keys. Beat Chimera, free the Girl from her cell, and in the knight room on Floor 2 defeat every enemy for the Blood Sword; equip it before the Dark Lord (Drink the Blood of My Enemies). After the Dark Lord, Julius makes the Girl reverse the waterfall and strikes you down the cliff (Glaive Strikes Back); the chocobo carries you to Ish.",
+      "counters": {}
+    },
+    {
+      "n": 10,
+      "title": "Ish, Lorim and the Ice Cave",
+      "areas": [
+        "Ish",
+        "Chocobot",
+        "Lorim",
+        "Snowfields",
+        "Ice_Cave",
+        "Kary",
+        "Ammonite_Coast"
+      ],
+      "achievement_ids": [
+        29065,
+        29066
+      ],
+      "fact_ids": [
+        "gf1-63-1",
+        "gf1-63-14",
+        "gf2-53-1",
+        "gf5-19-2",
+        "gf1-64-2",
+        "gf1-64-3",
+        "gf4-8-7",
+        "gf1-64-4",
+        "gf1-65-2",
+        "gf1-66-1",
+        "gf1-66-4",
+        "gf1-66-5",
+        "gf1-66-8",
+        "gf1-67-1",
+        "gf1-67-3",
+        "gf1-68-1",
+        "gf2-56-2",
+        "gf2-56-3",
+        "gf1-68-2",
+        "gf2-56-4",
+        "gf5-21-2",
+        "gf1-65-3",
+        "gf2-59-4",
+        "gf1-89-2"
+      ],
+      "notes": "Dr. Bowow turns the chocobo into the Chocobot (Chocobo 2.0). Sail back to Wendel, where a girl says Cibba went to Lorim; if War Is Hell was missed in chapter 4, the boy in south-west Wendel can still be killed now. In Lorim the king asks you to stop Kary. Clear the Ice Cave and beat Kary (Defroster), then talk to Cibba in Lorim with a free inventory slot for the Bone Key.",
+      "counters": {}
+    },
+    {
+      "n": 11,
+      "title": "The Lich, the Kraken and the Undersea Volcano",
+      "areas": [
+        "Lich_Cave",
+        "Lich",
+        "Nuke",
+        "Plain_of_Floating_Rocks",
+        "Krakens_Cave",
+        "Kraken",
+        "Undersea_Volcano",
+        "Zeus_Axe",
+        "Iflyte",
+        "Elixir_Island"
+      ],
+      "achievement_ids": [
+        29069,
+        29067,
+        29088,
+        29068
+      ],
+      "fact_ids": [
+        "gf1-68-3",
+        "gf1-68-4",
+        "gf1-69-1",
+        "gf1-70-1",
+        "gf2-61-1",
+        "gf1-70-3",
+        "gf1-70-5",
+        "gf5-21-6",
+        "gf1-71-1",
+        "gf1-71-2",
+        "gf1-71-3",
+        "gf2-58-1",
+        "gf2-58-2",
+        "gf1-72-1",
+        "gf1-72-2",
+        "gf1-72-3",
+        "gf1-72-4",
+        "gf1-72-5",
+        "gf1-72-7",
+        "gf2-58-4",
+        "gf2-74-9",
+        "ra-comments-49-1",
+        "ra-comments-3-2",
+        "ra-comments-29-1",
+        "gf1-73-2",
+        "gf1-73-5",
+        "gf2-59-1",
+        "gf2-59-2",
+        "checklist-items-7-14",
+        "gf1-70-2",
+        "gf1-70-4"
+      ],
+      "notes": "Take Nuke from the Lich first (gf1's order), then use the Bone Key on Kraken's Cave in the Plain of Floating Rocks. After the Kraken, the island cave leads into the Undersea Volcano. On B-Floor 3 take the Zeus Axe and equip it (Duck Hunter) BEFORE fighting Iflyte: a player who went back for it after Iflyte lost the Iflyte achievement. Keep the Zeus Axe for Timber!!!. Take the Rusty Sword from Iflyte's chest immediately.",
+      "counters": {
+        "Magic Spells": 1
+      }
+    },
+    {
+      "n": 12,
+      "title": "The Cave of Ruins and Dime Tower",
+      "areas": [
+        "Desert_of_Crystal",
+        "Cave_of_Ruins",
+        "Dragon_Shield",
+        "Dragon_Sword",
+        "Mantis_Ant",
+        "Dime_Tower",
+        "Marcie",
+        "Dragon_Armor",
+        "Garuda"
+      ],
+      "achievement_ids": [
+        29089,
+        29090,
+        29070,
+        29071
+      ],
+      "fact_ids": [
+        "gf1-74-1",
+        "gf1-103-1",
+        "gf1-74-2",
+        "gf1-74-3",
+        "gf1-74-4",
+        "gf1-74-5",
+        "gf2-62-1",
+        "gf2-62-2",
+        "ra-comments-50-1",
+        "gf1-74-6",
+        "gf1-75-1",
+        "gf3-7-6",
+        "gf1-75-2",
+        "gf2-63-2",
+        "ra-comments-2-2",
+        "ra-comments-54-5",
+        "gf2-64-1",
+        "gf1-75-5",
+        "gf1-75-8",
+        "gf2-65-1",
+        "ra-comments-51-1",
+        "gf1-76-1",
+        "gf1-76-4",
+        "ra-comments-4-1",
+        "gf2-59-5",
+        "gf2-61-4"
+      ],
+      "notes": "Cast Nuke on the right-hand crystal to open the Cave of Ruins. On B-Floor 2 take the Dragon Shield and the Dragon Sword; equip the sword (Sierra's Blade). Beat Mantis Ant and use the Rusty Sword on the tile to raise Dime Tower. Before entering Dime Tower, check that War Is Hell, To Infinity and Beyond!, and the Dragon Sword are done and buy plenty of Keys: entering is a Point of No Return. Marcie joins inside. Equip the Dragon Armor from Floor 4 together with the Dragon Shield (Larc's Leathers). Robots Can't Jump pops when Marcie throws you across after Garuda.",
+      "counters": {}
+    },
+    {
+      "n": 13,
+      "title": "The Tower of Gemma and the Tree of Mana",
+      "areas": [
+        "Mana_Falls",
+        "Tower_of_Gemma",
+        "Dragon",
+        "Red_Dragon",
+        "Dragon_Zombie",
+        "Excalibur",
+        "Samurai_Gear",
+        "Aegis",
+        "Tree_of_Mana",
+        "Julius_1",
+        "Julius_2",
+        "Julius_3"
+      ],
+      "achievement_ids": [
+        29072,
+        29073,
+        29091,
+        29092,
+        29080,
+        29081,
+        29082,
+        29083,
+        29084,
+        29085,
+        29074,
+        29075,
+        29076,
+        29094,
+        29077
+      ],
+      "fact_ids": [
+        "gf1-76-5",
+        "gf4-10-8",
+        "gf1-77-1",
+        "gf1-77-2",
+        "gf1-77-5",
+        "gf1-77-6",
+        "gf1-78-1",
+        "gf1-78-7",
+        "gf1-80-1",
+        "gf1-80-2",
+        "gf1-130-2",
+        "gf1-80-3",
+        "gf2-70-3",
+        "gf1-99-72",
+        "gf1-99-73",
+        "gf1-99-74",
+        "gf1-104-12",
+        "gf2-67-1",
+        "gf2-67-3",
+        "gf2-76-6",
+        "ra-comments-52-2",
+        "ra-comments-52-3",
+        "ra-comments-52-5",
+        "ra-comments-52-6",
+        "ra-comments-53-1",
+        "ra-comments-53-3",
+        "ra-comments-53-5",
+        "ra-comments-53-6",
+        "gf2-70-4",
+        "gf3-10-3",
+        "ra-comments-2-1",
+        "ra-comments-4-3",
+        "gf1-104-9",
+        "gf3-1-11",
+        "gf1-25-1",
+        "gf1-25-2",
+        "gf1-25-3",
+        "ra-comments-46-1",
+        "gf3-8-8",
+        "gf1-81-1",
+        "gf1-81-2",
+        "gf1-82-1",
+        "gf1-82-3",
+        "gf1-82-4",
+        "gf2-71-1",
+        "gf2-72-1",
+        "gf5-27-5",
+        "ra-comments-55-1",
+        "ra-comments-55-2",
+        "ra-comments-55-3",
+        "ra-comments-55-5",
+        "gf4-11-1",
+        "gf1-104-8",
+        "gf1-104-16"
+      ],
+      "notes": "Ride the reversed waterfall up to the Tower of Gemma. Defeat Dragon, Red Dragon and Dragon Zombie (Dragon Slayer); the Lady on Floor 13 turns the Rusty Sword into Excalibur (I've Got the Power!). Farm the drop-chest trick with a full item inventory: Ninjas/Samurai for Samurai Armor, Demon Heads for the Samurai Helmet, Elephants (near the final boss) for the Aegis Shield; equip them. Grind here to Level 50 and to 50 in all four stats, and hold 50,000 GP at once, before going up to Julius: after the first screens of the Mana sanctuary you cannot leave. In the final fight against the Mana Tree, switch to the Were Axe or Zeus Axe for the last hit (Timber!!!); the Battle Axe cannot damage it.",
+      "counters": {}
+    }
+  ],
+  "unverifiable_achievement_ids": [],
+  "open_questions": [
+    {
+      "question": "Does the first Fang always trigger To Infinity, and Beyond!?",
+      "guidance": "Comments disagree (some needed a second or third Fang after Medusa; later players say it was fixed). Give a Fang before opening the cave and carry spare Fangs; if it does not pop, give another after beating Medusa.",
+      "chapters": [
+        6
+      ]
+    },
+    {
+      "question": "Does leaving Iflyte's room before taking the Rusty Sword stop the achievement?",
+      "guidance": "Unanswered in the comments. Take the Zeus Axe first, then after Iflyte open the chest immediately without leaving the room.",
+      "chapters": [
+        11
+      ]
+    },
+    {
+      "question": "Can Wendel be revisited after Dime Tower?",
+      "guidance": "Commenters believe not. Treat War Is Hell as lost once you enter Dime Tower; do it in chapter 4.",
+      "chapters": [
+        4,
+        10,
+        12
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3427 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+               F I N A L   F A N T A S Y   A D V E N T U R E 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                         A complete and unofficial
+               Final Fantasy Adventure (for Nintendo Gameboy) 
+                     Walkthrough and FAQ, FINAL Version
+                              By: “A” Tadeo
+                        Created: October 16, 2000
+                     Final Release: December 10, 2000
+                    Mail me at: aaron20@edsamail.com.ph
+                              ICQ#: 12218741
+
+
+                           -=-=-=-=-=-=-=-=-=-=-=
+                                 DISCLAIMER
+                           =-=-=-=-=-=-=-=-=-=-=-
+
+This Walkthrough/FAQ is created for personal use only. You must not use it for 
+anything that gains profit. Specifically Magazines, Game Guides, Commercial 
+Web Sites. You’re also not allowed to rip off part/s of this Walkthrough/FAQ 
+and put it on your own Walkthrough/FAQ. Anyone doing this is guilty of 
+“plagiarism”, the act of stealing and passing off of ideas and words of 
+another as one’s own without crediting the source.
+
+You also cannot use this Walkthrough/FAQ as a guide for you to make your own 
+Walkthrough/FAQ, you must do everything there is to do in the game yourself or 
+have others give info about your game and give them proper credit. You can 
+copy the layout though. 
+
+You can put this Walkthrough/FAQ on your non-commercial or non-profit web site 
+provided that not a single character has been edited or removed and you MUST 
+have permission from me in order to do so. You can also, print a copy of the 
+entire walkthrough or a part of it, provided you only use it for personal 
+purposes. Remember “You don’t have to steal, just ask.” - B.O.F.III
+
+
+                           -=-=-=-=-=-=-=-=-=-=-=
+                                INTRODUCTION
+                           =-=-=-=-=-=-=-=-=-=-=-
+
+This game has got to be one of the best games for the Nintendo Gameboy. I have 
+4 gaming systems with me. A PC, the Gameboy, Super Nintendo (SNES), and the 
+Sony Playstation (PSX). My favorite RPG for PC is Diablo (for me, this game is 
+a RPG). For Gameboy, this one. For the Super Nintendo, Chrono Trigger. For the 
+Playstation, Chrono Cross. 
+
+This game was the FIRST RPG I’ve played and this game is the reason why I love 
+RPG games the most (it doesn’t matter what console as long as it is good and 
+well worth the money). This is also the game that introduced me to the 
+HP/MP/EXP/character stats system. I think I will be able to accomplish this 
+far earlier that the time I spent with my other guides for console games. Now, 
+I can type and play at the same time. 
+
+On to the game. The Tree of Mana sits on top of the clouds at Mount Illusia. 
+It is foretold that this tree gives immense power to anyone who touches it. 
+Once, Vandole tried to use this power for evil. Although they did get their 
+hands on the Tree, the Gemma Knights were able to abolish them. The Gemma 
+Knights are the protectors of the Mana Tree and the Mana Family as well as for 
+the whole world. Now, a new empire sets it goal at getting the power of the 
+Mana Tree. Again, to be used for evil purposes. It’s up to our Hero to fight 
+to protect the Mana Tree and the World.
+
+
+                           -=-=-=-=-=-=-=-=-=-=-=
+                                  CONTENTS
+                           =-=-=-=-=-=-=-=-=-=-=-
+
+                     I.     Updates/Revisions
+                     II.    Game Information
+                            A. Game Controls         
+                            B. Game Menu
+                            C. Game Basics
+                               - Moving about
+                               - Saving/Loading your game
+                               - Attacking and Battle system
+                               - Magic system (Magic List)
+                               - Items
+                               - Equipments
+                               - NPCs
+                               - Leveling Up 
+                               - MAX Attacks
+                            D. Character Stats
+                            E. Character Conditions
+                     III.   Character Information)
+                            A. Supporting Characters
+                            B. Arch-Enemies
+                     IV.    Walkthrough
+                     V.     World Map
+                     VI.    Item List
+                     VII.   Weapons
+                     VIII.  Armors
+                     IX.    Helmets
+                     X.     Shields
+                     XI.    Enemy List
+                     XII.   Shops
+                     XIII.  Gameplay Tips
+                     XIV.   FAQs
+                     XV.    Game Shark Codes
+                     XVI.   Credits/Acknowledgements
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=-
+                              UPDATES/REVISIONS
+                          =-=-=-=-=-=-=-=-=-=-=-=-=
+
+FINAL RELEASE
+-------------
+I corrected some minor flaws in the guide. This should now be the last 
+release. No more contributions/correction for this game will be accepted, 
+sorry. Thanks a lot to the readers.
+
+FINAL Version (Started: December 5, 2000)
+-----------------------------------------
+Shucks! I forgot to list Marcie at the NPC list. I also updated the Credits 
+Section.
+
+FINAL Version (Started: December 4, 2000)
+-----------------------------------------
+Sorry  for a premature  Final Version. I’ve included a  new web site and  some 
+Game Shark Codes for further completion of the guide. That’s it for the guide. 
+Now, it is finished. :)
+        - Game Shark Codes
+        - New Web Site (FAQ #1)
+        - Credits Section Updated
+
+FINAL Version (Started: November 15, 2000)
+-----------------------------------------
+The guide is now finished! I’ll be able to concentrate on FFIX and Chrono 
+Cross now. Thank you for reading the guide :)
+        - Walkthrough Update:
+          FINISHED AT LAST!!! Temple of Mana walkthrough included the most
+          Powerful equipments in the game namely, Samurai Helmet and Armor,
+          and the Aegis Shield.
+        - Armor/Helmet/Weapon/Shield List Finished!
+        - Enemy List Complete
+        - new FAQs! (a lot)
+
+Version 1.11 (Started: November 14, 2000)
+-----------------------------------------
+        - Walkthrough Update:
+          Finished up to the start of Dime Tower
+        - Weapon, Armor, Shield List Update
+        - Items List Update
+        - Shop List Update
+
+Version 1.10 (Started: November 13, 2000)
+-----------------------------------------
+        - Walkthrough Update:
+          - finished up to the beginning of the Cave of Ruins
+        - Item List Updated
+
+Version 1.09 (Started: November 11, 2000)
+-----------------------------------------
+        - Walkthrough Update:
+          - Finished after getting the Legendary Sword
+        - Weapon List Updated
+        - Enemy List Updated
+
+Version 1.08 (Started: November 10, 2000)
+-----------------------------------------
+(slowly but surely, this will be completed.)
+        - Walkthrough Update:
+          - up to beginning of the Cave of Floatrocks
+        - Weapon/Armor/Shield Lists update
+        - Items Updated
+        - Shop List Updated
+
+Version 1.07 (Started: November 1, 2000)
+----------------------------------------
+(I apologize for a late update. If you’re watching CNN, you’ll know that 2 
+storms (one of which is a direct-hit) passed through Manila, Philippines 
+(where I’m at) and that’s the reason I wasn’t able to update. Major blackouts 
+occurred here and the electricity ran normally just today(11/4). Anyway, 
+here’s the update!)
+        - Walkthrough Update:
+          - Finished up to Ammonite Coast
+        - Weapon List Update
+        - Revised Enemy List
+
+Version 1.06 (Started: October 29, 2000)
+----------------------------------------
+H A P P Y    H A L L O V E E N ! ! !   - Harle
+        - Walkthrough Update:
+          - Finished up to the middle of the Cave of Snowfields
+        - Enemy List updated
+
+Version 1.05 (Started: October 27, 2000)
+----------------------------------------
+        - Walkthrough Update:
+          - Finished up to the beginning of the quest for the Legendary Sword
+        - New Supporting Character
+        - Weapon/Armor/Shield List Updated
+        - Item List Updated
+        - Shop List Updated
+
+Version 1.04 (Started: October 25, 2000)
+----------------------------------------
+        - Walkthrough Update:
+          - Finished up to the beginning of Castle Glaive
+        - Weapon/Armor/Shield List Updated
+        - Shop List Updated
+        - New Gameplay Tip
+
+Version 1.03 (Started: October 22, 2000)
+----------------------------------------
+        - Walkthrough Update:
+          Finished up to the beginning of Cave of Mt. Rocks
+        - Weapon List Updated
+        - Enemy List Updates
+        - Shop List Updated
+
+Version 1.02 (Started: October 18, 2000)
+----------------------------------------
+        - Walkthrough Update:
+          Finished up to the beginning of Davias’ Mansion
+        - New Contact Information
+        - NPC list updated
+        - Weapons/Helmets/Armors Lists Updated
+        - Shop List Updated
+        - Item List Updated
+        - New FAQ
+        - Correction on Version Number
+
+Version 1.01 (Started: October 17, 2000)
+----------------------------------------
+        - Walkthrough Update:
+          - Finished up to the end of the Airship
+        - Weapons/Helmets/Armors Lists Updated
+        - Shop List Updated
+        - Item List Updated
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=-
+                              GAME  INFORMATION
+                          =-=-=-=-=-=-=-=-=-=-=-=-=
+
+----------------
+A. GAME CONTROLS
+----------------
+
+                         -----------------------
+                        |                       |
+                        |    ---------------    |
+                        |   |               |   |
+                        |   |               |   |
+                        |   |               |   |
+                        |   |               |   |
+                        |   |               |   |
+                        |   |               |   |
+                        |    ---------------    |
+                        |    _              _   |
+                        |  _| |_        _  |A|  |
+                        | |_ D _|      |B|  -   |
+                        |   |_|         -       |
+                        |                       |
+                        |        //  //         |
+                        |       //  //          |
+                        |       Se  St          |
+                        |              \\\\\\\  |
+                        |               \\\\\\\ |
+                         -----------------------
+
+Here’s a not so perfect image of the Nintendo Gameboy and the descriptions of 
+each button.
+
+   A = Action Button (Use Weapon, Examine, choosing an option)
+   B = Item Button (Use Items, Use Magic, Cancel Button)
+   St = Start Button (Open up Main Menu)
+   Se = Select Button (Open up Status Menu)
+   D = Directional Pad (Move around, talk to people, navigate Menus,
+       Push things)
+
+
+-------------
+B. GAME MENUS
+-------------
+
+1. On screen menu (this will always be displayed at the bottom)
+---------------------------------------------------------------
+
+ -------------------------
+| HP   19  MP  6 G     50 |
+| ======================= |
+ -------------------------
+
+Description:
+HP = Hit Points. Total damage that your character can endure. If it 
+     reaches 0. Boom! Game Over!
+MP = Magic Points. Consumed after using Magic. If it reaches 0, you can’t
+     use ANY Magic.
+G = Monetary Unit. Tells you how much money you have.
+‘==’ = The long bar below is your will power. You can use MAX attacks
+       if this is full. Check Game Basics for explanation of MAX attacks.
+
+
+2. Main Menu (opened by pressing Start)
+---------------------------------------
+
+ -------
+| ITEM  |
+| MAGIC |
+| EQUIP |
+| ASK   |   ------
+ -------   | StEf |
+            ------
+ -----------------
+| It/Mag     Weap |
+ -----------------
+
+Description:
+Item, Magic, Equip = Opens up Item, Magic, Equip sub-menus respectively
+StEf = Current Condition of character
+It/Mag = Item or Magic Currently equipped for use with the B Button
+Weap = Weapon Currently equipped. Use by pressing A button
+
+  a. Item Sub-Menu
+  
+     -------------
+    | >It1   It2  |
+    |  It3        |
+    |             |
+    |             |
+    |             |
+    |             |
+    |             |
+     -------------
+  
+  Description:
+  It1, etc. = The list of items that you have  
+
+  b. Magic Sub-Menu
+
+     -------------
+    | Cure   Fire |
+    | Slep   Heal |
+    | Ice    Mute |
+    | Lit    Nuke |
+     -------------    
+
+  Description:
+  There are only 8 Magic abilities in this game. 
+  
+  c. Equip Sub-Menu
+
+     -------------
+    | w1        A |
+    | AP   6    S |
+    | DP   6    H |
+    |-------------|
+    |>e1     e2   |
+    | e3          |
+    |             |
+    |             |
+     -------------
+
+    Description:
+    w1 = Weapon Currently Equipped
+    A = Armor Currently Equipped
+    S = Shield Currently Equipped
+    H = Helmet Currently Equipped
+    AP = Attack Power. Strength of physical/magical attack
+    DP = Defense Power. 
+    E1, etc. = List of Equipments
+
+3. Status Menu (opened by pressing Select)
+------------------------------------------
+
+ -------------------
+| Save  Map  Status |
+ -------------------
+
+Description:
+Save, Map, Status = Opens Save, Map and Status sub-menus respectively
+
+  a. Save Sub-Menu
+
+     -----------------
+    | Sumo HP  19/ 19 |     
+    |      MP   6/  6 |
+    | L  1 E        0 |
+    |        /     16 |
+     -----------------
+    | Sumo HP 999/999 |
+    |      MP  99/ 99 |
+    | L 99 E    10101 |
+    |        /  10102 |
+     -----------------
+    Description:
+    Sumo = Name of Hero (it can be any name you used)
+    HP = No. of current Hit points / No. of total Hit Points
+    MP = No. of current Magic Points / No. of total Magic Points
+    L = Level of your character
+    E = Experience Acquired / Experience needed to level up
+
+  b. Map Sub-Menu
+
+     -------------
+    |             |
+    |             |
+    |      B      |
+    |     BBB     |
+    |             |
+    |             |
+    |             |
+     -------------
+     
+    Description:
+    BBB... = You’ll see them as blocks representing each room in a 
+             dungeon, or a field in the world map.
+
+  c. Status Sub-Menu
+
+     ------------------
+    | Sumo        Good |
+    | E      0/     16 |
+     --------- -------- 
+    | HP   18 |Stamn 2 |
+    |    / 18 |Power 2 |
+    | MP    6 |Wisdm 2 |
+    |    /  6 |Will  2 |
+    | AP    6  --------
+    | DP    6 |   50 GP|
+     ------------------
+  
+    Description:
+    Sumo = name of Hero
+    Good = condition (it can be any)
+    HP = current / total hit points
+    MP = current / total magic points
+    AP = Attack power
+    DP = Defense power
+    GP = Amount of money on hand
+    E = Experience acquired / Exp. Needed for level up
+    Stamn, Power, Wisdm, Will = Stamina, Power, Wisdom, and Will 
+        Respectively. Explained at Game Basics section.
+
+
+--------------
+C. GAME BASICS
+--------------
+
+1. Moving About
+---------------
+
+Basically, you can move around with the directional pad. You cannot 
+walkthrough walls, mountains, walk on water (you’ll be able to navigate the 
+waters in the later parts of the game).
+
+On the field or inside dungeons, you’ll see different kinds of enemies roaming 
+around. If you touch one of these, you will receive damage at once. There are 
+various ways of getting through enemies. First, just slash it will your weapon 
+(although some enemies are not affected with certain types of weapons). 
+Second, just go around it to prevent damage and save time. Lastly, just push 
+them. You will be able to push an enemy, only if your level is higher than 
+that monster (you can’t see the level of the enemy though).  
+
+In the world map, you’ll also see some towns with people in it. You can talk 
+to them for information regarding where to go next. Or just simple say hello 
+to each other. 
+
+Basically that’s all you have to do in the game besides attacking. Try to go 
+with the flow of the story. It will excite you at the same time, you will be 
+able to finish the game.
+
+2. Saving and Loading your game
+-------------------------------
+
+The GamePak (Gameboy Cartridge) of Final Fantasy Adventure has 2 Slots. You 
+can save 1 Game for every slot. Note that, both saves can be from the same 
+game or from 2 distinct games. 
+
+For loading games, you can only do that at the main menu by selecting the 
+continue option. There is no Load command in the in-game menus. So, you’ll 
+have to reset. Press the A, B, Select, and Start buttons at the same time. 
+Note that doing this won’t save your game. 
+
+3. Attacking and Battle System
+------------------------------
+
+Attacking in Final Fantasy Adventure is pretty basic. Go to an enemy within 
+range of your weapon and then press the A button. Your character will attack 
+using your weapon. If it hits the enemy, it’s HP will go down (the HP of the 
+enemy cannot be seen). If the enemy’s HP reaches 0, it will die and will 
+disappear from your sight. 
+
+If ever your HP reaches 0, the Game will be over. And remember, once you’re in 
+a new area, expect tougher enemies!
+
+4. Magic System (Magic List)
+----------------------------
+
+There are only 8 Magic abilities for Final Fantasy Adventure. Here they are:
+
+Cure  = Restores your character’s HP (2 MP)
+Heal  = Remove any Status Ailment (except Moog) (1 MP)
+Slep  = It lull’s enemies within the area into sleep (some are impervious
+        to this magic spell (1 MP)
+Mute  = This will disable the casting abilities of your enemy. Some cannot
+        Be inflicted with this Magic Spell (1 MP)
+Fire  = Throw a small fireball to the nearest enemy. This fireball will 
+        Automatically chase your enemy even outside the screen area of the 
+        Gameboy. (1 MP)
+Ice   = Throws a small IceBerg on your enemies. Some enemies turn into 
+        Snowmen after being hit by the IceBerg. You can then push them to
+        Activate floor switches. IceBerg can be controlled by using the 
+        Directional pad. If you accidentally hit a wall, the IceBerg will  
+        Disappear. (2 MP)
+Lit   = Throws a Lightning Bolt straight to the enemies in front of you.
+        (2 MP)
+Nuke  = Strongest Magic Attack. Hurls a ball of Nuclear Energy at your
+        Enemies. It travels in a straight line only though. (3 MP)
+
+Certain types of Magic do not affect some enemies. Example, fire-based enemies 
+are not harmed by your Fire Spell. Some enemies also have a very high Magic 
+Rating and cannot be inflicted with the Slep and Mute Spell. 
+
+To acquire Magic spells, most of them can be read from Magic Books and then 
+learned by your character. The Nuke Magic, can be obtained by beating Death.
+
+To use a Magic spell, you MUST equip it first. Press the Start button and 
+choose the Magic option. Now, select the magic you want to equip. You can now 
+press the B button to execute the magic spell. Take note always of your 
+available MP. If it reaches 0, you cannot use any magic anymore. 
+
+The power of the Magic Spell also depends on your Will. If the Will Bar below 
+the screen is full, you can unleash the strongest effect/damage of your magic 
+spell. 
+
+5. Items 
+--------
+
+Items are very important in the game. Especially the Keys. To be able to use 
+an item, you MUST equip it first by selecting it in the Item Sub-Menu. Then 
+use it by using the B button. Some items, like the key, are used 
+automatically.
+
+Each of your items has a maximum quantity. Example, Pure Item is MAXed out at 
+3. You can have 16 different items in your inventory. You can have 3 Pure 
+Items with 3 quantities each. If you use it up, it will disappear from your 
+inventory (of course!). 
+
+You can acquire items, from Item Shops, spoils from enemies, chest and others 
+are acquired automatically. 
+
+6. Equipments
+-------------
+
+Equipments play a very important role as to how your character will fare with 
+the enemies in the game. Having weak weapons will give you a long time to 
+defeat an enemy. The same goes for the armors, helmets and Shields. The weaker 
+they are, the bigger the damage you get. So, make it a basic rule that, you 
+acquire every new equipment from shops if you reach a new town.
+
+Another note on Shields. If your character’s Level is high enough. Let’s say 
+about 70. You can push the pathetic enemies out of your way. If you are weak, 
+you’ll get damage. 
+
+7. Non-Playable Characters (NPCs)
+---------------------------------
+
+In Final Fantasy Adventure, you also have other characters that can help you 
+in your journey. Although, they are very helpful, you cannot control them. 
+They have a quite stupid AI. They attack walls and trees, and even thin air 
+for crying out loud. There is a concept here which I like most about the NPCs. 
+It is your ability to ASK. If you ASK your NPCs, they will do their special 
+abilities. Here are the infos about the NPCs in the game. Take note that if a 
+NPC kills an enemy, its experience points will still be added to you. 
+
+HEROINE
+-------
+Attack: None
+You’ll meet her near Topple in the beginning of the game. She is a mysterious 
+girl with mysterious powers. You’ll eventually know who she really is and what 
+her destiny is. 
+
+ASK: If you ASK her, she will slowly regenerate your HPs. 
+
+MYSTERIOUS MAN
+--------------
+Attack: Fireball
+You’ll meet him inside the Cave of Marsh. He will immediately offer his help 
+in finding the Mirror that can help you find the Girl (Heroine).
+
+ASK: If you ASK him, he will teach you how to use the item, Mattock
+
+WATTS
+-----
+Attack: Axe
+He’s a member of the Tribe of Dwarves. He will join you in finding the Silver 
+to be able to enter Gaia. 
+
+ASK: If you ASK him, he will let you shop for Items. 
+
+BOGARD
+------
+Attack: Sword
+The Old, but still powerful, Gemma Knight will help you save the girl at the 
+Airship. 
+
+ASK: If you ASK him, he will teach you how to use MAX attacks. 
+
+CHOCOBO
+-------
+Attack: None
+You can find its Egg near Menos. It will think that you are its parents and 
+will join you.
+
+ASK: If you ASK the chocobo, it will give you a ride on its back. During
+     this time, any enemy cannot harm you. Later, Chocobo will be 
+     able to navigate the waters.
+
+AMANDA
+------
+Attack: Dagger
+You’ll meet her at the beginning of the Game but she won’t join you yet. 
+Later, you’ll meet her again at the Cave of Medusa to find the Tears of Medusa 
+to free Lester from the spell of Davias. 
+
+ASK: If you ASK her, he will heal you of Petrify (Ston) condition. 
+
+LESTER
+------
+Attack: Arrows
+He is the brother of amanda. You will see him in the form of a parrot inside 
+Davias Mansion. He will join you upon breaking the spell which is upon him. 
+
+ASK: If you ASK him, he’ll change the background music (pretty useless)
+
+MARCIE
+------
+Attack: Laser Beams
+Marcie is a robot built by Dr. Bowow. Marcie lived in the Dime Tower ever 
+since. 
+
+ASK: If you ASK Marcie, your MP will be restored to its full.
+
+8. Leveling Up
+--------------
+
+The level up system here is quite different. You can create your own type of 
+character with level ups. You can create a very powerful character in terms of 
+physical attacks. You can also create a very powerful magician with nasty 
+magic attacks. 
+
+When your character levels up, after gaining a specific amount of Experience, 
+you must choose from 4 types. 
+
+Power - This will increase the Power rating of your character. This will
+        make and battle with monsters easier.
+
+Stamina - This level up concentrates on your defense. You can now have less
+          damage from enemy attacks. And you’ll have a big HP boost.
+
+Wisdom - This focuses on the Magic ratings of your characters. This level up
+         Will give you additional MP plus additional damage caused by your
+         Magic attacks to your enemies. 
+
+Will - Leveling up your Will, lessens the time that your Will Bar fills up. 
+
+
+9. MAX Attacks
+--------------
+
+When your Will Bar, at the bottom of the screen, fills up, you can use your 
+weapons’ MAX Attack. Here’s what will happen to your weapons during a MAX 
+Attack: (Note that MAX attacks increase the amount of damage you inflict on 
+your enemies)
+
+Sword - There are 2 types of MAX attack for the sword.
+        1. Charge Attack - Press the A Button + Directional pad. Your 
+                character will charge pointing to the direction depending
+                on what direction you pushed in the Directional pad.
+        2. Spin Attack - Press and hold the A button. This will make your
+                character spin his sword. During the spinning of your
+                character, you can move him around by pressing the 
+                directional pad.
+
+Axe - At MAX, your character will throw the Axe in front of him. Doing this,
+      , the thrown Axe can still chop down trees. 
+
+Chain - At MAX, the chain will be longer than usual. This will enable you to 
+        reach poles which you cannot reach during normal chain attacks.
+
+Spear - At MAX, the Spear will be thrown in the direction your pushed on the
+        directional pad.
+
+Sickle - At MAX, the area of the spin of the Sickle will become wider. 
+         You can still cut off Herbs. 
+
+Morning Star - At MAX, the length of the Morning Star will be much more 
+               Longer than normal. 
+
+
+------------------
+D. CHARACTER STATS
+------------------
+
+The Character Stat of your Character determines how your characters fare with 
+the enemies around him. The higher his stat, the higher is his chance of 
+beating stronger opponents. Here are the different characters stats and their 
+explanations:
+
+HP = Hit Points. This is the total amount of damage your character can 
+     endure. If it reaches 0, your character will be dead. 
+MP = Magic Points. This determines the total number of Magic you can use. 
+     Take note also that not all magic abilities need 1 MP, some needs more.
+E = Experience. The total experience your character gained from fighting 
+    enemies. After reaching a certain amount of Experience, your character’s
+    stats will go up. 
+AP = The total attack power. This determines how strong your character is at
+     beating opponents. The higher this stat is, the easier the enemies can
+     be beaten.
+DP = The total defense power. This stat determines how your character 
+     endures magic and physical attacks. The higher the DP is, the lesser
+     the HP loss.
+Stamn = This is just like the DP. 
+Power = This is just like the AP.
+Wisdm = This will determine how strong your magic attacks will be. This also
+        affects your total MP.
+Will = this determines how fast your Will Power Bar fills up. 
+
+
+--------------------
+E. STATUS CONDITIONS
+--------------------
+
+The status conditions mainly reflect the status of your character in the 
+battlefield. Some conditions affect how your character attacks or defends. 
+Sometimes, conditions affect the stats of your character. Here are the 
+different status conditions with their explanation and Cure.
+
+POIS
+----
+Poisoned Status. The HP of your character will slowly deplete. To cure it, use 
+the item “Pure”, or use the Magic “Heal”. 
+
+MOOG
+----
+Moogle Condition. Your DP will drop to 0 therefore, even the weakest enemies 
+will deal quite a big damage to you. You’ll turn into an image of the moogle 
+in this condition. There is no known item that can cure it. Although there is 
+a moogle item, you can’t use it during Moog. There 2 known ways to cure it. 
+First, just let time pass by. Second, ASK your chocobo.
+
+STON
+----
+Stone Condition. Your character will be petrified and cannot move. This makes 
+you very vulnerable to enemy attacks. In the contrary, you can still attack in 
+place. To cure it, use the item “Soft” or use the magic “Heal”. You can also 
+ASK Amanda to cure it for you. 
+
+DARK
+----
+Darkness Condition. During this time, your screen will be dark and you can 
+barely see the field/room. You can also see the enemies but it’s really 
+confusing. To cure it, use the item “Eyedrop”, or use the Magic “Heal”. 
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=-
+                            CHARACTER INFORMATION
+                          =-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------
+A. SUPPORTING CHARACTERS
+------------------------
+
+CIBBA
+-----
+This intelligent old man living at Wendel has sufficient knowledge about what 
+happened in the past when Vandole acquired the power of Mana and almost 
+everything about the Mana Family. 
+
+DR. BOWOW
+---------
+The genius inventor at Ish. He crafted the legs of the Chocobo and transformed 
+it into the Chocobot that can cross even the deepest of the oceans.
+
+
+---------------
+B. ARCH-ENEMIES
+---------------
+
+JULIUS
+------
+The lone survivor of Vandole. He sought revenge for the defeat of his people 
+from the Gemma Knights. With a very good knowledge about the Tree of Mana, he 
+did everything until one day, he finally gained the power of the Tree of Mana.
+
+
+DARK LORD
+---------
+The emperor of the Empire of Glaive. Knowing the legend about the Tree of 
+Mana, he was very eager in achieving its power so that he can use it for his 
+evil purposes. 
+
+DAVIAS
+------
+The dictator at the town of Jadd. He put a curse on Amanda’s brother, Lester 
+at his mansion that turned him into a parrot. 
+
+
+                           =-=-=-=-=-=-=-=-=-=-=-=-
+                                 WALKTHROUGH
+                           -=-=-=-=-=-=-=-=-=-=-=-=
+
+                               ===============
+                               P R O L O G U E
+                               ===============
+
+                              Tree of Mana grows
+                              with the energy of
+                              will from each and
+                              every thing of
+                              This world. 
+
+                              It grows high
+                              above the clouds
+                              in the air on top
+                              of Mount Illusia
+
+                              Legend tells that
+                              it gives eternal
+                              power to the one
+                              who touched it.
+
+                              Dark Lord was
+                              trying to find
+                              the way to the
+                              Tree of Mana to
+                              get the mighty
+                              power to conquer
+                              the world. 
+
+=========
+BEGINNING
+=========
+
+After the rolling of the Prologue, it’s time to name our Hero. There isn’t any 
+default name given, so you can choose whatever name you like. For the sake of 
+the walkthrough, let’s name it Sumo, just like what’s in the Manual. After 
+that, name the Heroine of the game. For the sake of the walkthrough, let’s use 
+the name Fuji that is also used in the manual. After naming both of them, 
+you’ll be taken into an arena. You’ll start off at Level 1 with 19 HPs, 6 MPs, 
+and 50 GP (monetary unit). And then, you will have to beat the Jackal. 
+
+BOSS: JACKAL
+#############################################################################
+EXP gained:         0
+GP:                 0
+Attacks:            none!
+Preferred Weapon:   Sword (no choice!)
+
+This Boss has a very low intelligence. It doesn’t attack you. It will just 
+walk in a ‘W’ like pattern. From where you are standing, you’re safe. Press 
+the Attack button and you’ll kill it with 8 slashes. 
+#############################################################################
+
+After the battle with the Jackal, you’ll see a sad scene where Willy, Sumo’s 
+friend, dies after a fight with the monster. For his last words, he will tell 
+you that the Gemma Knights must know what happened. Sumo will be confused. He 
+will then tell you to go to Bogard at the Falls. Then, Willy will pass away. 
+Head up, through the door, to the area to the north. Here, you’ll see Amanda 
+who wants to go home and see her little brother. The Man will talk about the 
+entrance of the monsters. After talking to them, head right to the next 
+screen. In here, use the ladder. In this next screen, continue heading left 
+until you meet another Jackal. Use the same strategy against it. After the 
+fight, notice that the entrance of the monster is open. Head there are you’ll 
+find yourself outside the premises of the castle. After regaining control of 
+Sumo, head left to the next area. Here, you’ll see Julius and Dark Lord 
+talking about how to go up the falls and reach the Tree of Mana. Then Julius 
+will tell Dark Lord that a girl has the key. After that, Julius will 
+disappear. Dark Lord now notices you. You’ll then automatically run up to a 
+cliff. Here, Dark Lord will push you down! (Ahhh! How did Sumo survive?) After 
+falling, you’ll regain control of Sumo again, but now you are in the World 
+Map. 
+
+=====
+WORLD
+=====
+
+For a World Map, I created a quick reference at the maps section. Check it 
+out. You can also check it out if you get lost. Back to the walkthrough. From 
+your starting point, head right to the next screen. After that, head right 
+again to the next screen. From here, go south. After that, so south once more. 
+In this area, the only way is to the right. So, go right to the next area. 
+From here, go right again. In this area, you’ll see a girl and a wounded boy 
+seeking for help. Defeat ALL monsters in this screen only. After defeating 
+every monster (the clue is that there will be no more music), talk to the 
+wounded boy. His name is Hasim. He will also tell you to take the girl with 
+you to Bogard (the same man Willy spoke of). After that, Hasim will pass away. 
+You will then offer the girl to come with you to see Bogard. The girl will 
+join you. She is the Heroine in the game, Fuji. At this point, you finally 
+have an NPC (non-playable character) with you. You can now ask her if your HP 
+is low and she will gradually heal you. After taking her along, go back to the 
+screen to the left. After that, go up to the screen to the north. Here, you’ll 
+find the entrance to the Town of Topple which is to the north. If you got lost 
+somehow, the entrance to Topple is located on coordinates 8I in my world map 
+at the Maps section. 
+
+======
+TOPPLE
+======
+
+This is quite a small village. Upon entering the Village, you’ll see the Inn 
+right away. You can rest here for 10GP. Afterwards, head next screen to the 
+left. Then, go north to another screen. You’ll find the Item and Weapon Shops 
+here. You can buy a more powerful helmet here. It costs 140 GPs. If you don’t 
+have enough, I suggest that you leave the town first, beat some enemies, and 
+come back with 140 GPs. After buying the helmet, sell your Bronze ones. After 
+that, go inside the Item Shop and buy 2 Sets of Keys (each set contains 4) for 
+30 GPs. After doing these, leave Topple.
+
+=====
+WORLD
+=====
+
+From here, we will now go to Bogard. First, go right to the next screen. Then, 
+to the screen to the right. Then, go south. Then, go right. After that, go up. 
+Then, left. Here, cross the bridge and head left. Then, go up. Cross again 
+another bridge then head left. Here, cross the bridge and climb the vine to 
+the north. Here, there are 2 ladders. Climb the left one and head left to the 
+next screen. Here, there are 3 vines wherein you can’t reach the leftmost one. 
+Climb UP the nearest vine to reach the north screen. Here, just go around the 
+vines to reach the vine on the lower left of the Screen then climb down it. 
+You’ll be in a familiar screen. From here, head left to the next screen. Then, 
+continue up the vine until you reach a small house. Enter it. In case you are 
+lost, refer to the map. The house is in coordinates 5G. 
+
+==============
+BOGARD’S HOUSE
+==============
+Item:
+  Mattock
+
+Upon entering, you’ll see an old man to the left. If you talk to him, he will 
+just walk away from you. But on the third time, he will notice the pendant of 
+Fuji. Then, he will finally reveal himself as Bogard. He will talk about what 
+happened years ago when a woman, who wore the pendant, gave the Gemma knights 
+hope and was finally able to beat Vandole. After that, he will tell you go get 
+the Mattock in the north room. After that, he will tell you that you must use 
+the mattock in the caves to the east and meet a man named Cibba at the town of 
+Wendel. When the door opens, go in and take the Mattock. Now, leave Bogard’s 
+house by going 2 screens to the south. 
+
+=====
+WORLD 
+=====
+
+From Bogard’s house, move one screen to the south. Then, one screen to the 
+right. Then, one screen north. Here, go around and then south one screen. 
+Then, right 2 screens. Here, climb down the vine and enter the cave. If you 
+got lost somehow, check the coordinates 6J on the map. 
+
+=============================
+CAVE (East of Bogard’s House)
+=============================
+
+upon entering, equip the Mattock that Bogard gave you. Then, stand in front of 
+the Rocks that block the path to the south. Press the B Button to remove them. 
+Go south to the next screen. Then go south once more. Here, use the ladders at 
+the bottom right of the screen to exit to the world map. 
+
+=====
+WORLD
+=====
+
+Once in the world map, head left two screens. Then, south one screen. And 
+then, right one screen. Here, you’ll find a general store. You can buy a 
+Battle Axe for 150 GPs. If you don’t have enough GP, kill enemies and then 
+come back and buy it. I really advise it. After buying the axe, leave the 
+shop. Outside the shop, head left one screen. You’ll now be in the Marshes 
+area.
+
+===============
+WORLD (Marshes)
+===============
+
+You’ll find new enemies here. Now, head south two screens. And then, head left 
+three screens. You’ll arrive at the entrance of Kett’s, and then enter it. If 
+you got lost somehow, check coordinates 10K at the World Map in my map 
+section. 
+
+======
+KETT’S 
+======
+Magic:
+  Cure
+
+Inside, when you talk to the man, he will tell you that you must take the 
+western room because the other rooms are occupied and that the door behind him 
+is for Mr. Lee. After talking to the man, you can go up to the room on the 
+north and talk to people here. After you talked to them, or not, from the 
+screen where the man you first talked to, head west one screen. Then north one 
+screen. Here, sleep on the bed by walking to it. You’ll automatically sleep. 
+During the night, you’ll have a short scene with Fuji. She will now let you 
+read the Magic book of Cure! Then you’ll automatically learn your first magic, 
+Cure! :) After receiving the magic, you’ll continue to sleep. During the 
+night, you’ll notice someone talks about his/her new victim. When you finally 
+wake up, Fuji is gone! She was kidnapped! Now, talk to the man guarding the 
+door to Mr. Lee. He will deny any knowledge about Fuji. Now, leave Kett’s.
+
+===============
+WORLD (Marshes)
+===============
+Item:
+  Bronze Key
+
+From the entrance of Kett’s, go right 3 screens. Then, go south. You’ll see 
+Crocs here. If you talked to the person at Kett’s (in the north room), this is 
+the Lizardmen he is talking about. Now, defeat ALL of the Lizardmen in this 
+screen. After doing that, a chest will appear in the middle. Examine it and 
+you’ll get the Bronze Key. Now, head back north 1 screen. You’ll see a door. 
+Equip your Bronze Key and go in the door. 
+
+=============
+CAVE OF MARSH
+=============
+Item:
+  Mirror
+Equipment:
+  Sickle
+  Iron Shield
+Magic:
+  Fire
+
+Upon entering, you’ll see a man. Talk to him and he will tell you that a lot 
+of girls disappeared at Kett’s. He will offer you his help. Accept his help. 
+After joining, head north first. And then, to the left one screen. Here, step 
+on the switch at the bottom of the screen. A ladder leading down will show up 
+at the top left of the screen. Go down the ladder. In this new screen, you’ll 
+see the door where you came in and a door at the bottom. Now, move one screen 
+to the right. Climb down the vine to be able to reach the bottom door in the 
+screen to the left. Go in. Here, go right one screen. Now, if you strike the 
+bottom center wall, you’ll here a cranking sound. Use your mattock to destroy 
+the wall and reveal a new path. Now, go down south to the next screen. In 
+here, get the chest that you see in the middle of the screen. You’ll receive 
+the Sickle. You can go back as the floor will pull you back in. So, equip the 
+sickle and hack away the herbs. You can now leave the room. Now, return back 
+to the first room (where you first saw the man). Now, head south one screen. 
+Here, the left wall can be destroyed. Use your mattock to destroy it then head 
+left one screen. Here, there is a door to the north. Use a key (if you have at 
+least 4 of them) and enter the door. You’ll see a chest in the middle. Push 
+the chest into the switch on the lower left. A ladder going down will appear 
+at the upper right. Climb that ladder. You’ll reach a small pond. If you walk 
+below it, your HP and MP will be restored completely. Let’s call it the 
+Recovery Pond. Now, head back up the ladder and then move one screen to the 
+south. And then, head left two screens. From here, go up one screen. You’ll 
+see a door to the right which is locked. Use your key and then enter it. 
+Inside, you’ll be automatically locked in. Defeat all enemies on the screen 
+and a chest will appear. It contains an Iron Shield. After getting the shield, 
+go back one screen and then go up one screen. In here, go right one screen. 
+You’ll see a big rock at the upper right corner. Use your mattock to destroy 
+it and it will reveal a ladder leading down. Here, go south one screen (go 
+around the vines). And then, go left one screen and enter the doorway that you 
+will see. In this new area, head left one screen then south one screen. You’ll 
+see a locked door to the right. Use the key and enter that door. Here you’ll 
+see a very simple puzzle. Let’s call those clear square floors as “panels” for 
+the sake of this walkthrough. Now, walk on the topmost panel to reach the 
+upper switch. Now, use your mattock to break the rocks. After that, break the 
+lower set of rocks to reach the lower floor switch. Upon switching both floor 
+switches, a ladder leading down will appear on the lower right corner. Go down 
+the ladder. Now, prepare yourself for a REAL boss. After preparation, head 
+right to the next screen. You’ll meet...
+
+BOSS: 2-HEADED DRAGON
+#############################################################################
+EXP gained:         10
+GP:                 95
+Attacks:            Fireballs
+Preferred Weapon:   Sickle
+
+This battle will be hard, if you don’t know what to do. The only way to damage 
+it is to hit it in the head. The best strategy here is to use the sickle and 
+always stay below the hydra. Doing this, when the hydra comes forward, you can 
+hit it with the sickle away from the path of the fireballs. After a few hits, 
+it will go down. 
+
+If you are cornered, and you have the Iron Shield, you can just stand in front 
+of the fireballs (facing their direction) and the shield will negate it. In 
+simpler terms, you can block the fireballs. Of course, you can’t block the 
+head of the Dragon when it comes near you.
+#############################################################################
+
+After the fight, you’ll see 2 chests appear in the middle. The first chest 
+contains your second magic, Fire. After getting the chest, hack it away and 
+get the second chest for the Mirror. The man will tell you to show it to the 
+guy at Kett’s. After that, the man will leave and you’ll be taken 
+automatically to the world map. Head to Kett’s right away. Make sure to 
+prepare your character again. 
+
+======
+KETT’S
+======
+Equipment:
+  Chain Flail
+Magic:
+  Sleep
+
+Now, Equip your mirror. It’s in the items inventory. And then, talk to the 
+man. It will go berserk and will change into a wolf man. Just use your sickle 
+to push it away from you at the same time damaging it. I’d like to point out 
+that this enemy is not a boss (you’ll know why later). After beating this 
+enemy, you can now enter the room to the right. So, go right two screens. 
+Then, go up one screen. And then, to the left one screen. In this room, use 
+the ladder that is going up. Now, go south one screen. Here, you’ll see 6 
+blocks. If you attack the right wall, you’ll hear a clink. Blast that wall 
+with your Mattock. After blasting away the wall, head right to the next 
+screen. And then, go up one screen. And then, to the right one screen and to 
+the south two screens. Here, go left one screen. In this room, break the jar 
+to reach the switch in the middle. Step on it and a ladder leading down will 
+appear in the lower right. Go down that ladder. Here, go around the spikes and 
+go right one screen. Next, go up one screen. Here, use a key to open the north 
+door and go through it. Now, you’ll see a chest. Get it for the Chain Flail! 
+You will be trapped, but to no avail, use your new Chain Flail on the pole to 
+the right. You’ll be able to get out. Now, go around and step on the switch to 
+remove the block. Go back to where you broke the Jar in order to step on the 
+middle switch. Now, use the Ladder Going up on the upper right corner of the 
+room. Now, go left and use your Chain Flail to cross the gap. Move on to the 
+left and climb down the ladder at the end. And then, head left one screen and 
+then up one screen. Here, there’s a gap on the floor. First of all, you MUST 
+wait until your will power to fill up. Then, use the chain on the pole on the 
+other side. You’ll never reach it when using normal chain attacks. If you fell 
+down the gap, head north and climb the ladder on the upper right. In the next 
+area, head down south. You’ll be in the room where the gap is. From here, head 
+right two screens and then up one screen. Next, left one screen. Here, push 
+the chest onto the switch. A ladder will appear on the upper right. Use the 
+ladder to go down. Here, use a Mattock and destroy the jar on the lower right. 
+Go down the newly revealed ladder. Here, go around the fence and to the right 
+one screen. Here, use a Key to open the south door then go in. There are 
+caskets here. Go to the 2nd from the right casket on the lowest row. You’ll 
+now get Fuji back. Now, head all the way back to the very beginning (where you 
+showed the mirror to the man who turned into a monster). 
+
+If, however, you got lost, here’s the instruction on how to get back. From the 
+caskets, head up one room then left one room. Use the ladder. In the new room, 
+use the top right ladder. And then, one to the right, one down, one to the 
+left, and then one down again. Here, use the ladder. Next, go right and cross 
+the gap. Climb down the ladders at the end. Next, go right one screen and then 
+go north 2 screens. And then, one screen to the left then one screen to the 
+south. After that, head left one screen then north one screen. Use the ladder 
+here. Next, walk around the fence and go right one screen. Now, head south one 
+screen then left one screen. Here, prepare your character for a boss battle. 
+After preparing, head to the next screen to the left. You’ll now fight Mr. 
+Lee.
+
+BOSS: MR. LEE 
+#############################################################################
+EXP gained:         21
+GP:                 11
+Attacks:            Bats
+Preferred Weapon:   Chain
+Spoils:             Magic Book of Sleep (Slep Magic)
+
+This battle isn’t hard at all, especially with the Chain flail at your 
+disposal. You notice that the Vampire (Mr. Lee), will move to 4 locations on 
+the screen. Check the diagram below (He’ll move to one of those check marks):
+
+ -------
+|   x   |
+|x     x|
+|   x   |
+ -------
+
+His attacks are plain and simple. Once he stops moving, he’ll open his cape 
+and bats will come right after you. You can block the bats with your shield 
+though. 
+
+To attack him, target his body not his wings :) If you’re far enough from him, 
+you can also attack the bats at the same time damaging him. Trust me, he’s 
+easy.
+#############################################################################
+
+After beating Mr. Lee and gaining the Magic Book of Sleep, after a very short 
+conversation between Fuji and Sumo, you’ll be taken automatically outside of 
+Kett’s. It’s now time to head to Wendel.
+
+=====
+WORLD
+=====
+
+From Kett’s, head right 3 screens and then south one screen. You’ll be at the 
+LizardMen’s Nest. Now, head left one screen. Equip your Sickle and hack away 
+the Herbs. After that, head south one screen. Next, head left one screen and 
+then north one screen. Climb up the ladder and use your Chain to cross the 
+Gap. Now head south one screen. You’ll notice that you are now in the other 
+side of the river. Now, head right one screen. Then, south two screens. 
+Finally, head right one screen. Enter the town of Wendel, which is to the 
+north.
+
+======
+WENDEL
+======
+Magic:
+  Heal
+
+Map:
+     ---
+    | 3 |
+ --- --- ---
+| 2 |   |   |
+ --- --- ---
+| 1 | E |   |
+ --- --- ---
+
+Legend:
+E = Entrance, Inn
+1 = Item Shop
+2 = Weapon Shop
+3 = Cibba’s Place
+
+In Wendel, you might want to upgrade your equipments here if you don’t have a 
+complete Iron Set (helmet, armor, shield). You can also buy Mattocks and Keys 
+from the item shop. After that, head to Cibba’s place. In here, just continue 
+moving north until you see Cibba. After you meet him, an automatic scene will 
+take place. Cibba will show something to you. You’ll see the real mother of 
+Fuji. Also, you’ll now know that Fuji is a member of the Mana Family. Her 
+mother sealed the waterfalls that lead to the Mana Tree with the pendant Fuji 
+is wearing. After that, something wrong will happen. The man who helped you 
+before will come in and tells you that Glaive is attacking! Then, you’ll be 
+taken automatically just outside Cibba’s place. If you talk to the wounded 
+man, he’ll tell you that the man who just passed by attacked him. Quickly, 
+head outside of Wendel. Don’t worry about the enemies, they’re pathetic. 
+Outside, you’ll see a horrible sight. The man who helped you out in the Cave 
+of Marsh turns out to be Julius himself. He saw what happened inside and 
+finally kidnapped Fuji. You can’t do anything as he is very strong. He’ll beat 
+you up and then he’ll leave. Then, you’ll wake up at Cibba’s Room. Cibba will 
+tell you that Julius took her to his Airship to the west. Then, he’ll give you 
+the Magic Book of Heal. After that, leave Wendel right away.
+
+=====
+WORLD
+=====
+
+From the gate, head south one screen. Next, head left one screen then south 
+one screen. After that, head left once more. Here, beat the enemies. You have 
+to go north. So, equip your axe and hack away the leftmost tree. Then, go 
+north one screen. And then, to the left two screens. Here, equip your chain 
+and use it on the pole on the lower left. After that, head south one screen. 
+Here, go right one screen and then to the south one screen. Here, go inside 
+the hut. It is a General Store. Buy the Oil here for 500 GP. If you don’t have 
+that much yet, go out and kill as many enemies to reach 500 GP. After buying 
+the Oil, leave the store. From the store, head North one screen. Here, use 
+your chain again to grab that pole. Next, go north two screens. In here, equip 
+your axe and hack the trees to the north. Take a look at the diagram:
+
+mm  tttttt      Here’s the Diagram:
+mm  tttttt      - The ‘m’s is the mountains to the upper left. 
+mtxxtt          - The ‘t’s are the trees
+  xxtttttt      - the ‘x’s are the trees that you must cut in order to 
+    tttttt        move north.
+
+t
+tt t ttttt 
+tt t ttttt
+
+After hacking the trees, go north one screen. In here, you’ll have to do some 
+hacking again. Here’s the diagram of the trees that you can hack away.
+
+t ttttttt       Here’s another diagram:
+t xxt   t       - the ‘x’s are the ones that you must cut in order to
+  txt   t         go to the left.
+tttxx   t  
+ttttttxtt
+tt  txxtt
+mt  xxttt
+mm  ttttt 
+
+After hacking the trees. Head to the left one screen. Now, go inside the cave. 
+
+===========
+SILVER MINE
+===========
+Items:
+  Silver
+
+Upon entrance, you’ll see a small cart to the left. First, equip the Oil that 
+you bought a while ago. Now, follow my instructions carefully. This might get 
+very confusing and even frustrating. If you’re ready, equip your Sickle and go 
+to the cart. It will then move along the tracks automatically. 
+
+After boarding the cart, it will go left two screens. Here, there’s a switch, 
+but don’t do anything to it. The cart will then continue to the left for 
+another two screen. And then, it’ll go down south one screen. Now, Press and 
+Hold Up + Right on the Directional Pad. The cart will now go one screen to the 
+right. As the screen, changes, press the Attack button like crazy! This will 
+enable you to activate the switch. After successfully activating the switch, 
+press and hold Down + Right on the directional pad. The cart will now go south 
+one screen. Like before, just as the screen changes, press the Attack button 
+like crazy while holding the Down+Right on the Directional Pad. This will 
+activate another switch. After successfully activating the switch, the cart 
+will go left two screens. It will hit a rock and you’ll fall down a dark hole. 
+If you however, missed the switches, don’t worry, the cart will go back to 
+that place again. 
+
+After falling down the hole, you’ll see Watts. He’ll join you as an NPC to 
+guide you through the cave. Remember that when you’re low on supplies, you can 
+ASK Watts and he’ll let you shop for items.
+
+Let’s move on. From where you saw Watts, head north one screen, and then to 
+the right one screen. In here, there are passages to the right (a breakable 
+wall) and to the south. Let’s head south first.
+
+Use your Mattock to break the rocks then move on south to the next screen. 
+Here’s you’ll see a recovery spring. After healing, head back to the north one 
+screen and then, break the wall to the right and go right one screen. Here, 
+there are 2 jars and slippery floors. Break the right jar, step on the switch 
+and slide to the right towards the ladder leading down. Here, go left two 
+screens. And then, go up the entrance. In this new area, head left one screen. 
+And then, north one screen. Use the ladder leading up. In this area, head one 
+screen to the left. Now, use the ladder leading down. Now, you’ll see a ladder 
+to the right leading down. Prepare your character first for a boss fight.
+
+BOSS: MEGAPEDE
+#############################################################################
+EXP gained:         48
+GP:                 161
+Attacks:            Surprise!
+Preferred Weapon:   Chain
+
+This battle will be fairly easy. Just remember the pattern it does. It will 
+move in a S formation. Always remember that it can only be damaged by hitting 
+it’s head. Any attack to the body is null. He has only one attack (which I 
+think is intentionally created by Square). After you beat him, as with most of 
+the bosses, it’s body will explode. The explosion can hurt your character. The 
+Magapede, due to its size, especially its length, will scatter the explosion 
+in a very wide area so, right after you hear the explosion of the monster, 
+quickly move away from it! Take note that the head will follow you after you 
+kill it :)
+#############################################################################
+
+After beating the Megapede, get the Silver from the chest. Then, you’ll be 
+automatically taken outside the Mine. Here, Watts will take care of the 
+Silver. He’ll tell you that he will forge some armors and sword using the 
+Silver so that you can equip it and be able to enter Gaia. Watts will now exit 
+to the right. 
+
+=====
+WORLD
+=====
+
+Now, equip your Battle Axe again and then go right one screen. Hack away the 
+trees again and then go south two screen. Next, go south one screen (do not 
+use your chain to go to the other side). Here, you’ll see the entrance to the 
+Dwarf Cave. Enter it.
+
+==========
+DWARF CAVE
+==========
+
+In here, you’ll see quite a number of dwarves. So where’s Watts? From the 
+entrance, go south one screen. Watts will be there sitting on a chair. Talk to 
+him. He will sell you an Armor, Shield and the Sword made from the Silver. 
+After buying and equipping, head north one screen and use the ladder to exit 
+the Dwarf Cave.
+
+=====
+WORLD
+=====
+
+From the Dwarf Cave, head north two screens. Next, head left one screen and 
+then to the north, one screen. You’ll see a cave which looks like a big mouth 
+with 2 eyes. Enter it now. Remember that you MUST equip any Silver equipment 
+in order to enter Gaia. One Silver Equipment is enough. 
+
+====
+GAIA
+====
+
+Upon entrance, head left one screen and then south one screen. As you go 
+south, you’ll step on an invisible switch that closes the south door. Here’s 
+what you must do. Go south to the door. It will be closed right? Now, go north 
+slowly and you’ll be able to touch the switch once again which opens the door. 
+Once the door is open, head south one screen. Here, use the ladder to exit to 
+the world map. 
+
+=====
+WORLD
+=====
+
+Upon leaving Gaia, Bogard will come in and joins you as a NPC. If you ask him, 
+he’ll just tell you how to use the MAX Attack. Now, go south one screen. Here, 
+equip your axe. Destroy the trees. Follow the diagram.
+
+ttAtttt tt
+tt tttt  t  Legend:
+tt       t  A = Where you came from
+ttxttt   t  x = The trees you must cut
+  xttt   t
+   ttt   t
+ttttttt tt
+
+After cutting the trees, head left one screen. Then, go north two screens. 
+Here, you’ll find a small house. It’s an Inn. After resting, if necessary, 
+equip your Axe and hack the trees to the left and go left to the next screen. 
+Here, cross the wooden bridge and then, go left one screen. Next, go north one 
+screen. Here, cross a wooden bridge again and then enter the house. This is a 
+general store. You can buy the Silver Helmet here. After buying it, leave the 
+shop. From the shop, head right two screens. And then, go up one screen. Equip 
+your Axe and hack the trees to the right. And then, go right one screen. Now, 
+equip your Chain. Go to the edge and wait for the Will Bar to fill up. If it’s 
+full, use it on the pole on the other side. Note that you can only reach it 
+with a Maxed Chain. After successfully bringing yourself on the other side, go 
+north one screen. And then, go right one screen. Here, use your chain on the 
+pole on the top platform. After going up the platform, go left one screen. 
+Here, go left. Go down the vines and you’ll notice 2 paths to the left. Take 
+the lower left path. In here, cross a gap once more and then go south one 
+screen. And then, go left one screen. Finally, continue moving north until you 
+reach the Airship.
+
+================
+GLAIVE’S AIRSHIP
+================
+
+Upon entering, continue moving up the big chain to the next screen. Here, 
+you’ll see 3 paths. Two to the north and one to the right. Use the upper left 
+path to the next screen. Next, go left one screen. And then, go south one 
+screen. Here, go inside the door that you’ll see. Inside, go left three 
+screen. And then, go up one screen. Next, go right to the next screen. Climb 
+the ladder here which is leading down. In this new area, go left one screen 
+and then go south one screen. Here, kill all the werewolves on the left side 
+first. After killing all of them, step on the switch on the upper right. This 
+will open the fence on the left side. Now, step on the upper left switch. A 
+ladder will appear. Use it to go down to the next area. Here, go left two 
+screens. Now, equip a key and use it on the south door and then enter the 
+room. You’ll see Fuji inside. Go to the fence and you’ll talk to her. You’ll 
+hear that the Airship is ready to leave. You will now have a plan to save 
+Fuji. The window. So, after talking to Fuji, leave the room. Before you leave, 
+Bogard will stay behind to watch over Fuji while you find your way to the 
+window outside.
+
+Now, go all the way to the north until you enter the room with a bed. Use it 
+to regain all your HPs and MPs. After that, go south one screen. And then, go 
+right two screens. Use the ladder. You’ll be back to the place where you 
+killed the werewolves. Now, go north one screen and then left one screen. Use 
+the ladders here. When you reach the next area, go south one screen and then 
+go left two screens. Next, go south one screen. And then, go left one screen. 
+Here, use the ladders. When you reach the next area, go north two screens and 
+then use the ladder that you’ll see. Next, go north and use the other set of 
+ladders. You’ll now be back on the deck of the airship. Now, go right one 
+screen. Here, you’ll see two paths to the north. Take the upper left path. 
+Next, go left two screens. And then, go south one screen. Next, go right one 
+screen. Beware of the werewolves here! Kill them all and then continue down 
+the ladder to the next screen. Now, go all the way to the right and you’ll see 
+Fuji on the window. But, Julius will come in and blasts you! You will try to 
+hang on but to no avail, you will still fall down. 
+
+=====
+MENOS
+=====
+
+You’ll fall on one of the houses in Menos. Then, you’ll see that it is 
+Amanda’s house. If you do not remember, Amanda was the girl you saw in the 
+very beginning of the game (Right after Willy passed away). Then, you’ll see 
+Amanda take away the pendant. When you wake up, Sumo will notice that the 
+pendant is gone. When you regain control of Sumo, leave the house. There’s a 
+stronger weapon here in Menos. From the house of Amanda, the Weapon Shop is to 
+the left. If you want items, it is one screen to the right from Amanda’s 
+House. After buying items and equipments, leave Menos.
+
+=====
+WORLD
+=====
+
+From Menos, go south two screen. Here, you can either cross the bridge to the 
+right or go left to the other screen. Let’s get an important character first. 
+So, cross the bridge to the right and go north one screen. Here, just go to 
+the right one screen. Cross the bridge and go north two screens. Next, go left 
+one screen and then north two screens. And then, go right one screen. You’ll 
+notice that this is where you fell at the beginning of the game. Now, go south 
+one screen and then one screen to the right. Here, equip your chain and cross 
+the gap. Examine the egg and it will hatch. It’s a Chocobo! It will follow you 
+because it thinks that you are its mother. You now have a New NPC, the 
+Chocobo! If you ASK, it will give you a ride. You’ll be much faster and safer 
+because enemies cannot harm you if you are on a chocobo.
+
+Now, let’s head back to the first bridge you saw after leaving Menos. For 
+directions, here it is: from the Chocobo’s place, use the chain to cross the 
+gap. Go left to the next screen. Go up one screen, then left one screen, and 
+then south two screens. Next, go right one screen and then to the south two 
+screens. Now, go left one screen and then south one screen. Here, cross the 
+bridge and go left one screen. If you go up, you’ll be back at Menos. In this 
+new area, go left one screen. Next, go north two screens. And then, go left 
+one screen, then north one screen. Enter the town of Jadd. Don’t worry about 
+your chocobo it won’t run. 
+
+====
+JADD
+====
+
+Upon entering, you’ll notice that the whole town is quiet. It’s because a 
+certain Davias rules the town. First of all, let’s head for the weapon shop as 
+there are powerful versions of equipments here, the Gold Equipments. From the 
+entrance, go north one screen. You’ll see the Weapon Shop beside the Inn. You 
+can rest in the Inn if you want. After that, go to the Weapon Shop and buy 
+Gold equipments. This will protect you from the enemies in this area. For the 
+items, from the Weapon Shop, go right one screen. You’ll see the Item Shop 
+Here. Now, if you talk to the kid, it will give you a hint on how to open the 
+Cave of Oasis. You must give him Fangs though. You can get fangs from the 
+Gecko’s living in the desert. It’s very rarely though, that they drop these 
+item. If you got Fangs, and talked to him, he will say “Palms trees and an 8”. 
+After buying and equipping your character, leave Jadd. 
+
+=====
+WORLD
+=====
+
+In the world map, talk to your Chocobo Immediately. If you did not talk to it, 
+it will not join you again. So, choose to take your chocobo. Now, let’s head 
+for the Cave of Oasis. From Jadd, go south one screen. And then, go right one 
+screen. Then, go south two screens. You’ll see the Gecko here. If you beat it, 
+you might be lucky enough to get a Fang. If you got one, bring it back to the 
+kid near the Item Shop in Jadd. It will give you the clue to the Cave of 
+Oasis. Let’s move on. From the place with the Gecko, go left one screen. And 
+then go south one screen. Here’s another place with Geckos. Now, go right one 
+screen. You see a lot of palms trees right? It’s because the cave of Oasis, 
+also known as the Cave of Medusa. Now, let’s talk about the clue of the Kid. 
+Palm trees and an 8. Hmm... There are 2 trees here. What should you do? It’s 
+easy. Take a look at the diagram.
+
+  xxxxx
+  xTxTx
+  xxxxx
+
+The 2 Ts represent the 2 trees in the middle. The x’s is the pattern you 
+should walk. See, it’s an 8. Walk around the trees making a pattern like an 
+8,just as in the diagram. If done correctly, the Cave of Medusa will now open. 
+So, go inside the Cave.
+
+==============
+CAVE OF MEDUSA
+==============
+Magic:
+  Magic Book of Ice
+
+Upon entering, you’ll see Amanda. Sumo will ask Amanda why she took the 
+pendant. Amanda took it so that he could give it to Davias and free her 
+brother from Davias’ Curse. And then, Amanda will now join you as a NPC. Now, 
+head south one screen. In here, equip your Mattock and destroy the wall in the 
+south wall. Then, go south one screen. And then, head left two screen then go 
+south one screen. Next, head left two screens. Now, go up one screen. If you 
+open the door to the left, you can see a recovery spring inside. After using 
+it, if necessary, go back and go north two screen. Now, go left one screen and 
+then go south one screen. You’ll get a Gold Armor. Now, go back up one screen 
+and then one screen to the right. Here, continue moving by going up one 
+screen. Here, equip your chain. Then, go to the slippery floor which is at the 
+very bottom. You’ll be taken to the switch which will open the right door. 
+Now, use your chain at the pole at once, then go right one screen through the 
+newly opened door. Here, you’ll receive the Magic Book of Ice.
+
+After receiving the Ice Magic, go left one screen. And then, go south four 
+screens. Here, go right one screen. Equip your Mattock and destroy the wall to 
+the north. Then, go up one screen. Here, you’ll see a snowman. Push the 
+snowman by going behind it and pressing the directional pad. Push it to the 
+north past the slippery floors. Now, push it to the switch on the upper left. 
+Once there, the door to the north will open. If you somehow destroyed the 
+Snowman, just leave the room and go back in. A new snowman should be there. 
+After opening the door, go up one screen. Here, you’ll see another switch, but 
+there are no snowmen around except for spiders. Now, use your newly gained Ice 
+Magic on one of the spiders. It will turn into a snowman! Take note that YOU 
+CAN CONTROL the ice as it travels! But you cannot stop it from moving. If it 
+hits a wall it’s gone. Let’s continue. After turning one of the spiders into a 
+snowman, push it to the switch. The north door will now open. So, go north one 
+screen. Here, use the ladder.
+
+In this new area, go north one screen. Then, use the ladder on top. Now, 
+prepare your character for a boss! After preparing, go left one screen.
+
+BOSS: MEDUSA 
+#############################################################################
+EXP gained:         92
+GP:                 70
+Attacks:            Snakes
+Preferred Weapon:   Chain
+
+This battle will be at an average difficulty. I recommend using the chain as 
+it has a very long range and attack rate. To defeat Medusa, you have to hit 
+her head as many times as you could. Amanda will also give you support by 
+throwing daggers (not accurate though). She only has 1 attack. She will throw 
+snakes at you! Try to avoid these as they can inflict the Ston status. Don’t 
+worry though. If you got Stoned, just ask amanda and she’ll heal you. So, just 
+try to be quick while avoiding the snakes and Medusa herself, then attack her 
+head as fast as you can. 
+
+Also, if you have the Gold shield equipped, it can block the snakes which 
+Medusa throws at you.
+#############################################################################
+
+After beating Medusa, she will not cry therefore you cannot get the Tears of 
+Medusa to uncurse Amanda’s Brother. As you leave, Amanda will fell something. 
+She was bitten by Medusa while you were fighting. Anyone who is bitten by 
+Medusa will also turn into a Medusa. Amanda will turn into a Medusa anytime 
+now. But before she loses her mind, she will tell you to get a tear from her, 
+because she is now a Medusa and can uncurse her brother, and then kill her 
+afterwards so that she can’t hurt people. When you regain control of Sumo, 
+kill Amanda (you can’t move on to the story if you don’t do this). After 
+killing her, go to her and you’ll get the Tears of Amanda. Then, you’ll 
+automatically be taken outside to the world map. 
+
+=====
+WORLD
+=====
+
+Now, take your chocobo and head back to Jadd. For the directions, here it is. 
+First go left one screen, then go north two screens, then go right one screen. 
+Next, go north one screen, then go left one screen, and finally, go north one 
+screen and enter the town of Jadd.
+
+====
+JADD
+====
+
+After the battle with Medusa, your HP and MP might be low. So, head to the Inn 
+which is one screen to the north from the entrance. After healing yourself, go 
+the BIG house on the upper leftmost part of Jadd. Enter the Mansion of Davias.
+
+===============
+DAVIAS’ MANSION
+===============
+Magic:
+  Mute
+Weapon:
+  Were Axe
+
+Inside, go up the set of ladders on the top right corner. Next, go left two 
+screens. Now, you’ll see a parrot here. It is Amanda’s Brother. So, equip 
+Amanda’s Tear and examine the parrot. Lester will now be freed from Davias’ 
+Curse. He will now join you to avenge Amanda as a NPC. If you ask Lester, he 
+will change the music for you. Let’s move on. Use the ladder which appeared.
+
+In this new area, go right two screens. Here, equip your Mattock and then 
+destroy the wall to the north. And then, go north two screens. And then, head 
+left one screen then south one screen. Here, just step on the slippery panel 
+in a counter clockwise direction and use the ladders. In this new area, go 
+left four screens. At the end, you’ll see a lot of floor panels. The key here 
+is to step on the panels in order. Here’s the diagram for you.
+
+ 43       Legend: the numbers are the order of the panels you should follow. 
+5xx2
+6xx1
+ 7 
+
+Doing this, a ladder will appear and you can go to the next area. Now, in this 
+new area, go up one screen and then go left one screen. Now, go ALL THE WAY 
+SOUTH until you can’t go south anymore. You’ll also see a door to your right 
+which doesn’t open. You must step on the switch to open the door. So, in 
+short, use your Ice Magic on one of the enemies and push the snowman onto the 
+switch. Once the door is open, go in. The door will automatically lock. Defeat 
+all the enemies and you’ll get the Were Axe. Now, go left one screen. And 
+then, go up two screens. Here, equip your Mattock and break the wall to the 
+right. And then, go right one screen and then go south one screen. Here, use 
+the ladder. Now, in this new area, go north one screen. Use the ladders that 
+you’ll see here. Now, prepare your character again as a tough battle lies 
+ahead of you.
+
+BOSS: DAVIAS  
+#############################################################################
+EXP gained:         100
+GP:                 103
+Attacks:            FireBalls
+Preferred Weapon:   Chain
+
+He will be very hard if you don’t know what to do. First, I suggest you use 
+the Chain Flail again. It has a very good range and you can hit Davias with 
+ease. Be careful of his Fireballs at it will go STRAIGHT AT YOU so dodge them. 
+Also, do not touch the fireball that are protecting Davias. These will give a 
+lot of damage to you.
+
+Tip: You can use your weapon to attack the Fireballs (excluding the fireballs 
+around Davias)
+#############################################################################
+
+After beating him, you’ll find out that the pendant is no longer with him. 
+Garuda flew together with the pendant to Glaive. Then, Davias will die. After 
+that, you’ll be taken automatically to Jadd. Here, Lester will stay to play 
+Requiem for his sister. You’ll now be heading for Glaive! Lester’s tune will 
+remove the poison gas to the north (if you went there earlier). Before 
+leaving, Lester will give you the Magic book of Mute. Now, heal your character 
+at the Inn and then leave Jadd.
+
+=====
+WORLD
+=====
+
+Outside, get your chocobo. We’ll now be heading for Glaive! You can ride the 
+chocobo to reach there fast or just walk there to gain experience. From the 
+entrance of Jadd, go south one screen. And then, go right one screen then up 
+one screen. Next, go right one screen. Next, go up two screens. And then, go 
+right one screen. 
+
+Next, go north two screens. Next, go right one screen. Here, climb up the 
+ladder to the next screen. Here, you can go right one screen or climb down 2 
+vines. First, go down the right most vine. At the very bottom, you’ll see a 
+Magic Shop. Buy some if you want and then go back up the vines. Next, go left 
+one screen. Here, go inside the Cave.
+
+=================
+CAVE OF MT. ROCKS
+=================
+
+Inside, go left one screen and then go north one screen. Next, go left two 
+screens. And then, head south one screen. Here, prepare your character for 
+another boss. If you’re ready, go left one screen and fight...
+
+BOSS: METAL CRAB
+#############################################################################
+EXP gained:         107
+GP:                 101
+Attacks:            None
+Preferred Weapon:   Wind Spear
+
+This will be very easy. Just stay in the middle and always walk to the 
+opposite of where the Metal Crab is going. This way, when he moves up or down, 
+you won’t get hurt. To damage it, you must hit its mouth so the Wind Spear is 
+the ideal weapon for this.
+
+Note: Watch out every time the Metal Crab is in the center. It may or may not 
+move down or up. 
+#############################################################################
+
+After beating the Metal Crab, a ladder will appear on the lower left. So, use 
+that ladder. In this new area, head left three screens and use the ladder at 
+the end. You’ll find yourself in the World Map again. 
+
+=====
+WORLD
+=====
+
+Here, go left one screen and then to the south one screen. Next, go right one 
+screen. Now, go south four screens. Here, you’ll see an enemy that looks like 
+a robot. If you accidentally touched it, it may inflict the Moogle condition 
+at you. During this time, your defense will drop to 0 and you will receive a 
+very large amount of damage from enemies. Now, from here, go right one screen. 
+Use the Recovery Spring at your leisure. After that, head back to the left one 
+screen. Then, go north one screen (note: use the upper right path. The Upper 
+left ones will bring you back where you came from). Next, go right one screen. 
+Now, go up one screen and then go right one screen. In here, you’ll see 2 
+ladders going up. 
+
+Go up the right ladder first. Move on until you see the Weapon Shop. If you 
+have the money, go and buy the Opal Equipments. They are very strong in 
+defense compared to the Gold ones. If you don’t have enough money, just beat 
+the enemies around you until you are able to buy the equipments. After buying 
+the equipments, leave the shop and go all the way down and use the other 
+ladder to the left. 
+
+Now, go all the way up and when you can’t go any further, go left one screen. 
+Here, equip your axe. Now here’s the diagram again for the trees you must cut 
+in order to move on.
+
+     x  2
+    ttttt     Legend:
+xxxxxtttt     1 – Where you came from
+    x         2 – Your Destination  
+    x   1     x – you can cut these trees to reach location 2
+
+Upon reaching location 2, go right one screen. Here, just cut the tree that 
+blocks your way and go north two screens. Next, head right one screen. Then, 
+go south two screens, hacking through the trees. It’s easy. And then, go right 
+one screen. Here, go up the ladders and enter the cave opening above.
+
+=========
+MT. ROCKS
+=========
+Weapon:
+  Morning Star!
+Magic:
+  Lit (Lightning)
+
+This level isn’t confusing at all, if you know what to do :) Now, from your 
+starting point, go up one screen and then go right two screens. If you 
+returned to the left, you’ll be back at the starting point so follow my 
+instructions carefully. Now, at the end, Equip your mattock and break the 
+north wall then go up one screen. Next, go left one screen. In here, you have 
+to put all 4 treasure chests on the 4 tiles on the ground. If you accidentally 
+destroyed a chest, leave the room and come back again. After placing the 4 
+chests the door to the north won’t open right? To open the door, just attack 
+one of the 4 chests and the door will open (I don’t know why it should be this 
+way). After opening the door, go north one screen. Now, go right one screen. 
+Here, use a key, open the door to the right and then continue moving right 
+until you can’t go right anymore. Here, go south three screens.
+
+Next, go right two screens. Here, use the ladder at the end. Now, prepare your 
+character for another boss. If you’re ready, go right one screen and then 
+fight!
+
+BOSS: CYCLOPS   
+#############################################################################
+EXP gained:         70
+GP:                 64
+Attacks:            Morning Star Lounging Attacks
+Preferred Weapon:   Chain
+
+Basically, he is very easy. Just stay above or below him and keep on attacking 
+him. Just make sure that you are out of the way of his attacks. He will only 
+attack horizontally which will be very predictable. Sometimes though, he will 
+attack twice in a row. But, there are no other problems that you should worry 
+about.  
+#############################################################################
+
+After beating the Cyclops, you’ll see a chest appear in the middle. It’s the 
+dreaded Morning Star! Now you can kill most of the enemies with this weapon! 
+You can also dump or sell your Mattocks as the Morning Star can destroy walls. 
+You can also destroy rocks that block your way. After getting it, equip it 
+right away. Now, go to the left one screen and use the ladder. And then, go 
+all the way to the left until you reach the starting point in the game (The 
+ladder and the 3 rocks).  Don’t worry, trust me, just keep on going LEFT. When 
+you reach the entrance, go north one screen. Here, use the key to open the 
+north door. Now, prepare your character again for another boss. Equip your 
+Morning Star. If you’re ready go north one screen and meet...
+
+BOSS: GOLEM     
+#############################################################################
+EXP gained:         98
+GP:                 173
+Attacks:            Charging Attack from different directions
+Preferred Weapon:   Morning Star Only!
+
+This boss is an average enemy. YOU MUST USE THE MORNING STAR in this battle. 
+It has only one kind of attack in which it charges its body vertically. It 
+will be walking on the top portion of the room and may or may not charge when 
+it reaches the left corner, the middle, or the right corner. It can attack 
+diagonally also. Basically, you can’t predict where it will attack but if you 
+get damaged heal quickly as its charge attacks deal quite a big amount of 
+damage.
+#############################################################################
+
+After beating Golem, you will receive the Magic book of Lightning (lit). Now, 
+go north one screen and use the ladders here. You’ll now find yourself 
+outside. In here, go to the bridge and go right one screen. When you enter the 
+cave, you’ll see the bridge collapse. You can’t go back anymore. Then, the 
+screen fades. Now, you’ll be on a very familiar place. The waterfall at Castle 
+Glaive!
+
+=============
+GLAIVE CASTLE
+=============
+
+From the waterfall, go right two screens. The castle gate is now open so go 
+inside. Inside, go left one screen. Equip your Axe and hack the trees to the 
+left. And then, go left one screen. Next, go up one screen and enter the door 
+at the end. You’ll now find yourself inside the Castle itself.
+
+Inside, Cross the 2 bridges and then go north one screen. Next, cross the 
+bridge and go right one screen. In here, cross the bridge and go right one 
+screen. Next, cross the left bridge and then go right one screen. In this 
+screen, just cross the bridge again and use the ladder in the corner.
+
+In this new area, just climb all the way up the vines and use the ladder at 
+the end. In the next screen, use the ladder that you’ll see on the right 
+corner. Now, go down the ladder. Prepare your character again for another 
+boss. If you’re ready, go left and meet...
+
+BOSS: CHIMERA
+#############################################################################
+EXP gained:         20
+GP:                 91
+Attacks:            Zigzag Charging attack, fireballs
+Preferred Weapon:   Morning Star
+
+Beware! Chimera might give you some troubles. It usually stays on top firing 
+fireballs at you. Sometimes (most frequently), it will charge at you in a 
+zigzag pattern. During this time, you can either dodge it if your fast enough, 
+so just stay on the corner and hope that it won’t hit you. The damage is quite 
+big so prepare to heal Sumo anytime.
+#############################################################################
+
+After beating Chimera, use the ladders to the left. You’ll now see Fuji inside 
+a room. She will tell you that you must get the pendant right away and that 
+Dark Lord’s room is on the top floor. After talking, use the lower right 
+ladder. In the next room, use the upper right ladders. You’ll be in a familiar 
+area (to the left of the vines you climbed up earlier).
+
+Now, you can go 3 ways here. Either go directly to the south, go south using 
+the ladder, or go left. Let’s call it POINT A. Now, use the ladder first to 
+the next screen to the south. And then, go left one screen and go inside the 
+small house. You’ll see someone who sells items. Now is the perfect time to 
+sell ALL your Mattocks and buy a lot of Keys. 8 Sets is what I recommend. 
+After buying items, you can rest on any bed to regain all your HP and MP. 
+After preparing, go back to POINT A. From POINT A, go left three screens. And 
+then, go south one screen and enter the door at the end. 
+
+In this new area, you have to walk over the Spikes in order to move on. After 
+doing so, have Fuji heal you by asking her. After healing, go up one screen 
+and then go right one screen. Here, destroy the north wall and then go up one 
+screen. Next, go left one screen. Here, equip your Chain. Now, use the chain 
+first on the northern most pole. Now wait until your Will Bar fills up, then 
+use the chain on the left pole. Now, step on the switch. A ladder will appear 
+on the lower right corner of the room. Now, wait again until your Will Bar 
+fills up and then use it on the southern most pole. Now, use the ladder.
+
+In this new area, go north one screen and then go right one screen. Next, go 
+south two screens. In here go right one screen first. Now, use a Key on the 
+right door and enter it. You’ll see a bed here where you can rest and restore 
+your HP and MP. After resting, from here, go all the way to the left until you 
+see a room filled with Werewolves, 4 chests and a ladder. All you have to do 
+here is to prevent hitting the 4 chests. If you accidentally hit a chest, the 
+ladder will disappear, so you have to leave the room and come back again. 
+Let’s continue. Now, go and use that ladder. In the next room, to right two 
+screen. Now, use your Morning Star to break the right wall. After that, go 
+right two screens and north one screen. In here, use the ladder at the corner. 
+Now, go south one screen. Here, go one screen to the right. In this room, 
+you’ll have to fight the Knights. After beating all the Knights in this room, 
+get the chest for the Blood Sword. Now, go back left one screen and then north 
+one screen. Here, instead of using the ladders, break the north wall and then 
+go north one screen and then go right one screen and use the ladder. 
+
+In this new area, go south one screen. And then go left one screen. In this 
+room, there are 2 floor switches. You have to use your Ice Magic to turn the 
+knights into Snowmen. Note that the Black Mages here cannot be turned to 
+snowmen. If there’s only one knight, leave the room and then come back again 
+until you see 2 knights. Now, turn them into Snowmen and put them on the 2 
+switches. After you’ve put the 2 snowmen on the switches, a ladder will appear 
+on the lower right corner. Now, use that ladder. Here, go left one screen and 
+then go up one screen and use the ladder in the middle. Next, go north one 
+screen. You’ll now notice that this is a throne room. In fact, it is Dark 
+Lord’s Room. Now, I suggest you do a simple level up trick. 
+
+The Dark Mages and the Knights give off a fair amount of EXP. So, beat all of 
+them inside the throne room and then save. And then, reset your Gameboy by 
+pressing A,B,Start and Select buttons AT THE SAME TIME. Now, load your game 
+again. Do this pattern until you level up or up to how many times you want. If 
+you feel you’re ready, from the throne room, go left one screen. Now, prepare 
+your character and then SAVE the game. You’ll now face Dark Lord!
+
+BOSS: DARK LORD 
+#############################################################################
+EXP gained:         166
+GP:                 11
+Attacks:            Sword Attacks
+Preferred Weapon:   Morning Star
+
+He isn’t as hard as you think. All you have to do is to use your Morning Star. 
+It will pass through his shield and damage him. The one thing that you must be 
+aware of is that he has a good AI and can follow you even if you try to run 
+away from him. You don’t have to worry about his sword attacks. All you have 
+to do is to stay away from him to prevent him from damaging you when he 
+touches you.
+#############################################################################
+
+After beating Dark Lord, you’ll receive the pendant. But, you’ll notice that 
+it is fake! So, use the ladder on the lower right corner. In the next room, 
+you’ll see that Fuji is not here anymore. So, Julius might have done something 
+to her. After that, you’ll be taken automatically outside the castle. Here, 
+you’ll see Fuji. You’ll try to call her but she will ignore you. After you’ve 
+regained control of your character, go all the way to the left to the 
+waterfalls. 
+
+Here, you’ll see that Julius already mesmerized Fuji. Julius will tell you 
+that he is the only one left from Vandole and he must one again acquire the 
+power of Mana. Fuji will now reverse the waterfall. In you last desperate 
+moment to save Fuji, Julius will blast you again and you’ll fall again. 
+
+After your fall, you’ll find yourself in the world map, but you cannot move. 
+Then, the Chocobo will come and pick you up and brings you inside the town of 
+Ish.
+
+===
+ISH
+===
+
+When you wake up, you’ll find yourself in the house of Sarah together with, 
+guess who, Bogard! You’ll immediately stand up and begin hesitating about 
+what’s happening to you, about being a Gemma knight and about Mana. Then, 
+Bogard will tell you to shut up and you’ll get out of the house. Now, talk to 
+Sarah. She will tell you that she believes in you that you are the only hope 
+in saving the world. Then, she’ll tell you that chocobo is being treated at 
+Doctor Bowow’s house. Let’s head there first before going to the shops. From 
+Sarah’s house, go left two screens. Now, enter the house. Right before 
+entering, you’ll hear some weird sounds coming from the house. Inside, you’ll 
+see Dr. Bowow and Chocobo. Dr. Bowow will tell you that he mechanized the 
+Chocobo’s wounded leg and can travel by water! He named it the Chocobot! Then, 
+Dr. Bowow will tell you also that you are the only hope and that you should 
+talk to Bogard first before leaving town. So, head back to Sarah’s house and 
+talk to Bogard. Now, Bogard will tell you that from here onwards, your 
+adventure will be much more dangerous. You must now endure in the quest for 
+the Excalibur to be able to defeat Julius. Just like Bogard and co. once did 
+against Vandole. You should now go and talk to Cibba to know more. Dr. Bowow 
+knows the direction but let’s ME help you this time. Now, let’s prepare your 
+character. Leave Sarah’s house and go to the weapon shop. And then, go buy 
+items at the Item Shop. After that, you’ll also notice that your HP and MP are 
+still the same just as it was after beating Dark Lord, so head to the Inn and 
+pay a small amount (10 G) to rest. After resting, from the in, go all the way 
+to the south until you reach the World Map.
+
+=====
+WORLD
+=====
+
+Once outside, talk to your new chocobot so that he would join you. Now, follow 
+my instructions carefully so that you’ll reach Wendel in no time. 
+
+From Ish, Go left one screen and then go north two screens. Next, go left two 
+screen. Here, you’ll see a wooden dock. So, ASK the chocobot to give you a 
+ride. Now, you can walk on water when you use the dock. Just put your chocobot 
+on the docks and simply enter the water. When you’re in the water, go north 
+one screen. Next, go right SEVEN screens and then go up one screen. Use the 
+docks here and then go north one screen. You’re now exactly at Wendel. Now, 
+jump off your Chocobot and enter Wendel.
+
+======
+WENDEL
+======
+
+upon entrance, go north one screen. Here, you’ll see a lady which looks like a 
+mouse. If you talk to her, she will tell you that Lorim was attacked by many 
+monsters and Cibba went there! She will also tell you that it is south from 
+the snowfields. After hearing that, leave Wendel right away. Get your Chocobot 
+(I won’t remind you again next time, so always remember take your chocobot 
+after you leave a town or a dungeon.). In the world map, go south one screen 
+from Wendel and use the docks again. From the docks, head south two screens. 
+And then, go left four screens. Here, go south one screen. From here, just 
+move one (the path is pretty straight forward) until you see another dock. Use 
+than and then go up the ladder up to the next screen. In this screen, a path 
+to the left is blocked by trees so go right one screen. And then, go south two 
+screens. Next, go right one screen and then go up the big set of ladders and 
+enter Lorim. 
+
+=====
+LORIM
+=====
+
+Upon entering the town of Lorim, you’ll notice that the person here is frozen! 
+It seems someone or something froze the whole place! From the main room, go up 
+one screen. Here, you’ll see the King. Amazingly, he’s not frozen so talk to 
+him. He’ll tell you that Julius summoned a monster named Kary and froze the 
+Town! Now, it’s time to beat that Kary up! So, leave Lorim at once. 
+
+=====
+WORLD
+=====
+
+Now, go back to where you saw a path blocked by trees. Now, use your axe and 
+hack all the trees here. After hacking all the trees, go north three screens. 
+This place is very cold and Chocobot cannot join you from here. So, you have 
+to move on without chocobot. Now, go north one screen. And then, go left one 
+screen. You’ll see a house here. Enter it. It’s an Item shop so buy all your 
+item needs here. After buying, if necessary, leave the shop. 
+
+From the shop, go right three screens. Next, go south one screen and then go 
+left one screen and then go south one screen. And then, go right two screens. 
+Here, you’ll see the entrance to the Cave of snowfields where Kary is. Enter 
+it.
+
+==================
+CAVE OF SNOWFIELDS
+==================
+Item:
+  Elixir
+
+Upon entering, go north two screens (use the left sliding floors on the second 
+room). On the north room, you’ll see a lot of sliding floors and a snowman. 
+Now, step on the upper right switch. A sliding floor will appear beneath the 
+snowman. The snowman will now travel through the sliding floors until in 
+reaches the end. Now, push it north onto the floor switch. The door on the 
+right should now be open. So, go right one screen. Now, use your Flame Flail 
+and swing across. Now, go to the sliding floor to the north of this room. In 
+the next screen, use your MAXed flame flail on the pole to the left and then 
+step on the sliding floor on the left. When you reach the next room, you’ll 
+see that you can go next screen to all 4 different directions. Sliding floors 
+at the sides, south door and a north door. Go through the north door to the 
+next screen (don’t forget to use a key). Now, go right one screen. In here, 
+sliding floors block your way. You pass through only at the sliding floor 
+which is second from the bottom of the screen. Now, go north one screen. Here, 
+use your Morning Star to break the northern wall. And then, go north two 
+screens. In here, there are sliding floors again. Just walk to any one of the 
+top horizontal sliding floors and it will bring you to the correct one. Once 
+your outside of the sliding floors, go right two screens. Here, use the 
+ladder. 
+
+In the next area, you’ll see sliding floors going to the right screen and to 
+the south screen. Use the right sliding floors. From here, just wait until 
+Sumo stops in a screen with Pumpkin and two flowers to the north. Now, use 
+your Morning Star and break the north wall. And then, go north one screen and 
+use the ladder in there. 
+
+In the next area, break the north wall. Go through it and you’ll see a 
+recovery spring. After using it, go south one screen. Here, go left one screen 
+and then go south one screen. Kill all the enemies in this room. A chest will 
+appear in the center. Now, get it for an elixir. And then, go back north one 
+screen and then go right two screens. Here, go north one screen. Next, just 
+walk on the sliding floors then use the ladder at the upper right. In this 
+area, just go right one screen and enter the door. Next, use your MAXed flail 
+to reach the pole. After crossing over the sliding floors, go left two 
+screens. Next, go south one screen. In this room, walk to the sliding floor 
+and use your flail on the poles in the middle. After that, step in the switch. 
+A portion of the sliding floors will disappear. You can now step on the lower 
+right floor switch. The door will now open. Now, go south one screen. Here, 
+just go through the sliding floor and then go right two screens. In this room, 
+you can either go right or south. Go right one screen by using the sliding 
+floor. On the next screen, use the south sliding floor. When you reach the 
+next screen, you’ll see a small pond in the middle then, use the sliding floor 
+to the south. On the next screen, use your flail to reach the pole to the 
+left. Take note that you do not the a MAXed flail here. Now, go left using the 
+sliding floors. Now, you should be in a room where you can see a pit in the 
+middle and a wooden bridge over it. You’ll also see the sliding floors to the 
+left and right. Now, equip your flail (if it isn’t equipped) and use the left 
+sliding floor. When you reach the next room, try to hit the 2 poles on the 
+left wall. If you’re not successful, you’ll be back at the room with the pit. 
+Just continue on trying until you are able to hit either of the poles. If 
+you’re successful, use your Morning Star on the wall and go left one screen. 
+In this room, use your MAXed flail on the leftmost pole. And then use it on 
+the northmost one. Now, use the ladder at the corner. And then, go right one 
+screen and enter another door. When you reach the room with 3 poles, use your 
+flail on the middle pole first and then use it on the lower right one. Now, go 
+right one screen. And then go north one screen. Use the ladder in the corner 
+again. Now, prepare Sumo for another boss. I suggest that you use the Flame 
+Flail for the next battle. If you’re ready, go right one screen and meet Kary.
+
+BOSS: KARY
+#############################################################################
+EXP gained:         183
+GP:                 129
+Attacks:            Icicle, Charging Tail attack
+Preferred Weapon:   Flame Flail
+
+Kary is very easy. Just stay on top or below him and continue hitting his 
+body. You cannot hit his tail or his hand as they are impervious to attacks. 
+He’ll just throw icicles at you and most of the time, charge at you and 
+attacking you with his tail. If you have the Flame Shield, it can block ALL of 
+the Icicles that are thrown at you.
+#############################################################################
+
+After beating Kary, a chest will appear in the middle. Now, examine it and 
+you’ll receive the Ice Sword. After that, you’ll be taken automatically to the 
+world map.
+
+=====
+WORLD 
+=====
+
+Now, let’s head back to Lorim. If you don’t remember how to get there, I’ll 
+show you how:
+
+From the Cave of Snowfield, go left two screens. Next, go up one screen and 
+then go right one screen. Next, go up two screens. From here, go left two 
+screens. Now, go south two screens. Get your Chocobot. From here, go south two 
+screens. Equip your Axe and hack away the trees then go right one screen. From 
+here, it’s pretty straight forward so, go to Lorim now.
+
+=====
+LORIM
+=====
+Item:
+  Bone Key
+
+Now, from the main room, to right one screen. And then, go north one screen. 
+Cibba will be here. Make sure you have a slot which is free in your Items 
+Inventory. If there is, talk to Cibba. You’ll receive the Bone Key right away. 
+Then, Cibba will tell you to go through Ammonite Coast then to Floatrocks and 
+use the bone Key in the Cave in Floatrocks. He will also tell you that he will 
+wait for your return with the Legendary Sword which is with the Guardian of 
+the cave. After talking to Cibba, leave Lorim.
+
+=====
+WORLD
+=====
+
+Let go to Floatrocks! Follow my instructions carefully so you won’t get lost. 
+First I suggest you ride your Chocobot. From Lorim, go south one screen and 
+then go left one screen. And then, go north two screens then left one screen. 
+Now, go south one screen. Here, use the docks and go in the water. 
+
+When you’re in the water go north four screens and then go left one screen. 
+And finally, go north one screen. You should now be on top of the map. Now, go 
+RIGHT four screens. Don’t go up as you’ll just end up below the map. Let’s 
+continue, go south two screens and then go right one screen. Next, go south 
+one screen and then right one screen. And then, go south four screens. You 
+should now see a water channel to your left. Go left one screen through the 
+water channel (river). Now, just keep on moving until you reach another dock. 
+Go out of the water and in to dry land.
+
+Now, in dry land, go north one screen and then go right one screen. Here, go 
+north first. There’s a recovery spring here. After using it, if necessary head 
+south one screen. Then, go south one screen (don’t grab the pole on the left 
+side). Then, go right one screen. You’ll be at the shore of Ammonite Coast. 
+From here, just go all the way to the north, grabbing the poles if necessary, 
+until you reach the weapon shop at the end. You can buy Ice equipments here. 
+After buying the equipments, head all the way back to the recovery spring and 
+heal yourself. Now, from where the Recovery spring is, just go south one 
+screen. Now, chain yourself to the pole on the other side of the waterway.
+
+Now, go south two screens. And then, go right one screen. Here, at the shore, 
+go south three screens. And then, go left one screen. Now, you should see some 
+Floating Rocks so, equip your Morning Star as it can destroy these rocks. Now, 
+from your position, go south one screen. And then, go left one screen. You’ll 
+see an item shop so buy items if necessary. After that, leave the shop. From 
+the item shop, go right one screen. And then, go south one screen. Next, go 
+right one screen (you’ll be at another shore) and then go south 2 screen. 
+Here, go left one screen. 
+
+Now, go north one screen. Here, cross the wooden bridge and then go south two 
+screens. Now, go left one screen. You’ll see a Weapon shop here. I suggest you 
+go in and buy the Thunder Spear. You should have enough money by now. It costs 
+11250 you know. Now, after buying the spear, leave the shop. From the shop, go 
+south one screen and then go right one screen. Here, go south one screen 
+again. Next, go right two screen and then go north one screen. You’ll see a 
+Magic Shop here. So, go buy if you want some Magic Items. After buying, leave 
+the shop. From the magic shop, go left one screen. Finally, you reached the 
+cave of Floatrocks! Now, equip the Bone Key and enter the cave.
+
+==================
+CAVE OF FLOATROCKS
+==================
+
+Once inside, go north one screen. Open the north door and go north one screen. 
+Here, destroy the right wall. And then, go right two screen. Now, destroy the 
+rocks and step on the upper switch. And then, destroy the rocks below and step 
+on the lower switch. Next, go right one screen and then go up two screens. In 
+here, destroy the north wall. And then, go north one screen and use the ladder 
+at the end. In this new area, prepare your character for a boss battle. After 
+preparing, head right one screen and meet...
+
+BOSS: KRAKEN
+#############################################################################
+EXP gained:         199
+GP:                 150+
+Attacks:            Tentacles
+Preferred Weapon:   Thunder Spear
+
+If your slow, you might have some troubles with Kraken. It has two tentacles 
+by it’s side. Most of the time it won’t attack and sometimes it extends its 
+tentacles into the bridge and might hit you. The strategy here is to attack 
+then retreat. You must hit its head then quickly move out of the way of its 
+tentacles. This way, once it attacks, you’ll be out of harms way. This might 
+take long but I’m sure you can beat it.
+#############################################################################
+
+After beating Kraken, a door will appear. Go inside it. You’ll be outside now. 
+Now, you’ll see a door below right? All you have to do is to go around this 
+small island and you’ll be able to reach that door. Once you reach it, enter 
+it right away.
+
+Inside, you’ll face new and stronger enemies but they sure give you a lot of 
+EXP and Gs. Now, go south one screen. Next, go left two screen and then go up 
+one screen. Here, destroy the wall to the left. Now, equip your Ice Magic and 
+your Sickle and go left one screen. Here, Hack away all the herbs around both 
+switches. Now, you can kill the Dark Mages if there are some but leave the 
+knights alive. You have to turn 2 of them into snowmen and place them over the 
+switches. If there’s only 1 knight, leave the room and then come back again. 
+If you successfully placed 2 snowmen on the switches, a ladder will appear in 
+the lower right corner. Now use the ladder. In the next area, go left one 
+screen. Here, go inside the door at the end. In the next area, go left one 
+screen. You’ll see a lava pool in this room. If you touch it, you’ll get A LOT 
+of damage! But you have to cross it. So, heal your character to the MAX and 
+cross the lava and go north one screen QUICKLY. Now, heal your character 
+again. Now, go north one more screen. You’ll see 2 doors here. Go left one 
+screen first and then go south one screen. Next, go left one screen. There’s a 
+lava pool here but luckily, you won’t have to cross it. Now, go south one 
+screen. You’ll see a dreaded Lava Pool. You have to cross it if you want to 
+get the treasure. So, cross it quickly and Cure if necessary. Once you reach 
+dry land, use a key and go south one screen. Here, kill all of the enemies and 
+a chest will appear in the middle. It’s the most powerful Axe in the game. The 
+Zeus Axe! Now, go north one screen and cross the lava pool again and go up 
+another screen. Here, destroy the right wall again and go right one screen 
+(there’s no point in going left). Next, go up one screen and then go right one 
+screen. 
+
+In here, go north one screen. Here, break the right wall and go right one 
+screen and use the ladder. Outside, just use the other door on top. In the 
+next area, go north one screen and then go right two screens. Here, go south 
+one screen. If you’re HP/MP are low, go south one screen for a recovery spring 
+and then come back one screen. Here, open the right door and go right one 
+screen. Here, destroy the lower right rock and use the ladder that appear. In 
+the next screen, you must choose among 3 doors. Choose the right most door as 
+the other 2 will only confuse you and won’t get you anywhere. Now, in the next 
+area, go south one screen and then go left one screen. Here, get your Ice 
+Magic ready and head north one screen. Here, turn any 2 monsters into snowmen 
+and push them on to the floor switches. After placing 2 snowmen on the 
+switches, a ladder will appear. Just attack the snowmem and you can now use 
+the ladder that appeared. In the next area, prepare your character once more. 
+Now, equip him with the Thunder Spear and Cure Magic and heal his HP/MP. If 
+you’re ready go left one screen and meet...
+
+BOSS: IFLYTE
+#############################################################################
+EXP gained:         223
+GP:                 264
+Attacks:            Rolling Attack
+Preferred Weapon:   Thunder Spear
+
+Iflyte is very easy. Just attack him using the Spear. When he does his rolling 
+attack, just dodge it. You won’t have any problems at all. He’ll also stay for 
+a while on the top or at the bottom of the screen.
+#############################################################################
+
+After beating Iflyte, a chest will appear in the middle. Examine it to get the 
+Rusty Sword. Then, you’ll be taken automatically outside. 
+
+=====
+WORLD
+=====
+
+There’s a glitch here. If you arrive in the world map and the chocobot is in 
+the upper left corner, you can’t talk to it because the rocks get in the way. 
+All you have to do is to leave this screen and come back again and talk to the 
+chocobot and take it with you again. Now, we’ll have to go all the way back to 
+Lorim and see Cibba once more. I’ll tell you again how to get there if you 
+forgot. Here it is:
+
+From the cave, go right one screen and then go south one screen. From here, go 
+left two screens. Next, go north one screen and then left and then north 
+again. You’ll be at the shop where you bought the Thunder Spear. From here, go 
+right one screen and then go north two screens. Cross the wooden bridge then 
+go south one screen and then one screen to the right. You’ll be back at the 
+shore. Here, go north two screens then go left one screen and then go north 
+two screens more. Here, go right one screen. You’ll now be at the Ammonite 
+Coast Area.
+
+Next, go north three screens and then go left one screen. Here, go north one 
+screen. Now, use your Flail and cross the river. And then, go north one 
+screen. Here, you can go north and recover at the Springs. After using the 
+Springs, go south one screen then go left one screen. Now, go south one 
+screen. Now, go into the water using the docks. 
+
+In the water, go north one screen. And then, go right one screen then go south 
+two screens and then go right one screen again. You’ll be at the ocean again. 
+Here, go north six screen and then go left two screens. Next, go north one 
+screen. And then, go left four screens. Now, go down through the water channel 
+going to the south and head for Lorim. 
+
+=====
+LORIM
+=====
+
+When you reach Lorim, talk to Cibba right away. He’ll tell you that the only 
+thing left to do is to reveal the Dime Tower in the Desert of Crystal. You 
+must then use the Rusty Sword (Legendary Sword) in the Cave of Ruins in order 
+to reveal the Tower. The ruins is located in the Desert of Crystal near Ish. 
+After a short talk about the Sword, Cibba will tell you to go to Dr. Bowow to 
+ask for directions. Nah! You can ask me though! :)
+
+Here’s my instructions to get to the Cave of Ruins:
+After talking to Cibba, leave Lorim right away. 
+
+=====
+WORLD
+=====
+
+Now, in the world map, get your Chocobot. Go to the Ocean and go up until you 
+reach the top portion of the map. (You should see the shop in the Snowfields). 
+Check you map and check whether your already on top of the map. If you went to 
+Bowow, you’ll know that the Cave of Ruins is hidden beneath one of the 
+crystals in the Desert of Crystal and you’ll need a very powerful magic to 
+destroy the crystal covering the entrance. It is the Nuke Magic. Bowow will 
+tell you to beat Lich at the Palmy Desert. I’ll just tell you how to get there 
+and beat Lich for the Nuke, the strongest magic in the game. 
+
+From your current location (on top of the map), go left until you see the 
+docks in the Desert of Crystal (Ish Area). Here, don’t go to dry land, 
+instead, go north three screens. You’ll see the Palmy Desert and the docks. 
+Use the docks to enter dry land. Now, from your current position, go left one 
+screen. And then go south one screen then go left one screen. Next, go south 
+one screen again and then go left one screen again. Here, go north one screen. 
+You’ll now see the Cave of the Palmy Desert.
+
+====================
+CAVE OF PALMY DESERT
+====================
+Magic:
+  Nuke
+
+Once inside, use the other ladder at the lower right corner of the room. In 
+the next room, use the other ladder again at the lower right corner. In the 
+next area, go down the ladders. Before going north, make sure your HP and MP 
+are FULL as you’ll meet one of the most damaging enemy in the game! I suggest 
+that you use the Flame Flail as it has a fast attack and can hit Lich many 
+times. And don’t forget to Save. Now, if you’re ready, go north and battle 
+Lich.
+
+BOSS: LICH
+#############################################################################
+EXP gained:         196
+GP:                 204
+Attacks:            Skulls
+Preferred Weapon:   Flame Flail
+
+You must be very fast as Lich flies around quickly. He’ll also lunge at you 
+some nasty skulls that damages you a lot. And most of all, DON’T EVER TOUCH 
+HIM! You’ll receive a very large amount of damage! All you have to do is to 
+try to evade him at the same time, hitting him with your Flail. Your Flame 
+Flail will be fast enough for you to move away from Lich. The only advantage 
+Lich can give you is that, you can hit Lich on any part of his body. So, try 
+to be patient.
+
+Note: You can hit the Skulls with your weapons. 
+#############################################################################
+
+After the battle, you’ll now receive the Nuke Magic. Then, you’ll 
+automatically be taken on the world map. 
+
+=====
+WORLD
+=====
+
+Now, if you return to Dr. Bowow, he’ll now tell you the location of the 
+crystal that covers the Cave of ruins. I’ll just tell you how to get there to 
+save time. Now, from the Cave, go back to the docks and into the water. From 
+here, go south three screens and you’ll arrive in the Docks at the Desert of 
+Crystal. Go to Dry Land and then go right one screen. Here, you’ll see 2 
+crystals in the middle. Use your Nuke and blast the one on the right. A cave 
+opening should now appear. Enter it and you’ll be in the Cave of Ruins.
+
+=============
+CAVE OF RUINS
+=============
+Equipments:
+  Dragon Sword
+  Dragon Shield
+
+Upon entering, go left two screens. Next, go north one screen. In here, use 
+the slippery floors and go right one screen. You can now get the 2nd best 
+shield in the game, the Dragon Shield. After getting the shield, go left one 
+screen again. This time, go north two screen. In here, go left two screens. 
+Now, you’ll get the Dragon Sword. After getting the sword, go right two 
+screens. Next, go right two screens. And then, go north three screens. Next, 
+go left one screen, Now, prepare your character for another boss battle. If 
+you’re ready, go north and face...
+
+BOSS: MANTIS ANT
+#############################################################################
+EXP gained:         214
+GP:                 229
+Attacks:            Charging Attack
+Preferred Weapon:   Flame Flail
+
+You’ll have to cross the lightning barrier so that you’ll be in the middle. 
+When you’re inside, cure at once and then hack away with your Flame Flail. 
+Most of the time, Mantis Ant will stay on top. He rarely uses his charging 
+attack but it is very easy to evade. Trust me, Mantis Ant is easy. 
+#############################################################################
+
+After the battle, heal your HP to the MAX. After that, equip the Rusty Sword 
+and go right one screen. In here, step on the Floor Switch while you have the 
+Rusty Sword Equipped. It will release it’s power now. Then, you’ll be 
+automatically taken to the world map. A message will show up. Dime Tower 
+should now appear somewhere in this desert.
+
+=====
+WORLD
+=====
+
+This will now be your last time to see the World Map. You can buy Equipments 
+and Items (especially Keys). So, go visit Ish one last time. Once there, sleep 
+at the Inn and buy Keys until you have 8 sets of it in your inventory. If 
+you’re ready, let’s head for the Dime Tower. I repeat, there’s no turning back 
+now.
+
+From Ish, go left one screen and then south one screen and finally to the left 
+one screen. You’ll see the Dime Tower emerge from the ground. Now, this will 
+be the last time that you’ll see the world map so come here prepared. Take 
+note that if you go left one screen and the north one screen, you’ll see a 
+Magic Shop. Buy something if you need it. If you’re ready, go to the Dime 
+Tower and enter the door. (Bye Chocobot!) 
+
+==========
+DIME TOWER
+==========
+Equipment:
+  Dragon Armor
+
+upon entering, you’ll see Marcie. A robot created by Dr. Bowow 50 years ago. 
+She’ll be able to help you by restoring your MPs! Wow! Unlimited Magic! Let’s 
+move on.
+
+From the first room, go left one screen and then go north two screens. Now go 
+north and go tot he tablet. It says “THE TREE OF MANA GROWS WITH THE ENERGY OF 
+NATURE”. After seeing it, go back south one screen. You can bypass these 
+tablets but they have infos about Mana. Now, go right one screen. Next, go 
+south one screen and then go right one screen. You’ll see another tablet. It 
+says “THE EVIL FORCE OR PEOPLE MAKES THE TREE EVIL”. After that, go right one 
+screen. Next, go north one screen. From here, you can choose any of the 2 
+paths. 
+
+Path #1
+-------
+From the screen with 4 floor switches in the middle, go left one screen. Next, 
+go up one screen and then go left one screen. Use the ladders here. In the 
+next area, go left one screen and then go south one screen. Next, go right one 
+screen. Now, go south two screens. You’ll see another tablet that says “ONE 
+WHO TOUCHES THE MANA TREE GETS THE POWER”. From here, go right one screen. Go 
+to meeting point...
+
+Path #2
+-------
+In the screen with 4 floor switches in the middle, use your Flail to go in the 
+middle. Just step on all floor switches and the door to the north will open. 
+After that, go north one screen and use the ladders. In the next area, go up 
+one screen using the vines. In this screen, just enter the door. Now, go south 
+three screens and then go left one screen.
+
+Meeting Point
+-------------
+Now, use the ladders. In the next area, go up one screen using the vines to 
+the left. On the next screen, enter the door. Now, go left one screen. There 
+are 2 locked doors here, one to the left and one to the north. Let’s call this 
+Point AA. Now, equip a key then go north one screen. Next, go right one 
+screen. You can now get the Dragon Armor from the chest in the middle. If you 
+go north one screen and move on, you’ll reach a tablet that says, “GEMMA 
+KNIGHT WITH THE RUSTY SWORD WILL BE TESTED. THE TRUE GEMMA KNIGHT SHOULD BE 
+GIVEN THE LEGENDARY SWORD, EXCALIBUR...!”. Now, go back to Point AA. If you go 
+left one screen, you’ll see another tablet that says “KING OF VANDOLE GOT THE 
+MIGHTY POWER OF MANA. THE ONLY ONE WHO CAN STAND AGAINST IT IS THE... GEMMA 
+KNIGHT... WITH THE... EXCALIBUR...”. Let’s go to Point AA again. From here, go 
+north one screen again. Here, destroy the left wall and go through it to the 
+next screen. Then, use the ladders. In the next screen, just use the other 
+ladder. In the next area, equip your axe and hack the 2 trees that are 
+covering the 2 monsters. Be careful not to hit them. If you accidentally 
+killed one of them, just save and then restart the game again. Now, once the 
+trees are gone, use your Ice and turn them into snowmen. The north door will 
+now open. Then, go north one screen and then go right one screen.
+
+You’ll see another tablet that says “THE VANDOLE SOON SHOULD FALL. WE LEAVE 
+OUR LAST HOPE IN THE CAVE OF THE WATERFALLS. GLORY TO VANDOLE AND TO OUR CHILD 
+OF HOPE...!”. Now, go south one screen and use the ladder there. In the next 
+screen, prepare your character for a boss fight. If you’re already prepared, 
+go north one screen and face...
+
+BOSS: GARUDA
+#############################################################################
+EXP gained:         221
+GP:                 266
+Attacks:            Feather Blades, Charge
+Preferred Weapon:   Flame Flail
+
+I suggest you use the Flame Flail as it can attack more times than the other 
+weapon types. Garuda is VERY EASY! Just stay on the lower left corner if he is 
+on the upper left, and go to the lower right corner if he is on the upper 
+right. Just attack and attack while you’re in the corner. Once he charges, 
+just follow him. You’ll receive no damage at all. Your Flail will destroy all 
+Feather Blades that he throws at you. 
+#############################################################################
+
+After the battle, the tower will crumble. It lost its balance. One you regain 
+control of your character, go left one screen. In the next screen, you can 
+take advantage of Marcie for the last time. Equip your Cure magic and then use 
+it until your HP is at full. Then, ASK Marcie to restore all MPs! After doing 
+this trick, go left one screen. 
+
+Now, a piece of the tower will fall. You can’t go to the other side. Marcie 
+will then kick you so that you can reach the other side. Once you reach the 
+other side, you’ll see a sad scene. Marcie is unable to jump. The Dime Tower 
+will come crashing down including Marcie. Sumo will have a surge of emotion 
+afterwards (he’ll shout). 
+
+=============
+GLAIVE CASTLE
+=============
+
+When you regain control of Sumo, keep moving left. You’ll notice that you’re 
+at Glaive Castle. You don’t have to enter the castle itself. Go all the way to 
+the left towards the waterfalls. Once you reach it, it’s current will now go 
+up and Sumo will go for it. You’ll be taken WAY WAY up until you reach the 
+top. You’re now at the Final Dungeon in the game, the Temple of Mana.
+
+==============
+TEMPLE OF MANA
+==============
+
+//////////////////////////////////////////////////////////////////////////////
+SUPER TIP #1:
+You can get Elixirs from the Ninja’s right? Now, if your item inventory is 
+full and you examine a chest left by a ninja, it will say “Can’t Carry” right? 
+Now, here's something great. Keep on examining it and you’ll get the most 
+powerful Armor in the game, the Samurai Armor.
+
+SUPER TIP #2:
+The Devil Heads here that can only be destroyed by using the Nuke Magic, give 
+off X-Ethers. If you do the same thing as you did to the Ninja, you’ll be able 
+to get the most powerful Helmet in the game, the Samurai Helmet.
+
+SUPER TIP #3:
+The Elephants near the last boss will give you a Unicorn. If you do the same 
+thing as you did with the Ninjas and the Devil Heads, you’ll get the most 
+powerful shield in the game, the Aegis Shield. It can deflect ANY projectile 
+attack at you. Even the strong force balls of the last boss.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Now, move on until you enter the Temple itself. Inside, just go south one 
+screen and then go right two screens. Next, go north two screens. In here, 
+equip a key and go north one screen and then use the ladders. In the next 
+area, prepare your character for a boss fight. After the preparations, go 
+north one screen and face...
+
+BOSS: DRAGON
+#############################################################################
+EXP gained:         0
+GP:                 257
+Attacks:            Fire Ball
+Preferred Weapon:   Flame Flail or Thunder Spear
+
+This is a very easy fight. Just use your Flail or Spear to attack the Head 
+ONLY. You can’t damage any other part of its body. 
+#############################################################################
+
+After the fight, use the teleporter that appears. In the next screen, just go 
+right one screen (You’ll see the Devil Heads here so use Super Tip #2) and use 
+the teleporter. 
+
+In the next screen, go left one screen. Here, go north one screen and then go 
+left two screens and use the teleporter at the end. In the next area, just go 
+right to the next screen and use the teleporter. In the next area, go south 
+one screen. Here, destroy the left wall then go left two screens. Next, go 
+south one screen. Here, go left one screen and use the teleporter. Next, go 
+left one screen and then go south one screen. Now, in this room, there’s a 
+trapped monster in the bottom of the screen. Now, equip your Ice Magic and use 
+to turn the monster into a snowman. Your Ice can pass through the circle 
+thingy (whatever) so you can reach it. It’s easy to guide your icicle, just 
+try again if you fail. If you successfully turned the monster into a snowman, 
+the right door will open. Now, go right one screen and use the ladder. In the 
+next screen, prepare your character again for another boss. If you’re prepared 
+go north one screen.
+
+BOSS: RED DRAGON
+#############################################################################
+EXP gained:         0
+GP:                 257
+Attacks:            Fire Ball
+Preferred Weapon:   Flame Flail or Thunder Spear
+
+It’s just the same as the previous dragon. Just use your Flail or Spear to 
+attack the Head ONLY. You also can’t damage any other part of its body. 
+#############################################################################
+
+After you beat the Red Dragon, use the teleporter that will appear. In the 
+next area, just go left one screen and use the teleporter. Now, go right one 
+screen and then go north one screen and use the teleporter. In the next area, 
+go right one screen and use the teleporter. 
+
+Now, go south one screen and then go right one screen. Now, let’s call this 
+screen Point BB. From here, go right one screen and use the teleporter. In the 
+next screen, go left one screen using a key. Use the Recovery Spring and then 
+go back to Point BB. From here, go south one screen and use the teleporter. 
+Now, go left one screen and use the teleporter. When you reach the next area, 
+go right five screens. Here, you’ll see a lot of floor switches formed in a 
+rectangle. You have to change a Ninja into a snowman and put it in the correct 
+Floor Switch. In the left COLUMN of switches, the correct one is the ones 
+which is second from below. Put the snowman there and the door to the north 
+will open. Now, go north three screens and use the ladder. In the next screen, 
+just like a while ago, prepare your character again. If you’re ready, go north 
+one screen.
+
+BOSS: DRAGON ZOMBIE
+#############################################################################
+EXP gained:         0
+GP:                 270
+Attacks:            Fire Ball, Charge Attack
+Preferred Weapon:   Flame Flail or Thunder Spear
+
+The Dragon Zombie looks like the two-headed dragon you fought way back at the 
+Cave of Marsh. All you have to do is to attack the head with your flail or 
+spear. Beware though, if his fireballs hit you or you accidentally touched it, 
+it will deal a big amount of damage compared to the previous 2 dragons.
+#############################################################################
+
+After the battle, use the teleporter that will appear. From here on, the path 
+is pretty straight forward to the final boss! You can now use my Super Tip #3 
+to get the Aegis shield for the best protection. Now, on the way, you’ll see 
+Fuji’s Mom. She’ll tell you that you have been a great Gemma knight. She will 
+now bestow you with the most powerful weapon in the game, the Excalibur! Equip 
+it right away then move on. NOW READ CAREFULLY. When you reach the area where 
+you can see 2 big trees to the left and right and a big ladder in the middle, 
+prepare your character for the final battle! I recommend level 50+ when you’re 
+here. You can level up your character by beating the elephants here until you 
+reach level 50. If you’re ready go up the ladder and fight Julius!
+
+NOTE: YOU WILL RECEIVE EXP AND GP!!! This very odd! The EXP is useful as you 
+can level up while you fight Julius. But the GP? It’s useless.
+
+FINAL BOSS: JULIUS (3 Forms)  162438 - 61535
+#############################################################################
+Note: You should use the Excalibur Sword. But if you want some challenge, try 
+using the Broad Sword! :) And, in all three forms of Julius, the charging 
+attack of the MAXed sword is the most efficient attack to use.
+
+FIRST FORM:
+-----------
+Attacks:  Sword
+EXP:      638
+GP:       818
+
+Julius will be in triplets. You just have to attack and beat all three until 
+all of them disappears. After that, prepare for Julius’ second form.
+
+SECOND FORM:
+------------
+Attacks:  Lightning Bolts, Charging Attack
+EXP:      0
+GP:       162
+
+He will turn into a monster now and Julius will be harder to avoid this time. 
+He’ll be flying on top while throwing Lightning bolts. From time to time, he 
+will also charge downwards so try to be always by his side. He can charge from 
+left to right or vice versa though. 
+
+THIRD FORM:
+-----------
+Attacks:     Teleportation, Force Ball
+EXP and GP:  No more
+
+He will turn into a head with 2 arms. He will teleport from one place to 
+another. There is a pattern but I won’t include it in the guide. Also, while 
+teleporting from place to place, he will be throwing force balls at you. With 
+you Aegis Shield, the force balls are NOTHING! He will be hard to beat, but 
+with Fuji as your companion, you can ASK her to regenerate your HP while 
+fighting. What I did was I also equipped the Nuke at the same time, attacking 
+with the Excalibur. These made short work of him!
+#############################################################################
+
+After you beat all 3 forms of Julius, you’ll see a short scene. It’s somewhat 
+sad but happy at the same time. I won’t spoil it, just finish the game. :) 
+Well, that’s it for the best RPG for the Gameboy (My rechargeable batteries 
+got a beating). So, thank you for reading the guide and congratulations! I 
+hope you enjoyed the game! Until then. C’ya!
+
+
+                             -=-=-=-=-=-=-=-=-=-
+                                  WORLD MAP
+                             =-=-=-=-=-=-=-=-=-=
+
+Here’s my version of the world map. The world map provided in the game’s box 
+is more graphical. I lost my copy of that map and I’m creating one based from 
+the actual game map. (That map also contains some items and equipments and is 
+included in the package of this game)
+
+                A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P 
+                __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+            1  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            2  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|    
+            3  |  |  |  |  |  |  |  |  |  |TA|  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            4  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            5  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            6  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            7  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            8  |  |  |  |  |  |  |  |  |TA|  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            9  |  |TA|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            10 |  |  |  |  |TA|  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            13 |  |  |  |  |  |  |  |  |  |  |  |  |  |TA|  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+            16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+               |__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|__|
+
+   Legend:
+   TA = It denotes that the screen has a town entrance. 
+
+   Here are the descriptions of the important locations in the map:
+   13N  = Wendel        7F   = Starting Point
+   3J   = Ish           10E  = Menos
+   9B   = Jadd          8I   = Topple
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=-
+                                 ITEM LIST
+                          =-=-=-=-=-=-=-=-=-=-=-=-=
+
+Here are the items that are found throughout the game. The list contains 
+information as to where the item can be found, what it does and how much it is 
+(if it can be bought from shops). 
+
+NAME          Description            Location          Set    Price(Buy/Sell)
+-----------------------------------------------------------------------------
+Blaze         Stronger Version of    Magic Shops        2        240 /   60
+              Flame
+Blizzard      Item that’s the same   Walrus             2         80 /   20
+              as Ice Magic
+Bone Key      Opens Cave of          given by Cibba at  1          0 /    2
+              FloatRocks             Lorim
+Bronze Key    Opens Cave of Marsh    Lizardmen          1          0 /    2
+Candy         Restores 8 HP          From Black Mice    1          0 /    2
+Crystal       Fills Will Bar by 100% Owls               1          0 /  500
+Cure          Heals HP a little      Item Shops         2         40 /   10
+Elixir        Restores Max HP/MP     -                  1          0 /  640
+Ether         Restores little MP     Item Shops (some)  1        320 /  160
+EyeDrp        Cures DARK condition   Item Shops         3         60 /   10
+Flame         Item that’s the same   Magic Shops        2         60 /   15
+              as Fire Magic
+Frost         Stronger Version of    Magic Shops        2        320 /   80
+              Blizzard
+Gold          Can be sold            from Spiky Heads   1          0 /  750
+Litblt        Item that’s the same   Magic Shops        2        100 /   25
+Key           Opens locked doors     Item Shops         4         15 /    1
+Mattock       Break down poorly      Item Shops         7         60 /    7
+              Constructed walls
+Mirror        Shows true colors      Cave of Marsh      1          0 /    0
+Moogle        Prevents MOOG status   Item Shops         3        120 /   20
+Nectar        Increases your Power   From Crabs         1          0 /  250
+              By 15 temporarily
+Pillow        Induces Sleep          Pumpkins           1        100 /   50
+Pure          Cures POIS condition   Item Shops         3         30 /    5
+Ruby          Can be sold            from Lizards       1          0 /  100
+Silence       making your enemies    Magic Shop         1        100 /   50
+              Unable to use magic
+              (Some aren’t affected)
+Soft          Cures STON condition   Item Shops         3         60 /   10 
+Stamina       Temporarily your       from Sea Shells    1          0 /   39
+              Stamina
+Thunder       Stronger Version of    Magic Shops        2        400 /  200
+              LitBlt
+X-Cure        Heals a lot of HP      Item Shops         2        160 /   40
+X-Ether       Restores a lot of MP   from Dark Mages    1        640 /  320
+
+* Sell Value is per piece.
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=
+                                  WEAPONS
+                          =-=-=-=-=-=-=-=-=-=-=-=-
+
+Here are the different weapons in the game. They are listed according to type. 
+And from weakest to strongest in each type. 
+
+NAME       Location                                AP   Type  Price(Buy/Sell)
+-----------------------------------------------------------------------------
+Broad      Equipped at the beginning of the game    4   Sword     60 /   30
+Silver     Can be bought from Watts at Dwarf Cave  13   Sword    562 /  281 
+Blood      Can be found at Glaive Castle           25   Sword      0 /  937
+Ice        Acquired after beating Kary             43   Sword      0 / 3750
+Dragon     Can be found at Cave of ruins           59   Sword      0 / 4000
+Excalibur  Given by Fuji’s Mom                     88   Sword      0 /  N/A
+Battle     Found at General Store near the Marshes  8   Axe      150 /  N/A
+Were       Found at Davias’ Mansion                19   Axe        0 /  750
+Zeus       Found at Cave of floatrocks             47   Axe        0 / 4900
+Sickle     Found at the Cave of Marsh               8   Sickle     0 /  N/A
+Chain      Found at Kett’s                          9   Flail      0 /  N/A
+Flame      Can be bought at Ish                    41   Flail   6300 / 3150
+Wind       Can be bought at Menos                  15   Spear   1150 /  575
+Thunder    Can be bought at weapon shop at the     49   Spear  11250 / 5625
+           FloatRocks
+Star       Acquired after beating Cyclops          29   Morning    - /    -
+                                                        Star
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=-
+                                   ARMORS 
+                          =-=-=-=-=-=-=-=-=-=-=-=-=
+
+Here are the different armors in the game. They are listed from weakest to 
+strongest in terms of defense. 
+
+NAME         Location                                 DP   Price(Buy/Sell)
+-----------------------------------------------------------------------------
+Bronze       Equipped at the beginning of the game     3        - /   55
+Iron         Sold at Wendel                            8      315 /  157
+Silver       Can be bought from Watts at Dwarf Cave   11      700 /  350 
+Gold         - can be bought at Jadd                  16     1300 /  650
+             - Found at Cave of Medusa
+Opal         Can be bought at Mt. Rocks Weapon Shop   19     3000 / 1500   
+Flame        Can be bought at Ish                     21     5625 / 2812
+Ice          Can be bought at the weapon shop at      29     7350 / 3675
+             Ammonite coast
+Dragon       Found at Dime Tower                      35        - /    -
+Samurai      Use Super Tip #1 on the Ninjas at the    45        - /    -
+             Temple of Mana. See Super Tips at the 
+             Temple of Mana section in the guide.
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=
+                                  HELMETS
+                          =-=-=-=-=-=-=-=-=-=-=-=-
+
+Here are the different helmets in the game. They are listed from weakest to 
+strongest in terms of defense. 
+
+NAME         Location                                 DP   Price(Buy/Sell)
+-----------------------------------------------------------------------------
+Bronze       Equipped at the beginning of the game     1        - /   32
+Iron         Can be bought at Topple                   2      140 /   70
+Silver       Can be bought at the Store in the         7      240 /  120 
+             Airship Area
+Gold         Can be bought at Jadd                    13      680 /  340
+Opal         Can be bought at Mt. Rocks Weapon Shop   18     3500 / 1750
+Samurai      Use Super Tip #2 on the Devil Heads at   24        - /    -
+             The Temple of Mana.See Super Tips at the
+             Temple of Mana section in the guide.
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=
+                                  SHIELDS
+                          =-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Here are the different shields in the game. They are listed in alphabetical 
+order. 
+
+NAME         Location                                   Price(Buy/Sell)
+-----------------------------------------------------------------------------
+Bronze       Equipped at the beginning of the game           - /   20
+Iron         Found at the Cave of Marsh                    185 /   92
+Silver       Can be bought from Watts in Dwarf Cave        505 /  252
+Gold         Can be bought at Jadd                         920 /  460
+Opal         Can be bought at Mt. Rocks Weapon Shop       3900 / 1950
+Flame        Can be bought at Ish                         4400 / 2200
+Ice          Can be bought at the weapon shop at          6200 / 3100
+             Ammonite coast
+Aegis        Use Super Tip #3 on the elephants at            - /    -
+             the Temple of Mana. See Super Tips at the
+             Temple of Mana section in the guide.
+
+
+                          -=-=-=-=-=-=-=-=-=-=-=-=-
+                                 ENEMY LIST
+                          =-=-=-=-=-=-=-=-=-=-=-=-=
+
+The names of the enemies here are just made up by me. I named them properly so 
+that the names match what they look like or do. If you have a better 
+suggestion for the names, please feel free to e-mail me.
+
+Name             EXP      G   Item:         Location (up to 4 locations only)
+-----------------------------------------------------------------------------
+ANTEATER          25     22   none          Silver Mine, Gaia
+APE               92     74   none          Mt. Rocks Area
+AXEMAN            76     84   X-Cure        Mt. Rocks Area
+BALLOON            5      4   Mattock       Cave of Marsh 
+  Note: Use Magic Attacks only
+BIG BEE           21     16   none          Wendel Area 
+BIG SLUG         206    201   X-Cure        Cave of Ruins
+BIRDMAN          157    219   X-Cure        Dime Tower
+BLACK MOUSE        1      3   Candy         World Map 
+CLOUDS            28     18   none          Airship
+  Note: Use Magic Attacks or swords only
+CRAB              21     20   Nectar        Wendel Area 
+DARK MAGE        121     53   X-Ether       Glaive Castle
+DEVIL HEAD       167    203   Samurai H,    Temple of Mana
+  Note: Nuke Magic, Swords    X-Ether
+DUCK WARRIOR     122    129   none          Cave of Snowfields
+ELEPHANT         253    127   Aegis Shield, Temple of Mana
+  Use the Excalibur!          Unicorn
+EVIL FACE        109     89   X-Ether       Mt. Rocks
+  Note: Use Morning Star or Magic
+EYE               21     25   none          Airship
+  Note: Use Magic Attacks or Swords only
+EYEBALL          209     10   none          Cave of Snowfields
+  Note: Use Morning Star or Magic
+FEATHERS         262    243   none          Dime Tower
+FLAME             71     64   X-Cure        Davias’ Mansion
+  Note: Use Magic or Swords only
+FLUFFY CAT         1      2   none          Topple Area
+FLYING CAT         2      2   Candy         Topple Area
+FLYING FISH       10     10   Mattock       Cave of Marsh
+FROG              45     48   none          Cave of Medusa
+FROST TOAD       127    121   X-Ether       Cave of Snowfields
+GECKO             51     43   Fang          Desert 
+GENIE            174    152   none          Cave of Snowfields
+  Note: Use Flame Flail or fire Magic
+GHOST             48     48   none          Airship
+HAND             186    101   X-Ether       Dime Tower
+KNIGHTS          132     72   X-Cure        Glaive Castle
+LIZARD            40     41   Ruby          Desert 
+LIZARD MEN         4      5   Cure          World Map 
+MAGE              66     60   none          Davias’ Mansion
+MAN EATER         95     97   none          Ish Area 
+  Note: Use Sword or Magic
+MARSH GHOST       10      5   none          Marshes 
+  Note: Use Magic attacks only
+MARSH JELLYFISH    3      4   none          Marshes 
+MERMEN             2     11   none          Airship 
+MIRROR           234    215   Unicorn       Cave of Ruins
+MOLE              77     33   none          Mt. Rocks Area 
+MUMMY             34     20   none          Cave of Medusa
+  Note: Use Magic or swords only
+MUSHROOM           1      1   none          World Map
+NINJA            254     10   Samurai Armor Temple of Mana
+                              , Elixir
+PIG               30     23   Candy         Wendel Area 
+PIG WARRIOR      103     45   Cure          Mt. Rocks
+POISON FLOWER      3      4   Pure          Marshes 
+  Note: Inflicts Pois Status
+OCTOPUS          132    152   Opal          Ammonite Coast
+  Note: Inflicts Moog Status
+OWL                9     13   Crystal       Kett’s
+PUMPKIN            9     16   Pillow        Kett’s
+ROBO FISH         53     53   none          Mt. Rocks Area 
+ROBOT             77     31   Ruby          Mt. Rocks Area 
+ROBOT #2         198    175   Thunder       Cave of Ruins
+ROCK BEE         235    131   none          Cave of Floatrocks
+ROCK SPIKES      233    190   X-Ether       Cave of Floatrocks
+SCORPION          53     10   none          Desert 
+SEA SHELL         63     61   none          Ish Area 
+  Note: Use Morning Star or Magic
+SEA HORSE        112     73   none          Ocean
+  Note: Use Morning Star Only
+SHELLFISH          4      5   none          Cave of Marsh
+SKELETON           6      7   Key           Cave of Marsh
+SNAKE             59     42   none          Cave of Medusa
+SNOWMAN           96    108   none          Snowfields Area
+SPIDER            19     27   none          Silver Mine, Gaia
+SPIKY HEAD        41     37   Gold          Airship Area 
+SHADOW            82     87   Ether         Cave of Medusa
+STING RAY        142    133   Thunder       Ammonite Coast
+SWORD            202    203   none          Dime Tower
+TURNIP            40     39   none          Airship Area 
+TURTLE           120    171   X-Cure        Floatrocks Area
+  Note: Use Morning Star Only
+VAMPIRE          132     40   Crystal       Davias’ Mansion
+  Note: Use Magic, Sword or Morning Star only
+VULTURE          136    106   Flame         Ish Area 
+  Note: Use Sword, Star, or Magic
+WALRUS            48    105   Blizzard      Snowfields Area
+WHITE MOUSE        8     12   Cure          Kett’s, Airship
+WEREWOLF          48     40   Cure          Airship
+WOLF             136    119   none          Snowfields Area
+ZOMBIE MOUSE      15      6   Ether         Kett’s, Airship
+  Note: Use Magic attacks only
+ZOMBIE ROCK        2     36   Gold          Silver Mine, Gaia
+
+
+                          -=-=-=-=--=-=-=-=-=-=-=-
+                                   SHOPS
+                          =-=-=-=-==-=-=-=-=-=-=-=
+
+======
+TOPPLE
+======
+  Inn          10 GP
+ 
+  Item Shop
+  ---------
+  Cure x2      40 GP
+  Pure x3      30 GP
+  Eydrp x3     60 GP
+  Key x4       15 GP
+
+  Weapon Shop
+  -----------
+  Broad Sword        60 GP
+  Iron Helmet       140 GP
+
+=======
+MARSHES
+=======
+
+  General Store
+  -------------
+  
+  One and only Battle Axe for 150 GP!
+  Cure x2      40 GP
+  Pure x3      30 GP
+  Eydrp x3     60 GP
+  Key x4       15 GP
+  Mattock x7   60 GP
+
+======
+WENDEL
+======
+
+  Item Shop
+  ---------
+
+  Cure x2      40 GP
+  Pure x3      30 GP
+  EyeDrp x3    60 GP
+  Key x4       15 GP
+  Mattock x7   60 GP
+
+  General Store
+  -------------
+
+  Cure x2      40 GP
+  Pure x3      30 GP
+  EyeDrp x3    60 GP
+  Key x4       15 GP
+  Mattock x7   60 GP
+  Oil          500 GP
+
+==================
+WATTS (Dwarf Cave)
+==================
+
+  Silver Armor     700 GP
+  Silver Shield    505 GP 
+  Silver Sword     562 GP
+
+============
+AIRSHIP AREA
+============
+
+  General Store
+  -------------
+  Silver Helmet    240 GP
+  Cure x2           40 GP
+  Ether            320 GP
+  Key x4            15 GP
+  Mattock x7        60 GP
+
+=====
+MENOS
+=====
+
+  Weapon Shop
+  -----------
+  Wind Spear      1150 GP
+
+  Item Shop
+  ---------
+  X-Cure x2        160 GP
+  Pure x3           30 GP
+  Eyedrp x3         60 GP
+  Soft x3           90 GP
+  Moogle x3        120 GP
+  Key x4            15 GP
+  Mattock x7        60 GP
+
+====
+JADD
+====
+
+  Weapon Shop
+  -----------
+  Gold Armor      1300 GP
+  Gold Helmet      680 GP
+  Gold Shield      920 GP
+
+  Item Shop
+  ---------
+  X-Cure x2        160 GP
+  Pure x3           30 GP
+  Eyedrp x3         60 GP
+  Soft x3           90 GP
+  Moogle x3        120 GP
+  Key x4            15 GP
+  Mattock x7        60 GP
+
+=============
+MT.ROCKS AREA
+=============
+
+  Magic Shop
+  ----------
+  Ether            320 GP
+  Flame x2          60 GP
+  Blaze x2         240 GP
+  Frost x2         320 GP
+  Silence          100 GP
+  Pillow           100 GP
+
+  Weapon Shop
+  -----------
+  Opal Armor      3000 GP
+  Opal Helmet     3500 GP
+  Opel Shield     3900 GP
+
+===
+ISH
+===
+
+  Weapon Shop
+  -----------
+  Flame Flail     5625 GP
+  Flame Shield    4400 GP
+  Flame Armor     6300 GP
+
+  Item Shop
+  ---------
+  X-Cure x2        160 GP
+  Pure x3           30 GP
+  Eyedrp x3         60 GP
+  Soft x3           90 GP
+  Moogle x3        120 GP
+  Key x4            15 GP
+  Mattock x7        60 GP
+
+  Magic Shop
+  ----------
+  X-Ether          640 GP
+  Flame x2          60 GP
+  Blaze x2         240 GP
+  Frost x2         320 GP
+  LitBlt x2        100 GP
+  Thunder x2       400 GP
+
+==========
+SNOWFIELDS
+==========
+  
+  Item Shop
+  ---------
+  X-Cure x2        160 GP
+  Pure x3           30 GP
+  Eyedrp x3         60 GP
+  Soft x3           90 GP
+  Moogle x3        120 GP
+  Key x4            15 GP
+  Mattock x7        60 GP
+
+==============
+AMMONITE COAST
+==============
+
+  Weapon Shop
+  -----------
+  Ice Armor       7350 GP
+  Ice Shield      6200 GP
+
+==========
+FLOATROCKS
+==========
+
+  Item Shop
+  ---------
+  X-Cure x2        160 GP
+  Pure x3           30 GP
+  Eyedrp x3         60 GP
+  Soft x3           90 GP
+  Moogle x3        120 GP
+  Key x4            15 GP
+  Mattock x7        60 GP
+
+  Weapon Shop
+  -----------
+  Thunder Spear 11,250 GP
+
+  Magic Shop
+  ----------
+  X-Ether          640 GP
+  Flame x2          60 GP
+  Blaze x2         240 GP
+  Frost x2         320 GP
+  LitBlt x2        100 GP
+  Thunder x2       400 GP
+
+
+                          =-=-=-=-=--=-=-=-=-=-=-=-
+                                GAMEPLAY TIPS
+                          -=-=-=-=-==-=-=-=-=-=-=-=
+
+1. The Moogle (Moog) condition cannot be cured even with the Moogle Item. If 
+it is inflicted to your character, there are 2 ways to avoid contact with the 
+enemy (these will also use up the time so that Moogle will be cured). First, 
+ASK your Chocobo for a ride! Your enemies can’t hurt you at all. And then, ASK 
+again and your Moog condition will be removed. Second, stay at the edge of the 
+current area (in world map/field) or stay in front of the doorways (dungeons, 
+towns, etc.) and go back and forth between this area and the other area. This 
+will use the time and prevents enemy contact.
+
+2. You are poisoned! (Pois Condition) You don’t want to use Pure or the Heal 
+Magic. Stay at the edge of the current area (in world map/field) or stay in 
+front of the doorways (dungeons, towns, etc.) and go back and forth between 
+this area and the other area. This will use up the time but will definitely 
+cure Poison after a while. Doing this also lessens the effect of the poison. 
+Your HP will drop at most 2 times only. 
+
+3. Another strategy for Pois. If the Heroine is with you, ASK her. This will 
+counter the Pois effect. Every time Pois cuts down your HP, the heroine will 
+heal that same amount of HP lost. Therefore, no change of HP will occur when 
+in Pois Condition.
+
+4. Yet another Pois Strategy. If you are alone and you don’t have items. 
+You’re low on life, surrounded by enemies, and Poisoned at the same time, what 
+do you do? Attack like crazy! Hitting the A button rapidly will make your 
+character attack continuously. This will slow down the Pois condition. It will 
+stop the depletion of your HP. Take note also that this does not mean that the 
+Pois condition is cured.
+
+5. In towns, YOU CAN KILL THE PEOPLE! Just be patient though. They have a high 
+HP and won’t go down easily. When you use your strongest weapons, about 3-5 
+hits will do. If you beat them, they will say their lines afterwards.
+
+6. If you want to get a lot of experience in a certain place but you are 
+afraid that the enemies will not respawn anymore? If you have 4 enemies in an 
+area, if you beat them all and come back, there will be no more enemies, 
+right? But, if you left one of them, alive, and then came back again, the 
+enemies will respawn. This is good for leveling up and collecting GPs. 
+
+7. When you strike a wall with a weapon and you hear a cranking sound, use 
+your mattock or Morning Star to destroy that wall and reveal a new path. 
+
+8. If an empty chest gets in your way, destroy it with your weapon and it will 
+simply, disappear. 
+
+9. If there are a lot of rocks, and they are beside each other, you can break 
+them in one shot. With the Mattock, stand in between the rocks and then press 
+the B button. The 2 rocks will disappear. With the Morning Star, just attack 
+the rocks head on. 
+
+10. Once you acquire the Morning Star, you won’t have any need for the 
+Mattocks anymore. So, just sell ALL your mattocks to save space in the Items 
+Inventory. This will enable you to get more important items such as Keys.
+
+
+                      -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                      FREQUENTLY ASKED QUESTIONS (FAQs)
+                      =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+-----------------------------------------------------------------------------
+1. Where can I find an updated version of this walkthrough/FAQ?
+
+This guide will be posted and updated mainly at HTTP://WWW.GAMEFAQS.COM. There 
+are also other sites in which I gave my permission to also post my work in it 
+original and unaltered form. Here they are:
+
+http://www.gamewinners.com or
+  -http://vgstrategies.about.com
+http://www.pgamers.com
+
+-----------------------------------------------------------------------------
+2. What made you do this guide? FFA is a really old game.
+
+Creating/Updating FAQs has become my hobby. With regards to this, I plan to 
+create one for the best games that I have so far. I’ll be concentrating on 
+RPGs as of now. Final Fantasy was the FIRST RPG I’ve ever played. It is third 
+in line for my projects as the 2 of my most favorite RPGs have a guide from 
+me. The Chrono Trigger (SNES) and Chrono Cross (PSX).  Who knows? I may create 
+a guide for another type of game. 
+
+-----------------------------------------------------------------------------
+3. How often can you update the FAQ?
+
+This is the question, which do not have an exact answer. An update will be 
+made if there is certain info that needs to be included. I’m still going to 
+school and I only have limited time per day to make updates/revisions of this 
+walkthrough. But, I’ll always make sure that if there’s a new info, I’ll 
+update this walkthrough/FAQ right away.
+
+-----------------------------------------------------------------------------
+4. What are the most powerful equipments in the game?
+
+Here they are, the Excalibur (sword), Samurai Armor, Samurai Helmet and the 
+Aegis Shield. See Super Tips at the Temple of Mana section in the walkthrough. 
+Note: you’ll get the Excalibur automatically.
+
+-----------------------------------------------------------------------------
+5. What level do you recommend should I be when I battle Julius?
+
+You should be at least Level 50. You won’t have any problems at all when 
+you’re at this level.
+
+-----------------------------------------------------------------------------
+6. Is there a way to cure Moog?
+
+Yes. Ride your Chocobo and then jump off again. You’re Moog status should now 
+be removed.
+
+-----------------------------------------------------------------------------
+7. Where do you think is the best place to level up?
+
+I leveled up Sumo in 2 places. First, in the snowfield area. I kept running 
+back and forth beating all those wolves, walruses, and Snowmen. The second one 
+is near Julius. I kept on killing those elephants. Either way you’ll get good 
+experience points and GP.
+
+-----------------------------------------------------------------------------
+8. How much time do I need to finish this game?
+
+In my opinion and in my experience, it will take you about 10-12 hours to 
+finish the game with complete equipments and a high level.
+
+-----------------------------------------------------------------------------
+9. What’s the max level that you can achieve?
+
+Level 99. With 999 HP and 99 MP. The character stats will depend on what you 
+chose in previous level ups. 
+
+-----------------------------------------------------------------------------
+
+
+                      -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             GAME SHARK CODES
+                      =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Infinite HP    = 01FFB2D7        Max Power   = 0163C2D7
+Infinite MP    = 01FFB6D7        Max Wisdom  = 0163C3D7
+Infinite Gold  = 01FFBED7        Max HP      = 01FFB3D7 & 01FFB4D7  
+Max Will       = 0163C4D7        Max MP      = 01FFB8D7
+Max Stamina    = 0163C1D7        Level 99    = 0163BAD7
+
+
+                      -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                          CREDITS/ACKNOWLEDGEMENTS
+                      =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+- Thanks to Square for creating this wonderful RPG. In my opinion, it’s the 
+best RPG for the Gameboy. It beats Pokemon too! Sorry Pokefans :) 
+
+- Thanks to the readers of this walkthrough/FAQ. This won’t be called such 
+without anyone using it. Thanks very much!
+
+- Thanks to my Sis for waiting patiently for me while I’m typing. She wants to 
+use the PC also. :)
+
+- Special Thanks to BIG BOI 2K (Napstermaster200@hotmail.com) for the Game 
+Shark Codes.
+
+- Special Thanks to oblivious@alloymail.com for telling me that I forgot 
+Marcie!
+
+- Special Thanks to Al Amaloo (VGSTrategies) and Rick (Pocket Gamers) for 
+asking permission first in posting my Guide on their site. 
+
+- And last but absolutely not the least, thanks to GameFAQs where you can view 
+and download this walkthrough/FAQ. CjayC deserves all the credits given to 
+him. Congratulations!
+
+These are all that I would like to thank as of now. If I happen to forget 
+anyone, please inform me. I’ll check it out on my inbox if you really have 
+something to be credited (I never delete important ones). Note, that if the 
+same info is sent to me, it is on a first come first serve basis. Any 
+suggestions, comments, additions, etc. will be duly credited to you once 
+you’ve submitted one to me through my e-mail address written at the very top 
+of this Walkthrough/FAQ.  Thank you very much!
+
+
+
+                        Final Fantasy Adventure (tm)
+               is a registered trademark of Square, co. Ltd.
+
+                               Gameboy (tm)
+                  is a registered trademark of Nintendo
+
+                The Final Fantasy Adventure Walkthrough/FAQ
+                          (c)Copyright October 2000
+                                “A”  Tadeo

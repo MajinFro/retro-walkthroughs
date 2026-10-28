@@ -1,0 +1,2751 @@
+{
+  "nodes": [
+    {
+      "id": "Glaive_Castle",
+      "label": "Glaive Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-30-1",
+        "gf1-31-4",
+        "gf4-1-2",
+        "gf4-7-7",
+        "gf1-107-1"
+      ]
+    },
+    {
+      "id": "Topple",
+      "label": "Topple",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-33-13",
+        "map-city-of-toppel-i8-1-1",
+        "checklist-items-5-2",
+        "checklist-items-7-15",
+        "gf1-33-1"
+      ]
+    },
+    {
+      "id": "Bogard",
+      "label": "Bogard",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-34-4",
+        "gf1-34-1",
+        "gf1-34-2"
+      ]
+    },
+    {
+      "id": "Bogards_House",
+      "label": "Bogard's House",
+      "kind": "area",
+      "fact_ids": [
+        "map-bogards-house-g5-1-1",
+        "gf2-27-1",
+        "gf4-2-5",
+        "gf4-2-6"
+      ]
+    },
+    {
+      "id": "East_Cave",
+      "label": "East Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-107-2",
+        "map-cave-east-of-bogards-house-j6-j7-1-1",
+        "gf1-35-1",
+        "gf1-35-2",
+        "gf1-35-3"
+      ]
+    },
+    {
+      "id": "Ketts",
+      "label": "Kett's",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-40-6",
+        "gf1-40-10",
+        "gf1-42-1",
+        "gf1-108-6",
+        "map-ketts-k10-1-1"
+      ]
+    },
+    {
+      "id": "Marshes",
+      "label": "Marshes",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-37-1",
+        "gf1-37-2",
+        "gf1-92-9",
+        "gf1-99-5",
+        "gf1-99-6"
+      ]
+    },
+    {
+      "id": "Marsh_Cave",
+      "label": "Marsh Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-38-2",
+        "gf1-38-10",
+        "gf5-6-6",
+        "gf3-2-27",
+        "map-cave-of-marsh-o9-1-1"
+      ]
+    },
+    {
+      "id": "Wendel",
+      "label": "Wendel",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-42-5",
+        "gf1-64-2",
+        "gf1-42-2",
+        "map-city-of-wendel-n13-1-1",
+        "checklist-items-4-2"
+      ]
+    },
+    {
+      "id": "Wendel_Area",
+      "label": "Wendel Area",
+      "kind": "area",
+      "fact_ids": [
+        "gf5-8-6",
+        "map-shop-f12-1-1",
+        "gf5-8-4",
+        "gf1-99-17",
+        "gf1-99-18"
+      ]
+    },
+    {
+      "id": "Dwarf_Cave",
+      "label": "Dwarf Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-43-2",
+        "map-dwarf-cave-j15-1-1",
+        "checklist-items-4-3",
+        "checklist-items-6-3",
+        "checklist-items-7-16"
+      ]
+    },
+    {
+      "id": "Silver_Mine",
+      "label": "Silver Mine",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-44-3",
+        "gf5-9-7",
+        "gf3-3-16",
+        "map-silver-mine-j12-1-1",
+        "gf1-112-1"
+      ]
+    },
+    {
+      "id": "Gaia",
+      "label": "Gaia",
+      "kind": "area",
+      "fact_ids": [
+        "gf2-37-3",
+        "gf4-4-5",
+        "gf1-112-4",
+        "map-gaia-i12-i14-1-1",
+        "gf1-46-1"
+      ]
+    },
+    {
+      "id": "Refueling_Lake",
+      "label": "Refueling Lake",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-46-4",
+        "gf1-46-3",
+        "gf1-86-3",
+        "gf1-94-1"
+      ]
+    },
+    {
+      "id": "Airship",
+      "label": "Airship",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-113-3",
+        "map-glaives-airship-g10-1-1",
+        "gf1-114-1",
+        "gf1-27-7",
+        "gf1-47-1"
+      ]
+    },
+    {
+      "id": "Menos",
+      "label": "Menos",
+      "kind": "area",
+      "fact_ids": [
+        "map-city-of-menos-e10-1-1",
+        "checklist-items-7-13",
+        "gf1-48-2",
+        "gf1-48-3",
+        "gf1-84-6"
+      ]
+    },
+    {
+      "id": "Desert",
+      "label": "Desert",
+      "kind": "area",
+      "fact_ids": [
+        "gf5-12-2",
+        "ra-comments-2-2",
+        "gf1-99-30",
+        "gf1-99-31",
+        "gf1-99-32"
+      ]
+    },
+    {
+      "id": "Jadd",
+      "label": "Jadd",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-100-2",
+        "gf3-4-22",
+        "map-city-of-jadt-b9-1-1",
+        "gf1-50-1",
+        "gf1-50-2"
+      ]
+    },
+    {
+      "id": "Medusas_Cave",
+      "label": "Medusa's Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-51-6",
+        "gf1-51-7",
+        "gf1-114-6",
+        "map-cave-of-medusa-c13-1-1",
+        "gf1-114-5"
+      ]
+    },
+    {
+      "id": "Davias_Mansion",
+      "label": "Davias's Mansion",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-53-4",
+        "gf1-53-5",
+        "gf1-53-7",
+        "gf1-115-5",
+        "map-city-of-jadt-b9-davias-mansion-1-1"
+      ]
+    },
+    {
+      "id": "Cave_North_of_Jadd",
+      "label": "Cave North of Jadd",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-55-5",
+        "gf1-56-4",
+        "gf1-116-6",
+        "map-cave-of-mt-rocks-b3-e4-1-1",
+        "gf1-56-1"
+      ]
+    },
+    {
+      "id": "Mt_Rocks",
+      "label": "Mt. Rocks",
+      "kind": "area",
+      "fact_ids": [
+        "map-mt-rocks-f2-1-1",
+        "gf1-85-5",
+        "gf1-86-5",
+        "gf1-87-5",
+        "gf1-95-3"
+      ]
+    },
+    {
+      "id": "Golem_Cave",
+      "label": "Golem Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-57-5",
+        "gf1-58-7",
+        "gf1-59-6",
+        "gf1-117-6",
+        "gf1-57-6"
+      ]
+    },
+    {
+      "id": "Dark_Castle",
+      "label": "Dark Castle",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-119-4",
+        "gf1-60-2",
+        "gf1-60-3",
+        "gf1-60-4",
+        "gf3-5-6"
+      ]
+    },
+    {
+      "id": "Mana_Waterfall",
+      "label": "Mana Waterfall",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-1-3",
+        "gf4-1-4",
+        "gf4-7-11"
+      ]
+    },
+    {
+      "id": "Ish",
+      "label": "Ish",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-8-4",
+        "map-city-of-isch-j3-1-1",
+        "checklist-items-7-8",
+        "gf1-29-1",
+        "gf1-63-1"
+      ]
+    },
+    {
+      "id": "Snowfields",
+      "label": "Snowfields",
+      "kind": "area",
+      "fact_ids": [
+        "checklist-items-4-10",
+        "checklist-items-6-7",
+        "gf1-65-1",
+        "gf1-85-7",
+        "gf1-87-7"
+      ]
+    },
+    {
+      "id": "Lorim",
+      "label": "Lorim",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-64-4",
+        "map-lorim-m6-1-1",
+        "gf1-64-5",
+        "gf1-68-2",
+        "gf2-56-4"
+      ]
+    },
+    {
+      "id": "Ice_Cave",
+      "label": "Ice Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-66-4",
+        "gf1-66-5",
+        "gf1-66-8",
+        "gf1-66-9",
+        "gf1-66-11"
+      ]
+    },
+    {
+      "id": "Ammonite_Coast",
+      "label": "Ammonite Coast",
+      "kind": "area",
+      "fact_ids": [
+        "map-shop-n2-1-1",
+        "gf2-56-5",
+        "gf2-75-7",
+        "gf2-77-7",
+        "gf2-78-14"
+      ]
+    },
+    {
+      "id": "Lich_Cave",
+      "label": "Lich Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-68-4",
+        "gf1-122-1",
+        "map-cave-of-palmy-desert-d15-1-1",
+        "checklist-items-13-8",
+        "gf1-69-1"
+      ]
+    },
+    {
+      "id": "Plain_of_Floating_Rocks",
+      "label": "Plain of Floating Rocks",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-70-5",
+        "gf5-21-6",
+        "map-shop-n16-1-1",
+        "gf1-70-6",
+        "gf1-70-7"
+      ]
+    },
+    {
+      "id": "Krakens_Cave",
+      "label": "Kraken's Cave",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-71-1",
+        "gf1-122-4",
+        "map-cave-of-floatrocks-a15-p1-1-1",
+        "gf1-71-2",
+        "gf1-71-3"
+      ]
+    },
+    {
+      "id": "Undersea_Volcano",
+      "label": "Undersea Volcano",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-72-2",
+        "gf1-72-3",
+        "gf1-72-5",
+        "gf1-72-7",
+        "gf1-72-8"
+      ]
+    },
+    {
+      "id": "Elixir_Island",
+      "label": "Elixir Island",
+      "kind": "area",
+      "fact_ids": [
+        "gf5-21-3"
+      ]
+    },
+    {
+      "id": "Desert_of_Crystal",
+      "label": "Desert of Crystal",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-75-2",
+        "gf1-75-3",
+        "gf4-10-4",
+        "gf5-24-1",
+        "gf1-73-7"
+      ]
+    },
+    {
+      "id": "Cave_of_Ruins",
+      "label": "Cave of Ruins",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-74-2",
+        "gf1-74-5",
+        "gf1-125-2",
+        "map-cave-of-ruins-h1-1-1",
+        "checklist-items-6-8"
+      ]
+    },
+    {
+      "id": "Dime_Tower",
+      "label": "Dime Tower",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-75-5",
+        "gf1-75-6",
+        "gf1-75-7",
+        "gf1-75-9",
+        "gf1-75-12"
+      ]
+    },
+    {
+      "id": "Mana_Falls",
+      "label": "Mana Falls",
+      "kind": "area",
+      "fact_ids": [
+        "gf4-10-8",
+        "gf4-10-12"
+      ]
+    },
+    {
+      "id": "Tower_of_Gemma",
+      "label": "Tower of Gemma",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-77-1",
+        "gf1-77-5",
+        "gf1-78-1",
+        "gf1-78-2",
+        "gf1-78-3"
+      ]
+    },
+    {
+      "id": "Tree_of_Mana",
+      "label": "Tree of Mana",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-81-1",
+        "gf1-81-2",
+        "gf1-81-3",
+        "gf1-82-1",
+        "gf1-82-2"
+      ]
+    },
+    {
+      "id": "Jackal",
+      "label": "Jackal",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-106-2",
+        "gf1-30-2",
+        "gf1-31-1",
+        "gf2-25-2",
+        "gf1-32-1"
+      ]
+    },
+    {
+      "id": "Hydra",
+      "label": "Hydra",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-39-1",
+        "gf1-39-2",
+        "gf1-39-3",
+        "gf1-39-5"
+      ]
+    },
+    {
+      "id": "Werewolf",
+      "label": "Werewolf",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-40-4",
+        "gf5-7-1"
+      ]
+    },
+    {
+      "id": "Mr_Lee",
+      "label": "Mr. Lee",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-109-1",
+        "gf1-41-1",
+        "gf1-41-2",
+        "gf1-41-3"
+      ]
+    },
+    {
+      "id": "Megapede",
+      "label": "Megapede",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-112-2",
+        "gf1-45-1",
+        "gf1-45-2",
+        "gf2-36-2"
+      ]
+    },
+    {
+      "id": "Medusa",
+      "label": "Medusa",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-115-2",
+        "gf1-51-8",
+        "gf1-52-1",
+        "gf3-4-13"
+      ]
+    },
+    {
+      "id": "Davias",
+      "label": "Davias",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-116-4",
+        "gf1-54-1",
+        "gf1-54-2",
+        "gf3-4-21"
+      ]
+    },
+    {
+      "id": "Metal_Crab",
+      "label": "Metal Crab",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-56-1",
+        "gf1-56-2",
+        "gf2-45-1",
+        "gf3-4-23"
+      ]
+    },
+    {
+      "id": "Cyclops",
+      "label": "Cyclops",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-117-4",
+        "gf1-58-1",
+        "gf1-58-2",
+        "gf1-58-3"
+      ]
+    },
+    {
+      "id": "Golem",
+      "label": "Golem",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-117-1",
+        "gf1-59-1",
+        "gf1-59-2",
+        "gf1-59-3"
+      ]
+    },
+    {
+      "id": "Chimera",
+      "label": "Chimera",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-61-1",
+        "gf1-61-2",
+        "gf3-5-2",
+        "gf5-17-2",
+        "gf2-51-1",
+        "gf4-7-8"
+      ]
+    },
+    {
+      "id": "Dark_Lord",
+      "label": "Dark Lord",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-62-1",
+        "gf1-62-2",
+        "gf5-18-1",
+        "gf2-52-2",
+        "gf4-7-10"
+      ]
+    },
+    {
+      "id": "Kary",
+      "label": "Kary",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-67-1",
+        "gf1-67-2",
+        "gf1-67-3",
+        "gf2-56-1"
+      ]
+    },
+    {
+      "id": "Lich",
+      "label": "Lich",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-69-1",
+        "gf1-69-2",
+        "gf1-69-3",
+        "gf2-61-1"
+      ]
+    },
+    {
+      "id": "Kraken",
+      "label": "Kraken",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-71-2",
+        "gf1-71-3",
+        "gf3-6-9",
+        "gf4-9-12"
+      ]
+    },
+    {
+      "id": "Iflyte",
+      "label": "Iflyte",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-73-2",
+        "gf1-73-4",
+        "gf3-6-13",
+        "gf5-22-3",
+        "gf2-59-1"
+      ]
+    },
+    {
+      "id": "Mantis_Ant",
+      "label": "Mantis Ant",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-74-6",
+        "gf2-62-3",
+        "gf3-7-4",
+        "gf5-24-8"
+      ]
+    },
+    {
+      "id": "Garuda",
+      "label": "Garuda",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-76-1",
+        "gf2-66-1",
+        "gf3-7-13",
+        "gf4-10-7"
+      ]
+    },
+    {
+      "id": "Dragon",
+      "label": "Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-77-6",
+        "gf2-68-1",
+        "gf3-8-1",
+        "gf4-10-9"
+      ]
+    },
+    {
+      "id": "Red_Dragon",
+      "label": "Red Dragon",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-78-7",
+        "gf1-79-1",
+        "gf2-69-1",
+        "gf3-8-2"
+      ]
+    },
+    {
+      "id": "Dragon_Zombie",
+      "label": "Dragon Zombie",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-80-1",
+        "gf1-80-2",
+        "gf2-70-1",
+        "gf3-8-5",
+        "gf1-130-2"
+      ]
+    },
+    {
+      "id": "Julius_1",
+      "label": "Julius (first form)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-81-2",
+        "gf2-71-2",
+        "gf5-27-2"
+      ]
+    },
+    {
+      "id": "Julius_2",
+      "label": "Julius (second form)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-82-1",
+        "gf2-71-4",
+        "gf5-27-4"
+      ]
+    },
+    {
+      "id": "Julius_3",
+      "label": "Julius (final form / Mana Tree)",
+      "kind": "boss",
+      "fact_ids": [
+        "gf1-82-3",
+        "gf2-72-1",
+        "gf5-27-5"
+      ]
+    },
+    {
+      "id": "Mattock",
+      "label": "Mattock (Bogard's chest)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-34-2",
+        "gf2-27-1"
+      ]
+    },
+    {
+      "id": "Cure_Spell",
+      "label": "Cure spell (rest at Kett's)",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-36-4",
+        "gf2-29-1"
+      ]
+    },
+    {
+      "id": "Bronze_Key",
+      "label": "Bronze Key (lizardmen in the marsh)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-37-1",
+        "gf5-5-8"
+      ]
+    },
+    {
+      "id": "Mirror",
+      "label": "Mirror (Hydra)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf4-3-5",
+        "gf1-40-2"
+      ]
+    },
+    {
+      "id": "Mysterious_Man",
+      "label": "Mysterious man in Marsh Cave (Julius)",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-38-1",
+        "gf4-3-2"
+      ]
+    },
+    {
+      "id": "Oil",
+      "label": "Oil (shop south of Dwarf Cave)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-43-1",
+        "gf2-35-1"
+      ]
+    },
+    {
+      "id": "Watts",
+      "label": "Watts joins in the Silver Mine",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-35-3",
+        "gf4-4-2"
+      ]
+    },
+    {
+      "id": "Silver",
+      "label": "Silver (Megapede chest)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-45-2"
+      ]
+    },
+    {
+      "id": "Bogard_Joins",
+      "label": "Bogard joins outside Gaia",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-46-2",
+        "gf4-4-6"
+      ]
+    },
+    {
+      "id": "Chocobo",
+      "label": "Chocobo egg hatches",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-49-2",
+        "gf2-38-3"
+      ]
+    },
+    {
+      "id": "Fang",
+      "label": "Fang for the boy in Jadd",
+      "kind": "quest",
+      "fact_ids": [
+        "gf1-50-6",
+        "gf4-5-10"
+      ]
+    },
+    {
+      "id": "Amanda",
+      "label": "Amanda joins (Medusa's Cave)",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-51-2",
+        "gf5-12-3"
+      ]
+    },
+    {
+      "id": "Amandas_Tears",
+      "label": "Amanda's Tears",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-115-3",
+        "gf2-42-1"
+      ]
+    },
+    {
+      "id": "Lester",
+      "label": "Lester freed from the curse",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-53-3",
+        "gf2-43-1"
+      ]
+    },
+    {
+      "id": "Were_Axe",
+      "label": "Were Axe (snowman switch room)",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-53-6",
+        "gf2-43-3"
+      ]
+    },
+    {
+      "id": "Mute_Spell",
+      "label": "Lester clears the poison gas (Mute)",
+      "kind": "item",
+      "fact_ids": [
+        "gf4-7-1"
+      ]
+    },
+    {
+      "id": "Morning_Star",
+      "label": "Morning Star (Cyclops chest)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-117-5",
+        "gf2-48-3"
+      ]
+    },
+    {
+      "id": "Blood_Sword",
+      "label": "Blood Sword (knight room)",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-61-8",
+        "gf2-51-4"
+      ]
+    },
+    {
+      "id": "Girl_Rescue",
+      "label": "The Girl in her cell",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-61-4"
+      ]
+    },
+    {
+      "id": "Chocobot",
+      "label": "Dr. Bowow builds the Chocobot",
+      "kind": "npc",
+      "fact_ids": [
+        "gf1-63-14",
+        "gf2-53-1"
+      ]
+    },
+    {
+      "id": "Bone_Key",
+      "label": "Bone Key from Cibba",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-68-2",
+        "gf5-21-2"
+      ]
+    },
+    {
+      "id": "Nuke",
+      "label": "Nuke spell (Lich)",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-70-1"
+      ]
+    },
+    {
+      "id": "Zeus_Axe",
+      "label": "Zeus Axe (past the lava pools)",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-72-4",
+        "gf2-58-4"
+      ]
+    },
+    {
+      "id": "Rusty_Sword",
+      "label": "Rusty Sword (Iflyte)",
+      "kind": "key_item",
+      "fact_ids": [
+        "gf1-73-5",
+        "checklist-items-7-17"
+      ]
+    },
+    {
+      "id": "Dragon_Shield",
+      "label": "Dragon Shield",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-74-3",
+        "gf2-62-1"
+      ]
+    },
+    {
+      "id": "Dragon_Sword",
+      "label": "Dragon Sword",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-74-4",
+        "gf2-62-2"
+      ]
+    },
+    {
+      "id": "Dragon_Armor",
+      "label": "Dragon Armor",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-75-8",
+        "gf2-65-1"
+      ]
+    },
+    {
+      "id": "Marcie",
+      "label": "Marcie joins",
+      "kind": "npc",
+      "fact_ids": [
+        "gf2-64-1",
+        "gf3-7-12"
+      ]
+    },
+    {
+      "id": "Excalibur",
+      "label": "Excalibur restored",
+      "kind": "item",
+      "fact_ids": [
+        "gf1-80-3",
+        "gf2-70-3"
+      ]
+    },
+    {
+      "id": "Samurai_Gear",
+      "label": "Samurai Armor and Helmet drops",
+      "kind": "missable",
+      "fact_ids": [
+        "gf1-104-12",
+        "gf2-67-1",
+        "gf2-76-6"
+      ]
+    },
+    {
+      "id": "Aegis",
+      "label": "Aegis Shield (Elephant drop)",
+      "kind": "missable",
+      "fact_ids": [
+        "gf2-67-3",
+        "gf1-99-74"
+      ]
+    },
+    {
+      "id": "Wendel_Boy",
+      "label": "Boy in SW Wendel",
+      "kind": "missable",
+      "fact_ids": [
+        "ra-comments-54-3",
+        "ra-comments-54-1"
+      ]
+    },
+    {
+      "id": "PONR_Mt_Rocks",
+      "label": "Mt. Rocks bridge collapses",
+      "kind": "ponr",
+      "fact_ids": [
+        "gf2-49-3",
+        "gf1-59-6"
+      ]
+    },
+    {
+      "id": "PONR_Dime_Tower",
+      "label": "Entering Dime Tower",
+      "kind": "ponr",
+      "fact_ids": [
+        "gf2-63-2",
+        "gf3-7-7"
+      ]
+    },
+    {
+      "id": "PONR_Mana_Sanctuary",
+      "label": "Mana sanctuary before Julius",
+      "kind": "ponr",
+      "fact_ids": [
+        "gf3-8-8"
+      ]
+    },
+    {
+      "id": "Ach_28942",
+      "label": "Fall to Earth",
+      "kind": "achievement",
+      "achievement_id": 28942
+    },
+    {
+      "id": "Ach_28943",
+      "label": "Damsel in Distress",
+      "kind": "achievement",
+      "achievement_id": 28943
+    },
+    {
+      "id": "Ach_28944",
+      "label": "Pearl of Wisdom",
+      "kind": "achievement",
+      "achievement_id": 28944
+    },
+    {
+      "id": "Ach_28945",
+      "label": "Rest and Heal Your Wounds",
+      "kind": "achievement",
+      "achievement_id": 28945
+    },
+    {
+      "id": "Ach_28946",
+      "label": "Mysterious Marsh Man",
+      "kind": "achievement",
+      "achievement_id": 28946
+    },
+    {
+      "id": "Ach_28947",
+      "label": "Hail Hydra!",
+      "kind": "achievement",
+      "achievement_id": 28947
+    },
+    {
+      "id": "Ach_29002",
+      "label": "RIP, Christopher Lee",
+      "kind": "achievement",
+      "achievement_id": 29002
+    },
+    {
+      "id": "Ach_29003",
+      "label": "You Spoony Bard!",
+      "kind": "achievement",
+      "achievement_id": 29003
+    },
+    {
+      "id": "Ach_29004",
+      "label": "The World Is Mine",
+      "kind": "achievement",
+      "achievement_id": 29004
+    },
+    {
+      "id": "Ach_29005",
+      "label": "I Taste Like (Silver) Chicken",
+      "kind": "achievement",
+      "achievement_id": 29005
+    },
+    {
+      "id": "Ach_29006",
+      "label": "I Believe I Can Fly...",
+      "kind": "achievement",
+      "achievement_id": 29006
+    },
+    {
+      "id": "Ach_29022",
+      "label": "Familiar Feathered Friend",
+      "kind": "achievement",
+      "achievement_id": 29022
+    },
+    {
+      "id": "Ach_29023",
+      "label": "To Infinity, and Beyond!",
+      "kind": "achievement",
+      "achievement_id": 29023
+    },
+    {
+      "id": "Ach_29058",
+      "label": "Mercy",
+      "kind": "achievement",
+      "achievement_id": 29058
+    },
+    {
+      "id": "Ach_29059",
+      "label": "Mystic Tune?! Yeah!",
+      "kind": "achievement",
+      "achievement_id": 29059
+    },
+    {
+      "id": "Ach_29060",
+      "label": "Your Pendant Is in Another Castle",
+      "kind": "achievement",
+      "achievement_id": 29060
+    },
+    {
+      "id": "Ach_29061",
+      "label": "Balls of Steel",
+      "kind": "achievement",
+      "achievement_id": 29061
+    },
+    {
+      "id": "Ach_29062",
+      "label": "Return of the Gemma",
+      "kind": "achievement",
+      "achievement_id": 29062
+    },
+    {
+      "id": "Ach_29063",
+      "label": "I Am (Not) Your Father",
+      "kind": "achievement",
+      "achievement_id": 29063
+    },
+    {
+      "id": "Ach_29064",
+      "label": "Glaive Strikes Back",
+      "kind": "achievement",
+      "achievement_id": 29064
+    },
+    {
+      "id": "Ach_29065",
+      "label": "Chocobo 2.0",
+      "kind": "achievement",
+      "achievement_id": 29065
+    },
+    {
+      "id": "Ach_29066",
+      "label": "Defroster",
+      "kind": "achievement",
+      "achievement_id": 29066
+    },
+    {
+      "id": "Ach_29067",
+      "label": "Who's Your Octo-Daddy Now?",
+      "kind": "achievement",
+      "achievement_id": 29067
+    },
+    {
+      "id": "Ach_29068",
+      "label": "Through the Fire and Flames",
+      "kind": "achievement",
+      "achievement_id": 29068
+    },
+    {
+      "id": "Ach_29069",
+      "label": "Meltdown",
+      "kind": "achievement",
+      "achievement_id": 29069
+    },
+    {
+      "id": "Ach_29070",
+      "label": "Rise of the Robots",
+      "kind": "achievement",
+      "achievement_id": 29070
+    },
+    {
+      "id": "Ach_29071",
+      "label": "Robots Can't Jump",
+      "kind": "achievement",
+      "achievement_id": 29071
+    },
+    {
+      "id": "Ach_29072",
+      "label": "Dragon Slayer",
+      "kind": "achievement",
+      "achievement_id": 29072
+    },
+    {
+      "id": "Ach_29073",
+      "label": "I've Got the Power!",
+      "kind": "achievement",
+      "achievement_id": 29073
+    },
+    {
+      "id": "Ach_29074",
+      "label": "Duel to the Death",
+      "kind": "achievement",
+      "achievement_id": 29074
+    },
+    {
+      "id": "Ach_29075",
+      "label": "The Real Meaning of Power",
+      "kind": "achievement",
+      "achievement_id": 29075
+    },
+    {
+      "id": "Ach_29076",
+      "label": "The End of Everything",
+      "kind": "achievement",
+      "achievement_id": 29076
+    },
+    {
+      "id": "Ach_29077",
+      "label": "Legacy of Mana",
+      "kind": "achievement",
+      "achievement_id": 29077
+    },
+    {
+      "id": "Ach_29078",
+      "label": "Squire",
+      "kind": "achievement",
+      "achievement_id": 29078
+    },
+    {
+      "id": "Ach_29079",
+      "label": "Knight",
+      "kind": "achievement",
+      "achievement_id": 29079
+    },
+    {
+      "id": "Ach_29080",
+      "label": "Gemma Knight",
+      "kind": "achievement",
+      "achievement_id": 29080
+    },
+    {
+      "id": "Ach_29081",
+      "label": "The Way of the Warrior",
+      "kind": "achievement",
+      "achievement_id": 29081
+    },
+    {
+      "id": "Ach_29082",
+      "label": "The Way of the Wizard",
+      "kind": "achievement",
+      "achievement_id": 29082
+    },
+    {
+      "id": "Ach_29083",
+      "label": "The Way of the Tank",
+      "kind": "achievement",
+      "achievement_id": 29083
+    },
+    {
+      "id": "Ach_29084",
+      "label": "The Way of the Monk",
+      "kind": "achievement",
+      "achievement_id": 29084
+    },
+    {
+      "id": "Ach_29085",
+      "label": "Wow, You're Rich!",
+      "kind": "achievement",
+      "achievement_id": 29085
+    },
+    {
+      "id": "Ach_29086",
+      "label": "Kevin's Worst Nightmare",
+      "kind": "achievement",
+      "achievement_id": 29086
+    },
+    {
+      "id": "Ach_29087",
+      "label": "Drink the Blood of My Enemies",
+      "kind": "achievement",
+      "achievement_id": 29087
+    },
+    {
+      "id": "Ach_29088",
+      "label": "Duck Hunter",
+      "kind": "achievement",
+      "achievement_id": 29088
+    },
+    {
+      "id": "Ach_29089",
+      "label": "Sierra's Blade",
+      "kind": "achievement",
+      "achievement_id": 29089
+    },
+    {
+      "id": "Ach_29090",
+      "label": "Larc's Leathers",
+      "kind": "achievement",
+      "achievement_id": 29090
+    },
+    {
+      "id": "Ach_29091",
+      "label": "Samurai Style",
+      "kind": "achievement",
+      "achievement_id": 29091
+    },
+    {
+      "id": "Ach_29092",
+      "label": "Poacher",
+      "kind": "achievement",
+      "achievement_id": 29092
+    },
+    {
+      "id": "Ach_29093",
+      "label": "War Is Hell",
+      "kind": "achievement",
+      "achievement_id": 29093
+    },
+    {
+      "id": "Ach_29094",
+      "label": "Timber!!!",
+      "kind": "achievement",
+      "achievement_id": 29094
+    }
+  ],
+  "edges": [
+    {
+      "from": "Glaive_Castle",
+      "to": "Jackal",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-30-1"
+      ]
+    },
+    {
+      "from": "Jackal",
+      "to": "Topple",
+      "kind": "leads_to",
+      "label": "pushed down the waterfall",
+      "fact_ids": [
+        "gf2-26-2",
+        "gf3-2-2"
+      ]
+    },
+    {
+      "from": "Topple",
+      "to": "Bogard",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-33-13"
+      ]
+    },
+    {
+      "from": "Bogard",
+      "to": "Mattock",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-34-2"
+      ]
+    },
+    {
+      "from": "Bogard",
+      "to": "Bogards_House",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-27-1"
+      ]
+    },
+    {
+      "from": "Bogard",
+      "to": "East_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-34-4"
+      ]
+    },
+    {
+      "from": "Mattock",
+      "to": "East_Cave",
+      "kind": "requires",
+      "fact_ids": [
+        "gf1-35-1"
+      ]
+    },
+    {
+      "from": "East_Cave",
+      "to": "Ketts",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-2-7"
+      ]
+    },
+    {
+      "from": "Ketts",
+      "to": "Cure_Spell",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-36-4"
+      ]
+    },
+    {
+      "from": "Ketts",
+      "to": "Marshes",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-37-1"
+      ]
+    },
+    {
+      "from": "Marshes",
+      "to": "Bronze_Key",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-37-1"
+      ]
+    },
+    {
+      "from": "Bronze_Key",
+      "to": "Marsh_Cave",
+      "kind": "requires",
+      "fact_ids": [
+        "gf5-5-8"
+      ]
+    },
+    {
+      "from": "Marshes",
+      "to": "Marsh_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-5-8"
+      ]
+    },
+    {
+      "from": "Marsh_Cave",
+      "to": "Mysterious_Man",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-38-1"
+      ]
+    },
+    {
+      "from": "Marsh_Cave",
+      "to": "Hydra",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-39-1"
+      ]
+    },
+    {
+      "from": "Hydra",
+      "to": "Mirror",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-3-5"
+      ]
+    },
+    {
+      "from": "Mirror",
+      "to": "Werewolf",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-40-4"
+      ]
+    },
+    {
+      "from": "Werewolf",
+      "to": "Mr_Lee",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-40-11"
+      ]
+    },
+    {
+      "from": "Ketts",
+      "to": "Werewolf",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-40-4"
+      ]
+    },
+    {
+      "from": "Mr_Lee",
+      "to": "Wendel",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-42-1"
+      ]
+    },
+    {
+      "from": "Wendel",
+      "to": "Wendel_Boy",
+      "kind": "contains",
+      "fact_ids": [
+        "ra-comments-54-3"
+      ]
+    },
+    {
+      "from": "Wendel",
+      "to": "Wendel_Area",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-42-5"
+      ]
+    },
+    {
+      "from": "Wendel_Area",
+      "to": "Dwarf_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-42-5"
+      ]
+    },
+    {
+      "from": "Dwarf_Cave",
+      "to": "Oil",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-43-1"
+      ]
+    },
+    {
+      "from": "Oil",
+      "to": "Silver_Mine",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-35-1"
+      ]
+    },
+    {
+      "from": "Dwarf_Cave",
+      "to": "Silver_Mine",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-43-2"
+      ]
+    },
+    {
+      "from": "Silver_Mine",
+      "to": "Watts",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-35-3"
+      ]
+    },
+    {
+      "from": "Silver_Mine",
+      "to": "Megapede",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-45-1"
+      ]
+    },
+    {
+      "from": "Megapede",
+      "to": "Silver",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-45-2"
+      ]
+    },
+    {
+      "from": "Silver",
+      "to": "Gaia",
+      "kind": "requires",
+      "fact_ids": [
+        "gf2-37-3",
+        "gf4-4-5"
+      ]
+    },
+    {
+      "from": "Silver_Mine",
+      "to": "Gaia",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-37-3"
+      ]
+    },
+    {
+      "from": "Gaia",
+      "to": "Bogard_Joins",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-46-2"
+      ]
+    },
+    {
+      "from": "Gaia",
+      "to": "Refueling_Lake",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-46-2"
+      ]
+    },
+    {
+      "from": "Refueling_Lake",
+      "to": "Airship",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-46-4"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Menos",
+      "kind": "leads_to",
+      "label": "knocked off the airship",
+      "fact_ids": [
+        "gf1-47-3",
+        "gf4-5-2"
+      ]
+    },
+    {
+      "from": "Menos",
+      "to": "Chocobo",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-49-1"
+      ]
+    },
+    {
+      "from": "Chocobo",
+      "to": "Jadd",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-49-6"
+      ]
+    },
+    {
+      "from": "Menos",
+      "to": "Jadd",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-49-5"
+      ]
+    },
+    {
+      "from": "Jadd",
+      "to": "Fang",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-50-6"
+      ]
+    },
+    {
+      "from": "Jadd",
+      "to": "Desert",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-100-2"
+      ]
+    },
+    {
+      "from": "Fang",
+      "to": "Medusas_Cave",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-100-2",
+        "gf2-39-2"
+      ]
+    },
+    {
+      "from": "Desert",
+      "to": "Medusas_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-3-36"
+      ]
+    },
+    {
+      "from": "Medusas_Cave",
+      "to": "Amanda",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-51-2"
+      ]
+    },
+    {
+      "from": "Medusas_Cave",
+      "to": "Medusa",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-115-2"
+      ]
+    },
+    {
+      "from": "Medusa",
+      "to": "Amandas_Tears",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-115-3"
+      ]
+    },
+    {
+      "from": "Jadd",
+      "to": "Davias_Mansion",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-53-3"
+      ]
+    },
+    {
+      "from": "Amandas_Tears",
+      "to": "Lester",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-53-3"
+      ]
+    },
+    {
+      "from": "Davias_Mansion",
+      "to": "Were_Axe",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-53-6"
+      ]
+    },
+    {
+      "from": "Davias_Mansion",
+      "to": "Lester",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-43-1"
+      ]
+    },
+    {
+      "from": "Davias_Mansion",
+      "to": "Davias",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-116-4"
+      ]
+    },
+    {
+      "from": "Davias",
+      "to": "Jadd",
+      "kind": "leads_to",
+      "label": "warped back to Jadd",
+      "fact_ids": [
+        "gf1-55-1"
+      ]
+    },
+    {
+      "from": "Lester",
+      "to": "Mute_Spell",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-7-1"
+      ]
+    },
+    {
+      "from": "Mute_Spell",
+      "to": "Cave_North_of_Jadd",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-7-1"
+      ]
+    },
+    {
+      "from": "Jadd",
+      "to": "Cave_North_of_Jadd",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-55-3"
+      ]
+    },
+    {
+      "from": "Cave_North_of_Jadd",
+      "to": "Metal_Crab",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-56-1"
+      ]
+    },
+    {
+      "from": "Metal_Crab",
+      "to": "Mt_Rocks",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-56-4"
+      ]
+    },
+    {
+      "from": "Mt_Rocks",
+      "to": "Golem_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-57-5"
+      ]
+    },
+    {
+      "from": "Golem_Cave",
+      "to": "Cyclops",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-117-4"
+      ]
+    },
+    {
+      "from": "Cyclops",
+      "to": "Morning_Star",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-117-5"
+      ]
+    },
+    {
+      "from": "Golem_Cave",
+      "to": "Golem",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-117-1"
+      ]
+    },
+    {
+      "from": "Golem",
+      "to": "PONR_Mt_Rocks",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-59-6"
+      ]
+    },
+    {
+      "from": "PONR_Mt_Rocks",
+      "to": "Dark_Castle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-59-6",
+        "gf4-7-7"
+      ]
+    },
+    {
+      "from": "Dark_Castle",
+      "to": "Chimera",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-119-1"
+      ]
+    },
+    {
+      "from": "Chimera",
+      "to": "Girl_Rescue",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-61-4"
+      ]
+    },
+    {
+      "from": "Dark_Castle",
+      "to": "Blood_Sword",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-61-8"
+      ]
+    },
+    {
+      "from": "Dark_Castle",
+      "to": "Dark_Lord",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-62-1"
+      ]
+    },
+    {
+      "from": "Dark_Lord",
+      "to": "Mana_Waterfall",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-62-5",
+        "gf4-7-11"
+      ]
+    },
+    {
+      "from": "Mana_Waterfall",
+      "to": "Ish",
+      "kind": "leads_to",
+      "label": "chocobo carries you to Ish",
+      "fact_ids": [
+        "gf4-7-11"
+      ]
+    },
+    {
+      "from": "Ish",
+      "to": "Chocobot",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-63-14"
+      ]
+    },
+    {
+      "from": "Chocobot",
+      "to": "Wendel",
+      "kind": "unlocks",
+      "label": "sail back to Wendel",
+      "fact_ids": [
+        "gf1-64-2"
+      ]
+    },
+    {
+      "from": "Ish",
+      "to": "Lorim",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-64-4"
+      ]
+    },
+    {
+      "from": "Lorim",
+      "to": "Snowfields",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-65-2"
+      ]
+    },
+    {
+      "from": "Snowfields",
+      "to": "Ice_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-66-1"
+      ]
+    },
+    {
+      "from": "Lorim",
+      "to": "Ice_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-66-1"
+      ]
+    },
+    {
+      "from": "Ice_Cave",
+      "to": "Kary",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-67-1"
+      ]
+    },
+    {
+      "from": "Kary",
+      "to": "Bone_Key",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-68-2"
+      ]
+    },
+    {
+      "from": "Lorim",
+      "to": "Ammonite_Coast",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-56-5"
+      ]
+    },
+    {
+      "from": "Lorim",
+      "to": "Lich_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-68-3"
+      ]
+    },
+    {
+      "from": "Lich_Cave",
+      "to": "Lich",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-122-2"
+      ]
+    },
+    {
+      "from": "Lich",
+      "to": "Nuke",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-70-1"
+      ]
+    },
+    {
+      "from": "Lorim",
+      "to": "Plain_of_Floating_Rocks",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-70-3"
+      ]
+    },
+    {
+      "from": "Bone_Key",
+      "to": "Krakens_Cave",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf5-21-6"
+      ]
+    },
+    {
+      "from": "Plain_of_Floating_Rocks",
+      "to": "Krakens_Cave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-70-5"
+      ]
+    },
+    {
+      "from": "Plain_of_Floating_Rocks",
+      "to": "Elixir_Island",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-21-3"
+      ]
+    },
+    {
+      "from": "Krakens_Cave",
+      "to": "Kraken",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-123-1"
+      ]
+    },
+    {
+      "from": "Kraken",
+      "to": "Undersea_Volcano",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-72-1"
+      ]
+    },
+    {
+      "from": "Undersea_Volcano",
+      "to": "Zeus_Axe",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-72-4"
+      ]
+    },
+    {
+      "from": "Zeus_Axe",
+      "to": "Iflyte",
+      "kind": "missable_before",
+      "fact_ids": [
+        "ra-comments-3-2"
+      ]
+    },
+    {
+      "from": "Undersea_Volcano",
+      "to": "Iflyte",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-125-1"
+      ]
+    },
+    {
+      "from": "Iflyte",
+      "to": "Rusty_Sword",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-73-5"
+      ]
+    },
+    {
+      "from": "Nuke",
+      "to": "Desert_of_Crystal",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-74-1"
+      ]
+    },
+    {
+      "from": "Desert_of_Crystal",
+      "to": "Cave_of_Ruins",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-74-1"
+      ]
+    },
+    {
+      "from": "Cave_of_Ruins",
+      "to": "Dragon_Shield",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-74-3"
+      ]
+    },
+    {
+      "from": "Cave_of_Ruins",
+      "to": "Dragon_Sword",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-74-4"
+      ]
+    },
+    {
+      "from": "Cave_of_Ruins",
+      "to": "Mantis_Ant",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-125-5"
+      ]
+    },
+    {
+      "from": "Rusty_Sword",
+      "to": "Dime_Tower",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-75-1",
+        "gf3-7-6"
+      ]
+    },
+    {
+      "from": "Mantis_Ant",
+      "to": "Dime_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-75-1"
+      ]
+    },
+    {
+      "from": "Wendel_Boy",
+      "to": "PONR_Dime_Tower",
+      "kind": "missable_before",
+      "fact_ids": [
+        "ra-comments-54-5"
+      ]
+    },
+    {
+      "from": "Dragon_Sword",
+      "to": "PONR_Dime_Tower",
+      "kind": "missable_before",
+      "fact_ids": [
+        "gf2-63-2"
+      ]
+    },
+    {
+      "from": "Desert_of_Crystal",
+      "to": "PONR_Dime_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-75-2"
+      ]
+    },
+    {
+      "from": "PONR_Dime_Tower",
+      "to": "Dime_Tower",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf2-63-2"
+      ]
+    },
+    {
+      "from": "Dime_Tower",
+      "to": "Marcie",
+      "kind": "contains",
+      "fact_ids": [
+        "gf2-64-1"
+      ]
+    },
+    {
+      "from": "Dime_Tower",
+      "to": "Dragon_Armor",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-75-8"
+      ]
+    },
+    {
+      "from": "Dime_Tower",
+      "to": "Garuda",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-127-5"
+      ]
+    },
+    {
+      "from": "Garuda",
+      "to": "Mana_Falls",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-76-4",
+        "gf1-76-5"
+      ]
+    },
+    {
+      "from": "Mana_Falls",
+      "to": "Tower_of_Gemma",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf4-10-8",
+        "gf1-77-1"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Dragon",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-127-7"
+      ]
+    },
+    {
+      "from": "Dragon",
+      "to": "Red_Dragon",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-78-1"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Red_Dragon",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-128-2"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Dragon_Zombie",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-130-2"
+      ]
+    },
+    {
+      "from": "Red_Dragon",
+      "to": "Dragon_Zombie",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-80-1"
+      ]
+    },
+    {
+      "from": "Dragon_Zombie",
+      "to": "Excalibur",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-80-3"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Samurai_Gear",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-77-2"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Aegis",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-99-74"
+      ]
+    },
+    {
+      "from": "Excalibur",
+      "to": "Tree_of_Mana",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-81-1"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "PONR_Mana_Sanctuary",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-8-8"
+      ]
+    },
+    {
+      "from": "PONR_Mana_Sanctuary",
+      "to": "Tree_of_Mana",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-8-8"
+      ]
+    },
+    {
+      "from": "Tree_of_Mana",
+      "to": "Julius_1",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-81-2"
+      ]
+    },
+    {
+      "from": "Julius_1",
+      "to": "Julius_2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-82-1"
+      ]
+    },
+    {
+      "from": "Julius_2",
+      "to": "Julius_3",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-82-3"
+      ]
+    },
+    {
+      "from": "Jackal",
+      "to": "Ach_28942",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-26-2"
+      ]
+    },
+    {
+      "from": "Topple",
+      "to": "Ach_28943",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-33-10"
+      ]
+    },
+    {
+      "from": "Mattock",
+      "to": "Ach_28944",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-34-2"
+      ]
+    },
+    {
+      "from": "Cure_Spell",
+      "to": "Ach_28945",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-36-4"
+      ]
+    },
+    {
+      "from": "Mysterious_Man",
+      "to": "Ach_28946",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-38-1"
+      ]
+    },
+    {
+      "from": "Hydra",
+      "to": "Ach_28947",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-39-1"
+      ]
+    },
+    {
+      "from": "Mr_Lee",
+      "to": "Ach_29002",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-40-11"
+      ]
+    },
+    {
+      "from": "Wendel",
+      "to": "Ach_29003",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-3-10"
+      ]
+    },
+    {
+      "from": "Watts",
+      "to": "Ach_29004",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-35-3"
+      ]
+    },
+    {
+      "from": "Bogard_Joins",
+      "to": "Ach_29005",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-46-2"
+      ]
+    },
+    {
+      "from": "Airship",
+      "to": "Ach_29006",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-47-3"
+      ]
+    },
+    {
+      "from": "Chocobo",
+      "to": "Ach_29022",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-49-2"
+      ]
+    },
+    {
+      "from": "Fang",
+      "to": "Ach_29023",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-50-6"
+      ]
+    },
+    {
+      "from": "Amandas_Tears",
+      "to": "Ach_29058",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-115-3"
+      ]
+    },
+    {
+      "from": "Lester",
+      "to": "Ach_29059",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-53-3"
+      ]
+    },
+    {
+      "from": "Davias",
+      "to": "Ach_29060",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-116-4"
+      ]
+    },
+    {
+      "from": "Morning_Star",
+      "to": "Ach_29061",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-117-5"
+      ]
+    },
+    {
+      "from": "PONR_Mt_Rocks",
+      "to": "Ach_29062",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-59-6"
+      ]
+    },
+    {
+      "from": "Dark_Lord",
+      "to": "Ach_29063",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-62-1"
+      ]
+    },
+    {
+      "from": "Mana_Waterfall",
+      "to": "Ach_29064",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-7-11"
+      ]
+    },
+    {
+      "from": "Chocobot",
+      "to": "Ach_29065",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-63-14"
+      ]
+    },
+    {
+      "from": "Kary",
+      "to": "Ach_29066",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-67-1"
+      ]
+    },
+    {
+      "from": "Kraken",
+      "to": "Ach_29067",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-123-1"
+      ]
+    },
+    {
+      "from": "Rusty_Sword",
+      "to": "Ach_29068",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-73-5"
+      ]
+    },
+    {
+      "from": "Nuke",
+      "to": "Ach_29069",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-70-1"
+      ]
+    },
+    {
+      "from": "Marcie",
+      "to": "Ach_29070",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-64-1"
+      ]
+    },
+    {
+      "from": "Garuda",
+      "to": "Ach_29071",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-76-4"
+      ]
+    },
+    {
+      "from": "Dragon_Zombie",
+      "to": "Ach_29072",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-130-2"
+      ]
+    },
+    {
+      "from": "Excalibur",
+      "to": "Ach_29073",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-80-3"
+      ]
+    },
+    {
+      "from": "Julius_1",
+      "to": "Ach_29074",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-81-2"
+      ]
+    },
+    {
+      "from": "Julius_2",
+      "to": "Ach_29075",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-82-1"
+      ]
+    },
+    {
+      "from": "Julius_3",
+      "to": "Ach_29076",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-82-3"
+      ]
+    },
+    {
+      "from": "Julius_3",
+      "to": "Ach_29077",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf4-11-1"
+      ]
+    },
+    {
+      "from": "Marsh_Cave",
+      "to": "Ach_29078",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-10-1"
+      ]
+    },
+    {
+      "from": "Medusas_Cave",
+      "to": "Ach_29079",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-10-2"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Ach_29080",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-70-4"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Ach_29081",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-4-3"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Ach_29082",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-4-3"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Ach_29083",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-4-3"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Ach_29084",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-4-3"
+      ]
+    },
+    {
+      "from": "Tower_of_Gemma",
+      "to": "Ach_29085",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-46-1"
+      ]
+    },
+    {
+      "from": "Were_Axe",
+      "to": "Ach_29086",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-53-6"
+      ]
+    },
+    {
+      "from": "Blood_Sword",
+      "to": "Ach_29087",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-61-8"
+      ]
+    },
+    {
+      "from": "Zeus_Axe",
+      "to": "Ach_29088",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-72-4"
+      ]
+    },
+    {
+      "from": "Dragon_Sword",
+      "to": "Ach_29089",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-74-4"
+      ]
+    },
+    {
+      "from": "Dragon_Armor",
+      "to": "Ach_29090",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-75-8"
+      ]
+    },
+    {
+      "from": "Samurai_Gear",
+      "to": "Ach_29091",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-104-12"
+      ]
+    },
+    {
+      "from": "Aegis",
+      "to": "Ach_29092",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-67-3"
+      ]
+    },
+    {
+      "from": "Wendel_Boy",
+      "to": "Ach_29093",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-1-1"
+      ]
+    },
+    {
+      "from": "Julius_3",
+      "to": "Ach_29094",
+      "kind": "unlocks",
+      "fact_ids": [
+        "ra-comments-55-3"
+      ]
+    },
+    {
+      "from": "Were_Axe",
+      "to": "Ach_29094",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-comments-55-4"
+      ]
+    },
+    {
+      "from": "Zeus_Axe",
+      "to": "Ach_29094",
+      "kind": "requires",
+      "fact_ids": [
+        "ra-comments-55-1"
+      ]
+    }
+  ]
+}

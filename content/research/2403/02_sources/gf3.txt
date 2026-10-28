@@ -1,0 +1,971 @@
+Seiken Densetsu
+Walkthrough (version 1.0)
+
+Based on: Japanese version (DMG-FFJ)
+
+
+- Aka. Final Fantasy Adventure / Mystic Quest / Adventures of Mana.
+- The game doesn't track your play time.
+- Physical damage is ATP - DFP. Many enemies have two different ATP
+values: one for body contact and one for their actual attack (usually
+a projectile). Many enemies are also immune to certain types of damage.
+- You have 16 slots for usable items and 12 slots for equipment. The
+weapons you can't get rid of will take up 5 slots.
+- The PSV-version gives you a few hotkeys.
+- The boss fights have been tweaked on the PSV.
+- The PSV-version may occasionally crash or have some other issues (eg.
+once I ended up inside the wall).
+- Both the amount of Exp and Lucre you receive from enemies has a random
+variable.
+- The max amount of money you can carry is 65 535.
+- Status ailments:
+ - Doku: 9 hits at 5%.
+ - Moumoku: Things get a little dark. Nothing to worry about.
+ - Moogle: Unable to act, DFP drops to 0.
+ - Kiseki: Unable to move.
+- All status ailments last 8 seconds.
+- Max HP is 19 + Vit^2 / 10. Max MP pretty much directly increases
+with your Int.
+- Cure: 20 + Int | 20 + Int*2 (full gauge)
+- When you level up, you can choose one of four different ways to build
+up your stats. To reach max stats, you need to alternate between Senshi
+and Madoushi.
+
+          Str Vit Int Wis
+ Senshi   | 2  1  -  1 |
+ Monk     | 1  2  -  1 |
+ Madoushi | -  1  2  1 |
+ Kenja    | -  1  1  2 |
+
+
+                World Map
+
+     A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P
+                                            |
+  1 -Sh-O--O -O--O--O  ¤--ID-O  Sh-O--O--O  O--O Ko-
+     |  |  |  |  | /   |  |  |     |  |  |     |         O9: Marsh Cave
+  2 -O--O  O  O  O- Kg O--O--O  O  O--O  O  Sh O--O-    K10: Vinquette Hall
+              |  |  |     |  |     |     |  |           J12: Haikou
+  3  O--*  O--=  O--O  Sh O--O--Is O  O--O  O--O  ¤     G10: Hikuutei
+     |        |        |     |  |  |  |        |        C13: Suna no Meikyuu
+  4  O--O  Sh Sh *--O  O--DT-O--O  O  O--O--Kh O--O      E4: TakiDoukutsu(>B3)
+        |  |  |     |        |  |  |     |  |     |      F2: Kiganzan
+  5  O--O--O  O  O--O  O  O  O--O  O--O  O--O  O  O      (->) Granz Castle
+        |     |  |  |  |  |\       |  |        |  |       ¤: Dock
+  6  O--O  O--O  O  Sh O--OO-O--*  ¤  O  Lo O--O  O      N4: Kahla Sanmyaku
+     |  |  |     |     ____| |  *-_   |  |  |  |  |      M6: Lorimar Castle
+  7  O--O--O  O--O  O--O--OO-O--O  O  O--O  ¤ -O--O      P1: Kouya no Doukutsu
+        |     |   __      |      \  \_         |          (->KaiteiKazan(A15))
+  8  O  O--O  O  O  O--O  O--Tp-O \O_ O--Sh-O  O--O     D15: Fuuin no Doukutsu
+     |        |  |        |  |  |    \      |     |      H1: Iseki no Doukutsu
+  9  ¤  Jd O--O  O--O--O  O--O--O--O--O  O--O  MC O      H4: Dime no Tou
+     |  |  |        |                    |  |  |  |       (-> Mana no Shinden)
+ 10  O--O--O--O  Mn O  Ht-O--=--O  Vq-O--O--O--O  O
+           |  |  |  |        |              |     |
+ 11  Sh O--O--O  O--O  O--O--O  O--O OO  O--O  O--O
+     |  |  |  |  |        |     |  | ||  |     |  
+ 12  O--O--O--O--O  Sh-O--O O*  Ha-O OO--=  Sh-O--O
+        |     |     |  |    ||     |     |     |  
+ 13  O--O--Sn O--O  O--O--O-OO--O--O--O--O  Wd O--O
+     |  |  |  |           |  |  |  |  |  |  |     |
+ 14  O--O--O--O--O  O--¤  O *O--O--O--O--O--O  O  O
+           |        |     | \   |  |  |  |  |  || |
+ 15  **-O  O  Fu O--O--O  O--O  Sh-O  O--O  ¤  OO-O
+     |  |     |  |  |  |  |  |  |  |  |  |     |   
+ 16  O--O  O  O--O--O--O  O--O  O--Sh O--O  Sh-O--O
+                                            |
+
+
+
+                Contents
+
+     Walkthrough
+        Topple Region
+        Marsh / Marsh Cave
+        Vinquette no Yakata
+        Wendel / Haikou (Abandoned Mine)
+        Hikuutei (Airship)
+        Desert / Suna no Meikyuu (Dune Maze)
+        Judd / Devius no Yashiki
+        Taki no Doukutsu (Cascade Cave) / Granz Region
+        Kiganzan (Mt. Illusia) / Granz Castle
+        Ishe / Glass no Sabaku
+        Lorimar / Kahla Sanmyaku
+        Rouya no Doukutsu / Kaitei Kazan (Subland River / Subland Volcano)
+        Fuuin no Doukutsu / Iseki no Doukutsu (Sealed Cave / Buried Ruins)
+        Dime no Tou
+        Mana no Shinden / Mana no Seiiki
+
+     The Rest               A01
+        Equipment List
+        Enemy List
+        Experience Chart
+
+
+                                                \\\ Granz ||
+- You start off at Level 1 with 19 HP, 6 MP, base stats at 2 and 50 Lucre.
+
+Item: 7x Mattock                                \\\ Topple Region ||
+- After your escape, you'll find yourself in Topple outskirts (F7).
+- Spend some time leveling up and getting used to the mechanics. When
+you level up, your HP and MP is fully restored.
+- If you kill all the enemies in a given area, you generally have to
+move four areas away to trigger a respawn. However, if you leave at
+least one enemy alive, you'll get a respawn/reroll by simply moving
+one area away.
+- The sword has two different basic attacks: a swing and a thrust. You
+trigger the latter by pressing in a direction as you attack.
+- The sword also has two different charge attacks. One is a spin attack
+where you press Attack while the d-pad is on neutral. Keep holding down
+Attack to continue spinning (up to 8 seconds) during which you can move
+freely. The other attack is triggered by pressing in a direction when
+you attack. This causes you to fly forward and back.
+- Pick up the Girl near Topple, then go see Bogard northwest. Use the
+Mattocks you find at his place to get through the nearby cave.
+- The Girl can heal you if you use the fourth option in the menu (Soudan).
+
+                                                \\\ Topple ||
+Shop:
+ 2x Potion          40 L        Broad Sword         60 L
+ 3x Dokukeshi       30 L        Tetsukabuto        140 L
+ 3x Megusuri        60 L
+ 4x Kagi            15 L
+
+Item: Battle Axe - 150 L                        \\\ Marsh ||
+Shop: 7x Mattock - 60 L
+- You can use axes to cut down trees. Most trees leave behind a stump
+that you can't pass but some are fully removed.
+- You'll need Keys and Mattocks in every dungeon, so make sure you
+never run out. Every dungeon has enemies that drop them, so it's not
+possible to end up stuck (with maybe one or two exceptions). Locked
+doors and breakable walls will respawn if you simply refresh the area,
+but not if you enter from the room they lead to.
+
+Special: Cure                                   \\\ Vinquette no Yakata ||
+- Go rest in one of the beds and the girl will teach you Cure.
+
+Item: Gin no Kagi                               \\\ Marsh ||
+- Go beat up the Lizardmen at the marsh to get the key to the nearby cave.
+
+                                                \\\ Marsh Cave ||
+Items: Kusarigama (A6), Tetsu no Tate (B5), Tsuki no Kagami (Temp)
+Special: Fire
+Boss: Hydra
+
+    B6-b7 a3-A2     B9-b8 a4-A5
+    |         |     |         #      b1: Recovery Point
+    B4@B5 a9 A1     C1@c2 b1 A6      c2*[Boss]
+    |     @   |                
+    B3-B2-A8#A7                
+
+- Lower case areas in sequence (eg. a8 and a9 or c9 and d1) are connected,
+usually through stairs, sometimes warps. Many dungeons have small areas
+that are "outside" of the dungeon and not part of the map.
+- Breakable walls are always in the middle part of the wall, and hitting
+them produces noise.
+- You can team up with the mage dude, but it's not strictly necessary.
+- The Land Leeches are very annoying and very dangerous. There's really
+not much you can do other than level up until they become manageable.
+- You can use the sickle to cut grass.
+
+[Boss]
+- 24\25 ATP, 10 Exp, 90 Lucre
+- Stay out of reach and use axe throws.
+
+- You can toss the Gin no Kagi afterwards.
+
+Item: Chain Flail (C4)                          \\\ Vinquette no Yakata ||
+Special: Sleep
+Boss: Vampire (A1)
+
+  2F    d4 d8-D7 B3 a9 B5-B6
+        |  |  |  |   |  |  |         b9*c1
+        C7-D5-D6 B2-B1*B4 B7         b9*c5
+        |  #               |         C7>C8
+        C6-c5          b9-B8
+                            
+                            
+  1F    d3 d9 A4 A2 a8-A7 C4
+        |     |   |     |  @
+        C8-D2 A3-A1-A5-A6 C3
+        |  |               |
+        C9-D1          c1-C2
+                            
+                            
+  B1       e1-E2            
+              @             
+              E3            
+
+- Once you find the Girl in E3, you need to walk out. You'll then
+fight the boss at the entrance.
+
+[Boss]
+- 27\31 ATP, 20 Exp, 10 Lucre
+
+                                                \\\ Wendel Region ||
+- The Exp is good, so grab some levels while the Girl is still with you.
+
+                                                \\\ Wendel ||
+Special: Heal (1 MP)
+Shop: Tetsu no Tate - 185 L, Tetsu no Yoroi - 315 L
+- Go see Shiiba / Cibba once you're ready.
+
+Shop: Sabitoreeru - 500 L                       \\\ Wendel Region ||
+- You'll find this shop southwest of Wendel.
+
+Boss: Ankheg                                    \\\ Haikou ||
+
+          A9<A8<A3<A2<A1       
+          \/    \/ /\            
+          B1>B2>A4 A7            
+             \/ \/ /\            b5>b6
+       b5<B4<B3>A5>A6            B9: Recovery Point
+                                 c6*[Boss]
+                               
+    B7-B8#c1    c4       c6-c5 
+    |  |        |              
+    b6 B9       C3-c2          
+
+[Boss]
+- 34 ATP, 45 Exp, 150 Lucre
+
+Shop:                                           \\\ Wendel Region ||
+ Mythril Blade      562 L       Mythril no Kabuto   240 L
+ Mythril no Yoroi   700 L       Mahou no Kusuri     320 L
+ Mythril no Tate    505 L
+
+- Equip any Mythril item and you can access Gaia Cave. After passing
+through, you'll be joined by Bogard.
+- Pick up the Mythril Helm at the shop in F12.
+
+                                                \\\ Hikuutei ||
+
+         E2-E1-D9 A6-A5-A4         
+         |     |   |  |  |         
+         E3 d7-D8 a7 A2-A3         
+           \          |            
+            E4-E5    A1            C2: Recovery Point
+                                   d4*d5
+                                   d5*d7
+      d5       c5 B3-b4            
+      |        |   |               
+      D6-C8-C7-C6 B2-B1-A9-a8      
+      @  |                         
+      d1-C9                        
+                                   
+                                   
+      c4-B6-b5 d4    C2            
+         |      |    |             
+         b7    D3    C1-B9-b8      
+                |    @             
+               d2    C3            
+
+- First, go see the Girl in C3, then make your way to E5.
+- Careful with the Eye Spies. Once you get Moogled, you could easily
+die from 1 hit.
+
+Shop: Wind Spear - 1150 L                       \\\ Menos ||
+
+- Find the chocobo northeast of Menos (G8).
+
+Shop (A11):                                     \\\ Desert ||
+ Mahou no Kusuri    320 L
+ Magic Bottle       640 L
+ Fireball x2         60 L
+ Firerock x2        240 L
+ Monkey Baby        100 L
+ Ramgee no Makura   100 L
+
+- Walk a figure 8 around the two palm trees in C13 to gain access to
+the next dungeon. Get the gear at Judd first, though.
+
+Shop:                                           \\\ Judd ||
+ Ougon no Yoroi     1300 L      2x Hi-Potion        160 L
+ Ougon no Kabuto     680 L      3x Kin no Hari       90 L
+ Ougon no Tate       920 L      3x Mogura no Hige   120 L
+
+Item: Ougon no Yoroi (C4)                       \\\ Suna no Meikyuu ||
+Item (nc): Amanda no Chi
+Special: Blizzard (C6)
+Boss: Medusa
+
+         C5-C6 A8                  
+         @     |                   
+      C3-C2 c9 A7-A9-A1-A2    d2      B9: Recovery Point
+      @  |  |  |   |  |  |     |   
+      C4 C1 C8 A6-A5-A4-A3    d1   
+         |  |         #            
+      B9@B8 C7 B4-B3-B1-B2         
+         |  #  |                   
+         B7-B6-B5                  
+
+- Amanda joins you as an NPC here.
+
+[Boss] (d2)
+- 80 \ 65 ATP (Pet.), 85 Exp, 75 Lucre
+
+- Afterwards, you have to kill Amanda.
+
+Item: Were-Buster (C6)                          \\\ Devius no Yashiki ||
+Special: Silence
+Boss: Mindflayer
+
+               1F                     2F      
+                                              
+      C1-B9          B1@A9                    
+      |  |            |  |                    
+      C2 b8          b2 A8      b7-B6-B5-B4-b3
+      |                  #                  /\
+      C3#C7 a1    a5-A6-A7      d1 a2-A3-a4 D8
+      |  |               |      @        /\  |
+      C4 c8          d5 D2      c9@D9    D7#d6
+      |               @  |                    
+      C5-C6          D4@D3                    
+
+- You are joined by Lester here.
+- Careful with the Magicians.
+
+[Boss] (d1)
+- 95 \ 75 ATP, 100 Exp, 100 Lucre
+
+- You can now travel to the areas north of Judd.
+
+Boss: Full Metal Hagger (a8)                    \\\ Taki no Doukutsu ||
+
+            A6-A5-A4   
+            |      |   
+         a8-A7 A3#A2-A1
+                       
+         B3-B2-B1-a9   
+
+- 79 ATP, 100 Exp, 100 Lucre
+- You're only really safe in the up-left corner.
+
+Shop (D4):                                      \\\ Granz Region ||
+ Daiya no Yoroi     3000 L
+ Daiya no Kabuto    3500 L
+ Daiya no Tate      3900 L
+
+Item: Morning Star (b6)                         \\\ Kiganzan ||
+Special: Thunder (B7)
+Bosses: Cyclops (b6), Golem (B7)
+
+      b8 A7-A8@A9-B1      
+      |  |         |      
+      B7 A6-A5    B2      
+      @      #     |      
+     -A2-A3-A4    B3      
+      |            |      
+     -A1-        -B4-B5-b6
+
+- Don't try to fight the Golem until you get the Morning Star.
+
+[Boss] (Cyclops)
+- 110 ATP, 75 Exp, 60 Lucre
+
+- You can use the Morning Star to destroy breakable stuff.
+
+[Boss] (Golem)
+- 94 ATP, 95 Exp, 160 Lucre
+
+- Once you proceed, you won't be able to leave the castle until you've
+completed the events there.
+
+Item: Blood Sword (E9)                          \\\ Granz Castle ||
+Bosses: Chimera (b3), Shadow Knight (g3)
+
+       B1          Exterior      East Tower
+                                           
+      A9          C3-C2-C1-b6       b3     
+      ||          |         |                    b9: Shop, Recovery Point
+   A7-A8-B1-b2    c4   b98-B7       b4     
+   |                                       
+   a6             a5    A3          b5     
+                  |      |                 
+                  A4-A1-A2                 
+                                           
+                  The Rest                 
+                                           
+   d1-C9    D3-D4 f9    F1@f2          f3  
+      #     |  |  |      #              |  
+   C6-C7    d2 D5 F8-f7 e7       f6-F5-F4  
+   @  |        |         |                 
+   c5 C8    d9-D6-D7@D8 E8-E9                    D8: Recovery Point
+                                           
+                        e6       g3-G2     
+                         |          |      
+            e1-E2-E3#E4-E5          g1     
+
+[Boss: Chimera]
+- 92 \ 80 ATP, 20 Exp, 90 Lucre
+
+- You'll reunite with the Girl after the first boss.
+- You'll have to walk over some spikes in c5 (dmg=2*Lv per tile).
+
+[Boss: Shadow Knight]
+- 100 ATP, 170 Exp, 10 Lucre
+
+- After the events, you'll find yourself in Ishe.
+
+Shop:                                           \\\ Ishe ||
+ Fire Flail         6300 L
+ Flame Armor        5625 L
+ Fire Shield        4400 L
+
+- Get the Fire Flail but not the other ones.
+- Visit Bon Voyage's house on the west side to find that your chocobo
+has been upgraded into the... Chocobot? Er, anyway, you can now use
+the chocobo to travel on water. You can only enter or leave the water
+at a dock.
+- With only two exceptions, going up a river is a waste of time.
+Specifically, there's the river between the Glass Desert and the
+Snowfield, and the river in the Ammonite Beach (P8).
+- The next dungeon is in Lorimar, but it's also now possible to get
+Flare (at D15) and then explore the Iseki no Doukutsu.
+
+Item: Elixir                                    \\\ Island (P3) ||
+- Defeat the Seadragon(s) to make a chest appear.
+
+Shop (N2):                                      \\\ Ammonite Kaigan ||
+ Ice Armor          7350 L
+ Ice Shield         6200 L
+
+Shop (N16):                                     \\\ Floatrock Wilds ||
+ Thunder Spear    11 250 L
+
+Items: Elixir (E1), Icebrand (g5)               \\\ Kahla Sanmyaku ||
+Boss: Marilith
+
+       1F             2F                  3F         
+                                                     
+   b9-B8-B7       c1-C2-C3                   D7 e3   
+          |       |      |                    #  @   
+         B6       D4 d5 C4-C5    E6-E5-e4 D9-d6-E2   
+          #       |  #   |  |    |        |   |      
+   B3-B4-B5 c7    D3-D2 C8-c6    E7       E1 D8      
+   |      |  @       |   |       |                   
+   B2-A8-A9-B1       D1-C9       E8-E9-F1-F3-F4    g5
+      @                                |      |     |
+   A7-A6<A5                            F2 F8 F5 g2-G3
+      \/  |                               @   |     |
+      A3-A4                         g1#F9-F7-F6    G4
+      |                                              
+      A2                                             
+      |             D7: Recovery Point               
+      A1            F8: Recovery Point               
+
+[Boss] (g5)
+- 175 \ 98 ATP, 170 Exp, 125 Lucre
+- The Fire Shield would allow you to block her icicles, but if you got
+the Ice Armor, they won't do much damage at all. In any case, you can
+easily just avoid them.
+- If you already have the Dragon Buster, use the spin attack at the top.
+
+Item (nc): Dokuro no Kagi                       \\\ Lorimar ||
+- Get the key from Cibba.
+ - Trophy note: This is the earliest point you can get the Item Collector
+ trophy. If you don't get it, no need to panic. There's still time.
+- Make your way to P1 in the Floatrock Wilds (Fuyuugan no Kouya) to find
+the next dungeon.
+
+Boss: Kraken (b5)                               \\\ Kouya no Doukutsu ||
+
+                 b5
+                  #
+        A5 B4-B3@B2
+        |         |
+        A4 A7    B1
+        |  |      |
+        A3#A6-A8-A9
+        @          
+        A2         
+        |          
+        A1         
+
+[Boss]
+- 140 ATP, 190 Exp, 130 Lucre
+- There's really no way to avoid getting hit consistently, so be prepared
+to eat a good amount of damage.
+
+Items: Majin no Ono (C2), Sabita Tsurugi (Temp)     \\\ Kaitei Kazan ||
+Boss: Ifrit (e9)
+
+           1F                          
+                                       
+        a8#A7-A6 A1            B2      
+           |   #  |                    
+        A5-A4-A3-A2         e9 e5 D4-D5
+                            |   |  @   
+           B1            E8-E7-E6 D3@D2
+                                   |  |         D7: Recovery Point
+              C3#c4         C7-C8-C9-D1         (d8 ->) Left: d9
+               |            |      |            (d8 ->) Middle: e4
+           B6-B5            c5-C6 D6@d8         (d8 ->) Right: e5
+           |   |                   |   
+     B9-B8#B7 B4               d9 D7 e4
+        |      |               |      |
+        C1 B2-B1-a9            E1-E2-E3
+        @   |                          
+        C2 B3                          
+
+- The Icebrand is the only weapon that can easily dispatch Fire Moths
+and Earth Elementals.
+- The first two rooms are a good place to level up.
+- You'll have to walk over lava in a couple of rooms (3*Lv dmg). You
+could try to avoid the damage by getting hit by an enemy. Lava damage
+also gives you a brief moment of invincibility.
+
+[Boss]
+- 135 ATP, 210 Exp, 270 Lucre
+
+Special: Flare                                  \\\ Fuuin no Doukutsu ||
+Boss: Lich
+- This isn't even a dungeon. It's just a few screens long.
+
+[Boss]
+- 170 \ 170 ATP, 175 Exp, 210 Lucre
+- A really tough boss, even if you don't come here early. Your weapon of
+choice is the Fire Flail. He mostly sticks to a sideways figure 8 pattern.
+Stay at the bottom and move left or right accordingly as he turns to
+swoop towards you. He should narrowly pass you by, while the skull
+projectiles fly at your previous position.
+- He will periodically fly off-screen to the left or south and then appear
+from the other side. When he goes south, you have to mix things up a bit,
+as it's not safe at the bottom. You need to go "up" along with him, and
+then quickly get back to the bottom after he passes you by.
+- You can destroy the skull projectiles by attacking them, but it's difficult
+to do consistently because of the angles.
+
+Items: Dragon Shield, Dragon Buster             \\\ Iseki no Doukutsu ||
+Boss: Mantis Ant
+- Use Flare to destroy one of the crystals at H1. There's a bug that
+prevents you from doing so if your Intelligence is already 94 or above
+(which is highly unlikely).
+
+                B7-B8         
+                 |            
+                B6-B5         
+                    |         
+                   B4         
+                    |         
+             A9    B3           A4: Dragon Shield
+             |      |           A8: Dragon Buster
+       A8-A7-A6-B1-B2           B7: Mantis Ant
+             |                
+             A5               
+             |                
+          A3-A2-A4            
+             |                
+             A1               
+
+[Boss]
+- 125 ATP, 210 Exp, 240 Lucre, Sword Orb #1
+- There are nasty spikes one the edges of the area (dmg=3*Lv). Instead
+of approaching the boss and risking getting knocked into them, you can
+just stay at the doorway and use ranged attacks.
+
+- Equip the Rusty Sword, then step on the pedestal in B8 to make Dime
+Tower appear in the desert.
+- Once you complete Dime no Tou, you can't return.
+
+Item: Dragon Mail (E1)                          \\\ Dime no Tou ||
+Boss: Garuda
+
+  2F   B8-b7 C5-c6    3F   E4@E3-E2    4F    E8     5F   F1@F2
+       |      |  |                |          |           |   |
+       B9-C3-C4-C8         e5#D9-E1          e6          e9 f3
+       |  |      |            @              |
+       C1 D4 D2-C9         D8@D7-d6          E7
+       |  |   |  |
+       C2 D3-d5-D1
+                         C2>A4
+                         D2>B1
+  1F   A7 b6-B5 c7       E7: Recovery Point
+       |      |  |
+       A6-A8#B4-B3
+       |  |      |
+       A5 A9@B1-B2
+       |          
+       A4-A1-A2-A3
+
+- You'll be joined by the robot Mummy Seeker / Merci here.
+
+[Boss]
+- 150 \ 160 ATP, 200 Exp, 250 Lucre
+
+- You'll be at Granz Castle. Head to the waterfall to reach the temple.
+
+                                                \\\ Mana no Shinden ||
+Lost & Found: Elixir / Genji no Yoroi (Ninja)
+ Magic Bottle / Genji no Kabuto (Demon Face)
+Bosses: Dragon (b2), Red Dragon (d4), Dragon Zombie (f2)
+
+  1F   d9                g9      2F   g4-G5-G6   
+       |                  |                  |   
+       E1-E2@h4    b7@B6-B5                 G7-g8
+          |               |                  |   
+          e3          F3-B4-b3           g3-G2   
+                       |                     |   
+                      f4                    g1   
+                                                 
+                   a9    b2                    b8
+                   |      @                     |
+                   A8-A7-A6 b1           C3-C2#B9
+                          |              |      |
+                   A1    A5           c8-C4    C1
+                   |      |              |       
+                   A2-A3-A4              C5-C6@C7
+                                              
+                                              
+  3F   D1-c9    f9-F8     4F    h2    d8      
+       |            |           |      |      
+       D2          F7           H1-D6-D7      
+       |            |              |          
+       D3-d4    f5-F6              d5         
+                                              
+                                              
+  5F                     f2                   
+                          |       H6: Recovery Point
+                         F1                   
+                          |                   
+                   h3    E9                   
+                          |                   
+       H6@h5 e4-E5@E6-E7-E8                   
+
+- The map isn't able to keep up with all the rooms you've been to in
+this dungeon.
+
+[Boss: Dragon]
+- 146 \ 96 ATP, 0 Exp, 260 Lucre
+
+[Boss: Red Dragon]
+- 146 \ 96 ATP, 0 Exp, 270 Lucre
+
+- One of the floor tiles in E8 is a switch.
+- F1 is a good place to level up.
+ - In the original GB version, it's possible to level up beyond Lv99.
+ However, doing so will apparently lock the game. Haven't tested it,
+ though, as I only bothered to max my level on the PSV.
+
+[Boss: Dragon Zombie]
+- 205 \ 139 ATP, 0 Exp, 270 Lucre
+
+Item: Excalibur                                 \\\ Mana no Seiiki ||
+Lost & Found: Unicorn no Tsuno / Aegis no Tate (Mammoo)
+Bosses: Julius, Julius 2, Julius 3
+- After the first four screens, you'll be stuck here. Make sure you
+have at least a couple of Elixirs.
+- You'll finally get to use the Mana Sword here (85 ATP).
+
+[Boss]
+- Phase 1: 164 \ 100 ATP
+- Phase 2: 164 \ 169 ATP
+- Phase 3: 190 \ 164 ATP
+ - If he warps on top of you, you could end up taking multiple body
+ hits. Focus on healing when that happens.
+
+
+
+  --------------------------------------------------------------------------
+
+
+                               The Rest                          A01
+
+
+                Equipment List
+
+
+Broad Sword     |  4 | Default
+Mythril Blade   | 14 | Dwarf Cave - 562 L, ignores most immunity
+Sabita Tsurugi *| 20 | Kaitei Kazan
+Blood Sword     | 26 | Granz Castle, drain
+Icebrand        | 40 | Kahla Sanmyaku, E:Ice
+Dragon Buster   | 56 | Iseki no Doukutsu
+
+Battle Axe     *|  8 | Marsh
+Were-Buster     | 20 | Devius no Yashiki
+Majin no Ono    | 48 | Kaitei Kazan
+
+Wind Spear      | 16 | Menos - 1150 L
+Thunder Spear   | 46 | Rocky Wilds (N16) - 11 250 L, E:Thunder
+
+Chain Flail    *| 10 | Vinquette Hall
+Fire Flail      | 38 | Ishe - 6300 L, E:Fire
+
+Kusarigama     *|  9 | Marsh Cave
+Mantis Sickle   | 58 | Buried Ruins (PSV only)
+
+Morning Star   *| 30 | Kiganzan, smash breakables
+
+
+
+Bronze Armor    |  3 | Default
+Tetsu no Yoroi  |  8 | Wendel - 315 L
+Mythril no Yoroi| 11 | Dwarf Cave - 700 L
+Ougon no Yoroi  | 16 | Judd - 1300 L, Suna no Meikyuu
+Daiya no Yoroi  | 19 | Granz Region (D4) - 3000 L
+Flame Armor     | 21 | Ishe - 5625 L, Enemy Fire ATP*0,75
+Ice Armor       | 29 | Ammonite Coast (N2) - 7350 L, Enemy Ice ATP*0,75
+Dragon Mail     | 35 | Dime no Tou
+Genji no Yoroi  | 45 | Ninja
+
+Bronze no Kabuto|  1 | Default
+Tetsukabuto     |  2 | Topple - 140 L
+Mythril no Kabuto  7 | Lake Shop (F12) - 240 L
+Ougon no Kabuto | 13 | Judd - 600 L
+Daiya no Kabuto | 18 | Granz Region (D4) - 3500 L
+Genji no Kabuto | 24 | Demon Face
+
+Bronze no Tate  |  - | Default
+Tetsu no Tate   |  - | Marsh Cave
+Mythril no Tate |  - | Dwarf Cave - 505 L
+Ougon no Tate   |  - | Judd - 920 L
+Daiya no Tate   |  - | Granz Region (D4) - 3900 L
+Fire Shield     |  - | Ishe - 4400 L, blocks Ice
+Ice Shield      |  - | Ammonite Coast (N2) - 6200 L, blocks Fire
+Dragon Shield   |  - | Iseki no Doukutsu
+Aegis no Tate   |  - | Mammoo
+
+
+
+                Enemy List
+
+- These values are only approximate.
+
+                  ATP   Ph  Exp   Luc   Ail
+Myconid       |   9     | |   1 |   1 |     |    Topple Region
+Poron         |   9\ 11 | |   1 |   3 |     |
+Rabi          |  11     | |   1 |   2 |     |
+Chibi Devil   |  14\    | |   2 |   2 |     |
+
+Bud Flower    |  14     | |   3 |   4 | Psn |    Marsh
+Grell         |  16     | |   3 |   4 | Psn |
+Lizardman     |  19\ 16 | |   4 |   5 |     |
+Mudman        |  21     |I|  11 |   5 |     |
+
+Roper         |  15     | |   4 |   5 | Psn |    Marsh Cave
+Slime         |  13     |I|   5 |   4 |     |
+Skeleton      |  21\ 21 | |   6 |   7 |     |
+Land Leech    |  22     | |  10 |  10 | Psn |
+
+Blood Owl     |  20     | |   9 |  12 | Bln |    Vinquette no Yakata
+Pumpkin Bomb  |  19     | |   9 |  15 |     |
+Were-Rat      |  18     | |   8 |  11 | Psn |
+Zombie        |  22     |I|  15 |   6 |     |
+
+Bebe          |  30     | |  20 |  16 | Psn |    Wendel Region
+Orc           |  32\ 32 | |  30 |  24 |     |
+Pincer Crab   |  34\ 30 | |  20 |  22 |     |
+
+Mimic Box     |  30     | |   2 |  35 | Bln |    Haikou
+Hoppin' Tick  |  31     | |  36 |  20 |     |
+Tarantula     |  28\ 34 | |  18 |  28 | Psn |
+
+Sahagin       |    \ 31 | |   2 |  10 |     |    West Wendel
+Mandrake      |  40\ 33 | |  38 |  40 |     |
+Pebbler       |  39\ 31 | |  43 |  38 | Bln |
+Gas Cloud     |  46\ 37 |I|  26 |  18 | Bln |
+
+Werewolf      |  41\ 41 | |  48 |  40 |     |    Hikuutei
+Eye Spy       |  44\ 52 |I|  32 |  25 |Pt\Mg|
+Ghost         |  52     |I|  48 |  48 | Bln |
+
+Basilisk      |  60     | |  42 |  38 | Pet |    Judd Desert
+Scorpion      |  64\ 46 | |  50 |  10 | Psn |
+Saurus        |  58     | |  50 |  40 |     |
+
+Pakkun Tokage |  56     | |  42 |  50 |     |    Suna no Meikyuu
+Great Boa     |  61     | |  55 |  40 | Psn |
+Shadow Zero   |  70     | |  80 |  85 | Bln |
+Mummy         |  64     |I|  34 |  20 | Pet |
+
+Magician      |  61\ 82 | |  62 |  55 |     |    Devius no Yashiki
+Red Wisp      |  58     |I|  80 |  60 | Bln |
+Gargoyle      |  53     |I| 120 |  35 |     |
+
+Molebear      |  58\ 39 | |  70 |  30 |Bl+Ps|    North Judd
+Ape           |  61     | |  90 |  70 |     |
+Garfish       |  61     | |  50 |  50 |     |
+
+Ogre          |  68\ 72 | |  80 |  80 |     |    Granz Region
+Banekujako    |  88     | |  65 |  30 | Mog |
+
+Minotauros    |  90\ 71 | | 100 |  45 | Psn |    Kiganzan
+Phantasm      |  79\ 63 |I| 100 |  80 |Mg/Pt|
+
+Dark Stalker  |  89\ 71 |S| 130 |  65 | Bln |    Granz Castle
+Wizard        |  82\ 63 | | 110 |  70 |Mg\Pt|
+
+Dragonfly     |  88\ 81 | | 120 | 100 |     |    Glass no Sabaku
+Megazone      |  95\    | |  90 |  90 | Psn |
+Bulette       | 120     |I|  65 |  65 |     |
+
+Seadragon     |    \ 82 | |  13 |  75 |     |    Seas
+
+Walrus        | 104\ 99 | | 105 | 110 |     |    Setsugen
+Snowman       |  99     |I| 100 | 100 |     |
+Sabercat      |  99     | | 120 | 115 | Psn |
+
+Air Elemental |  81     |I| 180 | 155 | Bln |    Kahla Sanmyaku
+Boulder       |  98     | | 210 |  10 | Pet |
+Poto          | 105     |I| 120 | 120 | Mog |
+Duck Soldier  | 110\ 74 | | 135 | 120 | Psn |
+
+Mantaray      | 120     | | 145 | 135 | Psn |    Ammonite Kaigan
+Griffin Hand  | 110     | | 130 | 150 | Mog |
+
+Tortoise Knight 100\ 30 |I| 125 | 180 |     |    Fuyuugan no Kouya
+
+Fire Moth     | 128     | | 240 | 135 |     |    Kaitei Kazan
+Earth Elemental 131     |I| 230 | 180 | Bln |
+
+Denden        | 120     | | 200 | 180 | Bln |    Iseki no Doukutsu
+Doppelmirror  | 120\ 78 | | 250 | 200 |     |
+Guardian      | 100\105 |I| 200 | 175 |     |
+
+Wonder        | 102\ 50 | | 260 | 230 | Mog |    Dime no Tou
+Garasha       | 106\ 25 | | 160 | 200 | Psn |
+Evil Sword    | 102     | | 220 | 190 |     |
+Death Gauntlet| 132     | | 190 | 100 | Pet |
+
+Ninja         | 113\145 |S| 250 |  10 |     |    Mana no Shinden
+Demon Face    | 125     |I| 165 | 200 | Bln |
+Mammoo        | 126\ 70 | | 240 | 130 |     |
+
+
+
+                Charge Speed
+
+Lv1  | 80s
+Lv10 | 15s
+Lv20 |  8s
+Lv25 |  6,25s
+Lv30 |  5,1s
+Lv40 |  4,0s
+Lv50 |  3,2s
+
+
+
+                Item Collector
+
+- These are the items you can only obtain from enemy drops.
+
+Crystal         | Blood Owl, Gargoyle
+Athena Kiss     | Mudman, Eye Spy
+Gold Dust       | Orc, Mimic Box, Pebbler
+Bacchus Wine    | Pincer Crab
+Ruby Baubles    | Basilisk, Banekujako
+Ea's Tears      | Zombie, Ghost, Shadow Zero
+Saurus Fangs    | Saurus
+Adamant Brew    | Bulette
+Ice Missile     | Walrus
+Diamond Dice    | Griffin Hand
+Unicorn Horn    | Doppelmirror
+
+
+
+                Experience Chart
+
+Lv1  |       0
+Lv2  |      16 |     16 |
+Lv3  |      44 |     28 |  12
+Lv4  |      90 |     46 |  18
+Lv5  |     161 |     71 |  25
+Lv6  |     263 |    102 |  31
+Lv7  |     402 |    139 |  37
+Lv8  |     584 |    182 |  43
+Lv9  |     815 |    231 |  49
+Lv10 |    1101 |    286 |  55
+Lv11 |    1450 |    349 |  63
+Lv12 |    1865 |    415 |  66
+Lv13 |    2355 |    490 |  75
+Lv14 |    2925 |    570 |  80
+Lv15 |    3582 |    657 |  87
+Lv16 |    4331 |    749 |  92
+Lv17 |    5178 |    847 |  98
+Lv18 |    6131 |    953 | 106
+Lv19 |    7194 |   1063 | 110
+Lv20 |    8375 |   1181 | 118
+Lv21 |    9680 |   1305 | 124
+Lv22 |  11 113 |   1433 | 128
+Lv23 |  12 683 |   1570 | 137
+Lv24 |  14 395 |   1712 | 142
+Lv25 |  16 254 |   1859 | 147
+Lv26 |  18 268 |   2014 | 155
+Lv27 |  20 443 |   2175 | 161
+Lv28 |  22 784 |   2341 | 166
+Lv29 |  25 298 |   2514 | 173
+Lv30 |  27 991 |   2693 | 179
+Lv31 |  30 870 |   2879 | 186
+Lv32 |  33 939 |   3069 | 190
+Lv33 |  37 207 |   3268 | 199
+Lv34 |  40 678 |   3471 | 203
+Lv35 |  44 359 |   3681 | 210
+Lv36 |  48 256 |   3897 | 216
+Lv37 |  52 375 |   4119 | 222
+Lv38 |  56 723 |   4348 | 229
+Lv39 |  61 306 |   4583 | 235
+Lv40 |  66 129 |   4823 | 240
+Lv41 |  71 200 |   5071 | 248
+Lv42 |  76 523 |   5323 | 252
+Lv43 |  82 106 |   5583 | 260
+Lv44 |  87 955 |   5849 | 266
+Lv45 |  94 075 |   6120 | 271
+Lv46 | 100 473 |   6398 | 278
+Lv47 | 107 156 |   6683 | 285
+Lv48 | 114 128 |   6972 | 289
+Lv49 | 121 397 |   7269 | 297
+Lv50 | 128 969 |   7572 | 303
+Lv51 | 136 850 |   7881 | 309
+Lv52 | 145 045 |   8195 | 314
+Lv53 | 153 562 |   8517 | 322
+Lv54 | 162 406 |   8844 | 327
+Lv55 | 171 583 |   9177 | 333
+Lv56 | 181 101 |   9518 | 341
+Lv57 | 190 964 |   9863 | 345
+Lv58 | 201 179 | 10 215 | 352
+Lv59 | 211 753 | 10 574 | 359
+Lv60 | 222 691 | 10 938 | 364
+Lv61 | 234 000 | 11 309 | 371
+Lv62 | 245 685 | 11 685 | 376
+Lv63 | 257 753 | 12 068 | 383
+Lv64 | 270 211 | 12 458 | 390
+Lv65 | 283 064 | 12 853 | 395
+Lv66 | 296 318 | 13 254 | 401
+Lv67 | 309 980 | 13 662 | 408
+Lv68 | 324 056 | 14 076 | 414
+Lv69 | 338 552 | 14 496 | 420
+Lv70 | 353 475 | 14 923 | 427
+Lv71 | 368 830 | 15 355 | 432
+Lv72 | 384 623 | 15 793 | 438
+Lv73 | 400 861 | 16 238 | 445
+Lv74 | 417 550 | 16 689 | 451
+Lv75 | 434 696 | 17 146 | 457
+Lv76 | 452 306 | 17 610 | 464
+Lv77 | 470 385 | 18 079 | 469
+Lv78 | 488 939 | 18 554 | 475
+Lv79 | 507 976 | 19 037 | 483
+Lv80 | 527 501 | 19 525 | 488
+Lv81 | 547 520 | 20 019 | 494
+Lv82 | 568 039 | 20 519 | 500
+Lv83 | 589 065 | 21 026 | 507
+Lv84 | 610 603 | 21 538 | 512
+Lv85 | 632 661 | 22 058 | 520
+Lv86 | 655 243 | 22 582 | 524
+Lv87 | 678 357 | 23 114 | 532
+Lv88 | 702 009 | 23 652 | 538
+Lv89 | 726 204 | 24 195 | 543
+Lv90 | 750 949 | 24 745 | 550
+Lv91 | 776 250 | 25 301 | 556
+Lv92 | 802 113 | 25 863 | 562
+Lv93 | 828 544 | 26 431 | 568
+Lv94 | 855 550 | 27 006 | 575
+Lv95 | 883 137 | 27 587 | 581
+Lv96 | 911 311 | 28 174 | 587
+Lv97 | 940 078 | 28 767 | 593
+Lv98 | 969 444 | 29 366 | 599
+Lv99 | 999 415 | 29 971 | 605
+
+
+Written by 3vrB257A5gq3fg.
+This work is public domain.

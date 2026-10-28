@@ -1,0 +1,5398 @@
+*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+                  Final Fantasy Adventure Walkthrough
+                          Platform: GameBoy
+                             Version 1.5
+                          By Robert Paulson
+                     Email: LevinMage@hotmail.com
+
+*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+Author's Note:
+--------------
+Hi, welcome to my guide for the gameboy game Final Fantasy Adventure.
+This is one of the greatest RPG's for the Gameboy in my opinion. If you
+need help, have new information, or see any errors in this walkthrough,
+please email me at LevinMage@hotmail.com
+
+*** I am unsure whether to integrate the cave maps into the actual
+walkthrough itself. Please email me with your responses.
+
+=======================================================================
+                               Copyright
+=======================================================================
+
+This walkthrough is a guide for Final Fantasy Adventure, which was
+produced by Squaresoft. This walkthrough is solely intended for public
+use and may only be used for non-profit purposes. It cannot be
+reproduced, retransmitted, or re-written in any other form except by
+the notice of the author. Furthermore, This FAQ and everything within
+this file  cannot be reproduced in any way, shape or form, (physical,
+electronical, or otherwise) from it's original, unedited and  unaltered
+format. This walkthrough is protected under national copyright law and
+by the Berne Copyright Convention of 1976. Any violation of this code
+will result in strict penalty and high fines susceptible by law.  If
+this legal document is portrayed in any commercial use, you will be
+stricken under the code of law and will be punished. Revisions of this
+walkthrough are only to be done with notice of the author before hand.
+This document is not to be plagiarized in anyway, and if plagiarized,
+the person/criminal will be punished to the full extent of the law.
+This means that you may put this walkthrough on your web site if you ->
+
+1) Send me an email asking for my permission.
+
+2) Once my permission is granted you give credit to the author (me),
+and do not alter the walkthrough in any form.
+
+-----------------------------------------------------------------------
+
+-> The latest version of this walkthrough can be found at GameFAQs.com!
+-> Final Fantasy Adventure (tm) a registered trademark of Square, co.
+Ltd. Gameboy (tm) is a registered trademark of Nintendo
+
+Version 1.55
+1/01/02
+
+=========
+CONTENTS:
+=========
+
+I. Revisions & Updates
+II. Tutorial and Guide to FFA (Basic game information)
+   - Controls
+   - Menu Screens
+      <> Menu Screen 1 (World Screen)
+      <> Menu Screen 2
+           ~ Item Sub-Menu
+           ~ Magic Sub-Menu
+           ~ Equipment Sub-Menu
+           ~ Ask Sub-Menu
+      <> Menu Screen 3
+           ~ Save
+           ~ Map
+           ~ Status
+   - Game Tutorial
+      <> Saving and Loading
+      <> Moving your character
+      <> Battle System
+            ~ Attacking
+            ~ Defending
+      <> Weapon Will Powers
+      <> Items
+      <> Leveling Up
+      <> Status Conditions
+III. Characters
+    - Non-Playing Characters (NPC's)
+    - Supporting Cast
+    - Villains
+IV. Walkthrough
+     4.1   Shards of Truth
+     4.2   Topple
+     4.3   Bogard
+             ~ East Cave
+     4.4   Kett's House
+     4.5   The Bronze Key
+     4.6   Marsh Cave
+     4.7   Kett's Dungeon
+     4.8   Wendel
+     4.9   Dwarf Cave
+     4.10  Silver Mine
+     4.11  Gaia's Cave
+     4.12  Refueling Lake
+     4.13  Airship
+     4.14  Menos
+     4.15  Chocobo
+     4.16  Jadd
+     4.17  Medusa's Cave
+     4.18  Davias's Mansion
+     4.19  Journey North
+     4.20  Golem Cave
+     4.21  Dark Castle
+     4.22  Ish
+     4.23  Journey back to Wendel
+     4.24  Lorim
+     4.25  Ice Equipment
+     4.26  Ice Cave
+     4.27  Lich Cave
+     4.28  Legendary Sword
+     4.29  Kraken's Cave
+     4.30  Undersea Volcano
+     4.31  Cave of Ruins
+     4.32  Dime Tower
+     4.33  Tower of Gemma
+     4.34  Tree of Mana
+V. Weapons
+   - Weapon Lists
+   - Weapon Locations
+VI. Armor
+   - Armor
+   - Helmets
+   - Shields
+VII. Items
+   - Medicinal
+   - Special
+   - Stat Boosting
+   - Magic Items
+VIII. Magic
+IX. Shops
+X. Monsters
+XI. Frequently Asked Questions (FAQ's)
+XII. Tips, Tricks, and Strategies
+XIII. Maps
+     - World
+     - Caves
+XIV. Game Genie Codes & Game Shark Codes
+XV. Credits & Special Thanks
+
+
+=======================================================================
+I. Revisions/Updates
+=======================================================================
+
+-----------------------
+Version 1.55 (11/11/01)
+-----------------------
+   - After a long vacation, I have finally decided to do a huge update.
+   - Entire editing of the walkthrough (Specifically- Enemy Bosses)
+   - Added ASCII maps
+   - Moved some sections around
+   - Edited Game Shark Codes
+
+-----------------------
+Version 1.53 (11/04/00)
+-----------------------
+   - Added a FAQ's section
+   - Added a tutorial and guide
+   - Change the format for every section
+   - Combined the status/controls section
+   - Revamped the Weapon and Armor section
+
+---------------------
+Version 1.5 (9/09/00)
+---------------------
+   - Editing of the entire walkthrough up to the Tower of Gemma
+   - Almost completed the Monster Chart
+   - Edited many of the other sections in little ways
+
+---------------------
+Version 1.1 (6/15/00)
+---------------------
+   - Added some more information to the Monster section
+   - Halfway finished re-editing my walkthrough section
+   - Moved around some sections
+
+---------------------------------
+Version 1.05 (12/07/99)-(3/14/00)
+---------------------------------
+3/14/00
+   - I moved some sections around
+   - Added some tips and tricks, and added some cheat codes
+
+1/18/00
+   - Added a Monster section
+
+1/07/00
+   - Corrected a few small mistakes
+   - Started to re-editing my main walkthrough section
+
+12/07/99
+   - Added a Miscellaneous Tips section
+   - Added a GGC/GSC Codes section and a Credits section
+
+---------------------
+Version 1.0 (11/1/99)
+---------------------
+   - Added a controls list
+   - Added a list of all the locations of the weapons
+   - Added a status list.
+
+
+=======================================================================
+II. Tutorial and Guide to FFA
+=======================================================================
+
+-> The order and information of this tutorial is based upon the
+instruction manual of Final Fantasy Adventure
+
+---------
+Storyline
+---------
+
+The world of Final Fantasy Adventure is infused with the power of the
+Mana Tree, the source of all life in this world. The Tree of Mana is
+guarded by the Gemma Knights, who defend it against the evils of the
+Glaive Empire. Now the empire of Glaive, head by Dark Lord and his
+servant the sorcerer Julius. Our Hero, a warrior of great renown,
+sneaked into Glaive Castle in hopes of discovering their evil plans.
+Captured by the sorcerer Julius, and to do this, he must fight every
+day. One day after fighting the Hero comes the Hero was enslaved and
+brought to the Arena. Here he must fight to survive back and finds his
+dear friend Willy dying. Willy tells the Hero, "Mana is in Danger
+now... We must let the knights of Gemma know about it." As Willy passes
+away, the Hero swears vengeance and his quest begins.
+
+
+Tree of Mana grows with the energy of
+will from each and every thing of this world.
+
+It grows high above the clouds in the air
+on top of Mount Illusia.
+
+Legend tells that it gives eternal power
+to the one who touched it.
+
+Dark Lord was trying to find the way to
+the Tree of Mana and get the mighty
+power to conquer the world.
+
+
+==================
+ GameBoy Controls
+==================
+
+-> This picture is for the Color and Non-Color GameBoy only!
+
+ ____________________          +------------------+
+|       -KEY-        |         | +--------------+ |
+|                    |         | |              | |
+| D= Directional Pad |         | |  SCREEN      | |
+| A= A Button        |         | |              | |
+| B= B Button        |         | |______________| |
+| Sta= Start         |         |   _ Nintendo _   |
+| Sel= Select        |         | _| |_    _  (A)  |
+| ooo= Speaker       |         |(_ D _)  (B)  -   |
++--------------------+         |  |_|     -       |
+                               |     Sel  Sta   oo|
+                               |              oooo|
+                               |__________________|
+
+Directional Pad
+---------------
+The directional pad allows you to move your character on the screen.
+Your character can be moved in only four directions, up, down, left,
+and right, but not diagonal. The directional pad can also move the
+cursor on the menu screen.
+
+A Button
+--------
+- On the World Screen, the A button can be used to make your character
+attack with the weapon he has equipped.
+- On the Menu Screen, the A button is used to execute the command that
+you have selected. Attack with weapon and select a command on the menu
+screen.
+
+B Button
+---------
+- On the World Screen, the B button can be used to use Magic or an Item
+that you are equipped with.
+- On the Menu Screen, the B button can be used to cancel a command that
+has been selected or to exit a menu screen.
+
+Start
+-----
+The Start button opens the screen for Item/Magic/Equip/Ask commands,
+the weapon and magic your character is currently equipped with, and
+your character's condition.
+
+Select
+------
+The Select button opens the screen for Save/Map/Status commands.
+
+==============
+ Menu Screens
+==============
+-----------------------------
+Menu Screen- 1 (World Screen)
+-----------------------------
+ _________________     __________________________________
+|   -KEY-         |   |MMMMMMMMMMMMMMM V MMMMMMMMMMMMMMMM|
+|                 |   |MMMMMMMMMMMMMMM V MMMMMMMMMMMMMMMM|
+| V= Vine         |   |MMMMMMMMMMMMMMM V MMMMMMMMMMMMMMMM|
+| B= Bushes       |   |                                  |
+| M= Mountains    |   |                                  |
+| HP= Hit Points  |   |~~~~~~~|-|~~~~~~~~~~~~~~~~~~~~~~~~|
+| MP= Magic Points|   |~~~~~~~|-|~~~~~RIVER~~~~~~~~~~~~~~|
+| G= Gold         |   |~~~~~~~|-|~~~~~~~~~~~~~~~~~~~~~~~~|
+ -----------------    |BBB                               |
+                      |BBBBB                             |
+                      |BBBBBB            BBBBBBBBBBBBBBBB|
+                      |BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB|
+                      |BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB|
+                      |----------------------------------|
+                      | HP    31    MP    10     G     50|
+                      | (==============================) |
+                       ----------------------------------
+
+Current HP- The HP value shown on the bottom left of the screen shows
+how much HP you currently have. Once this value drops to zero you will
+die.
+
+Current MP- The MP value shown on the bottom middle of the screen shows
+how much MP you currently have. Once this value drops to zero you will
+not be able to cast any more spells.
+
+Current Gold- This value shown on the bottom right of the screen shows
+how much Gold you currently possess. Gold is the monetary standard in
+Final Fantasy Adventure.
+
+Attack Gauge- This gauge measures your attack power. Once the gauge is
+full you can use your MAX Attack.
+
+-------------------------------------
+Menu Screen- 2 (Item/Magic/Equip/ASK)
+-------------------------------------
+
+-> Press Start to open this screen.
+
+                 G A M E  B O Y  -  S C R E E N
+              ______________________________________
+             |                                     |
+             |     ---------                       |
+             |    |  ITEM   |                      |
+             |    |  MAGIC  |                      |
+             |    |  EQUIP  |                      |
+             |    |  ASK    |          ------      |
+             |     ---------          |Status|     |
+             |                         ------      |
+             |   +-----------------------------+   |
+             |   | ITEM/MAGIC           WEAPON |   |
+             |   +-----------------------------+   |
+             |                                     |
+             +-------------------------------------+
+
+Commands- (ITEM/MAGIC/EQUIP/ASK)- The commands are located near the top
+left corner of the screen. Use the directional pad to move the cursor
+to the different commands.
+
+Status- This box displays your condition: Good, Poison, Moogle, Stone,
+or Darkness.
+
+Magic/Item & Weapon- This box displays the Item or Magic you have
+equipped and the current weapon that you have equipped. To use the
+Magic or Item that you have equipped, press the B button. To use your
+weapon, press the A button.
+
+------------
+Sub-Commands
+------------
+
+- Item Sub-Menu -
+-----------------
+  _____________________
+ | Item 1     Item 2   |
+ | Item 3     Item 4   |
+ | Item 5     Item 6   |
+ | Item 7     Item 8   |
+ | Item 9     Item 10  |
+ | Item 11    Item 12  |
+ | Item 13    Item 14  |
+ | Item 15    Item 16  |
+ |               TRASH |
+ +---------------------+
+
+-There are only 16 Items slots.
+
+Using an Item:
+You can move the cursor to different items my moving the directional
+pad. To select the item of your choice, press the A button twice. To
+use the item, press the B button once.
+
+Changing an Item:
+Move the cursor to the item that you want to move. Press the A button
+once, and then a second cursor will appear. Move this cursor to the
+spot where you wish to move you item. Then press the A button and the
+item will move. You can also use this process to exchange different
+items on the item screen.
+
+Discarding an Item:
+To discard an item, move the cursor to the item that you want to
+discard. Press the A button once, and then a second cursor will appear.
+Move this cursor to the Trash Can and press the A button. The item will
+now disappear from the screen.
+*NOTE* Once an item has been placed in the Trash Can, you will not be
+able to get it back from the Trash Can.
+
+- Magic Sub-Menu -
+------------------
+    _____________
+   | Cure   Fire |
+   | Slep   Heal |
+   | Ice    Mute |
+   | Lit    Nuke |
+   +-------------+
+
+-There are only eight magic spells in the game.
+-This screen will display every magic spell that you currently have.
+
+Using Magic:
+To use Magic, move the cursor to the desired magic spell. Now press the
+A button once. This will equip your magic. To cast your magic spell,
+press the B button. However, if you do not have sufficient MP to use
+the spell, the magic will not be cast.
+
+Removing Magic:
+Since magic spells use MP, it is recommended that once you are finished
+using your magic that you put it back. This is because you do not want
+to waster MP's accidentally by casting a spell. To remove the magic
+spell that you are equipped with, you should exchange the magic with
+any item that cannot be operated accidentally by pressing the B button.
+
+- Equipment Sub-Menu -
+----------------------
+
++---------------------+
+| Weapon      Helmet  |
+| AP   66     Armor   |
+| DP   78     Shield  |
++---------------------+
+| Eq 1        Eq 2    |
+| Eq 3        Eq 4    |
+| Eq 5        Eq 6    |
+| Eq 7        Eq 8    |
+| Eq 9        Eq 10   |
+| Eq 11       Eq 12   |
+|               Trash |
++---------------------+
+
+Weapon- The Weapon that you currently have.
+Helmet- The Helmet that you currently have equipped.
+Armor- The Armor that you currently have equipped.
+Shield- The Shield that you currently have equipped.
+AP- Characters current attack power.
+DP- Characters current defense power.
+
+Changing Weapons/Armor:
+Move the cursor to the weapon that you want to move. Press the A button
+twice. The weapon that you selected has now replaced the weapon that
+you were equipped with. You should also note that your AP value should
+have changed. (You can change armor using the same procedure, just
+replace the word weapon with armor, and AP with DP)
+
+Discarding Weapons/Armor:
+You can discard some of your weapons, but there are some weapons that
+you are unable to get rid of. This helps to prevent people from selling
+specific weapons, or types of weapons with which they need to complete
+the game. To discard a weapon, move the cursor to the weapon that you
+want to discard. Press the A button once, and then a second cursor will
+appear. Move this cursor to the Trash Can and press the A button. The
+weapon will now disappear from the screen.
+*NOTE* Once a weapon has been placed in the Trash Can, you will not be
+able to get it back from the Trash Can. (You can use the same procedure
+to discard armor, just replace the word weapon with armor)
+
+-Ask Command -
+---------------
+
+This command will let you ASK a NPC, if one is currently in your group
+for help. NPC's can help you in various and important ways, so always
+check to see what your NPC says or can do for you.
+
+--------------------------------
+Menu Screen- 3 (Save/Map/Status)
+--------------------------------
+
+-> Press Select to open this screen.
+-> To access any of these sub-menus move the cursor and press the A
+button.
+
++---------------------------+
+| Save      Map      Status |
++---------------------------+
+
+- Save Sub-Menu -
+-----------------
+
+To save a game, press the Select button, to bring up the previous menu
+screen. Make sure that the cursor is positioned on Save, and press the
+A button. The save sub-menu screen should now appear.
+
+-> You have 2 different possible records with which you can save your
+game.
+
+   +-------------------+
+   | Name  HP  77/  77 |
+   |       MP  21/  21 |
+   | L 11  E      1411 |
+   |         /    1516 |
+   +-------------------+
+   +-------------------+
+   | Name  HP 999/ 999 |
+   |       MP  99/  99 |
+   | L 98  E   1200000 |
+   |         / 1201982 |
+   +-------------------+
+
+Name- The name of your character will appear here.
+HP- The current / maximum amount of HP will be listed here.
+MP The current / maximum amount of MP will be listed here.
+L- The level of your character will be listed here.
+E- Your current amount of experience will be listed on top / the amount
+of experience that your character needs to advance to the next level.
+
+- Map Sub-Menu -
+----------------
+
+The map sub-menu is very important, but many game players fail to
+utilize this tool. The Map will show the world screen, towns, caves and
+castles. The general map that is called up when you are NOT in a
+dungeon is very general, only showing giving you a very broad idea of
+the world. When in a dungeon, the rooms displayed will be those of the
+dungeon only. Each time you enter a new room, the cave map will be
+updated with the new information. The dungeon maps are much more
+intricate. Dungeon maps will show you the entrances to different rooms.
+
+-> One grid on the map will always represent one screen.
+
+Dungeon Map:
+
++------------------------------+
+|                              |
+|                              |
+|       +---+---+---+          |
+|       |           |          |
+|       +- -+- -+---+          |
+|           |   |              |
+|           +---+              |
+|                              |
+|                              |
++------------------------------+
+
+- You can see the different entrances to individual rooms.
+- Only the rooms that have been explored are displayed.
+
+- Status Screen -
+-----------------
+
+   +---------------------------+
+   | Hero       L 12     Good  |
+   | E         1212/      1221 |
+   +---------------------------+
+   | HP    66    | Stamina  12 |
+   |     / 66    |             |
+   | MP    33    | Power    12 |
+   |     / 33    |             |
+   |             | Wisdom   12 |
+   | AP    16    |             |
+   |             | Will     12 |
+   | DP    16    +-------------+
+   |             |     21212 GP|
+   +---------------------------+
+
+Hero - The name of your character.
+L - The current level of your character.
+Good - The current condition of your character.
+HP - The current hit points / the total hit points.
+MP - The current magic points/ the total magic points.
+AP - Your character's Attack Power.
+DP - Your character's Defense Power.
+GP - The amount of your characters gold.
+E - The characters Experience acquired / Experience needed to Level Up.
+Stamina - The amount of Stamina your character has.
+Power - The amount of Power your character has.
+Wisdom - The amount of Wisdom your character has.
+Will - The amount of Will your character has.
+
+===============
+ Game Tutorial
+===============
+----------------------------
+Saving and Loading your Game
+----------------------------
+
+Saving:
+The game Final Fantasy Adventure has 2 Slots. You can only save 1 Game
+for every slot. This means that you can either have two different games
+saved, or have save the same game saved in two different slots.
+
+Loading:
+You can only load a game by accessing the continue option during the
+main menu.
+
+Resting/Turning Off:
+To reset the game you must press the A, B, Select, and Start buttons at
+the same time. To access the games main menu you may also turn the
+GameBoy off, and then back on. However, when you do either of these
+methods, your game will not be saved.
+
+Moving your character
+---------------------
+
+You move your character around with the directional pad. By pressing
+left on the directional pad your character will move left. The same
+applies with pressing the control pad in other directions, right=right,
+up=up and down=down.
+
+In the world screen, you'll also see some towns with people in it. You
+can talk to these people, or simply avoid them. For the most part,
+talking to people is not really important, but it does make the game-
+play more interesting in my opinion.
+
+Some terrain your character will be able to move over, but some he will
+not. By using weapons, your character can cut or smash terrain that
+blocks your path. Here is a list of terrain that allows travel, doesn't
+allow travel, and terrain that can be cut or smashed.
+
+Geography of the World of Final Fantasy Adventure:
+
+   Terrain that your character can travel over
+   -------------------------------------------
+   Meadows - A region covered with low grass
+   Marshes - An area with long damp grass
+   Deserts - Stretches of golden sand
+   Vines - Located on mountain walls
+   Snowfields - A region covered with snow
+   Desert of Crystal - A region with sharp crystals
+   Field of Floating Rocks - A region with large floating rocks
+   Bridges - Log bridges that cross over rivers
+
+   Terrain that your character CANNOT travel over
+   ----------------------------------------------
+   *Forests - A region covered with trees
+   Bushes - A region covered with large leafy plants
+   Rock-Walls - The walls of mountains
+   Oasis's - Fountains of water found in the desert
+   Oceans - Large bodies of water around different continents
+   Rivers - Small stretches of water crossing the land
+   Lakes - Small bodies of water surrounded by land
+
+   Terrain that can be cut or broken to allow travel
+   -------------------------------------------------
+   Forests - Trees that can be cut by an Axe.
+   Marshes - Vines that can be cut by Sickles
+   Floating Rocks - Rocks that can be smashed by the Morning Star
+
+
+Geography of Dungeons:
+
+   Stairs/Doors/Damage
+   -------------------
+   Ascending - Stairs that allow you to move up a floor
+   Descending - Stairs that allow you to move down a floor
+   Door - Can be opened by walking through, but some need Keys.
+   Spikes/Lave/Barriers - When touched deal damage to Hero.
+
+   Terrain that can be cut or broken to allow travel
+   -------------------------------------------------
+   Ferns - Can be cut with a Sickle
+   Thorns - Can be cut with an Axe
+   Rocks - Can be smashed with a Mattock or Morning Star
+   Pots - Can be smashed with a Mattock or Morning Star
+
+-------------
+Battle System
+-------------
+
+Attacking
+---------
+
+Weapons:
+The weapon attack is the most basic kind of attack. To attack enemies,
+move your character so that the enemy is in range of your weapon. Then
+press the A button. Every time you successfully hit the enemy he will
+receive damage. Once his HP's reach 0, he will die.
+
+Magic:
+There are six types of magic that can be used for attacking. To use
+magic on an enemy you must have the magic equipped. Then, press the B
+button. Some types of magic only fly in straight lines, while others
+will require you to manipulate the magic using the Directional Pad.
+
+Items:
+There are eight different types of Items that can be used for attacking
+the enemy. Item attacks are used the same way as magic attacks and have
+the same general effect as a magic spell would. However, the damage
+dealt might be different, and unlike magic, Items have a limited number
+of uses.
+
+Defending
+---------
+When walking on the world screen or in dungeons, you will encounter
+monsters. If you touch a monster, you will receive damage at once. The
+only way to prevent damage is to either to avoid the monster, or touch
+him with your Shield. Your Shield will only work if it is equipped, you
+have the appropriate type of shield, and your level is higher than that
+monster. If you have met all these requirements, you can push the
+monster from your path using the shield.
+
+------------------
+Weapon Will Powers
+------------------
+
+When you are equipped with a weapon, your Will Meter (found at the
+bottom of the screen), will increase until it is at its maximum. When
+it reaches its max, your weapon will attack in a unique way. The same
+weapon types will have the same unique attack. (i.e., the Broad Sword
+and the dragon sword do the same thing) The different types of weapons
+below are listed in the order that they are found in and with a
+description of what the weapon will do.
+
+Type-          DESCRIPTION (MAX)
+----------------------------------------------------------------
+Swords         Spin Attack - Press and hold the A button. This will
+               make your character spin with his sword. While
+               spinning you can move him with the directional pad.
+
+               Charge Attack - Press the A Button and the Directional
+               pad. Your character will charge in the direction you
+               pushed the Directional pad in.
+
+Axes           It will be thrown in the direction you're facing.
+
+Sickle         The Sickle will extend longer than normal
+
+Chains         The Chain will extend longer than normal
+
+Spears         The Spear will be thrown in the direction you're facing.
+
+Morning Star   The Morning Star will extend longer than normal.
+
+-----
+Items
+-----
+
+Items can be very useful in the game. Many items have properties that
+magic will not be able to replicate. The different types of items in
+the game are, items that recover your HP/MP, cure your status, sold for
+money, open doors and create new routes, and items that can affect your
+status. Items can only be used a certain number of times, so make sure
+you are stocked up before you go exploring different caves.
+
+-----------
+Leveling Up
+-----------
+
+Every time you defeat a monster you will gain Experience and Gold.
+After gaining a certain amount of Experience you will gain a level. A
+message will appear on the screen telling you that your character
+leveled up, and that your HP/MP has also been restored. Now a new
+screen will appear. It asks you to choose what type of stat you want to
+boost. This will allow you to custom make a character. You can create a
+very powerful character in terms of physical attacks, a very powerful
+magician with strong magic attacks, or anything in between.
+
+The stat you choose will be the primary stat that will be boosted, some
+stats will also boost a different stat, but to a lesser degree.
+
+Types of Stat Growth
+--------------------
+
+Power
+-----------------------------------------------------------------------
+This will increase the Power rating of your character by 2 points. This
+will raise the attack power of your character making it easier to
+defeat monsters. This will also increase your Stamina and Will ratings
+by 1 point.
+
+Stamina
+-----------------------------------------------------------------------
+This will increase the Stamina rating of your character by 2 points.
+This raises your HP and also concentrates on your character's defense.
+You will now have less damage dealt to you by enemy attacks. This will
+also increase your Power and Will ratings by 1 point.
+
+Wisdom
+-----------------------------------------------------------------------
+This will increase the Wisdom rating of your character by 2 points.
+This will give you additional MP and raise the damage caused by your
+Magic attacks to your enemies. This will also increase your Stamina and
+Will ratings by 1 point.
+
+Will
+-----------------------------------------------------------------------
+This will increase the Will rating of your character by 2 points. This
+will increase the speed of your gauge allowing your Will Bar to fill up
+quicker. This will also increase your Stamina and Will ratings by 1
+point.
+
+-----------------
+Status Conditions
+-----------------
+
+-> There are four different types of status changes that your character
+can be afflicted with. These conditions are caused by attacks from
+enemies.
+
+1. Poison
+---------
+Effect- Character loses HP's rapidly
+Remedy- Magic of Heal or Pure Potion
+
+2. Darkness
+-----------
+Effect- Character is blind
+Remedy- Magic of Heal or Eye Drop
+
+3. Petrified
+------------
+Effect- Character is turned to stone and unable to move
+Remedy- Magic of Heal or Soft Potion
+
+4. Moogle
+----------
+Effect- Character is changed to a furry creature and Def drops to 0
+Remedy- Magic of Heal or Moogle Potion
+
+
+=======================================================================
+III. Characters
+=======================================================================
+
+--> Characters
+
+HERO:
+-----
+He is the main character of the game. A prisoner at Glaive castle, he
+escapes and embarks on a grand adventure.
+
+Weapon: A variety of weapons and magic.
+ASK: None
+
+-------------------------------
+Non-Playable Characters (NPC's)
+-------------------------------
+
+GIRL:
+-----
+Found early on in the game, she will heal your HP when you ASK her.
+
+Weapon: None
+ASK: She will slowly regenerate your HP's.
+
+MAN:
+----
+He is in the Marsh Cave and will join you in your.
+
+Weapon: Attacks with a magic fireball.
+ASK: Information on using the Mattock.
+
+AMANDA:
+-------
+She is one of the Hero's friends, and a fellow fighter from the past.
+She will join you in the Cave of Medusa.
+
+Weapon: Attacks with a Dagger.
+ASK: Will heal the condition petrify.
+
+LESTER:
+-------
+He is the brother of Amanda. You first see him as a parrot inside
+Davias's Mansion. He will join you upon breaking the spell that is upon
+him.
+
+Weapon: He will attack with Arrows.
+ASK: He will change the background music.
+
+WATTS:
+------
+He will join you in the mine and sell you various items when you ASK
+him. Watts will also make you the silver equipment once you have
+completed the necessary steps.
+
+Weapon: Attacks with an Axe
+ASK: Will let you buy Items.
+
+BOGARD:
+-------
+A powerful Gemma Knight, he will help you save the girl who is found on
+the Airship
+
+Weapon: He will attack with a Sword.
+ASK: He will teach you how to use MAX attacks.
+
+CHOCOBO:
+--------
+A baby bird you find and will serve as your transportation during
+different parts of the game. The ASK command will let you ride him or
+get off.
+
+Weapon: None
+ASK: He will give you a ride on its back. While riding the Chocobo, any
+enemy cannot harm you.
+
+MARCIE:
+-------
+Marcie is a robot built by Dr. Bowow. Marcie has being living in the
+Dime Tower.
+
+Weapon: It will attack with a Laser Beam.
+ASK: Your MP will be restored to its full.
+
+---------------
+Supporting Cast
+---------------
+
+Willy:
+------
+He is the Hero's best friend, and will tell the hero about the Mana
+Tree and the Knights of Gemma.
+
+Hasim:
+------
+A young Gemma Knight who will die trying to get the Girl to Bogard.
+
+Cibba
+-----
+He is a respected elder living at Wendel. He will tell you what
+happened in the past when Vandole acquired the power of Mana.
+
+Dr. Bowow
+---------
+An inventor at Ish, he will mechanize the Chocobo, who is then
+transformed into the Chocobot. The Chocobot can travel across the
+oceans.
+
+--------
+Villains
+--------
+
+Dark Lord:
+----------
+He is the emperor of the Empire of Glaive and the main villain in the
+game. He is in search of the Mana Tree so he may become more powerful.
+
+Julius:
+-------
+The survivor of Vandole, his goal in life is to destroy the Gemma
+Knights. He is the Dark Lord's trusty servant, and will try to defeat
+the Hero.
+
+
+=======================================================================
+IV. Walkthrough
+=======================================================================
+
+Note: I have divided my walkthrough into different sections. Each
+section has a topic name. Below the topic name is a list of items that
+are found, and a list of items that are necessary to complete each
+section.
+
+-----------------------------------------------------------------------
+4.1  Shards of Truth -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+The Hero starts his journey in a room next to the Battle Arena. Once
+the hero walks west into the Arena, a monster(The Jackal), will come
+out of the north gate.
+______________________________________________________________________
+BOSS Name:          JACKAL
+Recommended Level:  1
+GP:                 0
+EXP gained:         0
+Attacks:            None
+Best Equipment:     Sword
+Items Gained:       None
+
+Strategy: This boss is very easy. It has no attacks and moves in a "w"
+pattern. He will not move below the midpoint of the screen, so as long
+as you don't move your character up too much, you won't even get hit.
+After 8 or 9 hits the monster will be defeated.
+_______________________________________________________________________
+
+Once the Jackal is defeated a small narrative will begin. After this
+narrative you will find yourself next to the bed of your best friend
+Willy. He tells you to go find Bogard at the falls and to tell him what
+has happened.
+
+* B-Floor 2 * Once you are able to move your character go north one
+screen. Then talk to the Amanda (the female person walking around).
+Amanda will play a major role in your quest, so be sure to pay
+attention to what she has to say. Once the conversation is over go east
+one screen and walk up the stairs.
+
+* Floor 1 * Now go west one screen. Here you have to fight another
+monster.
+______________________________________________________________________
+BOSS Name:          JACKAL2
+Recommended Level:  1
+GP:                 0
+EXP gained:         0
+Attacks:            None
+Best Equipment:     Sword
+Items Gained:       None
+
+Strategy: Follow the same strategy as before.
+_______________________________________________________________________
+
+Once the monster is defeated look at the gate and you will notice that
+it is still open. So, go north through the gate to the next screen.
+Next, climb down the castle wall and go west one screen. Here you find
+the Dark Lord and Julius talking together. They are looking for the
+Mana Tree. After the conversation ends you are seen by the Dark Lord
+and chased. The Dark Lord will then push you over the waterfall. Your
+character drops 5 screens and then hits the ground! After a couple of
+hours the Hero wakes up at the bottom of the waterfall.
+
+-----------------------------------------------------------------------
+4.2  Topple -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+/---\ /---\      e = Entrance/Exit    Weapon Shop
+|   |_|C B|      A = Inn              -----------
+|    _    |      B = Weapon Shop      Broad Sword - 60 GP
+|   | |   |      C = Item Shop        Iron Helmet - 140 GP
+\- -/ \- -/
+ ] [   ] [       Inn - 10 GP          Item Shop
+/- -\ /- -\      ---                  ---------
+|  A|_|   |                           Cure (2x)     - 40 GP
+|    _    |                           Eye Drop (x3) - 60 GP
+|   | |   |                           Pure (x3)     - 30 GP
+\-e-/ \---/                           Key (x4)      - 15 GP
+                                      Mattock (x7)  - 60 GP
+
+From the bottom of the falls walk east two screens, south, east, and
+north. You will now be in the town of Topple. Buy any supplies that you
+need. I recommend that you buy a couple Cure Potions if you had any
+trouble dealing with the monsters. While you were fighting, some of the
+monsters may have left behind a piece of Candy. By using Candy you can
+recover some of your HP's. Now exit the town.
+
+Now go south, and then east one screen. There will be a girl yelling
+for help! Defeat the monster and talk to the injured man. He tells you
+to bring the girl to Wendel and to see Bogard. Hmm... this Bogard must be
+an important man. Hasim, the injured man, will then die. Once he dies
+the Girl will join your group. The Girl has the ability to recover your
+HP's if you ASK her.
+
+As you continue to fight, you will gain exp and eventually a level up.
+When you level up, you will have the choice to boost certain
+attributes. The most profitable way for you to raise your attributes is
+to have them balanced. For example, choose Power one time, and then
+choose Wisdom the next.
+
+Fight around this general area until you reach level 3 or 4. Once you
+have over 140 gold, go to Topple and buy the Iron Helmet. Don't forget
+to equip it! Make sure that you also buy 1 set of Keys at the Item
+shop.
+
+Exit Topple and go east two screens. From here, go south, east, north,
+west, north, west three times, and north two screens. Then follow the
+vines around and go south to the next screen. Now go west a screen and
+climb the vine north to the next screen. Enter Bogard's house.
+
+-----------------------------------------------------------------------
+4.3  Bogard -
+-----------------------------------------------------------------------
+
+Items Found: Set of Mattocks
+Items Needed: 1 Mattock
+
+Talk to the old man three times, and on the third time he will reveal
+his identity. Bogard will talk about what happened many years ago when
+Vandole tried to gain the power of Mana. The story goes as follows... A
+woman wearing the pendant, (the Girls mom) gave the Gemma knights hope,
+which enabled them to beat Vandole.
+
+Bogard will then tell you to go see Cibba in Wendel for more
+information. He then opens the door to his back room. Go north into the
+room and open the treasure chest for a Mattock. If you want to use the
+Mattock, go to the Item screen and double click the Mattock. Whenever
+you want to use an item, hit the "B" button. Unequip the Mattock so you
+don't accidentally use it.
+
+From Bogard's house, go south, east, north, south on the other side of
+the mountains, and east twice. Then climb down the vine and go into the
+East Cave.
+
+East Cave
+---------
+Items Found: None
+Items Needed: 1 Mattock
+
+* Floor 1 * Go to the southern end of the screen, and use the Mattock
+to clear a path. After clearing the path, go south two screens and up
+the stairs.
+
+Now go east twice, south, and east. Go into the little house in the
+middle of the screen. The man offers to sell a Battle Axe for 150 gold.
+Buy the Battle Axe and also a Pure Potion. Equip the Battle Axe and
+exit the house. Then go east, south twice, and west three screens. Now
+enter the building. (As you walked to the building, you may have
+noticed that you couldn't deal any damage to the Swamp Man. Some
+monsters are protected against some weapons, so experiment to see which
+weapons or magic will work on which monsters)
+
+-----------------------------------------------------------------------
+4.4  Kett's House -
+-----------------------------------------------------------------------
+
+Items Found: Cure Spell
+Items Needed: Nothing
+
+Talk to the man by the door and he will tell you that "the room to the
+east is only for Mr. Lee". In the room to the north there are two
+people. One of them says the key to the Marsh Cave can be found in the
+Lizardmen's nest to the south. The other person says that the man threw
+away a mirror in the Cave of Marsh.
+
+Go south from that room, and walk west into another room. Now walk
+north through the door. Next, go north and walk onto the unoccupied
+beds. Just before you go to sleep the Girl will find the Book of Cure
+and give it to you. The Hero will learn the Cure spell. When you wake
+up in the morning the Girl is gone. Ask the man guarding Mr. Lee's room
+and he will "say" that he hasn't seen her.
+
+-----------------------------------------------------------------------
+4.5  The Bronze Key -
+-----------------------------------------------------------------------
+
+Items Found: Bronze Key
+Items Needed: Nothing
+
+From outside Kett's house, go east three times, and then south. Fight
+all the lizards. Once they are defeated, a treasure chest will pop up
+in the middle of the screen. Now open the treasure chest, go to the
+item screen, and equip the Bronze Key. Now go north one screen, east,
+and then north. Now go through the door into the Marsh Cave.
+
+* This is a tip on how to gain some quick levels. If you defeat all the
+monsters in once screen you will notice that if you exit a screen and
+then go back in, that the monsters will not be there. However, there is
+a way to get them back. You must go through three other different
+screens and then go to the screen where you killed the monsters. The
+monsters will be replenished. Monsters will also be replenished if
+there is one or more monsters still alive on the screen. So what you
+need to do is first, fight all the monsters in a screen, but leave one
+alive. Then exit the screen and go back in. The monsters will have been
+replenished. You can do this as many times as you want. This trick will
+let you gain a huge amount of gold and experience. This trick works
+especially well in the screen with the Lizard Men.
+
+-----------------------------------------------------------------------
+4.6  Marsh Cave -
+-----------------------------------------------------------------------
+
+Items Found: Iron Shield, Fire Spell, Mirror
+Items Needed: 4 Mattocks, 3 Keys
+
+* Floor 1 * As soon as you enter the cave, you will see a man wandering
+around on the screen. Talk to him and let him join your group. Now walk
+north, west, and then step on the odd tile near the south wall. Then go
+down the stairs.
+
+* Floor 2 * Go east a screen, and then climb down the vine that is at
+the end of the log bridge. Now go west a screen, and then go back into
+the cave.
+
+* Floor  3* Now go east one screen. Use a Mattock in the middle of the
+south wall to make a pathway. Go south a screen and go down across the
+ice to get the Sickle. Equip the Sickle and use it to cut down the
+vines around you. Then, backtrack to where you met the man wandering
+around. (The entrance/exit room of the cave)
+
+* Floor 1 * Now go south. (You can kill the blobs with the man's
+fireballs) Use a Mattock on the west wall, and go west through the
+opening. If you want to go to the Healing Spring to restore your HP and
+MP follow these directions, if you don't just skip over this section
+and read on. (Use a Key and go north. Then push the treasure chest onto
+the odd tile and go down the stairs. Go south and search the bottom of
+the pond. It will heal your HP and MP). From the room where you had the
+option to find the Healing Spring, go west twice, and then north. Use a
+Key on the east door, and then go through it. Once all the monsters are
+defeated, a chest will appear. Open the treasure chest for an Iron
+Shield. Equip the Iron Shield and go west through the door. Use the
+Sickle to cut down the vines and go north. Then walk east a screen, and
+use a Mattock on the rock in the northeast corner of the room. Then
+walk down the stairs to the next floor.
+
+* Floor 2 * Climb along the vines and go south. Then go west and into
+the cave. Then go west, south, use a Key on the door and go through it.
+Kill the monsters and slide east on the northern most row of ice. Use a
+Mattock to break the rock, and then go south and break the southern
+most rock. Step on the switch, save your game, and equip the Cure
+spell. Now go down the stairs.
+
+* Floor 3 * Go east a screen to battle the boss monster of this cave.
+______________________________________________________________________
+BOSS Name:          Hydra
+Recommended Level:  13
+GP:                 94
+EXP gained:         10
+Attacks:            Fireballs
+Best Equipment:     Sickle
+Items Gained:       Magic Book of Fire, Mirror
+
+Strategy: To defeat this monster move north as the monster moves south.
+Then attack the heads as the monster comes up. Once he is moving to the
+top of the screen go south. Then once the Hydra goes down, move up and
+attack the heads. This strategy sounds harder than it really is when
+you are playing the game. The Iron Shield is able to block any
+fireballs and your Sickle can destroy any of the fireballs. The only
+real danger is if the Hydra hits you with his body. Keep on doing this
+until the Hydra dies.
+_______________________________________________________________________
+
+After defeating the Hydra two treasure chests will appear. Open the
+first one to learn the spell Fire. Destroy the chest with your weapon
+and open the second for the Mirror. The Man tells you to show it to the
+man at Kett's and then the man disappears. You are then warped back
+outside the cave. Travel back to Kett's and save your game outside the
+building.
+
+-----------------------------------------------------------------------
+4.7  Kett's Dungeon -
+-----------------------------------------------------------------------
+
+Items Found: Chain Flail, Sleep Spell
+Items Needed: 5 Mattocks, 2 Keys
+
+* Floor 1 * Equip the Mirror and talk to the man guarding the door. He
+will turn into a Werewolf. Kill him and then go restore your HP and MP
+at the beds where you found the Cure Spell. (In this cave the Face Orbs
+and Pirates can only be hurt by the Fire magic). Starting from the room
+where you fought the Werewolf, go east twice, north, west and up the
+stairs.
+
+* Floor 2 * Go south and use a Mattock on the east wall. Go east
+through the hole, north, east, south twice, and west. Use a Mattock to
+break one of the pots, and then step onto the odd tile. Then go down
+the new stairs in the southeast corner.
+
+* Floor 1 * Go east, north, and use a Key to open the door. Then go
+north through the door and open the chest to find a Chain Flail. Equip
+the Chain Flail and use it on the east pole to pull yourself across.
+Step on the odd tile to remove the blocks that are in your way. Now go
+south twice, west and up the stairs.
+
+* Floor 2 * Go up the stairs to the north.
+
+* Floor 3 * Now go west a screen and use the Chain Flail to pull
+yourself across the chasm. Then go west a screen and then south down
+the stairs.
+
+* Floor 2 * Now go west a screen, and then north. Kill all the
+creatures and let your Attack Meter be filled to the MAX. Then use the
+Chain to go across the gap. (If you accidentally fall in the gap, go
+north a screen, and up the stairs. Then go south through the door to
+the room where you fell through the gap). Then, go east twice, north,
+and west. Push the treasure onto the odd tile, and then go down the
+stairs. (If you accidentally destroy the treasure chest, go out of the
+room and then come back in. A new treasure chest will be there)
+
+* Floor 1 * Now use a Mattock on the southeast pot, and then go down
+the stairs.
+
+* B-Floor 2 * Go east and use a Key on the door to the south. Go south
+through the door. Open the second coffin going from right to left, on
+the bottom row, to find the Girl. (Remember that you can ASK the girl
+and she will recover your HP) Now you have backtrack to the entrance of
+Kett's house.
+
+(Go north, west, and up the stairs. Then go north up more stairs. Go
+south and use a Mattock to break the pots. Then go south a screen and
+walk up the stairs. Then go east, use the Chain, east, and down the
+stairs. Then go east, north twice, west, south, west, north and then
+down the stairs. Then go east, south, and west)
+
+Make sure you save your game and heal before west to the entrance of
+Kett's. Now go west through the door. Mr. Lee is in this room... but
+instead of meeting a human, you meet a vampire!
+______________________________________________________________________
+BOSS Name:          Mr. Lee
+Recommended Level:  15
+GP:                 10
+EXP gained:         11
+Attacks:            Bats
+Best Equipment:     Chain, Cure Spell
+Items Gained:       Magic Book of Sleep
+
+Strategy: This battle is very easy. You notice that the Mr. Lee, will
+only move to 4 locations on the screen. He can move to either position
+adjacent to him. However, he will not jump to the position directly
+across from him.
+
+/-------\  He attacks by opening his cape and launching bats at you.
+|   x   |  Luckily, you are able to block the bats with your shield.
+|x     x|  The best strategy to defeat him is to block/dodge the bats
+|   x   |  with your shield, and then hit him with the Chain Flail. I
+|       |  was able to beat him without getting hit once using this
+\-------/  strategy. Dodge his bats and then strike at him. If you run
+           low on HP you can either use the Cure Spell, or ASK the Girl
+           to cure your wounds.
+_______________________________________________________________________
+
+After defeating Mr. Lee you will get the Magic Book of Sleep. You are
+then warped outside of Kett's House. The Girl will tell you to travel
+to Wendel. From outside Kett's, go east three times, south, west, cut
+down the vines, and then go south. Then go west, north, and use the
+Chain Flail to go across the river. Then go south, east, south twice,
+east, and then north twice.
+
+-----------------------------------------------------------------------
+4.8  Wendel -
+-----------------------------------------------------------------------
+
+Items Found: Magic Spell Book of Heal
+Items Needed: Nothing
+
+      /-t-\    s = Entrance/Exit         Inn - 10GP
+      |   |    A = Inn                   ---
+      |   |    B = Weapon
+      |   |    C = Item Shop             Weapon Shop
+      \- -/    * = Man                   -----------
+       ] [                               Broad Sword - 60 GP
+/---\ /- -\ /---\    TEMPLE              Iron Helmet - 140 GP
+|  B|_|   |_|   |                        Iron Shield - 185 GP
+|    _     _    |    /---\               Iron Armor - 315 GP
+|   | |   | |   |    |   |
+\---/ \- -/ \- -/    | * |               Item Shop
+ ] [   ] [   ] [     |   |               ---------
+/- -\ /- -\ /- -\    \- -/               Cure (x2)     - 40 GP
+|  C|_|  A|_|   |     ] [                Eye Drop (x3) - 60 GP
+|    _     _    |    /- -\               Pure (x3)     - 30 GP
+|   | |   | |  *|    |   |               Key (x4)      - 15 GP
+\---/ \---/ \---/    |   |               Mattock (x7)  - 60 GP
+       ] [           |   |
+      /- -\          \-t-/
+      |   |
+      |   |         t = Entrance into temple
+      |   |         * = Cibba
+      \-s-/
+
+Once in Wendel, go east and you will meet the Man who helped you in the
+Marsh Cave. Go to the Weapon Shop, buy the Iron Armor and sell any
+excess items that you might have. From the outside the Weapon Shop, go
+east, and north. Walk into the temple and go north to find Cibba.
+
+Cibba tells the Girl to stand on the circle. Once the Girl stands on
+the circle her mother appears. She tells the Girl to guard the Mana
+Tree with the Gemma knights. Suddenly, the Man who helped you at the
+cave shows up and says that the town is under attack. He then runs to
+the Girl and says that he is going to take her to a hiding place. The
+man who helped you turns into Julius. He then takes the Girl and runs
+outside. When you are able to move, exit the temple and walk south
+towards the town entrance. You have the option to avoid or kill the
+monsters in your path. Once you catch up with Julius outside town, he
+will zap you with his magic. When you wake up, you will find yourself
+in the temple with Cibba. Cibba tells you that Julius took the Girl
+away in the airship. He then gives you the magic spell Heal.
+
+From outside Wendel, go west, south, and west. Now cut down the tree to
+the west that is directly above the sand with your Battle Axe. Then go
+west twice, and into the cave.
+
+-----------------------------------------------------------------------
+4.9  Dwarf Cave -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+/---\ /---\  s = Entrance/Exit
+|   |_|  s|  * = Watts (after Silver Cave)
+|    _    |
+|   | |   |    * Weapon Shop
+\- -/ \- -/      -----------
+ ] [   ] [       Silver Armor - 700 GP
+/- -\ /- -\      Silver Shield - 505 GP
+|   |_|  *|      Silver Sword - 562 GP
+|    _    |
+|   | |   |
+\---/ \---/
+
+Once you are inside the cave, talk to some of the dwarves. One will
+tell you that you need to buy some Oil for the trolley tracks. You also
+learn that Gaia Cave likes Silver, and that you can find Silver in the
+Mine to the north.
+
+Exit the Dwarf Cave and go north one screen. Then, use the Chain to go
+across the stream. Then go south twice, east, and into the Item shop.
+Buy an Oil for 500 gold, and exit the store.
+
+Now go north a screen, use the Chain to get across the stream, and go
+north twice. Now you need to equip the Battle Axe so you can chop down
+the trees in the northwest corner of the screen. Now go north a screen
+and chop some more trees.
+
+tt ttttttt     t = Trees
+tt xxt   t     x = Path you need to cut with the Battle Axe
+   txt   t     m = Mountains
+ttttttx  t
+tttttttxtt
+ttt  txxtt
+mtt  xxttt
+mmm  ttttt
+
+Now go west one screen, and into the Silver Mine.
+
+-----------------------------------------------------------------------
+4.10  Silver Mine -
+-----------------------------------------------------------------------
+
+Items Found: Silver
+Items Needed: Oil, 5 Mattocks
+
+* Floor 1 * Use the Oil on the cart and make sure you have your Sickle
+equipped. You need the Sickle to change the tracks your cart is riding
+on by hitting the second and third switch. Jump into the mine cart and
+you will travel west two screens. Don't hit this switch. Now be patient
+until you reach the next switch as the mine cart goes through two
+screens west, one south, and one east. The switch you need to hit is
+near the beginning of the screen and it is north of the tracks. After
+hitting this switch you will travel south one screen where you have to
+hit another switch on the east side of the tracks. Now the track will
+lead to a pile of rocks, which your cart will hit. You are knocked down
+into the mineshaft. (If you miss or hit the wrong switch, keep on
+trying until you get it right. There is no time penalty in this cave)
+
+* B-Floor 2 * At the bottom of the mineshaft you will meet Watts. He
+will join your group and help you look for Silver. If you are low on
+supplies, ASK Watts and he'll let you buy some of the Items he is
+carrying. Watts also sells X-Cure, which can not be bought until later
+on in the game. From here, go north and use a Mattock to break the
+boulder at the north portion of the screen. Then go east and through
+the door. Break the boulder farthest to the west, and then go south.
+Use the pond to restore you HP and MP. Then go north and use a Mattock
+on the boulder farthest east. Now use a Mattock on the east wall, and
+then go through the hole. Use a Mattock on the pot and stand on the odd
+tile. Now slide east on the ice, and then go down the stairs.
+
+* B-Floor 3 * Go west twice and back into the cave. Go west, north, and
+up the stairs.
+
+* B-Floor 2 * Go west and down the stairs.
+
+* B-Floor 3 * Prepare yourself to fight the boss monster. Then climb
+south down the vine.
+______________________________________________________________________
+BOSS Name:          Megapede
+Recommended Level:  19
+GP:                 161
+EXP gained:         48
+Attacks:            None
+Best Equipment:     Chain, Cure Spell
+Items Gained:       Silver
+
+Strategy: The Megapede will come out of one of the four holes. It
+travels in a normal or sideways figure 8 motion. Wait for him at a
+hole, and then hit it in the head. The Megapede will not receive any
+damage if you hit him on the body. Make sure you have at least 20 HP
+when you defeat it, because it will explode and deal your character a
+fair amount of damage. Once it is defeated, open the treasure chest for
+the Silver.
+_______________________________________________________________________
+
+You are transported outside the cave and Watts leaves with the Silver
+to make weapons and armor. He tells you to meet him in the Dwarf Cave.
+Now go back to the Dwarf Cave (east, south three times, west and into
+the cave). Once you are in the Dwarf Cave go south and buy the Silver
+sword, armor, and shield from Watts. Exit the Dwarf Cave and go north
+twice, west, and then north one screen. Now go into the cave.
+
+-----------------------------------------------------------------------
+4.11  Gaia's Cave -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+Go west, south, and then walk south between two statues. Once you walk
+between the statues the door will shut. So go back up partway between
+the statues and as soon as the door opens, go back south and through
+the door. Then go up the stairs in the southeast corner of the room.
+Once you are outside the cave Bogard will join your group. He tells you
+that the Airship it refueling at the lake to the north.
+
+-----------------------------------------------------------------------
+4.12  Refueling Lake -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+Now go south, cut a path through the trees, and then go west a screen.
+
+(If you paid close attention, you will have noticed that the screen you
+just went through had four werewolf creatures. These creatures can all
+be killed, and then be replenished. They are all also situated in a
+small clearing right next to the border of the screen... which means
+that this is a very, very, easy place to level. First go one screen
+west of them, and then go back right and start swinging your weapon,
+preferably your sword, as fast as you can. You will be able to defeat
+them all, most likely suffering only one hit. I was able to gain 10
+levels in 20 minutes here)
+
+Then go north twice, you should see an Inn above you. Now use the
+Battle Axe to chop the trees to your left and then go west twice. Now
+go north and into the Item Shop. Buy the Silver Helmet, a set of Keys,
+and a set of Mattocks. After exiting the shop, go east twice, north,
+east through the trees to the next screen. Then wait until you attack
+bar is at the Max and use the Chain Flail to cross the stream. Then go
+north, east, use the Chain Flail, and then west. Then go down the vine
+and west. Use the Chain Flail to go across the water and then go south.
+Now go west and north twice. Then climb the chain and go up into the
+Airship
+
+-----------------------------------------------------------------------
+4.13  Airship -
+-----------------------------------------------------------------------
+
+Items Found: Pendant (Temporarily)
+Items Needed: 1 Key, 1 Mattock
+
+* Floor 1 * Starting from the deck, go north a screen along the west
+side of the mast. Go west, south and through the door.
+
+* B-Floor 2 * Go west three times, north, east and then down the
+stairs.
+
+* B-Floor 3 * Now go west a screen, and then south a screen. Walk onto
+the odd tile in the northeast corner of the screen and then stand on
+the odd tile in the northwest corner. Stairs will appear in the
+southeast corner. Now go down the stairs.
+
+* B-Floor 4 * Go west twice, use a Key on the south door, and then go
+south. The Girl is being kept in a jail cell. Walk south to the jail
+door. Once you do this, the Airship will begin to move. The Girl can't
+open the gate, but she thinks she can escape through the window. But...
+she will need some help to do this. Now you have to find a path that
+will lead to the outside window. Bogard will decide to remain behind
+once you try to go north. From the room where the Girl is, go north a
+screen, east twice and up the stairs.
+
+* B-Floor 3 * Now go north, west, and then up the stairs.
+
+* B-Floor 2 * Now go south, west three times, and then north. Use a
+Mattock on the north pot and go up the stairs.
+
+* Floor 1 * Go east once and then north a screen while staying on left
+side of the mast. Then go west twice, south, and then east. Then go
+south down the ladder to the next screen. Go east a screen and talk to
+the Girl who is leaning out the second window. The Girl will give you
+the pendant. Just when the Hero accomplishes his goal, Julius finds the
+Hero and the Girl. Julies attacks the bridge with his magic causing you
+to fall off the airship and into a town.
+
+-----------------------------------------------------------------------
+4.14  Menos -
+-----------------------------------------------------------------------
+
+Items Found: Nothing          Item Shop
+Items Needed: Nothing         ---------            Moogle (x3) -120 GP
+                              X-Cure (x2) -160 GP  Key (x4)     -15 GP
+/---\ /---\  e = Entrance     Pure (x3)   -30 GP   Mattock (x7) -60 GP
+|B  |_|  C|  B = Weapon Shop  EyeDrop (x3)-60 GP   Soft (x3)    -90 GP
+|    _    |  C = Item Shop
+|   | |   |                   Weapon Shop
+\-e-/ \---/                   -----------
+                              Wind Spear - 1150 GP
+
+Amanda, a fellow gladiator and friend, brings you back to her house.
+She then nurses you back to health, but before you regain
+consciousness, she regretfully steals the pendant. Exit the house and
+walk to the Weapon Shop. Buy the Wind Spear! If you talk to the
+different people in town, you will hear many interesting facts. The
+first one being that Amanda has a brother in Jadd, who plays the harp.
+Second that Amanda left town... hmm, I wonder where she went? Lastly,
+that there are Chocobo eggs in the north forest.
+
+-----------------------------------------------------------------------
+4.15  Chocobo -
+-----------------------------------------------------------------------
+
+Items Found: "Chocobo"
+Items Needed: Nothing
+
+From outside of Menos go south twice, go across the bridge, north,
+east, north twice, west, north twice, east, south, east, and use the
+chain to go across the water.
+
+Search the egg and it will hatch. Once you go back across the chasm,
+ASK the Chocobo. You can now ride on the Chocobo. When riding on the
+Chocobo, you are not able to kill any monsters, but monsters can't
+attack you either.
+
+While you were walking, you might have noticed a group of four Werewolf
+monsters. These monsters will let you gain quick and easy levels since
+they are always replenished, even if you kill all of them. To kill them
+quickly, you must have a throwing type of weapon equipped. Then go to
+the screen south of the monsters and wait for your attack bar to max
+out. Then go north and let your weapon fly, which will kill all the
+creatures in one shot (if you have sufficient Power stats). You can
+repeat this over and over again, until you are satisfied with your
+level.
+
+From outside Menos, your next destination, Jadd, is (s,s,w,w,n,n,w,n)
+(If you are going there directly after getting the Chocobo, from the
+first bridge you crossed earlier, go (w,w,n,n,w,n)
+
+-----------------------------------------------------------------------
+4.16  Jadd -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+e = Entrance/Exit           Weapon Shop
+A = Inn                     -----------
+B = Weapon Shop             Gold Armor   - 1300 GP
+C = Item Shop               Gold Helmet  - 680 GP
+D = Davias's Mansion        Gold Shield  - 920 GP
+* = Boy with the secret
+
+/---\ /- -\ /---\           Item Shop
+| D |_|   |_|   |           ---------
+|    _     _    |           X-Cure (2)   - 160 GP
+|   | |   | |   |           Pure (3)     - 30 GP
+\---/ \- -/ \- -/           EyeDrop (3)  - 60 GP
+ ] [   ] [   ] [            Soft (3)     - 90 GP
+/---\ /- -\ /- -\           Moogle (3)   - 120 GP
+|   |_| / |_|   |           Key (4)      - 15 GP
+|    _ /A  _  C |           Mattock (7)  - 60 GP
+|   | |B  | |  *|
+\---/ \- -/ \- -/           Inn - 10 GP
+ ] [   ] [   ] [            ---
+/- -\ /- -\ /- -\
+|   |_|  A|_|   |
+|    _     _    |
+|   | |   | |   |
+\---/ \-e-/ \---/
+
+Davias, the ruler of the city, has a bad reputation. Davias's house is
+in the northwest section of town. When questioned, Davias says that
+there is a Medusa in the cave that Amanda went to. The bird that is
+next to Davias is Amanda's brother! If you talk to the boy next to the
+Item shop, he says that he will trade you his clue for a Bag of Fang.
+
+Fight outside of Jadd until you find a Bag of Fang. The lizard monster
+will drop it. Talk to the boy and give him the Bag of Fang. He says,
+"palm trees, and 8".
+
+There is a Magic shop (s,e,s,s,w,w,n) of Jadd. It offers some magical
+items, if you want to buy them. (I didn't) There is also an Inn (s,e,e)
+of Medusa's Cave. Once you are done purchasing equipment, and gaining
+levels, head to the Cave of Medusa. The cave is located
+(s,e,s,s,e,s,s,w,n) of outside Jadd.
+
+-----------------------------------------------------------------------
+4.17  Medusa's Cave -
+-----------------------------------------------------------------------
+
+Items Found: Gold Armor, Ice Spell, Amanda's Tears
+Items Needed: Mattock, 2 Keys
+
+Dismount from your Chocobo. Now walk a sideways figure 8 around the
+palm trees. (You might have to do it 2 or 3 times until the cave opens)
+
+           - -   - -       (x) = Palm tree
+           - x - x -       (-) = Path you walk
+           - -   - -
+
+Walk into the cave and you will see Amanda. She says she took the
+Pendant in exchange for her brother. Despite this, Davias cursed her
+brother changing him into a parrot. Amanda is looking for the Tears of
+Medusa. After a short discussion Amanda will join your group.
+
+* Floor 1 *  From where you found Amanda, go south and use a Mattock on
+the south wall. Then go south through the new entrance. Then go west
+twice, south, west twice and north three times. Then go west, use a
+Key, south, and kill all the enemies in the room. Then open the chest
+for a suit of Gold Armor. Then go north, east and use a Key on the
+north door. Then go north through the now open door. There are two odd
+tiles here. The one closet to the bottom opens the door, and the other
+one closes the door. Have your Chain Flail weapon equipped. Go west,
+and then onto the bottom patch of ice, which will bring you onto the
+first odd tile. Then use the Chain Flail on the post to the east. Now
+go east to the next screen. Open the treasure for the Ice Spell. Now go
+west and south three times. (If you want, you can use a Key on the west
+door. Go through the door and go to the bottom of the pond. It will
+restore your HP and MP) From the room adjacent to the recovery
+fountain, go south, east and use a Mattock on the north wall. Go
+through the wall, and then move the frozen snowman onto the tile. (If
+you mess up, the far right ice square will let you back down) Then go
+north through the door. Use your Ice Spell to freeze and enemy. Then
+push the frozen enemy onto the odd tile. (Be careful, because Amanda
+might accidentally destroy the snowman that you just made, and this
+time, you have to use the usual method to have the monsters
+replenished) Then go north through the door, and down the stairs.
+
+* Floor 2 * Now go north and down the stairs.
+
+* Floor 3 * Climb down the vine, and just before you go west, heal-up,
+and save your game. Go west and the Medusa will appear.
+_____________________________________________________________________
+BOSS Name:          Medusa
+Recommended Level:  28
+GP:                 88
+EXP gained:         90
+Attacks:            Shoots Snakes
+Best Equipment:     Wind Spear/Chain Flail, Cure Spell
+Items Gained:       Drop of Amanda's Tears
+
+Strategy: The Medusa shoots three or four snakes out of her head. Stay
+below her and just dodge the snakes. Just keep on attacking Medusa's
+head and she will eventually die.
+_______________________________________________________________________
+
+The Medusa dies, but she leaves no tears. Just as you are ready to
+leave, Amanda says she was injured and will soon turn into a Medusa.
+She asks you to kill her and take her tears to her brother. You then
+kill Amanda. Search her body for the tears. Once you have done this,
+you will be transported out of the cave.
+
+-----------------------------------------------------------------------
+4.18  Davias's Mansion -
+-----------------------------------------------------------------------
+
+Items Found: Were Axe
+Items Needed: 2 Mattocks, 2 Keys
+
+Take your Chocobo with you and go back to Jadd. (s,e,n,n,n,w,n,w,n) Now
+go back to Davias's Mansion. Some of these monsters are invulnerable to
+the Wind Spear. I recommend using the Silver Sword.
+
+* Floor 1 * Go up the stairs.
+
+* Floor 2 * Go east twice into the room where you first saw Davias and
+the bird. Davias is gone, but the bird is still there. Equip Amanda's
+Tears and talk to the bird. He transforms into Lester and joins you
+group. Now go down the stairs.
+
+* Floor 1 * Now go east twice and use a Mattock on the north wall. Go
+north twice and use a Key on the door to the west. Go west through the
+door and go south a screen. Now walk around the tiles counter-clock
+wise and go up the stairs.
+
+* Floor 2 * Go west four times. Now walk onto the odd tile one space
+north of the iron fence. Now walk counter clockwise until some stairs
+appear. Now you go down the stairs.
+
+* Floor 1 * Then go north, west, and south four times. Then use the Ice
+Spell to freeze the monster. Push him onto the odd tile and go east.
+Kill all the enemies in this room and a treasure will appear. Open the
+treasure chest for the Were Axe. Now go west, north twice, and use a
+Mattock on the east wall. Go east, south and up the stairs.
+
+* Floor 2 * Use a Key on the north door and go north. Then go up the
+stairs.
+
+* Floor 3 * Heal-up, save your game, and go west.
+____________________________________________________________________
+BOSS Name:          Davias
+Recommended Level:  30
+GP:                 98
+EXP gained:         95
+Attacks:            Throws Fireballs
+Best Equipment:     Were Axe, Cure Spell
+Items Gained:       None
+
+Strategy: Davias is protected by four circling balls of flame. He
+attacks by shooting a ball of flame at you. He moves east and west
+across the top of the screen. There are two approaches to defeating
+Davias. The quickest way is to stay between the circle of fireballs
+surrounding Davias, and just keep on slashing him with your Were Axe.
+The longer way to kill Davias is to stay at the bottom of the screen
+and dodge the fireballs Davias releases. Once your weapon is powered up
+let it fly at Davias. I have defeated Davias this way and have not been
+hit by Davias's fireballs once.
+_______________________________________________________________________
+
+After Davias dies you are transported back to the town of Jadd.
+
+-----------------------------------------------------------------------
+4.19  Journey North -
+-----------------------------------------------------------------------
+
+Items Found: Magic Book Of Mute
+Items Needed: Nothing
+
+Lester will play his harp, which will clear the poison gas to the
+north. Lester then gives you the Spell Mute. Stock up on any general
+items that you need and exit the town. Remember to take your Chocobo
+with you! From outside of Jadd go south, east, north, east, north
+twice, and east (use axe). Now go north twice, east and north. (A Magic
+Shop can be found by going down the second vine to the east, and south
+twice) Otherwise go west and into the cave.
+
+* Floor 1 * Go west, north, west (use Axe), west, south, and save your
+game. Go left and prepare to fight the Metal Crab
+____________________________________________________________________
+BOSS Name:          Metal Crab
+Recommended Level:  33
+GP:                 108
+EXP gained:         104
+Attacks:            None
+Best Equipment:     Were Axe, Cure Spell
+Items Gained:       None
+
+Strategy: The Metal Crab moves across the top/bottom of the screen. It
+will them move diagonally to the opposite side. Luckily, there is a
+very easy method to beating this enemy. First, go to the upper left
+corner of the screen. The Metal Crab is unable to hit you from here.
+Equip the Were Axe and wait until your Will Meter is maxed out. Then
+move down and throw your axe at the Metal Crab's head. If you are
+careful you should be to defeat him without getting.
+_______________________________________________________________________
+
+Once the Metal Crab is beaten go down the stairs.
+
+* BFloor 2 * Go west three times and up the stairs.
+
+Once you are out of the cave, go west, south, east, and south. (You can
+go to an Item Shop by walking east and then north a screen) Otherwise,
+go south three times, and east. Go to the bottom of the pond and it
+will restore your HP and MP. Now go west, and north (stay to the
+right). Then go east, north and east. Take the vine farthest to the
+right and go north. Then go north and into the Weapon Shop. Buy all new
+armor and climb south to the bottom of the cliff. Now take left vine
+and climb north three times. Then go west and use the Axe to chop down
+the trees to the west. Walk to the north side of the trees and then go
+east, north twice, east, south, south (use the axe), east, north and
+into the Golem Cave
+
+-----------------------------------------------------------------------
+4.20  Golem Cave -
+-----------------------------------------------------------------------
+
+Items Found: Morning Star, Lit Spell
+Items Needed: 1 Mattock, 2 Keys
+
+First off, this cave is very complex. However, if you follow my
+directions, you should have no problem going through this cave. This
+cave contains many screens that warp you back to the first screen.
+
+* Floor 1 * Go north, east twice, and use a Mattock on the north wall.
+Go north and then west. On this screen there are four treasure chests
+and four odd tiles. Place one treasure box onto a tile and then knock
+it off the tile to open the door. Go north and then east. Use a Key to
+open the door and go through it. Go east, south three times, east twice
+and up the stairs.
+
+* Floor 2 * Now save your game and heal-up. Go east to begin the
+battle.
+____________________________________________________________________
+BOSS Name:          Cyclops
+Recommended Level:  37
+GP:                 63
+EXP gained:         71
+Attacks:            Mace
+Best Equipment:     Were Axe, Cure Spell
+Items Gained:       Morning Star
+
+Strategy: The Cyclops moves to three main points, each of which is on
+the east side of the screen. Occasionally he will charge horizontally.
+Stay below him as he charges across the screen and use the Were Axe to
+hit him. Once he reaches the bottom of the screen go above him. Then
+hit him as he makes his way up. Follow this general pattern until the
+monster is defeated.
+_______________________________________________________________________
+
+Once he is vanquished open the treasure for a Morning Star. Equip this
+weapon, which adds +10 to your attack. This weapon also is able to
+break down the same objects and walls your Mattock can... so you can
+now get rid of all your Mattocks.
+
+* Floor 1 * Now go west three times and you will be back at the
+entrance. Go north, heal-up and save your game. Use a Key on the door
+and go north.
+____________________________________________________________________
+BOSS Name:          Golem
+Recommended Level:  39
+GP:                 96
+EXP gained:         172
+Attacks:            None
+Best Equipment:     Morning Star, Cure Spell
+Items Gained:       Spell Book of Lit
+
+Strategy: The only weapon that you should be using to defeat the Golem
+is the Morning Star. The Golem can charge vertically and diagonally.
+Stay at the bottom of the screen for the entire battle. When he charges
+down move out of the way and hit him with the Morning Star. Do this
+until the Golem dies.
+_______________________________________________________________________
+
+He will give you the spell Lit. Now go north, use the Morning Star on
+the rocks and go up the stairs to the next floor.
+
+* Floor 2 * Climb the vine and go east. Then try to go into the cave.
+Just as you try, the bridge behind you collapses. Your character then
+comes out next to a waterfall. Now go east twice and into the castle.
+
+-----------------------------------------------------------------------
+4.21  Dark Castle -
+-----------------------------------------------------------------------
+
+Items Found: Blood Sword, Pendant (Fake)
+Items Needed: 3 Keys
+
+* Floor 1 * Try going through the main gate to the castle and you will
+discover that it is locked. You need to find another entrance... so
+walk west a screen. Now chop some trees down and go west again. Then go
+north a screen and walk into the door.
+
+* B-Floor 2 * Cross the bridge to the north, then the bridge to the
+west, and go north. Now go east, cross the bridge to the south, east,
+and walk across the bridge to your north. Now go east a screen and up
+the stairs.
+
+* Floor 1 * Climb the vine above you and go north a screen.
+
+* Floor 2 * Now go north another screen.
+
+* Floor 5 * (That last vine brings you up a few floors) Now go down the
+stairs.
+
+* Floor 4 * Go down another flight of stairs.
+
+* Floor 3 * Now heal-up and save your game. Go west and the Chimera
+will attack!
+____________________________________________________________________
+BOSS Name:          Chimera
+Recommended Level:  40
+GP:                 21
+EXP gained:         90
+Attacks:            Fireballs
+Best Equipment:     Morning Star, Cure Spell
+Items Gained:       None
+
+Strategy: The monster flies above you and drops two flaming bombs with
+its wings. Soon after doing this, the Chimera will fly down in a
+zigzagging type motion. The method that I used to defeat the Chimera
+was to simply stand near the top of the screen and attack as quickly as
+I could, curing occasionally. This worked well enough for me, so I am
+leaving it up to you if you want to fight the Chimera a different way.
+_______________________________________________________________________
+
+Once the monster is defeated, go down the stairs found in the southwest
+corner of the screen.
+
+* Floor 2 * You are now in the Girl's prison cell. The Girl will run up
+to you and join your group. She tells you that the Dark Lord took her
+pendant. Remember, now that the girl is with you, she can heal your HP
+when you ASK her. Now go down the stairs.
+
+* Floor 1 * Then climb up the stairs to the north.
+
+* Floor 2 * Now go south down the steps to the next screen.
+
+* Floor 1 * Then go west a screen and walk into the building. You can
+refresh yourself on the bed and buy whatever you need from the Item
+Shop. Exit the building and go east. Now walk north up the steps to the
+next floor.
+
+* Floor 2 * Now go west three times, south, and into the door.
+
+* Floor 3 * Quickly walk across the spikes. Use a Key on the door and
+go north. Then go east and use a Mattock/Morning Star on the north
+wall. Then go north through the hole. Go west and then use the Chain
+Flail to cross over to the odd tile. Stand on the odd tile and a
+staircase will appear. Go down the stairs.
+
+* Floor 2 * Now go north, east, south twice, east, use a Key on the
+door and go east. Kill the enemies and go to the bed to restore your HP
+and MP. Then go west three times. The room here has four empty chests
+on the odd tiles. Do not knock any of them off or the stairs will
+vanish. I used the Chain Flail to kill the monsters in the room. Now go
+down the stairs.
+
+* Floor 1 * Go east twice and use a Mattock on the east wall. Now go
+east through the opening you just made. Then go east, north, and up the
+stairs.
+
+* Floor 2 * Go south, east, and kill all the enemies. Open the chest
+for the Blood Sword. Then go west, north, and use a Mattock on the
+north wall. Go north through the opening and use as Key on the door. Go
+east through the now open door and go up the stairs.
+
+* Floor 3 * Go south and west twice. Now freeze two monsters using the
+Ice spell, and put the snowmen on the odd tiles. Then go down the
+stairs.
+
+* Floor 2 * Go west, north, and up the stairs.
+
+* Floor 3 * Then go north, west, heal-up and save your game. Then go up
+the stairs.
+
+* Floor 2 * The Dark Lord is at the top of the castle. The Girl will
+leave and the fight will begin.
+____________________________________________________________________
+BOSS Name:          Dark Lord
+Recommended Level:  41
+GP:                 167
+EXP gained:         12
+Attacks:            Sword
+Best Equipment:     Morning Star, Cure Spell
+Items Gained:       Fake Pendant
+
+Strategy: The Dark Lord will run around and try to hit you with his
+sword. The Dark Lord is able to use a MAX type attack with his sword
+and he is able to follow your movements. Dodge around him and strike
+him until he is defeated. He is very easy to defeat.
+_______________________________________________________________________
+
+Go south down the stairs. The Girl is gone, mostly likely stolen away
+by Julius. Your character will automatically exit the castle. As soon
+as you are outside the castle, you see the Girl walking across the
+screen. Your character shouts to her, but she can't hear you. Follow
+her west to the waterfall.
+
+The Girl is by the edge of the falls! The Hero asks what is wrong, but
+the Girl doesn't respond. Then Julius appears between you and the Girl.
+Apparently, he has hypnotized the Girl! He tells the Girl to use the
+pendant so the waterfall will be reversed. Once the waterfall starts to
+flow backwards, Julius will zap you with his magical power. Your
+character then falls down the waterfall AGAIN!
+
+-----------------------------------------------------------------------
+4.22  Ish -
+-----------------------------------------------------------------------
+
+Items Found: Chocobot (new and improved Chocobo)
+Items Needed: Nothing
+
+S = Entrance/Exit       Weapon Shop              Inn - 10 GP
+A = Inn                 -----------              ---
+B = Weapon Shop         Flame Chain  - 6300 GP
+C = Item Shop           Flame Armor  - 5625 GP
+* = Dr. Bowow's House   Flame Shield - 4400 GP
+
+/---\ /---\ /---\       Item Shop
+|*  |_|A  |_| BC|       ---------
+|    _     _    |       X-Cure (2)   - 160 GP
+|   | |   | |   |       Pure (3)     - 30 GP
+\---/ \- -/ \---/       EyeDrop (3)  - 60 GP
+       ] [              Soft (3)     - 90 GP
+      /- -\             Moogle (3)   - 120 GP
+      |   |             Key (4)      - 15 GP
+      |   |             Mattock (7)  - 60 GP
+      |   |
+      \-s-/
+
+Your Chocobo finds you and brings you to a house in Ish. You wake up
+and find Bogard lying in a bed next to you. Bogard tells the Hero what
+befell him after he fell from the airship. The Hero will then jump out
+of bed and begins to doubt his ability to be a hero. After confessing
+his problems to Bogard, he runs out of the house. Once you are outside,
+go and buy some new equipment at the Weapon Shop. Then talk to Sarah
+who is blocking your path. She says that Bogard broke his back and is
+unable to move. She tells the hero that he is everyone's only hope and
+that she believes in him. She also mentions that the Chocobo is being
+fixed up at Doctor Bowow's house.
+
+Go west twice and into the house. You will hear some very strange
+noises just before you enter. While talking to Dr. Bowow, you will
+discover that your Chocobo can now go on water with his new mechanized
+legs. The Chocobo also has a new name, Chocobot! Once you exit the
+house, talk to Bogard once again. Bogard tells you that since Julius
+has Mana, you will need to find the sword Excalibur if you want to
+defeat him. He also tells you to go back to Wendel and ask Cibba for
+more information. Now go back to Dr. Bowow for some directions on how
+to get to Wendel.
+
+-----------------------------------------------------------------------
+4.23  Journey back to Wendel -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+Exit the town and climb onto your Chocobot. If you want, there is a
+Magic Shop west of Ish. They do sell X-Ether's there, so you might want
+to consider buying some.
+
+Otherwise, go (w,w,n,n,w) from outside of Ish. Walk onto the pier and
+step out into the water. Then go east seven times, north twice, and
+then walk onto the pier. Then go north twice and go into Wendel. Go
+north once and talk to the girl near the top of the screen. She says
+that Cibba went to Lorim, which is near the snowfields.
+
+-----------------------------------------------------------------------
+4.24  Lorim -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+* Now go south twice to the pier. Then (s,w,w,s,w,w,s,e,s,s,s,s, and
+onto the pier. Now go (n,e,s,s,e,n, and into Lorim. Go north into the
+throne room. Talk to the king and he says that Kary froze his subjects
+and that Cibba is also frozen. Your task now is to find Kary, but first
+you need to buy weapons and armor.
+
+-----------------------------------------------------------------------
+4.25  Ice Equipment -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+If you want, you can pick up an armor and shield upgrade at a new shop.
+This is not necessary to do now, but it will help. There are two
+different sets of directions below, depending upon where your starting
+point is.
+
+From outside of Lorim, go
+(s,w,n,n,w,s,n,n,n,n,w,n,e,e,e,e,e,s,s,s,e,s,s,s,s,w,n,n,w,s,n,e,s,e,n,
+n,n,w,n,w,n)
+
+From the pier south of Wendel, go
+(s,s,s,s,e,e,s,s,s,s,s,w,n,n,w,s,(onto the pier),n,e,s,e,n,n,n,w,n,w,n)
+
+Now go into the shop and buy the new Ice equipment. Once you have
+bought your new stuff, go back to Lorim.
+
+-----------------------------------------------------------------------
+4.26  Ice Cave -
+-----------------------------------------------------------------------
+
+Items Found: Elixir, Ice Sword
+Items Needed: 2 Keys
+
+From the outside of Lorim go south, west, north twice, west, (chop the
+trees), and go north four screens. If you need some equipment, there is
+an Item shop west one screen. Otherwise go east twice, south twice,
+west, south, and east twice. Now go into the cave.
+
+* Floor 1 * Go north, walk counter-clockwise around the ice and go
+north. Go walk to the odd tile and step on it. Go south to the wall and
+wait for the snowman. Then push him north onto the odd tile. Go east,
+use the Flame Chain and go north. Use the Chain to cross the ice and go
+west. Use a Key on the north door and go north. Go east, east, use a
+Key on the door, go north, and then walk up the stairs.
+
+* Floor 2 * Go north, west, and onto the ice. Once you are off the ice
+walk around the rocks and get back onto the ice. Once you have stopped
+sliding you should be in a room with stairs going down. Now take the
+bottom left ice path south. Once you are off the ice, walk around the
+rocks and back on the ice. Once you are off the ice go onto the single
+path of ice in the middle, which will take you west. Once you are off
+the ice use a Mattock/ Morning Star on the north wall. Then go north,
+and up the stairs.
+
+* Floor 3 * Use a Mattock/Morning Star on the north wall. Go north to
+the pond, which will heal your HP and MP. Then go south a screen and
+west a screen. Then go south to room full of enemies. Kill all of the
+enemies and open the treasure for an Elixir. Then go north, east, east,
+and use a Key on the door. Then go north and up the stairs.
+
+* Floor 4 * Go east and then go back into the cave.
+
+* Floor 3 * Cross the ice using a Chain and go west twice. Then go
+south and use the Chain to get to the middle. Step on the tile and go
+on the northwest patch of ice. Then step on the odd tile in the
+southeast corner. Then go south and east twice. (Use your axe to
+destroy the bramble) Then step onto the east ice track. Once you are
+off the ice step onto the ice to the south. Once you get off, use the
+Chain to cross the ice and go west. Then use a Key on the north door
+and go through. Then walk to the bottom of the lake, which will restore
+your HP and MP. Then go onto the ice and west. You can use the Chain to
+get off the ice. It is easier to get across using the post to the
+north. Now use a Mattock/Morning Star on the west wall and go west
+through the hole. Now use the Chain to go across the streams and then
+go up the stairs.
+
+* Floor 4 * Go east, and walk back into the cave.
+
+* Floor 3 * Now go east, north, and up the stairs.
+
+* Floor 4 * Now heal-up and save your game. Go east to fight the boss.
+____________________________________________________________________
+BOSS Name:          Kary
+Recommended Level:  46
+GP:                 129
+EXP gained:         181
+Attacks:            Icicle Throw, Tail Lash
+Best Equipment:     Flame Chain, Cure Spell
+Items Gained:       Ice Sword
+
+Strategy: Kary is only vulnerable in the head region. Also, your Flame
+Chain is able to destroy the icicles she throws at you. While fighting,
+you may note that you aren't losing much HP when you are hit... this is
+because of the Ice Armor that you purchased earlier! Kary's basic
+movement pattern is to slither up and down on the right side of the
+screen. While doing this, she shoots icicles across the screen and can
+moves horizontally across the screen. She moves horizontally in three
+different spots, top/middle/bottom. The best tactic to use is to stay
+either above or below her and hit her head. When Kary finishes moving
+across the middle ice, make your move to the opposite direction of
+where Kary is moving.
+_______________________________________________________________________
+
+Once Kary is defeated a treasure chest will appear. Open the chest for
+the Ice Sword and a transport out of the cave.
+
+-----------------------------------------------------------------------
+4.27  Lich Cave -
+-----------------------------------------------------------------------
+
+Items Found: Bone Key, Nuke Spell
+Items Needed: Nothing
+
+Now walk back to Lorim. (w,w,n,e,n,n,w,w,s,s,s,s,e,s,s,e,n,n) Go north
+into the throne room and talk to the king. Now you need to talk to
+Cibba who is (s,e,n). He gives you the Bone Key and tells you to go to
+a cave in the Plain of Floating Rocks to find the Legendary Sword.
+
+Although the Hero is supposed to get the Legendary Sword now, I think
+it is better to get the Nuke spell first. From the outside Lorim go
+(s,w,n,n,w,s), go into the water, (n,n,n,n,w,n,n,w,w,w,n,n) get onto
+dry land, (w,s,w,s,w,n) and into the cave.
+
+* Floor 1 * Go down the stairs.
+
+* B-Floor 2 * Go down the stairs again.
+
+* B-Floor 3 * Now heal-up and save your game. Walk north to fight the
+Lich.
+____________________________________________________________________
+BOSS Name:          Lich
+Recommended Level:  48
+GP:                 220
+EXP gained:         198
+Attacks:            Skulls
+Best Equipment:     Morning Star, Cure Spell
+Items Gained:       Nuke Spell
+
+Strategy: The Lich moves in a figure eight pattern. He will
+occasionally deviate from the pattern, flying off the screen and
+reappearing on the other side of the screen. He will then start the
+figure eight pattern again. The best strategy is to have your Cure
+spell equipped and have the Morning Star equipped. Just stand in the
+middle of the screen and strike the Lich. The most damaging weapon that
+the Lich possess are his flying skulls. However, the Morning Star and
+other weapons will destroy the skulls that the Lich throws. If you hit
+the Lich at the right time it will pass right over you without dealing
+damage. If you do this properly the Hero won't take damage. Watch your
+HP and just hit the Lich alternating with the Cure Spell until the Lich
+dies. This is one of the toughest bosses, so if you die, keep on trying
+until you win.
+_______________________________________________________________________
+
+Once the Lich is defeated you will get the final magic spell, Nuke.
+
+-----------------------------------------------------------------------
+4.28  Legendary Sword -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Bone Key, 1 Key
+
+The Hero now needs to find the Legendary Sword! You now need to find
+the Plain of Floating Rocks. To get there, you need to follow (part of
+the way) the same path you used to get the Ice equipment.
+
+Here are a couple sets of directions. Each set of directions will lead
+you to a certain point. There are then new directions on where to go.
+
+From outside the Lich Cave go
+(s,e,n,e,n,e,s,s,w,w,w,w,w,n,n,w,w,n,n,n,n,n,n,w,n,n,w,s) and onto dry
+land.
+
+From outside of Lorim, go
+(s,w,n,n,w,s,n,n,n,n,w,n,e,e,e,e,e,s,s,s,e,s,s,s,s,w,n,n,w,s) and onto
+dry land.
+
+From the pier south of Wendel, go
+(s,s,s,s,e,e,s,s,s,s,s,w,n,n,w,s) and onto dry land.
+
+Now that you are on dry land, go north and then east a screen. Now use
+the chain to go across stream, and go south twice, east, south three
+times, and then west. You are now in the Plain of Floating Rocks. Use
+the Morning Star to break rocks and go south. (There is an Item Shop
+one screen to the west) Go south, east, south twice, west, north, and
+across bridge Now go south twice and into Weapon shop. Buy the Thunder
+Spear and exit the building. Now go south, east, south, east twice, and
+north. If you want, you may buy supplies in the Magic Shop. Otherwise
+go west and use the Bone Key on the Door. Now go into the Cave
+
+-----------------------------------------------------------------------
+4.29  Kraken's Cave -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: 1 Key
+
+* Floor 1 * Go north, use a Key, north and use Mattock/Morning Star on
+east wall. Now go east twice and step on the top tile, then bottom
+tile, and go through the east door. Now go north twice and use a
+Mattock/Morning Star on the north wall. Go north and down the stairs.
+
+* B-Floor 2 * Heal-up and save your game. Go across the bridge and the
+Kraken will come out of the water.
+____________________________________________________________________
+BOSS Name:          Kraken
+Recommended Level:  47
+GP:
+EXP gained:
+Attacks:            Tentacles
+Best Equipment:     Thunder Spear, Cure Spell
+Items Gained:       None
+
+Strategy: The Kraken comes from beneath you and uses its tentacles to
+stab at your character. The best strategy is to stand directly above
+the Kraken and stab down as fast as you can at the Kraken's head. The
+shield will stop about 50% of the Kraken's tentacle blows. If you run
+low on HP, use the Cure Spell. Also, the Kraken's explosion might
+damage your character! Once the Kraken is defeated, a new entrance will
+appear.
+_______________________________________________________________________
+
+Now exit the cave. You are now on an island. Go east, south, west,
+north, and into the cave
+
+-----------------------------------------------------------------------
+4.30  Undersea Volcano -
+-----------------------------------------------------------------------
+
+Items Found: Zues Axe
+Items Needed: 2 Keys
+
+Here is a quick note before you start exploring the cave. The enemies
+in this cave are very strong, so watch you HP's!
+
+* Floor 1 * Go south, west twice, north, and use a Mattock/Morning Star
+on the west wall. Go west and use the Sickle to clear the vines. Then
+use the Ice spell to freeze two enemies. Put them on the odd tiles.
+Then go down the stairs.
+
+* B-Floor 2 * Go west and through the door.
+
+* B-Floor 3 * Go west, and then north a screen (Walk through the marsh
+stuff as quickly as possible because it takes about 100 HP off) Walk
+north, west, south, west, and south. Use a Key on the door and go south
+again. Kill all the enemies and a treasure chest will appear. Open it
+for the Zeus Axe. Now go north twice and use a Mattock/Morning Star on
+the east wall. Now go east, north, east, and north. Now use a
+Mattock/Morning Star to break the east wall. Go east through the hole
+and down the stairs.
+
+* B-Floor 4 * Go into the new cave opening.
+
+* B-Floor 5 * Go north and east twice. Go south twice and go to the
+bottom of the middle pond to restore your HP and MP. Go north and use a
+Key on the door. Go east and destroy the bottom-right boulder using a
+Mattock/Morning Star. Go down the stairs.
+
+* B-Floor 6 * You are now in a screen with three doors. Pick the right
+door.
+
+* B-Floor 7 * Now go south, west, and north. Freeze two monsters and
+put them on the odd tiles. Then, knock away a snowman and go down the
+stairs
+
+* B-Floor 8 * Heal-up and save your game. Go west to fight the Iflyte.
+____________________________________________________________________
+BOSS Name:          Iflyte
+Recommended Level:  50
+GP:                 271
+EXP gained:         213
+Attacks:            Rolling Attack
+Best Equipment:     Thunder Spear , Cure Spell
+Items Gained:       Rusty Sword
+
+Strategy: This monster curls itself into a ball and rolls across the
+screen. Eventually he will stop at the top of the screen and reveal his
+body. You are able to strike the monster in his head when he is fully
+revealed. You are also able to hit the monster when he is rolling in a
+ball, if you strike directly at his center.
+_______________________________________________________________________
+
+Once the Iflyte dies you get the Rusty Sword. After your character
+exits the cave, take you're Chocobot with you and go back to Cibba. He
+tells you to find the Key to Dime Tower, and to talk to Dr. BowowSo now
+go to Ish and talk to Dr. Bowow. Dr. Bowow says you can use the Nuke
+spell to blow up a piece of crystal in the Desert of Crystal. The
+Desert of Crystal is right outside of Ish.
+
+-----------------------------------------------------------------------
+4.31  Cave of Ruins -
+-----------------------------------------------------------------------
+
+Items Found: Dragon Shield, Dragon Sword,
+Items Needed: Nothing
+
+* From outside Ish go west, north twice, and west. There should be two
+crystals near the middle of the screen. Use the Nuke spell on the right
+crystal and it will reveal a hole. Go into the hole into the cave.
+
+* Floor 1 * Go west twice and down the stairs.
+
+* BFloor 2 * Go north, east, and open the chest for a Dragon Shield.
+Then go west, north twice, west twice, and open the chest for a Dragon
+Sword. Then go east four times, north three times, and west. Now heal-
+up/save game.
+____________________________________________________________________
+BOSS Name:          Mantis Ant
+Recommended Level:  53
+GP:                 228
+EXP gained:         219
+Attacks:            Pincers
+Best Equipment:     Dragon Sword , Cure Spell
+Items Gained:       None
+
+Strategy: This fight is very easy, but remember that those spikes take
+off a massive amount of HP! The Mantis Ant will stay near the top of
+the screen and occasionally zigzag down at you. Use your sword on him
+when he is at the top of the screen and dodge him when he comes down to
+attack you. However, there is a much easier way to defeat this boss.
+Have your Fire Spell equipped when you enter the battle. As soon as you
+enter the screen don't move. Nothing will be able to hit you, and you
+can cast the Fire Spell at the monster. I was able to win with 20 uses
+of the spell.
+_______________________________________________________________________
+
+When you kill the Mantis Ant the east door opens. Go through the door
+and equip the Rusty Sword. Then stand on the odd tile. The power of the
+Rusty Sword is released and the Dime Tower will be raised.
+
+-----------------------------------------------------------------------
+4.32  Dime Tower -
+-----------------------------------------------------------------------
+
+Items Found: Dragon Armor
+Items Needed: 2 Keys
+
+By about this time you should be around level 55-60. From outside the
+Cave of Ruins go south twice, east, south, and west. Try to walk across
+the screen, and Dime Tower will rise up from the sands.
+
+Or if you need to re-supply, go back to Ish. From outside of Ish, the
+Dime Tower is south and west twice.
+
+As soon as you walk in, Dr. Bowow's robot Marcie will join you. If you
+ASK him he recovers your MP. There are tablets scattered throughout the
+tower. I recommend reading them if you want to read about the story
+line of this game. The directions I give do not include directions to
+the tablets. If you are interested in reading them, use the map of this
+tower.
+
+* Floor 1 * Go west, north twice, east, and use a Mattock/Morning Star
+on the east wall. Go through east, north, west, and up the stairs.
+
+* Floor 2 * Go west, south, east, south twice, east, and up the stairs.
+
+* Floor 3 * Now climb the vine north a screen. Now go through the door.
+
+* Floor 4 * Go west and use a Key on the north door. Go north, east,
+and open the chest for the Dragon Armor. Go west and use a
+Mattock/Morning Star on the west wall. Now go west and up the stairs.
+
+* Floor 5 * Go south and go into a bed to rest. Your HP and MP will be
+restored. Go north and up the stairs.
+
+* Floor 6 * There are two monsters surrounded by trees to your south.
+You need to freeze both monsters, which can be difficult, since you
+don't want to kill them when you chop down the trees. Position your
+character in the bottom corners, facing the walls away from the trees.
+Now swing your Axe and the trees will be chopped and the enemies
+unharmed. Now freeze the monsters and go north. Use a Key on the door
+and go east. Go south and up the stairs.
+
+* Floor 7 * Heal-up and save your game. Go north and the fight will
+begin.
+____________________________________________________________________
+BOSS Name:          Garuda
+Recommended Level:  55
+GP:                 265
+EXP gained:         221
+Attacks:            Feathers
+Best Equipment:     Flame Chain , Cure Spell
+Items Gained:       None
+
+Strategy: Garuda will dive across the screen and throw feathers at you.
+Garuda will also swoop down to the middle of the screen and drop more
+feathers on you. The trick is to wait in the corner below, but at a
+striking distance where the tip of your Flame Chain just reaches
+Garuda. Use your Flame Chain to destroy the feathers Garuda drops and
+to hit Garuda himself. When he swoops down he will miss you. Then go to
+the other corner and attack Garuda again. Follow this pattern until the
+monster is defeated.
+_______________________________________________________________________
+
+Once Garuda is killed go west twice. Just as you are ready to walk on
+land, a part of the tower collapses. Marcie tells you that he will
+throw you over and then jump himself. After he throws you across the
+gap, the hero tells Marcie to jump. Sadly, Marcie is unable to... The
+tower will then collapse carrying Marcie with it. The robot's last
+words are for you to save the world. Once the tower collapses go west
+three times to the waterfall. The waterfall fall will reverse its flow.
+Walk into the waterfall and it will carry you up to the top of the
+mountain.
+-----------------------------------------------------------------------
+4.33  Tower of Gemma -
+-----------------------------------------------------------------------
+
+Items Found: Exaclibur
+Items Needed: 2 Keys
+
+Once you are at the top, go west, north twice, and into the temple.
+
+Some of the enemies that you fight here will drop very rare Items. The
+Samurai Warriors will drop Elixirs or the Samurai Armor. The Demon Head
+will drop an X-Ether or Samurai Helmet. The Elephant will drop the
+Aegis Shield.
+
+* Floor 1 * Go south, east twice, north twice, and use a Key on the
+north door. Go north and up the stairs.
+
+* Floor 2 * Heal-up and save your game. Go north and a Dragon will
+attack.
+____________________________________________________________________
+BOSS Name:          Dragon
+Recommended Level:  57
+GP:                 262
+EXP gained:         0
+Attacks:            Fire Ball
+Best Equipment:     Thunder Spear , Cure Spell
+Items Gained:       None
+
+Strategy: The dragon will first move down the left side of the screen.
+He then zigzags across the screen and goes up the right side of the
+screen. He will then move across the top of the screen and follow the
+same pattern. The dragon attacks with fireballs, which you can luckily
+block with your shield. You may only attack the Dragon in the head, his
+scales protect him from hits to the body. The Dragon is very slow, so
+just dodge and then strike him until you win.
+_______________________________________________________________________
+
+Once he is defeated go into the portal in the northeast corner.
+
+* Floor 3 * Go east and into the portal.
+
+* Floor 4 * Go north, west, north, and use a key on the door.
+Go west and into the portal.
+
+* Floor 5 * Go east and into the portal.
+
+* Floor 6 * Go south and break the west wall. Go west twice, south,
+west, and into the portal.
+
+* Floor 7 * Now go west, and south twice. You need to use the Ice spell
+and direct your icicle using the control pad. Hit the monster on the
+odd tile and the door will open. Go east and up the stairs.
+
+* Floor 8 * Heal-up and save your game. Go north and the Red Dragon
+begins will attack.
+____________________________________________________________________
+BOSS Name:          Red Dragon
+Recommended Level:  58
+GP:                 257
+EXP gained:         0
+Attacks:            Fire Ball
+Best Equipment:     Thunder Spear , Cure Spell
+Items Gained:       None
+
+Strategy: The only differences between this boss and the last are that
+it moves in the opposite directions and it has more HP. However, the
+strategy is still the same as for the first Dragon.
+_______________________________________________________________________
+
+Once he is defeated go into the portal.
+
+* Floor 9 * Go west and into the portal.
+
+* Floor 10 * Now go north, east, north and into the portal.
+
+* Floor 11 * Go east and into the portal. Go south, east twice, and
+into the portal.
+
+* Floor 12 * Use a Key on the door and go west. Go to the bottom of the
+pond to restore the Hero's HP and MP. Exit the room and go back into
+the portal.
+
+* Floor 11 * Go west, south, and into the portal. Go west and into the
+portal.
+
+* Floor 12 * Go east and use a Key on the door. Now go east through the
+now open door, and go east twice more. In this room you need you need
+to freeze a monster. Put the snowman on the odd tile directly above the
+odd tile in the bottom-left corner. Once the door is open, go north
+three times, and go up the stairs.
+
+* Now heal-up and save your game. Go north and prepare to fight the
+Dragon Zombie.
+____________________________________________________________________
+BOSS Name:          Dragon Zombie
+Recommended Level:  60
+GP:                 270
+EXP gained:         0
+Attacks:            Fire Ball
+Best Equipment:     Thunder Spear , Cure Spell
+Items Gained:       None
+
+Strategy: The Dragon Zombie is similar to the dragon you fought back at
+the Cave of Marsh. The Dragon Zombie shoots fireballs from his mouths,
+and will occasionly move across the screen. Have a long reach weapon
+equipped and attack its head. Your weapon is able to destory the
+fireballs and your shield can also block them. The fireballs don't deal
+you much damage, but if you get hit by the Dragons body, you will lose
+about 75 hit points.
+_______________________________________________________________________
+
+Once the monster is killed go into the portal.
+
+* Floor 13 * Now go north four times and talk to the Lady (the Girls
+mom). She transforms your Rusty Sword into the Excalibur. Go north
+twice, west, south, and west. Heal-up and save your game.
+
+-----------------------------------------------------------------------
+4.34  Tree of Mana -
+-----------------------------------------------------------------------
+
+Items Found: Nothing
+Items Needed: Nothing
+
+Go north to find Julius and the Girl. Now prepare to fight for the
+future of the world!
+____________________________________________________________________
+
+The first time you have to battle Julius, he transforms himself into
+three different Julius. Once they are defeated Julius transforms into a
+powerful monster.
+
+------------------------------------------
+BOSS Name:          Julius (1)
+Recommended Level:  60
+GP:                 818
+EXP gained:         638
+Attacks:            Nuke
+Best Equipment:     Exacalibur , Cure Spell
+Items Gained:       None
+
+Strategy: Just attack them and use the Cure spell until they are
+defeated. Once they are defeated, Julius will use the power of Mana and
+transform into a monster!
+
+-------------------------------------------
+BOSS Name:          Julius (2)
+Recommended Level:  60
+GP:                 161
+EXP gained:         0
+Attacks:            Thunder Bolts
+Best Equipment:     Exacalibur , Cure Spell
+Items Gained:       None
+
+Strategy: Julius shoots Thunder Bolts from his hands and swoops down.
+Have the Exaclibur equipped and the Cure Spell. Dodge Julius when he
+swoops down and hit him with your sword. This battle is fairly long but
+Julius is fairly easy to beat!
+
+-------------------------------------------
+BOSS Name:          Julius (2)
+Recommended Level:  60
+GP:                 ---
+EXP gained:         ---
+Attacks:            Nuke
+Best Equipment:     Exacalibur , Cure Spell
+Items Gained:       None
+
+Strategy:  Remember, now that the Girl is with you she can heal some HP
+if you ASK her. Julius can transport himself to different spots on the
+screen. The best strategy is to stay in the middle of the screen and
+attack Julius when he appears.  Don't hesitate to use Elixir's, which
+restore all HP and MP. Eventually you will prevail!
+_______________________________________________________________________
+
+Congratulations!  Now relax and enjoy the ending... even though this is
+one of the saddest endings that I have seen.
+
+
+=======================================================================
+V. Weapons
+=======================================================================
+
+Name           AP    Price(Buy/Sell)  Special
+-----------------------------------------------------------------------
+Broad Sword    +4    60   / 30 GP      -
+Battle Axe     +8    150  / 75 GP     Chopping trees
+Sickle         +9    -    /  -        Cutting ferns and vines
+Chain Flail    +10   -    /  -        Use on posts and poles
+Silver Sword   +14   526  / 281 GP    -
+Wind Spear     +16   1150 / 575 GP    -
+Were Axe       +20   -    / ???       Chopping trees
+Blood Sword    +26   -    / 937 GP    Transfers HP from monster to user
+Morning Star   +30   -    / -         Break bricks and walls
+Flame Chain    +38   6300 / 3150 GP   Used on posts and poles
+Ice Sword      +40   -    / 3750 GP   -
+Thunder Spear  +46   11250 / 5625 GP  -
+Zues Axe       +48   -     / ???      Chopping trees
+Rusty Sword    +20   -     / -        -
+Dragon Sword   +56   -     / 4000 GP  -
+Excalibur      +85   -     / -        -
+
+                           ------------------
+                            Weapon Locations
+                           ------------------
+
+Weapon          -Location
+-----------------------------------------------------------------------
+Broad Sword     -Begin with this weapon and can also buy
+Battle Axe      -Tool Shop
+Sickle          -Marsh Cave
+Chain Flail     -Kett's Dungeon
+Silver Sword    -Dwarf Cave
+Wind Spear      -Weapon Shop in Menos
+Were Axe        -Davias's Mansion
+Blood Sword     -Dark Castle
+Morning Star    -Golem Cave
+Flame Chain     -Weapon Shop in Ish
+Ice Sword       -Ice Cave
+Thunder Spear   -Weapon Shop in Plain of Floating Rocks
+Zues Axe        -Undersea Volcano
+Rusty Sword     -Undersea Volcano
+Dragon Sword    -Cave of Ruins
+Excalibur       -End of Gemma Tower (Rusty sword -> Excalibur)
+
+
+=======================================================================
+VI. Armor
+=======================================================================
+
+                              ------------
+                                  Armor
+                              ------------
+
+Name           DP    Price(Buy/Sell)  Location
+-----------------------------------------------------------------------
+Bronze Armor   +3    110  / 55 GP     Equipped at beginning of the game
+Iron Armor     +8    315  / 157 GP    Sold at Wendel
+Silver Armor   +10   700  / 350 GP    Sold by Watts at Dwarf Cave
+Gold Armor     +16   1300 / 650 GP    Sold at Jadd
+Opal Armor     +19   3000 / 1500 GP   Sold at Mt. Rocks Weapon Shop
+Flame Armor    +21   5625 / 2812 GP   Sold at Ish
+Ice Armor      +29   7350 / 3675 GP   Sold at Weapon Shop in Snow Field
+Dragon Armor   +35   -    / 4900 GP   Found at Dime Tower
+Samurai Armor  +45   -    / 7500 GP   Found at Gemma Tower
+
+* NOTE * The Silver Armor reduces magic damage by 25%, the Flame Armor
+reduces fire magic by 25%, and the Ice Armor reduces ice magic by 25%.
+
+                              -------------
+                                 Helmets
+                              -------------
+
+Name           DP    Price(Buy/Sell)  Location
+-----------------------------------------------------------------------
+Bronze Helmet  +2    -    / 32 GP     Equipped at beginning of the game
+Iron Helmet    +3    140  / 70 GP     Sold at Topple
+Silver Helmet  +8    240  / 120 GP    Sold near the Refueling Lake
+Gold Helmet    +14   680  / 340 GP    Sold at Jadd
+Opal Helmet    +19   3500 / 1750 GP   Sold at Mt. Rocks Weapon Shop
+Samurai Helmet +25   -    / 2100 GP   Found at Tower of Gemma
+
+                              -------------
+                                 Shields
+                              -------------
+
+Name           DP    Price(Buy/Sell)  Location
+-----------------------------------------------------------------------
+Bronze Shield  -     -    / 20 GP     Equipped at beginning of the game
+Iron Shield    -     185  / 92 GP     Found at the Cave of Marsh
+Silver Shield  -     505  / 252 GP    Sold by Watts in Dwarf Cave
+Gold Shield    -     920  / 460 GP    Sold at Jadd
+Opal Shield    -     3900 / 1950 GP   Sold at Mt. Rocks Weapon Shop
+Flame Shield   -     4400 / 2200 GP   Sold at Ish
+Ice Shield     -     6200 / 3100 GP   Sold at Weapon Shop in Snow Field
+Dragon Shield  -     -    / 4100 GP   - ???
+Aegis Shield   -     -    / 5265 GP   Found at Tower of Gemma
+
+
+=======================================================================
+VII. Items
+=======================================================================
+                             ---------------
+                             Medicinal Items
+                             ---------------
+
+Item            Price(Buy/Sell)     Use
+-----------------------------------------------------------------------
+Candy (x1)      -   / 2 GP          Restores 10 HP
+Cure (x2)       40  / 20 GP         Restores 30 HP
+X-Cure (x2)     160 / 80 GP         Restores 100 HP
+Ether (x1)      320 / 160 GP        Restores 10 MP
+X-Ether (x1)    640 / 320 GP        Restores 15 MP
+Elixir (x1)     -   / 320 GP        Restores all HP and MP
+Pure (x3)       30  / 15 GP         Recovers from poison
+Eyedrop (x3)    60  / 30 GP         Recovers from blindness
+Soft (x3)       90  / 45 GP         Recovers from stone
+Moogle (x3)     120 / 60 GP         Recovers from moogle
+Unicorn (x1)    -   / 150 GP        Recovers from all conditions
+
+                              -------------
+                              Special Items
+                              -------------
+
+Name            Price(Buy/Sell)    Use
+-----------------------------------------------------------------------
+Bronze Key      -   / 2 GP          Opens door to Cave of Marsh
+Bone Key        -   / 2 GP          Opens door to Underground Cave
+Pendant         -   / -             Reverses waterfall
+Mystic Mirror   -   / -             Reveals identity of evil being
+Silver          -   / -             Metal for weapons and armor
+Amanda's Tear   -   / -             Transform humans into monsters
+Fang            -   / 14 GP         Needs to be exchanged in Jadd
+Oil             500 / 250 GP        Can be used to lubricate surface
+Mattock (x7)    60  / 28 GP         Breaks rocks, pots, and weak walls
+Key (x4)        15  /  4 GP         Opens simple locks
+Ruby            -   / 100 GP        Sell
+Gold            -   / 750 GP        Sell
+Opal            -   / 1750 GP       Sell
+
+                           -------------------
+                           Stat Boosting Items
+                           -------------------
+
+Name                Price(Buy/Sell)   Use
+-----------------------------------------------------------------------
+Crystal (x1)        - / 500 GP        Boosts Attack Gauge to Max
+Stamina Stone (x1)  - / 39 GP         Temporarily boosts Stamina
+Wisdom Stone (x2)   - / 17 GP         Temporarily boosts Wisdom
+Will Stone  (x1)    - / 44 GP         Temporarily boosts Will
+Nector Stone  (x2)  - / 23 GP         Temporarily boosts Power
+
+                              -----------
+                              Magic Items
+                              -----------
+
+Name             Price(Buy/Sell)   Use
+-----------------------------------------------------------------------
+Silence (x1)     100 / 50 GP       Mute Magic
+Pillow  (x1)     100 / 50 GP       Sleep Magic
+Flame (x2)       60  / 30 GP       Flame Magic
+Blaze (x2)       240 / 120 GP      Flame x2 Magic
+Blizzard (x2)    80  / 40 GP       Ice Magic
+Frost (x2)       320 / 160 GP      Ice x2 Magic
+LitBolt (x2)     100 / 50 GP       Thunder Magic
+Thunder (x2)     400 / 200 GP      Thunder x2 Magic
+
+
+=======================================================================
+VIII. Magic
+=======================================================================
+
+Spells   Description                         MP
+-----------------------------------------------------------------------
+Cure-    Recovers HP                         2
+Heal-    Restores status                     1
+Sleep-   Puts enemies to sleep               1
+Mute-    Silence your enemies magic spells   1
+Fire-    Flame attack                        1
+Ice-     Freezes enemy into a snowman        2
+Lit-     Thunder attack                      2
+Nuke-    Atomic attack                       3
+
+
+=======================================================================
+IX. Shops
+=======================================================================
+
+---------
+1. Topple
+---------
+
+ Inn            -10 GP
+
+ Weapon Shop:
+ ============
+ Broad Sword    -60 GP
+ Iron Helmet    -140 GP
+
+ Item Shop:
+ ==========
+ Cure (x2)      -40 GP
+ Eye Drop (x3)  -60 GP
+ Pure (x3)      -30 GP
+ Key (x4)       -15 GP
+ Mattock (x7)   -60 GP
+
+----------------------
+2. Tool Shop (Marshes)
+----------------------
+
+ Weapon/Item Shop:
+ =================
+ Battle Axe     -150 GP
+ Cure (x2)      -40 GP
+ Eye Drop (x3)  -60 GP
+ Pure (x3)      -30 GP
+ Key (x4)       -15 GP
+ Mattock (x7)   -60 GP
+
+---------
+3. Wendel
+---------
+
+ Inn            -10 GP
+
+ Weapon Shop:
+ ============
+ Broad Sword    -60 GP
+ Iron Helmet    -140 GP
+ Iron Shield    -185 GP
+ Iron Armor     -315 GP
+
+ Item Shop:
+ ==========
+ Cure (x2)      -40 GP
+ Eye Drop (x3)  -60 GP
+ Pure (x3)      -30 GP
+ Key (x4)       -15 GP
+ Mattock (x7)   -60 GP
+
+---------------------
+4. Dwarf Cave (later)
+---------------------
+
+ Weapon Shop:
+ ============
+ Silver Armor   -700 GP
+ Silver Shield  -505 GP
+ Silver Sword   -562 GP
+
+---------------------------
+5. Shop south of Dwarf Cave
+---------------------------
+
+ Item Shop:
+ ==========
+ Cure (x2)      -40 GP
+ Eye Drop (x3)  -60 GP
+ Pure (x3)      -30 GP
+ Key (x4)       -15 GP
+ Mattock (x7)   -60 GP
+ Oil (x1)       -500 GP
+
+---------------------------
+6. Shop west of Silver Mine
+---------------------------
+
+ Inn           - 10 GP
+
+------------------------
+7. Inn west of Gaia Cave
+------------------------
+
+ Inn           - 10 GP
+
+---------------------------
+8. Shop near Refueling Lake
+---------------------------
+
+ Item Shop:
+ ==========
+ Silver Helmet  -240 GP
+ Cure (x2)      -40 GP
+ Ether (x1)     -320 GP
+ Key (x4)       -15 GP
+ Mattock (x7)   -60 GP
+
+--------
+9. Menos
+--------
+
+ Weapon Shop:
+ ============
+ Wind Spear    -1150 GP
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattok (x7)   -60 GP
+
+--------
+10. Jadd
+--------
+
+ Inn           - 10 GP
+
+ Weapon Shop:
+ ============
+ Gold Armor    -1300 GP
+ Gold Helmet   -680 GP
+ Gold Shield   -920 GP
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattok (x7)   -60 GP
+
+--------------------------
+11. Shop Southwest of Jadd
+--------------------------
+
+ Magic Shop:
+ ===========
+ Ether (x1)    -320 GP
+ X-Ether (x1)  -640 GP
+ Flame (x2)    -60 GP
+ Blaze (x2)    -240 GP
+ Silence (x1)  -100 GP
+ Pillow (x1)   -100 GP
+
+---------------------------
+12. Inn East of Medusa Cave
+---------------------------
+
+Inn            - 10 GP
+
+-------------
+13. Mt. Rocks
+-------------
+
+ Magic Shop:
+ ===========
+ Ether (x1)    -320 GP
+ Flame (x2)    -60 GP
+ Blaze (x2)    -240 GP
+ Frost (x2)    -320 GP
+ Silence (x1)  -100 GP
+ Pillow (x1)   -100 GP
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattok (x7)   -60 GP
+
+ Weapon Shop:
+ ============
+ Opal Armor    -3000 GP
+ Opal Helmet   -3500 GP
+ Opal Shield   -3900 GP
+
+----------------------
+14. Dark Lord's Castle
+----------------------
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattok (x7)   -60 GP
+
+--------
+15. Jadd
+--------
+
+ Inn           - 10 GP
+
+ Weapon Shop:
+ ============
+ Flame Armor   -5625 GP
+ Flame Shield  -4400 GP
+ Flame Chain   -6300 GP
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattock (x7)  -60 GP
+
+---------------------
+16. Desert of Crystal
+---------------------
+
+ Magic Shop:
+ ===========
+ X-Ether (x1)  -640 GP
+ Flame (x2)    -60 GP
+ Blaze (x2)    -240 GP
+ Frost (x2)    -320 GP
+ LitBolt (x2)  -100 GP
+ Thunder (x2)  -400 GP
+
+--------------
+17. Snowfields
+--------------
+
+ Weapon Shop:
+ ============
+ Ice Armor     -7350 GP
+ Ice Shield    -6200 GP
+
+---------------------------
+18. Plain of Floating Rocks
+---------------------------
+
+ Weapon Shop:
+ ============
+ Thunder Spear -11250 GP
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattock (x7)  -60 GP
+
+---------------
+19. Snow Fields
+---------------
+
+ Item Shop:
+ ==========
+ X-Cure (x2)   -160 GP
+ Pure (x3)     -30 GP
+ EyeDrop (x3)  -60 GP
+ Soft (x3)     -90 GP
+ Moogle (x3)   -120 GP
+ Key (x4)      -15 GP
+ Mattock (x7)  -60 GP
+
+---------------------------
+20. Plain of Floating Rocks
+---------------------------
+
+ Magic Shop:
+ ===========
+ X-Ether (x1)  -640 GP
+ Flame (x2)    -60 GP
+ Blaze (x2)    -240 GP
+ Frost (x2)    -320 GP
+ LitBolt (x2)  -100 GP
+ Thunder (x2)  -400 GP
+
+
+=======================================================================
+X. Monsters
+=======================================================================
+
+--> The names of the monsters are from a person whose name I forget. If
+that person reads this, please send me an email with your name so I can
+give you proper credit for it.
+
+The monsters appear in the order that I encountered them in the game.
+
+After you defeat a monster, they will leave your character Gold and
+Experience. The amount of Gold and Exp. that you receive will not be
+the same for every monster. The amount of Gold and Exp will even differ
+when you kill the same type of monster. Larger differences will occur
+as the amount of Gold and Exp increases. For example, a monster might
+leave 20 gold one time, 22 the next, and then 21 gold. In cases such as
+these, I have written down the average value, which is then rounded to
+the nearest whole number.
+
+Abbreviations
+-------------
+
+Monsters:
+ * = Can only be hurt by Magic
+
+Dropped Items:
+ St. = Stone
+ Sh. = Shield
+ Ar. = Armor
+ Hm. = Helmet
+
+ Locations:
+  EC = East Cave           IC = Ice Cave
+  KD = Kett's Dungeon      LC = Lich Cave
+  MC = Medusa's Cave       KC = Kary's Cave
+  DM = Davias's Mansion    UV = Undersea Volcano
+  A  = Airship             CR = Cave of Ruins
+  JC = Journey Cave        DT = Dime Tower
+  GC = Golem Cave          TG = Tower of Gemma
+  DC = Dark Castle
+
+Monsters      |Location                      |Drops      |GP  |EXP |
+--------------------------------------------------------------------
+Mushroom      |Topple Area                   |----       |1   |1   |
+Goblin        |Topple Area                   |Candy      |3   |1   |
+Rabbit        |Mountains near Topple, EC, DC |----       |2   |1   |
+Bumblebee     |Mountains near Topple, EC, DC |Candy      |2   |2   |
+Jellyfish     |Marshes                       |----       |4   |3   |
+Flower        |Marshes                       |Pure       |4   |3   |
+Swamp Man     |Marshes, Journey Cave         |Ether      |5   |10  |
+              |                              |Will St.   |----|----|
+Lizardman     |Marshes, Undersea Volcano     |Cure       |5   |4   |
+FaceOrb       |Marsh Cave, A, MC, DM, DC, IC |Mattock    |4   |5   |
+              |DT, TG                        |           |    |    |
+Skeleton      |Marsh Cave, A, MC, DC, IC, DT |Key        |7   |6   |
+              |Tower of Gemma                |           |    |    |
+Flying Fish   |Marsh Cave, Kett's Dungeon    |Mattock    |10  |10  |
+Evil Plant    |Marsh Cave, Kett's Dungeon    |Nothing    |4   |5   |
+Pumpkin       |KD, A, MC, DM, GC, DC, IC, KC |Pillow     |15  |9   |
+              |Undersea Volcano,             |           |    |    |
+Mouse         |KD, Airship, MC, DM, DC, KC   |Cure       |11  |8   |
+Pirate        |KD, Airship, MC, DC           |Ether      |6   |15  |
+              |                              |Wisdom St. |----|----|
+Owl           |Kett's Dungeon, Airship, DC   |Crystal    |12  |9   |
+Pig Warrior   |Wendel Area                   |Candy      |25  |32  |
+              |                              |Gold Bag   |----|----|
+Bee           |Wendel Area                   |Nothing    |16  |22  |
+Crab          |Wendel Area on beach, KC      |Nectar     |22  |21  |
+Spider        |Silver Mine, Medusa's Cave    |Nothing    |26  |19  |
+Mimic Chest   |Silver Mine, MC, Dark Castle  |Nothing    |34  |2   |
+Hopping Bug   |Silver Mine, Dark Castle      |Nothing    |21  |2   |
+Werewolf      |Airship Area, Airship, DM     |Cure       |42  |51  |
+Water Demon   |Airship Area, KC, Oceans      |Nothing    |12  |2   |
+Carrot        |Airship Area                  |Nothing    |44  |38  |
+Porcupine     |Airship Area                  |Candy      |37  |42  |
+              |                              |Gold       |----|----|
+Cloud         |Airship Area, JC, GC, DC, UV  |Ether      |18  |28  |
+Magic Eye     |Airship, DM, JC, UV, DT       |Ether      |25  |32  |
+Ghost         |Airship, JC, GC, DC           |Ether      |46  |49  |
+              |                              |Wisdom St. |----|----|
+Basilisk      |Desert                        |Ruby       |51  |40  |
+Scorpion      |Desert                        |Nothing    |10  |54  |
+Lizard        |Desert                        |Nothing    |41  |48  |
+              |                              |Fang       |----|----|
+Mummy         |Medusa's Cave, JC             |Flame      |20  |33  |
+Biting Lizard |Medusa's Cave, JC             |Nothing    |50  |45  |
+Snake         |Medusa's Cave, DM, DC, UV     |Nothing    |43  |57  |
+Shadow        |Medusa's Cave, DM, DC, UV     |Ether      |82  |70  |
+Flame         |Davias's Mansion, JC, UV      |X-Cure     |61  |85  |
+Bat           |Davias's Mansion, JC, UV      |Crystal    |38  |121 |
+Black Wizard  |Davias's Mansion, GC, DC      |Blizzard   |60  |66  |
+Mole          |Area near Golem Cave, KC      |Nothing    |31  |75  |
+Monkey        |Area near Golem Cave          |Nothing    |73  |92  |
+Mech. Fish    |Area near Golem Cave, KC      |Nothing    |54  |53  |
+Face          |JC, GC, DC, UV, DT, TG        |X-Ether    |81  |111 |
+Titan         |Area near Golem Cave          |X-Cure     |82  |87  |
+Spring        |Area near Golem Cave          |Ruby       |32  |68  |
+Minotaur      |Golem Cave, DC, DT            |Cure       |47  |103 |
+Glaive Knight |Dark Castle, IC, UV, DT       |X-Cure     |70  |137 |
+Glaive Mage   |Dark Castle, IC, UV, DT       |X-Ether    |73  |118 |
+Ant           |Outside of Ish                |Flame      |86  |126 |
+Venus FlyTrap |Outside of Ish                |Silence    |95  |92  |
+Armadillo     |Outside of Ish                |Stamina St.|64  |48  |
+Seahorse      |Ocean, KC                     |Nothing    |75  |13  |
+Snowman       |Snowfields                    |Nothing    |103 |102 |
+Walrus        |Snowfields                    |Blizzard   |109 |113 |
+Wolfhead      |Snowfields                    |Nothing    |120 |133 |
+Rabbit        |Ice Cave                      |X-Ether    |128 |120 |
+              |                              |Elixir     |----|----|
+Cyclone       |Ice Cave, Kary's Cave, DT, TG |Nothing    |158 |178 |
+Eye           |Ice Cave, Kary's Cave, DT, TG |Nothing    |10  |216 |
+Captain Duck  |Ice Cave, LC, UV, CR, TG      |Nothing    |126 |130 |
+Flappy Ears   |Snail Fields, LC area         |Thunder    |140 |142 |
+Jumping Hand  |Snail Fields, LC area         |Opal       |153 |130 |
+Tortoise      |Plain of Floating Rocks       |X-Cure     |160 |125 |
+Wasp          |Lich Cave, UV, CR, TG         |Nothing    |227 |140 |
+Digger        |Lich Cave, UV, CR, TG         |X-Ether    |174 |244 |
+Mirror        |Cave of Ruins, DT, TG          |Unicorn    |219 |228 |
+Snail         |Cave of Ruins, DT, TG         |X-Cure     |192 |196 |
+One-Eyed Mage |Dime Tower, Tower of Gemma    |Thunder    |188 |201 |
+Gauntlet      |Dime Tower, Tower of Gemma    |X-Ether    |104 |186 |
+Angry Duck    |Dime Tower                    |X-Cure     |218 |168 |
+Fuzzy         |Dime Tower, Tower of Gemma    |Nothing    |240 |243 |
+Evil Sword    |Dime Tower, Tower of Gemma    |Nothing    |203 |207 |
+Ninja         |Tower of Gemma                |Elixir     |10  |248 |
+              |                              |Samurai Ar.|----|----|
+Demon Head    |Tower of Gemma                |X-Ether    |202 |181 |
+              |                              |Samurai Hm.|----|----|
+Elephant      |Tower of Gemma                |Aegis Sh.  |128 |254 |
+
+
+=======================================================================
+XI. Frequently Asked Questions (FAQ's)
+=======================================================================
+
+Last Updated: 11/01/2000
+
+-----------------------------------------------------------------------
+Questions
+-----------------------------------------------------------------------
+
+-> This list is compiled from various emails that I have received.
+
+-----------------------------------------------------------------------
+1. What does the Ask command do?
+
+A: The Ask command allows you to use the special abilities of certain
+NPC's. The abilities of NPC's are very important to your quest.
+
+-----------------------------------------------------------------------
+2. I just got out of the town Jadd and I cannot find the cave of
+Medusa. Could you help me out?
+
+A: The Medusa Cave is hidden. To find the cave follow these directions.
+From outside of Jadd, go south, east, south, south, east, south, south,
+west, and north. Now dismount from your Chocobo. You should see two
+separate palms trees to the north. Now walk a sideways figure 8 around
+the palm trees. After walking a few complete sideways figure's 8 the
+cave will open.
+
+-----------------------------------------------------------------------
+3. I don't have any Keys or Mattocks left and the only way to go up a
+floor is to go through a locked door. Do I have to start a new game, or
+is there something I can do?
+
+A: There are two monsters that will leave these items behind. A
+Skeleton will leave behind Keys when it drops a treasure chest. A
+FaceOrb will leave behind Mattocks when it drops a treasure chest.
+
+-----------------------------------------------------------------------
+4. I am stuck behind a treasure chest and can't get by. Now what?
+
+A: After opening a treasure chest, you can destroy it with your weapon.
+If you can't open it, it's because you are full with other items. So,
+throw a useless item into the Trash Can and open the treasure chest.
+
+-----------------------------------------------------------------------
+5. I am near Jadd and I can't get past the poison gas. Help!?
+
+A: To get past the poison gas you have to kill Davias. To do this, you
+first need to go to Davias's mansion, free Lester, and then help him
+avenge his sister.
+
+-----------------------------------------------------------------------
+6. What does the Morning Star do?
+
+A: The Morning Star can attack enemies and break walls like Mattocks.
+
+-----------------------------------------------------------------------
+7. I'm in the Cave of Ruins, and I just beat the Mantis Ant. I went
+right into this room with waterfalls on each side, and a switch. I
+stepped on the switch and nothing happened. What do I do?
+
+A: To activate the switch, you must have the Rusty Sword equipped
+before you step on the floor switch.
+
+-----------------------------------------------------------------------
+8. Which crystal do I nuke?
+
+A: From outside of Ish go one screen west, north twice, and west. There
+are two crystals sticking out in the middle of the screen. The right
+one is the one you nuke.
+
+-----------------------------------------------------------------------
+9. What are the most powerful weapons and armor in the game, and where
+can I find them.
+
+A: The most powerful sword is the Excalibur and the most powerful armor
+you can find is the Aegis Shield, Samurai Helmet, and the Samurai Armor?
+These pieces of equipment can be found by killing certain enemies in
+the Tower of Gemma. These are the three different monsters that may
+leave behind a special weapon or piece of armor.
+
+Monster       Treasure Chest
+---------------------------------------
+Ninja         Elixir or Samurai Armor
+Demon Head    X-Ether or Samurai Helmet
+Elephant      Aegis Shield
+
+
+=======================================================================
+XII. Tips, Tricks, and Strategies
+=======================================================================
+
+1. The Morning Star can also be used like a Mattock.
+
+2. Ask Commands: You can take very good advantage of this command,
+especially the ones that refuel your HP and MP.
+
+3. Since NPC's attack in the direction that you move, you can help
+guide their attacks.
+
+4. Sound test: Press Down + B + Start at the title screen.
+
+5. Easy Money/Exp: Enemies will return to a screen if...
+      1) You visit three different screens and then go back or
+      2) If you leave one monster in a screen and then come back. The
+         monsters will have regenerated. This will let you gain money
+         or exp very quickly.
+
+6. Level Upgrades: When you increase in levels always alternate between
+Power or Wisdom. This will lead to an even build up of status.
+
+7. Selling Weapons: Never sell any of the main weapons unless you get
+an upgraded version of it. Example: Only sell your Broad Sword after
+you get the Silver Sword.
+
+8. Killing People: It is possible to kill people in towns, but they
+have a lot of HP. To defeat them, just keep on hitting them with your
+weapon with the weapon at its max Will Power.
+
+9. Treasure Chest Tip: This is a trick you can use throughout the game,
+but is more helpful during the end of the game. What is in a treasure
+chest is not determined when the chest appears, but instead when you
+open it. This fact can be taken advantage of when trying to get the
+Samurai Armor/Helmet and Aegis Shield. First, you must have your item
+inventory full, but still have room in your Equipment inventory. Then
+kill the monster carrying the equipment you want until one of them
+drops a chest. Then try to open the chest. You will get a few "Can't
+carry!" messages, but the chest will remain closed. Eventually you will
+get armor instead of an item. This way you don't have to kill a ton of
+those stupid elephants and only get those useless (as far as I can
+tell) unicorn items, but instead need only get one to drop a chest.
+
+10. If an empty treasure chest is blocking your path, you can destroy
+it by attacking it with your weapon.
+
+11. Warps-
+
+Here are some fun tricks to try out!
+
+Warp 2- In the cave where you get the Ice magic, go to the corner room
+right before you get the Ice magic. Equip a sword, and put your will to
+the max. While sliding on the two plates, do the max-move to the right.
+Press left when you're flying back, and keep pressing left. You'll warp
+to the cave where you get the star.
+
+Warp 3- In the woods west of Wendel, there is one screen where a road
+runs west to south and another road runs west to east on top of it. On
+the bottom road, face west. Equip any ax and go to the western limit of
+the screen. Make sure your limit gage is NOT full and attack to the
+left, at the same time moving to the left screen. You'll warp to the
+snowy fields.
+
+Warp 4/5- In the last dungeon, there is a long zig-zag road. On the top
+screen, stand on the farthest place you can go without entering the
+forest-like place. Repeat the following until you go over the top of
+the screen and warp to the fire cave. 1. press up 2. press "select"
+while you're moving one step. (do this quickly) 3. save, reset Use this
+method in the entrance to snowy fields and you don't have to get off
+the Chocobo. (You can even enter the cave with the Chocobo)
+
+Warp ?- In the bridge that leads to the town of Wendel, do this: 1.
+step one up 2. While moving, and before landing onto the next step
+press "select" 3. Save, reset And you'll warp to Jadd after reaching
+the boundary of the screen.
+
+
+=======================================================================
+XIII. Maps
+=======================================================================
+
+----------------------------------
+World Map
+==================================
+
+     1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16
+   /---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---\
+A  |MGS|   |   |   |   |   |   |   |   |ITS|   |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+B  |   |   |   |   |   |CAV|   |   |   |   |   |   |   |WPS|   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+C  |   |CAV|   |   |   |   |MGS|   |   |TWN|   |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+D  |   |   |ITS|WPS|   |   |   |   |   |   |   |   |   |CAV|   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+E  |   |   |   |   |   |   | ! |   |   |   |   |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+F  |   |   |   |   |   |   |   |   |   |CAV|   |   |TWN|   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+G  |   |   |   |   |   | $ |   |   |   |   |   |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+H  |   |   |   |   |   |   | * |   |TWN|   |   |   |ITS|   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+I  |   |TWN|   |   |   |   | # |   |   |   |   |   |   |   |CAV|   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+J  |   |   |   |   |TWN|   |   |   |   |   | @ |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+K  |ITS|   |   |   |   |   |   |   |   |   |INN|   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+L  |   |   |   |   |   |ITS|   |   |CAV|CAV|   |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+M  |   |   |CAV|   |   |   |   |INN|   |   |   |   |   |TWN|   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+N  |   |   |   |   |INN|   |   |   |   |   |   |   |   |   |   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+O  |   |   |   |CAV|   |   |   |   |   |TWN|   |   |   |   |   |   |
+   |CAV|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
+P  |   |   |   |   |   |   |   |   |   |   |ITS|   |   |WPS|   |   |
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+   \---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---/
+
+Here is a representation of the World Map.
+
+Legend
+======
+
+TWN = Town
+----------
+C10 = Ish           J5  = Menos
+F13 = Lorim         M14 = Wendel
+H9  = Topple        O10 = Dwarf Cave
+I2  = Jadd
+
+CAV = Cave
+----------
+B6  = Golem Cave    L9  = Mouth of Gaia's Cave
+C2  = Journey Cave  L10 = Silver Mine
+D14 = Ice Cave      M3  = Medusa's Cave
+F10 = East Cave     O1  = Undersea Volcano
+I15 = Marsh Cave    O4  = Lich Cave
+
+WPS = Weapon Shop
+MGS = Magic Shop
+ITS = Item Shop
+INN = Inn
+
+$ = Where you start the game
+* = Chocobo (H7)
+@ = Kett's House
+! = Bogard's House
+# = Airship
+
+---------
+Cave Maps
+=========
+
+--------------------------
+Arena (Dark Lord's Castle)
+--------------------------
+
+Floor 1
+-------
+e = Exit
+@ = Boss Monster (Jackal)
+
+/-e-\ /---\
+| @ |_|  A|
+|    _    |
+|   | |   |
+\---/ \---/
+
+B-Floor 2
+---------
+s = Entrance
+
+/---\ /---\
+|   |_|  A|
+|    _    |
+|   | |   |
+\- -/ \---/
+ ] [
+/- -\
+|   |
+|   |
+| s |
+\---/
+
+
+---------
+East Cave
+---------
+
+Floor 1
+-------
+s = Entrance
+e = exit
+# = Breakable Wall
+
+/---\
+|  s|
+|   |
+|   |
+\---/
+  #
+/---\
+|   |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|   |
+|  e|
+\---/
+
+
+----------
+Marsh Cave - (Iron Shield, Sickle, Mirror, Fire Spell)
+----------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+* = Iron Shield
+
+/---\ /---\ /---\ /---\
+|   |_|  D| |A  |_|   |
+|    _    | |    _    |
+|   | |   | |   | |   |
+\- -/ \---/ \---/ \- -/
+ ] [               ] [
+/- -\ /---\ /---\ /- -\
+|   |-|   | |  C| |  s|
+|    X  * | |   | |   |
+|   |-|   | |   | |   |
+\- -/ \---/ \- -/ \- -/
+ ] [         ]X[   ] [
+/- -\ /---\ /- -\ /- -\
+|   |_|   |_|   | |   |
+|    _     _    |#|   |
+|   | |   | |   | |   |
+\---/ \---/ \---/ \---/
+
+B-Floor 2
+---------
+~ = Healing Spring
+
+/---\_/---\  /---\
+|A        |  |  D|
+|------  -|  |   |
+|  B _    |  |   |
+\---/ \---/  \- -/
+              ] [
+/---\        /---\ /---\
+|  C|        | E |_|   |
+| ~ |        |    _    |
+|   |        |   | |   |
+\---/        \---/ \---/
+
+B-Floor 3
+---------
+X = Locked Door
+# = Breakable Wall
+* = Sickle
+
+/---\ /---\  /---\ /---\
+|   |_|  E|  |B  |_|   |
+|    _    |  |    _    |
+|   | |   |  |   | |   |
+\- -/ \---/  \---/ \---/
+ ] [                 #
+/- -\ /---\        /---\
+|   |-|   |        |   |
+|    X    |        | * |
+|   |-|  F|        |   |
+\---/ \---/        \---/
+
+B-Floor 4
+---------
+@ = Hydra (Boss Monster)
+     - Book of Fire & Mirror
+
+/---\ /---\
+|F  |_|   |
+|    _  @ |
+|   | |   |
+\---/ \---/
+
+
+--------------
+Kett's Dungeon
+--------------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+* = Chain
+@ = Mr. Lee (Boss Monster - {After rescuing Girl})
+     - Book of Sleep
+
+/---\  /---\  /---\ /---\ /---\ /---\  /---\
+|  E|  |  F|  |   | |   | |  A|_|   |  |   |
+|   |  |   |  |   | |   | |    _    |  | * |
+|   |  |  G|  |   | |   | |   | |   |  |   |
+\- -/  \---/  \- -/ \- -/ \---/ \- -/  \- -/
+ ] [           ] [   ] [         ] [    ]X[
+/- -\ /---\   /- -\ /- -\ /---\ /- -\  /- -\
+|   |_|   |   |   |_|   |_|   |_|   |  |   |
+|    _    |   |    _  @  _     _    |  |   |
+|   | |   |   |   | |   | |   | |   |  |   |
+\- -/ \- -/   \---/ \-s-/ \---/ \---/  \- -/
+ ] [   ] [                              ] [
+/- -\ /- -\                      /---\ /- -\
+|   |_|   |                      |   |_|   |
+|    _    |                      |    _    |
+|   | |   |                      |  B| |   |
+\---/ \---/                      \---/ \---/
+
+Floor 2
+-------
+# = Breakable Wall
+
+/---\ /---\ /---\  /---\ /---\ /---\ /---\
+|  E| |  F|_|   |  |   | |  A| |   |_|   |
+|   | |    _    |  |   | |   | |    _    |
+|   | |   | |   |  |   | |   | |   | |   |
+\- -/ \- -/ \- -/  \- -/ \- -/ \- -/ \- -/
+ ] [   ] [   ] [    ] [   ] [   ] [   ] [
+/- -\ /- -\ /- -\  /- -\ /- -\ /- -\ /- -\
+|   |_|   |_|   |  |   |_|   | |   | |   |
+|    _     _    |  |    _    |#|   | |   |
+|   | |   | |   |  |   | |   | |   | |   |
+\- -/ \---/ \---/  \---/ \---/ \---/ \- -/
+ ] [    #                             ] [
+/- -\ /---\                    /---\ /- -\
+|   |_|  D|                    |  C|_|   |
+|    _    |                    |    _    |
+|   | |   |                    |  B| |   |
+\---/ \---/                    \---/ \---/
+
+Floor 3
+-------
+
+/---\ /---\
+|   |_|   |
+|    _    |
+|D  | |  C|
+\---/ \---/
+
+B-Floor 2
+---------
+X = Locked Door
+* - Girl (1 left from the bottom-right coffin)
+
+/---\ /---\
+|   |_|   |
+|    _    |
+|  G| |   |
+\---/ \- -/
+       ]X[
+      /- -\
+      |   |
+      |   |
+      | * |
+      \---/
+
+
+-----------
+Silver Mine
+-----------
+
+Floor 1
+-------
+s = Entrance
+^ = Switch (Hit switches with the Sickle to change the track)
+
+      /---\ /---\ /---\ /---\ /---\
+      |   |_|   |_|   |_|   |_|  s|
+      |    _     _     _     _    |
+      |   | |   | |  ^| |   | |   |
+      \- -/ \---/ \- -/ \- -/ \---/
+       ] [         ] [   ] [
+      /- -\ /---\ /- -\ /- -\
+      |   |_| ^ |_|   | |   |
+      |    _     _    | |   |
+      |   | |   | |   | |   |
+      \---/ \- -/ \- -/ \- -/
+             ] [   ] [   ] [
+/---\ /---\ /- -\ /- -\ /- -\
+|   |_|   |_|  ^|_|   |_|   |
+|A   _     _     _     _    |
+|   | |   | |   | |   | |   |
+\---/ \---/ \---/ \---/ \---/
+
+B-Floor 2
+---------
+~ = Healing Spring
+# = Breakable Wall
+
+/---\ /---\ /---\
+|   |_|   | |   |
+|    _    |#|   |
+|   | |   | |  B|
+\- -/ \- -/ \---/
+ ] [   ] [
+/- -\ /- -\  /---\ /---\
+|   | |   |  |  E|_|  D|
+| A | | ~ |  |    _    |
+|   | |   |  |   | |   |
+\---/ \---/  \---/ \---/
+
+B-Floor 3
+---------
+@ = Megapede (Boss Monster)
+     - Silver
+
+/---\  /---\ /---\ /---\  /---\
+|  D|  | C |_|   |_| B |  |   |
+|   |  |    _     _    |  | E |
+|   |  |   | |   | |   |  |   |
+\- -/  \---/ \---/ \---/  \- -/
+ ] [                       ] [
+/- -\ /---\               /---\
+|   |_|  C|               |   |
+|    _    |               | @ |
+|   | |   |               |   |
+\---/ \---/               \---/
+
+
+-----------
+Gaia's Cave
+-----------
+
+Floor 1
+-------
+s = Entrance
+e = Exit
+
+/---\ /---\
+|   |_|  s|
+|    _    |
+|   | |   |
+\- -/ \---/
+ ] [
+/- -\
+|   |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|   |
+|  e|
+\---/
+
+
+-----------
+The Airship
+-----------
+
+Floor 1 (Deck)
+--------------
+e = Entrance
+* = Girl
+
+/---\ /---\ /---\  /---\ /---\ /---\
+|   |_|   |_|   |  |   |_|   |_|   |
+|    _     _    |  |    _     _    |
+|   | |   | |   |  |   | |   | |   |
+\- -/ \- -/ \- -/  \- -/ \- -/ \- -/
+ ] [   ] [   ] [    ] [   ] [   ] [
+/- -\ /- -\ /- -\  /- -\ /- -\ /- -\
+|   |_|G  |_|   |  |   | |   |_|   |
+|    _ \   _    |  |   | |    _    |
+|   | | \ | |   |  |A  | |   | |   |
+\---/ \- -/ \---/  \---/ \- -/ \---/
+       ] [                ] [
+      /- -\ /---\        /- -\
+      |   |_| * |        |   |
+      |    _    |        |   |
+      |   | |   |        |   |
+      \---/ \---/        \-e-/
+
+B-Floor 2
+---------
+X = Locked Door
+
+/---\             /---\  /---\ /---\
+|  G|             |  D|  |   |_|  B|
+|   |             |   |  |    _    |
+|  F|             |   |  |   | |   |
+\- -/             \- -/  \- -/ \---/
+ ] [               ] [    ] [
+/- -\ /---\ /---\ /- -\  /- -\ /---\ /---\ /---\
+|   |_|   |_|   |_|   |  |   |_|   |_|   |_|  A|
+|    _     _     _    |  |    _     _     _    |
+|   | |   | |   | |   |  |   | |   | |   | |   |
+\- -/ \- -/ \---/ \---/  \---/ \---/ \---/ \---/
+ ]X[   ] [
+/- -\ /- -\
+|   |_|   |
+|    _    |
+|  E| |   |
+\---/ \---/
+
+B-Floor 3
+---------
+
+/---\ /---\ /---\  /---\
+|  D|_|   |_|  B|  |   |
+|    _     _    |  |   |
+|   | |   | |   |  |  F|
+\---/ \- -/ \---/  \- -/
+       ] [          ] [
+      /- -\        /- -\
+      |   |        |   |
+      |   |        |   |
+      |  C|        |   |
+      \---/        \- -/
+                    ] [
+                   /- -\
+                   |   |
+                   |   |
+                   |  E|
+                   \---/
+
+B-Floor 4
+---------
+X = Locked Door
+* = Girl
+
+/---\
+|   |
+|   |
+|   |
+\- -/
+ ] [
+/- -\ /---\ /---\
+|   |_|   |_|   |
+|    _     _    |
+|   | |   | |  C|
+\- -/ \---/ \---/
+ ]X[
+/- -\
+|   |
+|   |
+| * |
+\---/
+
+-------------
+Medusa's Cave
+-------------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+~ = Healing Spring
+* = Spell Book of Ice
+^ = Gold Armor
+
+      /---\ /---\ /---\
+      |   |_|   | |   |
+      |    _  * | |   |
+      |   | |   | |   |
+      \- -/ \---/ \- -/
+       ]X[         ] [
+/---\ /- -\ /---\ /- -\ /---\ /---\ /---\
+|   |_|   | |  A| |   |_|   |_|  s|_|   |
+|    _    | |   | |    _     _     _    |
+|   | |   | |   | |   | |   | |   | |   |
+\- -/ \- -/ \- -/ \- -/ \- -/ \- -/ \- -/
+ ] [   ] [   ] [   ] [   ] [   ] [   ] [
+/- -\ /- -\ /- -\ /- -\ /- -\ /- -\ /- -\
+|   | |   | |   | |   | |   | |   |_|   |
+| ^ | |   | |   | |   | |   | |    _    |
+|   | |   | |   | |   | |   | |   | |   |
+\---/ \- -/ \- -/ \---/ \---/ \---/ \---/
+       ] [   ] [                #
+/---\ /- -\ /- -\ /---\ /---\ /---\ /---\
+|   |-|   | |   | |   |_|   |_|   |_|   |
+| ~  X    |     | |    _     _     _    |
+|   |-|   | |   | |   | |   | |   | |   |
+\---/ \- -/ \---/ \- -/ \---/ \---/ \---/
+       ] [    #    ] [
+      /- -\ /---\ /- -\
+      |   |_|   |_|   |
+      |    _     _    |
+      |   | |   | |   |
+      \---/ \---/ \---/
+
+B-FLoor 2
+---------
+
+/---\
+|  B|
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|  A|
+|   |
+|   |
+\---/
+
+B-Floor 3
+---------
+@ = Medusa (Boss Monster)
+     - Amanda's Tears (Found on Body)
+
+/---\ /---\
+|   |_|   |
+| @  _    |
+|   | |  B|
+\---/ \---/
+
+
+----------------
+Davias's Mansion
+----------------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+* = Were Axe
+
+/---\ /---\   /---\   /---\ /---\
+|   |_|   |   | A |   |   |-|   |
+|    _    |   |   |   |    X    |
+|   | |   |   |   |   |   |-|   |
+\- -/ \- -/   \-s-/   \- -/ \- -/
+ ] [   ] [             ] [   ] [
+/- -\ /- -\           /- -\ /- -\
+|   | |   |           |  D| |   |
+|   | |   |           |   | |   |
+|   | |  E|           |   | |   |
+\- -/ \---/           \---/ \---/
+ ] [                          #
+/- -\ /---\     /---\ /---\ /---\
+|   | |   |     |   |_|   |_|   |
+|   |#|   |     |    _     _    |
+|   | |   |     |  B| |   | |   |
+\- -/ \- -/     \---/ \---/ \- -/
+ ] [   ] [                   ] [
+/- -\ /- -\           /---\ /- -\
+|   | |   |           |  C| |   |
+|   | |   |           |   | |   |
+|   | |  F|           |   | |   |
+\- -/ \---/           \- -/ \- -/
+ ] [                   ]X[   ] [
+/- -\ /---\           /- -\ /- -\
+|   |_|   |           |   |-|   |
+|    _  * |           |    X    |
+|   | |   |           |   |-|   |
+\---/ \---/           \---/ \---/
+
+Floor 2
+-------
+X = Locked Door
+# = Breakable Wall
+^ = Lester
+* = Wall is solid one way but open the other
+
+ /---\ /---\ /---\ /---\ /---\
+ |   |_|   |_|   |_|   |_|  D|
+ |    _     _     _     _    |
+ |  E| |   | |   | |   | |   |
+ \---/ \---/ \---/ \---/ \---/
+                          ]*[
+/---\  /---\ /---\ /---\ /- -\
+|  G|  |  A|_|   |_|  ^| |   |
+|   |  |    _     _    | |   |
+|   |  |   | |   | |  B| |   |
+\- -/  \---/ \---/ \---/ \- -/
+ ]X[                ]*[   ] [
+/- -\ /---\        /- -\ /- -\
+|   |-|   |        |   | |   |
+|    X    |        |   |#|   |
+|  F|-|   |        |   | |  C|
+\---/ \---/        \---/ \---/
+
+Floor 3
+-------
+@ = Davias (Boss Monster)
+
+/---\ /---\
+| @ |_|  G|
+|    _    |
+|   | |   |
+\---/ \---/
+
+
+------------
+Journey Cave
+------------
+
+Floor 1
+-------
+s = Entrance
+e = exit
+# = Breakable Wall
+@ = Metal Crab (Boss Monster)
+
+      /---\ /---\ /---\
+      |   |_|   |_|   |
+      |    _     _    |
+      |   | |   | |   |
+      \- -/ \---/ \- -/
+       ] [         ] [
+/---\ /- -\ /---\ /- -\ /---\
+|   |_|   | |   | |   |_|  s|
+|    _    | |   |#|    _    |
+|A  | |   | |   | |   | |   |
+\---/ \---/ \---/ \---/ \---/
+
+B-Floor 2
+---------
+
+/---\ /---\ /---\ /---\
+|   |_|   |_|   |_|  A|
+|    _     _     _    |
+|e  | |   | |   | |   |
+\---/ \---/ \---/ \---/
+
+
+----------
+Golem Cave
+----------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+@ = Golem (Boss Monster)
+      - Magic Book of Lightning
+$ = Returns you to the entrance room
+
+/---\ /---\ /---\ /---\ /---\
+|B  | |   |_|   |-|   |_|   |
+|   | $    _     X     _    |
+|   | |   | |   |-|   | |   |
+\- -/ \- -/ \---/ \---/ \- -/
+ ] [   ] [               ] [
+/- -\ /- -\ /---\       /- -\
+|   | |   |_|   |       |   |
+|   | |    _    |       |   |
+|   | |   | |   |       |   |
+\- -/ \---/ \---/       \- -/
+ ]X[          #          ] [
+/- -\ /---\ /---\       /- -\
+|   |_|   |_|   |       |   |
+$    _     _    |       |   |
+|   | |   | |   |       |   |
+\- -/ \---/ \---/       \- -/
+ ] [                     ] [
+/- -\                   /- -\ /---\ /---\
+|   |                   |   |_|   |_|   |
+$ s $                   $    _     _  A |
+|   |                   |   | |   | |   |
+\---/                   \---/ \---/ \---/
+
+Floor 2
+-------
+e = exit
+@ = Cyclops (Boss Monster)
+     - Morning Star
+
+/---\ /---\  /---\ /---\
+|   |_|   |  |   |_|  e|
+|    _  @ |  |    _    |
+|A  | |   |  |B  | |   |
+\---/ \---/  \---/ \---/
+
+
+----------
+Dark Castle
+----------
+
+Floor 1
+-------
+s = Entrance
+# = Breakable Wall
+G = Locked Gate
+* = Item Shop & Inn
+
+/---\   /---\     /---\  /---\ /-\               /---\
+|  A|   |  G|     |   |  |*  |_|H|               |  L|
+|   |   |   |     |   |  |    _  |               |   |
+|   |   |  F|     |   |  |   | | |               |   |
+\- -/   \---/     \- -/  \---/ \-/               \---/
+ ] [               ] [                            ] [
+/- -\ /---\ /-G-\ /- -\  /---\ /---\ /---\ /---\ /- -\
+|   |_|   |_|   |_|   |  |  K|_|   |_|   | |   |_|   |
+|    _     _     _    |  |    _     _    |#|    _    |
+|   | |   | |   | |   |  |   | |   | |   | |   | |   |
+\---/ \---/ \-s-/ \---/  \---/ \---/ \---/ \---/ \---/
+
+Floor 2
+-------
+X = Locked Door
+# = Breakable Wall
+~ = Recovery Bed
+* = Blood Sword
+
+/---\  /---\ /---\ /---\ /---\  /---\ /---\
+|  E|  |   |_|   |_|   |_|  G|  |   |_|   |
+|   |  |    _     _     _    |  |    _    |
+|  F|  |   | |   | |   | |   |  |   | |   |
+\---/  \- -/ \---/ \---/ \H  /  \- -/ \- -/
+        ] [                ][    ] [   ] [
+       /- -\              /  \  /- -\ /- -\
+       |  I|              |  |  |   | |   |
+       |   |              |  |  |   | |   |
+       |   |              |  |  |  J| |   |
+       \---/              \--/  \---/ \- -/
+                                       ] [
+/---\ /---\  /---\              /---\ /- -\ /---\ /---\
+|   |-|  M|  |   |              |  K|_|   |_|   |-|  ~|
+|    X    |  | O |              |    _     _     X    |
+|   |-|   |  |   |              |   | |   | |   |-|   |
+\---/ \---/  \- -/              \---/ \---/ \---/ \---/
+  #           ] [
+/---\        /- -\ /---\
+|  L|        |   |_|   |
+|   |        |    _    |
+|   |        |   | |  N|
+\- -/        \---/ \---/
+ ] [
+/- -\ /---\
+|   |_|   |
+|    _  * |
+|   | |   |
+\---/ \---/
+
+Floor 3
+-------
+X = Locked Door
+# = Breakable Wall
+@ = Chimera (Boss Monster)
+
+/---\ /---\  /---\ /---\  /---\  /---\ /---\
+|   |_|   |  | @ |_|  D|  |  M|  |  P|_|   |
+|    _    |  |    _    |  |   |  |    _    |
+|  J| |   |  |E  | |   |  |   |  |   | |   |
+\---/ \---/  \---/ \---/  \---/  \---/ \- -/
+        #                  ] [          ] [
+/---\ /---\   /---\ /---\ /- -\        /- -\
+|   |_|   |   |   |_|   |_|   |        |   |
+|    _    |   |    _     _    |        |   |
+|   | |   |   |  N| |   | |   |        |  O|
+\- -/ \- -/   \---/ \---/ \---/        \---/
+ ]X[   ] [
+/- -\ /- -\
+|   | |   |
+|   | |   |
+|  I| |   |
+\---/ \---/
+
+Floor 4
+-------
+
+/---\
+|C D|
+|   |
+|   |
+\- -/
+
+Floor 5
+-------
+! = Location the vine jumps you to
+
+/---\
+| C |
+|   |
+|   |
+\-!-/
+
+B-Floor 2
+---------
+
+            /---\
+            |   |
+            |   |
+            |   |
+            \- -/
+             ] [
+/---\ /---\ /- -\ /---\ /---\
+|   |_|   |_|   |_|   |_|   |
+|    _     _     _     _    |
+|   | |   | |   | |   | |  B|
+\- -/ \---/ \---/ \---/ \---/
+ ] [
+/- -\
+|   |
+|   |
+|  A|
+\---/
+
+
+--------
+Ice Cave
+--------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+* = Doorway is one way
+% = Door is locked (needs a key) when going west
+
+/---\ /---\ /---\
+|  B|_|   |_|   |
+|    _     _    |
+|   | |   | |   |
+\---/ \---/ \- -/
+             ] [
+            /- -\
+            |   |
+            |   |
+            |   |
+            \---/
+              #
+/---\ /---\ /---\ /---\
+|   |-|   |_|   | |   |
+|    %     _    | |   |
+|   |-|   | |   | |  A|
+\- -/ \---/ \- -/ \- -/
+ ] [         ] [   ]X[
+/- -\ /---\ /- -\ /- -\
+|   |_|   |_|   |_|   |
+|    _     _     _    |
+|   | |   | |   | |   |
+\---/ \- -/ \---/ \---/
+       ]X[
+/---\ /- -\ /---\
+|   |_|   |_|   |
+|    _     _    |
+|   | |   | |   |
+\---/ \- -/ \- -/
+       ]*[   ] [
+      /---\ /- -\
+      |   |_|   |
+      |    _    |
+      |   | |   |
+      \- -/ \---/
+       ] [
+      /- -\
+      |   |
+      |   |
+      |   |
+      \- -/
+       ] [
+      /- -\
+      |   |
+      |   |
+      |  s|
+      \---/
+
+Floor 2
+-------
+# = Breakable Wall
+
+/---\ /---\ /---\
+|  B|_|   |_|   |
+|    _     _    |
+|   | |   | |   |
+\- -/ \---/ \- -/
+ ] [         ] [
+/- -\ /---\ /- -\ /---\
+|   | |  C| |   |_|   |
+|   | |   | |    _    |
+|   | |   | |   | |   |
+\- -/ \---/ \- -/ \- -/
+ ] [    #    ] [   ] [
+/- -\ /---\ /- -\ /- -\
+|   |_|   | |   |_|   |
+|    _    | |    _    |
+|   | |   | |   | |  A|
+\---/ \- -/ \- -/ \---/
+       ] [   ] [
+      /- -\ /- -\
+      |   |_|   |
+      |    _    |
+      |   | |   |
+      \---/ \---/
+
+Floor 3
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+~ = Healing Spring
+* = Elixir
+
+                         /---\ /---\
+                         |   | |  D|
+                         | ~ | |   |
+                         |   | |   |
+                         \---/ \- -/
+                           #    ]X[
+/---\ /---\ /---\  /---\ /---\ /- -\
+|   |_|   |_|  E|  |   |_|  C|_|   |
+|    _     _    |  |    _     _    |
+|   | |   | |   |  |   | |   | |   |
+\---/ \---/ \---/  \- -/ \- -/ \---/
+ ] [                ] [   ] [
+/- -\              /- -\ /- -\
+|   |              |   | |   |
+|   |              | * | |   |
+|   |              |   | |   |
+\- -/              \---/ \---/
+ ] [
+/- -\ /---\ /---\ /---\ /---\        /---\
+|   |_|   |_|   |_|   |_|   |        |  H|
+|    _     _     _     _    |        |   |
+|   | |   | |   | |   | |   |        |   |
+\---/ \---/ \- -/ \---/ \- -/        \- -/
+             ] [         ] [          ] [
+            /- -\ /---\ /- -\  /---\ /- -\
+            |   | |   | |   |  |  G|_|   |
+            |___| | ~ | |   |  |    _    |
+            |   | |   | |   |  |   | |   |
+            \- -/ \- -/ \- -/  \---/ \- -/
+             ] [   ] [   ] [          ] [
+      /---\ /- -\ /- -\ /- -\        /- -\
+      |  F| |   |_|   |_|   |        |   |
+      |   |#|    _     _    |        |   |
+      |   | |   | |   | |   |        |   |
+      \---/ \---/ \---/ \---/        \---/
+
+Floor 4
+-------
+@ = Chimera (Boss Monster)
+     - Ice Sword
+
+/---\ /---\  /---\ /---\  /---\ /---\
+|D  |_|  E|  |  F|_|  G|  | H |_| @ |
+|    _    |  |    _    |  |    _    |
+|   | |   |  |   | |   |  |   | |   |
+\---/ \---/  \---/ \---/  \---/ \---/
+
+
+----------------
+Lich Cave
+----------------
+
+Floor 1
+-------
+s = Entrance
+
+/---\
+|  s|
+|   |
+|  A|
+\---/
+
+B-Floor 2
+---------
+
+/---\
+|  A|
+|   |
+|  B|
+\---/
+
+B-Floor 3
+---------
+@ = Lich (Boss Monster)
+     - Magic Book of Nuke
+
+/---\
+| @ |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|   |
+|  C|
+\---/
+
+
+-------------
+Kraken's Cave
+-------------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+
+                  /---\
+                  |  A|
+                  |   |
+                  |   |
+                  \---/
+                    #
+/---\ /---\ /---\ /---\
+|   | |   |_|   |-|   |
+|   | |    _     X    |
+|   | |   | |   |-|   |
+\- -/ \---/ \- -/ \- -/
+ ] [               ] [
+/- -\ /---\       /- -\
+|   | |   |       |   |
+|   | |   |       |   |
+|   | |   |       |   |
+\- -/ \- -/       \- -/
+ ] [   ] [         ] [
+/- -\ /- -\ /---\ /- -\
+|   | |   |_|   |_|   |
+|   |#|    _     _    |
+|   | |   | |   | |   |
+\- -/ \---/ \---/ \---/
+ ]X[
+/- -\
+|   |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|   |
+|  s|
+\---/
+
+B-Floor 2
+---------
+e = Exit
+@ = Kraken (Boss Monster)
+
+/---\ /---\
+|A  |_|  e|
+|    _    |
+|   | | @ |
+\---/ \---/
+
+
+----------------
+Undersea Volcano
+----------------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+
+/---\ /---\ /---\ /---\
+|   | |   |_|   | |  s|
+|   |#|    _    | |   |
+|  A| |   | |   | |   |
+\---/ \- -/ \---/ \- -/
+       ] [    #    ] [
+/---\ /- -\ /---\ /- -\
+|   |_|   |_|   |_|   |
+|    _     _     _    |
+|   | |   | |   | |   |
+\---/ \---/ \- -/ \---/
+
+B-Floor 2
+---------
+
+/---\ /---\
+|B  |_|  A|
+|    _    |
+|   | |   |
+\---/ \---/
+
+B-Floor 3
+---------
+X = Locked Door
+# = Breakable Wall
+* = Zues Axe
+
+                   /---\ /---\
+                   |   | |  D|
+                   |   |#|   |
+                   |   | |   |
+                   \- -/ \---/
+                    ] [
+             /---\ /- -\
+             |   |_|   |
+             |    _    |
+             |   | |   |
+             \- -/ \- -/
+              ] [   ] [
+ /---\ /---\ /- -\ /- -\
+ |   |_|   |_|   | |   |
+ |    _     _    | |   |
+ |   | |   | |   | |   |
+ \---/ \- -/ \---/ \- -/
+        ] [         ] [
+       /- -\ /---\ /- -\ /---\
+       |   | |   |_|   |_|   |
+       |   | |    _     _    |
+       |   | |   | |   | |  C|
+       \- -/ \- -/ \---/ \---/
+        ]X[   ] [
+       /- -\ /- -\
+       |   | |   |
+       | * | |   |
+       |   | |   |
+       \---/ \---/
+
+B-Floor 4
+---------
+
+/---\
+| E |
+|   |
+|D  |
+\---/
+
+B-Floor 5
+---------
+X = Locked Door
+~ = Healing Spring
+* = Door is locked going west
+
+            /---\ /---\
+            |   |_|   |
+            |    _    |
+            |   | |   |
+            \- -/ \---/
+             ]X[
+            /- -\ /---\
+            |   |-|   |
+            |    *    |
+            |   |-|   |
+            \- -/ \- -/
+             ] [   ] [
+/---\ /---\ /- -\ /- -\
+|   |_|   |_|   |_|   |
+|    _     _     _    |
+|   | |   | |   | |   |
+\- -/ \---/ \- -/ \---/
+ ] [         ] [
+/- -\ /---\ /- -\ /---\
+|  E|_|   | |   |-|   |
+|    _    | |    X    |
+|   | |   | |   |-|  F|
+\---/ \---/ \- -/ \---/
+             ] [
+            /- -\
+            |   |
+            | ~ |
+            |   |
+            \---/
+
+B-Floor 6
+---------
+
+/---\
+| H |
+|I G|
+| F |
+\---/
+
+B-Floor 7
+---------
+
+       /---\ /---\  /---\       /---\
+       |  J| |  G|  |  I|       |  H|
+       |   | |   |  |   |       |   |
+       |   | |   |  |   |       |   |
+       \- -/ \- -/  \- -/       \- -/
+        ] [   ] [    ] [         ] [
+ /---\ /- -\ /- -\  /- -\ /---\ /- -\
+ |   |_|   |_|   |  |   |_|   |_|   |
+ |    _     _    |  |    _     _    |
+ |   | |   | |   |  |   | |   | |   |
+ \---/ \---/ \---/  \---/ \---/ \---/
+
+B-Floor 8
+---------
+@ = Iflyte (Boss Monster)
+
+/---\ /---\
+| @ |_|  J|
+|    _    |
+|   | |   |
+\---/ \---/
+
+
+-------------
+Cave of Ruins
+-------------
+
+Floor 1
+-------
+
+/---\ /---\ /---\
+|   |_|   |_|  A|
+|    _     _    |
+|B  | |   | |   |
+\---/ \---/ \---/
+
+B-Floor 2
+---------
+^ = Dragon Sword
+* = Dragon Shield
+@ = Mantis Ant (Boss Monster)
+% = (Tile where you release the Rusty Sword)
+
+                  /---\ /---\
+                  | @ |_|   |
+                  |    _   %|
+                  |   | |   |
+                  \- -/ \---/
+                   ] [
+                  /- -\ /---\
+                  |   |_|   |
+                  |    _    |
+                  |   | |   |
+                  \---/ \- -/
+                         ] [
+                        /- -\
+                        |   |
+                        |   |
+                        |   |
+                        \- -/
+                         ] [
+            /---\       /- -\
+            |   |       |   |
+            |   |       |   |
+            |   |       |   |
+            \- -/       \- -/
+             ] [         ] [
+/---\ /---\ /- -\ /---\ /- -\
+|   |_|   |_|   |_|   |_|   |
+| ^  _     _     _     _    |
+|   | |   | |   | |   | |   |
+\---/ \---/ \- -/ \---/ \---/
+             ] [
+            /- -\
+            |   |
+            |   |
+            |   |
+            \- -/
+             ] [
+      /---\ /- -\ /---\
+      |   |_|   |_|   |
+      |    _     _   *|
+      |   | |   | |   |
+      \---/ \- -/ \---/
+             ] [
+            /- -\
+            |   |
+            |   |
+            |  B|
+            \---/
+
+
+-------------
+Dime Tower
+-------------
+
+Floor 1
+-------
+s = Entrance
+X = Locked Door
+# = Breakable Wall
+^ = Tablet
+
+/---\ /---\ /---\ /---\
+| ^ | |B  |_|   | |  C|
+|   | |    _    | |   |
+|   | |   | |   | |   |
+\- -/ \---/ \- -/ \- -/
+ ] [         ] [   ] [
+/- -\ /- -\ /- -\ /- -\
+|   |_|   | |   |_|   |
+|    _    |#     _  ^ |
+|   | |   | |   | |   |
+\- -/ \- -/ \---/ \- -/
+ ] [   ] [         ] [
+/- -\ /- -\ /---\ /- -\  /---\
+|   | |   |-|   |_|   |  |D  |
+|   | |    X  ^  _    |  |   |
+|   | |   |-|   | |   |  |   |
+\- -/ \---/ \---/ \---/  \- -/
+ ] [                      ] [
+/- -\ /---\ /---\ /---\  /- -\
+|   |_|   |_|   |_|   |  |   |
+|    _     _     _    |  |C  |
+|   | |   | |   | |   |  |   |
+\---/ \-s-/ \---/ \---/  \---/
+
+Floor 2
+-------
+^ = Tablet
+
+/---\ /---\ /---\ /---\
+|   |_|B| |_|   |_|  D|
+|    _  |  _     _    |
+|   | |_|_| |   | |   |
+\- -/ \- -/ \- -/ \- -/
+ ] [   ] [   ] [   ] [
+/- -\ /- -\ /- -\ /- -\
+|   |_|   |_|   |_|   |
+|    _     _  ^  _    |
+|   | |   | |   | |   |
+\- -/ \- -/ \- -/ \- -/
+ ] [   ] [   ] [   ] [
+/- -\ /+ +\ /- -\ /- -\
+|   |_|| ||_|___| |   |
+|    _ | | _    | |   |
+|   | || || |   | |   |
+\- -/ \+ +/ \- -/ \- -/
+ ] [   ] [   ] [   ] [
+/  -\ /- -\ /- -\ /- -\
+| | |_|   |_|   |_|   |
+| |  _  ^  _  E  _    |
+| | | |   | |   | |   |
+\---/ \---/ \---/ \---/
+
+Floor 3
+-------
+
+/---\
+|F  |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|  E|
+|   |
+\---/
+
+Floor 4
+-------
+X = Locked Door
+# = Breakable Wall
+^ = Tablet
+* = Dragon Armor
+
+/---\ /---\ /---\
+| ^ |-|   |_|   |
+|    X     _    |
+|   |-|   | |   |
+\---/ \---/ \- -/
+             ] [
+/---\ /---\ /- -\
+|   | |   |_|   |
+|   |#|    _  * |
+|  G| |   | |   |
+\---/ \- -/ \---/
+       ]X[
+/---\ /- -\ /---\
+| ^ |-|   |_|   |
+|    X     _    |
+|   |-|   | |  F|
+\---/ \---/ \---/
+
+Floor 5
+-------
+% = Beds to rest
+
+/---\
+|   |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|  H|
+|   |
+|  G|
+\---/
+ ] [
+/- -\
+|   |
+|  %|
+|   |
+\---/
+
+Floor 6
+-------
+X = Locked Door
+^ = Tablet
+
+/---\ /---\
+|   |-|   |
+|    X  ^ |
+|   |-|   |
+\- -/ \- -/
+ ] [   ] [
+/- -\ /- -\
+|  H| |   |
+|   | |   |
+|   | |  I|
+\---/ \---/
+
+Floor 7
+-------
+@ = Garuda (Boss Monster)
+
+/---\
+| @ |
+|   |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|   |
+|  I|
+\---/
+
+--------------
+Tower of Gemma
+--------------
+
+Floor 1
+-------
+s = entrance
+X = Locked Door
+
+/---\       /---\
+|   |       |   |
+| B |       |   |
+|   |       |  A|
+\- -/       \- -/
+ ] [         ]X[
+/- -\ /---\ /- -\
+|   |_|   |_|   |
+|    _     _    |
+|   | |   | |   |
+\- -/ \---/ \- -/
+             ] [
+/---\       /- -\
+|  s|       |   |
+|   |       |   |
+|   |       |   |
+\- -/       \- -/
+ ] [         ] [
+/- -\ /---\ /- -\
+|   |_|   |_|   |
+|    _     _    |
+|   | |   | |   |
+\---/ \---/ \---/
+
+Floor 2
+-------
+@ = Dragon (Boss Monster)
+
+/---\  /---\
+|  C|  |   |
+| @ |  | B |
+|   |  |   |
+\- -/  \---/
+ ] [
+/- -\
+|   |
+|   |
+|  A|
+\---/
+
+Floor 3
+-------
+
+/---\ /---\
+|   |_|   |
+|C   _   D|
+|   | |   |
+\---/ \---/
+
+Floor 4
+-------
+X = Locked Door
+
+            /---\
+            |   |
+            | F |
+            |   |
+            \- -/
+             ] [
+/---\ /---\ /- -\
+|   |-|   |_|   |
+| E  X     _    |
+|   |-|   | |   |
+\---/ \---/ \- -/
+             ] [
+      /---\ /- -\ /---\
+      |   |_|   |_|   |
+      |    _     _  D |
+      |   | |   | |   |
+      \- -/ \---/ \---/
+       ] [
+      /- -\
+      |   |
+      | G |
+      |   |
+      \---/
+
+Floor 5
+-------
+
+/---\ /---\  /---\ /---\
+|   |_|   |  |   |_|   |
+| H  _    |  |I   _   F|
+|   | |   |  |   | |   |
+\---/ \- -/  \---/ \---/
+       ] [
+      /- -\  /---\ /---\
+      |   |  |   |_|   |
+      |   |  |E   _   K|
+      |   |  |   | |   |
+      \- -/  \---/ \---/
+       ] [
+/---\ /- -\
+|   |_|   |
+| G  _    |
+|   | |   |
+\---/ \---/
+
+Floor 6
+-------
+X = Locked Door
+# = Breakable Wall
+
+/---\ /---\ /---\                          /---\
+|   |_|   |_|   |                          |   |
+| J  _     _    |                          | K |
+|   | |   | |   |                          |   |
+\---/ \---/ \- -/                          \- -/
+             ] [                            ] [
+            /- -\ /---\        /---\ /---\ /- -\
+            |   |_|   |        |   |_|   | |   |
+            |    _  I |        |    _    |#|   |
+            |   | |   |        |   | |   | |   |
+            \---/ \- -/        \- -/ \---/ \- -/
+                   ] [          ] [         ] [
+            /---\ /- -\  /---\ /- -\       /- -\
+            |   |_|   |  |   |_|   |       |   |
+            | J  _|   |  | J  _    |       |   |
+            |   | |   |  |   | |   |       |   |
+            \---/ \- -/  \---/ \- -/       \---/
+                   ] [          ] [
+                  /- -\        /- -\ /---\ /---\
+                  |   |        |   |_|   |-|   |
+                  | H |        |    _     X    |
+                  |   |        |   | |   |-|   |
+                  \---/        \---/ \---/ \---/
+
+Floor 7
+-------
+
+/---\ /---\
+|   |_|   |
+|    _  J |
+|   | |   |
+\- -/ \---/
+ ] [
+/- -\
+|   |
+|   |
+|   |
+\- -/
+ ] [
+/- -\ /---\
+|   |_|   |
+|    _    |
+|   | |  K|
+\---/ \---/
+
+Floor 8
+-------
+@ = Red Dragon (Boss Monster)
+
+/---\
+|  L|
+| @ |
+|   |
+\- -/
+ ] [
+/- -\
+|   |
+|   |
+|  K|
+\---/
+
+Floor 9
+-------
+
+/---\ /---\
+|   |_|   |
+| M  _  L |
+|   | |   |
+\---/ \---/
+
+Floor 10
+--------
+
+/---\       /---\
+|   |       |   |
+| N |       | O |
+|   |       |   |
+\- -/       \- -/
+ ] [         ] [
+/- -\ /---\ /- -\
+|   |_|   |_|   |
+|    _     _    |
+|   | |   | |   |
+\---/ \- -/ \---/
+       ] [
+      /- -\
+      |   |
+      | M |
+      |   |
+      \---/
+
+Floor 11
+--------
+X = Locked Door
+
+/---\  /---\ /---\      /---\ /---\ /---\
+|   |  |   |_|   |      |  T| |   |_|   |
+| P |  | O  _  P |      |   | | S  _  R |
+|   |  |   | |   |      |   | |   | |   |
+\- -/  \---/ \---/      \- -/ \---/ \---/
+ ] [                     ] [
+/- -\ /---\ /---\       /- -\
+|   |_|   |_|   |       |   |
+|    _     _  Q |       |   |
+|   | |   | |   |       |   |
+\---/ \- -/ \---/       \- -/
+       ] [               ] [
+      /- -\ /---\       /- -\
+      |   | |   |       |   |
+      | R | |  N|       |   |
+      |   | |   |       |   |
+      \---/ \- -/       \- -/
+             ] [         ] [
+/---\ /---\ /- -\ /---\ /- -\
+|   |_|   |-|___|_|   |_|   |
+| S  _     X     _     _    |
+|   | |   |-|   | |   | |   |
+\---/ \---/ \---/ \---/ \---/
+
+Floor 12
+--------
+X = Locked Door
+@ = Zombie Dragon (Boss Monster)
+~ = Healing Spring
+
+/---\
+|  U|
+| @ |
+|   |
+\- -/
+ ] [
+/- -\  /---\ /---\
+|   |  |   |-|   |
+|   |  | ~  X  Q |
+|  T|  |   |-|   |
+\---/  \---/ \---/
+
+Floor 13
+--------
+* = Lady
+% = Julius and Girl
+
+/---\ /---\ /---\
+|   | |   |_|   |
+| % | |    _    |
+|   | |   | |   |
+\- -/ \- -/ \- -/
+ ] [   ] [   ] [
+/- -\ /- -\ /- -\
+|   |_|   | |   |
+|    _    | | * |
+|   | |   | |   |
+\---/ \---/ \- -/
+             ] [
+            /- -\
+            |   |
+            |   |
+            |   |
+            \- -/
+             ] [
+            /---\
+            |   |
+            |   |
+            |   |
+            \- -/
+             ] [
+            /---\
+            |   |
+            |   |
+            |   |
+            \- -/
+             ] [
+            /---\
+            |   |
+            |   |
+            |   |
+            \- -/
+             ] [
+            /---\
+            |   |
+            |   |
+            |  U|
+            \---/
+
+
+=======================================================================
+XIV. Game Genie Codes & Game Shark Codes
+=======================================================================
+
+I have tried most of these codes. However, some are untried...
+REMEMBER, some of these codes may "mess up" the quest you are playing.
+-----------------------------------------------------------------------
+
+FFE-6B9-E62 - Start with 255 in each stat category
+
+40E-A49     - Level goes to 37
+Use it at the start of a new game. It will raise your level, hit
+points, and other stats. You should save your game as soon as possible
+after using.
+
+FFE-A69     - Level goes to 39
+Will raise level to 39 at the start of a new game. It will raise your
+level, hit points, and other stats. You should save your game as soon
+as possible after using.
+
+406-06A-E6E - Most Items in stores have no prices and are free
+
+AA2-ECB-357 -
+No enemies appear on the screen; glitched enemies replace the real
+enemies. Bosses appear, but only take off 1 HP of damage. That means
+this code is basically an invincibility code. This code will glitch if
+there is a non-glitched enemy on a screen (not a boss) and you swing
+your weapon. I played for a long time using this code and this only
+happened on one screen in the game. Also, any other player than the
+hero will become glitched so this means no other characters in the
+game. (They will reappear when the story needs them.)
+
+================
+Game Shark Codes
+================
+
+Infinite Gold - 01FFBeD7    Stamina = ?? - 01??C1D7
+Infinite HP   - 01FFB2D7    Power = ??   - 01??C2D7
+Infinite MP   - 01FFB6D7    Will = ??    - 01??B6D7
+Max Will      - 0163C4D7
+Max Stamina   - 0163C1D7    ?? = the desired value
+Max Power     - 0163C2D7
+Max Wisdom    - 0163C3D7
+Max HP        - 01FFB3D7
+Max MP        - 01FFB8D7
+Level 99      - 0163BAD7
+EXP Modifier  - 01??BDD7
+
+--------------------
+Item Modifier Codes
+--------------------
+
+?? = Desired value (Legend is found at bottom)
+
+Slot 1  - 01??C5D6    Slot 9  - 01??CDD6
+Slot 2  - 01??C6D6    Slot 10 - 01??CED6
+Slot 3  - 01??C7D6    Slot 11 - 01??CFD6
+Slot 4  - 01??C8D6    Slot 12 - 01??D0D6
+Slot 5  - 01??C9D6    Slot 13 - 01??D1D6
+Slot 6  - 01??CAD6    Slot 14 - 01??D2D6
+Slot 7  - 01??CBD6    Slot 15 - 01??D3D6
+Slot 8  - 01??CCD6    Slot 16 - 01??D4D6
+
+--------------------------
+Equip Item Modifier Codes
+--------------------------
+
+Slot 1  - 01??DDD6   Weapon Modifier  - 01??E9D6
+Slot 2  - 01??DED6   Helmet Modifier  - 01??EAD6
+Slot 3  - 01??DFD6   Armor Modifier   - 01??ECD6
+Slot 4  - 01??E0D6   Shield Modifier  - 01??EED6
+Slot 5  - 01??E1D6   Infinite Item Use (Item-Slot 1) - 0109F0D6
+Slot 6  - 01??E2D6
+Slot 7  - 01??E3D6
+Slot 8  - 01??E4D6
+Slot 9  - 01??E5D6
+Slot 10 - 01??E6D6
+Slot 11 - 01??E7D6
+Slot 12 - 01??E8D6
+
+-------------------------------------------------
+Quantity Digits to Accompany Item Modifier Codes
+-------------------------------------------------
+
+00 - Nothing
+
+Weapons
+--------
+01 - Broad (Sword)    09 - Blood (Sword)
+02 - Battle (Axe)     0A - Dragon (Sword)
+03 - Sickle           0B - Flame (Sickle)
+04 - Chain            0C - Ice (Sword)
+05 - Silver (Sword)   0D - Zeus (Axe)
+06 - Wind (Spear)     0E - Rusty (Sword)
+07 - Were (Axe)       0F - Thunder (Spear)
+08 - Star (Mace)      10 - XCalibr (Sword)
+
+Armor
+-----
+11 - Bronze   16 - Ice
+12 - Iron     17 - Dragon
+13 - Silver   18 - Samurai
+14 - Gold     19 - Opal
+15 - Flame
+
+Shields
+-------
+1C - Bronze   21 - Dragon
+1D - Iron     22 - Aegis
+1E - Silver   23 - Opal
+1F - Gold     24 - Ice
+20 - Flame
+
+Helmets
+-------
+27 - Bronze   2A - Gold
+28 - Iron     2B - Opal
+29 - Silver   2C - Samurai
+
+
+=======================================================================
+XV. Credits & Special Thanks
+=======================================================================
+
+This document is copyright (c) 2001 Robert Paulson
+All rights reserved
+
+-----------------------------------------------------------------------
+I want to thank the following people and organizations for there help
+on this walkthrough.
+
+First, my girlfriend, Heidi Pennypacker. Thank you for bearing with me
+as I wrote and edited my walkthrough. I love you sweetie.
+
+Secondly, to the FAQ writers who gave me ideas for formatting my
+walkthrough, especially Aaron Tadeo.
+
+Monster List (Section 11): Thanks to (?? forgot his name) for helping
+me with naming the different monsters
+
+Information on warps (Section 12)
+Tomo Takebe  http://members.aol.com/tomo1657/music/midi.htm
+
+Information on treasure chest tip (Section 12)
+Mark Brandt - coolcucumber@yahoo.com
+
+Information on killing townspeople trick (Section 12)
+
+Game Genie Codes from Game Genie Code Creators Club (GGCCC),
+http://www.
+dragonfire.net/~Strato/GGCCC.htm
+
+Game Genie Code Creators Club (Section 13)
+This section contains codes created by:
+Davis Lentz, Nick Joslin and Strato
+(Codes are listed in order from Davis Lentz, to Strato)
+
+Game Shark Code Creators Club (Section 13)
+Infinite Hp/MP/Gold Code  - Gades
+Max Stamina/Power/Wisdom Codes - trunksf@hotmail.com
+Max Will Code - Onoitsu2@aol.com4th
+All other Game Shark Codes - jjfrules@fcmail.com
+Dave - dezro@technie.com
