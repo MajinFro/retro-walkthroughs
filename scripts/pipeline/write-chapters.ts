@@ -140,7 +140,7 @@ function packet(t: string, inlineQuotes = false): string {
 // Deterministic checks on a draft (rw:qa stays the authority; these catch what a repair call can fix)
 // ---------------------------------------------------------------------------
 const DRAFTING_RE =
-  /\b(?:was(?:n't| not) (?:available|provided)|(?:the|this|my) (?:writer )?packet|chapter \d+'s file|I (?:will|would|assume|don't have|do not have|cannot see)|as an AI)\b/i;
+  /\b(?:was(?:n't| not) (?:available|provided)|(?:the|this|my) (?:writer )?packet|chapter \d+'s file|I (?:will|would|assume|don't have|do not have|cannot see|cannot|can't|could not|couldn't|was unable)|as an AI)\b/i;
 
 /**
  * Fixes a draft's [ACHIEVEMENT] tags without a repair call (1470: 5 of 9 repairs were duplicate tags):

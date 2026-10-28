@@ -669,6 +669,20 @@ export function quoteProblem(ev: Evidence, chunk: Chunk | undefined): string | n
   if (found(norm(chunk.text))) return null;
   const u = unboxed(chunk);
   if (u !== chunk.text && found(norm(u))) return null;
+  // A quote copied from a boxed layout carries the border pipes and the neighbouring column's text between its
+  // lines (909: 26 of 30 rejects). Accept it when each of its lines, cut at the pipes, is verbatim in the chunk in order.
+  if (q.includes("|")) {
+    const segs = q.split(/\.\.\.|…|\||\r?\n/).map(norm).filter((x) => x.length >= 4);
+    const hay = norm(chunk.text);
+    let pos = 0;
+    const ok = segs.every((x) => {
+      const i = hay.indexOf(x, pos);
+      if (i === -1) return false;
+      pos = i + x.length;
+      return true;
+    });
+    if (ok && segs.join("").length >= 12) return null;
+  }
   return `quote not found verbatim in ${ev.chunk_id}: "${q.slice(0, 80)}"`;
 }
 

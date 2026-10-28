@@ -76,7 +76,7 @@ for (const c of chunks) for (const l of c.text.split(/\r?\n/)) if (l.trim()) sou
 const placements = new Map<number, string[]>();
 const texts = new Map<string, string>(); // tag -> chapter text, for cross-chapter checks
 const DRAFTING_RE =
-  /\b(?:was(?:n't| not) (?:available|provided)|(?:the|this|my) (?:writer )?packet|chapter \d+'s file|I (?:will|would|assume|don't have|do not have|cannot see)|as an AI|assum(?:e|ing) (?:that )?(?:the )?(?:previous|earlier|prior) chapter)\b/i;
+  /\b(?:was(?:n't| not) (?:available|provided)|(?:the|this|my) (?:writer )?packet|chapter \d+'s file|I (?:will|would|assume|don't have|do not have|cannot see|cannot|can't|could not|couldn't|was unable)|as an AI|assum(?:e|ing) (?:that )?(?:the )?(?:previous|earlier|prior) chapter)\b/i;
 const CHECKPOINT_RE = /(cumulative\s*(100%|progress)\s*checkpoint|true\s*100%\s*checkpoint)/i;
 const m = {
   chapters_expected: roadmap.chapters.length + 1,
