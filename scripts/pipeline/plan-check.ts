@@ -170,6 +170,21 @@ if (exists(P.roadmap)) {
       if (chs.length && !chs.includes(c.n)) rWarn.push(`achievement ${aid} is planned in chapter ${c.n}, but its facts are located in chapter(s) ${[...new Set(chs)].join(", ")} — check the placement`);
     }
 
+  // Area placement: an area whose achievement facts all belong to achievements planned in OTHER chapters is probably in the wrong chapter
+  // (2403: the Glaive's Airship sat in chapter 1 while its achievements were in chapter 5, so chapter 1 wanted its map and the Aegis deadline cited the wrong chapter)
+  const chapterOfAch = new Map<number, number>();
+  for (const c of roadmap.chapters) for (const aid of c.achievement_ids) chapterOfAch.set(Number(aid), c.n);
+  for (const c of roadmap.chapters)
+    for (const a of c.areas) {
+      const node = nodeById.get(a);
+      if (!node || node.kind === "boss") continue;
+      const canonLabel = canon(aliases, node.label);
+      const there = usableFacts.filter((f) => f.location && canon(aliases, f.location) === canonLabel);
+      const chs = new Set(there.flatMap((f) => (f.achievement_ids ?? []).map((id) => chapterOfAch.get(Number(id)))).filter((x): x is number => x !== undefined));
+      if (chs.size && !chs.has(c.n) && ![...chs].some((n) => roadmap!.chapters.find((x) => x.n === n)?.areas.some((aa) => canon(aliases, nodeById.get(aa)?.label ?? "") === canonLabel)))
+        rWarn.push(`area "${node.label}" is in chapter ${c.n}, but every achievement fact located there belongs to chapter(s) ${[...chs].join(", ")} — check which chapter should list the area (this also decides which chapter gets its map)`);
+    }
+
   // Mutual-exclusion and lockout check against ra-comments
   const raCommentsFile = path.join(P.sourcesDir, "ra-comments.txt");
   if (exists(raCommentsFile) && roadmap.playthroughs === 1) {

@@ -225,6 +225,10 @@ function audit(file: string, chapterN: number | null) {
             })
           );
           const overlap = stems(pr.text).filter((w) => factTerms.has(w)).length;
+          // 2403: "you are healed after the Jackal fight" cited a map legend; a map fact supports map and layout text only
+          const cited = citedFids.map((fid) => factById.get(fid)).filter((f): f is NonNullable<typeof f> => !!f);
+          if (cited.length && cited.every((f) => f.type === "map") && !/\b(map|legend|screen|layout|exit|entrance|floor|maze|room|path|direction)\b/i.test(pr.text))
+            warnings.push(`${tag}:${pr.line}: every cited fact (${citedFids.join(", ")}) is a map fact, but the text is not about the map layout — check for unverified claims: "${pr.text.slice(0, 80)}…"`);
           if (overlap === 0) {
             warnings.push(`${tag}:${pr.line}: no factual overlap with cited facts (${citedFids.join(", ")}) — check for unverified claims: "${pr.text.slice(0, 80)}…"`);
           }
