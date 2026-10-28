@@ -30,8 +30,8 @@ description: Stage 2 of the walkthrough pipeline. Finds and downloads 3+ complet
 3. **Visual Maps & Overworld/Dungeon Atlases (MANDATORY if available):**
    Execute a multi-tier search for visual maps and floor plans:
    - **Tier 1 (GameFAQs):** Check GameFAQs `/map/` endpoints.
+     - Tier 1 is not optional when GameFAQs lists `/map/` pages: register them even when VGMaps already supplied maps, and when a map page carries text (room lists, chest locations) collect it too. In 909 the 24 GameFAQs map pages were skipped, and no source listed the Doom Castle wind-floor chests the Black Hand achievement needs.
    - **Tier 2 (Dedicated Atlases):** Check curated retro repositories:
-   - Tier 1 is not optional when GameFAQs lists `/map/` pages: register them even when VGMaps already supplied maps, and when a map page carries text (room lists, chest locations) collect it too. In 909 the 24 GameFAQs map pages were skipped, and no source listed the Doom Castle wind-floor chests the Black Hand achievement needs.
      - **VGMaps.com:** The Video Game Atlas (massive archive covering NES, SNES, Genesis, GB, GBA, PS1, etc.). **Run `npm run rw:maps -- <gameId> --dry-run` first**: it finds the game's maps on its console's atlas page and lists them; run it again without `--dry-run` to register them all (no hand registration). It skips "(Unmarked)" duplicates and maps already registered. If it finds none, it prints similar file-name prefixes; re-run with `--prefix <Prefix>` when one is this game. Drop cutscene stills (opening, ending) only if they show nothing playable.
      - **MarioUniverse.com:** Comprehensive level maps for Mario franchise titles (NES, SNES, N64, GBA).
      - **NESMaps.com / SNESMaps:** Dedicated platform map archives.
