@@ -303,6 +303,9 @@ npm run rw:packet -- <gameId> 1           # inspect a packet
 npm run rw:assemble -- <gameId>
 npm run rw:qa -- <gameId>
 
+# 9b. Second-model check of route steps (runs after rw:write; RW_DIRECTIONS=0 skips it there)
+npm run rw:directions -- <gameId> [chapterN ...]
+
 # 10. Calculate True 100% score
 npm run rw:score -- <gameId>
 
@@ -335,6 +338,24 @@ The agent stages are defined once, in `.agents/plugins/retro-walkthrough/skills/
 Every call made by `rw:extract` / `rw:write` is logged to `content/research/<id>/_usage.jsonl` with its backend; `rw:status` prints the total and the Claude / agy split.
 
 **Active time.** `rw:auto` logs how long each command step ran, and the coordinator logs each stage agent's run time and tokens with `npm run rw:log-agent -- <id> --stage "<N name>" --ms <ms> --tokens <n>`, both to `_activity.jsonl`. `rw:status` totals them on its `ACTIVE:` line. Only working time is recorded: waiting for the user or for a usage-limit reset falls between entries and never counts, so games can be compared as the pipeline improves. `npm run rw:analyze -- <id>` condenses all of a game's logs (usage, activity, extraction rejects, write repairs, QA warnings, review issues) and compares it with earlier games; the coordinator turns it into ranked improvement suggestions in the approval summary. StarTropics II (1984), the first game measured, took 35m active (scripts 9m, agents 26m) with 2.12M script tokens and 414k agent tokens.
+
+### Route accuracy checks
+
+Directions are the part players follow blindly, so they are checked at several stages (all deterministic except the last):
+
+- **Extraction (`checkFact`)**: a direction count in a fact ("5 down", "2 left", single digits and number words included) must appear in an evidence quote, or the fact is widened or repaired.
+- **Verification (`rw:verify`)**: guides that give a different step count for the same stretch become possible conflicts keyed `route steps: <place>`. They are never "resolved" by picking a guide; every packet that holds them shows both values.
+- **Packets**: for each place with enough facts, the guide whose passages carry the most room or floor numbers is that place's *route spine*. The writer follows the spine's order and room numbers; other guides only add notes to a step.
+- **Writing and `rw:qa`**: every step that cites facts must have its step counts in them (an error, so the chapter is revised with the source passages in view); room and floor numbers not in the cited facts are warnings.
+- **`rw:directions`**: a cheap model (the extraction backend) compares each route step with its cited quotes and flags added, changed or reordered steps. Findings are warnings in `rw:qa` while the chapter is unchanged, and one `rw:write --fix` pass revises them.
+- **Rooms are not duplicates**: `rw:verify` never merges or corroborates facts that name different rooms or floors (10001984 had merged 22 Mining Cave rooms into a few).
+- **Spine completeness (`rw:qa`)**: a "head back to ROOM #N" step in the spine guide must have a counterpart in the chapter (warning, revised once by `--fix`). Internal labels such as "gf1" or "Gamefaqs 2" in reader text are an error.
+- A map titled "Chapter N: …" is linked only from game chapter N.
+- Chapters are headed with the game's own chapter numbers (`game_chapter` in the roadmap), never the roadmap's internal position.
+
+### Test ids (comparing pipeline versions)
+
+`9000000 + a real game id` (9001984) re-runs that game from scratch in its own `content/research/<id>/` tree; a later round adds another million (10001984). `rw:fetch` calls the RA API with the real id (the id modulo a million), and test ids are left out of `master.json`, so they never show on the site. Run the stages as for any game, and tell the source collector not to read the original game's research.
 
 ### Model backends for rw:extract and rw:write
 

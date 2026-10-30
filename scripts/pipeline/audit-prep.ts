@@ -10,7 +10,7 @@
  */
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { chapterMaps, chapterTitle, duplicateMap, packetFactIds, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
+import { chapterLabel, chapterMaps, chapterTitle, duplicateMap, packetFactIds, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   CITE_RE,
   type AchievementsFile,
@@ -100,7 +100,7 @@ export function buildAuditDigest(id: string): string {
   for (const ch of roadmap.chapters) {
     const file = chapterFile(ch.n);
     const p = path.join(P.chaptersDir, file);
-    lines.push(`### Chapter ${ch.n}: ${chapterTitle(ch)} (\`08_chapters/${file}\`)`, "");
+    lines.push(`### ${chapterLabel(ch, roadmap.chapters)}: ${chapterTitle(ch)} (\`08_chapters/${file}\`)`, "");
     if (!exists(p)) {
       lines.push("- ❌ **Chapter file is missing!**", "");
       continue;

@@ -14,7 +14,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
-import { type SourceEntry, ensureDir, keyTerms, paths, readJsonOr, writeJson, writeText } from "./lib.ts";
+import { type SourceEntry, ensureDir, keyTerms, paths, readJsonOr, realGameId, writeJson, writeText } from "./lib.ts";
 
 const WIKI = "https://github.com/RetroAchievements/guides/wiki/";
 const RAW = "https://raw.githubusercontent.com/wiki/RetroAchievements/guides/";
@@ -87,7 +87,7 @@ export async function collectRaGuide(gameId: number, guideUrl: string | null | u
     console.log(`  RA guide: the RA API lists a guide outside the wiki (${guideUrl}) — collect it in Stage 2 with rw:collect`);
     return null;
   }
-  if (!page) page = findPageByGameId(gameId);
+  if (!page) page = findPageByGameId(realGameId(gameId));
   if (!page) {
     // pages named like the game but not linked to it: report them, the source collector decides
     const terms = keyTerms(gameTitle);

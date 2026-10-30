@@ -5,10 +5,11 @@
  *
  * Checks the chapter drafts in 08_chapters/ against the roadmap, graph and verified facts.
  */
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import { buildAuditDigest } from "./audit-prep.ts";
-import { chapterMaps, chapterMermaid, checkpointTotals, collectibleMentionRe, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
+import { chapterMaps, chapterMermaid, checkpointTotals, gameChapterOf, collectibleMentionRe, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   ACH_RE,
   type AchievementsFile,
@@ -20,6 +21,7 @@ import {
   gameIdArg,
   paths,
   readJson,
+  readJsonOr,
   readJsonl,
   readText,
   requireFile,
@@ -32,7 +34,9 @@ import {
   qaInputFiles,
   readUsedSources,
   saveStateAdvice,
+  internalLabels,
   layoutProblems,
+  missingRouteTokens,
 } from "./lib.ts";
 
 const id = gameIdArg();
@@ -84,6 +88,7 @@ const m = {
   paragraphs_plan_logic: 0, // counted in paragraphs_cited: route logic from the set/roadmap, or a "do not" warning
   citations: 0,
   citations_broken: 0,
+  route_mismatches: 0, // lines whose direction counts / room numbers are not in the facts they cite
   missables: roadmap.missables.length,
   missables_warned: 0,
   ponr: roadmap.ponr.length,
@@ -103,6 +108,7 @@ const m = {
   sparse_areas: 0,
 };
 
+const directions = readJsonOr<{ chapters?: Record<string, unknown> }>(path.join(P.dir, "09_directions.json"), {});
 function audit(file: string, chapterN: number | null) {
   const p = path.join(P.chaptersDir, file);
   const tag = chapterN ? `ch${chapterN}` : "overview";
@@ -112,11 +118,17 @@ function audit(file: string, chapterN: number | null) {
   }
   m.chapters_present++;
   const text = readText(p);
+  // second-model route check (rw:directions): only while the chapter is the text it checked
+  const dir = directions.chapters?.[String(chapterN)] as { hash: string; findings: { line: number; text: string; issue: string }[] } | undefined;
+  if (chapterN && dir && dir.hash === crypto.createHash("sha1").update(text).digest("hex").slice(0, 12))
+    for (const f of dir.findings.slice(0, 12)) warnings.push(`${tag}:${f.line}: directions check: ${f.issue} — "${f.text.slice(0, 80)}…"`);
   const lines = text.split(/\r?\n/);
   m.words += words(text);
   m.unable_to_verify += (text.match(/unable to verify from collected sources/gi) || []).length;
 
   // placeholders / leftovers
+  const labels = internalLabels(text);
+  if (labels.length) errors.push(`${tag}: internal source label(s) in the text (${labels.slice(0, 5).join(", ")}) — name a guide by its author or title, or just say "one guide"`);
   if (/\b(TODO|TBD|FIXME)\b|\[INSERT|lorem ipsum/i.test(text)) errors.push(`${tag}: contains placeholder text (TODO/TBD/[INSERT…])`);
   for (const p of layoutProblems(text, tag === "overview")) warnings.push(`${tag}: ${p}`);
   for (const l of saveStateAdvice(text)) warnings.push(`${tag}: mentions save states (not allowed in hardcore): "${l}"`);
@@ -207,6 +219,24 @@ function audit(file: string, chapterN: number | null) {
     if (/\[\[[^\]]+\]\]/.test(pr.text) || /unable to verify from collected sources/i.test(pr.text)) {
       m.paragraphs_cited++;
       const citedFids = [...pr.text.matchAll(CITE_RE)].flatMap((mm) => mm[1].split(",").map((s) => s.trim()));
+      // Route check: every direction count and room number in the text ("5 down", "room 4") must be in the
+      // facts it cites. 9001984: "6 down" written as "5 down" passed every other check.
+      {
+        const material = citedFids.flatMap((fid) => {
+          const f = factById.get(fid);
+          return f ? [f.text, ...(f.evidence ?? []).map((e) => `${e.quote} ${e.translation ?? ""}`)] : [];
+        });
+        const wrong = material.length ? missingRouteTokens(pr.text, material) : [];
+        // a wrong step count sends the player the wrong way (error, so the chapter is revised); a room number
+        // can also be a back-reference to the room before ("return to Room 4"), so it is a warning
+        const counts = wrong.filter((x) => !/^(room|floor) /.test(x));
+        if (wrong.length) {
+          m.route_mismatches++;
+          (counts.length && process.env.RW_ROUTE_QA !== "warn" ? errors : warnings).push(
+            `${tag}:${pr.line}: route mismatch: ${wrong.join(", ")} not in the cited fact(s) ${citedFids.join(", ")} — copy the direction, count and room number exactly from the source, or show the disagreement: "${pr.text.replace(/\[\[[^\]]*\]\]/g, "").trim().slice(0, 90)}…"`,
+          );
+        }
+      }
       if (citedFids.length && words(pr.text) >= 15) {
         const prTerms = keyTerms(pr.text);
         if (prTerms.length >= 6) {
@@ -241,6 +271,33 @@ function audit(file: string, chapterN: number | null) {
   for (const bad of malformedCites(text)) {
     m.citations_broken++;
     errors.push(`${tag}: malformed citation ${bad.slice(0, 80)} — citation brackets may hold only fact ids`);
+  }
+  // Spine completeness: a numbered-room guide says where to go back to ("head back to ROOM #4"); a chapter that drops
+  // the step leaves the player in the wrong room (10001984 Sewer II Rooms 5 and 10). The spine is the guide whose
+  // cited passages carry the most room numbers; each of its "back to room N" lines must have a counterpart.
+  if (chapterN) {
+    const chunkById = new Map(chunks.map((c) => [c.chunk_id, c]));
+    const cited = new Set([...text.matchAll(CITE_RE)].flatMap((mm) => mm[1].split(",").map((s) => s.trim())));
+    const bySource = new Map<string, Set<string>>();
+    for (const fid of cited)
+      for (const e of factById.get(fid)?.evidence ?? []) {
+        const c = chunkById.get(e.chunk_id);
+        if (c && sources.find((s) => s.id === c.source_id)?.kind === "guide") bySource.set(c.source_id, (bySource.get(c.source_id) ?? new Set()).add(c.chunk_id));
+      }
+    const rooms = (id: string) => [...(bySource.get(id) ?? [])].reduce((n, cid) => n + (chunkById.get(cid)!.text.match(/\broom\s*#?\s*\d+\b/gi) ?? []).length, 0);
+    const spine = [...bySource.keys()].sort((a, b) => rooms(b) - rooms(a))[0];
+    if (spine && rooms(spine) >= 8) {
+      const missing: string[] = [];
+      for (const cid of bySource.get(spine)!) {
+        const flat = chunkById.get(cid)!.text.replace(/\s+/g, " ");
+        for (const mm of flat.matchAll(/\b(?:head|go|walk|run|return|climb|drop|fall|jump|come)?\s*back\s+(?:down\s+|up\s+|out\s+)?(?:to|into|in)\s+room\s*#?\s*(\d+)\b/gi)) {
+          const n = mm[1];
+          const mentioned = new RegExp(`(?:back|return|again|revisit|retrace)[^.\\n]{0,60}room\\s*#?\\s*${n}\\b|room\\s*#?\\s*${n}\\b[^.\\n]{0,40}(?:again|revisit)`, "i");
+          if (!mentioned.test(text) && !missing.includes(`room ${n}`)) missing.push(`room ${n}`);
+        }
+      }
+      if (missing.length) warnings.push(`${tag}: spine step missing: ${chunkById.get([...bySource.get(spine)!][0])!.source_id}'s route sends the player back to ${missing.slice(0, 6).join(", ")}, but the chapter never says to go back there — add the return step where the source gives it`);
+    }
   }
   for (const mm of text.matchAll(CITE_RE)) {
     for (const fid of mm[1].split(",").map((s) => s.trim())) {
@@ -392,17 +449,24 @@ function audit(file: string, chapterN: number | null) {
   if (!/^#{2,4}\s.*(checklist|before you (leave|move on))/im.test(text)) warnings.push(`${tag}: no end-of-chapter checklist heading`);
 }
 
+{
+  // the roadmap's playthrough notes are printed in the guide too
+  const rl = internalLabels(String((roadmap as { playthrough_notes?: string }).playthrough_notes ?? ""));
+  if (rl.length) errors.push(`roadmap: internal source label(s) in playthrough_notes (${rl.slice(0, 5).join(", ")}) — say "a commenter" and cite with [[id]]; fix 07_roadmap.json and re-run rw:plan`);
+}
 audit("00_overview.md", null);
 for (const c of roadmap.chapters) audit(chapterFile(c.n), c.n);
 
 // cross-chapter promises: "come back in Chapter 12 for the Game Boy" must be honoured by chapter 12
+const byGameChapter = new Map(roadmap.chapters.filter((c) => gameChapterOf(c) && roadmap.chapters.filter((x) => gameChapterOf(x) === gameChapterOf(c)).length === 1).map((c) => [gameChapterOf(c)!, c.n]));
 const COMMON = /^(Chapter|Point|Return|Unable|Warning|Caution|Important|Tip|Note|Missable|Achievement|Hardcore|Before|After|When|Then|Once|This|That|There|Your|Make|Come|Back|Talk|Keep|Save|Head|Return|Leave|Enter|Continue)$/i;
 for (const [tag, text] of texts) {
   const own = tag === "overview" ? 0 : Number(tag.slice(2));
   for (const s of text.split(/(?<=[.!?])\s+|\r?\n/)) {
     if (CHECKPOINT_RE.test(s) || /^\s*(#|\|)/.test(s)) continue;
     for (const ref of s.matchAll(/\bchapter\s+(\d+)\b/gi)) {
-      const n = Number(ref[1]);
+      // the guide names chapters by the game's number, which is the roadmap number only in games without numbered chapters
+      const n = byGameChapter.get(Number(ref[1])) ?? Number(ref[1]);
       if (n === own || !texts.has(`ch${n}`)) continue;
       const names = [...new Set(s.replace(/\[\[[^\]]*\]\]|\[ACHIEVEMENT:\d+\]/g, "").match(/\b[A-Z][a-zA-Z'-]{3,}(?:\s+[A-Z][a-zA-Z'-]{2,})*/g) || [])].filter((w) => !COMMON.test(w));
       if (!names.length) continue;

@@ -85,10 +85,16 @@ Each chapter file (e.g. `01.md`) MUST include:
         [ACHIEVEMENT:98042]
      ```
    - **For Standard RPGs/Action Games (`"format": "prose"`):**
-     **NO SUMMARIES ALLOWED.** You must guide the player room-by-room and floor-by-floor (e.g. `### Area Name`, `#### 1F`, `#### B1F`). For each floor:
+     **NO SUMMARIES ALLOWED.** You must guide the player room-by-room (e.g. `### Area Name`, then the headings the source itself uses: `#### Room 4`, or `#### 1F` / `#### B1F` only where a guide names those floors). Never invent a floor, room number or heading that no source uses, and never merge two floors or rooms into one. For each floor or room:
      - Describe the exact navigation path (e.g. "Take the north door", "Descend via the northwest staircase").
      - **Every Treasure Chest:** Explicitly route to every chest and state its contents (e.g. "Open the chest in the southwest alcove for an **[Insecticide]** [[gf3-33-4]]"). Never leave a chest behind.
      - **All Puzzle Solutions:** Explain step-by-step puzzle solutions (e.g. "Push the yellow block 2 tiles right, place a bomb by the cracked wall, then hit the blue switch").
+     - **Route accuracy (MANDATORY).** Directions are the part players follow blindly, so they must match a source exactly:
+       - If the packet has a "Route spines" section, write that place in the named guide's order, one numbered step per room, with that guide's room numbers. Other guides only add notes to a step they match; they never add, repeat or reorder steps.
+       - Copy every direction, step count and room number exactly as the cited fact or passage gives it ("6 down" is never "5 down"; "left" is never "west"). Never carry a number from one guide into another guide's step. `rw:qa` compares each step's counts with the facts it cites and fails the chapter on a difference.
+       - When two guides give a different count or direction for the same stretch (the packet's open questions and facts show both), write the spine's value and the other in the same step: "6 down (one guide says 5; if you hit a wall, take one more step)". Never pick one silently.
+       - A fact from a script or dialogue dump keeps its branch: write "If you talk to him again, he says …", never a bare "he says …". If the source does not say which branch applies to the player's situation, say so and give the safe option.
+       - Name the game's own chapters the way the roadmap heading does; never renumber them.
    - **Visual Map Integration (MANDATORY):**
      The packet's "Visual maps for this chapter" section lists every collected map for the chapter. Embed EACH one as a prominent link directly beneath the heading of the area it shows (copy the URL exactly; `rw:qa` warns about every listed map that is not linked):
      ```markdown

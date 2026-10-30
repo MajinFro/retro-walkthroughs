@@ -32,6 +32,7 @@
     "rw:write": "tsx scripts/pipeline/write-chapters.ts",
     "rw:assemble": "tsx scripts/pipeline/assemble.ts",
     "rw:qa": "tsx scripts/pipeline/qa-check.ts",
+    "rw:directions": "tsx scripts/pipeline/check-directions.ts",
     "rw:audit-prep": "tsx scripts/pipeline/audit-prep.ts",
     "rw:score": "tsx scripts/pipeline/score.ts",
     "rw:clean": "tsx scripts/pipeline/cleanup.ts",

@@ -209,6 +209,15 @@ export interface VerifiedFact extends Fact {
 // ---------------------------------------------------------------------------
 // Paths
 // ---------------------------------------------------------------------------
+/**
+ * Test ids: 9000000 + a real game id (9001984 re-runs game 1984 from scratch in its own content/research/<id>/
+ * tree, for comparing pipeline versions); later rounds add a million (10001984, 11001984, ...). RA API calls and
+ * the RA wiki lookup use the real id (the id modulo a million); everything on disk uses the test id.
+ */
+export const TEST_ID_BASE = 9000000;
+export const isTestId = (gameId: string | number) => Number(gameId) >= TEST_ID_BASE;
+export const realGameId = (gameId: string | number) => (isTestId(gameId) ? Number(gameId) % 1_000_000 : Number(gameId));
+
 export function paths(gameId: string | number) {
   const root = process.cwd();
   const dir = path.join(root, "content", "research", String(gameId));
@@ -738,6 +747,69 @@ export function tableContext(quote: string, chunk: Chunk | undefined, chunks: Ma
 }
 
 /**
+ * Route tokens: the exact directions, step counts and room/floor numbers in a piece of text ("5 down",
+ * "2 left", "room 4", "floor 3"). Sources disagree on these and a one-digit slip sends the player the wrong
+ * way (StarTropics II: "6 down" written as "5 down"), so a claim's tokens must all appear in the text it
+ * cites. north/south/east/west count as up/down/right/left, and number words up to twelve as digits.
+ */
+const NUM_WORDS: Record<string, string> = { one: "1", two: "2", three: "3", four: "4", five: "5", six: "6", seven: "7", eight: "8", nine: "9", ten: "10", eleven: "11", twelve: "12" };
+const DIR_WORD: Record<string, string> = { up: "up", north: "up", down: "down", south: "down", left: "left", west: "left", right: "right", east: "right" };
+const DIR_ALT = "up|down|left|right|north|south|east|west";
+const UNIT = "(?:more\\s+)?(?:(?:steps?|tiles?|squares?|screens?|spaces?|times?|panels?|blocks?|rooms?)\\s+)?(?:to\\s+the\\s+|toward\\s+the\\s+)?";
+const COUNT_DIR_RE = new RegExp(`\\b(\\d+)\\s*${UNIT}(${DIR_ALT})\\b`, "g");
+const DIR_COUNT_RE = new RegExp(`\\b(${DIR_ALT})\\s+(?:for\\s+|by\\s+)?(\\d+)\\b(?!\\s*(?:hp|%|hearts?|damage|coins?|gold|exp|xp))`, "g");
+const WORD_COUNT_RE = new RegExp(`\\b(${Object.keys(NUM_WORDS).join("|")})\\b(?=\\s+(?:more\\s+)?(?:(?:steps?|tiles?|squares?|screens?|spaces?|rooms?)\\s+)?(?:to\\s+the\\s+)?(?:${DIR_ALT})\\b)`, "g");
+export function routeTokens(text: string): string[] {
+  const t = text
+    .replace(/\[\[[^\]\n]*\]\]|\[ACHIEVEMENT:\s*\d+\s*\]/g, " ")
+    .toLowerCase()
+    .replace(WORD_COUNT_RE, (w) => NUM_WORDS[w]);
+  const out = new Set<string>();
+  for (const m of t.matchAll(COUNT_DIR_RE)) out.add(`${m[1]} ${DIR_WORD[m[2]]}`);
+  for (const m of t.matchAll(DIR_COUNT_RE)) out.add(`${m[2]} ${DIR_WORD[m[1]]}`);
+  for (const m of t.matchAll(/\broom\s*#?\s*(\d+)\b/g)) out.add(`room ${m[1]}`);
+  for (const m of t.matchAll(/\b(b?)(\d+)f\b|\b(basement\s+)?floor\s*#?\s*(\d+)\b/g)) out.add(`floor ${m[1] || m[3] ? "b" : ""}${m[2] ?? m[4]}`);
+  return [...out];
+}
+
+/**
+ * Lines of a chapter whose step counts ("5 down") are not in the facts they cite: the first-draft version of
+ * rw:qa's route check, so rw:write repairs them in the same pass. Room and floor numbers are left to rw:qa.
+ */
+export function routeCountMismatches(text: string, factById: Map<string, { text?: string; evidence?: { quote?: string; translation?: string }[] }>): string[] {
+  const out: string[] = [];
+  text.split(/\r?\n/).forEach((line, i) => {
+    const fids = [...line.matchAll(CITE_RE)].flatMap((m) => m[1].split(",").map((s) => s.trim()));
+    if (!fids.length) return;
+    const material = fids.flatMap((fid) => {
+      const f = factById.get(fid);
+      return f ? [f.text ?? "", ...(f.evidence ?? []).map((e) => `${e.quote ?? ""} ${e.translation ?? ""}`)] : [];
+    });
+    const wrong = material.length ? missingRouteTokens(line, material).filter((x) => !/^(room|floor) /.test(x)) : [];
+    if (wrong.length) out.push(`line ${i + 1}: route mismatch: ${wrong.join(", ")} not in the cited fact(s) ${fids.join(", ")} — copy the direction and count exactly from the source (or show both values when guides disagree): "${line.replace(CITE_RE, "").trim().slice(0, 90)}…"`);
+  });
+  return out;
+}
+
+/**
+ * Internal source labels in reader text ("gf1", "Gamefaqs 2's directions", "per guide 3"): the writer sees guides as
+ * gf1..gfN, but the player knows them by author and title. Citations ([[...]]) are not text.
+ */
+export function internalLabels(text: string): string[] {
+  const bare = text.replace(/```[\s\S]*?```/g, " ").replace(/\[\[[^\]\n]*\]\]/g, " ").replace(/\]\([^)]*\)/g, "]");
+  const labels = [...bare.matchAll(/\b(?:gf\d+|ra-comments[\w-]*|ra-guide[\w-]*|gamefaqs[ \t]*#?\d+|(?:guide|source|faq)[ \t]*#?\d+)\b/gi)].map((m) => m[0]);
+  // a diagram node id used as a heading or in prose ("### Chapter_1_Prelude")
+  const nodeIds = [...bare.matchAll(/\b[A-Za-z]+(?:_[A-Za-z0-9]+)+\b/g)].map((m) => m[0]).filter((s) => /^[A-Z]/.test(s));
+  return [...new Set([...labels, ...nodeIds])];
+}
+
+/** The route tokens of `claim` that none of `sources` contains. */
+export function missingRouteTokens(claim: string, sources: string[]): string[] {
+  const have = new Set(sources.flatMap(routeTokens));
+  return routeTokens(claim).filter((x) => !have.has(x));
+}
+
+/**
  * Schema + evidence checks for one fact (everything except duplicate ids, which need the whole set).
  * Returns the problems, the evidence that survived, and whether the fact must be rejected.
  */
@@ -793,6 +865,14 @@ export function checkFact(f: Fact, ctx: FactCheckContext): { problems: string[];
     const quoteNums = new Set(goodEv.flatMap((e) => digits(`${e.quote} ${e.translation ?? ""}`).match(/\d+/g) ?? []));
     const missing = [...new Set(digits(f.text).match(/\b\d{2,}\b/g) ?? [])].filter((n) => !quoteNums.has(n));
     if (missing.length) problems.push(`unquoted number(s) ${missing.join(", ")}: every multi-digit number in the fact text must appear in an evidence quote`);
+  }
+
+  // Route audit: a direction count or room number in the fact text ("5 down", "room 4") must be in a quote,
+  // single digits included. Phrased as "unquoted number" so rw:extract widens the quote or repairs the fact.
+  if (goodEv.length > 0 && f.text) {
+    // room and floor numbers often come from a section heading above the quote, so only step counts are required
+    const wrong = missingRouteTokens(f.text, goodEv.map((e) => `${e.quote} ${e.translation ?? ""}`)).filter((x) => !/^(room|floor) /.test(x));
+    if (wrong.length) problems.push(`unquoted number(s) ${wrong.join(", ")}: every direction count in the fact text must appear in an evidence quote`);
   }
 
   const reject = !goodEv.some((e) => e.stance === "supports") || problems.some((p) => HARD_FAIL_RE.test(p));

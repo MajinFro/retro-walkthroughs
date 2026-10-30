@@ -148,6 +148,7 @@ This chunk comes from a SECONDARY full walkthrough. The primary walkthrough has 
 - puzzle and minigame solutions, rules, counts and timings
 - missables, deadlines, points of no return
 - anything tied to an RA achievement description
+- route steps with a count, direction or room number ("3 left, 7 up", "Room 4: …"), kept exactly as written, so the verifier can compare guides step by step (do not extract plain "go to the next room" lines)
 - prices, counts, numbers, and any statement that disagrees with or adds to common walkthrough flow (alternate routes, warnings, tips)
 Nearly every walkthrough chunk contains at least one of these; skip a chunk only when it truly has none ("secondary source: story/navigation only").`;
 

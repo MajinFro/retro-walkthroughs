@@ -92,6 +92,10 @@ export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapt
   const chapterRe = split ? null : new RegExp(`\\bchapter\\s*${gameChapter}\\b`, "i");
   return sources.filter((s) => {
     if (s.kind !== "map") return false;
+    // a map titled "Chapter 3: ..." is chapter 3's, whatever place names it shares with another chapter
+    // ("C-Island" matched "Monkey Island Maze", and "Inside the castle" matched Venice's castle maze)
+    const titled = s.title.match(/\bchapter\s+(\d+)\b/i);
+    if (titled && Number(titled[1]) !== gameChapter) return false;
     if (chapterRe?.test(s.title)) return true;
     const title = new Set(mapWords(s.title));
     return wanted.some((ws) => ws.every((w) => title.has(w)));
@@ -100,14 +104,27 @@ export function chapterMaps(sources: SourceEntry[], g: Graph, ch: Roadmap["chapt
 
 /**
  * A chapter's display title. The assembler writes "Chapter <n>: <title>", so a title that starts with
- * "Chapter N" is stripped of it (1984 and the 1985 Flash test printed "Chapter 1: Chapter 1: …"), and a
- * game chapter that the roadmap split or renumbered is named at the end.
+ * "Chapter N" is stripped of it (1984 and the 1985 Flash test printed "Chapter 1: Chapter 1: …").
  */
 export function chapterTitle(c: Roadmap["chapters"][number]): string {
   const m = c.title.match(/^chapter\s+(\d+)\s*[:.\-–—]?\s*/i);
-  const title = m ? c.title.slice(m[0].length) : c.title;
-  const gc = c.game_chapter ?? (m ? Number(m[1]) : undefined);
-  return gc && gc !== c.n ? `${title} (in-game Chapter ${gc})` : title;
+  return m ? c.title.slice(m[0].length) : c.title;
+}
+
+/** The game chapter a roadmap chapter holds: `game_chapter`, else the "Chapter N" its title starts with. */
+export const gameChapterOf = (c: Roadmap["chapters"][number]): number | undefined => c.game_chapter ?? (Number(c.title.match(/^chapter\s+(\d+)/i)?.[1]) || undefined);
+
+/**
+ * What a chapter is called in the guide: the game's own number ("Chapter 3"), "Chapter 4, Part 2" when the
+ * roadmap splits a game chapter, and the roadmap number only for games without numbered chapters. The roadmap
+ * number used to head every chapter with the game's number in brackets ("Chapter 1 … (in-game Chapter 2)"),
+ * which disagreed with the achievement text, the guides and the in-game screens.
+ */
+export function chapterLabel(c: Roadmap["chapters"][number], all: Roadmap["chapters"]): string {
+  const gc = gameChapterOf(c);
+  if (!gc) return `Chapter ${c.n}`;
+  const same = all.filter((x) => gameChapterOf(x) === gc);
+  return same.length > 1 ? `Chapter ${gc}, Part ${same.indexOf(c) + 1}` : `Chapter ${gc}`;
 }
 
 /** First URL of a source (some list several pages). */

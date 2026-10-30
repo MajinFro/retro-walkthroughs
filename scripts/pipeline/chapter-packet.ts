@@ -10,7 +10,7 @@
  * The writer must not use anything outside the packet.
  */
 import path from "node:path";
-import { chapterMaps, chapterMermaid, chapterTitle, checkpointTotals, duplicateMap, packetFactIds, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
+import { chapterLabel, chapterMaps, chapterMermaid, chapterTitle, checkpointTotals, duplicateMap, packetFactIds, sourceUrl, type Graph, type Roadmap } from "./graph.ts";
 import {
   type AchievementsFile,
   type Chunk,
@@ -43,7 +43,7 @@ const P = paths(id);
 for (const [f, h] of [[P.verified, "rw:verify"], [P.graph, "route planner"], [P.roadmap, "route planner"]] as const) requireFile(f, h);
 
 const ach = readJson<AchievementsFile>(P.achievements);
-const verified = readJson<{ facts: VerifiedFact[]; coverage: Record<string, any> }>(P.verified);
+const verified = readJson<{ facts: VerifiedFact[]; coverage: Record<string, any>; possible_conflicts?: { key: string; facts: { id: string; value: string; sources: string[] }[] }[] }>(P.verified);
 const graph = readJson<Graph>(P.graph);
 const roadmap = readJson<Roadmap>(P.roadmap);
 const chunks = loadChunks(P.chunks);
@@ -88,7 +88,8 @@ if (which === "overview") {
     "## Roadmap (authoritative)", "",
     `- Playthroughs required: **${roadmap.playthroughs}** — ${roadmap.playthrough_notes}`,
     roadmap.settings_notes ? `- Settings: ${roadmap.settings_notes}` : "",
-    ...roadmap.chapters.map((c) => `- Chapter ${c.n}: ${chapterTitle(c)} (${c.achievement_ids.length} achievements)`), "",
+    ...roadmap.chapters.map((c) => `- ${chapterLabel(c, roadmap.chapters)}: ${chapterTitle(c)} (${c.achievement_ids.length} achievements)`), "",
+    "Refer to chapters only by these names (\"Chapter 3\" is the game's own chapter 3), never by a position in this list.", "",
     ...openQuestions(null),
   );
 } else {
@@ -98,7 +99,7 @@ if (which === "overview") {
     console.error(`Chapter ${which} not in roadmap (1..${roadmap.chapters.length})`);
     process.exit(1);
   }
-  title = `Chapter ${ch.n}: ${chapterTitle(ch)}`;
+  title = `${chapterLabel(ch, roadmap.chapters)}: ${chapterTitle(ch)}`;
   outName = chapterFile(ch.n);
   chapterAch = ch.achievement_ids;
   // roadmap facts, achievement facts, graph area + neighbour facts, location matches, missables/PONRs,
@@ -111,7 +112,7 @@ if (which === "overview") {
   const next = roadmap.chapters.find((c) => c.n === n + 1);
   lines.push(
     `# Writer packet — ${title}`, "",
-    `Write \`08_chapters/${outName}\`. Previous chapter: ${prev ? `${prev.n}. ${chapterTitle(prev)}` : "(start of game)"}. Next chapter: ${next ? `${next.n}. ${chapterTitle(next)}` : "(end of game)"}.`,
+    `Write \`08_chapters/${outName}\`. Previous chapter: ${prev ? `${chapterLabel(prev, roadmap.chapters)}: ${chapterTitle(prev)}` : "(start of game)"}. Next chapter: ${next ? `${chapterLabel(next, roadmap.chapters)}: ${chapterTitle(next)}` : "(end of game)"}.`,
     ch.notes ? `Planner notes: ${ch.notes}` : "", "",
     "## Areas in this chapter (in order)", "",
     ...ch.areas.map((a) => `- \`${a}\` — ${nodeById.get(a)?.label ?? a}`), "",
@@ -216,6 +217,52 @@ for (const c of prim.sort(priorityOrder)) if (budget - c.text.length > 0) { chos
 for (const c of neigh.sort(priorityOrder)) if (budget - c.text.length > 0) { chosen.push({ c, neighbour: true }); budget -= c.text.length; }
 const dropped = prim.length + neigh.length - chosen.length;
 chosen.sort((a, b) => order(a.c, b.c));
+
+// Route spines. Merging several guides into one room-by-room route is where directions went wrong (StarTropics II
+// Gold Cave: gf3 numbers Rooms 1-13, and the writer shuffled in steps from gf1, gf2 and gf4, so Room 4 came twice).
+// For each place with enough facts, the guide whose cited passages carry the most room/floor numbers is its spine:
+// the route is written in that guide's order, and the others only add notes to a step.
+const ROUTE_MARKERS = /\broom\s*#?\s*\d+\b|\bb?\d+f\b|\bfloor\s*\d+\b/gi;
+if (which !== "overview") {
+  const byPlace = new Map<string, VerifiedFact[]>();
+  for (const f of facts) if (f.location) byPlace.set(canon(aliases, f.location), [...(byPlace.get(canon(aliases, f.location)) ?? []), f]);
+  const spines: string[] = [];
+  for (const fs of byPlace.values()) {
+    if (fs.length < 4) continue;
+    const score = new Map<string, { n: number; chunks: Set<string> }>();
+    for (const f of fs)
+      for (const e of f.evidence) {
+        const c = chunks.get(e.chunk_id);
+        if (!c || sourceById.get(c.source_id)?.kind !== "guide") continue;
+        const sc = score.get(c.source_id) ?? { n: 0, chunks: new Set<string>() };
+        if (!sc.chunks.has(c.chunk_id)) (sc.chunks.add(c.chunk_id), (sc.n += (c.text.match(ROUTE_MARKERS) ?? []).length));
+        score.set(c.source_id, sc);
+      }
+    const ranked = [...score.entries()].sort((a, b) => b[1].n - a[1].n);
+    if (!ranked.length || ranked[0][1].n < 6 || (ranked[1] && ranked[0][1].n < 1.5 * ranked[1][1].n)) continue;
+    const src = sourceById.get(ranked[0][0]);
+    spines.push(`- **${fs[0].location}**: ${src?.title ?? ranked[0][0]} (${ranked[0][0]}; passages ${[...ranked[0][1].chunks].sort().join(", ")})`);
+  }
+  if (spines.length)
+    lines.push(
+      "## 🧭 Route spines — write each of these places in ONE guide's order", "",
+      "For each place below, the named guide numbers its rooms or floors and is the spine: write the route in that guide's order, using its room numbers and floor names, one numbered step per room. Another guide may only add a note to a step it matches (\"Another guide adds: …\"); it must never add, repeat or reorder steps, and never changes a direction or count. Do not invent floor or room headings the spine does not use. Where guides disagree on a count or direction, give the spine's value and add the other in the same step (\"one guide says 6\").", "",
+      ...spines, "",
+    );
+}
+
+// Route-step disagreements (rw:verify): two guides give different counts for the same stretch. The packet shows
+// both so the writer can never pick one silently.
+{
+  const here = new Set(facts.map((f) => f.id));
+  const disputes = (verified.possible_conflicts ?? []).filter((c) => c.key.startsWith("route steps") && c.facts.some((x) => here.has(x.id)));
+  if (disputes.length)
+    lines.push(
+      "## ⚠ Guides disagree on these route steps — show BOTH values in the step", "",
+      "Write the value from the route spine (or the first listed when there is no spine) and name the other in the same step (\"6 down; one guide says 5\"), with a safe fallback the player can check on screen. Never state one as certain.", "",
+      ...disputes.flatMap((c) => [`- **${c.key.replace("route steps: ", "")}**`, ...c.facts.map((x) => `  - \`${x.id}\` (${x.sources.join(",")}): ${x.value}`)]), "",
+    );
+}
 
 // Opt-in (RW_PACKET_DEDUPE=1): a quote whose chunk is printed below is replaced by a pointer to it.
 // Off by default: on Spyro it cut first writing calls 7-10%, but chapter 5 then used 11% fewer facts

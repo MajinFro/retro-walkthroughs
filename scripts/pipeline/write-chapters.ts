@@ -37,7 +37,9 @@ import {
   requireFile,
   writeText,
   saveStateAdvice,
+  internalLabels,
   layoutProblems,
+  routeCountMismatches,
   blankCiteRows,
 } from "./lib.ts";
 
@@ -79,7 +81,7 @@ if (fixMode) {
   run(`npx tsx scripts/pipeline/qa-check.ts ${id}`);
   const qa = readJson<{ errors: string[]; warnings: string[] }>(P.qa);
   // warnings that lower the score (see score.ts beginner_friendliness) are worth a revision too
-  const scored = /sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return|before it is obtained|already earned|which the roadmap collects in/i;
+  const scored = /directions check|spine step missing|internal source label|sparse|brief|checkpoint|checklist|word count|unusually low|mermaid|visual map|uncited|no factual overlap|save state|point of no return|before it is obtained|already earned|which the roadmap collects in/i;
   for (const [kind, list] of [["ERROR", qa.errors], ["WARNING", qa.warnings.filter((w) => scored.test(w))]] as const)
     for (const msg of list) {
       const m = msg.match(/^(overview|ch(\d+))\b/) ?? msg.match(/placed in (ch(\d+))|roadmap says (ch(\d+))/);
@@ -102,7 +104,8 @@ if (fixMode) {
   // against a run without it. A chapter that has an error still gets its warnings in the same call.
   if (!flag("warnings"))
     for (const [t, list] of qaFindings)
-      if (!list.some((f) => !f.startsWith("WARNING:"))) {
+      // a route step the second-model check doubted is worth one revision even when the chapter has no error
+      if (!list.some((f) => !f.startsWith("WARNING:") || /directions check|spine step missing/.test(f))) {
         skippedWarnings += list.length;
         qaFindings.delete(t);
       }
@@ -120,7 +123,7 @@ const targets = fixMode
 const HEADER = `You are the Stage 8 walkthrough writer of an evidence-first pipeline, running non-interactively.
 You receive one writer packet (roadmap entry, usable facts with verbatim quotes, raw source passages) and reply with the finished chapter in Markdown, nothing else: no preamble, no notes to the orchestrator, no fence around the whole reply.
 You cannot read files or run commands; everything you may use is in the packet. Cite only fact ids listed in the packet's "Usable facts".
-Be exhaustive: route every area room by room and use every packet fact that belongs to this chapter (every chest, item, puzzle step, boss detail, shop, sidequest). A chapter typically runs 3,000-6,000 words; never summarize to save space.
+Be exhaustive: route every area room by room and use every packet fact that belongs to this chapter (every chest, item, puzzle step, boss detail, shop, sidequest). A chapter is as long as its sources need; never summarize to save space, and never pad, merge rooms or repeat a room.
 The reply is published as-is. Never mention packets, files, other chapters' drafts, or what you were or were not given. If a detail is missing, write "Unable to verify from collected sources."
 Roadmap format for this game: ${roadmap.format ?? "prose"}.`;
 const system = [HEADER, skillText("ra-walkthrough-writer", ["Workflow: Chapter by Chapter"])].join("\n\n");
@@ -349,6 +352,9 @@ function problems(t: string, text: string): string[] {
   out.push(...layoutProblems(text, t === "overview"));
   const saves = saveStateAdvice(text);
   if (saves.length) out.push(`suggests save states ("${saves[0]}") — hardcore disables them; remove the advice (saying hardcore turns them off is fine)`);
+  const labels = internalLabels(text);
+  if (labels.length) out.push(`internal source label(s) in the text (${labels.slice(0, 5).join(", ")}) — name a guide by its author or title, or say "one guide"; never gf1/gf2 or "Gamefaqs 2"`);
+  out.push(...routeCountMismatches(text, new Map(verified.facts.map((f) => [f.id, f]))).slice(0, 12));
   if (/\(passage only\)/i.test(text)) out.push(`contains "(passage only)" — every statement must cite a fact id from the packet`);
   if (/```mermaid/.test(text)) out.push("contains a hand-written mermaid block — write [MERMAID] instead");
   if (t === "overview") {
@@ -413,7 +419,7 @@ const req = (t: string, user: string): LlmRequest => ({ key: t, tier: "write", s
 // The raw source passages are the last packet section and ~65% of it. Revising a draft for
 // citations, tags, callouts or checkpoint numbers only needs the facts, so those calls skip them.
 // Findings about missing or thin content keep the full packet.
-const NEEDS_PASSAGES = /sparse|brief|word count|unusually low|never mentioned|REVIEW:/i;
+const NEEDS_PASSAGES = /sparse|brief|word count|unusually low|never mentioned|REVIEW:|route mismatch|directions check|spine step missing/i;
 const lightCache = new Map<string, string>();
 function factsOnly(t: string): string {
   // rebuilt with quotes inline: the full packet points facts at passages ("gf1#9 ↓") that this one drops
@@ -616,6 +622,12 @@ console.log(`\nusage: ${formatUsage(usage)} (logged to ${path.relative(P.root, u
 const missing = all.filter((t) => !fs.existsSync(path.join(P.chaptersDir, fileOf(t))));
 if (missing.length) console.log(`Still missing: ${missing.map(fileOf).join(", ")} — re-run rw:write.`);
 else {
+  // second-model route check of the chapters just written (Gemini Flash by default; RW_DIRECTIONS=0 skips it)
+  const nums = targets.filter((t) => /^\d+$/.test(t));
+  if (process.env.RW_DIRECTIONS !== "0" && nums.length) {
+    const d = run(`npx tsx scripts/pipeline/check-directions.ts ${id} ${nums.join(" ")}`);
+    console.log(d.stdout.split(/\r?\n/).filter((l) => l.trim()).slice(0, 8).join("\n") || `directions check failed: ${(d.stderr || "").slice(-200)}`);
+  }
   run(`npx tsx scripts/pipeline/assemble.ts ${id}`);
   const qa = run(`npx tsx scripts/pipeline/qa-check.ts ${id}`);
   console.log(qa.stdout.split(/\r?\n/).filter((l) => /error\(s\)|❌/.test(l)).slice(0, 15).join("\n"));

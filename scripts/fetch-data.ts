@@ -7,8 +7,10 @@ import {
   type AchievementsFile,
   type SourceEntry,
   ensureDir,
+  isTestId,
   paths,
   readJsonOr,
+  realGameId,
   writeJson,
   writeText,
 } from "./pipeline/lib.ts";
@@ -28,16 +30,17 @@ const auth = buildAuthorization({ username, webApiKey });
 
 async function main() {
   const gameId = process.argv[2] ? parseInt(process.argv[2]) : 1887;
-  console.log(`Fetching data for game ID: ${gameId}...`);
+  const realId = realGameId(gameId); // a test id (9000000 + real id) fetches the real game
+  console.log(`Fetching data for game ID: ${gameId}${realId !== gameId ? ` (real game ${realId})` : ""}...`);
 
   try {
     // 1. Fetch Game Data & Achievements
     console.log("Fetching game details and achievements...");
-    const game = await getGameExtended(auth, { gameId });
+    const game = await getGameExtended(auth, { gameId: realId });
     
     // 2. Fetch Game Comments
     console.log("Fetching game comments...");
-    const gameComments = await getComments(auth, { identifier: gameId, kind: "game" });
+    const gameComments = await getComments(auth, { identifier: realId, kind: "game" });
     
     // 3. Fetch Achievement Comments
     console.log("Fetching achievement comments...");
@@ -142,7 +145,7 @@ async function main() {
     if (fs.existsSync(masterJsonPath)) {
       masterData = JSON.parse(fs.readFileSync(masterJsonPath, "utf-8"));
     }
-    masterData[gameId.toString()] = {
+    if (!isTestId(gameId)) masterData[gameId.toString()] = {
       title: metadata.title,
       system: metadata.system,
       boxArt: metadata.boxArt,
@@ -201,7 +204,7 @@ async function main() {
       id: "ra-comments",
       site: "RetroAchievements",
       title: `${game.title} — RetroAchievements community comments`,
-      url: `https://retroachievements.org/game/${gameId}`,
+      url: `https://retroachievements.org/game/${realId}`,
       kind: "ra-comments",
       file: "ra-comments.txt",
       chars: raLines.join("\n").length,

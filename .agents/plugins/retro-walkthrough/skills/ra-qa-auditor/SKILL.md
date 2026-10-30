@@ -80,6 +80,15 @@ Review `content/research/<gameId>/08_cited.md` against raw source files (`02_sou
 - **Puzzle Solutions:** Verify that every puzzle (e.g. block pushing, switch order, bomb puzzles) has clear, unambiguous solution steps.
 - **Cumulative Checkpoints:** Verify that every chapter concludes with a `> [!IMPORTANT]` Cumulative 100% Checkpoint tracking chests, collectibles, sidequests, and achievements with accurate incremental numbers.
 
+### Point 9: Route Step Spot-Check (MANDATORY)
+`rw:qa` and `rw:directions` already compare step counts and flag steps a second model doubted, but neither reads the room order. For each dungeon, maze or multi-room route in two or more chapters, read the guide's steps next to the source guide that numbers its rooms (the packet's "Route spines"; `npm run rw:chunks -- <id> --id <chunk>`) and check: the rooms come in the source's order, no room appears twice, no step from a different guide is spliced between two rooms, every direction and count matches, an "if" branch kept its condition, and a disagreement between guides is shown with both values. Record each failure as a `major` issue (`category: route-accuracy`) naming the step and the source line, and fix it with `rw:write --fix --note`.
+
+### Point 10: Achievement Text vs Route
+For every achievement whose description names a source, NPC, item or condition ("from the Jack of All Trades", "without taking damage", "before Chapter 5"), find the step in the chapter that satisfies it and confirm the route does what the description says, not a shortcut or an alternative a comment mentions. A route that skips or declines the named thing is a `critical` issue (`category: achievement-route`).
+
+### Point 11: Source Typos and Leaked Labels
+Sources contain their own slips: a room that "opens north to Room 11" when the guide's own list puts Room 10 between, a door on the wrong side of the map. When a numbered route skips a room, or a step contradicts the same guide's map or another guide, do not copy it: state what the sources agree on and say in one sentence that the guide's text differs. Also read the chapters for internal labels (`ra-comments-1-1`, `gf2`, `Chapter_1_Prelude` diagram node ids) and any "stop, or you fall back to Room N" warning the source gives; a missing warning or a leaked label is a `major` issue.
+
 ### Point 8: Visual Map Verification Audit
 - Check `02_sources/sources.json`: if visual maps exist (e.g. `kind: "map"`), verify that the writer embedded clickable markdown links (`[View ... Map](URL)`) in the relevant dungeon/area sections.
 - Flag any missing map links as a **major** issue.

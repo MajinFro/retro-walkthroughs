@@ -42,6 +42,7 @@ import {
   readJsonOr,
   readJsonl,
   requireFile,
+  routeTokens,
   writeJson,
   writeText,
 } from "./lib.ts";
@@ -132,7 +133,11 @@ for (const f of valid) groups.set(keyOf(f), [...(groups.get(keyOf(f)) ?? []), f]
 // "key | contains | key" in two different levels is two facts, not one confirmed twice.
 // A fact without a location still matches (e.g. an HP list that omits where the enemy is).
 const locOf = (f: Fact) => (f.object && f.location ? canon(aliases, f.location) : "");
-const sameFact = (f: Fact) => (g: Fact) => !locOf(f) || !locOf(g) || locOf(f) === locOf(g);
+// Facts about different rooms are different facts too: "In ROOM #19, pick up two hearts" and "In ROOM #1, two
+// hearts appear" share subject, predicate, object and place, and 10001984 merged 22 Mining Cave rooms into a few.
+const roomsOf = (f: Fact) => routeTokens(f.text ?? "").filter((x) => /^(room|floor) /.test(x)).sort().join(",");
+const sameRooms = (f: Fact, g: Fact) => !roomsOf(f) || !roomsOf(g) || roomsOf(f) === roomsOf(g);
+const sameFact = (f: Fact) => (g: Fact) => (!locOf(f) || !locOf(g) || locOf(f) === locOf(g)) && sameRooms(f, g);
 
 const resolutions = readJsonOr<Resolution[]>(P.resolutions, []);
 const resById = new Map(resolutions.map((r) => [r.fact_id, r]));
@@ -163,7 +168,8 @@ for (const f of valid) {
     for (const f of facts) {
       const at = locOf(f) || (places.size === 1 ? [...places][0] : places.size === 0 ? "" : null);
       if (at === null) continue; // unlocated, and the group names several places: leave it alone
-      clusters.set(at, [...(clusters.get(at) ?? []), f]);
+      const key = `${at}|${roomsOf(f)}`; // one cluster per place and set of rooms
+      clusters.set(key, [...(clusters.get(key) ?? []), f]);
     }
     for (const c of clusters.values()) {
       if (c.length < 2) continue;
@@ -202,6 +208,34 @@ for (const [k, fs] of loose) {
   const srcs = new Set(fs.flatMap((f) => f.sources));
   if (values.size > 1 && srcs.size > 1)
     possibleConflicts.push({ key: k, facts: fs.map((f) => ({ id: f.id, value: f.object || f.location || "", sources: f.sources })) });
+}
+
+// Route-step conflicts: two guides giving a different step count in the same direction for what looks like the
+// same stretch ("6 down" vs "5 down"). They never group by subject/predicate/object (the facts sit under
+// different locations), so StarTropics II's Monkey Maze was written with one count and no word of the other.
+// "Same stretch" = the same location, or at least 3 shared content words besides the counts and directions.
+{
+  const STOP = new Set(["down", "left", "right", "north", "south", "east", "west", "room", "rooms", "step", "steps", "tile", "tiles", "square", "squares", "screen", "screens", "then", "from", "into", "through", "will", "your", "should", "after", "before"]);
+  const routeFacts = out
+    .filter((f) => f.status !== "rejected" && f.status !== "duplicate" && f.sources.length)
+    .map((f) => ({ f, counts: routeTokens(f.text ?? "").filter((x) => /^\d+ (up|down|left|right)$/.test(x)), words: new Set(keyTerms(f.text ?? "").filter((w) => !STOP.has(w) && !/^\d+$/.test(w))) }))
+    .filter((r) => r.counts.length);
+  const seen = new Set<string>();
+  for (let i = 0; i < routeFacts.length; i++)
+    for (let j = i + 1; j < routeFacts.length; j++) {
+      const a = routeFacts[i], b = routeFacts[j];
+      if (a.f.sources.every((x) => b.f.sources.includes(x))) continue; // same source(s): one guide's own steps
+      const sameLoc = !!a.f.location && canon(aliases, a.f.location) === canon(aliases, b.f.location ?? "");
+      const shared = [...a.words].filter((w) => b.words.has(w)).length;
+      if (!sameLoc && shared < 3) continue;
+      // the same stretch gives the same directions in the same order; a different count is the disagreement
+      const dirs = (r: typeof a) => r.counts.map((x) => x.split(" ")[1]).join(",");
+      if (a.counts.length !== b.counts.length || dirs(a) !== dirs(b) || a.counts.every((x, k) => x === b.counts[k])) continue;
+      const key = [a.f.id, b.f.id].sort().join("|");
+      if (seen.has(key)) continue;
+      seen.add(key);
+      possibleConflicts.push({ key: `route steps: ${a.f.location ?? b.f.location ?? "same stretch"}`, facts: [a, b].map((r) => ({ id: r.f.id, value: r.counts.join(", "), sources: r.f.sources })) });
+    }
 }
 
 // ---------------------------------------------------------------------------
