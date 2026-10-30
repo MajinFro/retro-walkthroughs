@@ -1,0 +1,56 @@
+{
+  "1": [],
+  "2": [
+    "WARNING: ch#:#: directions check: The step states that he runs back and forth firing bubbles as a plain statement, turning the quotes' conditional branch \"\" into an unconditional fact.",
+    "WARNING: ch#:#: directions check: No quote mentions Room #, Room #, or heading from Room # to Room #.",
+    "WARNING: ch#:#: directions check: No quote mentions Room #, being empty, or going to Room #.",
+    "WARNING: ch#:#: directions check: No quote mentions Room # or going to Room #.",
+    "WARNING: ch#:#: directions check: No quote states that Pikazo will say nothing or instructs you to talk to his friend.",
+    "WARNING: ch#:#: directions check: No quote mentions heading right through Room # or that Room # leads to Room #.",
+    "WARNING: ch#:#: directions check: No quote states that the room to the left leads to a dead end in Room #.",
+    "WARNING: ch#:#: directions check: No quote states that each room has three shapes and only one is correct.",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#:#: directions check: The step states to expect Room # next based on a map, whereas the quotes state the door from Room # leads directly to Room #."
+  ],
+  "3": [
+    "WARNING: ch#:#: directions check: The step adds reaching an oasis with a docked boat and heading to the boat, which no quote states.",
+    "WARNING: ch#:#: directions check: The step adds the condition and route action of adjusting by one step if hitting a wall, which no quote states.",
+    "WARNING: ch#:#: directions check: The step adds heading all the way left into the mini-dungeon, whereas the quotes state you fall into the battle scene immediately after going # down.",
+    "WARNING: ch#:#: directions check: The step gives an incorrect step count and sequence of directions that differs from the quotes, such as # left instead of # left after # down and omitting several intermediate directions.",
+    "WARNING: ch#:#: directions check: The step gives room number # and actions regarding dagger-immune pyramid guardians and the Psychic Shockwave that are not mentioned in the quotes, which only describe Room #.",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#: area section \"\" is very brief \"\""
+  ],
+  "4": [
+    "WARNING: ch#:#: directions check: No quote states that walking south leads to Sherlock Holmes \"\".",
+    "WARNING: ch#:#: directions check: No quote states to head east and follow strange footprints to the next cave after the fight.",
+    "WARNING: ch#:#: directions check: No quote states that another medicine is found along the way when falling through the tiles.",
+    "WARNING: ch#:#: directions check: The step places the Room # chest in London Sewers #, which no quote states.",
+    "WARNING: ch#:#: no factual overlap with cited facts \"\"",
+    "WARNING: ch#:#: uncited statement: \"\""
+  ],
+  "5": [
+    "WARNING: ch#:#: directions check: No quote states that saying the magic words travels to Chapter #.",
+    "WARNING: ch#:#: directions check: The step adds a route action to blast all secret passages that is not stated in any quote.",
+    "WARNING: ch#:#: directions check: The step adds a route action to return to Bob for more dynamite if needed that is not stated in any quote.",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#: spine step missing: gf#'s route sends the player back to room #, but the chapter never says to go back there",
+    "WARNING: ch#:#: directions check: The step adds defeating the boss and going through the door to Room #, which no cited quote states.",
+    "WARNING: ch#:#: directions check: No quote mentions starting from a cliff."
+  ],
+  "6": [],
+  "7": [
+    "WARNING: ch#:#: directions check: The step adds that Mike starts on a mountainside and should head North to find the castle, which is not mentioned in any quote."
+  ],
+  "8": [
+    "WARNING: ch#:#: directions check: The step adds an instruction to stock up on medicine and hearts that is not mentioned in any quote.",
+    "WARNING: ch#:#: directions check: The step directs heading North to Room #, which is not stated in any of the quotes."
+  ],
+  "9": [
+    "WARNING: ch#:#: directions check: The step states the cave is laid out through ROOM ##, whereas the quotes state the layout map shows rooms through ROOM ##.",
+    "WARNING: ch#:#: uncited statement: \"\"",
+    "WARNING: ch#: spine step missing: gf#'s route sends the player back to room #, but the chapter never says to go back there"
+  ],
+  "overview": []
+}

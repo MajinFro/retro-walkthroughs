@@ -10,132 +10,102 @@
 - **Achievements:** 31 (285 points)
 
 > [!NOTE]
-> Every instruction in this guide was extracted from the sources listed at the bottom and checked against them (136 facts confirmed by 2+ sources, 1566 from a single source). Statements marked 🟡 come from only one source. Anything we could not confirm says **"Unable to verify from collected sources."**
+> Every instruction in this guide was extracted from the sources listed at the bottom and checked against them (51 facts confirmed by 2+ sources, 886 from a single source). Statements marked 🟡 come from only one source. Anything we could not confirm says **"Unable to verify from collected sources."**
 
 ## Game Overview
 
+### Game Premise
 
-### What this game is
+StarTropics II: Zoda's Revenge is an NES action-adventure in which Mike Jones travels through time. Chapters take him from a prelude to the Ice Age, Cleopatra's Egypt, Holmes's London, the Wild West, Leonardo's Italy, Dracula's Transylvania and King Arthur's Camelot, then back to C-Island. A character named Hirocon leaves a riddle, "Was it a cat I saw? Was it a rat I saw?", which Dr. Jones works out in the Prelude [[gf5-1-1]]. Later, Merlin of Camelot explains Hiricon and says the tetrads were spread throughout time and must be put back together [[gf1-34-4]]. Tetrads are the quest items you collect, and each one also increases your life meter [[gf3-5-7]].
 
-StarTropics II: Zoda's Revenge is a Nintendo action-adventure for the NES/Famicom, released in 1994. The RetroAchievements set has **31 achievements worth 285 points**.
+### The 100% Plan in Plain Language
 
-Mike Jones travels through time using the Oxford World Wonders book. At the end of each chapter he turns the page, says the magic words, and is sent to the next era. The words are "Paa Paa Paa Oom Maw Maw" [[gf5-3-10]]. Each jump is a "slip to another time and space" [[gf5-6-6]].
+This set has 31 achievements worth 285 points, and one playthrough covers all of them. Play the chapters in order and take everything on the first pass.
 
-The goal is to recover the Tetrads, which are the legacy of the Argonians. Mica tells Mike that her father Hirocon wanted him to find them [[gf4-3-11]]. A Tetrad waits at the end of every chapter, and the game says to collect them all [[gf3-41-3]]. Each one raises Mike's life level [[gf5-7-14]].
+- Chapter 1: Prelude has no achievements.
+- The other eight chapters hold all of them, so each chapter walkthrough tells you exactly where each achievement unlocks.
+- You can replay any earlier chapter from the File Select screen, so a chapter-specific achievement you miss can still be earned later [[ra-comments-1-1]].
+- Even so, follow the full route the first time and avoid depending on a replay.
 
-Zoda keeps interfering. In one chapter he grabs the Tetrad and challenges Mike again [[gf4-9-1]]. Later he sends Mike to Translavania, where a vampire will hunt him [[gf4-9-5]]. The finale is a rematch with the earlier bosses, which are the same as before but faster [[gf2-36-2]]. The Zoda form that turns you into a boar is in that final stretch [[gf2-36-9]].
+### Hardcore Mode
 
-### The two screens
+Play with Hardcore Mode on. That turns off the emulator's save states, rewinds and cheats, so use only the game's own save and File Select features. The game has no difficulty setting that affects the achievements.
 
-The game alternates between two modes.
+### Two Ways to Move
 
-**Travel screen.** This is used on world maps, in towns, and anywhere you can talk to someone. There are no enemies and you cannot attack [[gf1-3-12, gf1-3-13]].
-- The D-pad moves Mike.
-- A starts a conversation or inspects something [[gf1-4-2]].
-- B cancels a conversation [[gf1-4-1]].
-- Select shows which chapter you are in [[gf1-4-3]].
+The game has two views. The overworld (travel) view is a high-up map where you cannot be attacked [[gf1-2-1]]. On the travel screen there are no enemies and you cannot attack [[gf3-3-1]]. The dungeon view is a closer view where combat happens [[gf1-2-1]].
 
-**Action screen.** This starts when Mike enters a dungeon [[gf1-4-4]].
-- The D-pad moves Mike [[gf1-4-13]].
-- B attacks [[gf1-4-14]] and A jumps [[gf1-4-15]].
-- Select cycles through your weapons or the next inventory item [[gf1-4-16, gf2-3-3]].
-- Start pauses [[gf1-4-17]].
-- While paused, A uses the item you have selected [[gf1-4-15]].
-- The two guides disagree on the pause menu: one says to press up to see Magic Items [[gf1-5-2]], the other says to press down and then use left and right [[gf2-3-6]]. If one direction does nothing, try the other.
+| View | Control | Action | Citation |
+|---|---|---|---|
+| Overworld / travel | D-Pad | Move up, down, left and right | [[gf1-2-2]] |
+| Overworld / travel | A Button | Talk or acquire things (starts a conversation or inspects) | [[gf1-2-2, gf3-4-1]] |
+| Overworld / travel | B Button | Cancels a conversation (the other guide says it has no use) | [[gf3-4-1, gf1-2-2]] |
+| Overworld / travel | Select | Shows what chapter you are in | [[gf3-4-1]] |
+| Dungeon | D-Pad | Move, including diagonally | [[gf1-2-3]] |
+| Dungeon | A Button | Jump | [[gf1-2-3]] |
+| Dungeon | B Button | Use the current weapon | [[gf1-2-3]] |
+| Dungeon | Select | Switch weapon | [[gf1-2-3]] |
+| Dungeon | Start | Pause | [[gf1-2-3]] |
 
-### Movement and jumping
+### Core Mechanics
 
-- You can now jump diagonally, which the guides call a big improvement [[gf2-3-7, ra-comments-1-1]]. You can also jump to the side without having to land on another platform [[gf1-4-6]].
-- Mike takes about half a second to turn after you press the button [[gf2-6-3]].
-- Diagonal jumps let you turn in midair, so it is easy to land in water or somewhere you did not intend [[gf2-6-4]].
-- Mike can only jump one space at a time. Two-tile jumps need a special item [[gf2-6-6, gf2-6-7]].
-- In some places, jumping straight forward is safer. In the spike-strip rooms of the Chapter 7 cellar, jump forward rather than straight up or to the side [[gf4-8-5]]. Another guide says to keep to a straight line and not sway at all [[gf2-31-24]].
-- Several traps are instant death. Rolling boulders kill you [[gf2-30-11]]. Touching the Gold Cave miner kills you [[gf2-30-27]]. The Mining Cyclops kills you if you touch him [[gf3-24-15]]. The spikes in the Zoda-Y room also kill instantly [[gf2-40-3]].
+- **Diagonal movement and shooting:** Mike can move and shoot diagonally, which can make killing enemies a lot easier if you aim right [[gf2-24-2]]. A commenter found this a big improvement over the first game [[ra-comments-1-2]].
+- **Turning and jumping:** It takes Mike about half a second to turn when you push the button [[gf2-6-2]]. He can only jump one space at a time unless you have the special item that allows two-tile jumps [[gf2-6-3]].
+- **Magic items:** Pause, press Up (or Down, per the other guide) to see your Magic Items, then use left and right to choose one [[gf3-5-1, gf2-3-6]]. In Chapter 3 those are the medicine and the Invincibility Star [[gf3-5-1]].
+- **Rooms and switches:** To go on to the next room you usually have to complete a task, normally defeating every enemy or stepping on a switch tile [[gf3-4-3]]. When you walk over a tile switch it lights up and makes a sound, a little ball appears, and the switch only activates once you pick up that ball [[gf3-4-4]].
+- **Try Your Luck signs:** A sign can take away or add lives, so treat it as a gamble [[gf2-12-1]].
+- **Life meter:** A Big Heart increases your number of hearts by one permanently [[gf1-41-7]].
 
-### How dungeon rooms work
+### Weapons
 
-To get into the next room, you usually have to complete a task. That is normally defeating every enemy in the room or stepping on a switch tile [[gf1-4-7, gf1-4-8]]. Switch tiles work in stages:
-1. Walk over the tile. It lights up and makes a sound [[gf1-4-9]].
-2. Jump on it. A little ball appears [[gf1-4-10]].
-3. Collect the ball to activate the switch [[gf1-4-11]].
+Weapons fall into three groups.
 
-Rooms often have many tiles, and only the right one works [[gf1-4-12]]. Other guides describe the same thing as a tile that reveals a question mark, which you then grab to open a door [[gf3-10-1, gf3-15-5]]. If a tile has a switch, take it. Otherwise kill the enemies [[gf1-13-30]].
+- **Main weapons** are given to you and have unlimited uses [[gf2-17-3]].
+- **Magic weapons** kill some enemies that normal weapons cannot and help destroy barriers. To use the most powerful magic weapon you have, you need half health [[gf2-17-4]].
+- **Secondary weapons** are only yours for a limited time and number of uses [[gf2-17-5]].
 
-If a room seems to have no exit, walk on every tile. Some of them hold secrets [[gf1-15-25, gf4-5-31]].
+The Psychic Shockwave family is required to progress and to destroy barriers.
 
-### Weapons and items
+- A monkey in an Egyptian savannah teaches you the Psychic Shockwave [[gf1-41-17]].
+- A donkey in the Wild West teaches the Super Psychic Shockwave [[gf1-41-18]].
+- Merlin in Camelot teaches the Ultra Psychic Shockwave, which needs at least 10 hearts [[gf1-41-19]].
 
-**Weapons.**
-- Your main weapons are permanent. Collected weapons are used up and disappear when you leave the dungeon [[gf1-5-24, gf2-17-3, gf2-17-6]].
-- Magic weapons kill some enemies that normal weapons cannot, and they help destroy barriers [[gf2-17-4]].
-- The Psychic Shockwave is needed to defeat certain enemies [[gf1-5-19]]. Chapter 3 teaches it to you, and it also breaks the barrier in the Great Pyramid [[gf4-4-19, gf1-8-19]].
-- The Super Psychic Shockwave needs 5 hearts to use [[gf1-5-21]]. The Ultra version needs 10 hearts [[gf1-5-23]].
-- Treat the pyramid guardians as shockwave-only enemies, because they are immune to the dagger [[gf3-15-7]]. Chest monsters should also be hit with the shockwave to avoid heavy damage [[gf1-11-24]].
+### The Shape Code (Remember This Early)
 
-**Stored items and healing.**
-- Stored items can be used whenever you want, but they vanish when you leave the dungeon [[gf1-5-1]].
-- Castle medicines cannot be carried from place to place, so use them just before exiting a cave [[gf4-8-18]].
-- Vitamin X restores energy up to 20. If your life meter is below 20, it slowly lowers the meter to its max [[gf1-5-8]].
+In the Ice Age, a man has drawn symbols on a cave wall. The order is Circle, Circle, Triangle, Square, Circle, Square, Triangle [[gf3-6-8]]. It is needed in Yum Yum's Cave later, where you must follow the exits in that order [[gf1-6-14, gf2-25-4]]. Write it down now.
 
-### Hardcore Mode and the 100% plan
+### Open Questions (Unconfirmed)
 
-The set is compatible with Hardcore Mode. There is no difficulty setting or password, and everything is earned in story order in a single save file. In Hardcore you cannot load emulator snapshots, rewind, or use cheats, so learn the hazards above before pushing deep into a dungeon.
+> [!WARNING]
+> **Achievement Trigger Warning: Jack of All Trades.** A commenter calls this achievement definitely missable [[ra-comments-5-1]]. In Chapter 3, Jack of All Trades offers you his bronze dagger in exchange for your axe; if you say yes you get the dagger, and talking to him again with the dagger offers the axe back [[gf5-3-7, gf5-3-8, gf4-4-2]]. Accept his trade (answer Yes) before delivering the pizza to Cleopatra, and never decline it. Two commenters say the achievement unlocked for them without Jack's trade, but the achievement names Jack as the source, so it is unconfirmed whether Cleopatra's dagger alone would count.
 
-**One playthrough is enough.** The game moves forward chapter by chapter. Every chapter ends when Mike takes its Tetrad and the Oxford World Wonders sends him to the next period. Collect each chapter's items before taking its Tetrad.
+- **What Do These Do? (Have 4 stars at once):** It is unconfirmed whether this counts the small stars dropped by enemies or the Invincibility Stars stored as Magic Items. Stars restore energy, with five of them healing one heart, and Invincibility Stars are stored items [[gf3-5-1]]. The route is to collect dropped small stars in the Chapter 3 savannah mini-dungeons until you hold four, without picking up a fifth. If the achievement has not unlocked by Chapter 5, keep both Invincibility Stars from the second Gold Cave unused in your Magic Items rather than spending them on the boss.
+- **Sharp Edge:** One commenter reported it not unlocking on RANes or RetroArch, and the achievement was edited and re-promoted afterwards. Take the dagger as routed. If it does not unlock, replay Chapter 3 from the File Select screen. It is unconfirmed whether the problem still occurs on current emulators.
 
-The achievements are spread across the chapters like this:
-
-| Chapter | Achievements |
-|---|---|
-| 1: Seattle | 0 |
-| 2: The Stone Age | 4 |
-| 3: Egypt | 9 |
-| 4: London | 3 |
-| 5: The Wild West | 7 |
-| 6: Italy | 3 |
-| 7: Transylvania | 2 |
-| 8: Camelot | 2 |
-| 9: Return to C-Island | 1 |
-
-Chapter 1 has no achievements. It is only the setup, and in it Dr. Jones and Mike work out that the cipher must be reversed [[gf5-2-1]].
-
-**The one mutual exclusion is the Chapter 3 dagger.**
-- Jack of All Trades offers Mike a bronze dagger trade [[gf5-3-13]].
-- Once Mike has a dagger, Jack offers his axe instead [[gf5-3-15]].
-- A commenter calls the Jack achievement "definitely a missable achievement" [[ra-comments-5-1]].
-- Another commenter reports getting the dagger from Cleopatra instead and still unlocking it [[ra-comments-5-2]].
-- Those reports disagree. The safe route is to talk to Jack, between the two palm trees north of the Egypt start, and take his dagger BEFORE Cleopatra trades hers [[gf5-3-12, gf5-3-14]].
-- Cleopatra only offers her dagger trade if you do not already have the bronze dagger [[gf5-5-2]]. On the safe route she simply sails you across, and Sharp Edge ("Obtain the Dagger") is expected to unlock with Jack's dagger instead (see Chapter 3).
-
-**Other things to remember.**
-- The gold nugget in Chapter 5 is lost at the start of the next chapter unless you sell it to Bob [[gf3-23-7]].
-- In the Chapter 7 castle, open the Room 13 chest, which holds the spike balls, before you go down the hole [[gf3-30-2]].
-
-Follow each chapter in order and use its closing checkpoint before taking the Tetrad. Each chapter also links the GameFAQs maps for its overworld and dungeons.
+> [!TIP]
+> **Before you start Chapter 1:** Check your emulator is in Hardcore Mode, write down the shape code above when you first meet it, and keep dagger, hearts and Magic Items in mind as you go. Each chapter walkthrough ends with a cumulative checkpoint and a checklist so you can confirm nothing was missed before moving on.
 
 ## Achievement Roadmap
 
 | Chapter | Achievements | Points |
 |---|---|---|
-| [1. Seattle](#chapter-1-seattle) | — | 0 |
-| [2. The Stone Age](#chapter-2-the-stone-age) | Better Than Nothing, A Caveman Weapon, Just Like Link, Your First Tetrad | 30 |
-| [3. Egypt](#chapter-3-egypt) | Jack of All Trades, Thrower, Slowest Pizza Delivery Ever, Sharp Edge, What Do These Do?, Lost in the Tall Grass, Psychic Power, Snake Charmer, Egyptian Tetris | 80 |
-| [4. London](#chapter-4-london) | Down the Sewers, That Does NOT Look Like a Ball, The Mystery of the Tetrad | 25 |
-| [5. The Wild West](#chapter-5-the-wild-west) | Heart of Gold, Not Quite a Gold Nugget, Real Gold, Not the Traditional Weapon, Super Psychic Shock Wave, Just Like Mario, Tetrad in a Western | 55 |
-| [6. Italy](#chapter-6-italy) | Now We Got a Sword, Heart on the Lone Island, Watch Out for Pits! | 30 |
-| [7. Transylvania](#chapter-7-transylvania) | Triple the Fun, House of the Undead | 20 |
-| [8. Camelot](#chapter-8-camelot) | Ultra Psychic Shock Wave, The Middle Ages | 20 |
-| [9. Return to C-Island](#chapter-9-return-to-c-island) | C-Island is Normal Again! | 25 |
+| [Chapter 1: Prelude](#chapter-1-prelude) | — | 0 |
+| [Chapter 2: The Ice Age](#chapter-2-the-ice-age) | Better Than Nothing, A Caveman Weapon, Just Like Link, Your First Tetrad | 30 |
+| [Chapter 3: Cleopatra's Egypt](#chapter-3-cleopatras-egypt) | Jack of All Trades, Sharp Edge, Thrower, Slowest Pizza Delivery Ever, What Do These Do?, Lost in the Tall Grass, Psychic Power, Snake Charmer, Egyptian Tetris | 80 |
+| [Chapter 4: Holmes's London](#chapter-4-holmess-london) | Down the Sewers, That Does NOT Look Like a Ball, The Mystery of the Tetrad | 25 |
+| [Chapter 5: The Wild West](#chapter-5-the-wild-west) | Not Quite a Gold Nugget, Real Gold, Heart of Gold, Not the Traditional Weapon, Super Psychic Shock Wave, Just Like Mario, Tetrad in a Western | 55 |
+| [Chapter 6: Leonardo's Italy](#chapter-6-leonardos-italy) | Now We Got a Sword, Heart on the Lone Island, Watch Out for Pits! | 30 |
+| [Chapter 7: Dracula's Transylvania](#chapter-7-draculas-transylvania) | Triple the Fun, House of the Undead | 20 |
+| [Chapter 8: King Arthur's Camelot](#chapter-8-king-arthurs-camelot) | Ultra Psychic Shock Wave, The Middle Ages | 20 |
+| [Chapter 9: Return to C-Island](#chapter-9-return-to-c-island) | C-Island is Normal Again! | 25 |
 
 ## Playthrough Planning
 
 **Playthroughs required:** 1
 
-One playthrough is enough. The game moves forward chapter by chapter and every chapter ends when Mike takes its Tetrad and the Oxford World Wonders sends him to the next time period, so collect each chapter's items before taking its Tetrad. The only mutual exclusion is the Chapter 3 dagger: talk to Jack of All Trades (between the two palm trees north of the Egypt start) BEFORE Cleopatra trades you her dagger, because once Mike holds a dagger Jack offers his axe instead. RA comments disagree on whether the Cleopatra dagger also pops Jack of All Trades, so take Jack's dagger first and the question never comes up.
+One playthrough covers every achievement. A commenter on the achievement page notes that any earlier chapter can be replayed from the File Select screen, so a chapter-specific achievement you miss can be earned by replaying that chapter. The route still takes everything on the first pass, including the dagger from the Jack of All Trades in Chapter 3, which must be accepted before Cleopatra hands over her own dagger. [[ra-comments-1-1,gf5-3-7,gf1-41-7,gf3-5-7]]
 
-**Settings:** Hardcore Mode compatible. No difficulty setting or password is involved; the achievements are earned in story order in a single save file.
-
-[[gf3-41-3,gf5-3-13,gf5-3-15,ra-comments-5-1,ra-comments-5-2,gf3-23-7,gf2-36-2]]
+**Settings:** Hardcore Mode. The game has no difficulty setting that affects the achievements.
 
 ## True 100% In-Game Completion Criteria
 
@@ -143,27 +113,19 @@ This guide covers complete in-game mastery in addition to all RetroAchievements:
 
 | Category | 100% Requirement | Tracking Scope |
 |---|---|---|
-| **Big Hearts** | Every permanent Big Heart (heart container) hidden on the overworld: the Monkey Maze (Chapter 3), the manhole left of the London museum (Chapter 4), the dynamite cave between two boulders (Chapter 5) and Small Island (Chapter 6). | Per-chapter checkpoint |
-| **Tetrads** | The Tetrad that ends each of Chapters 2 to 8, earned by clearing that chapter's dungeon(s). | Per-chapter checkpoint |
-| **Weapons, magic and special items** | Every weapon upgrade (Axe, Dagger from Jack, Katana), each Psychic Shockwave level, every sub-weapon type (Rocks, Thrower, Spike Ball, Bola, Triple Spike Ball), the Flute, the Invincibility Star, and both kinds of Chapter 5 nugget. | Per-chapter checkpoint |
+| **Big Hearts** | Every Big Heart that permanently adds a heart to Mike's life meter (one each in Chapters 3, 4, 5 and 6). | Per-chapter checkpoint |
+| **Tetrads** | All seven mystic Tetrads, one at the end of each chapter from 2 to 8; each one also raises the life meter. | Per-chapter checkpoint |
+| **Weapons & Psychic Powers** | Every main weapon (Axe, Dagger, Katana), every sub-weapon pickup named by an achievement (Rocks, Slingshot, Spiked Frisbee, Bola, Triple Spike Ball) and all three Psychic Shock Wave upgrades. | Per-chapter checkpoint |
 
 ## Missables Summary
 
 | ⚠ Missable | Achievement | Chapter | Must be done before |
 |---|---|---|---|
-| Jack of All Trades dagger [[gf5-3-13,gf5-3-14,gf5-3-15,ra-comments-5-1,ra-comments-5-2]] | Jack of All Trades | [3](#chapter-3-egypt) | Before Cleopatra gives you her dagger after the pizza delivery (Chapter 3). With a dagger in hand, Jack only offers his axe. |
-| Spike balls in Spooky Castle Room 13 [[gf3-30-1,gf3-30-2,gf3-31-3]] | Triple the Fun | [7](#chapter-7-transylvania) | Open the Room 13 east-wall chest before dropping down the hole to Room 14 (Chapter 7). The Room 26 platform has more spike balls as a backup. |
+| Dagger from the Jack of All Trades [[gf5-3-7,ra-comments-5-1,ra-comments-1-1]] | Jack of All Trades | [Chapter 3](#chapter-3-cleopatras-egypt) | Before giving Cleopatra her pizza in Chapter 3. Once you hold a dagger, Jack only offers to trade back for an axe, and Cleopatra only hands over her dagger when you arrive without one. |
 
 ## Points of No Return
 
-| ⛔ Point of No Return | Chapter | What you lose access to |
-|---|---|---|
-| Chapter 2 Tetrad [[gf3-8-1,gf5-3-10,gf1-6-5]] | [2](#chapter-2-the-stone-age) | Taking the Tetrad behind Yum Yum ends Chapter 2 and the book sends Mike to Egypt. The Rocks only appear in Chapter 2, so pick them up before the Yum Yum fight. |
-| Chapter 3 Tetrad [[gf4-4-30,gf5-5-11]] | [3](#chapter-3-egypt) | The Tetrad after the Monster Mask ends Chapter 3 and Mike moves on to London. Get Jack's dagger, the Thrower, four small stars, the Monkey Maze Big Heart and the Flute first. |
-| Chapter 4 Tetrad [[gf4-6-3,gf4-6-5,gf5-6-6]] | [4](#chapter-4-london) | Recovering the Tetrad from Zoda-X ends Chapter 4. Take the Big Heart from the manhole left of the museum and the spiked frisbees (Spike Ball) in Sewer Part II first. |
-| Chapter 5 Tetrad [[gf1-12-22,gf3-23-7,gf5-7-15]] | [5](#chapter-5-the-wild-west) | The Tetrad after the Mashing Miner ends Chapter 5. Blast every nugget cave and the Big Heart cave before entering the Gold Cave, and sell your gold to Bob before you leave; the nugget is lost at the start of the next chapter. |
-| Chapter 6 Tetrad [[gf2-32-14,gf4-9-1,gf4-9-5]] | [6](#chapter-6-italy) | Taking the Tetrad in the Eastern Castle ends Chapter 6 and Zoda-Y sends Mike to Transylvania. Land on Small Island for its Big Heart first. |
-| Chapter 7 Tetrad [[gf2-33-10,gf5-8-11]] | [7](#chapter-7-transylvania) | The Tetrad after Zoda-Y ends Chapter 7. Make sure you picked up the Triple Spike Ball in Dracula's Castle. |
+No points of no return were identified in the collected sources.
 
 ## Progression Diagrams
 
@@ -171,190 +133,166 @@ This guide covers complete in-game mastery in addition to all RetroAchievements:
 
 ```mermaid
 flowchart TD
-  Seattle["Seattle"]
-  Ice_Age["Ice Age"]
-  Cave_Men_Cave["Cave Men Cave"]
-  Yum_Yum_Cave["Yum Yum's Cave"]
-  Yum_Yum{{"⚔ Yum Yum"}}
+  Prelude["Chapter 1: Prelude"]
+  IceAge["Ice Age"]
+  CaveMenCave["Cave Men Cave"]
+  YumYumCave["Yum Yum's Cave"]
+  YumYum{{"⚔ Yum Yum"}}
   Egypt["Egypt"]
-  Border_Pass["Border Pass"]
-  Giant_Scorpion{{"⚔ Giant Scorpion"}}
-  Monkey_Maze["Monkey Maze"]
-  Great_Pyramid["Great Pyramid"]
-  Monster_Mask{{"⚔ Monster Mask"}}
+  BorderPass["Border Pass"]
+  GiantScorpion{{"⚔ Giant Scorpion"}}
+  MonkeySavannah["Monkey Savannah"]
+  SavannahA["Savannah Dungeon A"]
+  SavannahB["Savannah Dungeon B"]
+  Pyramid["Pyramid"]
+  MonsterMask{{"⚔ Monster Mask"}}
   London["London"]
-  London_Museum["London museum"]
-  Sewers["Sewers"]
-  Sewer_Part_I["Sewer Part I"]
-  Zodas_Creature{{"⚔ Zoda's Creature"}}
-  Sewer_Part_II["Sewer Part II"]
-  Zoda_X{{"⚔ Zoda-X"}}
-  Wild_West["Wild West"]
-  Gold_Cave["Gold Cave"]
-  Boulder_Miner{{"⚔ Boulder Tossing Miner"}}
-  Gold_Cave_Part_II["Gold Cave Part II"]
-  Mashing_Miner{{"⚔ Mashing Miner"}}
+  LondonSewers["London Sewers"]
+  ZodasCreature{{"⚔ Zoda's Creature"}}
+  LondonSewers2["London Sewers 2"]
+  ZodaX{{"⚔ Zoda-X"}}
+  WildWest["Wild Wild West"]
+  GoldCave["Gold Cave"]
+  BoulderMiner{{"⚔ Boulder Tossing Miner"}}
+  GoldCave2["Gold Cave, Part II"]
+  MashingMiner{{"⚔ Mashing Miner"}}
   Italy["Italy"]
-  Leos_Basement["Leo's Basement"]
-  Art_Studio["Art Studio"]
-  Small_Island["Small Island"]
-  Eastern_Castle["Eastern Castle"]
-  Transylvania["Transylvania"]
-  Draculas_Castle["Dracula's Castle"]
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  LeosBasement["Leo's Basement"]
+  SmallIsland["Small Island"]
+  EasternCastle["Eastern Castle"]
+  Dracula["Dracula's Castle"]
+  ZodaY{{"⚔ Zoda-Y"}}
   Camelot["Camelot"]
-  Dragons_Cave["Dragon's Cave"]
+  DragonsCave["Dragon's Cave"]
   Knight{{"⚔ Knight"}}
-  Dragons_Cave_Part_II["Dragon's Cave Part II"]
-  Dragon{{"⚔ Dragon"}}
-  C_Island["C-Island"]
-  Coracola_Cave["Coracola Cave"]
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Seattle -->|"time slip to Chapter 2"| Ice_Age
-  Ice_Age -->|"north across the snow field"| Cave_Men_Cave
-  Cave_Men_Cave -->|"north"| Yum_Yum_Cave
-  Yum_Yum_Cave --> Yum_Yum
-  Yum_Yum_Cave -->|"time slip to Chapter 3"| Egypt
-  Egypt -->|"north past the guard"| Border_Pass
-  Border_Pass --> Giant_Scorpion
-  Egypt -->|"west shore of the Nile, then north"| Monkey_Maze
-  Monkey_Maze -->|"the monkey warps Mike to the pyramid"| Great_Pyramid
-  Great_Pyramid -->|"snake room secret passage"| Monster_Mask
-  Great_Pyramid -->|"time slip to Chapter 4"| London
-  London -->|"escape the jail, then on to the museum"| London_Museum
-  London_Museum -->|"manhole south of the open manhole"| Sewers
-  Sewer_Part_I --> Zodas_Creature
-  Zodas_Creature --> Sewer_Part_II
-  Sewer_Part_II --> Zoda_X
-  Sewer_Part_II -->|"time slip to Chapter 5"| Wild_West
-  Wild_West -->|"dynamite three spaces below the southern colored-rock cave"| Gold_Cave
-  Gold_Cave --> Boulder_Miner
-  Gold_Cave --> Gold_Cave_Part_II
-  Gold_Cave_Part_II --> Mashing_Miner
-  Gold_Cave_Part_II -->|"time slip to Chapter 6"| Italy
-  Italy -->|"stairs in Leonardo's house"| Leos_Basement
-  Leos_Basement --> Art_Studio
-  Eastern_Castle -->|"Zoda-Y sends Mike to Chapter 7"| Transylvania
-  Transylvania --> Draculas_Castle
-  Draculas_Castle --> Zoda_Y
-  Draculas_Castle -->|"time slip to Chapter 8"| Camelot
-  Camelot -->|"accept King Arthur's quest"| Dragons_Cave
-  Dragons_Cave --> Knight
-  Knight --> Dragons_Cave_Part_II
-  Dragons_Cave_Part_II --> Dragon
-  Dragons_Cave_Part_II -->|"Mica calls Mike back to C-Island"| C_Island
-  C_Island -->|"talk to the man, then enter the cave"| Coracola_Cave
-  Coracola_Cave --> C_Serpent
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  DragonsCave2["Dragon's Cave, Part II"]
+  Dragon{{"⚔ The Dragon"}}
+  CIsland["C-Island"]
+  Coracola["Coracola Cave"]
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  Prelude --> IceAge
+  IceAge --> CaveMenCave
+  CaveMenCave --> YumYumCave
+  YumYum -->|"Tetrad, then the book"| Egypt
+  Egypt --> BorderPass
+  GiantScorpion -->|"Camel ride for the pizza"| Egypt
+  Egypt -->|"Cleopatra's barge"| MonkeySavannah
+  MonkeySavannah -->|"Psychic Shock Wave"| Pyramid
+  MonsterMask --> London
+  London --> LondonSewers
+  ZodasCreature --> LondonSewers2
+  ZodaX --> WildWest
+  WildWest -->|"Dynamite"| GoldCave
+  BoulderMiner --> GoldCave2
+  MashingMiner --> Italy
+  Italy --> LeosBasement
+  LeosBasement -->|"Flying machine"| SmallIsland
+  SmallIsland --> EasternCastle
+  EasternCastle --> Dracula
+  ZodaY --> Camelot
+  Camelot --> DragonsCave
+  Knight --> DragonsCave2
+  Dragon --> CIsland
+  CIsland --> Coracola
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Yum_Yum,Giant_Scorpion,Monster_Mask,Zodas_Creature,Zoda_X,Boulder_Miner,Mashing_Miner,Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class YumYum,GiantScorpion,MonsterMask,ZodasCreature,ZodaX,BoulderMiner,MashingMiner,ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
 ### Achievement Dependencies
 
 ```mermaid
 flowchart LR
-  Rocks[/"Rocks"/]
+  IceAge["Ice Age"]
   Ach_36882(["🏆 Better Than Nothing"])
-  Axe[/"Axe"/]
+  CaveMenCave["Cave Men Cave"]
   Ach_36883(["🏆 A Caveman Weapon"])
-  Medicine[/"Medicine"/]
-  Ach_36888(["🏆 Just Like Link"])
-  Tetrad_Ch2[/"Tetrad (Chapter 2)"/]
+  YumYum{{"⚔ Yum Yum"}}
   Ach_36884(["🏆 Your First Tetrad"])
-  Jack["Jack of All Trades"]
+  Egypt["Egypt"]
   Ach_36885(["🏆 Jack of All Trades"])
-  Jack_Dagger_Missable(["⚠ Jack's bronze dagger trade"])
-  Dagger[/"Dagger"/]
-  Thrower[/"Thrower (Slingshot)"/]
-  Ach_36887(["🏆 Thrower"])
-  Pizza["Cleopatra's pizza"]
-  Ach_36889(["🏆 Slowest Pizza Delivery Ever"])
   Ach_36886(["🏆 Sharp Edge"])
-  Small_Stars[/"Small stars"/]
+  BorderPass["Border Pass"]
+  Ach_36887(["🏆 Thrower"])
+  YumYumCave["Yum Yum's Cave"]
+  Ach_36888(["🏆 Just Like Link"])
+  GiantScorpion{{"⚔ Giant Scorpion"}}
+  Ach_36889(["🏆 Slowest Pizza Delivery Ever"])
+  SavannahA["Savannah Dungeon A"]
   Ach_36890(["🏆 What Do These Do?"])
-  Big_Heart_Ch3[/"Big Heart (Monkey Maze)"/]
+  MonkeySavannah["Monkey Savannah"]
   Ach_36891(["🏆 Lost in the Tall Grass"])
-  Psychic_Shockwave[/"Psychic Shockwave"/]
   Ach_36892(["🏆 Psychic Power"])
-  Flute[/"Flute"/]
+  Pyramid["Pyramid"]
   Ach_36893(["🏆 Snake Charmer"])
-  Tetrad_Ch3[/"Tetrad (Chapter 3)"/]
+  MonsterMask{{"⚔ Monster Mask"}}
   Ach_36894(["🏆 Egyptian Tetris"])
-  Big_Heart_Ch4[/"Big Heart (manhole left of the museum)"/]
+  London["London"]
   Ach_36895(["🏆 Down the Sewers"])
-  Spike_Ball[/"Spike Ball (spiked frisbees)"/]
+  LondonSewers2["London Sewers 2"]
   Ach_36896(["🏆 That Does NOT Look Like a Ball"])
-  Tetrad_Ch4[/"Tetrad (Chapter 4)"/]
+  ZodaX{{"⚔ Zoda-X"}}
   Ach_36897(["🏆 The Mystery of the Tetrad"])
-  Chicken_Nugget[/"Chicken nugget (the hidden nugget)"/]
+  WildWest["Wild Wild West"]
   Ach_36898(["🏆 Not Quite a Gold Nugget"])
-  Gold_Nugget[/"Gold nugget"/]
   Ach_36899(["🏆 Real Gold"])
-  Big_Heart_Ch5[/"Big Heart (between two boulders)"/]
   Ach_36900(["🏆 Heart of Gold"])
-  Bola[/"Bola"/]
+  GoldCave["Gold Cave"]
   Ach_36901(["🏆 Not the Traditional Weapon"])
-  Super_Psychic[/"Super Psychic Shockwave"/]
+  GoldCave2["Gold Cave, Part II"]
   Ach_36902(["🏆 Super Psychic Shock Wave"])
-  Invincibility_Star[/"Invincibility Star"/]
   Ach_36903(["🏆 Just Like Mario"])
-  Tetrad_Ch5[/"Tetrad (Chapter 5)"/]
+  MashingMiner{{"⚔ Mashing Miner"}}
   Ach_36904(["🏆 Tetrad in a Western"])
-  Katana[/"Katana"/]
+  LeosBasement["Leo's Basement"]
   Ach_36905(["🏆 Now We Got a Sword"])
-  Big_Heart_Ch6[/"Big Heart (Small Island)"/]
+  SmallIsland["Small Island"]
   Ach_36906(["🏆 Heart on the Lone Island"])
-  Tetrad_Ch6[/"Tetrad (Chapter 6)"/]
+  EasternCastle["Eastern Castle"]
   Ach_36907(["🏆 Watch Out for Pits!"])
-  Room13_Chest_Missable(["⚠ Spooky Castle Room 13 chest"])
-  Triple_Spike_Ball[/"Triple Spike Ball"/]
+  Dracula["Dracula's Castle"]
   Ach_36908(["🏆 Triple the Fun"])
-  Tetrad_Ch7[/"Tetrad (Chapter 7)"/]
+  ZodaY{{"⚔ Zoda-Y"}}
   Ach_36909(["🏆 House of the Undead"])
-  Ultra_Psychic[/"Ultra Psychic Shockwave"/]
+  DragonsCave["Dragon's Cave"]
   Ach_36910(["🏆 Ultra Psychic Shock Wave"])
-  Tetrad_Ch8[/"Tetrad (Chapter 8)"/]
+  Dragon{{"⚔ The Dragon"}}
   Ach_36911(["🏆 The Middle Ages"])
-  Zoda_Z{{"⚔ Zoda-Z"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
   Ach_36912(["🏆 C-Island is Normal Again!"])
-  Rocks -->|unlocks| Ach_36882
-  Axe -->|unlocks| Ach_36883
-  Medicine -->|unlocks| Ach_36888
-  Tetrad_Ch2 -->|unlocks| Ach_36884
-  Jack -->|unlocks| Ach_36885
-  Jack_Dagger_Missable -.->|missable before| Dagger
-  Thrower -->|unlocks| Ach_36887
-  Pizza -->|unlocks| Ach_36889
-  Dagger -->|unlocks| Ach_36886
-  Small_Stars -->|unlocks| Ach_36890
-  Big_Heart_Ch3 -->|unlocks| Ach_36891
-  Psychic_Shockwave -->|unlocks| Ach_36892
-  Flute -->|unlocks| Ach_36893
-  Tetrad_Ch3 -->|unlocks| Ach_36894
-  Big_Heart_Ch4 -->|unlocks| Ach_36895
-  Spike_Ball -->|unlocks| Ach_36896
-  Tetrad_Ch4 -->|unlocks| Ach_36897
-  Chicken_Nugget -->|unlocks| Ach_36898
-  Gold_Nugget -->|unlocks| Ach_36899
-  Big_Heart_Ch5 -->|unlocks| Ach_36900
-  Bola -->|unlocks| Ach_36901
-  Super_Psychic -->|unlocks| Ach_36902
-  Invincibility_Star -->|unlocks| Ach_36903
-  Tetrad_Ch5 -->|unlocks| Ach_36904
-  Katana -->|unlocks| Ach_36905
-  Big_Heart_Ch6 -->|unlocks| Ach_36906
-  Tetrad_Ch6 -->|unlocks| Ach_36907
-  Room13_Chest_Missable -.->|missable before| Triple_Spike_Ball
-  Triple_Spike_Ball -->|unlocks| Ach_36908
-  Tetrad_Ch7 -->|unlocks| Ach_36909
-  Ultra_Psychic -->|unlocks| Ach_36910
-  Tetrad_Ch8 -->|unlocks| Ach_36911
-  Zoda_Z -->|unlocks| Ach_36912
+  IceAge -->|unlocks| Ach_36882
+  CaveMenCave -->|unlocks| Ach_36883
+  YumYum -->|unlocks| Ach_36884
+  Egypt -->|unlocks| Ach_36885
+  Egypt -->|unlocks| Ach_36886
+  BorderPass -->|unlocks| Ach_36887
+  YumYumCave -->|unlocks| Ach_36888
+  GiantScorpion -->|unlocks| Ach_36889
+  SavannahA -->|unlocks| Ach_36890
+  MonkeySavannah -->|unlocks| Ach_36891
+  MonkeySavannah -->|unlocks| Ach_36892
+  Pyramid -->|unlocks| Ach_36893
+  MonsterMask -->|unlocks| Ach_36894
+  London -->|unlocks| Ach_36895
+  LondonSewers2 -->|unlocks| Ach_36896
+  ZodaX -->|unlocks| Ach_36897
+  WildWest -->|unlocks| Ach_36898
+  WildWest -->|unlocks| Ach_36899
+  WildWest -->|unlocks| Ach_36900
+  GoldCave -->|unlocks| Ach_36901
+  GoldCave2 -->|unlocks| Ach_36902
+  GoldCave2 -->|unlocks| Ach_36903
+  MashingMiner -->|unlocks| Ach_36904
+  LeosBasement -->|unlocks| Ach_36905
+  SmallIsland -->|unlocks| Ach_36906
+  EasternCastle -->|unlocks| Ach_36907
+  Dracula -->|unlocks| Ach_36908
+  ZodaY -->|unlocks| Ach_36909
+  DragonsCave -->|unlocks| Ach_36910
+  Dragon -->|unlocks| Ach_36911
+  ZodaZ -->|unlocks| Ach_36912
 ```
 
 ## Boss Index
@@ -363,357 +301,343 @@ Full strategies are in each chapter.
 
 | Boss | Chapter |
 |---|---|
-| Yum Yum | [2. The Stone Age](#chapter-2-the-stone-age) |
-| Giant Scorpion | [3. Egypt](#chapter-3-egypt) |
-| Monster Mask | [3. Egypt](#chapter-3-egypt) |
-| Zoda's Creature | [4. London](#chapter-4-london) |
-| Zoda-X | [4. London](#chapter-4-london) |
-| Boulder Tossing Miner | [5. The Wild West](#chapter-5-the-wild-west) |
-| Mashing Miner | [5. The Wild West](#chapter-5-the-wild-west) |
-| Zoda-Y | [7. Transylvania](#chapter-7-transylvania) |
-| Knight | [8. Camelot](#chapter-8-camelot) |
-| Dragon | [8. Camelot](#chapter-8-camelot) |
-| C-Serpent | [9. Return to C-Island](#chapter-9-return-to-c-island) |
-| Revamped bosses | [9. Return to C-Island](#chapter-9-return-to-c-island) |
-| Zoda-Z | [9. Return to C-Island](#chapter-9-return-to-c-island) |
+| Yum Yum | [Chapter 2: The Ice Age](#chapter-2-the-ice-age) |
+| Giant Scorpion | [Chapter 3: Cleopatra's Egypt](#chapter-3-cleopatras-egypt) |
+| Monster Mask | [Chapter 3: Cleopatra's Egypt](#chapter-3-cleopatras-egypt) |
+| Zoda's Creature | [Chapter 4: Holmes's London](#chapter-4-holmess-london) |
+| Zoda-X | [Chapter 4: Holmes's London](#chapter-4-holmess-london) |
+| Boulder Tossing Miner | [Chapter 5: The Wild West](#chapter-5-the-wild-west) |
+| Mashing Miner | [Chapter 5: The Wild West](#chapter-5-the-wild-west) |
+| Zoda-Y | [Chapter 7: Dracula's Transylvania](#chapter-7-draculas-transylvania) |
+| Knight | [Chapter 8: King Arthur's Camelot](#chapter-8-king-arthurs-camelot) |
+| The Dragon | [Chapter 8: King Arthur's Camelot](#chapter-8-king-arthurs-camelot) |
+| C-Serpent | [Chapter 9: Return to C-Island](#chapter-9-return-to-c-island) |
+| Zoda-Z | [Chapter 9: Return to C-Island](#chapter-9-return-to-c-island) |
 
 ## Walkthrough
 
-## Chapter 1: Seattle
+## Chapter 1: Prelude
 
 ```mermaid
 flowchart TD
-  Seattle["Seattle"]
-  Yum_Yum{{"⚔ Yum Yum"}}
-  Giant_Scorpion{{"⚔ Giant Scorpion"}}
-  Monster_Mask{{"⚔ Monster Mask"}}
-  Zodas_Creature{{"⚔ Zoda's Creature"}}
-  Zoda_X{{"⚔ Zoda-X"}}
-  Boulder_Miner{{"⚔ Boulder Tossing Miner"}}
-  Mashing_Miner{{"⚔ Mashing Miner"}}
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  Prelude["Chapter 1: Prelude"]
+  YumYum{{"⚔ Yum Yum"}}
+  GiantScorpion{{"⚔ Giant Scorpion"}}
+  MonsterMask{{"⚔ Monster Mask"}}
+  ZodasCreature{{"⚔ Zoda's Creature"}}
+  ZodaX{{"⚔ Zoda-X"}}
+  BoulderMiner{{"⚔ Boulder Tossing Miner"}}
+  MashingMiner{{"⚔ Mashing Miner"}}
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Yum_Yum,Giant_Scorpion,Monster_Mask,Zodas_Creature,Zoda_X,Boulder_Miner,Mashing_Miner,Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class YumYum,GiantScorpion,MonsterMask,ZodasCreature,ZodaX,BoulderMiner,MashingMiner,ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
 ### Area Overview & Preparation
 
-Chapter 1 is only an introduction to get you into the game [[gf2-24-11]]. It contains no achievements, no items and no combat. All you do is answer Dr. Jones's prompts, get the Oxford book and let the reversed cipher carry Mike to Chapter 2. The route diagram above also shows bosses from later chapters. None of them appear in Seattle.
-
-There is nothing to miss here and no lockout to worry about.
-
-### Chapter Items to Collect (0 Items Total)
-
-This chapter has no collectible items. Unable to verify from collected sources that anything can be picked up in Seattle.
-
-### Step-by-Step Walkthrough
-
-#### Seattle
-
-Unable to verify from collected sources whether a map exists for this area.
-
-1. **Start the game and watch the opening.** The story sets Mike back in Seattle, and you can read Mica's telepathic contact, as the following steps describe.
-2. **Answer the opening question.** Mike asks whether you remember his uncle. Either answer works.
-   - If you answer **No**, Mike tells you his uncle is Dr. Jones, the tropical archaeologist [[gf5-1-5]].
-   - If you answer **Yes**, the scene moves on without that explanation.
-   - In both cases you learn that Dr. Jones is in Seattle, busy decoding the rest of the cipher from the tropics [[gf5-1-6]].
-3. **Mica contacts Mike.** She first sounds as if she is calling by phone, then says she is using telepathy [[gf5-1-4]]. Just keep advancing the text.
-4. **Talk to Dr. Jones.** He is busy at his desk. Tell him about Mica's message. He will read it back to you and ask "Get it?"
-5. **Answer "Get it?" with Yes.** This makes Dr. Jones realize that Hirocon means the cipher must be reversed [[gf5-2-1]].
-   - If you answer **No**, he shows the sentence being broken up step by step, then asks again. Keep answering until you pick Yes. Unable to verify from collected sources whether a "No" has any lasting consequence.
-6. **Fetch the book.** Dr. Jones asks Mike to get the Oxford Wonder World book [[gf5-2-2]]. Pick it up where he points. It is the only thing you need to do, and it is not a stored inventory item.
-7. **Let the cipher play out.** Dr. Jones reads the reversed cipher aloud. Do not try to stop it. The book flips its pages and Mike slips to another time and space, arriving in Chapter 2 [[gf5-2-3]].
+Chapter 1 is a story prologue. Mike Jones is back in Seattle, and the game sets up the quest through a conversation with the player, a telepathic message from Mica, and a visit to Dr. Jones [[gf1-3-1, gf5-1-2]]. This chapter has no achievements, no chests, no items to collect and no combat. The only decisions are two Yes/No prompts [[gf1-3-1]].
 
 > [!TIP]
-> **Before you leave Seattle:** There is nothing to collect, so you cannot miss anything. Just make sure you have answered the prompts and fetched the book so the story moves on.
+> **Before you leave:** Nothing in this chapter can be missed. Players can always go back to a previous chapter from the File select screen, so achievements are not missable [[ra-comments-1-1]]. There is nothing to collect here, so simply finish the dialogue and read the magic words.
 
-### What Comes Next
+### Controls Primer (read once)
 
-Chapter 2 begins in the Stone Age, where Mike must reach a cave [[gf2-24-3]]. Crossing the snow field and heading north leads to a cave in the mountains [[gf4-2-8]]. The first weapon you find is the rocks, which are very weak and found in the Ice Age [[gf3-41-17]].
+The game uses two kinds of screen. The travel (overworld) screen has no enemies, and you cannot attack there [[gf3-3-1, gf1-2-1]].
+
+- **Travel screen:** The D-Pad moves Mike. The A Button starts a conversation or inspects. The B Button cancels a conversation. Select shows what chapter you are in [[gf3-4-1]].
+- **Action screen (dungeons):** The action screen starts when you enter a dungeon [[gf3-4-2]]. The D-Pad moves Mike, including diagonally. The B Button attacks. The A Button jumps, or uses an item when the game is paused. Select picks the next item in your inventory. Start pauses [[gf3-4-5, gf1-2-3]].
+- Use magic items by pausing, pushing down, and using left and right [[gf2-3-6]].
+- It takes Mike about half a second to turn when you push the button [[gf2-6-2]].
+- Mike can only jump one space at a time, unless you have the special item that allows two-tile jumps [[gf2-6-3]].
+- Save weapons and special items for when you need them, because you do not get unlimited amounts [[gf2-6-4]].
+
+### Prelude
+
+#### Mike's Greeting (Yes/No prompt)
+
+1. The game opens with Mike greeting you and asking how you have been. He then asks whether you remember his uncle, Dr. Jones ("Dr. J"), and gives you a Yes/No choice [[gf1-3-1]].
+2. Choose **Yes**. If you choose No, Mike only suggests that you read the manual and explains that his uncle is Dr. Jones [[gf1-3-1]]. The guides describe no other effect of this answer, so either choice is fine.
+3. Mike explains that Dr. J is now in Seattle, busy decoding the rest of the cipher from the tropics [[gf1-3-1]].
+
+#### Mica's Telepathic Message
+
+1. Mica contacts Mike by telepathy. She tells him that her father Hirocon, leader of the lost planet Argonia, spoke to her in a dream and said: "Was it a cat I saw? Was it a rat I saw?" [[gf5-1-2]]
+2. She cannot talk any longer that day, and the connection drops [[gf1-3-1]]. Mica randomly telepaths with Mike and gives clues throughout the journey [[gf2-4-1]].
+3. Unsure what to do next, Mike goes to visit his uncle [[gf1-3-1]].
+
+#### Dr. Jones's Study (the decoding)
+
+1. Dr. J is buried in books and does not notice Mike until Mike shouts to his Uncle Steve. Mike then explains the story so far [[gf1-3-1]].
+2. Dr. Jones reverses the wording and works out "?was I tac a ti saw" and "?was I tar a ti saw" [[gf5-1-1]].
+3. You are asked whether you understand. Answer **YES**. If you answer NO, Dr. J simply states the obvious, that you reverse the wording [[gf1-3-1]]. The game repeats the reversal step by step, and the point is the same either way [[gf5-2-1]].
+4. After you say yes, Dr. Jones says Hirocon is telling them to reverse the cipher, and tells Mike to get the Oxford Wonder World book [[gf5-2-1]].
+
+#### Reading the Magic Words
+
+1. Mike fetches the Oxford Wonder World book, and they look at it to read the strange words of the cipher [[gf1-3-1]].
+2. Mike reads "Paapaapaaoompapamowmow" aloud before his uncle can tell him to stop. In the dialogue he shouts "Paa Paa Paa Oom Papa Mow Mow" [[gf1-3-1, gf5-2-2]].
+3. The book opens and its pages flip rapidly. A dimensional gate opens and Mike is sucked into it [[gf1-3-2]].
+4. The screen shows an open book with the text "You slip to another time and space..." and "Chapter 2". This takes Mike to the Ice Age [[gf5-2-2]].
+
+> [!TIP]
+> **Before you leave:** Chapter 2 starts with Mike in the middle of a snowy field. You can only head north at first, and a caveman tells you the ground ahead has holes [[gf1-3-2, gf5-2-2]].
+
+### Cumulative Items Reference (nothing to collect yet)
+
+These items appear later in the game, listed here only so you recognize them. No item can be collected in this chapter.
+
+- **Big Heart:** increases Mike's number of hearts by one permanently [[gf1-41-7, gf2-7-1]].
+- **Tetrad:** found at the end of each chapter, so collect them all [[gf1-41-13]]. Tetrad Y is used at the end of the game [[gf2-17-1]].
+- **Medicine:** restores five health and can be stored [[gf1-41-8, gf3-5-8]].
 
 > [!IMPORTANT]
 > ### Chapter 1 Cumulative 100% Checkpoint
-> - **Chests Opened:** 0 (none in this chapter) [[gf2-24-11]]
 > - **Big Hearts:** 0 / 4
 > - **Tetrads:** 0 / 7
 > - **RetroAchievements Unlocked:** 0 / 31 (0 / 285 points)
 
 ### Chapter Checklist
 
-- [ ] Answered Dr. Jones's prompts, including Yes to "Get it?"
-- [ ] Fetched the Oxford Wonder World book
-- [ ] Watched the cipher scene and slipped back to the Stone Age
-- [ ] No achievements, items or tetrads are available in this chapter
+- [ ] Answered YES to Mike's question about remembering Dr. J
+- [ ] Heard Mica's message about the cat and the rat
+- [ ] Answered YES when Dr. J asked if you understand
+- [ ] Read the magic words from the Oxford Wonder World
+- [ ] Arrived in the Ice Age (Chapter 2)
 
 ---
 
-## Chapter 2: The Stone Age
+## Chapter 2: The Ice Age
 
 ```mermaid
 flowchart TD
-  Ice_Age["Ice Age"]
-  Cave_Men_Cave["Cave Men Cave"]
-  Yum_Yum_Cave["Yum Yum's Cave"]
-  Yum_Yum{{"⚔ Yum Yum"}}
-  Giant_Scorpion{{"⚔ Giant Scorpion"}}
-  Monster_Mask{{"⚔ Monster Mask"}}
-  Zodas_Creature{{"⚔ Zoda's Creature"}}
-  Zoda_X{{"⚔ Zoda-X"}}
-  Boulder_Miner{{"⚔ Boulder Tossing Miner"}}
-  Mashing_Miner{{"⚔ Mashing Miner"}}
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  IceAge["Ice Age"]
+  CaveMenCave["Cave Men Cave"]
+  YumYumCave["Yum Yum's Cave"]
+  YumYum{{"⚔ Yum Yum"}}
+  GiantScorpion{{"⚔ Giant Scorpion"}}
+  MonsterMask{{"⚔ Monster Mask"}}
+  ZodasCreature{{"⚔ Zoda's Creature"}}
+  ZodaX{{"⚔ Zoda-X"}}
+  BoulderMiner{{"⚔ Boulder Tossing Miner"}}
+  MashingMiner{{"⚔ Mashing Miner"}}
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Ice_Age -->|"north across the snow field"| Cave_Men_Cave
-  Cave_Men_Cave -->|"north"| Yum_Yum_Cave
-  Yum_Yum_Cave --> Yum_Yum
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  IceAge --> CaveMenCave
+  CaveMenCave --> YumYumCave
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Yum_Yum,Giant_Scorpion,Monster_Mask,Zodas_Creature,Zoda_X,Boulder_Miner,Mashing_Miner,Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class YumYum,GiantScorpion,MonsterMask,ZodasCreature,ZodaX,BoulderMiner,MashingMiner,ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+This chapter takes you from the snowfield where Mike lands, through the Cave Men Cave, and into Yum Yum's Cave, the first dungeon. You pick up Rocks, receive the Axe from Tink, grab the Medicine behind a secret passage, defeat Yum Yum, and take the Tetrad block [[gf1-4-2, gf1-5-2, gf1-6-3, gf1-8-1]].
 
-Chapter 2 opens after Mike says the magic words from the Oxford Wonder World book and "slips to another time and space" [[gf5-2-3]]. In this chapter Mike has to cross a snowy field, reach a cave in the Stone Age, and take on Yum Yum's Cave, the first dungeon [[gf2-24-3, gf2-25-1]]. Your tasks are: collect the Rocks in the random ice-cave action scenes, get the Axe from Tink, memorize the wall shapes, take the Medicine from the secret room, clear Yum Yum's Cave, and pick up the Tetrad (the Block) beyond Yum Yum.
+> [!TIP]
+> **Achievement route:** Rocks come first (Better Than Nothing), then the Axe from Tink (A Caveman Weapon). The Medicine in Yum Yum's Cave is the "Potion" for Just Like Link. The Tetrad block after Yum Yum completes Your First Tetrad [[gf1-4-2, gf1-5-2, gf3-6-10, gf1-8-1]].
 
-Four achievements are available here: **Better Than Nothing** (Rocks), **A Caveman Weapon** (Axe), **Just Like Link** (Potion/Medicine), and **Your First Tetrad** (first dungeon).
+### Ice Age
+
+🗺️ **Map:** [View Chapter 2: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15885-chapter-2-overworld-map)
+
+You can only head North at the start. A cave man warns that the ground ahead has holes you can fall into [[gf1-4-1]]. As far as this guide can tell, the holes are random [[gf1-4-1]]. Falling into a hole drops you into a mini-dungeon [[gf3-6-6]].
+
+Another guide gives a path across the field that avoids the holes. Stand so the layer of snow is one square in front of you, then walk: 1 square up, 1 right, 1 up, 1 right, 2 up, 1 left, 1 up, 3 left, 1 up, 2 left, 1 down, 3 left, 1 down, 1 left, 1 down, 1 left [[gf3-6-6]].
+
+You need the Rocks for Better Than Nothing. The sources place them in the caves below the holes [[gf1-4-2, gf1-4-4, gf1-4-6, gf4-2-1]]. Rocks are weak, have a very limited throwing range, and come in packs of 30 [[gf1-41-20, gf4-2-5, gf3-6-4]].
 
 > [!WARNING]
-> **Missable Achievement Warning:** Rocks are believed to appear only in Chapter 2 [[gf1-6-5]]. Pick them up in one of the random ice-cave scenes before you fight Yum Yum, because taking the Tetrad ends the chapter [[gf3-8-1, gf5-3-10]]. Rocks are the first weapon in the game, very weak but useful, and found in the Ice Age [[gf3-41-17]].
+> **Achievement Trigger Warning:** Better Than Nothing needs Rocks picked up in Chapter 2 [[gf1-4-2, gf1-4-4, gf1-4-6]]. The Rocks are found only in the caves you fall into from the holes, so the hole-free path skips them [[gf1-4-2, gf1-4-4, gf1-4-6, gf4-2-1, gf3-6-6]]. If you have not picked up Rocks yet, fall into a hole on purpose.
 
-Key facts before you start:
-- Falling into a hole in the snow field sends you into a mini-dungeon [[gf1-6-8]]. Unable to verify from collected sources: whether every crossing is guaranteed to trigger a Rocks cave, so keep crossing until you get Rocks.
-- In Yum-Yum's Cave, Mike can move and jump diagonally [[gf4-2-16]].
-- Hardcore: no emulator snapshots or rewinds. If you die in Yum Yum's Cave you respawn in the halfway room [[gf1-6-19]].
+#### Random Dungeon A
 
-### Chapter Items to Collect (4 Items Total)
-
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Rocks | Random ice-cave action scenes (top-right corner of the landing room; room 2 or 3 of some caves) | **TAKE** | [[gf4-2-1, gf3-4-1, gf3-4-2, gf3-4-3]] |
-| Tink's Axe | Cave Men Cave, from Tink by the pile of bones | **TALK** | [[gf3-5-1, gf2-24-6]] |
-| Medicine (called a potion in one guide) | Secret room near the start of Yum Yum's Cave | **TAKE** | [[gf2-25-2, gf4-2-15, gf1-6-17]] |
-| Block (Tetrad) | Tunnel past the rescued children, beyond Yum Yum | **TAKE** | [[gf3-8-1, gf4-3-10]] |
-
-### Ice Age (the snow field)
-
-🗺️ **Map:** [View Chapter 2 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15885-chapter-2-overworld-map)
-
-The ground north of the starting field has many holes hidden by snow [[gf5-2-4]]. Falling into a hole drops you into a mini-dungeon [[gf1-6-8]]. Since you want Rocks, falling into a hole is actually useful here: walk onto the snow until you drop into a cave, then use the cave notes below.
-
-Once you have the Rocks, one guide gives a safe path across the ice that avoids every hole [[gf1-6-9]]. Stand so the layer of snow is one square in front of you, then walk: 1 square up, 1 square right, 1 square up, 1 square right, 2 squares up, 1 square left, 1 square up, 3 squares left, 1 square up, 2 squares left, 1 square down, 3 squares left, 1 square down, 1 square left, 1 square down, 1 square left. Then proceed up and into the cave [[gf1-6-9]].
-
-Rocks can be found in these cave layouts:
-
-**Random Dungeon A**
-1. Room 3 contains rocks. Grab the rocks and kill what you must [[gf3-4-1]].
-
-**Random Dungeon B**
-1. Room 2 has four boars and some **Rocks**. Take them [[gf3-4-2]].
-
-**Random Dungeon C**
-1. Room 2 has two boars and some **Rocks** [[gf3-4-3]].
-2. Room 3 has no enemies, only hearts to collect [[gf3-4-4]].
-3. In Room 4, quickly kill the blue bear with your stones and the path opens to Room 5 [[gf3-4-5]].
-
-**Another guide's cave description:** in the room where Mike lands, grab the Rocks in the top-right corner [[gf4-2-1]]. Kill the two creatures to open a secret door to the west [[gf4-2-2]]. Kill the polar bear there to open the secret door to the north [[gf4-2-3]], which leads to a staircase back to the surface [[gf4-2-4]]. If you need hearts, go into the room north of where you get the Rocks [[gf4-2-5]]. A later second type of ice cave has tougher foes and only one room [[gf4-2-7]].
-
-
+1. Room 3: five boars and a salamander. Grab the Rocks and kill what you must [[gf1-4-2]].
+ 
 > [!ACHIEVEMENT]
 > **Better Than Nothing (5 Points)**
 > ![Badge](https://retroachievements.org/Badge/612741.png)
 > *Pick up Rocks in Chapter 2.*
 
+2. Room 4: exit back to the overworld [[gf1-4-3]].
 
-Picking up the Rocks in any of these caves unlocks Better Than Nothing [[gf1-6-5, gf3-4-1, gf4-2-1]]. Then cross the snow field and head north to the cave in the mountains [[gf4-2-8]].
+#### Random Dungeon B
+
+1. Room 2: four boars and some Rocks. Grab the Rocks and fight your way to Room 3 [[gf1-4-4]].
+2. Room 3: exit back to the overworld [[gf1-4-5]].
+
+#### Random Dungeon C
+
+1. Room 2: two boars and some Rocks. Grab the Rocks [[gf1-4-6]].
+2. Room 3: no enemies, only hearts to collect. Be careful not to fall in the water [[gf1-4-7]].
+3. Room 4: kill the blue bear with your stones and the path to Room 5 opens [[gf1-4-8]].
+4. Room 5: exit back to the overworld [[gf1-4-9]].
+
+Another guide describes the first cave type like this: go north from the landing room, grab the Rocks in the top-right corner, and kill the two creatures to open a secret door to the west. Kill the polar bear there to open the secret door to the north, which leads to a staircase back to the surface. If you need hearts, use the room north of the Rocks [[gf4-2-1, gf4-2-2, gf4-2-3, gf4-2-4]].
+
+Once you are across the snow, go up and into the cave [[gf3-6-7]].
+
+> [!TIP]
+> Before you leave the snowfield, make sure Better Than Nothing has unlocked, since the Rocks are found in these dungeons [[gf1-4-2, gf1-41-20]].
 
 ### Cave Men Cave
 
-The cave people talk of missing loved ones and of a reliever who will one day come from a village [[gf4-2-9]].
+🗺️ **Map:** [View Chapter 2: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15886-chapter-2-level-1-map)
 
-1. **Tink's Axe:** Go to the lower left corner of the cave and talk to Tink [[gf2-24-5]]. He is by a large pile of bones [[gf3-5-1]], and makes tools from bones and stones [[gf5-2-6]]. He gives you his Axe [[gf1-6-10, gf5-2-5]].
-
-
+1. **Tink and the Axe.** When you enter the cave, head left to the big pile of bones where Tink is hacking away, and talk to him. He gives you an Axe [[gf3-6-7, gf1-5-2]]. Another guide places him in the lower left-hand corner [[gf2-24-4]].
+ 
 > [!ACHIEVEMENT]
 > **A Caveman Weapon (10 Points)**
 > ![Badge](https://retroachievements.org/Badge/612742.png)
 > *Obtain the Axe.*
 
+   Tink's Axe moves slower than the Yo-yo of the first game and doesn't grab items [[gf3-5-12]].
+2. **Pikazo's drawings.** Head to the most northern part of the cave, where a man has drawn on the wall [[gf3-6-8]]. Visit Pikazo and write down the drawings [[gf1-5-1]]. The symbols are Circle, Circle, Triangle, Square, Circle, Square, Triangle [[gf3-6-8]]. You need them for the maze in Yum Yum's Cave [[gf1-6-14, gf2-24-6]].
+3. **The prophet.** He asks if you are the one. Whatever you answer, he tells you to head to the cave and defeat Yum Yum [[gf1-5-3]]. Another guide says the chief is in the northern area and begs you to defeat Yum Yum [[gf2-24-5]].
+4. **Exit.** Take the western exit [[gf4-2-7]], then continue North on the overworld until you find another cave entrance [[gf1-5-4]].
 
-   This is your first regular weapon [[gf2-24-6, gf4-2-10]]. It works the same as the Yo-yo in the first game [[gf1-5-14]].
-
-2. **Pikazo's wall drawings:** Visit Pikazo and write down the drawings on his wall [[gf3-5-2]]. He cannot talk any more and has drawn on the cave wall [[gf4-2-11]]; his buddy says he has not said a word since Yum-Yum took his son [[gf5-2-11, gf1-6-11]]. The paintings may be his attempt to tell the cave men something [[gf5-2-7]]. Write the shapes down in order: **Circle, Circle, Triangle, Square, Circle, Square, Triangle** [[gf1-6-13]]. They are the walking directions for the pillar puzzle in Yum-Yum's Cave [[gf4-2-12]].
-
-3. **The leader:** He says a prophecy foretold a south paw reliever and asks if you are the one [[gf5-2-12]]. A man-munching monster, Yum-Yum, gulped down the children a month ago [[gf5-2-8, gf1-6-12]]. The leader asks you to drive Yum-Yum from the land [[gf5-2-9, gf2-24-9, gf4-2-13]].
-
-4. **Exit:** Leave through the West exit and go up the trail [[gf1-6-14, gf4-2-14]]. Heading north leads to Yum Yum's Cave [[gf2-25-1]].
+> [!TIP]
+> Before you leave the cave, confirm you have the Axe and have written down the drawings [[gf1-5-2, gf1-5-1]].
 
 ### Yum Yum's Cave
 
-🗺️ **Map:** [View Chapter 2 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15886-chapter-2-level-1-map)
+🗺️ **Map:** [View Chapter 2: Dungeon Map by KirbyPufocia](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/1336-chapter-2-dungeon-map)
 
-🗺️ **Map:** [View Chapter 2 Dungeon Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/1336-chapter-2-dungeon-map)
+Yum Yum's Cave is the first dungeon of the game [[gf2-25-1]]. The room numbers below follow one guide's layout.
 
-> [!TIP]
-> Keep the Axe equipped; you throw it at Yum Yum later (about 30 axes) [[gf3-7-1]].
-
-**Boar room:** Go into the next room and kill the 4 boars [[gf1-6-15]]. Killing all the enemies makes a secret passage open [[gf1-6-16]]. You hear it open in the previous room [[gf2-25-3]].
-
-**Medicine room:** Go back to the previous room and enter the secret room. It holds nothing but the medicine; take it and go back [[gf3-6-1, gf2-25-2, gf4-2-15]].
-
-
+1. **Room 2.** Defeat the 4 boars. A wall opens to the North, allowing you to reach Room 3 [[gf1-6-1]].
+2. **Room 3.** Go right and kill the salamanders. You will hear a wall open. Walk back left and take the opening to the North to Room 4 [[gf1-6-2]].
+3. **Room 4.** Take the Medicine and go back to Room 3 [[gf1-6-3]].
+ 
 > [!ACHIEVEMENT]
 > **Just Like Link (5 Points)**
 > ![Badge](https://retroachievements.org/Badge/612747.png)
 > *Pick up a Potion.*
 
+   This is the secret passage that opens after the second room is cleared [[gf3-6-10, gf2-25-2]]. Another guide calls this same secret-passage item a potion [[gf3-6-10]], so this Medicine is the Potion for Just Like Link.
+4. **Room 3 again.** Go back to Room 3 after taking the Medicine [[gf1-6-3]]. Another guide adds: go by the salamanders and to the right [[gf3-6-11]].
+5. **Room 5.** Ignore the two salamanders and continue right to Room 6 [[gf1-6-4]].
+6. **Room 6.** Four boars; ignore them and go north to Room 7 [[gf1-6-6]].
+7. **Room 7.** A blue bear; kill it quickly or ignore it. Jump to the little island, then jump south until you are back in Room 6 [[gf1-6-6]].
+8. **Rooms 6 and 5 (from Room 7).** Move around the corners of these rooms until you reach Room 8 [[gf1-6-7]].
+9. **Room 8.** Four boars; ignore the two on the bottom. Jump across the ledges to the far left, killing two boars on the way. Go left, then north to Room 9 [[gf1-6-8]].
+10. **Room 9.** Defeat the three blue bears to open the door to the North, then go North to Room 11 [[gf1-6-9]]. Another guide says that after the three Grizzly Bears, the next room is the half-way point where you respawn when you die [[gf3-6-12]].
+11. **Room 10.** The guide also lists this room: three boars. Kill them if you wish, and in either case proceed North to Room 11 [[gf1-6-10]].
+12. **Room 11.** Walking snow men. Head right; you do not have to defeat them, but it is easier if you do. Eventually you see a way North to Room 12 [[gf1-6-11]].
+13. **Room 12.** A yellow bear; defeat it if you must, then continue North to Room 13 [[gf1-6-12]].
+14. **Room 13.** Defeat the three yellow bears to open the door North to Room 14 [[gf1-6-13]].
+15. **Room 14: the maze.** Follow the exit closest to each symbol in this order: circle, circle, triangle, square, circle, square, triangle [[gf1-6-14, gf2-25-4]]. A wrong choice takes you out of the dungeon [[gf3-7-1]].
+16. **Room 15.** Four snow men; skip them if you like and go East to Room 16 [[gf1-6-15]].
+17. **Room 16.** Six boars; kill them or not, then go North to Room 17 [[gf1-7-1]].
+18. **Room 17: Yum Yum.** See the boss section below [[gf1-7-2]].
+19. **Room 18.** Exit to the North [[gf1-7-4]].
 
-That is Just Like Link [[gf1-6-17]].
+#### Boss: Yum Yum
 
-**Grizzly rooms:** In the next room you face 3 Grizzly Bears [[gf1-6-18]]. Kill the three bears to open a passageway, then take it [[gf2-25-4]]. Three blue bears in this stretch must be defeated to open the north door [[gf3-6-2]]. Don't bother going off the left exit; it only shows the earlier potion area [[gf1-6-21]].
+Yum Yum starts out eating a boar. Run up as close as you can to his right side and fire axes immediately; you can beat him before he attacks [[gf1-7-2, gf2-25-5]]. Do not attack the boar next to him: he eats it and keeps ignoring you, but killing it makes him engage immediately [[gf1-7-3]]. Another guide agrees that killing the hog makes him attack faster and harder [[gf4-3-2]].
 
-**Halfway room:** Whenever you die, you respawn here [[gf1-6-19]].
+If you do have to battle him, avoid the bubbles he burps and keep throwing axes. He goes down after about 30 axes, and the door East to Room 18 opens [[gf1-7-2]]. If he is not killed in time, he runs back and forth shooting fire bubbles that spread across the screen, and he moves faster and stronger when about to die [[gf2-38-2]].
 
-**More bears:** In the next room you face 3 more Grizzlies; defeat them and move on [[gf1-6-20]]. Three yellow bears in a later room must be defeated to open the door north to the maze [[gf3-6-3]].
+Another guide's pattern: he moves along the skull wall right to left, then to the back row and back to the right, firing a tri-spread of bubbles. You cannot hit him in the back row, so stay back and dodge. When he moves to the front, charge forward, jump his bubbles and fire axes at him [[gf4-3-2]].
 
-**The symbol maze:** Each room has three shapes, and only one leads on the right path [[gf2-25-5]]. For each symbol, walk in the direction of the pillar it sits on; if the first symbol is a circle on the north pillar, walk north [[gf4-2-18]]. The order is **Circle, Circle, Triangle, Square, Circle, Square, Triangle** [[gf1-7-2, gf3-6-4, gf4-2-17]]. Taking a wrong way takes you out of the dungeon and you must start over [[gf1-7-1]].
+#### After Yum Yum
 
-**After the maze:** The Fire Men give you nothing, so walk past them and out the door [[gf1-7-3]]. The boars in the next room give nothing either [[gf1-7-4]]. The boss is in the room after that [[gf1-7-5, gf4-2-19]].
-
-### Yum Yum (Boss)
-
-Difficulty: Laughable [[gf1-18-2]]. Another guide calls it the easiest boss of its kind [[gf2-25-7]].
-
-1. Yum Yum won't attack until he eats the Wild Boar on his plate [[gf1-18-4, gf3-7-6]]. Let him finish eating [[gf4-3-2]]. **Do not kill the boar**: he gets angry and attacks much faster and harder [[gf1-18-5, gf4-3-1]]. (Another guide notes that killing it makes him engage immediately [[gf3-7-3]].)
-2. Throwing axes immediately after entering should let you kill him before he gets a shot off [[gf3-7-2, gf1-18-3]].
-3. In a longer fight, he runs back and forth shooting bubbles in a tri-spread [[gf2-25-8, gf4-3-3]]. You can't hit him in the back row, so stay in the back and dodge bubbles [[gf4-3-4]]. When he moves to the front, charge forward, jump his bubbles and fire axes constantly [[gf4-3-5]]. Avoid the bubbles he burps at you [[gf3-7-4]].
-4. About 30 axes bring him down [[gf3-7-1]]. Near death he moves faster and stronger [[gf2-25-9]].
-5. After he dies an opening appears to the right [[gf4-3-6]], and the next room has an exit to the north [[gf3-7-5]].
-
-> [!CAUTION]
-> **Point of No Return:** Taking the Tetrad behind Yum Yum ends Chapter 2 and the book sends Mike to Egypt [[gf3-8-1, gf5-3-10]]. The Rocks only appear in Chapter 2, so pick them up before the Yum Yum fight [[gf1-6-5]].
-
-### After Yum Yum
-
-Head north to exit [[gf4-3-7]]. In the next cave you find the four missing people, including Shorty, Pikazo's son [[gf4-3-8, gf1-7-6]]. Shorty says Yum-Yum was fattening them up [[gf5-3-5]], and was going to save them for supper [[gf1-7-6]]. Tell them to rush home to surprise their parents [[gf4-3-9]]. Go north to the tunnel past the kids and find the weird **Block** [[gf1-7-7, gf4-3-10]].
-
-Mica then explains that Hiracon wanted Mike to find the mystic Tetrads [[gf4-3-11]]; they are the legacy of the Argonians, and she asks Mike to help find them [[gf1-7-9]]. They were hidden on Earth somewhere in time [[gf1-7-10]]. Mike figures out the Block is a Tetrad [[gf4-3-12, gf3-8-1]].
-
+Head North and then East until you find the Block, passing the missing children, Shorty among them [[gf1-8-1, gf4-3-3, gf5-3-2]]. Pick up the Block.
 
 > [!ACHIEVEMENT]
 > **Your First Tetrad (10 Points)**
 > ![Badge](https://retroachievements.org/Badge/612743.png)
 > *Complete the first dungeon, and learn about the Tetrads.*
 
+Outside, Mica explains that Hirocon wanted Mike to find the mystic tetrads hidden through time [[gf5-3-4]]. Mike realizes the Block is a Tetrad, and your life total rises to seven hearts [[gf1-8-1, gf5-3-3]].
 
-You get a Tetrad and your life level increases [[gf1-7-8, gf2-25-10]], to seven hearts total [[gf3-8-2]]. At the end of the first dungeon the game shows "Now saving refrain from turning off or resetting" [[gf5-6-21]]; do not power off.
+Mike then uses the Oxford World Wonder and recites PAA PAA PAA OOM PAPA MOW MOW to travel to the next time period [[gf1-8-2]].
 
-Mike then uses the Oxford World Wonders and says the magic words (Paa Paa Paa Oom Maw Maw), sending him to Chapter 3 [[gf5-3-10]].
+> [!TIP]
+> Before you leave, confirm that Better Than Nothing, A Caveman Weapon, Just Like Link and Your First Tetrad have all unlocked [[gf1-4-2, gf1-5-2, gf3-6-10, gf1-8-1]].
 
 > [!IMPORTANT]
 > ### Chapter 2 Cumulative 100% Checkpoint
-> - **Tetrads:** 1 / 7 (Yum Yum's Cave Block) [[gf3-8-1]]
 > - **Big Hearts:** 0 / 4
-> - **Rocks / Axe / Medicine collected:** 3 / 3 [[gf1-6-5, gf2-24-6, gf2-25-2]]
+> - **Tetrads:** 1 / 7 (the Block after Yum Yum) [[gf1-8-1]]
 > - **RetroAchievements Unlocked:** 4 / 31 (30 / 285 points)
 
 ### Chapter Checklist
 
-- [ ] Picked up Rocks in an ice cave (36882)
-- [ ] Received the Axe from Tink (36883)
-- [ ] Wrote down: Circle, Circle, Triangle, Square, Circle, Square, Triangle
-- [ ] Took the Medicine from the secret room (36888)
-- [ ] Solved the symbol maze without being kicked out
-- [ ] Beat Yum Yum without killing his boar
-- [ ] Took the Block/Tetrad (36884)
+- [ ] Rocks picked up (Better Than Nothing)
+- [ ] Axe received from Tink (A Caveman Weapon)
+- [ ] Pikazo's symbols written down
+- [ ] Medicine taken in Room 4 (Just Like Link)
+- [ ] Yum Yum defeated
+- [ ] Tetrad block taken (Your First Tetrad)
 
 ---
 
-## Chapter 3: Egypt
+## Chapter 3: Cleopatra's Egypt
 
 ```mermaid
 flowchart TD
   Egypt["Egypt"]
-  Border_Pass["Border Pass"]
-  Giant_Scorpion{{"⚔ Giant Scorpion"}}
-  Monkey_Maze["Monkey Maze"]
-  Great_Pyramid["Great Pyramid"]
-  Monster_Mask{{"⚔ Monster Mask"}}
-  Zodas_Creature{{"⚔ Zoda's Creature"}}
-  Zoda_X{{"⚔ Zoda-X"}}
-  Boulder_Miner{{"⚔ Boulder Tossing Miner"}}
-  Mashing_Miner{{"⚔ Mashing Miner"}}
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  BorderPass["Border Pass"]
+  GiantScorpion{{"⚔ Giant Scorpion"}}
+  MonkeySavannah["Monkey Savannah"]
+  SavannahA["Savannah Dungeon A"]
+  SavannahB["Savannah Dungeon B"]
+  Pyramid["Pyramid"]
+  MonsterMask{{"⚔ Monster Mask"}}
+  ZodasCreature{{"⚔ Zoda's Creature"}}
+  ZodaX{{"⚔ Zoda-X"}}
+  BoulderMiner{{"⚔ Boulder Tossing Miner"}}
+  MashingMiner{{"⚔ Mashing Miner"}}
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Egypt -->|"north past the guard"| Border_Pass
-  Border_Pass --> Giant_Scorpion
-  Egypt -->|"west shore of the Nile, then north"| Monkey_Maze
-  Monkey_Maze -->|"the monkey warps Mike to the pyramid"| Great_Pyramid
-  Great_Pyramid -->|"snake room secret passage"| Monster_Mask
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  Egypt --> BorderPass
+  GiantScorpion -->|"Camel ride for the pizza"| Egypt
+  Egypt -->|"Cleopatra's barge"| MonkeySavannah
+  MonkeySavannah -->|"Psychic Shock Wave"| Pyramid
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Giant_Scorpion,Monster_Mask,Zodas_Creature,Zoda_X,Boulder_Miner,Mashing_Miner,Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class GiantScorpion,MonsterMask,ZodasCreature,ZodaX,BoulderMiner,MashingMiner,ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+Reciting the magic words in the Oxford World Wonders carries Mike to Chapter 3 [[gf5-3-5]]. The chapter has nine achievements:
 
-Chapter 3 drops Mike into ancient Egypt, with a river, a sphinx and a pyramid in view [[gf5-3-11]]. The chapter runs in this order: meet Jack, board Cleopatra's barge, clear the Border Pass and its Giant Scorpion, ride a camel to fetch a pizza, let Cleopatra sail you to the pyramid, solve the Monkey Maze for the Psychic Shockwave, then clear the Great Pyramid and beat the Monster Mask for the Tetrad.
+- **Dagger pair:** Jack of All Trades and Sharp Edge [[gf5-3-7]].
+- **Slingshot:** Thrower [[gf2-26-2]].
+- **Pizza delivery:** Slowest Pizza Delivery Ever [[gf1-11-3]].
+- **Four stars at once:** What Do These Do? [[gf2-13-1]].
+- **Monkey maze Big Heart:** Lost in the Tall Grass [[gf3-8-4]].
+- **Psychic Shock Wave:** Psychic Power [[gf5-5-4]].
+- **Flute:** Snake Charmer [[gf1-16-17]].
+- **Pyramid Tetrad:** Egyptian Tetris [[gf5-5-7]].
 
-Your goals for 100%:
-- Take Jack's bronze dagger before you do anything else. This dagger covers both Jack of All Trades and Sharp Edge.
-- Pick up the Thrower (slingshot) in the Border Pass.
-- Deliver the pizza.
-- Ride Cleopatra's barge to the pyramid. She only trades her dagger if you do not already have one.
-- Hold four small stars at once.
-- Grab the Big Heart in the Monkey Maze.
-- Learn the Psychic Shockwave.
-- Pick up the Flute.
-- Finish the pyramid and collect the Tetrad.
+Your route is Jack of All Trades, the barge, Border Pass, the camel ride, the pizza, the Monkey Savannah, and finally the Pyramid.
 
 > [!WARNING]
-> **Missable Achievement Warning:** Do NOT accept Cleopatra's dagger before visiting Jack. Once you hold a dagger, Jack only offers his axe, and the "Jack of All Trades" dagger achievement is described as missable [[gf5-3-13, gf5-3-14, gf5-3-15, ra-comments-5-1]]. Go to Jack FIRST, as described in the next section.
+> **Missable Achievement Warning:** Jack of All Trades (the dagger from Jack) can be missed. Once you hold a dagger, Jack only offers to trade back for an axe, and Cleopatra only hands over her dagger when you arrive without one [[gf5-3-7, ra-comments-5-1, ra-comments-1-1]]. Answer **Yes** to Jack's trade BEFORE you give Cleopatra her pizza, and never decline it. Two commenters say the achievement unlocked for them even though the dagger came from Cleopatra, but the achievement names Jack as the source, so this is unconfirmed [[ra-comments-5-2, ra-comments-5-3]].
 
-### Chapter Items to Collect (9 Items Total)
+> [!TIP]
+> **Open question, What Do These Do?:** No source settles which "stars" the achievement counts. The small stars that enemies drop refill a heart when you collect five [[gf1-41-3, gf2-13-1, gf3-5-3]]. Another guide says the monkeys in the savannah mini-dungeons give hearts and stars [[gf3-8-3]]. Collect small stars there until you hold four, without picking up a fifth. If it has not unlocked by Chapter 5, keep both Invincibility Stars from the second Gold Cave unused in your Magic Items rather than spending them on the boss.
 
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Bronze dagger (from Jack) | Egypt desert, between two palm trees | **TALK**, answer Yes | [[gf5-3-12, gf5-3-14]] |
-| Slingshot (Thrower) | Border Pass chest | **JUMP** on the tile, then collect the question mark | [[gf2-26-4, gf4-3-20]] |
-| Pizza | From the delivery guy on the camel ride | **TALK**, then deliver to Cleopatra | [[gf1-7-19]] |
-| Dagger (Sharp Edge) | Already in hand from Jack; Cleopatra's trade is only offered if you lack the bronze dagger | Nothing extra to do | [[gf5-3-14, gf5-5-2]] |
-| 4 small stars | Monkey Maze mini-dungeons | **COLLECT**, hold four at once | [[gf1-8-8, gf2-13-1]] |
-| Big Heart | Eastern part of the Monkey Maze | **TAKE** | [[gf4-4-15]] |
-| Psychic Shockwave | The monkey at the end of the maze | Automatic from the monkey | [[gf5-5-7]] |
-| Flute | Pyramid, mini-mummy room | **HIT** the switch / chest | [[gf1-9-14, gf3-16-9]] |
-| Tetrad | Small room after Monster Mask | **WALK** forward | [[gf4-4-30]] |
+### Egypt
 
-### Egypt: Arrival and Jack of All Trades
+🗺️ **Map:** [View Chapter 3: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15887-chapter-3-overworld-map)
 
-🗺️ **Map:** [View Chapter 3 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15887-chapter-3-overworld-map)
+#### Arrival and Jack of All Trades
 
-You arrive in a desert with a river [[gf5-3-11]]. Do not follow the southern path. It follows the Nile endlessly and is a false path [[gf3-9-1, gf4-3-15]].
-
-1. Walk north from the arrival point. Watch the right side of the screen for two palm trees and walk between them to find a path [[gf5-3-12]].
-2. Talk to Jack. He says he will trade his bronze dagger; answer **Yes** [[gf5-3-13]]. You receive a dagger [[gf5-3-14]].
+1. Go north from where you appear. Watch the right side of the screen for two palm trees and walk in between them to find a path [[gf5-3-6]].
+2. Talk to Jack of All Trades. He offers a trade: his bronze dagger for the axe you are carrying, the same axe-for-dagger swap Cleopatra makes later. Answer **Yes** and you get a dagger [[gf5-3-7, gf1-11-4, gf4-4-2]].
 
 
 > [!ACHIEVEMENT]
@@ -722,10 +646,6 @@ You arrive in a desert with a river [[gf5-3-11]]. Do not follow the southern pat
 > *Obtain the Dagger from the Jack of All Trades.*
 
 
-If you say no, Jack says "Have your own way!" [[gf5-3-13]]. If you talk to him again after accepting, he says "Sorry, we're closed" [[gf5-3-13]]. A commenter reports that this achievement also popped when they got the dagger from Cleopatra instead, and another saw it trigger while wandering the Monkey Maze. Still, another commenter calls it missable, so take Jack's dagger first [[ra-comments-5-1, ra-comments-5-2, ra-comments-5-3]].
-
-**Sharp Edge ("Obtain the Dagger"):** Jack's bronze dagger is the dagger for this chapter. It replaces your axe as your main weapon [[gf3-11-2, gf4-4-7]], and Sharp Edge is expected to unlock as soon as "You've got a dagger!" appears [[gf5-3-14]]. Cleopatra will not give you a second one later, because her dagger trade only happens if you do not already have the bronze dagger [[gf5-5-2]].
-
 
 > [!ACHIEVEMENT]
 > **Sharp Edge (10 Points)**
@@ -733,24 +653,26 @@ If you say no, Jack says "Have your own way!" [[gf5-3-13]]. If you talk to him a
 > *Obtain the Dagger.*
 
 
-> [!TIP]
-> One RetroAchievements commenter reports that Sharp Edge did not unlock on an older RANes/RetroArch build [[ra-comments-6-1]]. If it did not pop with Jack's dagger, note it before moving on; the set has been edited since that report.
+3. If you talk to him again, he says "Sorry, we're closed" [[gf5-3-7]]. If you talk to him while holding the dagger, he only offers to trade for his axe, so do not accept that [[gf5-3-8]].
+4. One commenter reports Sharp Edge not unlocking on RANes or RetroArch. This is unconfirmed. If it does not unlock, replay Chapter 3 from the File Select screen [[ra-comments-6-1, ra-comments-1-1]].
 
-3. Continue north and walk to the barge [[gf1-7-11]]. A guard north of the barge says "Halt! Stay away from here." for now [[gf5-3-16]]. A shirtless man east of the barge says it is the Queen's barge [[gf5-3-17]].
+#### The barge and Cleopatra
 
-### Cleopatra's Barge
-
-1. Board the barge and talk to everyone on deck. If you enter the cabin before talking to everyone outside, the guard will block you [[gf3-9-2, gf5-4-1]].
-2. Once everyone has been spoken to, enter the cabin and talk to Cleopatra. She says she can take you to the Tetrad if you bring her pizza [[gf5-4-1, gf2-26-1]].
-3. Leave the barge and head north. The guard now lets you through to the Border Pass [[gf1-7-13, gf5-4-3]].
+1. Travelling south along the Nile goes on endlessly, so head north [[gf1-9-1]]. You reach a small oasis with people and a docked boat. A guard blocks the path further north, so go to the boat [[gf5-4-1]].
+2. Go north and board the ship, then talk to everyone [[gf2-26-1]]. If you try the cabin before talking to everyone outside, the guard will not let you pass. Once you have talked with everyone, he lets you enter [[gf1-9-3, gf5-4-1]].
+3. Inside, tell Cleopatra you are searching for the tetrads. She says she can help, but you must first get a pizza for her [[gf1-9-4]].
+4. Leave the ship and head north. The person blocking the path now lets you through, saying this is the way to get pizza [[gf1-9-5, gf5-4-3]].
 
 ### Border Pass
 
-🗺️ **Map:** [View Chapter 3 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2179-chapter-3-level-1-map)
+🗺️ **Map:** [View Chapter 3: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2179-chapter-3-level-1-map)
 
-1. **First room:** Kill the spiders to unlock the way forward [[gf2-26-3]].
-2. **Next room:** Kill the enemies, then continue to a room with platforms and spiders [[gf1-7-14, gf2-26-4]].
-3. **Chest room (Thrower):** Jump on the tile (don't step on it) and then collect the question mark to open the chest. It contains the slingshot [[gf4-3-20, gf2-26-4]].
+Proceed a little south and you will find the cave [[gf1-9-5]]. The main guide numbers this cave's rooms 1 through 13 and calls it Ridge Cave [[gf1-10-1]]. The route below follows that numbering, with notes from the other guides.
+
+1. **Room 1:** a usual entrance. Head north to Room 2 [[gf1-10-2]].
+2. **Room 2:** defeat the three spiders and the east wall opens to Room 3 [[gf1-10-3]].
+3. **Room 3:** defeat the one cyclops and the east wall opens to Room 4 [[gf1-10-4]].
+4. **Room 4:** jump on the tile (jump, do not step on it) and a question mark appears. Take it and the chest opens, revealing a slingshot [[gf1-10-5, gf4-3-5]]. Another guide says to walk through the question mark orb [[gf2-26-2]]. Then jump carefully around the spiders and take the path north [[gf1-10-6]].
 
 
 > [!ACHIEVEMENT]
@@ -759,28 +681,35 @@ If you say no, Jack says "Have your own way!" [[gf5-3-13]]. If you talk to him a
 > *Pick up the Thrower Item in Chapter 3.*
 
 
-   Kill the remaining enemies and move on [[gf1-7-14]].
-4. Dodge the porcupines, which roll into a ball and charge. They always stop at a wall, so stand to the left or right of where they will stop and hit them when they are not rolled up [[gf4-3-21, gf3-42-2]]. Follow the open doorway [[gf1-7-14]].
-5. Kill the scorpions, which deal major damage; don't touch them [[gf4-3-22]]. Then kill the moving floor tiles and a secret opening appears. Grab the medicine there [[gf1-7-15, gf1-7-16, gf2-26-5]].
-6. Clear enemies in each room on your first pass to open secret rooms; one holds medicine [[gf4-3-23, gf4-3-34]]. If you die, the medicine can be picked up again [[gf4-3-24]]. One room has nearly invisible foes [[gf4-3-25]] and another requires a tricky diagonal jump [[gf4-3-26]].
-7. Cross to the far side, kill the spiders, and enter the boss room [[gf1-7-14, gf1-7-17]].
+5. **Room 5:** defeat the two porcupines to open the door north to Room 6 [[gf1-10-7]]. Porcupines turn into a ball and charge. Stand left or right of where they stop at a wall and hit them before they change again [[gf4-3-6]].
+6. **Room 6:** defeat the three cyclops to open the door east to Room 7 [[gf1-10-8]].
+7. **Room 7:** defeat the four scorpions to reveal a door east to Room 8 [[gf1-10-9]].
+8. **Room 8:** defeat or avoid the four underground enemies and head east to Room 9 [[gf1-10-10]].
+9. **Room 9:** defeat the four underground enemies and two porcupines to open a door north to Room 10 [[gf1-10-11]].
+10. **Room 10:** three spiders and two scorpions. You do not have to defeat them, but it is easier if you do. Hop up and around to go north to Room 11 [[gf1-10-12]].
+11. **Room 11:** two porcupines plus a couple of spiders. Make a couple of jumps to reach the path north to Room 12 [[gf1-10-13]].
+12. **Room 12 (Giant Scorpion):** see the next section for the fight. Afterwards the door opens west to Room 13 [[gf1-10-15]].
+13. **Room 13:** an exit. Head north to the overworld [[gf1-10-16]].
 
-### Giant Scorpion (Boss)
+Another guide adds that clearing every enemy in each room the first time opens secret rooms, one of which holds medicine that can be collected again if you die. It also mentions almost invisible foes in one room and a tricky diagonal jump [[gf4-3-7]]. Moving floor tiles must all be killed to unveil the path to the medicine [[gf2-26-3]].
 
-Difficulty: Easy [[gf1-18-7]]. Two holes in the wall release small scorpions from time to time; kill any that approach but focus on the big one [[gf4-3-28, gf2-38-6]].
+After the cave the game saves your progress [[gf5-4-4]].
 
-- Use the slingshot since its range is longer [[gf4-3-29]]. One guide's author needed about 40 slingshot shots [[gf3-10-10]].
-- When the boss flashes and makes noise, it is about to fire a spread of bullets. Jump over them or step aside [[gf4-3-30, gf1-18-8]].
-- Stay as far away as possible and hit it repeatedly. It moves slowly and can be hit at any time [[gf4-3-31, gf4-3-32]].
-- The little scorpions are shifty and deal the most damage in this fight [[gf1-18-9, gf2-26-9]].
+### Giant Scorpion
 
-When it is defeated, head west and exit [[gf4-3-33]].
+This is the boss of Border Pass Room 12 [[gf1-10-17]].
 
-### Camel Ride and the Pizza
+- Two holes in the top wall release small scorpions during the fight. Kill them if they get close, but focus on the big scorpion [[gf1-10-17, gf4-3-8]].
+- Use the slingshot, which has the longer range. It took about 40 slingshot shots [[gf1-10-17, gf4-3-8]].
+- He flashes red and makes noise before firing a spray of shots from his tail. Jump over them or move out of the way [[gf1-10-14, gf4-3-8]].
+- Once he is defeated, the door opens west to Room 13 [[gf1-10-15]].
 
-1. Outside, talk to the man with the camel. Say **Yes** to rent it; you cannot walk away without it [[gf1-7-18, gf3-11-3]].
-2. Ride until you meet the pizza delivery guy. Tell him your story and he gives you the pizza [[gf1-7-19, gf3-11-1, gf5-4-7]].
-3. Deliver it. You are returned to the barge; the pizza is still warm [[gf4-4-3, gf4-4-4, gf5-4-8]]. Give it to the woman inside the barge before it cools [[gf5-4-15]].
+### Egypt: camel ride and pizza
+
+1. Outside the cave you are in a large desert. East of the exit is a man with a camel [[gf1-11-1, gf4-4-1]].
+2. Talk to him and answer **Yes** to renting the camel. Saying no is pointless, since walking in any direction fails [[gf1-11-1]].
+3. Ride for a very long time until you meet the pizza delivery guy, who gives you the pizza [[gf1-11-2]]. Agree to give the pizza to Cleopatra directly, and you return to the boat automatically [[gf2-26-5]].
+4. Give Cleopatra the pizza. She takes you across the Nile in her boat and tells you to head to the Pyramids to the south [[gf1-11-3, gf5-4-7]].
 
 
 > [!ACHIEVEMENT]
@@ -789,57 +718,57 @@ When it is defeated, head west and exit [[gf4-3-33]].
 > *Clear the first dungeon in Chapter 3 and get the pizza for the Queen.*
 
 
-Cleopatra eats the pizza and agrees to take you to the Tetrad [[gf5-4-9, gf5-4-10]].
+5. Cleopatra also trades your axe for a dagger [[gf1-11-4, gf4-4-2]]. She hands over her bronze dagger only if you do not already have one [[gf5-5-1]].
 
-### Cleopatra's Barge Ride
+### Monkey Savannah
 
-1. After the pizza, Cleopatra asks "Let me take you to the tetrad, OK?" and the barge sails across the Nile [[gf5-4-10]].
-2. She tells you that the great pyramid lies to the south [[gf5-4-11]] and that the Tetrad is rumored to be within its walls [[gf5-4-12]].
-3. Because you already have Jack's bronze dagger, her dagger trade is skipped. She only offers to trade for her bronze dagger when Mike does not have it [[gf5-5-2, gf5-5-1]]. If you skipped Jack, this is where you would get the dagger instead [[gf2-26-11, gf5-5-3]].
-4. The barge drops you off. Walk south toward the pyramid.
+🗺️ **Map:** [View Chapter 3: Monkey Island Maze Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2178-chapter-3-monkey-island-maze-map)
 
-### Monkey Maze
+You are dropped off on the western side of the Nile. Head north until you find a small peninsula with green patches, and do not head west [[gf1-12-1]]. The Pyramid cannot be crossed yet, because a man says you need something special to cross its magic field [[gf5-5-2]].
 
-🗺️ **Map:** [View Chapter 3 Monkey Island Maze Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2178-chapter-3-monkey-island-maze-map)
+#### Monkey Maze Part 1
 
-The pyramid's magic field cannot be crossed yet, since you need something special [[gf5-5-4]]. You may enter the pyramid: the first room has hearts on the middle tile of the western group [[gf4-4-9]], but the next room has an energy barrier you can't pass yet [[gf4-4-10]]. Go back outside; people mention a mad magician to the north [[gf5-5-5, gf1-8-5]].
+You see a small deck. Climb on top of it to see how the tall and low grass forms a natural maze. Circle clockwise in the grass around the deck, starting from the grass below and to the left of the deck and ending on the lower right side. Then move up and down to the right and up the right side [[gf1-12-3]]. After just a few steps you fall into a mini-dungeon (Savannah Dungeon A) [[gf1-12-3]].
 
-Head north (heading west leads to endless desert wandering) to the grassy field [[gf3-12-1]]. Step onto the wooden platforms to see the maze layout and where to enter [[gf4-4-14, gf2-26-12]].
+```
+- - - M O N K E Y  M A Z E  P A R T # 1 - - -
 
-#### Part 1
-
-Map in source: Monkey Maze Part 1 (O = start, X = exit) [[gf3-12-2]].
-
-```text
-    ____________________________________   ______    ____
-    |                                   | |       X      | |
-    |                          __       | |              | |
-    |                    _____|  |__    | |              | |
-    |                   |           |   | |              | |
-    |       ________    |_____    __|   | |              | |
-    |      |        |         |__|      | |              | |
-    |      |______  |                   | |_______       | |
-    |             | |                   |  _____  |      | |
-    |_____        | |_____________      | |     | |      | |
-          |       |               |     | |     | |      | |
-     __   |       |  ___________  |     |_|     |_|      | |
-    |  |__|     __| |   _____   | |          _           | |
-    |          |    |  |__H__|  | |         | |          | |
-    |          |____|           | |         | |          | |
-    |                           | |_________| |__________| |
-    |________________     O     |__________________________|
+         LEGEND FOR MONKEY MAZE PART #1
+                   O = Starting Point
+                   X = Exit
+____________________________________   ______    ____
+|                                   | |       X      | |
+|                          __       | |              | |
+|                    _____|  |__    | |              | |
+|                   |           |   | |              | |
+|       ________    |_____    __|   | |              | |
+|      |        |         |__|      | |              | |
+|      |______  |                   | |_______       | |
+|             | |                   |  _____  |      | |
+|_____        | |_____________      | |     | |      | |
+      |       |               |     | |     | |      | |
+ __   |       |  ___________  |     |_|     |_|      | |
+|  |__|     __| |   _____   | |          _           | |
+|          |    |  |__H__|  | |         | |          | |
+|          |____|           | |         | |          | |
+|                           | |_________| |__________| |
+|________________     O     |__________________________|
 ```
 
-Walk a clockwise circle around the deck, starting below and left of it. Then go up and down to the right and up the right side [[gf3-12-3, gf3-12-4]]. Alternatively, from the left opening: 3 left, 7 up, 2 left, 3 up, 6 right, 3 down, 6 right, 5 down, 2 right, 4 up, 2 right, 4 down, 2 right, 11 up, 2 left, 2 up [[gf1-8-7, gf2-26-13]].
+[[gf1-12-2]]
 
-You exit near a Big Heart, and after a few steps fall into a mini-dungeon [[gf3-12-5, gf3-12-12]].
+Two other guides give a square-by-square route for this stretch. Take the left opening and go 3 left, 7 up, 2 left, 3 up, 6 right, 3 down, 6 right, 5 down, 2 right, 4 up, 2 right, 4 down, 2 right, 11 up, 2 left, and 2 up. You then fall into a mini-dungeon [[gf2-26-7, gf3-8-7]].
 
-#### Mini-dungeon A
+### Savannah Dungeon A
 
-Monkeys here may drop hearts and stars; this is the only place in the game where enemies drop them [[gf1-8-8]]. Five small stars refill one heart [[gf1-5-4, gf2-13-1]], so collect stars here and stop at four to hold them for the achievement.
+Another guide says the monkeys here give hearts and stars if they drop any. Kill the croc in the next room to open the door, and kill the jellyfish in the third room to leave [[gf3-8-3]]. Hold exactly four small stars at once for the achievement below [[gf2-13-1, gf3-5-3]].
 
-> [!WARNING]
-> **Do not collect a fifth star.** Five stars convert into a heart refill, so stop at four and hold them until the achievement unlocks [[gf1-5-4, gf2-13-1]].
+1. **Room 1:** nothing here. Go to Room 2 [[gf1-12-6]].
+2. **Room 2:** three little frogs. Kill or ignore them and head north to Room 3 [[gf1-12-7]].
+3. **Room 3:** three swans, a frog and a crocodile. Defeating the crocodile opens the north door to Room 4 [[gf1-12-8]].
+4. **Room 4:** a swan and two frogs. Two hearts are on the island to your right. Then head west to Room 5 [[gf1-12-9]].
+5. **Room 5:** defeat the three floating jellyfish to open the north wall to Room 6. The hippopotamus need not be killed [[gf1-12-10]].
+6. **Room 6:** exit back to the overworld [[gf1-12-11]].
 
 
 > [!ACHIEVEMENT]
@@ -848,17 +777,13 @@ Monkeys here may drop hearts and stars; this is the only place in the game where
 > *Have 4 stars at once.*
 
 
-Room by room (map legend 1 = start, 6 = exit) [[gf3-12-6]]:
-- Room 1: nothing; go to Room 2.
-- Room 2: three little frogs; kill or ignore, go north.
-- Room 3: three swans, a frog and a crocodile. Defeat the crocodile to open the north door [[gf3-12-7, gf1-8-9]].
-- Room 4: a swan and two frogs. Two hearts sit on the island to your right; then go west [[gf3-12-8]].
-- Room 5: three floating jellyfish. Kill them to open the north wall. The hippo need not be killed [[gf3-12-9, gf3-12-10, gf1-8-10]].
-- Room 6: exit.
+If the achievement does not pop once you hold four stars, it is unconfirmed which stars it counts. See the tip above.
 
-#### Part 2
+#### Monkey Maze Part 2
 
-The Big Heart is on the eastern shore of this section [[gf3-13-1]]. Walk forward until the monkey runs away again, then go through the left opening and walk: 4 left, 10 up, 7 right, 5 down, 2 right, then down to the Big Heart [[gf2-26-16, gf1-8-11]]. (One guide writes 6 down instead of 5 for the fourth leg; if 5 does not line you up, take one more step down before the 2 right.)
+Back above ground, walk forward until the monkey pokes his head out and disappears. Go to the deck in front of you to see the new view [[gf1-13-2]]. Go around and pick up the BIG HEART on the shore to the east [[gf3-8-4]].
+
+Square counts for this stretch: through the left opening, go 4 left, 10 up, 7 right, 6 down, 2 right, then down to the Big Heart [[gf3-8-4]]. One guide says 5 down instead of 6 [[gf2-26-8]]. Check the screen if the two counts disagree.
 
 
 > [!ACHIEVEMENT]
@@ -867,27 +792,114 @@ The Big Heart is on the eastern shore of this section [[gf3-13-1]]. Walk forward
 > *Find the Heart Container in Chapter 3.*
 
 
-From the Big Heart, walk: 7 up, 3 left, 6 up, 6 left, 4 up, 1 left, 4 up, 4 left, 4 down, 2 left, 5 up, 5 left, 1 down, then all the way left. You fall into the next mini-dungeon [[gf1-8-12, gf3-13-2, gf3-13-3]].
+From the Big Heart, one guide says to go 7 up, 3 left, 6 up, 6 left, 4 up, 1 left, 4 up, 4 left, 4 down, 2 left, 5 up, 5 left, 1 down, and then all the way left into another mini-dungeon [[gf3-8-7]]. Another guide ends the same list at "1 down" and says you fall into the battle scene there [[gf2-26-9]].
 
-#### Mini-dungeon B
+The main guide's description of the same stretch is to backtrack up to the top east, back down to the left, and then up and around the western part of the map. You come out of the grass clearing and fall into another dungeon [[gf1-13-2]]. Its ASCII map:
 
-Seven rooms [[gf3-13-4]]:
-- Room 2: two crocodiles and two swans; kill only the crocodiles [[gf3-13-5]].
-- Room 3: two hearts on the island to your right; kill the crocodile for the north door [[gf3-13-6, gf3-13-7]].
-- Room 4: a hippopotamus appears and shoots; kill only the frogs [[gf3-13-8, gf3-13-9]]. Run out of the room before the hippo attacks [[gf1-8-14]].
-- Remaining rooms: kill the monkeys first, then the crocodile [[gf1-8-13]]. Kill all the enemies in the next room to unlock the door, then follow the path through the last rooms back outside [[gf1-8-14]].
+```
+~~~~
+          __________________________________          ~    }
+         |  _________________  ____________ |~~~     {      }
+    _____| |       ________  | |          | |   }~~~{    ____}
+    _______|  X   |  ____  | | |          | |          |  _  |
+    ______________| |    | | | |          | |_   DE  __| | | |
+    ________________|    | | | |_         |_  |__   |   _| | |
+               _____     | | |_  |          |____|  |__|   | |
+            __|     |    | |   | |                         | |
+           |  _____ |____| |   |_ |               ______   | |
+           | |     |  _____|    | |              |____  |  | |
+           | |     | _|         | |_                  | |  | |
+           | |     | |          |_  |   _________     |_|  | |
+           | |     | |    ___     | |  |  _____  |         | |
+           | |     | |   |_H_|    | |  | | ___ | |         | |
+           | |     |_|            | |  | ||_H_|| |         | |
+           | |      _            _| |  | |     | |         | |
+           | |     | |          |  _|  | |    _| |         | |
+          _| |     | |_        _| |    |_|   |_  |         | |
+         |  _|     |_  |______|  _|            | |_______  | |
+         | |         |__________|              |  _____  | | |
+     ____| |                                   | | ___ | | | |
+    |  ____|                                   | ||_H_|| | | |
+    | |           _________                    |_|     | | | |
+    | |          |  _____  |                        _  | | | |
+    | |          | | ___ | |                       | | | | | |
+    | |          |_||_H_||_|                      _| | |_| |_|
+    | |                                          | __|  } { HH}
+    | | _____   ____________                     | |     } ~~~
+    | ||_   _| |  ________  |       _            | |      }
+    | |  | |   | |        | |______| |___________| |__ O __}_
+    | |  | |   | |        |_____________________   ___| |___ |
+    | |_ |_|  _| |                              | |        | |
+    |__ |    | __|
+      | |____| |
+      |________|
+```
 
-#### Part 3 and the Psychic Shockwave
+[[gf1-12-12, gf1-13-2]]
 
-Head to the small mountain range at the northern edge of this section [[gf3-14-2]]. The monkey runs straight up, but he is on the other side of a wall [[gf1-8-15]]. Two guides give the same route [[gf2-27-1, gf1-8-16]]. Walk:
+### Savannah Dungeon B
 
-1. 2 left (one guide writes 4), 2 down, then left until you hit a wall.
-2. 4 down, 3 left, 1 down, 3 left, then down until you hit a wall.
-3. 1 left, 4 down, 11 left, 3 up, 1 left, 4 up.
-4. 5 right, 3 up, 6 left, 8 up, 3 right, 1 down, 5 right, 3 up.
-5. Go right and around the bench, then 3 right, 3 up, 3 right, and up to the monkey.
+1. **Room 1:** nothing here. Go to Room 2 [[gf1-13-4]].
+2. **Room 2:** two crocodiles and two swans. Kill only the crocodiles to open the door north to Room 3 [[gf1-13-5]].
+3. **Room 3:** a jellyfish, a crocodile and three frogs. Two hearts are on the island to your right. Kill the crocodile to open the door north to Room 4 [[gf1-13-6]].
+4. **Room 4:** a frog and a jellyfish, and a hippopotamus appears and shoots at you. Kill only the frogs to open the door north to Room 5 [[gf1-13-7]].
+5. **Room 5:** five floating jellyfish and a lone frog. Kill them or jump around them to reach Room 6 [[gf1-14-1]].
+6. **Room 6:** two swans, three jellyfish and a hippopotamus. None need to be killed to reach Room 7 to the north [[gf1-14-2]].
+7. **Room 7:** exit back to the overworld [[gf1-14-3]].
 
-The monkey (Merlin?) teaches you the Psychic Shockwave [[gf3-14-2, gf5-5-7]].
+#### Monkey Maze Part 3 and the Psychic Shock Wave
+
+Back above ground, the monkey pokes his head out again. Use the decks to memorize the paths. Move down and to the left, then up the west side of the map. Then go back east along the northern part to exit on the northern edge [[gf1-14-5]]. Its ASCII map:
+
+```
+   - - - M O N K E Y  M A Z E  P A R T # 3 - - -
+
+
+             LEGEND FOR MONKEY MAZE PART #3
+                       O = Starting Point
+                       X = Exit
+                                                         {    }
+                                                       ~~      ~
+                                                      {         }  
+   __________________________________________________{__  X  ___}____ 
+  |  ___________                                ____   _|   |______  |
+  | |           |  _________________________   |    |_|            | |
+  | |           | |                    ___  |  |                   | |
+  | |         __| |                   |_H_| |  |     _             | |
+  | |        |    |                         |__|    | |            | |
+  | |   ___  |____|               _____             | |____________| |
+  | |  |   |                     |___  |            |     _____  ____|
+  | |  |   |____________________     | |____________|    | ___ | |  _ O
+  | |  |_                       |    |  _   ______   ____||_H_||_| | |
+  | |    |      ______         _|    |_| | |      | |              | |
+  | |    |     | ___  |       |          | |      | |  ___   ___   | |
+  | |    |  ___||_H_| |       |__________| |  _   |_| |  _| |_  |  | |
+  | |    | |   _______|                    |_| |_     |_|     | |  | |
+  | |    |_|  |                           _______|         _  | |  | |
+  | |         |                          |         _      |_| | |  | |
+  | |         |_______________________   |   _____| |___      | |__| |
+  | |                       __________|  |  |    _____  |     |____  |
+  | |___________           |__________   |  |   | ___ | |__   ___  | |
+  |  ___________|                     |  |  |___||_H_||____| |___| | |
+  | |                                 |  |                         | |
+  | |         ______________       ___|  |   _     _____         __| |
+  | |        |__   _______  |    _|  ____|  | |   |_____|   _   |__  |
+  | |           | |   ___ | |___|   |       | |            | |     | |
+  | |          _| |_ |_H_||  _____  |       | |            | |     | |
+  | |         |_____|     |_|     | |    ___| |____    ____| |__   | |
+  | |                             | |   |   _____  |  |         |  | |
+  | |_                            |_|   |  | ___ | |  |_________|  | |
+  |_  |                                 |__||_H_||_|               | |
+    | |                                                            | |
+    | |____________________________________________________________| |
+    |________________________________________________________________|
+```
+
+[[gf1-14-4]]
+
+Square counts for this maze from another guide: 2 left (one guide says 4 left), 2 down, left until you hit a wall, 4 down, 3 left, 1 down, 3 left, down until you hit a wall, 1 left, 4 down, 11 left, 3 up, 1 left, 4 up, 5 right, 3 up, 6 left, 8 up, 3 right, 1 down, 5 right, 3 up, right around the bench, 3 right, 3 up, 3 right, then up [[gf3-8-7, gf2-27-1]].
+
+You reach a small mountain range where the monkey shows you the psychic shock wave, and you are teleported back to the Pyramid and Sphinx [[gf1-14-6]]. The monkey says it is the power of the mind and that you can break barriers and strike down enemies [[gf5-5-4]].
 
 
 > [!ACHIEVEMENT]
@@ -896,28 +908,34 @@ The monkey (Merlin?) teaches you the Psychic Shockwave [[gf3-14-2, gf5-5-7]].
 > *Obtain the Psychic Shock Wave.*
 
 
-It breaks barriers and strikes enemies [[gf5-5-8]]. The monkey sends you back to the pyramid [[gf1-8-18]]. A snake outside mentions a catchy tune [[gf5-5-9]].
+### Pyramid
 
-### Great Pyramid
+🗺️ **Map:** [View Chapter 3: Level 2 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2180-chapter-3-level-2-map)
 
-🗺️ **Map:** [View Chapter 3 Level 2 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2180-chapter-3-level-2-map)
+The route follows the main guide's room numbers, 1 through 26 [[gf1-15-1]].
 
-Some enemies can only be hurt by the Shockwave [[gf4-4-23, gf2-27-4]]. Jump on all the tiles to see what they do [[gf4-4-35]].
-
-1. **Room 1:** Jump on the middle tile of the western tile group for hearts [[gf3-15-3]].
-2. **Room 2:** Switch to the Shockwave and break the force field [[gf3-15-2, gf1-8-19]].
-3. **Room 3:** Kill the Skull things to enter the next room [[gf1-8-21]].
-4. **Room 4:** Cobras and stairs [[gf1-8-22]].
-5. **Room 5:** Spikes and flames. Pass the first flame and STOP; going further drops you to the asps. Jump over the hole [[gf3-15-6, gf1-8-24]]. A wall of fire appears near spikes [[gf1-8-23]]. Jump on a tile in the top group to reveal the question mark at the bottom, and grab it to open the east door [[gf3-15-5]]. Two hearts are on the north side [[gf3-15-4]]. The switch is in the top-left tile [[gf1-8-25, gf2-27-5]].
-6. **Room 6:** Pyramid guardians are immune to the dagger; use the Shockwave [[gf3-15-7, gf3-42-1]]. Kill the two enemies [[gf1-8-29]].
-7. **Room 7:** Kill the mini-mummy quickly, then the big mummy [[gf1-8-26]]. Grab the question mark on a tile to open the chest with a medicine [[gf3-15-8]]. Jump on the platform for medicine and wait for it to reappear [[gf1-8-27, gf1-8-28]].
-8. **Rooms 8 to 11:** Kill the Horus-like enemy [[gf1-9-1]]. There is a hole in the middle; fall through and push left [[gf1-9-2, gf2-27-8]]. In Room 10 press left as you fall in or you drop again; two hearts are in the bottom-left corner [[gf3-16-12, gf3-16-2]]. Room 11 has stairs in the upper right back to Room 10 [[gf3-16-3]].
-9. **Room 9 false floors:** Fall through the false floors among the circle of tiles to reach Room 10 [[gf3-16-1]]. Remember the hole in the middle when reaching the door [[gf1-9-3]].
-10. **Higher platforms:** Two switches, middle-left and bottom-right; hit both [[gf1-9-4, gf2-27-10]]. Kill all the enemies for the Try-Your-Luck sign [[gf1-9-5, gf2-27-11]]; there is also a life sign in Room 14 [[gf3-16-4]].
-11. **Horus and tarantulas:** Kill two Horus, then all the tarantulas; avoid the spikes and use the Shockwave [[gf1-9-6, gf1-9-7, gf1-9-8]].
-12. **Room 16:** Ride the conveyor and defeat each spider on the ledges [[gf3-16-5]]. Room 17 has hearts under a middle tile [[gf3-16-6]].
-13. **Snake room (Room 19):** The tile pattern resembles a snake. The switch is on the tip of the tail [[gf1-9-10, gf2-27-12, gf3-16-7]]. Two hearts are on the upper-left tile [[gf2-27-9]]. Kill the two big mummies [[gf1-9-11]]. A medicine comes from hitting the right tile of the middle block [[gf2-27-13]]. A tile at the top of Room 21 makes a medicine appear [[gf3-16-8]].
-14. **Flute room (Room 22):** Many mini-mummies [[gf1-9-13]]. Hit the switch and take the Flute [[gf1-9-14, gf3-16-9]].
+1. **Room 1:** jump on the middle tile in the group of tiles to the left for two hearts if you are low. Head north to Room 2 [[gf1-15-2, gf1-15-3]].
+2. **Room 2:** the force field needs the Psychic Shockwave to destroy. Then continue north to Room 3 [[gf1-15-4]]. Switch to the Psychic weapon to break it [[gf2-27-2]].
+3. **Room 3:** three ladybugs. Dispose of them and the door opens west to Room 4 [[gf1-15-5]].
+4. **Room 4:** two asps. Fight them or take the stairs in the upper left corner to Room 5 [[gf1-15-6]].
+5. **Room 5:** time the flame plume and walk past it. After the first flame, STOP: going further drops you back to the asps' floor. Jump over that part of the floor instead [[gf1-15-7]]. Jump on a tile in the top group to reveal the question mark at the bottom of the room. Grab it to open the east door. Two hearts are on the north side [[gf1-15-8, gf1-15-9]].
+6. **Room 6:** the east door from Room 5 leads here, and Room 6 connects north to Room 7 [[gf1-15-8, gf1-15-1]]. The two pyramid guardians are immune to your dagger, so switch to the Psychic Shockwave to dispose of them and open the door north to Room 7 [[gf2-20-2]].
+7. **Room 7:** defeat the mummy and mini-mummy, then hop on a tile to reveal the question mark. The chest then reveals a medicine container [[gf1-15-10]]. Jump to the right side to take the door south to Room 8 [[gf1-15-11]].
+8. **Room 8:** defeat the one Aman-Ra guardian to open the door east to Room 9 [[gf1-15-12]].
+9. **Room 9:** fall through the false floors in the middle of the circular tile pattern to reach Room 10 [[gf1-16-1]]. Hold left or right as you fall [[gf4-4-7]].
+10. **Room 10:** press the control pad left as you fall in, otherwise you land on another false floor and plunge to Room 11 [[gf1-16-2]]. Two hearts are in the bottom left corner [[gf1-16-3]]. Head east, avoiding the circling metal ball, to Room 12 [[gf1-16-4]].
+11. **Room 11:** four skeletons. Stairs in the upper right corner lead back to Room 10 [[gf1-16-5]].
+12. **Room 12:** defeat the pyramid guardian and the asp on the conveyor to open the east door to Room 13 [[gf1-16-6]].
+13. **Room 13:** go to the right side, jump up the columns, then jump left to the column with tiles. Hit a tile for the question mark, jump down and grab it to open the east wall to Room 14 [[gf1-16-7]].
+14. **Room 14:** defeat the nearby mummy, jump the spikes, defeat the ladybugs and the remaining mummy to open the north door to Room 15. A life sign is here if you want to try your luck [[gf1-16-8, gf1-16-9]].
+15. **Room 15:** defeat the two Aman-Ra guardians to open the north door to Room 16 [[gf1-16-10]].
+16. **Room 16:** ride the middle conveyor around and defeat each spider on the ledges to open the north door to Room 17 [[gf1-16-11]].
+17. **Room 17:** defeat the three ladybugs to open the door west to Room 18. A middle tile reveals two hearts [[gf1-16-12]].
+18. **Room 18:** defeat two mini mummies and two pyramid guardians to open the north door to Room 19 [[gf1-16-13]].
+19. **Room 19:** jump on the tail tile of the snake-like pattern to reveal the question mark and open the east door to Room 20 [[gf1-16-14]].
+20. **Room 20:** defeat the two mummies to open the east door to Room 21 [[gf1-16-15]].
+21. **Room 21:** defeat the Aman-Ra guardian to open the south door to Room 22. Jump on a tile at the top to make a medicine appear [[gf1-16-16]].
+22. **Room 22:** activate the tile and grab the question mark to reveal a flute from the chest [[gf1-16-17]]. Defeat the four mini mummies to open a west wall back to Room 17 [[gf1-16-18]].
 
 
 > [!ACHIEVEMENT]
@@ -926,23 +944,24 @@ Some enemies can only be hurt by the Shockwave [[gf4-4-23, gf2-27-4]]. Jump on a
 > *Pick up the flute.*
 
 
-   Defeat the mini-mummies to open the west wall back toward Room 17 [[gf3-16-10]].
-15. **Back in the snake room:** Use the Flute [[gf1-9-15, gf2-27-14]]. The snakes come out; kill them to open the secret passage to Room 23 [[gf2-27-15, gf2-27-16, gf3-16-11, gf4-4-26]]. The snakes dodge and move a lot, so be patient [[gf4-4-34]].
-16. **Rooms 23 to 24:** Follow the platforms across the mummy room for the potion [[gf1-9-16]]. Room 24 has two hearts and another medicine in the left corner [[gf3-17-1, gf3-17-2]]. The pyramid holds three medicines total [[gf4-4-27]].
+23. **Room 17, then Room 18:** you have already been to these rooms. From Room 17 go to Room 18 and then Room 19 [[gf1-16-18]].
+24. **Room 19 (revisited):** use the flute to make three asps appear. Defeat all three and a north wall opens to Room 23 [[gf1-16-19]]. To use it, pause, press down and select the Flute [[gf2-27-6]].
+25. **Room 23:** nothing here. Take the door north to Room 24 [[gf1-17-1]].
+26. **Room 24:** defeat the mummy and mini mummy, then jump across the tiles to the left. Two hearts and another medicine are in the left corner. Take the path north to Room 25 [[gf1-17-2, gf1-17-3]].
+27. **Room 25:** the boss fight, described in the next section. A door opens east to Room 26 [[gf1-17-5]].
+28. **Room 26:** exit north [[gf1-17-6]].
 
-> [!CAUTION]
-> **Point of No Return:** The Tetrad after the Monster Mask ends Chapter 3 and Mike moves on to London. Make sure you have Jack's dagger, the Thrower, four small stars, the Monkey Maze Big Heart and the Flute first [[gf4-4-30, gf5-5-11]].
+### Monster Mask
 
-### Monster Mask (Boss)
+🗺️ **Map:** [View Chapter 3: Level 2 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2180-chapter-3-level-2-map)
 
-The next room holds the boss [[gf1-9-17]]. The room has its top half blocked off and directional arrows on the bottom [[gf4-4-41]]. Difficulty: Moderately Easy [[gf1-18-11]].
+- The bottom half of the room is covered in conveyors that force you back to the bottom wall. A guard rail divides the room, and the boss floats in the top part [[gf1-17-4]].
+- He mostly shoots a spray of 5 bullets. Occasionally he reveals a skeleton face and shoots a more powerful shot, so avoid those. As he is damaged he moves faster and turns red [[gf1-17-4]].
+- Use the Shockwave and attack from the edge [[gf2-27-7, gf3-18-5]]. Stay close to the wall, moving against the arrows. Never get in front of his mouth, since the energy blast can kill in one hit [[gf4-4-10]].
+- Once red, he may launch two spreads at once or open his mouth for a powerful beam, so steer clear [[gf3-18-5]]. He may also fire a blue laser beam [[gf2-38-5]].
+- Defeating him raises your life meter by 1 [[gf2-27-8]].
 
-- The conveyor belt makes the fight a little challenging; learn its simple pattern and switch to the Shockwave [[gf2-27-17, gf2-27-18]].
-- Hit it from the edge with the Shockwave. The conveyor belts shouldn't affect you much [[gf1-18-12]].
-- Stay clear of the powerful energy beam released when it opens its mouth [[gf1-18-14, gf2-27-20]].
-- After decent damage it turns red and speeds up, firing two bullet spreads or the beam [[gf1-18-13, gf2-27-19]].
-
-Walk forward into the small room and claim the Tetrad [[gf4-4-30, gf1-9-18]].
+After the fight, follow the long narrow tunnel north to a room with another Tetrad [[gf1-18-1, gf4-4-11]].
 
 
 > [!ACHIEVEMENT]
@@ -951,109 +970,75 @@ Walk forward into the small room and claim the Tetrad [[gf4-4-30, gf1-9-18]].
 > *Complete the second dungeon in Chapter 3 and collect the Tetrad.*
 
 
+> [!TIP]
+> **Before you leave:** Make sure Jack's dagger, the Slingshot, the Big Heart, the Flute and the Shock Wave are all in hand. Going north at the end awards the Tetrad and a life-level increase, and the game saves [[gf5-5-6, gf5-5-7]]. The magic words then take Mike to Chapter 4 [[gf5-5-8]].
+
 > [!IMPORTANT]
 > ### Chapter 3 Cumulative 100% Checkpoint
-> - **Big Hearts:** 1 / 4 (Monkey Maze) [[gf4-4-15]]
-> - **Tetrads:** 2 / 7
+> - **Big Hearts:** 1 / 4 (Monkey Maze Part 2) [[gf3-8-4]]
+> - **Tetrads:** 2 / 7 (Pyramid) [[gf1-18-1]]
 > - **RetroAchievements Unlocked:** 13 / 31 (110 / 285 points)
 
 ### Chapter Checklist
 
-- [ ] Jack's bronze dagger collected (36885)
-- [ ] Slingshot from the Border Pass chest (36887)
+- [ ] Dagger obtained from Jack of All Trades (before the pizza)
+- [ ] Slingshot from the Border Pass chest
 - [ ] Giant Scorpion defeated
-- [ ] Pizza delivered (36889)
-- [ ] Sharp Edge unlocked with Jack's dagger (36886)
-- [ ] Four small stars held at once (36890)
-- [ ] Monkey Maze Big Heart (36891)
-- [ ] Psychic Shockwave learned (36892)
-- [ ] Flute picked up (36893)
-- [ ] Monster Mask defeated and Tetrad collected (36894)
+- [ ] Pizza delivered to Cleopatra
+- [ ] Four stars held at once (unconfirmed which stars count)
+- [ ] Big Heart from Monkey Maze Part 2
+- [ ] Psychic Shock Wave learned from the monkey
+- [ ] Flute from the Pyramid chest
+- [ ] Monster Mask defeated and Tetrad collected
 
 ---
 
-## Chapter 4: London
+## Chapter 4: Holmes's London
 
 ```mermaid
 flowchart TD
   London["London"]
-  London_Museum["London museum"]
-  Sewers["Sewers"]
-  Sewer_Part_I["Sewer Part I"]
-  Zodas_Creature{{"⚔ Zoda's Creature"}}
-  Sewer_Part_II["Sewer Part II"]
-  Zoda_X{{"⚔ Zoda-X"}}
-  Boulder_Miner{{"⚔ Boulder Tossing Miner"}}
-  Mashing_Miner{{"⚔ Mashing Miner"}}
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  LondonSewers["London Sewers"]
+  ZodasCreature{{"⚔ Zoda's Creature"}}
+  LondonSewers2["London Sewers 2"]
+  ZodaX{{"⚔ Zoda-X"}}
+  BoulderMiner{{"⚔ Boulder Tossing Miner"}}
+  MashingMiner{{"⚔ Mashing Miner"}}
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  London -->|"escape the jail, then on to the museum"| London_Museum
-  London_Museum -->|"manhole south of the open manhole"| Sewers
-  Sewer_Part_I --> Zodas_Creature
-  Zodas_Creature --> Sewer_Part_II
-  Sewer_Part_II --> Zoda_X
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  London --> LondonSewers
+  ZodasCreature --> LondonSewers2
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Zodas_Creature,Zoda_X,Boulder_Miner,Mashing_Miner,Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class ZodasCreature,ZodaX,BoulderMiner,MashingMiner,ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+This chapter has three achievements: the Big Heart in the first manhole (Down the Sewers), the Spike Ball from a chest in the second sewer (That Does NOT Look Like a Ball), and the Tetrad at the end of the second dungeon (The Mystery of the Tetrad) [[gf1-18-6, gf1-20-3, gf1-22-1]]. You meet Sherlock Holmes, get jailed, escape through the east wall, see Zoda-X steal the stone at the museum, then clear two sewer dungeons [[gf1-18-2, gf1-18-3, gf1-18-4, gf5-5-11]].
 
-Mike arrives at 221B Baker Street in London and meets Sherlock Holmes [[gf1-9-20]]. The chapter has three main stages:
+> [!TIP]
+> The game saves your progress at the end of each of the two dungeons [[gf5-6-1, gf5-6-2]].
 
-1. Escape the jail and reach the museum, where Zoda-X steals the Tetrad.
-2. Collect the Big Heart from the open manhole to the left of the museum.
-3. Clear the two-part sewer dungeon and defeat Zoda-X.
+### Chapter 4 Achievements
 
-The sewers are the toughest dungeon so far, according to one guide [[gf2-28-8]]. The Big Heart is the reward for the first achievement here, and the Spike Ball (spiked frisbees / throwing stars) in Sewer Part II is the reward for the second. Both must be collected before the Tetrad, which ends the chapter [[gf4-6-3, gf4-6-5]].
-
-> [!WARNING]
-> **Missable Achievement Warning:** Take the open manhole to the LEFT of the museum for the Big Heart before you drop into the sewer manhole to the south [[gf2-28-6, gf3-18-3]]. Also pick up the Spike Ball (spiked frisbees / throwing stars) in Sewer Part II before you finish Zoda-X [[gf3-20-1, gf4-5-17]].
-
-### Chapter Items to Collect
-
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Big Heart (heart container) | Open manhole to the left of the museum | **TAKE** before the south manhole | [[gf2-28-6, gf4-5-9]] |
-| Funky orb | Sewer Part I start room, top right switch | **HIT** the raft switch | [[gf1-10-2]] |
-| Medicine | Sewer Part I, giant rat room | **TAKE** (optional) | [[gf1-10-27, gf3-19-5]] |
-| Spiked frisbees (Spike Ball) | Sewer Part II Room 2 chest | **OPEN** after defeating the Zoda spawns | [[gf3-20-1]] |
-| Medicine | Sewer Part II Room 5 chest | **OPEN** via the left tile | [[gf3-20-2]] |
-| Medicine | Sewer Part II Room 10 chest | **OPEN** via the left tile | [[gf3-20-3]] |
-| More spiked frisbees | Sewer Part II raft room (Room 18) | **TAKE** | [[gf3-21-1]] |
-| Medicine | Sewer Part II Room 20 | **TAKE** | [[gf3-21-6]] |
-| Tetrad | Sewers after Zoda-X | **TAKE** | [[gf4-6-3]] |
-
-Medicine total in Sewer Part II: four, per one guide [[gf4-5-16]]. Throwing stars appear in two locations [[gf4-5-17]].
+- **Down the Sewers:** take the Big Heart from the open manhole to the left [[gf1-18-6, gf2-28-2]].
+- **That Does NOT Look Like a Ball:** open the chest in the room with three Zoda spawns in London Sewers 2 (Room 2) [[gf1-20-3]].
+- **The Mystery of the Tetrad:** finish both dungeons and pick up the Tetrad [[gf1-22-1, gf5-6-3]].
 
 ### London
 
-🗺️ **Map:** [View Chapter 4 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15888-chapter-4-overworld-map)
+🗺️ **Map:** [View Chapter 4: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15888-chapter-4-overworld-map)
 
-Follow the trail from the start and you are taken to a scene with Holmes [[gf1-9-20]]. He says a robbery will occur at the museum tonight. A rascal named Zoda-X intends to steal a curious stone [[gf1-9-22, gf2-28-2]]. He asks you to meet him at the museum at midnight [[gf1-9-21]].
+1. You arrive at 221B Baker Street, London [[gf5-5-8]]. Walk around and you will eventually bump into Sherlock Holmes. He says Zoda-X will be at the museum tonight and tells you to meet him there at midnight [[gf1-18-2]].
+2. Continue until you find a police officer and talk to him. He puts you in jail [[gf1-18-3, gf5-5-10]].
+3. In the jail, look along the East wall to find an escape and take it to get back outside [[gf1-18-4]]. Another guide says to press against a section of the eastern wall of your cell [[gf4-5-1]]. One guide describes this as the right-hand wall [[gf2-28-1]].
+4. Outside, head North and then West until you come between two buildings. Pass through, say hello to the sleepwalker, and continue North until you find the museum with Holmes waiting [[gf1-18-5, gf3-9-6]].
+5. At the museum, Holmes shows you the stone. Zoda-X appears, takes the Tetrad and escapes, and Holmes tells you to give chase [[gf5-5-11]].
 
-#### The Jail Escape
-
-1. Follow the path until you reach a police officer, then talk to him. He throws you in jail for being suspicious [[gf1-9-23, gf2-28-4]].
-2. A prisoner in the cell says you should not try to escape [[gf5-5-18]]. Ignore him.
-3. Feel along and push against the right wall of the cell until you find the escape path [[gf1-9-24, gf2-28-5]].
-4. Follow the path outside.
-5. Walk in between the two buildings to find another secret passage [[gf1-9-25]].
-6. Continue to the museum.
-
-### London Museum
-
-At the museum, Zoda-X takes the stone, which is a Tetrad, and escapes [[gf1-9-26, gf5-5-20]].
-
-#### The Big Heart Manhole
-
-When you are back on the streets, take the open manhole to the LEFT. A Big Heart container is below [[gf2-28-6, gf3-18-2, gf4-5-9]].
+#### The Big Heart manhole
 
 
 > [!ACHIEVEMENT]
@@ -1062,105 +1047,87 @@ When you are back on the streets, take the open manhole to the LEFT. A Big Heart
 > *Obtain the Heart Container in Chapter 4.*
 
 
-Climb back up. Then head south to the next manhole, which is the chapter's dungeon [[gf2-28-7, gf3-18-3]].
+Once you are back on the streets, head left to the open manhole and descend. A Big Heart is below [[gf1-18-6, gf2-28-2, gf3-10-1]]. Another guide also says to take the manholes to your left first [[gf4-5-2]]. Climb back up, then look for the other manhole South of there. Take it down to start the sewer dungeon [[gf1-18-7]].
 
-### Sewers: Sewer Part I
+### London Sewers
 
-🗺️ **Map:** [View Chapter 4 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2182-chapter-4-level-1-map)
+🗺️ **Map:** [View Chapter 4: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2182-chapter-4-level-1-map)
 
-Jump on the raft, then onto the switch in the top right corner of the screen [[gf2-28-9, gf1-10-2]]. Take the funky orb, or run through the question mark, to continue [[gf1-10-2, gf2-28-10]].
+The sewers run Room 1 to Room 13, with the boss in Room 12 and the exit in Room 13 [[gf1-19-1]].
 
-1. Hit the top right tile and head out the open doorway to the left [[gf1-10-3]].
-2. Kill all the enemies in the next room; a door opens [[gf1-10-4, gf2-28-11]].
-3. In the room with monkeys on platforms, a switch is hidden on the second tile from the top on the left side. It opens a passage to the giant rat room [[gf1-10-5]]. Take the switch first, then fight the rats [[gf2-28-12]].
-4. Giant rats: hit them a few times, run back, then hit them again [[gf2-28-13]].
-5. Collect the medicine in the rat room [[gf2-28-14, gf1-10-27]]. One guide thinks it is not worth it, since you will probably need a potion after the rats anyway [[gf1-10-28]].
-6. Go back to the room with the monkeys on the platforms [[gf2-28-15]].
-7. In the owl room, hit owls by jumping at them or by standing on higher ground. Defeat all three and the boss door opens [[gf1-10-6, gf1-10-7, gf2-28-16]].
+1. **Room 1:** a plain entrance. Head North [[gf1-19-2]].
+2. **Room 2:** no enemies, only a log raft floating back and forth. Ride it to the tile in the upper right to activate the question mark, grab it, and the door North opens [[gf1-19-3, gf3-10-3]].
+3. **Room 3:** five yellow jellyfish. Hop over the water to the right, then take the North passage to Room 4, or jump back left to take the North passage to Room 5 [[gf1-19-4]]. You can defeat the jellyfish if you want [[gf1-19-4]].
+4. **Room 4:** three rats and three blue blobs. Defeat them all and a room opens West to Room 5 [[gf1-19-5]].
+5. **Room 5:** four red frogs. You do not have to defeat them, but it helps you reach the tile in the upper left. Activate it, grab the question mark, and the North wall opens to Room 6 [[gf1-19-6]].
+6. **Room 6:** defeat the two large rats to open the North wall to Room 7 [[gf1-19-7]]. Giant rats are slow, so hit them a few times, back off, and repeat [[gf2-29-3]].
+7. **Room 7:** only a medicine. Grab it, then retrace your steps through Room 6 and Room 5, and go South from Room 5 to Room 3 [[gf1-19-8]].
+8. **Room 3 (Revisited):** hop on one of the tiles to your right to reveal the question mark. Grab it to open the gate West to Room 8 [[gf1-19-9]].
+9. **Room 8:** three small rats. You follow a path back and forth between this room and Room 9 until you end up in Room 8 again, at a door going West to Room 10 [[gf1-19-10]].
+10. **Room 9:** avoid or defeat the rats as you follow that path [[gf1-19-11]].
+11. **Room 10:** two jellyfish and two red frogs, plus 4 paths with conveyor tiles that can push you off the path into the water. Defeat all enemies to open the wall North to Room 11 [[gf1-19-12]].
+12. **Room 11:** three owls. Defeat them and the door North opens [[gf1-19-13]]. Owls are hit by jumping or by standing on higher ground [[gf3-10-9]].
+13. **Room 12 (Boss: Zoda's Blob, also called Zoda's Creature):** see the next section. Afterwards, jump on one of the tiles it was on to get the question mark that opens the door East [[gf1-19-14]].
+14. **Room 13:** exit back to the overworld [[gf1-19-15]].
 
-### Zoda's Creature (Boss)
+Another guide notes only one medicine in this first sewer area, which is the Room 7 medicine [[gf4-5-3, gf1-19-8]].
 
-The next room contains the first boss [[gf2-28-17]]. It sits in the middle of the water. A room-by-room guide calls it Zoda's Blob and says you must keep moving and not stand on one tile too long [[gf3-19-1, gf3-19-3]].
+### Zoda's Creature
 
-- You do not need to kill it in one go [[gf2-28-18, gf2-28-19]].
-- Four platforms appear and disappear around it. Hit it a few times, jump to the next platform, and repeat [[gf2-28-20, gf2-28-21]].
-- Its shots are weak [[gf2-28-22]].
-- From the platform below it, jump down to dry ground and repeat the process [[gf2-28-23]].
-- Another guide says the creature appears on a small island in the middle of a lake [[gf4-5-22]].
-- After the fight, jumping on a tile the blob was on reveals a question mark that opens the east door [[gf3-19-4]].
+- It sits in the middle of the water with four platforms that appear and disappear around it. You do not have to kill it in one go: jump on a platform, hit it a few times, jump to the next platform, and repeat [[gf2-28-4, gf2-38-6]].
+- When you reach the platform below it, jump down to dry ground and repeat [[gf2-28-4]]. Dropping to dry land from the bottom platform is the step many players miss [[gf2-37-1]]. Do not stay on one platform too long [[gf3-18-7]].
+- Another guide's version: go to the top-right platform, jump to the first raft, hop along the rafts that pop up, throw a couple of daggers on each, then return to dry land and the platform and repeat [[gf4-5-4]].
+- After the fight, you see Zoda slithering away. Follow behind into the next sewer [[gf3-10-10]].
 
-After the fight, strange footprints show Zoda is still fleeing. Follow him into the next cave [[gf1-10-1, gf4-5-30, gf4-5-12]].
+### London Sewers 2
 
-### Sewer Part II
+🗺️ **Map:** [View Chapter 4: Level 2 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2183-chapter-4-level-2-map)
 
-🗺️ **Map:** [View Chapter 4 Level 2 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2183-chapter-4-level-2-map)
+This dungeon runs Room 1 to Room 22, with Zoda X in Room 21 and the exit in Room 22 [[gf1-20-1]]. The game saves when you finish the first dungeon [[gf5-6-1]].
 
-Pick up the hearts to your left and right at the start; you will need them [[gf1-10-9]]. Walk on every tile, since some hold secrets [[gf4-5-31]].
+1. **Room 1:** two hearts to the left, and two more pairs of two hearts to the right if you jump on the tiles that way. Otherwise head North [[gf1-20-2]].
+2. **Room 2:** three Zoda spawns. Defeat them and jump on the tile to open the chest with the spiked frisbees. Then head West to Room 3 [[gf1-20-3]].
 
-**Room 2 (Spike Ball chest):** Defeat the Zoda spawns and jump on the tile to open the chest, which holds spiked frisbees (the Spike Ball) [[gf3-20-1, gf3-41-19]].
-
-
+ 
 > [!ACHIEVEMENT]
 > **That Does NOT Look Like a Ball (5 Points)**
 > ![Badge](https://retroachievements.org/Badge/612755.png)
 > *Pick up the Spike Ball Item in Chapter 4.*
 
 
-**Larva room:** Kill the larva dudes and the door opens, but do not forget the chest [[gf1-10-10, gf1-10-11]]. The switch is third from the right in its column [[gf1-10-12, gf2-29-2]].
+   One guide calls them spiked frisbees, found in Scotland Yard [[gf1-20-3, gf1-41-22]]. Another guide's name for this item is the Spike Ball, which goes in a straight, short line and damages any enemy in its way [[gf2-21-2]].
+3. **Room 3:** two large rats. Defeat them to open the door South [[gf1-20-4]].
+4. **Room 4:** two small rats and two owls. Defeating the owls opens the wall South to Room 5, and a tile opens the door West to Room 6 [[gf1-20-5]].
+5. **Room 5:** jump on the tile on the left side to open the chest with medicine, then head back to Room 4 [[gf1-20-6]].
+6. **Room 6:** no enemies, but many carefully timed jumps. Keep heading left to the exit South [[gf1-20-7]].
+7. **Room 7:** defeat the two caterpillars to open the door South [[gf1-20-8]].
+8. **Room 8:** dispose of the four blue blobs and the door East opens [[gf1-20-9]].
+9. **Room 9:** three sets of tiles. Activate the mark on the tile in the middle group, grab it, and the wall South opens [[gf1-20-10]].
+10. **Room 10:** jump on the left tile to open a chest with medicine, then go back to Room 9 [[gf1-20-11]].
+11. **Room 9 (Revisited):** fall through the floor in the middle of one of the tiles to drop to Room 11 [[gf1-20-12]]. Another guide says to fall down the left group first, then the right one, and finally the center [[gf4-5-6]].
+12. **Room 11:** three vertical rows, and which row you landed on decides your exits [[gf1-20-13]]. To progress, take the middle path South to Room 16 and then East to Room 17 [[gf1-20-13, gf1-21-2]]. The right path East to Room 14 and then South to Room 17 also works [[gf1-20-13, gf1-20-16]]. The North exit (Room 12) and the West exit (Room 13) are detours, covered in steps 13 and 14 [[gf1-20-13]].
+13. **Room 12 (detour):** each path ends in a ladder North that takes you upstairs to Room 15 [[gf1-20-14]].
+14. **Room 13 (detour):** a dead end whose tile pattern is a skull. Defeat all the Zoda spawns, grab two hearts, and find the mark to open the door East back to Room 11 [[gf1-20-15]].
+15. **Room 14:** three Zoda spawns and one blue blob on the other side of the water. Defeat the spawns, jump across, defeat the blob, and take the path South to Room 17 [[gf1-20-16]].
+16. **Room 15 (detour):** four blue blobs. Dispose of them if you wish and look for a tile to open the wall South, which takes you back to Room 9 [[gf1-21-1]].
+17. **Room 16:** defeat the five small rats to open the wall East to Room 17 [[gf1-21-2]].
+18. **Room 17:** defeat the two caterpillars to open the door South to Room 18 [[gf1-21-3]].
+19. **Room 18:** jump from raft to raft. There are two hearts, more spiked frisbees, and a life sign if you feel lucky. The exit is South to Room 19 [[gf1-21-4]].
+20. **Room 19:** defeat the four Zoda spawns to open the wall East to Room 20. The switch here opens the door West to the boss in Room 21, so do Room 20 first [[gf1-21-5]].
+21. **Room 20:** grab the medicine and head back West to Room 19, avoiding or defeating enemies as needed [[gf1-21-6]].
+22. **Room 21 (Boss: Zoda X):** see the next section [[gf1-21-7]].
+23. **Room 22:** the exit back to the overworld [[gf1-21-8]].
 
-**Giant rats:** They move slowly. Hit them a few times, move back, and repeat [[gf2-29-3]]. Beat both and head out the door [[gf1-10-13]].
+Another guide counts four medicines in this stage, plus throwing stars in two locations [[gf4-5-5]]. Another guide says you restart at the halfway point when you die, and that the Try-Your-Luck Sign near it is fairly close to the boss [[gf3-10-19]].
 
-**Room 4:** Defeat the owls and the south wall opens to Room 5. A tile here also opens the west door to Room 6 [[gf3-20-4, gf3-20-5]].
+### Zoda-X
 
-**Room 5 (chest):** Jump on the left tile to open the chest, which holds medicine [[gf3-20-2]].
+- The room is full of conveyor belts in multiple directions, so walking in a straight line is hard [[gf1-21-7]].
+- Zoda X appears in random spots and either shoots a spread of shots or makes a ring of fire. Avoid both as best you can and hit him when he becomes visible [[gf1-21-7, gf3-18-7]].
+- Another guide says he fires blue flames from the floor when you are far away, and a short-range spread of five skulls you can jump over. He teleports a few seconds after attacking [[gf2-29-13, gf4-6-1]].
+- Jump constantly, jump near him as soon as he appears, jump over his skeletons, and hit him before he teleports [[gf2-29-14, gf2-39-2]].
 
-**Secret medicine room:** Killing all enemies opens a secret medicine room. The switch is on the middle left tile [[gf1-10-14, gf1-10-15]]. Hit the switch in the previous room as well [[gf2-29-4]].
-
-**Raft room:** Take the moving raft down to get an item, return to the start of the room, then jump from moving raft to moving raft to exit [[gf2-29-5, gf2-29-6]]. The raft in the second room is tricky and you can fall into the water [[gf4-5-21]].
-
-Kill the green floaty things (and the jumping blue slimes) before moving on [[gf1-10-16, gf2-29-7]].
-
-**Three tile sets:**
-1. Step on the middle group's tile to activate a mark. Grab it and the south wall opens [[gf3-20-6, gf3-20-7]]. A switch is hidden on the left of the middle set and gives medicine [[gf1-10-17, gf2-29-8]].
-2. Step on the right tile to open a doorway with medicine inside [[gf2-29-9, gf1-10-18]].
-3. Head out and up the stairs at the top [[gf1-10-19]].
-
-**Room 10 (chest):** Jump on the left tile to open the chest with medicine [[gf3-20-3]].
-
-**Falling through the floor:** Fall through the middle of one of the tiles to land in Room 11 [[gf3-20-13]]. Fall left first, then right, then center [[gf4-5-33, gf4-5-34]]. You find another medicine this way [[gf4-5-15]]. Going down the middle set leads to more rats; killing them opens a doorway on the right [[gf2-29-10, gf1-10-20, gf1-10-21]].
-
-**Room 11 (three paths):** The middle path leads south to Room 16 [[gf3-20-8]].
-- Room 13: after defeating the Zoda spawns, grab two hearts and find the mark to open the east door [[gf3-20-9]].
-- Room 12: the ladders at the path ends take you back up to Room 15 [[gf3-20-10]].
-- Room 14: defeat three Zoda spawns and a blue blob, then take the path south to Room 17 [[gf3-20-11, gf3-20-12]].
-
-**Halfway point:** You restart here after dying. The Try-Your-Luck sign gives nearly unlimited tries since the boss is close [[gf1-10-22, gf1-10-30]]. Grab the hearts and sign, then jump from raft to raft [[gf1-10-23, gf2-29-11]]. The switch is in the upper middle tile [[gf1-10-24]]. Grab the disc and jump onto the platform when you see the raft coming. The platform disappears, so do not wait on it [[gf1-10-25, gf1-10-26, gf2-29-12, gf2-29-13]].
-
-**Room 18 (raft room):** Jump from raft to raft. More spiked frisbees are here [[gf3-21-1, gf3-21-3]]. You can also take the life sign if you feel lucky [[gf3-21-2]].
-
-**Room 19:** Defeat the four Zoda spawns and the east wall opens [[gf3-21-4]]. Do not use the west switch yet; it opens the boss room [[gf3-21-5]].
-
-Kill the larva to open another secret and grab the medicine (you should have about 3 by now) [[gf1-11-1, gf1-11-2]]. In the next room kill the enemies and grab the medicine [[gf2-29-14]].
-
-**Room 20:** There is a medicine here. Do this before the boss [[gf3-21-6, gf3-21-14]].
-
-Defeat the larvae before hitting the bottom right switch, or you will likely take serious damage [[gf1-11-3, gf2-29-15]].
-
-### Zoda-X (Boss)
-
-Difficulty: Hard [[gf1-18-19]]. Have three medicines for this fight [[gf2-29-22]].
-
-- The whole room is covered with multi-directional conveyor belts (arrows on every tile), so you drift constantly [[gf1-18-22, gf2-29-27, gf3-21-9]].
-- Zoda-X teleports around, then fires a spread of bullets or a ring of fire [[gf1-18-20, gf3-21-10]].
-- Avoid the fire; it deals lots of damage [[gf1-18-21]].
-- He appears in random locations; hit him whenever he becomes visible [[gf3-21-11, gf3-21-12]].
-- When you are far away, he shoots four blue flames from the floor. Up close he shoots five skulls you can jump over [[gf2-29-17, gf2-29-18, gf2-29-19, gf2-29-26]].
-- Jump near him as soon as he appears, jump over the skeletons, and hit him a few times before he teleports [[gf2-29-21, gf2-29-20]].
-
-> [!CAUTION]
-> **Point of No Return:** Recovering the Tetrad from Zoda-X ends Chapter 4. Take the Big Heart from the manhole left of the museum and the spiked frisbees (Spike Ball) in Sewer Part II first [[gf4-6-3, gf4-6-5, gf5-6-6]].
-
-Once Zoda-X is defeated, take the north door to the exit room [[gf3-21-13]]. Pick up the stolen Tetrad; your life level increases [[gf4-6-3, gf1-11-5]].
+### The Tetrad
 
 
 > [!ACHIEVEMENT]
@@ -1169,22 +1136,27 @@ Once Zoda-X is defeated, take the north door to the exit room [[gf3-21-13]]. Pic
 > *Finish both dungeons in Chapter 4 and obtain the Tetrad.*
 
 
-Exit the sewers and head north. Holmes praises you and deduces there must be a Zoda-Y and Zoda-Z [[gf5-6-3, gf2-29-24]]. Mike then uses the Oxford World Wonders book; the right page shows Chapter 5 [[gf5-6-6, gf5-6-7]].
+After Zoda-X falls, take the door North [[gf1-21-7]]. Follow the path to pick up the Tetrad, which raises your life level [[gf5-6-3, gf3-11-3]]. Another guide says to head north to exit and then find the dropped Tetrad in the sewers [[gf4-6-2]].
+
+Exit the sewers and go north to talk to Holmes, who deduces there must also be a Zoda-Y and Z [[gf5-6-4, gf2-29-15]]. Then say the magic words into the Oxford World Wonders to travel to the next time period [[gf5-6-5, gf1-22-2]].
+
+> [!TIP]
+> Before you leave, confirm you took the Big Heart from the left manhole and opened the chest in the room with three Zoda spawns in the second sewer [[gf1-18-6, gf1-20-3]].
 
 > [!IMPORTANT]
 > ### Chapter 4 Cumulative 100% Checkpoint
-> - **Big Hearts:** 2 / 4 (manhole left of the museum) [[gf2-28-6]]
-> - **Tetrads:** 3 / 7 [[gf4-6-3]]
+> - **Big Hearts:** 2 / 4 (this chapter's Big Heart is in the left manhole [[gf1-18-6]])
+> - **Tetrads:** 3 / 7 (this chapter's Tetrad comes after Zoda-X [[gf5-6-3]])
 > - **RetroAchievements Unlocked:** 16 / 31 (135 / 285 points)
 
-### Chapter Checklist
+### Checklist
 
-- [ ] Escaped the jail via the right wall and reached the museum
-- [ ] Took the Big Heart from the open manhole left of the museum
-- [ ] Cleared Sewer Part I and defeated Zoda's Creature
-- [ ] Opened the Room 2 chest in Sewer Part II for the spiked frisbees
-- [ ] Collected the Sewer Part II medicine and the raft-room frisbees
-- [ ] Defeated Zoda-X and took the Tetrad
+- [ ] Escaped the jail through the east wall and reached the museum
+- [ ] Big Heart from the left manhole (Down the Sewers)
+- [ ] London Sewers cleared; Zoda's Creature defeated
+- [ ] Spiked frisbees chest in the room with three Zoda spawns (That Does NOT Look Like a Ball)
+- [ ] Zoda-X defeated and Tetrad obtained (The Mystery of the Tetrad)
+- [ ] Talked to Holmes before leaving
 
 ---
 
@@ -1192,135 +1164,128 @@ Exit the sewers and head north. Holmes praises you and deduces there must be a Z
 
 ```mermaid
 flowchart TD
-  Wild_West["Wild West"]
-  Gold_Cave["Gold Cave"]
-  Boulder_Miner{{"⚔ Boulder Tossing Miner"}}
-  Gold_Cave_Part_II["Gold Cave Part II"]
-  Mashing_Miner{{"⚔ Mashing Miner"}}
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  WildWest["Wild Wild West"]
+  GoldCave["Gold Cave"]
+  BoulderMiner{{"⚔ Boulder Tossing Miner"}}
+  GoldCave2["Gold Cave, Part II"]
+  MashingMiner{{"⚔ Mashing Miner"}}
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Wild_West -->|"dynamite three spaces below the southern colored-rock cave"| Gold_Cave
-  Gold_Cave --> Boulder_Miner
-  Gold_Cave --> Gold_Cave_Part_II
-  Gold_Cave_Part_II --> Mashing_Miner
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  WildWest -->|"Dynamite"| GoldCave
+  BoulderMiner --> GoldCave2
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Boulder_Miner,Mashing_Miner,Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class BoulderMiner,MashingMiner,ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+Chapter 5 drops Mike into a rocky desert with a town to the north. You gather dynamite from Bob's store, blast caves on the mountain ridge for nuggets and a Big Heart, then blast open the way into the Gold Cave. Two mining dungeons follow, each with a miner boss. The second ends with a Tetrad. [[gf1-22-3, gf2-30-1, gf3-11-5, gf1-23-1]]
 
-Chapter 5 drops Mike into the Wild West, a desert with a mining town, a mountain wall full of bombable spots, and two dungeons: the Gold Cave and Gold Cave Part II [[gf2-29-25]]. The town work is all dynamite. Do all of it before you enter the Gold Cave. Bob's Store gives you dynamite, and you can return for more whenever you run out [[gf3-23-2, gf3-23-10]].
+> [!TIP]
+> **Open question (unconfirmed):** No source says which "stars" the *What Do These Do?* achievement (4 stars at once) counts: small stars dropped by enemies, or Invincibility Stars stored as Magic Items. If it has not unlocked by the time you reach this chapter's second Gold Cave, keep both Invincibility Stars unused in your Magic Items instead of spending them on the boss. [[gf3-5-1, gf3-5-9]]
 
-> [!WARNING]
-> **Missable Achievement Warning:** The nugget caves, the Big Heart cave and the gold sale to Bob must all be finished BEFORE you enter the Gold Cave. The gold nugget is lost at the start of the next chapter unless you sell it to Bob [[gf3-23-7]]. Blast every nugget cave and the Big Heart cave first (Heart of Gold, Not Quite a Gold Nugget and Real Gold are all earned in the blasting section below). Selling the gold only gives points [[gf3-23-8]].
-
-Notes on the nugget achievements:
-- One nugget cave holds a real gold nugget and another holds a chicken nugget, which you eat and which does nothing [[gf4-6-12, gf4-6-14, gf5-7-6]].
-- Open every nugget cave so that both achievements unlock whichever way they are read [[gf2-30-5]].
-- A community comment says the passages are found by leaving the village toward the cacti and going straight to the first passage. It also says the area has 4 secret passages besides the main entrance [[ra-comments-19-1, ra-comments-19-2]].
-
-### Chapter Items to Collect (11 Entries)
-
+### Chapter Items to Collect (key items)
 | Item | Where Found | Action / Requirement | Citation |
 |---|---|---|---|
-| Dynamite | Bob's Store (restock any time) | **TAKE**, talk to Bob | [[gf1-11-13, gf1-11-16]] |
-| Big Heart | West/south mountain wall, between two rocks | **BLAST** | [[gf1-11-15, gf4-6-16]] |
-| Gold nugget (end of lower light path) | Lower light-colored pathway | **BLAST**, then sell to Bob | [[gf1-11-18]] |
-| Gold nugget | Two spaces north of the northern colored cave | **BLAST** | [[gf4-6-17]] |
-| Gold nugget | Southernmost bombable part of wall | **BLAST** | [[gf4-6-18]] |
-| Chicken nugget | Other colored-rock cave and other caves | **BLAST** | [[gf4-6-14, gf4-6-40]] |
-| Bola | Real chest, Gold Cave | **TAKE** | [[gf1-11-25]] |
-| Medicine | Gold Cave secret door / chest | **TAKE** | [[gf1-11-26, gf2-30-20]] |
-| Super Psychic Shockwave | Donkey after the Boulder Tossing Miner | **TALK** | [[gf1-11-30]] |
-| Invincibility Stars | Gold Cave Part II (two) | **TAKE**, save one for the boss | [[gf4-7-8]] |
-| Tetrad | Circle of rocks after the Mashing Miner | **TAKE** | [[gf4-7-18]] |
+| Dynamite | Bob's store, lower right of town | **TAKE** (free; more on return visits) | [[gf2-30-1, gf5-7-1]] |
+| Chicken nugget ("gold nugget") | Cave opened along the lighter rock trail | **TAKE** | [[gf5-7-3, gf4-6-5]] |
+| Real gold nugget | Another blasted cave on the ridge | **TAKE** | [[gf5-7-4, gf4-6-5]] |
+| Big Heart | Between the two boulders low on the west wall | **TAKE** | [[gf2-30-2, gf3-11-6]] |
+| Bola | Real chest in the Gold Cave | **TAKE** | [[gf2-30-7, gf3-11-11]] |
+| Super Psychic Shock Wave | Donkey after the Boulder Tossing Miner | **TALK** | [[gf1-25-1, gf3-11-13]] |
+| Invincibility Star | Switch-opened chests in the second cave | **TAKE** | [[gf2-31-1, gf2-31-4]] |
+| Tetrad | North of the Mashing Miner | **TAKE** | [[gf4-7-9, gf5-7-8]] |
 
-### Wild West Town
+### Wild Wild West
 
-1. Go north from where you appear until you reach the town, which looks like a pile of garbage [[gf1-11-29, gf2-30-1]].
-2. Talk to everybody outside, then enter the shop at the top of the screen and talk to the man [[gf1-11-9]]. This shopkeeper gives a clue about where to go next [[gf3-22-3]].
-3. Go right and around a house to find a hidden man and talk to him [[gf1-11-10]].
-4. Enter the saloon and talk to everyone, including the piano player. Listen to his song [[gf1-11-11, gf2-30-3]].
-5. Enter Bob's Store near the town entrance. He gives you a free pack of dynamite [[gf1-11-12, gf1-11-13, gf2-30-4]].
+🗺️ **Map:** [View Chapter 5: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15889-chapter-5-overworld-map)
 
-### Blasting the Mountain
+#### The town
 
-🗺️ **Map:** [View Chapter 5 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15889-chapter-5-overworld-map)
+1. Go north from where you appear (a desert cliff by two cactuses) until you reach the town. [[gf3-11-5, gf5-6-5]]
+2. Talk to everyone outside, then enter the shop in the northern part of town. The shopkeeper gives a clue about where to go next. Leave, go right and around a house, and talk to the hidden man there. [[gf1-22-4, gf3-11-5]]
+3. A man in the store house says a Tetrad is in a mine buried by a landslide, and blasting in the right place opens the way. [[gf5-6-7]]
+4. Enter the saloon and talk to everyone. Talk to the piano player and listen to his tune; it is used later in the chapter. If you answer yes, he describes the "cactus dance". [[gf1-22-3, gf5-6-9]]
+5. Go into Bob's store near the entrance for a load of dynamite. [[gf3-11-5, gf5-7-1]]
 
-Walking against the mountain ridge sets your dynamite, so watch your movement [[gf3-23-2]].
+> [!TIP]
+> Going back to Bob's for more dynamite costs nothing, so don't worry about wasting it. Press up against the ridge to set a charge. [[gf1-23-1]]
 
-1. **Big Heart:** Go west to the wall of the mountain. Place dynamite between the two rocks near the bottom by walking up to the wall, then walk into the cave. [[gf1-11-14, gf1-11-15, gf2-30-6]]
-   
-> [!ACHIEVEMENT]
-> **Heart of Gold (10 Points)**
-> ![Badge](https://retroachievements.org/Badge/612759.png)
-> *Find the Heart Container in Chapter 5.*
+#### The mountain ridge: blast before entering any tunnel
 
-2. Return to Bob for another pack of dynamite [[gf1-11-16]].
-3. **Colored rock trails:** Two trails of differently colored rock run along the mountain. Walk up to the rock wall where a trail ends and Mike sets the dynamite [[gf4-6-11]]. Placing dynamite at the end of the lower light-colored pathway gives a gold nugget [[gf1-11-18]].
-   
-> [!ACHIEVEMENT]
-> **Real Gold (5 Points)**
-> ![Badge](https://retroachievements.org/Badge/612758.png)
-> *Find the ACTUAL Gold Nugget in Chapter 5.*
+Leave town and head to the mountain ridge. [[gf1-23-1]]
 
-4. The other colored trail's cave holds a chicken nugget [[gf4-6-14]]. Eat it and nothing happens [[gf5-7-6]].
-   
+
 > [!ACHIEVEMENT]
 > **Not Quite a Gold Nugget (10 Points)**
 > ![Badge](https://retroachievements.org/Badge/612757.png)
 > *Find the Hidden Nugget in Chapter 5.*
 
-5. Also blast two spaces north of the northern colored cave for another gold nugget [[gf4-6-17]], and the southernmost bombable part of the wall for another [[gf4-6-18]]. Other caves on the mountain hold only chicken nuggets [[gf4-6-40]].
-6. Restock dynamite at Bob's whenever you run out, and offer him your gold when you return [[gf3-23-10, gf5-7-8]]. Choose yes to make the deal [[gf5-7-9]].
+1. Follow the line of lighter-shade rocks to the ridge and lay dynamite where it ends. This opens a cave. One cave holds a "gold nugget" that turns out to be a chicken nugget, which earns this achievement. Other caves also hold only chicken nuggets. [[gf1-23-1, gf5-7-3, gf4-6-5]]
 
-> [!NOTE]
-> A man in the storehouse says a strange rock (the Tetrad) is in a mine buried by a landslide, and that blasting in the right place opens the way [[gf5-7-10]]. The guide notes the piano song's directions were never worked out; use the method below instead [[gf4-6-19]].
 
-7. **Gold Cave entrance:** Place dynamite three spaces below (south of) the southern colored-rock cave [[gf4-6-19, gf2-30-7]]. Do this last, after every other cave is open and the gold is sold.
+> [!ACHIEVEMENT]
+> **Real Gold (5 Points)**
+> ![Badge](https://retroachievements.org/Badge/612758.png)
+> *Find the ACTUAL Gold Nugget in Chapter 5.*
 
-> [!CAUTION]
-> **Point of No Return:** The Tetrad after the Mashing Miner ends Chapter 5. Blast every nugget cave and the Big Heart cave before entering the Gold Cave, and sell your gold to Bob before you leave; the nugget is lost at the start of the next chapter [[gf1-12-22, gf3-23-7, gf5-7-15]].
+2. Find the real gold nugget in another blasted cave: two spaces north of the northern coloured cave, or by bombing the southernmost part of the wall you can. One guide says placing dynamite at the end of the lower light-coloured pathway, before entering any tunnel, gives a gold nugget. A commenter counts four secret passages besides the main entrance. [[gf4-6-5, gf3-11-7, gf5-7-4, ra-comments-19-1, ra-comments-19-2]]
+
+
+> [!ACHIEVEMENT]
+> **Heart of Gold (10 Points)**
+> ![Badge](https://retroachievements.org/Badge/612759.png)
+> *Find the Heart Container in Chapter 5.*
+
+3. Go back to Bob's store for more dynamite. Go all the way west, then down, and place dynamite between the two boulders low on the west wall. Walk in for the Big Heart. [[gf1-23-3, gf2-30-2, gf3-11-6, gf4-6-4, gf1-23-2]]
+4. Take any gold nugget back to Bob; he buys it for points. Selling is optional, but unsold gold is lost at the start of the next chapter. [[gf1-23-3, gf1-41-11, gf5-7-5]]
+
+#### Opening the Gold Cave
+
+1. Go to the west side of the mountain. Place dynamite three spots lower than the southern golden-coloured passageway (one guide: three squares down from the lower lighter pathway). [[gf2-30-3, gf3-11-8, gf4-6-6]]
+2. Walk forward into the Gold Cave. [[gf3-11-8]]
 
 ### Gold Cave
 
-🗺️ **Map:** [View Chapter 5 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2184-chapter-5-level-1-map)
+🗺️ **Map:** [View Chapter 5: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2184-chapter-5-level-1-map)
 
-1. First room: kill the scorpions and go through the door. Blue scorpions double their bullets, so jump over them [[gf2-30-8, gf4-6-41]]. Head west, as the north is a dead end [[gf4-6-41]].
-2. Next room: green guys fly apart in four directions when killed, so jump or dodge. Destroy the boulder or top portion of the wall to open a passageway, and fire on the north wall to proceed [[gf4-6-42, gf1-11-20, gf2-30-9, gf4-6-21]].
-3. Go up the stairs. The boulder room has three skinny platforms with rolling boulders, which are instant death. Jump up or down to the next platform as one approaches. The exit is on the middle platform at the end [[gf2-30-10, gf2-30-11, gf2-30-12, gf2-30-13, gf4-6-43]].
-4. Snake room: kill the snakes, and hearts are hidden in some tiles. Then jump on the middle platform to fall into another room [[gf2-30-14, gf1-11-21, gf1-11-22]]. Mike can also proceed by jumping into a small patch of dirt on an island [[gf4-6-22]].
-5. Kill the cobras and scorpions, and hit the switch [[gf1-11-23, gf2-30-16]]. Checking the hidden path first gives a medicine [[gf4-6-23]].
-6. **Jumping-chest room:** Chests shoot bullets, and a damaged one becomes fast coins. Attack them with the shockwave as quickly as you can [[gf1-11-24, gf2-30-17, gf2-30-18, gf4-6-44]]. Take the Bola from the real chest [[gf1-11-25, gf2-30-19]].
-   
+The guide's detailed room list below the Mining Cave heading is the route spine. Other guides describe the same cave with different details. [[gf1-24-1]]
+
+1. **Room 1:** The entrance. Head North to Room 2. [[gf1-24-2]]
+2. **Room 2:** Defeat the three blue scorpions, then go North to Room 3 or West to Room 4. [[gf1-24-3]]
+3. **Room 3:** Defeat two blue asps. The rest of the room is behind a wall you can't reach yet, so go back to Room 2 and then Room 4. [[gf1-24-4]]
+4. **Room 4:** Defeat the two cactus guys and shoot the crack in the north wall to open Room 5. [[gf1-24-5]]
+5. **Room 5:** A ladder up to Room 6. [[gf1-24-6]]
+6. **Room 6:** Three horizontal paths each have a rolling boulder. Jump between paths to avoid them and go East to the door to Room 7. [[gf1-24-7, gf2-30-4]]
+7. **Room 7:** Jump to the floating tile among the tiles to fall through the false floor to the other side of Room 3. [[gf1-24-8]]
+8. **Room 3 (revisited):** Defeat the two cactus guys to open the door South to Room 8. [[gf1-24-9]]
+9. **Room 8:** Defeat the enemies if you like, then activate the tile at the south end to reveal a question mark. Taking it opens the door South to Room 9. [[gf1-24-10]]
+10. **Room 9:** Defeat the treasure-chest enemies, which turn into fast coins when hurt, so attack quickly. This opens the wall South to Room 10. [[gf1-24-11, gf2-30-6]]
+
+
 > [!ACHIEVEMENT]
 > **Not the Traditional Weapon (5 Points)**
 > ![Badge](https://retroachievements.org/Badge/612760.png)
 > *Pick up the Bola Weapon in Chapter 5.*
 
-7. Kill the enemies in the next room. A secret door opens and a chest gives medicine [[gf1-11-26, gf2-30-20]]. Go back and head left for the boss [[gf2-30-21]].
+The real chest holds the Bola. Use the shockwave on the chest monsters. One guide also lists a slingshot in a normal chest here; the guides differ on this chest's contents. [[gf2-30-7, gf3-11-11, gf4-6-7, gf1-24-11]]
 
-### Boss: Boulder Tossing Miner
+11. **Room 10:** Defeat three cactus guys to open the wall South to Room 11. There is also a passage West to Room 12, but visit Room 11 first. [[gf1-24-12]]
+12. **Room 11:** Open the chest for medicine, then go North to Room 10 and West to Room 12. [[gf1-24-13, gf3-11-12]]
+13. **Room 12:** Boss, below. Afterwards Room 13 is the exit to the overworld. [[gf1-24-14, gf1-24-15]]
 
-Difficulty is Easy [[gf1-18-24]]. Stay on the skinny platform aligned with him [[gf2-30-23]].
-- Use the bola and throw it fast and continuously [[gf1-18-25, gf4-7-1]].
-- Shoot low when he holds the rock up. Jump and shoot when it is down [[gf1-18-26, gf2-30-25]].
-- Jump over the thrown boulder for a few extra hits [[gf2-30-26]].
-- He inches right, and touching him is instant death, so kill him before he gets close [[gf2-30-24, gf2-30-27]].
+#### Boss: Boulder Tossing Miner
 
-### Donkey
+Easy. He takes a boulder from the wall, holds it as a shield, then rolls it at you and inches closer. Touching him is instant death. Throw Bolas fast, jump for half your attacks so you hit him rather than his rock, and jump the rolling boulders. Another guide says to hit normally when he holds the rock up and jump and shoot when it is down. [[gf4-7-1, gf2-39-3, gf1-24-14]]
 
-After the Boulder Tossing Miner you come out in the next room, still inside the mountain. Head north to find a talking donkey [[gf3-25-1, gf2-30-28]].
+Afterwards, hop on the platforms and head out. In the cave tunnel, head North to find the donkey. [[gf4-7-1, gf1-25-1]]
 
-1. Walk forward and talk to the donkey [[gf1-11-30]]. He says "Welcome, Mike. I am glad that you have come so far." [[gf5-7-12]]
-2. He gives you added strength: "You've got the Super Psychic Shock Wave." [[gf5-7-13]]
+### Talking Donkey (Super Psychic Shock Wave)
+
+After the fight, walk north: a talking donkey (a wizard in disguise) upgrades your psychic wave. [[gf4-7-2]]
 
 
 > [!ACHIEVEMENT]
@@ -1328,161 +1293,141 @@ After the Boulder Tossing Miner you come out in the next room, still inside the 
 > ![Badge](https://retroachievements.org/Badge/612761.png)
 > *Obtain the Super Psychic Shock Wave.*
 
+Talk to the donkey to receive the Super Psychic Shock Wave. It needs 5 hearts to use. [[gf1-25-1, gf2-30-10, gf3-5-16, gf5-7-7]]
 
-3. The donkey vanishes and the way forward opens to the next cave, Gold Cave Part II [[gf3-25-1]]. The Super Psychic Shockwave is a stronger version of the Psychic Shockwave that travels farther, and it needs 5 hearts to use [[gf1-5-20, gf1-5-21]].
+Head north into the new cave. [[gf4-7-2]]
 
-### Gold Cave Part II
+### Gold Cave, Part II
 
-🗺️ **Map:** [View Chapter 5 Level 2 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2185-chapter-5-level-2-map)
+🗺️ **Map:** [View Chapter 5: Level 2 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2185-chapter-5-level-2-map)
 
-1. Start room: step on the tile switch tucked in the bottom right (south east) corner for hearts, then head north [[gf1-12-1, gf4-7-11]].
-2. Next room: use the Super Psychic Shockwave from a distance on the scorpions [[gf1-12-2]]. A narrow arrow path leads to a sealed room. Walk around and fall to the level below [[gf4-7-12, gf4-7-13]].
-3. Through the door you land on a fast conveyer belt. In the next room jump off to the right for medicine, jump back on, and jump off at the third room [[gf1-12-3, gf1-12-4, gf1-12-5]].
-4. Kill the scorpions to open a wall on the other side. Head up without using the belt and pass the two enemies, who give nothing [[gf1-12-6, gf1-12-7]].
-5. Enter the opened wall room. Grab the hearts and hit the switch near them for another medicine [[gf1-12-8, gf2-30-35]]. Go back out and use the shockwave on the chest enemies [[gf2-30-36]].
-6. Next room: destroy the crack in the wall for a secret area with more medicine [[gf1-12-9]]. Pass the boulders to the switch for the first invincibility star [[gf1-12-10, gf1-12-11]].
-   
+Route spine: the guide's Mining Cave 2 numbering. [[gf1-25-2]]
+
+1. **Room 1:** Step on the tile at the start to reveal two hearts (another guide puts it in the south east or bottom right corner), then go North. [[gf1-25-3, gf3-12-1, gf4-7-3]]
+2. **Room 2:** Jump carefully to the ledge on the north wall and defeat three blue scorpions to open the door North. Keep your distance and use the shockwave while jumping. [[gf1-25-4, gf3-12-2]]
+3. **Room 3:** Jump right immediately, defeat one blue scorpion, grab the medicine, go North. [[gf1-25-5, gf3-12-3]]
+4. **Room 4:** The conveyor carries you North to Room 5. [[gf1-25-6]]
+5. **Room 5:** Jump left immediately. Defeat the three blue scorpions and take the left path North to Room 6. [[gf1-25-7]]
+6. **Room 6:** If you arrived in the middle, walk forward through the false floor to Room 7. Otherwise defeat the cactus guys and take the lower right path South. [[gf1-25-8]]
+7. **Room 7:** If you fell in, defeat the three asps so floating blocks appear, then hop on them to the ladder back up to Room 6. [[gf1-25-9]]
+8. **Room 6 (revisited):** Take the lower right path South back to Room 5. [[gf1-25-8]]
+9. **Room 5 (revisited):** If you killed all the scorpions earlier, a wall opens East to Room 8. Otherwise go South to Room 4. [[gf1-25-10]]
+10. **Room 8:** Two hearts and a medicine in the chest. Return to Room 5, then South to Room 4. [[gf1-25-11]]
+11. **Room 4 (revisited):** A short corner East leads to Room 9. Another guide says a narrow path of north-pointing arrows carries you to a sealed room where you walk around and fall to the level below. [[gf1-25-12, gf4-7-4]]
+12. **Room 9:** Defeat the four treasure-chest enemies to open the East wall to Room 10. Another guide notes two medicines here. [[gf1-25-13, gf4-7-5]]
+13. **Room 10:** Shoot the crack in the north wall for a path to Room 11. [[gf1-25-14]]
+14. **Room 11:** Take the medicine, then go back South to Room 10. [[gf1-25-15]]
+
+
 > [!ACHIEVEMENT]
 > **Just Like Mario (5 Points)**
 > ![Badge](https://retroachievements.org/Badge/612762.png)
 > *Pick up a Star Magic Item in Chapter 5*
 
-7. Kill all the rock dudes and go through the door [[gf1-12-12]].
+15. **Room 10 (revisited):** Three paths with rolling boulders lead right. Avoid them, step on the tile near the bottom to open the chest for the Star (the Invincibility Star), then head East to Room 12. [[gf1-25-16, gf2-31-1, gf3-12-5]]
+16. **Room 12:** Defeat four cactus guys and go North to Room 13. [[gf1-26-1]]
+17. **Room 13:** A skeleton in a mining cart shoots and drops small glowing guys. Avoid them to open the North door. A guide suggests saving your star for the boss. [[gf1-26-2, gf2-31-2, gf3-12-6, gf4-7-6]]
+18. **Room 14:** Defeat three blue scorpions to open the West door. [[gf1-26-3]]
+19. **Room 15:** Head West until you find a tile that opens the door North. [[gf1-26-4]]
+20. **Room 16:** Defeat three blue asps to open the East wall. [[gf1-26-5]]
+21. **Room 17:** Use the tiles to open the chest with a Star, then shoot the crack in the north wall. Another guide says a second star comes from a switch in the bottom right corner of a secret area, reached by killing the cobras and cracking a wall for medicine. [[gf1-26-6, gf2-31-4, gf3-12-7, gf4-7-7]]
+22. **Room 18:** Take the medicine, then go South to Room 17, West to Room 16, North to Room 19. [[gf1-26-7]]
+23. **Rooms 19, 20, 21:** Slender rooms heading North. Avoid wall spikes and take the two hearts in each if needed. [[gf1-26-8, gf1-26-9, gf1-26-10]]
+24. **Room 22:** Boss, below. [[gf1-26-11]]
 
-### Mine Cart Skeleton
+### Mashing Miner
 
-He drives by shooting bullets and dropping little fire guys [[gf1-12-13]]. Jump the bullets and shoot the car when it passes you in the lower track [[gf4-7-14]]. Try to beat him without the star and save it for the boss; use medicine if low [[gf1-12-14, gf1-12-15]].
+When the fight starts he slams his hammer, which freezes Mike, drops boulders from above, and sends boulders from the hammer. Jump the moment it begins, and jump again when he slams. He also jumps around the room. Use both stars (the one you saved and the second), stay a fair distance away and hit him with the shockwave or dagger. Without stars, watch his jumps. The open question above asks you to keep the stars if the four-star achievement hasn't unlocked; that is unconfirmed, so decide before using them. [[gf1-26-11, gf2-31-5, gf2-31-6, gf4-7-8, gf3-5-1]]
 
-### Finishing Part II
-
-1. Scorpion room: ignore the loser ghosts and get the switch [[gf1-12-16]].
-2. Kill the cobras to open another secret, which has a second crack in the wall. Go in for more medicine [[gf1-12-17, gf1-12-18]].
-3. Hit the switch in the bottom right corner for another star [[gf1-12-19, gf1-12-20]].
-4. A room of knights is hard to fight; the guide skipped them [[gf4-7-21]].
-5. Walk up a few screens dodging spikes from the walls to reach the boss [[gf1-12-21, gf4-7-15, gf4-7-22]].
-
-### Boss: Mashing Miner
-
-Difficulty is Moderate [[gf1-18-28]].
-- He slams his hammer at the start: boulders fly out, boulders fall, and Mike freezes. Jump as soon as you enter to avoid the freeze [[gf1-18-29, gf1-18-30, gf2-31-9]].
-- He jumps around the room, so avoid him while firing [[gf2-31-10]].
-- Use the Shockwave for quick damage and, with a star, run right up to him [[gf1-18-31, gf2-31-11]].
-- Boulders protect him, so do not waste time on them [[gf1-18-32]].
-
-### The Tetrad
-
-After the boss head north and out. Then go north in the cave tunnel to a small circular room. Inside a circle of rocks is the Tetrad [[gf4-7-18]]. Your life level increases [[gf1-12-22]].
 
 > [!ACHIEVEMENT]
 > **Tetrad in a Western (10 Points)**
 > ![Badge](https://retroachievements.org/Badge/612763.png)
 > *Finish the second dungeon in Chapter 5 and obtain a Tetrad.*
 
+Defeat him; a door then opens North to Room 23, which is the exit to the overworld. Head North in the cave tunnel to a small circular room where the Tetrad rests in a circle of rocks. Taking it raises your life level. [[gf1-26-11, gf1-26-12, gf1-27-1, gf4-7-9, gf5-7-8]]
 
-Mike then uses the Oxford World Wonders book to time slip [[gf5-7-15]].
+Then say "PAA PAA PAA OOM PAPA MOW MOW" to flip the pages and travel to Chapter 6. [[gf1-27-1, gf5-7-9]]
+
+> [!TIP]
+> **Before you leave** this chapter, confirm you have the chicken nugget, the real gold nugget, the Big Heart and the Bola, and have spent or kept your stars deliberately. [[gf1-23-3, gf2-30-2, gf2-30-7]]
 
 > [!IMPORTANT]
 > ### Chapter 5 Cumulative 100% Checkpoint
-> - **Big Hearts:** 3 / 4 (Wild West mountain wall) [[gf2-30-6]]
-> - **Tetrads:** 4 / 7 [[gf4-7-18]]
-> - **Nugget caves:** all opened, gold sold to Bob [[gf5-7-9]]
+> - **Big Hearts:** 3 / 4 (Heart of Gold, west wall) [[gf2-30-2]]
+> - **Tetrads:** 4 / 7 (Tetrad in a Western) [[gf5-7-8]]
 > - **RetroAchievements Unlocked:** 23 / 31 (190 / 285 points)
 
-### Chapter Checklist
-
-- [ ] Talked to everyone in town and the piano player
-- [ ] Big Heart collected
-- [ ] Gold nugget and chicken nugget caves opened
-- [ ] Gold sold to Bob
-- [ ] Bola from the real chest
-- [ ] Boulder Tossing Miner defeated
-- [ ] Super Psychic Shockwave from the donkey
-- [ ] Invincibility Star picked up (one saved for the boss)
-- [ ] Mashing Miner defeated
-- [ ] Tetrad collected
-- [ ] All seven Chapter 5 achievements unlocked
+### Checklist
+- [ ] Dynamite from Bob's store; piano tune heard
+- [ ] Chicken nugget cave (Not Quite a Gold Nugget)
+- [ ] Real gold nugget (Real Gold)
+- [ ] Big Heart (Heart of Gold)
+- [ ] Bola (Not the Traditional Weapon)
+- [ ] Super Psychic Shock Wave
+- [ ] Star from a chest (Just Like Mario)
+- [ ] Tetrad (Tetrad in a Western)
 
 ---
 
-## Chapter 6: Italy
+## Chapter 6: Leonardo's Italy
 
 ```mermaid
 flowchart TD
   Italy["Italy"]
-  Leos_Basement["Leo's Basement"]
-  Art_Studio["Art Studio"]
-  Small_Island["Small Island"]
-  Eastern_Castle["Eastern Castle"]
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  LeosBasement["Leo's Basement"]
+  SmallIsland["Small Island"]
+  EasternCastle["Eastern Castle"]
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Italy -->|"stairs in Leonardo's house"| Leos_Basement
-  Leos_Basement --> Art_Studio
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  Italy --> LeosBasement
+  LeosBasement -->|"Flying machine"| SmallIsland
+  SmallIsland --> EasternCastle
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+Chapter 6 sends Mike back in time to 15th century Italy. There is no major dungeon or boss here, only a trap-filled basement and a maze-like castle [[gf2-31-8, gf3-12-9, gf4-8-7]]. The chapter has three achievements: the Katana from Leonardo, the Big Heart on the way to the castle, and the Tetrad at the end of the castle maze [[gf1-41-16, gf1-28-1, gf1-29-1]].
 
-Chapter 6 sends Mike back in time to 15th century Italy [[gf4-8-1, gf2-31-13]]. There is no boss and no major dungeon, only a tiny dungeon and a series of mini-dungeons [[gf2-31-14, gf1-12-25]]. Zoda-Y shows up at the very end, but you do not fight him here [[gf1-13-14]].
+> [!TIP]
+> **Preparation:** The mini-dungeons you fall into in the castle can hold medicines, and they cannot be saved from place to place, so use them just before you exit each one [[gf4-8-8]]. Zoda's tracks at the start show he has been here [[gf4-8-1]].
 
-Your three goals:
-
-- Free Leonardo da Vinci and take the **Katana** [[gf1-5-17, gf1-12-33]].
-- Land on the small island during the flight and get the **Big Heart**.
-- Reach the **Tetrad** in the Eastern Castle.
-
-Preparation notes:
-
-- Pick up every medicine you pass in the mini-dungeons. Medicine and other pickups disappear when you leave a dungeon, so use what you need before you exit [[gf4-8-17]].
-- Weapons and items collected inside a dungeon do not carry between dungeons [[gf4-8-17]].
-
-### Chapter Items to Collect
-
+### Chapter Items to Collect (3 Items Total)
 | Item | Where Found | Action / Requirement | Citation |
 |---|---|---|---|
-| Medicine | Second trap room of Leo's Basement | **TAKE** (optional) | [[gf4-8-6]] |
-| Hammer and chisel | Art Studio | **TAKE** (starts the cutscene) | [[gf1-12-29, gf2-32-2]] |
-| Katana | Leonardo, after he is freed | Received automatically | [[gf1-12-33, gf5-7-27]] |
-| Big Heart | Small Island | **WALK AROUND** the island | [[gf3-28-1, gf1-13-2]] |
-| Medicines | Some Eastern Castle mini-dungeons | **TAKE** (optional) | [[gf4-8-17]] |
-| Tetrad | End of the Eastern Castle maze | **TAKE** | [[gf1-13-13]] |
+| Katana | Leo's Basement, from Leonardo after he is freed | **TAKE** (free him with the hammer and chisel) | [[gf3-12-11, gf4-8-6]] |
+| Big Heart | Small Island, by the mountain wall on the west side | **TAKE** before entering the castle | [[gf1-28-1, gf3-13-1, gf2-32-4]] |
+| Tetrad | End of the Eastern Castle (Museum) maze | **TAKE** | [[gf3-13-4, gf5-8-3, gf1-29-1]] |
 
-### Italy (Town)
+### Italy
 
-🗺️ **Map:** [View Chapter 6 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15890-chapter-6-overworld-map)
+🗺️ **Map:** [View Chapter 6: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15890-chapter-6-overworld-map)
 
-1. You arrive in a town. Talk to the townspeople. Nobody knows where the Tetrad is, but some mention an old scientist who may help [[gf2-31-15, gf4-8-1]].
-2. Talk to the man who is out of maps to Leonardo Da Vinci's place. He sold his last one to a big guy, who is probably Zoda [[gf2-31-16, gf5-7-29]].
-3. Walk around until you reach the big house, the only building you can enter [[gf1-12-25, gf4-8-1]].
-4. Inside you find a man trapped in plaster and Zoda's tracks. Something is moving inside the statue [[gf2-31-17, gf5-7-17]].
-5. Walk to the stairs and go down to Leo's Basement [[gf1-12-26, gf2-31-18]].
+Walk around the town until you reach a big house [[gf3-12-9]]. Locals tell you about an old scientist who may help you. A man selling maps to the artists' homes says he sold his last Leonardo map to a big weird guy, who is probably Zoda [[gf2-31-8, gf4-8-1]]. Another woman will feed you a big plate of pasta [[gf5-7-10]].
+
+Enter the only building you can. Inside you find a man trapped in plaster with Zoda's tracks nearby, and the statue seems to have something moving inside it [[gf2-31-8, gf3-12-9, gf4-8-1]]. Go down the stairs to Leo's Basement [[gf2-31-8]].
 
 ### Leo's Basement
 
-🗺️ **Map:** [View Chapter 6 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2186-chapter-6-level-1-map)
+🗺️ **Map:** [View Chapter 6: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2186-chapter-6-level-1-map)
 
-There are no enemies here, only traps [[gf1-12-27, gf3-27-4]].
+There are no enemies here, only traps [[gf1-27-2, gf2-31-9]].
 
-1. **Circling balls.** Avoid the flying balls that move in a circle [[gf2-31-19, gf4-8-3]].
-2. **Ball-dropping machines.** Watch the machines' drop pattern. Wait for the balls to go up, then run underneath [[gf2-31-20]]. Two machines try to crush Mike with a ball [[gf4-8-4]].
-3. **Spike platforms.** Next are spikes hanging in mid air with moving platforms. Jump from platform to platform and jump straight forward only. Moving sideways, or jumping straight up, risks hitting the spikes, which means death [[gf2-31-21, gf2-31-22, gf4-8-5]].
-4. **Second spike room.** This room has more spikes and moving platforms. Again jump in a straight line and do not sway [[gf2-31-23, gf2-31-24]]. Grab the **Medicine** in this room if you want it [[gf4-8-6]].
-5. **Ball-and-hole rooms.** The next two rooms contain balls and a hole. Balls travel in the direction you hit them [[gf2-31-25]]. Knock all of them into the hole with your weapon [[gf1-12-28, gf2-31-26]]. The first room has three balls and the second has five [[gf4-8-8]]. Direct them with weapon fire so they fall down the manhole in each room to proceed [[gf4-8-9]].
-6. After the second room you can head out [[gf4-8-10, gf1-12-35]].
+1. Avoid the flying balls that move in circles. Then watch the pattern of the machines that drop balls and wait for the balls to go up before you run underneath [[gf2-31-9]].
+2. Cross the section with mid-air spikes by jumping from moving platform to moving platform. Jump straight forward; if you move in mid-air you will hit the spikes and die [[gf2-31-10]]. Another guide adds that you should jump forward, not straight up and not to the side [[gf4-8-2]].
+3. The next room has more platforms and spikes, plus a medicine you may want to grab [[gf4-8-3]].
+4. The last two rooms have balls and holes. A ball travels in the direction you hit it, and you must get all the balls into the holes to finish [[gf2-31-11, gf3-12-10]]. One guide says the first room has three balls and the second has five, and each room has a manhole to knock them into [[gf4-8-4]].
 
-### Art Studio
+#### Art Studio
 
-1. You arrive in a different art studio from the one you started in. Grab the hammer and chisel lying on the ground in the western part of the room [[gf4-8-23, gf4-8-2, gf2-32-2]].
-2. A cutscene starts and you are warped back to the plaster statue [[gf1-12-29, gf2-32-1, gf4-8-11]]. Mike chips Leonardo out of the statue [[gf5-7-20, gf5-7-21]].
-3. Leonardo explains that a monster blasted him with liquid plaster (Zoda-Y). He had been asked about an old stone in a castle to the east [[gf2-32-3, gf5-7-24]].
-4. He offers a flying machine to get you to the castle [[gf2-32-5, gf3-27-3]]. He also gives you a weapon from Marco Polo [[gf5-7-26]].
+When the balls are done, you arrive in an art studio. Take the hammer and chisel lying on the ground in the western part of the room [[gf4-8-5, gf5-7-11, gf5-7-12]]. You are warped back to the trapped man [[gf2-32-1]]. Chipping away at the statue frees Leonardo da Vinci [[gf5-7-13, gf1-27-3]].
+
+Leonardo thanks you and gives you the Katana, a souvenir of Marco Polo's from the far East [[gf5-7-14, gf4-8-6]].
 
 
 > [!ACHIEVEMENT]
@@ -1491,20 +1436,11 @@ There are no enemies here, only traps [[gf1-12-27, gf3-27-4]].
 > *Obtain the Katana.*
 
 
-You receive the **Katana** [[gf1-12-33, gf5-7-27, gf2-32-4, gf4-8-12]]. It is a more powerful version of Cleopatra's Dagger [[gf1-5-17]].
-
-> [!WARNING]
-> **Missable Achievement Warning:** Do not skip ahead through the flight. The Big Heart on Small Island can only be collected during the flight, before you reach the Eastern Castle. Get it before you fly on to the castle [[gf2-32-6]].
+The Katana is an upgrade to your daggers, with strong attack power and decent range [[gf1-41-16, gf2-19-1]]. He also gives you his flying machine, which takes you to the castle to the east [[gf2-32-3, gf4-8-7]]. During the flight Mica contacts you with a warning: aliens hypnotized Dr. J on C-Island and are after the Tetrads [[gf5-8-2]].
 
 ### Small Island
 
-Leonardo's crude flying machine carries you toward the castle [[gf4-8-14]]. On the way, Mica contacts Mike again: aliens came to C-Island, hypnotized Dr. J and found out how to time slip, and they may be setting a trap [[gf5-8-2, gf5-8-3]].
-
-The machine then stops on Small Island [[gf3-28-1]]. Get the **Big Heart** here before you proceed to the castle [[gf2-32-6]].
-
-1. Get off the machine. Do not enter the city, and walk toward the mountain [[ra-comments-26-1]].
-2. Walk up to the mountain wall from the west [[gf1-13-2]]. Keep going straight until you enter the mountain, as the community comment describes [[ra-comments-26-1]].
-3. Walk around the island to find the heart [[gf3-28-1]].
+When the flying machine first lands, you are on an island with a Big Heart; walk around the island to find it [[gf1-28-1]]. Walk up to the wall of the mountain from the West to get it [[gf3-13-1]]. Do this before proceeding to the castle [[gf2-32-4]]. A community comment says to walk toward the mountain without entering the city, then go straight until you are inside the mountain [[ra-comments-26-1]].
 
 
 > [!ACHIEVEMENT]
@@ -1513,27 +1449,124 @@ The machine then stops on Small Island [[gf3-28-1]]. Get the **Big Heart** here 
 > *Obtain the Heart Container in Chapter 6.*
 
 
-4. Return to the flying machine and take off again [[gf1-13-2, gf3-28-1]].
+Once you have the Big Heart, head back to the flying machine and get on it again [[gf1-28-1, gf3-13-1]].
 
 ### Eastern Castle
 
-🗺️ **Map:** [View Chapter 6 Inside the Castle Maze Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2187-chapter-6-inside-the-castle-maze-map)
+🗺️ **Map:** [View Chapter 6: Inside The Castle Maze Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2187-chapter-6-inside-the-castle-maze-map)
 
-This is an overworld maze with fall-through mini-dungeons, not a true dungeon [[gf2-32-8, gf4-8-8]]. There is no boss [[gf4-8-8]]. Every now and then you fall into a cave. Some are small, some larger, and some hold medicines [[gf4-8-25]]. Mini-dungeons are usually random and get harder as you go [[gf1-13-6]]. Use medicine just before exiting, since it is not saved between dungeons [[gf4-8-17]].
+You fly a little further and land on Museum Island, where you enter the Museum [[gf1-28-2]]. Other guides call this place the castle. It is an overworld maze with no boss and no single large dungeon [[gf2-32-5, gf4-8-8]]. You will occasionally fall through the floor into short mini-dungeons that exit in the adjacent room; some are larger, but none has a boss [[gf1-29-2]]. Some hold medicines [[gf4-8-8]].
 
-Mini-dungeon rule: if there is a switch, get the switch. If not, kill the enemies. If you fall into a hole, kill all enemies and try all the doorways until you are out [[gf1-13-30, gf1-13-4, gf1-13-29]].
+The guides describe the maze differently: the first guide uses stairway labels on its two floor maps, while the others use step counts. Both versions are below.
 
-1. Walk forward and go into the thick hallway [[gf1-13-3, gf4-8-15]]. Walk up the hallway and you will soon fall into a hole [[gf2-32-8]]. Clear the mini-dungeon.
-2. Back in the maze, go down the stairs and head left [[gf1-13-4]]. If you fall into the hole with the green guys, the switch is in the second-last column [[gf1-13-4]]. Keep heading left and ignore other pathways [[gf1-13-4]].
-3. You fall into another mini-dungeon before the stairs. Do the same as before [[gf1-13-4, gf2-32-8]].
-4. After the stairs, walk two squares left, one down, and all the way left until you are under the next stairway. Go up it [[gf1-13-7, gf2-32-13]].
-5. At the fork you fall into another mini-dungeon [[gf1-13-8]]. Kill the red thing, and head up [[gf1-13-9]].
-6. Dodge or kill the skulls and head up the stairs [[gf1-13-10]].
-7. Stop over the last set of footprints, or you will fall into another dungeon [[gf1-13-11]].
-8. From the footprints go down one, right two, up one, right two, down one, then all the way right to the Tetrad [[gf1-13-12, gf2-32-13]]. A final mini-dungeon stands between you and the Tetrad [[gf4-8-22]].
+#### Museum Floor 1
 
-> [!CAUTION]
-> **Point of No Return:** Taking the Tetrad ends Chapter 6, and Zoda-Y sends Mike to Transylvania [[gf2-32-14, gf4-9-1, gf4-9-5]]. Make sure you have landed on Small Island for its Big Heart first [[gf2-32-6]].
+O is the entrance, XX marks dead ends, and S1(UP) through S8(UP) are the stairways up [[gf1-28-3]].
+
+```text
+                                           ______   
+                                          |  XX  |
+              _______                     |      |
+             |S2(UP) |                    |      |
+             |___    |                    |      |
+                 |   |                    |      |
+                 |   |                    |      |
+                 |   |                    |S6(UP)|    ______
+                 |   |__________          |______|   |  XX  |
+                 |        S1(UP)|                    |S5(UP)|
+                 |______     ___|                    |______|
+                        |   |      __________________
+                        |   |     |                  |
+                        |   |     |     ________     |
+                        |   |     |    |        |    |____
+                        |   |     |    |        |__       |
+ __________________     |   |     |    |           |      |___
+|  ______________  |    |   |_____|    |_________  |          |
+| |              | |    |                        | |____S4(UP)|
+| |              | |    |__                      |       |____|
+| |S8(UP)  S7(UP)| |       |                     |
+| |              | |       |                     |        ______
+| |              | |       |                     |       |S3(UP)|
+| |______________| |       |                     |_______|  ____|
+|______    ________|       |                               |
+       |  |____     _______|                      _________|
+       |       |   |                             |
+       |____   |___|   ____                 _____|
+            |         |    |               |
+            |_________|    |___       _____|
+                               |  O  |
+```
+
+#### Museum Floor 2
+
+XX marks dead ends, S1(DN) through S8(DN) are the down stairways, and $$ is the Tetrad [[gf1-29-1]].
+
+```text
+                                       _________________
+                                      |                 |
+                                      |                 |
+                ______________________|                 |
+          __   |                                        |
+         |XX|  |   ___________________             $$   |
+         |  |  |  |                   |                 |
+         |  |  |  |   __              |                 |
+         |  |  |  |  |XX|             |_________________|
+         |  |  |  |  |  |
+         |  |  |  |  |  |
+         |  |__|  |__|  |
+         |_____    _____|
+               |  |
+               |  |
+               |  |
+   ____________|  |
+  |               |
+  |   ____________|
+  |  |
+  |  |
+  |  |             ___________
+  |  |            |           |
+  |  |            |S2(DN)  XX |    ________________
+  |  |            |___________|   |                |
+  |S8(DN)                         |   __________   |
+  |__|       _____________________|  |   __     |  |
+            |                        |  |S1(DN) |  |    __________
+            |   _____________     ___|  |  |    |  |   |   S5(DN) |
+            |  |             |   |      |  |    |  |__ |   _______|
+            |  |             |   |      |  |    |     ||  |
+            |  |             |   |      |  |_   |__   ||  | 
+            |  |        _____|   |      |__  |     |      |__
+   _________|  |       |     ____|         | |     |         |__
+  |            |       |S6(DN)             | |__   |__   S4(DN) |
+  |   _________|       |____|              |__  |     |_________|
+  |  |                                        | |__
+  |  |                                        |__  |____________
+  |  |                                           |              |
+  |S7(DN)                                        |       S3(DN) |
+  |__|                                           |______________|
+```
+
+#### Route by the first guide's stairway labels
+
+1. From the entrance of the museum, head North and take the right path to the North, which curves around to the East and eventually reaches a stairway up, marked S4(up) on the map [[gf1-29-3]].
+2. On the second floor, head West instead of North and curve around until you reach a split with one path South and the other West. Continue on the West path to a stairway back down, marked S7(dn) [[gf1-29-3]].
+3. You arrive in a room with statues and some stairs leading up a little to the West. Head for those stairs, marked S8(up), but expect to fall a couple of times before reaching them [[gf1-29-4]].
+4. Back on the second floor, follow the path until it splits in three and take the middle path [[gf1-29-4]].
+5. Close to the Tetrad you will fall twice and face a triceratops at the end of both dungeons [[gf1-29-4]].
+6. Take the Tetrad. Zoda then appears and you are whisked off to your next time zone [[gf1-29-5]].
+
+#### Route by step counts (other guides)
+
+1. Walk forward into the thick hallway; you will soon fall into a hole. Kill all the enemies, then leave [[gf3-13-2, gf2-32-5]].
+2. Back in the maze, go down the stairs and head left [[gf2-32-5, gf3-13-2]]. If you fall into the hole with the green guys, the switch is in the second last column [[gf3-13-2]]. Ignore any other pathways [[gf3-13-2]].
+3. You fall into another hole before the stairs. Do the same as before, then go down the stairs [[gf2-32-5]].
+4. After the stairs, go two left, one down, and all the way left until you are under the next stairway, then go up it [[gf2-32-5, gf3-13-3]].
+5. At the fork you fall into another mini-dungeon. Kill the red thing and head up [[gf3-13-4]]. Dodge or kill the skulls and go up the stairs [[gf3-13-4]].
+6. Stop over the last set of footprints, or you will fall into another dungeon [[gf3-13-4]].
+7. From the footprints, go down one, right two, up one, right two, down one, then all the way right to the Tetrad [[gf3-13-4, gf2-32-5]].
+
+Some foes here are tough: a magician who reappears firing bullets, and a dino creature that fires a huge energy ball if you enter its line of sight [[gf4-8-8]].
+
+You receive the Tetrad and your life meter increases [[gf2-32-6, gf5-8-3]].
 
 
 > [!ACHIEVEMENT]
@@ -1542,180 +1575,177 @@ Mini-dungeon rule: if there is a switch, get the switch. If not, kill the enemie
 > *Obtain the Tetrad in Chapter 6.*
 
 
-Mike obtains the **Tetrad** and his life level increases [[gf1-13-13, gf2-32-14, gf5-8-5]]. Zoda-Y then appears, calls Mike a human, and sends him to the land where a count stalks his victims by the light of the moon [[gf1-13-14, gf1-13-15, gf4-9-1]]. This is Transylvania and Dracula's Castle [[gf2-32-15, gf4-9-5]].
+Zoda-Y appears and sends Mike to the land where a count stalks his victims by moonlight, slipping to Chapter 7 [[gf4-9-1, gf5-8-7]].
+
+> [!TIP]
+> **Before you leave the castle:** Make sure you picked up the Katana and the Big Heart earlier in the chapter; the Tetrad ends the chapter [[gf5-8-7, gf1-29-5]].
 
 > [!IMPORTANT]
 > ### Chapter 6 Cumulative 100% Checkpoint
-> - **Big Hearts:** 4 / 4 (Small Island) [[gf3-28-1]]
-> - **Tetrads:** 5 / 7 (Eastern Castle) [[gf1-13-13]]
-> - **Katana:** Obtained [[gf1-12-33]]
+> - **Big Hearts:** 4 / 4 [[gf1-28-1]]
+> - **Tetrads:** 5 / 7 [[gf1-29-1]]
 > - **RetroAchievements Unlocked:** 26 / 31 (220 / 285 points)
 
 ### Chapter Checklist
-
-- [ ] Found Leonardo's house and went down the stairs.
-- [ ] Cleared the trap rooms and both ball-and-hole rooms in Leo's Basement.
-- [ ] Took the hammer and chisel and freed Leonardo.
-- [ ] Received the Katana (36905).
-- [ ] Walked around Small Island and got the Big Heart (36906).
-- [ ] Cleared the Eastern Castle maze and its mini-dungeons.
-- [ ] Took the Tetrad (36907).
+- [ ] Freed Leonardo with the hammer and chisel and received the Katana (Now We Got a Sword)
+- [ ] Took the Big Heart on Small Island by the mountain wall on the west side (Heart on the Lone Island)
+- [ ] Reached the end of the castle maze and took the Tetrad (Watch Out for Pits!)
 
 ---
 
-## Chapter 7: Transylvania
+## Chapter 7: Dracula's Transylvania
 
 ```mermaid
 flowchart TD
-  Transylvania["Transylvania"]
-  Draculas_Castle["Dracula's Castle"]
-  Zoda_Y{{"⚔ Zoda-Y"}}
+  Dracula["Dracula's Castle"]
+  ZodaY{{"⚔ Zoda-Y"}}
   Knight{{"⚔ Knight"}}
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Transylvania --> Draculas_Castle
-  Draculas_Castle --> Zoda_Y
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Zoda_Y,Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class ZodaY,Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+Chapter 7 drops Mike into a dark, gloomy place where a path leads to Dracula's Castle [[gf4-9-2]]. Zoda-Y sent Mike here, to "the land where a count stalks his victims by the light of the moon" [[gf5-8-7]]. The castle holds two achievements. Take the Spike Balls from the chest in Room 13 before you drop down the hole (Triple the Fun) [[gf1-30-11]]. Defeat Zoda-Y and take the Tetrad outside (House of the Undead) [[gf1-32-1, gf5-8-4]].
 
-Chapter 7 is set in Transylvania, which holds a single dungeon, Dracula's Castle [[gf2-32-15]]. The guide calls this chapter short, because the dungeon is not too difficult and that is all there is to it [[gf2-32-16]]. Zoda-Y sends you here to "the land where a count stalks his victims by the light of the moon" [[gf1-13-15]], and the game opens on a forest at night [[gf5-8-8]].
+### Preparation
 
-Two achievements are available here:
+> [!TIP]
+> **Before you leave:** Save your medicines for Zoda-Y. One guide says you should have a few saved for the fight [[gf2-33-2, gf2-37-2]]. Pick up the medicines on the route, including those in Rooms 3, 10, 26 and 29 [[gf1-30-4, gf1-30-8, gf1-31-9, gf1-31-12]].
 
-- **Triple the Fun (36908):** pick up the Triple Spike Ball. This is the one item that can be missed.
-- **House of the Undead (36909):** obtain the Tetrad after Zoda-Y.
+Weapons you will meet here: Spike Balls fire a spread shot in three directions and are first found in Transylvania [[gf1-41-24]]. The Triple Spike Ball shoots three spike balls for more range and different attack directions, and works great against multiple enemies [[gf2-23-2]]. The Mace fires a projectile in three directions at a fairly good range and comes in packs of 50 [[gf3-6-3]].
 
-The Triple Spike Ball shoots three spike balls, which gives more range and different directions of attack, and it works well against several enemies at once [[gf2-23-2]]. Spike Balls fire a three-direction spread shot and are first found in Transylvania [[gf3-41-21]].
+Enemies you will meet:
+- Blue Bats take two hits [[gf1-43-8]].
+- Frankensteins are slow, but after a few hits their torso drops off and they become a much faster pair of legs [[gf1-43-9]].
+- Ghosts appear in groups; only the one of a different color can be hit [[gf1-43-10]].
+- Tombstone Ghosts can only be hit from behind in their tombstone and occasionally fire a shot [[gf1-43-11]].
+- Magicians leave explosives that go off after a few moments [[gf1-43-12]].
+- Priests leave bubbles that shoot back at you when hit [[gf1-43-13]].
 
-Preparation: save your medicine for the boss. The author of one guide hopes you kept all the medicine you collected for Zoda-Y [[gf2-33-1]]. Zoda-Y's second form is the hard part, and you will almost certainly need potions [[gf1-19-1]]. The guide also suggests the Mace weapon for the boss and the shockwave when you run out [[gf1-19-1]]. "Mace" is that guide's name for the three-way spike-ball weapon, the Triple Spike Ball from Room 13 [[gf1-6-4]].
+### Dracula's Castle (Spooky Castle)
 
-The castle is a chain of numbered rooms. The route below uses the room numbers from the room-by-room guide.
+🗺️ **Map:** [View Chapter 7: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2188-chapter-7-level-1-map)
 
-### Chapter Items to Collect (1 Achievement Item)
+Walk down the path from where you appear to reach the castle [[gf4-9-2]]. The guide numbers the rooms 1 to 31: Room 1 is the start, Room 30 is the boss Zoda Y, and Room 31 is the exit [[gf1-30-1]].
 
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Triple Spike Ball (spike balls) | Dracula's Castle, Room 13, chest on the east wall | **TAKE** before dropping down the hole to Room 14 | [[gf3-30-1, gf3-30-2]] |
-| Triple Spike Ball (backup) | Dracula's Castle, Room 26, across the pit on the floating platform | **TAKE** only if you missed Room 13 | [[gf3-31-3]] |
-| Tetrad | Overworld, just after Zoda-Y | **TAKE** | [[gf3-32-1, gf2-33-10]] |
+#### Room 1
+There are two hearts. Head West to Room 2 [[gf1-30-2]].
 
-### Transylvania (Overworld)
+#### Room 2
+There are two more hearts. You can go back to Room 1 or take the path North to Room 5 [[gf1-30-3]]. Another guide adds that you should grab the hearts at the entrance and to the left, then take the far right doorway [[gf3-13-5]].
 
-Mike starts on a cold, dark mountainside [[gf3-30-1]]. Head north along the path and you will soon find Dracula's Castle [[gf4-9-3]]. You do not have far to walk [[gf1-13-31]].
+#### Room 3
+If you enter from Room 1 you cannot make the jump, so head back to Room 1. If you enter from Room 4 or Room 5, jump up on the boxes in the middle and grab the medicine [[gf1-30-4]].
 
-Dracula's Castle is a real castle that you have to explore to find the Tetrad [[gf4-9-4]].
+#### Room 4
+Defeat the three blue bats, then follow the open door West to Room 3 [[gf1-30-5]].
 
-### Dracula's Castle
+#### Room 5
+Defeat the three Frankensteins and the door North to Room 6 opens [[gf1-30-6]].
 
-🗺️ **Map:** [View Chapter 7 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2188-chapter-7-level-1-map)
+#### Rooms 6 to 9
+These four rooms are connected. They look empty at first, but wait a few moments and ghosts appear. Go for the ghost of a different color [[gf1-30-7, gf1-43-10]]. Defeating the ghosts in Room 8 opens the wall North to Room 10. Defeating them in Room 9 opens the wall East to Room 11 [[gf1-30-7]].
 
-> [!WARNING]
-> **Missable Achievement Warning:** In Room 13, open the chest on the east wall BEFORE you drop down the hole in the middle of the room to Room 14. It holds the spike balls for the Triple the Fun achievement (36908) [[gf3-30-1, gf3-30-2]]. If you miss it, the Room 26 platform has more spike balls as a backup [[gf3-31-3]].
+#### Room 10
+Watch out for the flames guarding the medicine. Grab it and return to Room 8 [[gf1-30-8]].
 
-#### Rooms 1-5: The entrance
+#### Room 11
+Three pyramid guards: use your psychic blast. When all three are defeated, the door East to Room 12 opens [[gf1-30-9]].
 
-1. **Room 1:** There are two hearts if you need them. Head west to Room 2 [[gf3-30-1, gf2-32-18]].
-2. **Room 2:** Two more hearts are here. You can also take the north path to Room 5 [[gf3-30-1]].
-3. **Room 3 (optional medicine):** If you enter from Room 1 you cannot make the jump, so go back. If you enter from Room 4 or Room 5, jump up on the boxes in the middle of the room and grab the medicine [[gf3-30-8]].
-4. **Room 4:** Three blue bats are here. Blue Bats take two hits each [[gf3-43-8]]. Defeat them, then follow the open door west to Room 3 [[gf1-13-18, gf2-32-20]].
-5. **Room 5:** Three Frankensteins are here. Defeat them to open the north door to Room 6 [[gf1-13-19]].
+#### Room 12
+A Tombstone Ghost can only be hurt from behind. Defeat him and the door East to Room 13 opens [[gf1-30-10]]. Another guide says to attack his tombstone [[gf2-32-10, gf3-13-8]].
 
-#### Rooms 6-9: The ghost rooms
-
-These four rooms are connected. They look empty at first, but wait a few moments and ghosts appear [[gf1-13-20, gf2-32-21]]. Go for the ghost that is a different color than the rest [[gf3-30-9]].
-
-- Defeating the ghosts in Room 8 opens the north wall to Room 10 [[gf3-30-10]].
-- Defeating the ghosts in Room 9 opens the east wall to Room 11 [[gf3-30-11]].
-
-**Room 10 (secret room with medicine):** Flames guard the medicine, and fire randomly comes up around it, so time your steps [[gf3-30-7, gf1-13-21, gf2-32-22]]. Grab it and return to Room 8 [[gf3-30-7]].
-
-#### Rooms 11-13: The Spike Ball chest
-
-1. **Room 11:** Three pyramid guards are here. Use your psychic blast on them. When all three are defeated, the east door opens [[gf3-30-12, gf1-13-23]].
-2. **Room 12:** A Tombstone Ghost can only be hurt from behind. Attack its tombstone, and the east door opens to Room 13 [[gf3-30-13, gf2-32-23, gf1-13-24]].
-3. **Room 13:** Walk to the chest on the east wall and open it. It holds the **Triple Spike Ball** [[gf3-30-1]].
-
+#### Room 13
 
 > [!ACHIEVEMENT]
 > **Triple the Fun (10 Points)**
 > ![Badge](https://retroachievements.org/Badge/612767.png)
 > *Pick up the Triple Spike Ball in Chapter 7.*
 
+There is a chest on the East wall. Open it and take the Spike Balls before you go down the hole in the middle of the room to Room 14 [[gf1-30-11]]. Another guide notes that jumping toward the chest drops you into the hole, so take the Spike Balls first [[gf2-32-11]].
 
-Only after you have the spike balls should you jump to the hole in the middle of the room and wait a moment to fall [[gf3-30-2, gf1-13-32]].
+Once you drop into the hole, do not press any direction while you fall through Rooms 14 and 15. Press a direction only as you fall into Room 16, so that you land there [[gf1-30-12, gf1-30-13, gf1-30-14]].
 
-#### Rooms 14-16: The falling sequence
+Optional side trip: another guide says that after you fall, going diagonally left or right leads to a Try Your Luck sign [[gf2-32-11]]. Steering while falling lands you on a tile in Room 15, which has paths West to Room 17 and East to Room 18 [[gf1-30-13]]. If you do this, you must then fall through Room 15's floor to continue to Room 16 [[gf1-30-13]].
 
-You must keep moving while you fall through the next rooms.
+> [!WARNING]
+> **Falling sequence (Rooms 14 to 16):** Falling from Room 13, you pass through Room 14 and simply fall on to Room 15 [[gf1-30-12]]. Do not press a direction in Rooms 14 or 15; if you move in any direction as you fall from Room 14, you land on a tile in Room 15 instead, and would then have to fall through its floor to continue to Room 16 [[gf1-30-13]]. Press a direction only when you fall into Room 16 so you land safely. If you do not move in any direction there, you fall back to Room 13, where the original pitfall is [[gf1-30-14]].
 
-1. **Room 14:** You cannot land safely here when falling from Room 13. You simply fall through to Room 15 [[gf3-30-1]].
-2. **Room 15:** As you fall, head diagonally left or right [[gf1-13-25]]. If you moved in any direction while falling from Room 14, you land safely on a tile. Open paths lead west to Room 17 and east to Room 18. If you did not move, you keep falling to Room 16 [[gf3-30-3]]. You do need to fall through the floor in this room, because Room 16 is the way forward [[gf3-30-4]].
-3. **Room 16:** Move in any direction as you land and you land safely. Three Frankensteins are here. Defeat them and the east door opens to Room 19. If you stand still, you fall back to Room 13 [[gf3-30-5]].
+#### Room 14
+You cannot land safely here when falling from Room 13; you fall through to Room 15 [[gf1-30-12]].
 
-Optional side rooms off Room 15:
+#### Room 15
+If you moved in any direction as you fell from Room 14, you land safely on a tile, with open paths West or East to Room 17 and Room 18 respectively. If you did not move, you continue falling to Room 16, which is the room to continue along [[gf1-30-13]].
 
-- **Room 17:** An island holds a medicine, but the guide's author never found a way to reach it [[gf3-30-6]].
-- **Room 18:** A priest is here. Defeat him to get some of the hearts in the room, otherwise return to Room 16 [[gf3-31-3]].
-- A sign here is a Try Your Luck sign. The guide's author always gained +1, though this is unconfirmed [[gf2-32-25, gf1-13-26]].
-- A further medicine sits at the tip of the arrow on the left, but you must keep moving in some direction while falling or you will miss it [[gf1-13-27, gf1-13-28]]. Falling into a cave now and then is normal in this castle [[gf4-8-25]].
+#### Room 16
+If you arrived by falling and move in any direction, you land safely. Defeat the three Frankenstein monsters and the door East to Room 19 opens. If you did not move, you fall back to Room 13 [[gf1-30-14]].
 
-#### Rooms 19-24: The east loop
+#### Room 17
+There is an island with a medicine here, but the guide says it could not figure out how to get it [[gf1-30-15]]. No collected guide explains how to reach that medicine, so skip it.
 
-1. **Room 19:** Two tombstone ghosts. Defeat them and the east door opens to Room 20 [[gf3-31-1]].
-2. **Room 20:** Four skeletons. Avoid them and head up the stairs to Room 21 [[gf3-31-1]].
-3. **Room 21:** A magician. Defeat him and the east door opens to Room 22 [[gf3-31-1]].
-4. **Room 22:** Five blue bats. Defeat them and head north to Room 23 [[gf3-31-1]].
-5. **Room 23:** Two Frankensteins. You do not have to defeat them; find the tile that opens the west door to Room 24 [[gf3-31-4]]. Hearts are here too, and you can grab the switch in the right-hand set [[gf1-14-2]].
-6. **Optional extra potion:** In the room with two Frankensteins, where a switch opens the west exit, you can bust through the north wall for an extra potion [[gf1-14-1]].
-7. **Room 24:** A priest. Defeat him to open the west door to Room 25 [[gf3-31-1]].
+#### Room 18
+A priest is here. Defeating him gets you some of the hearts; otherwise head back to Room 16 [[gf1-31-1]].
 
-#### Rooms 25-26: Backup spike balls
+#### Room 19
+Defeat the two tombstone ghosts to open the door East to Room 20 [[gf1-31-2]].
 
-1. **Room 25:** Three more pyramid guards. Defeat them to open a hidden wall to the west, leading to Room 26. To open the north door to Room 27, activate one of the tiles [[gf3-31-1, gf3-31-2]].
-2. **Room 26:** Two Frankensteins are here. Defeating them reveals a floating platform. Use it to cross the pit at the west end and reach a medicine and spike balls. This is the backup if you missed Room 13 [[gf3-31-3]]. Afterward head back to Room 25 and north to Room 27.
+#### Room 20
+Avoid the four skeletons and head up the stairs to Room 21 [[gf1-31-3]].
 
-#### Rooms 27-29: Toward the boss
+#### Room 21
+Defeat the magician to open the door East to Room 22 [[gf1-31-4]].
 
-1. **Room 27:** Two skeletons and two bats. Defeat the bats and the west door opens to Room 28 [[gf3-31-1]].
-2. **Room 28:** A magician. Defeat him to open the north door to Room 29 [[gf3-31-1]].
-3. **Sleepwalking and bat-shaped rooms:** Another guide describes a room of sleepwalking enemies. Hit the switch in the top right set, and killing the enemies opens a doorway to medicine and weaponry [[gf1-14-3, gf1-14-4, gf2-32-27, gf2-32-28, gf2-32-29]]. Then comes the bat-shaped tile room: kill the bats to open a doorway, and the tile switches are in the top left and bottom right corners [[gf1-14-5, gf1-14-6, gf2-33-1]].
-4. **Room 29:** Five bats; defeating them opens the north door to Room 30. Several tiles here reveal two hearts and a medicine [[gf3-31-5]].
+#### Room 22
+Defeat the five blue bats and head North to Room 23 [[gf1-31-5]].
 
-Before the boss, use any spare medicine so you enter with full health. Zoda-Y is the boss at the end [[gf1-14-7]], and the next room contains him; it is not Dracula [[gf2-33-2]].
+#### Room 23
+You do not have to defeat the two Frankensteins; find the tile that opens the door West to Room 24 [[gf1-31-6]].
 
-### Boss: Zoda-Y
+#### Room 24
+Defeat the priest to open the door West to Room 25 [[gf1-31-7]].
 
-Difficulty is rated Hard [[gf1-19-1]].
+#### Room 25
+Defeat the three pyramid guards to open a hidden wall West to Room 26. Activate one of the tiles to open the door North to Room 27 [[gf1-31-8]].
 
-**Opening:** As soon as you enter, move forward a little, because spikes rise from the floor right in front of the entrance [[gf1-19-3, gf2-33-3]].
+#### Room 26
+Defeat the two Frankensteins to reveal a floating platform. Use it to reach a medicine and some spike balls across the pit on the Western end. Then return to Room 25 and go North to Room 27 [[gf1-31-9]]. One update says that in the room with two Frankensteins near the end, you can bust through the north wall for an extra potion [[gf3-14-1]].
 
-**Form 1:**
-1. Zoda appears, fires a spray of shots, then disappears. Shoot him when he first appears, then avoid his shots [[gf3-31-6]].
-2. He releases bats. Kill the bats, then hit him a few times before he teleports. Repeat this pattern [[gf2-33-4]]. This is slower but keeps the bats off you, and you need all the health you can get for the next form [[gf1-19-1]].
+#### Room 27
+Defeat the two bats (ignore the two skeletons) and the door West to Room 28 opens [[gf1-31-10]].
 
-**Form 2 (bird creature):**
-1. After enough hits he kneels, then changes into an owl-like bird form [[gf3-31-7, gf1-19-1]].
-2. It releases two bats at a time, and they keep coming while he lives [[gf3-31-7]].
-3. He flaps his wings and shoots wind that pushes you back toward the floor spikes. Hold up as hard as you can to resist it, because the spikes are instant death [[gf2-33-7, gf3-31-8]].
-4. He also fires feathers that can damage you [[gf3-31-9]]. You cannot really avoid them during the gust, since staying clear of the spikes comes first [[gf2-33-1]].
-5. Hit him when he is exposed, using the Mace; use the shockwave when it runs out [[gf1-19-1]]. Keep hitting the bird form and you will eventually defeat him, which opens the east door to Room 31 [[gf3-31-10]].
+#### Room 28
+Defeat the magician to open the door North to Room 29 [[gf1-31-11]].
 
-Tip: you cannot really dodge the feathers during a gust, so keep pushing away from the spikes first and take the feather hits [[gf2-33-1, gf3-31-9]].
+#### Room 29
+Defeat the five bats to open the door North to Room 30. Activating several tiles reveals two hearts and medicine [[gf1-31-12]]. Another guide adds that in the bat-shaped tile room you kill the bats to open a doorway, then hit the switches in the top left and bottom right corners [[gf2-33-1, gf3-14-4]].
 
-> [!CAUTION]
-> **Point of No Return:** The Tetrad after Zoda-Y ends Chapter 7. Make sure you picked up the Triple Spike Ball in Dracula's Castle before collecting it [[gf2-33-10, gf5-8-11]].
+### Zoda-Y
+
+#### Room 30 (Boss)
+Zoda-Y is in Dracula's Castle [[gf3-19-1]]. As soon as you enter, move forward a little bit because spikes come out of the floor right away [[gf2-39-6, gf3-19-2]].
+
+Form one:
+- Zoda Y appears, shoots a spray of shots, and disappears. Shoot him when he first appears, then avoid his shots [[gf1-31-13]].
+- He shoots out bats. Kill the bats, then hit him a few times before he teleports [[gf2-33-2]].
+- Use the Mace and the shockwave when you run out [[gf3-19-7]].
+
+Form two:
+- He kneels, transforms into a bird creature, and releases two bats at a time [[gf1-31-13]]. He launches more bats while jumping side to side [[gf3-19-5]].
+- He flaps his wings to push Mike into the spikes on the back wall and shoots feathers [[gf1-31-13]]. Hold up as hard as you can to avoid being pushed back [[gf2-39-7]].
+- Hit him with the mace when he is exposed [[gf2-40-1]].
+- To dodge feathers, get right up against one side of your platform so they all go that way, then make one clean jump across [[gf3-19-7]].
+- Keep hitting until he is defeated, which opens the door East to Room 31 [[gf1-31-13]].
+
+One guide says the platforms that move you make this fight hard; keep a few medicines and throw a few shooting stars at a time [[gf2-37-2]].
+
+#### Room 31
+Head North out of this room to return to the overworld [[gf1-31-14]].
 
 ### The Tetrad
-
-Head north out of Room 31 to return to the overworld [[gf3-31-10]]. Mike is back on the overworld with another Tetrad in front of him. Grab it [[gf3-32-1]]. You get a Tetrad and your life meter increases [[gf2-33-10, gf1-14-9]].
 
 
 > [!ACHIEVEMENT]
@@ -1723,139 +1753,95 @@ Head north out of Room 31 to return to the overworld [[gf3-31-10]]. Mike is back
 > ![Badge](https://retroachievements.org/Badge/612768.png)
 > *Obtain the Tetrad in Chapter 7.*
 
+In the overworld, grab the Tetrad. Your life level increases [[gf1-32-1, gf5-8-4]]. Then open the book and read PAA PAA PAA OOM PAPA MOW MOW to flip the pages and move on to the next time period [[gf1-32-1]]. Next is Chapter 8: Camelot [[gf1-32-2]].
 
-Mike then opens the book and the next page shows Chapter 8 [[gf3-32-1, gf5-8-11]].
-
-### Chapter Checklist
-
-- Room 13 chest on the east wall opened before the hole drop (Triple Spike Ball) [[gf3-30-1, gf3-30-2]]
-- Achievement 36908 unlocked
-- Zoda-Y defeated [[gf1-14-7]]
-- Tetrad picked up in the overworld [[gf3-32-1]]
-- Achievement 36909 unlocked
-- Life meter increased [[gf1-14-9]]
+> [!TIP]
+> **Before you leave:** Make sure you grabbed the Spike Balls from the Room 13 chest, then collect the Tetrad [[gf1-30-11, gf1-32-1]].
 
 > [!IMPORTANT]
 > ### Chapter 7 Cumulative 100% Checkpoint
-> - **Triple Spike Ball:** 1 / 1 [[gf3-30-1]]
 > - **Big Hearts:** 4 / 4
-> - **Tetrads:** 6 / 7 [[gf3-32-1]]
+> - **Tetrads:** 6 / 7
+> - **Spike Balls (Triple the Fun):** collected from the Room 13 chest [[gf1-30-11]]
 > - **RetroAchievements Unlocked:** 28 / 31 (240 / 285 points)
+
+### Chapter Checklist
+- [ ] Take the Spike Balls from the Room 13 chest before dropping down (Triple the Fun)
+- [ ] Press no direction while falling through Rooms 14 and 15, then press one into Room 16
+- [ ] Defeat Zoda-Y in Room 30
+- [ ] Take the Tetrad outside the castle (House of the Undead)
+- [ ] Read the magic words to move on to Chapter 8
 
 ---
 
-## Chapter 8: Camelot
+## Chapter 8: King Arthur's Camelot
 
 ```mermaid
 flowchart TD
   Camelot["Camelot"]
-  Dragons_Cave["Dragon's Cave"]
+  DragonsCave["Dragon's Cave"]
   Knight{{"⚔ Knight"}}
-  Dragons_Cave_Part_II["Dragon's Cave Part II"]
-  Dragon{{"⚔ Dragon"}}
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  Camelot -->|"accept King Arthur's quest"| Dragons_Cave
-  Dragons_Cave --> Knight
-  Knight --> Dragons_Cave_Part_II
-  Dragons_Cave_Part_II --> Dragon
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  DragonsCave2["Dragon's Cave, Part II"]
+  Dragon{{"⚔ The Dragon"}}
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  Camelot --> DragonsCave
+  Knight --> DragonsCave2
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class Knight,Dragon,C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class Knight,Dragon,CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
+Chapter 8 takes Mike to medieval Camelot. The goal is to accept King Arthur's quest, beat the Knight in the first cave, receive the Ultra Psychic Shock Wave from Merlin, and defeat the Dragon in the second cave for the last Tetrad [[gf1-32-2, gf1-32-3, gf1-34-2, gf1-34-4, gf1-37-1]]. Two achievements are available here: Ultra Psychic Shock Wave and The Middle Ages.
 
-Chapter 8 is the last "main" chapter of the game. You arrive in a forest in daytime [[gf5-8-10]], and the book shows Chapter 8 when Mike turns to the right page [[gf5-8-11]]. The chapter has two goals:
+> [!WARNING]
+> **Achievement Trigger Warning:** When King Arthur asks for your help, do not answer No. The guide warns that saying no seems to stop you from going any farther and you will need to reset [[gf1-32-3]]. Answer Yes to be christened Sir Mike, have your life level increased and be named a knight of the round table [[gf5-9-5]].
 
-- **Accept King Arthur's quest** and be knighted, which raises Mike's life [[gf2-33-12, gf3-32-4]].
-- **Clear Dragon's Cave** in two parts. Along the way Merlin gives you the **Ultra Psychic Shockwave** [[gf1-5-22]], and the Dragon at the end of Part II drops the **final Tetrad** [[gf2-35-5]].
-
-There are no permanent lockouts listed for this chapter, but one dialogue choice can stop your progress (see the warning below). Collect every medicine you can, because the Dragon fight punishes a lack of healing: you should be pretty heavily armed with lots of medicine [[gf1-15-20]].
-
-The Ultra Psychic Shockwave needs at least 10 hearts to use [[gf1-5-23, gf3-41-16]]. Keep your health at 10 hearts or more when you fight the Dragon.
-
-> [!TIP]
-> Before you leave Dragon's Cave Part II, make sure you have used every medicine pickup you wanted. Stored items can be used whenever you want, but they disappear when you leave the dungeon [[gf1-5-1]].
-
-Medicine does not count toward any achievement, so the list below is for survival only.
-
-### Chapter Items to Collect
-
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Medicine | Platform below the Dragon's Cave blob room | **TAKE** after falling through the floor | [[gf2-33-16]] |
-| Medicine | Left passageway past the skeletons | **TAKE** | [[gf2-33-18, gf1-14-14]] |
-| Medicine | Around the left side of the cave | **TAKE** | [[gf2-33-19, gf1-14-15]] |
-| Medicine | Room 2 tile reveal (reached by jumping down) | **TAKE** (optional) | [[gf3-33-2]] |
-| Medicine | Dragon Cave Room 6 | **TAKE** | [[gf3-33-4]] |
-| Medicine | Dragon Cave Room 7 (ledge) | **TAKE** (optional, hard) | [[gf3-33-5, gf3-33-6]] |
-| Medicine | Dragon Cave 2 Room 3 | **TAKE** | [[gf3-35-2]] |
-| Medicine | Dragon Cave 2 Room 5 (tile reveal) | **TAKE** | [[gf3-35-4]] |
-| Medicine | Part II, bottom-right switch area | **TAKE** | [[gf1-15-6]] |
-| Medicine | Part II tile switch, third-last row (fire around it) | **TAKE** | [[gf1-15-12]] |
-| Medicine | Part II left path | **TAKE** | [[gf1-15-15]] |
-| Medicine | Room #17 upper west corner | **TAKE** | [[gf3-36-3]] |
-| Medicine | Room #20 (surrounded by flames) | **TAKE** | [[gf3-36-7]] |
-| Medicine | Room #25 | **TAKE** | [[gf3-36-6]] |
-| Ultra Psychic Shockwave | Merlin, after the Knight | Story | [[gf1-15-1]] |
-| Tetrad | After the Dragon | Story | [[gf2-35-5]] |
+> [!NOTE]
+> The Ultra Psychic Shock Wave needs at least 10 hearts to use [[gf1-41-19, gf3-5-17]]. It is the strongest of the shock waves [[gf2-24-1]].
 
 ### Camelot
 
-🗺️ **Map:** [View Chapter 8 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15891-chapter-8-overworld-map)
+🗺️ **Map:** [View Chapter 8: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15891-chapter-8-overworld-map)
 
-Walk toward the castle and talk to anyone you like; the townsfolk give only flavor. A knight tells you to see the king [[gf5-8-12]], a second knight says the shadow of a dragon looms over Camelot and the king seeks a hero [[gf5-8-13]], and Sir Lancelot says the dragon is in the northern cave but he is too busy to fight it [[gf5-8-14]]. A guard says the king forbids citizens to travel beyond this point [[gf5-8-15]], and a woman tells you to see Arthur [[gf5-8-16]].
+1. Mike starts in the middle of a forest. Walk around until you see a castle in the distance, and talk to people like Sir Lancelot on the way [[gf1-32-2]]. One knight warns that the shadow of a dragon looms over the land and the king seeks a hero [[gf5-8-6]].
+2. Enter the castle and talk to King Arthur. He explains that a dragon is attacking Camelot and his knights are out on quests, and he asks for your help [[gf1-32-3, gf2-33-6]].
+3. Answer **Yes**. Arthur christens you Sir Mike, your life level increases and he names you a knight of the round table [[gf3-14-6, gf5-9-5]].
+4. Go back outside the castle. The guard blocking your path now lets you through [[gf1-32-3, gf3-14-7]]. East of the castle the guard says, "You may pass Sir Mike" [[gf5-9-1]].
+5. Follow the path north until you reach the cave [[gf1-32-3]].
 
-> [!WARNING]
-> **Do NOT answer NO to King Arthur.** Answering NO seems to prevent you from going any farther [[gf3-32-3]]. In the script, Arthur calls you a coward and tells you to get out, and talking to him again repeats that [[gf5-9-5]]. If you did say NO, the guide says you will need to reset [[gf3-32-3]].
+### Dragon's Cave
 
-1. Go into the castle and talk to **King Arthur** [[gf1-14-10]]. He asks you to smite the dragon because his knights are out on quests [[gf2-33-11]].
-2. Answer **YES**. Arthur christens you Sir Mike and your life level increases [[gf1-14-29, gf2-33-12]].
-3. Go back outside and talk to the guard blocking your path. He now lets you pass [[gf1-14-11, gf5-9-5]].
-4. Follow the path north until you reach the cave [[gf3-32-4]].
+🗺️ **Map:** [View Chapter 8: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2190-chapter-8-level-1-map)
 
-### Dragon's Cave (Part I)
+The room numbers below follow one guide. Room 1 is the start, the Knight boss is in Room 17 and the exit is Room 18 [[gf1-33-1]].
 
-🗺️ **Map:** [View Chapter 8 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2190-chapter-8-level-1-map)
+1. **Room 2.** Three blue blobs are here. Kill the last blob while standing in the middle of the room towards the North wall, so Mike falls onto the ledge in this room rather than below it, then head North to Room 6 [[gf1-33-2]]. Another guide says to stand near the middle-top of the screen [[gf3-14-8]]. You can also activate the tile on the ledge, but you must jump down to get the medicine it reveals and then go around and back down to this room [[gf1-33-2]].
+2. **Room 3** (only if you dropped below). There are no enemies, and you cannot reach the tile on the ledge. Head West to Room 4 [[gf1-33-3]].
+3. **Room 4** (only if you dropped below). Avoid the three skeleton heads and go up the stairs in the Northwest corner to Room 5 [[gf1-33-4]].
+4. **Room 5** (only if you dropped below). Activate the tile in the middle of the room to open the wall East to Room 2 [[gf1-33-5]].
+5. **Room 6.** Four robed skeletons and a medicine are here. Take the path North to Room 7 [[gf1-33-6]]. Another guide says to hit the skeleton piles so they fall down, jump over them and grab the potion [[gf3-14-9]].
+6. **Room 7.** Defeat the magician and you fall through the floor to Room 8. Fall in the middle against the North wall. There is also a medicine here if you want to try for it [[gf1-33-7]].
+7. **Room 8.** If you landed on the ledge, head North to Room 13. Otherwise go East to Room 10 or West to Room 9 [[gf1-33-8]].
+8. **Room 9** (only if you missed the ledge). Avoid the blue blobs and take the stairs up to Room 11 [[gf1-33-9]]. In **Room 11**, activate the tile to open the wall East back to Room 7 [[gf1-33-11]].
+9. **Room 10** (the alternative). Avoid the blue blobs and take the stairs up to Room 12 [[gf1-33-10]]. In **Room 12**, activate the tile to open the wall West back to Room 7 [[gf1-33-12]]. Then defeat the magician again and fall onto the ledge in Room 8 [[gf1-33-7, gf1-33-8]].
+10. **Room 13.** Defeat the two knights to open the wall West to Room 14 [[gf1-33-13]].
+11. **Room 14.** Spikes form on the far West side as soon as you enter, so move quickly. Take the conveyor belt and proceed West to Room 15 [[gf1-33-14]].
+12. **Room 15.** Take the conveyor belt up on the first loop and down on the second loop to avoid the blades from the ground. If you were fast enough, jump over the spikes, otherwise take the damage and go West to Room 16 [[gf1-33-15]]. Another guide's conveyor-belt summary is: first room take the shortcut, second room up then down, third room up and down, fourth room down then middle [[gf2-34-1, gf3-14-10]].
+13. **Room 16.** Take the first loop down. On the second loop stay in the middle and keep moving West on the conveyor belt. Jump over the spikes, grab the four hearts, then take the path North to Room 17 [[gf1-34-1]].
 
-#### Opening rooms
+#### Room 17: Knight
 
-1. **Room 1** is empty. Head north [[gf3-33-1]].
-2. In **Room 2** kill all the blobs. When you kill the last one, stand near the middle-top of the screen toward the north wall [[gf1-14-12, gf2-33-15, gf3-33-1]]. Do this and Mike falls through the floor onto a platform instead of below it.
-3. Take the **medicine** on the platform [[gf2-33-16]]. You can also activate the tile in this room, but you must jump down to get the medicine it reveals and then go around and back [[gf3-33-2]].
-4. Go up the left passageway with the pile of bones. Hit the bones so they fall down, then jump over them [[gf1-14-13, gf2-33-17]].
-5. Take the **medicine** past them [[gf2-33-18, gf1-14-14]], then go back around the left side.
-6. Go around and take **another medicine** [[gf2-33-19, gf1-14-15]].
-7. Kill the Frankenstein while standing in the middle of the screen [[gf1-14-16]].
+🗺️ **Map:** [View Chapter 8: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2190-chapter-8-level-1-map)
 
-Other rooms in this area: Room 3 has no enemies, and you cannot reach the tile on the ledge, so go west [[gf3-33-1]]. Room 4 has three skeleton heads; avoid them and take the northwest stairs. Room 5 has a tile in the middle that opens the wall east to Room 2 [[gf3-33-3]]. Room 6 has four robed skeletons and a **medicine** [[gf3-33-4]]. Room 7 has a magician; defeating him drops you through the floor, and there is a **medicine** on the ledge if you fall in the middle against the north wall [[gf3-33-5, gf3-33-6]]. Landing on the ledge in Room 8 lets you go straight north to Room 13.
+You ride a conveyor belt in perpetual counter-clockwise motion while the Knight runs back and forth in the middle of the room [[gf1-34-2]]. Keep throwing shots at him. He occasionally shoots at you, so avoid his shots [[gf1-34-2]]. He shoots bullets in two directions, so jump over them as they near you and aim the shockwave diagonally at him [[gf2-34-2, gf2-40-2]]. Defeating him opens the door East to Room 18 [[gf1-34-2]].
 
-Room 13 has two knights; kill them to open the west wall [[gf1-14-17]].
+14. **Room 18.** Take the exit back to the Overworld [[gf1-34-3]].
 
-#### The conveyor rooms
+### Knight
 
-Spikes form at the finish line of each fast conveyor belt, and small daggers appear at some point [[gf1-14-18]]. Move quickly [[gf3-33-7]].
-
-1. **First room:** take the shortcut halfway through [[gf1-14-19, gf2-34-2]].
-2. **Second room:** take the up path, then the down path [[gf1-14-20, gf2-34-3]]. Ride the belt up on the first loop and down on the second to avoid ground blades [[gf3-33-8]].
-3. **Third room:** up and down again [[gf1-14-21, gf2-34-4]]. Take the first loop down; on the second loop stay in the middle moving west [[gf3-34-2]].
-4. **Last room:** down, then middle [[gf1-14-22, gf2-34-5]]. Grab the four hearts after jumping the spikes [[gf3-34-1, gf1-14-23, gf2-34-6]].
-
-### Knight (Boss)
-
-You stand on a ring of conveyor belts that moves you quickly around the level [[gf1-19-14, gf2-34-7]]. The Knight rides a flying horse and moves back and forth shooting bullets in two directions [[gf1-19-13]]. In Room 17 you move in a perpetual counter-clockwise motion [[gf3-34-4]].
-
-- Jump over his shots when they get near [[gf1-19-14]].
-- Aim the shockwave diagonally at him and keep firing [[gf3-34-3, gf2-34-7]].
-- He occasionally shoots at you; just avoid the shots [[gf3-34-5]].
-
-### Merlin and the Ultra Psychic Shockwave
-
-After the Knight, walk forward. An owl talks to you and reveals itself as Merlin [[gf1-14-24]]. He explains that he was a friend of Hirocon from a faraway planet [[gf1-14-25]], that Hirocon spread the Tetrads across time and space so only a hero could find them [[gf1-14-26]], and that you must collect the last Tetrad and put them together [[gf1-14-27]]. Then he gives you the last and most powerful magic [[gf1-14-28]].
+Back in the cave, walk North. An owl reveals itself as the monkey and donkey from earlier, and finally as Merlin of Camelot. He explains Hiricon and how the tetrads were spread through time and must be put together [[gf1-34-4, gf5-9-6]]. Merlin tells you to collect the last Tetrad and then teaches you the Ultra Psychic Shockwave [[gf3-14-11, gf3-15-1]].
 
 
 > [!ACHIEVEMENT]
@@ -1864,39 +1850,52 @@ After the Knight, walk forward. An owl talks to you and reveals itself as Merlin
 > *Obtain the Ultra Psychic Shock Wave*
 
 
-You obtain the Ultra Psychic Shockwave [[gf1-15-1, gf5-9-8, gf3-34-6]]. Remember it requires 10 hearts [[gf1-5-23]]. Continue along the path to fight for the final Tetrad [[gf1-15-2]].
+After Merlin vanishes, proceed North to the second Dragon Cave [[gf1-34-4]]. Remember that you need at least 10 hearts to use this weapon [[gf1-41-19]].
 
-### Dragon's Cave Part II
+### Dragon's Cave, Part II
 
-🗺️ **Map:** [View Chapter 8 Level 2 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2189-chapter-8-level-2-map)
+🗺️ **Map:** [View Chapter 8: Level 2 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2189-chapter-8-level-2-map)
 
-The music changes. Dragon Cave 2 room numbers below come from the room-by-room guide.
+Room 1 is the start, the Dragon is in Room 26 and Room 27 is the exit back to the Overworld [[gf1-35-1]]. Room 1 is empty; the guide's map puts Room 2 directly North of it, so head North to Room 2 [[gf1-35-1, gf1-35-2]].
 
-1. Room 2: grab the hearts and kill the bats to open a secret [[gf1-15-3]]. Take the stuff and hit the switch in the bottom left, then the switch in the bottom right [[gf1-15-4, gf1-15-5]].
-2. Grab the **medicine** and head back to the first bat room [[gf1-15-6]]. Room 3 has a **medicine** and spike balls; its tile opens the north wall to Room 5 [[gf3-35-2, gf3-35-3]], where a tile reveals another **medicine** [[gf3-35-4]].
-3. Kill all enemies until the music changes [[gf1-15-7]]. Room 7 has a Red Triceratops, which you can shoot from a safe distance with the new weapon [[gf3-35-5]].
-4. Hearts sit in a tile, but you must kill all blobs to move on [[gf1-15-8]]. Kill the big blobs for more hearts in the bottom left corner of the tile set [[gf1-15-9, gf3-35-6, gf3-35-7]].
-5. Room 12: jump on the floating platform, then the moving platform, up to the stationary platform, then to the tile; jump back for the question mark that opens the door [[gf3-35-8, gf3-35-9, gf1-15-10]]. Grab hearts and the orb [[gf1-15-10]].
-6. Room 14, moving balls: shoot them once to stop and once to restart [[gf3-35-10]]. Activate the tile, then grab the question mark [[gf3-35-11]].
-7. Room 15, mines drop: hit tile switches [[gf1-15-11]]. Find the tile and the question mark fast [[gf3-35-12, gf3-35-13]]. One tile in the third-last row gives a **medicine** (fire around it); one in the third row opens the door [[gf1-15-12, gf1-15-13]].
-8. Hearts in the bottom left and top right corners of the next room [[gf1-15-14]]. Take the left path for **medicine**, then go right [[gf1-15-15]].
-9. Kill the two enemies for a potion and weapons if needed [[gf1-15-16]], or get the bottom-left switch [[gf1-15-17]].
-10. Room 16 has two sets of tiles revealing two sets of four hearts [[gf3-36-4]]. Room 17 has a triceratops (defeat it to open the east door) and a **medicine** in the upper west corner [[gf3-36-10, gf3-36-3]].
-11. Room 18: two triceratops open the west door; a tile opens north to Room 19 [[gf3-36-11, gf3-36-20]]. Room 19: two skull heads open the west door [[gf3-36-12]]. Room 20: **medicine** among flames; the question mark opens east to Room 21 (six bats, spike balls) [[gf3-36-7, gf3-36-8, gf3-36-9, gf3-36-19]].
-12. Room 22: two armored knights [[gf3-36-13]]. Room 23: four rock guys, plus a tile for four hearts [[gf3-36-14, gf3-36-5]]. Room 24: one armored and two regular knights [[gf3-36-15]]. Room 25: two big green blobs and a **medicine** [[gf3-36-16, gf3-36-6]].
-13. Kill all enemies until you reach the Dragon [[gf1-15-21, gf1-15-18, gf1-15-19]].
+1. **Room 2.** Three purple bats and four hearts are here. Defeating the bats opens the wall West to Room 3, and there is an open path North to Room 4 [[gf1-35-2]].
+2. **Room 3.** There is a medicine, spike balls and two owls. A tile opens the wall North to Room 5 [[gf1-35-3]].
+3. **Room 5.** Activate the tile to reveal the medicine. Then go back South and East to Room 2, and North to Room 4 [[gf1-35-5]].
+4. **Room 4.** Defeat the two rockmen to open the wall North to Room 6 [[gf1-35-4]].
+5. **Room 6.** Defeat the big green blob to open the door East to Room 7 [[gf1-35-6]].
+6. **Room 7.** A Red Triceratops is here. Now that you have the Ultra Psychic Shockwave, shoot him from a safe distance. Defeating him opens the door East to Room 8 [[gf1-35-7]].
+7. **Room 8.** Three knights. Defeat them while taking as little damage as possible to open the door East to Room 9 [[gf1-35-8]].
+8. **Room 9.** Defeat all the blue blobs to open the wall North to Room 10. A tile here reveals four hearts [[gf1-35-9]].
+9. **Room 10.** Defeat the two big green blobs to open the wall West to Room 11. A tile reveals four hearts [[gf1-35-10]].
+10. **Room 11.** Three rock guys. Defeating them opens both East and West doors. Continue West to Room 12 [[gf1-35-11]].
+11. **Room 12.** No enemies. Jump on the floating platform, then the moving platform. Jump over the first spiked wire, then up to the stationary platform above. Jump to the next one with the tile, then jump back the way you came to get the question mark that opens the door. Four hearts are here if needed. Enter the open door North to Room 13 [[gf1-35-12]].
+12. **Room 13.** A regular knight and an armored knight. Defeat both to open the door North to Room 14 [[gf1-35-13]].
+13. **Room 14.** Only balls moving back and forth. Shoot them once to stop them and once again to start them. Activate the tile, then grab the question mark to open the door North to Room 15. Two sets of four hearts are here [[gf1-35-14]].
+14. **Room 15.** The room is covered in tiles and bombs are continually laid. Find the tile and then the question mark quickly to open the door North to Room 16 [[gf1-35-15]].
+15. **Room 16.** Two sets of tiles reveal two sets of four hearts. Open doors lead West to Room 17 and East to Room 18 [[gf1-36-1, gf1-36-2]].
+16. **Room 17.** Defeat the triceratops to open the East door back to Room 16 [[gf1-36-3]]. A medicine is in the upper west corner [[gf1-36-4]].
+17. **Room 18.** Defeat both triceratops to open the door that leads to Room 20, on the East side of this room. A tile in this room opens the room to the North and Room 19 [[gf1-36-5, gf1-36-6]]. The guide's text calls this the door to the West, but its own map draws Room 18 with Room 20 on its East side, and from Room 21 it tells you to head back West to Room 18, which only works if Rooms 20 and 21 are to the East [[gf1-35-1, gf1-36-10]].
+18. **Room 20.** Tiles are in the center, with flames surrounding the medicine and question mark that appear when you jump on the correct tile. The question mark opens the wall to the East and Room 21 [[gf1-36-8]].
+19. **Room 21.** Six bats and spike balls in the corner. You may defeat the bats, or grab the spike balls and head back West to Room 18 and then North to Room 19 [[gf1-36-9, gf1-36-10]].
+20. **Room 19.** Defeat the two skull heads on the raised section to open the door West to Room 22 [[gf1-36-7]].
+21. **Room 22.** Defeat the two armored knights to open the wall West to Room 23 [[gf1-36-11]].
+22. **Room 23.** Defeat all four rock guys to open the wall West to Room 24 [[gf1-36-12]]. Activate one of the tiles for four hearts [[gf1-36-13]].
+23. **Room 24.** One armored knight and two regular knights. Defeat all of them to open the wall North to Room 25 [[gf1-36-14]].
+24. **Room 25.** Defeat the two big green blobs to open the door North to Room 26 [[gf1-36-15]]. Grab the medicine here [[gf1-36-16]].
 
-### Dragon (Boss)
+#### Room 26: The Dragon
 
-Be heavily armed with lots of medicine [[gf1-15-20]]. The Dragon is in Room 26 [[gf3-35-1]].
+🗺️ **Map:** [View Chapter 8: Level 2 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2189-chapter-8-level-2-map)
 
-- It slowly walks forward blasting fire in three directions while spikes grow [[gf1-19-20]]. Beat it quickly or the spikes consume you [[gf1-19-21]].
-- The only way to kill it is hitting its head [[gf2-40-14]]. Jump and fire in midair; do not wait for it to breathe fire [[gf3-36-1]].
-- Stay near the bottom right corner, jump, and use the Ultra Psychic Shockwave on its head [[gf1-19-23]].
-- When it flies and shoots bullets, walk in a counter-clockwise circle [[gf1-19-22, gf1-19-24]].
-- Spend as many medicines as needed to finish quickly.
+The key is to hit his head by jumping up and firing in midair. Do not wait for him to breathe fire, because that takes too long while the spikes start to fill up the room [[gf1-36-17]]. He slowly moves forward firing in three directions while a field of spikes grows [[gf2-34-7, gf3-19-11]]. When he gets near you he flies around shooting bullets [[gf2-34-7]].
 
-Defeating it opens the east door to Room 27 [[gf3-36-18]]. Grab the Tetrad.
+Stay near the bottom right corner and jump while using the Ultra Psychic Shockwave to hit his head. When he starts to fly, walk in a counter-clockwise circle to avoid him and the bullets, and beat him quickly before the spikes consume you [[gf3-19-12, gf2-40-3]]. The only way to kill him is by hitting his head [[gf2-40-3]]. Defeating him opens the door East to Room 27 [[gf1-36-17]].
+
+25. **Room 27.** Take the exit North back to the overworld [[gf1-36-18]].
+
+### Dragon
+
+Back in the cave, a Tetrad lies just North of Mike. Grab it and Mike's health should be full [[gf1-37-1, gf5-9-3]]. Your life level increases [[gf5-9-3]].
 
 
 > [!ACHIEVEMENT]
@@ -1905,23 +1904,27 @@ Defeating it opens the east door to Room 27 [[gf3-36-18]]. Grab the Tetrad.
 > *Obtain the Tetrad in Chapter 8.*
 
 
-You obtain the final Tetrad [[gf2-35-5, gf5-9-11, gf1-15-22]]. Exit north to the overworld [[gf3-36-17]]. Mica calls and asks you to return to C-Island [[gf1-15-23]]. Turn to the last page and say the magic words to continue.
+Mike tries to put the Tetrads together, but nothing happens [[gf5-9-3]]. Exit the cave to the Northeast. Mica tells you to join her at C-Island [[gf1-37-2, gf5-9-4]]. Mike then opens the book and says the magic words, Paa Paa Paa Oom Maw Maw, to travel to Chapter 9 [[gf1-37-2, gf5-9-4]].
+
+> [!TIP]
+> **Before you leave Camelot:** Make sure both achievements have unlocked. The Ultra Psychic Shock Wave comes from Merlin after the Knight, and the Tetrad comes after the Dragon [[gf1-34-4, gf1-37-1]].
 
 > [!IMPORTANT]
 > ### Chapter 8 Cumulative 100% Checkpoint
 > - **Big Hearts:** 4 / 4
-> - **Tetrads:** 7 / 7 (final tetrad obtained after the Dragon fight) [[gf2-35-5]]
+> - **Tetrads:** 7 / 7 (the last Tetrad from the Dragon's Cave [[gf1-37-1]])
+> - **Ultra Psychic Shock Wave:** obtained from Merlin [[gf3-15-1]]
 > - **RetroAchievements Unlocked:** 30 / 31 (260 / 285 points)
 
 ### Chapter Checklist
 
-- [ ] Accepted King Arthur's quest (YES) [[gf3-32-3]]
-- [ ] Knighted; life increased [[gf2-33-12]]
-- [ ] Medicines collected in Dragon's Cave
-- [ ] Knight defeated
-- [ ] Ultra Psychic Shockwave obtained (36910)
-- [ ] Dragon defeated by hitting its head
-- [ ] Final Tetrad obtained (36911)
+- [ ] Answered Yes to King Arthur and was christened Sir Mike
+- [ ] Passed the guard and followed the path north
+- [ ] Beat the Knight in Dragon's Cave
+- [ ] Received the Ultra Psychic Shock Wave from Merlin
+- [ ] Defeated the Dragon in the second cave
+- [ ] Picked up the last Tetrad
+- [ ] Exited the cave Northeast and travelled to Chapter 9
 
 ---
 
@@ -1929,161 +1932,88 @@ You obtain the final Tetrad [[gf2-35-5, gf5-9-11, gf1-15-22]]. Exit north to the
 
 ```mermaid
 flowchart TD
-  C_Island["C-Island"]
-  Coracola_Cave["Coracola Cave"]
-  C_Serpent{{"⚔ C-Serpent"}}
-  Boss_Rematches{{"⚔ Revamped bosses"}}
-  Zoda_Z{{"⚔ Zoda-Z"}}
-  C_Island -->|"talk to the man, then enter the cave"| Coracola_Cave
-  Coracola_Cave --> C_Serpent
-  C_Serpent --> Boss_Rematches
-  Boss_Rematches --> Zoda_Z
+  CIsland["C-Island"]
+  Coracola["Coracola Cave"]
+  CSerpent{{"⚔ C-Serpent"}}
+  ZodaZ{{"⚔ Zoda-Z"}}
+  CIsland --> Coracola
+  CSerpent --> ZodaZ
   classDef ponr fill:#7f1d1d,stroke:#f87171,color:#fff;
   classDef boss fill:#4c1d95,stroke:#a78bfa,color:#fff;
-  class C_Serpent,Boss_Rematches,Zoda_Z boss;
+  class CSerpent,ZodaZ boss;
 ```
 
-### Area Overview & Preparation
-
-This is the final chapter. After you finish the Dragon's Cave, Mica calls Mike and asks him to return to C-Island [[gf1-15-23]]. Mike turns to the last page of the book and says the magic words, and the book shows Chapter 9 [[gf5-10-2]]. He appears on C-Island and exclaims "I'm on C-Island!" [[gf5-10-1]]. The game then tells him he must hurry to Coralcola to help Mica [[gf5-10-3]].
-
-Mica reports that aliens came to C-Island and hypnotized Dr. J, who then revealed how to time slip [[gf5-8-2, gf5-8-3]].
-
-What to expect in this chapter:
-
-- A village visit in Coralcola, then the original StarTropics cave, which is the same cave as in the first game, sort of [[gf1-15-24]].
-- C-Serpent as the first boss, as in the original game [[gf2-35-17]].
-- A conveyor-belt section, where the bottom route is the one that gives medicines [[gf2-36-1]].
-- Revamped versions of every earlier boss: the same, but faster [[gf2-36-2, gf1-15-31]].
-- The final fight against Zoda-Z in three forms.
-- Ending and credits, which unlock achievement 36912.
-
-> [!WARNING]
-> **Inventory warning:** Medicines are your lifeline in this chapter. Grab as many potions as you can before the final fight [[gf1-15-30]]. Do not waste them on the rematch bosses. You will need all the help you can get against Zoda-Z [[gf2-36-6]]. Unable to verify from collected sources: exact medicine counts per room.
+This is the final chapter. Mica asks Mike to come back to C-Island, and Mike travels there with the Oxford World Wonders [[gf5-9-4]]. You enter Coracola Cave behind a boy in Coralcola, beat the C-Serpent, take the conveyor belts, refight faster versions of earlier bosses, and finish against Zoda-Z [[gf1-37-3, gf1-37-4, gf3-15-8]]. Defeating Zoda-Z lets you watch the ending and unlocks the only achievement of the chapter [[gf2-36-5]].
 
 > [!TIP]
-> **Before you leave each room:** The guide says to check every tile in the cave for secrets [[gf1-15-24]]. Tiles frequently give hearts, weapons and medicine. There are no listed points of no return in this chapter, but there is also nothing to collect after the ending.
+> **Before you start:** The conveyor section is where you pick up a bunch of medicines, and the bosses that follow are faster than before [[gf2-36-1]]. Take the bottom route there for the most medicines [[gf3-15-7]].
 
-### Chapter Items to Collect
+### C-Island
 
-This chapter has no collection achievement. The only achievement is 36912 for the ending. Items worth taking are listed below for survival.
+🗺️ **Map:** [View Chapter 9: Overworld Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15892-chapter-9-overworld-map)
 
-| Item | Where Found | Action / Requirement | Citation |
-|---|---|---|---|
-| Hearts (two sets of four) | Cave Room #2 | **TAKE** | [[gf3-38-3]] |
-| Four hearts | Cave Room #6 (activate tiles) | **ACTIVATE tiles** | [[gf3-38-7]] |
-| Medicine | Cave Room #8 | **TAKE** | [[gf3-38-10]] |
-| Two hearts, medicine, random life sign | Island in Cave Room #9 | **JUMP to island and back** | [[gf3-38-12, gf3-38-13, gf3-38-14]] |
-| 25 torches | Chest in the original cave | **OPEN chest** | [[gf2-35-13]] |
-| Medicine | Room via skinny passageway | **TAKE** | [[gf2-35-15]] |
-| Hearts and medicines | Conveyor rooms (#14-#18) | **TAKE, avoid spikes** | [[gf3-38-22]] |
-| Pill | Cave Room #28 | **ACTIVATE first tile** | [[gf3-39-8]] |
+1. You appear on C-Island. Head to the village of Coralcola [[gf1-37-3]]. One guide says to follow the path to the town, talk to the man, then enter the original cave [[gf2-35-3]]. Another says to talk to the only human and go into the cave [[gf3-15-6]].
+2. In Coralcola there are many more boars than before. Find the little kid, who tells you all of the villagers are now boars. A boy also mentions strange sounds coming from the tunnel [[gf1-37-3, gf5-10-1]].
+3. Take the stairs behind the kid to enter Coracola Cave [[gf1-37-4]].
 
-### C-Island and Coralcola
+### Coracola Cave
 
-🗺️ **Map:** [View Chapter 9 Overworld Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15892-chapter-9-overworld-map)
+🗺️ **Map:** [View Chapter 9: Level 1 Map by StarFighters76](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2191-chapter-9-level-1-map)
 
-Mike arrives on the beach. Head to the village of Coralcola [[gf5-10-3]].
+The guide's layout map shows room connections from ROOM #1 through ROOM #28, with ROOM #11 as the C-Serpent boss. The guide's text continues to ROOM #29 (Zoda-Z) and ROOM #30 (the exit) [[gf1-38-1, gf1-39-9, gf1-39-10]].
 
-The villagers have all been turned into wild boars except for one boy [[gf5-10-4]]. Talk to him: he explains that odd sounds have been coming from the tunnel and asks Mike for help [[gf5-10-5]]. The guide's instruction is simply to talk to the only human, then go into the cave [[gf1-15-24, gf2-35-7]]. Follow the path to the town, talk to the man, then enter the original cave [[gf2-35-7]].
+#### Room 1 to Room 6
 
-### Coracola Cave (The Original Cave)
+1. **ROOM #1:** Take the passage to the North to ROOM #2 [[gf1-38-2]].
+2. **ROOM #2:** Defeat the three pink blobs to open the passageway North to ROOM #3. There are also two sets of four hearts here [[gf1-38-3, gf1-38-4]].
+3. **ROOM #3:** There are six pink blobs. You only need to defeat a certain random blob to open the door North to ROOM #4 [[gf1-38-5]].
+4. **ROOM #4:** Several small blue rats are here. Make your way East until you need to hop on tiles back West. Activate the tile to open the door North to ROOM #5 [[gf1-38-6]].
+5. **ROOM #5:** Defeat the two purple bats and three blue rats to open the door North to ROOM #6 [[gf1-38-7]].
+6. **ROOM #6:** Spike balls sit in the middle. Activate the tiles to get four hearts and open the door North to ROOM #7 [[gf1-38-8]].
 
-🗺️ **Map:** [View Chapter 9 Level 1 Map on GameFAQs](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2191-chapter-9-level-1-map)
+#### Room 7 to Room 11
 
-This is the original cave, remixed. Check every tile for secrets [[gf1-15-24]].
+1. **ROOM #7:** Two purple asps and two pink blobs are here, along with two tiles. One tile opens the door North to ROOM #10, and the other opens the wall East to ROOM #8 [[gf1-38-9, gf1-38-12]]. The guide's text names ROOM #9 for the North door, but its own map shows ROOM #10 there [[gf1-38-1, gf1-38-9]]. Take the side trip first: go East to ROOM #8, then North to ROOM #9, then come back through ROOM #8 and ROOM #7 and go North to ROOM #10 [[gf1-38-12]].
+2. **ROOM #8:** There is a medicine here and a tile that opens the wall North to ROOM #9 [[gf1-38-10]].
+3. **ROOM #9:** An island in the middle holds two hearts, a medicine, and a random life sign [[gf1-38-11]]. Then head back to ROOM #8, ROOM #7, and North to ROOM #10 [[gf1-38-12]].
+4. **ROOM #10:** Defeat the three bats and two asps quickly to open the door North to ROOM #11 [[gf1-38-13]].
+5. **ROOM #11, boss C-Serpent:** see the boss section below.
 
-#### Opening Rooms (Rooms #1-#3)
+#### C-Serpent
 
-Room #1: Take the passage north to Room #2 [[gf3-38-1]].
+C-Serpent is the old boss from the first game, now only bones. Avoid its shots and hit the head when the mouth is open. A platform then appears so you can proceed North to ROOM #12 [[gf1-38-14]].
 
-Room #2: Defeat the three pink blobs to open the north passage. Collect the two sets of four hearts here [[gf3-38-2, gf3-38-3]]. The other guide says to move up a screen and kill three snails to unlock a door [[gf2-35-8]].
+- Stand on the center of three tiles and throw weapons into its open mouth. It shoots fire about 80% of the time, so jump left or right to the side tiles to dodge it, then repeat [[gf2-35-7, gf2-40-4]].
+- Another guide says it moves side to side and breathes fire in three directions like the mace weapon, which you should use. It should go down fairly easily [[gf3-19-14]].
 
-Room #3: Six pink blobs are here, but you only need to defeat one specific random blob to open the north door to Room #4 [[gf3-38-4]]. Since you cannot tell which it is, simply keep killing blobs.
+#### Room 12 to Room 20
 
-#### Rooms #4-#6
+1. **ROOM #12:** Take the path East to ROOM #13 [[gf1-38-15]].
+2. **ROOM #13:** Tiles form an arrow leading to one of three conveyor belt paths to ROOM #14 [[gf1-38-16]]. Take the bottom route, which has the most medicines. The top route has very few [[gf2-36-1, gf3-15-7]]. The first guide says any of the three works [[gf1-38-16]].
+3. **ROOM #14 to ROOM #18:** These rooms are connected by the conveyor belt. Collect hearts and medicines, try to avoid hitting spikes, and you are eventually dropped into ROOM #19 [[gf1-38-17]].
+4. **ROOM #19:** As soon as you enter, you fall through the floor to ROOM #20 [[gf1-38-18]].
+5. **ROOM #20:** This greyscale room appears to have no way out. Eventually a tile appears in the middle, and then the door North opens to ROOM #21 [[gf1-38-19]].
 
-Room #4: Activate the tile to open the north door to Room #5 [[gf3-38-5]]. Step on the switch in the room to unlock the door [[gf2-35-9]]. Unable to verify from collected sources: which tile specifically in this room.
+#### Room 21 to Room 28: The Boss Rematches
 
-Room #5: Defeat two purple bats and three blue rats to open the north door [[gf3-38-6]].
+The earlier bosses return, the same but faster [[gf2-36-1, gf3-15-8]].
 
-Room #6: Activate the tiles to get four hearts and open the north door to Room #7 [[gf3-38-7]].
+1. **ROOM #21, Yum Yum:** He is not eating a boar this time. Use the same technique as last time to open the door East to ROOM #22 [[gf1-39-1]].
+2. **ROOM #22, Scorpion:** Avoid the little scorpions to defeat the scorpion boss from Egypt. The door North to ROOM #23 opens [[gf1-39-2]].
+3. **ROOM #23, Pharoah:** Defeat the mask while avoiding his blasts. You fall through the floor to ROOM #24 [[gf1-39-3]].
+4. **ROOM #24, Zoda-X:** Avoid getting hit on the conveyor belt and defeat him to open the door North to ROOM #25 [[gf1-39-4]].
+5. **ROOM #25, Skeleton Miner:** Beat him the same way as last time to open the door North to ROOM #26 [[gf1-39-5]].
+6. **ROOM #26, Zoda-Y:** He transforms into a bird halfway through the battle. Defeat him to fall through the floor to ROOM #27 [[gf1-39-6]].
+7. **ROOM #27, Dragon:** Hit his head by jumping in the air. Another guide adds that you should fire in midair and not wait for him to breathe fire, because spikes fill the room. Defeating him opens the door East to ROOM #28 [[gf1-39-7, gf1-36-17]].
+8. **ROOM #28:** Two tiles eventually appear. One makes a pill appear and the other opens the door North to ROOM #29 [[gf1-39-8]].
 
-#### Rooms #7-#9
+### Zoda-Z
 
-Room #7: Two purple asps and two pink blobs are here. Of the two tiles, one opens the north door to Room #9 and the other opens the east wall to Room #8 [[gf3-38-8, gf3-38-9]].
+**ROOM #29:** Zoda-Z is here. Defeating both his later forms opens the door West to ROOM #30 [[gf1-39-9]].
 
-Room #8: Take the medicine. A tile here opens the north wall to Room #9 [[gf3-38-10, gf3-38-11]].
-
-Room #9: An island in the middle holds two hearts, a medicine and a random life sign [[gf3-38-12, gf3-38-13, gf3-38-14]]. Jump to it and back while taking as little damage as possible [[gf3-38-15]].
-
-#### Chest Room and Side Rooms
-
-A chest room features in the other guide. Jumping on the tiles reveals three switches that unlock two doors and a chest [[gf2-35-14]]. Open the chest first and take the 25 torches inside [[gf2-35-13]]. Go right through the skinny passageway to a room with a medicine [[gf2-35-15]].
-
-> [!WARNING]
-> The room beyond that unlocked side room kills you. Do not go in [[gf2-35-16]].
-
-#### Room #10 and C-Serpent
-
-Room #10: Defeat three bats and two asps quickly to open the north door to Room #11 [[gf3-38-16]]. Kill all enemies in the room to reach the first boss [[gf2-35-17]].
-
-**Boss: C-Serpent (Room #11).** It is the old boss from the first game, now just bones [[gf3-38-17]]. It moves side to side and breathes fire in three directions, like the mace weapon, which you should use [[gf1-19-40]]. Avoid the shots and hit the head when the mouth is open [[gf3-38-17]]. Defeating it makes a platform appear so you can go north to Room #12 [[gf3-38-18]].
-
-Unable to verify from collected sources: C-Serpent's HP.
-
-### Conveyor Section (Rooms #12-#20)
-
-Room #12: Nothing to do except take the path east to Room #13. Unable to verify from collected sources: further detail.
-
-Room #13: Tiles form an arrow leading to one of three conveyor paths. Take any one of them to Room #14 [[gf3-38-19]]. However, the top route has very few potions and the bottom route has the most [[gf1-15-28, gf1-15-29]]. Take the bottom route to get a bunch of medicines [[gf2-36-1]].
-
-Rooms #14-#18 are connected by conveyor belts. Collect hearts and medicines and avoid spikes [[gf3-38-22]].
-
-Room #19: You fall through the floor to Room #20 [[gf3-38-20]].
-
-Room #20: A greyscale room with seemingly no exit. Wait, and a tile in the middle will appear and open the north door to Room #21 [[gf3-38-21]].
-
-### Revamped Bosses (Rooms #21-#27)
-
-All earlier bosses return, the same but faster [[gf2-36-2, gf1-15-31]]. Save your medicines.
-
-| Room | Boss | Tip | Citation |
-|---|---|---|---|
-| #21 | Yum Yum | No boar on his plate this time. Use the same technique as before; opens east door | [[gf3-39-1]] |
-| #22 | Scorpion | Avoid the little scorpions; opens north door | [[gf3-39-2]] |
-| #23 | Pharoah (mask) | Avoid his blasts; you then fall through the floor | [[gf3-39-3]] |
-| #24 | Zoda-X | Random conveyor belt; avoid getting hit; opens north door | [[gf3-39-4]] |
-| #25 | Skeleton Miner | Same way as before; opens north door | [[gf3-39-5]] |
-| #26 | Zoda-Y | Turns into a bird halfway; you then fall through the floor | [[gf3-39-6]] |
-| #27 | Dragon | Hit his head by jumping in the air; opens east door | [[gf3-39-7]] |
-
-Room #28: Two tiles eventually appear. One makes a pill appear; the other opens the north door to Room #29 [[gf3-39-8, gf3-39-9]]. Take the pill first, then use the other tile.
-
-> [!TIP]
-> **Before you leave Room #28:** Use up your preparations. Check you have as many medicines as possible [[gf1-15-30]]; the next room is Zoda-Z.
-
-### Zoda-Z (Room #29)
-
-Zoda-Z is described as ten times the boss the original Zoda was, and a significant challenge [[gf1-19-25]]. The guide says use any and all items you have [[gf2-41-10]].
-
-**Form 1 – Larva.** He starts as a group of tiny creatures (four Zoda balls) and one is a different color [[gf1-19-28, gf2-36-3, gf3-39-10]]. Avoid the matching ones and shoot the off-color one until it is defeated [[gf2-36-3, gf3-39-10]].
-
-**Form 2 – Normal form.** The creatures come together and Zoda appears [[gf2-36-6]]. He fires large energy balls that deal no damage but turn you into a wild boar on impact [[gf1-19-30]]. While a boar you cannot attack, so run around dodging bullets until it wears off [[gf1-19-30]]. Attack him with the shockwave [[gf2-36-6]].
-
-**Form 3 – Minotaur.** After the second form falls, he turns into a minotaur, his final and hardest form [[gf2-36-11]]. New tricks:
-
-- **Spin:** When he spins he is invincible for a little while. Do not touch him until it wears off [[gf2-41-7]].
-- **Fire walls:** He shoots fire from both sides of the wall; you can see it coming ahead of time [[gf2-41-8]].
-- **Charge:** He comes out of nowhere and tries to slam into you head first [[gf2-41-9]].
-
-Dodge his attacks and nail him with the Shockwave when you can, and be patient [[gf2-41-10]]. Defeating the true form and then the final form opens the west door to Room #30 [[gf3-39-10]].
-
-Unable to verify from collected sources: Zoda-Z's HP and exact attack pattern order.
-
-### Ending
-
-Zoda is fought after the repeated bosses at the end of the game [[gf1-15-32]]. Defeating him finishes the game [[gf1-15-33]]. You beat the game [[gf2-36-17]].
+- **Form 1:** He appears as four little Zoda balls. One is off-color, so shoot it until it is defeated. Avoid the attacks of the matching ones [[gf1-39-9, gf2-40-5]].
+- **Form 2 (normal form):** Attack him over and over with the shockwave weapon and avoid the weak bullets he shoots. His large energy balls do no damage but turn you into a wild boar who cannot attack. If that happens, run around and avoid his attacks until it wears off [[gf2-41-1, gf3-19-17]].
+- **Final form (minotaur/buffalo):** Once you defeat the previous form with the Shockwave, he morphs into a large creature that resembles a buffalo standing on two legs [[gf3-19-18]]. He still fires bullets and can change you into a boar. He can also fire walls of fire from the sides of the room, make areas of the room explode with sparks, and spin quickly, which makes him invincible, before charging at you [[gf3-19-19]]. Do not touch him while he spins, watch for fire shot from both sides of the wall, and avoid his head-first charge. Attack with the shockwave when you can and be patient [[gf2-41-2]].
 
 
 > [!ACHIEVEMENT]
@@ -2092,92 +2022,89 @@ Zoda is fought after the repeated bosses at the end of the game [[gf1-15-32]]. D
 > *Defeat Zoda for good, and enjoy the ending!*
 
 
-Room #30 is just an exit to the north [[gf3-39-10]]. Mica tells you to check on the villagers; the village is back to normal. Mica will meet Mike at the chief's hut [[gf5-10-6]]. Miss Coral greets Mike in the village [[gf5-10-7]], and a boy says he zapped the Zodas [[gf5-10-8]].
+Defeating Zoda-Z lets you beat the game and watch the ending [[gf2-36-5]].
 
-At the chief's hut the chief offers to help with the Tetrads [[gf5-10-9]]. They are put together until they form a scepter, and Hirocon appears [[gf5-10-10]]. He thanks Mike for saving him [[gf5-10-11]], explains he sent Mica away in the escape pod when trouble began on Argonia [[gf5-10-12]], and Mica says they can go back to Argonia and rebuild their society [[gf5-10-13]]. Hirocon says Mike will always hold a place as the hero of Argonia [[gf5-10-14]]. Hirocon flashes and everyone disappears [[gf5-10-15]]. The credits start playing [[gf5-10-16]]. Sit back and watch the ending.
+### The Ending
+
+1. ROOM #30 is just an exit to the North [[gf1-39-10]]. Back inside the cave, head North to find Mica, who says you must first check on the villagers [[gf1-40-1]].
+2. Mica confirms the village is back to normal [[gf5-10-2]]. Go to the chief's hut, where the Chief puts the Tetrads together. One guide says they resemble a maple leaf, while the script describes a scepter. Either way, Hirocon appears [[gf1-40-2, gf5-10-3, gf2-5-5]].
+3. Hirocon explains that he had his essence transferred to the Tetrads after sending Mica away in the escape pod [[gf5-10-4]]. He bestows "Hero of Aragonia" on Mike, and they fly off the island as balls of light [[gf1-40-3]].
+4. The final screen shows an open book with Mike at the cliff and the words "What a wild adventure! If I hadn't lived it, I wouldn't believe it!" [[gf5-11-1]]
 
 > [!IMPORTANT]
 > ### Chapter 9 Cumulative 100% Checkpoint
 > - **Big Hearts:** 4 / 4
-> - **Tetrads:** 7 / 7
-> - **Final boss Zoda-Z defeated and ending watched:** yes [[gf2-36-17]]
+> - **Tetrads:** 7 / 7 (assembled by the Chief) [[gf1-40-2]]
 > - **RetroAchievements Unlocked:** 31 / 31 (285 / 285 points)
 
 ### Chapter Checklist
 
-- [ ] Talked to the boy in Coralcola and entered the cave [[gf1-15-24]]
-- [ ] Defeated C-Serpent [[gf3-38-17]]
-- [ ] Took the bottom conveyor route for medicines [[gf2-36-1]]
-- [ ] Defeated all revamped bosses (Yum Yum, Scorpion, Pharoah, Zoda-X, Skeleton Miner, Zoda-Y, Dragon) [[gf3-39-1, gf3-39-7]]
-- [ ] Defeated Zoda-Z in all forms [[gf3-39-10]]
-- [ ] Watched the ending and credits; unlocked 36912 [[gf5-10-16]]
+- [ ] Enter Coracola Cave from the stairs behind the boy in Coralcola
+- [ ] Defeat the C-Serpent in ROOM #11
+- [ ] Take the bottom conveyor route for the most medicines
+- [ ] Defeat the rematch bosses in ROOMs #21 to #27
+- [ ] Defeat all forms of Zoda-Z in ROOM #29 (C-Island is Normal Again!)
+- [ ] Watch the ending
 
 ---
 
 ## Final Checklist
 
-**1. Seattle**
+**Chapter 1: Prelude**
 
-**2. The Stone Age**
+**Chapter 2: The Ice Age**
 
 - [ ] 🏆 Better Than Nothing
 - [ ] 🏆 A Caveman Weapon
 - [ ] 🏆 Just Like Link
 - [ ] 🏆 Your First Tetrad
-- [ ] ⛔ Everything above is done before: Chapter 2 Tetrad
 
-**3. Egypt**
+**Chapter 3: Cleopatra's Egypt**
 
-- [ ] ⚠ Jack of All Trades dagger (before: Before Cleopatra gives you her dagger after the pizza delivery (Chapter 3). With a dagger in hand, Jack only offers his axe.)
+- [ ] ⚠ Dagger from the Jack of All Trades (before: Before giving Cleopatra her pizza in Chapter 3. Once you hold a dagger, Jack only offers to trade back for an axe, and Cleopatra only hands over her dagger when you arrive without one.)
 - [ ] 🏆 Jack of All Trades
+- [ ] 🏆 Sharp Edge
 - [ ] 🏆 Thrower
 - [ ] 🏆 Slowest Pizza Delivery Ever
-- [ ] 🏆 Sharp Edge
 - [ ] 🏆 What Do These Do?
 - [ ] 🏆 Lost in the Tall Grass
 - [ ] 🏆 Psychic Power
 - [ ] 🏆 Snake Charmer
 - [ ] 🏆 Egyptian Tetris
-- [ ] ⛔ Everything above is done before: Chapter 3 Tetrad
 
-**4. London**
+**Chapter 4: Holmes's London**
 
 - [ ] 🏆 Down the Sewers
 - [ ] 🏆 That Does NOT Look Like a Ball
 - [ ] 🏆 The Mystery of the Tetrad
-- [ ] ⛔ Everything above is done before: Chapter 4 Tetrad
 
-**5. The Wild West**
+**Chapter 5: The Wild West**
 
-- [ ] 🏆 Heart of Gold
 - [ ] 🏆 Not Quite a Gold Nugget
 - [ ] 🏆 Real Gold
+- [ ] 🏆 Heart of Gold
 - [ ] 🏆 Not the Traditional Weapon
 - [ ] 🏆 Super Psychic Shock Wave
 - [ ] 🏆 Just Like Mario
 - [ ] 🏆 Tetrad in a Western
-- [ ] ⛔ Everything above is done before: Chapter 5 Tetrad
 
-**6. Italy**
+**Chapter 6: Leonardo's Italy**
 
 - [ ] 🏆 Now We Got a Sword
 - [ ] 🏆 Heart on the Lone Island
 - [ ] 🏆 Watch Out for Pits!
-- [ ] ⛔ Everything above is done before: Chapter 6 Tetrad
 
-**7. Transylvania**
+**Chapter 7: Dracula's Transylvania**
 
-- [ ] ⚠ Spike balls in Spooky Castle Room 13 (before: Open the Room 13 east-wall chest before dropping down the hole to Room 14 (Chapter 7). The Room 26 platform has more spike balls as a backup.)
 - [ ] 🏆 Triple the Fun
 - [ ] 🏆 House of the Undead
-- [ ] ⛔ Everything above is done before: Chapter 7 Tetrad
 
-**8. Camelot**
+**Chapter 8: King Arthur's Camelot**
 
 - [ ] 🏆 Ultra Psychic Shock Wave
 - [ ] 🏆 The Middle Ages
 
-**9. Return to C-Island**
+**Chapter 9: Return to C-Island**
 
 - [ ] 🏆 C-Island is Normal Again!
 
@@ -2187,46 +2114,46 @@ All 31 achievements (285 points).
 
 | ✔ | Achievement | Points | Type | Chapter |
 |---|---|---|---|---|
-| ☐ | **Better Than Nothing** — Pick up Rocks in Chapter 2. | 5 |  | [2](#chapter-2-the-stone-age) |
-| ☐ | **A Caveman Weapon** — Obtain the Axe. | 10 |  | [2](#chapter-2-the-stone-age) |
-| ☐ | **Your First Tetrad** — Complete the first dungeon, and learn about the Tetrads. | 10 | progression | [2](#chapter-2-the-stone-age) |
-| ☐ | **Jack of All Trades** — Obtain the Dagger from the Jack of All Trades. | 10 |  | [3](#chapter-3-egypt) |
-| ☐ | **Sharp Edge** — Obtain the Dagger. | 10 |  | [3](#chapter-3-egypt) |
-| ☐ | **Thrower** — Pick up the Thrower Item in Chapter 3. | 5 |  | [3](#chapter-3-egypt) |
-| ☐ | **Just Like Link** — Pick up a Potion. | 5 |  | [2](#chapter-2-the-stone-age) |
-| ☐ | **Slowest Pizza Delivery Ever** — Clear the first dungeon in Chapter 3 and get the pizza for the Queen. | 10 | progression | [3](#chapter-3-egypt) |
-| ☐ | **What Do These Do?** — Have 4 stars at once. | 10 |  | [3](#chapter-3-egypt) |
-| ☐ | **Lost in the Tall Grass** — Find the Heart Container in Chapter 3. | 10 |  | [3](#chapter-3-egypt) |
-| ☐ | **Psychic Power** — Obtain the Psychic Shock Wave. | 10 |  | [3](#chapter-3-egypt) |
-| ☐ | **Snake Charmer** — Pick up the flute. | 5 |  | [3](#chapter-3-egypt) |
-| ☐ | **Egyptian Tetris** — Complete the second dungeon in Chapter 3 and collect the Tetrad. | 10 | progression | [3](#chapter-3-egypt) |
-| ☐ | **Down the Sewers** — Obtain the Heart Container in Chapter 4. | 10 |  | [4](#chapter-4-london) |
-| ☐ | **That Does NOT Look Like a Ball** — Pick up the Spike Ball Item in Chapter 4. | 5 |  | [4](#chapter-4-london) |
-| ☐ | **The Mystery of the Tetrad** — Finish both dungeons in Chapter 4 and obtain the Tetrad. | 10 | progression | [4](#chapter-4-london) |
-| ☐ | **Not Quite a Gold Nugget** — Find the Hidden Nugget in Chapter 5. | 10 |  | [5](#chapter-5-the-wild-west) |
-| ☐ | **Real Gold** — Find the ACTUAL Gold Nugget in Chapter 5. | 5 |  | [5](#chapter-5-the-wild-west) |
-| ☐ | **Heart of Gold** — Find the Heart Container in Chapter 5. | 10 |  | [5](#chapter-5-the-wild-west) |
-| ☐ | **Not the Traditional Weapon** — Pick up the Bola Weapon in Chapter 5. | 5 |  | [5](#chapter-5-the-wild-west) |
-| ☐ | **Super Psychic Shock Wave** — Obtain the Super Psychic Shock Wave. | 10 |  | [5](#chapter-5-the-wild-west) |
-| ☐ | **Just Like Mario** — Pick up a Star Magic Item in Chapter 5 | 5 |  | [5](#chapter-5-the-wild-west) |
-| ☐ | **Tetrad in a Western** — Finish the second dungeon in Chapter 5 and obtain a Tetrad. | 10 | progression | [5](#chapter-5-the-wild-west) |
-| ☐ | **Now We Got a Sword** — Obtain the Katana. | 10 |  | [6](#chapter-6-italy) |
-| ☐ | **Heart on the Lone Island** — Obtain the Heart Container in Chapter 6. | 10 |  | [6](#chapter-6-italy) |
-| ☐ | **Watch Out for Pits!** — Obtain the Tetrad in Chapter 6. | 10 | progression | [6](#chapter-6-italy) |
-| ☐ | **Triple the Fun** — Pick up the Triple Spike Ball in Chapter 7. | 10 |  | [7](#chapter-7-transylvania) |
-| ☐ | **House of the Undead** — Obtain the Tetrad in Chapter 7. | 10 | progression | [7](#chapter-7-transylvania) |
-| ☐ | **Ultra Psychic Shock Wave** — Obtain the Ultra Psychic Shock Wave | 10 |  | [8](#chapter-8-camelot) |
-| ☐ | **The Middle Ages** — Obtain the Tetrad in Chapter 8. | 10 | progression | [8](#chapter-8-camelot) |
-| ☐ | **C-Island is Normal Again!** — Defeat Zoda for good, and enjoy the ending! | 25 | win_condition | [9](#chapter-9-return-to-c-island) |
+| ☐ | **Better Than Nothing** — Pick up Rocks in Chapter 2. | 5 |  | [Chapter 2](#chapter-2-the-ice-age) |
+| ☐ | **A Caveman Weapon** — Obtain the Axe. | 10 |  | [Chapter 2](#chapter-2-the-ice-age) |
+| ☐ | **Your First Tetrad** — Complete the first dungeon, and learn about the Tetrads. | 10 | progression | [Chapter 2](#chapter-2-the-ice-age) |
+| ☐ | **Jack of All Trades** — Obtain the Dagger from the Jack of All Trades. | 10 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Sharp Edge** — Obtain the Dagger. | 10 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Thrower** — Pick up the Thrower Item in Chapter 3. | 5 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Just Like Link** — Pick up a Potion. | 5 |  | [Chapter 2](#chapter-2-the-ice-age) |
+| ☐ | **Slowest Pizza Delivery Ever** — Clear the first dungeon in Chapter 3 and get the pizza for the Queen. | 10 | progression | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **What Do These Do?** — Have 4 stars at once. | 10 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Lost in the Tall Grass** — Find the Heart Container in Chapter 3. | 10 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Psychic Power** — Obtain the Psychic Shock Wave. | 10 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Snake Charmer** — Pick up the flute. | 5 |  | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Egyptian Tetris** — Complete the second dungeon in Chapter 3 and collect the Tetrad. | 10 | progression | [Chapter 3](#chapter-3-cleopatras-egypt) |
+| ☐ | **Down the Sewers** — Obtain the Heart Container in Chapter 4. | 10 |  | [Chapter 4](#chapter-4-holmess-london) |
+| ☐ | **That Does NOT Look Like a Ball** — Pick up the Spike Ball Item in Chapter 4. | 5 |  | [Chapter 4](#chapter-4-holmess-london) |
+| ☐ | **The Mystery of the Tetrad** — Finish both dungeons in Chapter 4 and obtain the Tetrad. | 10 | progression | [Chapter 4](#chapter-4-holmess-london) |
+| ☐ | **Not Quite a Gold Nugget** — Find the Hidden Nugget in Chapter 5. | 10 |  | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Real Gold** — Find the ACTUAL Gold Nugget in Chapter 5. | 5 |  | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Heart of Gold** — Find the Heart Container in Chapter 5. | 10 |  | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Not the Traditional Weapon** — Pick up the Bola Weapon in Chapter 5. | 5 |  | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Super Psychic Shock Wave** — Obtain the Super Psychic Shock Wave. | 10 |  | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Just Like Mario** — Pick up a Star Magic Item in Chapter 5 | 5 |  | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Tetrad in a Western** — Finish the second dungeon in Chapter 5 and obtain a Tetrad. | 10 | progression | [Chapter 5](#chapter-5-the-wild-west) |
+| ☐ | **Now We Got a Sword** — Obtain the Katana. | 10 |  | [Chapter 6](#chapter-6-leonardos-italy) |
+| ☐ | **Heart on the Lone Island** — Obtain the Heart Container in Chapter 6. | 10 |  | [Chapter 6](#chapter-6-leonardos-italy) |
+| ☐ | **Watch Out for Pits!** — Obtain the Tetrad in Chapter 6. | 10 | progression | [Chapter 6](#chapter-6-leonardos-italy) |
+| ☐ | **Triple the Fun** — Pick up the Triple Spike Ball in Chapter 7. | 10 |  | [Chapter 7](#chapter-7-draculas-transylvania) |
+| ☐ | **House of the Undead** — Obtain the Tetrad in Chapter 7. | 10 | progression | [Chapter 7](#chapter-7-draculas-transylvania) |
+| ☐ | **Ultra Psychic Shock Wave** — Obtain the Ultra Psychic Shock Wave | 10 |  | [Chapter 8](#chapter-8-king-arthurs-camelot) |
+| ☐ | **The Middle Ages** — Obtain the Tetrad in Chapter 8. | 10 | progression | [Chapter 8](#chapter-8-king-arthurs-camelot) |
+| ☐ | **C-Island is Normal Again!** — Defeat Zoda for good, and enjoy the ending! | 25 | win_condition | [Chapter 9](#chapter-9-return-to-c-island) |
 
 ## Sources
 
 This guide was built only from these sources:
 
 - **RetroAchievements** — StarTropics II: Zoda's Revenge — RetroAchievements community comments: [link](https://retroachievements.org/game/1984)
-- **GameFAQs** — Guide and Walkthrough by MacDaddy_Mike: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/16494)
-- **GameFAQs** — Guide and Walkthrough by PsychoPenguin: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/39873)
 - **GameFAQs** — Guide and Walkthrough by vindit: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/62277)
+- **GameFAQs** — Guide and Walkthrough by PsychoPenguin: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/39873)
+- **GameFAQs** — Guide and Walkthrough by MacDaddy_Mike: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/16494)
 - **GameFAQs** — Walkthrough by GPolander: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/3095)
 - **GameFAQs** — Game Script by KFHEWUI: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/faqs/49934)
 - **GameFAQs** — Chapter 2: Dungeon Map by KirbyPufocia: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/1336-chapter-2-dungeon-map)
@@ -2242,7 +2169,7 @@ This guide was built only from these sources:
 - **GameFAQs** — Chapter 5: Level 1 Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2184-chapter-5-level-1-map)
 - **GameFAQs** — Chapter 5: Level 2 Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2185-chapter-5-level-2-map)
 - **GameFAQs** — Chapter 5: Overworld Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15889-chapter-5-overworld-map)
-- **GameFAQs** — Chapter 6: Inside The Castle Maze M by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2187-chapter-6-inside-the-castle-maze-map)
+- **GameFAQs** — Chapter 6: Inside The Castle Maze Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2187-chapter-6-inside-the-castle-maze-map)
 - **GameFAQs** — Chapter 6: Level 1 Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2186-chapter-6-level-1-map)
 - **GameFAQs** — Chapter 6: Overworld Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15890-chapter-6-overworld-map)
 - **GameFAQs** — Chapter 7: Level 1 Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2188-chapter-7-level-1-map)
@@ -2252,4 +2179,4 @@ This guide was built only from these sources:
 - **GameFAQs** — Chapter 9: Level 1 Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/2191-chapter-9-level-1-map)
 - **GameFAQs** — Chapter 9: Overworld Map by StarFighters76: [link](https://gamefaqs.gamespot.com/nes/587654-zodas-revenge-star-tropics-ii/map/15892-chapter-9-overworld-map)
 
-Verification: 136 verified · 1566 single-source · 0 resolved conflicts · 2 rejected facts.
+Verification: 51 verified · 886 single-source · 0 resolved conflicts · 0 rejected facts.

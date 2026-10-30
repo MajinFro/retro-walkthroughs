@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-18T14:01:52.259Z",
+  "generated_at": "2026-10-30T00:53:31.407Z",
   "inputs": {
-    "qa": "1c9d4595d56351d7",
-    "review": "976c210009e0a9ca",
-    "verified": "3d31d04589fa06a9",
-    "chapters": "fffbf025b0bcb94c"
+    "qa": "fd2e30cbe88aee93",
+    "review": "4c3ad3fee1f961bb",
+    "verified": "9f016e507dc05862",
+    "chapters": "8754cdc8659827c6"
   },
   "scores": {
-    "source_coverage": 96,
-    "accuracy": 93,
+    "source_coverage": 97,
+    "accuracy": 98,
     "achievement_coverage": 100,
     "missable_coverage": 100,
-    "beginner_friendliness": 83,
+    "beginner_friendliness": 85,
     "route_completeness": 100,
     "true_100_coverage": 100
   },
-  "overall": 96,
+  "overall": 97,
   "verdict": "ACCEPTED",
   "blockers": []
 }

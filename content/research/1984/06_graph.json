@@ -1,107 +1,49 @@
 {
   "nodes": [
     {
-      "id": "Seattle",
-      "label": "Seattle",
+      "id": "Prelude",
+      "label": "Chapter 1: Prelude",
       "kind": "area",
       "fact_ids": [
-        "gf5-1-6",
-        "gf5-2-2"
+        "gf1-3-1",
+        "gf5-2-1"
       ]
     },
     {
-      "id": "Oxford_Book",
-      "label": "Oxford World Wonders",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf5-2-2",
-        "gf5-3-10"
-      ]
-    },
-    {
-      "id": "Ice_Age",
+      "id": "IceAge",
       "label": "Ice Age",
       "kind": "area",
       "fact_ids": [
-        "gf2-24-3",
-        "gf3-41-17",
-        "gf4-2-8"
+        "gf3-6-6",
+        "gf4-2-1"
       ]
     },
     {
-      "id": "Rocks",
-      "label": "Rocks",
-      "kind": "item",
-      "fact_ids": [
-        "gf3-4-1",
-        "gf4-2-1",
-        "gf1-6-5"
-      ]
-    },
-    {
-      "id": "Cave_Men_Cave",
+      "id": "CaveMenCave",
       "label": "Cave Men Cave",
       "kind": "area",
       "fact_ids": [
-        "gf3-5-1",
-        "gf4-2-13",
-        "gf2-24-9"
+        "gf1-5-1",
+        "gf1-5-2"
       ]
     },
     {
-      "id": "Tink",
-      "label": "Tink",
-      "kind": "npc",
-      "fact_ids": [
-        "gf2-24-5",
-        "gf3-5-1"
-      ]
-    },
-    {
-      "id": "Axe",
-      "label": "Axe",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-24-6",
-        "gf4-2-10"
-      ]
-    },
-    {
-      "id": "Yum_Yum_Cave",
+      "id": "YumYumCave",
       "label": "Yum Yum's Cave",
       "kind": "area",
       "fact_ids": [
+        "gf1-6-1",
         "gf2-25-1",
-        "gf1-6-14",
-        "gf4-3-7"
+        "gf3-6-10"
       ]
     },
     {
-      "id": "Medicine",
-      "label": "Medicine",
-      "kind": "item",
-      "fact_ids": [
-        "gf1-6-17",
-        "gf2-25-2",
-        "gf4-2-15"
-      ]
-    },
-    {
-      "id": "Yum_Yum",
+      "id": "YumYum",
       "label": "Yum Yum",
       "kind": "boss",
       "fact_ids": [
-        "gf4-2-19",
-        "gf2-25-7"
-      ]
-    },
-    {
-      "id": "Tetrad_Ch2",
-      "label": "Tetrad (Chapter 2)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf3-8-1",
-        "gf4-3-12"
+        "gf1-7-2",
+        "gf2-25-5"
       ]
     },
     {
@@ -109,157 +51,74 @@
       "label": "Egypt",
       "kind": "area",
       "fact_ids": [
-        "gf1-7-11",
-        "gf4-3-16",
-        "gf5-3-12"
+        "gf5-3-6",
+        "gf5-3-7",
+        "gf1-9-5"
       ]
     },
     {
-      "id": "Jack",
-      "label": "Jack of All Trades",
-      "kind": "npc",
-      "fact_ids": [
-        "gf5-3-12",
-        "gf5-3-13"
-      ]
-    },
-    {
-      "id": "Jack_Dagger_Missable",
-      "label": "Jack's bronze dagger trade",
-      "kind": "missable",
-      "fact_ids": [
-        "gf5-3-13",
-        "gf5-3-15",
-        "ra-comments-5-1"
-      ]
-    },
-    {
-      "id": "Border_Pass",
+      "id": "BorderPass",
       "label": "Border Pass",
       "kind": "area",
       "fact_ids": [
-        "gf2-26-2",
-        "gf4-3-19",
-        "gf2-26-3"
+        "gf1-10-1",
+        "gf1-10-5",
+        "gf2-26-2"
       ]
     },
     {
-      "id": "Thrower",
-      "label": "Thrower (Slingshot)",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-26-4",
-        "gf4-3-20",
-        "gf3-10-2"
-      ]
-    },
-    {
-      "id": "Giant_Scorpion",
+      "id": "GiantScorpion",
       "label": "Giant Scorpion",
       "kind": "boss",
       "fact_ids": [
-        "gf1-7-17",
-        "gf4-3-27",
-        "gf2-26-6"
+        "gf1-10-17",
+        "gf4-3-8"
       ]
     },
     {
-      "id": "Pizza",
-      "label": "Cleopatra's pizza",
-      "kind": "quest",
-      "fact_ids": [
-        "gf2-26-1",
-        "gf3-11-1",
-        "gf5-4-9"
-      ]
-    },
-    {
-      "id": "Dagger",
-      "label": "Dagger",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-26-11",
-        "gf1-8-2",
-        "gf5-5-3"
-      ]
-    },
-    {
-      "id": "Monkey_Maze",
-      "label": "Monkey Maze",
+      "id": "MonkeySavannah",
+      "label": "Monkey Savannah",
       "kind": "area",
       "fact_ids": [
-        "gf1-8-6",
-        "gf2-26-16",
-        "gf3-12-12"
+        "gf1-12-1",
+        "gf2-26-8",
+        "gf3-8-8"
       ]
     },
     {
-      "id": "Small_Stars",
-      "label": "Small stars",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-13-1",
-        "gf1-5-4",
-        "gf1-8-8"
-      ]
-    },
-    {
-      "id": "Big_Heart_Ch3",
-      "label": "Big Heart (Monkey Maze)",
-      "kind": "item",
-      "fact_ids": [
-        "gf4-4-15",
-        "gf2-26-16",
-        "gf3-13-1"
-      ]
-    },
-    {
-      "id": "Psychic_Shockwave",
-      "label": "Psychic Shockwave",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf1-8-17",
-        "gf2-27-2",
-        "gf4-4-19"
-      ]
-    },
-    {
-      "id": "Great_Pyramid",
-      "label": "Great Pyramid",
+      "id": "SavannahA",
+      "label": "Savannah Dungeon A",
       "kind": "area",
       "fact_ids": [
-        "gf1-8-3",
-        "gf2-27-3",
-        "gf4-4-10"
+        "gf1-12-5",
+        "gf1-12-9"
       ]
     },
     {
-      "id": "Flute",
-      "label": "Flute",
-      "kind": "key_item",
+      "id": "SavannahB",
+      "label": "Savannah Dungeon B",
+      "kind": "area",
       "fact_ids": [
-        "gf3-16-9",
-        "gf4-4-24",
-        "gf2-27-15"
+        "gf1-13-3",
+        "gf1-13-6"
       ]
     },
     {
-      "id": "Monster_Mask",
+      "id": "Pyramid",
+      "label": "Pyramid",
+      "kind": "area",
+      "fact_ids": [
+        "gf1-15-1",
+        "gf1-16-17"
+      ]
+    },
+    {
+      "id": "MonsterMask",
       "label": "Monster Mask",
       "kind": "boss",
       "fact_ids": [
-        "gf1-18-10",
-        "gf4-4-28",
-        "gf2-27-17"
-      ]
-    },
-    {
-      "id": "Tetrad_Ch3",
-      "label": "Tetrad (Chapter 3)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf4-4-30",
-        "gf3-18-1"
+        "gf4-4-10",
+        "gf1-17-4"
       ]
     },
     {
@@ -267,227 +126,93 @@
       "label": "London",
       "kind": "area",
       "fact_ids": [
-        "gf1-9-20",
-        "gf2-28-2",
-        "gf1-9-23"
+        "gf1-18-2",
+        "gf1-18-6",
+        "gf5-5-11"
       ]
     },
     {
-      "id": "London_Museum",
-      "label": "London museum",
+      "id": "LondonSewers",
+      "label": "London Sewers",
       "kind": "area",
       "fact_ids": [
-        "gf1-9-26",
-        "gf4-5-2",
-        "gf5-5-20"
+        "gf1-19-1",
+        "gf3-10-2"
       ]
     },
     {
-      "id": "Big_Heart_Ch4",
-      "label": "Big Heart (manhole left of the museum)",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-28-6",
-        "gf3-18-2",
-        "gf4-5-9"
-      ]
-    },
-    {
-      "id": "Sewers",
-      "label": "Sewers",
-      "kind": "area",
-      "fact_ids": [
-        "gf2-28-7",
-        "gf2-29-1"
-      ]
-    },
-    {
-      "id": "Sewer_Part_I",
-      "label": "Sewer Part I",
-      "kind": "area",
-      "fact_ids": [
-        "gf3-18-3",
-        "gf1-10-7",
-        "gf3-19-4"
-      ]
-    },
-    {
-      "id": "Zodas_Creature",
+      "id": "ZodasCreature",
       "label": "Zoda's Creature",
       "kind": "boss",
       "fact_ids": [
-        "gf1-10-8",
-        "gf2-28-18",
-        "gf3-19-1"
+        "gf2-28-4",
+        "gf1-19-14"
       ]
     },
     {
-      "id": "Sewer_Part_II",
-      "label": "Sewer Part II",
+      "id": "LondonSewers2",
+      "label": "London Sewers 2",
       "kind": "area",
       "fact_ids": [
-        "gf1-10-1",
-        "gf4-5-12",
-        "gf1-10-10"
+        "gf1-20-1",
+        "gf1-20-3",
+        "gf3-10-10"
       ]
     },
     {
-      "id": "Spike_Ball",
-      "label": "Spike Ball (spiked frisbees)",
-      "kind": "item",
-      "fact_ids": [
-        "gf3-20-1",
-        "gf4-5-17",
-        "gf3-41-19"
-      ]
-    },
-    {
-      "id": "Zoda_X",
+      "id": "ZodaX",
       "label": "Zoda-X",
       "kind": "boss",
       "fact_ids": [
-        "gf1-18-18",
-        "gf3-21-7",
-        "gf1-11-4"
+        "gf1-21-7",
+        "gf3-18-7"
       ]
     },
     {
-      "id": "Tetrad_Ch4",
-      "label": "Tetrad (Chapter 4)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf4-6-3",
-        "gf1-11-5"
-      ]
-    },
-    {
-      "id": "Wild_West",
-      "label": "Wild West",
+      "id": "WildWest",
+      "label": "Wild Wild West",
       "kind": "area",
       "fact_ids": [
+        "gf1-22-3",
         "gf2-30-1",
-        "gf4-6-6",
-        "gf1-11-9"
+        "gf1-23-1"
       ]
     },
     {
-      "id": "Dynamite",
-      "label": "Dynamite",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf5-7-2",
-        "gf2-30-4",
-        "gf4-6-9"
-      ]
-    },
-    {
-      "id": "Chicken_Nugget",
-      "label": "Chicken nugget (the hidden nugget)",
-      "kind": "item",
-      "fact_ids": [
-        "gf4-6-14",
-        "gf5-7-6",
-        "gf3-23-5"
-      ]
-    },
-    {
-      "id": "Gold_Nugget",
-      "label": "Gold nugget",
-      "kind": "item",
-      "fact_ids": [
-        "gf4-6-12",
-        "gf5-7-7",
-        "gf3-23-4"
-      ]
-    },
-    {
-      "id": "Big_Heart_Ch5",
-      "label": "Big Heart (between two boulders)",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-30-6",
-        "gf3-23-6",
-        "gf4-6-16"
-      ]
-    },
-    {
-      "id": "Gold_Cave",
+      "id": "GoldCave",
       "label": "Gold Cave",
       "kind": "area",
       "fact_ids": [
-        "gf2-30-7",
-        "gf4-6-19",
-        "gf3-23-9"
+        "gf1-24-1",
+        "gf2-30-7"
       ]
     },
     {
-      "id": "Bola",
-      "label": "Bola",
-      "kind": "item",
-      "fact_ids": [
-        "gf2-30-19",
-        "gf4-6-24",
-        "gf1-11-25"
-      ]
-    },
-    {
-      "id": "Boulder_Miner",
+      "id": "BoulderMiner",
       "label": "Boulder Tossing Miner",
       "kind": "boss",
       "fact_ids": [
-        "gf4-7-1",
-        "gf2-30-22",
-        "gf1-11-27"
+        "gf1-24-14",
+        "gf4-7-1"
       ]
     },
     {
-      "id": "Super_Psychic",
-      "label": "Super Psychic Shockwave",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf2-30-28",
-        "gf1-11-30",
-        "gf3-25-1"
-      ]
-    },
-    {
-      "id": "Gold_Cave_Part_II",
-      "label": "Gold Cave Part II",
+      "id": "GoldCave2",
+      "label": "Gold Cave, Part II",
       "kind": "area",
       "fact_ids": [
-        "gf1-12-1",
-        "gf4-7-11",
-        "gf1-12-3"
+        "gf1-25-2",
+        "gf3-12-5",
+        "gf1-25-1"
       ]
     },
     {
-      "id": "Invincibility_Star",
-      "label": "Invincibility Star",
-      "kind": "item",
-      "fact_ids": [
-        "gf4-7-8",
-        "gf1-12-11",
-        "gf2-31-1"
-      ]
-    },
-    {
-      "id": "Mashing_Miner",
+      "id": "MashingMiner",
       "label": "Mashing Miner",
       "kind": "boss",
       "fact_ids": [
-        "gf1-18-27",
-        "gf2-31-7",
-        "gf3-26-7"
-      ]
-    },
-    {
-      "id": "Tetrad_Ch5",
-      "label": "Tetrad (Chapter 5)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf1-12-22",
-        "gf2-31-12",
-        "gf4-7-18"
+        "gf1-26-11",
+        "gf4-7-8"
       ]
     },
     {
@@ -495,156 +220,54 @@
       "label": "Italy",
       "kind": "area",
       "fact_ids": [
-        "gf2-31-13",
-        "gf2-31-15",
-        "gf1-12-25"
+        "gf1-27-2",
+        "gf3-12-9"
       ]
     },
     {
-      "id": "Leos_Basement",
+      "id": "LeosBasement",
       "label": "Leo's Basement",
       "kind": "area",
       "fact_ids": [
-        "gf1-12-26",
-        "gf2-31-18",
-        "gf4-8-2"
+        "gf3-12-10",
+        "gf3-12-11"
       ]
     },
     {
-      "id": "Art_Studio",
-      "label": "Art Studio",
-      "kind": "area",
-      "fact_ids": [
-        "gf2-32-2",
-        "gf2-32-1",
-        "gf4-8-23"
-      ]
-    },
-    {
-      "id": "Hammer_Chisel",
-      "label": "Hammer and chisel",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf2-32-2",
-        "gf1-12-29",
-        "gf5-7-20"
-      ]
-    },
-    {
-      "id": "Katana",
-      "label": "Katana",
-      "kind": "item",
-      "fact_ids": [
-        "gf1-12-33",
-        "gf2-32-4",
-        "gf5-7-26"
-      ]
-    },
-    {
-      "id": "Flying_Machine",
-      "label": "Flying machine",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf3-27-3",
-        "gf5-8-1",
-        "gf4-8-14"
-      ]
-    },
-    {
-      "id": "Small_Island",
+      "id": "SmallIsland",
       "label": "Small Island",
       "kind": "area",
       "fact_ids": [
-        "gf3-28-1",
-        "ra-comments-26-1"
+        "gf1-28-1",
+        "gf3-13-1"
       ]
     },
     {
-      "id": "Big_Heart_Ch6",
-      "label": "Big Heart (Small Island)",
-      "kind": "item",
-      "fact_ids": [
-        "gf3-28-1",
-        "gf2-32-6",
-        "gf1-13-2"
-      ]
-    },
-    {
-      "id": "Eastern_Castle",
+      "id": "EasternCastle",
       "label": "Eastern Castle",
       "kind": "area",
       "fact_ids": [
-        "gf1-13-3",
-        "gf2-32-8",
-        "gf4-8-25"
+        "gf1-28-2",
+        "gf1-29-4",
+        "gf3-13-4"
       ]
     },
     {
-      "id": "Tetrad_Ch6",
-      "label": "Tetrad (Chapter 6)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf1-13-13",
-        "gf2-32-14",
-        "gf4-8-22"
-      ]
-    },
-    {
-      "id": "Transylvania",
-      "label": "Transylvania",
-      "kind": "area",
-      "fact_ids": [
-        "gf2-32-15",
-        "gf5-8-8",
-        "gf1-13-31"
-      ]
-    },
-    {
-      "id": "Draculas_Castle",
+      "id": "Dracula",
       "label": "Dracula's Castle",
       "kind": "area",
       "fact_ids": [
-        "gf2-32-17",
-        "gf4-9-3",
-        "gf4-9-4"
+        "gf1-30-1",
+        "gf1-30-11"
       ]
     },
     {
-      "id": "Triple_Spike_Ball",
-      "label": "Triple Spike Ball",
-      "kind": "item",
-      "fact_ids": [
-        "gf3-30-1",
-        "gf3-31-3",
-        "gf3-41-21"
-      ]
-    },
-    {
-      "id": "Room13_Chest_Missable",
-      "label": "Spooky Castle Room 13 chest",
-      "kind": "missable",
-      "fact_ids": [
-        "gf3-30-2"
-      ]
-    },
-    {
-      "id": "Zoda_Y",
+      "id": "ZodaY",
       "label": "Zoda-Y",
       "kind": "boss",
       "fact_ids": [
-        "gf1-14-7",
-        "gf2-33-2",
-        "gf3-31-6"
-      ]
-    },
-    {
-      "id": "Tetrad_Ch7",
-      "label": "Tetrad (Chapter 7)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf2-33-10",
-        "gf1-14-9",
-        "gf3-32-1"
+        "gf1-31-13",
+        "gf2-33-2"
       ]
     },
     {
@@ -652,19 +275,18 @@
       "label": "Camelot",
       "kind": "area",
       "fact_ids": [
-        "gf1-14-10",
-        "gf2-33-11",
-        "gf5-8-10"
+        "gf1-32-2",
+        "gf1-32-3",
+        "gf3-14-6"
       ]
     },
     {
-      "id": "Dragons_Cave",
+      "id": "DragonsCave",
       "label": "Dragon's Cave",
       "kind": "area",
       "fact_ids": [
-        "gf1-14-11",
-        "gf2-33-15",
-        "gf1-14-19"
+        "gf1-33-1",
+        "gf1-34-4"
       ]
     },
     {
@@ -672,98 +294,63 @@
       "label": "Knight",
       "kind": "boss",
       "fact_ids": [
-        "gf1-19-13",
-        "gf2-34-7",
-        "gf3-34-5"
+        "gf1-34-2",
+        "gf2-34-2"
       ]
     },
     {
-      "id": "Ultra_Psychic",
-      "label": "Ultra Psychic Shockwave",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf1-15-1",
-        "gf2-34-11",
-        "gf1-5-23"
-      ]
-    },
-    {
-      "id": "Dragons_Cave_Part_II",
-      "label": "Dragon's Cave Part II",
+      "id": "DragonsCave2",
+      "label": "Dragon's Cave, Part II",
       "kind": "area",
       "fact_ids": [
-        "gf2-34-14",
-        "gf1-15-3",
-        "gf1-15-21"
+        "gf1-35-1",
+        "gf1-37-1"
       ]
     },
     {
       "id": "Dragon",
-      "label": "Dragon",
+      "label": "The Dragon",
       "kind": "boss",
       "fact_ids": [
-        "gf1-19-18",
-        "gf2-40-14",
-        "gf3-36-1"
+        "gf1-36-17",
+        "gf3-19-10"
       ]
     },
     {
-      "id": "Tetrad_Ch8",
-      "label": "Tetrad (Chapter 8)",
-      "kind": "key_item",
-      "fact_ids": [
-        "gf1-15-22",
-        "gf2-35-5",
-        "gf5-9-11"
-      ]
-    },
-    {
-      "id": "C_Island",
+      "id": "CIsland",
       "label": "C-Island",
       "kind": "area",
       "fact_ids": [
-        "gf5-10-1",
-        "gf2-35-7",
-        "gf1-15-24"
+        "gf1-37-3",
+        "gf3-15-6",
+        "gf5-10-1"
       ]
     },
     {
-      "id": "Coracola_Cave",
+      "id": "Coracola",
       "label": "Coracola Cave",
       "kind": "area",
       "fact_ids": [
-        "gf2-35-7",
-        "gf3-38-1",
-        "gf1-15-31"
+        "gf1-38-1",
+        "gf3-15-8"
       ]
     },
     {
-      "id": "C_Serpent",
+      "id": "CSerpent",
       "label": "C-Serpent",
       "kind": "boss",
       "fact_ids": [
-        "gf1-19-38",
-        "gf2-35-17",
-        "gf3-38-18"
+        "gf1-38-14",
+        "gf2-35-7"
       ]
     },
     {
-      "id": "Boss_Rematches",
-      "label": "Revamped bosses",
-      "kind": "boss",
-      "fact_ids": [
-        "gf1-15-31",
-        "gf2-36-2"
-      ]
-    },
-    {
-      "id": "Zoda_Z",
+      "id": "ZodaZ",
       "label": "Zoda-Z",
       "kind": "boss",
       "fact_ids": [
-        "gf1-19-25",
-        "gf1-19-28",
-        "gf2-36-3"
+        "gf1-39-9",
+        "gf2-36-4"
       ]
     },
     {
@@ -955,998 +542,601 @@
   ],
   "edges": [
     {
-      "from": "Seattle",
-      "to": "Oxford_Book",
-      "kind": "contains",
+      "from": "Prelude",
+      "to": "IceAge",
+      "kind": "leads_to",
       "fact_ids": [
         "gf5-2-2"
       ]
     },
     {
-      "from": "Seattle",
-      "to": "Ice_Age",
+      "from": "IceAge",
+      "to": "CaveMenCave",
       "kind": "leads_to",
-      "label": "time slip to Chapter 2",
       "fact_ids": [
-        "gf5-2-3"
+        "gf1-5-1"
       ]
     },
     {
-      "from": "Ice_Age",
-      "to": "Rocks",
+      "from": "CaveMenCave",
+      "to": "YumYumCave",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-5-4",
+        "gf2-25-1"
+      ]
+    },
+    {
+      "from": "YumYumCave",
+      "to": "YumYum",
       "kind": "contains",
       "fact_ids": [
-        "gf3-4-1",
-        "gf4-2-1"
+        "gf1-7-2"
       ]
     },
     {
-      "from": "Rocks",
-      "to": "Ach_36882",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf3-4-1",
-        "gf1-6-5"
-      ]
-    },
-    {
-      "from": "Ice_Age",
-      "to": "Cave_Men_Cave",
-      "kind": "leads_to",
-      "label": "north across the snow field",
-      "fact_ids": [
-        "gf4-2-8"
-      ]
-    },
-    {
-      "from": "Cave_Men_Cave",
-      "to": "Tink",
-      "kind": "contains",
-      "fact_ids": [
-        "gf2-24-5"
-      ]
-    },
-    {
-      "from": "Tink",
-      "to": "Axe",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-24-6",
-        "gf3-5-1"
-      ]
-    },
-    {
-      "from": "Axe",
-      "to": "Ach_36883",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-24-6"
-      ]
-    },
-    {
-      "from": "Cave_Men_Cave",
-      "to": "Yum_Yum_Cave",
-      "kind": "leads_to",
-      "label": "north",
-      "fact_ids": [
-        "gf2-25-1",
-        "gf1-6-14"
-      ]
-    },
-    {
-      "from": "Yum_Yum_Cave",
-      "to": "Medicine",
-      "kind": "contains",
-      "fact_ids": [
-        "gf2-25-2",
-        "gf1-6-17"
-      ]
-    },
-    {
-      "from": "Medicine",
-      "to": "Ach_36888",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf1-6-17",
-        "gf2-25-2"
-      ]
-    },
-    {
-      "from": "Yum_Yum_Cave",
-      "to": "Yum_Yum",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf4-2-19"
-      ]
-    },
-    {
-      "from": "Yum_Yum",
-      "to": "Tetrad_Ch2",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-3-10",
-        "gf3-8-1"
-      ]
-    },
-    {
-      "from": "Tetrad_Ch2",
-      "to": "Ach_36884",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf3-8-1",
-        "gf4-3-12"
-      ]
-    },
-    {
-      "from": "Yum_Yum_Cave",
+      "from": "YumYum",
       "to": "Egypt",
       "kind": "leads_to",
-      "label": "time slip to Chapter 3",
+      "label": "Tetrad, then the book",
       "fact_ids": [
-        "gf5-3-10"
+        "gf5-3-5"
       ]
     },
     {
       "from": "Egypt",
-      "to": "Jack",
+      "to": "BorderPass",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-9-5"
+      ]
+    },
+    {
+      "from": "BorderPass",
+      "to": "GiantScorpion",
       "kind": "contains",
-      "label": "between two palm trees, north of the start",
       "fact_ids": [
-        "gf5-3-12",
-        "gf5-3-13"
+        "gf1-10-17"
       ]
     },
     {
-      "from": "Jack",
-      "to": "Ach_36885",
-      "kind": "unlocks",
+      "from": "GiantScorpion",
+      "to": "Egypt",
+      "kind": "leads_to",
+      "label": "Camel ride for the pizza",
       "fact_ids": [
-        "gf5-3-14"
-      ]
-    },
-    {
-      "from": "Jack_Dagger_Missable",
-      "to": "Dagger",
-      "kind": "missable_before",
-      "fact_ids": [
-        "gf5-3-15",
-        "ra-comments-5-1"
+        "gf1-11-2",
+        "gf1-11-3"
       ]
     },
     {
       "from": "Egypt",
-      "to": "Border_Pass",
+      "to": "MonkeySavannah",
       "kind": "leads_to",
-      "label": "north past the guard",
+      "label": "Cleopatra's barge",
       "fact_ids": [
-        "gf2-26-2",
-        "gf4-3-19"
-      ]
-    },
-    {
-      "from": "Border_Pass",
-      "to": "Thrower",
-      "kind": "contains",
-      "fact_ids": [
-        "gf2-26-4",
-        "gf4-3-20"
-      ]
-    },
-    {
-      "from": "Thrower",
-      "to": "Ach_36887",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-26-4",
-        "gf1-7-14"
-      ]
-    },
-    {
-      "from": "Border_Pass",
-      "to": "Giant_Scorpion",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf1-7-17"
-      ]
-    },
-    {
-      "from": "Giant_Scorpion",
-      "to": "Pizza",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-3-33",
-        "gf3-11-1"
-      ]
-    },
-    {
-      "from": "Pizza",
-      "to": "Ach_36889",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf5-4-9",
-        "gf4-4-4"
-      ]
-    },
-    {
-      "from": "Pizza",
-      "to": "Dagger",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-26-11",
-        "gf1-8-2"
-      ]
-    },
-    {
-      "from": "Dagger",
-      "to": "Ach_36886",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-26-11",
-        "gf3-11-2"
-      ]
-    },
-    {
-      "from": "Egypt",
-      "to": "Monkey_Maze",
-      "kind": "leads_to",
-      "label": "west shore of the Nile, then north",
-      "fact_ids": [
-        "gf1-8-6",
-        "gf3-12-1"
-      ]
-    },
-    {
-      "from": "Monkey_Maze",
-      "to": "Small_Stars",
-      "kind": "contains",
-      "fact_ids": [
-        "gf1-8-8"
-      ]
-    },
-    {
-      "from": "Small_Stars",
-      "to": "Ach_36890",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-13-1",
-        "gf1-5-4"
-      ]
-    },
-    {
-      "from": "Monkey_Maze",
-      "to": "Big_Heart_Ch3",
-      "kind": "contains",
-      "fact_ids": [
-        "gf4-4-15",
-        "gf2-26-16"
-      ]
-    },
-    {
-      "from": "Big_Heart_Ch3",
-      "to": "Ach_36891",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-4-15"
-      ]
-    },
-    {
-      "from": "Monkey_Maze",
-      "to": "Psychic_Shockwave",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-27-2",
-        "gf1-8-17"
-      ]
-    },
-    {
-      "from": "Psychic_Shockwave",
-      "to": "Ach_36892",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf1-8-17",
-        "gf5-5-7"
-      ]
-    },
-    {
-      "from": "Monkey_Maze",
-      "to": "Great_Pyramid",
-      "kind": "leads_to",
-      "label": "the monkey warps Mike to the pyramid",
-      "fact_ids": [
-        "gf1-8-18",
-        "gf4-4-20"
-      ]
-    },
-    {
-      "from": "Great_Pyramid",
-      "to": "Psychic_Shockwave",
-      "kind": "requires",
-      "fact_ids": [
-        "gf2-27-3",
-        "gf4-4-10"
-      ]
-    },
-    {
-      "from": "Great_Pyramid",
-      "to": "Flute",
-      "kind": "contains",
-      "fact_ids": [
-        "gf3-16-9",
-        "gf1-9-14"
-      ]
-    },
-    {
-      "from": "Flute",
-      "to": "Ach_36893",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-4-24",
-        "gf1-9-14"
-      ]
-    },
-    {
-      "from": "Great_Pyramid",
-      "to": "Monster_Mask",
-      "kind": "leads_to",
-      "label": "snake room secret passage",
-      "fact_ids": [
-        "gf1-18-10",
-        "gf2-27-15"
-      ]
-    },
-    {
-      "from": "Monster_Mask",
-      "to": "Tetrad_Ch3",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-4-30"
-      ]
-    },
-    {
-      "from": "Tetrad_Ch3",
-      "to": "Ach_36894",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-4-30",
-        "gf3-18-1"
-      ]
-    },
-    {
-      "from": "Great_Pyramid",
-      "to": "London",
-      "kind": "leads_to",
-      "label": "time slip to Chapter 4",
-      "fact_ids": [
-        "gf5-5-11"
-      ]
-    },
-    {
-      "from": "London",
-      "to": "London_Museum",
-      "kind": "leads_to",
-      "label": "escape the jail, then on to the museum",
-      "fact_ids": [
-        "gf1-9-21",
-        "gf2-28-5"
-      ]
-    },
-    {
-      "from": "London_Museum",
-      "to": "Big_Heart_Ch4",
-      "kind": "contains",
-      "fact_ids": [
-        "gf2-28-6",
-        "gf3-18-2"
-      ]
-    },
-    {
-      "from": "Big_Heart_Ch4",
-      "to": "Ach_36895",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-28-6",
-        "gf4-5-9"
-      ]
-    },
-    {
-      "from": "London_Museum",
-      "to": "Sewers",
-      "kind": "leads_to",
-      "label": "manhole south of the open manhole",
-      "fact_ids": [
-        "gf2-28-7",
-        "gf3-18-3"
-      ]
-    },
-    {
-      "from": "Sewers",
-      "to": "Sewer_Part_I",
-      "kind": "contains",
-      "fact_ids": [
-        "gf3-18-3",
-        "gf2-28-7"
-      ]
-    },
-    {
-      "from": "Sewer_Part_I",
-      "to": "Zodas_Creature",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf1-10-7",
-        "gf1-10-8"
-      ]
-    },
-    {
-      "from": "Zodas_Creature",
-      "to": "Sewer_Part_II",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf1-10-1",
-        "gf4-5-12"
-      ]
-    },
-    {
-      "from": "Sewers",
-      "to": "Sewer_Part_II",
-      "kind": "contains",
-      "fact_ids": [
-        "gf2-29-1"
-      ]
-    },
-    {
-      "from": "Sewer_Part_II",
-      "to": "Spike_Ball",
-      "kind": "contains",
-      "fact_ids": [
-        "gf3-20-1",
-        "gf4-5-17"
-      ]
-    },
-    {
-      "from": "Spike_Ball",
-      "to": "Ach_36896",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf3-20-1",
-        "gf3-41-19"
-      ]
-    },
-    {
-      "from": "Sewer_Part_II",
-      "to": "Zoda_X",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf1-11-4",
-        "gf3-21-7"
-      ]
-    },
-    {
-      "from": "Zoda_X",
-      "to": "Tetrad_Ch4",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-6-3"
-      ]
-    },
-    {
-      "from": "Tetrad_Ch4",
-      "to": "Ach_36897",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-6-3",
-        "gf1-11-5"
-      ]
-    },
-    {
-      "from": "Sewer_Part_II",
-      "to": "Wild_West",
-      "kind": "leads_to",
-      "label": "time slip to Chapter 5",
-      "fact_ids": [
-        "gf5-6-6",
-        "gf5-6-7"
-      ]
-    },
-    {
-      "from": "Wild_West",
-      "to": "Dynamite",
-      "kind": "contains",
-      "label": "Bob's Store",
-      "fact_ids": [
-        "gf5-7-2",
-        "gf2-30-4"
-      ]
-    },
-    {
-      "from": "Dynamite",
-      "to": "Chicken_Nugget",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-6-14",
-        "gf5-7-6"
-      ]
-    },
-    {
-      "from": "Chicken_Nugget",
-      "to": "Ach_36898",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf5-7-6",
-        "gf4-6-14"
-      ]
-    },
-    {
-      "from": "Dynamite",
-      "to": "Gold_Nugget",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf4-6-12",
-        "gf5-7-7"
-      ]
-    },
-    {
-      "from": "Gold_Nugget",
-      "to": "Ach_36899",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf5-7-7",
-        "gf4-6-12"
-      ]
-    },
-    {
-      "from": "Dynamite",
-      "to": "Big_Heart_Ch5",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-30-6",
-        "gf4-6-16"
-      ]
-    },
-    {
-      "from": "Big_Heart_Ch5",
-      "to": "Ach_36900",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-30-6",
-        "gf3-23-6"
-      ]
-    },
-    {
-      "from": "Wild_West",
-      "to": "Gold_Cave",
-      "kind": "leads_to",
-      "label": "dynamite three spaces below the southern colored-rock cave",
-      "fact_ids": [
-        "gf2-30-7",
-        "gf4-6-19"
-      ]
-    },
-    {
-      "from": "Gold_Cave",
-      "to": "Dynamite",
-      "kind": "requires",
-      "fact_ids": [
-        "gf2-30-7",
-        "gf3-23-9"
-      ]
-    },
-    {
-      "from": "Gold_Cave",
-      "to": "Bola",
-      "kind": "contains",
-      "fact_ids": [
-        "gf2-30-19",
-        "gf4-6-24"
-      ]
-    },
-    {
-      "from": "Bola",
-      "to": "Ach_36901",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-30-19",
-        "gf1-11-25"
-      ]
-    },
-    {
-      "from": "Gold_Cave",
-      "to": "Boulder_Miner",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf2-30-21"
-      ]
-    },
-    {
-      "from": "Boulder_Miner",
-      "to": "Super_Psychic",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-30-28",
-        "gf1-11-30"
-      ]
-    },
-    {
-      "from": "Super_Psychic",
-      "to": "Ach_36902",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-30-28",
-        "gf3-25-1"
-      ]
-    },
-    {
-      "from": "Gold_Cave",
-      "to": "Gold_Cave_Part_II",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf3-25-1",
+        "gf1-11-3",
         "gf1-12-1"
       ]
     },
     {
-      "from": "Gold_Cave_Part_II",
-      "to": "Invincibility_Star",
+      "from": "MonkeySavannah",
+      "to": "SavannahA",
       "kind": "contains",
       "fact_ids": [
-        "gf4-7-8",
-        "gf1-12-11"
+        "gf1-12-5"
       ]
     },
     {
-      "from": "Invincibility_Star",
-      "to": "Ach_36903",
-      "kind": "unlocks",
+      "from": "MonkeySavannah",
+      "to": "SavannahB",
+      "kind": "contains",
       "fact_ids": [
-        "gf4-7-8",
-        "gf1-12-20"
+        "gf1-13-2"
       ]
     },
     {
-      "from": "Gold_Cave_Part_II",
-      "to": "Mashing_Miner",
+      "from": "MonkeySavannah",
+      "to": "Pyramid",
+      "kind": "leads_to",
+      "label": "Psychic Shock Wave",
+      "fact_ids": [
+        "gf1-14-6",
+        "gf3-8-8"
+      ]
+    },
+    {
+      "from": "Pyramid",
+      "to": "MonsterMask",
+      "kind": "contains",
+      "fact_ids": [
+        "gf4-4-10"
+      ]
+    },
+    {
+      "from": "MonsterMask",
+      "to": "London",
       "kind": "leads_to",
       "fact_ids": [
-        "gf4-7-22",
-        "gf2-31-7"
+        "gf5-5-8"
       ]
     },
     {
-      "from": "Mashing_Miner",
-      "to": "Tetrad_Ch5",
-      "kind": "unlocks",
+      "from": "London",
+      "to": "LondonSewers",
+      "kind": "leads_to",
       "fact_ids": [
-        "gf2-31-12"
+        "gf1-18-7",
+        "gf3-10-2"
       ]
     },
     {
-      "from": "Tetrad_Ch5",
-      "to": "Ach_36904",
-      "kind": "unlocks",
+      "from": "LondonSewers",
+      "to": "ZodasCreature",
+      "kind": "contains",
       "fact_ids": [
-        "gf1-12-22",
-        "gf4-7-18"
+        "gf2-28-4"
       ]
     },
     {
-      "from": "Gold_Cave_Part_II",
+      "from": "ZodasCreature",
+      "to": "LondonSewers2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-10-10"
+      ]
+    },
+    {
+      "from": "LondonSewers2",
+      "to": "ZodaX",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-21-7"
+      ]
+    },
+    {
+      "from": "ZodaX",
+      "to": "WildWest",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf5-6-5"
+      ]
+    },
+    {
+      "from": "WildWest",
+      "to": "GoldCave",
+      "kind": "leads_to",
+      "label": "Dynamite",
+      "fact_ids": [
+        "gf1-23-4",
+        "gf4-6-6"
+      ]
+    },
+    {
+      "from": "GoldCave",
+      "to": "BoulderMiner",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-24-14"
+      ]
+    },
+    {
+      "from": "BoulderMiner",
+      "to": "GoldCave2",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-25-1",
+        "gf2-30-10"
+      ]
+    },
+    {
+      "from": "GoldCave2",
+      "to": "MashingMiner",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-26-11"
+      ]
+    },
+    {
+      "from": "MashingMiner",
       "to": "Italy",
       "kind": "leads_to",
-      "label": "time slip to Chapter 6",
       "fact_ids": [
-        "gf4-8-1",
-        "gf5-7-15"
+        "gf1-27-1"
       ]
     },
     {
       "from": "Italy",
-      "to": "Leos_Basement",
+      "to": "LeosBasement",
       "kind": "leads_to",
-      "label": "stairs in Leonardo's house",
       "fact_ids": [
-        "gf1-12-26",
-        "gf2-31-18"
+        "gf1-27-2",
+        "gf2-31-8"
       ]
     },
     {
-      "from": "Leos_Basement",
-      "to": "Art_Studio",
+      "from": "LeosBasement",
+      "to": "SmallIsland",
       "kind": "leads_to",
+      "label": "Flying machine",
       "fact_ids": [
-        "gf4-8-10",
-        "gf4-8-23"
+        "gf1-27-3",
+        "gf4-8-7"
       ]
     },
     {
-      "from": "Art_Studio",
-      "to": "Hammer_Chisel",
+      "from": "SmallIsland",
+      "to": "EasternCastle",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-28-2"
+      ]
+    },
+    {
+      "from": "EasternCastle",
+      "to": "Dracula",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-29-5",
+        "gf5-8-7"
+      ]
+    },
+    {
+      "from": "Dracula",
+      "to": "ZodaY",
       "kind": "contains",
       "fact_ids": [
-        "gf2-32-2"
+        "gf1-31-13"
       ]
     },
     {
-      "from": "Hammer_Chisel",
-      "to": "Katana",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf5-7-20",
-        "gf2-32-4"
-      ]
-    },
-    {
-      "from": "Katana",
-      "to": "Ach_36905",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-32-4",
-        "gf1-12-33"
-      ]
-    },
-    {
-      "from": "Hammer_Chisel",
-      "to": "Flying_Machine",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf3-27-3"
-      ]
-    },
-    {
-      "from": "Flying_Machine",
-      "to": "Small_Island",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf3-28-1",
-        "ra-comments-26-1"
-      ]
-    },
-    {
-      "from": "Small_Island",
-      "to": "Big_Heart_Ch6",
-      "kind": "contains",
-      "fact_ids": [
-        "gf3-28-1",
-        "gf2-32-6"
-      ]
-    },
-    {
-      "from": "Big_Heart_Ch6",
-      "to": "Ach_36906",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf3-28-1",
-        "ra-comments-26-1"
-      ]
-    },
-    {
-      "from": "Flying_Machine",
-      "to": "Eastern_Castle",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf4-8-14",
-        "gf4-8-15"
-      ]
-    },
-    {
-      "from": "Eastern_Castle",
-      "to": "Tetrad_Ch6",
-      "kind": "contains",
-      "fact_ids": [
-        "gf1-13-12",
-        "gf2-32-13"
-      ]
-    },
-    {
-      "from": "Tetrad_Ch6",
-      "to": "Ach_36907",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf1-13-13",
-        "gf2-32-14"
-      ]
-    },
-    {
-      "from": "Eastern_Castle",
-      "to": "Transylvania",
-      "kind": "leads_to",
-      "label": "Zoda-Y sends Mike to Chapter 7",
-      "fact_ids": [
-        "gf4-9-5",
-        "gf1-13-15"
-      ]
-    },
-    {
-      "from": "Transylvania",
-      "to": "Draculas_Castle",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf2-32-17",
-        "gf4-9-3"
-      ]
-    },
-    {
-      "from": "Draculas_Castle",
-      "to": "Triple_Spike_Ball",
-      "kind": "contains",
-      "fact_ids": [
-        "gf3-30-1",
-        "gf3-31-3"
-      ]
-    },
-    {
-      "from": "Room13_Chest_Missable",
-      "to": "Triple_Spike_Ball",
-      "kind": "missable_before",
-      "fact_ids": [
-        "gf3-30-2"
-      ]
-    },
-    {
-      "from": "Triple_Spike_Ball",
-      "to": "Ach_36908",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf3-30-1",
-        "gf2-23-2"
-      ]
-    },
-    {
-      "from": "Draculas_Castle",
-      "to": "Zoda_Y",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf2-33-2",
-        "gf1-19-1"
-      ]
-    },
-    {
-      "from": "Zoda_Y",
-      "to": "Tetrad_Ch7",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-33-10"
-      ]
-    },
-    {
-      "from": "Tetrad_Ch7",
-      "to": "Ach_36909",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-33-10",
-        "gf1-14-9"
-      ]
-    },
-    {
-      "from": "Draculas_Castle",
+      "from": "ZodaY",
       "to": "Camelot",
       "kind": "leads_to",
-      "label": "time slip to Chapter 8",
       "fact_ids": [
-        "gf5-8-11"
+        "gf5-8-5"
       ]
     },
     {
       "from": "Camelot",
-      "to": "Dragons_Cave",
+      "to": "DragonsCave",
       "kind": "leads_to",
-      "label": "accept King Arthur's quest",
       "fact_ids": [
-        "gf1-14-11",
-        "gf2-33-11"
+        "gf3-14-7",
+        "gf5-9-1"
       ]
     },
     {
-      "from": "Dragons_Cave",
+      "from": "DragonsCave",
       "to": "Knight",
-      "kind": "leads_to",
+      "kind": "contains",
       "fact_ids": [
-        "gf1-19-13",
-        "gf2-34-5"
+        "gf1-34-2"
       ]
     },
     {
       "from": "Knight",
-      "to": "Ultra_Psychic",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-34-11",
-        "gf1-14-24"
-      ]
-    },
-    {
-      "from": "Ultra_Psychic",
-      "to": "Ach_36910",
-      "kind": "unlocks",
-      "fact_ids": [
-        "gf2-34-11",
-        "gf1-15-1"
-      ]
-    },
-    {
-      "from": "Knight",
-      "to": "Dragons_Cave_Part_II",
+      "to": "DragonsCave2",
       "kind": "leads_to",
       "fact_ids": [
-        "gf2-34-14"
+        "gf1-34-4"
       ]
     },
     {
-      "from": "Dragons_Cave_Part_II",
+      "from": "DragonsCave2",
       "to": "Dragon",
-      "kind": "leads_to",
+      "kind": "contains",
       "fact_ids": [
-        "gf2-34-28",
-        "gf1-15-21"
+        "gf1-36-17"
       ]
     },
     {
       "from": "Dragon",
-      "to": "Tetrad_Ch8",
-      "kind": "unlocks",
+      "to": "CIsland",
+      "kind": "leads_to",
       "fact_ids": [
-        "gf2-35-5"
+        "gf1-37-2",
+        "gf5-9-4"
       ]
     },
     {
-      "from": "Tetrad_Ch8",
+      "from": "CIsland",
+      "to": "Coracola",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf1-37-4",
+        "gf3-15-6"
+      ]
+    },
+    {
+      "from": "Coracola",
+      "to": "CSerpent",
+      "kind": "contains",
+      "fact_ids": [
+        "gf1-38-14"
+      ]
+    },
+    {
+      "from": "CSerpent",
+      "to": "ZodaZ",
+      "kind": "leads_to",
+      "fact_ids": [
+        "gf3-15-8"
+      ]
+    },
+    {
+      "from": "IceAge",
+      "to": "Ach_36882",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-4-2",
+        "gf4-2-1"
+      ]
+    },
+    {
+      "from": "CaveMenCave",
+      "to": "Ach_36883",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-5-2",
+        "gf2-24-4"
+      ]
+    },
+    {
+      "from": "YumYum",
+      "to": "Ach_36884",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-8-1",
+        "gf2-25-6"
+      ]
+    },
+    {
+      "from": "Egypt",
+      "to": "Ach_36885",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf5-3-7"
+      ]
+    },
+    {
+      "from": "Egypt",
+      "to": "Ach_36886",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf5-3-7",
+        "gf1-11-4"
+      ]
+    },
+    {
+      "from": "BorderPass",
+      "to": "Ach_36887",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-26-2",
+        "gf4-3-5"
+      ]
+    },
+    {
+      "from": "YumYumCave",
+      "to": "Ach_36888",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-6-10"
+      ]
+    },
+    {
+      "from": "GiantScorpion",
+      "to": "Ach_36889",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-11-2",
+        "gf2-26-5"
+      ]
+    },
+    {
+      "from": "SavannahA",
+      "to": "Ach_36890",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-13-1",
+        "gf3-5-3"
+      ]
+    },
+    {
+      "from": "MonkeySavannah",
+      "to": "Ach_36891",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-26-8",
+        "gf4-4-5"
+      ]
+    },
+    {
+      "from": "MonkeySavannah",
+      "to": "Ach_36892",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-14-6",
+        "gf3-8-8"
+      ]
+    },
+    {
+      "from": "Pyramid",
+      "to": "Ach_36893",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-16-17",
+        "gf2-27-5"
+      ]
+    },
+    {
+      "from": "MonsterMask",
+      "to": "Ach_36894",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-27-8",
+        "gf3-9-5"
+      ]
+    },
+    {
+      "from": "London",
+      "to": "Ach_36895",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-18-6",
+        "gf2-28-2"
+      ]
+    },
+    {
+      "from": "LondonSewers2",
+      "to": "Ach_36896",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-20-3"
+      ]
+    },
+    {
+      "from": "ZodaX",
+      "to": "Ach_36897",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-29-15",
+        "gf3-11-3"
+      ]
+    },
+    {
+      "from": "WildWest",
+      "to": "Ach_36898",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-23-1",
+        "gf5-7-3"
+      ]
+    },
+    {
+      "from": "WildWest",
+      "to": "Ach_36899",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf5-7-4",
+        "gf4-6-5"
+      ]
+    },
+    {
+      "from": "WildWest",
+      "to": "Ach_36900",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-23-2",
+        "gf2-30-2"
+      ]
+    },
+    {
+      "from": "GoldCave",
+      "to": "Ach_36901",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf2-30-7",
+        "gf3-11-11"
+      ]
+    },
+    {
+      "from": "GoldCave2",
+      "to": "Ach_36902",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-25-1",
+        "gf2-30-10"
+      ]
+    },
+    {
+      "from": "GoldCave2",
+      "to": "Ach_36903",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-25-16",
+        "gf3-12-5"
+      ]
+    },
+    {
+      "from": "MashingMiner",
+      "to": "Ach_36904",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-27-1",
+        "gf3-12-8"
+      ]
+    },
+    {
+      "from": "LeosBasement",
+      "to": "Ach_36905",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf3-12-11",
+        "gf2-32-2"
+      ]
+    },
+    {
+      "from": "SmallIsland",
+      "to": "Ach_36906",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-28-1",
+        "gf3-13-1"
+      ]
+    },
+    {
+      "from": "EasternCastle",
+      "to": "Ach_36907",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-29-5",
+        "gf2-32-6"
+      ]
+    },
+    {
+      "from": "Dracula",
+      "to": "Ach_36908",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-30-11"
+      ]
+    },
+    {
+      "from": "ZodaY",
+      "to": "Ach_36909",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-32-1",
+        "gf5-8-4"
+      ]
+    },
+    {
+      "from": "DragonsCave",
+      "to": "Ach_36910",
+      "kind": "unlocks",
+      "fact_ids": [
+        "gf1-34-4",
+        "gf2-34-3"
+      ]
+    },
+    {
+      "from": "Dragon",
       "to": "Ach_36911",
       "kind": "unlocks",
       "fact_ids": [
-        "gf1-15-22",
-        "gf2-35-5"
+        "gf1-37-1",
+        "gf3-15-5"
       ]
     },
     {
-      "from": "Dragons_Cave_Part_II",
-      "to": "C_Island",
-      "kind": "leads_to",
-      "label": "Mica calls Mike back to C-Island",
-      "fact_ids": [
-        "gf1-15-23",
-        "gf5-10-2"
-      ]
-    },
-    {
-      "from": "C_Island",
-      "to": "Coracola_Cave",
-      "kind": "leads_to",
-      "label": "talk to the man, then enter the cave",
-      "fact_ids": [
-        "gf2-35-7",
-        "gf1-15-24"
-      ]
-    },
-    {
-      "from": "Coracola_Cave",
-      "to": "C_Serpent",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf2-35-17"
-      ]
-    },
-    {
-      "from": "C_Serpent",
-      "to": "Boss_Rematches",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf3-38-18",
-        "gf2-36-2"
-      ]
-    },
-    {
-      "from": "Boss_Rematches",
-      "to": "Zoda_Z",
-      "kind": "leads_to",
-      "fact_ids": [
-        "gf1-15-32"
-      ]
-    },
-    {
-      "from": "Zoda_Z",
+      "from": "ZodaZ",
       "to": "Ach_36912",
       "kind": "unlocks",
       "fact_ids": [
-        "gf1-15-33",
-        "gf2-36-17"
+        "gf1-39-9",
+        "gf2-36-5"
       ]
     }
   ]

@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-10-30T00:50:38.449Z",
+  "chapters": {
+    "1": {
+      "hash": "be955fd46c86",
+      "findings": []
+    },
+    "2": {
+      "hash": "dd784437c028",
+      "findings": [
+        {
+          "line": 87,
+          "text": "18. **Room 17: Yum Yum.** See the boss section below .",
+          "issue": "The step specifies Room 17, but the quotes only mention Room 18."
+        }
+      ]
+    },
+    "3": {
+      "hash": "b9875aa9cfe0",
+      "findings": [
+        {
+          "line": 278,
+          "text": "6. **Room 6:** the east door from Room 5 leads here, and Room 6 connects north to Room 7 . The two pyramid guardians are",
+          "issue": "No quote mentions that Room 6 contains two pyramid guardians that are immune to daggers or that defeating them opens the north door to Room 7."
+        },
+        {
+          "line": 298,
+          "text": "23. **Room 17, then Room 18:** you have already been to these rooms. From Room 17 go to Room 18 and then Room 19 .",
+          "issue": "No quote states the route action of moving from Room 17 to Room 18 and then to Room 19."
+        }
+      ]
+    },
+    "4": {
+      "hash": "60900fe988d2",
+      "findings": [
+        {
+          "line": 13,
+          "text": "- **That Does NOT Look Like a Ball:** open the chest in the room with three Zoda spawns in London Sewers 2 (Room 2) .",
+          "issue": "The step specifies the chest is in London Sewers 2, which no quote states."
+        }
+      ]
+    },
+    "5": {
+      "hash": "dcdc3988a9a3",
+      "findings": [
+        {
+          "line": 133,
+          "text": "Defeat him; a door then opens North to Room 23, which is the exit to the overworld. Head North in the cave tunnel to a s",
+          "issue": "The quotes do not state that the door to Room 23 opens North."
+        }
+      ]
+    },
+    "6": {
+      "hash": "6b5e785512a7",
+      "findings": []
+    },
+    "7": {
+      "hash": "b61be83f4d8c",
+      "findings": [
+        {
+          "line": 5,
+          "text": "Chapter 7 drops Mike into a dark, gloomy place where a path leads to Dracula's Castle . Zoda-Y sent Mike here, to \"the l",
+          "issue": "No quote states defeating Zoda-Y."
+        }
+      ]
+    },
+    "8": {
+      "hash": "35b6d12c4481",
+      "findings": [
+        {
+          "line": 29,
+          "text": "1. **Room 2.** Three blue blobs are here. Kill the last blob while standing in the middle of the room towards the North ",
+          "issue": "The step adds a route action to go around and back down to this room that is not stated in any quote."
+        }
+      ]
+    },
+    "9": {
+      "hash": "a70970e77408",
+      "findings": [
+        {
+          "line": 35,
+          "text": "1. **ROOM #7:** Two purple asps and two pink blobs are here, along with two tiles. One tile opens the door North to ROOM",
+          "issue": "The quotes state that the northern tile opens the door to ROOM #9 rather than ROOM #10, and no quote states the map shows ROOM #10 there."
+        }
+      ]
+    }
+  }
+}

@@ -1,122 +1,185 @@
 {
-  "beginner_friendliness": 88,
+  "beginner_friendliness": 90,
   "issues": [
     {
       "id": "ISS-1",
-      "severity": "critical",
-      "category": "accuracy",
+      "severity": "major",
+      "category": "route-accuracy",
       "status": "fixed",
       "file": "08_chapters/03.md",
-      "line": 98,
-      "description": "Route told the player to take Jack's dagger first, then 'receive' Cleopatra's dagger for Sharp Edge (36886). The game script (gf5-5-2) shows Cleopatra only offers her dagger trade if Mike does NOT have the bronze dagger, so on the recommended route that step never happens. Moved 36886 to Jack's dagger, rewrote the Cleopatra section as the barge ride, and fixed the goals list, item table and checklist. Overview now explains the same."
+      "line": 100,
+      "description": "Monkey Savannah order was wrong: the Big Heart (Lost in the Tall Grass) and its 4 left/10 up step list were placed in Part 1, before Savannah Dungeon A. gf1, gf2 and gf3 agree the 3 left/7 up route leads to Dungeon A first and the Big Heart is picked up in Part 2. Reordered via rw:write --note; the achievement now sits in Part 2. Hand-fixed two step lists that cited the wrong fact (gf3-8-7 -> gf3-8-2 / gf3-8-5)."
     },
     {
       "id": "ISS-2",
       "severity": "major",
-      "category": "navigation",
+      "category": "route-accuracy",
       "status": "fixed",
       "file": "08_chapters/03.md",
-      "line": 160,
-      "description": "Monkey Maze Part 2 (after the Big Heart), Mini-dungeon B and Part 3 (to the monkey/Psychic Shockwave) were marked truncated / 'Unable to verify', but gf1 and gf2 both give the full step counts. Added the complete routes and noted the gf1/gf2 differences (6 vs 5 down; 2 vs 4 left)."
+      "line": 261,
+      "description": "Monkey Maze Part 3 step list was truncated and wrong (dropped about a dozen moves including 'left until you hit a wall' and 'around the bench'). Replaced with the full gf3-8-7 list, keeping gf2's 4-left variant."
     },
     {
       "id": "ISS-3",
       "severity": "major",
-      "category": "navigation",
+      "category": "route-accuracy",
       "status": "fixed",
-      "file": "08_chapters/02.md",
-      "line": 30,
-      "description": "Ice Age safe path was cut off after six steps ('only its opening is available'); the full path is in gf1. Added the full step list, sequenced after collecting the Rocks."
+      "file": "08_chapters/03.md",
+      "line": 278,
+      "description": "Pyramid Room 6 cited the Room 8 fact and said 'Unable to verify' the door; source gives two dagger-immune guardians and a North door to Room 7. Also added the missing Room 22 -> 17 -> 18 -> 19 return step."
     },
     {
       "id": "ISS-4",
       "severity": "major",
       "category": "maps",
       "status": "fixed",
-      "file": "08_chapters/02.md-09.md",
-      "line": 0,
-      "description": "22 GameFAQs maps were registered in sources.json but none were linked. Added a [View ... Map] link under every matching overworld and dungeon section in Chapters 2 to 9."
+      "file": "08_chapters/03.md",
+      "line": 269,
+      "description": "Chapter 3 Level 2 map (the second dungeon) was linked under Savannah Dungeon A while the Pyramid had no map link. Moved to the Pyramid section and its boss. Thin 'Giant Scorpion' section given a real summary."
     },
     {
       "id": "ISS-5",
       "severity": "major",
-      "category": "navigation",
+      "category": "route-accuracy",
       "status": "fixed",
-      "file": "08_chapters/05.md",
-      "line": 82,
-      "description": "The Donkey section (Super Psychic Shockwave, 36902) was two lines. Expanded it from gf3/gf5/gf1: head north still inside the mountain, the dialogue, the donkey vanishing, and the 5-heart requirement."
+      "file": "08_chapters/02.md",
+      "line": 79,
+      "description": "Point 11 source typo: gf1's text says Yum Yum's Cave Room 9 opens North to Room 11, but its own map puts Room 10 in between; the chapter copied the skip. Now says Room 10 comes next and notes the text/map difference."
     },
     {
       "id": "ISS-6",
       "severity": "major",
-      "category": "accuracy",
+      "category": "leaked-label",
       "status": "fixed",
-      "file": "08_chapters/09.md",
-      "line": 43,
-      "description": "Removed a broken citation token '[[gf3-37 not citable]]' and its unsupported boar claim. Also removed the source typo '25 chests' (gf2-35-12); the chest holds 25 torches."
+      "file": "08_chapters/02.md",
+      "line": 72,
+      "description": "Drafting note 'beyond the planner's note' about Medicine vs Potion. Replaced with the gf3 citation that calls the same item a potion (Just Like Link). Also fixed a NOTE that called the half-way respawn a guide disagreement."
     },
     {
       "id": "ISS-7",
-      "severity": "minor",
-      "category": "formatting",
+      "severity": "major",
+      "category": "navigation",
       "status": "fixed",
-      "file": "08_chapters/00_overview.md",
-      "line": 98,
-      "description": "Removed the writer drafting note ('The assembler provides the per-chapter routing...')."
+      "file": "08_chapters/04.md",
+      "line": 83,
+      "description": "London Sewers 2 Room 11 listed every exit without saying which progresses. Now says to take the middle path South to Room 16 (or right path to Room 14), with Rooms 12, 13 and 15 marked as detours; dropped an unsupported 'extra medicine' clause."
     },
     {
       "id": "ISS-8",
-      "severity": "minor",
-      "category": "hardcore",
+      "severity": "major",
+      "category": "route-accuracy",
       "status": "fixed",
-      "file": "08_chapters/00_overview.md, 08_chapters/02.md",
-      "line": 67,
-      "description": "Reworded the Hardcore notes so they no longer use the term 'save states' (QA warning)."
+      "file": "08_chapters/05.md",
+      "line": 107,
+      "description": "Gold Cave Part II skipped the source's return through Room 6 (lower right path South to Room 5) after the Room 7 ladder. Added. Also removed an unsupported 'blast them all' instruction from the Real Gold step."
     },
     {
       "id": "ISS-9",
-      "severity": "minor",
-      "category": "formatting",
+      "severity": "major",
+      "category": "omission",
       "status": "fixed",
       "file": "08_chapters/06.md",
-      "line": 62,
-      "description": "Missable warning used the phrase 'Point of No Return', so QA counted 2 PONR callouts against 1 in the roadmap. Reworded it. Also fixed the Mica mid-flight citation (was gf1-13-14, a Zoda-Y line; now gf5-8-2/3)."
+      "line": 58,
+      "description": "Castle/Museum maze ignored the main guide's (gf1) route and its two ASCII floor maps (S4 up, West to S7 down, S8 up, middle path to the Tetrad). Added the gf1 route and both verbatim maps next to the gf2/gf3 step counts, and named Small Island / Museum Island."
     },
     {
       "id": "ISS-10",
-      "severity": "minor",
-      "category": "accuracy",
+      "severity": "major",
+      "category": "missing-warning",
       "status": "fixed",
       "file": "08_chapters/07.md",
-      "line": 122,
-      "description": "Removed the feather tip that had no supporting fact (no overlap with gf1-19-1) and replaced it with sourced advice (gf2-33-1, gf3-31-9). Explained that gf1's 'Mace' is the three-way spike-ball weapon (gf1-6-4)."
+      "line": 59,
+      "description": "Point 11: Spooky Castle Rooms 14-16 fall sequence (do not move into Room 15, move into Room 16 or you fall back to Room 13) was buried in room notes. Added a WARNING callout before Room 14."
     },
     {
       "id": "ISS-11",
-      "severity": "minor",
-      "category": "accuracy",
+      "severity": "major",
+      "category": "navigation",
       "status": "fixed",
       "file": "08_chapters/08.md",
-      "line": 17,
-      "description": "The medicine tip cited gf1-5-22 (Merlin/Ultra Shockwave); recited it to gf1-5-1. Removed an 'Unable to verify' drafting line, the garbled 'If you did say NO, Unable to verify...' sentence, and a duplicate checkpoint heading. Made the checkpoint overlap with its citation."
+      "line": 27,
+      "description": "Both Dragon's Cave Room 1 steps said 'Unable to verify which direction', but the guide's maps put Room 2 north of Room 1. Now states head North. Room 2 ledge goal and fallback route clarified."
     },
     {
       "id": "ISS-12",
-      "severity": "minor",
-      "category": "routing",
+      "severity": "major",
+      "category": "route-accuracy",
       "status": "fixed",
-      "file": "08_chapters/01.md",
-      "line": 51,
-      "description": "Checklist promised 'arrived in Chapter 2' (cross-chapter promise warning); reworded."
+      "file": "08_chapters/09.md",
+      "line": 35,
+      "description": "Point 11 source typo: gf1's text says the Coracola Cave Room 7 North door leads to Room 9, but its map shows Room 9 north of Room 8 and Room 7's North door leading to Room 10. Added the text/map difference and 'go East to Room 8 first'; corrected the room-range sentence (map to 28, text to 30)."
     },
     {
       "id": "ISS-13",
       "severity": "minor",
-      "category": "judgment",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/03.md",
+      "line": 278,
+      "description": "Pyramid Room 6 guardian detail cites gf2-20-2 (shockwave is good on pyramid enemies) plus the map, because extraction produced no fact for gf1's Room 6 text. Dragon Cave Room 1 lines likewise rest on the map facts. Re-extraction of those gf1 chunks would allow a direct citation."
+    },
+    {
+      "id": "ISS-14",
+      "severity": "minor",
+      "category": "accuracy",
+      "status": "open",
+      "file": "08_chapters/03.md",
+      "line": 5,
+      "description": "What Do These Do? (4 stars) remains an open question in the roadmap; no source says which stars count. The route covers both readings."
+    },
+    {
+      "id": "ISS-15",
+      "severity": "major",
+      "category": "route-accuracy",
+      "status": "fixed",
+      "file": "08_chapters/08.md",
+      "line": 0,
+      "description": "Point 11 source typo: Dragon Cave 2 Room 18 copied gf1 text \"door to the West and ROOM #20\", but gf1 map draws [16]-[18]-[20]-[21] and its Room 21 text says head back West to Room 18. Now says East, with one sentence noting the text/map difference. Also added the missing Room 1 -> North to Room 2 step."
+    },
+    {
+      "id": "ISS-16",
+      "severity": "major",
+      "category": "route-accuracy",
+      "status": "fixed",
+      "file": "08_chapters/07.md",
+      "line": 0,
+      "description": "Point 11: Spooky Castle Room 13 told the player to steer diagonally while falling (gf2), which lands in Room 15 side area. Rewritten per gf1 ROOM #14-#16: no direction through Rooms 14-15, press one in Room 16 or fall back to Room 13; gf2 diagonal kept only as an optional Try Your Luck side trip. Room 17 bare \"Unable to verify\" fragment replaced with skip advice."
+    },
+    {
+      "id": "ISS-17",
+      "severity": "major",
+      "category": "achievement-route",
+      "status": "fixed",
+      "file": "08_chapters/00_overview.md",
+      "line": 0,
+      "description": "Jack of All Trades warning was garbled (\"offers a dagger in exchange for his bronze dagger\"). Now: Jack offers his bronze dagger for your axe (gf5-3-7, gf5-3-8, gf4-4-2); trade-with-Jack-first route kept. Chapter 3 step clarified the same way."
+    },
+    {
+      "id": "ISS-18",
+      "severity": "major",
+      "category": "route-accuracy",
+      "status": "fixed",
+      "file": "08_chapters/09.md",
+      "line": 0,
+      "description": "Coracola Cave Room 7 first said the North door goes to ROOM #9, then contradicted itself. Now: North door to ROOM #10, side trip East to #8 then North to #9, with a note that gf1 text says #9 but its map shows #10."
+    },
+    {
+      "id": "ISS-19",
+      "severity": "minor",
+      "category": "formatting",
       "status": "fixed",
       "file": "08_chapters/05.md",
-      "line": 12,
-      "description": "Kept judgment calls, checked against sources: 36898 'Hidden Nugget' = the chicken nugget (gf4/gf5), and the route opens every nugget cave, so both readings are covered. Jack of All Trades stays missable-by-caution (comments conflict: ra-comments-5-1 vs 5-2/5-3). Taking Jack's dagger first is safe either way."
+      "line": 0,
+      "description": "Bola note was indented 4 spaces (rendered as code block, broke room list); duplicate \"### Boulder Tossing Miner\" heading after the boss heading renamed to Talking Donkey (Super Psychic Shock Wave)."
+    },
+    {
+      "id": "ISS-20",
+      "severity": "major",
+      "category": "clarity",
+      "status": "fixed",
+      "file": "08_chapters/02.md",
+      "line": 0,
+      "description": "\"Unable to verify\" boilerplate in Better Than Nothing warning replaced: all guides place Rocks only in the caves under the snow-field holes, so fall into a hole on purpose if needed. Chapter 1 Mike Yes/No boilerplate replaced with player-facing text."
     }
   ]
 }

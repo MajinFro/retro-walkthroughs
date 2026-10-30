@@ -1,40 +1,36 @@
-ra-comments#9 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#10 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#11 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#12 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#13 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#14 RA server log only (demotion, promotion, edit, description edit, type change): no gameplay info
-ra-comments#15 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#16 RA server log only (demotion, promotion, edit, badge change): no gameplay info
-ra-comments#25 server log and description only: no gameplay info
-ra-comments#27 server log and description only: no gameplay info
-ra-comments#28 server log and description only: no gameplay info
-ra-comments#29 server log and description only: no gameplay info
-ra-comments#30 server log and description only: no gameplay info
-ra-comments#31 server log and description only: no gameplay info
-ra-comments#32 server log and description only: no gameplay info
-ra-comments#17 server edit/promotion log and description line only; no gameplay info
-ra-comments#18 server edit/promotion log and description line only; no gameplay info
-ra-comments#20 server edit/promotion log and description line only; no gameplay info
-ra-comments#21 server edit/promotion log and description line only; no gameplay info
-ra-comments#22 server edit/promotion log and description line only; no gameplay info
-ra-comments#23 server edit/promotion log and description line only; no gameplay info
-ra-comments#24 server edit/promotion log and description line only; no gameplay info
-ra-comments#2 server edit/promotion log only for achievement 36882; no gameplay info
-ra-comments#3 server edit/promotion log only for achievement 36883; no gameplay info
-ra-comments#4 server edit log and type metadata only for achievement 36884; no gameplay info
-ra-comments#7 server edit/promotion log only for achievement 36887; no gameplay info
-ra-comments#8 server edit/promotion log only for achievement 36888; no gameplay info
-gf2#42 author bio, contact information, and closing remarks; no gameplay information
-gf2#1 title block, author info, table of contents, and song recommendation: no gameplay information
-gf1#20 copyright notice and special thanks: no gameplay info
-gf3#1 title and spoiler warning only; no gameplay information
-gf3#2 secondary source: table of contents, version and story/control summary only
-gf3#3 secondary source: story/navigation only; no chests, puzzles, bosses or achievement content
-gf1#1 title logo and author/version header only: no gameplay information
-gf1#2 author progress log with release dates: no gameplay information
-gf3#44 secondary source: author thank-you and contact note, no gameplay info
-gf3#37 secondary source: story/navigation only
-gf3#40 secondary source: story/navigation only
-gf5#11 copyright notice, contact info, and credits only: no gameplay information
-gf4#1 copyright, disclaimer, version history, table of contents, and background plot of the original StarTropics (not StarTropics II walkthrough content)
+ra-comments#9 server log only: achievement 36889 demotion, edit, promotion and type change; no gameplay info
+ra-comments#10 server log only: achievement 36890 demotion, edit, promotion and badge edit; no gameplay info
+ra-comments#11 server log only: achievement 36891 edit, demotion, promotion and badge edit; no gameplay info
+ra-comments#12 server log only: achievement 36892 demotion, edit, promotion and badge edit; no gameplay info
+ra-comments#13 server log only: achievement 36893 demotion, edit, promotion and badge edit; no gameplay info
+ra-comments#14 server log only: achievement 36894 edit, demotion, promotion, type change and description edit; no gameplay info
+ra-comments#15 server log only: achievement 36895 edit, demotion, promotion and badge edit; no gameplay info
+ra-comments#16 server log only: achievement 36896 demotion, edit, promotion and badge edit; no gameplay info
+ra-comments#25 server moderation log and achievement description only: no gameplay info
+ra-comments#27 server moderation log and achievement description only: no gameplay info
+ra-comments#28 server moderation log and achievement description only: no gameplay info
+ra-comments#29 server moderation log and achievement description only: no gameplay info
+ra-comments#30 server moderation log and achievement description only: no gameplay info
+ra-comments#31 server moderation log and achievement description only: no gameplay info
+ra-comments#32 server moderation log and achievement description only: no gameplay info
+ra-comments#17 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#18 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#20 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#21 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#22 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#23 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#24 server log only: edits, promotions and demotions; no gameplay info
+ra-comments#2 achievement 36882 header, description line and server log messages only: no gameplay info
+ra-comments#3 achievement 36883 header, description line and server log messages only: no gameplay info
+ra-comments#4 achievement 36884 header, description line and server log messages only: no gameplay info
+ra-comments#7 achievement 36887 header, description line and server log messages only: no gameplay info
+ra-comments#8 achievement 36888 header, description line and server log messages only: no gameplay info
+gf1#1 introductory text, author preface, and spoiler warning
+gf1#44 author notes and contact info
+gf2#1 table of contents, author contact info, and introductory preface
+gf2#2 author preface and high-level storyline background without actionable gameplay info
+gf2#42 author notes, contact info, and guide conclusion: no gameplay info
+gf3#1 title banner, author metadata, and version info
+gf3#2 progress history and author notes
+gf4#1 disclaimer, revision history, table of contents, author background, and StarTropics 1 plot summary
+gf3#20 copyright and acknowledgements / non-game text

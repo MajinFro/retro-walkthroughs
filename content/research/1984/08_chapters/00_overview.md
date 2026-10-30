@@ -1,99 +1,70 @@
-## StarTropics II: Zoda's Revenge: Game Overview
+### Game Premise
 
-### What this game is
+StarTropics II: Zoda's Revenge is an NES action-adventure in which Mike Jones travels through time. Chapters take him from a prelude to the Ice Age, Cleopatra's Egypt, Holmes's London, the Wild West, Leonardo's Italy, Dracula's Transylvania and King Arthur's Camelot, then back to C-Island. A character named Hirocon leaves a riddle, "Was it a cat I saw? Was it a rat I saw?", which Dr. Jones works out in the Prelude [[gf5-1-1]]. Later, Merlin of Camelot explains Hiricon and says the tetrads were spread throughout time and must be put back together [[gf1-34-4]]. Tetrads are the quest items you collect, and each one also increases your life meter [[gf3-5-7]].
 
-StarTropics II: Zoda's Revenge is a Nintendo action-adventure for the NES/Famicom, released in 1994. The RetroAchievements set has **31 achievements worth 285 points**.
+### The 100% Plan in Plain Language
 
-Mike Jones travels through time using the Oxford World Wonders book. At the end of each chapter he turns the page, says the magic words, and is sent to the next era. The words are "Paa Paa Paa Oom Maw Maw" [[gf5-3-10]]. Each jump is a "slip to another time and space" [[gf5-6-6]].
+This set has 31 achievements worth 285 points, and one playthrough covers all of them. Play the chapters in order and take everything on the first pass.
 
-The goal is to recover the Tetrads, which are the legacy of the Argonians. Mica tells Mike that her father Hirocon wanted him to find them [[gf4-3-11]]. A Tetrad waits at the end of every chapter, and the game says to collect them all [[gf3-41-3]]. Each one raises Mike's life level [[gf5-7-14]].
+- Chapter 1: Prelude has no achievements.
+- The other eight chapters hold all of them, so each chapter walkthrough tells you exactly where each achievement unlocks.
+- You can replay any earlier chapter from the File Select screen, so a chapter-specific achievement you miss can still be earned later [[ra-comments-1-1]].
+- Even so, follow the full route the first time and avoid depending on a replay.
 
-Zoda keeps interfering. In one chapter he grabs the Tetrad and challenges Mike again [[gf4-9-1]]. Later he sends Mike to Translavania, where a vampire will hunt him [[gf4-9-5]]. The finale is a rematch with the earlier bosses, which are the same as before but faster [[gf2-36-2]]. The Zoda form that turns you into a boar is in that final stretch [[gf2-36-9]].
+### Hardcore Mode
 
-### The two screens
+Play with Hardcore Mode on. That turns off the emulator's save states, rewinds and cheats, so use only the game's own save and File Select features. The game has no difficulty setting that affects the achievements.
 
-The game alternates between two modes.
+### Two Ways to Move
 
-**Travel screen.** This is used on world maps, in towns, and anywhere you can talk to someone. There are no enemies and you cannot attack [[gf1-3-12, gf1-3-13]].
-- The D-pad moves Mike.
-- A starts a conversation or inspects something [[gf1-4-2]].
-- B cancels a conversation [[gf1-4-1]].
-- Select shows which chapter you are in [[gf1-4-3]].
+The game has two views. The overworld (travel) view is a high-up map where you cannot be attacked [[gf1-2-1]]. On the travel screen there are no enemies and you cannot attack [[gf3-3-1]]. The dungeon view is a closer view where combat happens [[gf1-2-1]].
 
-**Action screen.** This starts when Mike enters a dungeon [[gf1-4-4]].
-- The D-pad moves Mike [[gf1-4-13]].
-- B attacks [[gf1-4-14]] and A jumps [[gf1-4-15]].
-- Select cycles through your weapons or the next inventory item [[gf1-4-16, gf2-3-3]].
-- Start pauses [[gf1-4-17]].
-- While paused, A uses the item you have selected [[gf1-4-15]].
-- The two guides disagree on the pause menu: one says to press up to see Magic Items [[gf1-5-2]], the other says to press down and then use left and right [[gf2-3-6]]. If one direction does nothing, try the other.
+| View | Control | Action | Citation |
+|---|---|---|---|
+| Overworld / travel | D-Pad | Move up, down, left and right | [[gf1-2-2]] |
+| Overworld / travel | A Button | Talk or acquire things (starts a conversation or inspects) | [[gf1-2-2, gf3-4-1]] |
+| Overworld / travel | B Button | Cancels a conversation (the other guide says it has no use) | [[gf3-4-1, gf1-2-2]] |
+| Overworld / travel | Select | Shows what chapter you are in | [[gf3-4-1]] |
+| Dungeon | D-Pad | Move, including diagonally | [[gf1-2-3]] |
+| Dungeon | A Button | Jump | [[gf1-2-3]] |
+| Dungeon | B Button | Use the current weapon | [[gf1-2-3]] |
+| Dungeon | Select | Switch weapon | [[gf1-2-3]] |
+| Dungeon | Start | Pause | [[gf1-2-3]] |
 
-### Movement and jumping
+### Core Mechanics
 
-- You can now jump diagonally, which the guides call a big improvement [[gf2-3-7, ra-comments-1-1]]. You can also jump to the side without having to land on another platform [[gf1-4-6]].
-- Mike takes about half a second to turn after you press the button [[gf2-6-3]].
-- Diagonal jumps let you turn in midair, so it is easy to land in water or somewhere you did not intend [[gf2-6-4]].
-- Mike can only jump one space at a time. Two-tile jumps need a special item [[gf2-6-6, gf2-6-7]].
-- In some places, jumping straight forward is safer. In the spike-strip rooms of the Chapter 7 cellar, jump forward rather than straight up or to the side [[gf4-8-5]]. Another guide says to keep to a straight line and not sway at all [[gf2-31-24]].
-- Several traps are instant death. Rolling boulders kill you [[gf2-30-11]]. Touching the Gold Cave miner kills you [[gf2-30-27]]. The Mining Cyclops kills you if you touch him [[gf3-24-15]]. The spikes in the Zoda-Y room also kill instantly [[gf2-40-3]].
+- **Diagonal movement and shooting:** Mike can move and shoot diagonally, which can make killing enemies a lot easier if you aim right [[gf2-24-2]]. A commenter found this a big improvement over the first game [[ra-comments-1-2]].
+- **Turning and jumping:** It takes Mike about half a second to turn when you push the button [[gf2-6-2]]. He can only jump one space at a time unless you have the special item that allows two-tile jumps [[gf2-6-3]].
+- **Magic items:** Pause, press Up (or Down, per the other guide) to see your Magic Items, then use left and right to choose one [[gf3-5-1, gf2-3-6]]. In Chapter 3 those are the medicine and the Invincibility Star [[gf3-5-1]].
+- **Rooms and switches:** To go on to the next room you usually have to complete a task, normally defeating every enemy or stepping on a switch tile [[gf3-4-3]]. When you walk over a tile switch it lights up and makes a sound, a little ball appears, and the switch only activates once you pick up that ball [[gf3-4-4]].
+- **Try Your Luck signs:** A sign can take away or add lives, so treat it as a gamble [[gf2-12-1]].
+- **Life meter:** A Big Heart increases your number of hearts by one permanently [[gf1-41-7]].
 
-### How dungeon rooms work
+### Weapons
 
-To get into the next room, you usually have to complete a task. That is normally defeating every enemy in the room or stepping on a switch tile [[gf1-4-7, gf1-4-8]]. Switch tiles work in stages:
-1. Walk over the tile. It lights up and makes a sound [[gf1-4-9]].
-2. Jump on it. A little ball appears [[gf1-4-10]].
-3. Collect the ball to activate the switch [[gf1-4-11]].
+Weapons fall into three groups.
 
-Rooms often have many tiles, and only the right one works [[gf1-4-12]]. Other guides describe the same thing as a tile that reveals a question mark, which you then grab to open a door [[gf3-10-1, gf3-15-5]]. If a tile has a switch, take it. Otherwise kill the enemies [[gf1-13-30]].
+- **Main weapons** are given to you and have unlimited uses [[gf2-17-3]].
+- **Magic weapons** kill some enemies that normal weapons cannot and help destroy barriers. To use the most powerful magic weapon you have, you need half health [[gf2-17-4]].
+- **Secondary weapons** are only yours for a limited time and number of uses [[gf2-17-5]].
 
-If a room seems to have no exit, walk on every tile. Some of them hold secrets [[gf1-15-25, gf4-5-31]].
+The Psychic Shockwave family is required to progress and to destroy barriers.
 
-### Weapons and items
+- A monkey in an Egyptian savannah teaches you the Psychic Shockwave [[gf1-41-17]].
+- A donkey in the Wild West teaches the Super Psychic Shockwave [[gf1-41-18]].
+- Merlin in Camelot teaches the Ultra Psychic Shockwave, which needs at least 10 hearts [[gf1-41-19]].
 
-**Weapons.**
-- Your main weapons are permanent. Collected weapons are used up and disappear when you leave the dungeon [[gf1-5-24, gf2-17-3, gf2-17-6]].
-- Magic weapons kill some enemies that normal weapons cannot, and they help destroy barriers [[gf2-17-4]].
-- The Psychic Shockwave is needed to defeat certain enemies [[gf1-5-19]]. Chapter 3 teaches it to you, and it also breaks the barrier in the Great Pyramid [[gf4-4-19, gf1-8-19]].
-- The Super Psychic Shockwave needs 5 hearts to use [[gf1-5-21]]. The Ultra version needs 10 hearts [[gf1-5-23]].
-- Treat the pyramid guardians as shockwave-only enemies, because they are immune to the dagger [[gf3-15-7]]. Chest monsters should also be hit with the shockwave to avoid heavy damage [[gf1-11-24]].
+### The Shape Code (Remember This Early)
 
-**Stored items and healing.**
-- Stored items can be used whenever you want, but they vanish when you leave the dungeon [[gf1-5-1]].
-- Castle medicines cannot be carried from place to place, so use them just before exiting a cave [[gf4-8-18]].
-- Vitamin X restores energy up to 20. If your life meter is below 20, it slowly lowers the meter to its max [[gf1-5-8]].
+In the Ice Age, a man has drawn symbols on a cave wall. The order is Circle, Circle, Triangle, Square, Circle, Square, Triangle [[gf3-6-8]]. It is needed in Yum Yum's Cave later, where you must follow the exits in that order [[gf1-6-14, gf2-25-4]]. Write it down now.
 
-### Hardcore Mode and the 100% plan
+### Open Questions (Unconfirmed)
 
-The set is compatible with Hardcore Mode. There is no difficulty setting or password, and everything is earned in story order in a single save file. In Hardcore you cannot load emulator snapshots, rewind, or use cheats, so learn the hazards above before pushing deep into a dungeon.
+> [!WARNING]
+> **Achievement Trigger Warning: Jack of All Trades.** A commenter calls this achievement definitely missable [[ra-comments-5-1]]. In Chapter 3, Jack of All Trades offers you his bronze dagger in exchange for your axe; if you say yes you get the dagger, and talking to him again with the dagger offers the axe back [[gf5-3-7, gf5-3-8, gf4-4-2]]. Accept his trade (answer Yes) before delivering the pizza to Cleopatra, and never decline it. Two commenters say the achievement unlocked for them without Jack's trade, but the achievement names Jack as the source, so it is unconfirmed whether Cleopatra's dagger alone would count.
 
-**One playthrough is enough.** The game moves forward chapter by chapter. Every chapter ends when Mike takes its Tetrad and the Oxford World Wonders sends him to the next period. Collect each chapter's items before taking its Tetrad.
+- **What Do These Do? (Have 4 stars at once):** It is unconfirmed whether this counts the small stars dropped by enemies or the Invincibility Stars stored as Magic Items. Stars restore energy, with five of them healing one heart, and Invincibility Stars are stored items [[gf3-5-1]]. The route is to collect dropped small stars in the Chapter 3 savannah mini-dungeons until you hold four, without picking up a fifth. If the achievement has not unlocked by Chapter 5, keep both Invincibility Stars from the second Gold Cave unused in your Magic Items rather than spending them on the boss.
+- **Sharp Edge:** One commenter reported it not unlocking on RANes or RetroArch, and the achievement was edited and re-promoted afterwards. Take the dagger as routed. If it does not unlock, replay Chapter 3 from the File Select screen. It is unconfirmed whether the problem still occurs on current emulators.
 
-The achievements are spread across the chapters like this:
-
-| Chapter | Achievements |
-|---|---|
-| 1: Seattle | 0 |
-| 2: The Stone Age | 4 |
-| 3: Egypt | 9 |
-| 4: London | 3 |
-| 5: The Wild West | 7 |
-| 6: Italy | 3 |
-| 7: Transylvania | 2 |
-| 8: Camelot | 2 |
-| 9: Return to C-Island | 1 |
-
-Chapter 1 has no achievements. It is only the setup, and in it Dr. Jones and Mike work out that the cipher must be reversed [[gf5-2-1]].
-
-**The one mutual exclusion is the Chapter 3 dagger.**
-- Jack of All Trades offers Mike a bronze dagger trade [[gf5-3-13]].
-- Once Mike has a dagger, Jack offers his axe instead [[gf5-3-15]].
-- A commenter calls the Jack achievement "definitely a missable achievement" [[ra-comments-5-1]].
-- Another commenter reports getting the dagger from Cleopatra instead and still unlocking it [[ra-comments-5-2]].
-- Those reports disagree. The safe route is to talk to Jack, between the two palm trees north of the Egypt start, and take his dagger BEFORE Cleopatra trades hers [[gf5-3-12, gf5-3-14]].
-- Cleopatra only offers her dagger trade if you do not already have the bronze dagger [[gf5-5-2]]. On the safe route she simply sails you across, and Sharp Edge ("Obtain the Dagger") is expected to unlock with Jack's dagger instead (see Chapter 3).
-
-**Other things to remember.**
-- The gold nugget in Chapter 5 is lost at the start of the next chapter unless you sell it to Bob [[gf3-23-7]].
-- In the Chapter 7 castle, open the Room 13 chest, which holds the spike balls, before you go down the hole [[gf3-30-2]].
-
-Follow each chapter in order and use its closing checkpoint before taking the Tetrad. Each chapter also links the GameFAQs maps for its overworld and dungeons.
+> [!TIP]
+> **Before you start Chapter 1:** Check your emulator is in Hardcore Mode, write down the shape code above when you first meet it, and keep dagger, hearts and Magic Items in mind as you go. Each chapter walkthrough ends with a cumulative checkpoint and a checklist so you can confirm nothing was missed before moving on.
